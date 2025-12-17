@@ -29,7 +29,7 @@ c) Aufgaben nach § 3 Absatz 7 Nummer 3 des Zollfahndungsdienstgesetzes wahrnimm
 
 7. die Zentrale Stelle für Informationstechnik im Sicherheitsbereich, soweit sie die in § 2 des Erlasses über die Errichtung der Zentralen Stelle für Informationstechnik im Sicherheitsbereich vom 6. April 2017 (GMBl S. 274) genannten Aufgaben zur Unterstützung und Beratung der Nachrichtendienste des Bundes wahrnimmt;
 
-8. das Bundesamt für Sicherheit in der Informationstechnik, soweit es seine Aufgaben nach § 3 Absatz 1 Satz 2 Nummer 1, Nummer 13 Satz 1 Buchstabe b und c, Nummer 15 und Nummer 18 des BSI-Gesetzes wahrnimmt.
+8. das Bundesamt für Sicherheit in der Informationstechnik, soweit es seine Aufgaben nach § 3 Absatz 1 Satz 2 Nummer 1, 18 Buchstabe b und c, Nummer 22 und 25 des BSI-Gesetzes wahrnimmt.
 
 # § 2 – Deutscher Bundestag
 

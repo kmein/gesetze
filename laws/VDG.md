@@ -29,7 +29,7 @@ b) Bewahrung von diese Dienste betreffenden elektronischen Signaturen, Siegeln o
 
 3. die Erstellung technischer Vorgaben und die Bewertung technischer Standards für den Einsatz von Vertrauensdiensten in Digitalisierungsvorhaben nach Maßgabe der entsprechenden Fachgesetze.
 
-(3) Das Bundesamt für Sicherheit in der Informationstechnik ist die für die Informationssicherheit zuständige nationale Stelle im Sinne von Artikel 19 Absatz 2 der Verordnung (EU) Nr. 910/2014.
+(3) (weggefallen)
 
 # § 3 – Verfahren über eine einheitliche Stelle
 

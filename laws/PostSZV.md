@@ -7,6 +7,6 @@ Auf Grund des § 10 Abs. 2 des Postpersonalrechtsgesetzes vom 14. September 1994
 
 # § 1 – Monatliche Sonderzahlung
 
-Die bei der Deutschen Post AG beschäftigten Beamtinnen und Beamten mit Dienstbezügen erhalten bis einschließlich Dezember 2024 eine monatliche Sonderzahlung in Höhe von 4 Prozent der Dienstbezüge nach § 78 Absatz 1 des Bundesbesoldungsgesetzes. Beamtinnen und Beamte der Besoldungsgruppe A 2 bis A 8 erhalten zusätzlich eine monatliche Sonderzahlung in Höhe von 10,42 Euro. § 6 Absatz 1 und § 72a Absatz 1 des Bundesbesoldungsgesetzes gelten entsprechend.
+Die bei der Deutschen Post AG beschäftigten Beamtinnen und Beamten mit Dienstbezügen erhalten bis einschließlich Dezember 2026 eine monatliche Sonderzahlung in Höhe von 4 Prozent der Dienstbezüge nach § 78 Absatz 1 des Bundesbesoldungsgesetzes. Beamtinnen und Beamte der Besoldungsgruppe A 2 bis A 8 erhalten zusätzlich eine monatliche Sonderzahlung in Höhe von 10,42 Euro. § 6 Absatz 1 und § 72a Absatz 1 des Bundesbesoldungsgesetzes gelten entsprechend.
 
 # § 2 – (weggefallen)

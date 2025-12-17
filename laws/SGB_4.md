@@ -1093,8 +1093,6 @@ a) die Beförderung adressierter Pakete mit einem Einzelgewicht von bis zu 32 Ki
 
 b) die stationäre Bearbeitung von adressierten Paketen bis zu 32 Kilogramm mit Ausnahme der Bearbeitung im Filialbereich.
 
-(3h) Die Bundesregierung berichtet unter Beteiligung des Normenkontrollrates zum 31. Dezember 2023 über die Wirksamkeit und Reichweite der Haftung für Sozialversicherungsbeiträge für die Unternehmer im Speditions-, Transport- und damit verbundenen Logistikgewerbe, die im Bereich der Kurier-, Express- und Paketdienste tätig sind und einen anderen Unternehmer mit der Beförderung von Paketen beauftragen, insbesondere über die Haftungsfreistellung nach Absatz 3b und Absatz 3f Satz 1.
-
 (4) Die Haftung umfasst die Beiträge und Säumniszuschläge, die infolge der Pflichtverletzung zu zahlen sind, sowie die Zinsen für gestundete Beiträge (Beitragsansprüche).
 
 (5) Die Satzung der Einzugsstelle kann bestimmen, unter welchen Voraussetzungen vom Arbeitgeber Vorschüsse auf den Gesamtsozialversicherungsbeitrag verlangt werden können.

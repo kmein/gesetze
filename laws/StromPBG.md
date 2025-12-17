@@ -886,7 +886,7 @@ Die Übertragungsnetzbetreiber haben gegen die Bundesrepublik Deutschland einen 
 
 # § 26 – Kontoführung
 
-(1) Die Übertragungsnetzbetreiber müssen jeweils ein separates Bankkonto für die Aufgaben nach diesem Gesetz führen. Sämtliche zahlungswirksamen Einnahmen und Ausgaben nach diesem Gesetz sind über dieses Konto abzuwickeln. Die Übertragungsnetzbetreiber müssen über das Konto nach Satz 1 auch den Zuschuss zur anteiligen Finanzierung der Übertragungsnetzkosten nach den §§ 24b und 24c des Energiewirtschaftsgesetzes abwickeln.
+(1) Die Übertragungsnetzbetreiber müssen jeweils ein separates Bankkonto für die Aufgaben nach diesem Gesetz führen. Sämtliche zahlungswirksamen Einnahmen und Ausgaben nach diesem Gesetz sind über dieses Konto abzuwickeln. Die Übertragungsnetzbetreiber müssen über das Konto nach Satz 1 auch den Zuschuss zur anteiligen Finanzierung der Übertragungsnetzkosten nach § 24b des Energiewirtschaftsgesetzes abwickeln.
 
 (2) Die Verteilernetzbetreiber müssen ein separates Konto für die Aufgaben nach diesem Gesetz führen. Absatz 1 Satz 2 ist entsprechend anzuwenden.
 
@@ -896,7 +896,7 @@ Die Übertragungsnetzbetreiber haben gegen die Bundesrepublik Deutschland einen 
 
 (2) Netzbetreiber dürfen die Einnahmen nach diesem Gesetz nur für die Aufgaben nach diesem Gesetz verwenden. Die Übertragungsnetzbetreiber dürfen die Einnahmen nach diesem Gesetz ferner zum Ausgleich der ihnen durch die Umsetzung dieser Aufgaben entstandenen Kosten verwenden; dabei ist § 22 Absatz 2 entsprechend anzuwenden.
 
-(3) Abweichend von Absatz 2 dürfen die Übertragungsnetzbetreiber die Einnahmen nach diesem Gesetz auch für die Finanzierung des Zuschusses zur anteiligen Finanzierung der Übertragungsnetzkosten nach Maßgabe der §§ 24b und 24c des Energiewirtschaftsgesetzes verwenden. Die Verwendung von Einnahmen nach diesem Gesetz für die monatlichen Zahlungen nach § 24b Absatz 1 Satz 3 des Energiewirtschaftsgesetzes ist vorrangig gegenüber anderen Verwendungen.
+(3) Abweichend von Absatz 2 dürfen die Übertragungsnetzbetreiber die Einnahmen nach diesem Gesetz auch für die Finanzierung des Zuschusses zur anteiligen Finanzierung der Übertragungsnetzkosten nach Maßgabe des § 24b des Energiewirtschaftsgesetzes verwenden. Die Verwendung von Einnahmen nach diesem Gesetz für die monatlichen Zahlungen nach § 24b Absatz 1 Satz 3 des Energiewirtschaftsgesetzes ist vorrangig gegenüber anderen Verwendungen.
 
 (4) Abweichend von Absatz 2 dürfen Einnahmen nach diesem Gesetz ferner für Entlastungsmaßnahmen oder vergleichbare Maßnahmen in einem anderen Mitgliedstaat der Europäischen Union verwendet werden, der von Stromimporten aus dem Bundesgebiet im Sinn des Artikels 11 Absatz 1 der Verordnung (EU) 2022/1854 abhängig ist. Die Bundesregierung wird ermächtigt, mit diesem Mitgliedstaat nach Artikel 11 der Verordnung (EU) 2022/1854 die Höhe der hierfür zu verwendenden Einnahmen und die Art und Weise der Verwendung zu vereinbaren. Die Übertragungsnetzbetreiber sind berechtigt und verpflichtet, Einnahmen nach diesem Gesetz nach Maßgabe dieser Vereinbarung oder der Verordnung nach § 48 Absatz 1 Nummer 4 zu verwenden.
 

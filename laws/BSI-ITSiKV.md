@@ -5,6 +5,8 @@
 
 Auf Grund des § 10 Absatz 3 des BSI-Gesetzes vom 14. August 2009 (BGBl. I S. 2821), der durch Artikel 1 Nummer 21 des Gesetzes vom 18. Mai 2021 (BGBl. I S. 1122) eingefügt worden ist, verordnet das Bundesministerium des Innern, für Bau und Heimat im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz und dem Bundesministerium für Wirtschaft und Energie:
 
+(+++ Änderung durch Art. 9 Nr. 1 G v. 5.12.2025 I Nr. 301 nicht ausführbar, da Eingangsformeln von Verordnungen nachträglich nicht geändert werden können (Handbuch der Rechtsförmlichkeit 4. Aufl. Rn. 634)+++)
+
 # § 1 – Anwendungsbereich
 
 Diese Verordnung regelt die Gestaltung und Verwendung des IT-Sicherheitskennzeichens im Sinne des § 9c Absatz 1 Satz 1 des BSI-Gesetzes und legt das Verwaltungsverfahren zur Sicherstellung der Anforderungen im Zusammenhang mit der Verwendung des Kennzeichens fest.
@@ -27,7 +29,7 @@ die Unternehmen und Organisationen und ihre Verbände, die für den jeweiligen W
 
 4. branchenabgestimmte IT-Sicherheitsvorgabe
 
-ein Anforderungskatalog, der von einer Branche erstellt und gepflegt wird und dessen Geeignetheit das Bundesamt nach § 9c Absatz 3 Satz 1 des BSI-Gesetzes festgestellt hat;
+ein Anforderungskatalog, der von einer Branche erstellt und gepflegt wird und dessen Geeignetheit das Bundesamt nach § 55 Absatz 3 Satz 1 des BSI-Gesetzes festgestellt hat;
 
 5. geeignete und qualifizierte Dritte
 
@@ -51,7 +53,7 @@ die physische oder elektronische Kennzeichnung am Produkt oder seiner Umverpacku
 
 # § 3 – Gestaltung des Etiketts und der Internetseite zum IT-Sicherheitskennzeichen
 
-(1) Das IT-Sicherheitskennzeichen besteht aus der Herstellererklärung und der Sicherheitsinformation nach § 9c Absatz 2 des BSI-Gesetzes, auf die beide auf dem Etikett verwiesen wird. Das Etikett versetzt den Verbraucher in die Lage, sich ohne erhebliche Hürden mittels gängiger technischer Hilfsmittel über die Art und Aussage der Herstellererklärung gegenüber den Vorgaben des Bundesamtes, die eventuell zur Verfügung stehenden aktuellen Sicherheitsinformationen und die Laufzeit des Kennzeichens zu informieren.
+(1) Das IT-Sicherheitskennzeichen besteht aus der Herstellererklärung und der Sicherheitsinformation nach § 55 Absatz 2 des BSI-Gesetzes, auf die beide auf dem Etikett verwiesen wird. Das Etikett versetzt den Verbraucher in die Lage, sich ohne erhebliche Hürden mittels gängiger technischer Hilfsmittel über die Art und Aussage der Herstellererklärung gegenüber den Vorgaben des Bundesamtes, die eventuell zur Verfügung stehenden aktuellen Sicherheitsinformationen und die Laufzeit des Kennzeichens zu informieren.
 
 (2) Das Etikett hat dafür jedenfalls zwingend zu umfassen:
 
@@ -81,13 +83,13 @@ die physische oder elektronische Kennzeichnung am Produkt oder seiner Umverpacku
 
 (3) Ist für ein Produkt eine geeignete branchenabgestimmte IT-Sicherheitsvorgabe nach § 10 einschlägig, sind für die Plausibilitätsprüfung die Vorgaben dieses Standards ausschlaggebend.
 
-(4) Liegen die gesetzlichen Voraussetzungen gemäß § 9c Absatz 5 BSIG vor, erteilt das Bundesamt die Freigabe zur Nutzung des IT-Sicherheitskennzeichens.
+(4) Liegen die gesetzlichen Voraussetzungen gemäß § 55 Absatz 5 des BSI-Gesetzes vor, erteilt das Bundesamt die Freigabe zur Nutzung des IT-Sicherheitskennzeichens.
 
 (5) Das Bundesamt kann den Antrag ablehnen, wenn Hinweise dafür vorliegen, dass
 
 1. das Produkt oder die mit dem Produkt ausgelieferte Software bekannte Sicherheitslücken enthält oder
 
-2. Produkte des Herstellers bereits Gegenstand einer Warnung oder Information nach den §§ 7 oder 7a des BSI-Gesetzes oder von Maßnahmen nach § 9c Absatz 8 des BSI-Gesetzes betroffen waren.
+2. Produkte des Herstellers bereits Gegenstand einer Warnung oder Information nach den § 13 oder 14 des BSI-Gesetzes oder von Maßnahmen nach § 55 Absatz 8 des BSI-Gesetzes betroffen waren.
 
 Das Bundesamt kann die Freigabe der Nutzung auch dann verweigern, wenn der Freigabe unabhängig von den eingereichten Unterlagen ernstliche Zweifel an der Herstellererklärung entgegenstehen.
 
@@ -95,7 +97,7 @@ Das Bundesamt kann die Freigabe der Nutzung auch dann verweigern, wenn der Freig
 
 # § 6 – Vereinfachtes Verfahren
 
-(1) Das Bundesamt kann auf die Plausibilitätsprüfung verzichten, wenn das Bundesamt für das Produkt ein Zertifikat nach § 9 des BSI-Gesetzes auf Grundlage des gleichen Prüfstandards erteilt hat.
+(1) Das Bundesamt kann auf die Plausibilitätsprüfung verzichten, wenn das Bundesamt für das Produkt ein Zertifikat nach § 52 des BSI-Gesetzes auf Grundlage des gleichen Prüfstandards erteilt hat.
 
 (2) Ist für ein Produkt bereits ein ausländisches staatliches Kennzeichen auf Grundlage des gleichen oder eines vergleichbaren Prüfstandards und auf Grundlage der gleichen oder vergleichbarer Prüfspezifikationen vergeben worden, kann das Bundesamt den Antrag unter Vorlage dieses Kennzeichens und der zugrunde liegenden Unterlagen in deutscher oder englischer Sprache prüfen. Das Bundesamt legt in einem Kriterienkatalog fest, unter welchen Voraussetzungen ein Prüfstandard eines anderen Kennzeichens mit solchen nach dieser Verordnung vergleichbar ist und veröffentlicht diesen auf seiner Internetseite.
 
@@ -105,7 +107,7 @@ Das Bundesamt kann die Freigabe der Nutzung auch dann verweigern, wenn der Freig
 
 (2) Das Bundesamt informiert auf seiner Internetseite über die Änderung oder Aufhebung der für die einschlägige Produktkategorie geltenden IT-Sicherheitsanforderungen, Technischen Richtlinien oder die Ungeeignetheit von branchenabgestimmten IT-Sicherheitsvorgaben.
 
-(3) Bedient sich der Antragsteller zur Antragstellung oder zur Erfüllung seiner Pflichten aus § 9c des BSI-Gesetzes oder dieser Rechtsverordnung eines Dritten, werden ihm die Handlungen des Dritten wie eigene zugerechnet.
+(3) Bedient sich der Antragsteller zur Antragstellung oder zur Erfüllung seiner Pflichten aus § 55 des BSI-Gesetzes oder dieser Rechtsverordnung eines Dritten, werden ihm die Handlungen des Dritten wie eigene zugerechnet.
 
 # § 8 – Laufzeit des IT-Sicherheitskennzeichens und Erlöschen
 
@@ -121,7 +123,7 @@ Das Bundesamt kann die Freigabe der Nutzung auch dann verweigern, wenn der Freig
 
 # § 9 – Verwendung des Sicherheitskennzeichens
 
-(1) Das produktspezifische Etikett darf in physischer und elektronischer Ausführung für die Dauer der Freigabe nach den Vorgaben des § 9c des BSI-Gesetzes und dieser Rechtsverordnung verwendet werden. Das Bundesamt legt die grafische Gestaltung des Sicherheitskennzeichens sowie des Etiketts fest und veröffentlicht diese auf seiner Internetseite. Hersteller dürfen gemäß ihrer Freigabe keine von diesen Vorgaben abweichende Gestaltung verwenden.
+(1) Das produktspezifische Etikett darf in physischer und elektronischer Ausführung für die Dauer der Freigabe nach den Vorgaben des § 55 des BSI-Gesetzes und dieser Rechtsverordnung verwendet werden. Das Bundesamt legt die grafische Gestaltung des Sicherheitskennzeichens sowie des Etiketts fest und veröffentlicht diese auf seiner Internetseite. Hersteller dürfen gemäß ihrer Freigabe keine von diesen Vorgaben abweichende Gestaltung verwenden.
 
 (2) Mit der Freigabe stellt das Bundesamt dem Hersteller das produktspezifische Etikett zur Verfügung. Das Etikett darf nach der Freigabe auf Produkten oder deren Umverpackungen vom Hersteller angebracht werden.
 
@@ -161,11 +163,11 @@ Das Bundesamt kann die Freigabe der Nutzung auch dann verweigern, wenn der Freig
 
 # § 13 – Informationen für Verbraucher
 
-Verbraucherinformationen zu Produkten mit der Freigabe zur Nutzung des IT-Sicherheitskennzeichens werden in der Sicherheitsinformation nach § 9c Absatz 2 des BSI-Gesetzes auf der Internetseite des Bundesamtes veröffentlicht. Davon unberührt bleiben die Bestimmungen der §§ 7 und 7a des BSI-Gesetzes.
+Verbraucherinformationen zu Produkten mit der Freigabe zur Nutzung des IT-Sicherheitskennzeichens werden in der Sicherheitsinformation nach § 55 Absatz 2 des BSI-Gesetzes auf der Internetseite des Bundesamtes veröffentlicht. Davon unberührt bleiben die Bestimmungen der § 13 oder 14 des BSI-Gesetzes.
 
 # § 14 – Evaluierung
 
-Drei Jahre nach Inkrafttreten dieser Rechtsverordnung und folgend alle drei Jahre sind unter Beteiligung der in § 10 Absatz 3 Satz 1 des BSI-Gesetzes genannten Ressorts zu evaluieren:
+Drei Jahre nach Inkrafttreten dieser Rechtsverordnung und folgend alle drei Jahre sind unter Beteiligung der in § 56 Absatz 2 des BSI-Gesetzes genannten Ressorts zu evaluieren:
 
 1. die Produktkategorien;
 

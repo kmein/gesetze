@@ -454,7 +454,7 @@ Die Technischen Richtlinien haben darüber hinaus die Betriebsprozesse vorzugebe
 
 (1) Zum Nachweis der Erfüllung der sicherheitstechnischen Anforderungen nach § 22 Absatz 1 und 2 müssen Smart-Meter-Gateways im Rahmen des Zertifizierungsverfahrens nach den Common Criteria durch das Bundesamt für Sicherheit in der Informationstechnik zertifiziert werden. Hersteller von Smart-Meter-Gateways haben die Zertifikate dem Smart-Meter-Gateway-Administrator vorzulegen. Der Zeitpunkt der Nachweispflicht zur Interoperabilität wird durch das Bundesamt für Sicherheit in der Informationstechnik festgelegt und nach § 27 im Ausschuss Gateway-Standardisierung bekannt gemacht. Hersteller von Smart-Meter-Gateways haben zu diesem Zeitpunkt die Zertifikate zur Konformität nach den Technischen Richtlinien dem Smart-Meter-Gateway-Administrator vorzulegen.
 
-(2) Für die Zertifizierung sind § 9 des BSI-Gesetzes vom 14. August 2009 (BGBl. I S. 2821) sowie die BSI-Zertifizierungs- und Anerkennungsverordnung vom 17. Dezember 2014 (BGBl. I S. 2231) in der jeweils geltenden Fassung anzuwenden.
+(2) Für die Zertifizierung sind § 52 des BSI-Gesetzes vom 2. Dezember 2025 (BGBl. I 2025 Nr. 301, S. 2) in der jeweils geltenden Fassung sowie die BSI-Zertifizierungs- und Anerkennungsverordnung vom 17. Dezember 2014 (BGBl. I S. 2231) in der jeweils geltenden Fassung anzuwenden.
 
 (3) Das Bundesamt für Sicherheit in der Informationstechnik hat die Möglichkeit, Zertifikate nach Absatz 1 zeitlich zu befristen, zu beschränken und mit Auflagen zu versehen. Zertifikate ohne technologisch begründete zeitliche Befristung unterliegen einer kontinuierlichen Überwachung der Gültigkeit durch die ausstellende Stelle. Weitergehende Befugnisse nach Absatz 2 bleiben unberührt.
 

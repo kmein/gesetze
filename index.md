@@ -150,6 +150,7 @@
 - [ALBeitrBek 2023](laws/ALBeitrBek_2023.md) Bekanntmachung der Beiträge in der Alterssicherung der Landwirte für das Jahr 2023
 - [ALBeitrBek 2024](laws/ALBeitrBek_2024.md) Bekanntmachung der Beiträge in der Alterssicherung der Landwirte für das Jahr 2024
 - [ALBeitrBek 2025](laws/ALBeitrBek_2025.md) Bekanntmachung des Beitrags in der Alterssicherung der Landwirte für das Jahr 2025
+- [ALBeitrBek 2026](laws/ALBeitrBek_2026.md) Bekanntmachung des Beitrags in der Alterssicherung der Landwirte für das Jahr 2026
 - [ALG](laws/ALG.md) Gesetz über die Alterssicherung der Landwirte
 - [AlkopopStG](laws/AlkopopStG.md) Gesetz über die Erhebung einer Sondersteuer auf alkoholhaltige Süßgetränke (Alkopops) zum Schutz junger Menschen
 - [AlkopopStV](laws/AlkopopStV.md) Verordnung über das Verfahren zur Berechnung des Netto-Mehraufkommens der nach dem Alkopopsteuergesetz erhobenen Alkopopsteuer
@@ -1208,8 +1209,8 @@
 - [BSHG§76DV](laws/BSHG§76DV.md) Verordnung zur Durchführung des § 82 des Zwölften Buches Sozialgesetzbuch
 - [BSHG§88Abs2DV 1988](laws/BSHG§88Abs2DV_1988.md) Verordnung zur Durchführung des § 90 Abs. 2 Nr. 9 des Zwölften Buches Sozialgesetzbuch
 - [BSI-ITSiKV](laws/BSI-ITSiKV.md) Verordnung zum IT-Sicherheitskennzeichen des Bundesamtes für Sicherheit in der Informationstechnik
-- [BSI-KritisV](laws/BSI-KritisV.md) Verordnung zur Bestimmung Kritischer Infrastrukturen nach dem BSI-Gesetz
-- [BSIG](laws/BSIG.md) Gesetz über das Bundesamt für Sicherheit in der Informationstechnik
+- [BSI-KritisV](laws/BSI-KritisV.md) Verordnung zur Bestimmung kritischer Anlagen nach dem BSI-Gesetz
+- [BSIG](laws/BSIG.md) Gesetz über das Bundesamt für Sicherheit in der Informationstechnik und über die Sicherheit in der Informationstechnik von Einrichtungen
 - [BSIZertV](laws/BSIZertV.md) Verordnung über das Verfahren der Erteilung von Sicherheitszertifikaten und Anerkennungen durch das Bundesamt für Sicherheit in der Informationstechnik 1
 - [BStatG](laws/BStatG.md) Gesetz über die Statistik für Bundeszwecke
 - [BStrafAktFV](laws/BStrafAktFV.md) Verordnung über die technischen und organisatorischen Rahmenbedingungen für die elektronische Aktenführung im Strafverfahren
@@ -3677,6 +3678,7 @@
 - [MarshallplAbkG](laws/MarshallplAbkG.md) Gesetz betreffend das Abkommen über Wirtschaftliche Zusammenarbeit zwischen den Vereinigten Staaten von Amerika und der Bundesrepublik Deutschland vom 15. Dezember 1949
 - [MaSanV](laws/MaSanV.md) Verordnung zu den Mindestanforderungen an Sanierungspläne für Institute 1
 - [MaschFüAusbV](laws/MaschFüAusbV.md) Verordnung über die Berufsausbildung zum Maschinen- und Anlagenführer/zur Maschinen- und Anlagenführerin
+- [MaschinenDG](laws/MaschinenDG.md) Gesetz zur Durchführung der Verordnung (EU) 2023/1230
 - [MaschMahnVordrV](laws/MaschMahnVordrV.md) Verordnung zur Einführung von Vordrucken für das Mahnverfahren bei Gerichten, die das Verfahren maschinell bearbeiten
 - [MasernISchImpfAnsprV](laws/MasernISchImpfAnsprV.md) Verordnung zum Anspruch auf Schutzimpfung gegen Masern
 - [MaskAusbV](laws/MaskAusbV.md) Verordnung über die Berufsausbildung zum Maskenbildner/zur Maskenbildnerin
@@ -5660,6 +5662,7 @@
 - [TechKontrollV](laws/TechKontrollV.md) Verordnung über technische Kontrollen von Nutzfahrzeugen auf der Straße
 - [TEHG](laws/TEHG.md) Gesetz über den Handel mit Berechtigungen zur Emission von Treibhausgasen
 - [TeleFinV 2025](laws/TeleFinV_2025.md) Verordnung zur Anpassung des Betrags zur Finanzierung der Gesellschaft für Telematik für das Jahr 2025
+- [TeleFinV 2026](laws/TeleFinV_2026.md) Verordnung zur Anpassung des Betrags zur Finanzierung der Gesellschaft für Telematik für das Jahr 2026
 - [TeleGebV](laws/TeleGebV.md) Verordnung über die Erhebung von Gebühren und Auslagen für die Erteilung von Zulassungen und Bestätigungen durch die Gesellschaft für Telematik
 - [TelekAGSa](laws/TelekAGSa.md) Satzung der Deutsche Telekom AG (Anhang des Gesetzes zur Umwandlung der Unternehmen der Deutschen Bundespost in die Rechtsform der Aktiengesellschaft)
 - [TelekomAZV](laws/TelekomAZV.md) Verordnung über die Arbeitszeit der Beamtinnen und Beamten bei der Deutschen Telekom AG
@@ -6064,6 +6067,7 @@
 - [VersorgAusglUmrFaktorBek 2023](laws/VersorgAusglUmrFaktorBek_2023.md) Bekanntmachung der Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
 - [VersorgAusglUmrFaktorBek 2024](laws/VersorgAusglUmrFaktorBek_2024.md) Bekanntmachung der Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung im Jahr 2024
 - [VersorgAusglUmrFaktorBek 2025](laws/VersorgAusglUmrFaktorBek_2025.md) Bekanntmachung der Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung im Jahr 2025
+- [VersorgAusglUmrFaktorBek 2026](laws/VersorgAusglUmrFaktorBek_2026.md) Bekanntmachung der Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung im Jahr 2026
 - [VersorgLErstV](laws/VersorgLErstV.md) Verordnung über die pauschale Erstattung der Aufwendungen der Träger der Rentenversicherung aufgrund der Übernahme der Versorgungslast für frühere Beamte und vergleichbare Personengruppen im Beitrittsgebiet
 - [VersResAbV](laws/VersResAbV.md) Verordnung zur befristeten Ausweitung des Stromerzeugungsangebots durch Anlagen aus der Versorgungsreserve
 - [VersRücklG](laws/VersRücklG.md) Gesetz über eine Versorgungsrücklage des Bundes

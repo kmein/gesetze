@@ -19,7 +19,7 @@ Für diese Verordnung gelten neben den Begriffsbestimmungen des § 2 des Barrier
 
 2. Identifizierungsmethode: jede Methode zum Erheben von Angaben zum Zweck der Identifizierung und zur Überprüfung dieser Angaben zum Zweck der Identifizierung;
 
-3. Sicherheitsfunktion: jede Funktion zum Schutz der Sicherheit in der Informationstechnik im Sinne des § 2 Absatz 2 Satz 4 des BSI-Gesetzes vom 14. August 2009 (BGBl. I S. 2821), das zuletzt durch Artikel 12 des Gesetzes vom 23. Juni 2021 (BGBl. I S. 1982) geändert worden ist;
+3. Sicherheitsfunktion: jede Funktion zum Schutz der Sicherheit in der Informationstechnik im Sinne des § 2 Nummer 39 des BSI-Gesetzes vom 2. Dezember 2025 (BGBl. I 2025 Nr. 301, S. 2);
 
 4. Intelligente Ticketsysteme: Systeme im Sinne des § 2 Nummer 40 des Barrierefreiheitsstärkungsgesetzes sowie Systeme, in denen Reservierungen und Buchungen mithilfe eines Geräts mit interaktivem Leistungsumfang unter anderem online vorgenommen und dem Verbraucher elektronisch übermittelt werden, damit sie in Papierform ausgedruckt oder mithilfe eines Geräts mit interaktivem Leistungsumfang während der Fahrt angezeigt werden können.
 

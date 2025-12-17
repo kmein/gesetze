@@ -5,9 +5,11 @@
 
 Auf Grund des § 10 Absatz 1 des BSI-Gesetzes vom 14. August 2009 (BGBl. I S. 2821) verordnet das Bundesministerium des Innern nach Anhörung der betroffenen Wirtschaftsverbände im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie:
 
+(+++ Änderung durch Art. 7 Nr. 1 G v. 5.12.2025 I Nr. 301 nicht ausführbar, da Eingangsformeln von Verordnungen nachträglich nicht geändert werden können (Handbuch der Rechtsförmlichkeit 4. Aufl. Rn. 634)+++)
+
 # § 1 – Anwendungsbereich
 
-Das Bundesamt für Sicherheit in der Informationstechnik (Bundesamt) erteilt Zertifikate und Anerkennungen gemäß § 9 des BSI-Gesetzes nach dieser Verordnung.
+Das Bundesamt für Sicherheit in der Informationstechnik (Bundesamt) erteilt Zertifikate und Anerkennungen gemäß § 52 des BSI-Gesetzes nach dieser Verordnung.
 
 # § 2 – Antragsverfahren
 
@@ -130,7 +132,7 @@ und veröffentlicht diese auf seiner Internetseite.
 
 # § 12 – Zertifikat
 
-(1) Ein Zertifikat nach § 9 Absatz 4 des BSI-Gesetzes wird erteilt, wenn
+(1) Ein Zertifikat nach § 52 Absatz 4 des BSI-Gesetzes wird erteilt, wenn
 
 1. die Prüfung und die Bewertung ergeben, dass das geprüfte informationstechnische Produkt, die informationstechnische Komponente, das informationstechnische System oder das Schutzprofil die Prüfkriterien nach § 4 Absatz 1 erfüllt, und
 
@@ -196,11 +198,11 @@ Vom Antragsteller an das Bundesamt übergebene informationstechnische Produkte o
 
 # § 15 – Zertifikat
 
-(1) Ein Zertifikat für Personen nach § 9 Absatz 5 des BSI-Gesetzes wird erteilt, wenn
+(1) Ein Zertifikat für Personen nach § 52 Absatz 6 des BSI-Gesetzes wird erteilt, wenn
 
 1. die Prüfung und die Bewertung ergeben, dass die zu zertifizierende Person die Prüfkriterien nach § 4 Absatz 1 erfüllt, und
 
-2. das Bundesministerium des Innern, für Bau und Heimat nach § 9 Absatz 4 Nummer 2 des BSI-Gesetzes festgestellt hat, dass überwiegende öffentliche Interessen, insbesondere sicherheitspolitische Belange der Bundesrepublik Deutschland, der Erteilung nicht entgegenstehen.
+2. das Bundesministerium des Innern, für Bau und Heimat nach § 52 Absatz 4 Nummer 2 des BSI-Gesetzes festgestellt hat, dass überwiegende öffentliche Interessen, insbesondere sicherheitspolitische Belange der Bundesrepublik Deutschland, der Erteilung nicht entgegenstehen.
 
 (2) Das Zertifikat ist vom Bundesamt zu befristen. Das Bundesamt setzt die Geltungsdauer für den jeweiligen technischen Geltungsbereich fest.
 
@@ -248,11 +250,11 @@ Vom Antragsteller an das Bundesamt übergebene informationstechnische Produkte o
 
 # § 18 – Zertifikat
 
-(1) Ein Zertifikat als IT-Sicherheitsdienstleister nach § 9 Absatz 5 des BSI-Gesetzes wird erteilt, wenn
+(1) Ein Zertifikat als IT-Sicherheitsdienstleister nach § 52 Absatz 6 des BSI-Gesetzes wird erteilt, wenn
 
 1. die Prüfung und die Bewertung ergeben, dass der IT-Sicherheitsdienstleister die Prüfkriterien nach § 4 Absatz 1 erfüllt, und
 
-2. das Bundesministerium des Innern, für Bau und Heimat nach § 9 Absatz 4 Nummer 2 des BSI-Gesetzes festgestellt hat, dass überwiegende öffentliche Interessen, insbesondere sicherheitspolitische Belange der Bundesrepublik Deutschland, der Erteilung nicht entgegenstehen.
+2. das Bundesministerium des Innern, für Bau und Heimat nach § 52 Absatz 4 Nummer 2 des BSI-Gesetzes festgestellt hat, dass überwiegende öffentliche Interessen, insbesondere sicherheitspolitische Belange der Bundesrepublik Deutschland, der Erteilung nicht entgegenstehen.
 
 (2) Die Zertifizierung ist vom Bundesamt zu befristen. Das Bundesamt setzt die Geltungsdauer für den jeweiligen technischen Geltungsbereich fest.
 
@@ -302,11 +304,11 @@ Vom Antragsteller an das Bundesamt übergebene informationstechnische Produkte o
 
 # § 21 – Anerkennung
 
-(1) Eine Anerkennung nach § 9 Absatz 6 des BSI-Gesetzes wird erteilt, wenn
+(1) Eine Anerkennung nach § 52 Absatz 7 des BSI-Gesetzes wird erteilt, wenn
 
 1. die Prüfung und die Bewertung ergeben, dass die sachliche und personelle Ausstattung sowie die fachliche Qualifikation und Zuverlässigkeit der Konformitätsbewertungsstelle die Prüfkriterien nach § 4 Absatz 1 erfüllen, und
 
-2. das Bundesministerium des Innern, für Bau und Heimat nach § 9 Absatz 6 Nummer 2 des BSI-Gesetzes festgestellt hat, dass überwiegende öffentliche Interessen, insbesondere sicherheitspolitische Belange der Bundesrepublik Deutschland, der Erteilung nicht entgegenstehen.
+2. das Bundesministerium des Innern, für Bau und Heimat nach § 52 Absatz 7 Satz 1 Nummer 2 des BSI-Gesetzes festgestellt hat, dass überwiegende öffentliche Interessen, insbesondere sicherheitspolitische Belange der Bundesrepublik Deutschland, der Erteilung nicht entgegenstehen.
 
 (2) Die Anerkennung ist vom Bundesamt zu befristen. Das Bundesamt setzt die Geltungsdauer für den jeweiligen technischen Geltungsbereich fest.
 
@@ -326,7 +328,7 @@ Vom Antragsteller an das Bundesamt übergebene informationstechnische Produkte o
 
 7. Ausstellungsort und -datum der Anerkennungsurkunde.
 
-(4) Das Bundesamt überprüft regelmäßig nach § 9 Absatz 6 Satz 2 des BSI-Gesetzes, ob die Voraussetzungen für die Anerkennung nach Absatz 1 weiterhin vorliegen. Daneben kann auch jederzeit eine anlassbezogene Überprüfung stattfinden. Das Bundesamt entwickelt für diese Überprüfungen Verfahrensbeschreibungen und veröffentlicht diese auf seiner Internetseite.
+(4) Das Bundesamt überprüft regelmäßig nach § 52 Absatz 7 Satz 2 des BSI-Gesetzes, ob die Voraussetzungen für die Anerkennung nach Absatz 1 weiterhin vorliegen. Daneben kann auch jederzeit eine anlassbezogene Überprüfung stattfinden. Das Bundesamt entwickelt für diese Überprüfungen Verfahrensbeschreibungen und veröffentlicht diese auf seiner Internetseite.
 
 # § 22 – Nebenbestimmungen
 

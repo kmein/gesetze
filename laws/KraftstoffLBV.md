@@ -1052,7 +1052,7 @@ An
 <tr class="odd">
 <td colspan="2" rowspan="5" style="text-align: right;" data-valign="top" data-charoff="50"><table width="100%" style="border: none;">
 <colgroup>
-<col style="width: 1%" />
+<col style="width: 2%" />
 <col style="width: 50%" />
 <col style="width: 49%" />
 </colgroup>
@@ -1103,16 +1103,16 @@ An
 
 <table width="100%" style="border: none;">
 <colgroup>
-<col style="width: 0%" />
+<col style="width: 2%" />
 <col style="width: 12%" />
 <col style="width: 12%" />
 <col style="width: 2%" />
 <col style="width: 12%" />
 <col style="width: 2%" />
-<col style="width: 27%" />
+<col style="width: 26%" />
 <col style="width: 16%" />
 <col style="width: 16%" />
-<col style="width: 0%" />
+<col style="width: 2%" />
 </colgroup>
 <tbody data-valign="top">
 <tr class="odd">
@@ -1171,8 +1171,8 @@ Landwirte</td>
 <col style="width: 13%" />
 <col style="width: 12%" />
 <col style="width: 12%" />
-<col style="width: 27%" />
-<col style="width: 0%" />
+<col style="width: 26%" />
+<col style="width: 2%" />
 </colgroup>
 <tbody data-valign="top">
 <tr class="odd">
@@ -1241,7 +1241,7 @@ Ist der Halter der Fahrzeuge oder der Betreiber der Maschinen oder Motoren ein g
 (6)
 
 |     |                                                   |     |     |     |     |     |     |     |     |
-|:-|:---|:--------|:-----|:--------|:--------|:--------|:--------|:-----------------|:-|
+|:--|:---|:-------|:-----|:--------|:--------|:--------|:--------|:----------------|:--|
 |     |                                                   |     |     |     |     |     |     |     |     |
 |     | Nähere Bezeichnung des Unternehmens / der Branche |     |     |     |     |     |     |     |     |
 |     |                                                   |     |     |     |     |     |     |     |     |
@@ -1250,7 +1250,7 @@ Ist der Halter der Fahrzeuge oder der Betreiber der Maschinen oder Motoren ein g
 (7)
 
 |     |                                                                  |                                                                                                                                                                                                                                                                                                                              |     |     |     |                                                          |
-|:-|:-----------|:-----------|:-----------|:-----------|:--|:--------------------|
+|:--|:-----------|:-----------|:-----------|:-----------|:--|:--------------------|
 |     |                                                                  | Bitte beachten! Nur zulässig, wenn Antragsteller den Kraftstoffbedarf für die weiteren Versorgungsperioden bei der Antragstellung bereits absehen kann und nicht mit Veränderungen rechnet. Dennoch nach Antragstellung eintretende Veränderungen, die den geltendgemachten Bedarf vermindern, sind unverzüglich anzuzeigen. |     |     |     |                                                          |
 |     | Der Antrag wird gestellt für die Versorgungsperiode beginnend am |                                                                                                                                                                                                                                                                                                                              |     |     |     |                                                          |
 |     |                                                                  | Der Antrag soll auch für weitere Versorgungsperioden gelten, und zwar bis einschließlich Monat                                                                                                                                                                                                                               |     |     |     |                                                          |
@@ -1261,11 +1261,11 @@ Ist der Halter der Fahrzeuge oder der Betreiber der Maschinen oder Motoren ein g
 
 <table width="100%" style="border: none;">
 <colgroup>
-<col style="width: 0%" />
+<col style="width: 2%" />
 <col style="width: 16%" />
 <col style="width: 16%" />
-<col style="width: 17%" />
-<col style="width: 17%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
 <col style="width: 3%" />
 <col style="width: 30%" />
 </colgroup>
@@ -1348,16 +1348,16 @@ C ausfüllen)!</td>
 
 <table width="100%" style="border: none;">
 <colgroup>
-<col style="width: 0%" />
+<col style="width: 2%" />
 <col style="width: 11%" />
-<col style="width: 11%" />
+<col style="width: 10%" />
 <col style="width: 2%" />
 <col style="width: 12%" />
-<col style="width: 13%" />
+<col style="width: 12%" />
 <col style="width: 12%" />
 <col style="width: 19%" />
 <col style="width: 19%" />
-<col style="width: 0%" />
+<col style="width: 2%" />
 </colgroup>
 <tbody data-valign="top">
 <tr class="odd">
@@ -1518,16 +1518,16 @@ Ich versichere, die Angaben in diesem Antrag nach bestem Wissen und Gewissen gem
 
 <table width="100%" style="border: none;">
 <colgroup>
-<col style="width: 0%" />
+<col style="width: 2%" />
 <col style="width: 4%" />
-<col style="width: 12%" />
+<col style="width: 11%" />
 <col style="width: 7%" />
-<col style="width: 13%" />
+<col style="width: 12%" />
 <col style="width: 13%" />
 <col style="width: 12%" />
 <col style="width: 12%" />
-<col style="width: 27%" />
-<col style="width: 0%" />
+<col style="width: 26%" />
+<col style="width: 2%" />
 </colgroup>
 <tbody data-valign="top">
 <tr class="odd">
@@ -1668,15 +1668,15 @@ Nicht vom Antragsteller auszufüllen!</td>
 
 <table style="border: none;">
 <colgroup>
-<col style="width: 0%" />
+<col style="width: 2%" />
 <col style="width: 11%" />
 <col style="width: 11%" />
-<col style="width: 13%" />
+<col style="width: 12%" />
 <col style="width: 13%" />
 <col style="width: 12%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 0%" />
+<col style="width: 19%" />
+<col style="width: 19%" />
+<col style="width: 2%" />
 </colgroup>
 <tbody data-valign="top">
 <tr class="odd">
@@ -1790,15 +1790,15 @@ Nicht vom Antragsteller auszufüllen!</td>
 
 <table style="border: none;">
 <colgroup>
-<col style="width: 0%" />
+<col style="width: 2%" />
 <col style="width: 11%" />
 <col style="width: 11%" />
-<col style="width: 13%" />
+<col style="width: 12%" />
 <col style="width: 13%" />
 <col style="width: 12%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 0%" />
+<col style="width: 19%" />
+<col style="width: 19%" />
+<col style="width: 2%" />
 </colgroup>
 <tbody data-valign="top">
 <tr class="odd">
@@ -1899,16 +1899,16 @@ entsprechenden Vergleichszeitrum des Vorjahres:</td>
 
 <table width="100%" style="border: none;">
 <colgroup>
-<col style="width: 1%" />
+<col style="width: 2%" />
 <col style="width: 4%" />
-<col style="width: 12%" />
+<col style="width: 11%" />
 <col style="width: 7%" />
-<col style="width: 13%" />
-<col style="width: 13%" />
 <col style="width: 12%" />
 <col style="width: 12%" />
-<col style="width: 27%" />
-<col style="width: 0%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 26%" />
+<col style="width: 2%" />
 </colgroup>
 <tbody data-valign="top">
 <tr class="odd">
@@ -1948,7 +1948,7 @@ Ein anderer Bedarf kann jedoch anerkannt werden, soweit diesem wegen Neuaufnahme
 (17)
 
 |     |                                                                                            |     |     |     |     |     |     |     |     |
-|:-|:---|:--------|:-----|:--------|:--------|:--------|:--------|:-----------------|:-|
+|:--|:---|:-------|:-----|:--------|:--------|:--------|:--------|:----------------|:--|
 |     | Bemerkungen zum geltendgemachten Bedarf:                                                   |     |     |     |     |     |     |     |     |
 |     | (z. B. Begründung, wenn in Fällen unbilliger Härte ein höherer Bedarf geltendgemacht wird) |     |     |     |     |     |     |     |     |
 |     |                                                                                            |     |     |     |     |     |     |     |     |
@@ -1959,15 +1959,15 @@ Ein anderer Bedarf kann jedoch anerkannt werden, soweit diesem wegen Neuaufnahme
 
 <table width="100%" style="border: none;">
 <colgroup>
-<col style="width: 0%" />
+<col style="width: 2%" />
 <col style="width: 12%" />
 <col style="width: 12%" />
 <col style="width: 12%" />
 <col style="width: 12%" />
 <col style="width: 6%" />
 <col style="width: 22%" />
-<col style="width: 22%" />
-<col style="width: 0%" />
+<col style="width: 21%" />
+<col style="width: 2%" />
 </colgroup>
 <tbody data-valign="top">
 <tr class="odd">
@@ -2036,7 +2036,7 @@ Der Antragsteller kann stattdessen auch eigene Aufstellungen verwenden, die inha
 (20)
 
 |     |                                                                                                                                                                        |     |     |     |     |     |     |       |     |
-|:-|:---|:--------|:-----|:--------|:--------|:--------|:--------|:-----------------|:-|
+|:--|:---|:-------|:-----|:--------|:--------|:--------|:--------|:----------------|:--|
 |     |                                                                                                                                                                        |     |     |     |     |     |     |       |     |
 |     | Wenn dieser Antrag - z. B. in Härtefällen - einen früheren für die gleichen Zwecke und Zeiträume gestellten Antrag ergänzt, bitte Datum des früheren Antrages angeben. |     |     |     |     |     | ►   | Datum |     |
 |     |                                                                                                                                                                        |     |     |     |     |     |     |       |     |
@@ -2048,16 +2048,16 @@ Der Antragsteller kann stattdessen auch eigene Aufstellungen verwenden, die inha
 
 <table width="100%" style="border: none;">
 <colgroup>
-<col style="width: 0%" />
+<col style="width: 2%" />
 <col style="width: 4%" />
-<col style="width: 12%" />
+<col style="width: 11%" />
 <col style="width: 7%" />
-<col style="width: 13%" />
+<col style="width: 12%" />
 <col style="width: 13%" />
 <col style="width: 12%" />
 <col style="width: 12%" />
-<col style="width: 27%" />
-<col style="width: 0%" />
+<col style="width: 26%" />
+<col style="width: 2%" />
 </colgroup>
 <tbody data-valign="top">
 <tr class="odd">
@@ -2170,7 +2170,7 @@ Nicht vom Antragsteller auszufüllen!</td>
 
 <table width="100%" style="border: none;">
 <colgroup>
-<col style="width: 0%" />
+<col style="width: 1%" />
 <col style="width: 6%" />
 <col style="width: 6%" />
 <col style="width: 6%" />
@@ -2532,14 +2532,14 @@ z. B. Gütertransport, gewerblicher Personentransport, Vermietung an Selbstfahre
 
 <table width="100%" style="border: none;">
 <colgroup>
-<col style="width: 0%" />
-<col style="width: 13%" />
-<col style="width: 13%" />
-<col style="width: 13%" />
-<col style="width: 13%" />
+<col style="width: 2%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
 <col style="width: 3%" />
-<col style="width: 46%" />
-<col style="width: 1%" />
+<col style="width: 45%" />
+<col style="width: 2%" />
 </colgroup>
 <tbody data-valign="top">
 <tr class="odd">
@@ -2590,15 +2590,15 @@ Bitte kurz begründen!)</td>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"><table width="100%" style="border: none;">
 <colgroup>
-<col style="width: 0%" />
-<col style="width: 13%" />
+<col style="width: 2%" />
+<col style="width: 12%" />
 <col style="width: 20%" />
 <col style="width: 11%" />
 <col style="width: 11%" />
 <col style="width: 11%" />
 <col style="width: 11%" />
 <col style="width: 22%" />
-<col style="width: 0%" />
+<col style="width: 2%" />
 </colgroup>
 <tbody data-valign="top">
 <tr class="odd">
@@ -2647,29 +2647,28 @@ B zum Antrag auf Zuteilung von Kraftsoff-Bezugscheinen</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(1)</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">(4)</td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">(4)</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">(5)</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">(6)</td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">(6)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Liste der Maschinen und Motoren, für die Kraftstoff beantragt wird:</td>
 <td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Angaben in DIN kw, soweit bekannt, sonst in PS</td>
-<td rowspan="3" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="bottom" data-charoff="50">Durchschnittliche Betriebsstunden pro Monat im dem Antragszeitraum entsprechenden Vergleichszeitraum des Vorjahres</td>
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="middle" data-charoff="50">Durchschnittlicher Monatsverbrauch in Litern im dem Antragszeitraum entsprechenden Vergleichszeitraum des Vorjahres</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="bottom" data-charoff="50">Durchschnittliche Betriebsstunden pro Monat im dem Antragszeitraum entsprechenden Vergleichszeitraum des Vorjahres</td>
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Durchschnittlicher Monatsverbrauch in Litern im dem Antragszeitraum entsprechenden Vergleichszeitraum des Vorjahres</td>
 <td style="text-align: left;" data-valign="middle" data-charoff="50"> </td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">(2)</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">(3)</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="middle" data-charoff="50"> </td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="middle" data-charoff="50"> </td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="middle" data-charoff="50"> </td>
 </tr>
 <tr class="even" data-valign="bottom">
@@ -2680,6 +2679,7 @@ der Maschine oder des Motors (Marke, Typ)</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="bottom" data-charoff="50">DIN<br />
 kw</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="bottom" data-charoff="50">PS</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="bottom" data-charoff="50"> </td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="bottom" data-charoff="50">Benzin</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="bottom" data-charoff="50">Diesel</td>
 <td style="text-align: left;" data-valign="bottom" data-charoff="50"> </td>

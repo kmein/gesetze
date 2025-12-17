@@ -117,7 +117,7 @@ sind nach dem Stand der Technik zu erfüllen. Der Stand der Technik ist als nied
 
 (1) Die Systemkomponenten der Passbehörden, des Passherstellers und der Dienstleister, die Lichtbildaufnahmegeräte im Sinne des § 1a Absatz 2 Nummer 2 verwenden, die zu verwendenden Cloudanbieter im Sinne des § 1a Absatz 2 Nummer 1 sowie die Anwendungsbestandteile zur Verschlüsselung und Übertragung der Lichtbilder an die Cloud durch den Dienstleister, für die eine Zertifizierung verpflichtend ist, ergeben sich aus Anlage 2. Die Art und Einzelheiten der Zertifizierung richten sich nach den Technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik.
 
-(2) Für die Zertifizierung gilt § 9 des BSI-Gesetzes vom 14. August 2009 (BGBl. I S. 2821) sowie die BSI-Zertifizierungsverordnung vom 7. Juli 1992 (BGBl. I S. 1230) in der jeweils geltenden Fassung.
+(2) Für die Zertifizierung gilt § 52 des BSI-Gesetzes vom 2. Dezember 2025 (BGBl. 2025 I Nr. 301, S. 2) sowie die BSI-Zertifizierungsverordnung vom 7. Juli 1992 (BGBl. I S. 1230) in der jeweils geltenden Fassung.
 
 (3) Die Kosten der Zertifizierung trägt der Antragsteller.
 

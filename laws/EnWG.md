@@ -72,449 +72,465 @@
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anzeige von Verdachtsfällen, Verschwiegenheitspflichten</td>
 </tr>
 <tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 5c</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">IT-Sicherheit im Anlagen- und Netzbetrieb, Festlegungskompetenz</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 5d</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Dokumentations-, Melde-, Registrierungspflicht</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 5e</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Umsetzungs-, Überwachungs-, und Schulungspflicht für Geschäftsleitungen</td>
+</tr>
+<tr class="even">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Teil 2</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Entflechtung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 1</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Gemeinsame Vorschriften für Verteilernetzbetreiber und Transportnetzbetreiber</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 6</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anwendungsbereich und Ziel der Entflechtung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 6a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verwendung von Informationen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 6b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Rechnungslegung und Buchführung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 6c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ordnungsgeldvorschriften</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 6d</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Betrieb eines Kombinationsnetzbetreibers</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 2</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Entflechtung von Verteilernetzbetreibern und Betreibern von Gasspeicheranlagen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 7</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Rechtliche Entflechtung von Verteilernetzbetreibern</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 7a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Operationelle Entflechtung von Verteilernetzbetreibern</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 7b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Entflechtung von Gasspeicheranlagenbetreibern und Transportnetzeigentümern</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 7c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ausnahme für Ladepunkte für Elektromobile; Verordnungsermächtigung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 3</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Besondere Entflechtungsvorgaben für Transportnetzbetreiber</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 8</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Eigentumsrechtliche Entflechtung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 9</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Unabhängiger Systembetreiber</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 10</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Unabhängiger Transportnetzbetreiber</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 10a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vermögenswerte, Anlagen, Personalausstattung, Unternehmensidentität des Unabhängigen Transportnetzbetreibers</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 10b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Rechte und Pflichten im vertikal integrierten Unternehmen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 10c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Unabhängigkeit des Personals und der Unternehmensleitung des Unabhängigen Transportnetzbetreibers</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 10d</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Aufsichtsrat des Unabhängigen Transportnetzbetreibers</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 10e</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gleichbehandlungsprogramm und Gleichbehandlungsbeauftragter des Unabhängigen Transportnetzbetreibers</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Teil 3</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Regulierung des Netzbetriebs</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"> Abschnitt 1</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"> Aufgaben der Netzbetreiber</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 11</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Betrieb von Energieversorgungsnetzen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 11a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ausschreibung von Energiespeicheranlagen, Festlegungskompetenz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 11b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ausnahme für Energiespeicheranlagen, Festlegungskompetenz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 11c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Überragendes öffentliches Interesse für Anlagen zur Speicherung elektrischer Energie</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 12</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Aufgaben der Betreiber von Elektrizitätsversorgungsnetzen, Verordnungsermächtigung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 12a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Szenariorahmen für die Netzentwicklungsplanung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 12b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Erstellung des Netzentwicklungsplans durch die Betreiber von Übertragungsnetzen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 12c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Prüfung und Bestätigung des Netzentwicklungsplans durch die Regulierungsbehörde</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 12d</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Monitoring und Controlling der Umsetzung des Netzentwicklungsplans</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 12e</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Bundesbedarfsplan</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 12f</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Herausgabe von Daten</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 12g</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Schutz europäisch kritischer Anlagen, Verordnungsermächtigung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 12h</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Marktgestützte Beschaffung nicht frequenzgebundener Systemdienstleistungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 12i</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Systemstabilitätsbericht, Monitoring der Systemstabilität</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 13</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Systemverantwortung der Betreiber von Übertragungsnetzen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 13a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Erzeugungsanpassung und ihr bilanzieller und finanzieller Ausgleich</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 13b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Stilllegungen von Anlagen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 13c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vergütung bei geplanten Stilllegungen von Anlagen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 13d</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Netzreserve</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 13e</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Kapazitätsreserve</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 13f</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Systemrelevante Gaskraftwerke</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 13g</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Stilllegung von Braunkohlekraftwerken</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 13h</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verordnungsermächtigung zur Kapazitätsreserve</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 13i</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Weitere Verordnungsermächtigungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 13j</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Festlegungskompetenzen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 13k</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Nutzen statt Abregeln</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 13l</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Umrüstung einer Erzeugungsanlage zu einem Betriebsmittel zur Bereitstellung von Blind- und Kurzschlussleistung sowie von Trägheit der lokalen Netzstabilität; Betrieb des Betriebsmittels</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 14</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Aufgaben der Betreiber von Elektrizitätsverteilernetzen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 14a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Netzorientierte Steuerung von steuerbaren Verbrauchseinrichtungen und steuerbaren Netzanschlüssen; Festlegungskompetenzen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 14b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Steuerung von vertraglichen Abschaltvereinbarungen, Verordnungsermächtigung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 14c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Marktgestützte Beschaffung von Flexibilitätsdienstleistungen im Elektrizitätsverteilernetz; Festlegungskompetenz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 14d</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Planung und besondere Bedeutung des Verteilernetzausbaus; Festlegungskompetenz; Verordnungsermächtigung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 14e</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gemeinsame Internetplattform; Festlegungskompetenz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 15</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Aufgaben der Betreiber von Fernleitungsnetzen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 15a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Netzentwicklungsplan Gas und Wasserstoff; Koordinierungsstelle; Verordnungsermächtigung; Festlegungskompetenz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 15b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Szenariorahmen des Netzentwicklungsplans Gas und Wasserstoff; Festlegungskompetenz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 15c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Erstellung des Netzentwicklungsplans Gas und Wasserstoff</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 15d</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Prüfung und Bestätigung des Netzentwicklungsplans Gas und Wasserstoff durch die Regulierungsbehörde</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 15e</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Herausgabe von Daten</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 16</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Systemverantwortung der Betreiber von Fernleitungsnetzen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 16a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Aufgaben der Betreiber von Gasverteilernetzen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"> Abschnitt 2</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"> Netzanschluss</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 17</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Netzanschluss, Verordnungsermächtigung; Festlegungskompetenz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 17a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 17b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 17c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 17d</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Umsetzung der Netzentwicklungspläne und des Flächenentwicklungsplans</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 17e</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Entschädigung bei Störungen oder Verzögerung der Anbindung von Offshore-Anlagen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 17f</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Belastungsausgleich</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 17g</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Haftung für Sachschäden an Windenergieanlagen auf See</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 17h</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Abschluss von Versicherungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 17i</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ermittlung der umlagefähigen Netzkosten von Offshore-Anbindungsleitungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 17j</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verordnungsermächtigung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 18</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Allgemeine Anschlusspflicht</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 19</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Technische Vorschriften</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 19a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Umstellung der Gasqualität; Verordnungsermächtigung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"> Abschnitt 3</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"> Netzzugang, Messstellenbetrieb</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 20</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zugang zu den Energieversorgungsnetzen; Festlegungskompetenz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 20a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Lieferantenwechsel</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 21</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Bedingungen und Entgelte für den Netzzugang; Festlegungskompetenz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 21a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Regulierungsvorgaben für Anreize für eine effiziente Leistungserbringung; Festlegungskompetenz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 21b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Sondervorschriften für regulatorische Ansprüche und Verpflichtungen der Transportnetzbetreiber; Festlegungskompetenz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 21c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 21d</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 21e</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 21f</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 21g</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 21h</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 21i</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 22</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beschaffung der Energie zur Erbringung von Ausgleichsleistungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 23</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Erbringung von Ausgleichsleistungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 23a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Genehmigung der Entgelte für den Netzzugang</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 23b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Veröffentlichungen der Regulierungsbehörde; Festlegungskompetenz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 23c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Veröffentlichungspflichten der Netzbetreiber</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 23d</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verordnungsermächtigung zur Transparenz der Kosten und Entgelte für den Zugang zu den Energieversorgungsnetzen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 24</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Bundeseinheitliche Übertragungsnetzentgelte</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 24a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Bundeszuschüsse; Festlegungskompetenz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 24b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zuschuss zur anteiligen Finanzierung der Übertragungsnetzkosten; Zahlungsmodalitäten</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 24c</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Weiterer Zuschuss zur anteiligen Finanzierung der Übertragungsnetzkosten; Zahlungsmodalitäten; Festlegungskompetenz</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 25</td>
@@ -708,18 +724,26 @@ Gewährleistung der Versorgungssicherheit</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 35e</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Umlage der Kosten des Marktgebietsverantwortlichen; Finanzierung</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Umlage der Kosten des Marktgebietsverantwortlichen bis zum Ablauf des 31. Dezember 2025; Finanzierung</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 35f</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Evaluierung</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Erstattung der Kosten des Marktgebietsverantwortlichen ab dem 1. Januar 2026 durch Zahlungen der Bundesrepublik Deutschland</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 35g</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Anwendungsbestimmungen</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsregelung für die Umstellung des Umlageverfahrens; Einmalzahlung der Bundesrepublik Deutschland; Pflicht zur Weitergabe der Entlastung</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 35h</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Verordnungsermächtigung</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 35i</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Anwendungsbestimmung</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 35j</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Außerbetriebnahme und Stilllegung von Gasspeichern</td>
 </tr>
 <tr class="odd">
@@ -1040,514 +1064,518 @@ Gewährleistung der Versorgungssicherheit</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zuständigkeiten gemäß der Verordnung (EU) 2019/941, Verordnungsermächtigung</td>
 </tr>
 <tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 54c</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Zuständigkeiten gemäß der Delegierten Verordnung (EU) 2024/1366; Verordnungsermächtigungen</td>
+</tr>
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 55</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Bundesnetzagentur, Landesregulierungsbehörde und nach Landesrecht zuständige Behörde</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 56</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Tätigwerden der Bundesnetzagentur beim Vollzug des europäischen Rechts</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 57</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zusammenarbeit mit Regulierungsbehörden anderer Mitgliedstaaten, der Agentur für die Zusammenarbeit der Energieregulierungsbehörden und der Europäischen Kommission</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 57a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Überprüfungsverfahren</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 57b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zuständigkeit für regionale Koordinierungszentren; Festlegungskompetenz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 58</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zusammenarbeit mit den Kartellbehörden</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 58a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zusammenarbeit zur Durchführung der Verordnung (EU) Nr. 1227/2011</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 58b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beteiligung der Bundesnetzagentur und Mitteilungen in Strafsachen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 2</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Bundesbehörden</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 59</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Organisation</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 60</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Aufgaben des Beirates</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 60a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Aufgaben des Länderausschusses</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 61</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Veröffentlichung allgemeiner Weisungen des Bundesministeriums für Wirtschaft und Energie</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 62</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gutachten der Monopolkommission</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 63</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Berichterstattung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 64</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Wissenschaftliche Beratung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 64a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zusammenarbeit zwischen den Regulierungsbehörden</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Teil 8</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 1</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Behördliches Verfahren</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 65</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Aufsichtsmaßnahmen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 66</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Einleitung des Verfahrens, Beteiligte</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 66a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vorabentscheidung über Zuständigkeit</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 67</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anhörung, Akteneinsicht, mündliche Verhandlung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 68</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ermittlungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 68a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zusammenarbeit mit der Staatsanwaltschaft</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 69</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Auskunftsverlangen, Betretungsrecht</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 70</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beschlagnahme</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 71</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Betriebs- oder Geschäftsgeheimnisse</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 71a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Netzentgelte vorgelagerter Netzebenen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 72</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vorläufige Anordnungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 73</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verfahrensabschluss, Begründung der Entscheidung, Zustellung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 74</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Veröffentlichung von Verfahrenseinleitungen und Entscheidungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 2</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Beschwerde</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 75</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zulässigkeit, Zuständigkeit</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 76</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Aufschiebende Wirkung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 77</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anordnung der sofortigen Vollziehung und der aufschiebenden Wirkung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 78</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Frist und Form</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 78a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Musterverfahren</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 79</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beteiligte am Beschwerdeverfahren</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 80</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anwaltszwang</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 81</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Mündliche Verhandlung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 82</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Untersuchungsgrundsatz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 83</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beschwerdeentscheidung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 83a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 84</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Akteneinsicht</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 85</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Geltung von Vorschriften des Gerichtsverfassungsgesetzes und der Zivilprozessordnung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 85a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Entsprechende Anwendung auf fachlich qualifizierte Stellen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 3</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Rechtsbeschwerde</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 86</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Rechtsbeschwerdegründe</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 87</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Nichtzulassungsbeschwerde</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 88</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beschwerdeberechtigte, Form und Frist</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 4</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Gemeinsame Bestimmungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 89</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beteiligtenfähigkeit</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 90</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Kostentragung und -festsetzung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 90a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 91</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gebührenpflichtige Handlungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 92</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beitrag</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 93</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Mitteilung der Bundesnetzagentur</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 5</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Sanktionen, Bußgeldverfahren</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 94</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zwangsgeld</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 95</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Bußgeldvorschriften</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 95a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Strafvorschriften</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 95b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Strafvorschriften</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 96</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zuständigkeit für Verfahren wegen der Festsetzung einer Geldbuße gegen eine juristische Person oder Personenvereinigung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 97</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zuständigkeiten im gerichtlichen Bußgeldverfahren</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 98</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zuständigkeit des Oberlandesgerichts im gerichtlichen Verfahren</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 99</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Rechtsbeschwerde zum Bundesgerichtshof</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 100</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Wiederaufnahmeverfahren gegen Bußgeldbescheid</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 101</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gerichtliche Entscheidungen bei der Vollstreckung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 6</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Bürgerliche Rechtsstreitigkeiten</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 102</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ausschließliche Zuständigkeit der Landgerichte</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 103</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zuständigkeit eines Landgerichts für mehrere Gerichtsbezirke</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 104</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Benachrichtigung und Beteiligung der Regulierungsbehörde</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 105</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Streitwertanpassung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"> Abschnitt 7</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"> Gemeinsame Bestimmungen für das gerichtliche Verfahren</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 106</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zuständiger Senat beim Oberlandesgericht</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 107</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zuständiger Senat beim Bundesgerichtshof</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 108</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ausschließliche Zuständigkeit</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Teil 9</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Sonstige Vorschriften</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 109</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Unternehmen der öffentlichen Hand, Geltungsbereich</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 110</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Geschlossene Verteilernetze</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 111</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verhältnis zum Gesetz gegen Wettbewerbsbeschränkungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 111a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verbraucherbeschwerden</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 111b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Schlichtungsstelle, Verordnungsermächtigung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 111c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zusammentreffen von Schlichtungsverfahren und Missbrauchs- oder Aufsichtsverfahren</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Teil 9a</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Transparenz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 111d</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50">Einrichtung einer nationalen Informationsplattform</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 111e</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50">Marktstammdatenregister</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 111f</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50">Verordnungsermächtigung zum Marktstammdatenregister</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 111g</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50">Festlegungskompetenz, Datenerhebung und -verarbeitung; Einrichtung und Betrieb einer nationalen Transparenzplattform</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Teil 10</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Evaluierung, Schlussvorschriften</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 112</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 112a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 112b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Berichte des Bundesministeriums für Wirtschaft und Klimaschutz sowie der Bundesnetzagentur zur Evaluierung der Wasserstoffnetzregulierung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 113</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Laufende Wegenutzungsverträge</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 113a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Überleitung von Wegenutzungsrechten auf Wasserstoffleitungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 113b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Umstellung von Erdgasleitungen im Netzentwicklungsplan Gas und Wasserstoff</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 113c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsregelungen zu Sicherheitsanforderungen; Anzeigepflicht und Verfahren zur Prüfung von Umstellungsvorhaben</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 114</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Wirksamwerden der Entflechtungsbestimmungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 115</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Bestehende Verträge</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 116</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Bisherige Tarifkundenverträge</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 117</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Konzessionsabgaben für die Wasserversorgung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 117a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Regelung bei Stromeinspeisung in geringem Umfang</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 117b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verwaltungsvorschriften</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 117c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Umgang mit geheimhaltungsbedürftigen Informationen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 118</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsregelungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 118a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Regulatorische Rahmenbedingungen für LNG-Anlagen; Verordnungsermächtigung und Subdelegation</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 118b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befristete Sonderregelungen für Energielieferverträge mit Haushaltskunden außerhalb der Grundversorgung bei Versorgungsunterbrechungen wegen Nichtzahlung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 118c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befristete Notversorgung von Letztverbrauchern im Januar und Februar des Jahres 2023</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 119</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verordnungsermächtigung für das Forschungs- und Entwicklungsprogramm „Schaufenster intelligente Energie – Digitale Agenda für die Energiewende“</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 120</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Schrittweiser Abbau der Entgelte für dezentrale Einspeisung; Übergangsregelung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 121</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Außerkrafttreten der §§ 50a bis 50c und 50e bis 50j</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anlage (zu § 13g)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Berechnung der Vergütung</td>
 </tr>
@@ -2172,6 +2200,110 @@ Die Regulierungsbehörde kann eine Zertifizierung nach § 4a oder § 4b widerruf
 
 (2) Ergreift die Bundesnetzagentur Maßnahmen wegen eines möglichen Verstoßes gegen ein Verbot nach Artikel 3 oder Artikel 5 der Verordnung (EU) Nr. 1227/2011, so dürfen die Adressaten dieser Maßnahmen ausschließlich Personen, die auf Grund ihres Berufs einer gesetzlichen Verschwiegenheitspflicht unterliegen, und staatliche Stellen von diesen Maßnahmen oder von einem daraufhin eingeleiteten Ermittlungsverfahren in Kenntnis setzen.
 
+# § 5c – IT-Sicherheit im Anlagen- und im Netzbetrieb, Festlegungskompetenz
+
+(1) Die folgenden Betreiber haben für die genannten Systeme einen angemessenen Schutz gegen Bedrohungen zu gewährleisten:
+
+1. der Betreiber eines Energieversorgungsnetzes für Telekommunikationssysteme und für elektronische Datenverarbeitungssysteme, die für den sicheren Betrieb des Energieversorgungsnetzes notwendig sind,
+
+2. der Betreiber einer Energieanlage, der eine besonders wichtige Einrichtung nach § 28 Absatz 1 des BSI-Gesetzes oder eine wichtige Einrichtung nach § 28 Absatz 2 des BSI-Gesetzes ist und dessen Energieanlage an ein Energieversorgungsnetz angeschlossen ist, für Telekommunikationssysteme sowie für elektronische Datenverarbeitungssysteme, die für einen sicheren Betrieb der Energieanlage notwendig sind,
+
+3. der Betreiber eines digitalen Energiedienstes, der eine besonders wichtige Einrichtung nach § 28 Absatz 1 des BSI-Gesetzes oder eine wichtige Einrichtung nach § 28 Absatz 2 des BSI-Gesetzes ist und der den digitalen Energiedienst an einer Energieanlage ausübt, die an ein Energieversorgungsnetz angeschlossen ist, für Telekommunikationssysteme sowie für elektronische Datenverarbeitungssysteme, die für einen sicheren Betrieb der Anlage notwendig sind.
+
+Der angemessene Schutz nach Satz 1 ist bereits bei der Beschaffung von Anlagengütern und Dienstleistungen sicherzustellen.
+
+(2) Die Anforderungen an den angemessenen Schutz werden von der Bundesnetzagentur im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik in einem Katalog von Sicherheitsanforderungen (IT-Sicherheitskatalog) durch Festlegung nach § 29 Absatz 1 bestimmt. Die Bundesnetzagentur kann die Anforderungen an einen angemessenen Schutz eines Energieversorgungsnetzes, einer Energieanlage oder eines Energiedienstes auch jeweils in einem gesonderten IT-Sicherheitskatalog durch Festlegung nach § 29 Absatz 1 bestimmen. Die Bundesnetzagentur beteiligt jeweils die Betreiber nach Absatz 1 Satz 1 Nummer 1 bis 3 und deren Branchenverbände entsprechend ihrer Betroffenheit. Für Telekommunikationssysteme sowie für elektronische Datenverarbeitungssysteme von Anlagen nach § 7 Absatz 1 des Atomgesetzes sind ergänzend für die Erarbeitung des IT-Sicherheitskatalogs die für die nukleare Sicherheit zuständigen Genehmigungs- und Aufsichtsbehörden des Bundes und der Länder zu beteiligen. Vorgaben auf Grund des Atomgesetzes haben Vorrang vor den Anforderungen des IT-Sicherheitskatalogs. Die Bundesnetzagentur überprüft den IT-Sicherheitskatalog alle zwei Jahre und aktualisiert ihn bei Bedarf. Mit der Einhaltung des IT-Sicherheitskatalogs durch den Betreiber nach Absatz 1 Satz 1 Nummer 1 bis 3 gilt der angemessene Schutz als eingehalten.
+
+(3) Der IT-Sicherheitskatalog soll ein Sicherheitsniveau der informationstechnischen Systeme, Komponenten und Prozesse gewährleisten, das dem bestehenden Risiko angemessen ist. Der IT-Sicherheitskatalog soll unter Berücksichtigung der einschlägigen europäischen Normen oder internationalen Normen, der Einhaltung des Standes der Technik sowie der Umsetzungskosten erstellt werden. Zur Wahrung der Angemessenheit der Anforderungen des jeweiligen IT-Sicherheitskatalogs sind bei der Erstellung folgende Faktoren zu berücksichtigen:
+
+1. das Ausmaß der Risikoexposition,
+
+2. die Größe des Betreibers,
+
+3. die Eintrittswahrscheinlichkeit und Schwere von Sicherheitsvorfällen sowie
+
+4. die gesellschaftlichen und wirtschaftlichen Auswirkungen.
+
+(4) Der IT-Sicherheitskatalog hat mindestens Vorgaben zu enthalten für:
+
+1. Konzepte in Bezug auf die Risikoanalyse und Sicherheit für Informationstechnik,
+
+2. die Bewältigung von Sicherheitsvorfällen,
+
+3. die Aufrechterhaltung des Betriebs, wie Backup-Management und Wiederherstellung nach einem Notfall, und das Krisenmanagement,
+
+4. die Sicherheit der Lieferkette einschließlich sicherheitsbezogener Aspekte der Beziehungen zwischen den einzelnen Einrichtungen und ihren unmittelbaren Anbietern oder Diensteanbietern,
+
+5. Sicherheitsmaßnahmen bei Erwerb, Entwicklung und Wartung von Netz- und Informationssystemen, einschließlich Management und Offenlegung von Schwachstellen,
+
+6. Konzepte und Verfahren zur Bewertung der Wirksamkeit von Risikomanagementmaßnahmen im Bereich der Sicherheit der Informationstechnik,
+
+7. grundlegende Verfahren im Bereich der Cyberhygiene und für Schulungen im Bereich der Sicherheit der Informationstechnik,
+
+8. Konzepte und Verfahren für den Einsatz von Kryptografie und Verschlüsselung,
+
+9. die Sicherheit des Personals, Konzepte für die Zugriffskontrolle und das Management von Anlagen,
+
+10. die Verwendung von Lösungen zur Multi-Faktor-Authentifizierung oder kontinuierlichen Authentifizierung, gesicherte Sprach-, Video- und Textkommunikation sowie gegebenenfalls gesicherte Notfallkommunikationssysteme innerhalb der Einrichtung,
+
+11. den Einsatz von Systemen zur Angriffserkennung nach § 2 Nummer 41 des BSI-Gesetzes,
+
+12. den Einsatz eines Elements oder einer Gruppe von Elementen eines Netz- oder Informationssystems (IKT-Produkt), eines Dienstes, der vollständig oder überwiegend aus der Übertragung, Speicherung, Abfrage oder Verarbeitung von Informationen mittels Netz- und Informationssystemen besteht (IKT-Dienst), und jeglicher Tätigkeiten, mit denen ein IKT-Produkt oder ein IKT-Dienst konzipiert, entwickelt, bereitgestellt oder gepflegt werden soll (IKT-Prozess), mit Cybersicherheitszertifizierung gemäß europäischer Schemata nach Artikel 49 der Verordnung (EU) 2019/881.
+
+(5) Die Bundesnetzagentur kann in dem IT-Sicherheitskatalog
+
+1. nähere Bestimmungen treffen zu Format, Inhalt und Gestaltung der nach § 5d Absatz 1 Satz 1 erforderlichen Dokumentation über die Einhaltung der Anforderungen des IT-Sicherheitskatalogs,
+
+2. nähere Bestimmungen zur Behebung von Sicherheitsmängeln sowie
+
+3. Regelungen festlegen zur regelmäßigen Überprüfung der Erfüllung der Sicherheitsanforderungen.
+
+(6) Die Bundesnetzagentur legt bis zum Ablauf des 6. Januar 2026 im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik durch Festlegung nach § 29 Absatz 1 in einem Katalog für den Betrieb von Energieversorgungsnetzen und Energieanlagen fest,
+
+1. welche Komponenten kritische Komponenten nach § 2 Nummer 23 Buchstabe c Doppelbuchstabe aa des BSI-Gesetzes sind oder
+
+2. welche Funktionen kritisch bestimmte Funktionen nach § 2 Nummer 23 Buchstabe c Doppelbuchstabe bb des BSI-Gesetzes sind.
+
+Der Betreiber nach Absatz 1 Satz 1 Nummer 1 und 2, der zugleich eine kritische Anlage nach § 2 Nummer 22 des BSI-Gesetzes betreibt, hat die Vorgaben des Katalogs spätestens sechs Monate nach dessen in der Festlegung nach § 29 Absatz 1 bestimmten Inkrafttretens zu erfüllen, es sei denn, in dem Katalog ist eine davon abweichende Umsetzungsfrist festgelegt worden. Die Befugnis der Bundesnetzagentur nach Satz 1 besteht bis zum Erlass einer Rechtsverordnung nach § 56 Absatz 7 des BSI-Gesetzes für den Sektor Energie fort. Eine von der Bundesnetzagentur auf der Grundlage von Satz 1 oder auf der Grundlage von § 11 Absatz 1a Satz 2 des Energiewirtschaftsgesetzes in der am 5. Dezember 2025 geltenden Fassung erlassene Allgemeinverfügung ist mit dem Inkrafttreten einer Rechtsverordnung nach § 56 Absatz 7 des BSI-Gesetzes für Energieversorgungsnetze und Energieanlagen aufzuheben.
+
+# § 5d – Dokumentations-, Melde-, Registrierungspflicht
+
+(1) Der Betreiber nach § 5c Absatz 1 Satz 1 Nummer 1 bis 3 hat die Einhaltung der Anforderungen des IT-Sicherheitskatalogs zu dokumentieren. Der Betreiber nach § 5c Absatz 1 Satz 1 Nummer 1 und der Betreiber nach § 5c Absatz 1 Satz 1 Nummer 2 und 3, der jeweils eine besonders wichtige Einrichtung nach § 28 Absatz 1 des BSI-Gesetzes ist, hat die Dokumentation nach Satz 1 der Bundesnetzagentur unverzüglich nach der Erstellung zu übermitteln. Auf Verlangen der Bundesnetzagentur hat der Betreiber nach § 5c Absatz 1 Satz 1 Nummer 1 bis 3 einen Mängelbeseitigungsplan vorzulegen. Ergeben sich aus dem Mängelbeseitigungsplan Sicherheitsmängel, so kann die Bundesnetzagentur von dem Betreiber die Beseitigung dieser Mängel innerhalb einer gesetzten Frist verlangen. Der Betreiber hat der Bundesnetzagentur und den in deren Auftrag handelnden Personen zum Zweck der Überprüfung der Einhaltung des IT-Sicherheitskatalogs das Betreten der Geschäfts- und Betriebsräume während der üblichen Betriebszeiten zu gestatten und auf Verlangen die in Betracht kommenden Aufzeichnungen, Schriftstücke und sonstigen Unterlagen in geeigneter Weise vorzulegen. Er hat Auskunft zu erteilen und die erforderliche Unterstützung zu gewähren. Für die Überprüfung erhebt die Bundesnetzagentur nur dann Gebühren und Auslagen, wenn die Bundesnetzagentur auf Grund von Anhaltspunkten tätig geworden ist, die berechtigte Zweifel an der Einhaltung der Anforderungen des IT-Sicherheitskatalogs begründen.
+
+(2) Erlangt die Bundesnetzagentur Kenntnis über Hinweise oder Informationen, wonach ein Betreiber nach § 5c Absatz 1 Satz 1 Nummer 1 bis 3 die Anforderungen des IT-Sicherheitskatalogs nicht oder nicht richtig umsetzt, so kann sie von dem Betreiber Informationen anfordern, um die Einhaltung des IT-Sicherheitskatalogs zu überprüfen. Absatz 1 Satz 3 bis 7 ist entsprechend anzuwenden.
+
+(3) Der Betreiber nach § 5c Absatz 1 Satz 1 Nummer 1 bis 3 ist verpflichtet, der Meldestelle nach § 32 des BSI-Gesetzes folgende Informationen zu melden:
+
+1. unverzüglich, spätestens jedoch innerhalb von 24 Stunden nach Kenntniserlangung von einem erheblichen Sicherheitsvorfall nach § 2 Nummer 11 des BSI-Gesetzes: eine frühe Erstmeldung, in der angegeben wird, ob der Verdacht besteht, dass der erhebliche Sicherheitsvorfall auf eine rechtswidrige oder eine böswillige Handlung zurückzuführen ist oder dass er grenzüberschreitende Auswirkungen haben könnte,
+
+2. unverzüglich, spätestens jedoch innerhalb von 72 Stunden nach Kenntniserlangung von einem erheblichen Sicherheitsvorfall nach § 2 Nummer 11 des BSI-Gesetzes: eine Meldung über den erheblichen Sicherheitsvorfall, in der die in Nummer 1 genannten Informationen bestätigt oder aktualisiert werden und in der eine erste Bewertung des erheblichen Sicherheitsvorfalls vorgenommen wird, einschließlich der Bewertung seines Schweregrads und seiner Auswirkungen und einschließlich der Angabe der Kompromittierungsfaktoren,
+
+3. auf Ersuchen des Bundesamtes für Sicherheit in der Informationstechnik eine Zwischenmeldung über relevante Statusaktualisierungen,
+
+4. spätestens einen Monat nach Übermittlung der Meldung des erheblichen Sicherheitsvorfalls nach § 2 Nummer 11 des BSI-Gesetzes eine Abschlussmeldung, die Folgendes enthält:
+
+a) eine ausführliche Beschreibung des erheblichen Sicherheitsvorfalls nach § 2 Nummer 11 des BSI-Gesetzes, einschließlich seines Schweregrads und seiner Auswirkungen,
+
+b) Angaben zur Art der Bedrohung beziehungsweise zur Ursache, die wahrscheinlich den erheblichen Sicherheitsvorfall nach § 2 Nummer 11 des BSI-Gesetzes ausgelöst hat,
+
+c) Angaben zu den getroffenen und den laufenden Abhilfemaßnahmen zur Abwendung oder Behebung des erheblichen Sicherheitsvorfalls,
+
+d) gegebenenfalls die grenzüberschreitenden Auswirkungen des erheblichen Sicherheitsvorfalls nach § 2 Nummer 11 des BSI-Gesetzes.
+
+§ 32 Absatz 2 bis 5 und § 36 des BSI-Gesetzes sind entsprechend anzuwenden. Bei Meldungen nach diesem Absatz trifft das Bundesamt für Sicherheit in der Informationstechnik Maßnahmen nach § 36 des BSI-Gesetzes im Benehmen mit der Bundesnetzagentur.
+
+(4) Der Betreiber eines Energieversorgungsnetzes, der keine besonders wichtige Einrichtung nach § 28 Absatz 1 des BSI-Gesetzes oder keine wichtige Einrichtung nach § 28 Absatz 2 des BSI-Gesetzes ist, ist verpflichtet, spätestens bis zum Ablauf des 6. März 2026 dem Bundesamt für Sicherheit in der Informationstechnik die Angaben nach § 33 Absatz 1 Nummer 1 bis 4 des BSI-Gesetzes zur Registrierung zu übermitteln. § 33 Absatz 2 bis 5 des BSI-Gesetzes ist für den in Satz 1 genannten Betreiber entsprechend anzuwenden mit der Maßgabe, dass das Bundesamt für Sicherheit in der Informationstechnik die Registrierung auch selbst vornehmen und eine Kontaktstelle benennen kann, wenn der Betreiber seine Pflicht zur Registrierung nicht erfüllt. Nimmt das Bundesamt für Sicherheit in der Informationstechnik eine solche Registrierung selbst vor, so informiert es sowohl den betreffenden Betreiber als auch die Bundesnetzagentur darüber und übermittelt die damit verbundenen Kontaktdaten. Jeder Betreiber hat sicherzustellen, dass er über die von ihm benannte oder durch die durch das Bundesamt für Sicherheit in der Informationstechnik festgelegte Kontaktstelle jederzeit erreichbar ist. Für den Betreiber eines Energieversorgungsnetzes, der eine besonders wichtige Einrichtung nach § 28 Absatz 1 des BSI-Gesetzes oder eine wichtige Einrichtung nach § 28 Absatz 2 des BSI-Gesetzes ist und für Betreiber nach § 5c Absatz 1 Satz 1 Nummer 2 und 3 ist § 33 des BSI-Gesetzes auch mit den in den Sätzen 2 bis 4 enthaltenen Maßgaben anzuwenden. Das Bundesamt für Sicherheit in der Informationstechnik übermittelt die durch die Registrierung der Betreiber nach § 5c Absatz 1 Satz 1 Nummer 1 bis 3 erhaltenen Daten sowie jede Änderung der Registrierungen unverzüglich an die Bundesnetzagentur. Die Übermittlung von Informationen durch das Bundesamt für Sicherheit in der Informationstechnik nach § 40 Absatz 3 Nummer 4 Buchstabe a des BSI-Gesetzes erfolgt an diese Kontaktstelle.
+
+(5) Das Bundesamt für Sicherheit in der Informationstechnik hat die Hinweise oder Informationen nach Absatz 2 und solche Meldungen über Sicherheitsvorfälle nach § 32 des BSI-Gesetzes, bei denen das Bundesamt für Sicherheit in der Informationstechnik Kenntnis von einer Relevanz für die Energieversorgungssicherheit und die Erfüllung der Zwecke und Ziele nach § 1 erlangt, unverzüglich an die Bundesnetzagentur weiterzuleiten. Die Bundesnetzagentur führt unverzüglich eine Bewertung der Auswirkungen des nach Satz 1 übermittelten Sicherheitsvorfalls auf die Energieversorgungssicherheit durch und übermittelt ihre Ergebnisse an das Bundesamt für Sicherheit in der Informationstechnik. Die Bundesnetzagentur kann von dem betroffenen Unternehmen die Herausgabe der zur Bewertung der Auswirkungen des Sicherheitsvorfalls auf die Energieversorgungssicherheit notwendigen Informationen, einschließlich personenbezogener Daten, verlangen. Sie ist befugt, zur Bewertung der Auswirkungen des Sicherheitsvorfalls auf die Energieversorgungssicherheit erforderliche personenbezogene Daten zu erheben, zu speichern und zu verwenden. Das betroffene Unternehmen hat der Bundesnetzagentur die zur Bewertung der Auswirkungen des Sicherheitsvorfalls auf die Energieversorgungssicherheit notwendigen Informationen, einschließlich personenbezogener Daten, zu übermitteln. Die Bundesnetzagentur kann bei der Durchführung der Bewertung nach Satz 2 die Betreiber von Übertragungs-, von Fernleitungs- sowie von Verteilernetzen einbeziehen und ist befugt, ihnen die hierzu erforderlichen personenbezogenen Daten zu übermitteln. Die Betreiber von Übertragungs-, von Fernleitungs- sowie von Verteilernetzen sind befugt, die ihnen nach Satz 5 zum dort genannten Zweck übermittelten personenbezogenen Daten zu erheben, zu speichern und zu verwenden. Nach Erstellung der Bewertung sind die hierzu gespeicherten und verwendeten personenbezogenen Daten von der Bundesnetzagentur und den Betreibern von Übertragungs-, von Fernleitungs- sowie von Verteilernetzen unverzüglich zu löschen. Das Bundesamt für Sicherheit in der Informationstechnik berücksichtigt die Bewertung der Bundesnetzagentur bei der Erfüllung der Aufgaben nach § 40 Absatz 3 Nummer 2 des BSI-Gesetzes. Das Bundesamt für Sicherheit in der Informationstechnik und die Bundesnetzagentur haben jeweils sicherzustellen, dass die unbefugte Offenbarung der ihnen nach Satz 1 zur Kenntnis gelangten Hinweise und Meldungen ausgeschlossen wird. Zugang zu den Akten des Bundesamtes für Sicherheit in der Informationstechnik sowie zu den Akten der Bundesnetzagentur in Angelegenheiten nach § 5c Absatz 1 bis 5 und den Absätzen 1 bis 4 sowie dieses Absatzes wird nicht gewährt. § 29 des Verwaltungsverfahrensgesetzes bleibt unberührt.
+
+# § 5e – Umsetzungs-, Überwachungs- und Schulungspflicht für Geschäftsleitungen
+
+(1) Die Geschäftsleitung eines Betreibers nach § 5c Absatz 1 Satz 1 Nummer 1 bis 3 ist verpflichtet, die Anforderungen des IT-Sicherheitskatalogs umzusetzen und die Umsetzung zu überwachen.
+
+(2) Eine Geschäftsleitung eines Betreibers nach § 5c Absatz 1 Satz 1 Nummer 1 bis 3, die ihre Pflichten nach Absatz 1 verletzt, haftet ihrer Einrichtung für einen schuldhaft verursachten Schaden nach den auf die Rechtsform der Einrichtung anwendbaren Regeln des Gesellschaftsrechts. Nach diesem Gesetz haften sie nur, wenn die für die Einrichtung maßgeblichen gesellschaftsrechtlichen Bestimmungen keine Haftungsregelung nach Satz 1 enthalten.
+
+(3) Die Geschäftsleitung eines Betreibers nach § 5c Absatz 1 Satz 1 Nummer 1 bis 3 muss regelmäßig an Schulungen teilnehmen, um ausreichende Kenntnisse und Fähigkeiten zur Erkennung und Bewertung von Risiken und von Risikomanagementpraktiken im Bereich der Sicherheit in der Informationstechnik zu erlangen sowie um die Auswirkungen von Risiken sowie Risikomanagementpraktiken auf die von der Einrichtung erbrachten Dienste beurteilen zu können.
+
 # § 6 – Anwendungsbereich und Ziel der Entflechtung
 
 Vertikal integrierte Unternehmen und rechtlich selbstständige Betreiber von Elektrizitäts- und Gasversorgungsnetzen, die im Sinne des § 3 Nummer 38 mit einem vertikal integrierten Unternehmen verbunden sind, sind zur Gewährleistung von Transparenz sowie diskriminierungsfreier Ausgestaltung und Abwicklung des Netzbetriebs verpflichtet. Um dieses Ziel zu erreichen, müssen sie die Unabhängigkeit der Netzbetreiber von anderen Tätigkeitsbereichen der Energieversorgung nach den §§ 6a bis 10e sicherstellen. Die §§ 9 bis 10e sind nur auf solche Transportnetze anwendbar, die am 3. September 2009 im Eigentum eines vertikal integrierten Unternehmens standen.
@@ -2449,34 +2581,6 @@ Unabhängige Transportnetzbetreiber und vertikal integrierte Unternehmen haben s
 # § 11 – Betrieb von Energieversorgungsnetzen
 
 (1) Betreiber von Energieversorgungsnetzen sind verpflichtet, ein sicheres, zuverlässiges und leistungsfähiges Energieversorgungsnetz diskriminierungsfrei zu betreiben, zu warten und bedarfsgerecht zu optimieren, zu verstärken und auszubauen, soweit es wirtschaftlich zumutbar ist; dabei sind die Erfordernisse im Verkehrs-, Wärme-, Industrie- und Strombereich zu beachten, die sich ergeben, um Treibhausgasneutralität zu ermöglichen. Betreiber von Energieversorgungsnetzen haben insbesondere die Aufgaben nach den §§ 12 bis 16a zu erfüllen. Sie nehmen diese Aufgaben für ihr Energieversorgungsnetz in eigener Verantwortung wahr. Sie kooperieren und unterstützen sich bei der Wahrnehmung dieser Aufgaben; dies ist insbesondere für Maßnahmen anzuwenden, die sich auf das Netz eines anderen Betreibers von Energieversorgungsnetzen auswirken können. Die Verpflichtungen sind auch anzuwenden im Rahmen der Wahrnehmung der wirtschaftlichen Befugnisse der Leitung des vertikal integrierten Unternehmens und seiner Aufsichtsrechte nach § 7a Absatz 4 Satz 3. Der Ausbau eines L-Gasversorgungsnetzes ist nicht bedarfsgerecht im Sinne von Satz 1, wenn er auf Grund von Netzanschlüssen erfolgen muss, zu deren Einräumung der Betreiber des L-Gasversorgungsnetzes nicht nach den §§ 17 und 18 verpflichtet war.
-
-(1a) Der Betrieb eines sicheren Energieversorgungsnetzes umfasst insbesondere auch einen angemessenen Schutz gegen Bedrohungen für Telekommunikations- und elektronische Datenverarbeitungssysteme, die für einen sicheren Netzbetrieb notwendig sind. Die Regulierungsbehörde erstellt hierzu im Benehmen mit dem Bundesamt für Sicherheit in der Informationstechnik einen Katalog von Sicherheitsanforderungen und veröffentlicht diesen. Der Katalog der Sicherheitsanforderungen enthält auch Regelungen zur regelmäßigen Überprüfung der Erfüllung der Sicherheitsanforderungen. Ein angemessener Schutz des Betriebs eines Energieversorgungsnetzes liegt vor, wenn dieser Katalog der Sicherheitsanforderungen eingehalten und dies vom Betreiber dokumentiert worden ist. Die Einhaltung kann von der Regulierungsbehörde überprüft werden. Zu diesem Zwecke kann die Regulierungsbehörde nähere Bestimmungen zu Format, Inhalt und Gestaltung der Dokumentation nach Satz 4 treffen.
-
-(1b) Betreiber von Energieanlagen, die durch Inkrafttreten der Rechtsverordnung gemäß § 10 Absatz 1 des BSI-Gesetzes vom 14. August 2009 (BGBl. I S. 2821), das zuletzt durch Artikel 8 des Gesetzes vom 17. Juli 2015 (BGBl. I S. 1324) geändert worden ist, in der jeweils geltenden Fassung als Kritische Infrastruktur bestimmt wurden und an ein Energieversorgungsnetz angeschlossen sind, haben innerhalb einer von der Regulierungsbehörde festzulegenden Frist einen angemessenen Schutz gegen Bedrohungen für Telekommunikations- und elektronische Datenverarbeitungssysteme zu gewährleisten, die für einen sicheren Anlagenbetrieb notwendig sind. Die Regulierungsbehörde erstellt hierzu im Benehmen mit dem Bundesamt für Sicherheit in der Informationstechnik einen Katalog von Sicherheitsanforderungen, in den auch die Bestimmung der Frist nach Satz 1 aufzunehmen ist, und veröffentlicht diesen. Für Telekommunikations- und elektronische Datenverarbeitungssysteme von Anlagen nach § 7 Absatz 1 des Atomgesetzes haben Vorgaben auf Grund des Atomgesetzes Vorrang. Die für die nukleare Sicherheit zuständigen Genehmigungs- und Aufsichtsbehörden des Bundes und der Länder sind bei der Erarbeitung des Katalogs von Sicherheitsanforderungen zu beteiligen. Der Katalog von Sicherheitsanforderungen enthält auch Regelungen zur regelmäßigen Überprüfung der Erfüllung der Sicherheitsanforderungen. Ein angemessener Schutz des Betriebs von Energieanlagen im Sinne von Satz 1 liegt vor, wenn dieser Katalog eingehalten und dies vom Betreiber dokumentiert worden ist. Die Einhaltung kann von der Bundesnetzagentur überprüft werden. Zu diesem Zwecke kann die Regulierungsbehörde nähere Bestimmungen zu Format, Inhalt und Gestaltung der Dokumentation nach Satz 6 treffen.
-
-(1c) Betreiber von Energieversorgungsnetzen und von solchen Energieanlagen, die durch Inkrafttreten der Rechtsverordnung gemäß § 10 Absatz 1 des BSI-Gesetzes als Kritische Infrastruktur bestimmt wurden, haben
-
-1. Störungen der Verfügbarkeit, Integrität, Authentizität und Vertraulichkeit ihrer informationstechnischen Systeme, Komponenten oder Prozesse, die zu einem Ausfall oder einer erheblichen Beeinträchtigung der Funktionsfähigkeit des Energieversorgungsnetzes oder der betreffenden Energieanlage geführt haben,
-
-2. erhebliche Störungen der Verfügbarkeit, Integrität, Authentizität und Vertraulichkeit ihrer informationstechnischen Systeme, Komponenten oder Prozesse, die zu einem Ausfall oder einer erheblichen Beeinträchtigung der Funktionsfähigkeit des Energieversorgungsnetzes oder der betreffenden Energieanlage führen können,
-
-über die Kontaktstelle unverzüglich an das Bundesamt für Sicherheit in der Informationstechnik zu melden.
-
-Die Meldung muss Angaben zu der Störung, zu möglichen grenzübergreifenden Auswirkungen sowie zu den technischen Rahmenbedingungen, insbesondere der vermuteten oder tatsächlichen Ursache und der betroffenen Informationstechnik, enthalten. Die Nennung des Betreibers ist nur dann erforderlich, wenn die Störung tatsächlich zu einem Ausfall oder einer Beeinträchtigung der Funktionsfähigkeit der Kritischen Infrastruktur geführt hat. Das Bundesamt für Sicherheit in der Informationstechnik hat die Meldungen unverzüglich an die Bundesnetzagentur weiterzuleiten. Das Bundesamt für Sicherheit in der Informationstechnik und die Bundesnetzagentur haben sicherzustellen, dass die unbefugte Offenbarung der ihnen nach Satz 1 zur Kenntnis gelangten Angaben ausgeschlossen wird. Zugang zu den Akten des Bundesamtes für Sicherheit in der Informationstechnik sowie zu den Akten der Bundesnetzagentur in Angelegenheiten nach § 11 Absatz 1a bis Absatz 1c wird nicht gewährt. § 29 des Verwaltungsverfahrensgesetzes bleibt unberührt. § 8e Absatz 1 des BSI-Gesetzes ist entsprechend anzuwenden.
-
-(1d) Betreiber von Energieversorgungsnetzen und von solchen Energieanlagen, die durch Inkrafttreten der Rechtsverordnung gemäß § 10 Absatz 1 des BSI-Gesetzes als Kritische Infrastruktur bestimmt wurden, sind verpflichtet, spätestens bis zum 1. April jeden Jahres, die von ihnen betriebene Anlage beim Bundesamt für Sicherheit in der Informationstechnik zu registrieren und eine Kontaktstelle zu benennen. Das Bundesamt für Sicherheit in der Informationstechnik übermittelt die Registrierungen einschließlich der damit verbundenen Kontaktdaten an die Bundesnetzagentur. Die Registrierung eines Betreibers eines Energieversorgungsnetzes oder von solchen Energieanlagen, die durch Inkrafttreten der Rechtsverordnung gemäß § 10 Absatz 1 des BSI-Gesetzes als Kritische Infrastruktur bestimmt wurden, kann das Bundesamt für Sicherheit in der Informationstechnik auch selbst vornehmen, wenn der Betreiber seine Pflicht zur Registrierung nicht erfüllt. Nimmt das Bundesamt für Sicherheit in der Informationstechnik eine solche Registrierung selbst vor, informiert es die Bundesnetzagentur darüber und übermittelt die damit verbundenen Kontaktdaten. Die Betreiber haben sicherzustellen, dass sie über die benannte oder durch das Bundesamt für Sicherheit in der Informationstechnik festgelegte Kontaktstelle jederzeit erreichbar sind. Die Übermittlung von Informationen durch das Bundesamt für Sicherheit in der Informationstechnik nach § 8b Absatz 2 Nummer 4 Buchstabe a des BSI-Gesetzes erfolgt an diese Kontaktstelle.
-
-(1e) Betreiber von Energieversorgungsnetzen und von solchen Energieanlagen, die durch Inkrafttreten der Rechtsverordnung gemäß § 10 Absatz 1 des BSI-Gesetzes als Kritische Infrastruktur bestimmt wurden, haben spätestens ab dem 1. Mai 2023 in ihren informationstechnischen Systemen, Komponenten oder Prozessen, die für die Funktionsfähigkeit der von ihnen betriebenen Energieversorgungsnetze oder Energieanlagen maßgeblich sind, in angemessener Weise Systeme zur Angriffserkennung einzusetzen. Die eingesetzten Systeme zur Angriffserkennung müssen geeignete Parameter und Merkmale aus dem laufenden Betrieb kontinuierlich und automatisch erfassen und auswerten. Sie sollten dazu in der Lage sein, fortwährend Bedrohungen zu identifizieren und zu vermeiden sowie für eingetretene Störungen geeignete Beseitigungsmaßnahmen vorsehen. Dabei soll der Stand der Technik eingehalten werden. Der Einsatz von Systemen zur Angriffserkennung ist angemessen, wenn der dafür erforderliche Aufwand nicht außer Verhältnis zu den möglichen Folgen eines Ausfalls oder einer Beeinträchtigung des betroffenen Energieversorgungsnetzes oder der betroffenen Energieanlage steht.
-
-(1f) Betreiber von Energieversorgungsnetzen und von solchen Energieanlagen, die nach der Rechtsverordnung gemäß § 10 Absatz 1 des BSI-Gesetzes als Kritische Infrastruktur gelten, haben dem Bundesamt für Sicherheit in der Informationstechnik erstmalig am 1. Mai 2023 und danach alle zwei Jahre die Erfüllung der Anforderungen nach Absatz 1e nachzuweisen. Das Bundesamt für Sicherheit in der Informationstechnik hat die hierfür eingereichten Nachweisdokumente unverzüglich an die Bundesnetzagentur weiterzuleiten. Das Bundesamt für Sicherheit in der Informationstechnik und die Bundesnetzagentur haben sicherzustellen, dass die unbefugte Offenbarung der ihnen nach Satz 1 zur Kenntnis gelangten Angaben ausgeschlossen wird. Das Bundesamt für Sicherheit in der Informationstechnik kann bei Mängeln in der Umsetzung der Anforderungen nach Absatz 1e oder in den Nachweisdokumenten nach Satz 1 im Einvernehmen mit der Bundesnetzagentur die Beseitigung der Mängel verlangen.
-
-(1g) Die Bundesnetzagentur legt bis zum 22. Mai 2023 im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik durch Allgemeinverfügung im Wege einer Festlegung nach § 29 Absatz 1 in einem Katalog von Sicherheitsanforderungen für das Betreiben von Energieversorgungsnetzen und Energieanlagen fest,
-
-1. welche Komponenten kritische Komponenten im Sinne des § 2 Absatz 13 Satz 1 Nummer 3 Buchstabe a des BSI-Gesetzes sind oder
-
-2. welche Funktionen kritisch bestimmte Funktionen im Sinne des § 2 Absatz 13 Satz 1 Nummer 3 Buchstabe b des BSI-Gesetzes sind.
-
-Die Betreiber von Energieversorgungsnetzen und Energieanlagen, die durch Rechtsverordnung gemäß § 10 Absatz 1 Satz 1 des BSI-Gesetzes als Kritische Infrastruktur bestimmt wurden, haben die Vorgaben des Katalogs spätestens sechs Monate nach dessen Inkrafttreten zu erfüllen, es sei denn, in dem Katalog ist eine davon abweichende Umsetzungsfrist festgelegt worden. Der Katalog wird mit den Katalogen der Sicherheitsanforderungen nach § 11 Absatz 1a und 1b verbunden.
 
 (2) Für einen bedarfsgerechten, wirtschaftlich zumutbaren Ausbau der Elektrizitätsversorgungsnetze nach Absatz 1 Satz 1 können Betreiber von Elektrizitätsversorgungsnetzen den Berechnungen für ihre Netzplanung die Annahme zugrunde legen, dass die prognostizierte jährliche Stromerzeugung je unmittelbar an ihr Netz angeschlossener Anlage zur Erzeugung von elektrischer Energie aus Windenergie an Land oder solarer Strahlungsenergie um bis zu 3 Prozent reduziert werden darf (Spitzenkappung). Betreiber von Elektrizitätsversorgungsnetzen, die für ihre Netzplanung eine Spitzenkappung zugrunde gelegt haben, müssen dies
 
@@ -4312,6 +4416,18 @@ Sofern im Haushaltsgesetz des Kalenderjahres, das dem Kalenderjahr vorangeht, in
 
 (5) Wenn das Bankkonto nach § 26 Absatz 1 Satz 1 des Strompreisbremsegesetzes auch nach den Buchungen nach Absatz 4 zur Gewährung der monatlichen Rate nach Absatz 1 Satz 3 nicht ausreichend gedeckt ist oder eine Abbuchung nach Absatz 1 Satz 2 aus rechtlichen Gründen nicht möglich ist, sind die Übertragungsnetzbetreiber mit Regelzonenverantwortung abweichend von § 20 Absatz 1 berechtigt, ihre Netzentgelte im Kalenderjahr 2023 einmalig unterjährig zum ersten Tag eines Monats anzupassen. Die Entscheidung zur Neukalkulation der Übertragungsnetzentgelte nach Satz 1 ist von allen Übertragungsnetzbetreibern mit Regelzonenverantwortung gemeinsam zu treffen. Die beabsichtigte Anpassung ist sechs Wochen vor ihrem Wirksamwerden der Bundesnetzagentur mitzuteilen und auf der gemeinsamen Internetseite der Übertragungsnetzbetreiber mit Regelzonenverantwortung zu veröffentlichen. Sofern die Übertragungsnetzbetreiber mit Regelzonenverantwortung das Recht nach Satz 1 zur einmaligen unterjährigen Anpassung ihrer Netzentgelte nutzen, sind auch die Betreiber von Elektrizitätsverteilernetzen abweichend von § 20 Absatz 1 berechtigt, auf dieser Grundlage ihre Netzentgelte zu demselben Datum anzupassen.
 
+# § 24c – Weiterer Zuschuss zur anteiligen Finanzierung der Übertragungsnetzkosten; Zahlungsmodalitäten; Festlegungskompetenz
+
+(1) Die Übertragungsnetzbetreiber mit Regelzonenverantwortung haben im Kalenderjahr 2026 einen Anspruch gegen die Bundesrepublik Deutschland auf Zahlung eines Zuschusses in Höhe von insgesamt 6,5 Milliarden Euro. Der Zuschuss dient der anteiligen Deckung der Netzkosten der Übertragungsnetzbetreiber mit Regelzonenverantwortung im Kalenderjahr 2026 und wird jeweils in zehn gleichen Raten gezahlt. Zu diesem Zweck erhalten die Übertragungsnetzbetreiber mit Regelzonenverantwortung den nach Absatz 2 für sie berechneten Anteil an dem Zuschuss nach Maßgabe des Satzes 4. Die Zahlung an einen Übertragungsnetzbetreiber mit Regelzonenverantwortung erfolgt im Kalenderjahr 2026 auf dessen Anforderung jeweils zum 15. eines Kalendermonats, beginnend mit dem 15. Februar und endend mit dem 15. November des Kalenderjahres 2026, in Höhe seines Anteils nach Absatz 2 an dem Gesamtbetrag von 650 Millionen Euro. § 20 Absatz 1 Satz 1 bleibt unberührt.
+
+(2) Die Aufteilung der monatlichen Raten auf die Übertragungsnetzbetreiber mit Regelzonenverantwortung erfolgt entsprechend dem jeweiligen Anteil ihrer Erlösobergrenze im Kalenderjahr 2026 an der Summe der Erlösobergrenzen aller Übertragungsnetzbetreiber mit Regelzonenverantwortung. Bei der Aufteilung ist in zeitlicher Hinsicht jeweils auf die Erlösobergrenzen abzustellen, die der Veröffentlichung der Übertragungsnetzentgelte für das Kalenderjahr 2026 nach § 20 Absatz 1 Satz 1 zugrunde liegen. Die Anforderungen durch einen Übertragungsnetzbetreiber mit Regelzonenverantwortung nach Absatz 1 Satz 4 und die Zahlung der Raten an den Übertragungsnetzbetreiber mit Regelzonenverantwortung erfolgen entsprechend diesem Verhältnis.
+
+(3) Die Übertragungsnetzbetreiber mit Regelzonenverantwortung haben den Zuschuss nach Absatz 1 Satz 1 bei der Ermittlung der bundeseinheitlichen Übertragungsnetzentgelte, die auf Grundlage von § 24 und der Stromnetzentgeltverordnung vom 25. Juli 2005 (BGBl. I S. 2225), die zuletzt durch Artikel 3 des Gesetzes vom 22. Dezember 2023 (BGBl. 2023 I Nr. 405) geändert worden ist, erfolgt, für das Kalenderjahr 2026 rechnerisch von dem Gesamtbetrag der in die Ermittlung der bundeseinheitlichen Übertragungsnetzentgelte einfließenden Erlösobergrenzen abzuziehen und zur Minderung der Netzentgelte entsprechend einzusetzen. Die Bundesnetzagentur ist berechtigt, durch Festlegung nach § 29 Absatz 1 nähere Vorgaben zur Berücksichtigung des Zuschusses bei der Ermittlung der bundeseinheitlichen Übertragungsnetzentgelte zu machen.
+
+(4) Nähere Bestimmungen zu den Zahlungen der Bundesrepublik Deutschland nach den Absätzen 1 und 2 sind in einem öffentlich-rechtlichen Vertrag zwischen den Übertragungsnetzbetreibern mit Regelzonenverantwortung und der Bundesrepublik Deutschland zu regeln. Die Bundesrepublik Deutschland wird bei dem Vertrag durch das Bundesministerium für Wirtschaft und Energie vertreten. Der Vertrag bedarf des Einvernehmens mit dem Bundesministerium der Finanzen. Er kann insbesondere nähere Bestimmungen zu der Aufteilung der Mittel zwischen den Übertragungsnetzbetreibern mit Regelzonenverantwortung enthalten.
+
+(5) Wenn eine Zahlung nach Absatz 1 Satz 4 nicht erfolgt oder aus rechtlichen Gründen nicht möglich ist, sind die Übertragungsnetzbetreiber mit Regelzonenverantwortung abweichend von § 20 Absatz 1 Satz 1 berechtigt, ihre Netzentgelte im Kalenderjahr 2026 einmalig unterjährig zum ersten Tag eines Monats anzupassen. Die Entscheidung zur Anpassung der Übertragungsnetzentgelte ist von allen Übertragungsnetzbetreibern mit Regelzonenverantwortung gemeinsam zu treffen. Die beabsichtigte Anpassung ist sechs Wochen vor ihrem Wirksamwerden der Bundesnetzagentur mitzuteilen und auf der gemeinsamen Internetseite der Übertragungsnetzbetreiber mit Regelzonenverantwortung zu veröffentlichen. Sofern die Übertragungsnetzbetreiber mit Regelzonenverantwortung das Recht nach Satz 1 zur einmaligen unterjährigen Anpassung ihrer Netzentgelte nutzen, sind auch die Betreiber von Elektrizitätsverteilernetzen abweichend von § 20 Absatz 1 Satz 1 berechtigt, auf dieser Grundlage ihre Netzentgelte zu demselben Datum anzupassen.
+
 # § 25 – Ausnahmen vom Zugang zu den Gasversorgungsnetzen im Zusammenhang mit unbedingten Zahlungsverpflichtungen
 
 Die Gewährung des Zugangs zu den Gasversorgungsnetzen ist im Sinne des § 20 Abs. 2 insbesondere dann nicht zumutbar, wenn einem Gasversorgungsunternehmen wegen seiner im Rahmen von Gaslieferverträgen eingegangenen unbedingten Zahlungsverpflichtungen ernsthafte wirtschaftliche und finanzielle Schwierigkeiten entstehen würden. Auf Antrag des betroffenen Gasversorgungsunternehmens entscheidet die Regulierungsbehörde, ob die vom Antragsteller nachzuweisenden Voraussetzungen des Satzes 1 vorliegen. Die Prüfung richtet sich nach Artikel 48 der Richtlinie 2009/73/EG (ABl. L 211 vom 14.8.2009, S. 94). Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die bei der Prüfung nach Artikel 48 der Richtlinie 2009/73/EG anzuwendenden Verfahrensregeln festzulegen. In der Rechtsverordnung nach Satz 4 kann vorgesehen werden, dass eine Entscheidung der Regulierungsbehörde, auch abweichend von den Vorschriften dieses Gesetzes, ergehen kann, soweit dies in einer Entscheidung der Kommission der Europäischen Gemeinschaften vorgesehen ist.
@@ -4766,7 +4882,7 @@ Sofern ein Antrag nicht die Voraussetzungen des Satzes 1 erfüllt, weist die Reg
 
 (2) Die Vorschriften dieses Teils sind nur für Gasspeicheranlagen anzuwenden, die mindestens einen Einspeisepunkt an das deutsche Fernleitungsnetz haben. Die zu Speicherzwecken genutzten Teile von LNG Anlagen sind von den Vorschriften dieses Teils ausgenommen.
 
-(+++ § 35a: Zur Anwendung bis zum Ablauf des 31.3.2027 vgl. § 35g Abs. 2 +++)
+(+++ § 35a: Zur Anwendung bis zum Ablauf des 31.3.2027 vgl. § 35g Abs. 2 idF d. Art. 1 Nr. 6 G v. 5.2.2024 I Nr. 32 u. § 35i +++)
 
 # § 35b – Füllstandsvorgaben; Bereitstellung ungenutzter Speicherkapazitäten; Verordnungsermächtigung
 
@@ -4798,7 +4914,7 @@ Satz 3 ist entsprechend für Maßnahmen nach § 35c Absatz 2 Satz 3 anzuwenden. 
 
 (7) Das Bundesministerium für Wirtschaft und Klimaschutz kann ohne Zustimmung des Bundesrates durch Rechtsverordnung ein von Absatz 5 und 6 abweichendes Verfahren über die Zurverfügungstellung vom Nutzer einer Gasspeicheranlage ungenutzter Kapazitäten an den Marktgebietsverantwortlichen regeln, soweit dies zur Gewährleistung der Versorgungssicherheit erforderlich ist. Hierzu kann unter Berücksichtigung der technischen und wirtschaftlichen Rahmenbedingungen insbesondere geregelt werden, ob die vom Nutzer einer Gasspeicheranlage ungenutzten Speicherkapazitäten als unterbrechbare Kapazitäten durch den Marktgebietsverantwortlichen genutzt werden dürfen.
 
-(+++ § 35b: Zur Anwendung bis zum Ablauf des 31.3.2027 vgl. § 35g Abs. 2 +++)  
+(+++ § 35b: Zur Anwendung bis zum Ablauf des 31.3.2027 vgl. § 35g Abs. 2 idF d. Art. 1 Nr. 6 G v. 5.2.2024 I Nr. 32 u. § 35i +++)  
 (+++ § 35b Abs. 5 Satz 3: Zur Anwendung ab dem 1.4.2024 vgl. § 35g Abs. 1 +++)
 
 # § 35c – Kontrahierung von Befüllungsinstrumenten; ergänzende Maßnahmen zur Gewährleistung der Versorgungssicherheit
@@ -4807,7 +4923,7 @@ Satz 3 ist entsprechend für Maßnahmen nach § 35c Absatz 2 Satz 3 anzuwenden. 
 
 (2) Sollten Maßnahmen nach Absatz 1 sowie Einspeicherungen der Nutzer einer Gasspeicheranlage zur Erreichung der Füllstände nach § 35b Absatz 1 sowie Absatz 3 nicht ausreichen, so ergreift der Marktgebietsverantwortliche nach Zustimmung des Bundesministeriums für Wirtschaft und Klimaschutz im Einvernehmen mit der Bundesnetzagentur in dem zur Erreichung der Füllstandsvorgaben erforderlichen Umfang zusätzliche Maßnahmen. Diese umfassen die zusätzliche, auch kurzfristige Ausschreibung von Befüllungsinstrumenten für die nach § 35b Absatz 5 zur Verfügung gestellten Kapazitäten in einem marktbasierten, transparenten und nichtdiskriminierenden öffentlichen Ausschreibungsverfahren sowie den Erwerb physischen Gases und dessen Einspeicherung. Sofern die nach § 35b Absatz 5 zur Verfügung gestellten Kapazitäten hierzu nicht ausreichen, kann der Marktgebietsverantwortliche die benötigten Speicherkapazitäten buchen, wobei der Marktgebietsverantwortliche hierfür ein Speicherentgelt zu zahlen hat, das sich rechnerisch ergibt, indem für die jeweilige Gasspeicheranlage für die letzten drei abgeschlossenen Speicherjahre jeweils ein durchschnittliches Speicherentgelt ermittelt und das niedrigste dieser drei durchschnittlichen Speicherentgelte herangezogen wird.
 
-(+++ § 35c: Zur Anwendung bis zum Ablauf des 31.3.2027 vgl. § 35g Abs. 2 +++)
+(+++ § 35c: Zur Anwendung bis zum Ablauf des 31.3.2027 vgl. § 35g Abs. 2 idF d. Art. 1 Nr. 6 G v. 5.2.2024 I Nr. 32 u. § 35i +++)
 
 # § 35d – Freigabeentscheidung
 
@@ -4827,25 +4943,84 @@ Satz 1 gilt entsprechend für die Anordnung, dass vorübergehend und in Abweichu
 
 (4) Der Marktgebietsverantwortliche hat die nach § 35c Absatz 2 physisch erworbenen Gasmengen spätestens ab dem 1. Januar eines Jahres bis zum Ende des Speicherjahres gleichmäßig zu veräußern. Der Marktgebietsverantwortliche hat das Bundesministerium für Wirtschaft und Klimaschutz sowie die Bundesnetzagentur mindestens zwei Wochen vor dem Beginn der Veräußerungen nach Satz 1 schriftlich oder elektronisch zu informieren. Satz 1 gilt nicht, wenn zu erwarten ist, dass die Füllstandsvorgaben nach § 35b Absatz 1 oder nach der Rechtsverordnung nach § 35b Absatz 3 in der Folgeperiode nicht ohne Maßnahmen nach § 35c Absatz 2 gewährleistet werden können oder das Bundesministerium für Wirtschaft und Klimaschutz im Einvernehmen mit der Bundesnetzagentur der Veräußerung widersprochen hat. Absatz 1 bleibt unberührt.
 
-(+++ § 35d: Zur Anwendung bis zum Ablauf des 31.3.2027 vgl. § 35g Abs. 2 +++)
+(+++ § 35d: Zur Anwendung bis zum Ablauf des 31.3.2027 vgl. § 35g Abs. 2 idF d. Art. 1 Nr. 6 G v. 5.2.2024 I Nr. 32 u. § 35i +++)
 
-# § 35e – Umlage der Kosten des Marktgebietsverantwortlichen; Finanzierung
+# § 35e – Umlage der Kosten des Marktgebietsverantwortlichen bis zum Ablauf des 31. Dezember 2025; Finanzierung
 
-Die dem Marktgebietsverantwortlichen im Zusammenhang mit seinen Aufgaben zur Sicherstellung der Versorgungssicherheit entstehenden Kosten werden diskriminierungsfrei und in einem transparenten Verfahren auf die Bilanzkreisverantwortlichen im Marktgebiet umgelegt. Ab dem 1. Januar 2025 darf der Marktgebietsverantwortliche die Umlage dabei ausschließlich auf die täglich aus einem Bilanzkreis an Entnahmestellen mit registrierender Leistungsmessung sowie an Entnahmestellen mit standardisierten Lastprofilen physikalisch ausgespeisten Mengen erheben. Zur Umlage der Kosten hat der Marktgebietsverantwortliche die Kosten und Erlöse, die im Rahmen der ergriffenen Maßnahmen nach diesem Teil, insbesondere nach den §§ 35c und 35d, entstehen, transparent und für Dritte nachvollziehbar zu ermitteln. Die Kosten und Erlöse sind zu saldieren. Der Marktgebietsverantwortliche ist berechtigt, von den Bilanzkreisverantwortlichen Abschlagszahlungen zur Deckung der voraussichtlichen Kosten zu verlangen. Die Einzelheiten genehmigt die Bundesnetzagentur im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz und dem Bundesministerium der Finanzen nach § 29 Absatz 1; dem Marktgebietsverantwortlichen ist Gelegenheit zur Stellungnahme zu geben.
+Die dem Marktgebietsverantwortlichen im Zusammenhang mit seinen Aufgaben zur Sicherstellung der Versorgungssicherheit entstehenden Kosten werden bis zum Ablauf des 31. Dezember 2025 diskriminierungsfrei und in einem transparenten Verfahren auf die Bilanzkreisverantwortlichen im Marktgebiet umgelegt. Die Umlage nach Satz 1 darf keine Kosten erfassen, die dem Marktgebietsverantwortlichen für etwaige Maßnahmen entstehen oder entstanden sind, die von ihm auf der Grundlage dieses Teils ab dem 1. August 2025 ergriffen werden und die, unabhängig von dem Ergreifen solcher Maßnahmen, ab dem 1. August 2025 über die reinen Sach-, Personal-, Beratungs- sowie Finanzierungskosten des Marktgebietsverantwortlichen für die von ihm wahrzunehmenden Aufgaben nach diesem Teil hinausgehen. Seit dem 1. Januar 2025 darf der Marktgebietsverantwortliche die Umlage ausschließlich auf die täglich aus einem Bilanzkreis an Entnahmestellen mit registrierender Leistungsmessung sowie an Entnahmestellen mit standardisierten Lastprofilen physikalisch ausgespeisten Mengen erheben. Zur Umlage der Kosten hat der Marktgebietsverantwortliche die Kosten und Erlöse, die im Rahmen der ergriffenen Maßnahmen nach diesem Teil, insbesondere für Maßnahmen nach den §§ 35c und 35d, entstehen, transparent und für Dritte nachvollziehbar zu ermitteln. Die Kosten und Erlöse sind zu saldieren. Der Marktgebietsverantwortliche ist berechtigt, von den Bilanzkreisverantwortlichen Abschlagszahlungen zur Deckung der voraussichtlichen Kosten zu verlangen. Die Einzelheiten genehmigt die Bundesnetzagentur im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und dem Bundesministerium der Finanzen nach § 29 Absatz 1, dabei ist dem Marktgebietsverantwortlichen Gelegenheit zur Stellungnahme zu geben.
 
-# § 35f – Evaluierung
+(+++ § 35e: Zur Anwendung bis zum Ablauf des 31.3.2027 vgl. § 35i +++)
 
-Das Bundesministerium für Wirtschaft und Klimaschutz bewertet bis zum 15. Dezember 2022 die Umsetzung der Vorschriften dieses Teils und evaluiert bis zum 1. April 2023 die Vorschriften dieses Teils und deren Auswirkungen. Die Berichte sind unverzüglich dem Deutschen Bundestag vorzulegen.
+# § 35f – Erstattung der Kosten des Marktgebietsverantwortlichen ab dem 1. Januar 2026 durch Zahlungen der Bundesrepublik Deutschland
 
-(+++ § 35f: Zur Anwendung bis zum Ablauf des 31.3.2027 vgl. § 35g Abs. 2 +++)
+(1) Die dem Marktgebietsverantwortlichen im Zusammenhang mit seinen Aufgaben zur Sicherstellung der Versorgungssicherheit nach diesem Teil ab dem 1. Januar 2026 entstehenden Kosten werden nach Maßgabe der Absätze 2 bis 5 ab dem 1. Januar 2026 von der Bundesrepublik Deutschland erstattet, wenn eine Rechtsverordnung nach § 35h nichts anderes bestimmt. Dem Marktgebietsverantwortlichen dürfen zu keinem Zeitpunkt Gewinne oder Verluste im Zusammenhang mit seinen Tätigkeiten nach diesem Teil entstehen.
 
-# § 35g – Anwendungsbestimmungen
+(2) Der Marktgebietsverantwortliche erstellt erstmals für den Zeitraum vom 1. Januar 2026 bis zum Ablauf des 31. März 2026 sowie nachfolgend für jedes Gasspeicherjahr für den Zeitraum vom 1. April eines Kalenderjahres bis zum Ablauf des 31. März des Folgejahres jeweils eine Berechnung von Kosten und Erlösen (Kostenberechnung). Bei der Kostenberechnung hat der Marktgebietsverantwortliche die Kosten und Erlöse, die im Rahmen der von ihm ergriffenen Maßnahmen nach diesem Teil entstanden sind, objektiv und transparent und für Dritte nachvollziehbar darzustellen. Die in der Kostenberechnung zu berücksichtigenden Kosten und Erlöse sind insbesondere:
 
-(1) Der § 35b Absatz 5 Satz 3 ist ab dem 1. April 2024 anzuwenden.
+1. die Kosten für Maßnahmen nach § 35c,
 
-(2) Die §§ 35a bis 35f sind bis zum Ablauf des 31. März 2027 anzuwenden.
+2. die Sach-, Personal-, Beratungs- sowie Finanzierungskosten für die Aufgaben nach diesem Teil, die Erlöse aus dem Verkauf von gespeicherten Gasmengen nach § 35c sowie
 
-# § 35h – Außerbetriebnahme und Stilllegung von Gasspeichern
+3. sonstige Erlöse aus der Erfüllung der Aufgaben nach § 35c.
+
+Die Kosten und Erlöse sind zu saldieren. Der Marktgebietsverantwortliche hat die erstellte Kostenberechnung durch einen von ihm beauftragten Prüfer im Sinne des § 2 Nummer 12 des Energiefinanzierungsgesetzes prüfen zu lassen.
+
+(3) Der Marktgebietsverantwortliche hat der Bundesnetzagentur und dem Bundesministerium für Wirtschaft und Energie jeweils spätestens bis zum Ablauf des 31. Mai eines jeden Kalenderjahres die nach Absatz 2 für das vorangegangene Gasspeicherjahr erstellte und geprüfte Kostenberechnung zu übermitteln. Die Kostenberechnung für den Zeitraum vom 1. Januar 2026 bis zum Ablauf des 31. März 2026 ist bis spätestens zum Ablauf des 31. Mai 2026 zu übermitteln. Die Bundesnetzagentur prüft jede Kostenberechnung auf Plausibilität und teilt ihr Prüfergebnis dem Bundesministerium für Wirtschaft und Energie innerhalb eines Monats nach Eingang der Kostenberechnung mit. Kostenpositionen, die von dem Prüfer gemäß § 2 Nummer 12 des Energiefinanzierungsgesetzes bestätigt wurden, gelten widerleglich als plausibel. Die Kostenberechnung ist, wenn sie von der Bundesnetzagentur für plausibel erachtet wurde, von dem Marktgebietsverantwortlichen sowie von der Bundesnetzagentur auf ihrer jeweiligen Internetseite zu veröffentlichen.
+
+(4) Soweit die in der Kostenberechnung dargelegten Kosten die dargelegten Erlöse übersteigen und die Kostenberechnung von der Bundesnetzagentur für plausibel erachtet wurde, hat der Marktgebietsverantwortliche gegen die Bundesrepublik Deutschland einen Anspruch auf Erstattung dieses negativen Differenzbetrages. Soweit die in der Kostenberechnung dargelegten Erlöse die dargelegten Kosten übersteigen und die Kostenberechnung von der Bundesnetzagentur für plausibel erachtet wurde, hat der Marktgebietsverantwortliche diesen positiven Differenzbetrag unverzüglich und kostenmindernd den Bilanzierungsumlagekonten zuzuführen. Der Anspruch nach Satz 1 ist am 31. Juli des jeweiligen Kalenderjahres, in dem die Kostenberechnung zu übermitteln war, frühestens jedoch zwei Wochen nach der Plausibilitätserklärung der Bundesnetzagentur, fällig.
+
+(5) Nähere Bestimmungen zu der nach Absatz 4 von der Bundesrepublik Deutschland vorzunehmenden Zahlung legen der Marktgebietsverantwortliche und die Bundesrepublik Deutschland, vertreten durch das Bundesministerium für Wirtschaft und Energie, in einem öffentlich-rechtlichen Vertrag fest. Das Bundesministerium für Wirtschaft und Energie hat dabei jeweils das Einvernehmen mit dem Bundesministerium der Finanzen herzustellen. Der Vertrag kann insbesondere Regelungen zu Zahlungsmodalitäten, Abschlagszahlungen, Teilbetragszahlungen, Ausgleichszahlungen nach dem Ende der Anwendungsbestimmungen des § 35i und zu Aufrechnungsmöglichkeiten sowie Nachweisregelungen für Kostenpositionen enthalten.
+
+(+++ § 35f: Zur Anwendung bis zum Ablauf des 31.12.2027 vgl. § 35g +++)  
+(+++ § 35f Abs. 5: Zur Anwendung vgl. § 35g +++)
+
+# § 35g – Übergangsregelung für die Umstellung des Umlageverfahrens; Einmalzahlung der Bundesrepublik Deutschland; Pflicht zur Weitergabe der Entlastung
+
+(1) Zum Zweck der Umstellung des Umlageverfahrens nach § 35e auf das Erstattungsverfahren nach § 35f hat die Bundesrepublik Deutschland den auf dem Gasspeicherumlagekonto des Marktgebietsverantwortlichen zum 31. Dezember 2025 ausgewiesenen negativen Differenzbetrag nach Maßgabe der Absätze 2 bis 6 durch Zahlung an den Marktgebietsverantwortlichen zu erstatten. Der Anspruch nach Satz 1 besteht unabhängig von der Zahlung nach Absatz 4 bereits zum 31. Dezember 2025.
+
+(2) Der Marktgebietsverantwortliche legt der Bundesnetzagentur und dem Bundesministerium für Wirtschaft und Energie bis spätestens zum 30. November eine Prognose zur Höhe des zum 31. Dezember 2025 auf dem Gasspeicherumlagekonto zu erwartenden negativen Differenzbetrags vor, die
+
+1. vom Marktgebietsverantwortlichen auf der Grundlage der zuletzt nach § 35e Satz 7 erteilten Genehmigung erstellt wurde und
+
+2. von einem vom Marktgebietsverantwortlichen beauftragten Prüfer im Sinne des § 2 Nummer 12 des Energiefinanzierungsgesetzes geprüft wurde.
+
+Die Bundesnetzagentur prüft die Prognose unverzüglich auf Plausibilität und teilt das Ergebnis dem Bundesministerium für Wirtschaft und Energie mit. Sofern die Prognose von dem Prüfer gemäß § 2 Nummer 12 des Energiefinanzierungsgesetzes bestätigt wurde, gilt sie widerleglich als plausibel.
+
+(3) Der zum 31. Dezember 2025 nach Absatz 2 prognostizierte und von der Bundesnetzagentur für plausibel erachtete negative Differenzbetrag ist dem Marktgebietsverantwortlichen von der Bundesrepublik Deutschland zu erstatten. Die Zahlung ist am 31. Dezember 2025 fällig.
+
+(4) Spätestens bis zum Ablauf des 31. Mai 2026 legt der Marktgebietsverantwortliche dem Bundesministerium für Wirtschaft und Energie eine Schlussrechnung des Gasspeicherumlagekontos zum 31. Dezember 2025 vor, die die nach Absatz 3 erfolgte Zahlung berücksichtigt. Für die Schlussrechnung ist Absatz 2 Satz 1 Nummer 2 und Satz 2 entsprechend anzuwenden. Wenn die Schlussrechnung einen negativen Differenzbetrag aufweist und dieser von der Bundesnetzagentur für plausibel erachtet wurde, hat der Marktgebietsverantwortliche gegen die Bundesrepublik Deutschland einen Anspruch auf Erstattung dieses negativen Differenzbetrages. Wenn die Schlussrechnung einen positiven Differenzbetrag aufweist und dieser von der Bundesnetzagentur für plausibel erachtet wurde, hat die Bundesrepublik Deutschland gegen den Marktgebietsverantwortlichen einen Anspruch auf Erstattung dieses positiven Differenzbetrages. Die Ansprüche nach den Sätzen 3 und 4 sind am 31. Juli 2026, frühestens jedoch zwei Wochen nach der Plausibilitätserklärung der Bundesnetzagentur, fällig.
+
+(5) Nähere Bestimmungen zu den nach den Absätzen 3 und 4 von der Bundesrepublik Deutschland sowie von dem Marktgebietsverantwortlichen vorzunehmenden Zahlungen können der Marktgebietsverantwortliche und die Bundesrepublik Deutschland, vertreten durch das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium der Finanzen, in einem öffentlich-rechtlichen Vertrag regeln. § 35f Absatz 5 ist entsprechend anzuwenden.
+
+(6) Die Bundesrepublik Deutschland, die durch das Bundesministerium für Wirtschaft und Energie vertreten wird, die Bundesnetzagentur und der Marktgebietsverantwortliche stellen ein ordnungsgemäßes, objektives und transparentes Verfahren zur technischen Umsetzung der in den Absätzen 1 bis 4 getroffenen Regelungen sicher. Das Bundesministerium für Wirtschaft und Energie hat dabei jeweils das Einvernehmen mit dem Bundesministerium der Finanzen herzustellen.
+
+(7) Jeder bis zum Ablauf des 31. Dezember 2025 gesetzlich oder vertraglich von der Gasspeicherumlage belastete Bilanzkreisverantwortliche oder Gaslieferant ist verpflichtet, gegenüber seinen Kunden den Gaspreis mit Wirkung zum 1. Januar 2026 um den Betrag zu verringern, den dieser durch den Wegfall der Verpflichtung nach § 35e Satz 1 in der zuletzt für das zweite Halbjahr 2025 festgelegten Umlagehöhe oder durch den Wegfall der in dieser Höhe entsprechend vertraglich geschuldeten Leistung einspart, soweit der Bilanzkreisverantwortliche oder der Gaslieferant die Umlage nach § 35e Satz 1 oder die auf Grund eines Vertrages umgelegten Kosten auf seine Kunden umgelegt hat. Es wird vermutet, dass die Umlage nach § 35e Satz 1 in die Kalkulation des Gaspreises eingeflossen ist, es sei denn, der Bilanzkreisverantwortliche oder der Gaslieferant weist nach, dass dies nicht oder nicht vollständig erfolgt ist. In der Gasrechnung ist unter Verweis auf die gesetzliche Abschaffung der Gasspeicherumlage transparent auszuweisen, ob und um welchen Betrag sich die Gasrechnung für den Abrechnungszeitraum, in dem die Entlastung durch den Wegfall der Umlage erfolgt, nach Satz 1 mindert. Darüber hinaus ist in der Gasrechnung anzugeben, wie viel Prozent der Entlastung weitergegeben werden. Dieser Absatz ist nicht anzuwenden auf Verträge, die am virtuellen Handelspunkt vollzogen werden.
+
+(+++ § 35g: Zur Anwendung bis zum Ablauf des 31.3.2027 vgl. § 35i +++)
+
+# § 35h – Verordnungsermächtigung
+
+(1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium der Finanzen mit Zustimmung des Bundestages und ohne Zustimmung des Bundesrates festzulegen, dass die dem Marktgebietsverantwortlichen im Zusammenhang mit seinen Aufgaben zur Sicherstellung der Versorgungssicherheit entstehenden Kosten abweichend von § 35f diskriminierungsfrei und in einem transparenten Verfahren ganz oder teilweise auf die Bilanzkreisverantwortlichen umgelegt werden, wenn dies zur Aufrechterhaltung der Versorgungssicherheit zwingend erforderlich ist. Dabei können in der Rechtsverordnung nähere Bestimmungen zu der Höhe, dem Zeitraum sowie dem Verfahren der Umlageerhebung getroffen werden.
+
+(2) Wird von der Verordnungsermächtigung Gebrauch gemacht, so ist in dieser Rechtsverordnung Folgendes zu bestimmen:
+
+1. die Dauer der Umlageerhebung nach Absatz 1,
+
+2. dass der Marktgebietsverantwortliche die Umlage ausschließlich auf die täglich aus einem Bilanzkreis an Entnahmestellen mit registrierender Leistungsmessung sowie an Entnahmestellen mit standardisierten Lastprofilen physikalisch ausgespeisten Mengen erheben darf und
+
+3. dass der Marktgebietsverantwortliche die Kosten und Erlöse der nach diesem Teil ergriffenen Maßnahmen zu ermitteln hat.
+
+Die dem Marktgebietsverantwortlichen vor Inkrafttreten der Rechtsverordnung entstandenen Kosten dürfen nicht auf die Bilanzkreisverantwortlichen umgelegt werden. Die Verordnung kann Regelungen zu Zahlungsmodalitäten, Abschlagszahlungen, Teilbetragszahlungen sowie Aufrechnungsmöglichkeiten enthalten.
+
+(3) Die Rechtsverordnung ist vor Verkündung dem Bundestag zuzuleiten. Die Rechtsverordnung bedarf der Zustimmung des Bundestages. Der Bundestag kann die Rechtsverordnung ändern, ablehnen oder ihr ohne Änderungen zustimmen. Der Beschluss des Bundestages wird dem Bundesministerium für Wirtschaft und Energie zugeleitet. Das Bundesministerium für Wirtschaft und Energie ist bei der Verkündung der Rechtsverordnung an den Beschluss des Bundestages gebunden.
+
+(+++ § 35h: Zur Anwendung bis zum Ablauf des 31.3.2027 vgl. § 35i +++)
+
+# § 35i – Anwendungsbestimmung
+
+Die §§ 35a bis 35e sowie die §§ 35g und 35h sind bis zum Ablauf des 31. März 2027 anzuwenden. § 35f ist bis zum Ablauf des 31. Dezember 2027 anzuwenden.
+
+# § 35j – Außerbetriebnahme und Stilllegung von Gasspeichern
 
 (1) Der Betreiber einer Gasspeicheranlage im Sinne des § 35a Absatz 2 ist verpflichtet, der Bundesnetzagentur eine vorläufige oder endgültige Außerbetriebnahme oder Stilllegung einer Gasspeicheranlage, von Teilen einer Gasspeicheranlage oder des betreffenden Netzanschlusses am Fernleitungsnetz mindestens zwölf Monate im Voraus anzuzeigen. Der Betreiber einer Gasspeicheranlage hat die Gründe hierfür anzugeben.
 
@@ -5045,7 +5220,7 @@ Die Informationspflichten nach den Artikeln 246 und 246a des Einführungsgesetze
 
 (5) Energielieferanten, die sich im Vertrag das Recht vorbehalten haben, die Vertragsbedingungen einseitig zu ändern, haben Letztverbraucher rechtzeitig, in jedem Fall vor Ablauf einer Abrechnungsperiode, auf einfache und verständliche Weise über die beabsichtigte Ausübung eines Rechts auf Änderung der Preise oder sonstiger Vertragsbedingungen und über die Rechte der Letztverbraucher zur Vertragsbeendigung zu unterrichten. Über Preisänderungen ist spätestens zwei Wochen, bei Haushaltskunden spätestens einen Monat, vor Eintritt der beabsichtigten Änderung zu unterrichten. Die Unterrichtung hat unmittelbar zu erfolgen sowie auf verständliche und einfache Weise unter Hinweis auf Anlass, Voraussetzungen und Umfang der Preisänderungen. Übt der Energielieferant ein Recht zur Änderung der Preise oder sonstigen Vertragsbedingungen aus, kann der Letztverbraucher den Vertrag ohne Einhaltung einer Frist zum Zeitpunkt des Wirksamwerdens der Änderungen kündigen, ohne dass vom Energielieferanten hierfür ein gesondertes Entgelt verlangt werden darf. Eine Änderung der Vertragsbedingungen liegt auch bei einer Anpassung der vertraglichen Leistungen vor.
 
-(6) Bei unveränderter Weitergabe von umsatzsteuerlichen Mehr- oder Minderbelastungen, die sich aus einer gesetzlichen Änderung der geltenden Umsatzsteuersätze ergeben sowie bei unveränderter Weitergabe von Minderbelastungen aufgrund einer Absenkung des Saldos der Kalkulationsbestandteile nach § 40 Absatz 3 Nummer 3 oder Nummer 5, bedarf es keiner Unterrichtung nach Absatz 5 Satz 1 und 2; dabei entsteht kein außerordentliches Kündigungsrecht nach Absatz 5 Satz 4.
+(6) Bei unveränderter Weitergabe von umsatzsteuerlichen Mehr- oder Minderbelastungen, die sich aus einer gesetzlichen Änderung der geltenden Umsatzsteuersätze ergeben sowie bei unveränderter Weitergabe von Minderbelastungen aufgrund einer Absenkung des Saldos der Kalkulationsbestandteile nach § 40 Absatz 3 Nummer 1 bis 5, bedarf es keiner Unterrichtung nach Absatz 5 Satz 1 und 2; dabei entsteht kein außerordentliches Kündigungsrecht nach Absatz 5 Satz 4.
 
 (7) Stromlieferverträge dürfen keine vertraglichen Regelungen enthalten, die dem Letztverbraucher den Erwerb oder die Veräußerung von Stromdienstleistungen, die nicht Vertragsgegenstand sind, von einem anderen oder an ein anderes Elektrizitätsversorgungsunternehmen untersagen. Stromdienstleistungen nach Satz 1 umfassen auch vertragliche Vereinbarungen über eine Aggregierung. Letztverbraucher sind verpflichtet, ihren Stromlieferanten den Abschluss einer vertraglichen Vereinbarung mit einem Dritten über eine Aggregierung unverzüglich mitzuteilen.
 
@@ -6108,6 +6283,46 @@ Die Bundesnetzagentur nimmt diese Aufgaben unter der Aufsicht des Bundesminister
 
 (4) Die Bundesnetzagentur nimmt diese Aufgaben unter der Aufsicht des Bundesministeriums für Wirtschaft und Klimaschutz wahr. Die Bestimmung der im Sinne des Artikels 7 der Verordnung (EU) 2019/941 wichtigsten nationalen Szenarien für Stromversorgungskrisen bedarf der Zustimmung des Bundesministeriums für Wirtschaft und Klimaschutz.
 
+# § 54c – Zuständigkeiten gemäß der Delegierten Verordnung (EU) 2024/1366; Verordnungsermächtigung
+
+(1) Das Bundesministerium für Wirtschaft und Energie ist zuständige Behörde für die Durchführung der in der Delegierten Verordnung (EU) 2024/1366 festgelegten Maßnahmen.
+
+(2) Folgende in der Delegierten Verordnung (EU) 2024/1366 festgelegte Aufgaben werden auf die Bundesnetzagentur übertragen:
+
+1. die Genehmigung sowie die Änderung der Modalitäten und Methoden nach Artikel 6 Absatz 2 Buchstabe a bis d der Delegierten Verordnung (EU) 2024/1366 sowie die Genehmigung und die Änderung der regionalen Pläne nach Artikel 6 Absatz 3, jeweils auch in Verbindung mit Artikel 7 Absatz 6 und den Artikeln 8, 9, 30 und 31 der Delegierten Verordnung (EU) 2024/1366; dabei erfolgt die Genehmigung nach Artikel 6 Absatz 2 Buchstabe a bis c der Delegierten Verordnung (EU) 2024/1366 im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik,
+
+2. die Entgegennahme der Benchmarking-Analyse nach Artikel 13 Absatz 5 der Delegierten Verordnung (EU) 2024/1366,
+
+3. die Entgegennahme des Berichts über die unionsweite Bewertung des Cybersicherheitsrisikos nach Artikel 19 Absatz 5 der Delegierten Verordnung (EU) 2024/1366, die Bewertung des nationalen Cybersicherheitsrisikos nach Artikel 20 der Delegierten Verordnung (EU) 2024/1366 sowie die Entgegennahme der regionalen Pläne zur Minderung des Cybersicherheitsrisikos nach Artikel 22 Absatz 3 der Delegierten Verordnung (EU) 2024/1366,
+
+4. die Ermittlung von Einrichtungen mit erheblichen oder kritischen Auswirkungen nach Artikel 24, auch in Verbindung mit Artikel 15, der Delegierten Verordnung (EU) 2024/1366, die Einrichtung eines nationalen Überprüfungssystems nach Artikel 25 Absatz 1 der Delegierten Verordnung (EU) 2024/1366 und die Entgegenahme des Berichts nach Artikel 27 der Delegierten Verordnung (EU) 2024/1366,
+
+5. die Vornahme der in Artikel 32 Absatz 3 der Delegierten Verordnung (EU) 2024/1366 vorgesehenen Anregung, für die Sicherheit von Netz- und Informationssystemen relevante europäische oder internationale Normen und Spezifikationen anzuwenden; dabei erfolgt die Anregung gegenüber den nach Artikel 24 der Delegierten Verordnung (EU) 2024/1366 ermittelten Einrichtungen mit erheblichen oder kritischen Auswirkungen im Benehmen mit dem Bundesamt für Sicherheit in der Informationstechnik,
+
+6. die Unterstützung von Einrichtungen mit erheblichen oder kritischen Auswirkungen bei der Entwicklung der erforderlichen Maßnahmen für den Umgang mit entdeckten Cyberangriffen nach Artikel 39 Absatz 1 der Delegierten Verordnung (EU) 2024/1366.
+
+Wird das Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik nach Satz 1 Nummer 1 nicht innerhalb von sechs Monaten nach Eingang eines Vorschlags für Modalitäten oder Methoden hergestellt, gilt es als hergestellt.
+
+(3) Folgende in der Delegierten Verordnung (EU) 2024/1366 festgelegte Aufgaben werden auf das Bundesamt für Sicherheit in der Informationstechnik übertragen:
+
+1. die Genehmigung sowie die Änderung der Klassifizierungsmethode für Cyberangriffe nach Artikel 6 Absatz 2 Buchstabe e, auch in Verbindung mit Artikel 7 Absatz 6 und den Artikeln 8 und 9, der Delegierten Verordnung (EU) 2024/1366; dabei erfolgt die Genehmigung im Einvernehmen mit der Bundesnetzagentur,
+
+2. die Annahme, Klassifizierung, Anonymisierung und Weiterleitung von Meldungen zu Cyberangriffen nach Artikel 37, auch in Verbindung mit Artikel 38 Absatz 3, 5 und 9, der Delegierten Verordnung (EU) 2024/1366,
+
+3. die Mitwirkung am Informationsaustausch und die Koordinierung der Zusammenarbeit nach Artikel 39 Absatz 2 und 3 der Delegierten Verordnung (EU) 2024/1366,
+
+4. die Untersuchung nach Artikel 40 Absatz 4 Satz 2 der Delegierten Verordnung (EU) 2024/1366,
+
+5. der Entwicklung von Cybersicherheits-Frühwarnkapazitäten nach Artikel 42 der Delegierten Verordnung (EU) 2024/1366.
+
+Wird das Einvernehmen mit der Bundesnetzagentur nach Satz 1 Nummer 1 nicht innerhalb von sechs Monaten nach Eingang eines Vorschlags für Modalitäten oder Methoden hergestellt, gilt es als hergestellt.
+
+(4) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, zum Zweck der Durchführung der Delegierten Verordnung (EU) 2024/1366 weitere Aufgaben an die Bundesnetzagentur oder an das Bundesamt für Sicherheit in der Informationstechnik zu übertragen. Die Übertragung nach Satz 1 an das Bundesamt für Sicherheit in der Informationstechnik erfolgt im Einvernehmen mit dem Bundesministerium des Innern.
+
+(5) Das Bundesministerium für Wirtschaft und Energie, die Bundesnetzagentur und das Bundesamt für Sicherheit in der Informationstechnik kooperieren untereinander und tauschen Informationen aus, soweit dies für die Durchführung der Delegierten Verordnung (EU) 2024/1366 erforderlich ist.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G. v. 25.11.2025 I Nr. 283 +++)
+
 # § 55 – Bundesnetzagentur, Landesregulierungsbehörde und nach Landesrecht zuständige Behörde
 
 (1) Für Entscheidungen der Regulierungsbehörde nach diesem Gesetz gelten hinsichtlich des behördlichen und gerichtlichen Verfahrens die Vorschriften des Teiles 8, soweit in diesem Gesetz nichts anderes bestimmt ist. Leitet die Bundesnetzagentur ein Verfahren ein, führt sie Ermittlungen durch oder schließt sie ein Verfahren ab, so benachrichtigt sie gleichzeitig die Landesregulierungsbehörden, in deren Gebiet die betroffenen Unternehmen ihren Sitz haben.
@@ -6256,7 +6471,7 @@ In Verfahren wegen leichtfertig begangener Straftaten wird die Bundesnetzagentur
 
 1. die Überprüfung der Einhaltung der Vorgaben des § 5 sowie für alle auf dessen Grundlage gegenüber einem Energielieferanten zu treffenden Entscheidungen,
 
-1a. die Erstellung und Überprüfung von Katalogen von Sicherheitsanforderungen nach § 11 Absatz 1a und 1b sowie die Festlegung nach § 11 Absatz 1g,
+1a. die Festlegungen nach § 5c Absatz 2 und 6,
 
 2. die Aufgaben nach § 11 Absatz 2,
 
@@ -6830,7 +7045,7 @@ Im Beschwerdeverfahren und im Rechtsbeschwerdeverfahren kann das Gericht anordne
 
 3. Amtshandlungen auf Grund von § 33 Absatz 1 und § 36 Absatz 2 Satz 3;
 
-4. Amtshandlungen auf Grund der §§ 7c, 11a, 11b, 12a, 12c, 12d, 12h Absatz 6 Satz 2, der §§ 13b, 13f Absatz 1 Satz 4, von § 13g Absatz 6 Satz 4, § 14 Absatz 2, § 14c Absatz 2 bis 4, § 14e Absatz 5, der §§ 15a bis 15e, 17d, 19a Absatz 2, der §§ 20, 21, 21a, 23a, 28a Absatz 3, von § 28b Absatz 1 und 5, § 28f Absatz 1, § 28o Absatz 1 und 2, § 28p Absatz 1 und 5, der §§ 28q, 29, 30 Absatz 2 und 3, der §§ 41c, 57 Absatz 2 Satz 2 und 4 sowie der §§ 57b, 65, 110 Absatz 2 und 4 und Amtshandlungen auf Grund einer Verordnung nach § 21a in der bis zum Ablauf des 28. Dezember 2023 geltenden Fassung dieses Gesetzes oder einer Verordnung nach § 24 in der bis zum Ablauf des 28. Dezember 2023 geltenden Fassung dieses Gesetzes;
+4. Amtshandlungen auf Grund der §§ 5c Absatz 3 bis 5, der §§ 7c, 11a, 11b, 12a, 12c, 12d, 12h Absatz 6 Satz 2, der §§ 13b, 13f Absatz 1 Satz 4, von § 13g Absatz 6 Satz 4, § 14 Absatz 2, § 14c Absatz 2 bis 4, § 14e Absatz 5, der §§ 15a bis 15e, 17d, 19a Absatz 2, der §§ 20, 21, 21a, 23a, 28a Absatz 3, von § 28b Absatz 1 und 5, § 28f Absatz 1, § 28o Absatz 1 und 2, § 28p Absatz 1 und 5, der §§ 28q, 29, 30 Absatz 2 und 3, der §§ 41c, 57 Absatz 2 Satz 2 und 4 sowie der §§ 57b, 65, 110 Absatz 2 und 4 und Amtshandlungen auf Grund einer Verordnung nach § 21a in der bis zum Ablauf des 28. Dezember 2023 geltenden Fassung dieses Gesetzes oder einer Verordnung nach § 24 in der bis zum Ablauf des 28. Dezember 2023 geltenden Fassung dieses Gesetzes;
 
 5. Amtshandlungen auf Grund des § 31 Absatz 2 und 3;
 
@@ -6916,10 +7131,6 @@ Die Regulierungsbehörde kann ihre Anordnungen und auf Grundlage der in § 56 Ab
 
 2. entgegen § 5 Absatz 3 Satz 1 eine Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt,
 
-2a. entgegen § 11 Absatz 1a oder 1b den Katalog von Sicherheitsanforderungen nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig einhält,
-
-2b. entgegen § 11 Absatz 1c eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt,
-
 3. einer vollziehbaren Anordnung nach
 
 a) § 5 Absatz 4 Satz 3 oder Absatz 5 Satz 1, § 12c Absatz 1 Satz 2, § 15d Absatz 1 Satz 2, § 65 Abs. 1 oder 2 oder § 69 Absatz 7 Satz 1, Absatz 8 Satz 1 oder Absatz 11 Satz 1 oder Satz 2 oder
@@ -6930,21 +7141,27 @@ zuwiderhandelt,
 
 3a. entgegen § 5a Absatz 1 Satz 1 dort genannten Daten nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
 
-3b. entgegen § 12b Absatz 5, § 12c Absatz 5, § 15c Absatz 5 oder § 15d Absatz 1 Satz 4 einen Entwurf oder einen Netzentwicklungsplan nicht oder nicht rechtzeitig vorlegt,
+3b. entgegen § 5c Absatz 1 Satz 1 einen dort genannten Schutz nicht gewährleistet,
 
-3c. entgegen § 12g Absatz 1 Satz 3 in Verbindung mit einer Rechtsverordnung nach Absatz 3 einen Bericht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
+3c. entgegen § 5d Absatz 1 Satz 1 die Einhaltung der Anforderungen des IT-Sicherheitskatalogs nicht, nicht richtig oder nicht vollständig dokumentiert,
 
-3d. entgegen § 12g Absatz 2 in Verbindung mit einer Rechtsverordnung nach Absatz 3 einen Sicherheitsplan nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstellt oder einen Sicherheitsbeauftragten nicht oder nicht rechtzeitig bestimmt,
+3d. entgegen § 5d Absatz 1 Satz 2 eine Dokumentation nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
 
-3e. (weggefallen)
+3e. entgegen § 5d Absatz 3 Satz 1 eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
-3f. entgegen § 13b Absatz 1 Satz 2 oder Absatz 5 Satz 1 eine dort genannte Anlage stilllegt,
+3f. entgegen § 12b Absatz 5, § 12c Absatz 5, § 15c Absatz 5 oder § 15d Absatz 1 Satz 4 einen Entwurf oder einen Netzentwicklungsplan nicht oder nicht rechtzeitig vorlegt,
 
-3g. entgegen § 13e Absatz 4 Satz 1 Nummer 1 Erzeugungsleistung oder Erzeugungsarbeit veräußert,
+3g. entgegen § 12g Absatz 1 Satz 3 in Verbindung mit einer Rechtsverordnung nach Absatz 3 einen Bericht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
 
-3h. entgegen § 13e Absatz 4 Satz 1 Nummer 2 oder § 13g Absatz 1 Satz 1 oder 3 eine dort genannte Anlage nicht oder nicht rechtzeitig stilllegt,
+3h. entgegen § 12g Absatz 2 in Verbindung mit einer Rechtsverordnung nach Absatz 3 einen Sicherheitsplan nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstellt oder einen Sicherheitsbeauftragten nicht oder nicht rechtzeitig bestimmt,
 
-3i. entgegen § 13g Absatz 4 Satz 1 Strom erzeugt,
+3i. entgegen § 13b Absatz 1 Satz 2 oder Absatz 5 Satz 1 eine dort genannte Anlage stilllegt,
+
+3j. entgegen § 13e Absatz 4 Satz 1 Nummer 1 Erzeugungsleistung oder Erzeugungsarbeit veräußert,
+
+3k. entgegen § 13e Absatz 4 Satz 1 Nummer 2 oder § 13g Absatz 1 Satz 1 oder 3 eine dort genannte Anlage nicht oder nicht rechtzeitig stilllegt,
+
+3l. entgegen § 13g Absatz 4 Satz 1 Strom erzeugt,
 
 4. entgegen § 30 Abs. 1 Satz 1 eine Marktstellung missbraucht,
 
@@ -7010,19 +7227,43 @@ b) entgegen Artikel 3 Absatz 1 Buchstabe c einer anderen Person empfiehlt oder s
 
 (1e) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2019/943 des Europäischen Parlaments und des Rates verstößt, indem er vorsätzlich oder fahrlässig die den Marktteilnehmern zur Verfügung zu stellende Verbindungskapazität zwischen Gebotszonen über das nach Artikel 15 Absatz 2 und Artikel 16 Absatz 3, 4, 8 und 9 der Verordnung (EU) 2019/943 des Europäischen Parlaments und des Rates vorgesehene Maß hinaus einschränkt.
 
-(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 3f bis 3i mit einer Geldbuße bis zu fünf Millionen Euro, in den Fällen des Absatzes 1 Nummer 1a, 1d, 3 Buchstabe b, Nummer 4 und 5 Buchstabe b, der Absätze 1b und 1c Nummer 2 und 6 mit einer Geldbuße bis zu einer Million Euro, über diesen Betrag hinaus bis zur dreifachen Höhe des durch die Zuwiderhandlung erlangten Mehrerlöses, in den Fällen des Absatzes 1 Nummer 5 Buchstabe f mit einer Geldbuße bis zu dreihunderttausend Euro, in den Fällen des Absatzes 1 Nummer 2 und 5 Buchstabe e mit einer Geldbuße bis zu fünfzigtausend Euro, in den Fällen des Absatzes 1 Nr. 5 Buchstabe a sowie des Absatzes 1a Nummer 2 und des Absatzes 1c Nummer 7 und 8 mit einer Geldbuße bis zu zehntausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu hunderttausend Euro geahndet werden. Die Höhe des Mehrerlöses kann geschätzt werden. Gegenüber einem Transportnetzbetreiber oder gegenüber einem vertikal integrierten Unternehmen kann über Satz 1 hinaus in Fällen des Absatzes 1 Nummer 3 Buchstabe b und des Absatzes 1e eine höhere Geldbuße verhängt werden. Diese darf
+(2) Die Ordnungswidrigkeit kann geahndet werden:
 
-1. in Fällen des Absatzes 1 Nummer 3 Buchstabe b 10 Prozent des Gesamtumsatzes, den der Transportnetzbetreiber oder das vertikal integrierte Unternehmen in dem der Behördenentscheidung vorausgegangenen Geschäftsjahr weltweit erzielt hat, nicht übersteigen oder
+1. in den Fällen des Absatzes 1 Nummer 3b bis 3e
 
-2. in Fällen des Absatzes 1e 10 Prozent des Gesamtumsatzes, den der Transportnetzbetreiber oder das vertikal integrierte Unternehmen in dem der Behördenentscheidung vorausgegangenen Geschäftsjahr weltweit erzielt hat, abzüglich der Umlagen nach § 12 des Energiefinanzierungsgesetzes nicht übersteigen.
+a) bei besonders wichtigen Einrichtungen nach § 28 Absatz 1 Satz 1 des BSI-Gesetzes mit einer Geldbuße bis zu zehn Millionen Euro und
 
-Die Höhe des Gesamtumsatzes kann geschätzt werden. Ein durch die Zuwiderhandlung erlangter Mehrerlös bleibt unberücksichtigt.
+b) bei wichtigen Einrichtungen nach § 28 Absatz 2 Satz 1 des BSI-Gesetzes mit einer Geldbuße bis zu sieben Millionen Euro,
 
-(3) Die Regulierungsbehörde kann allgemeine Verwaltungsgrundsätze über die Ausübung ihres Ermessens bei der Bemessung der Geldbuße festlegen.
+2. in den Fällen des Absatzes 1 Nummer 3i bis 3l mit einer Geldbuße bis zu fünf Millionen Euro,
 
-(4) Die Verjährung der Verfolgung von Ordnungswidrigkeiten nach Absatz 1 richtet sich nach den Vorschriften des Gesetzes über Ordnungswidrigkeiten. Die Verfolgung der Ordnungswidrigkeiten nach Absatz 1 Nummer 3 Buchstabe b und Nummer 4 und 5 verjährt in fünf Jahren.
+3. in den Fällen des Absatzes 1 Nummer 1a, 1d, 3 Buchstabe b, Nummer 4 und 5 Buchstabe b, des Absätze 1b und 1c Nummer 2 und 6 mit einer Geldbuße bis zu einer Million Euro,
 
-(5) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 1 Nummer 2b das Bundesamt für Sicherheit in der Informationstechnik, im Übrigen die nach § 54 zuständige Behörde.
+4. in den Fällen des Absatzes 1 Nummer 5 Buchstabe f mit einer Geldbuße bis zu dreihunderttausend Euro,
+
+5. in den Fällen des Absatzes 1 Nummer 1, 1b, 1c, 2a, 2b, 3 Buchstabe a, Nummer 3a, 3f bis 3h, 4a bis 4c und 5 Buchstabe c und des Absatzes 1a Nummer 1, des Absatzes 1c Nummer 1, 3 bis 5 und 9 und der Absätze 1d und 1e mit einer Geldbuße bis zu hunderttausend Euro,
+
+6. in den Fällen des Absatzes 1 Nummer 2 und 5 Buchstabe e mit einer Geldbuße bis zu fünfzigtausend Euro und
+
+7. in den Fällen des Absatzes 1 Nummer 5 Buchstabe a, des Absatzes 1a Nummer 2 und des Absatzes 1c Nummer 7 und 8 mit einer Geldbuße bis zu zehntausend Euro.
+
+(3) Gegenüber einer besonders wichtigen Einrichtung im Sinne des § 28 Absatz 1 Satz 1 des BSI-Gesetzes mit einem Gesamtumsatz von mehr als 500 Millionen Euro kann abweichend von Absatz 2 Nummer 1 Buchstabe a, auch in Verbindung mit § 30 Absatz 2 Satz 2 des Gesetzes über Ordnungswidrigkeiten, eine Ordnungswidrigkeit in den Fällen des Absatzes 1 Nummer 3b bis 3e mit einer Geldbuße bis zu 2 Prozent des Gesamtumsatzes geahndet werden.
+
+(4) Gegenüber einer wichtigen Einrichtung im Sinne des § 28 Absatz 2 Satz 1 des BSI-Gesetzes mit einem Gesamtumsatz von mehr als 500 Millionen Euro kann abweichend von Absatz 2 Nummer 1 Buchstabe b, auch in Verbindung mit § 30 Absatz 2 Satz 2 des Gesetzes über Ordnungswidrigkeiten, eine Ordnungswidrigkeit in den Fällen des Absatzes 1 Nummer 3b bis 3e mit einer Geldbuße bis zu 1,4 Prozent des Gesamtumsatzes geahndet werden.
+
+(5) Gegenüber einem Transportnetzbetreiber oder einem vertikal integrierten Unternehmen mit einem Gesamtumsatz von mehr als zehn Millionen Euro kann abweichend von Absatz 2 Nummer 3, auch in Verbindung mit § 30 Absatz 2 Satz 2 des Gesetzes über Ordnungswidrigkeiten, eine Ordnungswidrigkeit in den Fällen des Absatzes 1 Nummer 3 Buchstabe b mit einer Geldbuße von bis zu 10 Prozent des Gesamtumsatzes geahndet werden.
+
+(6) Gegenüber einem Transportnetzbetreiber oder einem vertikal integrierten Unternehmen mit einem Gesamtumsatz von mehr als 1 Million Euro kann abweichend von Absatz 2 Nummer 5, auch in Verbindung mit § 30 Absatz 2 Satz 2 des Gesetzes über Ordnungswidrigkeiten, eine Ordnungswidrigkeit in den Fällen des Absatzes 1e mit einer Geldbuße von bis zu 10 Prozent des Gesamtumsatzes abzüglich der Umlagen nach § 12 des Energiefinanzierungsgesetzes geahndet werden.
+
+(7) Gesamtumsatz im Sinne der Absätze 3 bis 6 ist die Summe aller Umsatzerlöse, die das Unternehmen, dem die besonders wichtige Einrichtung oder die wichtige Einrichtung angehört, der Transportnetzbetreiber oder das vertikal integrierte Unternehmen in dem der Behördenentscheidung vorausgegangenen Geschäftsjahr weltweit erzielt hat. Der Gesamtumsatz kann geschätzt werden.
+
+(8) § 17 Absatz 2 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 2 Nummer 1 und der Absätze 3 und 4 nicht anzuwenden.
+
+(9) Die Regulierungsbehörde kann allgemeine Verwaltungsgrundsätze über die Ausübung ihres Ermessens bei der Bemessung der Geldbuße festlegen.
+
+(10) Die Verjährung der Verfolgung von Ordnungswidrigkeiten nach Absatz 1 richtet sich nach den Vorschriften des Gesetzes über Ordnungswidrigkeiten. Die Verfolgung der Ordnungswidrigkeiten nach Absatz 1 Nummer 3 Buchstabe b und Nummer 4 und 5 verjährt in fünf Jahren.
+
+(11) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 1 Nummer 3e das Bundesamt für Sicherheit in der Informationstechnik, im Übrigen die nach § 54 zuständige Behörde.
 
 (+++ § 95: Zur Anwendung vgl. § 76 Abs. 4 MessbG +++)  
 (+++ § 95 Abs. 1: Änderungsanweisung Art. 1 Nr. 60 Buchst. a DBuchst. aa G v. 26.7.2011 I 1554 mWv 4.8.2011 nicht ausgeführt, führt zu textlichen Unstimmigkeiten +++)
@@ -7580,7 +7821,9 @@ In Bezug auf die Erhebung, Weitergabe und Veröffentlichung geheimhaltungsbedür
 
 (4) (weggefallen)
 
-(5) (weggefallen)
+(5) Jeder Stromlieferant, der Letztverbraucher im Rahmen von Verträgen außerhalb der Grundversorgung nach § 41 Absatz 5 Satz 1 beliefert, ist verpflichtet, einen Saldo der Belastungen nach § 40 Absatz 3 Nummer 1 bis 4 zu bilden, die in die Kalkulation des jeweiligen Strompreises eingeflossen sind. Sinkt der Saldo der Belastungen nach § 40 Absatz 3 Nummer 1 bis 4, ist der Stromlieferant verpflichtet, den gesunkenen Saldo in das Ergebnis der Kalkulation einfließen zu lassen und im Rahmen der nächsten vertraglichen Preisanpassung zu berücksichtigen. § 41 Absatz 6 ist anzuwenden.
+
+(5a) Betreiber von Übertragungsnetzen mit Regelzonenverantwortung sind einmalig für das Kalenderjahr 2026 verpflichtet, auf ihrer Internetseite neben dem unter Berücksichtigung des Zuschusses nach § 24c kalkulierten bundeseinheitlichen Übertragungsnetzentgelt auch das ohne Berücksichtigung des Zuschusses nach § 24c kalkulierte bundeseinheitliche Übertragungsnetzentgelt zu veröffentlichen. Betreiber von Elektrizitätsverteilernetzen sind einmalig für das Kalenderjahr 2026 verpflichtet, auf ihrer Internetseite für typisierte Abnahmefälle neben dem Netzentgelt, das sich unter Berücksichtigung des reduzierten Übertragungsnetzentgelts nach Satz 1 ergibt, auch ein fiktives Netzentgelt zu veröffentlichen, wie es sich ohne Berücksichtigung des reduzierten Übertragungsnetzentgelts nach Satz 1 ergäbe. Stromlieferanten sind einmalig für das Kalenderjahr 2026 verpflichtet, die von ihnen belieferten Letztverbraucher mit der Rechnung auf den Zuschuss nach § 24c sowie auf die Veröffentlichung des Betreibers von Elektrizitätsverteilernetzen nach Satz 2 hinzuweisen.
 
 (6) Nach dem 31. Dezember 2008 neu errichtete Anlagen zur Speicherung elektrischer Energie, die ab 4. August 2011, innerhalb von 18 Jahren in Betrieb genommen werden, sind für einen Zeitraum von 20 Jahren ab Inbetriebnahme hinsichtlich des Bezugs der zu speichernden elektrischen Energie von den Entgelten für den Netzzugang freigestellt. Pumpspeicherkraftwerke, deren elektrische Pump- oder Turbinenleistung nachweislich um mindestens 7,5 Prozent oder deren speicherbare Energiemenge nachweislich um mindestens 5 Prozent nach dem 4. August 2011 erhöht wurden, sind für einen Zeitraum von zehn Jahren ab Inbetriebnahme hinsichtlich des Bezugs der zu speichernden elektrischen Energie von den Entgelten für den Netzzugang freigestellt. Die Freistellung nach Satz 1 wird nur gewährt, wenn die elektrische Energie zur Speicherung in einem elektrischen, chemischen, mechanischen oder physikalischen Stromspeicher aus einem Transport- oder Verteilernetz entnommen und die zur Ausspeisung zurückgewonnene elektrische Energie zeitlich verzögert wieder in dasselbe Netz eingespeist wird. Die Freistellung nach Satz 2 setzt voraus, dass auf Grund vorliegender oder prognostizierter Verbrauchsdaten oder auf Grund technischer oder vertraglicher Gegebenheiten offensichtlich ist, dass der Höchstlastbeitrag der Anlage vorhersehbar erheblich von der zeitgleichen Jahreshöchstlast aller Entnahmen aus dieser Netz- oder Umspannebene abweicht. Sie erfolgt durch Genehmigung in entsprechender Anwendung der verfahrensrechtlichen Vorgaben nach § 19 Absatz 2 Satz 3 bis 5 und 8 bis 10 der Stromnetzentgeltverordnung in der bis zum Ablauf des 31. Dezember 2028 geltenden Fassung. Als Inbetriebnahme gilt der erstmalige Bezug von elektrischer Energie für den Probebetrieb, bei bestehenden Pumpspeicherkraftwerken der erstmalige Bezug nach Abschluss der Maßnahme zur Erhöhung der elektrischen Pump- oder Turbinenleistung und der speicherbaren Energiemenge. Die Sätze 2 und 3 sind nicht für Anlagen anzuwenden, in denen durch Wasserelektrolyse Wasserstoff erzeugt oder in denen Gas oder Biogas durch wasserelektrolytisch erzeugten Wasserstoff und anschließende Methanisierung hergestellt worden ist. Diese Anlagen sind zudem von den Einspeiseentgelten in das Gasnetz, an das sie angeschlossen sind, befreit. Die Betreiber von Übertragungsnetzen haben ab dem 1. Januar 2023 nachgelagerten Betreibern von Elektrizitätsverteilernetzen entgangene Erlöse zu erstatten, die aus der Freistellung von den Entgelten für den Netzzugang von Anlagen nach Satz 7 resultieren, soweit sie durch Wasserelektrolyse Wasserstoff erzeugen. Satz 9 ist für nach dem 1. Januar 2023 neu errichtete Anlagen nur anzuwenden, wenn der zuständige Betreiber von Übertragungsnetzen dem Anschluss der Anlage an das Verteilernetz zugestimmt hat, wenn keine negativen Auswirkungen auf das Übertragungsnetz zu befürchten sind. § 19 Absatz 2 Satz 14 und 15 der Stromnetzentgeltverordnung ist für die Zahlungen nach Satz 9 entsprechend anzuwenden. Auf Grundlage von § 21 Absatz 3 Satz 3 Nummer 3 kann die Regulierungsbehörde von den Sätzen 1 bis 11 abweichende Regelungen treffen, insbesondere zum zeitlichen Anwendungsbereich, zu den zu erfüllenden Voraussetzungen und zum Ausgleich entgangener Erlöse, die Netzbetreiber auf Grund der Freistellung von den Entgelten für den Netzzugang haben.
 

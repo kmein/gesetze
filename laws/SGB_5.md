@@ -11148,7 +11148,10 @@ Für Informationen nach Satz 1, die die elektronische Patientenakte betreffen, h
     V v. 6.12.2023 I Nr. 347 (TeleFinV 2024)
      
     vom 1.1.2025 bis 31.12.2025 vgl.
-    V v. 10.12.2024 I Nr. 410 (TeleFinV 2025) +++) 
+    V v. 10.12.2024 I Nr. 410 (TeleFinV 2025)
+     
+    vom 1.1.2026 bis 31.12.2026 vgl.
+    V v. 5.12.2025 I Nr. 309 (TeleFinV 2026) +++) 
 
 # § 317 – Beirat der Gesellschaft für Telematik
 
@@ -13083,9 +13086,9 @@ Elektronische Anwendungen im Gesundheitswesen dürfen aus Mitteln der gesetzlich
 
 (3) Organisatorische und technische Vorkehrungen nach Absatz 1 sind angemessen, wenn der dafür erforderliche Aufwand nicht außer Verhältnis zu den Folgen eines Ausfalls oder einer Beeinträchtigung des Krankenhauses oder dem Schutzbedarf der verarbeiteten Patienteninformationen steht.
 
-(4) Die Krankenhäuser können die Verpflichtungen nach den Absätzen 1 und 2 insbesondere erfüllen, indem sie einen branchenspezifischen Sicherheitsstandard für die informationstechnische Sicherheit der Gesundheitsversorgung im Krankenhaus in der jeweils gültigen Fassung anwenden, dessen Eignung vom Bundesamt für Sicherheit in der Informationstechnik nach § 8a Absatz 2 des BSI-Gesetzes festgestellt wurde.
+(4) Die Krankenhäuser können die Verpflichtungen nach den Absätzen 1 und 2 insbesondere erfüllen, indem sie einen branchenspezifischen Sicherheitsstandard für die informationstechnische Sicherheit der Gesundheitsversorgung im Krankenhaus in der jeweils gültigen Fassung anwenden, dessen Eignung vom Bundesamt für Sicherheit in der Informationstechnik nach § 30 Absatz 8 des BSI-Gesetzes festgestellt wurde.
 
-(5) Die Verpflichtung nach Absatz 1 gilt für alle Krankenhäuser, soweit sie nicht ohnehin als Betreiber Kritischer Infrastrukturen gemäß § 8a des BSI-Gesetzes angemessene organisatorische und technische Vorkehrungen zu treffen haben.
+(5) Die Verpflichtung nach Absatz 1 gilt für alle Krankenhäuser, soweit sie nicht ohnehin als Betreiber kritischer Anlagen gemäß den §§ 30, 31 und 39 des BSI-Gesetzes angemessene organisatorische und technische Vorkehrungen zu treffen haben.
 
 # § 392 – IT-Sicherheit der gesetzlichen Krankenkassen
 
@@ -13093,7 +13096,7 @@ Elektronische Anwendungen im Gesundheitswesen dürfen aus Mitteln der gesetzlich
 
 (2) Organisatorische und technische Vorkehrungen nach Absatz 1 sind angemessen, wenn der dafür erforderliche Aufwand nicht außer Verhältnis zu den Folgen eines Ausfalls oder einer Beeinträchtigung der Arbeitsprozesse der Krankenkasse oder der Sicherheit der verarbeiteten Versicherteninformationen steht.
 
-(3) Die Krankenkassen erfüllen die Verpflichtungen nach Absatz 1 insbesondere, indem sie den branchenspezifischen Sicherheitsstandard für die informationstechnische Sicherheit der Krankenkassen in der jeweils gültigen Fassung anwenden, dessen Eignung vom Bundesamt für Sicherheit in der Informationstechnik nach § 8a Absatz 2 des BSI-Gesetzes festgestellt wurde.
+(3) Die Krankenkassen erfüllen die Verpflichtungen nach Absatz 1 insbesondere, indem sie den branchenspezifischen Sicherheitsstandard für die informationstechnische Sicherheit der Krankenkassen in der jeweils gültigen Fassung anwenden, dessen Eignung vom Bundesamt für Sicherheit in der Informationstechnik nach § 30 Absatz 8 des BSI-Gesetzes festgestellt wurde.
 
 (4) Die Krankenkassen sind verpflichtet, repräsentiert durch ihre Verbände und den Spitzenverband Bund der Krankenkassen, in einem gemeinsamen bestehenden oder zu schaffenden Branchenarbeitskreis an der Entwicklung des branchenspezifischen Sicherheitsstandards für die informationstechnische Sicherheit der Krankenkassen im Sinne des Absatzes 3 mitzuwirken. Die Krankenkassen, repräsentiert durch ihre Verbände und den Spitzenverband Bund der Krankenkassen, haben darauf hinzuwirken, dass der branchenspezifische Sicherheitsstandard auch Vorgaben enthält zu
 
@@ -13103,7 +13106,7 @@ Elektronische Anwendungen im Gesundheitswesen dürfen aus Mitteln der gesetzlich
 
 3. an IT-Dienstleister zu stellende Sicherheitsanforderungen gemäß Absatz 6, sofern diese Leistungen für die Krankenkassen zur Wahrnehmung ihrer gesetzlichen Aufgaben erbringen.
 
-(5) Die Verpflichtung nach Absatz 1 gilt für alle Krankenkassen, soweit sie nicht ohnehin als Betreiber Kritischer Infrastrukturen gemäß § 8a des BSI-Gesetzes angemessene organisatorische und technische Vorkehrungen zu treffen haben.
+(5) Die Verpflichtung nach Absatz 1 gilt für alle Krankenkassen, soweit sie nicht ohnehin als Betreiber kritischer Anlagen gemäß den §§ 30, 31 und 39 des BSI-Gesetzes angemessene organisatorische und technische Vorkehrungen zu treffen haben.
 
 (6) Sofern eine Krankenkasse im Rahmen ihrer Aufgabenerfüllung IT-Dienstleistungen eines Dritten in Anspruch nimmt und eine Störung der Verfügbarkeit, Integrität und Vertraulichkeit der informationstechnischen Systeme, Komponenten oder Prozesse des Dritten zu einer Beeinträchtigung der Funktionsfähigkeit der jeweiligen Krankenkasse oder der Sicherheit der verarbeiteten Versicherteninformationen führen kann, muss die Krankenkasse durch geeignete vertragliche Vereinbarungen sicherstellen, dass die Einhaltung des branchenspezifischen Sicherheitsstandards im Sinne des Absatzes 3 durch den Dritten gewährleistet wird.
 

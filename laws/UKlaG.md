@@ -59,7 +59,7 @@ k) Zahlungsdiensteverträge,
 
 11. die Vorschriften des Wohn- und Betreuungsvertragsgesetzes,
 
-12. § 2 Absatz 2 sowie die §§ 36 und 37 des Verbraucherstreitbeilegungsgesetzes und Artikel 14 der Verordnung (EU) Nr. 524/2013 des Europäischen Parlaments und des Rates vom 21. Mai 2013 über die Online-Beilegung verbraucherrechtlicher Streitigkeiten und zur Änderung der Verordnung (EG) Nr. 2006/2004 und der Richtlinie 2009/22/EG (Verordnung über Online-Streitbeilegung in Verbraucherangelegenheiten) (ABl. L 165 vom 18.6.2013, S. 1),
+12. § 2 Absatz 2 sowie die §§ 36 und 37 des Verbraucherstreitbeilegungsgesetzes,
 
 13. die Vorschriften der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2; L 074 vom 4.3.2021, S. 35) in der jeweils geltenden Fassung, die für die Verarbeitung von Daten von Verbrauchern durch Unternehmer gelten,
 

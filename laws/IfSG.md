@@ -551,7 +551,7 @@ die Auswirkungen der Vorschrift und der nach Absatz 5 Satz 1 zu erstellenden Ver
 
 Die Evaluation wird interdisziplinär insbesondere auf Grundlage rechtlicher, medizinischer und ethischer Erkenntnisse durch unabhängige Sachverständige durchgeführt, die jeweils zur Hälfte von dem Bundesministerium für Gesundheit und dem Deutschen Bundestag benannt werden. Die Sachverständigen haben bundesweite Verbände, Fachkreise und Selbstvertretungsorganisationen, deren Belange von der Vorschrift besonders berührt sind, angemessen zu beteiligen. Das Bundesministerium für Gesundheit übermittelt dem Deutschen Bundestag spätestens ein Jahr nach der Beauftragung das Ergebnis der Evaluation sowie eine Stellungnahme des Bundesministeriums für Gesundheit zu diesem Ergebnis.
 
-§ 5c idF d. G v. 8.12.2022 I 2235: Nach Maßgabe der Entscheidungsformel und Gründe gem. BVerfGE v. 23.9.2025 Az. 1 BvR 2284/23 u. 1 BvR 2285/23 mit Art. 12 Abs. 1 GG (100-1) unvereinbar und nichtig
+§ 5c idF d. G v. 8.12.2022 I 2235: Nach Maßgabe der Entscheidungsformel und Gründe gem. BVerfGE v. 23.9.2025 I Nr. 290 - 1 BvR 2284/23 u. 1 BvR 2285/23 - mit Art. 12 Abs. 1 GG (100-1) unvereinbar und nichtig
 
 # § 6 – Meldepflichtige Krankheiten
 

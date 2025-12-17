@@ -49,7 +49,9 @@ o) zum Schutz der Privatsphäre in der elektronischen Kommunikation, zum Schutz 
 
 p) zum Schutz personenbezogener Daten im Anwendungsbereich der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2; L 74 vom 4.3.2021, S. 35) gemäß deren Artikel 2,
 
-q) zur Sicherheit in der Informationstechnik im Sinne des § 2 Absatz 2 des BSI-Gesetzes von Anbietern digitaler Dienste im Sinne des § 2 Absatz 12 des BSI-Gesetzes,
+q) zur Sicherheit in der Informationstechnik im Sinne des § 2 Nummer 39 des BSI-Gesetzes von besonders wichtigen Einrichtungen nach § 28 Absatz 1 des BSI-Gesetzes und wichtigen Einrichtungen nach § 28 Absatz 2 des BSI-Gesetzes, soweit diese den Einrichtungsarten nach
+
+Anhang 1 Nummer 6.1.4 oder Anhang 2 Nummern 6.1.1 oder 6.1.2 des BSI-Gesetzes zuzuordnen sind,
 
 r) zur Regelung der Rechte von Aktionären von Aktiengesellschaften,
 
@@ -76,6 +78,8 @@ t) zur Rechnungslegung einschließlich der Buchführung von Unternehmen, die kap
 1. Verstöße gegen den Schutz der finanziellen Interessen der Europäischen Union im Sinne des Artikels 325 des Vertrags über die Arbeitsweise der Europäischen Union und
 
 2. Verstöße gegen Binnenmarktvorschriften im Sinne des Artikels 26 Absatz 2 des Vertrags über die Arbeitsweise der Europäischen Union, einschließlich über Absatz 1 Nummer 8 hinausgehender Vorschriften der Europäischen Union über Wettbewerb und staatliche Beihilfen.
+
+§ 2 Abs. 1 Nr. 3 Buchst. q Kursivdruck: Auf Grund offensichtlicher Unrichtigkeit werden die Angaben "Anhang 1 Nr. 6.1.4. oder Anhang 2 Nummern 6.1.1. oder 6.1.2" durch die Angaben "Anhang 1 Nr. 6.1.4 oder Anhang 2 Nummern 6.1.1 oder 6.1.2" ersetzt
 
 # § 3 – Begriffsbestimmungen
 

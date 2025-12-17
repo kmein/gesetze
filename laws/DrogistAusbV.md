@@ -629,9 +629,9 @@ fortzuführen.
 
   
 
-|     |     |
-|-----|:----|
-|     | 4 d |
+|     |                     |
+|:----|:--------------------|
+| 4 d | Verkaufsabrechnung, |
 
   
 zu vermitteln und die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen

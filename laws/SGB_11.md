@@ -4361,7 +4361,7 @@ Die Pflegekasse hat Angaben über Leistungen, die zur Prüfung der Voraussetzung
 
 (2) Organisatorische und technische Vorkehrungen nach Absatz 1 sind angemessen, wenn der dafür erforderliche Aufwand nicht außer Verhältnis zu den Folgen eines Ausfalls oder einer Beeinträchtigung der Arbeitsprozesse der Pflegekasse oder der Sicherheit der verarbeiteten Versicherteninformationen steht.
 
-(3) Die Pflegekassen erfüllen die Verpflichtungen nach Absatz 1, insbesondere indem sie einen branchenspezifischen Sicherheitsstandard für die informationstechnische Sicherheit der Pflegekassen in der jeweils gültigen Fassung anwenden, dessen Eignung vom Bundesamt für Sicherheit in der Informationstechnik nach § 8a Absatz 2 des BSI-Gesetzes festgestellt wurde.
+(3) Die Pflegekassen erfüllen die Verpflichtungen nach Absatz 1, insbesondere indem sie einen branchenspezifischen Sicherheitsstandard für die informationstechnische Sicherheit der Pflegekassen in der jeweils gültigen Fassung anwenden, dessen Eignung vom Bundesamt für Sicherheit in der Informationstechnik nach § 30 Absatz 8 des BSI-Gesetzes festgestellt wurde.
 
 (4) Die Pflegekassen sind verpflichtet, repräsentiert durch ihre Verbände und den Spitzenverband der Pflegekassen, in einem gemeinsam bestehenden oder zu schaffenden Branchenarbeitskreis an der Entwicklung des branchenspezifischen Sicherheitsstandards für die informationstechnische Sicherheit der Pflegekassen im Sinne des Absatzes 3 mitzuwirken. Die Pflegekassen, repräsentiert durch ihre Verbände und den Spitzenverband der Pflegekassen, haben darauf hinzuwirken, dass der branchenspezifische Sicherheitsstandard auch Vorgaben enthält zu
 
@@ -4371,7 +4371,7 @@ Die Pflegekasse hat Angaben über Leistungen, die zur Prüfung der Voraussetzung
 
 3. an IT-Dienstleister zu stellende Sicherheitsanforderungen gemäß Absatz 6, sofern diese Leistungen für die Pflegekassen zur Wahrnehmung ihrer gesetzlichen Aufgaben erbringen.
 
-(5) Die Verpflichtung nach Absatz 1 gilt für alle Pflegekassen, soweit sie nicht ohnehin als Betreiber Kritischer Infrastrukturen gemäß § 8a des BSI-Gesetzes angemessene organisatorische und technische Vorkehrungen zu treffen haben.
+(5) Die Verpflichtung nach Absatz 1 gilt für alle Pflegekassen, soweit sie nicht ohnehin als Betreiber kritischer Anlagen gemäß den §§ 30, 31 und 39 des BSI-Gesetzes angemessene organisatorische und technische Vorkehrungen zu treffen haben.
 
 (6) Sofern eine Pflegekasse im Rahmen ihrer Aufgabenerfüllung IT-Dienstleistungen eines Dritten in Anspruch nimmt und eine Störung der Verfügbarkeit, Integrität und Vertraulichkeit der informationstechnischen Systeme, Komponenten oder Prozesse des Dritten zu einer Beeinträchtigung der Funktionsfähigkeit der jeweiligen Pflegekasse oder der Sicherheit der verarbeiteten Versicherteninformationen führen kann, so muss die Pflegekasse durch geeignete vertragliche Vereinbarungen sicherstellen, dass die Einhaltung des branchenspezifischen Sicherheitsstandards im Sinne des Absatzes 3 durch den Dritten gewährleistet wird.
 

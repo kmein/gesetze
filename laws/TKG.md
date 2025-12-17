@@ -397,7 +397,7 @@ b) Verkehrsdiensten, insbesondere Schienenwege, Straßen, Wasserstraßen, Brück
 
 52. „Sicherheit von Netzen und Diensten“ die Fähigkeit von Telekommunikationsnetzen und -diensten, auf einem bestimmten Vertrauensniveau alle Angriffe abzuwehren, die die Verfügbarkeit, Authentizität, Integrität oder Vertraulichkeit dieser Netze und Dienste, der gespeicherten, übermittelten oder verarbeiteten Daten oder der damit zusammenhängenden Dienste, die über diese Telekommunikationsnetze oder -dienste angeboten werden oder zugänglich sind, beeinträchtigen;
 
-53. „Sicherheitsvorfall“ ein Ereignis mit nachteiliger Wirkung auf die Sicherheit von Telekommunikationsnetzen oder -diensten;
+53. „Sicherheitsvorfall“ ein Ereignis, das die Verfügbarkeit, Authentizität, Integrität oder Vertraulichkeit gespeicherter, übermittelter oder verarbeiteter Daten oder der Dienste, die über Netz- und Informationssysteme angeboten werden oder zugänglich sind, beeinträchtigt;
 
 54. „sonstige physische Infrastrukturen“ entstehende, betriebene oder stillgelegte physische Infrastrukturen einschließlich Grundstücke und der darauf befindlichen Gebäude öffentlicher Stellen oder der Kontrolle dieser unterstehende sonstige physische Infrastrukturen, die in technischer Hinsicht für die Errichtung von drahtlosen Zugangspunkten mit geringer Reichweite geeignet oder zur Anbindung solcher Zugangspunkte erforderlich sind und bei denen das Recht zur Errichtung oder Stilllegung oder zum Betrieb von der öffentlichen Stelle abgeleitet oder verliehen wird; zu diesen Infrastrukturen gehören insbesondere Straßenmobiliar, öffentliche Straßenbeleuchtung, Verkehrsschilder, Lichtzeichenanlagen, Reklametafeln und Litfaßsäulen, Bus- und Straßenbahnhaltestellen und U-Bahnhöfe;
 
@@ -471,7 +471,15 @@ h) Zugang zu Diensten für virtuelle Telekommunikationsnetze;
 
 78. „zugehörige Einrichtungen“ diejenigen mit einem Telekommunikationsnetz oder einem Telekommunikationsdienst verbundenen zugehörigen Dienste, physischen Infrastrukturen oder sonstigen Einrichtungen oder Komponenten, welche die Bereitstellung von Diensten über dieses Netz oder diesen Dienst ermöglichen, unterstützen oder dazu in der Lage sind; darunter fallen unter anderem Gebäude, Gebäudezugänge, Verkabelungen in Gebäuden, Antennen, Türme und andere Trägerstrukturen, Leitungsrohre, Leerrohre, Masten, Einstiegsschächte und Verteilerkästen;
 
-79. „Zusammenschaltung“ ein Sonderfall des Zugangs, der zwischen Betreibern öffentlicher Telekommunikationsnetze hergestellt wird; dies mittels der physischen und logischen Verbindung öffentlicher Telekommunikationsnetze, die von demselben oder einem anderen Unternehmen genutzt werden, um Nutzern eines Unternehmens die Kommunikation mit Nutzern desselben oder eines anderen Unternehmens oder den Zugang zu den von einem anderen Unternehmen angebotenen Diensten zu ermöglichen, soweit solche Dienste von den beteiligten Parteien oder von anderen Parteien, die Zugang zum Netz haben, erbracht werden.
+79. „Zusammenschaltung“ ein Sonderfall des Zugangs, der zwischen Betreibern öffentlicher Telekommunikationsnetze hergestellt wird; dies mittels der physischen und logischen Verbindung öffentlicher Telekommunikationsnetze, die von demselben oder einem anderen Unternehmen genutzt werden, um Nutzern eines Unternehmens die Kommunikation mit Nutzern desselben oder eines anderen Unternehmens oder den Zugang zu den von einem anderen Unternehmen angebotenen Diensten zu ermöglichen, soweit solche Dienste von den beteiligten Parteien oder von anderen Parteien, die Zugang zum Netz haben, erbracht werden;
+
+80. „Netz- und Informationssystem“
+
+a) ein Telekommunikationsnetz im Sinne von Nummer 65,
+
+b) ein Gerät oder eine Gruppe miteinander verbundener oder zusammenhängender Geräte, die einzeln oder zu mehreren auf der Grundlage eines Programms die automatische Verarbeitung digitaler Daten durchführen, oder
+
+c) digitale Daten, die von den in den Buchstaben a und b genannten Elementen zum Zwecke ihres Betriebs, ihrer Nutzung, ihres Schutzes und ihrer Pflege gespeichert, verarbeitet, abgerufen oder übertragen werden.
 
 # § 4 – Internationale Berichtspflichten
 
@@ -1893,7 +1901,7 @@ Für das Verfahren nach Satz 1 gelten die §§ 11 bis 16 entsprechend.
 
 2. eine Einsichtnahme nach Absatz 4 die Vertraulichkeit gemäß § 148 verletzt,
 
-3. Teile einer Infrastruktur betroffen sind, die durch Gesetz oder aufgrund eines Gesetzes als Kritische Infrastrukturen bestimmt worden und nachweislich besonders schutzbedürftig und für die Funktionsfähigkeit der Kritischen Infrastruktur maßgeblich sind, oder
+3. Teile einer Infrastruktur betroffen sind, die durch Gesetz oder aufgrund eines Gesetzes als kritische Anlagen bestimmt worden und nachweislich besonders schutzbedürftig und für die Funktionsfähigkeit kritischer Anlagen maßgeblich sind, oder
 
 4. Teile öffentlicher Versorgungsnetze oder sonstiger physischer Infrastrukturen betroffen sind, die durch den Bund zur Verwirklichung einer sicheren Behördenkommunikation genutzt werden.
 
@@ -2887,7 +2895,7 @@ Die Verjährung der auf den §§ 128 bis 134 beruhenden Ansprüche richtet sich 
 
 2. durch die Erteilung der Informationen die Vertraulichkeit gemäß § 148 verletzt wird,
 
-3. von dem Antrag Teile einer Kritischen Infrastruktur, insbesondere deren Informationstechnik, betroffen sind, die nachweislich besonders schutzbedürftig und für die Funktionsfähigkeit der Kritischen Infrastruktur maßgeblich sind, und der Betreiber des öffentlichen Versorgungsnetzes bei Erteilung der Informationen unverhältnismäßige Maßnahmen ergreifen müsste, um die ihm durch Gesetz oder aufgrund eines Gesetzes auferlegten Schutzpflichten zu erfüllen, oder
+3. von dem Antrag Teile einer kritischen Anlagen, insbesondere deren Informationstechnik, betroffen sind, die nachweislich besonders schutzbedürftig und für die Funktionsfähigkeit kritischer Anlagen maßgeblich sind, und der Betreiber des öffentlichen Versorgungsnetzes bei Erteilung der Informationen unverhältnismäßige Maßnahmen ergreifen müsste, um die ihm durch Gesetz oder aufgrund eines Gesetzes auferlegten Schutzpflichten zu erfüllen, oder
 
 4. ein Ablehnungsgrund für eine Mitnutzung nach § 141 Absatz 2 vorliegt.
 
@@ -2917,7 +2925,7 @@ Die Zugänglichmachung erfolgt elektronisch unter verhältnismäßigen, diskrimi
 
 2. durch die Vor-Ort-Untersuchung die Vertraulichkeit gemäß § 148 verletzt wird,
 
-3. von dem Antrag Teile einer Kritischen Infrastruktur, insbesondere deren Informationstechnik, betroffen sind, die nachweislich besonders schutzbedürftig und für die Funktionsfähigkeit der Kritischen Infrastruktur maßgeblich sind, und der Betreiber des öffentlichen Versorgungsnetzes zur Durchführung der Vor-Ort-Untersuchung unverhältnismäßige Maßnahmen ergreifen müsste, um die ihm durch Gesetz oder aufgrund eines Gesetzes auferlegten Schutzpflichten zu erfüllen, oder
+3. von dem Antrag Teile einer kritischen Anlagen, insbesondere deren Informationstechnik, betroffen sind, die nachweislich besonders schutzbedürftig und für die Funktionsfähigkeit kritischer Anlagen maßgeblich sind, und der Betreiber des öffentlichen Versorgungsnetzes zur Durchführung der Vor-Ort-Untersuchung unverhältnismäßige Maßnahmen ergreifen müsste, um die ihm durch Gesetz oder aufgrund eines Gesetzes auferlegten Schutzpflichten zu erfüllen, oder
 
 4. ein Versagungsgrund für eine Mitnutzung nach § 141 Absatz 2 oder für eine Koordinierung von Bauarbeiten nach § 143 Absatz 4 vorliegt oder die Koordinierung von Bauarbeiten unzumutbar ist.
 
@@ -2973,7 +2981,7 @@ Eigentümer oder Betreiber öffentlicher Versorgungsnetze können Einnahmen aus 
 
 3. konkrete Anhaltspunkte dafür, dass die beantragte Mitnutzung die öffentliche Sicherheit oder die öffentliche Gesundheit gefährdet, wobei von konkreten Anhaltspunkten für die Gefährdung der öffentlichen Sicherheit auszugehen ist, soweit Teile öffentlicher Versorgungsnetze betroffen sind, die durch den Bund zur Verwirklichung einer sicheren Behördenkommunikation genutzt werden,
 
-4. konkrete Anhaltspunkte dafür, dass die beantragte Mitnutzung die Integrität oder Sicherheit bereits bestehender öffentlicher Versorgungsnetze, insbesondere nationaler Kritischer Infrastrukturen, gefährdet; bei Kritischen Infrastrukturen liegen konkrete Anhaltspunkte für eine solche Gefährdung vor, soweit von dem Antrag Teile einer Kritischen Infrastruktur, insbesondere die Informationstechnik Kritischer Infrastrukturen, betroffen sind, die nachweislich besonders schutzbedürftig und für die Funktionsfähigkeit der Kritischen Infrastruktur maßgeblich sind, und der Betreiber die Mitnutzung im Rahmen der ihm durch Gesetz oder aufgrund eines Gesetzes auferlegten Schutzpflichten nicht durch verhältnismäßige Maßnahmen ermöglichen kann,
+4. konkrete Anhaltspunkte dafür, dass die beantragte Mitnutzung die Integrität oder Sicherheit bereits bestehender öffentlicher Versorgungsnetze, insbesondere nationaler kritischer Anlagen, gefährdet; bei kritischen Anlagen liegen konkrete Anhaltspunkte für eine solche Gefährdung vor, soweit von dem Antrag Teile einer kritischen Anlage, insbesondere die Informationstechnik kritischer Anlagen, betroffen sind, die nachweislich besonders schutzbedürftig und für die Funktionsfähigkeit kritischer Anlagen maßgeblich sind, und der Betreiber die Mitnutzung im Rahmen der ihm durch Gesetz oder aufgrund eines Gesetzes auferlegten Schutzpflichten nicht durch verhältnismäßige Maßnahmen ermöglichen kann,
 
 5. Anhaltspunkte für eine zu erwartende erhebliche Störung des Versorgungsdienstes durch die geplanten Telekommunikationsdienste,
 
@@ -3007,7 +3015,7 @@ Ist innerhalb von sechs Monaten nach Eingang des Antrags auf Erteilung der Infor
 
 3. Bauarbeiten betroffen sind, deren anfänglich geplante Dauer acht Wochen nicht überschreitet,
 
-4. von dem Antrag Teile einer Kritischen Infrastruktur, insbesondere deren Informationstechnik, betroffen sind, die nachweislich besonders schutzbedürftig und für die Funktionsfähigkeit der Kritischen Infrastruktur maßgeblich sind, und der Betreiber des öffentlichen Versorgungsnetzes bei Erteilung der Informationen unverhältnismäßige Maßnahmen ergreifen müsste, um die ihm durch Gesetz oder aufgrund eines Gesetzes auferlegten Schutzpflichten zu erfüllen,
+4. von dem Antrag Teile einer kritischen Anlagen, insbesondere deren Informationstechnik, betroffen sind, die nachweislich besonders schutzbedürftig und für die Funktionsfähigkeit kritischer Anlagen maßgeblich sind, und der Betreiber des öffentlichen Versorgungsnetzes bei Erteilung der Informationen unverhältnismäßige Maßnahmen ergreifen müsste, um die ihm durch Gesetz oder aufgrund eines Gesetzes auferlegten Schutzpflichten zu erfüllen,
 
 5. die Koordinierung von Bauarbeiten unzumutbar ist oder
 
@@ -3039,7 +3047,7 @@ Ist innerhalb von sechs Monaten nach Eingang des Antrags auf Erteilung der Infor
 
 (4) Der Antrag nach Absatz 2 ist ganz oder teilweise insbesondere abzulehnen, sofern
 
-1. von dem Antrag Teile einer Kritischen Infrastruktur, insbesondere deren Informationstechnik, betroffen sind, die nachweislich besonders schutzbedürftig und für die Funktionsfähigkeit der Kritischen Infrastruktur maßgeblich sind,
+1. von dem Antrag Teile einer kritischen Anlagen, insbesondere deren Informationstechnik, betroffen sind, die nachweislich besonders schutzbedürftig und für die Funktionsfähigkeit kritischer Anlagen maßgeblich sind,
 
 2. der Betreiber des öffentlichen Versorgungsnetzes zur Koordinierung der Bauarbeiten unverhältnismäßige Maßnahmen ergreifen müsste, um die ihm durch Gesetz oder aufgrund eines Gesetzes auferlegten Schutzpflichten zu erfüllen, oder
 
@@ -3133,11 +3141,11 @@ Genehmigungen für Bauarbeiten, die zum Zweck des Aufbaus der Komponenten von Ne
 
 # § 151 – Verordnungsermächtigungen
 
-(1) Das Bundesministerium für Digitales und Staatsmodernisierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates im Benehmen mit dem Bundesministerium für Wirtschaft und Energie passive Netzinfrastrukturen zu benennen, die von den in den §§ 79, 82, 136 und 137 genannten Rechten und Pflichten ausgenommen sind. Die Ausnahmen sind hinreichend zu begründen. Sie dürfen nur darauf gestützt werden, dass der Schutz von Teilen Kritischer Infrastrukturen betroffen ist oder dass die passiven Netzinfrastrukturen für die Telekommunikation technisch ungeeignet sind. Soweit die Ausnahmen auf den Schutz von Teilen Kritischer Infrastrukturen gestützt werden, bedarf die Rechtsverordnung des Einvernehmens mit dem Bundesministerium des Innern.
+(1) Das Bundesministerium für Digitales und Staatsmodernisierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates im Benehmen mit dem Bundesministerium für Wirtschaft und Energie passive Netzinfrastrukturen zu benennen, die von den in den §§ 79, 82, 136 und 137 genannten Rechten und Pflichten ausgenommen sind. Die Ausnahmen sind hinreichend zu begründen. Sie dürfen nur darauf gestützt werden, dass der Schutz von Teilen kritischer Anlagen betroffen ist oder dass die passiven Netzinfrastrukturen für die Telekommunikation technisch ungeeignet sind. Soweit die Ausnahmen auf den Schutz von Teilen kritischer Anlagen gestützt werden, bedarf die Rechtsverordnung des Einvernehmens mit dem Bundesministerium des Innern.
 
-(2) Das Bundesministerium für Digitales und Staatsmodernisierung wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, über die in § 142 Absatz 4 vorgesehenen Ablehnungsgründe von den in § 142 festgelegten Rechten und Pflichten hinausgehende Ausnahmen vorzusehen und Kategorien von Bauarbeiten zu benennen, die der zentralen Informationsstelle des Bundes zu melden sind. Solche Kategorien dürfen nur Bauarbeiten enthalten, deren anfänglich geplante Dauer acht Wochen überschreitet. Die Rechtsverordnung ist hinreichend zu begründen und kann im Umfang oder Wert geringfügige Bauarbeiten oder Kritische Infrastrukturen ausnehmen. Soweit die Ausnahmen auf den Schutz von Teilen Kritischer Infrastrukturen gestützt werden, bedarf die Rechtsverordnung des Einvernehmens mit dem Bundesministerium des Innern.
+(2) Das Bundesministerium für Digitales und Staatsmodernisierung wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, über die in § 142 Absatz 4 vorgesehenen Ablehnungsgründe von den in § 142 festgelegten Rechten und Pflichten hinausgehende Ausnahmen vorzusehen und Kategorien von Bauarbeiten zu benennen, die der zentralen Informationsstelle des Bundes zu melden sind. Solche Kategorien dürfen nur Bauarbeiten enthalten, deren anfänglich geplante Dauer acht Wochen überschreitet. Die Rechtsverordnung ist hinreichend zu begründen und kann im Umfang oder Wert geringfügige Bauarbeiten oder kritische Anlagen ausnehmen. Soweit die Ausnahmen auf den Schutz von Teilen kritischer Anlagen gestützt werden, bedarf die Rechtsverordnung des Einvernehmens mit dem Bundesministerium des Innern.
 
-(3) Das Bundesministerium für Digitales und Staatsmodernisierung wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, Ausnahmen von den in § 143 festgelegten Rechten und Pflichten vorzusehen. Die Ausnahmen können auf dem geringen Umfang und Wert der Bauarbeiten oder auf dem Schutz von Teilen Kritischer Infrastrukturen beruhen. Soweit die Ausnahmen auf den Schutz von Teilen Kritischer Infrastrukturen gestützt werden, bedarf die Rechtsverordnung des Einvernehmens mit dem Bundesministerium des Innern.
+(3) Das Bundesministerium für Digitales und Staatsmodernisierung wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, Ausnahmen von den in § 143 festgelegten Rechten und Pflichten vorzusehen. Die Ausnahmen können auf dem geringen Umfang und Wert der Bauarbeiten oder auf dem Schutz von Teilen kritischer Anlagen beruhen. Soweit die Ausnahmen auf den Schutz von Teilen kritischer Anlagen gestützt werden, bedarf die Rechtsverordnung des Einvernehmens mit dem Bundesministerium des Innern.
 
 (4) Das Bundesministerium für Digitales und Staatsmodernisierung wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, Ausnahmen von § 145 Absatz 4 und 5 vorzusehen. Die Rechtsverordnung ist hinreichend zu begründen und kann bestimmte Gebäudekategorien und umfangreiche Renovierungen ausnehmen, falls die Erfüllung der Pflichten unverhältnismäßig wäre. Die Unverhältnismäßigkeit kann insbesondere auf den voraussichtlichen Kosten für einzelne Eigentümer oder auf der spezifischen Art des Gebäudes beruhen.
 
@@ -3171,7 +3179,7 @@ Genehmigungen für Bauarbeiten, die zum Zweck des Aufbaus der Komponenten von Ne
 
 2. durch die Erteilung der Informationen die Vertraulichkeit gemäß § 148 verletzt wird,
 
-3. eine Erteilung der Informationen die Integrität oder Sicherheit bereits bestehender sonstiger physischer Infrastrukturen, insbesondere nationaler, nachweislich besonders schutzbedürftiger Kritischer Infrastrukturen, gefährdet und der Betreiber die Mitnutzung im Rahmen der ihm durch Gesetz oder aufgrund eines Gesetzes auferlegten Schutzpflichten nicht durch verhältnismäßige Maßnahmen ermöglichen kann,
+3. eine Erteilung der Informationen die Integrität oder Sicherheit bereits bestehender sonstiger physischer Infrastrukturen, insbesondere nationaler, nachweislich besonders schutzbedürftiger kritischer Anlagen, gefährdet und der Betreiber die Mitnutzung im Rahmen der ihm durch Gesetz oder aufgrund eines Gesetzes auferlegten Schutzpflichten nicht durch verhältnismäßige Maßnahmen ermöglichen kann,
 
 4. ein Ablehnungsgrund für eine Mitnutzung nach § 154 Absatz 4 vorliegt.
 
@@ -3219,7 +3227,7 @@ Das Angebot kann besondere Vereinbarungen zur Haftung und zu Instandhaltungen, �
 
 3. konkrete Anhaltspunkte dafür, dass die beantragte Mitnutzung die öffentliche Sicherheit gefährdet, wobei von konkreten Anhaltspunkten auszugehen ist, soweit Teile einer sonstigen physischen Infrastruktur betroffen sind, die durch den Bund zur Verwirklichung einer sicheren Behördenkommunikation genutzt werden,
 
-4. konkrete Anhaltspunkte dafür, dass die beantragte Mitnutzung die Integrität oder Sicherheit bereits bestehender sonstiger physischer Infrastrukturen, insbesondere nationaler, nachweislich besonders schutzbedürftiger Kritischer Infrastrukturen, gefährdet, und der Betreiber die Mitnutzung im Rahmen der ihm durch Gesetz oder aufgrund eines Gesetzes auferlegten Schutzpflichten nicht durch verhältnismäßige Maßnahmen ermöglichen kann,
+4. konkrete Anhaltspunkte dafür, dass die beantragte Mitnutzung die Integrität oder Sicherheit bereits bestehender sonstiger physischer Infrastrukturen, insbesondere nationaler, nachweislich besonders schutzbedürftiger kritischer Anlagen, gefährdet, und der Betreiber die Mitnutzung im Rahmen der ihm durch Gesetz oder aufgrund eines Gesetzes auferlegten Schutzpflichten nicht durch verhältnismäßige Maßnahmen ermöglichen kann,
 
 5. die Verfügbarkeit tragfähiger Alternativen zur beantragten Mitnutzung sonstiger physischer Infrastrukturen, soweit der Eigentümer oder Betreiber der sonstigen physischen Infrastruktur diese Alternativen anbietet, sie sich für die Errichtung oder Anbindung drahtloser Zugangspunkte mit geringer Reichweite eignen und die Mitnutzung zu fairen und angemessenen Bedingungen gewährt wird.
 
@@ -3457,11 +3465,39 @@ Dabei ist der Stand der Technik zu berücksichtigen.
 
 2. zur Beherrschung der Risiken für die Sicherheit von Telekommunikationsnetzen und -diensten.
 
-Insbesondere sind Maßnahmen, einschließlich gegebenenfalls Maßnahmen in Form von Verschlüsselung, zu treffen, um Telekommunikations- und Datenverarbeitungssysteme gegen unerlaubte Zugriffe zu sichern und Auswirkungen von Sicherheitsverletzungen für Nutzer, andere Telekommunikationsnetze und Dienste so gering wie möglich zu halten. Bei diesen Maßnahmen ist der Stand der Technik zu berücksichtigen.
+Insbesondere sind Maßnahmen, einschließlich gegebenenfalls Maßnahmen in Form von Verschlüsselung, zu treffen, um Telekommunikations- und Datenverarbeitungssysteme gegen unerlaubte Zugriffe zu sichern und Auswirkungen von Sicherheitsverletzungen für Nutzer, andere Telekommunikationsnetze und Dienste so gering wie möglich zu halten. Bei diesen Maßnahmen ist unter Berücksichtigung des Stands der Technik, der einschlägigen europäischen und internationalen Normen sowie der Umsetzungskosten ein Sicherheitsniveau der Netz- und Informationssysteme zu gewährleisten, das dem bestehenden Risiko angemessen ist. Bei der Bewertung, ob Maßnahmen dem bestehenden Risiko angemessen sind, sind das Ausmaß der Risikoexposition und die Größe des Betreibers oder des Anbieters sowie die Eintrittswahrscheinlichkeit und Schwere von Sicherheitsvorfällen sowie ihre gesellschaftlichen und wirtschaftlichen Auswirkungen zu berücksichtigen.
 
-(3) Als eine angemessene Maßnahme im Sinne des Absatzes 2 können Betreiber öffentlicher Telekommunikationsnetze und Anbieter öffentlich zugänglicher Telekommunikationsdienste Systeme zur Angriffserkennung im Sinne des § 2 Absatz 9b des BSI-Gesetzes einsetzen. Betreiber öffentlicher Telekommunikationsnetze und Anbieter öffentlich zugänglicher Telekommunikationsdienste mit erhöhtem Gefährdungspotenzial haben entsprechende Systeme zur Angriffserkennung einzusetzen. Die eingesetzten Systeme zur Angriffserkennung müssen in der Lage sein, durch kontinuierliche und automatische Erfassung und Auswertung Gefahren oder Bedrohungen zu erkennen. Sie sollen zudem in der Lage sein, erkannte Gefahren oder Bedrohungen abzuwenden und für eingetretene Störungen geeignete Beseitigungsmaßnahmen vorsehen. Weitere Einzelheiten kann die Bundesnetzagentur im Katalog von Sicherheitsanforderungen nach § 167 festlegen.
+(2a) Maßnahmen nach Absatz 2 von Betreibern öffentlicher Telekommunikationsnetze und Anbietern öffentlich zugänglicher Telekommunikationsdienste, die besonders wichtige Einrichtungen im Sinne von § 28 Absatz 1 Satz 1 Nummer 3 des BSI-Gesetzes oder wichtige Einrichtungen im Sinne von § 28 Absatz 2 Satz 1 Nummer 2 des BSI-Gesetzes sind, müssen auf einem gefahrenübergreifenden Ansatz beruhen, der darauf abzielt, die Netz- und Informationssysteme und die physische Umwelt dieser Systeme vor Sicherheitsvorfällen zu schützen, und zumindest Folgendes umfassen:
 
-(4) Kritische Komponenten im Sinne von § 2 Absatz 13 des BSI-Gesetzes dürfen von einem Betreiber öffentlicher Telekommunikationsnetze mit erhöhtem Gefährdungspotenzial nur eingesetzt werden, wenn sie vor dem erstmaligen Einsatz von einer anerkannten Zertifizierungsstelle überprüft und zertifiziert wurden.
+1. Konzepte in Bezug auf die Risikoanalyse und Sicherheit für Informationssysteme,
+
+2. Bewältigung von Sicherheitsvorfällen,
+
+3. Aufrechterhaltung des Betriebs, wie Backup-Management und Wiederherstellung nach einem Notfall, und Krisenmanagement,
+
+4. Sicherheit der Lieferkette einschließlich sicherheitsbezogener Aspekte der Beziehungen zwischen den einzelnen Einrichtungen und ihren unmittelbaren Anbietern oder Diensteanbietern,
+
+5. Sicherheitsmaßnahmen bei Erwerb, Entwicklung und Wartung von Netz- und Informationssystemen, einschließlich Management und Offenlegung von Schwachstellen,
+
+6. Konzepte und Verfahren zur Bewertung der Wirksamkeit von Maßnahmen nach Absatz 2 im Bereich der Sicherheit von Netzen und Diensten,
+
+7. Grundlegende Verfahren und Schulungen im Bereich der Sicherheit von Netzen und Diensten,
+
+8. Konzepte und Verfahren für den Einsatz von Kryptografie und Verschlüsselung,
+
+9. Sicherheit des Personals, Konzepte für die Zugriffskontrolle und Management von Anlagen,
+
+10. Verwendung von Lösungen zur Multi-Faktor-Authentifizierung oder kontinuierlichen Authentifizierung, gesicherte Sprach, Video- und Textkommunikation sowie gegebenenfalls gesicherte Notfallkommunikationssysteme innerhalb der Einrichtung.
+
+(2b) Die Geschäftsleitungen von Betreibern öffentlicher Telekommunikationsnetze und Anbietern öffentlich zugänglicher Telekommunikationsdienste, die besonders wichtige Einrichtungen im Sinne von § 28 Absatz 1 Satz 1 Nummer 3 des BSI-Gesetzes oder wichtige Einrichtungen im Sinne von § 28 Absatz 2 Satz 1 Nummer 2 des BSI-Gesetzes sind, sind verpflichtet, die von diesen Einrichtungen nach Absatz 2 zu ergreifenden Maßnahmen umzusetzen und ihre Umsetzung zu überwachen.
+
+(2c) Geschäftsleitungen, die ihre Pflichten nach Absatz 2b verletzen, haften ihrer Einrichtung für einen schuldhaft verursachten Schaden nach den auf die Rechtsform der Einrichtung anwendbaren Regeln des Gesellschaftsrechts. Nach diesem Gesetz haften sie nur, wenn die für die Einrichtung maßgeblichen gesellschaftsrechtlichen Bestimmungen keine Haftungsregelung nach Satz 1 enthalten.
+
+(2d) Die Geschäftsleitungen von Betreibern öffentlicher Telekommunikationsnetze und Anbietern öffentlich zugänglicher Telekommunikationsdienste, die besonders wichtige Einrichtungen im Sinne von § 28 Absatz 1 Satz 1 Nummer 3 des BSI-Gesetzes oder wichtige Einrichtungen im Sinne von § 28 Absatz 2 Satz 1 Nummer 2 des BSI-Gesetzes sind, müssen regelmäßig an Schulungen teilnehmen, um ausreichende Kenntnisse und Fähigkeiten zur Erkennung und Bewertung von Risiken sowie Risikomanagementpraktiken im Bereich der Sicherheit in der Informationstechnik zu erlangen sowie um die Auswirkungen von Risiken sowie Risikomanagementpraktiken auf die von der Einrichtung erbrachten Dienste beurteilen zu können.
+
+(3) Als eine angemessene Maßnahme im Sinne des Absatzes 2 können Betreiber öffentlicher Telekommunikationsnetze und Anbieter öffentlich zugänglicher Telekommunikationsdienste Systeme zur Angriffserkennung im Sinne des § 2 Nummer 41 des BSI-Gesetzes einsetzen. Betreiber öffentlicher Telekommunikationsnetze und Anbieter öffentlich zugänglicher Telekommunikationsdienste mit erhöhtem Gefährdungspotenzial haben entsprechende Systeme zur Angriffserkennung einzusetzen. Die eingesetzten Systeme zur Angriffserkennung müssen in der Lage sein, durch kontinuierliche und automatische Erfassung und Auswertung Gefahren oder Bedrohungen zu erkennen. Sie sollen zudem in der Lage sein, erkannte Gefahren oder Bedrohungen abzuwenden und für eingetretene Störungen geeignete Beseitigungsmaßnahmen vorsehen. Weitere Einzelheiten kann die Bundesnetzagentur im Katalog von Sicherheitsanforderungen nach § 167 festlegen.
+
+(4) Kritische Komponenten im Sinne von § 2 Nummer 23 des BSI-Gesetzes dürfen von einem Betreiber öffentlicher Telekommunikationsnetze mit erhöhtem Gefährdungspotenzial nur eingesetzt werden, wenn sie vor dem erstmaligen Einsatz von einer anerkannten Zertifizierungsstelle überprüft und zertifiziert wurden.
 
 (5) Wer ein öffentliches Telekommunikationsnetz betreibt, hat Maßnahmen zu treffen, um den ordnungsgemäßen Betrieb seiner Netze zu gewährleisten und dadurch die fortlaufende Verfügbarkeit der über diese Netze erbrachten Dienste sicherzustellen.
 
@@ -3475,7 +3511,7 @@ Insbesondere sind Maßnahmen, einschließlich gegebenenfalls Maßnahmen in Form 
 
 (10) Über aufgedeckte Mängel bei der Erfüllung der Sicherheitsanforderungen in der Informationstechnik sowie die in diesem Zusammenhang von der Bundesnetzagentur geforderten Abhilfemaßnahmen unterrichtet die Bundesnetzagentur unverzüglich das Bundesamt für Sicherheit in der Informationstechnik.
 
-(11) Die Bundesnetzagentur kann zur Unterstützung ein Computer-Notfallteam gemäß Artikel 9 der Richtlinie (EU) 2016/1148 des Europäischen Parlaments und des Rates vom 6. Juli 2016 über Maßnahmen zur Gewährleistung eines hohen gemeinsamen Sicherheitsniveaus von Netz- und Informationssystemen in der Union (ABl. L 194 vom 19.7.2016, S. 1; L 33 vom 7.2.2018, S. 5) im Rahmen der zugewiesenen Aufgaben in Anspruch nehmen. Die Bundesnetzagentur kann ferner das Bundesamt für Sicherheit in der Informationstechnik, die zuständigen nationalen Strafverfolgungsbehörden und die Bundesbeauftragte oder den Bundesbeauftragten für den Datenschutz und die Informationsfreiheit konsultieren.
+(11) Die Bundesnetzagentur kann zur Unterstützung ein Computer-Notfallteam gemäß Artikel 10 der Richtlinie (EU) 2022/2555 im Rahmen der zugewiesenen Aufgaben in Anspruch nehmen. Die Bundesnetzagentur kann ferner das Bundesamt für Sicherheit in der Informationstechnik, die zuständigen nationalen Strafverfolgungsbehörden und die Bundesbeauftragte oder den Bundesbeauftragten für den Datenschutz und die Informationsfreiheit konsultieren.
 
 # § 166 – Sicherheitsbeauftragter und Sicherheitskonzept
 
@@ -3507,47 +3543,55 @@ c) welche technischen Vorkehrungen oder sonstigen Schutzmaßnahmen zur Erfüllun
 
 1. Einzelheiten der nach § 165 Absatz 1 bis 7 zu treffenden technischen Vorkehrungen und sonstigen Maßnahmen unter Beachtung der verschiedenen Gefährdungspotenziale der öffentlichen Telekommunikationsnetze und öffentlich zugänglichen Telekommunikationsdienste,
 
-2. welche Funktionen kritische Funktionen im Sinne von § 2 Absatz 13 Satz 1 Nummer 3 Buchstabe b des BSI-Gesetzes sind, die von kritischen Komponenten im Sinne von § 2 Absatz 13 des BSI-Gesetzes realisiert werden, und
+2. welche Funktionen kritische Funktionen im Sinne von § 2 Nummer 23 Buchstabe c Doppelbuchstabe bb des BSI-Gesetzes sind, die von kritischen Komponenten im Sinne von § 2 Nummer 23 des BSI-Gesetzes realisiert werden, und
 
 3. wer als Betreiber öffentlicher Telekommunikationsnetze und als Anbieter öffentlich zugänglicher Telekommunikationsdienste mit erhöhtem Gefährdungspotenzial einzustufen ist.
 
 Der Katalog von Sicherheitsanforderungen nach Satz 1 kann auch Anforderungen zur Offenlegung und Interoperabilität von Schnittstellen von Netzkomponenten einschließlich einzuhaltender technischer Standards enthalten. Die Bundesnetzagentur gibt den Herstellern, den Verbänden der Betreiber öffentlicher Telekommunikationsnetze und den Verbänden der Anbieter öffentlich zugänglicher Telekommunikationsdienste Gelegenheit zur Stellungnahme.
 
-(2) Die Verpflichteten haben die Vorgaben des Katalogs spätestens ein Jahr nach dessen Inkrafttreten zu erfüllen, es sei denn, in dem Katalog ist eine davon abweichende Umsetzungsfrist festgelegt worden.
+(2) Die Befugnis der Bundesnetzagentur nach Absatz 1 Nummer 2 besteht bis zum Erlass einer Rechtsverordnung nach § 56 Absatz 7 des BSI-Gesetzes für den Sektor Informationstechnik und Telekommunikation im Sinne des § 2 Nummer 24 fort. Eine von der Bundesnetzagentur auf der Grundlage von Absatz 1 Satz 1 Nummer 2 erlassene Allgemeinverfügung ist mit dem Inkrafttreten einer Rechtsverordnung nach § 56 Absatz 7 des BSI-Gesetzes für den Sektor Informationstechnik und Telekommunikation aufzuheben.
 
-# § 168 – Mitteilung eines Sicherheitsvorfalls
+(3) Die Verpflichteten haben die Vorgaben des Katalogs spätestens ein Jahr nach dessen Inkrafttreten zu erfüllen, es sei denn, in dem Katalog ist eine davon abweichende Umsetzungsfrist festgelegt worden.
 
-(1) Wer ein öffentliches Telekommunikationsnetz betreibt oder öffentlich zugängliche Telekommunikationsdienste erbringt, hat der Bundesnetzagentur und dem Bundesamt für Sicherheit in der Informationstechnik einen Sicherheitsvorfall mit beträchtlichen Auswirkungen auf den Betrieb der Netze oder die Erbringung der Dienste unverzüglich mitzuteilen. § 42 Absatz 4 und § 43 Absatz 4 des Bundesdatenschutzgesetzes gelten entsprechend.
+# § 168 – Meldung eines Sicherheitsvorfalls
 
-(2) Das Ausmaß der Auswirkungen eines Sicherheitsvorfalls ist – sofern verfügbar – insbesondere anhand folgender Kriterien zu bewerten:
+(1) Wer ein öffentliches Telekommunikationsnetz betreibt oder öffentlich zugängliche Telekommunikationsdienste erbringt, macht an die Bundesnetzagentur und an das Bundesamt für Sicherheit in der Informationstechnik:
 
-1. die Zahl der von dem Sicherheitsvorfall betroffenen Nutzer,
+1. unverzüglich, spätestens jedoch innerhalb von 24 Stunden nach Kenntniserlangung von einem erheblichen Sicherheitsvorfall, eine frühe Erstmeldung, in der angegeben wird, ob der Verdacht besteht, dass der erhebliche Sicherheitsvorfall auf rechtswidrige oder böswillige Handlungen zurückzuführen ist oder grenzüberschreitende Auswirkungen haben könnte;
 
-2. die Dauer des Sicherheitsvorfalls,
+2. unverzüglich, spätestens jedoch innerhalb von 72 Stunden nach Kenntniserlangung von einem erheblichen Sicherheitsvorfall, eine Meldung über den Sicherheitsvorfall, in der die in Nummer 1 genannten Informationen bestätigt oder aktualisiert werden und eine erste Bewertung des erheblichen Sicherheitsvorfalls, einschließlich seines Schweregrads und seiner Auswirkungen, sowie gegebenenfalls die Kompromittierungsindikatoren angegeben werden;
 
-3. die geographische Ausdehnung des von dem Sicherheitsvorfall betroffenen Gebiets,
+3. auf Ersuchen der Bundesnetzagentur oder dem Bundesamt für Sicherheit in der Informationstechnik eine Zwischenmeldung über relevante Statusaktualisierungen;
 
-4. das Ausmaß der Beeinträchtigung des Telekommunikationsnetzes oder des Dienstes,
+4. spätestens einen Monat nach Übermittlung der Meldung des erheblichen Sicherheitsvorfalls gemäß Nummer 2, vorbehaltlich Absatz 2, eine Abschlussmeldung, die Folgendes enthält:
 
-5. das Ausmaß der Auswirkungen auf wirtschaftliche und gesellschaftliche Tätigkeiten.
+a) eine ausführliche Beschreibung des erheblichen Sicherheitsvorfalls, einschließlich seines Schwergrads und seiner Auswirkungen;
 
-(3) Die Mitteilung nach Absatz 1 Satz 1 muss die folgenden Angaben enthalten:
+b) Angaben zur Art der Bedrohung beziehungsweise zugrunde liegenden Ursache, die wahrscheinlich den Sicherheitsvorfall ausgelöst hat;
 
-1. Angaben zu dem Sicherheitsvorfall,
+c) Angaben zu den getroffenen und laufenden Abhilfemaßnahmen;
 
-2. Angaben zu den Kriterien nach Absatz 2,
+d) Gegebenenfalls die grenzüberschreitenden Auswirkungen des erheblichen Sicherheitsvorfalls.
 
-3. Angaben zu den betroffenen Systemen sowie
+§ 42 Absatz 4 und § 43 Absatz 4 des Bundesdatenschutzgesetzes gelten entsprechend.
 
-4. Angaben zu der vermuteten oder tatsächlichen Ursache.
+(2) Dauert der erhebliche Sicherheitsvorfall im Zeitpunkt des Absatz 1 Satz 1 Nummer 4 noch an, legt der Betroffene statt einer Abschlussmeldung zu diesem Zeitpunkt eine Fortschrittsmeldung und eine Abschlussmeldung innerhalb eines Monats nach Abschluss der Bearbeitung des erheblichen Sicherheitsvorfalls vor.
 
-(4) Die Bundesnetzagentur legt Einzelheiten des Mitteilungsverfahrens fest. Die Bundesnetzagentur kann einen detaillierten Bericht über den Sicherheitsvorfall und die ergriffenen Abhilfemaßnahmen verlangen.
+(3) Ein Sicherheitsvorfall gilt als erheblich, wenn
 
-(5) Erforderlichenfalls unterrichtet die Bundesnetzagentur die nationalen Regulierungsbehörden der anderen Mitgliedstaaten der Europäischen Union und die Agentur der Europäischen Union für Cybersicherheit über den Sicherheitsvorfall. Die Bundesnetzagentur kann die Öffentlichkeit unterrichten oder die nach Absatz 1 Satz 1 Verpflichteten zu dieser Unterrichtung verpflichten, wenn sie zu dem Schluss gelangt, dass die Bekanntgabe des Sicherheitsvorfalls im öffentlichen Interesse liegt.
+1. er schwerwiegende Betriebsstörungen oder finanzielle Verluste für den betreffenden Betreiber öffentlicher Telekommunikationsnetze oder Anbieter öffentlich zugänglicher Telekommunikationsdienste verursacht hat oder verursachen kann, oder
 
-(6) Im Falle einer besonderen und erheblichen Gefahr eines Sicherheitsvorfalls informieren die nach Absatz 1 Satz 1 Verpflichteten die von dieser Gefahr potenziell betroffenen Nutzer über alle möglichen Schutz- oder Abhilfemaßnahmen, die von den Nutzern ergriffen werden können sowie gegebenenfalls auch über die Gefahr selbst. § 8e des BSI-Gesetzes gilt entsprechend.
+2. er andere natürliche oder juristische Personen durch erhebliche materielle oder immaterielle Schäden beeinträchtigt hat oder beeinträchtigen kann.
 
-(7) Die Bundesnetzagentur legt der Kommission, der Agentur der Europäischen Union für Cybersicherheit und dem Bundesamt für Sicherheit in der Informationstechnik einmal pro Jahr einen zusammenfassenden Bericht über die eingegangenen Meldungen und die ergriffenen Abhilfemaßnahmen vor.
+(4) Die Bundesnetzagentur legt Einzelheiten des Meldeverfahrens fest. Die Bundesnetzagentur kann einen detaillierten Bericht über den Sicherheitsvorfall und die ergriffenen Abhilfemaßnahmen verlangen.
+
+(5) Die Bundesnetzagentur übermittelt den nach Absatz 1 Satz 1 Verpflichteten unverzüglich und nach Möglichkeit innerhalb von 24 Stunden nach der frühen Erstmeldung nach Absatz 1 Satz 1 Nummer 1 eine Bestätigung über den Eingang der Meldung. Das Bundesamt für Sicherheit in der Informationstechnik kann auf Ersuchen der nach Absatz 1 Satz 1 Verpflichteten zusätzliche technische Unterstützung, Orientierungshilfen oder operative Beratung zu Abhilfemaßnahmen leisten. Das Bundesamt für Sicherheit in der Informationstechnik informiert die Bundesnetzagentur über Maßnahmen nach Satz 2.
+
+(6) Erforderlichenfalls unterrichtet die Bundesnetzagentur die nationalen Regulierungsbehörden der anderen Mitgliedstaaten der Europäischen Union und die Agentur der Europäischen Union für Cybersicherheit über den Sicherheitsvorfall. Ist eine Sensibilisierung der Öffentlichkeit erforderlich, um einen erheblichen Sicherheitsvorfall zu verhindern oder zu bewältigen, oder liegt die Offenlegung des erheblichen Sicherheitsvorfalls anderweitig im öffentlichen Interesse, so kann die Bundesnetzagentur nach Anhörung der nach Absatz 1 Satz 1 Verpflichteten die Öffentlichkeit unterrichten oder die nach Absatz 1 Satz 1 Verpflichteten zu dieser Unterrichtung verpflichten.
+
+(7) Im Falle einer besonderen und erheblichen Gefahr eines Sicherheitsvorfalls informieren die nach Absatz 1 Satz 1 Verpflichteten die von dieser Gefahr potenziell betroffenen Nutzer über alle möglichen Schutz- oder Abhilfemaßnahmen, die von den Nutzern ergriffen werden können sowie gegebenenfalls auch über die Gefahr selbst. § 42 des BSI-Gesetzes gilt entsprechend.
+
+(8) Die Bundesnetzagentur legt der Kommission, der Agentur der Europäischen Union für Cybersicherheit und dem Bundesamt für Sicherheit in der Informationstechnik einmal pro Jahr einen zusammenfassenden Bericht über die eingegangenen Meldungen und die ergriffenen Abhilfemaßnahmen vor.
 
 # § 169 – Daten- und Informationssicherheit
 
@@ -3920,7 +3964,7 @@ a) zur politischen Unterrichtung der Bundesregierung, wenn im Einzelfall tatsäc
 
 b) zur Früherkennung von aus dem Ausland drohenden Gefahren von internationaler Bedeutung, wenn im Einzelfall tatsächliche Anhaltspunkte dafür vorliegen, dass durch die Auskunft Erkenntnisse gewonnen werden können mit Bezug zu den in § 4 Absatz 3 Nummer 1 des BND-Gesetzes genannten Gefahrenbereichen oder zum Schutz der in § 4 Absatz 3 Nummer 2 und 3 des BND-Gesetzes genannten Rechtsgüter,
 
-8. an das Bundesamt für Sicherheit in der Informationstechnik zum Schutz der Versorgung der Bevölkerung in den Bereichen des § 2 Absatz 10 Satz 1 Nummer 1 des BSI-Gesetzes oder der öffentlichen Sicherheit, um damit eine Beeinträchtigung der Sicherheit oder Funktionsfähigkeit informationstechnischer Systeme einer Kritischen Infrastruktur oder eines Unternehmens im besonderen öffentlichen Interesse abzuwenden, wenn Tatsachen den Schluss auf ein wenigstens seiner Art nach konkretisiertes und zeitlich absehbares Geschehen zulassen, das auf die informationstechnischen Systeme bestimmbarer Infrastrukturen oder Unternehmen abzielen wird, und die in die Auskunft aufzunehmenden Daten im Einzelfall erforderlich sind, um den Betreiber der betroffenen Kritischen Infrastruktur oder das betroffene Unternehmen im besonderen öffentlichen Interesse vor dieser Beeinträchtigung zu warnen, über diese zu informieren oder bei deren Beseitigung zu beraten oder zu unterstützen.
+8. an das Bundesamt für Sicherheit in der Informationstechnik zum Schutz der Versorgung der Bevölkerung in den Sektoren des § 2 Nummer 24 des BSI-Gesetzes oder der öffentlichen Sicherheit, um damit eine Beeinträchtigung der Sicherheit oder Funktionsfähigkeit informationstechnischer Systeme einer kritischen Anlage oder eines Unternehmens im besonderen öffentlichen Interesse abzuwenden, wenn Tatsachen den Schluss auf ein wenigstens seiner Art nach konkretisiertes und zeitlich absehbares Geschehen zulassen, das auf die informationstechnischen Systeme bestimmbarer Infrastrukturen oder Unternehmen abzielen wird, und die in die Auskunft aufzunehmenden Daten im Einzelfall erforderlich sind, um den Betreiber der betroffenen kritischen Anlage oder das betroffene Unternehmen im besonderen öffentlichen Interesse vor dieser Beeinträchtigung zu warnen, über diese zu informieren oder bei deren Beseitigung zu beraten oder zu unterstützen.
 
 (4) Die Auskunft nach Absatz 1 Satz 2 darf nur unter den Voraussetzungen des Absatzes 3 und nur dann erteilt werden, wenn die Auskunft verlangende Stelle auch zur Nutzung der zu beauskunftenden Daten im Einzelfall berechtigt ist. Die Verantwortung für die Berechtigung zur Nutzung der zu beauskunftenden Daten tragen die um Auskunft ersuchenden Stellen.
 
@@ -4019,7 +4063,7 @@ a) zur politischen Unterrichtung der Bundesregierung, wenn im Einzelfall tatsäc
 
 b) zur Früherkennung von aus dem Ausland drohenden Gefahren von internationaler Bedeutung, wenn im Einzelfall tatsächliche Anhaltspunkte dafür vorliegen, dass durch die Auskunft Erkenntnisse gewonnen werden können mit Bezug zu den in § 4 Absatz 3 Nummer 1 des BND-Gesetzes genannten Gefahrenbereichen oder zum Schutz der in § 4 Absatz 3 Nummer 2 und 3 des BND-Gesetzes genannten Rechtsgüter,
 
-8. an das Bundesamt für Sicherheit in der Informationstechnik zum Schutz der Versorgung der Bevölkerung in den Bereichen des § 2 Absatz 10 Satz 1 Nummer 1 des BSI-Gesetzes oder der öffentlichen Sicherheit, um damit eine Beeinträchtigung der Sicherheit oder Funktionsfähigkeit informationstechnischer Systeme einer Kritischen Infrastruktur oder eines Unternehmens im besonderen öffentlichen Interesse abzuwenden, wenn Tatsachen den Schluss auf ein wenigstens seiner Art nach konkretisiertes und zeitlich absehbares Geschehen zulassen, das auf die informationstechnischen Systeme bestimmbarer Infrastrukturen oder Unternehmen abzielen wird, und die in die Auskunft aufzunehmenden Daten im Einzelfall erforderlich sind, um den Betreiber der betroffenen Kritischen Infrastruktur oder das betroffene Unternehmen im besonderen öffentlichen Interesse vor dieser Beeinträchtigung zu warnen, über diese zu informieren oder bei deren Beseitigung zu beraten oder zu unterstützen.
+8. an das Bundesamt für Sicherheit in der Informationstechnik zum Schutz der Versorgung der Bevölkerung in den Sektoren des § 2 Nummer 24 des BSI-Gesetzes oder der öffentlichen Sicherheit, um damit eine Beeinträchtigung der Sicherheit oder Funktionsfähigkeit informationstechnischer Systeme einer kritischen Anlage oder eines Unternehmens im besonderen öffentlichen Interesse abzuwenden, wenn Tatsachen den Schluss auf ein wenigstens seiner Art nach konkretisiertes und zeitlich absehbares Geschehen zulassen, das auf die informationstechnischen Systeme bestimmbarer Infrastrukturen oder Unternehmen abzielen wird, und die in die Auskunft aufzunehmenden Daten im Einzelfall erforderlich sind, um den Betreiber der betroffenen kritischen Anlage oder das betroffene Unternehmen im besonderen öffentlichen Interesse vor dieser Beeinträchtigung zu warnen, über diese zu informieren oder bei deren Beseitigung zu beraten oder zu unterstützen.
 
 (6) Derjenige, der geschäftsmäßig Telekommunikationsdienste erbringt oder daran mitwirkt, hat die zu beauskunftenden Daten unverzüglich und vollständig zu übermitteln. Über das Auskunftsersuchen und die Auskunftserteilung haben die Verpflichteten gegenüber den Betroffenen sowie Dritten Stillschweigen zu wahren.
 
@@ -4599,7 +4643,7 @@ Die Allgemeinverfügung gilt zwei Wochen nach der Bekanntmachung im Amtsblatt de
 
 5. bei einer Inanspruchnahme von Eisenbahninfrastrukturunternehmen die zuständige Eisenbahnaufsichtsbehörde.
 
-(3) Sind bei Streitigkeiten über das Vorliegen eines Ablehnungsgrundes nach § 136 Absatz 4 Nummer 3, § 137 Absatz 3 Nummer 3, § 141 Absatz 2 Nummer 4, § 142 Absatz 4 Nummer 4, § 143 Absatz 4 Nummer 1, § 153 Absatz 4 Nummer 3 oder § 154 Absatz 4 Satz 2 Nummer 4 Kritische Infrastrukturen im Sinne des § 2 Absatz 10 des BSI-Gesetzes betroffen, so entscheidet die Bundesnetzagentur im Benehmen mit dem Bundesamt für Sicherheit in der Informationstechnik.
+(3) Sind bei Streitigkeiten über das Vorliegen eines Ablehnungsgrundes nach § 136 Absatz 4 Nummer 3, § 137 Absatz 3 Nummer 3, § 141 Absatz 2 Nummer 4, § 142 Absatz 4 Nummer 4, § 143 Absatz 4 Nummer 1, § 153 Absatz 4 Nummer 3 oder § 154 Absatz 4 Satz 2 Nummer 4 kritische Anlagen im Sinne des § 2 Nummer 22 des BSI-Gesetzes betroffen, so entscheidet die Bundesnetzagentur im Benehmen mit dem Bundesamt für Sicherheit in der Informationstechnik.
 
 # § 215 – Anhörung, mündliche Verhandlung
 
@@ -4841,7 +4885,7 @@ eine Anzeige nicht oder nicht rechtzeitig erstattet,
 
 38. entgegen § 166 Absatz 2 Satz 1 oder Absatz 4 Satz 2 oder § 181 Satz 2 ein Sicherheitskonzept nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
 
-39. entgegen § 168 Absatz 1 Satz 1, § 170 Absatz 1 Nummer 3 Buchstabe a, Absatz 2 Nummer 2 oder Absatz 3 Satz 1 oder § 175 Absatz 1 Satz 2 Nummer 2 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+39. entgegen § 168 Absatz 1 Satz 1, § 170 Absatz 1 Nummer 3 Buchstabe a, Absatz 2 Nummer 2 oder Absatz 3 Satz 1 oder § 175 Absatz 1 Satz 2 Nummer 2 eine Meldung oder Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
 40. entgegen § 169 Absatz 1 Satz 1 oder 2 oder Absatz 5 Satz 1 eine Benachrichtigung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt,
 

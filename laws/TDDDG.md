@@ -333,7 +333,7 @@ Anbieter von Sprachkommunikationsdiensten sind verpflichtet, ihren Endnutzern di
 
 2. die technischen Einrichtungen nach Nummer 1 gesichert sind gegen Störungen, auch gegen solche, die durch äußere Angriffe bedingt sind.
 
-Vorkehrungen nach Satz 1 müssen den Stand der Technik berücksichtigen. Eine Vorkehrung nach Satz 1 ist insbesondere die Anwendung eines als sicher anerkannten Verschlüsselungsverfahrens. Anordnungen des Bundesamtes für Sicherheit in der Informationstechnik nach § 7d Satz 1 BSI-Gesetz bleiben unberührt.
+Vorkehrungen nach Satz 1 müssen den Stand der Technik berücksichtigen. Eine Vorkehrung nach Satz 1 ist insbesondere die Anwendung eines als sicher anerkannten Verschlüsselungsverfahrens. Anordnungen des Bundesamtes für Sicherheit in der Informationstechnik nach § 17 Satz 1 des BSI-Gesetzes bleiben unberührt.
 
 # § 20 – Verarbeitung personenbezogener Daten Minderjähriger
 

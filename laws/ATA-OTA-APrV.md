@@ -1917,141 +1917,37 @@ Stundenanzahl insgesamt: 2 100</td>
 
 Die praktische Ausbildung umfasst folgende Versorgungs- und Funktionsbereiche:
 
-<table style="border: none;">
-<colgroup>
-<col style="width: 4%" />
-<col style="width: 87%" />
-<col style="width: 9%" />
-</colgroup>
-<tbody data-valign="top">
-<tr class="odd">
-<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
-<td data-valign="top" data-charoff="50"> </td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">Stunden </td>
-</tr>
-<tr class="even">
-<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">Berufsspezifischer Orientierungseinsatz</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">80*</td>
-</tr>
-<tr class="odd">
-<td style="text-align: right;" data-valign="top" data-charoff="50">●</td>
-<td data-valign="top" data-charoff="50">Flexibel gestalteter Einsatz zu Beginn der Ausbildung bei der verantwortlichen Einrichtung der praktischen Ausbildung</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="even">
-<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">Allgemeine Pflichteinsätze in folgenden operativen Einsatzbereichen</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="odd">
-<td style="text-align: right;" data-valign="top" data-charoff="50">●</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Viszeralchirurgie</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">480 </td>
-</tr>
-<tr class="even">
-<td style="text-align: right;" data-valign="top" data-charoff="50">●</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Unfallchirurgie oder Orthopädie</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">480 </td>
-</tr>
-<tr class="odd">
-<td style="text-align: right;" data-valign="top" data-charoff="50">●</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Gynäkologie oder Urologie</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">200 </td>
-</tr>
-<tr class="even">
-<td style="text-align: right;" data-valign="top" data-charoff="50">●</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Ambulantes Operieren (Krankenhaus/Tagesklinik/Praxis)</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">120 </td>
-</tr>
-<tr class="odd">
-<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">Wahlpflichteinsätze in folgenden Disziplinen und Einsatzbereichen</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">400 </td>
-</tr>
-<tr class="even">
-<td colspan="3" style="text-align: right;" data-valign="top" data-charoff="50">(davon mindestens 200 Stunden je Disziplin)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: right;" data-valign="top" data-charoff="50">●</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Thoraxchirurgie</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="even">
-<td style="text-align: right;" data-valign="top" data-charoff="50">●</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Neurochirurgie</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="odd">
-<td style="text-align: right;" data-valign="top" data-charoff="50">●</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">HNO</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="even">
-<td style="text-align: right;" data-valign="top" data-charoff="50">●</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Mund-, Kiefer-, Gesichtschirurgie</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="odd">
-<td style="text-align: right;" data-valign="top" data-charoff="50">●</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Augenchirurgie</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="even">
-<td style="text-align: right;" data-valign="top" data-charoff="50">●</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Gefäßchirurgie</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="odd">
-<td style="text-align: right;" data-valign="top" data-charoff="50">●</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Operative Eingriffe bei Kindern</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="even">
-<td style="text-align: right;" data-valign="top" data-charoff="50">●</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">und andere Disziplinen</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="odd">
-<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">Pflichteinsätze in folgenden Funktions- und Versorgungsbereichen</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="even">
-<td style="text-align: right;" data-valign="top" data-charoff="50">●</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Pflegepraktikum</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">120 </td>
-</tr>
-<tr class="odd">
-<td style="text-align: right;" data-valign="top" data-charoff="50">●</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">zentrale Sterilgutversorgungsabteilung bzw. Aufbereitungseinheit für Medizinprodukte</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">80 </td>
-</tr>
-<tr class="even">
-<td style="text-align: right;" data-valign="top" data-charoff="50">●</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Anästhesie</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">140 </td>
-</tr>
-<tr class="odd">
-<td style="text-align: right;" data-valign="top" data-charoff="50">●</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Notaufnahme und Ambulanz</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">200 </td>
-</tr>
-<tr class="even">
-<td style="text-align: right;" data-valign="top" data-charoff="50">●</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Interventionelle Funktionseinheiten (Endoskopie, Katheterlabore, etc.)</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">120 </td>
-</tr>
-<tr class="odd">
-<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">Stunden zur freien Verteilung</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">80*</td>
-</tr>
-<tr class="even">
-<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">Stundenzahl insgesamt</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">2 500 </td>
-</tr>
-<tr class="odd">
-<td colspan="3" style="text-align: right;" data-valign="top" data-charoff="50">      <br />
-* Berufsspezifischer Orientierungseinsatz fakultativ. Die gegebenenfalls freiwerdenden Stundenkontingente erhöhen entsprechend die Stunden zur freien Verteilung.</td>
-</tr>
-</tbody>
-</table>
+|                                                                     |                                                                                                                       |          |
+|---:|-------------------------------------------------------------|-------:|
+|                                                                     |                                                                                                                       | Stunden  |
+|                             Berufsspezifischer Orientierungseinsatz |                                                                                                                       |     80\* |
+|                                                                   ● | Flexibel gestalteter Einsatz zu Beginn der Ausbildung bei der verantwortlichen Einrichtung der praktischen Ausbildung |          |
+| Allgemeine Pflichteinsätze in folgenden operativen Einsatzbereichen |                                                                                                                       |          |
+|                                                                   ● | Viszeralchirurgie                                                                                                     |     480  |
+|                                                                   ● | Unfallchirurgie oder Orthopädie                                                                                       |     480  |
+|                                                                   ● | Gynäkologie oder Urologie                                                                                             |     200  |
+|                                                                   ● | Ambulantes Operieren (Krankenhaus/Tagesklinik/Praxis)                                                                 |     120  |
+|   Wahlpflichteinsätze in folgenden Disziplinen und Einsatzbereichen |                                                                                                                       |     400  |
+|                         (davon mindestens 200 Stunden je Disziplin) |                                                                                                                       |          |
+|                                                                   ● | Thoraxchirurgie                                                                                                       |          |
+|                                                                   ● | Neurochirurgie                                                                                                        |          |
+|                                                                   ● | HNO                                                                                                                   |          |
+|                                                                   ● | Mund-, Kiefer-, Gesichtschirurgie                                                                                     |          |
+|                                                                   ● | Augenchirurgie                                                                                                        |          |
+|                                                                   ● | Gefäßchirurgie                                                                                                        |          |
+|                                                                   ● | Operative Eingriffe bei Kindern                                                                                       |          |
+|                                                                   ● | und andere Disziplinen                                                                                                |          |
+|    Pflichteinsätze in folgenden Funktions- und Versorgungsbereichen |                                                                                                                       |          |
+|                                                                   ● | Pflegepraktikum                                                                                                       |     120  |
+|                                                                   ● | zentrale Sterilgutversorgungsabteilung bzw. Aufbereitungseinheit für Medizinprodukte                                  |      80  |
+|                                                                   ● | Anästhesie                                                                                                            |     140  |
+|                                                                   ● | Notaufnahme und Ambulanz                                                                                              |     200  |
+|                                                                   ● | Interventionelle Funktionseinheiten (Endoskopie, Katheterlabore, etc.)                                                |     120  |
+|                                       Stunden zur freien Verteilung |                                                                                                                       |     80\* |
+|                                               Stundenzahl insgesamt |                                                                                                                       |   2 500  |
+
+        
+\* Berufsspezifischer Orientierungseinsatz fakultativ. Die gegebenenfalls freiwerdenden Stundenkontingente erhöhen entsprechend die Stunden zur freien Verteilung.
 
 # Anlage 5 – (zu § 18 Absatz 2 Nummer 1 Buchstabe b)Bescheinigung über die Teilnahme am theoretischen und praktischen Unterricht und an der praktischen Ausbildung
 

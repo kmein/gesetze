@@ -73,7 +73,7 @@ Der Stand der Technik ist als niedergelegt zu vermuten in den Technischen Richtl
 
 Die Art und die Einzelheiten der Zertifizierung sind den Technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik zu entnehmen.
 
-(2) Für die Zertifizierung gelten § 9 des BSI-Gesetzes vom 14. August 2009 (BGBl. I S. 2821), das zuletzt durch Artikel 1 des Gesetzes vom 23. Juni 2017 (BGBl. I S. 1885) geändert worden ist, sowie die BSI-Zertifizierungs- und Anerkennungsverordnung vom 17. Dezember 2014 (BGBl. I S. 2231), die durch Artikel 40 des Gesetzes vom 29. März 2017 (BGBl. I S. 626) geändert worden ist, in der jeweils geltenden Fassung.
+(2) Für die Zertifizierung gelten § 52 des BSI-Gesetzes vom 2. Dezember 2025 (BGBl. 2025 I Nr. 301, S. 2), sowie die BSI-Zertifizierungs- und Anerkennungsverordnung vom 17. Dezember 2014 (BGBl. I S. 2231), die durch Artikel 40 des Gesetzes vom 29. März 2017 (BGBl. I S. 626) geändert worden ist, in der jeweils geltenden Fassung.
 
 (3) Die Kosten der Zertifizierung trägt der Antragsteller.
 

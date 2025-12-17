@@ -197,7 +197,7 @@ c) elektronische Dokumente, Informationen und Nachrichten aus dem Nutzerkonto de
 
 # § 10 – Umsetzung von Standardisierungsbeschlüssen des IT-Planungsrates
 
-Fasst der Planungsrat für die IT-Zusammenarbeit der öffentlichen Verwaltung zwischen Bund und Ländern (IT-Planungsrat) einen Beschluss über fachunabhängige und fachübergreifende IT-Interoperabilitäts- oder IT-Sicherheitsstandards gemäß § 1 Absatz 1 Satz 1 Nummer 2 und § 3 des Vertrages über die Errichtung des IT-Planungsrats und über die Grundlagen der Zusammenarbeit beim Einsatz der Informationstechnologie in den Verwaltungen von Bund und Ländern – Vertrag zur Ausführung von Artikel 91c GG (BGBl. 2010 I S. 662, 663), so beschließt der Rat der IT-Beauftragten der Bundesregierung (IT-Rat) die Umsetzung dieses Beschlusses innerhalb der Bundesverwaltung. § 12 des Gesetzes über das Bundesamt für Sicherheit in der Informationstechnik gilt entsprechend.
+Fasst der Planungsrat für die IT-Zusammenarbeit der öffentlichen Verwaltung zwischen Bund und Ländern (IT-Planungsrat) einen Beschluss über fachunabhängige und fachübergreifende IT-Interoperabilitäts- oder IT-Sicherheitsstandards gemäß § 1 Absatz 1 Satz 1 Nummer 2 und § 3 des Vertrages über die Errichtung des IT-Planungsrats und über die Grundlagen der Zusammenarbeit beim Einsatz der Informationstechnologie in den Verwaltungen von Bund und Ländern – Vertrag zur Ausführung von Artikel 91c GG (BGBl. 2010 I S. 662, 663), so beschließt der Rat der IT-Beauftragten der Bundesregierung (IT-Rat) die Umsetzung dieses Beschlusses innerhalb der Bundesverwaltung.
 
 # § 11 – Gemeinsame Verfahren
 

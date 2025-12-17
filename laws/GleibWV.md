@@ -297,7 +297,7 @@ d) der Liste der Wählerinnen, die gewählt und die nicht gewählt haben, und
 
 (8) Es dürfen nur solche Wahlprodukte verwendet werden, die der technischen Richtlinie nach Absatz 7 entsprechen. Die Erfüllung der sicherheitstechnischen Anforderungen muss der Anbieter dem Wahlvorstand für einen bestimmten Schutzbedarf durch eine Konformitätsprüfung oder eine Zertifizierung nach der technischen Richtlinie nachweisen.
 
-(9) Für die Zertifizierung nach der technischen Richtlinie gelten § 9 des BSI-Gesetzes und die BSI-Zertifizierungs- und Anerkennungsverordnung in der jeweils geltenden Fassung.
+(9) Für die Zertifizierung nach der technischen Richtlinie gelten § 52 des BSI-Gesetzes und die BSI-Zertifizierungs- und Anerkennungsverordnung in der jeweils geltenden Fassung.
 
 (10) Die Kosten für die Zertifizierung trägt der Antragsteller. Für die Höhe der Kosten der Zertifizierung gilt die BSI-Kostenverordnung in der jeweils geltenden Fassung.
 

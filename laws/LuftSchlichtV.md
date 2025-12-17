@@ -15,7 +15,7 @@ Auf Grund des § 57c Satz 1 und 2 erster Halbsatz des Luftverkehrsgesetzes, der 
 
 2. den §§ 2 bis 16 Absatz 1 und 3 dieser Rechtsverordnung,
 
-3. den §§ 1 bis 23, 34, 38 und 39 des Verbraucherstreitbeilegungsgesetzes vom 19. Februar 2016 (BGBl. I S. 254) und
+3. den §§ 1 bis 23, 34 und 38 des Verbraucherstreitbeilegungsgesetzes und
 
 4. denjenigen Vorschriften der nach § 42 Absatz 1 des Verbraucherstreitbeilegungsgesetzes erlassenen Rechtsverordnung, die die Anforderungen nach Nummer 3 konkretisieren.
 
@@ -91,7 +91,7 @@ Die Schlichtungsstelle richtet eine Geschäftsstelle ein. Für die in der Gesch�
 
 2. nach den §§ 9 bis 16 Absatz 1 und 3 dieser Rechtsverordnung,
 
-3. nach den §§ 4 bis 23, 34, 38 und 39 des Verbraucherstreitbeilegungsgesetzes und
+3. nach den §§ 4 bis 23, 34 und 38 des Verbraucherstreitbeilegungsgesetzes und
 
 4. nach denjenigen Vorschriften der nach § 42 Absatz 1 des Verbraucherstreitbeilegungsgesetzes erlassenen Rechtsverordnung, die die Anforderungen nach Nummer 3 konkretisieren.
 

@@ -142,7 +142,7 @@ Eine Leistungs- oder Gesamtbeurteilung findet nicht statt, wenn die Beamtin oder
 
 # § 13 – Übergangsregelung
 
-Für die Jahre 2012 bis 2025 wird kein Leistungsentgelt nach § 1 gezahlt.
+Für die Jahre 2012 bis 2041 wird kein Leistungsentgelt nach § 1 gezahlt.
 
 # § 14 – Inkrafttreten, Außerkrafttreten
 

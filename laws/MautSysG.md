@@ -261,7 +261,7 @@ erfolgen.
 
 (1) Die Berechnung der Maut ist vom Bund und den Ländern auf der Grundlage einer Fahrzeugklassifizierung festzulegen. Die Fahrzeuge werden nur nach Anhang I der Delegierten Verordnung (EU) 2020/203 klassifiziert.
 
-(2) Die für die Erhebung der Maut zuständige Behörde des Bundes oder Landes übermittelt dem Bundesamt für Logistik und Mobilität und dem Bundesministerium für Digitales und Verkehr mindestens sechs Monate vor der Einführung neuer Merkmale für die Fahrzeugklassifizierung Informationen über die Einführung. Das Bundesministerium für Digitales und Verkehr unterrichtet die Kommission, die anderen Mitgliedstaaten der Europäischen Union, die anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und die Anbieter mindestens sechs Monate vor der Einführung der neuen Merkmale der Fahrzeugklassifizierung über die Einführung.
+(2) Die für die Erhebung der Maut zuständige Behörde des Bundes oder Landes übermittelt dem Bundesamt für Logistik und Mobilität und dem Bundesministerium für Verkehr mindestens sechs Monate vor der Einführung neuer Merkmale für die Fahrzeugklassifizierung Informationen über die Einführung. Das Bundesministerium für Verkehr unterrichtet die Kommission, die anderen Mitgliedstaaten der Europäischen Union, die anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und die Anbieter mindestens sechs Monate vor der Einführung der neuen Merkmale der Fahrzeugklassifizierung über die Einführung.
 
 # § 19 – Mautbuchungsnachweise
 
@@ -359,7 +359,7 @@ Das Bundesamt für Logistik und Mobilität ist befugt, zu dem in Satz 1 genannte
 
 1. Identifikationsnummer des Nutzers, dem das gesperrte oder entsperrte Fahrzeuggerät zugeordnet ist,
 
-2. Identifikationsnummer des Fahrzeuggerätes, zu dem eine Sperr- oder Entsperrmeldung vom Anbieter vorliegt,
+2. Identifikationsnummer des Fahrzeuggeräts, für das eine Sperr- oder Entsperrmeldung des Anbieters vorliegt, und das Kennzeichen des Fahrzeugs, in dem sich das Fahrzeuggerät befindet,
 
 3. Informationen zur Gültigkeit eines Eintrags,
 
@@ -367,7 +367,7 @@ Das Bundesamt für Logistik und Mobilität ist befugt, zu dem in Satz 1 genannte
 
 5. Zeitpunkt, zu dem das Fahrzeuggerät die Sperrung oder Entsperrung bestätigt hat,
 
-6. Art der Sperraktivität, die für ein Fahrzeuggerät durchgeführt wurde,
+6. Grund und Art der Sperraktivität, die für ein Fahrzeuggerät durchgeführt wurde,
 
 7. eine im System des Anbieters eindeutige Identifikationsnummer für Datensätze vom Datentyp „Sperr- oder Entsperrinformation“.
 
@@ -391,7 +391,7 @@ Diese Daten dürfen über den in Satz 1 genannten Zweck hinaus ausschließlich d
 
 # § 28 – Einrichtung und Aufgaben der Vermittlungsstelle
 
-(1) Das Bundesministerium für Digitales und Verkehr überträgt einer Behörde oder einem Privaten die Errichtung und den Betrieb der Vermittlungsstelle. Die Übertragung ist vom Bundesministerium für Digitales und Verkehr im Bundesanzeiger bekannt zu geben.
+(1) Das Bundesministerium für Verkehr überträgt einer Behörde oder einem Privaten die Errichtung und den Betrieb der Vermittlungsstelle. Die Übertragung ist vom Bundesministerium für Verkehr im Bundesanzeiger bekannt zu geben.
 
 (2) Die Vermittlungsstelle muss unabhängig von den Interessen der jeweils für die Erhebung einer Maut in Bund und Ländern zuständigen Behörden und den gewerblichen Interessen der Anbieter sein. Sie ist in ihrer Arbeit keinen Weisungen unterworfen.
 
@@ -419,7 +419,7 @@ Diese Daten dürfen über den in Satz 1 genannten Zweck hinaus ausschließlich d
 
 (3) Die Geschäftsstelle besteht aus dem Vorsitzenden des Spruchkörpers und einem Sekretariat; der Vorsitzende des Spruchköpers ist Vorgesetzter der Mitarbeiter des Sekretariates.
 
-(4) Die Parteien tragen jeweils die Kosten des von ihnen benannten Beisitzers. Die übrigen Kosten der Vermittlungsstelle trägt das Bundesministerium für Digitales und Verkehr.
+(4) Die Parteien tragen jeweils die Kosten des von ihnen benannten Beisitzers. Die übrigen Kosten der Vermittlungsstelle trägt das Bundesministerium für Verkehr.
 
 # § 30 – Vermittlungsverfahren
 
@@ -429,7 +429,7 @@ Diese Daten dürfen über den in Satz 1 genannten Zweck hinaus ausschließlich d
 
 # § 31 – Verordnungsermächtigungen
 
-(1) Das Bundesministerium für Digitales und Verkehr wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+(1) Das Bundesministerium für Verkehr wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 1. im Hinblick auf die Registrierung von Anbietern
 
@@ -449,7 +449,7 @@ c) die Mitteilungspflichten des Bundesamtes für Logistik und Mobilität gegenü
 
 zu regeln.
 
-(2) Das Bundesministerium für Digitales und Verkehr wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates eine Verfahrensordnung für die Vermittlungsstelle nach § 28 zu erlassen.
+(2) Das Bundesministerium für Verkehr wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates eine Verfahrensordnung für die Vermittlungsstelle nach § 28 zu erlassen.
 
 # § 32 – Pilot-Mautsysteme
 
@@ -499,7 +499,7 @@ Die nationalen Kontaktstellen der Mitgliedstaaten der Europäischen Union und de
 
 Wird festgestellt, dass die Maut nicht entrichtet worden ist, hat die zuständige Behörde des Bundes oder Landes die Daten nach Satz 2 jeweils unverzüglich nach der Entrichtung der Maut zu löschen. Die Daten sind spätestens zwei Jahre nach der erstmaligen Speicherung der Daten nach Satz 2 durch die zuständige Behörde des Bundes oder Landes zu löschen.
 
-(7) Das Bundesministerium für Digitales und Verkehr hat der Europäischen Kommission zur Erfüllung der Berichtspflicht nach Artikel 26 der Richtlinie (EU) 2019/520 bis zum 19. April 2026 und danach bis zum 19. April eines jeden dritten Jahres einen umfassenden Bericht zu übermitteln. Der umfassende Bericht hat die Zahl der automatisierten Suchanfragen zu enthalten, die das Bundesamt für Logistik und Mobilität im Falle der Nichtentrichtung der Maut im Anschluss an diese Nichtentrichtung an die nationale Kontaktstelle des Zulassungsmitgliedstaates gerichtet hat, zusammen mit der Anzahl der ergebnislosen Anfragen. Der umfassende Bericht hat ferner eine Beschreibung der Folgemaßnahmen zu enthalten, die wegen der Nichtentrichtung der Maut eingeleitet wurden sowie die Anzahl der auf Grund der Nichtentrichtung der Maut versendeten Informationsschreiben nach § 36.
+(7) Das Bundesministerium für Verkehr hat der Europäischen Kommission zur Erfüllung der Berichtspflicht nach Artikel 26 der Richtlinie (EU) 2019/520 bis zum 19. April 2026 und danach bis zum 19. April eines jeden dritten Jahres einen umfassenden Bericht zu übermitteln. Der umfassende Bericht hat die Zahl der automatisierten Suchanfragen zu enthalten, die das Bundesamt für Logistik und Mobilität im Falle der Nichtentrichtung der Maut im Anschluss an diese Nichtentrichtung an die nationale Kontaktstelle des Zulassungsmitgliedstaates gerichtet hat, zusammen mit der Anzahl der ergebnislosen Anfragen. Der umfassende Bericht hat ferner eine Beschreibung der Folgemaßnahmen zu enthalten, die wegen der Nichtentrichtung der Maut eingeleitet wurden sowie die Anzahl der auf Grund der Nichtentrichtung der Maut versendeten Informationsschreiben nach § 36.
 
 # § 36 – Informationsschreiben über die Nichtentrichtung der Maut
 
@@ -519,10 +519,10 @@ Wird festgestellt, dass die Maut nicht entrichtet worden ist, hat die zuständig
 
 # § 37 – Zentrale Anlaufstelle
 
-(1) Wenn mindestens zwei elektronische Mautsysteme in Deutschland betrieben werden, benennt das Bundesministerium für Digitales und Verkehr eine zentrale Anlaufstelle für Anbieter.
+(1) Wenn mindestens zwei elektronische Mautsysteme in Deutschland betrieben werden, benennt das Bundesministerium für Verkehr eine zentrale Anlaufstelle für Anbieter.
 
 (2) Die zentrale Anlaufstelle hat die Aufgabe, auf Antrag eines Anbieters in nicht personenbezogener Form Kontakte zwischen dem Anbieter und der für die Erhebung einer Maut zuständigen Behörde des Bundes oder Landes zu erleichtern und zu koordinieren.
 
-(3) Das Bundesministerium für Digitales und Verkehr gibt die Benennung der zentralen Anlaufstelle und ihre Kontaktdaten unverzüglich nach der Benennung im Bundesanzeiger bekannt.
+(3) Das Bundesministerium für Verkehr gibt die Benennung der zentralen Anlaufstelle und ihre Kontaktdaten unverzüglich nach der Benennung im Bundesanzeiger bekannt.
 
-(4) Das Bundesministerium für Digitales und Verkehr stellt interessierten Anbietern auf Anfrage die Kontaktdaten der zentralen Anlaufstelle zur Verfügung.
+(4) Das Bundesministerium für Verkehr stellt interessierten Anbietern auf Anfrage die Kontaktdaten der zentralen Anlaufstelle zur Verfügung.
