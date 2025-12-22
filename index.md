@@ -972,6 +972,7 @@
 - [BMFNVAnO](laws/BMFNVAnO.md) Anordnung über die Übertragung der Befugnis zur Genehmigung von Nebentätigkeiten im Geschäftsbereich des Bundesministers der Finanzen
 - [BMFSFJBAFzAZustAnO](laws/BMFSFJBAFzAZustAnO.md) Anordnung zur Übertragung beamten- und haushaltsrechtlicher Zuständigkeiten des Bundesministeriums für Familie, Senioren, Frauen und Jugend auf das Bundesamt für Familie und zivilgesellschaftliche Aufgaben
 - [BMFSFJBVABesBeihUnffAnO](laws/BMFSFJBVABesBeihUnffAnO.md) Anordnung des Bundesministeriums für Familie, Senioren, Frauen und Jugend zur Übertragung von Zuständigkeiten in Angelegenheiten der Besoldung, der Beihilfe und der Unfallfürsorge auf das Bundesverwaltungsamt
+- [BMFStruBVfPAktV](laws/BMFStruBVfPAktV.md) Verordnung zur Ermöglichung der Anlegung, Führung und Weiterführung papiergebundener Akten in Straf- und Bußgeldverfahren im Geschäftsbereich des Bundesministeriums der Finanzen
 - [BMFSVZustAnO](laws/BMFSVZustAnO.md) Anordnung zur Übertragung der örtlichen Zuständigkeit auf dem Gebiet der Soldatenversorgung im Geschäftsbereich des Bundesministeriums der Finanzen
 - [BMFWidVertrAnO](laws/BMFWidVertrAnO.md) Anordnung zur Übertragung von Zuständigkeiten im Widerspruchsverfahren und die Vertretung der Bundesrepublik Deutschland bei Klagen aus dem Beamtenverhältnis von Beamten im Geschäftsbereich des Bundesministeriums der Finanzen
 - [BMFZVersAnO](laws/BMFZVersAnO.md) Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der beamtenrechtlichen Versorgung im Dienstbereich des Bundesministers der Finanzen
@@ -4252,6 +4253,7 @@
 - [NOK-GefAbwV](laws/NOK-GefAbwV.md) Verordnung über die Gefahrenabwehr in den bundeseigenen Schleusenanlagen im Nord-Ostsee-Kanal
 - [NOK-LV](laws/NOK-LV.md) Verordnung über die Verwaltung und Ordnung der Seelotsreviere Nord-Ostsee-Kanal I und Nord-Ostsee-Kanal II/Kieler Förde/Trave/Flensburger Förde
 - [NOKBefAbgV](laws/NOKBefAbgV.md) Verordnung über die Befahrungsabgaben auf dem Nord-Ostsee-Kanal
+- [NOOTSStVtrG](laws/NOOTSStVtrG.md) Gesetz zum Vertrag über die Errichtung, den Betrieb und die Weiterentwicklung des Nationalen Once-Only-Technical-Systems (NOOTS) – Vertrag zur Ausführung von Artikel 91c Absatz 1, Absatz 2 GG – NOOTS-Staatsvertrag
 - [NordBinSchHfV](laws/NordBinSchHfV.md) Verordnung über die Schutz- und Sicherheitshäfen der Bundesrepublik Deutschland an Binnenschiffahrtsstraßen im Bereich der Wasser- und Schiffahrtsdirektion Nord
 - [NordSBefV](laws/NordSBefV.md) Verordnung über das Befahren der Bundeswasserstraßen in Nationalparken im Bereich der Nordsee
 - [NordSBrWeinG](laws/NordSBrWeinG.md) Gesetz betreffend die Ausführung des internationalen Vertrages vom 16. November 1887/14. Februar 1893 zur Unterdrückung des Branntweinhandels unter den Nordseefischern auf hoher See
@@ -4389,6 +4391,7 @@
 - [OstSUmwSchÜbk 1992](laws/OstSUmwSchÜbk_1992.md) Übereinkommen von 1992 über den Schutz der Meeresumwelt des Ostseegebiets
 - [OSZEVorRV 2016](laws/OSZEVorRV_2016.md) Verordnung über Vorrechte und Immunitäten der Organisation für Sicherheit und Zusammenarbeit in Europa (OSZE)
 - [OWiG](laws/OWiG.md) Gesetz über Ordnungswidrigkeiten
+- [OWiGPAktÜbertrV](laws/OWiGPAktÜbertrV.md) Verordnung zur Übertragung der Verordnungsermächtigung nach dem Gesetz über Ordnungswidrigkeiten zur Ermöglichung der Anlegung,Führung und Weiterführung papiergebundener Akten
 - [OWiG§124V](laws/OWiG§124V.md) Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 124 des Gesetzes über Ordnungswidrigkeiten
 - [OZG](laws/OZG.md) Gesetz zur Verbesserung des Onlinezugangs zu Verwaltungsleistungen
 - [OZG§3Abs2S2V](laws/OZG§3Abs2S2V.md) Verordnung nach § 3 Absatz 2 des Onlinezugangsgesetzes
@@ -5421,6 +5424,7 @@
 - [StandAG](laws/StandAG.md) Gesetz zur Suche und Auswahl eines Standortes für ein Endlager für hochradioaktive Abfälle
 - [StandOG](laws/StandOG.md) Gesetz zur Verbesserung der steuerlichen Bedingungen zur Sicherung des Wirtschaftsstandorts Deutschland im Europäischen Binnenmarkt
 - [StandRegV](laws/StandRegV.md) Verordnung über Standardregistrierungen von Arzneimitteln
+- [StandVKlV](laws/StandVKlV.md) Verordnung über Standardvertragsklauseln für die Durchführung klinischer Prüfungen
 - [StandZV](laws/StandZV.md) Verordnung über Standardzulassungen von Arzneimitteln
 - [Stanz/UmfMechAusbV](laws/Stanz_UmfMechAusbV.md) Verordnung über die Berufsausbildung zum Stanz- und Umformmechaniker und zur Stanz- und Umformmechanikerin*
 - [StaRUG](laws/StaRUG.md) Gesetz über den Stabilisierungs- und Restrukturierungsrahmen für Unternehmen
@@ -5471,6 +5475,7 @@
 - [StmStbMstrV](laws/StmStbMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Steinmetz- und Steinbildhauer-Handwerk
 - [StPO](laws/StPO.md) Strafprozeßordnung
 - [StPOEG](laws/StPOEG.md) Einführungsgesetz zur Strafprozeßordnung
+- [StPOEGPAktÜbertrV](laws/StPOEGPAktÜbertrV.md) Verordnung zur Übertragung der Verordnungsermächtigung nach dem Einführungsgesetz zur Strafprozessordnung zur Ermöglichung der Anlegung,Führung und Weiterführung papiergebundener Akten
 - [StrabBlPV](laws/StrabBlPV.md) Verordnung über die Prüfung zum Betriebsleiter von Straßenbahnunternehmen
 - [StraBEG](laws/StraBEG.md) Gesetz über die strafbefreiende Erklärung
 - [StrafAktEinV](laws/StrafAktEinV.md) Verordnung über die Standards für die Einsicht in elektronische Akten im Strafverfahren

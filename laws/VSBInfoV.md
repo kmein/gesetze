@@ -55,7 +55,7 @@ Die Verbraucherschlichtungsstelle veröffentlicht die folgenden Informationen le
 
 7. Hinweise zur Rechtswirkung des Ergebnisses des Streitbeilegungsverfahrens,
 
-8. die Verknüpfung per Link auf die Webseite der Europäischen Kommission mit der Liste der Verbraucherschlichtungsstellen sowie die Verknüpfung per Link auf die Webseite zu der Europäischen Plattform zur Online-Streitbeilegung.
+8. die Verknüpfung per Link auf die Webseite der Europäischen Kommission mit der Liste der Verbraucherschlichtungsstellen.
 
 # § 4 – Tätigkeitsbericht der Verbraucherschlichtungsstelle
 

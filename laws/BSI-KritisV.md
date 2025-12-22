@@ -19,6 +19,8 @@ c) Software und IT-Dienste,
 
 die für die Erbringung einer kritischen Dienstleistung notwendig sind,
 
+2. (weggefallen)
+
 3. Versorgungsgrad
 
 ein Wert, mittels dessen der Beitrag einer Anlage oder Teilen davon im jeweiligen Sektor zur Versorgung der Allgemeinheit mit einer kritischen Dienstleistung bestimmt wird,

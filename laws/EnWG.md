@@ -5232,6 +5232,8 @@ Die Informationspflichten nach den Artikeln 246 und 246a des Einführungsgesetze
 
 3. dem neuen Lieferanten in einem einheitlichen Format elektronisch eine Kündigungsbestätigung zu übersenden, wenn der neue Lieferant die Kündigung in Vertretung für den Kunden ausgesprochen hat.
 
+(+++ § 41: Zur Anwendung vgl. § 118 +++)
+
 # § 41a – Lastvariable, tageszeitabhängige oder dynamische und sonstige Stromtarife
 
 (1) Stromlieferanten haben, soweit technisch machbar und wirtschaftlich zumutbar, für Letztverbraucher von Elektrizität einen Tarif anzubieten, der einen Anreiz zu Energieeinsparung oder Steuerung des Energieverbrauchs setzt. Tarife im Sinne von Satz 1 sind insbesondere lastvariable oder tageszeitabhängige Tarife. Stromlieferanten haben daneben für Haushaltskunden mindestens einen Tarif anzubieten, für den die Datenaufzeichnung und -übermittlung auf die Mitteilung der innerhalb eines bestimmten Zeitraums verbrauchten Gesamtstrommenge begrenzt bleibt.

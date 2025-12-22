@@ -3,7 +3,7 @@
  
 # § 1 – Allgemeine Beeidigung gerichtlicher Dolmetscher
 
-Dolmetscher, die nach § 185 des Gerichtsverfassungsgesetzes, auch in Verbindung mit § 55 der Verwaltungsgerichtsordnung, § 52 Absatz 1 der Finanzgerichtsordnung, § 9 Absatz 2 des Arbeitsgerichtsgesetzes und § 61 Absatz 1 des Sozialgerichtsgesetzes, zur Sprachenübertragung in Gerichtsverhandlungen zuzuziehen sind, werden nach den Vorschriften dieses Gesetzes allgemein beeidigt. § 189 Absatz 1 des Gerichtsverfassungsgesetzes bleibt unberührt.
+Dolmetscher, die nach § 185 oder § 186 des Gerichtsverfassungsgesetzes, jeweils auch in Verbindung mit § 55 der Verwaltungsgerichtsordnung, § 52 Absatz 1 der Finanzgerichtsordnung, § 9 Absatz 2 des Arbeitsgerichtsgesetzes oder § 61 Absatz 1 des Sozialgerichtsgesetzes, zur Sprachenübertragung in Gerichtsverhandlungen zuzuziehen sind, werden nach den Vorschriften dieses Gesetzes allgemein beeidigt. § 189 Absatz 1 des Gerichtsverfassungsgesetzes bleibt unberührt.
 
 (+++ § 1: Inkraft gem. Art. 10 G v. 10.12.2019 I 2121 idF d. Art. 26 G v. 25.6.2021 I 2099 u. d. Art. 8 Nr. 2 G v. 19.11.2022 I 1982 mWv 1.1.2023 +++)
 

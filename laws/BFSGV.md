@@ -23,6 +23,8 @@ Für diese Verordnung gelten neben den Begriffsbestimmungen des § 2 des Barrier
 
 4. Intelligente Ticketsysteme: Systeme im Sinne des § 2 Nummer 40 des Barrierefreiheitsstärkungsgesetzes sowie Systeme, in denen Reservierungen und Buchungen mithilfe eines Geräts mit interaktivem Leistungsumfang unter anderem online vorgenommen und dem Verbraucher elektronisch übermittelt werden, damit sie in Papierform ausgedruckt oder mithilfe eines Geräts mit interaktivem Leistungsumfang während der Fahrt angezeigt werden können.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 2.12.2025 I Nr. 301 +++)
+
 # § 3 – Stand der Technik
 
 (1) Bei der Erfüllung der Anforderungen nach dieser Rechtsverordnung ist der Stand der Technik zu beachten. Von dem Stand der Technik kann abgewichen werden, wenn auf andere Weise die Anforderungen dieser Rechtsverordnung in gleichem Maße erfüllt werden.

@@ -29,7 +29,7 @@ b) Bewahrung von diese Dienste betreffenden elektronischen Signaturen, Siegeln o
 
 3. die Erstellung technischer Vorgaben und die Bewertung technischer Standards für den Einsatz von Vertrauensdiensten in Digitalisierungsvorhaben nach Maßgabe der entsprechenden Fachgesetze.
 
-(3) (weggefallen)
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 2.12.2025 I Nr. 301 +++)
 
 # § 3 – Verfahren über eine einheitliche Stelle
 

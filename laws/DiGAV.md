@@ -556,6 +556,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 Im nachfolgend aufgeführten Fragenbogen ist durch den Hersteller die Erfüllung der Anforderungen nach § 4 zu erklären. Der Hersteller bestätigt die Erfüllung der Anforderungen durch Kennzeichnung in der Spalte „zutreffend“. Die Vorschriften des Datenschutzes und die Anforderungen an die Datensicherheit – Basisanforderungen sind von allen digitalen Gesundheitsanwendungen zu erfüllen. Die Anforderungen Datensicherheit – Zusatzanforderungen bei digitalen Gesundheitsanwendungen mit sehr hohem Schutzbedarf sind von digitalen Gesundheitsanwendungen zu erfüllen, für die im Rahmen der geforderten Schutzbedarfsanalyse ein sehr hoher Schutzbedarf festgestellt wurde.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 2.12.2025 I Nr. 301 +++)
+
 # Anlage 2 – Fragebogen gemäß den §§ 5 und 6
 
 (Fundstelle: BGBl. I 2020, 793 - 798;  

@@ -174,9 +174,9 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
-# § 10 – Inkrafttreten, Außerkrafttreten
+# § 10 – Außerkrafttreten
 
-Diese Verordnung tritt am 1. August 2000 in Kraft.
+Diese Verordnung tritt mit Ablauf des 31. Juli 2026 außer Kraft.
 
 # Anlage – (zu § 4)  Ausbildungsrahmenplan für die Berufsausbildung zum Verfahrensmechaniker Glastechnik/zur Verfahrensmechanikerin Glastechnik
 

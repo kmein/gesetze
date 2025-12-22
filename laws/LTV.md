@@ -708,7 +708,7 @@ des Höchstbetrages nach Abschnitt B Teil I.
 
  
 
-# Anlage 2
+# Anlage 2 – (zu § 2 Absatz 1)Verzeichnis und Tabelle der Lotsgelder
 
 (Fundstelle: BGBl. I 2009, 111 - 122;  
 bzgl. einzelner Änderungen vgl. Fußnote)

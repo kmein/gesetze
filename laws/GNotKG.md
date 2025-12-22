@@ -5784,7 +5784,8 @@ in voller Höhe</td>
 </tr>
 <tr class="odd">
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">31015</td>
-<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">An den Verfahrenspfleger zu zahlende Beträge  .......... </td>
+<td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">An den Verfahrenspfleger zu zahlende Beträge  .......... <br />
+Die Beträge werden von dem Betroffenen nur nach Maßgabe des § 1880 Abs. 2 BGB erhoben.</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50">in voller Höhe</td>
 </tr>
 <tr class="even">

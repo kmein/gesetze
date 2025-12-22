@@ -63,7 +63,7 @@ räumlich abgegrenzter Bereich, der aus einer oder mehreren Gesteinsschichten be
 
 dem Transport des Kohlendioxidstroms dienende Leitungen, einschließlich der dem Leitungsbetrieb dienenden Anlagen, insbesondere Verdichter-, Druckerhöhungs-, Entspannungs-, Regel- und Messanlagen;
 
-6a. Kohlendioxidleitungsnetz 
+6a. Kohlendioxidleitungsnetz
 
 ein Netz von Kohlendioxidleitungen, das dem Abtransport von Kohlendioxid oder der Versorgung mit Kohlendioxid dient oder für beide Zwecke gemischt genutzt wird und das von der Dimensionierung nicht von vornherein nur auf die Verwendung durch bestimmte, schon bei der Netzerrichtung feststehende oder bestimmbare Kunden ausgelegt ist, sondern grundsätzlich für die Verwendung durch jeden Kunden offensteht; es umfasst dabei neben Kohlendioxidleitungen, unabhängig von deren Durchmesser, auch alle dem Leitungsbetrieb dienenden Einrichtungen;
 

@@ -3,23 +3,23 @@
  
 # §§ 1 bis 2 – (zukünftig in Kraft)
 
-(+++ §§ 1 bis 2: Treten gem. Art. 11 Abs. 1 Nr. 2 G v. 16.7.2021 I 2947 am 1.1.2026 in Kraft +++)
+(+++ §§ 1 bis 2: Treten gem. Art. 11 Abs. 1 Nr. 2 G v. 16.7.2021 I 2947 idF d. Art. 33 G v. 8.12.2025 I Nr. 319 am 1.1.2028 in Kraft +++)
 
 # §§ 3 bis 9 – (zukünftig in Kraft)
 
-(+++ §§ 3 bis 9: Treten gem. Art. 11 Abs. 1 Nr. 2 G v. 16.7.2021 I 2947 am 1.1.2026 in Kraft +++)
+(+++ §§ 3 bis 9: Treten gem. Art. 11 Abs. 1 Nr. 2 G v. 16.7.2021 I 2947 idF d. Art. 33 G v. 8.12.2025 I Nr. 319 am 1.1.2028 in Kraft +++)
 
 # §§ 10 bis 14 – (zukünftig in Kraft)
 
-(+++ §§ 10 bis 14: Treten gem. Art. 11 Abs. 1 Nr. 2 G v. 16.7.2021 I 2947 am 1.1.2026 in Kraft +++)
+(+++ §§ 10 bis 14: Treten gem. Art. 11 Abs. 1 Nr. 2 G v. 16.7.2021 I 2947 idF d. Art. 33 G v. 8.12.2025 I Nr. 319 am 1.1.2028 in Kraft +++)
 
 # §§ 15 bis 17 – (zukünftig in Kraft)
 
-(+++ §§ 15 bis 17: Treten gem. Art. 11 Abs. 1 Nr. 2 G v. 16.7.2021 I 2947 am 1.1.2026 in Kraft +++)
+(+++ §§ 15 bis 17: Treten gem. Art. 11 Abs. 1 Nr. 2 G v. 16.7.2021 I 2947 idF d. Art. 33 G v. 8.12.2025 I Nr. 319 am 1.1.2028 in Kraft +++)
 
 # § 18 – (zukünftig in Kraft)
 
-(+++ § 18: Tritt gem. Art. 11 Abs. 1 Nr. 2 G v. 16.7.2021 I 2947 am 1.1.2026 in Kraft +++)
+(+++ § 18: Tritt gem. Art. 11 Abs. 1 Nr. 2 G v. 16.7.2021 I 2947 idF d. Art. 33 G v. 8.12.2025 I Nr. 319 am 1.1.2028 in Kraft +++)
 
 # § 19 – Verordnungsermächtigung
 
@@ -39,4 +39,4 @@ Das Bundesministerium der Justiz und für Verbraucherschutz kann durch Rechtsver
 
 # § 20 – (zukünftig in Kraft)
 
-(+++ § 20: Tritt gem. Art. 11 Abs. 1 Nr. 2 G v. 16.7.2021 I 2947 am 1.1.2026 in Kraft +++)
+(+++ § 20: Tritt gem. Art. 11 Abs. 1 Nr. 2 G v. 16.7.2021 I 2947 idF d. Art. 33 G v. 8.12.2025 I Nr. 319 am 1.1.2028 in Kraft +++)

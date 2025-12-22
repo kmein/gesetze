@@ -449,7 +449,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 <td rowspan="5" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Branchenspezifische Fertigungstechniken (§ 4 Nr. 9)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">a)</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Anforderungen an die zu fertigenden Produkte berücksichtigen</td>
-<td rowspan="5" style="text-align: center; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">18</td>
+<td rowspan="6" style="text-align: center; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">18</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">b)</td>
@@ -471,7 +471,6 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 <td style="text-align: right; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Steuerungs- und Regelungstechnik (§ 4 Nr. 10)</td>
 <td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Steuerungs- und Regelungseinrichtungen an Maschinen und Anlagen unter Beachtung der Sicherheitsvorschriften bedienen</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="odd">
 <td rowspan="8" style="text-align: right; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">5</td>

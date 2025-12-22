@@ -3513,6 +3513,8 @@ Insbesondere sind Maßnahmen, einschließlich gegebenenfalls Maßnahmen in Form 
 
 (11) Die Bundesnetzagentur kann zur Unterstützung ein Computer-Notfallteam gemäß Artikel 10 der Richtlinie (EU) 2022/2555 im Rahmen der zugewiesenen Aufgaben in Anspruch nehmen. Die Bundesnetzagentur kann ferner das Bundesamt für Sicherheit in der Informationstechnik, die zuständigen nationalen Strafverfolgungsbehörden und die Bundesbeauftragte oder den Bundesbeauftragten für den Datenschutz und die Informationsfreiheit konsultieren.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 2.12.2025 I Nr. 301 +++)
+
 # § 166 – Sicherheitsbeauftragter und Sicherheitskonzept
 
 (1) Wer ein öffentliches Telekommunikationsnetz betreibt oder öffentlich zugängliche Telekommunikationsdienste erbringt, hat
