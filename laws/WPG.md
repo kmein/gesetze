@@ -69,7 +69,7 @@ Ziel dieses Gesetzes ist es, einen wesentlichen Beitrag zur Umstellung der Erzeu
 
 (2) Wärmenetze sollen zur Verwirklichung einer möglichst kosteneffizienten klimaneutralen Wärmeversorgung ausgebaut werden und die Anzahl der Gebäude, die an ein Wärmenetz angeschlossen sind, soll signifikant gesteigert werden.
 
-(3) Die Errichtung und der Betrieb von Anlagen zur Erzeugung von Wärme aus erneuerbaren Energien, die in ein Wärmenetz gespeist wird, von erforderlichen Nebenanlagen sowie von Wärmenetzen liegen im überragenden öffentlichen Interesse und dienen der öffentlichen Sicherheit. Bis die leitungsgebundene Wärmeversorgung im Bundesgebiet nahezu vollständig auf erneuerbaren Energien oder unvermeidbarer Abwärme beruht, längstens bis zum Ablauf des 31. Dezember 2040, sollen die Anlagen im Sinne von Satz 1 als vorrangiger Belang in die jeweils durchzuführenden Schutzgüterabwägungen eingebracht werden. Satz 2 ist nicht gegenüber Belangen der Landes- und Bündnisverteidigung anzuwenden. Die Bundesregierung berichtet dem Deutschen Bundestag bis spätestens zum Ablauf des 31. Dezember 2030 über die Anwendung dieser Regelung. Sofern sich aus dem Bericht die Notwendigkeit gesetzgeberischer Maßnahmen ergibt, soll die Bundesregierung diese vorschlagen.
+(3) Die Errichtung und der Betrieb von Anlagen zur Erzeugung von Wärme aus erneuerbaren Energien, die in ein Wärmenetz gespeist wird, von erforderlichen Nebenanlagen sowie von Wärmenetzen liegen im überragenden öffentlichen Interesse und dienen der öffentlichen Sicherheit. Bis die leitungsgebundene Wärmeversorgung im Bundesgebiet nahezu vollständig auf erneuerbaren Energien oder unvermeidbarer Abwärme beruht, längstens bis zum Ablauf des 31. Dezember 2045, sollen die Anlagen im Sinne von Satz 1 als vorrangiger Belang in die jeweils durchzuführenden Schutzgüterabwägungen eingebracht werden. Satz 2 ist nicht gegenüber Belangen der Landes- und Bündnisverteidigung anzuwenden. Die Bundesregierung berichtet dem Deutschen Bundestag bis spätestens zum Ablauf des 31. Dezember 2030 über die Anwendung dieser Regelung. Sofern sich aus dem Bericht die Notwendigkeit gesetzgeberischer Maßnahmen ergibt, soll die Bundesregierung diese vorschlagen.
 
 # § 3 – Begriffsbestimmungen
 
@@ -127,9 +127,9 @@ g) aus einer Wärmepumpe, die Wärme in ein Wärmenetz einspeist, sofern die Wä
 
 2023/1185 (ABl. L 157 vom 20.6.2023, S. 20) vervollständigt worden ist, festgelegten Mindesteffizienzkriterien erfüllt,
 
-h) aus Strom, der aus einem Netz der allgemeinen Versorgung im Sinne des § 3 Nummer 17 des Energiewirtschaftsgesetzes vom 7. Juli 2005 (BGBl. I S. 1970; 3621), das zuletzt durch Artikel 24 des Gesetzes vom 8. Oktober 2023 (BGBl. 2023 I Nr. 272) geändert worden ist, oder einem geschlossenen Verteilernetz im Sinne des § 110 des Energiewirtschaftsgesetzes bezogen wird, hinsichtlich des durchschnittlichen erneuerbaren Anteils am bundesweiten Bruttostromverbrauch des vorangegangenen Kalenderjahres; für den erneuerbaren Anteil im Jahr 2030 ist der Zielwert des § 1 Absatz 2 des Erneuerbaren-Energien-Gesetzes anzusetzen,
+h) aus Strom, der aus einem Netz der allgemeinen Versorgung im Sinne des § 3 Nummer 38 des Energiewirtschaftsgesetzes vom 7. Juli 2005 (BGBl. I S. 1970; 3621), das zuletzt durch Artikel 24 des Gesetzes vom 8. Oktober 2023 (BGBl. 2023 I Nr. 272) geändert worden ist, oder einem geschlossenen Verteilernetz im Sinne des § 110 des Energiewirtschaftsgesetzes bezogen wird, hinsichtlich des durchschnittlichen erneuerbaren Anteils am bundesweiten Bruttostromverbrauch des vorangegangenen Kalenderjahres; für den erneuerbaren Anteil im Jahr 2030 ist der Zielwert des § 1 Absatz 2 des Erneuerbaren-Energien-Gesetzes anzusetzen,
 
-i) aus Strom, der in einer Anlage im Sinne des § 3 Nummer 1 des Erneuerbare-Energien-Gesetzes vom 21. Juli 2014 (BGBl. I S. 1066), das zuletzt durch Artikel 4 des Gesetzes vom 26. Juli 2023 (BGBl. 2023 I Nr. 202) geändert worden ist, erzeugt wurde, die über eine Direktleitung mit der Anlage zur Erzeugung von Wärme verbunden ist oder ausschließlich innerhalb einer Kundenanlage im Sinne des § 3 Nummer 24a oder Nummer 24b des Energiewirtschaftsgesetzes erzeugt und verbraucht wurde,
+i) aus Strom, der in einer Anlage im Sinne des § 3 Nummer 1 des Erneuerbare-Energien-Gesetzes vom 21. Juli 2014 (BGBl. I S. 1066), das zuletzt durch Artikel 4 des Gesetzes vom 26. Juli 2023 (BGBl. 2023 I Nr. 202) geändert worden ist, erzeugt wurde, die über eine Direktleitung mit der Anlage zur Erzeugung von Wärme verbunden ist oder ausschließlich innerhalb einer Kundenanlage im Sinne des § 3 Nummer 65 oder 66 des Energiewirtschaftsgesetzes erzeugt und verbraucht wurde,
 
 j) aus grünem Wasserstoff im Sinne des § 3 Absatz 1 Nummer 13b des Gebäudeenergiegesetzes in der am 1. Januar 2024 geltenden Fassung einschließlich daraus hergestellter Derivate, sofern der Wasserstoff die Anforderungen des § 71f Absatz 3 des Gebäudeenergiegesetzes in der am 1. Januar 2024 geltenden Fassung erfüllt,
 
@@ -213,7 +213,7 @@ b) aus der thermischen Behandlung von Klärschlammen gemäß der Klärschlammver
 
 3. die dem Wärmeplan zu Grunde liegende Planung mit den Anforderungen dieses Gesetzes im Wesentlichen vergleichbar ist.
 
-Die wesentliche Vergleichbarkeit im Sinne des Satzes 1 Nummer 3 ist insbesondere anzunehmen, wenn die Erstellung des Wärmeplans
+Für bestehende Gemeindegebiete, in denen zum 1. Januar 2024 100 000 Einwohner oder weniger gemeldet sind, ist die Frist des Satzes 1 Nummer 2 der 31. Dezember 2026, wenn die Erstellung des Wärmeplans Gegenstand einer Förderung aus Mitteln des Bundes war. Die wesentliche Vergleichbarkeit im Sinne des Satzes 1 Nummer 3 ist insbesondere anzunehmen, wenn die Erstellung des Wärmeplans
 
 1. Gegenstand einer Förderung aus Mitteln des Bundes oder eines Landes war oder
 
@@ -305,11 +305,11 @@ b) deren Interessen in sonstiger Weise von der Wärmeplanung betroffen sind,
 
 2. Betreiber
 
-a) eines Energieversorgungsnetzes nach § 3 Nummer 4 des Energiewirtschaftsgesetzes,
+a) eines Energieversorgungsnetzes nach § 3 Nummer 10 des Energiewirtschaftsgesetzes,
 
-b) einer Messstelle im Sinne von § 3 Nummer 26b des Energiewirtschaftsgesetzes oder § 2 Satz 1 Nummer 12 des Messstellenbetriebsgesetzes,
+b) einer Messstelle im Sinne von § 3 Nummer 73 des Energiewirtschaftsgesetzes oder § 2 Satz 1 Nummer 12 des Messstellenbetriebsgesetzes,
 
-c) eines Energieversorgungsunternehmens im Sinne des § 3 Nummer 18 des Energiewirtschaftsgesetzes,
+c) eines Energieversorgungsunternehmens im Sinne des § 3 Nummer 39 des Energiewirtschaftsgesetzes,
 
 d) eines Wärmenetzes,
 
@@ -647,7 +647,7 @@ Absatz 1 Satz 3 und 4 ist entsprechend anzuwenden.
 
 # § 34 – Zentrale Veröffentlichung von Wärmeplänen im Internet
 
-Das Bundesministerium für Wirtschaft und Klimaschutz wird erstellte Wärmepläne auf einer Internetseite zentral zugänglich machen. Die Veröffentlichung erfolgt erstmalig sechs Monate nach Ablauf der jeweiligen Fristen in § 4 Absatz 2. Auf dieser Internetseite wird ferner für die Jahre 2030 und 2040 sowie den Stichtag 1. Januar 2045 der bundesweite Anteil der Nettowärmeerzeugung in Wärmenetzen mit Wärme aus erneuerbaren Energien, aus unvermeidbarer Abwärme oder einer Kombination aus beidem ausgewiesen. Die Länder sind verpflichtet, dem Bundesministerium für Wirtschaft und Klimaschutz hierzu auf Anforderung die erforderlichen Informationen mitzuteilen.
+Das Bundesministerium für Wirtschaft und Energie wird erstellte Wärmepläne auf einer Internetseite zentral zugänglich machen. Die Veröffentlichung erfolgt erstmalig sechs Monate nach Ablauf der jeweiligen Fristen in § 4 Absatz 2. Auf dieser Internetseite wird ferner für die Jahre 2030 und 2040 sowie den Stichtag 1. Januar 2045 der bundesweite Anteil der Nettowärmeerzeugung in Wärmenetzen mit Wärme aus erneuerbaren Energien, aus unvermeidbarer Abwärme oder einer Kombination aus beidem ausgewiesen. Die Länder sind verpflichtet, dem Bundesministerium für Wirtschaft und Energie hierzu auf Anforderung die erforderlichen Informationen mitzuteilen.
 
 # § 35 – Evaluation
 

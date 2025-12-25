@@ -19,7 +19,7 @@ Diese Verordnung regelt hinsichtlich der in § 18 und in Anhang 2 genannten übe
 
 (3) Diese Verordnung gilt nicht auf Seeschiffen unter fremder Flagge und auf Seeschiffen, für die das Bundesministerium für Verkehr und digitale Infrastruktur nach § 10 des Flaggenrechtsgesetzes die Befugnis zur Führung der Bundesflagge lediglich für die erste Überführungsreise in einen anderen Hafen verliehen hat.
 
-(4) Abschnitt 3 gilt nicht für Energieanlagen im Sinne des § 3 Nummer 15 des Energiewirtschaftsgesetzes, soweit sie Druckanlagen im Sinne des Anhangs 2 Abschnitt 4 Nummer 2.1 Buchstabe b, c oder d dieser Verordnung sind. Satz 1 gilt nicht für Gasfüllanlagen, die Energieanlagen im Sinne des § 3 Nummer 15 des Energiewirtschaftsgesetzes sind und nicht auf dem Betriebsgelände von Unternehmen der öffentlichen Gasversorgung von diesen errichtet und betrieben werden.
+(4) Abschnitt 3 gilt nicht für Energieanlagen im Sinne des § 3 Nummer 32 des Energiewirtschaftsgesetzes, soweit sie Druckanlagen im Sinne des Anhangs 2 Abschnitt 4 Nummer 2.1 Buchstabe b, c oder d dieser Verordnung sind. Satz 1 gilt nicht für Gasfüllanlagen, die Energieanlagen im Sinne des § 3 Nummer 15 des Energiewirtschaftsgesetzes sind und nicht auf dem Betriebsgelände von Unternehmen der öffentlichen Gasversorgung von diesen errichtet und betrieben werden.
 
 (5) Das Bundesministerium der Verteidigung kann Ausnahmen von den Vorschriften dieser Verordnung zulassen, wenn zwingende Gründe der Verteidigung oder die Erfüllung zwischenstaatlicher Verpflichtungen der Bundesrepublik Deutschland dies erfordern und die Sicherheit auf andere Weise gewährleistet ist.
 

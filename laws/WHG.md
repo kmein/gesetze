@@ -335,7 +335,33 @@ c) der Errichtung und dem Betrieb einer Solarenergieanlage in oder über einem o
 
 Die zuständige Behörde kann die jeweilige Frist nach Satz 1 Nummer 3 Buchstabe a, b, d, Nummer 4 und 5, ausgenommen Buchstabe d Doppelbuchstabe bb, in durch außergewöhnliche Umstände hinreichend begründeten Fällen einmalig um bis zu drei Monate verlängern. Dies gilt insbesondere, soweit die Prüfung von Anforderungen nach umweltrechtlichen Vorschriften, die der Umsetzung entsprechender Vorgaben der Europäischen Gemeinschaften oder der Europäischen Union dienen, wie im Falle einer Prüfung der Einhaltung der Bewirtschaftungsziele, mit einem erhöhten Zeitaufwand verbunden ist. Die Frist nach Satz 1 Nummer 5 Buchstabe d Doppelbuchstabe bb und die jeweilige Frist nach Satz 1 Nummer 6 kann einmalig in den Fällen des Satzes 3 um bis zu sechs Monate verlängert werden. Die zuständige Behörde teilt in den Fällen des Absatzes 2 der einheitlichen Stelle, andernfalls dem Träger des Vorhabens die außergewöhnlichen Umstände mit, die die jeweilige Verlängerung der Frist nach den Sätzen 2 bis 4 rechtfertigen. Weitergehende bestehende Rechtsvorschriften der Länder, die kürzere Fristen vorsehen, bleiben unberührt. Die Fristen nach Satz 1 Nummer 5 Buchstabe c und Nummer 6 Buchstabe c werden nach einem Erfahrungszeitraum von fünf Jahren im Hinblick auf die Zielerreichung der Beschleunigung der Zulassungsverfahren sowie unter Einbeziehung der wissenschaftlichen Ergebnisse laufender und neuer Forschungsvorhaben zu den gewässerökologischen und naturschutzfachlichen Auswirkungen evaluiert.
 
+(8) Ist für die Errichtung und für den Betrieb einer Anlage zur Gewinnung oder Speicherung von Erdwärme ein bergrechtlicher Betriebsplan erforderlich, gilt für die Erteilung der Erlaubnis oder Bewilligung § 57e Absatz 2 Satz 2, Absatz 5 und 6 des Bundesberggesetzes entsprechend.
+
 (+++ § 11a Abs. 1 Satz 2 u. Abs. 2 bis 7: Zur Geltung vgl. § 70 Abs. 1 Satz 2 +++)
+
+# § 11b – Projektmanager
+
+(1) Bei Vorhaben nach § 11a kann die zuständige Behörde auf Antrag oder mit Zustimmung des Trägers des Vorhabens und auf dessen Kosten in jeder Stufe des Verfahrens einen Dritten als Projektmanager, der als Verwaltungshelfer beschäftigt werden kann, mit der Vorbereitung und Durchführung von Verfahrensschritten beauftragen. Dies kann insbesondere folgende Verfahrensschritte umfassen:
+
+1. die Erstellung von Verfahrensleitplänen unter Bestimmung von Verfahrensabschnitten und Zwischenterminen,
+
+2. die Fristenkontrolle,
+
+3. die Koordinierung von erforderlichen Sachverständigengutachten,
+
+4. das Qualitätsmanagement der Anträge und Unterlagen der Vorhabenträger,
+
+5. bei Bewilligungsverfahren eine erste Auswertung der eingereichten Stellungnahmen,
+
+6. den Entwurf der Niederschrift über den Erörterungstermin,
+
+7. den Entwurf der Zulassungsentscheidung sowie
+
+8. die Prüfung der Vollständigkeit der Unterlagen.
+
+(2) Die Entscheidung über die Zulassung des Vorhabens trifft allein die zuständige Behörde.
+
+(3) Stimmt der Vorhabenträger zu, kann die zuständige Behörde bei der Beauftragung des Projektmanagers mit diesem vereinbaren, dass die Zahlungspflicht unmittelbar zwischen Vorhabenträger und Projektmanager entsteht und eine Abrechnung zwischen diesen erfolgt. Der Projektmanager ist verpflichtet, die Abrechnungsunterlagen ebenfalls der zuständigen Behörde zu übermitteln. Die zuständige Behörde prüft, ob die vom Projektmanager abgerechneten Leistungen dem jeweiligen Auftrag entsprechen, und teilt dem Vorhabenträger das Ergebnis dieser Prüfung unverzüglich mit.
 
 # § 12 – Voraussetzungen für die Erteilung der Erlaubnis und der Bewilligung, Bewirtschaftungsermessen
 
@@ -1137,7 +1163,7 @@ Das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbrauc
 
 (1) Keiner Erlaubnis oder Bewilligung bedarf das Entnehmen, Zutagefördern, Zutageleiten oder Ableiten von Grundwasser
 
-1. für den Haushalt, für den landwirtschaftlichen Hofbetrieb, für das Tränken von Vieh außerhalb des Hofbetriebs oder in geringen Mengen zu einem vorübergehenden Zweck,
+1. für den Haushalt einschließlich der Wärmeversorgung über den Entzug von Wärme aus dem Wasser, für den landwirtschaftlichen Hofbetrieb, für das Tränken von Vieh außerhalb des Hofbetriebs oder in geringen Mengen zu einem vorübergehenden Zweck,
 
 2. für Zwecke der gewöhnlichen Bodenentwässerung landwirtschaftlich, forstwirtschaftlich oder gärtnerisch genutzter Grundstücke,
 
@@ -1169,7 +1195,7 @@ soweit keine signifikanten nachteiligen Auswirkungen auf den Wasserhaushalt zu b
 
 # § 49 – Erdaufschlüsse
 
-(1) Arbeiten, die so tief in den Boden eindringen, dass sie sich unmittelbar oder mittelbar auf die Bewegung, die Höhe oder die Beschaffenheit des Grundwassers auswirken können, sind der zuständigen Behörde einen Monat vor Beginn der Arbeiten anzuzeigen. Werden bei diesen Arbeiten Stoffe in das Grundwasser eingebracht, ist abweichend von § 8 Absatz 1 in Verbindung mit § 9 Absatz 1 Nummer 4 anstelle der Anzeige eine Erlaubnis nur erforderlich, wenn sich das Einbringen nachteilig auf die Grundwasserbeschaffenheit auswirken kann. Die zuständige Behörde kann für bestimmte Gebiete die Tiefe nach Satz 1 näher bestimmen.
+(1) Arbeiten, die so tief in den Boden eindringen, dass sie sich unmittelbar oder mittelbar auf die Bewegung, die Höhe oder die Beschaffenheit des Grundwassers auswirken können, sind der zuständigen Behörde einen Monat vor Beginn der Arbeiten anzuzeigen. Werden bei diesen Arbeiten Stoffe in das Grundwasser eingebracht, ist abweichend von § 8 Absatz 1 in Verbindung mit § 9 Absatz 1 Nummer 4 anstelle der Anzeige eine Erlaubnis nur erforderlich, wenn sich das Einbringen nachteilig auf die Grundwasserbeschaffenheit auswirken kann. Bei der Errichtung, dem Betrieb und der Modernisierung von Erdwärmekollektoren bis zu einer Tiefe von 4 Metern und außerhalb von Wasserschutzgebieten ist davon auszugehen, dass die Erdwärmekollektoren keine nachteiligen Auswirkungen auf die Grundwasserbeschaffenheit gemäß Satz 2 haben, wenn sie oder ihre Anlagenteile die Anforderungen nach § 35 Absatz 2 der Verordnung über Anlagen zum Umgang mit wassergefährdenden Stoffen vom 18. April 2017 (BGBl. I S. 905), die durch Artikel 256 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, erfüllen. Die Vermutung nach Satz 3 gilt nicht, wenn auf Grund der räumlichen Konzentration der Anlagen in einem Gebiet eine nachteilige thermische Wirkung auf das Grundwasser zu besorgen ist. Die zuständige Behörde kann für bestimmte Gebiete die Tiefe nach Satz 1 näher bestimmen.
 
 (2) Wird unbeabsichtigt Grundwasser erschlossen, ist dies der zuständigen Behörde unverzüglich anzuzeigen.
 

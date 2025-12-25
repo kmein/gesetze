@@ -573,11 +573,11 @@ zu regeln.
 
 # § 21 – Erhebung von Daten über die Anwendung von Pflanzenschutzmitteln
 
-(1) Das Julius Kühn-Institut ist zuständig für die Erhebung von Daten in nicht personenbezogener Form über die Anwendung von Pflanzenschutzmitteln und erstellt Statistiken zur Erfüllung der Anforderungen von Anhang II der Verordnung (EG) Nr. 1185/2009 des Europäischen Parlaments und des Rates vom 25. November 2009 über Statistiken zu Pestiziden (ABl. L 324 vom 10.12.2009, S. 1). Die zuständigen Behörden der Länder wirken bei den Erhebungen mit. Die nach Satz 1 erhobenen Daten dürfen nur zur Erfüllung der Verpflichtungen aus Artikel 3 Absatz 2 in Verbindung mit Anhang II der Verordnung (EG) Nr. 1185/2009 sowie zur Überprüfung der Maßnahmen nach dem Aktionsplan im Sinne des § 4 verwendet werden. § 63 ist nicht anzuwenden.
+(1) Das Julius Kühn-Institut ist zuständig für die Erhebung von Daten in nicht personenbezogener Form über die Anwendung von Pflanzenschutzmitteln und erstellt Statistiken zur Erfüllung der Anforderungen des Artikel 4 Absatz 1 und 5 Buchstabe b in Verbindung mit Artikel 5 Absatz 1 Buchstabe e und Absatz 2 und mit dem Anhang Buchstabe e der Verordnung (EU) 2022/2379. Die zuständigen Behörden der Länder wirken bei den Erhebungen mit. Die nach Satz 1 erhobenen Daten dürfen nur zur Erfüllung der Verpflichtungen aus Artikel 4 Absatz 1 und 5 Buchstabe b in Verbindung mit Artikel 5 Absatz 1 Buchstabe e und Absatz 2 und mit dem Anhang Buchstabe e der Verordnung (EU) 2022/2379 sowie zur Überprüfung der Maßnahmen nach dem Aktionsplan im Sinne des § 4 verwendet werden. § 63 ist nicht anzuwenden.
 
 (2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Inhalt und Form der Erhebungen zu regeln.
 
-(3) Das Julius Kühn-Institut macht die Auswertung der Erhebungen im Bundesanzeiger oder im elektronischen Bundesanzeiger bekannt. Es übermittelt die Ergebnisse gemäß Artikel 3 Absatz 2 der Verordnung (EG) Nr. 1185/2009 an die zuständigen Dienststellen der Europäischen Kommission.
+(3) Das Julius Kühn-Institut macht die Auswertung der Erhebungen im Bundesanzeiger oder im elektronischen Bundesanzeiger bekannt. Es übermittelt die Ergebnisse gemäß Artikel 4 Absatz 1 und 5 Buchstabe b in Verbindung mit Artikel 5 Absatz 1 Buchstabe e und Absatz 2 und mit dem Anhang Buchstabe e der Verordnung (EU) 2022/2379 an die zuständigen Dienststellen der Europäischen Kommission.
 
 # § 22 – Weitergehende Länderbefugnisse
 
@@ -1347,7 +1347,7 @@ Art und Menge der von ihm an Empfänger mit Wohnsitz oder Sitz im Inland abgegeb
 
 (2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit den Bundesministerien für Wirtschaft und Energie und für Umwelt, Naturschutz und nukleare Sicherheit durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Näheres über Inhalt und Form der Meldungen zu regeln.
 
-(3) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit unterrichtet die zuständigen Behörden der Länder über die Ergebnisse der Meldungen. Es erstellt aus den ihm nach Absatz 1 vorliegenden Meldungen die Statistik über das Inverkehrbringen nach Artikel 1 Absatz 2 in Verbindung mit Anhang I der Verordnung (EG) Nr. 1185/2009 und übermittelt die Ergebnisse gemäß Artikel 3 Absatz 2 der Verordnung (EG) Nr. 1185/2009 an die Dienststellen der Europäischen Kommission. Es veröffentlicht die Ergebnisse der Erhebung nach Absatz 1 im Bundesanzeiger oder im elektronischen Bundesanzeiger.
+(3) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit unterrichtet die zuständigen Behörden der Länder über die Ergebnisse der Meldungen. Es erstellt aus den ihm nach Absatz 1 vorliegenden Meldungen die Statistik über das Inverkehrbringen nach Artikel 4 Absatz 5 Buchstabe a in Verbindung mit Anhang Buchstabe e der Verordnung (EU) 2022/2379 und übermittelt die Ergebnisse gemäß Artikel 5 Absatz 3 der Verordnung (EU) 2022/2379 an die Dienststellen der Europäischen Kommission. Es veröffentlicht die Ergebnisse der Erhebung nach Absatz 1 im Bundesanzeiger oder im elektronischen Bundesanzeiger.
 
 # § 65 – Geheimhaltung
 

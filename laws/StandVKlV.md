@@ -31,7 +31,9 @@ Diese Verordnung ist auf Verträge anzuwenden, die nach dem 17. Dezember 2025 ge
 
 (Fundstelle: BGBl. 2025 I Nr. 215, S. 3 - 8)
 
-1. Standardvertragsklausel für Regelungen zum Recht des Sponsors zur Erstveröffentlichung sowie zu den Anforderungen an Veröffentlichungen durch das Prüfzentrum
+1\.
+
+Standardvertragsklausel für Regelungen zum Recht des Sponsors zur Erstveröffentlichung sowie zu den Anforderungen an Veröffentlichungen durch das Prüfzentrum
 
 1.1  
 Der Sponsor hat das Recht zur Erstveröffentlichung der Ergebnisse der klinischen Prüfung. Gesetzliche Veröffentlichungspflichten bleiben von diesem Recht unberührt. Gehört die klinische Prüfung zu einer multizentrischen klinischen Prüfung, so soll die Erstveröffentlichung unter Koordination des Sponsors stattfinden und das Gesamtergebnis aller an der klinischen Prüfung beteiligten Prüfzentren abbilden. Erfolgt innerhalb von 12 Monaten nach Beendigung der klinischen Prüfung keine Erstveröffentlichung durch den Sponsor, so ist das Prüfzentrum zur Veröffentlichung der am Prüfzentrum generierten Ergebnisse nach Maßgabe der Nummern 1.2 und 1.3 berechtigt. Ist eine Erstveröffentlichung durch den Sponsor innerhalb der in Satz 4 genannten Frist aus im Prüfplan dargelegten wissenschaftlichen Gründen nicht möglich, so verlängert sich die Frist auf Verlangen des Sponsors um höchstens 6 Monate.
@@ -53,7 +55,9 @@ Das Prüfzentrum hält sich bei sämtlichen Veröffentlichungen, die im Zusammen
 1.4  
 Veröffentlichungen erfolgen, soweit möglich und zumutbar, in barrierefreier Form.
 
-2. Standardvertragsklausel für Regelungen zu Rechten an Ergebnissen
+2\.
+
+Standardvertragsklausel für Regelungen zu Rechten an Ergebnissen
 
 2.1  
 Bringt die vertrags- und prüfplanmäßige Durchführung der klinischen Prüfung am Prüfzentrum Ergebnisse hervor, die schutzfähige Erfindungen im Sinne des Gesetzes über Arbeitnehmererfindungen darstellen, so teilt das Prüfzentrum dies dem Sponsor unverzüglich nach Meldung durch den Erfinder gemäß § 5 des Gesetzes über Arbeitnehmererfindungen in Textform mit, soweit dies rechtlich möglich ist. Das Prüfzentrum räumt dem Sponsor mit Abschluss dieses Vertrages eine exklusive Option ein, das Recht auf diese schutzfähigen Erfindungen durch Abtretung zu erwerben (Optionsrecht). Der Sponsor kann dieses Optionsrecht innerhalb von 2 Monaten nach Zugang der in Satz 1 genannten Mitteilung beim Prüfzentrum durch Erklärung in Textform ausüben. Maßgeblich für die fristgerechte Erklärung ist der Zugang beim Prüfzentrum. Nach fristgerechter Erklärung nimmt das Prüfzentrum die Erfindung gemäß den Vorgaben des Gesetzes über Arbeitnehmererfindungen in Anspruch und überträgt die Rechte hieran auf den Sponsor.
@@ -91,7 +95,9 @@ Die Forschungs- und Lehrtätigkeit des Prüfzentrums bleibt von diesem Vertrag u
 2.7  
 Patientenakten bleiben im Eigentum des Prüfzentrums. Dem Sponsor wird gestattet, sie unter Einhaltung der gesetzlichen Bestimmungen und entsprechend den Bedingungen dieses Vertrages zu nutzen.
 
-3. Standardvertragsklausel für Regelungen zu vertraulichen Informationen
+3\.
+
+Standardvertragsklausel für Regelungen zu vertraulichen Informationen
 
 3.1  
 Vorbehaltlich der Nummer 3.2 sind vertrauliche Informationen im Sinne dieses Vertrages alle Informationen unabhängig von ihrer Form, die von einer Vertragspartei oder einem mit dieser Vertragspartei im Sinne des § 15 des Aktiengesetzes verbundenen Unternehmen der jeweils anderen Vertragspartei in Bezug auf die klinische Prüfung, deren Durchführung oder diesen Vertrag offengelegt werden, sowie sämtliche Ergebnisse der klinischen Prüfung.
@@ -125,7 +131,9 @@ Gesetzliche Regelungen zum Schutz der Vertraulichkeit von Informationen sowie ge
 3.8  
 Diese Klausel gilt über das Ende der klinischen Prüfung für die Dauer von 10 Jahren hinaus.
 
-4. Standardvertragsklausel für Regelungen zu Namens- und Markenrechten
+4\.
+
+Standardvertragsklausel für Regelungen zu Namens- und Markenrechten
 
 Die Vertragsparteien erkennen die jeweiligen Namens- und Markenrechte wechselseitig an. Keine Vertragspartei wird den Namen oder die Kennzeichen der jeweils anderen Vertragspartei ohne deren vorherige Zustimmung in Textform nutzen. Hiervon ausgenommen ist die Nutzung der Namen oder der Kennzeichen der jeweils anderen Vertragspartei
 
@@ -141,7 +149,9 @@ e) im Rahmen der üblichen Autoren-Nennung in wissenschaftlichen Fachzeitschrift
 
 Die in Nummer 1 genannten Regelungen zur Veröffentlichung und die in Nummer 3 genannten Regelungen zur Geheimhaltung bleiben unberührt.
 
-5. Standardvertragsklausel für Regelungen zu überlassenen Geräten und Materialien
+5\.
+
+Standardvertragsklausel für Regelungen zu überlassenen Geräten und Materialien
 
 5.1  
 Überlässt der Sponsor für die Durchführung der klinischen Prüfung Geräte oder Materialien zur Nutzung durch das Prüfzentrum und dessen Mitarbeiter oder veranlasst er deren Überlassung durch einen Dritten, so dokumentieren die Vertragsparteien die Überlassung in Textform. Bei Geräten handelt es sich um Gegenstände und bei Materialien kann es sich unter anderem um Computersoftware, Methoden oder Beurteilungsskalen handeln, die im Eigentum des Sponsors oder eines Dritten stehen oder von dem Sponsor oder dem Dritten zur Nutzung lizenziert werden. Medizinprodukte und Prüfpräparate stellen keine Geräte oder Materialien im Sinne dieses Vertrages dar.
@@ -155,7 +165,9 @@ Das Prüfzentrum stellt sicher, dass die ihm überlassenen Geräte und Materiali
 5.4  
 Die Überlassung der Geräte und Materialien ist auf die Dauer der klinischen Prüfung begrenzt. Das Prüfzentrum gibt die Geräte und Materialien auf Kosten des Sponsors unverzüglich zurück, sobald es die klinische Prüfung beendet hat. Der Sponsor nimmt die Geräte und Materialien auf seine Kosten zurück oder stellt sicher, dass die durch einen Dritten auf seine Veranlassung überlassenen Geräte oder Materialien durch den Dritten zurückgenommen werden.
 
-6. Standardvertragsklausel für Regelungen zu Inspektionen und Audits
+6\.
+
+Standardvertragsklausel für Regelungen zu Inspektionen und Audits
 
 6.1  
 Der Sponsor überwacht die Durchführung der klinischen Prüfung selbst oder durch einen von ihm Beauftragten. Zur Durchführung angekündigter Audits stimmen der Sponsor oder sein Beauftragter frühzeitig einen während den üblichen Geschäftszeiten des Prüfzentrums stattfindenden Termin mit dem Prüfzentrum ab. Das Prüfzentrum unterstützt den Sponsor oder seinen Beauftragten im Rahmen des Zumutbaren bei der Durchführung der Audits, insbesondere gewährt es dem Sponsor oder seinen Beauftragten den für die Durchführung des jeweiligen Audits erforderlichen Zugang zu den Grundstücken, Geschäftsräumen, Betriebsräumen und Anlagen sowie zu allen Dokumentationen und Originalunterlagen der klinischen Prüfung. Patientendaten dürfen nur im gesetzlich zulässigen Umfang eingesehen werden, insbesondere soweit die betroffene Person oder, falls diese nicht in der Lage ist, eine Einwilligung nach Aufklärung zu erteilen, ihr gesetzlicher Vertreter in die Einsichtnahme eingewilligt hat oder, wenn und soweit eine Einsichtnahme aufgrund einer gesetzlichen Regelung auch ohne Einwilligung der betroffenen Person zulässig ist. Der Sponsor oder sein Beauftragter unterrichten das Prüfzentrum unverzüglich über alle Ergebnisse des jeweiligen Audits, die darauf hinweisen, dass die Sicherheit der Prüfungsteilnehmer beeinträchtigt oder die Durchführung der klinischen Prüfung beeinflusst sein könnte.
@@ -172,7 +184,9 @@ Das Prüfzentrum ergreift unverzüglich alle erforderlichen Schritte zur Beseiti
 6.5  
 Diese Klausel gilt über das Ende der klinischen Prüfung für die Dauer der in Nummer 8.1 genannten gesetzlichen Aufbewahrungsfrist hinaus.
 
-7. Standardvertragsklausel für Regelungen zur Haftung
+7\.
+
+Standardvertragsklausel für Regelungen zur Haftung
 
 7.1  
 Das Prüfzentrum übernimmt keine Gewähr für das Erreichen eines bestimmten Arbeitsergebnisses oder dafür, dass das Arbeitsergebnis frei von Schutzrechten Dritter ist. Soweit entgegenstehende Schutzrechte bekannt werden, teilt das Prüfzentrum diese dem Sponsor unverzüglich mit.
@@ -186,7 +200,9 @@ Bei leichter Fahrlässigkeit ist die Haftung für Schäden, die nicht aus der Ve
 
 Vertragswesentliche Pflichten sind solche Pflichten, deren Erfüllung die ordnungsgemäße Durchführung des Vertrages ermöglicht und auf deren Einhaltung die andere Vertragspartei regelmäßig vertraut oder vertrauen darf.
 
-8. Standardvertragsklausel für Regelungen zur Dokumentation der klinischen Prüfung und Archivierung der Dokumentation
+8\.
+
+Standardvertragsklausel für Regelungen zur Dokumentation der klinischen Prüfung und Archivierung der Dokumentation
 
 8.1  
 Das Prüfzentrum bewahrt seine im Zusammenhang mit der klinischen Prüfung stehende Dokumentation entweder in analoger oder digitaler Form (Prüfungsdokumentation), soweit deren Aufbewahrung aufgrund gesetzlicher Aufbewahrungspflichten im Zusammenhang mit der Durchführung klinischer Prüfungen vorgeschrieben ist, nach Maßgabe der den jeweiligen Aufbewahrungspflichten zugrunde liegenden Rechtsvorschriften auf. Die folgenden, mindestens zu wahrenden Aufbewahrungszeiträume sind dabei zu beachten:
@@ -201,7 +217,9 @@ Das Prüfzentrum bewahrt die Prüfungsdokumentation sicher an einem geeigneten O
 8.3  
 Das Prüfzentrum kann die Prüfungsdokumentation nach Ablauf des jeweiligen gesetzlichen Aufbewahrungszeitraums vernichten, wenn der Sponsor die Einhaltung des gesetzlichen Aufbewahrungszeitraums mindestens drei Monate vor Ablauf geprüft und dem Prüfzentrum bestätigt hat. Erhebt der Sponsor Einwände gegen die Vernichtung der Prüfungsdokumentation, so prüfen das Prüfzentrum und der Sponsor den Abschluss einer gesonderten schriftlichen Vereinbarung über die weitere Aufbewahrung der Prüfungsdokumentation auf Kosten des Sponsors.
 
-9. Standardvertragsklausel für Regelungen zum Datenschutz
+9\.
+
+Standardvertragsklausel für Regelungen zum Datenschutz
 
 9.1  
 Die Vertragsparteien verpflichten sich zur Einhaltung der Datenschutzbestimmungen, insbesondere der Verordnung (EU) 2016/679 (Datenschutz-Grundverordnung) sowie der Verordnung (EU) 536/2014 in der Fassung vom 6. September 2022 und des Arzneimittelgesetzes.
@@ -215,7 +233,9 @@ Sofern eine Vertragspartei beabsichtigt, personenbezogene Daten in ein Land auß
 9.4  
 Diese Klausel gilt über das Ende der klinischen Prüfung hinaus, bis die Verarbeitung der personenbezogenen Daten beendet ist.
 
-10. Standardvertragsklausel für Regelungen zur Beendigung und Kündigung des Vertrages
+10\.
+
+Standardvertragsklausel für Regelungen zur Beendigung und Kündigung des Vertrages
 
 10.1  
 Dieser Vertrag endet, wenn
@@ -255,7 +275,9 @@ Im Fall eines vorzeitigen Endes der klinischen Prüfung, insbesondere im Fall ei
 
 (Fundstelle: BGBl. 2025 I Nr. 215, S. 9 - 11)
 
-1. Gemeinsame Verantwortlichkeit
+1\.
+
+Gemeinsame Verantwortlichkeit
 
 1.1  
 Soweit nicht nachstehend abweichend vereinbart, stellt jede Vertragspartei selbst die Einhaltung der gesetzlichen Bestimmungen, insbesondere die Rechtmäßigkeit der durch sie durchgeführten Datenverarbeitungen, sicher.
@@ -283,11 +305,15 @@ Tätigkeiten, die nach dem Abschluss der im Prüfplan aufgeführten Untersuchung
 1.6  
 Der Sponsor wird dem Prüfzentrum eine von der Ethik-Kommission geprüfte und in Übereinstimmung mit den Vorgaben der Datenschutz-Grundverordnung ausgefertigte Information zur prüfplankonformen Verarbeitung personenbezogener Daten sowie ein den Vorgaben der Datenschutz-Grundverordnung entsprechendes Formblatt für eine Einwilligungserklärung der Prüfungsteilnehmer bereitstellen. Das Prüfzentrum ist nicht für die Überprüfung dieses Formblatts zuständig. Das Prüfzentrum wird dem Sponsor die aufgrund des Prüfplans und der Einwilligungserklärungen erhobenen Daten der Prüfungsteilnehmer in pseudonymisierter Form zur Verfügung stellen.
 
-2. Information der Betroffenen
+2\.
+
+Information der Betroffenen
 
 Die Vertragsparteien sind gesetzlich verpflichtet, den betroffenen Personen die nach den Artikeln 13 und 14 der Datenschutz-Grundverordnung erforderlichen Informationen sowie Informationen über die wesentlichen Inhalte dieser Vereinbarung in präziser, transparenter, laienverständlicher Sprache und leicht zugänglicher Form unentgeltlich zur Verfügung zu stellen. Diese Informationen sind Bestandteil der vom Sponsor zu erstellenden Patienteninformation. Die Vertragsparteien sind sich einig, dass das Prüfzentrum die vom Sponsor zur Verfügung gestellten Informationen zur Verarbeitung personenbezogener Daten nach den Artikeln 13 und 14 der Datenschutz-Grundverordnung den Prüfungsteilnehmern bereits vor der Erhebung der personenbezogenen Daten bereitstellt. Das Prüfzentrum ist nicht verpflichtet, die vom Sponsor zur Verfügung gestellten Informationen auf Rechtskonformität zu prüfen.
 
-3. Rechte der Betroffenen
+3\.
+
+Rechte der Betroffenen
 
 3.1  
 Betroffene Personen können die ihnen aus den Artikeln 15 bis 22 der Datenschutz-Grundverordnung zustehenden Rechte („Betroffenenrechte“) gegenüber allen Vertragsparteien geltend machen, wobei das Prüfzentrum den betroffenen Personen als primäre Kontaktstelle angeboten wird. Sofern eine betroffene Person an den Sponsor zur Ausübung ihrer Betroffenenrechte herantritt, verweist dieser generell auf die ausgehändigte Patienteninformation und an das Prüfzentrum, das als primäre Kontaktstelle zur Wahrung der Betroffenenrechte dient.
@@ -301,7 +327,9 @@ Im Übrigen sind die Vertragsparteien für die Umsetzung und Befolgung der Betro
 3.4  
 Anfragen betroffener Personen betreffend die Löschung ihrer personenbezogenen Daten, die Gegenstand der gemeinsamen Verarbeitung sind, werden bei Eingang unverzüglich der anderen Vertragspartei mitgeteilt. Wenn eine der Vertragsparteien sämtliche oder Teile der personenbezogenen Daten nach Artikel 17 Absatz 3 der Datenschutz-Grundverordnung nicht löschen muss oder darf, muss diese Vertragspartei sicherstellen, dass sie diese personenbezogenen Daten löschen wird, sobald die gesetzliche Verpflichtung zur Löschung nach Artikel 17 Absatz 1 der Datenschutz-Grundverordnung eintritt. Wenn eine Anfrage betreffend die Löschung personenbezogener Daten begründet ist oder die Rechtsgrundlage für die Datenverarbeitung weggefallen ist, löschen die Vertragsparteien die betreffenden personenbezogenen Daten. Jede Vertragspartei setzt ein Protokoll über die Löschung personenbezogener Daten auf, das der jeweils anderen Vertragspartei auf Anfrage bereitzustellen ist. Zur Sicherstellung einer rechtzeitigen und rechtskonformen Löschung erarbeiten die Vertragsparteien ein Löschkonzept, in dem festgelegt wird, welche personenbezogenen Daten durch wen zu löschen sind.
 
-4. Unregelmäßigkeiten, Datenschutzverletzungen und Zweifel an der Rechtmäßigkeit
+4\.
+
+Unregelmäßigkeiten, Datenschutzverletzungen und Zweifel an der Rechtmäßigkeit
 
 4.1  
 Die Vertragsparteien informieren sich gegenseitig unverzüglich und vollständig, wenn sie bei der Prüfung der Verarbeitungstätigkeiten nach dieser Vereinbarung Fehler oder Unregelmäßigkeiten hinsichtlich datenschutzrechtlicher Bestimmungen feststellen.
@@ -312,15 +340,21 @@ Die Vertragsparteien sind für die aus den Artikeln 33 und 34 der Datenschutz-Gr
 4.3  
 Die Vertragsparteien sind berechtigt, der jeweils anderen Vertragspartei keine weiteren personenbezogenen Daten mehr zur Verfügung zu stellen oder zu übermitteln, wenn und soweit Zweifel bestehen, dass für die Verarbeitung der personenbezogenen Daten, deren Zurverfügungstellung oder deren Übermittlung eine Rechtsgrundlage besteht. Zweifel können sich insbesondere daraus ergeben, dass veränderte rechtliche oder tatsächliche Umstände zu einer neuen rechtlichen Bewertung der Rechtsgrundlage führen, wie beispielsweise das erstmalige oder veränderte Erfordernis einer Rechtsgrundlage nach den Artikeln 44 bis 50 der Datenschutz-Grundverordnung. Solche Umstände können sich auch aus behördlichen oder gerichtlichen Verfügungen sowie Veröffentlichungen der Aufsichtsbehörden ergeben. Die Vertragsparteien werden darauf hinwirken, die Rechtsgrundlage zu klären.
 
-5. Datenschutzfolgenabschätzungen
+5\.
+
+Datenschutzfolgenabschätzungen
 
 Die Vertragsparteien stellen in ihrem jeweiligen Zuständigkeitsbereich sicher, dass Datenschutzfolgenabschätzungen nach Artikel 35 der Datenschutz-Grundverordnung vorliegen, sofern diese erforderlich sind. Die Vertragsparteien unterstützen sich hierbei gegenseitig, soweit erforderlich.
 
-6. Aufbewahrung von Dokumentationen
+6\.
+
+Aufbewahrung von Dokumentationen
 
 Dokumentationen, die der Einhaltung der ordnungsgemäßen Datenverarbeitung nach Artikel 5 Absatz 2 der Datenschutz-Grundverordnung dienen, werden durch jede Vertragspartei entsprechend den rechtlichen Befugnissen und Verpflichtungen über das Vertragsende hinaus aufbewahrt.
 
-7. Vertraulichkeit und Datensicherheit
+7\.
+
+Vertraulichkeit und Datensicherheit
 
 7.1  
 Die Vertragsparteien stellen innerhalb ihres jeweiligen Zuständigkeitsbereiches sicher, dass alle mit der Datenverarbeitung befassten Mitarbeiter die Vertraulichkeit der Daten in Einklang mit den Artikeln 29 und 32 der Datenschutz-Grundverordnung und ohne eine Verletzung des § 203 des Strafgesetzbuchs sowie bei ausländischen Partnern in Einklang mit einem vergleichbaren Standard des Geheimnisschutzes für die Zeit ihrer Tätigkeit im Zusammenhang mit der Verarbeitung der personenbezogenen Daten wie auch nach Beendigung der Tätigkeit wahren und dass diese Mitarbeiter vor Aufnahme ihrer Tätigkeit entsprechend zur Vertraulichkeit der Daten verpflichtet und in die für sie relevanten Bestimmungen zum Datenschutz eingewiesen werden.
@@ -331,15 +365,21 @@ Die Vertragsparteien haben jeweils dafür Sorge zu tragen, dass sie sämtliche i
 7.3  
 Die Implementierung, die Voreinstellung und der Betrieb der genutzten Systeme zur Datenverarbeitung sind unter Beachtung der Vorgaben der Datenschutz-Grundverordnung und anderer Regelungswerke, insbesondere unter Beachtung der Grundsätze des Datenschutzes durch Design und datenschutzfreundliche Voreinstellungen, sowie unter Verwendung von dem Stand der Technik entsprechenden geeigneten technischen und organisatorischen Maßnahmen durchzuführen.
 
-8. Auftragsverarbeiter
+8\.
+
+Auftragsverarbeiter
 
 Die Vertragsparteien verpflichten sich, beim Einsatz von Auftragsverarbeitern im Anwendungsbereich dieser Vereinbarung einen Vertrag nach Artikel 28 Absatz 3 der Datenschutz-Grundverordnung abzuschließen. Handlungen und Verarbeitungen von Auftragnehmern einer Vertragspartei sind dieser Vertragspartei zuzurechnen. Die Einhaltung etwaiger zusätzlicher Vorgaben des 5. Kapitels der Datenschutz-Grundverordnung wird durch die den Auftragsverarbeiter beauftragende Vertragspartei sichergestellt.
 
-9. Verarbeitungsverzeichnis
+9\.
+
+Verarbeitungsverzeichnis
 
 Die Vertragsparteien nehmen die Verarbeitungstätigkeiten in ihre jeweiligen Verarbeitungsverzeichnisse nach Artikel 30 Absatz 1 der Datenschutz-Grundverordnung auf, insbesondere versehen mit einem Vermerk zur Natur des Verarbeitungsverfahrens in gemeinsamer oder alleiniger Verantwortung.
 
-10. Dauer und Kündigung
+10\.
+
+Dauer und Kündigung
 
 10.1  
 Die vertraglichen Regelungen des Datenschutzes bei gemeinsamer Verantwortlichkeit gelten für die Dauer der Verarbeitung personenbezogener Daten. Die gesonderte ordentliche Kündigung dieser Regelungen ist ausgeschlossen.
@@ -347,7 +387,9 @@ Die vertraglichen Regelungen des Datenschutzes bei gemeinsamer Verantwortlichkei
 10.2  
 Die Vertragsparteien können diese Vereinbarung mit sofortiger Wirkung kündigen, wenn ein schwerwiegender oder fortgesetzter Verstoß der anderen Vertragspartei gegen Datenschutzvorschriften oder die Bestimmungen dieser Vereinbarung vorliegt. Ein schwerwiegender Verstoß liegt insbesondere vor, wenn eine Vertragspartei die in dieser Vereinbarung bestimmten Pflichten, insbesondere die notwendigen technischen und organisatorischen Maßnahmen in erheblichem Maße nicht erfüllt.
 
-11. Haftung
+11\.
+
+Haftung
 
 11.1  
 Artikel 82 der Datenschutz-Grundverordnung bleibt unberührt. Die vertraglichen Regelungen des Datenschutzes bei gemeinsamer Verantwortlichkeit begründen darüber hinaus keinen Anspruch betroffener Personen oder sonstiger Dritter sowie keine Gesamtschuldnerschaft der Vertragsparteien.

@@ -6163,7 +6163,8 @@ ab dem 1.1.2021 vgl. Bek. v. 28.12.2020 I 3344 (PKHB 2021)
 ab dem 1.1.2022 vgl. Bek. v. 17.12.2021 I 5239 (PKHB 2022)  
 ab dem 1.1.2023 vgl. Bek. v. 22.12.2022 I 2843 (PKHB 2023)  
 ab dem 1.1.2024 vgl. Bek. v. 22.12.2023 I Nr. 403 (PKHB 2024)  
-ab dem 1.1.2025 vgl. Bek. v. 18.12.2024 I Nr. 429 (PKHB 2025) +++)
+ab dem 1.1.2025 vgl. Bek. v. 18.12.2024 I Nr. 429 (PKHB 2025)  
+ab dem 1.1.2026 vgl. Bek. v. 19.12.2025 I Nr. 360 (PKHB 2026) +++)
 
 # § 116 – Partei kraft Amtes; juristische Person; parteifähige Vereinigung
 

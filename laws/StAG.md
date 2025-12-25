@@ -349,13 +349,15 @@ In den Fällen einer rechtskräftigen Verurteilung nach den §§ 86, 86a, 102, 1
 
 2. Entscheidungen zum Bestand und gesetzlichen Verlust der deutschen Staatsangehörigkeit,
 
-3. Entscheidungen zu Erwerb, Bestand und Verlust der deutschen Staatsangehörigkeit, die nach dem 31. Dezember 1960 und vor dem 28. August 2007 getroffen worden sind.
+3. Entscheidungen, die eine Sperrfrist nach § 35a auslösen,
+
+4. Entscheidungen zu Erwerb, Bestand und Verlust der deutschen Staatsangehörigkeit, die nach dem 31. Dezember 1960 und vor dem 28. August 2007 getroffen worden sind.
 
 (2) Im Einzelnen dürfen in dem Register gespeichert werden:
 
 1. die Grundpersonalien der betroffenen Person (Familienname, Geburtsname, frühere Namen, Vornamen, Tag und Ort der Geburt, Geschlecht sowie die Anschrift im Zeitpunkt der Entscheidung),
 
-2. Rechtsgrund und Datum der Urkunde oder der Entscheidung sowie Rechtsgrund und der Tag des Erwerbs oder Verlusts der Staatsangehörigkeit, im Fall des § 3 Absatz 2 auch der Zeitpunkt, auf den der Erwerb zurückwirkt,
+2. Rechtsgrund und Datum der Urkunde oder der Entscheidung sowie Rechtsgrund und der Tag des Erwerbs oder Verlusts der Staatsangehörigkeit, im Fall des § 3 Absatz 2 auch der Zeitpunkt, auf den der Erwerb zurückwirkt und im Fall des § 35a der Beginn und das Ende der Sperrfrist,
 
 3. Bezeichnung, Anschrift und Aktenzeichen der Behörde, die die Entscheidung getroffen hat.
 
@@ -382,6 +384,16 @@ Fähig zur Vornahme von Verfahrenshandlungen nach diesem Gesetz ist, wer das 16.
 (5) Hat die Rücknahme Auswirkungen auf die Rechtmäßigkeit von Verwaltungsakten nach diesem Gesetz gegenüber Dritten, so ist für jede betroffene Person eine selbständige Ermessensentscheidung zu treffen. Dabei ist insbesondere eine Beteiligung des Dritten an der arglistigen Täuschung, Drohung oder Bestechung oder an den vorsätzlich unrichtigen oder unvollständigen Angaben gegen seine schutzwürdigen Belange, insbesondere auch unter Beachtung des Kindeswohls, abzuwägen.
 
 (6) Die deutsche Staatsangehörigkeit geht rückwirkend verloren, wenn die Rücknahmeentscheidung unanfechtbar ist. Bei Rücknahme einer rechtswidrigen Bescheinigung nach § 15 Absatz 1 oder 2 des Bundesvertriebenengesetzes, die nach § 15 Absatz 4 des Bundesvertriebenengesetzes mit Wirkung für die Vergangenheit erfolgt ist, gelten Absatz 2 sowie Satz 1 entsprechend.
+
+# § 35a – Sperrfrist
+
+Die Einbürgerung ist für die Dauer von zehn Jahren ausgeschlossen, wenn
+
+1. die Einbürgerung nach § 35 unanfechtbar zurückgenommen worden ist oder
+
+2. die zuständige Staatsangehörigkeitsbehörde im Einbürgerungsverfahren feststellt, dass ein Antragsteller, um für sich oder einen anderen eine Einbürgerung zu erwirken, arglistig getäuscht, gedroht oder bestochen hat oder unrichtige oder unvollständige Angaben zu wesentlichen Voraussetzungen der Einbürgerung gemacht oder benutzt hat.
+
+Die Feststellungsentscheidung nach Nummer 2 ist sofort vollziehbar; Widerspruch und Klage haben keine aufschiebende Wirkung.
 
 # § 36
 

@@ -3121,6 +3121,8 @@ Das Identifikationsmerkmal des Arbeitnehmers oder der Arbeitnehmerin ist die Ver
 
 (3) Der Träger der Rentenversicherung darf der Deutschen Post AG die für die Anpassung von Renten oder anderen Geldleistungen erforderlichen Sozialdaten auch dann übermitteln, wenn diese die Anpassung der Renten oder anderen Geldleistungen der Rentenversicherung nicht selbst durchführt, diese Daten aber für Auskünfte nach Absatz 1 oder 2 von anderen Sozialleistungsträgern oder diesen Gleichgestellten benötigt werden.
 
+(4) Ab dem in § 3 Absatz 1 des Postaufgabenüberleitungsgesetzes vom 22. Dezember 2025 (BGBl. 2025 I Nr. 345) genannten Zeitpunkt sind die Absätze 1 und 2 mit der Maßgabe anzuwenden, dass sie sich auch auf solche Sozialdaten beziehen, die dem Vorgängerunternehmen nach § 1 Absatz 1 des Postaufgabenüberleitungsgesetzes in den in den Absätzen 1 und 2 genannten Zusammenhängen bekannt geworden sind.
+
 # § 151a – Antragstellung im automatisierten Verfahren beim Versicherungsamt
 
 (1) Für die Aufnahme von Leistungsanträgen bei dem Versicherungsamt oder der Gemeindebehörde und die Übermittlung der Anträge an den Träger der Rentenversicherung kann ein automatisiertes Verfahren eingerichtet werden, das es dem Versicherungsamt oder der Gemeindebehörde ermöglicht, die für das automatisierte Verfahren erforderlichen Daten der Versicherten, aus der Stammsatzdatei der Datenstelle der Rentenversicherung (§ 150 Abs. 2) und dem Versicherungskonto (§ 149 Abs. 1) abzurufen, wenn die Versicherten oder anderen Leistungsberechtigten ihren Wohnsitz oder gewöhnlichen Aufenthalt, ihren Beschäftigungsort oder Tätigkeitsort im Bezirk des Versicherungsamtes oder in der Gemeinde haben.

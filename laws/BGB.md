@@ -13115,7 +13115,7 @@ Vater eines Kindes ist der Mann,
 
 1. das Bestehen einer vollziehbaren Ausreisepflicht des Anerkennenden oder der Mutter oder des Kindes,
 
-2. wenn der Anerkennende oder die Mutter oder das Kind einen Asylantrag gestellt hat und die Staatsangehörigkeit eines sicheren Herkunftsstaates nach § 29a des Asylgesetzes besitzt,
+2. wenn der Anerkennende oder die Mutter oder das Kind einen Asylantrag gestellt hat und die Staatsangehörigkeit eines sicheren Herkunftsstaates nach § 29a oder § 29b des Asylgesetzes besitzt,
 
 3. das Fehlen von persönlichen Beziehungen zwischen dem Anerkennenden und der Mutter oder dem Kind,
 

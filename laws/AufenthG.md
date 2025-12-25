@@ -371,7 +371,7 @@ Bei Ehegatten, die in ehelicher Lebensgemeinschaft leben, genügt es, wenn die V
 
 (7) Gegen einen Ausländer,
 
-1. dessen Asylantrag nach § 29a Absatz 1 des Asylgesetzes als offensichtlich unbegründet abgelehnt wurde, dem kein subsidiärer Schutz zuerkannt wurde, das Vorliegen der Voraussetzungen für ein Abschiebungsverbot nach § 60 Absatz 5 oder 7 nicht festgestellt wurde und der keinen Aufenthaltstitel besitzt oder
+1. dessen Asylantrag nach § 29a Absatz 1 oder § 29b Absatz 3 des Asylgesetzes als offensichtlich unbegründet abgelehnt wurde, dem kein subsidiärer Schutz zuerkannt wurde, das Vorliegen der Voraussetzungen für ein Abschiebungsverbot nach § 60 Absatz 5 oder 7 nicht festgestellt wurde und der keinen Aufenthaltstitel besitzt oder
 
 2. dessen Antrag nach § 71 oder § 71a des Asylgesetzes wiederholt nicht zur Durchführung eines weiteren Asylverfahrens geführt hat,
 
@@ -1259,7 +1259,7 @@ sofern die Tätigkeit nach den Bestimmungen der §§ 18a, 18b, 18d, 18g, 19c und
 
 (1) Eine Chancenkarte ist eine Aufenthaltserlaubnis zur Suche nach einer Erwerbstätigkeit oder nach Maßnahmen zur Anerkennung ausländischer Berufsqualifikationen.
 
-(2) Die Chancenkarte berechtigt dazu,
+(2) Die Chancenkarte berechtigt nur dazu,
 
 1. eine Beschäftigung von durchschnittlich insgesamt höchstens 20 Stunden je Woche auszuüben und
 
@@ -1925,7 +1925,7 @@ Die Zustimmung wird ohne Vorrangprüfung im Sinne des Absatzes 3 Nummer 3 erteil
 
 (3a) Die Bundesagentur für Arbeit kann der Ausübung einer qualifizierten inländischen Beschäftigung nach § 20a Absatz 5 Satz 2 zustimmen, wenn der Ausländer nicht zu ungünstigeren Arbeitsbedingungen als vergleichbare inländische Arbeitnehmer beschäftigt wird.
 
-(4) Für die Erteilung der Zustimmung oder Arbeitserlaubnis hat der Arbeitgeber der Bundesagentur für Arbeit Auskünfte in Bezug auf das Beschäftigungsverhältnis, insbesondere zum Arbeitsentgelt, zu den Arbeitszeiten und sonstigen Arbeitsbedingungen, zu der Sozialversicherungspflicht und zum Erfordernis einer Berufsausübungserlaubnis, zu erteilen. Auf Aufforderung durch die Bundesagentur für Arbeit hat ein Arbeitgeber, der einen Ausländer beschäftigt oder beschäftigt hat, eine Auskunft nach Satz 1 innerhalb eines Monats zu erteilen.
+(4) Für die Erteilung der Zustimmung oder der Arbeitserlaubnis hat der Arbeitgeber der Bundesagentur für Arbeit Auskünfte in Bezug auf das Beschäftigungsverhältnis, insbesondere zum Arbeitsentgelt, zu den Arbeitszeiten und zu sonstigen Arbeitsbedingungen, zu der Sozialversicherungspflicht und zum Erfordernis einer Berufsausübungserlaubnis sowie im Fall der Saisonbeschäftigung zu Unterkunft, Mietbedingungen und Miethöhe, zu erteilen. Auf Aufforderung durch die Bundesagentur für Arbeit hat ein Arbeitgeber, der einen Ausländer beschäftigt oder beschäftigt hat, eine Auskunft nach Satz 1 innerhalb eines Monats zu erteilen.
 
 (5) Die Absätze 1, 3 und 4 gelten auch, wenn bei Aufenthalten zu anderen Zwecken nach den Abschnitten 3, 5 oder 7 eine Zustimmung der Bundesagentur für Arbeit zur Ausübung einer Beschäftigung erforderlich ist.
 
@@ -1941,7 +1941,7 @@ Die Zustimmung wird ohne Vorrangprüfung im Sinne des Absatzes 3 Nummer 3 erteil
 
 (2) Die Zustimmung kann versagt werden, wenn
 
-1. der Ausländer gegen § 404 Abs. 1 oder 2 Nr. 2 bis 13 des Dritten Buches Sozialgesetzbuch, §§ 10, 10a oder § 11 des Schwarzarbeitsbekämpfungsgesetzes oder gegen die §§ 15, 15a oder § 16 Abs. 1 Nr. 2 des Arbeitnehmerüberlassungsgesetzes schuldhaft verstoßen hat,
+1. der Ausländer gegen § 404 Absatz 1 oder Absatz 2 Nummer 2 bis 4, 6 bis 13, 28 und 29 des Dritten Buches Sozialgesetzbuch, gegen die §§ 10, 10a oder § 11 des Schwarzarbeitsbekämpfungsgesetzes oder gegen die §§ 15, 15a oder § 16 Absatz 1 Nummer 2 des Arbeitnehmerüberlassungsgesetzes schuldhaft verstoßen hat,
 
 2. wichtige Gründe in der Person des Ausländers vorliegen oder
 
@@ -2803,7 +2803,7 @@ Die Ausländerbehörde oder eine durch sie beauftragte Stelle unterrichtet den A
 
 2. aufenthaltsbeendende Maßnahmen bei ihm aus Gründen, die er selbst zu vertreten hat, nicht vollzogen werden können oder
 
-3. er Staatsangehöriger eines sicheren Herkunftsstaates nach § 29a des Asylgesetzes ist und sein nach dem 31. August 2015 gestellter Asylantrag abgelehnt oder zurückgenommen wurde, es sei denn, die Rücknahme erfolgte auf Grund einer Beratung nach § 24 Absatz 1 des Asylgesetzes beim Bundesamt für Migration und Flüchtlinge, oder ein Asylantrag nicht gestellt wurde.
+3. er Staatsangehöriger eines sicheren Herkunftsstaates nach § 29a oder § 29b des Asylgesetzes ist und sein nach dem 31. August 2015 gestellter Asylantrag abgelehnt oder zurückgenommen wurde, es sei denn, die Rücknahme erfolgte auf Grund einer Beratung nach § 24 Absatz 1 des Asylgesetzes beim Bundesamt für Migration und Flüchtlinge, oder ein Asylantrag nicht gestellt wurde.
 
 Zu vertreten hat ein Ausländer die Gründe nach Satz 1 Nummer 2 insbesondere, wenn er das Abschiebungshindernis durch eigene Täuschung über seine Identität oder Staatsangehörigkeit oder durch eigene falsche Angaben selbst herbeiführt. Satz 1 Nummer 3 gilt bei unbegleiteten minderjährigen Ausländern nicht für die Rücknahme des Asylantrags oder den Verzicht auf die Antragstellung, wenn die Rücknahme oder der Verzicht auf das Stellen eines Asylantrags im Interesse des Kindeswohls erfolgte. Abweichend von den Sätzen 1 bis 3 ist einem Ausländer, der als Asylberechtigter anerkannt ist, der im Bundesgebiet die Rechtsstellung eines ausländischen Flüchtlings oder eines subsidiär Schutzberechtigten genießt, die Erwerbstätigkeit erlaubt.
 
@@ -4441,7 +4441,7 @@ Ebenso wird bestraft, wer in den Fällen des Absatzes 1 Satz 1 Nummer 1 zugunste
 
 (3) Der Versuch ist strafbar.
 
-(4) Absatz 1 Satz 1 Nummer 1 Buchstabe a und Nummer 2, Satz 2, Absatz 2 Satz 1 Nummer 1, 2, 3, 5 und 6, Satz 2 und Absatz 3 sowie bei Einreise auf dem Landweg auch Absatz 1 Satz 1 Nummer 1 Buchstabe b sind auf Zuwiderhandlungen gegen Rechtsvorschriften über die Einreise und den Aufenthalt von Ausländern in das Hoheitsgebiet der Mitgliedstaaten der Europäischen Union oder eines Schengen-Staates anzuwenden, wenn
+(4) Absatz 1 Satz 1 Nummer 1 Buchstabe a und Nummer 2, Satz 2, Absatz 2 Satz 1 Nummer 1, 2, 3, 5 und 6, Satz 2 und Absatz 3 sowie bei Einreise auf dem Landweg auch Absatz 1 Satz 1 Nummer 1 Buchstabe b sind auf Zuwiderhandlungen gegen Rechtsvorschriften über die Einreise und den Aufenthalt von Ausländern in das Hoheitsgebiet der Mitgliedstaaten der Europäischen Union, eines Schengen-Staates oder des Vereinigten Königreichs Großbritannien und Nordirland anzuwenden, wenn
 
 1. sie den in § 95 Absatz 1 Nummer 2 oder Nummer 3 oder Absatz 2 Nummer 1 bezeichneten Handlungen entsprechen und
 
@@ -4491,7 +4491,7 @@ Informationen zum konkreten Ablauf einer Abschiebung, insbesondere Informationen
 
 3. entgegen § 19b Absatz 7 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet oder
 
-4. entgegen § 16g Absatz 4 oder § 60d Absatz 3 Satz 3 eine Mitteilung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht.
+4. entgegen § 16g Absatz 4 Satz 1, § 60c Absatz 5 Satz 1 oder § 60d Absatz 3 Satz 3 eine Mitteilung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht.
 
 (2b) (weggefallen)
 
@@ -4780,6 +4780,8 @@ Für Personen, die vor dem Inkrafttreten dieses Gesetzes gemäß § 1 des Gesetz
 (18) § 60a Absatz 6 Satz 1 Nummer 3 findet keine Anwendung auf Staatsangehörige Georgiens und der Republik Moldau, die bis zum 30. August 2023 einen Asylantrag gestellt haben oder die sich zum 30. August 2023 geduldet in Deutschland aufgehalten haben, ohne einen Asylantrag gestellt zu haben.
 
 (19) Auf Personen, deren Asylantrag bis zum 27. Februar 2024 als offensichtlich unbegründet abgelehnt wurde, findet § 10 Absatz 3 Satz 2 in der bis zu diesem Tag geltenden Fassung Anwendung.
+
+(20) Wurde ein anwaltlicher Vertreter in Verfahren über die Anordnung von Abschiebungshaft nach § 62, Ausreisegewahrsam nach § 62b sowie Überstellungshaft nach § 2 Absatz 14 vor dem 31. Mai 2026 von Amts wegen bestellt, findet dieses Gesetz in der bis einschließlich dem 31. Mai 2026 geltenden Fassung Anwendung.
 
 # § 104a – Altfallregelung
 

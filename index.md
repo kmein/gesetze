@@ -1015,6 +1015,7 @@
 - [BMJVBhWidVertrAnO](laws/BMJVBhWidVertrAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung bei Klagen in Beihilfeangelegenheiten im Geschäftsbereich des Bundesministeriums der Justiz und für Verbraucherschutz
 - [BMJVertrAnO](laws/BMJVertrAnO.md) Anordnung über die Vertretung der Bundesrepublik Deutschland im Geschäftsbereich des Bundesministeriums der Justiz
 - [BMJVWidVertrAnO](laws/BMJVWidVertrAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beamtinnen und Beamten des Bundesministeriums der Justiz und für Verbraucherschutz in Angelegenheiten der Besoldung, des Dienstunfall-, Reisekosten-, Umzugskosten- und Trennungsgeldrechts
+- [BMLEHStruBVfPAktV](laws/BMLEHStruBVfPAktV.md) Verordnung zur Ermöglichung der Anlegung, Führung und Weiterführung papiergebundener Akten in Bußgeldverfahren im Geschäftsbereich des Bundesministeriums für Landwirtschaft, Ernährung und Heimat
 - [BMLErnAnO 1975](laws/BMLErnAnO_1975.md) Anordnung über die Ernennung und Entlassung von Bundesbeamten im Geschäftsbereich des Bundesministers für Ernährung, Landwirtschaft und Forsten
 - [BMLErnAnO 1990](laws/BMLErnAnO_1990.md) Anordnung über die Ernennung und Entlassung von Bundesbeamten im Geschäftsbereich des Bundesministers für Ernährung, Landwirtschaft und Forsten
 - [BMLErnAnO 1991](laws/BMLErnAnO_1991.md) Anordnung über die Ernennung und Entlassung von Bundesbeamten im Geschäftsbereich des Bundesministers für Ernährung, Landwirtschaft und Forsten
@@ -2451,6 +2452,7 @@
 - [GenTPflEV](laws/GenTPflEV.md) Verordnung über die gute fachliche Praxis bei der Erzeugung gentechnisch veränderter Pflanzen *)
 - [GenTSV](laws/GenTSV.md) Verordnung über die Sicherheitsstufen und Sicherheitsmaßnahmen bei gentechnischen Arbeiten in gentechnischen Anlagen
 - [GenTVfV](laws/GenTVfV.md) Verordnung über Antrags- und Anmeldeunterlagen und über Genehmigungs- und Anmeldeverfahren nach dem Gentechnikgesetz
+- [GeoBG](laws/GeoBG.md) Gesetz zur Beschleunigung des Ausbaus von Geothermieanlagen, Wärmepumpen, Wärmeleitungen und Wärmespeichern*
 - [GeoEnBeschrV](laws/GeoEnBeschrV.md) Verordnung zur Beschränkung des marinen Geo-Engineerings
 - [GeoITAusbV](laws/GeoITAusbV.md) Verordnung über die Berufsausbildung in der Geoinformationstechnologie*)
 - [GeolDG](laws/GeolDG.md) Gesetz zur staatlichen geologischen Landesaufnahme sowie zur Übermittlung, Sicherung und öffentlichen Bereitstellung geologischer Daten und zur Zurverfügungstellung geologischer Daten zur Erfüllung öffentlicher Aufgaben
@@ -3333,6 +3335,7 @@
 - [KStG](laws/KStG.md) Körperschaftsteuergesetz
 - [KStoffIndMeistPrV 2014](laws/KStoffIndMeistPrV_2014.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Industriemeister – Fachrichtung Kunststoff und Kautschuk und Geprüfte Industriemeisterin – Fachrichtung Kunststoff und Kautschuk
 - [KStoffTechAusbV](laws/KStoffTechAusbV.md) Verordnung über die Berufsausbildung zum Kunststoff- und Kautschuktechnologen und zur Kunststoff- und Kautschuktechnologin *
+- [KStTG](laws/KStTG.md) Gesetz über die Meldepflicht von Anbietern und den automatischen Austausch von Informationen in Steuersachen bei Kryptowerte-Dienstleistungen
 - [KSVEntgV](laws/KSVEntgV.md) Künstlersozialversicherungs-Entgeltverordnung
 - [KSVG](laws/KSVG.md) Gesetz über die Sozialversicherung der selbständigen Künstler und Publizisten
 - [KSVGBeitrÜV](laws/KSVGBeitrÜV.md) Verordnung über die Überwachung der Entrichtung der Beitragsanteile und der Künstlersozialabgabe nach dem Künstlersozialversicherungsgesetz
@@ -4568,6 +4571,7 @@
 - [PKHB 2023](laws/PKHB_2023.md) Bekanntmachung zu § 115 der Zivilprozessordnung
 - [PKHB 2024](laws/PKHB_2024.md) Bekanntmachung zu § 115 der Zivilprozessordnung
 - [PKHB 2025](laws/PKHB_2025.md) Bekanntmachung zu § 115 der Zivilprozessordnung
+- [PKHB 2026](laws/PKHB_2026.md) Bekanntmachung zu § 115 der Zivilprozessordnung
 - [PKHFV](laws/PKHFV.md) Verordnung zur Verwendung eines Formulars für die Erklärung über die persönlichen und wirtschaftlichen Verhältnisse bei Prozess- und Verfahrenskostenhilfe
 - [Pkw-EnVKV](laws/Pkw-EnVKV.md) Verordnung über Verbraucherinformationen zu Kraftstoffverbrauch, Stromverbrauch, CO2-Emissionen und Energiekosten neuer Personenkraftwagen
 - [PlanSiG](laws/PlanSiG.md) Gesetz zur Sicherstellung ordnungsgemäßer Planungs- und Genehmigungsverfahren während der COVID-19-Pandemie*
@@ -4598,6 +4602,7 @@
 - [PostAnwAbk 1984](laws/PostAnwAbk_1984.md) Postanweisungs- und Postreisescheckabkommen
 - [PostAnwÜbkVollzO](laws/PostAnwÜbkVollzO.md) Vollzugsordnung zum Postanweisungsübereinkommen
 - [PostAnwÜbkVollzOSchlProt](laws/PostAnwÜbkVollzOSchlProt.md) Schlußprotokoll zur Vollzugsordnung zum Postanweisungsübereinkommen
+- [PostAufgÜberlG](laws/PostAufgÜberlG.md) Gesetz zur Überleitung öffentlicher Aufgaben bei Umwandlungsmaßnahmen der Deutsche Post AG
 - [PostAuftrAbk 1984](laws/PostAuftrAbk_1984.md) Postauftragsabkommen
 - [PostAZV](laws/PostAZV.md) Verordnung über die Arbeitszeit der Beamtinnen und Beamten bei der Deutschen Post AG
 - [PostbAGSa](laws/PostbAGSa.md) Satzung der Deutsche Postbank AG (Anhang des Gesetzes zur Umwandlung der Unternehmen der Deutschen Bundespost in die Rechtsform der Aktiengesellschaft)

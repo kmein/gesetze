@@ -7,7 +7,7 @@ Auf Grund des § 12g Absatz 3 des Energiewirtschaftsgesetzes vom 7. Juli 2005 (B
 
 # § 1 – Bericht der Übertragungsnetzbetreiber
 
-(1) Die Betreiber von Übertragungsnetzen nach § 3 Nummer 10 des Energiewirtschaftsgesetzes haben der Bundesnetzagentur alle zwei Jahre, erstmals spätestens zum 15. Januar 2012, den Bericht nach § 12g Absatz 1 Satz 3 des Energiewirtschaftsgesetzes vorzulegen. Dieser muss die in § 12g Absatz 1 Satz 3 des Energiewirtschaftsgesetzes genannten Angaben enthalten; daneben sind in dem Bericht die Mitgliedstaaten der Europäischen Union zu benennen, die von einer Störung oder Zerstörung der Anlagen erheblich betroffen sein könnten.
+(1) Die Betreiber von Übertragungsnetzen nach § 3 Nummer 16 des Energiewirtschaftsgesetzes haben der Bundesnetzagentur alle zwei Jahre, erstmals spätestens zum 15. Januar 2012, den Bericht nach § 12g Absatz 1 Satz 3 des Energiewirtschaftsgesetzes vorzulegen. Dieser muss die in § 12g Absatz 1 Satz 3 des Energiewirtschaftsgesetzes genannten Angaben enthalten; daneben sind in dem Bericht die Mitgliedstaaten der Europäischen Union zu benennen, die von einer Störung oder Zerstörung der Anlagen erheblich betroffen sein könnten.
 
 (2) Dem Bericht sind die jeweils aktuellen Gefährdungsszenarien zugrunde zu legen. Die Gefährdungsszenarien werden vom Bundesamt für Bevölkerungsschutz und Katastrophenhilfe im Einvernehmen mit der Bundesnetzagentur erstellt und regelmäßig aktualisiert. Die Bundesnetzagentur übermittelt die Gefährdungsszenarien rechtzeitig vor der Erstellung des Berichts an die Betreiber von Übertragungsnetzen.
 

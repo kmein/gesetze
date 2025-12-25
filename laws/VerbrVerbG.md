@@ -15,7 +15,7 @@ Die Behörden, die das Verbringen von Gegenständen in den räumlichen Geltungsb
 
 # § 3
 
-Die Unternehmen in Nachfolge der Deutschen Bundespost legen die in den räumlichen Geltungsbereich dieses Gesetzes beförderten Sendungen, bei deren betrieblicher Behandlung sich tatsächliche Anhaltspunkte für den in § 2 bezeichneten Verdacht ergeben, der zuständigen Zolldienststelle vor.
+Die Unternehmen in Nachfolge der Deutschen Bundespost legen die in den räumlichen Geltungsbereich dieses Gesetzes beförderten Sendungen, bei deren betrieblicher Behandlung sich tatsächliche Anhaltspunkte für den in § 2 bezeichneten Verdacht ergeben, der zuständigen Zolldienststelle vor. Dies gilt auch für ein Nachfolgeunternehmen im Sinne von § 1 Absatz 1 des Postaufgabenüberleitungsgesetzes vom 22. Dezember 2025 (BGBl. 2025 I Nr. 345).
 
 # § 4
 

@@ -29,7 +29,7 @@ b) die Lagerung, Abgabe und Verwendung von Ausgangsstoffen zur Gasherstellung;
 
 (1) Der Marktgebietsverantwortliche stellt für die Abwicklung von Maßnahmen nach § 1 Absatz 1 ab dem 1. Oktober 2022 eine digitale Plattform bereit, welche dem Zweck der Abwicklung von Maßnahmen nach § 1 und von Solidaritätsmaßnahmen nach § 2a des Energiesicherungsgesetzes dient.
 
-(2) Die Bilanzkreisverantwortlichen nach § 2 Nummer 5 der Gasnetzzugangsverordnung und die Endverbraucher, die Betreiber von Gasspeicheranlagen nach § 3 Nummer 6 des Energiewirtschaftsgesetzes und die Nutzer von Gasspeicheranlagen sowie die Betreiber von Fernleitungsnetzen und die Betreiber von Gasverteilernetzen im Marktgebiet des Marktgebietsverantwortlichen (Plattformteilnehmer) sind verpflichtet, sich innerhalb eines Monats nach Bereitstellung der Plattform auf dieser zu registrieren. Endverbraucher im Sinne dieser Verordnung sind Anschlussnutzer von Marktlokationen mit einer technischen Anschlusskapazität in Höhe von mindestens 10 Megawattstunden pro Stunde.
+(2) Die Bilanzkreisverantwortlichen nach § 2 Nummer 5 der Gasnetzzugangsverordnung und die Endverbraucher, die Betreiber von Gasspeicheranlagen nach § 3 Nummer 12 des Energiewirtschaftsgesetzes und die Nutzer von Gasspeicheranlagen sowie die Betreiber von Fernleitungsnetzen und die Betreiber von Gasverteilernetzen im Marktgebiet des Marktgebietsverantwortlichen (Plattformteilnehmer) sind verpflichtet, sich innerhalb eines Monats nach Bereitstellung der Plattform auf dieser zu registrieren. Endverbraucher im Sinne dieser Verordnung sind Anschlussnutzer von Marktlokationen mit einer technischen Anschlusskapazität in Höhe von mindestens 10 Megawattstunden pro Stunde.
 
 (3) Plattformteilnehmer sind verpflichtet, innerhalb eines Monats nach Bereitstellung der Plattform die für die Zwecke des Absatzes 1 erforderlichen Unternehmensdaten, insbesondere auch sämtliche für die Zustellung von Verfügungen erforderlichen Kontaktdaten, anzugeben und die Daten bei Änderungen zu aktualisieren. Der Marktgebietsverantwortliche übermittelt die Daten der bei ihm registrierten Bilanzkreisverantwortlichen, der Betreiber von Fernleitungsnetzen und der Betreiber von Gasverteilernetzen an die Plattform.
 
@@ -89,7 +89,7 @@ Verwaltungsbehörde im Sinne des § 16 Nr. 2 Buchstabe a des Energiesicherungsge
 
 2. die Anwendbarkeit durch Verordnung bestimmt.
 
-In Fällen des § 2a des Energiesicherungsgesetzes tritt an die Stelle der in Satz 1 genannten Feststellung die Mitteilung des Bundesministeriums für Wirtschaft und Klimaschutz nach § 3 Absatz 6 Satz 1 Nummer 2 des Energiesicherungsgesetzes.
+In Fällen des § 2a des Energiesicherungsgesetzes tritt an die Stelle der in Satz 1 genannten Feststellung die Mitteilung des Bundesministeriums für Wirtschaft und Energie nach § 3 Absatz 6 Satz 1 Nummer 2 des Energiesicherungsgesetzes.
 
 # Anlage – (zu § 2)
 

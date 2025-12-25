@@ -39,7 +39,7 @@ Diese Verordnung gilt ferner nicht für Betriebe, die dem Bundesberggesetz unter
 
 (1) Gefahrstoffe im Sinne dieser Verordnung sind
 
-1. gefährliche Stoffe und Gemische nach § 3,
+1. gefährliche Stoffe und Gemische nach § 3a des Chemikaliengesetzes,
 
 1a. Stoffe oder Gemische, die über die Gefahrenklasse gewässergefährdend nach der Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006 (ABl. L 353 vom 31.12.2008, S. 1), die zuletzt durch die Delegierte Verordnung (EU) 2022/692 (ABl. L 129 vom 3.5.2022, S. 1) geändert worden ist, hinaus umweltgefährlich sind, indem sie selbst oder deren Umwandlungsprodukte sonst geeignet sind, die Beschaffenheit des Naturhaushaltes, von Wasser, Boden oder Luft, Klima, Tieren, Pflanzen oder Mikroorganismen derart zu verändern, dass dadurch sofort oder später Gefahren für die Umwelt herbeigeführt werden können,
 
@@ -145,47 +145,7 @@ b) für die in der Zulassung festgelegt wurde, dass eine Messung oder Überwachu
 
 3. der geschulte berufsmäßige Verwender.
 
-# § 3 – Gefahrenklassen
-
-(1) Gefährlich im Sinne dieser Verordnung sind Stoffe, Gemische und bestimmte Erzeugnisse, die den in Anhang I der Verordnung (EG) Nr. 1272/2008 dargelegten Kriterien entsprechen.
-
-(2) Die folgenden Gefahrenklassen geben die Art der Gefährdung wieder und werden unter Angabe der Nummerierung des Anhangs I der Verordnung (EG) Nr. 1272/2008 aufgelistet:
-
-|     |                                         |                                                                              | Nummerierung nach Anhang I der Verordnung (EG) Nr. 1272/2008 |
-|:----|:-----|:--------------------------------------|:---------------------:|
-| 1\. | Physikalische Gefahren                  |                                                                              |                            2                                 |
-|     | a)                                     | Explosive Stoffe/Gemische und Erzeugnisse mit Explosivstoff                  |                             2.1                              |
-|     | b)                                     | Entzündbare Gase                                                             |                             2.2                              |
-|     | c)                                     | Aerosole                                                                     |                             2.3                              |
-|     | d)                                     | Oxidierende Gase                                                             |                             2.4                              |
-|     | e)                                     | Gase unter Druck                                                             |                             2.5                              |
-|     | f)                                     | Entzündbare Flüssigkeiten                                                    |                             2.6                              |
-|     | g)                                     | Entzündbare Feststoffe                                                       |                             2.7                              |
-|     | h)                                     | Selbstzersetzliche Stoffe und Gemische                                       |                             2.8                              |
-|     | i)                                     | Pyrophore Flüssigkeiten                                                      |                             2.9                              |
-|     | j)                                     | Pyrophore Feststoffe                                                         |                             2.10                             |
-|     | k)                                     | Selbsterhitzungsfähige Stoffe und Gemische                                   |                             2.11                             |
-|     | l)                                     | Stoffe und Gemische, die in Berührung mit Wasser entzündbare Gase entwickeln |                             2.12                             |
-|     | m)                                     | Oxidierende Flüssigkeiten                                                    |                             2.13                             |
-|     | n)                                     | Oxidierende Feststoffe                                                       |                             2.14                             |
-|     | o)                                     | Organische Peroxide                                                          |                             2.15                             |
-|     | p)                                     | Korrosiv gegenüber Metallen                                                  |                             2.16                             |
-|     | q)                                     | Desensibilisierte explosive Stoffe/Gemische                                  |                             2.17                             |
-| 2\. | Gesundheitsgefahren                     |                                                                              |                            3                                 |
-|     | a)                                     | Akute Toxizität (oral, dermal und inhalativ)                                 |                             3.1                              |
-|     | b)                                     | Ätzwirkung auf die Haut/Hautreizung                                          |                             3.2                              |
-|     | c)                                     | Schwere Augenschädigung/Augenreizung                                         |                             3.3                              |
-|     | d)                                     | Sensibilisierung der Atemwege oder der Haut                                  |                             3.4                              |
-|     | e)                                     | Keimzellmutagenität                                                          |                             3.5                              |
-|     | f)                                     | Karzinogenität                                                               |                             3.6                              |
-|     | g)                                     | Reproduktionstoxizität                                                       |                             3.7                              |
-|     | h)                                     | Spezifische Zielorgan-Toxizität, einmalige Exposition (STOT SE)              |                             3.8                              |
-|     | i)                                     | Spezifische Zielorgan-Toxizität, wiederholte Exposition (STOT RE)            |                             3.9                              |
-|     | j)                                     | Aspirationsgefahr                                                            |                             3.10                             |
-| 3\. | Umweltgefahren                          |                                                                              |                            4                                 |
-|     | Gewässergefährdend (akut und chronisch) |                                                                              |                             4.1                              |
-| 4\. | Weitere Gefahren                        |                                                                              |                            5                                 |
-|     | Die Ozonschicht schädigend              |                                                                              |                             5.1                              |
+# § 3 – (weggefallen)
 
 # § 4 – Einstufung, Kennzeichnung, Verpackung
 
@@ -447,7 +407,7 @@ Kennzeichnungspflichten nach anderen Rechtsvorschriften bleiben unberührt. Sola
 
 2. bei hautresorptiven oder haut- oder augenschädigenden Gefahrstoffen eine Gefährdung durch Haut- oder Augenkontakt besteht oder
 
-3. bei Gefahrstoffen ohne Arbeitsplatzgrenzwert und ohne biologischen Grenzwert eine Gefährdung auf Grund der ihnen zugeordneten Gefahrenklasse nach § 3 und der inhalativen Exposition angenommen werden kann.
+3. bei Gefahrstoffen ohne Arbeitsplatzgrenzwert und ohne biologischen Grenzwert eine Gefährdung auf Grund der ihnen zugeordneten Gefahrenklasse und der inhalativen Exposition angenommen werden kann.
 
 (2) Der Arbeitgeber hat sicherzustellen, dass Gefahrstoffe in einem geschlossenen System hergestellt und verwendet werden, wenn
 
@@ -557,7 +517,7 @@ b) die Auswahl und Verwendung der persönlichen Schutzausrüstung und die damit 
 
 3. Tätigkeiten an asbesthaltigen Materialien in oder an baulichen oder technischen Anlagen, einschließlich Geräten, Maschinen, Fahrzeugen und sonstigen Erzeugnissen.
 
-Die in § 17 Absatz 1 genannten Ausnahmen von Beschränkungen und die Regelungen des Abfallrechts bleiben unberührt.
+Die Regelungen des Abfallrechts bleiben unberührt.
 
 (2) Ausgenommen von den Verboten sind:
 
@@ -609,7 +569,7 @@ b) Tätigkeiten zur funktionalen Instandhaltung baulicher Anlagen, die im Rahmen
 
 2. das Datum des Baubeginns oder des Baujahres nach § 5a Absatz 2 zu berücksichtigen,
 
-3. festzustellen, ob die auszuführenden Tätigkeiten nach § 11 oder § 17 Absatz 1 zulässig sind,
+3. festzustellen, ob die auszuführenden Tätigkeiten nach § 11 zulässig sind,
 
 4. festzustellen, ob die Tätigkeiten zu einer Freisetzung von Asbestfasern führen können,
 
@@ -617,13 +577,15 @@ b) Tätigkeiten zur funktionalen Instandhaltung baulicher Anlagen, die im Rahmen
 
 6. einen Arbeitsplan nach Anhang I Nummer 3.2 zu erstellen.
 
-Wenn gemäß Satz 1 Nummer 2 mit dem Bau des Objekts nach dem 31. Oktober 1993 begonnen wurde, kann in der Regel vermutet werden, dass kein Asbest vorhanden ist. Abweichend von dem in Satz 2 genannten Stichtag gelten für bestimmte asbesthaltige Stoffe, Zubereitungen oder Erzeugnisse andere Übergangsfristen, die in Anhang I Nummer 3.8 aufgeführt sind. Der Arbeitgeber darf Tätigkeiten mit Asbest nur durchführen lassen, wenn diese nach § 11 Absatz 1 bis 5, § 17 Absatz 1 oder § 19 Absatz 1 Satz 1 zulässig sind.
+Wenn gemäß Satz 1 Nummer 2 mit dem Bau des Objekts nach dem 31. Oktober 1993 begonnen wurde, kann in der Regel vermutet werden, dass kein Asbest vorhanden ist. Abweichend von dem in Satz 2 genannten Stichtag gelten für bestimmte asbesthaltige Stoffe, Zubereitungen oder Erzeugnisse andere Übergangsfristen, die in Anhang I Nummer 3.8 aufgeführt sind. Der Arbeitgeber darf Tätigkeiten mit Asbest nur durchführen lassen, wenn diese nach § 11 Absatz 1 bis 5 oder § 19 Absatz 1 Satz 1 zulässig sind.
 
 (2) Der Arbeitgeber darf Tätigkeiten mit Asbest nur durchführen lassen, wenn der Betrieb über die erforderliche sicherheitstechnische, organisatorische und personelle Ausstattung verfügt. Der Arbeitgeber hat vorrangig Arbeitsverfahren anzuwenden und technische Schutzmaßnahmen zu treffen, durch die eine Freisetzung von Asbestfasern verhindert oder minimiert wird. Der Arbeitgeber hat risikobezogen Schutzmaßnahmen nach Anhang I Nummer 3.3 festzulegen und umzusetzen, dabei sind die nach § 20 Absatz 4 bekannt gegebenen Regeln zu berücksichtigen. Der Arbeitgeber hat Maßnahmen zu treffen, durch die eine Gefährdung anderer Personen ausgeschlossen wird.
 
 (3) Betriebe bedürfen einer Zulassung durch die zuständige Behörde, wenn Tätigkeiten im Bereich hohen Risikos ausgeübt werden sollen. Der Arbeitgeber hat die Zulassung nach Anhang I Nummer 3.4 schriftlich oder elektronisch zu beantragen. Die Zulassung wird für einen Zeitraum von maximal sechs Jahren erteilt. Sie kann mit Auflagen sowie mit dem Vorbehalt des Widerrufs erteilt werden. Auflagen können nachträglich angeordnet werden.
 
 (4) Der Arbeitgeber hat Tätigkeiten mit Asbest spätestens eine Woche vor Beginn der Tätigkeiten bei der zuständigen Behörde schriftlich oder elektronisch nach Anhang I Nummer 3.5 anzuzeigen. Art und Umfang der Anzeige sind abhängig vom Risikobereich der Tätigkeiten. Die zuständige Behörde kann in begründeten Fällen auf die Einhaltung der Frist verzichten. Sie kann verlangen, dass ihr die Anzeige elektronisch übermittelt wird, wenn sie hierfür ein Format zur Verfügung stellt. Der Arbeitgeber hat den Beschäftigten und ihrer Vertretung Einsicht in die Anzeige zu gewähren.
+
+(4a) Betriebe bedürfen einer Genehmigung durch die zuständige Behörde, wenn Abbrucharbeiten im Bereich niedrigen Risikos oder im Bereich mittleren Risikos durchgeführt werden sollen. Die Zulassung nach Absatz 3 für Tätigkeiten im Bereich hohen Risikos schließt die Genehmigung nach Satz 1 ein.
 
 (5) Der Arbeitgeber hat bei Tätigkeiten mit Asbest sicherzustellen, dass
 
@@ -767,9 +729,9 @@ Satz 1 gilt nicht, wenn das Biozid-Produkt für eine Verwendung durch die breite
 
 # § 15c – Besondere Anforderungen an die Verwendung bestimmter Biozid-Produkte
 
-(1) Der Arbeitgeber hat die Pflichten nach den Absätzen 2 und 3 zu erfüllen, wenn Biozid-Produkte verwendet werden sollen,
+(1) Der Arbeitgeber hat die Pflichten nach den Absätzen 2 und 3 zu erfüllen, wenn folgende Biozid-Produkte verwendet werden sollen:
 
-1. die eingestuft sind als
+1. Schädlingsbekämpfungsmittel der Hauptgruppe 3 nach Anhang V der Verordnung (EU) Nr. 528/2012, die eingestuft sind als
 
 a) akut toxisch Kategorie 1, 2 oder 3,
 
@@ -781,9 +743,9 @@ c) spezifisch zielorgantoxisch Kategorie 1 SE oder RE oder
 
 (2) Der Arbeitgeber hat bei der zuständigen Behörde schriftlich oder elektronisch gemäß Satz 2 oder 4 anzuzeigen:
 
-1. die erstmalige Verwendung von Biozid-Produkten nach Absatz 1 und
+1. die erstmalige Verwendung von Biozid-Produkten der Hauptgruppe 3 nach Anhang V der Verordnung (EU) Nr. 528/2012 nach Absatz 1 und
 
-2. den Beginn einer erneuten Verwendung von Biozid-Produkten nach Absatz 1 nach einer Unterbrechung von mehr als einem Jahr.
+2. den Beginn einer erneuten Verwendung von Biozid-Produkten der Hauptgruppe 3 nach Anhang V der Verordnung (EU) Nr. 528/2012 nach Absatz 1 nach einer Unterbrechung von mehr als einem Jahr.
 
 Die Anzeige hat spätestens sechs Wochen vor Beginn der Verwendung zu erfolgen. Anhang I Nummer 4.2.1 ist zu beachten. Die zuständige Behörde kann verlangen, dass ihr die Anzeige elektronisch übermittelt wird, wenn sie hierfür ein Format zur Verfügung stellt. Änderungen bezüglich der Angaben nach Satz 1 hat der Arbeitgeber der zuständigen Behörde unverzüglich anzuzeigen.
 
@@ -921,15 +883,7 @@ b) innerhalb ortsfester Sterilisationskammern.
 
 # § 17 – Nationale Ausnahmen von Beschränkungsregelungen nach der Verordnung (EG) Nr. 1907/2006
 
-(1) Für am 1. Dezember 2010 bestehende Anlagen gelten die Beschränkungen nach Artikel 67 in Verbindung mit Anhang XVII Nummer 6 der Verordnung (EG) Nr. 1907/2006 bis zum 1. Juli 2025 nicht für das Verwenden chrysotilhaltiger Diaphragmen für die Chloralkalielektrolyse oder für das Verwenden von Chrysotil, das ausschließlich zur Wartung dieser Diaphragmen eingesetzt wird, wenn
-
-1. keine asbestfreien Ersatzstoffe, Gemische oder Erzeugnisse auf dem Markt angeboten werden oder
-
-2. die Verwendung der asbestfreien Ersatzstoffe, Gemische oder Erzeugnisse zu einer unzumutbaren Härte führen würde
-
-und die Konzentration der Asbestfasern in der Luft am Arbeitsplatz unterhalb von 1 000 Fasern je Kubikmeter liegt. Betreiber von Anlagen, die von der Regelung nach Satz 1 Gebrauch machen, übermitteln der Bundesstelle für Chemikalien bis zum 31. Januar eines jeden Kalenderjahres einen Bericht, aus dem die Menge an Chrysotil hervorgeht, die in Diaphragmen, die unter diese Ausnahmeregelung fallen, im Vorjahr verwendet wurde. Die Ergebnisse der Arbeitsplatzmessungen sind in den Bericht aufzunehmen. Die Bundesstelle für Chemikalien übermittelt der Europäischen Kommission eine Kopie des Berichts.
-
-(2) Das Verwendungsverbot nach Artikel 67 in Verbindung mit Anhang XVII Nummer 16 und 17 der Verordnung (EG) Nr. 1907/2006 gilt nicht für die Verwendung der dort genannten Bleiverbindungen in Farben, die zur Erhaltung oder originalgetreuen Wiederherstellung von Kunstwerken und historischen Bestandteilen oder von Einrichtungen denkmalgeschützter Gebäude bestimmt sind, wenn die Verwendung von Ersatzstoffen nicht möglich ist.
+Das Verwendungsverbot nach Artikel 67 in Verbindung mit Anhang XVII Nummer 16 und 17 der Verordnung (EG) Nr. 1907/2006 gilt nicht für die Verwendung der dort genannten Bleiverbindungen in Farben, die zur Erhaltung oder originalgetreuen Wiederherstellung von Kunstwerken und historischen Bestandteilen oder von Einrichtungen denkmalgeschützter Gebäude bestimmt sind, wenn die Verwendung von Ersatzstoffen nicht möglich ist.
 
 # § 18 – Unterrichtung der Behörde
 
@@ -999,9 +953,11 @@ e) durchgeführte Substitutionen.
 
 Bei Gefahr im Verzug können die Anordnungen auch gegenüber weisungsberechtigten Personen im Betrieb erlassen werden.
 
-(4) Der zuständigen Behörde ist auf Verlangen ein Nachweis vorzulegen, dass die Gefährdungsbeurteilung fachkundig nach § 6 Absatz 9 erstellt wurde.
+(4) Der zuständigen Behörde ist auf Verlangen ein Nachweis vorzulegen, dass die Gefährdungsbeurteilung fachkundig nach § 6 Absatz 11 erstellt wurde.
 
 (5) Die zuständige Behörde kann dem Arbeitgeber untersagen, Tätigkeiten mit Gefahrstoffen auszuüben oder ausüben zu lassen, und insbesondere eine Stilllegung der betroffenen Arbeitsbereiche anordnen, wenn der Arbeitgeber der Mitteilungspflicht nach § 18 Absatz 2 Nummer 1 nicht nachkommt.
+
+(6) Die zuständige Behörde veröffentlicht eine Liste der Betriebe mit Zulassung nach § 11a Absatz 3 oder mit Genehmigung nach § 11a Absatz 4a oder lässt diese in einer von einer zentralen Stelle geführten Liste veröffentlichen.
 
 # § 19a – Anerkennung ausländischer Qualifikationen
 
@@ -1027,15 +983,7 @@ Bei Gefahr im Verzug können die Anordnungen auch gegenüber weisungsberechtigte
 
 a) bei der Festlegung dieser Grenzwerte und Konzentrationen sicherzustellen ist, dass der Schutz der Gesundheit der Beschäftigten gewahrt ist,
 
-b) für jeden Stoff, für den ein Arbeitsplatzgrenzwert oder ein biologischer Grenzwert in Rechtsakten der Europäischen Union festgelegt worden ist, unter Berücksichtigung dieses Grenzwerts ein nationaler Grenzwert vorzuschlagen ist; dabei sind die entsprechenden Bestimmungen der folgenden Richtlinien in der jeweils geltenden Fassung zu berücksichtigen:
-
-aa)  
-Richtlinie 98/24/EG des Rates vom 7. April 1998 zum Schutz von Gesundheit und Sicherheit der Arbeitnehmer vor der Gefährdung durch chemische Arbeitsstoffe bei der Arbeit (vierzehnte Einzelrichtlinie im Sinne des Artikels 16 Absatz 1 der Richtlinie 89/391/EWG) (ABl. L 131 vom 5.5.1998, S. 11), die zuletzt durch die Verordnung (EU) 2019/1243 (ABl. L 198 vom 25.7.2019, S. 241) geändert worden ist, einschließlich der Richtlinien über Arbeitsplatzgrenzwerte, die nach Artikel 3 Absatz 2 der Richtlinie 98/24/EG erlassen wurden,
-
-bb)  
-Richtlinie 2004/37/EG des Europäischen Parlaments und des Rates vom 29. April 2004 über den Schutz der Arbeitnehmer gegen Gefährdung durch Karzinogene oder Mutagene bei der Arbeit (Sechste Einzelrichtlinie im Sinne von Artikel 16 Absatz 1 der Richtlinie 89/391/EWG des Rates) (kodifizierte Fassung) (ABl. L 158 vom 30.4.2004, S. 50), die zuletzt durch die Richtlinie (EU) 2022/431 (ABl. L 088 vom 16.3.2022, S. 1) geändert worden ist, sowie
-
-cc) Richtlinie 2009/148/EG des Europäischen Parlaments und des Rates vom 30. November 2009 über den Schutz der Arbeitnehmer gegen Gefährdung durch Asbest am Arbeitsplatz (ABl. L 330 vom 16.12.2009, S. 28), die zuletzt durch die Verordnung (EU) 2019/1243 (ABl. L 198 vom 25.7.2019, S. 241) geändert worden ist.
+b) für jeden Stoff, für den ein Arbeitsplatzgrenzwert oder ein biologischer Grenzwert in Rechtsakten der Europäischen Union festgelegt worden ist, unter Berücksichtigung dieses Grenzwerts ein nationaler Grenzwert vorzuschlagen ist; dabei sind die entsprechenden Bestimmungen der Richtlinien 98/24/EG, 2004/37/EG und 2009/148/EG zu berücksichtigen.
 
 Das Arbeitsprogramm des Ausschusses für Gefahrstoffe wird mit dem Bundesministerium für Arbeit und Soziales abgestimmt, wobei die Letztentscheidungsbefugnis beim Bundesministerium für Arbeit und Soziales liegt. Der Ausschuss arbeitet eng mit den anderen Ausschüssen beim Bundesministerium für Arbeit und Soziales zusammen.
 
@@ -1062,6 +1010,8 @@ Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 8 Buchstabe b des Chemikalieng
 3a. entgegen § 10a Absatz 5 Satz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
 3b. entgegen § 11a Absatz 4 Satz 1 in Verbindung mit Anhang I Nummer 3.5 Absatz 2 oder Absatz 3 Satz 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
+
+3c. entgegen § 11a Absatz 4a Satz 1 in Verbindung mit Anhang I Nummer 3.5 Absatz 2a eine Genehmigung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig beantragt,
 
 4. entgegen § 15c Absatz 2 Satz 1 oder Satz 3, § 15d Absatz 3 Satz 1, § 15g Absatz 3 Satz 3 oder § 18 Absatz 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet oder
 
@@ -1117,9 +1067,11 @@ Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 8 Buchstabe b des Chemikalieng
 
 17d. entgegen § 11a Absatz 1 Satz 1 Nummer 6 in Verbindung mit Anhang I Nummer 3.2 Satz 1 einen Arbeitsplan nicht oder nicht rechtzeitig erstellt,
 
-17e. entgegen § 11a Absatz 5 Satz 1 Nummer 1 erster Halbsatz nicht sicherstellt, dass eine dort genannte Aufgabe durch eine dort genannte Person erfolgt,
+17e. entgegen § 11a Absatz 2 Satz 3 in Verbindung mit Anhang I Nummer 3.3 Absatz 2 Satz 1 einen Schutzanzug nicht oder nicht richtig zur Verfügung stellt,
 
-17f. entgegen § 11a Absatz 5 Satz 1 Nummer 2 erster Halbsatz nicht sicherstellt, dass eine Tätigkeit durch eine dort genannte Person beaufsichtigt wird
+17f. entgegen § 11a Absatz 5 Satz 1 Nummer 1 erster Halbsatz nicht sicherstellt, dass eine dort genannte Aufgabe durch eine dort genannte Person erfolgt,
+
+17g. entgegen § 11a Absatz 5 Satz 1 Nummer 2 erster Halbsatz nicht sicherstellt, dass eine Tätigkeit durch eine dort genannte Person beaufsichtigt wird
 
 18. entgegen § 12 Absatz 1 Satz 3 in Verbindung mit Anhang I Nummer 1.3 Absatz 2 Satz 1 das Rauchen oder die Verwendung von offenem Feuer oder offenem Licht nicht verbietet,
 
@@ -1214,6 +1166,8 @@ Für diese Biozid-Produkte sind bis zur Erteilung einer Zulassung die entspreche
 (7) Für anerkannte Sachkunden nach Anhang I Nummer 4.4 Absatz 1 Satz 3 und gleichgestellte Sachkunden nach Anhang I Nummer 4.4 Absatz 2 ist der Abschluss eines behördlich anerkannten Fortbildungslehrgangs erstmals abweichend von Anhang I Nummer 4.4 Absatz 5 spätestens bis zum 28. Juli 2027 nachzuweisen.
 
 (8) Zulassungen, die nach Anhang I Nummer 2.4.2 in der am 1. Januar 2022 geltenden Fassung erteilt wurden, gelten fort bis zum 5. Dezember 2028. Betriebe, die mit dem 5. Dezember 2024 erstmals einer Zulassung nach § 11a Absatz 3 bedürfen, haben diese spätestens bis zum 5. Dezember 2025 zu beantragen. Die zulassungsrelevanten Anforderungen der nach § 20 Absatz 4 bekannt gegebenen Regeln und Erkenntnisse sind bereits während der Übergangsfrist zu berücksichtigen.
+
+(9) Bei Abbrucharbeiten mit Asbest im Bereich niedrigen und mittleren Risikos ist eine Genehmigung nach § 11a Absatz 4a bis zum Ablauf des 19. Dezember 2026 nachzuweisen.
 
 # Anhang I – (zu § 8 Absatz 8, § 11a Absatz 1 bis 6, § 12 Absatz 1 und 4, § 15b Absatz 3, § 15c Absatz 2 und 3, § 15d Absatz 1, 3, 4, 6 und 7, § 15f Absatz 2, § 15g Absatz 2)Besondere Vorschriften für bestimmte Gefahrstoffe und Tätigkeiten
 
@@ -1429,7 +1383,7 @@ Im Arbeitsplan nach § 11a Absatz 1 Nummer 6 hat der Arbeitgeber insbesondere Fo
 
 3. das Verfahren, nach dem überprüft wird, dass im Arbeitsbereich nach Abschluss der Tätigkeiten keine Gefährdung durch Asbest mehr besteht.
 
-Bei Durchführung der Tätigkeiten mit einem anerkannten emissionsarmen Verfahren nach § 2 Absatz 4b kann die dem Verfahren zugrundeliegende Beschreibung den Arbeitsplan ersetzen.
+Bei Durchführung der Tätigkeiten mit einem anerkannten emissionsarmen Verfahren nach § 2 Absatz 4c kann die dem Verfahren zugrundeliegende Beschreibung den Arbeitsplan ersetzen.
 
 3.3
 
@@ -1491,7 +1445,7 @@ Anzeige
 
 (1) Die Anzeige nach § 11a Absatz 4 erfolgt unternehmens- oder objektbezogen. Die Anzeige ist vor einer Änderung der Arbeitsbedingungen, die zu einer erheblichen Erhöhung der Exposition der Beschäftigten führen kann, erneut vorzunehmen. Der Anzeige ist die Dokumentation der Gefährdungsbeurteilung einschließlich des Arbeitsplans sowie der Nachweis der Qualifikation der verantwortlichen und aufsichtführenden Personen beizufügen.
 
-(2) Tätigkeiten im Bereich niedrigen oder mittleren Risikos sind unternehmensbezogen anzuzeigen. In der unternehmensbezogenen Anzeige hat der Arbeitgeber anzugeben:
+(2) Tätigkeiten im Bereich niedrigen oder mittleren Risikos sind unternehmensbezogen anzuzeigen. In der unternehmensbezogenen Anzeige hat der Arbeitgeber anzugeben beziehungsweise vorzulegen:
 
 1. Ort der Betriebsstätte,
 
@@ -1503,11 +1457,23 @@ Anzeige
 
 5. Anzahl der fachkundigen Beschäftigten,
 
+5a. Vor- und Nachname der voraussichtlich eingesetzten Beschäftigten,
+
+5b. einen Nachweis der fachlichen Kenntnisse und Fertigkeiten nach Anhang I Nummer 3.6 der voraussichtlich eingesetzten Beschäftigten und einen Nachweis über deren letzte arbeitsmedizinische Vorsorge nach § 3 der Verordnung zur arbeitsmedizinischen Vorsorge,
+
 6. Maßnahmen zur Begrenzung der Asbestexposition der Beschäftigten,
 
 7. Angaben zur verantwortlichen und aufsichtführenden Person.
 
 Unternehmensbezogene Anzeigen sind spätestens nach sechs Jahren erneut vorzunehmen.
+
+(2a) Die Genehmigung nach § 11a Absatz 4a wird aufgrund einer unternehmensbezogenen Anzeige nach Absatz 2 erteilt, wenn der Arbeitgeber dies im Rahmen der Anzeige anfordert und nachgewiesen hat, dass
+
+1. die für die Tätigkeiten notwendige personelle und sicherheitstechnische Ausstattung gegeben ist und
+
+2. die Einhaltung der einschlägigen Arbeitsschutzvorschriften gewährleistet ist.
+
+Die Genehmigung gilt nach Ablauf einer Frist von vier Wochen nach Eingang der unternehmensbezogenen Anzeige nach Absatz 2 als erteilt, sofern die Behörde in dieser Zeit keine Einwände erhebt. Die Genehmigung wird für einen Zeitraum von sechs Jahren erteilt. Sie kann mit Auflagen sowie mit dem Vorbehalt des Widerrufs erteilt werden. Auflagen können nachträglich angeordnet werden. Sie kann widerrufen werden, wenn die Voraussetzungen nach Satz 1 nicht mehr erfüllt sind. In begründeten Fällen kann eine kürzere Befristung als sechs Jahre festgelegt werden.
 
 (3) Bei wechselnden Arbeitsstätten
 
@@ -1521,7 +1487,7 @@ Für anerkannte emissionsarme Verfahren kann in den nach § 20 Absatz 4 bekannt 
 
 Fachkunde
 
-(1) Die Fachkunde nach § 11a Absatz 5 Nummer 3 umfasst die fachlichen Kenntnisse und Fertigkeiten, die erforderlich sind, um Tätigkeiten mit Asbest fachgerecht durchzuführen. Hinsichtlich Inhalt, Umfang und Bescheinigung der erforderlichen Fachkenntnisse sind die nach § 20 Absatz 4 bekannt gegebenen Regeln und Erkenntnisse zu berücksichtigen.
+(1) Die Fachkunde nach § 11a Absatz 5 Nummer 3 umfasst auch die fachlichen Kenntnisse und Fertigkeiten, die erforderlich sind, um Tätigkeiten mit Asbest fachgerecht durchzuführen. Hinsichtlich Inhalt, Umfang und Bescheinigung der erforderlichen Fachkenntnisse sind die nach § 20 Absatz 4 bekannt gegebenen Regeln und Erkenntnisse zu berücksichtigen.
 
 (2) Die spezifische praxisbezogene Fortbildungsmaßnahme für eine aufsichtführende Person nach § 11a Absatz 5 Satz 3 ist von einer Körperschaft des öffentlichen Rechts oder einem gewerkespezifischen Fachverband durchzuführen. Sie bedarf keiner behördlichen Anerkennung. Der Lehrgangsträger hat der zuständigen Behörde die Durchführung entsprechender Qualifizierungsmaßnahmen einmal vor Beginn des jeweils ersten Lehrgangs mitzuteilen. Die Qualifikationsmaßnahme umfasst keine abschließende Prüfung. Die Teilnahme wird durch einen Qualifikationsnachweis bescheinigt. Der Qualifikationsnachweis ist zeitlich nicht befristet.
 
@@ -1819,7 +1785,7 @@ ammoniumnitrathaltige Gemische für die Zuordnung zu einer der Gruppen nach Numm
 
 (8) Ammoniumnitrat und ammoniumnitrathaltige Gemische, die den in Absatz 7 Tabelle 1 festgelegten Rahmenzusammensetzungen und Grenzen innerhalb der Gruppen A, B, C, D oder E nicht zuzuordnen sind oder den Voraussetzungen der Absätze 2 und 5 nicht entsprechen, dürfen nur nach Vorliegen eines Gutachtens der Bundesanstalt für Materialforschung und -prüfung über ihre Gefährlichkeit und nach Maßgabe der darin festgelegten Anforderungen gelagert, abgefüllt oder innerbetrieblich befördert werden.
 
-(9) Ammoniumnitrathaltige Gemische der Gruppe B können nach den für die Gruppe C geltenden Vorschriften gelagert, abgefüllt oder innerbetrieblich befördert werden, wenn diese Zubereitungen nach einem Gutachten der Bundesanstalt für Materialforschung und -prüfung frei von den Gefahren einer selbstunterhaltenden fortschreitenden thermischen Zersetzung sind.
+(9) Ammoniumnitrathaltige Gemische der Gruppe B können nach den für die Gruppe C geltenden Vorschriften gelagert, abgefüllt oder innerbetrieblich befördert werden, wenn diese Gemische nach einem Gutachten der Bundesanstalt für Materialforschung und -prüfung frei von den Gefahren einer selbstunterhaltenden fortschreitenden thermischen Zersetzung sind.
 
 (10) Bei Zuordnung von Ammoniumnitrat und ammoniumnitrathaltigen Gemischen nach den Absätzen 3, 8 oder 9 ist die Kennzeichnung der Gruppe entsprechend dem Gutachten der Bundesanstalt für Materialforschung und -prüfung vorzunehmen.
 
@@ -1850,7 +1816,7 @@ Zusätzliche Maßnahmen für Stoffe und Gemische der Gruppen und Untergruppen A,
 5.4.2.1  
 Allgemeine Maßnahmen
 
-(1) Ausgelaufene oder verschüttete Stoffe und Gemische und verunreinigte Stoffe und Zubereitungen müssen unmittelbar verbraucht oder gefahrlos beseitigt werden.
+(1) Ausgelaufene oder verschüttete Stoffe und Gemische und verunreinigte Stoffe und Gemische müssen unmittelbar verbraucht oder gefahrlos beseitigt werden.
 
 (2) Die Stoffe und Gemische der Gruppe A dürfen nur verpackt gelagert und befördert werden.
 
@@ -1960,7 +1926,7 @@ Stoffe und Gemische der Untergruppen A I und A II sowie Gemische mit inerten Sto
 
 2. abweichend von Nummer 5.4.2.2 Absatz 5 und 6 mit einem Schutzabstand, der der Hälfte des dort geforderten Werts entspricht, gelagert werden.
 
-Voraussetzung hierfür ist der Nachweis durch ein Gutachten der Bundesanstalt für Materialforschung und -prüfung, dass die Stoffe und Zubereitungen der Untergruppen A I, A II und A IV die Beschaffenheitsanforderungen des Anhangs III der Verordnung (EG) Nr. 2003/2003 des Europäischen Parlaments und des Rates vom 13. Oktober 2003 über Düngemittel (ABl. L 304 vom 21.11.2003, S. 1), die zuletzt durch die Verordnung (EG) Nr. 1020/2009 (ABl. L 282 vom 29.10.2009, S. 7) geändert worden ist, erfüllen und Stoffe und Zubereitungen der Gruppe E nicht detonationsfähig sind.
+Voraussetzung hierfür ist der Nachweis durch ein Gutachten der Bundesanstalt für Materialforschung und -prüfung, dass die Stoffe und Gemische der Untergruppen A I, A II und A IV die Beschaffenheitsanforderungen des Anhangs III der Verordnung (EG) Nr. 2003/2003 des Europäischen Parlaments und des Rates vom 13. Oktober 2003 über Düngemittel (ABl. L 304 vom 21.11.2003, S. 1), die zuletzt durch die Verordnung (EG) Nr. 1020/2009 (ABl. L 282 vom 29.10.2009, S. 7) geändert worden ist, erfüllen und Stoffe und Gemische der Gruppe E nicht detonationsfähig sind.
 
 5.5.2  
 Erleichternde Bestimmungen für ammoniumnitrat- und sprengstoffherstellende Betriebe

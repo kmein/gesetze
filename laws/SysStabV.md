@@ -59,7 +59,7 @@ a) bei KWK-Anlagen: der Zeitpunkt der Zulassung im Sinne des § 6 Absatz 2 Satz 
 
 b) bei sonstigen Anlagen im Sinne von § 2: die Inbetriebnahme einer Anlage gemäß § 3 Nummer 5 des Erneuerbare-Energien-Gesetzes vom 25. Oktober 2008 (BGBl. I S. 2074) in der am 31. Dezember 2011 geltenden Fassung,
 
-5. „Netzbetreiber“ in Abweichung von § 3 Nummer 27 des Energiewirtschaftsgesetzes, wer ein Elektrizitätsverteilernetz oder ein Übertragungsnetz betreibt, an das Anlagen im Sinne von § 2 Absatz 2 unmittelbar angeschlossen sind,
+5. „Netzbetreiber“ in Abweichung von § 3 Nummer 77 des Energiewirtschaftsgesetzes, wer ein Elektrizitätsverteilernetz oder ein Übertragungsnetz betreibt, an das Anlagen im Sinne von § 2 Absatz 2 unmittelbar angeschlossen sind,
 
 6. „Betreiber von Entkupplungsschutzeinrichtungen“, wer unabhängig vom Eigentum eine Entkupplungsschutzeinrichtung betreibt.
 
@@ -269,7 +269,7 @@ In den Fällen nach Satz 1 Nummer 1 und 2 sind nicht die gemäß § 12 Satz 2 Nu
 
 (3) Der Betreiber des Übertragungsnetzes ist berechtigt, einen gemäß Absatz 2 Nummer 2 vorab übersandten Kostenvoranschlag innerhalb von vier Wochen ab Zugang durch eine schriftliche oder elektronische Mitteilung an den Betreiber der Anlage zu beanstanden, wenn
 
-1. die Höhe des Kostenvoranschlags die Kosten für entsprechende Maßnahmen an vergleichbaren Anlagen in der Regelzone im Sinne von § 3 Nummer 30 des Energiewirtschaftsgesetzes des Betreibers des Übertragungsnetzes deutlich übersteigt oder
+1. die Höhe des Kostenvoranschlags die Kosten für entsprechende Maßnahmen an vergleichbaren Anlagen in der Regelzone im Sinne von § 3 Nummer 88 des Energiewirtschaftsgesetzes des Betreibers des Übertragungsnetzes deutlich übersteigt oder
 
 2. der Kostenvoranschlag aus anderen Gründen nicht nachvollziehbar ist.
 

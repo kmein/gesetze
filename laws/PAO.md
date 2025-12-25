@@ -421,7 +421,7 @@ Satz 1 Nummer 2 gilt nicht für die Verschwiegenheitspflichten der für eine Ber
 
 # § 35 – Ersetzung der Schriftform
 
-Ist nach diesem Gesetz für die Abgabe einer Erklärung die Schriftform vorgeschrieben, so kann die Erklärung auch über das besondere elektronische Bürger- und Organisationenpostfach abgegeben werden, wenn Erklärender und Empfänger über ein solches verfügen. Ist die Erklärung von einer natürlichen Person abzugeben, so ist das Dokument mit einer qualifizierten elektronischen Signatur der Person zu versehen oder von ihr zu signieren und selbst zu versenden. Andere Postfächer nach § 130a Absatz 4 Satz 1 Nummer 2, 3 und 5 der Zivilprozessordnung stehen dem besonderen elektronischen Bürger- und Organisationenpostfach nach Satz 1 gleich.
+Ist nach diesem Gesetz für die Abgabe einer Erklärung die Schriftform vorgeschrieben, so kann die Erklärung auch über das besondere elektronische Bürger- und Organisationenpostfach abgegeben werden, wenn Erklärender und Empfänger über ein solches verfügen. Ist die Erklärung von einer natürlichen Person abzugeben, so ist das Dokument mit einer qualifizierten elektronischen Signatur der Person zu versehen oder von ihr zu signieren und selbst zu versenden. Andere Postfächer nach § 130a Absatz 4 Satz 1 Nummer 1, 2 und 4 der Zivilprozessordnung stehen dem besonderen elektronischen Bürger- und Organisationenpostfach nach Satz 1 gleich.
 
 # §§ 36 bis 38 – (weggefallen)
 

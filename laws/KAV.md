@@ -7,7 +7,7 @@ Auf Grund des § 7 Abs. 1 und des § 12 des Energiewirtschaftsgesetzes in der im
 
 # § 1 – Anwendungsbereich
 
-(1) Diese Verordnung regelt Zulässigkeit und Bemessung der Zahlung von Konzessionsabgaben der Energieversorgungsunternehmen im Sinne des § 3 Nr. 18 des Energiewirtschaftsgesetzes an Gemeinden und Landkreise (§ 7).
+(1) Diese Verordnung regelt Zulässigkeit und Bemessung der Zahlung von Konzessionsabgaben der Energieversorgungsunternehmen im Sinne des § 3 Nummer 39 des Energiewirtschaftsgesetzes an Gemeinden und Landkreise (§ 7).
 
 (2) Konzessionsabgaben sind Entgelte für die Einräumung des Rechts zur Benutzung öffentlicher Verkehrswege für die Verlegung und den Betrieb von Leitungen, die der unmittelbaren Versorgung von Letztverbrauchern im Gemeindegebiet mit Strom und Gas dienen.
 

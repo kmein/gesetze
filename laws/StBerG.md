@@ -2079,7 +2079,7 @@ f) ihrer Löschung.
 
 # § 86g – Ersetzung der Schriftform
 
-Ist nach diesem Gesetz oder einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung für die Abgabe einer Erklärung die Schriftform vorgeschrieben, so kann die Erklärung auch über das besondere elektronische Steuerberaterpostfach abgegeben werden, wenn Erklärender und Empfänger über ein solches verfügen. Ist die Erklärung von einer natürlichen Person abzugeben, so ist das Dokument mit einer qualifizierten elektronischen Signatur zu versehen oder von ihr zu signieren und selbst zu versenden. Andere Postfächer nach § 130a Absatz 4 Satz 1 Nummer 2 bis 5 der Zivilprozessordnung stehen dem besonderen elektronischen Steuerberaterpostfach nach Satz 1 gleich.
+Ist nach diesem Gesetz oder einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung für die Abgabe einer Erklärung die Schriftform vorgeschrieben, so kann die Erklärung auch über das besondere elektronische Steuerberaterpostfach abgegeben werden, wenn Erklärender und Empfänger über ein solches verfügen. Ist die Erklärung von einer natürlichen Person abzugeben, so ist das Dokument mit einer qualifizierten elektronischen Signatur zu versehen oder von ihr zu signieren und selbst zu versenden. Andere Postfächer nach § 130a Absatz 4 Satz 1 Nummer 1 bis 4 der Zivilprozessordnung stehen dem besonderen elektronischen Steuerberaterpostfach nach Satz 1 gleich.
 
 # § 87 – Beiträge zur Bundessteuerberaterkammer
 

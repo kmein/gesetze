@@ -450,7 +450,8 @@ Der Schwellenwert von 36 MW für zur Erbringung von Primärregelleistung präqua
 
 # Anhang 2 – (zu § 1 Absatz 1 Nummer 2 und 3, § 3 Absatz 4 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Wasser
 
-(Fundstelle: BGBl. I 2016,963 - 964)
+(Fundstelle: BGBl. I 2016,963 - 964  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1. Im Sinne von Anhang 2 ist oder sind
 
@@ -502,7 +503,8 @@ d) unter gemeinsamer Leitung stehen.
 
 # Anhang 3 – (zu § 1 Absatz 1 Nummer 2 und 3, § 4 Absatz 3 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Ernährung
 
-(Fundstelle: BGBl. I 2016,965 - 966)
+(Fundstelle: BGBl. I 2016,965 - 966  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1. Für die in Teil 3 Spalte B Nummer 1 genannten Anlagenkategorien gelten grundsätzlich die Begriffsbestimmungen des § 3 Nummer 1 bis 3 des Lebensmittel-, Bedarfsgegenstände- und Futtermittelgesetzbuches in der jeweils geltenden Fassung.
 
@@ -568,7 +570,8 @@ d) unter gemeinsamer Leitung stehen.
 
 # Anhang 4 – (zu § 1 Absatz 1 Nummer 2 und 3, § 5 Absatz 4 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Informationstechnik und Telekommunikation
 
-(Fundstelle: BGBl. I 2016, 967 - 969)
+(Fundstelle: BGBl. I 2016, 967 - 969  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1. Für die in Teil 3 Spalte B genannten Anlagenkategorien gelten vorrangig die Begriffsbestimmungen nach § 3 des Telekommunikationsgesetzes in der jeweils geltenden Fassung.
 
@@ -671,7 +674,8 @@ c) unter gemeinsamer Leitung oder Steuerung stehen.
 
 # Anhang 5 – (zu § 1 Absatz 1 Nummer 2 und 3, § 6 Absatz 6 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Gesundheit
 
-(Fundstelle: BGBl. I 2017, 1910 — 1912)
+(Fundstelle: BGBl. I 2017, 1910 — 1912  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1. Im Sinne von Anhang 5 ist oder sind
 
@@ -956,7 +960,8 @@ pro Jahr und eines Regelschwellenwertes von 500 000 versorgten Personen wie fol
 
 # Anhang 7 – (zu § 1 Absatz 1 Nummer 2 und 3, § 8 Absatz 3 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Transport und Verkehr
 
-(Fundstelle: BGBl. I 2017, 1918 - 1922)
+(Fundstelle: BGBl. I 2017, 1918 - 1922  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1. Im Sinne von Anhang 7 ist oder sind
 
@@ -1160,7 +1165,8 @@ Das ermittelte Gewicht von 17 550 000 Tonnen pro Jahr entspricht unter Annahme
 
 # Anhang 8 – (zu § 1 Absatz 1 Nummer 2 und 3, § 9 Absatz 3 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Siedlungsabfallentsorgung
 
-(Fundstelle: BGBl. 2023 I Nr. 339, S. 2 – 4)
+(Fundstelle: BGBl. 2023 I Nr. 339, S. 2 – 4  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1. Im Sinne von Anhang 8 ist oder sind
 

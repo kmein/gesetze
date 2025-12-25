@@ -121,7 +121,7 @@ b) Reduktion des Wirkleistungsbezugs im Fall einer regelbaren Last,
 
 Das Wahlrecht ist innerhalb eines Monats ab Unterrichtung durch die Übertragungsnetzbetreiber nach § 18 Absatz 1 auszuüben. Übt der Betreiber der regelbaren Last das Wahlrecht nicht fristgemäß aus, gilt die Variante in Satz 1 Nummer 1 als gewählt. Der Betreiber ist an seine Wahl gebunden.
 
-(6) Baut der Betreiber die Erzeugungsanlage oder den Speicher ab und baut er sie vollständig oder teilweise an einem anderen Standort wieder auf, darf der in dieser Anlage nach dem Wiederaufbau erzeugte Strom nur außerhalb der europäischen Strommärkte nach § 3 Nummer 18d des Energiewirtschaftsgesetzes vermarktet werden. Satz 1 ist entsprechend für die Verwendung des erzeugten Stroms für den Eigenverbrauch anzuwenden.
+(6) Baut der Betreiber die Erzeugungsanlage oder den Speicher ab und baut er sie vollständig oder teilweise an einem anderen Standort wieder auf, darf der in dieser Anlage nach dem Wiederaufbau erzeugte Strom nur außerhalb der europäischen Strommärkte nach § 3 Nummer 43 des Energiewirtschaftsgesetzes vermarktet werden. Satz 1 ist entsprechend für die Verwendung des erzeugten Stroms für den Eigenverbrauch anzuwenden.
 
 (7) Die Absätze 2 bis 6 sind auch auf Rechtsnachfolger des Betreibers sowie im Falle der vollständigen oder teilweisen Veräußerung der Anlage auf deren Erwerber anzuwenden.
 
@@ -198,7 +198,7 @@ Die Übertragungsnetzbetreiber dürfen in Abstimmung mit der Bundesnetzagentur d
 
 2. für regelbare Lasten Anforderungen an die verbindliche Meldung des für den Folgetag insgesamt geplanten Verbrauchs der Anlage; wobei die Meldung vor Handelsschluss des vortägigen Börsenhandels erfolgen muss,
 
-3. informationstechnische und organisatorische Anforderungen, die sich an den Anforderungen für die Erbringung von Minutenreserveleistung nach § 3 Nummer 26e des Energiewirtschaftsgesetzes orientieren,
+3. informationstechnische und organisatorische Anforderungen, die sich an den Anforderungen für die Erbringung von Minutenreserveleistung nach § 3 Nummer 76 des Energiewirtschaftsgesetzes orientieren,
 
 4. zur erforderlichen Fahrplangenauigkeit für die Aktivierung nach § 25, den Abruf nach § 26, den Funktionstest nach § 28, den Probeabruf nach § 29 sowie Nachbesserungen nach § 30 und
 

@@ -900,6 +900,8 @@ Weitergehende Regelungen zur Umsetzung völkerrechtlicher Verpflichtungen von Bu
 
 (2) Sofern keine Verpflichtung zur Durchführung einer Umweltverträglichkeitsprüfung besteht, bedarf das Vorhaben der Plangenehmigung. Die Plangenehmigung entfällt in Fällen von unwesentlicher Bedeutung. Diese liegen vor, wenn die Prüfwerte nach § 7 Absatz 1 und 2 für Größe und Leistung, die die Vorprüfung eröffnen, nicht erreicht werden oder die Voraussetzungen des § 74 Absatz 7 Satz 2 des Verwaltungsverfahrensgesetzes erfüllt sind; die §§ 10 bis 12 gelten entsprechend. Die Sätze 2 und 3 gelten nicht für Errichtung, Betrieb und Änderung von Rohrleitungsanlagen zum Befördern wassergefährdender Stoffe sowie für die Änderung ihres Betriebs, ausgenommen Änderungen von unwesentlicher Bedeutung.
 
+(3) Für Vorhaben, die in der Anlage 1 Nummer 19.7 oder 19.8 aufgeführt sind und die zugleich die Errichtung, den Betrieb oder die Änderung von Wärmeleitungen betreffen, ist anstelle der Absätze 1 und 2 sowie anstelle der §§ 66 bis 69 der § 8 des Geothermie-Beschleunigungsgesetzes vom 22. Dezember 2025 (BGBl. 2025 I Nr. 348, S. 2) anzuwenden.
+
 # § 66 – Entscheidung; Nebenbestimmungen; Verordnungsermächtigung
 
 (1) Der Planfeststellungsbeschluss darf nur ergehen, wenn

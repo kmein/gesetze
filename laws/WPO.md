@@ -1254,7 +1254,7 @@ Die Kommission für Qualitätskontrolle kann im Einvernehmen mit der Abschlusspr
 
 # § 58b – Elektronische Kommunikation mit den Mitgliedern
 
-Diejenigen Mitglieder der Wirtschaftsprüferkammer, die über ein E-Mail-Postfach oder ein Postfach nach § 130a Absatz 4 Satz 1 Nummer 2, 4 oder 5 der Zivilprozessordnung verfügen, haben deren Adressen der Wirtschaftsprüferkammer zum Zwecke der elektronischen Kommunikation mitzuteilen, sofern dem keine wesentlichen Gründe entgegenstehen.
+Diejenigen Mitglieder der Wirtschaftsprüferkammer, die über ein E-Mail-Postfach oder ein Postfach nach § 130a Absatz 4 Satz 1 Nummer 1, 3 oder 4 der Zivilprozessordnung verfügen, haben deren Adressen der Wirtschaftsprüferkammer zum Zwecke der elektronischen Kommunikation mitzuteilen, sofern dem keine wesentlichen Gründe entgegenstehen.
 
 # § 59 – Organe; Kammerversammlungen
 

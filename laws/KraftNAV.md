@@ -31,7 +31,7 @@ Auf Grund des § 17 Abs. 3 Satz 1 in Verbindung mit Satz 2, des § 24 Satz 1 Nr.
 
 # § 1 – Anwendungsbereich
 
-(1) Diese Verordnung regelt Bedingungen für den Netzanschluss von Anlagen zur Erzeugung von elektrischer Energie (Erzeugungsanlagen) mit einer Nennleistung ab 100 Megawatt an Elektrizitätsversorgungsnetze mit einer Spannung von mindestens 110 Kilovolt.
+(1) Diese Verordnung regelt Bedingungen für den Netzanschluss von Anlagen zur Erzeugung von elektrischer Energie (Erzeugungsanlagen) mit einer Nennleistung ab 100 Megawatt an Elektrizitätsversorgungsnetze mit einer Spannung von mindestens 110 Kilovolt. Die Verordnung findet keine Anwendung auf Energiespeicheranlagen im Sinne des § 3 Nummer 36 des Energiewirtschaftsgesetzes.
 
 (2) Die Regelungen dieser Verordnung sind hinsichtlich der Pflichten der Netzbetreiber abschließend im Sinne des § 111 Abs. 2 Nr. 2 des Energiewirtschaftsgesetzes. Die Vorschriften des Erneuerbare-Energien-Gesetzes sowie des Kraft-Wärme-Kopplungsgesetzes bleiben unberührt.
 

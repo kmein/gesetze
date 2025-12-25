@@ -33,7 +33,7 @@ Dieses Gesetz gilt für Beamtinnen und Beamte
 
 # § 4 – Beamtinnen und Beamte bei den Postnachfolgeunternehmen
 
-(1) Beamtinnen und Beamte nach § 1 Nr. 2 können bis zum 31. Dezember 2024 auf Antrag in den Ruhestand versetzt werden, wenn
+(1) Beamtinnen und Beamte nach § 1 Nr. 2 können bis zum 31. Dezember 2026 auf Antrag in den Ruhestand versetzt werden, wenn
 
 1. sie das 55. Lebensjahr vollendet haben,
 

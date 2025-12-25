@@ -849,7 +849,7 @@ In den Satzungen nach Absatz 4 Satz 1 Nummer 2 und 3 können einzelne Festsetzun
 
 4. wegen seiner besonderen Anforderungen an die Umgebung, wegen seiner nachteiligen Wirkung auf die Umgebung oder wegen seiner besonderen Zweckbestimmung nur im Außenbereich ausgeführt werden soll, es sei denn, es handelt sich um die Errichtung, Änderung oder Erweiterung einer baulichen Anlage zur Tierhaltung, die dem Anwendungsbereich der Nummer 1 nicht unterfällt und die einer Pflicht zur Durchführung einer standortbezogenen oder allgemeinen Vorprüfung oder einer Umweltverträglichkeitsprüfung nach dem Gesetz über die Umweltverträglichkeitsprüfung unterliegt, wobei bei kumulierenden Vorhaben für die Annahme eines engen Zusammenhangs diejenigen Tierhaltungsanlagen zu berücksichtigen sind, die auf demselben Betriebs- oder Baugelände liegen und mit gemeinsamen betrieblichen oder baulichen Einrichtungen verbunden sind,
 
-5. der Erforschung, Entwicklung oder Nutzung der Windenergie nach Maßgabe des § 249 oder der Erforschung, Entwicklung oder Nutzung der Wasserenergie dient,
+5. der Erforschung, Entwicklung oder Nutzung der Windenergie nach Maßgabe des § 249 oder der Erforschung, Entwicklung oder Nutzung der geothermischen Energie oder der Wasserenergie dient,
 
 6. der energetischen Nutzung von Biomasse im Rahmen eines Betriebs nach Nummer 1 oder 2 oder eines Betriebs nach Nummer 4, der Tierhaltung betreibt, sowie dem Anschluss solcher Anlagen an das öffentliche Versorgungsnetz dient, unter folgenden Voraussetzungen:
 
@@ -875,7 +875,7 @@ Autobahnen oder
 bb)  
 Schienenwegen des übergeordneten Netzes im Sinne des § 2b des Allgemeinen Eisenbahngesetzes mit mindestens zwei Hauptgleisen
 
-und in einer Entfernung zu diesen von bis zu 200 Metern, gemessen vom äußeren Rand der Fahrbahn, oder
+und in einer Entfernung zu diesen von bis zu 200 Metern, gemessen vom äußeren Rand der Fahrbahn,
 
 9. der Nutzung solarer Strahlungsenergie durch besondere Solaranlagen im Sinne des § 48 Absatz 1 Satz 1 Nummer 5 Buchstabe a, b oder c des Erneuerbare-Energien-Gesetzes dient, unter folgenden Voraussetzungen:
 
@@ -883,7 +883,19 @@ a) das Vorhaben steht in einem räumlich-funktionalen Zusammenhang mit einem Bet
 
 b) die Grundfläche der besonderen Solaranlage überschreitet nicht 25 000 Quadratmeter und
 
-c) es wird je Hofstelle oder Betriebsstandort nur eine Anlage betrieben.
+c) es wird je Hofstelle oder Betriebsstandort nur eine Anlage betrieben,
+
+10. der untertägigen Speicherung von Wärme dient und das Vorhaben in einem räumlich-funktionalen Zusammenhang mit Wärmequellen und Wärmesenken steht,
+
+11. der Speicherung von elektrischer Energie in einer Batteriespeicheranlage dient und das Vorhaben in einem räumlich-funktionalen Zusammenhang mit einer vorhandenen Anlage zur Nutzung erneuerbarer Energien steht oder
+
+12. der Speicherung von elektrischer Energie in einer nicht unter Nummer 11 fallenden Batteriespeicheranlage dient, unter folgenden Voraussetzungen:
+
+a) das Vorhaben steht in einer Entfernung von höchstens 200 Metern zu der Grundstücksgrenze einer Umspannanlage von Höchstspannung zu Hochspannung oder von Hochspannung zu Mittelspannung oder zu der Grundstücksgrenze eines in Betrieb befindlichen oder aufgegebenen Kraftwerks mit einer Nennleistung ab 50 Megawatt und
+
+b) die Batteriespeicheranlage verfügt über eine Nennleistung von mindestens 4 Megawatt und
+
+c) die von allen nach dieser Nummer zugelassenen Batteriespeicheranlagen einschließlich der zugehörigen Nebenanlagen und Freiflächen insgesamt in Anspruch genommene Gesamtfläche in derselben Gemeinde überschreitet nicht 0,5 Prozent der Gemeindefläche und beträgt höchstens 50 000 Quadratmeter.
 
 (2) Sonstige Vorhaben können im Einzelfall zugelassen werden, wenn ihre Ausführung oder Benutzung öffentliche Belange nicht beeinträchtigt und die Erschließung gesichert ist.
 
@@ -951,7 +963,7 @@ c) bei der Errichtung einer weiteren Wohnung rechtfertigen Tatsachen die Annahme
 
 In begründeten Einzelfällen gilt die Rechtsfolge des Satzes 1 auch für die Neuerrichtung eines Gebäudes im Sinne des Absatzes 1 Nummer 1, dem eine andere Nutzung zugewiesen werden soll, wenn das ursprüngliche Gebäude vom äußeren Erscheinungsbild auch zur Wahrung der Kulturlandschaft erhaltenswert ist, keine stärkere Belastung des Außenbereichs zu erwarten ist als in Fällen des Satzes 1 und die Neuerrichtung auch mit nachbarlichen Interessen vereinbar ist; Satz 1 Nummer 1 Buchstabe b bis g gilt entsprechend. In den Fällen des Satzes 1 Nummer 2 und 3 sowie des Satzes 2 sind geringfügige Erweiterungen des neuen Gebäudes gegenüber dem beseitigten oder zerstörten Gebäude sowie geringfügige Abweichungen vom bisherigen Standort des Gebäudes zulässig.
 
-(5) Die nach den Absätzen 1 bis 4 zulässigen Vorhaben sind in einer flächensparenden, die Bodenversiegelung auf das notwendige Maß begrenzenden und den Außenbereich schonenden Weise auszuführen. Für Vorhaben nach Absatz 1 Nummer 2 bis 6, 8 Buchstabe b und Nummer 9 ist als weitere Zulässigkeitsvoraussetzung eine Verpflichtungserklärung abzugeben, das Vorhaben nach dauerhafter Aufgabe der zulässigen Nutzung zurückzubauen und Bodenversiegelungen zu beseitigen; bei einer nach Absatz 1 Nummer 2 bis 6, 8 Buchstabe b und Nummer 9 zulässigen Nutzungsänderung ist die Rückbauverpflichtung zu übernehmen, bei einer nach Absatz 1 Nummer 1 oder Absatz 2 zulässigen Nutzungsänderung entfällt sie. Die Baugenehmigungsbehörde soll durch nach Landesrecht vorgesehene Baulast oder in anderer Weise die Einhaltung der Verpflichtung nach Satz 2 sowie nach Absatz 4 Satz 1 Nummer 1 Buchstabe g sicherstellen. Im Übrigen soll sie in den Fällen des Absatzes 4 Satz 1 sicherstellen, dass die bauliche oder sonstige Anlage nach Durchführung des Vorhabens nur in der vorgesehenen Art genutzt wird.
+(5) Die nach den Absätzen 1 bis 4 zulässigen Vorhaben sind in einer flächensparenden, die Bodenversiegelung auf das notwendige Maß begrenzenden und den Außenbereich schonenden Weise auszuführen. Für Vorhaben nach Absatz 1 Nummer 2 bis 6, 8 Buchstabe b und Nummer 9 bis 12 ist als weitere Zulässigkeitsvoraussetzung eine Verpflichtungserklärung abzugeben, das Vorhaben nach dauerhafter Aufgabe der zulässigen Nutzung zurückzubauen und Bodenversiegelungen zu beseitigen; bei einer nach Absatz 1 Nummer 2 bis 6, 8 Buchstabe b und Nummer 9 bis 12 zulässigen Nutzungsänderung ist die Rückbauverpflichtung zu übernehmen, bei einer nach Absatz 1 Nummer 1 oder Absatz 2 zulässigen Nutzungsänderung entfällt sie. Die Baugenehmigungsbehörde soll durch nach Landesrecht vorgesehene Baulast oder in anderer Weise die Einhaltung der Verpflichtung nach Satz 2 sowie nach Absatz 4 Satz 1 Nummer 1 Buchstabe g sicherstellen. Im Übrigen soll sie in den Fällen des Absatzes 4 Satz 1 sicherstellen, dass die bauliche oder sonstige Anlage nach Durchführung des Vorhabens nur in der vorgesehenen Art genutzt wird.
 
 (6) Die Gemeinde kann für bebaute Bereiche im Außenbereich, die nicht überwiegend landwirtschaftlich geprägt sind und in denen eine Wohnbebauung von einigem Gewicht vorhanden ist, durch Satzung bestimmen, dass Wohnzwecken dienenden Vorhaben im Sinne des Absatzes 2 nicht entgegengehalten werden kann, dass sie einer Darstellung im Flächennutzungsplan über Flächen für die Landwirtschaft oder Wald widersprechen oder die Entstehung oder Verfestigung einer Splittersiedlung befürchten lassen. Die Satzung kann auch auf Vorhaben erstreckt werden, die kleineren Handwerks- und Gewerbebetrieben dienen. In der Satzung können nähere Bestimmungen über die Zulässigkeit getroffen werden. Voraussetzung für die Aufstellung der Satzung ist, dass
 
