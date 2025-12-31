@@ -59,7 +59,7 @@
 
 # § 3 – Anwendung von Vorschriften des Bundesbesoldungsgesetzes
 
-(1) § 3 Absatz 3 bis 6, § 6 Absatz 1 Satz 1 sowie die §§ 9, 11, 12, 17a und 42b des Bundesbesoldungsgesetzes gelten entsprechend.
+(1) § 3 Absatz 3 bis 6, § 6 Absatz 1 Satz 1 sowie die §§ 9, 9a, 11, 12, 17, 17a und 42b des Bundesbesoldungsgesetzes gelten entsprechend.
 
 (2) Sofern dieses Gesetz auf Leistungen nach dem Bundesbesoldungsgesetz Bezug nimmt und diese Leistungen nach Besoldungsgruppen differenziert sind, gilt folgende Zuordnung:
 
@@ -90,34 +90,6 @@ Im Fall einer Besoldungsanpassung nach § 14 Absatz 1 des Bundesbesoldungsgesetz
 (+++ Hinweis: Zur Bekanntmachung der nach § 7 Satz 2 geltenden Beträge  
 ab 1.4.2021 u. 1.4.2022 vgl. Bek. v. 31.8.2021 I 4188 (WSG2020§7Satz2Bek 2021) u. ab 1.3.2024 vgl. Bek. v. 19.1.2024 I Nr. 20 (WSG2020§7Satz2Bek 2024) +++)
 
-# § 8 – Entlassungsgeld
-
-(1) Soldatinnen und Soldaten, die mehr als sechs Monate Wehrdienst leisten, erhalten bei der Entlassung ein Entlassungsgeld. Als Entlassung gilt auch der Eintritt in ein Wehrdienstverhältnis besonderer Art nach § 6 des Einsatz-Weiterverwendungsgesetzes.
-
-(2) Das Entlassungsgeld beträgt für jeden Monat des freiwilligen Wehrdienstes mit Anspruch auf Wehrsold 100 Euro.
-
-(3) Bei der Berechnung des Entlassungsgelds bleibt die Zeit der Verlängerung des Wehrdienstes wegen stationärer truppenärztlicher Behandlung (§ 75 Absatz 6 in Verbindung mit § 58h Absatz 1 des Soldatengesetzes) unberücksichtigt.
-
-(4) Soldatinnen und Soldaten erhalten kein Entlassungsgeld, wenn sie
-
-1. entlassen werden nach
-
-a) § 46 Absatz 1 in Verbindung mit § 58h Absatz 1 des Soldatengesetzes,
-
-b) § 75 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 58h Absatz 1 des Soldatengesetzes,
-
-c) § 75 Absatz 1 Satz 2 Nummer 6 in Verbindung mit § 58h Absatz 1 des Soldatengesetzes,
-
-d) § 75 Absatz 1 Satz 2 Nummer 7 in Verbindung mit § 58h Absatz 1 des Soldatengesetzes,
-
-e) § 75 Absatz 1 Satz 2 Nummer 11 in Verbindung mit § 58h Absatz 1 des Soldatengesetzes, sofern sie ihre Dienstunfähigkeit vorsätzlich herbeigeführt haben, oder
-
-f) § 75 Absatz 2 Nummer 2 oder Nummer 3 jeweils in Verbindung mit § 58h Absatz 1 des Soldatengesetzes,
-
-2. nach § 76 in Verbindung mit § 58h Absatz 1 des Soldatengesetzes aus der Bundeswehr ausgeschlossen werden oder
-
-3. innerhalb eines Jahres nach Beendigung des freiwilligen Wehrdienstes nach § 40 des Soldatengesetzes in ein Dienstverhältnis als Soldatin auf Zeit oder Soldat auf Zeit berufen werden.
-
 # § 9 – Vergütung für herausgehobene Funktionen
 
 (1) Soldatinnen und Soldaten, die mehr als sechs Monate Wehrdienst geleistet haben, erhalten für die Dauer der Wahrnehmung einer herausgehobenen Funktion eine widerrufliche Vergütung unter den gleichen Voraussetzungen, unter denen Besoldungsempfängerinnen und Besoldungsempfängern eine Stellenzulage im Sinne des § 42 Absatz 1 und 3 des Bundesbesoldungsgesetzes zusteht.
@@ -132,7 +104,7 @@ f) § 75 Absatz 2 Nummer 2 oder Nummer 3 jeweils in Verbindung mit § 58h Absatz
 
 # § 11 – Vergütung für besondere zeitliche Belastungen
 
-(1) Soldatinnen und Soldaten erhalten eine Vergütung für jede Dienstleistung, für die Besoldungsempfängerinnen und Besoldungsempfängern unter gleichen Voraussetzungen und im gleichen Umfang nach den §§ 50 und 50a des Bundesbesoldungsgesetzes und den dazu erlassenen Rechtsverordnungen eine Vergütung gewährt wird.
+(1) Soldatinnen und Soldaten erhalten eine Vergütung für jede Dienstleistung, für die Besoldungsempfängerinnen und Besoldungsempfängern unter gleichen Voraussetzungen und im gleichen Umfang nach den §§ 50, 50a und 50d des Bundesbesoldungsgesetzes und den dazu erlassenen Rechtsverordnungen eine Vergütung gewährt wird.
 
 (2) Die Höhe der Vergütung entspricht 80 Prozent der Leistungen, die dienstgradgleichen Soldatinnen auf Zeit und Soldaten auf Zeit gewährt werden.
 

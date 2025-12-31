@@ -1820,7 +1820,15 @@ Auf fremde Währung lautende Vermögensgegenstände und Verbindlichkeiten sind z
 
 Sind Unterlagen auf Grund des § 239 Abs. 4 Satz 1 auf Datenträgern hergestellt worden, können statt des Datenträgers die Daten auch ausgedruckt aufbewahrt werden; die ausgedruckten Unterlagen können auch nach Satz 1 aufbewahrt werden.
 
-(4) Die in Absatz 1 Nummer 1 aufgeführten Unterlagen sind zehn Jahre, die in Absatz 1 Nummer 4 aufgeführten Unterlagen acht Jahre und die sonstigen in Absatz 1 aufgeführten Unterlagen sechs Jahre aufzubewahren.
+(4) Die in Absatz 1 Nummer 1 aufgeführten Unterlagen sind zehn Jahre, die in Absatz 1 Nummer 4 aufgeführten Unterlagen acht Jahre und die sonstigen in Absatz 1 aufgeführten Unterlagen sechs Jahre aufzubewahren. Abweichend von Satz 1 sind bei Personen oder Gesellschaften, die
+
+1. Institute im Sinne des § 1 Absatz 1b des Kreditwesengesetzes sind, einschließlich Zweigstellen nach § 53 des Kreditwesengesetzes,
+
+2. der Aufsicht nach § 1 Absatz 1 des Versicherungsaufsichtsgesetzes unterliegen oder
+
+3. Wertpapierinstitute im Sinne des § 2 Absatz 1 des Wertpapierinstitutsgesetzes sind,
+
+die in Absatz 1 Nummer 4 aufgeführten Unterlagen zehn Jahre aufzubewahren.
 
 (5) Die Aufbewahrungsfrist beginnt mit dem Schluß des Kalenderjahrs, in dem die letzte Eintragung in das Handelsbuch gemacht, das Inventar aufgestellt, die Eröffnungsbilanz oder der Jahresabschluß festgestellt, der Einzelabschluss nach § 325 Abs. 2a oder der Konzernabschluß aufgestellt, der Handelsbrief empfangen oder abgesandt worden oder der Buchungsbeleg entstanden ist.
 

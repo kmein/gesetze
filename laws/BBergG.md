@@ -758,17 +758,17 @@ f) eine Begründung zu dem Vorliegen der in den Nummern 3 und 4 bezeichneten Vor
 
 # § 36 – Verfahren
 
-Auf das Verfahren sind die Vorschriften über das förmliche Verwaltungsverfahren nach Teil V Abschnitt 1 des Verwaltungsverfahrensgesetzes mit folgender Maßgabe anzuwenden:
+(1) Auf das Verfahren sind die Vorschriften über das förmliche Verwaltungsverfahren nach Teil V Abschnitt 1 des Verwaltungsverfahrensgesetzes nach Maßgabe der Absätze 2 bis 5 anzuwenden.
 
-1. Beteiligter ist auch, wem ein Recht zur Gewinnung in dem Feld der fremden Berechtigung zusteht, sowie der Inhaber eines dinglichen Rechtes an der fremden Berechtigung. Liegt die fremde Berechtigung ganz oder teilweise im Bezirk einer anderen zuständigen Behörde, so ist auch diese zu laden.
+(2) Beteiligter ist auch, wem ein Recht zur Gewinnung in dem Feld der fremden Berechtigung zusteht, sowie der Inhaber eines dinglichen Rechtes an der fremden Berechtigung. Liegt die fremde Berechtigung ganz oder teilweise im Bezirk einer anderen zuständigen Behörde, so ist auch diese zu laden.
 
-2. Von Amts wegen ist ein Vertreter auch zu bestellen für Mitberechtigte, wenn sie der Aufforderung der zuständigen Behörde, einen gemeinsamen Vertreter zu bestellen, innerhalb der ihnen gesetzten Frist nicht nachgekommen sind.
+(3) Von Amts wegen ist ein Vertreter auch zu bestellen für Mitberechtigte, wenn sie der Aufforderung der zuständigen Behörde, einen gemeinsamen Vertreter zu bestellen, innerhalb der ihnen gesetzten Frist nicht nachgekommen sind.
 
-3. In der mündlichen Verhandlung ist auf eine Einigung hinzuwirken. Kommt eine Einigung zustande, so ist diese in der Verhandlungsniederschrift zu beurkunden. Auf die Beurkundung sind die §§ 3 bis 13 und 16 bis 26 des Beurkundungsgesetzes entsprechend anzuwenden. Die Niederschrift über die Einigung steht einer notariellen Beurkundung der Einigung gleich. Eine Auflassung kann die zuständige Behörde nicht entgegennehmen.
+(4) In der mündlichen Verhandlung ist auf eine Einigung hinzuwirken. Kommt eine Einigung zustande, so ist diese in der Verhandlungsniederschrift zu beurkunden. Auf die Beurkundung sind die §§ 3 bis 13b, 16 und 17 bis 26 des Beurkundungsgesetzes entsprechend anzuwenden. Die Niederschrift über die Einigung steht einer notariellen Beurkundung der Einigung gleich. Eine Auflassung kann die zuständige Behörde nicht entgegennehmen.
 
-4. Kommt eine Einigung nicht zustande, so entscheidet die zuständige Behörde über den Antrag. Das Recht zum grenzüberschreitenden Abbau ist für ein bestimmtes Feld, für bestimmte Bodenschätze und zeitlich beschränkt zu erteilen. § 16 Abs. 3 gilt entsprechend.
+(5) Kommt eine Einigung nicht zustande, so entscheidet die zuständige Behörde über den Antrag. Das Recht zum grenzüberschreitenden Abbau ist für ein bestimmtes Feld, für bestimmte Bodenschätze und zeitlich beschränkt zu erteilen. § 16 Absatz 3 ist entsprechend anzuwenden.
 
-An die Stelle der Vorschriften über das förmliche Verwaltungsverfahren nach Teil V Abschnitt 1 des Verwaltungsverfahrensgesetzes treten die entsprechenden Vorschriften der Verwaltungsverfahrensgesetze der Länder, soweit dies landesrechtlich angeordnet ist.
+(6) An die Stelle der Vorschriften über das förmliche Verwaltungsverfahren nach Teil V Abschnitt 1 des Verwaltungsverfahrensgesetzes treten die entsprechenden Vorschriften der Verwaltungsverfahrensgesetze der Länder, soweit dies landesrechtlich angeordnet ist.
 
 # § 37 – Entschädigung
 

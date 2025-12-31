@@ -871,7 +871,9 @@ Ein Rechtsgeschäft, welches der durch Gesetz vorgeschriebenen Form ermangelt, i
 
 (3) Die schriftliche Form kann durch die elektronische Form ersetzt werden, wenn sich nicht aus dem Gesetz ein anderes ergibt.
 
-(4) Die schriftliche Form wird durch die notarielle Beurkundung ersetzt.
+(4) Als Erklärung in schriftlicher Form gilt auch eine öffentlich beglaubigte Erklärung nach § 129 Absatz 1 Satz 1 Nummer 2 oder eine Erklärung nach § 129 Absatz 3.
+
+(5) Die schriftliche Form wird durch die notarielle Beurkundung ersetzt.
 
 # § 126a – Elektronische Form
 
@@ -915,15 +917,19 @@ In dem Gesetz kann vorgesehen werden, dass eine Erklärung nur nach Satz 1 Numme
 
 (2) Wurde eine Erklärung in schriftlicher Form von dem Erklärenden mittels notariell beglaubigten Handzeichens unterzeichnet, so erfüllt die Erklärung auch die Anforderungen nach Absatz 1 Satz 1 Nummer 1.
 
-(3) Die öffentliche Beglaubigung wird durch die notarielle Beurkundung ersetzt.
+(3) Wurde eine Erklärung in einem elektronischen Dokument von dem Erklärenden mit einer notariell beglaubigten eigenhändigen elektronischen Namensunterschrift oder einem notariell beglaubigten eigenhändigen elektronischen Handzeichen versehen, so gilt sie als öffentlich beglaubigte Erklärung.
+
+(4) Die öffentliche Beglaubigung wird durch die notarielle Beurkundung ersetzt.
 
 # § 130 – Wirksamwerden der Willenserklärung gegenüber Abwesenden
 
 (1) Eine Willenserklärung, die einem anderen gegenüber abzugeben ist, wird, wenn sie in dessen Abwesenheit abgegeben wird, in dem Zeitpunkt wirksam, in welchem sie ihm zugeht. Sie wird nicht wirksam, wenn dem anderen vorher oder gleichzeitig ein Widerruf zugeht.
 
-(2) Auf die Wirksamkeit der Willenserklärung ist es ohne Einfluss, wenn der Erklärende nach der Abgabe stirbt oder geschäftsunfähig wird.
+(2) Eine Willenserklärung, die notariell beurkundet oder öffentlich beglaubigt wurde, wird auch wirksam, wenn dem Erklärungsempfänger eine öffentlich beglaubigte Abschrift der Urschrift zugeht.
 
-(3) Diese Vorschriften finden auch dann Anwendung, wenn die Willenserklärung einer Behörde gegenüber abzugeben ist.
+(3) Auf die Wirksamkeit der Willenserklärung ist es ohne Einfluss, wenn der Erklärende nach der Abgabe stirbt oder geschäftsunfähig wird.
+
+(4) Diese Vorschriften finden auch dann Anwendung, wenn die Willenserklärung einer Behörde gegenüber abzugeben ist.
 
 # § 131 – Wirksamwerden gegenüber nicht voll Geschäftsfähigen
 
@@ -9287,7 +9293,7 @@ Wer eine Sache als ihm gehörend besitzt, ist Eigenbesitzer.
 
 (1) Zur Übertragung des Eigentums an einem Grundstück, zur Belastung eines Grundstücks mit einem Recht sowie zur Übertragung oder Belastung eines solchen Rechts ist die Einigung des Berechtigten und des anderen Teils über den Eintritt der Rechtsänderung und die Eintragung der Rechtsänderung in das Grundbuch erforderlich, soweit nicht das Gesetz ein anderes vorschreibt.
 
-(2) Vor der Eintragung sind die Beteiligten an die Einigung nur gebunden, wenn die Erklärungen notariell beurkundet oder vor dem Grundbuchamt abgegeben oder bei diesem eingereicht sind oder wenn der Berechtigte dem anderen Teil eine den Vorschriften der Grundbuchordnung entsprechende Eintragungsbewilligung ausgehändigt hat.
+(2) Vor der Eintragung sind die Beteiligten an die Einigung nur gebunden, wenn die Erklärungen notariell beurkundet oder vor dem Grundbuchamt abgegeben oder bei diesem eingereicht sind oder wenn der Berechtigte dem anderen Teil eine den Vorschriften der Grundbuchordnung entsprechende Eintragungsbewilligung überlassen hat.
 
 # § 874 – Bezugnahme auf die Eintragungsbewilligung
 
@@ -9297,7 +9303,7 @@ Bei der Eintragung eines Rechts, mit dem ein Grundstück belastet wird, kann zur
 
 (1) Zur Aufhebung eines Rechts an einem Grundstück ist, soweit nicht das Gesetz ein anderes vorschreibt, die Erklärung des Berechtigten, dass er das Recht aufgebe, und die Löschung des Rechts im Grundbuch erforderlich. Die Erklärung ist dem Grundbuchamt oder demjenigen gegenüber abzugeben, zu dessen Gunsten sie erfolgt.
 
-(2) Vor der Löschung ist der Berechtigte an seine Erklärung nur gebunden, wenn er sie dem Grundbuchamt gegenüber abgegeben oder demjenigen, zu dessen Gunsten sie erfolgt, eine den Vorschriften der Grundbuchordnung entsprechende Löschungsbewilligung ausgehändigt hat.
+(2) Vor der Löschung ist der Berechtigte an seine Erklärung nur gebunden, wenn er sie dem Grundbuchamt gegenüber abgegeben oder demjenigen, zu dessen Gunsten sie erfolgt, eine den Vorschriften der Grundbuchordnung entsprechende Löschungsbewilligung überlassen hat.
 
 # § 876 – Aufhebung eines belasteten Rechts
 
@@ -15859,7 +15865,7 @@ Der Erbe kann die Erbschaft nicht mehr ausschlagen, wenn er sie angenommen hat o
 
 (2) Die Niederschrift des Nachlassgerichts wird nach den Vorschriften des Beurkundungsgesetzes errichtet.
 
-(3) Ein Bevollmächtigter bedarf einer öffentlich beglaubigten Vollmacht. Die Vollmacht muss der Erklärung beigefügt oder innerhalb der Ausschlagungsfrist nachgebracht werden.
+(3) Ein Bevollmächtigter bedarf einer öffentlich beglaubigten Vollmacht. Die Vollmacht muss der Erklärung beigefügt oder innerhalb der Ausschlagungsfrist nachgebracht werden. Der Nachweis der Vollmacht kann auch durch beigefügte oder nachgebrachte notarielle Bescheinigung erfolgen.
 
 # § 1946 – Zeitpunkt für Annahme oder Ausschlagung
 
@@ -17440,7 +17446,7 @@ Ein nach § 2247 errichtetes Testament ist auf Verlangen des Erblassers in beson
 
 # § 2249 – Nottestament vor dem Bürgermeister
 
-(1) Ist zu besorgen, dass der Erblasser früher sterben werde, als die Errichtung eines Testaments vor einem Notar möglich ist, so kann er das Testament zur Niederschrift des Bürgermeisters der Gemeinde, in der er sich aufhält, errichten. Der Bürgermeister muss zu der Beurkundung zwei Zeugen zuziehen. Als Zeuge kann nicht zugezogen werden, wer in dem zu beurkundenden Testament bedacht oder zum Testamentsvollstrecker ernannt wird; die Vorschriften der §§ 7 und 27 des Beurkundungsgesetzes gelten entsprechend. Für die Errichtung gelten die Vorschriften der §§ 2232, 2233 sowie die Vorschriften der §§ 2, 4, 5 Abs. 1, §§ 6 bis 10, 11 Abs. 1 Satz 2, Abs. 2, § 13 Abs. 1, 3, §§ 16, 17, 23, 24, 26 Abs. 1 Nr. 3, 4, Abs. 2, §§ 27, 28, 30, 32, 34, 35 des Beurkundungsgesetzes; der Bürgermeister tritt an die Stelle des Notars. Die Niederschrift muss auch von den Zeugen unterschrieben werden. Vermag der Erblasser nach seinen Angaben oder nach der Überzeugung des Bürgermeisters seinen Namen nicht zu schreiben, so wird die Unterschrift des Erblassers durch die Feststellung dieser Angabe oder Überzeugung in der Niederschrift ersetzt.
+(1) Ist zu besorgen, dass der Erblasser früher sterben werde, als die Errichtung eines Testaments vor einem Notar möglich ist, so kann er das Testament zur Niederschrift des Bürgermeisters der Gemeinde, in der er sich aufhält, errichten. Der Bürgermeister muss zu der Beurkundung zwei Zeugen zuziehen. Als Zeuge kann nicht zugezogen werden, wer in dem zu beurkundenden Testament bedacht oder zum Testamentsvollstrecker ernannt wird; die Vorschriften der §§ 7 und 27 des Beurkundungsgesetzes gelten entsprechend. Für die Errichtung gelten die Vorschriften der §§ 2232, 2233 sowie die Vorschriften der §§ 2, 4, 5 Abs. 1, der §§ 6 bis 8 Absatz 1, der §§ 9, 10, 11 Abs. 1 Satz 2, Abs. 2, § 13 Abs. 1, 3, §§ 16, 17, 23, 24, 26 Abs. 1 Nr. 3, 4, Abs. 2, §§ 27, 28, 30, 32, 34, 35 des Beurkundungsgesetzes; der Bürgermeister tritt an die Stelle des Notars. Die Niederschrift muss auch von den Zeugen unterschrieben werden. Vermag der Erblasser nach seinen Angaben oder nach der Überzeugung des Bürgermeisters seinen Namen nicht zu schreiben, so wird die Unterschrift des Erblassers durch die Feststellung dieser Angabe oder Überzeugung in der Niederschrift ersetzt.
 
 (2) Die Besorgnis, dass die Errichtung eines Testaments vor einem Notar nicht mehr möglich sein werde, soll in der Niederschrift festgestellt werden. Der Gültigkeit des Testaments steht nicht entgegen, dass die Besorgnis nicht begründet war.
 
@@ -17458,7 +17464,7 @@ Ein nach § 2247 errichtetes Testament ist auf Verlangen des Erblassers in beson
 
 (2) Wer sich in so naher Todesgefahr befindet, dass voraussichtlich auch die Errichtung eines Testaments nach § 2249 nicht mehr möglich ist, kann das Testament durch mündliche Erklärung vor drei Zeugen errichten.
 
-(3) Wird das Testament durch mündliche Erklärung vor drei Zeugen errichtet, so muss hierüber eine Niederschrift aufgenommen werden. Auf die Zeugen sind die Vorschriften des § 6 Abs. 1 Nr. 1 bis 3, der §§ 7, 26 Abs. 2 Nr. 2 bis 5 und des § 27 des Beurkundungsgesetzes; auf die Niederschrift sind die Vorschriften der §§ 8 bis 10, 11 Abs. 1 Satz 2, Abs. 2, § 13 Abs. 1, 3 Satz 1, §§ 23, 28 des Beurkundungsgesetzes sowie die Vorschriften des § 2249 Abs. 1 Satz 5, 6, Abs. 2, 6 entsprechend anzuwenden. Die Niederschrift kann außer in der deutschen auch in einer anderen Sprache aufgenommen werden. Der Erblasser und die Zeugen müssen der Sprache der Niederschrift hinreichend kundig sein; dies soll in der Niederschrift festgestellt werden, wenn sie in einer anderen als der deutschen Sprache aufgenommen wird.
+(3) Wird das Testament durch mündliche Erklärung vor drei Zeugen errichtet, so muss hierüber eine Niederschrift aufgenommen werden. Auf die Zeugen sind die Vorschriften des § 6 Abs. 1 Nr. 1 bis 3, der §§ 7, 26 Abs. 2 Nr. 2 bis 5 und des § 27 des Beurkundungsgesetzes; auf die Niederschrift sind die Vorschriften des § 8 Absatz 1, der §§ 9, 10, 11 Abs. 1 Satz 2, Abs. 2, § 13 Abs. 1, 3 Satz 1, §§ 23, 28 des Beurkundungsgesetzes sowie die Vorschriften des § 2249 Abs. 1 Satz 5, 6, Abs. 2, 6 entsprechend anzuwenden. Die Niederschrift kann außer in der deutschen auch in einer anderen Sprache aufgenommen werden. Der Erblasser und die Zeugen müssen der Sprache der Niederschrift hinreichend kundig sein; dies soll in der Niederschrift festgestellt werden, wenn sie in einer anderen als der deutschen Sprache aufgenommen wird.
 
 # § 2251 – Nottestament auf See
 

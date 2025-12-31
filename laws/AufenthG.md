@@ -4005,9 +4005,23 @@ Die Löschung ist zu protokollieren.
 
 2. Verstöße gegen die Mitwirkungspflicht nach § 60 Abs. 1 Satz 1 Nr. 2 des Ersten Buches Sozialgesetzbuch gegenüber einer Dienststelle der Bundesagentur für Arbeit, einem Träger der gesetzlichen Kranken-, Pflege-, Unfall- oder Rentenversicherung, einem Träger der Grundsicherung für Arbeitsuchende oder der Sozialhilfe oder Verstöße gegen die Meldepflicht nach § 8a des Asylbewerberleistungsgesetzes,
 
-3. die in § 6 Absatz 4 Nummer 1 bis 4, 7, 12 und 13 des Schwarzarbeitsbekämpfungsgesetzes bezeichneten Verstöße,
+3. Verstöße gegen das Schwarzarbeitsbekämpfungsgesetz,
 
-unterrichten die mit der Ausführung dieses Gesetzes betrauten Behörden die für die Verfolgung und Ahndung der Verstöße nach den Nummern 1 bis 3 zuständigen Behörden, die Träger der Grundsicherung für Arbeitsuchende oder der Sozialhilfe sowie die nach § 10 des Asylbewerberleistungsgesetzes zuständigen Behörden.
+4. Verstöße gegen das Arbeitnehmerüberlassungsgesetz,
+
+5. Verstöße gegen die Bestimmungen des Vierten und des Siebten Buches Sozialgesetzbuch über die Verpflichtung zur Zahlung von Sozialversicherungsbeiträgen,
+
+6. Verstöße gegen die Steuergesetze,
+
+7. Verstöße gegen das Bundeskindergeldgesetz,
+
+8. Verstöße gegen das Gesetz zur Sicherung von Arbeitnehmerrechten in der Fleischwirtschaft,
+
+9. Verstöße gegen das Arbeitnehmer-Entsendegesetz,
+
+10. Verstöße gegen das Mindestlohngesetz,
+
+unterrichten die mit der Ausführung dieses Gesetzes betrauten Behörden die für die Verfolgung und Ahndung der Verstöße jeweils zuständigen Behörden, und soweit erforderlich, die Träger der Grundsicherung für Arbeitsuchende oder der Sozialhilfe sowie die nach § 10 des Asylbewerberleistungsgesetzes zuständigen Behörden.
 
 (2) Bei der Verfolgung und Ahndung von Verstößen gegen dieses Gesetz arbeiten die mit der Ausführung dieses Gesetzes betrauten Behörden insbesondere mit den anderen in § 2 Absatz 4 des Schwarzarbeitsbekämpfungsgesetzes genannten Behörden zusammen.
 

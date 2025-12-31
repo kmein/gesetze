@@ -665,6 +665,7 @@
 - [BEG§172DV 64](laws/BEG§172DV_64.md) Vierundsechzigste Verordnung zur Durchführung des § 172 des Bundesentschädigungsgesetzes
 - [BEG§172DV 65](laws/BEG§172DV_65.md) Fünfundsechzigste Verordnung zur Durchführung des § 172 des Bundesentschädigungsgesetzes
 - [BEG§172DV 66](laws/BEG§172DV_66.md) Sechsundsechzigste Verordnung zur Durchführung des § 172 des Bundesentschädigungsgesetzes
+- [BEG§172DV 67](laws/BEG§172DV_67.md) Siebenundsechzigste Verordnung zur Durchführung des § 172 des Bundesentschädigungsgesetzes
 - [BehAktÜbV](laws/BehAktÜbV.md) Verordnung über die Standards für die Übermittlung elektronischer Akten von Behörden und juristischen Personen des öffentlichen Rechts an die Gerichte im gerichtlichen Verfahren
 - [BehAppbAusbV](laws/BehAppbAusbV.md) Verordnung über die Berufsausbildung zum Behälter- und Apparatebauer und zur Behälter- und Apparatebauerin*
 - [BehAppMstrV](laws/BehAppMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Behälter- und Apparatebauer-Handwerk
@@ -1038,11 +1039,13 @@
 - [BMVgBDODAnO](laws/BMVgBDODAnO.md) Anordnung zur Durchführung der Bundesdisziplinarordnung für den Geschäftsbereich des Bundesministers der Verteidigung
 - [BMVgBeamtVZustAnO](laws/BMVgBeamtVZustAnO.md) Anordnung zur Übertragung von Zuständigkeiten auf dem Gebiet der Beamtenversorgung im Geschäftsbereich des Bundesministeriums der Verteidigung
 - [BMVgSEGZustAnO](laws/BMVgSEGZustAnO.md) Anordnung zur Übertragung von Zuständigkeiten auf dem Gebiet der Soldatenentschädigung im Geschäftsbereich des Bundesministeriums der Verteidigung
+- [BMVgVerfWDO2025uBVerfPAktV](laws/BMVgVerfWDO2025uBVerfPAktV.md) Verordnung zur Anlegung, Führung und Weiterführung papiergebundener Akten in Verfahren nach der Wehrdisziplinarordnung und in Bußgeldverfahren im Geschäftsbereich des Bundesministeriums der Verteidigung
 - [BMVgVFAPrV](laws/BMVgVFAPrV.md) Verordnung für die Durchführung der Abschlussprüfung im staatlich anerkannten Ausbildungsberuf Verwaltungsfachangestellte und Verwaltungsfachangestellter – Fachrichtung Bundesverwaltung – im Geschäftsbereich des Bundesministeriums der Verteidigung
 - [BMVgWidKlaZustAnO](laws/BMVgWidKlaZustAnO.md) Allgemeine Anordnung über die Übertragung von Zuständigkeiten im Widerspruchsverfahren und über die Vertretung bei Klagen aus dem Beamten- oder Wehrdienstverhältnis im Geschäftsbereich des Bundesministeriums der Verteidigung
 - [BMVgWidVertrAnO](laws/BMVgWidVertrAnO.md) Anordnung über die Übertragung von Zuständigkeiten im Widerspruchsverfahren und über die Vertretung der Bundesrepublik Deutschland bei Klagen in Angelegenheiten der Besoldung, der Versorgung, des Wehrsolds, der Beihilfe und der Unterhaltssicherung im Geschäftsbereich des Bundesministeriums der Verteidigung
 - [BMVgZVersAnO](laws/BMVgZVersAnO.md) Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der beamtenrechtlichen Versorgung im Dienstbereich des Bundesministers der Verteidigung
 - [BMWiBhWidVertrAnO](laws/BMWiBhWidVertrAnO.md) Anordnung zur Übertragung der Zuständigkeit für den Erlass von Widerspruchsbescheiden sowie der Vertretung des Bundes in verwaltungsgerichtlichen Verfahren von Beamtinnen und Beamten im Geschäftsbereich des Bundesministeriums für Wirtschaft und Energie in Beihilfeangelegenheiten
+- [BMWiEBVerfPAktV](laws/BMWiEBVerfPAktV.md) Verordnung zur Weiterführung papiergebundener Akten in Bußgeldverfahren im Geschäftsbereich des Bundesministeriums für Wirtschaft und Energie
 - [BMWiTErnAnO](laws/BMWiTErnAnO.md) Anordnung über die Ernennung und Entlassung der Beamtinnen und Beamten im Geschäftsbereich des Bundesministeriums für Wirtschaft und Technologie
 - [BMWiTWidAnO 1999](laws/BMWiTWidAnO_1999.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Bundesministeriums für Wirtschaft und Technologie
 - [BMWiTWidAnO 2009](laws/BMWiTWidAnO_2009.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Bundesministeriums für Wirtschaft und Technologie
@@ -1456,6 +1459,7 @@
 - [DBAGZustV](laws/DBAGZustV.md) Verordnung über die Zuständigkeit der Deutsche Bahn Aktiengesellschaft für Entscheidungen in Angelegenheiten der zugewiesenen Beamten des Bundeseisenbahnvermögens
 - [DBALETG](laws/DBALETG.md) Gesetz zu dem Abkommen vom 21. Februar 1997 zwischen der Bundesrepublik Deutschland und der Republik Lettland zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen
 - [DBALETProt](laws/DBALETProt.md) Protokoll zum Abkommen zwischen der Bundesrepublik Deutschland und der Republik Lettland zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen
+- [DBALTUNotV](laws/DBALTUNotV.md) Verordnung zur Umsetzung der Notifizierung zur Anwendung der Anrechnungsmethode bei bestimmten Einkünften nach dem deutsch-litauischen Doppelbesteuerungsabkommen
 - [DBAMUSG](laws/DBAMUSG.md) Gesetz zu dem Abkommen vom 7. Oktober 2011 zwischen der Bundesrepublik Deutschland und der Republik Mauritius zur Vermeidung der Doppelbesteuerung und der Steuerverkürzung auf dem Gebiet der Steuern vom Einkommen
 - [DBANAMG](laws/DBANAMG.md) Gesetz zu dem Abkommen vom 2. Dezember 1993 zwischen der Bundesrepublik Deutschland und der Republik Namibia zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen
 - [DBAPAKG](laws/DBAPAKG.md) Gesetz zu dem Abkommen vom 14. Juli 1994 zwischen der Bundesrepublik Deutschland und der Islamischen Republik Pakistan zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen
@@ -3775,6 +3779,7 @@
 - [MinÖlDatG](laws/MinÖlDatG.md) Gesetz über die Erhebung von Meldungen in der Mineralölwirtschaft
 - [MinRohSorgG](laws/MinRohSorgG.md) Gesetz zur Durchführung der Verordnung (EU) 2017/821 des Europäischen Parlaments und des Rates vom 17. Mai 2017 zur Festlegung von Pflichten zur Erfüllung der Sorgfaltspflichten in der Lieferkette für Unionseinführer von Zinn, Tantal, Wolfram, deren Erzen und Gold aus Konflikt- und Hochrisikogebieten
 - [MinRSozSBes](laws/MinRSozSBes.md) Beschluß des Ministerrates der Deutschen Demokratischen Republik über Regelungen zur sozialen Sicherstellung für ausscheidende Mitglieder des Ministerrates vom 8. Februar 1990 in der Fassung des Beschlusses vom 8. August 1990
+- [MinStBV](laws/MinStBV.md) Verordnung zur Durchführung des Mindeststeuergesetzes betreffend den Umfang, die Ausgestaltung und den Informationsaustausch von Mindeststeuer-Berichten 1
 - [MinStG](laws/MinStG.md) Gesetz zur Gewährleistung einer globalen Mindestbesteuerung für Unternehmensgruppen
 - [MinUhV](laws/MinUhV.md) Verordnung zur Festlegung des Mindestunterhalts minderjähriger Kinder nach § 1612a Absatz 1 des Bürgerlichen Gesetzbuchs
 - [MISSAufstV](laws/MISSAufstV.md) Verordnung über den Aufstieg in den höheren nichttechnischen Verwaltungsdienst über den Masterstudiengang „Intelligence and Security Studies“

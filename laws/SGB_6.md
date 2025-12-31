@@ -159,7 +159,7 @@ ausüben, in dieser Beschäftigung oder selbständigen Tätigkeit. Bei Anwendung
 
 3. bis zum Erreichen der Regelaltersgrenze nicht versichert waren oder nach Erreichen der Regelaltersgrenze eine Beitragserstattung aus ihrer Versicherung erhalten haben.
 
-Satz 1 gilt nicht für Beschäftigte in einer Beschäftigung, in der sie durch schriftliche Erklärung gegenüber dem Arbeitgeber auf die Versicherungsfreiheit verzichten. Der Verzicht kann nur mit Wirkung für die Zukunft erklärt werden und ist für die Dauer der Beschäftigung bindend. Die Sätze 2 und 3 gelten entsprechend für selbständig Tätige, die den Verzicht gegenüber dem zuständigen Träger der Rentenversicherung erklären.
+Satz 1 gilt nicht für Beschäftigte in einer Beschäftigung, in der sie durch schriftliche oder elektronische Erklärung gegenüber dem Arbeitgeber auf die Versicherungsfreiheit verzichten. Der Verzicht kann nur mit Wirkung für die Zukunft erklärt werden und ist für die Dauer der Beschäftigung bindend. Die Sätze 2 und 3 gelten entsprechend für selbständig Tätige, die den Verzicht gegenüber dem zuständigen Träger der Rentenversicherung erklären.
 
 # § 6 – Befreiung von der Versicherungspflicht
 
@@ -191,7 +191,7 @@ Satz 1 Nr. 1 gilt entsprechend für die Aufnahme einer zweiten selbständigen T�
 
 (1b) Personen, die eine geringfügige Beschäftigung nach § 8 Absatz 1 Nummer 1 oder § 8a in Verbindung mit § 8 Absatz 1 Nummer 1 des Vierten Buches ausüben, werden auf Antrag von der Versicherungspflicht befreit. Der schriftliche oder elektronische Befreiungsantrag ist dem Arbeitgeber zu übergeben. § 8 Absatz 2 des Vierten Buches ist mit der Maßgabe anzuwenden, dass eine Zusammenrechnung mit einer nicht geringfügigen Beschäftigung nur erfolgt, wenn diese versicherungspflichtig ist. Der Antrag kann bei mehreren geringfügigen Beschäftigungen nur einheitlich gestellt werden und ist für die Dauer der Beschäftigungen bindend. Satz 1 gilt nicht für Personen, die im Rahmen betrieblicher Berufsbildung, nach dem Jugendfreiwilligendienstegesetz, nach dem Bundesfreiwilligendienstgesetz oder nach § 1 Satz 1 Nummer 2 bis 4 beschäftigt sind oder von der Möglichkeit einer stufenweisen Wiederaufnahme einer nicht geringfügigen Tätigkeit (§ 74 des Fünften Buches) Gebrauch machen.
 
-(2) Die Befreiung erfolgt auf Antrag des Versicherten, in den Fällen des Absatzes 1 Nr. 2 und 3 auf Antrag des Arbeitgebers. In den Fällen des Absatzes 1 Satz 1 Nummer 1 hat der Versicherte den Antrag elektronisch über die zuständige berufsständische Versorgungseinrichtung zu stellen. Diese leitet den Antrag durch Datenübertragung an den Träger der Rentenversicherung zusammen mit den Bestätigungen über das Vorliegen einer Pflichtmitgliedschaft in einer berufsständischen Versorgungseinrichtung, über das Bestehen einer Pflichtmitgliedschaft in der berufsständischen Kammer und über die Pflicht zur Zahlung einkommensbezogener Beiträge zur Entscheidung unverzüglich weiter. Der Träger der Rentenversicherung teilt seine Entscheidung dem Antragsteller in Textform und der den Antrag weiterleitenden berufsständischen Versorgungseinrichtung elektronisch mit. Der Rentenversicherungsträger informiert den Arbeitgeber elektronisch über das Ergebnis seiner Entscheidung. Der Eingang des Antrags bei der berufsständischen Versorgungseinrichtung ist für die Wahrung der in Absatz 4 bestimmten Frist maßgeblich. Der Datenaustausch erfolgt über die Annahmestelle der berufsständischen Versorgungseinrichtungen und die Datenstelle der Rentenversicherung. Die technische Ausgestaltung des Verfahrens regeln die Deutsche Rentenversicherung Bund und die Arbeitsgemeinschaft berufsständischer Versorgungseinrichtungen e. V. in gemeinsamen Grundsätzen, die vom Bundesministerium für Arbeit und Soziales zu genehmigen sind.
+(2) Die Befreiung erfolgt auf Antrag des Versicherten, in den Fällen des Absatzes 1 Nr. 2 und 3 auf Antrag des Arbeitgebers. In den Fällen des Absatzes 1 Satz 1 Nummer 1 hat der Versicherte den Antrag elektronisch über die zuständige berufsständische Versorgungseinrichtung zu stellen. Diese leitet den Antrag durch Datenübertragung an den Träger der Rentenversicherung zusammen mit den Bestätigungen über das Vorliegen einer Pflichtmitgliedschaft in einer berufsständischen Versorgungseinrichtung, über das Bestehen einer Pflichtmitgliedschaft in der berufsständischen Kammer und über die Pflicht zur Zahlung einkommensbezogener Beiträge zur Entscheidung unverzüglich weiter. Der Träger der Rentenversicherung teilt seine Entscheidung dem Antragsteller und dem Arbeitgeber in Textform und der den Antrag weiterleitenden berufsständischen Versorgungseinrichtung elektronisch mit. Der Eingang des Antrags bei der berufsständischen Versorgungseinrichtung ist für die Wahrung der in Absatz 4 bestimmten Frist maßgeblich. Der Datenaustausch erfolgt über die Annahmestelle der berufsständischen Versorgungseinrichtungen und die Datenstelle der Rentenversicherung. Die technische Ausgestaltung des Verfahrens regeln die Deutsche Rentenversicherung Bund und die Arbeitsgemeinschaft berufsständischer Versorgungseinrichtungen e. V. in gemeinsamen Grundsätzen, die vom Bundesministerium für Arbeit und Soziales zu genehmigen sind.
 
 (3) Über die Befreiung entscheidet der Träger der Rentenversicherung. Abweichend von Satz 1 entscheidet in den Fällen des Absatzes 1 Satz 1 Nummer 1 und 2 die Deutsche Rentenversicherung Bund, nachdem das Vorliegen der Voraussetzungen bestätigt worden ist
 
@@ -332,6 +332,30 @@ ein anderer in Aussicht stehender Arbeitsplatz erlangt werden kann, wenn die Erh
 (3) Der Träger der Rentenversicherung erbringt nach Absatz 2 Nr. 1 im Benehmen mit dem Träger der Krankenversicherung für diesen Krankenbehandlung und Leistungen bei Schwangerschaft und Mutterschaft. Der Träger der Rentenversicherung kann von dem Träger der Krankenversicherung Erstattung der hierauf entfallenden Aufwendungen verlangen.
 
 (4) Die Träger der Rentenversicherung vereinbaren mit den Spitzenverbänden der Krankenkassen gemeinsam und einheitlich im Benehmen mit dem Bundesministerium für Arbeit und Soziales Näheres zur Durchführung von Absatz 2 Nr. 1 und 2.
+
+# § 13a – Fallmanagement
+
+(1) Die Träger der Rentenversicherung können Versicherte mit gesundheitlichen Beeinträchtigungen und besonderem Unterstützungsbedarf in Bezug auf die berufliche Teilhabe, die die versicherungsrechtlichen Voraussetzungen nach § 11 Absatz 1 oder 2 erfüllen, mit einem Fallmanagement aktivierend und koordinierend bei ihrer beruflichen Wiedereingliederung begleiten und unterstützen.
+
+(2) Zur frühzeitigen Erkennung eines Rehabilitationsbedarfs nach § 13 des Neunten Buches können die Träger der Rentenversicherung bereits vor der Entscheidung über die Durchführung eines Fallmanagements Kontakt mit Versicherten aufnehmen. Das Fallmanagement ist nur mit Einwilligung der Versicherten zulässig. Die Einwilligung ist zu dokumentieren. Für die Durchführung des Fallmanagements erforderliche Datenverarbeitungen dürfen nur mit dem Einverständnis des Versicherten erfolgen.
+
+(3) Das Fallmanagement kann Folgendes umfassen:
+
+1. die Erkennung, Ermittlung und Feststellung des individuellen Rehabilitationsbedarfs nach § 13 des Neunten Buches einschließlich der Dokumentation des Bedarfs,
+
+2. die Entwicklung und Koordinierung eines individuellen Rehabilitationsprozesses gemeinsam mit den Versicherten und unter Einbindung weiterer Beteiligter sowie die Erstellung eines individuellen Teilhabeplans nach § 19 des Neunten Buches soweit die gesetzlichen Voraussetzungen vorliegen,
+
+3. die rechtskreisübergreifende Unterstützung der Versicherten bei der Beantragung von in Betracht kommenden Sozialleistungen und bei der Inanspruchnahme weiterer unterstützender Angebote,
+
+4. die Begleitung der Versicherten mit dem Ziel des Erhalts zügiger und aufeinander abgestimmter Leistungen, soweit die Versicherten Ansprüche gegen Träger von Sozialleistungen haben oder haben könnten, die die berufliche Wiedereingliederung fördern und unterstützen können,
+
+5. die begleitende Bewertung und mögliche Anpassung des individuellen Rehabilitationsprozesses gemeinsam mit den Versicherten.
+
+(4) Das Fallmanagement kann vollständig oder in Teilen durch die Träger der Rentenversicherung oder durch beauftragte Dritte durchgeführt werden.
+
+(5) Sind bei der Durchführung des Fallmanagements spezifische Anforderungen erforderlich, so können die Träger der Rentenversicherung Dritte damit beauftragen, das Fallmanagement als Leistung durchzuführen. Die spezifischen Anforderungen dieser Leistung bestimmt die Deutsche Rentenversicherung Bund in einem gemeinsamen Rahmenkonzept der Träger der Rentenversicherung.
+
+(6) Führt ein Träger der Rentenversicherung ein Fallmanagement durch, werden die Bedarfsermittlung und, sofern die Voraussetzungen für ein Teilhabeplanverfahren nach Teil 1 Kapitel 2 bis 4 des Neunten Buches vorliegen, das Teilhabeplanverfahren als Bestandteil des Fallmanagements erbracht.
 
 # § 14 – Leistungen zur Prävention
 
@@ -649,7 +673,7 @@ haben.
 
 (2) (weggefallen)
 
-(3) Versicherte, die wegen der beabsichtigten Inanspruchnahme einer Teilrente ihre Arbeitsleistung einschränken wollen, können von ihrem Arbeitgeber verlangen, dass er mit ihnen die Möglichkeiten einer solchen Einschränkung erörtert. Macht der Versicherte hierzu für seinen Arbeitsbereich Vorschläge, hat der Arbeitgeber zu diesen Vorschlägen Stellung zu nehmen.
+(3) (weggefallen)
 
 # § 43 – Rente wegen Erwerbsminderung
 
@@ -1421,7 +1445,7 @@ Für die Ermittlung von Zuschlägen an Entgeltpunkten aus Beiträgen für beitra
 
 (4) Der Zuschlag an Entgeltpunkten wird ermittelt aus dem Durchschnittswert an Entgeltpunkten aus allen Kalendermonaten mit Grundrentenbewertungszeiten und umfasst zunächst diesen Durchschnittswert. Übersteigt das Zweifache dieses Durchschnittswertes den jeweils maßgeblichen Höchstwert an Entgeltpunkten nach den Sätzen 3 bis 5, wird der Zuschlag aus dem Differenzbetrag zwischen dem jeweiligen Höchstwert und dem Durchschnittswert nach Satz 1 ermittelt. Der Höchstwert beträgt 0,0334 Entgeltpunkte, wenn 33 Jahre mit Grundrentenzeiten vorliegen. Liegen mehr als 33, aber weniger als 35 Jahre mit Grundrentenzeiten vor, wird der Höchstwert nach Satz 3 je zusätzlichen Kalendermonat mit Grundrentenzeiten um 0,001389 Entgeltpunkte erhöht; das Ergebnis ist auf vier Dezimalstellen zu runden. Liegen mindestens 35 Jahre mit Grundrentenzeiten vor, beträgt der Höchstwert 0,0667 Entgeltpunkte. Zur Berechnung der Höhe des Zuschlags an Entgeltpunkten wird der nach den Sätzen 1 bis 5 ermittelte Entgeltpunktewert mit dem Faktor 0,875 und anschließend mit der Anzahl der Kalendermonate mit Grundrentenbewertungszeiten, höchstens jedoch mit 420 Kalendermonaten, vervielfältigt.
 
-(5) Der Zuschlag an Entgeltpunkten wird den Kalendermonaten mit Grundrentenbewertungszeiten zu gleichen Teilen zugeordnet; dabei werden Kalendermonaten mit Entgeltpunkten (Ost) Zuschläge an Entgeltpunkten (Ost) zugeordnet.
+(5) Der Zuschlag an Entgeltpunkten wird den Kalendermonaten mit Grundrentenbewertungszeiten zu gleichen Teilen zugeordnet.
 
 # § 77 – Zugangsfaktor
 
@@ -1852,7 +1876,7 @@ des vorvergangenen Kalenderjahres zu berücksichtigen. Bei Anwendung von Satz 4 
 
 (5) Einkommen nach Absatz 2 ist auch dann abschließend zu berücksichtigen, wenn die Einkommensteuer vorläufig oder unter Vorbehalt der Nachprüfung festgesetzt oder die Entscheidung der Finanzbehörde angefochten wurde, es sei denn, die Vollziehung des Einkommensteuerbescheides wurde ausgesetzt. Einkommensänderungen, die dem Träger der Rentenversicherung jeweils bis zum 31. Oktober vorliegen, sind vom darauffolgenden 1. Januar an zu berücksichtigen; Absatz 6 bleibt unberührt.
 
-(6) Die jährliche Einkommensanrechnung ist zunächst nur unter Berücksichtigung von Einkommen nach Absatz 2 Satz 1 Nummer 1 und 2 durchzuführen. Ist ein Rentenanteil aus dem Zuschlag an Entgeltpunkten für langjährige Versicherung zu leisten, haben der Berechtigte und sein Ehegatte über Einkommen nach Absatz 2 Satz 1 Nummer 3 innerhalb von drei Monaten nach Bekanntgabe des Bescheides über den Rentenanteil aus dem Zuschlag an Entgeltpunkten für langjährige Versicherung dem Träger der Rentenversicherung mitzuteilen, wenn solches Einkommen in dem nach Absatz 2 Satz 3 und 4 maßgeblichen Kalenderjahr erzielt wurde und dessen Höhe nachzuweisen. Erfolgt keine Mitteilung nach Satz 2, gilt Einkommen nach Absatz 2 Satz 1 Nummer 3 als nicht erzielt. Teilen der Berechtigte und sein Ehegatte Einkommen nach Absatz 2 Satz 1 Nummer 3 mit und ergibt sich nach erneuter Einkommensprüfung ein veränderter Rentenanteil aus dem Zuschlag an Entgeltpunkten für langjährige Versicherung, ist der Bescheid mit Wirkung für die Zukunft aufzuheben. Im Fall einer zu Unrecht unterbliebenen oder unrichtigen Auskunft ist der Bescheid vom Beginn des Zeitraumes der Anrechnung von Einkommen nach Satz 1 aufzuheben. Soweit Bescheide aufgehoben wurden, sind zu viel erbrachte Leistungen zu erstatten; § 50 Absatz 2a bis 5 des Zehnten Buches bleibt unberührt. Nicht anzuwenden ist die Vorschrift zur Anhörung Beteiligter (§ 24 des Zehnten Buches).
+(6) Die jährliche Einkommensanrechnung ist zunächst nur unter Berücksichtigung von Einkommen nach Absatz 2 Satz 1 Nummer 1 und 2 durchzuführen. Ist ein Rentenanteil aus dem Zuschlag an Entgeltpunkten für langjährige Versicherung zu leisten, haben der Berechtigte und sein Ehegatte über Einkommen nach Absatz 2 Satz 1 Nummer 3 innerhalb von drei Monaten nach Bekanntgabe des Bescheides über den Rentenanteil aus dem Zuschlag an Entgeltpunkten für langjährige Versicherung dem Träger der Rentenversicherung mitzuteilen, wenn solches Einkommen in dem nach Absatz 2 Satz 2 bis 4 maßgeblichen Kalenderjahr erzielt wurde und dessen Höhe nachzuweisen. Erfolgt keine Mitteilung nach Satz 2, gilt Einkommen nach Absatz 2 Satz 1 Nummer 3 als nicht erzielt. Teilen der Berechtigte und sein Ehegatte Einkommen nach Absatz 2 Satz 1 Nummer 3 mit und ergibt sich nach erneuter Einkommensprüfung ein veränderter Rentenanteil aus dem Zuschlag an Entgeltpunkten für langjährige Versicherung, ist der Bescheid mit Wirkung für die Zukunft aufzuheben. Im Fall einer zu Unrecht unterbliebenen oder unrichtigen Auskunft ist der Bescheid vom Beginn des Zeitraumes der Anrechnung von Einkommen nach Satz 1 aufzuheben. Soweit Bescheide aufgehoben wurden, sind zu viel erbrachte Leistungen zu erstatten; § 50 Absatz 2a bis 5 des Zehnten Buches bleibt unberührt. Nicht anzuwenden ist die Vorschrift zur Anhörung Beteiligter (§ 24 des Zehnten Buches).
 
 (7) Ist in einer Rente ein Zuschlag an Entgeltpunkten für langjährige Versicherung enthalten, sind auf den hierauf beruhenden Rentenanteil die Regelungen zu Renten und Hinzuverdienst sowie zur Einkommensanrechnung auf Renten wegen Todes nicht anzuwenden. Auf diesen Rentenanteil finden ausschließlich die Absätze 1 bis 6 Anwendung.
 
@@ -3027,7 +3051,7 @@ Sie ist mit Leistungsträgern außerhalb des Geltungsbereichs dieses Gesetzbuchs
 
 (4) Versicherte sind verpflichtet, bei der Klärung des Versicherungskontos mitzuwirken, insbesondere den Versicherungsverlauf auf Richtigkeit und Vollständigkeit zu überprüfen, alle für die Kontenklärung erheblichen Tatsachen anzugeben und die notwendigen Urkunden und sonstigen Beweismittel beizubringen.
 
-(5) Hat der Versicherungsträger das Versicherungskonto geklärt oder hat der Versicherte innerhalb von sechs Kalendermonaten nach Versendung des Versicherungsverlaufs seinem Inhalt nicht widersprochen, stellt der Versicherungsträger die im Versicherungsverlauf enthaltenen und nicht bereits festgestellten Daten, die länger als sechs Kalenderjahre zurückliegen, durch Bescheid fest. Bei Änderung der dem Feststellungsbescheid zugrunde liegenden Vorschriften ist der Feststellungsbescheid durch einen neuen Feststellungsbescheid oder im Rentenbescheid mit Wirkung für die Vergangenheit aufzuheben; die §§ 24 und 48 des Zehnten Buches sind nicht anzuwenden. Über die Anrechnung und Bewertung der im Versicherungsverlauf enthaltenen Daten wird erst bei Feststellung einer Leistung entschieden.
+(5) Hat der Versicherungsträger das Versicherungskonto geklärt oder hat der Versicherte innerhalb von sechs Kalendermonaten nach Versendung des Versicherungsverlaufs seinem Inhalt nicht widersprochen, stellt der Versicherungsträger die im Versicherungsverlauf enthaltenen und nicht bereits festgestellten Daten, die länger als sechs Kalenderjahre zurückliegen, durch Bescheid fest. Wurden im Feststellungsbescheid Zeiten einer schulischen Ausbildung über die Höchstdauer nach § 58 Absatz 1 Satz 1 Nummer 4 hinaus festgestellt, ist der Feststellungsbescheid insoweit durch einen neuen Feststellungsbescheid oder im Rentenbescheid mit Wirkung für die Vergangenheit aufzuheben; die Vorschriften zur Anhörung Beteiligter (§ 24 des Zehnten Buches), die Vorschriften zur Rücknahme eines rechtswidrigen nicht begünstigenden Verwaltungsaktes (§ 44 des Zehnten Buches) und die Vorschriften zur Rücknahme eines rechtswidrigen begünstigenden Verwaltungsaktes (§ 45 des Zehnten Buches) sind insoweit nicht anzuwenden. Bei Änderung der dem Feststellungsbescheid zugrunde liegenden Vorschriften ist der Feststellungsbescheid durch einen neuen Feststellungsbescheid oder im Rentenbescheid mit Wirkung für die Vergangenheit aufzuheben; die Vorschriften zur Anhörung Beteiligter (§ 24 des Zehnten Buches) und die Vorschriften zur Aufhebung eines Verwaltungsaktes mit Dauerwirkung bei Änderung der Verhältnisse (§ 48 des Zehnten Buches) sind insoweit nicht anzuwenden. Über die Anrechnung und Bewertung der im Versicherungsverlauf enthaltenen Daten wird erst bei Feststellung einer Leistung entschieden.
 
 # § 150 – Dateisysteme bei der Datenstelle
 
@@ -3905,25 +3929,25 @@ Eine Meldung nach § 28a Abs. 1 bis 3 des Vierten Buches haben zu erstatten
 
 (2) Bei Einberufung zu einem Zivildienst hat das Bundesamt für Familie und zivilgesellschaftliche Aufgaben Beginn und Ende des Zivildienstes zu melden.
 
-(3) § 28a Abs. 5 und § 28c des Vierten Buches gelten entsprechend.
+(3) § 28a Absatz 5, § 28b Absatz 1, die §§ 28c und 95 des Vierten Buches gelten entsprechend.
 
 # § 192a – Meldepflicht für Zeiten einer besonderen Auslandsverwendung
 
 (1) Zeiten einer besonderen Auslandsverwendung, für die Zuschläge an Entgeltpunkten nach § 76e zu ermitteln sind, hat das Bundesministerium der Verteidigung oder die von ihm bestimmte Stelle zu melden.
 
-(2) § 28a Absatz 5 und § 28c des Vierten Buches gelten entsprechend.
+(2) § 28a Absatz 5, § 28b Absatz 1, die §§ 28c und 95 des Vierten Buches gelten entsprechend.
 
 # § 192b – Meldepflichten bei Bezug von Übergangsgebührnissen
 
 (1) Bei früheren Soldaten auf Zeit, die Übergangsgebührnisse beziehen, hat das Bundesministerium der Verteidigung oder die von ihm bestimmte Stelle Beginn und Ende des Bezuges der Übergangsgebührnisse zu melden.
 
-(2) § 28a Absatz 1 Satz 2, Absatz 2, 3 und 5, § 28b Absatz 1, die §§ 28c und 95 Absatz 1 Satz 1 und 2 und Absatz 3 des Vierten Buches gelten entsprechend.
+(2) § 28a Absatz 5, § 28b Absatz 1, die §§ 28c und 95 des Vierten Buches gelten entsprechend.
 
 # § 192c – Meldepflichten bei Bezug von Erwerbsschadensausgleich
 
 (1) Bei Personen, die Erwerbsschadensausgleich nach dem Soldatenentschädigungsgesetz beziehen, hat das Bundesministerium der Verteidigung oder die von ihm bestimmte Stelle Beginn und Ende des Bezuges des Erwerbsschadensausgleichs sowie den Betrag des Erwerbsschadensausgleichs, der im gemeldeten Zeitraum gezahlt wurde, in vollen Euro zu melden.
 
-(2) § 28a Absatz 1 Satz 2, Absatz 2, 3 und 5, § 28b Absatz 1, die §§ 28c und 95 Absatz 1 Satz 1 und 2 sowie Absatz 3 des Vierten Buches, § 5 Absatz 1, 3, 4 und 6 sowie § 38 Absatz 2, 4 und 5 der Datenerfassungs- und -übermittlungsverordnung gelten entsprechend.
+(2) Die §§ 28c und 95 des Vierten Buches gelten entsprechend.
 
 # § 193 – Meldung von sonstigen rechtserheblichen Zeiten
 
@@ -3933,7 +3957,7 @@ Anrechnungszeiten sowie Zeiten, die für die Anerkennung von Anrechnungszeiten e
 
 (1) Arbeitgeber haben auf Verlangen des Rentenantragstellers die beitragspflichtigen Einnahmen und bei einer Beschäftigung im Übergangsbereich (§ 20 Absatz 2 des Vierten Buches) ab dem 1. Juli 2019 zusätzlich das Arbeitsentgelt ohne Anwendung des § 163 Absatz 7 für abgelaufene Zeiträume frühestens drei Monate vor Rentenbeginn gesondert zu melden. Dies gilt entsprechend bei einem Auskunftsersuchen des Familiengerichts im Versorgungsausgleichsverfahren. Die Aufforderung zur Meldung nach Satz 1 erfolgt elektronisch durch den Träger der Rentenversicherung. Satz 3 gilt nicht für Einzelfälle, in denen ein elektronisches Meldeverfahren nicht wirtschaftlich durchzuführen ist. Die Ausnahmen bestimmt die Deutsche Rentenversicherung Bund in Grundsätzen; diese bedürfen der Genehmigung des Bundesministeriums für Arbeit und Soziales. Erfolgt eine Meldung nach Satz 1, errechnet der Rentenversicherungsträger bei Anträgen auf Altersrente die voraussichtlichen für die Rentenberechnung maßgeblichen Einnahmen für den verbleibenden Beschäftigungszeitraum bis zum Rentenbeginn für bis zu drei Monate nach den in den letzten zwölf Kalendermonaten gemeldeten beitragspflichtigen Einnahmen und bei Beschäftigungen im Übergangsbereich (§ 20 Absatz 2 des Vierten Buches) den gemeldeten Arbeitsentgelten ohne Anwendung des § 163 Absatz 7. Die weitere Meldepflicht nach § 28a des Vierten Buches bleibt unberührt.
 
-(2) Eine gesonderte Meldung nach Absatz 1 Satz 1 und 2 haben auch die Leistungsträger über die beitragspflichtigen Einnahmen von Beziehern von Sozialleistungen, das Bundesministerium der Verteidigung oder die von ihm bestimmte Stelle über die beitragspflichtigen Einnahmen von Beziehern von Übergangsgebührnissen und die Pflegekassen sowie die privaten Versicherungsunternehmen über die beitragspflichtigen Einnahmen nicht erwerbsmäßig tätiger Pflegepersonen zu erstatten. Absatz 1 Satz 6 gilt entsprechend. Die Meldepflicht nach § 191 Satz 1 Nummer 2 und nach den §§ 192b und 44 Absatz 3 des Elften Buches bleibt unberührt.
+(2) Eine gesonderte Meldung nach Absatz 1 Satz 1 und 2 haben auch die Leistungsträger über die beitragspflichtigen Einnahmen von Beziehern von Sozialleistungen, das Bundesministerium der Verteidigung oder die von ihm bestimmte Stelle über die beitragspflichtigen Einnahmen von Beziehern von Übergangsgebührnissen und die Pflegekassen sowie die privaten Versicherungsunternehmen über die beitragspflichtigen Einnahmen nicht erwerbsmäßig tätiger Pflegepersonen zu erstatten. Absatz 1 Satz 6 gilt entsprechend. Die Meldepflichten nach § 191 Satz 1 Nummer 2, den §§ 192b und 192c dieses Buches und nach § 44 Absatz 3 des Elften Buches bleiben unberührt.
 
 (3) Die Beitragsberechnung erfolgt nach der tatsächlichen beitragspflichtigen Einnahme.
 
@@ -4153,7 +4177,7 @@ Die Träger der Rentenversicherung überwachen die rechtzeitige und vollständig
 
 (1) Die Träger der Rentenversicherung prüfen bei den Stellen, die die Pflichtbeiträge für sonstige Versicherte sowie für nachversicherte Personen zu zahlen haben (Zahlungspflichtige), ob diese ihre Meldepflichten und ihre sonstigen Pflichten nach diesem Gesetzbuch im Zusammenhang mit der Zahlung von Pflichtbeiträgen ordnungsgemäß erfüllen. Sie prüfen insbesondere die Richtigkeit der Beitragszahlungen und der Meldungen. Eine Prüfung erfolgt mindestens alle vier Jahre; die Prüfung soll in kürzeren Zeitabständen erfolgen, wenn der Zahlungspflichtige dies verlangt. Die Sätze 1 bis 3 gelten entsprechend für die Stellen, die die Beiträge für Zeiten einer besonderen Auslandsverwendung zu zahlen haben.
 
-(2) Ein Zahlungspflichtiger ist jeweils nur von einem Träger der Rentenversicherung zu prüfen. Die Träger der Rentenversicherung stimmen sich darüber ab, welche Zahlungspflichtigen sie prüfen. Soweit die Prüfungen durch die Regionalträger durchgeführt werden, ist örtlich der Regionalträger zuständig, in dessen Bereich der Zahlungspflichtige seinen Sitz oder Wohnsitz hat. Eine Prüfung beim Arbeitgeber nach § 28p des Vierten Buches soll zusammen mit einer Prüfung bei den Zahlungspflichtigen durchgeführt werden; eine entsprechende Kennzeichnung des Arbeitgebers im Dateisystem nach § 28p Abs. 8 Satz 1 des Vierten Buches ist zulässig.
+(2) Ein Zahlungspflichtiger ist jeweils nur von einem Träger der Rentenversicherung zu prüfen. Die Träger der Rentenversicherung stimmen sich darüber ab, welche Zahlungspflichtigen sie prüfen. Soweit die Prüfungen durch die Regionalträger durchgeführt werden, ist örtlich der Regionalträger zuständig, in dessen Bereich der Zahlungspflichtige seinen Sitz oder Wohnsitz hat. Eine Prüfung beim Arbeitgeber nach § 28p des Vierten Buches kann zusammen mit einer Prüfung bei den Zahlungspflichtigen durchgeführt werden; eine entsprechende Kennzeichnung des Arbeitgebers im Dateisystem nach § 28p Abs. 8 Satz 1 des Vierten Buches ist zulässig.
 
 (3) Die Zahlungspflichtigen haben angemessene Prüfhilfen zu leisten. Automatisierte Abrechnungsverfahren sind in die Prüfung einzubeziehen. Die Zahlungspflichtigen und die Träger der Rentenversicherung treffen entsprechende Vereinbarungen.
 
@@ -6660,7 +6684,7 @@ Entgeltpunkte werden nicht ermittelt für
 
 (2) (weggefallen)
 
-(2a) Der sich aus der Gesamtleistungsbewertung ergebende Wert wird für jeden Kalendermonat mit Anrechnungszeiten wegen Krankheit und Arbeitslosigkeit auf 80 vom Hundert begrenzt. Kalendermonate, die nur deshalb Anrechnungszeiten sind, weil Arbeitslosigkeit vor dem 1. März 1990 im Beitrittsgebiet, jedoch nicht vor dem 1. Juli 1978, vorgelegen hat, werden nicht bewertet. Kalendermonate, die nur deshalb Anrechnungszeiten sind, weil Arbeitslosigkeit nach dem 30. Juni 1978 vorgelegen hat, für die vor dem 1. Januar 2023 Arbeitslosenhilfe, Arbeitslosengeld oder Arbeitslosengeld II nicht oder Arbeitslosengeld II nur darlehensweise gezahlt worden ist oder nur Leistungen nach § 24 Absatz 3 Satz 1 des Zweiten Buches erbracht worden sind, werden nicht bewertet. Kalendermonate, die nur deshalb Anrechnungszeiten sind, weil Arbeitslosengeld II bis zum 31. Dezember 2022 bezogen worden ist, werden nicht bewertet.
+(2a) Der sich aus der Gesamtleistungsbewertung ergebende Wert wird für jeden Kalendermonat mit Anrechnungszeiten wegen Krankheit und Arbeitslosigkeit auf 80 vom Hundert begrenzt. Kalendermonate, die nur deshalb Anrechnungszeiten sind, weil Arbeitslosigkeit vor dem 1. März 1990 im Beitrittsgebiet, jedoch nicht vor dem 1. Juli 1978, vorgelegen hat, werden nicht bewertet. Kalendermonate, die nur deshalb Anrechnungszeiten sind, weil Arbeitslosigkeit nach dem 30. Juni 1978 vorgelegen hat, für die vor dem 1. Januar 2023 Arbeitslosenhilfe oder Arbeitslosengeld II nicht oder Arbeitslosengeld II nur darlehensweise gezahlt worden ist oder nur Leistungen nach § 24 Absatz 3 Satz 1 des Zweiten Buches erbracht worden sind, werden nicht bewertet. Kalendermonate, die nur deshalb Anrechnungszeiten sind, weil Arbeitslosengeld II bis zum 31. Dezember 2022 bezogen worden ist, werden nicht bewertet.
 
 (3) Der sich aus der Gesamtleistungsbewertung ergebende Wert wird für jeden Kalendermonat mit Anrechnungszeiten wegen einer Schul- oder Hochschulausbildung auf 75 vom Hundert begrenzt. Der so begrenzte Gesamtleistungswert darf für einen Kalendermonat 0,0625 Entgeltpunkte nicht übersteigen. Zeiten einer Schul- oder Hochschulausbildung werden insgesamt für höchstens drei Jahre bewertet; auf die drei Jahre werden Zeiten einer Fachschulausbildung oder der Teilnahme an einer berufsvorbereitenden Bildungsmaßnahme angerechnet. Bei der begrenzten Gesamtleistungsbewertung für die Zeiten der Schul- oder Hochschulausbildung treten an die Stelle  
   
@@ -7090,9 +7114,7 @@ Beginnt eine Rente wegen verminderter Erwerbsfähigkeit vor dem 1. Januar 2024 o
 
 Bestand am 31. Dezember 1991 Anspruch auf eine Rente nach den Vorschriften im Gebiet der Bundesrepublik Deutschland ohne das Beitrittsgebiet und auf eine Rente aus der Unfallversicherung, ist Grenzbetrag für diese und eine sich unmittelbar anschließende Rente mindestens der sich nach den §§ 311 und 312 ergebende, um die Beträge nach § 93 Abs. 2 Nr. 1 Buchstabe b und Nr. 2 Buchstabe a geminderte Betrag.
 
-# § 267 – Rente und Leistungen aus der Unfallversicherung
-
-Bei der Ermittlung der Summe der zusammentreffenden Rentenbeträge bleibt bei der Rente aus der Unfallversicherung auch die Kinderzulage unberücksichtigt.
+# § 267 – (weggefallen)
 
 # § 268 – Beginn von Witwenrenten und Witwerrenten an vor dem 1. Juli 1977 geschiedene Ehegatten
 
@@ -7865,11 +7887,7 @@ Die Leistung für Kindererziehung bleibt als Einkommen unberücksichtigt, wenn b
 
 (4) Mit Rehabilitationseinrichtungen, die vor dem 1. Juli 2023 Leistungen zur medizinischen Rehabilitation aufgrund von Vereinbarungen mit einem Träger der Rentenversicherung erbracht haben, gilt eine Zulassungsentscheidung als erteilt, sofern die Anforderungen nach § 15 Absatz 3 erfüllt sind.
 
-# § 301a – Einmalzahlungs-Neuregelungsgesetz
-
-(1) Für die Ermittlung der Berechnungsgrundlage für Ansprüche auf Übergangsgeld, die vor dem 1. Januar 2001 entstanden sind, ist § 47 Abs. 1 und 2 des Fünften Buches in der vor dem 22. Juni 2000 jeweils geltenden Fassung für Zeiten nach dem 31. Dezember 1996 mit der Maßgabe entsprechend anzuwenden, dass sich das Regelentgelt um 10 vom Hundert, höchstens aber bis zur Höhe des Betrages der kalendertäglichen Beitragsbemessungsgrenze, erhöht. Das regelmäßige Nettoarbeitsentgelt ist um denselben Vomhundertsatz zu erhöhen.
-
-(2) Die Erhöhung nach Absatz 1 gilt für Ansprüche, über die vor dem 22. Juni 2000 bereits unanfechtbar entschieden war, nur für Zeiten vom 22. Juni 2000 an bis zum Ende der Leistungsdauer. Entscheidungen über die Ansprüche auf Übergangsgeld, die vor dem 22. Juni 2000 unanfechtbar geworden sind, sind nicht nach § 44 Abs. 1 des Zehnten Buches zurückzunehmen.
+# § 301a – (weggefallen)
 
 # § 302 – Anspruch auf Altersrente in Sonderfällen
 
@@ -8418,13 +8436,7 @@ wird diese in Höhe des um 6,84 vom Hundert erhöhten bisherigen Betrages weiter
 
 (4) Berechtigte erhalten eine Rente wegen Berufsunfähigkeit nur, wenn sie auf diese Rente bereits für die Zeit, in der sie ihren gewöhnlichen Aufenthalt noch im Inland gehabt haben, einen Anspruch hatten.
 
-# § 317a – Neufeststellung
-
-(1) Eine nach den Vorschriften dieses Buches berechnete Rente, in der die persönlichen Entgeltpunkte zu 70 vom Hundert berücksichtigt wurden, wird ab dem 1. Oktober 2013 neu festgestellt. Bei der Neufeststellung sind die §§ 113, 114 und 272 in der am 1. Oktober 2013 geltenden Fassung anzuwenden.
-
-(2) Bestand am 31. Dezember 1991 Anspruch auf eine Rente, in der der Rentenbetrag zu 70 vom Hundert berücksichtigt wurde, wird diese auf Antrag ab 1. Oktober 2013 neu festgestellt. Bei der Neufeststellung sind das am 1. Januar 1992 geltende Recht und die §§ 113, 114 und 272 in der am 1. Oktober 2013 geltenden Fassung anzuwenden.
-
-(3) Hatten Versicherte ihren gewöhnlichen Aufenthalt am 18. Mai 1990 oder, falls sie verstorben sind, zuletzt vor dem 19. Mai 1990 im Gebiet der Bundesrepublik Deutschland ohne das Beitrittsgebiet und sind in einer Rente für Zeiten vor dem 19. Mai 1990 an die Stelle von Entgeltpunkten Entgeltpunkte (Ost) getreten, weil sich die berechtigte Person nach dem 18. Mai 1990 nicht mehr gewöhnlich im Inland aufgehalten hat, so ist diese Rente ab 1. Juli 2020 neu festzustellen und zu leisten. Bei der Neufeststellung ist § 254d Absatz 2 Satz 1 Nummer 1 Buchstabe a in der am 1. Juli 2020 geltenden Fassung anzuwenden.
+# § 317a – (weggefallen)
 
 # § 318 – (weggefallen)
 

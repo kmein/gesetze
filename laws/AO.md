@@ -3036,7 +3036,7 @@ d) das Steueridentifikationsmerkmal oder die Steuernummer, soweit dem Intermedi�
 
 a) soweit vorhanden, eines Verweises auf die Bezeichnung, unter der die Steuergestaltung allgemein bekannt ist, und
 
-b) einer abstrakt gehaltenen Beschreibung der relevanten Geschäftstätigkeit oder Gestaltung des Nutzers, soweit dies nicht zur Offenlegung eines Handels-, Gewerbe- oder Berufsgeheimnisses oder eines Geschäftsverfahrens oder von Informationen führt, deren Offenlegung die öffentliche Ordnung verletzen würde,
+b) einer abstrakt gehaltenen Beschreibung der relevanten Geschäftstätigkeit oder Gestaltung des Nutzers sowie aller sonstigen Informationen, die den zuständigen Behörden bei der Beurteilung eines Steuerrisikos helfen könnten, soweit die Beschreibung nicht zur Offenlegung eines Handels-, Gewerbe- oder Berufsgeheimnisses oder eines Geschäftsverfahrens oder von Informationen führt, deren Offenlegung die öffentliche Ordnung verletzen würde,
 
 6. das Datum des Tages, an dem der erste Schritt der Umsetzung der grenzüberschreitenden Steuergestaltung gemacht wurde oder voraussichtlich gemacht werden wird,
 
@@ -6498,7 +6498,7 @@ und dadurch ermöglicht, Steuern zu verkürzen oder nicht gerechtfertigte Steuer
 
 1d. der Mitteilungspflicht nach § 138b Absatz 1 bis 3 nicht, nicht vollständig oder nicht rechtzeitig nachkommt,
 
-1e. entgegen § 138d Absatz 1 in Verbindung mit § 138f Absatz 1, 2, 3 Satz 1 Nummer 1 bis 7 sowie 9 und 10 oder § 138h Absatz 2, jeweils auch in Verbindung mit § 138f Absatz 6 Satz 1 und 2 oder § 138g Absatz 1 Satz 1, eine Mitteilung über eine grenzüberschreitende Steuergestaltung nicht oder nicht rechtzeitig macht oder zur Verfügung stehende Angaben nicht vollständig mitteilt,
+1e. entgegen § 138d Absatz 1 in Verbindung mit § 138f Absatz 1, 2, 3 Satz 1 Nummer 1 bis 7 sowie 9 und 10 oder § 138h Absatz 2, jeweils auch in Verbindung mit § 138f Absatz 6 Satz 1 und 2 oder § 138g Absatz 1 Satz 1, eine Mitteilung über eine grenzüberschreitende Steuergestaltung nicht, nicht richtig oder nicht rechtzeitig macht oder zur Verfügung stehende Angaben nicht vollständig mitteilt,
 
 1f. (weggefallen)
 

@@ -21,11 +21,11 @@ c) Verlobten, Ehegatten oder geschiedenen Ehegatten,
 
 soweit diese Personen bereits im zentralen Informationssystem für die Finanzkontrolle Schwarzarbeit erfasst sind,
 
-3. eines der folgenden Kontaktdaten:
+3. folgende Kontaktdaten:
 
 a) Telefonnummer,
 
-b) Mobiltelefonnummer oder
+b) Mobiltelefonnummer und
 
 c) E-Mail-Adresse,
 
@@ -109,11 +109,11 @@ c) Verlobten, Ehegatten oder geschiedenen Ehegatten,
 
 soweit diese Personen bereits im zentralen Informationssystem für die Finanzkontrolle Schwarzarbeit erfasst sind,
 
-4. eines der folgenden Kontaktdaten:
+4. folgende Kontaktdaten:
 
 a) Telefonnummer,
 
-b) Mobiltelefonnummer oder
+b) Mobiltelefonnummer und
 
 c) E-Mail-Adresse,
 
@@ -131,9 +131,9 @@ c) E-Mail-Adresse,
 
 11. folgende Zuordnungsmerkmale von Zusammenarbeitsbehörden:
 
-a) Kundennummer der Träger nach dem Zweiten oder dem Dritten Buch Sozialgesetzbuch und
+a) Kundennummer der Träger nach dem Zweiten oder dem Dritten Buch Sozialgesetzbuch und Betriebsnummer nach dem Vierten Buch Sozialgesetzbuch sowie
 
-b) Steueridentifikationsnummer, Wirtschafts-Identifikationsnummer oder Umsatzsteuer-Identifikationsnummer.
+b) Steueridentifikationsnummer, Wirtschafts-Identifikationsnummer, Kleinunternehmer-Identifikationsnummer oder Umsatzsteuer-Identifikationsnummer.
 
 (2) Darüber hinaus können zu den in Absatz 1 genannten Personen folgende Daten zu ihrer betrieblichen Tätigkeit gespeichert werden, sofern dies zur Aufgabenerfüllung erforderlich ist:
 
@@ -181,7 +181,7 @@ j) Mitglied einer Arbeitsgemeinschaft zur gemeinsamen Ausführung eines Auftrags
 
 (3) Zu Personen, die zur Vertretung der Unternehmen berechtigt sind, können im zentralen Informationssystem für die Finanzkontrolle Schwarzarbeit die Daten nach § 2 Absatz 1 Nummer 2 bis 4 gespeichert werden, wenn dies zur Aufgabenerfüllung erforderlich ist.
 
-(4) Sofern gegen vertretungsberechtigte Organe oder faktisch Vertretende des Unternehmens strafrechtliche Ermittlungen geführt werden, können im zentralen Informationssystem für die Finanzkontrolle Schwarzarbeit folgende Daten zu Unternehmen gespeichert werden, sofern dies zur Aufgabenerfüllung erforderlich ist:
+(4) Sofern gegen vertretungsberechtigte Organe oder faktisch Vertretende des Unternehmens oder das Unternehmen selbst straf- oder ordnungswidrigkeitenrechtliche Ermittlungen geführt werden, können im zentralen Informationssystem für die Finanzkontrolle Schwarzarbeit folgende Daten zu Unternehmen gespeichert werden, sofern dies zur Aufgabenerfüllung erforderlich ist:
 
 1. Art und Höhe von Vermögenswerten für die Zwecke von vorläufigen Sicherungsmaßnahmen nach den §§ 111b bis 111q der Strafprozessordnung sowie Einziehungsmaßnahmen in den Fällen des § 73b des Strafgesetzbuches und
 
@@ -189,7 +189,9 @@ j) Mitglied einer Arbeitsgemeinschaft zur gemeinsamen Ausführung eines Auftrags
 
 # § 4 – Speicherung von Daten aus Hinweisen
 
-Aus Hinweisen, welche der Finanzkontrolle Schwarzarbeit zu Sachverhalten und etwaigen Verstößen mitgeteilt werden, können im zentralen Informationssystem für die Finanzkontrolle Schwarzarbeit personenbezogene Daten oder dem Schutz nach § 67 Absatz 2 Satz 2 des Zehnten Buches Sozialgesetzbuch unterliegende Daten gespeichert werden. Die Daten müssen zur Aufgabenerfüllung erforderlich sein und den in § 16 Absatz 2 Satz 1 des Schwarzarbeitsbekämpfungsgesetzes oder den in den §§ 1 bis 3 oder in den §§ 5 bis 7 dieser Rechtsverordnung genannten Daten entsprechen.
+(1) Aus Hinweisen, welche der Finanzkontrolle Schwarzarbeit zu Sachverhalten und etwaigen Verstößen mitgeteilt werden, können im zentralen Informationssystem für die Finanzkontrolle Schwarzarbeit personenbezogene Daten oder dem Schutz nach § 67 Absatz 2 Satz 2 des Zehnten Buches Sozialgesetzbuch unterliegende Daten gespeichert werden. Die Daten müssen zur Aufgabenerfüllung erforderlich sein und den in § 16 Absatz 2 Satz 1 des Schwarzarbeitsbekämpfungsgesetzes oder den in den §§ 1 bis 3 oder in den §§ 5 bis 7 genannten Daten entsprechen.
+
+(2) Aus Risikohinweisen, welche der Finanzkontrolle Schwarzarbeit im Rahmen der automationsgestützten Analyse gemäß § 26 Absatz 5 Satz 4 des Schwarzarbeitsbekämpfungsgesetzes übermittelt werden, können neben den Daten nach den §§ 1 und 2 auch die Risikoindikatoren gespeichert werden, sofern dies zur Aufgabenerfüllung erforderlich ist.
 
 # § 5 – Speicherung von weiteren Ortsangaben
 
@@ -197,7 +199,7 @@ Im Rahmen von Prüfungen können im zentralen Informationssystem für die Finanz
 
 # § 6 – Speicherung von Daten zu Beschuldigten und Betroffenen
 
-Neben den nach den §§ 1, 2 und 3 Absatz 3 speicherbaren Daten können im zentralen Informationssystem für die Finanzkontrolle Schwarzarbeit zu Beschuldigten im Rahmen von strafrechtlichen Ermittlungen und zu Betroffenen sowie Beteiligten im Ordnungswidrigkeitenverfahren folgende Daten gespeichert werden, sofern dies zur Aufgabenerfüllung erforderlich ist:
+Neben den nach den §§ 1, 2 und 3 Absatz 3 speicherbaren Daten können im zentralen Informationssystem für die Finanzkontrolle Schwarzarbeit zu Beschuldigten im Rahmen von strafrechtlichen Ermittlungen und zu Betroffenen sowie Beteiligten im Ordnungswidrigkeitenverfahren sowie zu Dritten im Rahmen von vermögensabschöpfenden Maßnahmen folgende Daten gespeichert werden, sofern dies zur Aufgabenerfüllung erforderlich ist:
 
 1. Angaben zum Gegenstand des Vorwurfs:
 
@@ -215,15 +217,15 @@ c) die Tatbegehungsweisen,
 
 5. Art und Höhe von Vermögenswerten,
 
-6. folgende Kommunikationsmittel, sofern diese bei der Tat verwendet wurden oder werden:
+6. folgende Kontaktdaten:
 
-a) Telefonnummern,
+a) Telefonnummer,
 
-b) Mobiltelefonnummern,
+b) Mobiltelefonnummer,
 
-c) Telefaxnummern und
+c) Telefaxnummer und
 
-d) E-Mail-Adressen,
+d) E-Mail-Adresse,
 
 7. Aufenthaltsorte und
 
@@ -233,11 +235,11 @@ d) E-Mail-Adressen,
 
 Neben den nach den §§ 1, 2 und 3 Absatz 2 speicherbaren Daten können im zentralen Informationssystem für die Finanzkontrolle Schwarzarbeit zu Zeugen folgende Daten gespeichert werden, sofern dies zur Aufgabenerfüllung erforderlich ist:
 
-1. eines der folgenden Kontaktdaten:
+1. folgende Kontaktdaten:
 
 a) Telefonnummer,
 
-b) Mobiltelefonnummer oder
+b) Mobiltelefonnummer,
 
 c) E-Mail-Adresse und
 

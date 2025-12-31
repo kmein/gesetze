@@ -162,7 +162,11 @@ c) die Durchführung von Bußgeldverfahren nach § 98 des Mindeststeuergesetzes;
 
 5i.
 
-die Auswertung der Informationen nach den Nummern 5c bis 5h im Rahmen der dem Bundeszentralamt für Steuern gesetzlich übertragenen Aufgaben; Auswertungen der Informationen nach den Nummern 5c bis 5h durch die jeweils zuständige Landesfinanzbehörde bleiben hiervon unberührt;
+die Entgegennahme und die Übermittlung von Informationen nach § 16 Absatz 1 bis 3 des Kryptowerte-Steuertransparenz-Gesetzes und die Durchführung der Verfahren gemäß den §§ 17 und 18 des Kryptowerte-Steuertransparenz-Gesetzes;
+
+5j.
+
+die Auswertung der Informationen nach den Nummern 5c bis 5i im Rahmen der dem Bundeszentralamt für Steuern gesetzlich übertragenen Aufgaben; Auswertungen der Informationen nach den Nummern 5c bis 5i durch die jeweils zuständige Landesfinanzbehörde bleiben hiervon unberührt;
 
 6\.
 

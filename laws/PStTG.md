@@ -211,7 +211,7 @@ c) sofern weder eine Wirtschafts-Identifikationsnummer noch eine Identifikations
 
 (8) Die Kennung des Finanzkontos ist die eindeutige, dem Plattformbetreiber vorliegende Kennnummer oder Referenz des jeweiligen Bankkontos oder eines ähnlichen Zahlungsdienstkontos, auf das die Vergütung gezahlt oder gutgeschrieben wird.
 
-(9) Ein Identifizierungsdienst ist ein elektronisches Verfahren, das ein Mitgliedstaat der Europäischen Union oder die Europäische Union einem Plattformbetreiber zur direkten Bestätigung der Identität und steuerlichen Ansässigkeit eines Anbieters bereitstellt.
+(9) Ein Identifizierungsdienst ist ein elektronisches Verfahren, das ein Mitgliedstaat der Europäischen Union oder die Europäische Union einem Plattformbetreiber zur Feststellung der Identität und steuerlichen Ansässigkeit eines Anbieters unentgeltlich bereitstellt.
 
 (10) Ein Drittstaat ist jeder Staat oder jedes Gebiet, der oder das nicht Mitgliedstaat der Europäischen Union ist.
 
@@ -259,7 +259,7 @@ Zuständige Behörde im Sinne dieses Gesetzes ist das Bundesministerium der Fina
 
 2. die zuständigen Behörden aller Mitgliedstaaten der Europäischen Union, in denen das unbewegliche Vermögen belegen ist, wenn der meldepflichtige Anbieter relevante Tätigkeiten nach § 5 Absatz 1 Satz 1 Nummer 1 erbracht hat.
 
-Die Übermittlung erfolgt mit Ablauf des zweiten Monats des Kalenderjahres, das auf den Meldezeitraum folgt. Eine Anhörung der Beteiligten nach § 117 Absatz 4 Satz 3 der Abgabenordnung findet nicht statt.
+Die Übermittlung erfolgt mit Ablauf des zweiten Monats des Kalenderjahres, das auf den Meldezeitraum folgt. Eine Anhörung der Beteiligten nach § 117 Absatz 4 Satz 3 der Abgabenordnung findet nicht statt. In den Fällen des § 14 Absatz 2 Nummer 12 ist es nicht erforderlich, dem Mitgliedstaat der Europäischen Union, der die Kennung des Identifizierungsdienstes ausgestellt hat, die in § 14 Absatz 2 Nummer 2 bis 5 und Absatz 3 Nummer 2 bis 6 genannten Informationen zu übermitteln.
 
 (4) Das Bundeszentralamt für Steuern ist berechtigt, die Informationen, die ihm nach Absatz 1 übermittelt worden sind, zur Erfüllung der ihm gesetzlich übertragenen Aufgaben auszuwerten. Eine Auswertung der Informationen durch die jeweils zuständige Landesfinanzbehörde bleibt hiervon unberührt. § 19 Absatz 2 des EU-Amtshilfegesetzes bleibt unberührt.
 
@@ -383,7 +383,7 @@ Das Bundeszentralamt für Steuern weist dem meldenden Plattformbetreiber vorbeha
 
 (4) Das Bundeszentralamt für Steuern teilt den zuständigen Behörden aller anderen Mitgliedstaaten der Europäischen Union die Registriernummer mit, die es einem meldenden Plattformbetreiber zugewiesen hat, sowie die in Absatz 2 Satz 1 genannten Informationen und alle Änderungen dieser Informationen.
 
-(5) Das Bundeszentralamt für Steuern ersucht die Europäische Kommission, die Registrierung eines meldenden Plattformbetreibers, dem es eine Registriernummer erteilt hat, aus dem Zentralverzeichnis gemäß Artikel 8ac Absatz 5 der Amtshilferichtlinie zu löschen, wenn
+(5) Das Bundeszentralamt für Steuern löscht die Registrierung eines meldenden Plattformbetreibers, dem es eine Registriernummer erteilt hat, aus dem Zentralverzeichnis gemäß Artikel 8ac Absatz 6 der Amtshilferichtlinie, wenn
 
 1. der Plattformbetreiber dem Bundeszentralamt für Steuern mitteilt, dass die Voraussetzungen nach § 3 Absatz 4 Nummer 2 Buchstabe c nicht länger erfüllt sind,
 
@@ -465,7 +465,9 @@ b) relevante Tätigkeiten nach § 5 Absatz 1 Satz 1 Nummer 1 in Bezug auf unbewe
 
 10. die in jedem Quartal des Meldezeitraums insgesamt gezahlte oder gutgeschriebene Vergütung;
 
-11. die Zahl der relevanten Tätigkeiten, für die in jedem Quartal des Meldezeitraums eine Vergütung gezahlt oder gutgeschrieben wurde.
+11. die Zahl der relevanten Tätigkeiten, für die in jedem Quartal des Meldezeitraums eine Vergütung gezahlt oder gutgeschrieben wurde;
+
+12. die Kennung des Identifizierungsdienstes und den Mitgliedstaat der Europäischen Union, der die Kennung ausgestellt hat, sofern sich der meldende Plattformbetreiber auf eine direkte Bestätigung der Identität und der steuerlichen Ansässigkeit des Anbieters durch einen von einem Mitgliedstaat der Europäischen Union oder der Europäischen Union bereitgestellten Identifizierungsdienst stützt, um die Identität und die steuerliche Ansässigkeit des Anbieters zu ermitteln.
 
 (3) Meldende Plattformbetreiber haben für jeden meldepflichtigen Anbieter, der ein Rechtsträger ist, die folgenden Informationen zu melden:
 
@@ -481,7 +483,7 @@ b) relevante Tätigkeiten nach § 5 Absatz 1 Satz 1 Nummer 1 in Bezug auf unbewe
 
 6. sofern vorhanden, das Bestehen einer Betriebsstätte in der Europäischen Union, über die relevante Tätigkeiten ausgeübt werden, und den jeweiligen Mitgliedstaat der Europäischen Union, in dem sich diese Betriebsstätte befindet;
 
-7. die in Absatz 2 Nummer 6 bis 11 genannten Informationen.
+7. die in Absatz 2 Nummer 6 bis 12 genannten Informationen.
 
 (4) Meldende Plattformbetreiber haben für jeden meldepflichtigen Anbieter, der relevante Tätigkeiten nach § 5 Absatz 1 Satz 1 Nummer 1 erbracht hat, zusätzlich zu den Informationen nach den Absätzen 2 und 3 folgende Informationen zu melden:
 
@@ -533,9 +535,7 @@ Es steht meldenden Plattformbetreibern frei, die Verfahren zur Erfüllung der So
 
 2. nach § 14 Absatz 2 Nummer 3 und Absatz 3 Nummer 3, wenn der Mitgliedstaat der Europäischen Union, in dem der Anbieter als ansässig gilt, die Erhebung dieser Informationen nicht verlangt.
 
-(5) Abweichend von den Absätzen 1 und 2 ist ein meldender Plattformbetreiber nicht verpflichtet, die Informationen nach § 14 Absatz 2 Nummer 2 bis 5 und Absatz 3 Nummer 2 bis 6 zu erheben und auch nicht verpflichtet, die Ansässigkeit nach § 4 Absatz 6 Satz 2 bis 4 zu bestimmen, sofern der meldende Plattformbetreiber zur Bestätigung der Identität und der steuerlichen Ansässigkeit des Anbieters einen Identifizierungsdienst verwendet.
-
-(6) Abweichend von den Absätzen 1 bis 3 sind die Informationen nach § 14 Absatz 2 Nummer 4, Absatz 3 Nummer 4 und 6 und Absatz 4 Nummer 6 nur zu erheben, soweit der jeweilige Anbieter über diese verfügt.
+(5) Abweichend von den Absätzen 1 bis 3 sind die Informationen nach § 14 Absatz 2 Nummer 4, Absatz 3 Nummer 4 und 6 und Absatz 4 Nummer 6 nur zu erheben, soweit der jeweilige Anbieter über diese verfügt.
 
 # § 18 – Überprüfung meldepflichtiger Informationen
 
@@ -675,4 +675,4 @@ Das Bundeszentralamt für Steuern arbeitet im Rahmen der gegenseitigen Amtshilfe
 
 # § 29 – Anwendungsbestimmungen
 
-Die Pflichten nach den Abschnitten 2 und 3 sind erstmals für den Meldezeitraum zu beachten, der dem Kalenderjahr 2023 entspricht. § 6 Absatz 3 in der Fassung des Artikels 38 des Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I Nr. 387) ist auf Meldezeiträume anzuwenden, die am oder nach dem 1. Januar 2024 beginnen.
+Die Pflichten nach den Abschnitten 2 und 3 sind erstmals für den Meldezeitraum zu beachten, der dem Kalenderjahr 2023 entspricht. § 6 Absatz 3 in der Fassung des Artikels 38 des Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I Nr. 387) ist auf Meldezeiträume anzuwenden, die am oder nach dem 1. Januar 2024 beginnen. § 9 Absatz 3 Satz 4 und § 14 Absatz 2 Nummer 12 sind erstmals für Meldezeiträume anzuwenden, die am oder nach dem 1. Januar 2026 beginnen.
