@@ -155,11 +155,13 @@ Diese Verordnung dient der Durchführung des GAP-Konditionalitäten-Gesetzes und
 
 # § 4 – Anlage von Ersatzflächen bei genehmigter Umwandlung
 
-(1) Eine Ersatzfläche ist fünf aufeinander folgende Jahre als Dauergrünland zu nutzen. Satz 1 gilt auch für Flächen, die vor dem 1. Januar 2023 auf Grund von Vorschriften über die Erhaltung des Dauergrünlands bei der Zahlung für dem Klima- und Umweltschutz förderliche Landbewirtschaftungsmethoden zur Durchführung von Titel III Kapitel 3 der Verordnung (EU) Nr. 1307/2013 in der Fassung vom 31. Dezember 2022
+(1) Eine Ersatzfläche ist mindestens fünf aufeinanderfolgende Jahre für den Anbau von Gras oder anderen Grünfutterpflanzen zu nutzen, ohne Bestandteil der Fruchtfolge zu sein und ohne gepflügt zu werden. Sofern eine Fläche bereits in der in Satz 1 beschriebenen Weise genutzt wird, ist sie während der verbleibenden Anzahl von Jahren, um fünf aufeinanderfolgende Jahre zu erreichen, in derselben Weise zu nutzen. Satz 1 gilt auch für Flächen, die vor dem 1. Januar 2023 aufgrund von Vorschriften über die Erhaltung des Dauergrünlands bei der Zahlung für dem Klima- und Umweltschutz förderliche Landbewirtschaftungsmethoden zur Durchführung von Titel III Kapitel 3 der Verordnung (EU) Nr. 1307/2013 in der Fassung vom 31. Dezember 2022
 
 1. als Dauergrünland angelegt oder rückumgewandelt wurden und
 
 2. nach diesen Vorschriften als Dauergrünland gelten.
+
+Eine Ersatzfläche gilt als zu dem Zeitpunkt entstanden, zu dem die Dauergrünlandfläche entstanden ist, für die sie als Ersatz angelegt wird.
 
 (2) Für die Umwandlung einer Ersatzfläche gilt § 5 Absatz 1 Satz 2 Nummer 3 des GAP-Konditionalitäten-Gesetzes entsprechend.
 
@@ -167,7 +169,7 @@ Diese Verordnung dient der Durchführung des GAP-Konditionalitäten-Gesetzes und
 
 (4) Soweit die Ersatzfläche nicht zu dem Betrieb der antragstellenden Person gehört, ist die schriftliche oder elektronische Bereitschaftserklärung des Begünstigten, zu dessen Betrieb die Fläche gehört, zur Umwandlung dieser Fläche in Dauergrünland erforderlich.
 
-(5) Soweit die Ersatzfläche nicht zu dem Betrieb der antragstellenden Person gehört, muss sie zu dem Betrieb eines Begünstigten gehören, der in Bezug auf diese Fläche an dem auf die Genehmigung folgenden Schlusstermin für den Sammelantrag nach § 6 des GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetzes den Anforderungen des § 3 Absatz 1 des GAP-Konditionalitäten-Gesetzes unterliegt.
+(5) Soweit die Ersatzfläche nicht zu dem Betrieb der antragstellenden Person gehört, muss sie zu dem Betrieb eines Begünstigten gehören, der in Bezug auf diese Fläche an dem auf die Genehmigung folgenden Schlusstermin für die Einreichung des Sammelantrages nach § 6 des GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetzes den Anforderungen des § 3 Absatz 1 des GAP-Konditionalitäten-Gesetzes unterliegt. Die Ersatzfläche darf zu dem auf die Erteilung der Genehmigung folgenden Schlusstermin für die Einreichung des Sammelantrages nach § 6 des GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetzes nicht zu dem Betrieb eines begünstigten Dritten gehören, der teilweise oder insgesamt nach der Verordnung (EU) 2018/848 zertifiziert ist oder bis zu 10 Hektar landwirtschaftlicher Fläche bewirtschaftet.
 
 (6) Die antragstellende Person hat sich gegenüber der zuständigen Behörde schriftlich oder elektronisch zu verpflichten, im Falle eines Wechsels des Eigentums oder des Besitzes an einer Ersatzfläche während der Laufzeit der Verpflichtung nach Absatz 1 jeden nachfolgenden Eigentümer und den nachfolgenden Besitzer darüber zu unterrichten, dass und seit wann die Ersatzfläche der Verpflichtung nach Absatz 1 unterliegt. Soweit die Ersatzfläche nicht im Eigentum der antragstellenden Person steht, hat die antragstellende Person der zuständigen Behörde eine schriftliche oder elektronische Verpflichtung des Eigentümers des Ersatzgrundstücks zur Unterrichtung jedes nachfolgenden Eigentümers nach Satz 1 vorzulegen.
 
@@ -195,7 +197,7 @@ Die Ersatzfläche ist bis zu dem auf die Genehmigung folgenden Schlusstermin fü
 
 (2) Sofern im Falle des Absatzes 1 zum Zeitpunkt der Umwandlung die Voraussetzungen einer Genehmigung vorlagen, soll die zuständige Behörde auf Antrag des Begünstigten die Umwandlung nachträglich genehmigen.
 
-(3) Hat ein Begünstigter entgegen § 5 Absatz 1 Satz 2 Nummer 3 des GAP-Konditionalitäten-Gesetzes keine Ersatzfläche angelegt, hat die zuständige Behörde die Rückumwandlung der Fläche in Dauergrünland anzuordnen. Die zuständige Behörde hat dem Begünstigten eine angemessene Frist für die Rückumwandlung zu setzen. § 4 Absatz 1 Satz 1 und Absatz 2 gilt entsprechend.
+(3) (weggefallen)
 
 # § 8 – Nichtanwendbarkeit von § 6 des GAP- Konditionalitäten-Gesetzes in bestimmten Fällen
 
@@ -269,7 +271,7 @@ b) die Zuordnung der Gebietskulisse zu den landwirtschaftlichen Parzellen und
 
 (2) Absatz 1 gilt nicht, sofern Dauergrünland betroffen ist, das
 
-1. in einem Gebiet liegt, das in die Liste nach Artikel 4 Absatz 3 Unterabsatz 3 der Richtlinie 92/43/EWG eingetragen ist,
+1. in einem Gebiet liegt, das in die Liste nach Artikel 4 Absatz 2 Unterabsatz 3 der Richtlinie 92/43/EWG eingetragen ist,
 
 2. in einem Gebiet liegt, das nach Artikel 4 Absatz 1 Unterabsatz 2 der Richtlinie 2009/147/EG als Schutzgebiet ausgewiesen ist,
 
@@ -279,9 +281,25 @@ b) die Zuordnung der Gebietskulisse zu den landwirtschaftlichen Parzellen und
 
 (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 30.4.2025 I Nr. 128 +++)
 
-# § 12a – Neuansaat, Neuanpflanzung und Rodung von Dauerkulturen
+# § 12a – Narbenerneuerung, Wiederherstellung, Dauerkulturen
 
-Sofern innerhalb der Gebietskulisse nach § 11 die Neuansaat, Neuanpflanzung oder die Rodung von Dauerkulturen erforderlich wird, ist, soweit erforderlich, eine tiefer als 30 Zentimeter reichende Bodenwendung zulässig. Neuansaat, Neuanpflanzung und Rodung von Dauerkulturen sind in Übereinstimmung mit den Grundsätzen der guten fachlichen Praxis und nur in dem jeweils erforderlichen Umfang durchzuführen.
+(1) Abweichend von § 10 Absatz 1 Satz 1 des GAP-Konditionalitäten-Gesetzes ist die aktive Erneuerung einer Dauergrünlandnarbe zulässig. Sie bedarf der vorherigen Genehmigung. Die zuständige Behörde hat die Genehmigung zu erteilen, wenn
+
+1. die Dauergrünlandnarbe geschädigt oder die Erneuerung nach den Grundsätzen der guten fachlichen Praxis gerechtfertigt ist,
+
+2. die Erneuerung durch eine nichtwendende, den Grundsätzen der guten fachlichen Praxis entsprechende Bodenbearbeitung erfolgen wird,
+
+3. die Einsaat von Gras oder anderen Grünfutterpflanzen in Übereinstimmung mit den Grundsätzen der guten fachlichen Praxis zeitnah nach der Bodenbearbeitung erfolgen wird,
+
+4. die Erneuerung den Belangen des Natur- und Klimaschutzes nicht widerspricht und
+
+5. andere Rechtsvorschriften der Erneuerung nicht entgegenstehen.
+
+Erfolgt die aktive Erneuerung einer Dauergrünlandnarbe nicht in Übereinstimmung mit Satz 3 Nummer 2 und 3, so ist die Genehmigung auch mit Wirkung für die Vergangenheit zu widerrufen.
+
+(2) Sofern Dauergrünland dem Verbot nach § 10 Absatz 1 Satz 1 des GAP-Konditionalitäten-Gesetzes zuwider umgewandelt wurde, hat die zuständige Behörde die Rückumwandlung der Fläche in Dauergrünland anzuordnen. Die Anordnung ist an den Begünstigten zu richten, der zum Zeitpunkt der Anordnung Bewirtschafter der Fläche ist. Die Anordnung ist flächenbezogen und gilt auch für nachfolgende Bewirtschafter, sofern diese Begünstigte sind. Die zuständige Behörde hat eine angemessene Frist für die Rückumwandlung zu setzen.
+
+(3) Sofern innerhalb der Gebietskulisse nach § 11 die Neuansaat, Neuanpflanzung oder die Rodung von Dauerkulturen erforderlich wird, ist, soweit erforderlich, eine tiefer als 30 Zentimeter reichende Bodenwendung zulässig. Neuansaat, Neuanpflanzung und Rodung von Dauerkulturen sind in Übereinstimmung mit den Grundsätzen der guten fachlichen Praxis und nur in dem jeweils erforderlichen Umfang durchzuführen.
 
 # § 13 – Überprüfung der Genehmigung der erstmaligen oder vertieften Entwässerung landwirtschaftlicher Flächen
 
@@ -361,13 +379,11 @@ Ein Wechsel der Art der Mindestbodenbedeckung nach Satz 2 ist zulässig, sofern 
 
 3. Ackerland auf schweren Böden nach Anlage 6 oder solchen mit mindestens 17 Prozent Tongehalt in der Zeit beginnend unmittelbar nach der Ernte bis zum 1. Oktober des Antragsjahres eine Mindestbodenbedeckung nach Absatz 1 Satz 2 sicherstellen.
 
+(2a) Ab dem Antragsjahr 2026 darf zur Bekämpfung der Schilf-Glasflügelzikade (Pentastiridius leporinus) und der durch sie übertragenen Krankheitserreger auf Ackerflächen, auf denen Rüben, Kartoffeln, Rote Bete, Mangold, Möhren, Steckrüben, Zwiebeln oder Sellerie als Hauptkultur angebaut werden, auf die in Absatz 1 genannte Mindestbodenbedeckung verzichtet werden, sofern anschließend während des Antragsjahres keine Zwischenfrüchte und keine weitere Kultur angebaut werden. Satz 1 ist nur in Gebieten anzuwenden, für die eine Bedrohung oder ein Befall durch die Schilf-Glasflügelzikade (Pentastiridius leporinus) durch die zuständige Stelle des betreffenden Landes amtlich festgestellt worden ist.
+
 (3) In der Zeit vom 15. November bis zum Ablauf des 31. Dezember des Antragsjahres hat der Begünstige auf den Dauerkulturflächen seines Betriebes, die als Rebflächen oder für Obstbaumkulturen genutzt werden, zwischen den Reihen eine Selbstbegrünung zuzulassen, sofern nicht bereits eine Begrünung durch Aussaat besteht.
 
-(4) Brachliegendes Ackerland ist der Selbstbegrünung zu überlassen oder durch Aussaat zu begrünen. Die Begrünung durch Aussaat darf nicht allein durch Gräser oder durch Reinsaat einer landwirtschaftlichen Kulturpflanze erfolgen. Im Zeitraum vom 1. April bis zum Ablauf des 15. August eines Jahres ist das Mähen oder das Zerkleinern des Aufwuchses auf brachliegendem Ackerland verboten. Außerhalb des in Satz 3 genannten Zeitraums ist ein Umbruch mit unverzüglich folgender Aussaat oder Selbstbegrünung zu Pflegezwecken, zur Erfüllung von Verpflichtungen im Rahmen von Agrarumwelt- und Klimamaßnahmen oder zur Erfüllung von Verpflichtungen im Rahmen der Öko-Regelung nach § 20 Absatz 1 Nummer 1 Buchstabe b des GAP-Direktzahlungen-Gesetzes zulässig. Innerhalb des in Satz 3 genannten Zeitraums ist ein Umbruch mit unverzüglicher Aussaat nur zulässig, wenn der Begünstigte verpflichtet ist, ein- oder mehrjährige Blühstreifen oder Blühflächen im Rahmen einer Agrarumwelt- und Klimamaßnahme oder der Öko-Regelung nach § 20 Absatz 1 Nummer 1 Buchstabe b des GAP-Direktzahlungen-Gesetzes anzulegen. Im Zeitraum vom 1. April bis zum Ablauf des 20. April eines Jahres ist eine Bodenbearbeitung mit anschließender Selbstbegrünung zur Erfüllung von Verpflichtungen aus Agrarumwelt- und Klimamaßnahmen zum Schutz von gefährdeten Tierarten der Feldflur zulässig. Im Zeitraum vom 1. Juli eines Jahres bis zum Ablauf des 28. Februar des Folgejahres sind bei der Anlage von selbstbegrünten oder eingesäten Ackerbrachen zur Erfüllung von Verpflichtungen aus Agrarumwelt- und Klimamaßnahmen Pflegemaßnahmen auch durch Schröpfschnitt zulässig, soweit sie Bestandteil dieser Verpflichtungen sind. Die Sätze 4 bis 7 finden keine Anwendung auf Streifen oder Teilflächen, die einen Teil einer zusammenhängenden und mit Ausnahme dieser Streifen oder Teilflächen einheitlich bewirtschafteten Ackerfläche bilden und dazu bestimmt sind, einen Beitrag zur Biodiversität oder zur Regulierung von Schwarzwildbeständen zu leisten.
-
-(5) Absatz 4 Satz 3 und 6, letzterer jedoch nur für eine Bodenbearbeitung die kein Pflügen ist, gilt entsprechend für Dauergrünlandflächen, auf denen keine Erzeugung stattfindet.
-
-(6) Auf Streuobstwiesen, deren Aufwuchs nicht genutzt wird, findet Absatz 4 Satz 3, auch im Fall des Absatzes 5, keine Anwendung.
+(4) Im Zeitraum vom 1. April bis zum 15. August einschließlich (Feldvogelschutzzeitraum) sind auf Ackerlandflächen und Dauergrünlandflächen, die nicht für die landwirtschaftliche Erzeugung genutzt werden, eine Bodenbearbeitung sowie das Mähen oder Zerkleinern des Aufwuchses verboten. Innerhalb des Feldvogelschutzzeitraumes darf der Aufwuchs von Streuobstwiesen gemäht oder zerkleinert werden. Abweichend von den Sätzen 1 und 2 dürfen innerhalb des Feldvogelschutzzeitraumes Maßnahmen einschließlich der Bodenbearbeitung durchgeführt werden, die der Erfüllung von Verpflichtungen dienen, die sich aus Öko-Regelungen, Agrarumwelt- und Klimamaßnahmen oder vergleichbaren freiwilligen Maßnahmen ergeben.
 
 # § 18 – Fruchtwechsel auf Ackerland
 
@@ -535,7 +551,7 @@ Wird bei der Kontrolle der Stichprobe nach Satz 1 und 2 ein Verstoß festgestell
 
 # § 26 – Auswahl der Kontrollstichprobe
 
-(1) Die Kontrollstichprobe nach § 16 Absatz 1 des GAP-Konditionalitäten-Gesetzes wird zu einem Anteil von zwischen 20 und 25 Prozent zufallsbasiert ausgewählt. Der verbleibende Teil der Kontrollstichprobe wird nach Maßgabe von Absatz 3 risikobasiert ausgewählt.
+(1) Die Kontrollstichprobe nach § 16 Absatz 1 des GAP-Konditionalitäten-Gesetzes wird zu einem Anteil von höchstens 50 Prozent zufallsbasiert ausgewählt. Der verbleibende Teil der Kontrollstichprobe wird nach Maßgabe von Absatz 3 risikobasiert ausgewählt.
 
 (2) In Fällen des § 25 Absatz 2 kann von dem in Absatz 1 festgelegten zufallsbasierten Anteil an der Kontrollstichprobe abgewichen werden.
 

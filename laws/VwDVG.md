@@ -79,7 +79,7 @@ Das Statistische Bundesamt übermittelt die Daten an die statistischen Ämter de
 
 # § 3a – Daten der Bundesanstalt für Finanzdienstleistungsaufsicht
 
-Die Bundesanstalt für Finanzdienstleistungsaufsicht übermittelt dem Statistischen Bundesamt folgende Daten der unter Bundesaufsicht stehenden Unternehmen der Wirtschaftsgruppen 65.1-Versicherungen, 65.2-Rückversicherungen und 65.3-Pensionskassen und Pensionsfonds nach Anhang I der Verordnung (EG) Nr. 1893/2006 des Europäischen Parlaments und des Rates vom 20. Dezember 2006 zur Aufstellung der statistischen Systematik der Wirtschaftszweige NACE Revision 2 und zur Änderung der Verordnung (EWG) Nr. 3037/90 des Rates sowie einiger Verordnungen der EG über bestimmte Bereiche der Statistik (ABl. L 393 vom 30.12.2006, S. 1) in der jeweils geltenden Fassung, soweit sie der Bundesanstalt für Finanzdienstleistungsaufsicht vorliegen:
+Die Bundesanstalt für Finanzdienstleistungsaufsicht übermittelt dem Statistischen Bundesamt folgende Daten der unter Bundesaufsicht stehenden Unternehmen der Wirtschaftsgruppen 64.2 – Beteiligungsgesellschaften und Finanzierungs-Conduits, 64.3 – Treuhand- und sonstige Fonds und ähnliche Finanzinstitutionen, 65.1 – Versicherungen, 65.2 – Rückversicherungen und 65.3 – Pensionskassen und Pensionsfonds, 66.3 – Fondsmanagement nach Anhang I der Verordnung (EG) Nr. 1893/2006 in Verbindung mit der vom Statistischen Bundesamt daraus erstellten Klassifikation der Wirtschaftszweige, soweit sie der Bundesanstalt für Finanzdienstleistungsaufsicht vorliegen:
 
 1. Name und Anschrift,
 
@@ -91,13 +91,13 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht übermittelt dem Statistisc
 
 5. Legal Entity Identifier,
 
-6. die erfassten Daten der Formblätter zur Bilanz und Gewinn- und Verlustrechnung sowie die Nachweisungen zu den formgebundenen Erläuterungen der Gliederung der in bestimmten Aufwandsposten der Gewinn- und Verlustrechnung ausgewiesenen Aufwendungen nach Aufwandsarten sowie Anzahl der Beschäftigten und der Erträge aus den Kapitalanlagen und Aufwendungen für die Kapitalanlagen, bei Pensionsfonds einschließlich Kapitalanlagen für Rechnung und Risiko von Arbeitnehmern und Arbeitgebern.
+6. die erfassten Daten der Formblätter zur Bilanz und Gewinn- und Verlustrechnung sowie die Nachweisungen zu den formgebundenen Erläuterungen der Gliederung der in bestimmten Aufwandsposten der Gewinn- und Verlustrechnung ausgewiesenen Aufwendungen nach Aufwandsarten, den Investitionen in selbst erstellte Anlagen sowie Anzahl der Beschäftigten und der Erträge aus den Kapitalanlagen und Aufwendungen für die Kapitalanlagen, bei Pensionsfonds einschließlich Kapitalanlagen für Rechnung und Risiko von Arbeitnehmern und Arbeitgebern.
 
 Die in § 309 Absatz 1 Satz 1 des Versicherungsaufsichtsgesetzes genannten Personen sind insoweit von ihrer Verschwiegenheitspflicht befreit. Das Statistische Bundesamt übermittelt die Daten an die statistischen Ämter der Länder jeweils für deren Zuständigkeitsbereich. Im Übrigen gilt für die nach dieser Vorschrift erhaltenen Informationen die Verschwiegenheitspflicht gemäß § 309 Absatz 1 Satz 1 des Versicherungsaufsichtsgesetzes für die bei dem Statistischen Bundesamt und den statistischen Ämtern der Länder beschäftigten Personen entsprechend.
 
 # § 3b – Daten der Deutschen Bundesbank
 
-Die Deutsche Bundesbank übermittelt dem Statistischen Bundesamt erstmalig für das Berichtsjahr 2021 folgende Daten der zu den Wirtschaftsgruppen 64.1 – Zentralbanken und Kreditinstitute –, 64.9 – Sonstige Finanzierungsinstitutionen – und 66.1 – Mit Finanzdienstleistungen verbundene Tätigkeiten – gehörenden rechtlichen Einheiten nach Anhang I zur Verordnung (EG) Nr. 1893/2006 in der jeweils geltenden Fassung, soweit sie der Deutschen Bundesbank vorliegen:
+Die Deutsche Bundesbank übermittelt dem Statistischen Bundesamt jährlich folgende Daten der zu den Wirtschaftsgruppen 64.1 – Zentralbanken und Kreditinstitute, 64.9 – Sonstige Finanzierungsinstitutionen, 66.1 – Mit Finanzdienstleistungen verbundene Tätigkeiten und 66.3 – Fondsmanagement gehörenden rechtlichen Einheiten nach Anhang I der Verordnung (EG) Nr. 1893/2006 in Verbindung mit der vom Statistischen Bundesamt daraus erstellten Klassifikation der Wirtschaftszweige, soweit sie der Deutschen Bundesbank vorliegen:
 
 1. Name, Anschrift,
 
@@ -109,7 +109,7 @@ Die Deutsche Bundesbank übermittelt dem Statistischen Bundesamt erstmalig für 
 
 5. Legal Entity Identifier,
 
-6. die Daten der Gewinn- und Verlustrechnung sowie die erfassten Daten des Personalbestands.
+6. die Daten zur Bilanz und Gewinn- und Verlustrechnung sowie die erfassten Daten des Personalbestands.
 
 Die in § 9 Absatz 1 Satz 1 des Kreditwesengesetzes genannten Personen sind insoweit von ihrer Verschwiegenheitspflicht befreit. Das Statistische Bundesamt übermittelt die Daten an die statistischen Ämter der Länder jeweils für deren Zuständigkeitsbereich. Im Übrigen gilt für die nach dieser Vorschrift erhaltenen Informationen die Verschwiegenheitspflicht gemäß § 9 Absatz 1 Satz 1 des Kreditwesengesetzes für die bei dem Statistischen Bundesamt und den statistischen Ämtern der Länder beschäftigten Personen entsprechend.
 

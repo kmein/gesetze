@@ -93,13 +93,15 @@ Das Standesamt hat die Totenliste binnen zehn Tagen nach dem Ablauf des Zeitraum
 
 4. Zeugnisse über die Fortsetzung von Gütergemeinschaften,
 
-5. Beschlüsse über die Einleitung oder Aufhebung einer Nachlaßpflegschaft oder Nachlaßverwaltung,
+5. Beschlüsse über die Einleitung oder Aufhebung einer Nachlasspflegschaft oder Nachlassverwaltung,
 
-6. beurkundete Vereinbarungen über die Abwicklung von Erbauseinandersetzungen.
+6. beurkundete Vereinbarungen über die Abwicklung von Erbauseinandersetzungen,
 
-Eine elektronische Übermittlung der Anzeige ist ausgeschlossen. Die Anzeige hat unverzüglich nach dem auslösenden Ereignis zu erfolgen. Auf der Urschrift der Mitteilung oder Anzeige ist zu vermerken, wann und an welches Finanzamt die Abschrift übersandt worden ist.
+7. Eintragungsbekanntmachungen nach § 55 der Grundbuchordnung, wenn aufgrund eines von einer ausländischen Stelle erteilten Europäischen Nachlasszeugnisses eine Eigentumsumschreibung im Grundbuch erfolgt; eine beglaubigte Abschrift des Europäischen Nachlasszeugnisses ist beizufügen.
 
-(2) Jede Mitteilung oder Übersendung soll die folgenden Angaben enthalten:
+Erfolgt die Ermittlung der Erben von Amts wegen, so ist das Ergebnis mit einem Vordruck nach Muster 5 mitzuteilen. Eine elektronische Übermittlung der Anzeige nach Satz 1 oder 2 ist ausgeschlossen. Die Anzeige hat unverzüglich nach dem auslösenden Ereignis zu erfolgen. Auf der Urschrift der Dokumente nach Satz 1 ist zu vermerken, wann und an welches Finanzamt die beglaubigte Abschrift übersandt worden ist.
+
+(2) Jede Anzeige oder Übersendung soll die folgenden Angaben enthalten:
 
 1. den Namen, die Identifikationsnummer, den Geburtstag, die letzte Anschrift, den Todestag und den Sterbeort des Erblassers,
 
@@ -107,17 +109,17 @@ Eine elektronische Übermittlung der Anzeige ist ausgeschlossen. Die Anzeige hat
 
 (3) Soweit es den Gerichten bekannt ist, haben sie mitzuteilen:
 
-1. den Beruf und den Familienstand des Erblassers,
+1. den Familienstand des Erblassers,
 
 2. den Güterstand bei verheirateten oder in einer Lebenspartnerschaft lebenden Erblassern,
 
-3. die Anschriften und die Identifikationsnummern der Beteiligten sowie das persönliche Verhältnis (Verwandtschaftsverhältnis, Ehegatte oder Lebenspartner) zum Erblasser,
+3. die Anschriften, die Identifikationsnummern und die Geburtstage der Beteiligten sowie das persönliche Verhältnis (Verwandtschaftsverhältnis, Ehegatte oder Lebenspartner) zum Erblasser,
 
 4. die Höhe und die Zusammensetzung des Nachlasses in Form eines Verzeichnisses,
 
 5. später bekanntgewordene Veränderungen in der Person der Erben oder Vermächtnisnehmer, insbesondere durch Fortfall von vorgesehenen Erben oder Vermächtnisnehmern.
 
-(4) Die Übersendung der in Absatz 1 erwähnten Abschriften und die Erstattung der dort vorgesehenen Anzeigen dürfen unterbleiben,
+(4) Die Übersendung der beglaubigten Abschriften nach Absatz 1 Satz 1 und die Erstattung der in Absatz 1 vorgesehenen Anzeigen dürfen unterbleiben,
 
 1. wenn die Annahme berechtigt ist, dass außer Hausrat (einschließlich Wäsche und Kleidungsstücke) im Wert von höchstens 12 000 Euro nur noch anderes Vermögen im reinen Wert von höchstens 20 000 Euro vorhanden ist,
 
@@ -127,7 +129,7 @@ Eine elektronische Übermittlung der Anzeige ist ausgeschlossen. Die Anzeige hat
 
 4. wenn seit dem Zeitpunkt des Todes des Erblassers mehr als zehn Jahre vergangen sind. Das gilt nicht für Anzeigen über die Abwicklung von Erbauseinandersetzungen.
 
-(5) Die vorstehenden Vorschriften gelten entsprechend für Notare und sonstige Urkundspersonen, soweit ihnen Geschäfte des Nachlaßgerichtes übertragen sind.
+(5) Die vorstehenden Vorschriften gelten entsprechend für Notare und sonstige Urkundspersonen, soweit ihnen Geschäfte des Nachlassgerichts übertragen sind.
 
 (+++ § 7 Abs. 2 Nr. 1 F. 2014-12-22: Zur Anwendung vgl. § 12 Abs. 3 +++)  
 (+++ § 7 Abs. 3 Nr. 3 F. 2014-12-22: Zur Anwendung vgl. § 12 Abs. 3 +++)
@@ -536,72 +538,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 # Muster 5 – (§ 7 ErbStDV)
 
-(Fundstelle: BGBl. I 1998, 2667;  
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. 2025 I Nr. 372, S. 9 – 10)
 
-  
-
-    ..............................
-    Amtsgericht/Notariat
-                                  Erbschaftsteuer
-    An das
-    Finanzamt ....................
-    - Erbschaftsteuerstelle -
-     
-    ------------------------------
-    Die anliegende ... beglaubigte ... Abschrift ... (Ablichtung ... wird/werden
-    mit folgenden Bemerkungen übersandt:
-    Erblasser Name, Vorname, Identifikationsnummer .........................
-    Geburtstag                     .........................................
-    letzte Anschrift               .........................................
-    Beruf                          .........................................
-    Familienstand                  .........................................
-    Güterstand (bei Verheirateten
-    oder bei Lebenspartnern)       .........................................
-    Todestag und Sterbeort         .........................................
-    Standesamt und Sterberegister-Nr. ......................................
-    Testament/Erbvertrag vom       .........................................
-    Tag der Eröffnung              .........................................
-     
-    Die Gebühr für die          Errichtung    I Verwahrung    I Erteilung eines Erbscheins
-    ist berechnet nach einem              EUR I           EUR I          EUR
-    Wert von                    ..............I...............I.............
-    Grund der Übersendung
-    Eröffnung einer   ( ) Verfügung von Todes
-                          wegen *)
-    Erteilung eines   ( ) Erbscheins *) ( ) Europäischen  ( ) Testaments-   ( ) Zeugnisses
-                                            Nachlass-         vollstrecker-     über die
-                                            zeugnisses *)     zeugnisses *)     Fortsetzung
-                                                              von Güter-
-                                                              gemeinschaften
-    Beurkundung einer ( ) Erbauseinandersetzung
-    Beschluß über die ( ) Einleitung     ( ) Einleitung
-                          oder Aufhebung     oder Aufhebung
-                          einer Nachlaß-     einer Nachlaß-
-                          pflegschaft *)     verwaltung *)
-     
-    Die Namen und Anschriften der Beteiligten und das persönliche Verhältnis
-    (Verwandtschaftsverhältnis, Ehegatte oder Lebenspartner) zum Erblasser 
-    sowie Veränderungen in der Person der Erben, Vermächtnisnehmer, 
-    Testamentsvollstrecker usw. (durch Tod, Eintritt eines Ersatzerben, 
-    Ausschlagung, Amtsniederlegung des Testamentsvollstreckers und dergleichen) 
-    und Änderungen in den Verhältnissen dieser Personen (Namens-, Berufs-, 
-    Anschriftenänderungen und dergleichen)
-    ( ) ergeben sich aus der beiliegenden Abschrift der
-        Eröffnungsverhandlung. *)
-    ( ) sind auf einem gesonderten Blatt angegeben. *)
-    ( ) Zur Höhe und Zusammensetzung des Nachlasses ist dem
-        Gericht/Notariat folgendes bekanntgeworden: *)
-        ....................................................................
-        ....................................................................
-    ( ) Ein Verzeichnis der Nachlaßgegenstände ist beigefügt. *)
-     
-    *) Zutreffendes ist anzukreuzen
-     
-
-     
-        ..............................          ............................
-        Ort, Datum                              Unterschrift 
+<a href="../normengrafiken/bgbl1_2025/j0372_0010.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
 (+++ Muster 5 F. 2014-07-18: Zur Anwendung vgl. § 12 Abs. 2 +++)
 

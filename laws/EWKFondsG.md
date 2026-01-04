@@ -181,7 +181,7 @@ Die Hersteller von Einwegkunststoffprodukten nach Anlage 1 entrichten jährlich 
 
 # § 14 – Festlegung der Abgabesätze, Verordnungsermächtigung
 
-(1) Das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz hat nach Anhörung der beteiligten Kreise ohne Zustimmung des Bundesrates durch Rechtsverordnung bis zum 31. Dezember 2023 den Abgabesatz für jede Art eines Einwegkunststoffproduktes nach Anlage 1 in Euro pro Kilogramm nach Maßgabe von Anlage 2 festzulegen. § 68 des Kreislaufwirtschaftsgesetzes gilt entsprechend.
+(1) Das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz hat nach Anhörung der beteiligten Kreise ohne Zustimmung des Bundesrates durch Rechtsverordnung bis zum 31. Dezember 2023 den Abgabesatz für jede Art eines Einwegkunststoffproduktes nach Anlage 1 in Euro pro Kilogramm nach Maßgabe von Anlage 2 festzulegen. § 68 des Kreislaufwirtschaftsgesetzes gilt entsprechend. Der Abgabesatz für Feuerwerkskörper ist entsprechend den Sätzen 1 und 2 bis zum 31. Dezember 2026 festzulegen.
 
 (2) Bei der Festlegung der Abgabesätze sind das Kostendeckungsgebot, das Kostenüberschreitungsverbot, der Grundsatz der Kosteneffizienz und das Transparenzgebot zu wahren. Bei der Ermittlung der Kosten nach Anlage 2 dürfen Gewicht, Volumen und Stückzahl der aus den Einwegkunststoffprodukten entstandenen Abfälle berücksichtigt werden.
 
@@ -407,11 +407,17 @@ Die Bundesregierung evaluiert bis zum 31. Dezember 2027 die Wirkung der in diese
 
 # § 29 – Übergangsvorschrift
 
-(1) Die Feststellung der Einnahmen und Ausgaben durch die Jahresübersicht gemäß § 6 Absatz 1 und die Veröffentlichung gemäß § 6 Absatz 2 erfolgen erstmals für das Haushaltsjahr 2025.
+(1) Hersteller von Feuerwerkskörpern, die ihre Tätigkeit bereits vor dem 1. Januar 2026 aufgenommen haben, haben sich bis zum 31. Dezember 2026 gemäß § 7 beim Umweltbundesamt registrieren zu lassen.
 
-(2) Hersteller, die ihre Tätigkeit bereits vor dem Inkrafttreten von § 7 Absatz 1 aufgenommen haben, haben sich bis zum 31. Dezember 2024 beim Umweltbundesamt registrieren zu lassen.
+(2) Für Feuerwerkskörper findet § 9 erst ab dem 1. Januar 2027 Anwendung.
 
-(3) Hersteller, die nicht im Geltungsbereich dieses Gesetzes niedergelassen sind und ihre Tätigkeit bereits vor dem Inkrafttreten von § 10 Absatz 1 aufgenommen haben, haben bis zum 31. Dezember 2024 einen Bevollmächtigten zu beauftragen, der die Pflichten des Herstellers, mit Ausnahme der Registrierung nach § 7 Absatz 1 und der jährlichen Meldung nach § 11 Absatz 1, erfüllt.
+(3) Hersteller von Feuerwerkskörpern, die nicht im Geltungsbereich dieses Gesetzes niedergelassen sind und ihre Tätigkeit bereits vor dem 1. Januar 2026 aufgenommen haben, haben bis zum 31. Dezember 2026 gemäß § 10 einen Bevollmächtigten zu beauftragen.
+
+(4) Hersteller von Feuerwerkskörpern haben die jährliche Datenmeldung nach § 11 erstmals bis zum 15. Mai 2028 vorzunehmen.
+
+(5) Hersteller von Feuerwerkskörpern haben die Einwegkunststoffabgabe nach § 12 erstmals für das Kalenderjahr 2027 zu entrichten.
+
+(6) Die Festsetzung der Einwegkunststoffabgabe für Feuerwerkskörper nach § 13 Absatz 1 hat erstmals 2028 zu erfolgen.
 
 # § 30 – (weggefallen)
 
@@ -421,7 +427,8 @@ Die Bundesregierung evaluiert bis zum 31. Dezember 2027 die Wirkung der in diese
 
 # Anlage 1 – (zu den §§ 1, 2 Absatz 1, zu § 3 Nummer 3, 5 bis 8 und 12 bis 15, § 7 Absatz 2 Satz 1 Nummer 5 und 6,zu den §§ 9, 10 Absatz 4, zu § 11 Absatz 1 Satz 1, Absatz 2 und Absatz 4, zu den §§ 12, 13 Absatz 1 Satz 2 und Absatz 2, zu § 14 Absatz 1 Satz 1, § 22 Absatz 1 Satz 1 Nummer 2, § 28 Satz 2 Nummer 1 und 2)Liste der Einwegkunststoffprodukte
 
-(Fundstelle: BGBl. 2023 I Nr. 123, S. 13)
+(Fundstelle: BGBl. 2023 I Nr. 123, S. 13;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
  
 
@@ -451,10 +458,13 @@ b) keiner weiteren Zubereitung bedarf;
 
 7. Luftballons; ausgenommen sind Luftballons für industrielle oder gewerbliche Verwendungszwecke und Anwendungen, die nicht an Verbraucher abgegeben werden;
 
-8. Tabakprodukte<span id="FnR.F825820_03"></span><a href="#F825820_03" class="FnR">3</a></sup> mit Filtern sowie Filter, die zur Verwendung in Kombination mit Tabakprodukten vorgesehen sind.
+8. Tabakprodukte<span id="FnR.F825820_03"></span><a href="#F825820_03" class="FnR">3</a></sup> mit Filtern sowie Filter, die zur Verwendung in Kombination mit Tabakprodukten vorgesehen sind;
+
+9. Feuerwerkskörper im Sinne von § 3 Absatz 1 Nummer 4 des Sprengstoffgesetzes.
 
 # Anlage 2 – (zu den §§ 12, 14 Absatz 1 Satz 1)Kostentragung nach Produktart
 
-(Fundstelle: BGBl. 2023 I Nr. 123, S. 14)
+(Fundstelle: BGBl. 2023 I Nr. 123, S. 14;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
  

@@ -234,7 +234,7 @@ a) § 2 Absatz 1 Nummer 2 Buchstabe b und c und
 
 b) § 2 Absatz 1 Nummer 3, sofern vertraglich ein Entgelt in Höhe des Grundgehalts der Dienstbezüge einer Bundesbeamtin oder eines Bundesbeamten von der Besoldungsgruppe B9 an aufwärts vereinbart worden ist,
 
-8. dem Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend,
+8. (weggefallen)
 
 9. dem Bundesministerium für Gesundheit,
 

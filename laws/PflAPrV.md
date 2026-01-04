@@ -874,15 +874,15 @@ Die oder der Vorsitzende des Prüfungsausschusses ist während der Prüfung zust
 
 (9) § 45 Absatz 8 und 9 gilt entsprechend.
 
-# § 46 – Inhalt und Durchführung des Anpassungslehrgangs nach § 41 Absatz 2 Satz 4 oder Absatz 3 Satz 2 des Pflegeberufegesetzes
+# § 46 – Inhalt und Durchführung des Anpassungslehrgangs nach § 41 Absatz 2 Satz 2 des Pflegeberufegesetzes
 
-(1) Ziel des Anpassungslehrgangs nach § 41 Absatz 2 Satz 4 oder Absatz 3 Satz 2 des Pflegeberufegesetzes ist es, die von der zuständigen Behörde festgestellten wesentlichen Unterschiede auszugleichen. Die zuständige Behörde legt die Dauer und die Inhalte des Anpassungslehrgangs so fest, dass das Ziel des Anpassungslehrgangs erreicht werden kann.
+(1) Ziel des Anpassungslehrgangs nach § 41 Absatz 2 Satz 2 des Pflegeberufegesetzes ist es, die von der zuständigen Behörde festgestellten wesentlichen Unterschiede auszugleichen. Die zuständige Behörde legt die Dauer und die Inhalte des Anpassungslehrgangs so fest, dass das Ziel des Anpassungslehrgangs erreicht werden kann.
 
 (2) Der Anpassungslehrgang wird entsprechend dem Ziel des Anpassungslehrgangs in Form von theoretischem und praktischem Unterricht, einer praktischen Ausbildung mit theoretischer Unterweisung oder beidem an Einrichtungen nach § 6 Absatz 2 oder Absatz 3 Satz 1 des Pflegeberufegesetzes oder an von der zuständigen Behörde als vergleichbar anerkannten Einrichtungen durchgeführt. An der theoretischen Unterweisung sollen Praxisanleiterinnen oder Praxisanleiter, die die Voraussetzungen nach § 4 Absatz 2 erfüllen, in angemessenem Umfang beteiligt werden.
 
 (3) Die Ableistung des Anpassungslehrgangs ist durch eine Bescheinigung nach dem Muster der Anlage 11 nachzuweisen.
 
-# § 47 – Inhalt und Durchführung der Eignungsprüfung nach § 41 Absatz 2 Satz 4 oder Absatz 3 Satz 2 des Pflegeberufegesetzes
+# § 47 – Inhalt und Durchführung der Eignungsprüfung nach § 41 Absatz 2 Satz 2 des Pflegeberufegesetzes
 
 (1) In der Eignungsprüfung hat die zu prüfende Person nachzuweisen, dass sie über die zum Ausgleich der von der zuständigen Behörde festgestellten wesentlichen Unterschiede erforderlichen Kompetenzen verfügt.
 
@@ -916,15 +916,7 @@ Die oder der Vorsitzende des Prüfungsausschusses ist während der Prüfung zust
 
 (6) Die Absätze 1 bis 5 gelten entsprechend für Inhaberinnen und Inhaber von Drittstaatsdiplomen, für deren Anerkennung sich nach dem Recht der Europäischen Union eine Gleichstellung ergibt.
 
-# § 49 – Verfahren bei Erbringung von Dienstleistungen durch Inhaberinnen und Inhaber von Ausbildungsnachweisen aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz
-
-(1) Die zuständige Behörde hat die Person, die beabsichtigt, eine Dienstleistung im Sinne des § 44 Absatz 1 oder 2 des Pflegeberufegesetzes zu erbringen, und dies erstmalig anzeigt, binnen eines Monats nach Eingang der Meldung und der Begleitdokumente über das Ergebnis ihrer Prüfung gemäß § 46 Absatz 3 des Pflegeberufegesetzes zu unterrichten. In der Unterrichtung teilt die Behörde der Person mit, ob sie der Person erlaubt, die Dienstleistung zu erbringen, oder von ihr verlangt, eine Eignungsprüfung nach § 47 abzulegen.
-
-(2) Ist der zuständigen Behörde in besonderen Ausnahmefällen nicht möglich, die Prüfung nach § 46 Absatz 3 des Pflegeberufegesetzes innerhalb eines Monats vorzunehmen, teilt sie der Person innerhalb dieser Frist die Gründe der Verzögerung mit. Die zuständige Behörde hat die der Verzögerung zugrunde liegenden Schwierigkeiten binnen eines Monats nach dieser Mitteilung zu beheben. Die zuständige Behörde unterrichtet spätestens innerhalb von zwei Monaten nach Behebung der Schwierigkeiten die Person über das Ergebnis ihrer Prüfung nach § 46 Absatz 3 des Pflegeberufegesetzes.
-
-(3) Bleibt eine Reaktion der zuständigen Behörde in den in Absatz 1 Satz 1 und Absatz 2 Satz 1 und 3 genannten Fristen aus, so darf die Dienstleistung erbracht werden.
-
-(4) Die Absätze 1 bis 3 gelten entsprechend für Inhaberinnen und Inhaber von Drittstaatsdiplomen, für deren Anerkennung sich nach dem Recht der Europäischen Union eine Gleichstellung ergibt.
+# § 49 – (weggefallen)
 
 # § 49a – Frist der Behörde für die Bestätigung des Antragseingangs
 

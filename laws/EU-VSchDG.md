@@ -3,7 +3,7 @@
  
 # § 1 – Anwendungsbereich
 
-(1) Dieses Gesetz dient der Durchführung der Verordnung (EU) 2017/2394 des Europäischen Parlaments und des Rates vom 12. Dezember 2017 über die Zusammenarbeit zwischen den für die Durchsetzung der Verbraucherschutzgesetze zuständigen nationalen Behörden und zur Aufhebung der Verordnung (EG) Nr. 2006/2004 (ABl. L 345 vom 27.12.2017, S. 1), die zuletzt durch die Richtlinie (EU) 2019/771 (ABl. L 136 vom 22.5.2019, S. 28) geändert worden ist, in der jeweils geltenden Fassung.
+(1) Dieses Gesetz dient der Durchführung der Verordnung (EU) 2017/2394.
 
 (2) Unberührt von den Vorschriften dieses Gesetzes bleiben die Zuständigkeiten und Befugnisse nach
 
@@ -13,15 +13,17 @@
 
 (3) Die Befugnisse nach diesem Gesetz gelten nicht, soweit in anderen Rechtsvorschriften entsprechende oder weitergehende Regelungen vorgesehen sind.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
+
 # § 2 – Zuständige Behörde
 
 Für die Durchführung der Verordnung (EU) 2017/2394 sind bei Verstößen innerhalb der Union, weitverbreiteten Verstößen und weitverbreiteten Verstößen mit Unions-Dimension zuständig
 
-1. das Umweltbundesamt im Falle eines Verdachtes eines Verstoßes gegen
+1. das Bundesamt für Justiz im Falle eines Verdachtes eines Verstoßes gegen
 
 a) die in den Nummern 1, 3, 4, 6, 7, 9, 11, 14 bis 16, 20 bis 23, 25, 26 und 28 des Anhangs der Verordnung (EU) 2017/2394 genannten Rechtsakte und die zu ihrer Umsetzung oder Durchführung erlassenen Rechtsvorschriften,
 
-b) sonstige Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union und die zu ihrer Umsetzung oder Durchführung erlassenen Rechtsvorschriften, soweit die Rechtsakte in den Anwendungsbereich der Verordnung (EU) 2017/2394 einbezogen worden sind und dem Umweltbundesamt die Zuständigkeit durch Rechtsverordnung nach § 12 Absatz 1 übertragen worden ist,
+b) sonstige Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union und die zu ihrer Umsetzung oder Durchführung erlassenen Rechtsvorschriften, soweit die Rechtsakte in den Anwendungsbereich der Verordnung (EU) 2017/2394 einbezogen worden sind und dem Bundesamt für Justiz die Zuständigkeit durch Rechtsverordnung nach § 12 Absatz 1 übertragen worden ist,
 
 2. die Bundesanstalt für Finanzdienstleistungsaufsicht in Fällen der Nummer 1, soweit es sich um den Verdacht eines Verstoßes
 
@@ -68,7 +70,7 @@ und der Verdacht des Verstoßes sich auf die Tätigkeit bezieht,
 
 # § 3 – Zentrale Verbindungsstelle
 
-(1) Das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz ist zentrale Verbindungsstelle im Sinne des Artikels 5 Absatz 1 der Verordnung (EU) 2017/2394.
+(1) Das Bundesministerium der Justiz und für Verbraucherschutz ist zentrale Verbindungsstelle im Sinne des Artikels 5 Absatz 1 der Verordnung (EU) 2017/2394.
 
 (2) Die zentrale Verbindungsstelle berichtet den für den Verbraucherschutz zuständigen obersten Landesbehörden jährlich, erstmals zum 31. Dezember 2007, umfassend und in anonymisierter Form über die im Zusammenhang mit diesem Gesetz empfangenen und weitergeleiteten Ersuchen um Amtshilfe und Informationsaustausch. Dazu gehören insbesondere Klagen und Urteile, die im Zusammenhang mit einem Verdacht eines Verstoßes innerhalb der Union, eines weitverbreiteten Verstoßes oder eines weitverbreiteten Verstoßes mit Unions-Dimension gegen Unionsrecht zum Schutz der Verbraucherinteressen erhoben worden oder ergangen sind.
 
@@ -132,17 +134,19 @@ Die zuständige Behörde kann ihre Anordnungen nach den für die Vollstreckung v
 
 (2) Die nach Absatz 1 Satz 1 umzulegenden Kosten sind in die Umlage einzubeziehen, die nach den §§ 16 bis 16r des Finanzdienstleistungsaufsichtsgesetzes erhoben wird. Dabei sind Unternehmen nach § 2 Nummer 2 Buchstabe a dem Aufgabenbereich Versicherungen und Kreditinstitute, Finanzdienstleistungsinstitute oder Wertpapierinstitute nach § 2 Nummer 2 Buchstabe b dem Aufgabenbereich Banken und sonstige Finanzdienstleistungen zuzuordnen.
 
-(3) Das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz, das Bundesministerium der Finanzen, das Bundesministerium für Wirtschaft und Klimaschutz und das Bundesministerium für Digitales und Verkehr werden jeweils ermächtigt, die Ermächtigung zum Erlass einer Rechtsverordnung nach § 22 Absatz 4 Satz 1 des Bundesgebührengesetzes durch Rechtsverordnung ohne Zustimmung des Bundesrates auf die zu ihrem jeweiligen Geschäftsbereich gehörende, in § 2 Nummer 1, 2, 2a, 3, 5 oder 6 genannte Behörde in dem Umfang zu übertragen, in dem diese individuell zurechenbare öffentliche Leistungen nach diesem Gesetz oder aufgrund dieses Gesetzes erbringt.
+(3) Das Bundesministerium der Justiz und für Verbraucherschutz, das Bundesministerium der Finanzen, das Bundesministerium für Wirtschaft und Energie und das Bundesministerium für Verkehr werden jeweils ermächtigt, die Ermächtigung zum Erlass einer Rechtsverordnung nach § 22 Absatz 4 Satz 1 des Bundesgebührengesetzes durch Rechtsverordnung ohne Zustimmung des Bundesrates auf die zu ihrem jeweiligen Geschäftsbereich gehörende, in § 2 Nummer 1, 2, 2a, 3, 5 oder 6 genannte Behörde in dem Umfang zu übertragen, in dem diese individuell zurechenbare öffentliche Leistungen nach diesem Gesetz oder aufgrund dieses Gesetzes erbringt.
 
 # § 12 – Verordnungsermächtigung
 
-(1) Soweit weitere Rechtsakte der Europäischen Union in den Anwendungsbereich der Verordnung (EU) 2017/2394 einbezogen worden sind, wird das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz ermächtigt, die Zuständigkeit für die Durchführung der Verordnung (EU) 2017/2394 im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung ohne Zustimmung des Bundesrates auf das Umweltbundesamt zu übertragen. Im Falle einer Rechtsverordnung nach Satz 1 bleibt § 2 Nummer 2 und 4 unberührt.
+(1) Soweit weitere Rechtsakte der Europäischen Union in den Anwendungsbereich der Verordnung (EU) 2017/2394 einbezogen worden sind, wird das Bundesministerium der Justiz und für Verbraucherschutz ermächtigt, die Zuständigkeit für die Durchführung der Verordnung (EU) 2017/2394 im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung ohne Zustimmung des Bundesrates auf das Bundesamt für Justiz zu übertragen. Im Falle einer Rechtsverordnung nach Satz 1 bleibt § 2 Nummer 2 und 4 unberührt.
 
-(2) Das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz wird ferner ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz wird ferner ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
 1. Verweisungen auf Vorschriften der Verordnung (EU) 2017/2394 in diesem Gesetz zu ändern, soweit es zur Anpassung an Änderungen dieser Vorschriften erforderlich ist,
 
 2. Vorschriften dieses Gesetzes zu streichen oder in ihrem Wortlaut einem verbleibenden Anwendungsbereich anzupassen, soweit sie durch den Erlass entsprechender Vorschriften in Verordnungen der Europäischen Gemeinschaft oder der Europäischen Union unanwendbar geworden sind.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
 
 # § 13 – Zulässigkeit, Zuständigkeit
 
@@ -341,7 +345,3 @@ Gegen eine der Endentscheidung vorausgehende Entscheidung findet die Rüge nicht
 (5) Ist die Rüge begründet, so hilft ihr das Gericht ab, indem es das Verfahren fortführt, soweit dies auf Grund der Rüge geboten ist. Das Verfahren wird in die Lage zurückversetzt, in der es sich vor dem Schluss der mündlichen Verhandlung befand. Im schriftlichen Verfahren tritt an die Stelle des Schlusses der mündlichen Verhandlung der Zeitpunkt, bis zu dem Schriftsätze eingereicht werden können. Für den Ausspruch des Gerichts ist § 343 der Zivilprozessordnung anzuwenden.
 
 (6) § 149 Abs. 1 Satz 2 der Verwaltungsgerichtsordnung ist entsprechend anzuwenden.
-
-# § 29 – Evaluierung
-
-Das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz berichtet dem Deutschen Bundestag bis zum 31. Januar 2025 über die Anwendung des Gesetzes durch Bundesbehörden.

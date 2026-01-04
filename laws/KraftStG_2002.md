@@ -3,35 +3,36 @@
  
 # Inhaltsübersicht
 
-|               |                                                                                               |
+|              |                                                                                               |
 |:-----------------|:-----------------------------------------------------|
-| § 1           | Steuergegenstand                                                                              |
-| § 2           | Begriffsbestimmungen, Mitwirkung der Verkehrsbehörden                                         |
-| § 3           | Ausnahmen von der Besteuerung                                                                 |
-| § 3a          | Vergünstigungen für Schwerbehinderte                                                          |
-| § 3b          | Steuerbefreiung für besonders schadstoffreduzierte Personenkraftwagen mit Selbstzündungsmotor |
-| § 3c          | (weggefallen)                                                                                 |
-| § 3d          | Steuerbefreiung für Elektrofahrzeuge                                                          |
-| §§ 3e bis 3h  | (weggefallen)                                                                                 |
-| § 4           | Erstattung der Steuer bei Beförderungen von Fahrzeugen mit der Eisenbahn                      |
-| § 5           | Dauer der Steuerpflicht                                                                       |
-| § 6           | Entstehung der Steuer                                                                         |
-| § 7           | Steuerschuldner                                                                               |
-| § 8           | Bemessungsgrundlage                                                                           |
-| § 9           | Steuersatz                                                                                    |
-| § 9a          | Zuschlag für Personenkraftwagen mit Selbstzündungsmotor                                       |
-| § 10          | Sonderregelung für Kraftfahrzeuganhänger                                                      |
-| § 10a         | Sonderregelungen für Personenkraftwagen                                                       |
-| § 10b         | Sonderregelung für besonders emissionsreduzierte Personenkraftwagen                           |
-| § 11          | Entrichtungszeiträume                                                                         |
-| § 12          | Steuerfestsetzung                                                                             |
-| §§ 12a u. 12b | (weggefallen)                                                                                 |
-| § 13          | Feststellung der Besteuerungsgrundlagen und Nachweis der Besteuerung                          |
-| § 14          | Außerbetriebsetzung von Amts wegen                                                            |
-| § 15          | Ermächtigungen                                                                                |
-| § 16          | Aussetzung der Steuer                                                                         |
-| § 17          | Sonderregelung für bestimmte Behinderte                                                       |
-| § 18          | Übergangsregelung                                                                             |
+| § 1          | Steuergegenstand                                                                              |
+| § 2          | Begriffsbestimmungen, Mitwirkung der Verkehrsbehörden                                         |
+| § 3          | Ausnahmen von der Besteuerung                                                                 |
+| § 3a         | Vergünstigungen für Schwerbehinderte                                                          |
+| § 3b         | Steuerbefreiung für besonders schadstoffreduzierte Personenkraftwagen mit Selbstzündungsmotor |
+| § 3c         | (weggefallen)                                                                                 |
+| § 3d         | Steuerbefreiung für Elektrofahrzeuge                                                          |
+| §§ 3e bis 3h | (weggefallen)                                                                                 |
+| § 4          | Erstattung der Steuer bei Beförderungen von Fahrzeugen mit der Eisenbahn                      |
+| § 5          | Dauer der Steuerpflicht                                                                       |
+| § 6          | Entstehung der Steuer                                                                         |
+| § 7          | Steuerschuldner                                                                               |
+| § 8          | Bemessungsgrundlage                                                                           |
+| § 9          | Steuersatz                                                                                    |
+| § 9a         | Zuschlag für Personenkraftwagen mit Selbstzündungsmotor                                       |
+| § 10         | Sonderregelung für Kraftfahrzeuganhänger                                                      |
+| § 10a        | Sonderregelungen für Personenkraftwagen                                                       |
+| § 10b        | Sonderregelung für besonders emissionsreduzierte Personenkraftwagen                           |
+| § 11         | Entrichtungszeiträume                                                                         |
+| § 12         | Steuerfestsetzung                                                                             |
+| § 12a        | Steuererklärungspflicht                                                                       |
+| § 12b        | (weggefallen)                                                                                 |
+| § 13         | Feststellung der Besteuerungsgrundlagen und Nachweis der Besteuerung                          |
+| § 14         | Außerbetriebsetzung von Amts wegen                                                            |
+| § 15         | Ermächtigungen                                                                                |
+| § 16         | Aussetzung der Steuer                                                                         |
+| § 17         | Sonderregelung für bestimmte Behinderte                                                       |
+| § 18         | Übergangsregelung                                                                             |
 
 # § 1 – Steuergegenstand
 
@@ -163,7 +164,7 @@ Die Steuerbefreiung tritt nur ein, wenn Gegenseitigkeit gewährt wird;
 
 # § 3d – Steuerbefreiung für Elektrofahrzeuge
 
-(1) Von der Steuer befreit ist das Halten von Elektrofahrzeugen im Sinne des § 9 Absatz 2. Die Steuerbefreiung wird bei erstmaliger Zulassung des Elektrofahrzeugs in der Zeit vom 18. Mai 2011 bis 31. Dezember 2025 für zehn Jahre ab dem Tag der erstmaligen Zulassung gewährt, längstens jedoch bis zum 31. Dezember 2030.
+(1) Von der Steuer befreit ist das Halten von Elektrofahrzeugen im Sinne des § 9 Absatz 2. Die Steuerbefreiung wird bei erstmaliger Zulassung des Elektrofahrzeugs in der Zeit vom 18. Mai 2011 bis 31. Dezember 2030 für zehn Jahre ab dem Tag der erstmaligen Zulassung gewährt, längstens jedoch bis zum 31. Dezember 2035.
 
 (2) Die Steuerbefreiung nach Absatz 1 oder nach § 18 Absatz 4b wird für jedes Fahrzeug einmal gewährt. Soweit sie bei einem Halterwechsel noch nicht abgelaufen ist, wird sie dem neuen Halter gewährt.
 
@@ -171,7 +172,7 @@ Die Steuerbefreiung tritt nur ein, wenn Gegenseitigkeit gewährt wird;
 
 (4) Die Absätze 1 bis 3 gelten entsprechend für technisch umgerüstete Fahrzeuge, die ursprünglich zum Zeitpunkt der erstmaligen verkehrsrechtlichen Zulassung mit Fremdzündungsmotoren oder Selbstzündungsmotoren angetrieben wurden. Die Steuerbefreiung wird nach Maßgabe folgender Voraussetzungen gewährt:
 
-1. das Fahrzeug ist in der Zeit vom 18. Mai 2016 bis zum 31. Dezember 2025 nachträglich zu einem Elektrofahrzeug im Sinne des § 9 Absatz 2 umgerüstet worden und
+1. das Fahrzeug ist in der Zeit vom 18. Mai 2016 bis zum 31. Dezember 2030 nachträglich zu einem Elektrofahrzeug im Sinne des § 9 Absatz 2 umgerüstet worden und
 
 2. für die bei der Umrüstung verwendeten Fahrzeugteile ist eine Allgemeine Betriebserlaubnis nach § 22 in Verbindung mit § 20 der Straßenverkehrs-Zulassungs-Ordnung erteilt.
 
@@ -307,7 +308,7 @@ c) bei erstmaliger Zulassung ab dem 1. Januar 2021 für je 100 Kubikzentimeter H
 
 Maßgebend für die Kohlendioxidemissionen sind die Verordnung (EG) Nr. 715/2007 und die Verordnung (EU) 2017/1151 der Kommission vom 1. Juni 2017 zur Ergänzung der Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Fahrzeugreparatur- und -wartungsinformationen, zur Änderung der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates, der Verordnung (EG) Nr. 692/2008 der Kommission sowie der Verordnung (EU) Nr. 1230/2012 der Kommission und zur Aufhebung der Verordnung (EG) Nr. 692/2008 der Kommission (ABl. L 175 vom 7.7.2017, S. 1) in der jeweils geltenden Fassung;
 
-2a. Wohnmobile für je 200 Kilogramm Gesamtgewicht oder einem Teil davon, wenn sie nach Feststellung der Zulassungsbehörde im Sinne der Anlage XIV zu § 48 der Straßenverkehrs-Zulassungs-Ordnung  
+2a. Wohnmobile für je 200 Kilogramm Gesamtgewicht oder einem Teil davon, wenn sie nach Feststellung der Zulassungsbehörde im Sinne der Anlage XIV zu § 48 der Straßenverkehrs-Zulassungs-Ordnung in der am 1. September 2023 geltenden Fassung  
   
 
 |     |                                                                                   |     |         |
@@ -372,7 +373,7 @@ bb)
 
 4. alle übrigen Kraftfahrzeuge mit einem verkehrsrechtlich zulässigen Gesamtgewicht von mehr als 3 500 Kilogramm für je 200 Kilogramm Gesamtgewicht oder einen Teil davon, wenn sie nach Feststellung der Zulassungsbehörde
 
-a) mindestens zur Schadstoffklasse S 2 im Sinne der Anlage XIV zu § 48 der Straßenverkehrs-Zulassungs-Ordnung gehören, von dem Gesamtgewicht  
+a) mindestens zur Schadstoffklasse S 2 im Sinne der Anlage XIV zu § 48 der Straßenverkehrs-Zulassungs-Ordnung in der am 1. September 2023 geltenden Fassung gehören, von dem Gesamtgewicht  
   
 
 |                                          |            |
@@ -391,7 +392,7 @@ a) mindestens zur Schadstoffklasse S 2 im Sinne der Anlage XIV zu § 48 der Stra
 | über 12 000 kg                           | 14,32 EUR, |
 | insgesamt jedoch nicht mehr als 556 EUR, |            |
 
-b) zur Schadstoffklasse S 1 im Sinne der Anlage XIV zu § 48 der Straßenverkehrs-Zulassungs-Ordnung gehören, von dem Gesamtgewicht  
+b) zur Schadstoffklasse S 1 im Sinne der Anlage XIV zu § 48 der Straßenverkehrs-Zulassungs-Ordnung in der am 1. September 2023 geltenden Fassung gehören, von dem Gesamtgewicht  
   
 
 |                                          |            |
@@ -413,7 +414,7 @@ b) zur Schadstoffklasse S 1 im Sinne der Anlage XIV zu § 48 der Straßenverkehr
 | über 15 000 kg                           | 36,23 EUR, |
 | insgesamt jedoch nicht mehr als 914 EUR, |            |
 
-c) zur Geräuschklasse G 1 im Sinne der Anlage XIV zu § 48 der Straßenverkehrs-Zulassungs-Ordnung gehören, von dem Gesamtgewicht  
+c) zur Geräuschklasse G 1 im Sinne der Anlage XIV zu § 48 der Straßenverkehrs-Zulassungs-Ordnung in der am 1. September 2023 geltenden Fassung gehören, von dem Gesamtgewicht  
   
 
 |                                            |            |
@@ -596,7 +597,45 @@ Die Steuer beträgt in diesen Fällen für jeden Tag des Berechnungszeitraums de
 
 (5) (weggefallen)
 
-# §§ 12a und 12b – (weggefallen)
+# § 12a – Steuererklärungspflicht
+
+(1) Der Steuerschuldner hat eine Steuererklärung nach amtlich vorgeschriebenem Vordruck abzugeben
+
+1. für ein inländisches Fahrzeug bei der Zulassungsbehörde, wenn das Fahrzeug
+
+a) zum Verkehr zugelassen werden soll,
+
+b) zum Verkehr zugelassen ist und der Halter wechselt oder
+
+c) während der Dauer der Steuerpflicht verändert wird und sich dadurch die Höhe der Steuer ändert;
+
+d) wenn für das Fahrzeug ein Kennzeichen im Sinne des § 1 Absatz 1 Nummer 4 zugeteilt werden soll;
+
+2. für ein ausländisches Fahrzeug
+
+a) am deutschen Teil der Grenze der Europäischen Union bei der Zollstelle, die für die amtliche Abfertigung zuständig ist oder
+
+b) im Straßenverkehr innerhalb der Europäischen Union bei der Zollstelle, die von der Generalzolldirektion hierzu bestimmt ist, wobei die Steuererklärung vor dem Eingang des Fahrzeugs in das Inland auch auf dem Postweg abgegeben werden kann, wenn die Steuer gleichzeitig mit der Abgabe der Steuererklärung entrichtet wird;
+
+c) wenn der Aufenthalt des Fahrzeugs im Inland über die Zeit, für die die Steuer entrichtet worden ist, hinaus andauern soll (Weiterversteuerung) bei jeder Zollstelle, die mit der Festsetzung der Kraftfahrzeugsteuer befasst ist;
+
+3. bei widerrechtlicher Benutzung nach § 2 Absatz 5 unverzüglich beim zuständigen Hauptzollamt, wobei das zuständige Hauptzollamt vom Eigentümer, Besitzer oder vom Halter des Fahrzeugs ohne Rücksicht darauf, ob er selbst Steuerschuldner ist, die Abgabe einer Steuererklärung innerhalb einer durch das Hauptzollamt festzulegenden Frist verlangen kann.
+
+(2) Als Steuererklärung im Sinne des Absatzes 1 Nummer 1 gilt auch die Fahrzeuganmeldung im Inland, wenn sie einen entsprechenden Hinweis enthält.
+
+(3) Eine Steuererklärung ist nicht erforderlich, wenn das Halten nach § 3 Nummer 1 oder Nummer 2 von der Steuer befreit ist.
+
+(4) Beabsichtigt ein Steuerpflichtiger, seinen Anspruch auf Steuerbefreiung, auf Steuerermäßigung oder auf Nichterhebung der Steuer für einen Kraftfahrzeuganhänger (§ 10 Absatz 1) geltend zu machen, so hat er dies unter Angabe der Gründe schriftlich beim zuständigen Hauptzollamt zu beantragen. Der Antrag ist eine Steuererklärung im Sinne des § 150 der Abgabenordnung.
+
+(5) Fallen die Voraussetzungen für eine Steuervergünstigung weg, so hat der Steuerpflichtige unbeschadet des § 153 der Abgabenordnung dies dem zuständigen Hauptzollamt unverzüglich schriftlich anzuzeigen. Die Anzeige ist eine Steuererklärung im Sinne des § 150 der Abgabenordnung.
+
+(6) Ist eine Steuererklärung nach Absatz 1 Nummer 1 abzugeben, genügt in dieser ein entsprechender Hinweis, um eine Steuervergünstigung zu beantragen oder den Wegfall einer der Voraussetzungen hierfür anzuzeigen.
+
+(7) Der Antrag auf Erhöhung der Steuer um den Anhängerzuschlag nach § 10 Absatz 2 gilt als Steuererklärung im Sinne des § 150 der Abgabenordnung und kann bei der Zulassungsbehörde zugleich mit dem Antrag auf verkehrsrechtliche Zulassung gestellt werden. Er ist in diesem Fall in die Steuererklärung nach Absatz 1 Nummer 1 mit aufzunehmen. In den übrigen Fällen ist der Antrag beim zuständigen Hauptzollamt zu stellen. Ein Antrag im Sinne des § 10 Absatz 2 ist auch der Antrag, den Anhängerzuschlag nicht mehr in Anspruch nehmen zu wollen.
+
+(8) Im Falle des Absatzes 1 Nummer 1 oder der Absätze 4, 5 und 7 kann die Steuererklärung gemäß den §§ 87a bis 87d der Abgabenordnung elektronisch übermittelt werden.
+
+# § 12b – (weggefallen)
 
 # § 13 – Feststellung der Besteuerungsgrundlagen und Nachweis der Besteuerung
 

@@ -25,13 +25,11 @@ Im Sinne dieses Gesetzes sind
 
 4. „tätige Personen” solche der Variable 120101 des Anhangs IV zur Durchführungsverordnung (EU) 2020/1197 der Kommission vom 30. Juli 2020 zur Festlegung technischer Spezifikationen und Einzelheiten nach der Verordnung (EU) 2019/2152 des Europäischen Parlaments und des Rates über europäische Unternehmensstatistiken, zur Aufhebung von zehn Rechtsakten im Bereich Unternehmensstatistiken (ABl. L 271 vom 18.8.2020, S. 1) in der jeweils geltenden Fassung;
 
-5. „Wirtschaftszweige” solche nach der Untergliederung gemäß NACE Rev. 2 des Anhangs I zur Verordnung (EG) Nr. 1893/2006 des Europäischen Parlaments und des Rates vom 20. Dezember 2006 zur Aufstellung der statistischen Systematik der Wirtschaftszweige NACE Revision 2 und zur Änderung der Verordnung (EWG) Nr. 3037/90 des Rates sowie einiger Verordnungen der EG über bestimmte Bereiche der Statistik (ABl. L 393 vom 30.12.2006,
-
-S. 1), die zuletzt durch die Verordnung (EU)
-
-2019/1243 (ABl. L 198 vom 25.7.2019, S. 241) geändert worden ist, in der jeweils geltenden Fassung sowie in Verbindung mit der vom Statistischen Bundesamt daraus erstellten Klassifikation der Wirtschaftszweige in der jeweils geltenden Fassung;
+5. „Wirtschaftszweige“ solche nach der Untergliederung gemäß des Anhangs I der Verordnung (EG) Nr. 1893/2006 in Verbindung mit der vom Statistischen Bundesamt daraus erstellten Klassifikation der Wirtschaftszweige; dabei gilt für Berichtszeiträume ab dem 1. Januar 2025 die Klassifikation der Wirtschaftszweige 2025, abweichend davon gilt für konjunkturstatistische Erhebungen nach Abschnitt 2 für Berichtszeiträume bis zum Ablauf des 31. Dezember 2027 die Klassifikation der Wirtschaftszweige 2008;
 
 6. „Geschäftsfelder” fachliche Einheiten entsprechend Abschnitt III Buchstabe D des Anhangs zur Verordnung (EWG) Nr. 696/93, in der jeweils geltenden Fassung, jedoch innerhalb rechtlicher Einheiten.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 354 +++)
 
 # § 3 – Erhebungseinheiten, Erhebungsbereiche
 
@@ -65,31 +63,33 @@ g) Abschnitt N – Erbringung von sonstigen wirtschaftlichen Dienstleistungen mi
 
 2. für strukturstatistische Erhebungen:
 
-a) Abschnitt G – Handel; Instandhaltung und Reparatur von Kraftfahrzeugen,
+a) Abschnitt G – Handel,
 
-b) Abschnitt H − Verkehr und Lagerei,
+b) Abschnitt H – Verkehr und Lagerei,
 
 c) Abschnitt I – Gastgewerbe,
 
-d) Abschnitt J – Information und Kommunikation,
+d) Abschnitt J – Verlagswesen, Rundfunk sowie Erstellung und Verbreitung von Medieninhalten,
 
-e) Abschnitt K, Gruppe 66.2 – Mit Versicherungsdienstleistungen und Pensionskassen verbundene Tätigkeiten,
+e) Abschnitt K – Telekommunikation, Softwareentwicklung, IT-Beratung und Erbringung sonstiger Dienstleistungen der Informationstechnologie und der Computerinfrastruktur,
 
-f) Abschnitt L – Grundstücks- und Wohnungswesen,
+f) Abschnitt L, Gruppe 66.2 – Mit Versicherungsdienstleistungen und Pensionskassen verbundene Tätigkeiten,
 
-g) Abschnitt M – Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen,
+g) Abschnitt M – Grundstücks- und Wohnungswesen,
 
-h) Abschnitt N – Erbringung von sonstigen wirtschaftlichen Dienstleistungen,
+h) Abschnitt N – Erbringung von wissenschaftlichen und technischen Dienstleistungen,
 
-i) Abschnitt P – Erziehung und Unterricht,
+i) Abschnitt O – Erbringung von sonstigen wirtschaftlichen Dienstleistungen,
 
-j) Abschnitt Q – Gesundheits- und Sozialwesen mit Ausnahme der Gruppe 86.2 – Arzt- und Zahnarztpraxen – und der Unterklasse 86.90.1 – Praxen von psychologischen Psychotherapeutinnen und -therapeuten –,
+j) Abschnitt Q – Erziehung und Unterricht,
 
-k) Abschnitt R – Kunst, Unterhaltung und Erholung,
+k) Abschnitt R – Gesundheits- und Sozialwesen mit Ausnahme der Gruppe 86.2 – Arzt- und Zahnarztpraxen – und der Unterklasse 86.93.0 – Erbringung von Dienstleistungen von Psychotherapeutinnen und -therapeuten, klinischen und Gesundheitspsychologinnen und -psychologen, ohne ärztliche Therapien,
 
-l) Abschnitt S, Abteilung 95 – Reparatur von Datenverarbeitungsgeräten und Gebrauchsgütern sowie
+l) Abschnitt S – Kunst, Sport und Erholung,
 
-m) Abschnitt S, Abteilung 96 – Erbringung von sonstigen überwiegend persönlichen Dienstleistungen.
+m) Abschnitt T, Abteilung 95 – Reparatur und Instandhaltung von Datenverarbeitungsgeräten und Gebrauchsgütern sowie von Kraftwagen und Krafträdern, sowie
+
+n) Abschnitt T, Abteilung 96 – Erbringung von überwiegend persönlichen Dienstleistungen.
 
 # § 4 – Periodizität und Berichtszeitraum bei konjunkturstatistischen Erhebungen
 
@@ -97,7 +97,7 @@ m) Abschnitt S, Abteilung 96 – Erbringung von sonstigen überwiegend persönli
 
 (2) Berichtszeitraum für die Erhebungen ist der Kalendermonat.
 
-(3) Erster Berichtsmonat für die Erhebungen ist der Januar 2021.
+(3) (weggefallen)
 
 # § 5 – Art und Umfang der konjunkturstatistischen Erhebungen
 
@@ -113,11 +113,11 @@ m) Abschnitt S, Abteilung 96 – Erbringung von sonstigen überwiegend persönli
 
 1. Umsatz der Erhebungseinheit im Berichtsmonat insgesamt sowie im Handels- und Dienstleistungsbereich gegliedert nach Bundesländern,
 
-2. Zahl der tätigen Personen der Erhebungseinheit am Ende des Berichtsmonats nach Art der Tätigkeit gegliedert nach Bundesländern,
+2. Zahl der in der Erhebungseinheit tätigen Personen insgesamt sowie Zahl der in der Erhebungseinheit im Handels- und Dienstleistungsbereich tätigen Personen gegliedert nach Bundesländern, jeweils zum Ende des Berichtsmonats,
 
 3. Bezeichnung und Wirtschaftszweignummer der wirtschaftlichen Tätigkeit der Erhebungseinheit gemäß der Klassifikation der Wirtschaftszweige. Erzielt eine Erhebungseinheit mit Handel und Dienstleistungen weniger als 50 Prozent ihres Umsatzes, werden die Angaben zu Satz 1 Nummer 3 zu der Tätigkeit erhoben, in der diese Einheit ihren wirtschaftlichen Schwerpunkt hat.
 
-Bei Erhebungseinheiten, die einen Jahresumsatz von mindestens 250 Millionen Euro erzielen, werden die Angaben nach Satz 1 jeweils für die drei größten Geschäftsfelder im Handels- und Dienstleistungsbereich erhoben, die ihrerseits einen Jahresumsatz von mindestens 125 Millionen Euro aufweisen. Die Angaben nach Satz 1 Nummer 1 und 2 für weitere Geschäftsfelder im Handels- und Dienstleistungsbereich sind zusammengefasst anzugeben. Die Angabe nach Satz 1 Nummer 3 ist auf das größte der zusammengefassten Geschäftsfelder zu beziehen.
+Bei Erhebungseinheiten, die einen Jahresumsatz von mindestens 250 Millionen Euro erzielen, werden die Angaben nach Satz 1 jeweils für die drei größten Geschäftsfelder im Handels- und Dienstleistungsbereich erhoben, die ihrerseits einen Jahresumsatz von mindestens 125 Millionen Euro aufweisen. Die Angaben nach Satz 1 Nummer 1 und 2 für weitere Geschäftsfelder im Handels- und Dienstleistungsbereich sind zusammengefasst anzugeben. Bei Erhebungseinheiten, die einen Jahresumsatz von mindestens 250 Millionen Euro erzielen und mehr als ein Geschäftsfeld haben, wird die Zahl der tätigen Personen der Erhebungseinheit insgesamt nach Art der Tätigkeit erhoben. Die Angabe nach Satz 1 Nummer 3 ist auf das größte der zusammengefassten Geschäftsfelder zu beziehen.
 
 (2) Bei Erhebungseinheiten, die erstmals in den Erhebungsbereich nach § 3 Absatz 2 Nummer 1 fallen, wird bei der ersten Erhebung zusätzlich Folgendes erhoben:
 
@@ -135,7 +135,7 @@ Absatz 1 Satz 2 und 3 gilt entsprechend. Erzielen Erhebungseinheiten erstmals ei
 
 (2) Berichtszeitraum für die Erhebungen ist das Kalenderjahr oder das im Kalenderjahr abgelaufene Geschäftsjahr.
 
-(3) Erstes Berichtsjahr für die Erhebungen ist das Jahr 2021.
+(3) (weggefallen)
 
 # § 8 – Art und Umfang der strukturstatistischen Erhebungen
 
@@ -207,31 +207,29 @@ b) Wert der selbst erstellten Sachanlagen und immateriellen Vermögensgegenstän
 
 a) des Abschnitts J, Gruppe 58.2 – Verlegen von Software,
 
-b) des Abschnitts J, Abteilung 62 – Erbringung von Dienstleistungen der Informationstechnologie,
+b) des Abschnitts K, Abteilung 62 – Erbringung von Dienstleistungen der Informationstechnologie,
 
-c) des Abschnitts J, Gruppe 63.1 – Datenverarbeitung, Hosting und damit verbundene Tätigkeiten; Webportale,
+c) des Abschnitts K, Abteilung 63 – Datenverarbeitung, Hosting und Erbringung sonstiger Informationsdienstleistungen,
 
-d) des Abschnitts M, Gruppe 73.1 – Werbung,
+d) des Abschnitts N, Gruppe 73.1 – Werbung,
 
-e) des Abschnitts N, Abteilung 78 – Vermittlung und Überlassung von Arbeitskräften;
+e) des Abschnitts O, Abteilung 78 – Vermittlung und Überlassung von Arbeitskräften;
 
-2. alle zwei Jahre, beginnend mit dem Berichtsjahr 2021 für die Wirtschaftszweige
+2. alle zwei Jahre, beginnend mit dem Berichtsjahr 2025 für die Wirtschaftszweige
 
-a) des Abschnitts M, Gruppe 71.1 – Architektur- und Ingenieurbüros,
+a) des Abschnitts N, Gruppe 71.1 – Tätigkeiten von Architektur- und Ingenieurbüros,
 
-b) des Abschnitts M, Gruppe 71.2 – Technische, physikalische und chemische Untersuchung,
+b) des Abschnitts N, Gruppe 71.2 – Technische, physikalische und chemische Untersuchung,
 
-c) des Abschnitts M, Gruppe 73.2 – Markt- und Meinungsforschung;
+c) des Abschnitts N, Gruppe 73.2 – Markt- und Meinungsforschung;
 
-3. alle zwei Jahre, beginnend mit dem Berichtsjahr 2022 für die Wirtschaftszweige
+3. alle zwei Jahre, beginnend mit dem Berichtsjahr 2026 für die Wirtschaftszweige
 
-a) des Abschnitts M, Gruppe 69.1 – Rechtsberatung,
+a) des Abschnitts N, Gruppe 69.1 – Rechtsberatung,
 
-b) des Abschnitts M, Gruppe 69.2 – Wirtschaftsprüfung und Steuerberatung; Buchführung,
+b) des Abschnitts N, Gruppe 69.2 – Wirtschaftsprüfung und Steuerberatung; Buchführung,
 
-c) des Abschnitts M, Gruppe 70.2 – Public-
-
-Relations- und Unternehmensberatung.
+c) des Abschnitts N, Gruppe 70.2 – Unternehmensberatung.
 
 (5) Die Angaben nach Absatz 1 Nummer 3 Buchstabe d werden nur für Erhebungseinheiten der Wirtschaftszweige der Abschnitte G und I erfasst. Die Angaben nach Absatz 1 Nummer 3 Buchstabe e werden nur für Erhebungseinheiten des Abschnitts G erfasst.
 
@@ -288,11 +286,3 @@ Das Statistische Bundesamt und die statistischen Ämter der Länder dürfen den 
 # § 15 – Durchführung
 
 Die Angaben zu den konjunktur- und strukturstatistischen Erhebungen im Wirtschaftszweig 46 werden vom Statistischen Bundesamt erhoben und aufbereitet.
-
-# § 16 – Übergangsregelung
-
-(1) Die Pflicht zur Auskunftserteilung bei den Erhebungsmerkmalen in der Gliederung nach Geschäftsfeldern gemäß § 6 Absatz 1 Satz 2 und 3 entsteht erst im Jahr 2022.
-
-(2) Die Erhebungen nach § 3 Absatz 1 Nummer 2 und 3 des Handelsstatistikgesetzes vom 10. Dezember 2001 (BGBl. I S. 3438), das zuletzt durch Artikel 272 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, werden für die Berichtsjahre 2019 und 2020 weiter nach jenem Gesetz durchgeführt.
-
-(3) Die Erhebungen nach dem Dienstleistungsstatistikgesetz vom 19. Dezember 2000 (BGBl. I S. 1765), das zuletzt durch Artikel 8 des Gesetzes vom 28. Juli 2015 (BGBl. I S. 1400) geändert worden ist, werden für die Berichtsjahre 2019 und 2020 weiter nach jenem Gesetz durchgeführt.

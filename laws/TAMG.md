@@ -171,6 +171,12 @@
 
  
 
+ 
+
+ 
+
+ 
+
 # § 1 – Zweck des Gesetzes
 
 (1) Zweck dieses Gesetzes ist es, für den sicheren Verkehr mit Tierarzneimitteln und veterinärmedizintechnischen Produkten zu sorgen und die Qualität, Wirksamkeit und Unbedenklichkeit von Tierarzneimitteln und veterinärmedizintechnischen Produkten zu gewährleisten.
@@ -519,33 +525,23 @@ Abweichend von Satz 1 können die Angaben auch auf der äußeren Umhüllung oder
 
 (1) Die zuständige Behörde des Landes, in dem die Betriebsstätte liegt oder liegen soll, erteilt auf Antrag für die im Geltungsbereich dieses Gesetzes liegenden Produktionsstätten eine Herstellungserlaubnis nach Artikel 88 Absatz 1 der Verordnung (EU) 2019/6.
 
-(2) Folgende Personen bedürfen keiner Herstellungserlaubnis nach Absatz 1:
+(2) Folgende Personen bedürfen keiner Herstellungserlaubnis nach Absatz 1, sofern die Voraussetzungen der Artikel 103 und 104 der Verordnung (EU) 2019/6 in der Fassung vom 23. November 2022 erfüllt sind:
 
-1. eine Inhaberin oder ein Inhaber einer Apotheke für die Zubereitung, die Aufteilung oder die Änderung der Verpackung oder der Darbietung von Tierarzneimitteln im Rahmen des üblichen Apothekenbetriebs, sofern
+1. eine Inhaberin oder ein Inhaber einer Apotheke für die Zubereitung, die Aufteilung oder die Änderung der Verpackung oder der Darbietung von Tierarzneimitteln im Rahmen des üblichen Apothekenbetriebs, sofern die Tierarzneimittel ausschließlich direkt an die Verbraucherin oder den Verbraucher abgegeben werden,
 
-a) die Voraussetzungen der Artikel 103 und 104 der Verordnung (EU) 2019/6 erfüllt sind und
+2. eine Tierärztin oder ein Tierarzt im Rahmen des Betriebes einer tierärztlichen Hausapotheke für die Zubereitung, die Aufteilung oder die Änderung der Verpackung oder der Darbietung eines Tierarzneimittels oder eines Arzneimittels nach § 2 Absatz 1, 2 und 3a des Arzneimittelgesetzes, sofern
 
-b) die Tierarzneimittel ausschließlich direkt an die Verbraucherin oder den Verbraucher abgegeben werden,
+a) der Vorgang für die von ihr oder ihm behandelten Tiere erfolgt und
 
-2. eine Tierärztin oder ein Tierarzt im Rahmen des Betriebes einer tierärztlichen Hausapotheke für die Zubereitung, die Aufteilung oder die Änderung der Verpackung oder der Darbietung eines Tierarzneimittels, sofern
+b) das Tierarzneimittel oder das Arzneimittel nach § 2 Absatz 1, 2 und 3a des Arzneimittelgesetzes ausschließlich direkt an die Tierhalterin oder den Tierhalter abgegeben oder durch die Tierärztin oder den Tierarzt selbst oder unter deren oder dessen Aufsicht angewendet wird, sowie
 
-a) die Voraussetzungen der Artikel 103 und 104 der Verordnung (EU) 2019/6 erfüllt sind,
+3. eine Einzelhändlerin oder ein Einzelhändler, die oder der die erforderliche Sachkenntnis nach § 45 Absatz 8 Satz 2 besitzt, für die Aufteilung oder die Änderung der Verpackung oder der Darbietung von Tierarzneimitteln, sofern die Tierarzneimittel ausschließlich direkt an die Verbraucherin oder den Verbraucher abgegeben werden.
 
-b) der Vorgang für die von ihr oder ihm behandelten Tiere erfolgt und
-
-c) das Tierarzneimittel ausschließlich direkt an die Tierhalterin oder den Tierhalter abgegeben oder durch die Tierärztin oder den Tierarzt selbst oder unter deren oder dessen Aufsicht angewendet wird sowie
-
-3. eine Einzelhändlerin oder ein Einzelhändler, die oder der die erforderliche Sachkenntnis nach § 45 Absatz 8 Satz 2 besitzt, für die Aufteilung oder die Änderung der Verpackung oder der Darbietung von Tierarzneimitteln, sofern
-
-a) die Voraussetzungen der Artikel 103 und 104 der Verordnung (EU) 2019/6 erfüllt sind und
-
-b) die Tierarzneimittel ausschließlich direkt an die Verbraucherin oder den Verbraucher abgegeben werden.
-
-Satz 1 gilt für die Aufteilung oder die Änderung der Verpackung oder Darbietung von Tierarzneimitteln nur, sofern
+Satz 1 gilt für die Aufteilung oder die Änderung der Verpackung oder Darbietung von Tierarzneimitteln oder von Arzneimitteln nach § 2 Absatz 1, 2 und 3a des Arzneimittelgesetzes nur, sofern
 
 1. im Einzelfall keine geeigneten Packungsgrößen auf dem Markt verfügbar sind oder
 
-2. in sonstigen Fällen das Behältnis oder jede andere Form der Verpackung, das oder die unmittelbar mit dem Tierarzneimittel in Berührung kommt, nicht beschädigt wird.
+2. in anderen als den in Nummer 1 genannten Fällen das Behältnis oder jede andere Form der Verpackung, das oder die unmittelbar mit dem Tierarzneimittel oder dem Arzneimittel nach § 2 Absatz 1, 2 und 3a des Arzneimittelgesetzes in Berührung kommt, nicht beschädigt wird.
 
 (+++ § 14: Zur Anwendung vgl. § 28 Abs. 1 Satz 3 +++)
 
@@ -713,13 +709,13 @@ Für klinische Prüfungen der nach § 22 Absatz 1 zulassungspflichtigen Tierarzn
 
 # § 26 – Kennzeichnung und Packungsbeilage von nach § 22 zulassungspflichtigen Tierarzneimitteln und veterinärmedizintechnischen Produkten
 
-Die nach § 22 Absatz 1 zulassungspflichtigen Tierarzneimittel und veterinärmedizinischen Produkte dürfen im Geltungsbereich dieses Gesetzes nur bereitgestellt werden, wenn ihre Kennzeichnung und ihre Packungsbeilage den folgenden Vorgaben entsprechend gestaltet sind:
+Die nach § 22 Absatz 1 zulassungspflichtigen Tierarzneimittel und veterinärmedizintechnischen Produkte dürfen im Geltungsbereich dieses Gesetzes nur bereitgestellt werden, wenn ihre Kennzeichnung und ihre Packungsbeilage den folgenden Vorgaben entsprechend gestaltet sind:
 
 1. der Papierform der Packungsbeilage nach § 8,
 
-2. Artikel 10 Absatz 1, Artikel 11 Absatz 1, Artikel 12 Absatz 1 und Artikel 14 Absatz 1 Satz 2 der Verordnung (EU) 2019/6 sowie
+2. Artikel 10 Absatz 1, Artikel 11 Absatz 1, Artikel 12 Absatz 1 und Artikel 14 Absatz 1 Satz 2 der Verordnung (EU) 2019/6 in der Fassung vom 23. November 2022 sowie
 
-3. den sonstigen Vorschriften des Kapitels II Abschnitt 4 der Verordnung (EU) 2019/6.
+3. den sonstigen Vorschriften des Kapitels II Abschnitt 4 der Verordnung (EU) 2019/6 in der Fassung vom 23. November 2022.
 
 Im Übrigen ist § 7 Absatz 2 entsprechend anzuwenden.
 
@@ -777,9 +773,9 @@ Für die Überwachung der Einhaltung der Vorschriften dieses Gesetzes über Tier
 
 # § 36 – Information der Öffentlichkeit
 
-Die zuständige Bundesoberbehörde hat im Bundesanzeiger Folgendes bekannt zu machen:
+(1) Die zuständige Bundesoberbehörde hat im Bundesanzeiger Folgendes bekannt zu machen:
 
-1. die Erteilung oder die Änderung von Zulassungen,
+1. die Erteilung von Zulassungen,
 
 2. die Einstufung von Tierarzneimitteln,
 
@@ -793,11 +789,13 @@ Die zuständige Bundesoberbehörde hat im Bundesanzeiger Folgendes bekannt zu ma
 
 7. Informationen über das Zurückziehen eines Zulassungsantrags,
 
-8. die Erteilung oder die Änderung von Registrierungen homöopathischer Tierarzneimittel,
+8. die Erteilung von Registrierungen homöopathischer Tierarzneimittel,
 
 9. die Erteilung oder die Änderung von Freistellungen von Tierarzneimitteln und
 
 10. den von der Inhaberin oder dem Inhaber der Zulassung erklärten Verzicht auf den Inhalt der Zulassung.
+
+(2) Änderungen von Erteilungen nach Absatz 1 Nummer 1 und 8 sind über die allgemein zugänglichen Datenbanken nach § 68 Absatz 4 unverzüglich zu veröffentlichen.
 
 # § 37 – Verbot des Bereitstellens
 
@@ -903,6 +901,30 @@ b) 31 Tage im Übrigen, und
 
 (4) Ein Tierarzneimittel oder ein veterinärmedizintechnisches Produkt darf im Rahmen der Übergabe einer tierärztlichen Praxis an die Person abgegeben werden, die in die Rechtsstellung eingetreten ist und die die tierärztliche Hausapotheke weiter betreibt.
 
+# § 44a – Versand verschreibungspflichtiger Tierarzneimittel
+
+(1) Der Versand verschreibungspflichtiger Tierarzneimittel und verschreibungspflichtiger veterinärmedizintechnischer Produkte ist verboten, soweit nicht in den Absätzen 2 bis 5 etwas anderes bestimmt ist.
+
+(2) Apotheken dürfen im Geltungsbereich dieses Gesetzes und unter Beachtung der Vorgaben des Apothekengesetzes im Wege des Versandes auf dem Markt bereitstellen:
+
+1. verschreibungspflichtige veterinärmedizintechnische Produkte und
+
+2. verschreibungspflichtige Tierarzneimittel, welche ausschließlich zur Anwendung bei Tieren zugelassen sind, die nicht der Gewinnung von Lebensmitteln dienen, wenn der Apotheke eine behördliche Erlaubnis zum Versand erteilt worden ist.
+
+(3) Im Rahmen des Betriebs einer tierärztlichen Hausapotheke darf die Tierärztin oder der Tierarzt im Einzelfall verschreibungspflichtige Tierarzneimittel und verschreibungspflichtige veterinärmedizintechnische Produkte im Geltungsbereich dieses Gesetzes an die Halterin oder den Halter der von der Tierärztin oder dem Tierarzt behandelten Tiere, die nicht der Gewinnung von Lebensmitteln dienen, durch Transportdienstleister versenden. Der Versand ist auf die Menge beschränkt, die erforderlich ist für eine kurzfristige Weiterbehandlung.
+
+(4) Die tierärztliche Verschreibung muss zuvor von der versendenden Tierärztin oder dem versendenden Tierarzt selbst ausgestellt worden sein. Artikel 105 Absatz 3 der Verordnung (EU) 2019/6 in der Fassung vom 23. November 2022 bleibt unberührt.
+
+(5) Die Tierärztin oder der Tierarzt hat sicherzustellen, dass
+
+1. ein geeigneter Transportdienstleister ausgewählt wird,
+
+2. der Transport und die Lieferung des Tierarzneimittels wie vom Hersteller oder auf der äußeren Umhüllung angegeben und unter den hierfür in der Zulassung des Tierarzneimittels festgelegten Bedingungen erfolgt,
+
+3. das Tierarzneimittel so verpackt, transportiert und ausgeliefert wird, dass seine Qualität und Wirksamkeit erhalten bleibt, insbesondere ist dafür zu sorgen, dass die für das Tierarzneimittel geltenden Temperaturanforderungen während des Transports bis zur Abgabe an den Empfänger eingehalten werden; die Einhaltung muss bei besonders temperaturempfindlichen Tierarzneimitteln durch mitgeführte Temperaturkontrollen durch den Transportdienstleister valide nachgewiesen werden können, und
+
+4. durch den Transportdienstleister ein System zur Sendungsverfolgung unterhalten wird.
+
 # § 45 – Weitere Vorschriften zur Abgabe; Verordnungsermächtigung
 
 (1) Inhaberinnen und Inhaber einer Großhandelsvertriebserlaubnis dürfen Tierarzneimittel und veterinärmedizintechnische Produkte, deren Abgabe durch Apotheken oder tierärztliche Hausapotheken vorgesehen ist, im Geltungsbereich dieses Gesetzes außer an Apotheken oder tierärztliche Hausapotheken nur abgeben an
@@ -959,21 +981,13 @@ a) in den Mitteilungen die Zulassungsnummer des jeweils abgegebenen Arzneimittel
 
 b) die Mitteilung der Menge des abgegebenen Arzneimittels nach den ersten beiden Ziffern der Postleitzahl der Anschrift der Tierärztinnen und Tierärzte aufzuschlüsseln ist.
 
-(8) Inhaberinnen und Inhaber einer Großhandelsvertriebserlaubnis dürfen nach § 40 Absatz 1 frei verkäufliche Tierarzneimittel und veterinärmedizintechnische Produkte im Geltungsbereich dieses Gesetzes an Einzelhändlerinnen und Einzelhändler abgeben, sofern diese die erforderliche Sachkenntnis besitzen. Die erforderliche Sachkenntnis besitzt, wer Kenntnisse und Fertigkeiten über das ordnungsgemäße Abfüllen, Abpacken, Kennzeichnen, Lagern und Bereitstellen von freiverkäuflichen Tierarzneimitteln und veterinärmedizintechnischen Produkten sowie Kenntnisse über die für diese Tierarzneimittel und veterinärmedizintechnischen Produkte geltenden Vorschriften nachweist. Satz 1 gilt entsprechend für Herstellerinnen und Hersteller für die von ihnen hergestellten Tierarzneimittel und veterinärmedizintechnischen Produkte.
+(8) Inhaberinnen und Inhaber einer Großhandelsvertriebserlaubnis dürfen nach § 40 Absatz 1 frei verkäufliche Tierarzneimittel und veterinärmedizintechnische Produkte im Geltungsbereich dieses Gesetzes an Einzelhändlerinnen und Einzelhändler abgeben, sofern diese die erforderliche Sachkenntnis besitzen. Die erforderliche Sachkenntnis besitzt, wer Kenntnisse und Fertigkeiten über das ordnungsgemäße Abfüllen, Abpacken, Kennzeichnen, Lagern und Bereitstellen von freiverkäuflichen Tierarzneimitteln und veterinärmedizintechnischen Produkten sowie Kenntnisse über die für diese Tierarzneimittel und veterinärmedizintechnischen Produkte geltenden Vorschriften nachweist. Satz 1 gilt entsprechend für Herstellerinnen und Hersteller für die von ihnen hergestellten Tierarzneimittel und veterinärmedizintechnischen Produkte. Der Nachweis der Sachkenntnis ist nicht erforderlich bei nach § 4 freigestellten Tierarzneimitteln.
 
 (9) Die Absätze 1, 2 und 5 gelten für Herstellerinnen und Hersteller von Tierarzneimitteln und veterinärmedizintechnischen Produkten entsprechend, soweit sie für das betreffende Tierarzneimittel oder das betreffende veterinärmedizintechnische Produkt eine Herstellungserlaubnis innehaben.
 
-(10) Tierärztinnen und Tierärzte haben bis zum 28. Januar eines jeden Kalenderjahres, erstmals bis zum 28. Januar 2026, der zuständigen Bundesoberbehörde die Art und Menge derjenigen von ihnen im vorangegangenen Kalenderjahr bei Hunden und Katzen angewendeten Arzneimittel elektronisch mitzuteilen, die Stoffe enthalten, die eine antibakterielle Wirkung haben.
+(10) (weggefallen)
 
-(11) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit durch Rechtsverordnung mit Zustimmung des Bundesrates
-
-1. Näheres über Inhalt und Form der Mitteilungen nach Absatz 10 zu regeln und
-
-2. vorzuschreiben, dass
-
-a) in den Mitteilungen die Zulassungsnummer des jeweils angewendeten Arzneimittels anzugeben ist und
-
-b) in den Mitteilungen die Art und das Körpergewicht des behandelten Tieres sowie die Dosierung und die Anzahl der Behandlungstage anzugeben ist.
+(11) (weggefallen)
 
 # § 46 – Abgabe von Mustern
 
@@ -1047,7 +1061,7 @@ Die Nachweise nach Satz 1 sind mindestens drei Jahre aufzubewahren und auf Verla
 
 (6) Zugelassene Futtermittelunternehmerinnen und Futtermittelunternehmer nach Artikel 13 der Verordnung (EU) 2019/4, die Arzneifuttermittel oder Zwischenerzeugnisse herstellen, dürfen apothekenpflichtige Tierarzneimittel von Inhaberinnen und Inhabern einer Großhandelsvertriebserlaubnis zum Zweck der Herstellung von Arzneifuttermitteln oder Zwischenerzeugnissen beziehen, wenn die Tierarzneimittel für diesen Zweck zugelassen sind; dies gilt nicht für mobile Mischerinnen und Mischer sowie Hofmischerinnen und Hofmischer nach Artikel 3 Absatz 2 Buchstabe f und g der Verordnung (EU) 2019/4.
 
-(7) Eine Tierhalterin oder ein Tierhalter darf apothekenpflichtige Tierarzneimittel und veterinärmedizintechnische Produkte nur in Apotheken oder bei einer oder einem das Tier behandelnden Tierärztin oder Tierarzt im Rahmen des Betriebes einer tierärztlichen Hausapotheke beziehen.
+(7) Eine Tierhalterin oder ein Tierhalter darf apothekenpflichtige Tierarzneimittel und veterinärmedizintechnische Produkte nur von Apotheken oder bei einer das Tier behandelnden Tierärztin oder einem das Tier behandelnden Tierarzt im Rahmen des Betriebes einer tierärztlichen Hausapotheke beziehen.
 
 (8) Andere als die in den Absätzen 1 bis 7 genannten Personen dürfen apothekenpflichtige Tierarzneimittel und veterinärmedizintechnische Produkte nur in Apotheken erwerben.
 
@@ -1125,6 +1139,8 @@ Nachweise über den Erwerb verschreibungspflichtiger Arzneimittel zu führen hab
 
 (4) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit, dem Bundesministerium für Wirtschaft und Klimaschutz sowie dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften darüber zu erlassen, wie der Nachweis der erforderlichen Sachkunde nach Artikel 97 Absatz 2 und 3 der Verordnung (EU) 2019/6 zu erbringen ist, um einen ordnungsgemäßen Verkehr mit Tierarzneimitteln und veterinärmedizintechnischen Produkten zu gewährleisten. Es kann dabei Prüfungszeugnisse über eine berufliche Aus- oder Fortbildung als Nachweis anerkennen. Es kann ferner bestimmen, dass die Sachkenntnis durch eine Prüfung vor der zuständigen Behörde oder einer von ihr bestimmten Stelle nachgewiesen wird, und das Nähere über die Prüfungsanforderungen und das Prüfungsverfahren regeln.
 
+(5) Bei Gefahr im Verzug kann das Bundesministerium für Landwirtschaft, Ernährung und Heimat durch Rechtsverordnung ohne Zustimmung des Bundesrates nach Maßgabe des Artikels 116 der Verordnung (EU) 2019/6 in der Fassung vom 23. November 2022 die Anwendung eines nicht immunologischen Tierarzneimittels genehmigen, das in einem anderen Mitgliedstaat der Europäischen Union zugelassen ist. Rechtsverordnungen nach Satz 1 treten spätestens sechs Monate nach ihrem Inkrafttreten außer Kraft. Ihre Geltungsdauer kann nur mit Zustimmung des Bundesrates verlängert werden. Die Auswahl der in Satz 1 genannten Tierarzneimittel erfolgt im Benehmen mit dem Bundesamt für Verbraucherschutz und Lebensmittelsicherheit.
+
 # § 53 – Verordnungsermächtigungen zur Regelung der Kennzeichnung, der Packungsbeilage, der Packungsgrößen und der Preise
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit durch Rechtsverordnung mit Zustimmung des Bundesrates die Kennzeichnung von Tierarzneimitteln zu regeln, die zur klinischen Prüfung bestimmt sind. Satz 1 gilt nur, soweit die Kennzeichnung geboten ist, um eine unmittelbare oder mittelbare Gefährdung der Gesundheit von Mensch und Tier zu verhindern, die infolge mangelnder Kennzeichnung eintreten könnte.
@@ -1133,7 +1149,7 @@ Nachweise über den Erwerb verschreibungspflichtiger Arzneimittel zu führen hab
 
 (3) Das Bundesministerium für Ernährung und Landwirtschaft wird ferner ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zu bestimmen, dass Tierarzneimittel nur in bestimmten Packungsgrößen in den Verkehr gebracht werden dürfen. Die Bestimmung dieser Packungsgrößen erfolgt für bestimmte Wirkstoffe und berücksichtigt die Anwendungsgebiete, die Anwendungsdauer und die Darreichungsform des Tierarzneimittels.
 
-(4) Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft durch Rechtsverordnung mit Zustimmung des Bundesrates Folgendes festzusetzen:
+(4) Das Bundesministerium für Landwirtschaft, Ernährung und Heimat wird ferner ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Folgendes festzusetzen:
 
 1. die Preisspannen für Tierarzneimittel, die im Großhandel, in Apotheken oder von Tierärztinnen oder Tierärzten im Wiederverkauf abgegeben werden,
 
@@ -1163,15 +1179,19 @@ Für die Zwecke dieses Unterabschnittes sind die in der Anlage 1 Spalte 2 bezeic
 
 3. die nach Maßgabe tierseuchenrechtlicher Vorschriften über den Verkehr mit Vieh für den Tierhaltungsbetrieb erteilte Registriernummer.
 
-(2) Ferner hat die Tierhalterin oder der Tierhalter von Tieren der in Absatz 1 Satz 1 bezeichneten Nutzungsarten für jeden Tierhaltungsbetrieb, für den ihr oder ihm nach den tierseuchenrechtlichen Vorschriften über den Verkehr mit Vieh eine Registriernummer zugeteilt worden ist, unter Berücksichtigung der Nutzungsart für jedes Halbjahr die Anzahl der Tiere der jeweiligen Tierart nach Maßgabe des Satzes 4 mitzuteilen, die
+(2) Ferner hat die Tierhalterin oder der Tierhalter von Tieren der in Absatz 1 Satz 1 bezeichneten Nutzungsarten für jeden Tierhaltungsbetrieb, für den ihr oder ihm nach den tierseuchenrechtlichen Vorschriften über den Verkehr mit Vieh eine Registriernummer zugeteilt worden ist, unter Berücksichtigung der Nutzungsart für jedes Halbjahr die Anzahl der Tiere der jeweiligen Tierart nach Maßgabe des Absatzes 2b mitzuteilen, die
 
 1. in jedem Halbjahr zu Beginn im Betrieb gehalten worden sind,
 
-2. im Verlauf eines jeden Halbjahres in den Betrieb aufgenommen worden sind gemäß Satz 3,
+2. im Verlauf eines jeden Halbjahres in den Betrieb aufgenommen worden sind gemäß Absatz 2a Satz 1,
 
-3. im Verlauf eines jeden Halbjahres aus dem Betrieb abgegeben worden sind gemäß Satz 3.
+3. im Verlauf eines jeden Halbjahres aus dem Betrieb abgegeben worden sind gemäß Absatz 2a Satz 2 und 3.
 
-Die Mitteilungspflicht nach Satz 1 Nummer 3 umfasst auch verendete und getötete Tiere. Die Mitteilungen nach Satz 1 Nummer 2 und 3 sind unter Angabe des Datums des jeweiligen Ereignisses oder der jeweiligen Handlung zu machen. Die Mitteilungen nach den Sätzen 1 und 3 sind für das erste Kalenderhalbjahr jeweils spätestens am 14. Juli des betreffenden Jahres und für das zweite Kalenderhalbjahr jeweils spätestens am 14. Januar des Folgejahres zu machen.
+Die Mitteilungspflicht nach Satz 1 Nummer 3 umfasst auch verendete und getötete Tiere.
+
+(2a) Die Mitteilungen nach Absatz 2 Satz 1 Nummer 2 sind unter Angabe des Datums der jeweiligen Aufnahme zu machen. Die Mitteilungen nach Absatz 2 Satz 1 Nummer 3 sind für Tiere, die im Verlauf eines jeden Halbjahres aus dem Betrieb abgegeben worden sind, unter Angabe des Datums der jeweiligen Abgabe zu machen. Abweichend von Satz 2 können für Tiere, die im Laufe eines Halbjahres verendet oder getötet aus dem Betrieb abgegeben worden sind, die Mitteilungen als Summe der Abgänge pro Kalenderwoche gemacht werden; in der Meldung ist das Tagesdatum des jeweiligen Donnerstags der betreffenden Kalenderwoche, für die die Mitteilung erfolgt, anzugeben.
+
+(2b) Die Mitteilungen nach Absatz 2 Satz 1 sind für das erste Kalenderhalbjahr jeweils spätestens am 14. Juli des betreffenden Jahres und für das zweite Kalenderhalbjahr jeweils spätestens am 14. Januar des Folgejahres zu machen.
 
 (3) Wenn bei den in Absatz 2 Satz 1 bezeichneten Tieren keine antibiotisch wirksamen Arzneimittel angewendet worden sind, hat die Tierhalterin oder der Tierhalter abweichend von Absatz 2 Satz 1 nur mitzuteilen, dass keine antibiotisch wirksamen Tierarzneimittel angewendet worden sind.
 
@@ -1227,7 +1247,13 @@ Dabei sind entsprechend des Berechnungsverfahrens zur Ermittlung der Therapiehä
 
 Enthält ein verabreichtes Arzneimittel Cephalosporine der 3. und 4. Generation, Fluorchinolone oder Colistin, so ist für die Berechnung nach Absatz 1 Satz 3 Nummer 1 jeder Behandlungstag mit dem Faktor drei zu multiplizieren. Bei den in § 56 Absatz 1 genannten antibiotisch wirksamen Arzneimitteln, die je Behandlung einmalig angewendet werden und einen therapeutischen Wirkstoffspiegel von mehr als 24 Stunden aufweisen, ist für die Berechnung nach Absatz 1 Satz 3 Nummer 1 jeder Behandlungstag mit dem Faktor 5 zu multiplizieren. Bei den in § 56 Absatz 1 genannten antibiotisch wirksamen Arzneimitteln, die je Behandlung mehrmalig angewendet werden und die einen therapeutischen Wirkstoffspiegel von mehr als 24 Stunden aufweisen, ist für die Berechnung nach Absatz 1 Satz 3 Nummer 1 jeder Behandlungstag mit einem Faktor zu multiplizieren, der sich wie folgt errechnet: Die Summe aus dem Tag der ersten Anwendung und der Anzahl der Tage zwischen dem Tag der ersten Anwendung und dem Tag der zweiten Anwendung.
 
-(3) Die zuständige Behörde hat dem Bundesamt für Verbraucherschutz und Lebensmittelsicherheit für die Zwecke des Absatzes 6 und des § 60 in anonymisierter Form die nach Absatz 1 jeweils ermittelte betriebliche halbjährliche Therapiehäufigkeit sowie für die Zwecke des Artikels 57 der Verordnung (EU) 2019/6 die Angaben nach § 56 Absatz 1 Satz 1 Nummer 1 und 3 bis 5 mitzuteilen. Die Mitteilung nach Satz 1 ist für das erste Kalenderhalbjahr jeweils spätestens am 1. August des betreffenden Jahres und für das zweite Kalenderhalbjahr jeweils spätestens am 1. Februar des Folgejahres zu machen. Die zuständige Behörde hat dem Bundesinstitut für Risikobewertung jeweils bis zu den in Satz 2 genannten Zeitpunkten in pseudonymisierter Form die in der Anlage 2 aufgeführten, halbjährlich ermittelten Daten zum Zweck der Risikobewertung auf dem Gebiet der Antibiotikaresistenz mitzuteilen.
+(3) Die zuständige Behörde hat dem Bundesamt für Verbraucherschutz und Lebensmittelsicherheit folgende Angaben mitzuteilen:
+
+1. für die Zwecke des Absatzes 6 und des § 60 die nach Absatz 1 jeweils ermittelte betriebliche halbjährliche Therapiehäufigkeit in anonymisierter Form sowie
+
+2. für die Zwecke des Artikels 57 der Verordnung (EU) 2019/6 in der Fassung vom 23. November 2022 die Angaben nach § 56 Absatz 1 Satz 1 Nummer 1 und 3 bis 7.
+
+Die Mitteilung nach Satz 1 ist für das erste Kalenderhalbjahr jeweils spätestens am 1. August des betreffenden Jahres und für das zweite Kalenderhalbjahr jeweils spätestens am 1. Februar des Folgejahres zu machen. Die zuständige Behörde hat dem Bundesinstitut für Risikobewertung jeweils bis zu den in Satz 2 genannten Zeitpunkten in pseudonymisierter Form die in der Anlage 2 aufgeführten, halbjährlich ermittelten Daten zum Zweck der Risikobewertung auf dem Gebiet der Antibiotikaresistenz mitzuteilen.
 
 (4) Das Bundesinstitut für Risikobewertung hat das Verfahren zur Bildung des Pseudonyms nach Absatz 3 Satz 3 zu bestimmen. Das Verfahren ist so zu gestalten, dass das Bundesinstitut für Risikobewertung bei den ihm gemeldeten Daten den Personenbezug nicht wiederherstellen kann. Auf Grundlage der ihm übermittelten Daten hat das Bundesinstitut für Risikobewertung die Risikobewertung durchzuführen. Das Bundesinstitut für Risikobewertung hat jährlich zu den in der Anlage 2 aufgeführten, von den zuständigen Behörden übermittelten Daten des Vorjahres einen Bericht über die Ergebnisse der Risikobewertung zu erstellen. Der Berichtszeitraum ist ein Kalenderjahr. Das Bundesinstitut für Risikobewertung hat den erstellten Bericht bis zum 31. August des auf den Berichtszeitraum folgenden Jahres zu veröffentlichen.
 
@@ -1364,6 +1390,42 @@ b) der Löschung der Daten nach § 57 Absatz 8.
 (5) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit durch Rechtsverordnung mit Zustimmung des Bundesrates Fische, die der Gewinnung von Lebensmitteln dienen, in den Anwendungsbereich der §§ 54 bis 59 und der zur Durchführung dieser Vorschriften erlassenen Rechtsverordnungen einzubeziehen, soweit dies für die Verringerung der Behandlung mit antibiotisch wirksamen Arzneimitteln erforderlich ist.
 
 (6) Eine Rechtsverordnung nach Absatz 5 darf erstmals erlassen werden, wenn die Ergebnisse eines bundesweiten durchgeführten behördlichen oder im Auftrag einer Behörde bundesweit durchgeführten Forschungsvorhabens über die Behandlung mit antibiotisch wirksamen Arzneimitteln bei Fischen, die der Gewinnung von Lebensmitteln dienen, im Bundesanzeiger veröffentlicht worden sind.
+
+# § 61a – Tierärztliche Mitteilungen über die Anwendung antimikrobiell wirksamer Arzneimittel nach der Delegierten Verordnung (EU) 2021/578
+
+(1) Tierärztinnen und Tierärzte, die
+
+1. Enten, Gänse, Schafe, Ziegen, Fische der Arten Atlantischer Lachs, Regenbogenforelle, Goldbrasse, Wolfsbarsch und Karpfen, Pferde oder der Gewinnung von Lebensmitteln dienende Kaninchen oder
+
+2. Hunde, Katzen oder Füchse oder Nerze, wenn diese Füchse oder Nerze als Pelztiere gehalten werden,
+
+mit den in den Nummern 3 und 4 Absatz 1 bis 5 und 10 des Anhangs der Delegierten Verordnung (EU) 2021/578 in der Fassung vom 29. Januar 2021 bezeichneten antibiotisch wirksamen Arzneimitteln behandeln, haben der zuständigen Bundesoberbehörde zu den in Artikel 57 der Verordnung (EU) 2019/6 in der Fassung vom 23. November 2022 und in § 61b Absatz 2 Satz 1 genannten Zwecken Mitteilungen nach Maßgabe der Absätze 2 und 3 zu machen.
+
+(2) Mitzuteilen sind:
+
+1. der Name der behandelnden Tierärztin oder des behandelnden Tierarztes und die Praxisanschrift,
+
+2. die Angaben nach den Nummern 4 bis 6 und 9 des Anhangs II der Verordnung (EU) 2022/209 in der Fassung vom 16. Februar 2022 zum verschriebenen, angewendeten oder abgegebenen Arzneimittel,
+
+3. die insgesamt verschriebene, angewendete oder abgegebene Menge dieser Arzneimittel und
+
+4. die jeweilige Tierart der behandelten Tiere.
+
+Die Angabe des Namens nach Satz 1 Nummer 1 kann durch die Angabe des Namens der Praxis ersetzt werden.
+
+(3) Die Mitteilung hat elektronisch zu erfolgen. Die Mitteilung kann durch Dritte vorgenommen werden, sofern die Tierärztin oder der Tierarzt dies elektronisch unter Nennung des Dritten der zuständigen Bundesoberbehörde angezeigt hat. Die Mitteilung ist für jedes Kalenderhalbjahr bis zum Ablauf des 14. Januar des Folgejahres zu machen.
+
+(4) Die zuständige Bundesoberbehörde ist befugt, die in Absatz 2 genannten Daten zu den in Absatz 1 genannten Zwecken zu erheben, zu speichern und zu verwenden.
+
+# § 61b – Verarbeitung und Übermittlung von nach § 61a erhobenen Daten
+
+(1) Unbeschadet des Artikels 57 der Verordnung (EU) 2019/6 in der Fassung vom 23. November 2022 dürfen die nach § 61a erhobenen Daten nach Maßgabe der Absätze 2 und 3 verarbeitet werden.
+
+(2) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit hat dem Bundesinstitut für Risikobewertung jeweils bis zum Ablauf des 15. Februar des auf den Berichtszeitraum folgenden Jahres in pseudonymisierter Form die in der Anlage 2 Nummer 9 aufgeführten, jährlich ermittelten Daten zum Zweck der Risikobewertung auf dem Gebiet der Antibiotikaresistenz mitzuteilen. Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit hat das Verfahren zur Bildung des Pseudonyms zu bestimmen. Dieses Verfahren ist so zu gestalten, dass das Bundesinstitut für Risikobewertung bei den ihm gemeldeten Daten den Personenbezug nicht wiederherstellen kann.
+
+(3) Auf Grundlage der ihm übermittelten Daten hat das Bundesinstitut für Risikobewertung die Risikobewertung durchzuführen. Das Bundesinstitut für Risikobewertung hat jährlich zu den in Absatz 2 Satz 1 genannten Daten des Vorjahres einen nicht personenbezogenen Bericht über die Ergebnisse der Risikobewertung zu erstellen. Der Berichtszeitraum ist ein Kalenderjahr. Das Bundesinstitut für Risikobewertung hat den erstellten Bericht bis zum Ablauf des 31. August des auf den Berichtszeitraum folgenden Jahres zu veröffentlichen.
+
+(4) Das Bundesinstitut für Risikobewertung ist befugt, die in Absatz 2 Satz 1 genannten Daten in pseudonymisierter Form zu Zwecken der Risikobewertung zu erheben, zu speichern und zu verwenden. Ferner dürfen die Daten in pseudonymisierter Form zu wissenschaftlichen Zwecken verwendet werden.
 
 # § 62 – Verordnungsermächtigung zur Regelung von Betriebsverordnungen
 
@@ -1527,7 +1589,7 @@ In den Verfahren nach Satz 1 übermittelt die zuständige Bundesoberbehörde dem
 
 (3) Eine Übermittlung der Daten durch das Bundesinstitut für Arzneimittel und Medizinprodukte an andere Stellen ist zulässig, soweit dies zur Wahrnehmung ihrer Aufgaben erforderlich ist und öffentliche Belange dem nicht entgegenstehen. Die Vorschriften zum Schutz personenbezogener Daten, zum Schutz des geistigen Eigentums und zum Schutz von Betriebs- und Geschäftsgeheimnissen bleiben unberührt.
 
-(4) Das Bundesinstitut für Arzneimittel und Medizinprodukte stellt allgemein verfügbare Datenbanken mit Informationen zu Tierarzneimitteln über ein Internetportal bereit. Das Internetportal wird mit dem von der Europäischen Arzneimittel-Agentur eingerichteten europäischen Internetportal nach Artikel 55 Absatz 1, Artikel 74 Absatz 1 und Artikel 91 Absatz 1 der Verordnung (EU) Nr. 2019/6 für Tierarzneimittel verbunden. Darüber hinaus stellt die Bundesoberbehörde Informationen zum Versandhandel mit Tierarzneimitteln über ein allgemein zugängliches Internetportal zur Verfügung. Dieses Internetportal wird mit dem von der Europäischen Arzneimittel-Agentur betriebenen Internetportal verbunden, das Informationen zum Versandhandel und zum gemeinsamen Versandhandelslogo nach Artikel 104 Absatz 9 der Verordnung (EU) Nr. 2019/6 enthält. Die Bundesoberbehörde gibt die Adressen der Internetportale im Bundesanzeiger bekannt.
+(4) Das Bundesinstitut für Arzneimittel und Medizinprodukte stellt allgemein verfügbare Datenbanken mit Informationen zu Tierarzneimitteln über ein Internetportal bereit. Das Internetportal wird mit dem von der Europäischen Arzneimittel-Agentur eingerichteten europäischen Internetportal nach Artikel 55 Absatz 1, Artikel 74 Absatz 1 und Artikel 91 Absatz 1 der Verordnung (EU) 2019/6 in der Fassung vom 23. November 2022 verbunden. Darüber hinaus hat die Bundesoberbehörde Informationen zum Einzelhandel mit Tierarzneimitteln im Fernabsatz nach Artikel 104 der Verordnung (EU) 2019/6 in der Fassung vom 23. November 2022 über ein allgemein zugängliches Internetportal zur Verfügung zu stellen. Dieses Internetportal wird mit dem von der Europäischen Arzneimittel-Agentur betriebenen Internetportal, das Informationen zum Einzelhandel mit Tierarzneimitteln im Fernabsatz und zum gemeinsamen Logo nach Artikel 104 Absatz 9 der Verordnung (EU) 2019/6 in der Fassung vom 23. November 2022 enthält, verbunden. Die Bundesoberbehörde gibt die Adressen der Internetportale im Bundesanzeiger bekannt.
 
 (5) In dem Informationssystem nach Absatz 1 werden Daten, auch personenbezogener Art, gespeichert über
 
@@ -1557,7 +1619,13 @@ In den Verfahren nach Satz 1 übermittelt die zuständige Bundesoberbehörde dem
 
 (6) In dem Informationssystem können weitere tierarzneimittelbezogene Daten, wie Daten zu Risiken, Absatzmengen, Verschreibungsvolumen und in Verkehr gebrachte Packungsgrößen gespeichert werden, soweit dies zur Wahrnehmung der Aufgaben des Bundesinstituts für Arzneimittel und Medizinprodukte oder der anderen in den §§ 64 und 65 genannten Behörden erforderlich ist.
 
-(7) Das für die Öffentlichkeit allgemein zugängliche Informationssystem für Tierarzneimittel nach Absatz 4 enthält Daten über Produktmerkmale sowie Informationen, die mit Tierarzneimitteln oder deren Bereitstellung in Zusammenhang stehen. Hierzu zählen insbesondere Angaben über den Zulassungsstatus, die Packungsbeilage und die Fachinformation, den öffentlichen Beurteilungsbericht sowie den Namen und die Anschrift der jeweils verantwortlichen Personen, Betriebe und Einrichtungen, die das Tierarzneimittel auf dem Markt bereitstellen. Die Vorschriften zum Schutz personenbezogener Daten, zum Schutz des geistigen Eigentums und zum Schutz von Betriebs- und Geschäftsgeheimnissen bleiben unberührt.
+(7) Die für die Öffentlichkeit allgemein zugängliche Datenbank für Tierarzneimittel nach Absatz 4 enthält
+
+1. Daten über Produktmerkmale sowie
+
+2. Informationen, die mit Tierarzneimitteln oder deren Bereitstellung in Zusammenhang stehen, sowie alle Änderungen dieser Informationen.
+
+Zu den Informationen nach Satz 1 Nummer 2 zählen insbesondere Angaben über den Zulassungsstatus, den Registrierungsstatus homöopathischer Tierarzneimittel, die Packungsbeilage und die Fachinformation, den öffentlichen Beurteilungsbericht sowie den Namen und die Anschrift der jeweils verantwortlichen Personen, Betriebe und Einrichtungen, die das Tierarzneimittel auf dem Markt bereitstellen. Die Informationen sowie deren Änderungen sind unverzüglich zur Verfügung zu stellen. Die Vorschriften zum Schutz personenbezogener Daten, zum Schutz des geistigen Eigentums und zum Schutz von Betriebs- und Geschäftsgeheimnissen bleiben unberührt.
 
 # § 69 – Datenübermittlungen an das Informationssystem; Verordnungsermächtigung
 
@@ -1573,23 +1641,15 @@ a) im Fall des § 45 Absatz 6 Nummer 1 die Angaben nach den Nummern 4 bis 6 und 
 
 b) im Fall des § 45 Absatz 6 Nummer 2 die Zulassungsnummer.
 
-(3) Tierärztinnen und Tierärzte übermitteln die in § 45 Absatz 10 genannten Daten der zuständigen Bundesoberbehörde durch Datenfernübertragung oder auf automatisiert verarbeitbaren Datenträgern. Dabei ist Folgendes anzugeben:
+(3) Eine Übermittlung der in Absatz 2 genannten Daten durch die zuständige Bundesoberbehörde an andere Stellen ist zulässig, soweit dies zur Wahrnehmung der diesen Stellen obliegenden Aufgaben erforderlich ist und öffentliche Belange dem nicht entgegenstehen. Die Vorschriften zum Schutz personenbezogener Daten, zum Schutz des geistigen Eigentums und zum Schutz von Betriebs- und Geschäftsgeheimnissen bleiben unberührt.
 
-1. die jährlich angewendete Menge von Arzneimitteln, die Stoffe enthalten, die eine antibakterielle Wirkung haben,
+(4) Das Bundesinstitut für Arzneimittel und Medizinprodukte und die zuständige Bundesoberbehörde bestimmen zusammen mit den sonstigen zuständigen Behörden des Bundes die näheren technischen oder funktionsbedingten Anforderungen an die Datenübermittlung, wie Eingabemasken, Formate, Vokabulare oder zu verwendende Datenträger, und machen diese Anforderungen im Bundesanzeiger bekannt; das Bundesamt für Sicherheit in der Informationstechnik ist zu beteiligen.
 
-2. die Zulassungsnummer des angewendeten Arzneimittels und
+(5) Die nach den Absätzen 1 und 2 zur Übermittlung der Daten an das Bundesinstitut für Arzneimittel und Medizinprodukte sowie an die zuständige Bundesoberbehörde Verpflichteten sind für die Richtigkeit und Vollständigkeit der übermittelten Daten verantwortlich. Bei der Übermittlung der Daten sind dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung des Datenschutzes und der Datensicherheit zu treffen.
 
-3. die Art und das Körpergewicht des behandelten Tieres sowie die Dosierung und die Anzahl der Behandlungstage.
+(6) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit, dem Bundesministerium des Innern und für Heimat sowie dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung mit Zustimmung des Bundesrates weitere technische Regelungen hinsichtlich der Art und Weise der Datenübermittlung zu treffen.
 
-(4) Eine Übermittlung der in Absatz 2 genannten Daten durch die zuständige Bundesoberbehörde an andere Stellen ist zulässig, soweit dies zur Wahrnehmung der diesen Stellen obliegenden Aufgaben erforderlich ist und öffentliche Belange dem nicht entgegenstehen. Die Vorschriften zum Schutz personenbezogener Daten, zum Schutz des geistigen Eigentums und zum Schutz von Betriebs- und Geschäftsgeheimnissen bleiben unberührt.
-
-(5) Das Bundesinstitut für Arzneimittel und Medizinprodukte und die zuständige Bundesoberbehörde bestimmen zusammen mit den sonstigen zuständigen Behörden des Bundes die näheren technischen oder funktionsbedingten Anforderungen an die Datenübermittlung, wie Eingabemasken, Formate, Vokabulare oder zu verwendende Datenträger, und machen diese Anforderungen im Bundesanzeiger bekannt; das Bundesamt für Sicherheit in der Informationstechnik ist zu beteiligen.
-
-(6) Die nach den Absätzen 1 und 2 zur Übermittlung der Daten an das Bundesinstitut für Arzneimittel und Medizinprodukte sowie an die zuständige Bundesoberbehörde Verpflichteten sind für die Richtigkeit und Vollständigkeit der übermittelten Daten verantwortlich. Bei der Übermittlung der Daten sind dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung des Datenschutzes und der Datensicherheit zu treffen.
-
-(7) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit, dem Bundesministerium des Innern und für Heimat sowie dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung mit Zustimmung des Bundesrates weitere technische Regelungen hinsichtlich der Art und Weise der Datenübermittlung zu treffen.
-
-(8) Die Rechtsverordnung nach Absatz 7 wird im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz erlassen, soweit es sich um Tierarzneimittel handelt, die radioaktiv sind oder bei deren Herstellung ionisierende Strahlen verwendet werden.
+(7) Die Rechtsverordnung nach Absatz 6 wird im Einvernehmen mit dem Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit erlassen, soweit es sich um Tierarzneimittel handelt, die radioaktiv sind oder bei deren Herstellung ionisierende Strahlen verwendet werden.
 
 # § 70 – Datenabrufe aus dem Informationssystem
 
@@ -1701,7 +1761,7 @@ Die Aufnahmen oder Aufzeichnungen sind zu vernichten oder zu löschen, soweit si
 
 # § 76 – Maßnahmen der zuständigen Behörden
 
-(1) Die zuständigen Behörden treffen die notwendigen Anordnungen und Maßnahmen, die zur Beseitigung festgestellter Verstöße, zur Verhütung künftiger Verstöße sowie zum Schutz vor Gefahren für die Sicherheit im Verkehr mit Tierarzneimitteln und mit veterinärmedizintechnischen Produkten oder zum Schutz vor Täuschung erforderlich sind. Die zuständigen Behörden können die notwendigen Anordnungen und Maßnahmen treffen, die zur Feststellung oder zur Ausräumung eines hinreichenden Verdachts eines Verstoßes erforderlich sind. Die zuständigen Behörden können unbeschadet der in den Artikeln 129 bis 131 der Verordnung (EU) 2019/6 genannten Maßnahmen insbesondere
+(1) Die zuständigen Behörden treffen die notwendigen Anordnungen und Maßnahmen, die zur Beseitigung festgestellter Verstöße, zur Verhütung künftiger Verstöße sowie zum Schutz vor Gefahren für die Sicherheit im Verkehr mit Tierarzneimitteln und mit veterinärmedizintechnischen Produkten oder zum Schutz vor Täuschung erforderlich sind. Die zuständigen Behörden können die notwendigen Anordnungen und Maßnahmen treffen, die zur Feststellung oder zur Ausräumung eines hinreichenden Verdachts eines Verstoßes erforderlich sind. Die zuständigen Behörden können unbeschadet der in den Artikeln 129 bis 134 der Verordnung (EU) 2019/6 genannten Maßnahmen insbesondere
 
 1. das Herstellen, Behandeln oder Inverkehrbringen von Tierarzneimitteln, Wirkstoffen oder veterinärmedizintechnischen Produkten verbieten oder beschränken,
 
@@ -1721,9 +1781,23 @@ b) den zuständigen Behörden den Eingang eines Tierarzneimittels anzeigt,
 
 7. das Verbringen eines Tierarzneimittels, eines Wirkstoffs oder eines veterinärmedizintechnischen Produktes in das Inland im Einzelfall vorübergehend verbieten oder beschränken, wenn Tatsachen vorliegen, die darauf schließen lassen, dass das Tierarzneimittel, der Wirkstoff oder das veterinärmedizintechnische Produkt ein Risiko für die Gesundheit von Mensch und Tier mit sich bringt.
 
-(2) Widerspruch und Anfechtungsklage gegen Anordnungen, die der Durchführung der Artikel 129 bis 131 der Verordnung (EU) 2019/6 dienen, haben keine aufschiebende Wirkung.
+(2) Widerspruch und Anfechtungsklage gegen Anordnungen, die der Durchführung der Artikel 129 bis 134 der Verordnung (EU) 2019/6 dienen, haben keine aufschiebende Wirkung.
 
 (3) Soweit im Einzelfall eine notwendige Anordnung oder eine sonstige notwendige Maßnahme nicht auf Grund des Absatzes 1 getroffen werden kann, bleiben weitergehende Regelungen der Länder anwendbar, einschließlich der Regelungen des Polizeirechts, auf Grund derer eine solche Anordnung oder Maßnahme getroffen werden kann.
+
+# § 76a – Mitwirkung der Zollbehörden
+
+(1) Die Zollbehörden wirken bei der Überwachung des Verbringens von Tierarzneimitteln, veterinärmedizintechnischen Produkten und Wirkstoffen in den Geltungsbereich dieses Gesetzes und bei der Überwachung von deren Ausfuhr mit.
+
+(2) Die Zollbehörden können
+
+1. Sendungen von Tierarzneimitteln, veterinärmedizintechnischen Produkten und Wirkstoffen einschließlich deren Beförderungsmittel, Behälter, Lade- und Verpackungsmittel zur Überwachung anhalten,
+
+2. soweit es zur Durchführung dieses Gesetzes, der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen und von Rechtsakten der Europäischen Union, die den Geltungsbereich dieses Gesetzes betreffen, erforderlich ist, Informationen, die sie im Rahmen ihrer zollamtlichen Tätigkeit gewonnen haben, den zuständigen Behörden mitteilen,
+
+3. in den Fällen der Nummer 2 anordnen, dass die Sendungen der in Nummer 1 genannten Art auf Kosten und Gefahr des Verfügungsberechtigten der zuständigen Behörde vorgeführt werden.
+
+(3) Das Brief- und Postgeheimnis nach Artikel 10 des Grundgesetzes wird nach Maßgabe der Absätze 1 und 2 eingeschränkt.
 
 # § 77 – Überwachung von Stoffen, die als Tierarzneimittel verwendet werden können
 
@@ -1815,7 +1889,7 @@ Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer
 
 3. entgegen § 37 Absatz 1 ein Tierarzneimittel oder ein veterinärmedizintechnisches Produkt in den Verkehr bringt oder auf dem Markt bereitstellt,
 
-4. entgegen § 38 Absatz 1 Nummer 2 ein Tierarzneimittel, einen Wirkstoff oder ein veterinärmedizinisches Produkt herstellt oder auf dem Markt bereitstellt oder
+4. entgegen § 38 Absatz 1 Nummer 2 oder Absatz 3 ein Tierarzneimittel, einen Wirkstoff oder ein veterinärmedizintechnisches Produkt herstellt oder auf dem Markt bereitstellt oder
 
 5. entgegen § 49 Absatz 9 ein Tierarzneimittel in Besitz hat.
 
@@ -1839,25 +1913,27 @@ Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer
 
 7. entgegen § 39 Absatz 4 Satz 1 einen Stoff oder eine Stoffzusammenstellung anwendet oder verabreicht,
 
-8. entgegen § 48 Absatz 1 einen Stoff oder eine Zubereitung bezieht, lagert oder abgibt,
+8. entgegen § 44a Absatz 1 ein Tierarzneimittel oder ein veterinärmedizintechnisches Produkt versendet,
 
-9. entgegen § 48 Absatz 2 einen Stoff oder eine Zubereitung erwirbt oder lagert,
+9. entgegen § 48 Absatz 1 einen Stoff oder eine Zubereitung bezieht, lagert oder abgibt,
 
-10. entgegen § 48 Absatz 4 Satz 1, 2 oder 3 einen dort genannten Nachweis nicht, nicht richtig oder nicht vollständig führt, oder nicht oder nicht rechtzeitig vorlegt,
+10. entgegen § 48 Absatz 2 einen Stoff oder eine Zubereitung erwirbt oder lagert,
 
-11. entgegen § 55 Absatz 1 Satz 1 oder Absatz 2 Satz 1, auch in Verbindung mit Absatz 3, oder § 56 Absatz 1 Satz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+11. entgegen § 48 Absatz 4 Satz 1, 2 oder 3 einen dort genannten Nachweis nicht, nicht richtig oder nicht vollständig führt, oder nicht oder nicht rechtzeitig vorlegt,
 
-12. entgegen § 58 Absatz 1 Nummer 2 eine Aufzeichnung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+12. entgegen § 55 Absatz 1 Satz 1 oder Absatz 2 Satz 1, auch in Verbindung mit Absatz 3, oder § 56 Absatz 1 Satz 1 oder § 61a Absatz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht,
 
-13. entgegen § 58 Absatz 2 Satz 1 Nummer 2 einen dort genannten Plan nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erstellt,
+13. entgegen § 58 Absatz 1 Nummer 2 eine Aufzeichnung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
-14. entgegen § 58 Absatz 3 Satz 1 einen dort genannten Plan nicht, nicht richtig oder nicht rechtzeitig übermittelt,
+14. entgegen § 58 Absatz 2 Satz 1 Nummer 2 einen dort genannten Plan nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erstellt,
 
-15. einer Rechtsverordnung nach § 62 Absatz 2, auch in Verbindung mit Absatz 3, oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
+15. entgegen § 58 Absatz 3 Satz 1 einen dort genannten Plan nicht, nicht richtig oder nicht rechtzeitig übermittelt,
 
-16. einer vollziehbaren Anordnung nach § 72 Absatz 4 Satz 1 Nummer 5 zuwiderhandelt oder
+16. einer Rechtsverordnung nach § 62 Absatz 2, auch in Verbindung mit Absatz 3, oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
-17. entgegen § 79 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, jeweils auch in Verbindung mit § 79 Absatz 2, jeweils auch in Verbindung mit § 79 Absatz 4, entgegen § 79 Absatz 6 Satz 1, auch in Verbindung mit Satz 2, oder entgegen § 79 Absatz 7 Satz 1, auch in Verbindung mit Satz 3, eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet.
+17. einer vollziehbaren Anordnung nach § 72 Absatz 4 Satz 1 Nummer 5 zuwiderhandelt oder
+
+18. entgegen § 79 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, jeweils auch in Verbindung mit § 79 Absatz 2, jeweils auch in Verbindung mit § 79 Absatz 4, entgegen § 79 Absatz 6 Satz 1, auch in Verbindung mit Satz 2, oder entgegen § 79 Absatz 7 Satz 1, auch in Verbindung mit Satz 3, eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet.
 
 (3) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2019/6 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 über Tierarzneimittel und zur Aufhebung der Richtlinie 2001/82/EG (ABl. L 4 vom 7.1.2019, S. 43; L 163 vom 20.6.2019, S. 112; L 326 vom 8.10.2020, S. 15; L 241 vom 8.7.2021, S. 17; L 151 vom 2.6.2022, S. 74), die zuletzt durch die Delegierte Verordnung (EU) 2023/183 (ABl. L 26 vom 30.1.2023, S. 7) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -1951,11 +2027,19 @@ Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, sowei
 
 (3) Auf der Grundlage der in der Anlage genannten Daten, die die zuständige Behörde im Zeitraum vom 28. Januar 2022 bis zum 31. Dezember 2022 erhoben und ermittelt hat, führt das Bundesinstitut für Risikobewertung eine Risikobewertung durch. Über die Risikobewertung erstellt es einen Bericht. Den Bericht veröffentlicht es bis zum 31. August 2023.
 
-# § 94 – Übergangsvorschrift aus Anlass des Gesetzes zur Änderung des Tierarzneimittelgesetzes zur Erhebung von Daten zu antibiotisch wirksamen Arzneimitteln
+# § 94 – Übergangsvorschrift aus Anlass des Gesetzes zur Änderung des Tierarzneimittelgesetzes zur Erhebung von Daten zu antibiotisch wirksamen Arzneimitteln und zur Änderung weiterer Vorschriften
 
 Die Pflicht zur Verringerung der Behandlung mit antibiotisch wirksamen Arzneimitteln nach § 58 besteht für Tierhalterinnen und Tierhalter der Nutzungsarten nach der Anlage 1 Nummern 1.1, 1.2, 2.1, 2.2, 2.4, 3.2 und 3.3 ab dem 1. Januar 2024.
 
-# § 95 – Evaluierung
+# § 95 – Übergangsvorschrift aus Anlass des Gesetzes zur Änderung des Tierarzneimittelgesetzes und des Apothekengesetzes
+
+Abweichend von § 61a Absatz 3 Satz 3 ist die tierärztliche Mitteilung erstmalig bis zu dem folgenden Zeitpunkt zu machen:
+
+1. für Enten, Gänse, Schafe, Ziegen, Fische der Arten Atlantischer Lachs, Regenbogenforelle, Goldbrasse, Wolfsbarsch und Karpfen, Pferde und der Gewinnung von Lebensmitteln dienende Kaninchen bis zum Ablauf des 14. Januar 2027 und
+
+2. für Hunde, Katzen, Füchse und Nerze, wenn diese Füchse oder Nerze als Pelztiere gehalten werden, bis zum Ablauf des 14. Januar 2030.
+
+# § 96 – Evaluierung
 
 Das Bundesministerium für Ernährung und Landwirtschaft berichtet dem Deutschen Bundestag drei Jahre nach dem Inkrafttreten dieses Gesetzes über die Wirksamkeit der nach den §§ 54 bis 58 getroffenen Maßnahmen.
 
@@ -2007,4 +2091,14 @@ g) die Anzahl der Behandlungstage und
 
 h) die pseudonymisierten Angaben der Registriernummer des Betriebes, in dem die behandelten Tiere gehalten werden,
 
-8. Angabe der von der zuständigen Behörde für jedes Halbjahr ermittelten betrieblichen halbjährlichen Therapiehäufigkeit, bezogen auf den einzelnen Tierhaltungsbetrieb unter pseudonymisierter Angabe des Betriebs (§ 57 Absatz 1).
+8. Angabe der von der zuständigen Behörde für jedes Halbjahr ermittelten betrieblichen halbjährlichen Therapiehäufigkeit, bezogen auf den einzelnen Tierhaltungsbetrieb unter pseudonymisierter Angabe des Betriebs (§ 57 Absatz 1),
+
+9. Angaben nach § 61a Absatz 2 Satz 1 und 2:
+
+a) pseudonymisierte Angabe des Namens der behandelnden Tierärztin oder des behandelnden Tierarztes oder des Namens der Praxis und der Praxisanschrift,
+
+b) die Angaben nach den Nummern 4 bis 6 und 9 des Anhangs II zu der Verordnung (EU) 2022/209 in der Fassung vom 16. Februar 2022 zum verschriebenen, angewendeten oder abgegebenen Arzneimittel,
+
+c) die insgesamt verschriebene, angewendete oder abgegebene Menge dieser Arzneimittel und
+
+d) die jeweilige Tierart der behandelten Tiere.

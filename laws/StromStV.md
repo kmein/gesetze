@@ -14,7 +14,7 @@ Auf Grund des § 11 Nr. 1 bis 6 und 11 bis 14 des Stromsteuergesetzes vom 24. M�
 |                                                         |                                                                                                   |
 | Zu § 2 des Gesetzes                                     |                                                                                                   |
 | § 1a                                                    | Versorger                                                                                         |
-| § 1b                                                    | Strom aus erneuerbaren Energieträgern                                                             |
+| § 1b                                                    | (weggefallen)                                                                                     |
 | § 1c                                                    | Elektromobilität                                                                                  |
 |                                                         |                                                                                                   |
 | Zu § 2a des Gesetzes                                    |                                                                                                   |
@@ -39,11 +39,11 @@ Auf Grund des § 11 Nr. 1 bis 6 und 11 bis 14 des Stromsteuergesetzes vom 24. M�
 | § 9                                                     | Erteilung, Überprüfung und Erlöschen der Erlaubnis                                                |
 | § 10                                                    | Allgemeine Erlaubnis                                                                              |
 | § 11                                                    | Pflichten des Erlaubnisinhabers                                                                   |
-| § 11a                                                   | Strom aus erneuerbaren Energieträgern und aus hocheffizienten KWK-Anlagen, Zeitgleichheit         |
+| § 11a                                                   | Zeitgleichheit, Mengenermittlung                                                                  |
 | § 12                                                    | Strom zur Stromerzeugung                                                                          |
 | § 12a                                                   | Steuerentlastung für Strom zur Stromerzeugung                                                     |
-| § 12b                                                   | Steuerbefreiung für Anlagen mit einer elektrischen Nennleistung von bis zu zwei Megawatt          |
-| § 12c                                                   | Steuerentlastung für Strom aus erneuerbaren Energieträgern                                        |
+| § 12b                                                   | Anlagenbegriff und räumlicher Zusammenhang                                                        |
+| § 12c                                                   | Steuerentlastung für Strom aus Windkraft, Sonnenenergie, Erdwärme oder Wasserkraft                |
 | § 12d                                                   | Steuerentlastung für Strom aus hocheffizienten KWK-Anlagen                                        |
 | § 13                                                    | Verkehr mit Oberleitungsomnibussen oder Schienenbahnen                                            |
 | § 13a                                                   | Differenzversteuerung                                                                             |
@@ -56,7 +56,7 @@ Auf Grund des § 11 Nr. 1 bis 6 und 11 bis 14 des Stromsteuergesetzes vom 24. M�
 | § 17                                                    | (weggefallen)                                                                                     |
 |                                                         |                                                                                                   |
 | Zu § 9a des Gesetzes                                    |                                                                                                   |
-| § 17a                                                   | Erlass, Erstattung oder Vergütung der Steuer für bestimmte Prozesse und Verfahren                 |
+| § 17a                                                   | Steuerentlastung für bestimmte Prozesse und Verfahren                                             |
 |                                                         |                                                                                                   |
 | Zu § 9b des Gesetzes                                    |                                                                                                   |
 | § 17b                                                   | Steuerentlastung für Unternehmen                                                                  |
@@ -93,7 +93,7 @@ Soweit in dieser Verordnung oder in der Hauptzollamtszuständigkeitsverordnung n
 
 (1) Soweit im Stromsteuergesetz oder in dieser Verordnung nichts anderes bestimmt ist, sind Versorger keine Letztverbraucher im Sinn des § 5 Absatz 1 Satz 1 des Gesetzes.
 
-(1a) Wer ausschließlich nach § 3 des Gesetzes zu versteuernden Strom bezieht und diesen ausschließlich innerhalb einer Kundenanlage leistet, gilt vorbehaltlich Satz 2 nicht als Versorger, sondern als Letztverbraucher im Sinne des § 5 Absatz 1 Satz 1 des Gesetzes. Satz 1 gilt nur dann, wenn ausschließlich von einem im Steuergebiet ansässigen Versorger bezogener Strom geleistet wird. Für diejenigen, an die der Strom innerhalb der Kundenanlage geleistet wird, besteht weiterhin die Möglichkeit, einen Steuerentlastungsanspruch nach den §§ 9a bis 9e des Gesetzes sowie nach den §§ 12a und 14a geltend zu machen.
+(1a) Wer ausschließlich nach § 3 des Stromsteuergesetzes zu versteuernden Strom bezieht und diesen ausschließlich ohne Nutzung des Netzes der allgemeinen Versorgung mit Strom leistet, gilt vorbehaltlich Satz 2 nicht als Versorger, sondern als Letztverbraucher im Sinne des § 5 Absatz 1 Satz 1 des Stromsteuergesetzes. Satz 1 gilt nur dann, wenn ausschließlich von im Steuergebiet ansässigen Versorgern bezogener Strom geleistet wird. Für diejenigen, an die der Strom nach Satz 1 geleistet wird, besteht weiterhin die Möglichkeit, einen Steuerentlastungsanspruch nach den §§ 9a bis 9e des Stromsteuergesetzes sowie nach den §§ 12a und 14a geltend zu machen.
 
 (2) Wer ausschließlich nach § 3 des Gesetzes zu versteuernden Strom bezieht und diesen ausschließlich
 
@@ -103,39 +103,53 @@ Soweit in dieser Verordnung oder in der Hauptzollamtszuständigkeitsverordnung n
 
 3. an andere Unternehmen, die den Strom in seinem Betrieb entnehmen und ihm die daraus erbrachte Leistung schulden,
 
-als Letztverbraucher leistet, gilt nicht als Versorger, sondern als Letztverbraucher im Sinne des § 5 Absatz 1 Satz 1 des Gesetzes. Dies gilt jedoch nur dann, wenn ausschließlich von einem im Steuergebiet ansässigen Versorger bezogener Strom geleistet wird. Personen nach den Nummern 1 und 3 haben weiterhin die Möglichkeit, einen Steuerentlastungsanspruch nach den §§ 9a bis 9e des Gesetzes sowie nach den §§ 12a und 14a geltend zu machen.
+als Letztverbraucher leistet, gilt nicht als Versorger, sondern als Letztverbraucher im Sinne des § 5 Absatz 1 Satz 1 des Gesetzes. Satz 1 gilt nur dann, wenn ausschließlich von im Steuergebiet ansässigen Versorgern bezogener Strom geleistet wird. Personen nach den Nummern 1 und 3 haben weiterhin die Möglichkeit, einen Steuerentlastungsanspruch nach den §§ 9a bis 9e des Gesetzes sowie nach den §§ 12a und 14a geltend zu machen.
 
-(3) Wer ausschließlich nach § 3 zu versteuernden Strom bezieht und ausschließlich diesen in geringem Umfang an Dritte leistet, gilt insoweit nicht als Versorger, sondern als Letztverbraucher im Sinne von § 5 Absatz 1 Satz 1 des Gesetzes. Dies gilt jedoch nur dann, wenn ausschließlich von einem im Steuergebiet ansässigen Versorger bezogener Strom geleistet wird. Dritte haben weiterhin die Möglichkeit, einen Steuerentlastungsanspruch nach den §§ 9a bis 9e des Gesetzes sowie nach den §§ 12a und 14a geltend zu machen.
+(3) Wer ausschließlich nach § 3 zu versteuernden Strom bezieht und ausschließlich diesen in geringem Umfang an Dritte leistet, gilt insoweit nicht als Versorger, sondern als Letztverbraucher im Sinne von § 5 Absatz 1 Satz 1 des Gesetzes. Satz 1 gilt nur dann, wenn ausschließlich von im Steuergebiet ansässigen Versorgern bezogener Strom geleistet wird. Dritte haben weiterhin die Möglichkeit, einen Steuerentlastungsanspruch nach den §§ 9a bis 9e des Gesetzes sowie nach den §§ 12a und 14a geltend zu machen.
 
-(4) Versorger gelten als Letztverbraucher im Sinne von § 5 Absatz 1 Satz 1 des Gesetzes, soweit sie
+(3a) Wer Strom unmittelbar aus einem Stromspeicher nach § 2 Nummer 9 des Stromsteuergesetzes ausschließlich am Ort des Betriebs des Stromspeichers ohne Nutzung des Netzes der allgemeinen Versorgung mit Strom leistet oder aus einem Stromspeicher nur an andere als Letztverbraucher leistet und nicht aus anderen Gründen Versorger ist, gilt nicht als Versorger, sondern als Letztverbraucher im Sinne des § 5 Absatz 1 Satz 1 des Stromsteuergesetzes. § 5 Absatz 4 Satz 2 des Stromsteuergesetzes gilt entsprechend.
 
-1. Strom zum Selbstverbrauch entnehmen, ihnen dieser Strom als Letztverbraucher von einem im Steuergebiet ansässigen Versorger geleistet wird und die entsprechende Strommenge getrennt nach dem Steuertarif des § 3 des Gesetzes und den jeweiligen Steuerbegünstigungen des § 9 des Gesetzes durch den letztgenannten Versorger ermittelt wird oder
+(4) Versorger gelten als Letztverbraucher, soweit sie
 
-2. in den Fällen nach Absatz 1a innerhalb einer Kundenanlage geleisteten Strom beziehen.
+1. Strom zum Selbstverbrauch entnehmen, ihnen dieser Strom als Letztverbraucher von einem im Steuergebiet ansässigen Versorger geleistet wird und die entsprechende Strommenge getrennt nach dem Steuertarif des § 3 des Stromsteuergesetzes und den jeweiligen Steuerbegünstigungen des § 9 des Stromsteuergesetzes durch den letztgenannten Versorger ermittelt wird oder
 
-(5) Wer Strom in Anlagen mit einer elektrischen Nennleistung von bis zu zwei Megawatt erzeugt und ausschließlich diesen Strom leistet, ist nur dann Versorger, wenn er den Strom an Letztverbraucher leistet. Wer Strom leistet, der nach § 9 Absatz 1 Nummer 4 oder Nummer 5 des Gesetzes von der Steuer befreit ist, gilt insoweit nicht als Versorger.
+2. nach § 3 des Stromsteuergesetzes zu versteuernden Strom beziehen, der ihnen von im Steuergebiet ansässigen Versorgern geleistet und abgerechnet wird, und diesen Strom ohne Nutzung des Netzes der allgemeinen Versorgung mit Strom entweder zum Selbstverbrauch entnehmen oder an Letztverbraucher leisten,
 
-(6) Wer
+3. in den Fällen nach Nummer 2 und Absatz 1a geleisteten Strom beziehen.
 
-1. Strom innerhalb einer Kundenanlage in Anlagen mit einer elektrischen Nennleistung von bis zu 2 Megawatt erzeugt,
+Die Nummern 1 bis 3 finden auf Unternehmen oder Personen nach § 1 Satz 2 entsprechende Anwendung. Für diejenigen, an die der Strom geleistet wird, besteht weiterhin die Möglichkeit, einen Steuerentlastungsanspruch nach den §§ 9a bis 9e des Stromsteuergesetzes sowie nach den §§ 12a und 14a geltend zu machen.
 
-2. diesen Strom an Letztverbraucher ausschließlich innerhalb dieser Kundenanlage leistet und
+(5) Wer Strom erzeugt und ausschließlich diesen Strom leistet, ist nur dann Versorger, wenn er den Strom an Letztverbraucher leistet. Dies gilt bei Erzeugung von Strom in Anlagen mit einer elektrischen Nennleistung von mehr als 2 Megawatt nur dann, wenn die Stromerzeugungseinheiten im Marktstammdatenregister nach Maßgabe der Marktstammdatenregisterverordnung registriert sind. Wer Strom leistet, der nach § 9 Absatz 1 Nummer 4, 5 oder 6 des Stromsteuergesetzes von der Steuer befreit ist, gilt insoweit nicht als Versorger.
 
-3. darüber hinaus ausschließlich nach § 3 des Gesetzes zu versteuernden Strom ausschließlich von einem im Steuergebiet ansässigen Versorger bezieht und diesen ausschließlich innerhalb dieser Kundenanlage leistet,
+(5a) Wer Strom ausschließlich am Ort der Erzeugung ohne Nutzung des Netzes der allgemeinen Versorgung mit Strom an Letztverbraucher leistet, gilt nicht als Versorger, wenn
 
-gilt nur für den erzeugten und dann geleisteten Strom als Versorger. Für den bezogenen Strom gilt er als Letztverbraucher im Sinne des § 5 Absatz 1 Satz 1 des Gesetzes. Wird der bezogene Strom innerhalb dieser Kundenanlage geleistet, so gelten die Absätze 1a und 4 Nummer 2 entsprechend.
+1. dieser Strom nach § 9 Absatz 1 Nummer 2 des Stromsteuergesetzes in Verbindung mit § 10 Absatz 3 von der Steuer befreit ist oder
 
-(7) Für Strom, der in Anlagen mit einer elektrischen Nennleistung von mehr als 2 Megawatt aus Windkraft, Biomasse oder Sonnenenergie erzeugt wird, gilt Absatz 6 mit der Maßgabe entsprechend, dass derjenige, der den Strom erzeugt, auch für den erzeugten und zum Selbstverbrauch entnommenen Strom als Versorger gilt.
+2. dieser Strom nach § 9 Absatz 1 Nummer 3 Buchstabe b oder Nummer 6 Buchstabe b des Stromsteuergesetzes von der Steuer befreit ist,
 
-(8) Das zuständige Hauptzollamt kann auf Antrag Ausnahmen von der Anwendung der Absätze 1a, 6 und 7 zulassen, soweit Steuerbelange dadurch nicht gefährdet erscheinen.
+3. für bezogenen Strom die Absätze 1a, 2, 3 oder Absatz 3a Anwendung finden und
 
-(9) Als Kundenanlage im Sinne dieser Vorschrift gilt die Kundenanlage nach § 3 Nummer 24a und 24b des Energiewirtschaftsgesetzes; in Zweifelsfällen wird zunächst vermutet, dass eine Kundenanlage vorliegt.
+4. die Stromerzeugungseinheiten im Marktstammdatenregister nach Maßgabe der Marktstammdatenregisterverordnung registriert sind.
 
-# § 1b – Strom aus erneuerbaren Energieträgern
+§ 5 Absatz 4 des Stromsteuergesetzes gilt entsprechend.
 
-(1) Soweit eine Stromerzeugung aus Deponiegas, Klärgas oder Biomasse nur durch eine Zünd- oder Stützfeuerung mit anderen als den vorgenannten Stoffen technisch möglich ist, wird auf das Erfordernis der Ausschließlichkeit in § 2 Nummer 7 des Gesetzes verzichtet.
+(6) Vorbehaltlich der Absätze 5 und 5a gilt als Versorger nur für erzeugten und dann geleisteten Strom, wer
 
-(2) Biomasse im Sinn des § 2 Nummer 7 des Gesetzes sind ausschließlich Stoffe, die nach der Biomasseverordnung vom 21. Juli 2001 (BGBl. I S. 1234), die zuletzt durch Artikel 5 Absatz 10 des Gesetzes vom 24. Februar 2012 (BGBl. I S. 212) geändert worden ist, in der jeweils geltenden Fassung als Biomasse anerkannt werden. § 2 Absatz 4 der Biomasseverordnung findet keine Anwendung. Für Altholz, das in Biomasseanlagen eingesetzt wird, die vor dem 1. Januar 2013 in Betrieb genommen worden sind, gilt die Biomasseverordnung in der am 31. Dezember 2011 geltenden Fassung. Für Ablaugen der Zellstoffherstellung, die in vor dem 31. Dezember 2016 in Betrieb genommenen Anlagen zur Stromerzeugung eingesetzt werden, gilt die Biomasseverordnung in der am 31. Dezember 2016 geltenden Fassung.
+1. Strom in Anlagen mit einer elektrischen Nennleistung von bis zu 2 Megawatt erzeugt,
+
+2. diesen Strom, soweit er an Letztverbraucher geleistet wird, ausschließlich am Ort der Erzeugung ohne Nutzung des Netzes der allgemeinen Versorgung mit Strom an Letztverbraucher leistet und
+
+3. gegebenenfalls darüber hinaus ausschließlich nach § 3 des Stromsteuergesetzes zu versteuernden Strom von im Steuergebiet ansässigen Versorgern bezieht und diesen ausschließlich am Ort der Erzeugung im Sinne von Nummer 2 ohne Nutzung des Netzes der allgemeinen Versorgung mit Strom leistet.
+
+Für den bezogenen Strom gilt er als Letztverbraucher im Sinne des § 5 Absatz 1 Satz 1 des Stromsteuergesetzes. Wird der bezogene Strom am Ort der Erzeugung im Sinne von Satz 1 Nummer 2 ohne Nutzung des Netzes der allgemeinen Versorgung mit Strom geleistet, so gelten die Absätze 1a und 4 Satz 1 Nummer 3 entsprechend.
+
+(7) Absatz 6 gilt entsprechend, wenn Strom in Anlagen mit einer elektrischen Nennleistung von mehr als 2 Megawatt aus Windkraft, Biomasse oder Sonnenenergie erzeugt wird. Darüber hinaus gilt derjenige, der den Strom in diesen Anlagen erzeugt, auch für den erzeugten und zum Selbstverbrauch entnommenen Strom als Versorger.
+
+(8) Das zuständige Hauptzollamt kann auf Antrag Ausnahmen von der Anwendung der Absätze 1a, 4, 6 und 7 zulassen, soweit Steuerbelange dadurch nicht gefährdet erscheinen.
+
+(9) (weggefallen)
+
+# § 1b – (weggefallen)
 
 # § 1c – Elektromobilität
 
@@ -173,19 +187,17 @@ Ein Batterieelektrofahrzeug nach Nummer 1 ist ein Kraftfahrzeug im Sinne des § 
 
 # § 2 – Antrag auf Erlaubnis
 
-(1) Die Erlaubnis nach § 4 Absatz 1 des Gesetzes ist vor Aufnahme der Tätigkeit schriftlich nach amtlich vorgeschriebenem Vordruck beim zuständigen Hauptzollamt zu beantragen. Darin sind Name, Geschäfts- oder Wohnsitz, Rechtsform, bei jährlicher Steueranmeldung die voraussichtlich zu erwartende Jahressteuerschuld, die Steuernummer beim zuständigen Finanzamt und - sofern erteilt - die Umsatzsteuer-Identifikationsnummer anzugeben.
+(1) Die Erlaubnis nach § 4 Absatz 1 des Gesetzes ist vor Aufnahme der Tätigkeit schriftlich nach amtlich vorgeschriebenem Vordruck beim zuständigen Hauptzollamt zu beantragen.
 
 (2) Dem Antrag sind beizufügen:
 
-1. von Unternehmen, die in das Handels-, Genossenschafts- oder Vereinsregister eingetragen sind, ein Registerauszug nach dem neuesten Stand;
+1. ein Verzeichnis der Betriebsstätten im Steuergebiet nach § 12 der Abgabenordnung;
 
-2. ein Verzeichnis der Betriebstätten im Steuergebiet nach § 12 der Abgabenordnung;
+2. eine Darstellung der Mengenermittlung und Mengenabrechnung;
 
-3. eine Darstellung der Mengenermittlung und Mengenabrechnung;
+3. auf Verlangen des zuständigen Hauptzollamts eine Betriebserklärung nach amtlich vorgeschriebenem Vordruck für jede Anlage, die Teil einer allgemeinen Erlaubnis nach § 10 Absatz 2 ist; soweit in der Betriebserklärung Daten zu Stromerzeugungseinheiten verlangt werden, die bereits zutreffend im Marktstammdatenregister enthalten sind, ist eine Angabe nicht erneut erforderlich;
 
-4. gegebenenfalls eine Erklärung über die Bestellung eines Beauftragten nach § 214 der Abgabenordnung;
-
-5. bei der Nutzung von stationären Batteriespeichern im Sinne des § 5 Absatz 4 des Gesetzes eine Beschreibung der Speicher sowie deren Nutzung und die Verträge im Zusammenhang mit der Nutzung der Speicher.
+4. gegebenenfalls eine Erklärung über die Bestellung eines Beauftragten nach § 214 der Abgabenordnung.
 
 (3) In den Fällen des § 1a Absatz 6 und 7 hat der Antragsteller anstelle der Beantragung einer Erlaubnis nach Absatz 1 Satz 1 vor Aufnahme der Tätigkeit diese schriftlich nach amtlich vorgeschriebenem Vordruck beim zuständigen Hauptzollamt anzuzeigen.
 
@@ -247,7 +259,7 @@ eine neue Erlaubnis, gilt die Erlaubnis des Rechtsvorgängers für die Antragste
 
 2. die Erben den Tod des Erlaubnisinhabers,
 
-3. die Liquidatoren und der Insolvenzverwalter jeweils die Eröffnung des Insolvenzverfahrens oder deren Abweisung.
+3. die Liquidatoren, der Insolvenzverwalter und im Fall der Eigenverwaltung der Erlaubnisinhaber jeweils die Eröffnung des Insolvenzverfahrens oder die Abweisung des Antrags auf dessen Eröffnung.
 
 Entsprechendes gilt im Fall des Absatzes 3 Nummer 9 für den Versorger, Eigenerzeuger oder erlaubnispflichtigen Letztverbraucher.
 
@@ -257,19 +269,21 @@ Entsprechendes gilt im Fall des Absatzes 3 Nummer 9 für den Versorger, Eigenerz
 
 (2) Der Versorger hat zur Ermittlung der Steuer und der Grundlagen ihrer Berechnung für den Veranlagungszeitraum Aufzeichnungen nach amtlich vorgeschriebenem Vordruck zu führen. Aus den Aufzeichnungen müssen insbesondere ersichtlich sein:
 
-1. der geleistete, durch Letztverbraucher im Steuergebiet entnommene Strom, getrennt nach dem Steuertarif des § 3 des Gesetzes und den jeweiligen Steuerbegünstigungen des § 9 des Gesetzes sowie getrennt nach den jeweiligen Letztverbrauchern; bei steuerbegünstigten Entnahmen durch Inhaber einer förmlichen Einzelerlaubnis nach § 9 ist die Erlaubnisscheinnummer anzugeben;
+1. der geleistete, durch Letztverbraucher im Steuergebiet entnommene Strom, getrennt nach dem Steuertarif des § 3 des Stromsteuergesetzes und den jeweiligen Steuerbegünstigungen des § 9 des Stromsteuergesetzes sowie getrennt nach den jeweiligen Letztverbrauchern; bei steuerbegünstigten Entnahmen durch Inhaber einer förmlichen Einzelerlaubnis nach § 9 Absatz 4 des Stromsteuergesetzes in Verbindung mit Absatz 1 Nummer 2, den Absätzen 2 und 3 des Stromsteuergesetzes ist die Erlaubnisscheinnummer anzugeben;
 
 2. die in § 8 Absatz 4a des Gesetzes näher bezeichneten Strommengen und Steuerbeträge,
 
-3. der an andere Versorger unversteuert geleistete Strom getrennt nach Versorgern;
+3. der an andere Versorger unversteuert geleistete Strom getrennt nach Versorgern und unter Angabe der jeweiligen Erlaubnisscheinnummer;
 
 4. die Entnahmen von Strom zum Selbstverbrauch getrennt nach den Steuersätzen und den jeweiligen Steuerbegünstigungen der §§ 3 und 9 des Gesetzes;
+
+4a. in den Fällen nach § 5a des Stromsteuergesetzes die am jeweiligen Ladepunkt entnommenen Strommengen, getrennt nach dem Steuertarif des § 3 des Stromsteuergesetzes sowie gegebenenfalls der Steuerbefreiungen nach § 9 Absatz 1 Nummer 1 und 3 des Stromsteuergesetzes;
 
 5. der Betrag der anzumeldenden und zu entrichtenden Steuer.
 
 Das zuständige Hauptzollamt kann Anordnungen zu den Aufzeichnungen treffen und weitere Aufzeichnungen vorschreiben, wenn sie zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich erscheinen. Das Hauptzollamt kann anstelle der Aufzeichnungen nach amtlich vorgeschriebenem Vordruck betriebliche Aufzeichnungen, einfachere Aufzeichnungen oder einen belegmäßigen Nachweis zulassen, wenn die Steuerbelange dadurch nicht beeinträchtigt werden. Der Versorger hat dem Hauptzollamt auf Verlangen die abgeschlossenen Aufzeichnungen oder die belegmäßigen Nachweise vorzulegen.
 
-(3) Die Aufzeichnungen und der belegmäßige Nachweis nach Absatz 2 müssen so beschaffen sein, dass es einem sachverständigen Dritten innerhalb einer angemessenen Frist möglich ist, die Grundlagen für die Steuerberechnung festzustellen.
+(3) Die Aufzeichnungen und der belegmäßige Nachweis nach Absatz 2 müssen so beschaffen sein, dass es einem sachverständigen Dritten innerhalb einer angemessenen Frist möglich ist, die Grundlagen für die Steuerberechnung festzustellen. Werden anstelle des amtlich vorgeschriebenen Vordrucks betriebliche Aufzeichnungen zugelassen, sind Versorger, die nach dem Handelsgesetzbuch oder der Abgabenordnung dazu verpflichtet sind, ordnungsmäßig kaufmännische Bücher zu führen und rechtzeitig Jahresabschlüsse aufzustellen, verpflichtet, im Hauptbuch ein oder mehrere Stromsteuerkonten zu führen. Ausgehend von den Aufzeichnungen in den Stromsteuerkonten müssen sämtliche Geschäftsvorfälle zur Ermittlung der Steuer und der Grundlagen ihrer Berechnung nachvollziehbar und nachprüfbar sein. Wenn ein Geschäftsjahr abweichend vom Kalenderjahr endet, sind zur Feststellung der Geschäftsvorfälle eines Veranlagungsjahres zum 31. Dezember des Kalenderjahres ein Buchungsstopp sowie eine Abgrenzung der laufenden Geschäftsvorfälle durchzuführen. Für Entnahmen von Strom zum Selbstverbrauch sind Eigenbelege zu erstellen. Die Geschäftsvorfälle sind aus den betrieblichen Aufzeichnungen zu extrahieren, um die Anforderungen an die steuerlichen Aufzeichnungen zu erfüllen.
 
 (4) Der Versorger hat dem zuständigen Hauptzollamt Änderungen der nach § 2 angegebenen Verhältnisse sowie Überschuldung, drohende oder eingetretene Zahlungsunfähigkeit, Zahlungseinstellung und Stellung des Antrags auf Eröffnung eines Insolvenzverfahrens unverzüglich schriftlich anzuzeigen, soweit das
 
@@ -277,11 +291,11 @@ zuständige Hauptzollamt nicht darauf verzichtet. Das Hauptzollamt kann prüfen,
 
 (5) Der Versorger hat den Erlaubnisschein dem zuständigen Hauptzollamt unverzüglich zurückzugeben, wenn die Erlaubnis erlischt oder die Leistung von Strom nicht nur vorübergehend eingestellt wird. Geht der Erlaubnisschein verloren, hat der Versorger dies dem Hauptzollamt unverzüglich anzuzeigen. Das Hauptzollamt stellt auf Antrag einen neuen Erlaubnisschein aus.
 
-(6) Der Versorger hat dem zuständigen Hauptzollamt für jedes Kalenderjahr bis zum 31. Mai des folgenden Kalenderjahres diejenigen Strommengen nach amtlich vorgeschriebenem Vordruck anzumelden, die steuerfrei nach § 9 Absatz 1 Nummer 3 Buchstabe b des Gesetzes entnommen worden sind. Darüber hinaus hat der Versorger auch die nach § 9 Absatz 1 Nummer 1 und 2 sowie Nummer 3 Buchstabe a des Gesetzes steuerfrei entnommenen Strommengen entsprechend Satz 1 nach amtlich vorgeschriebenem Vordruck anzumelden, soweit diese in ortsfesten Anlagen erzeugt worden sind. Für die Überprüfung der Steueranmeldung gilt § 5 Absatz 2 entsprechend.
+(6) Der Versorger hat dem zuständigen Hauptzollamt für jedes Kalenderjahr bis zum 31. Mai des folgenden Kalenderjahres diejenigen Strommengen nach amtlich vorgeschriebenem Vordruck anzumelden, die steuerfrei nach § 9 Absatz 1 Nummer 1, 2 und 3 Buchstabe a und b des Stromsteuergesetzes entnommen worden sind, soweit diese in ortsfesten Anlagen erzeugt worden sind. Versorger nach § 1a Absatz 6 und 7 müssen die steuerfreien Strommengen nur auf Verlangen des zuständigen Hauptzollamts anmelden. Für die Überprüfung der Anmeldung gilt § 5 Absatz 2 entsprechend.
 
-(7) Der Versorger ist verpflichtet, in seinen Rechnungen über den an gewerbliche Letztverbraucher mit einem Stromverbrauch von mehr als 10 Megawattstunden pro Jahr geleisteten Strom die jeweiligen Steuerbegünstigungen nach § 9 des Gesetzes gesondert auszuweisen. Die Ausweisung hat deutlich sichtbar und in gut lesbarer Schrift zu erfolgen. Dabei sind die Strommengen in Kilowattstunden getrennt nach den jeweiligen Steuerbegünstigungen aufzuführen.
+(7) Der Versorger ist verpflichtet, die entstandene Stromsteuer nach § 3 des Stromsteuergesetzes in seinen Rechnungen an Letztverbraucher gesondert auszuweisen. In seinen Rechnungen über den an gewerbliche Letztverbraucher mit einem Stromverbrauch von mehr als 10 Megawattstunden pro Jahr geleisteten Strom sind darüber hinaus die jeweiligen Steuerbegünstigungen nach § 9 des Stromsteuergesetzes gesondert auszuweisen. Die Ausweisung hat jeweils deutlich sichtbar und in gut lesbarer Schrift zu erfolgen. Die Strommengen sind in Kilowattstunden getrennt nach den Steuersätzen und den jeweiligen Steuerbegünstigungen der §§ 3 und 9 des Stromsteuergesetzes aufzuführen.
 
-(8) Die Absätze 1 bis 4 gelten sinngemäß für Eigenerzeuger und Letztverbraucher nach § 4 Abs. 1 des Gesetzes. Bei Versorgern nach § 1a Absatz 6 und 7 sind die Absätze 3, 4, 6 und 7 entsprechend, und die Absätze 1 und 2 mit der Maßgabe anzuwenden, dass kein Belegheft zu führen und vereinfachte Aufzeichnungen oder ein belegmäßiger Nachweis ausreichend sind, wenn die Steuerbelange dadurch nicht beeinträchtigt werden.
+(8) Die Absätze 1, 2, 3 Satz 1 und 4 gelten sinngemäß für Eigenerzeuger und Letztverbraucher nach § 4 Absatz 1 des Stromsteuergesetzes. Bei Versorgern nach § 1a Absatz 6 und 7 sind Absatz 3 Satz 1 sowie die Absätze 4 und 7 entsprechend, und die Absätze 1 und 2 mit der Maßgabe anzuwenden, dass kein Belegheft zu führen und vereinfachte Aufzeichnungen oder ein belegmäßiger Nachweis ausreichend sind, wenn die Steuerbelange dadurch nicht beeinträchtigt werden.
 
 § 4 Abs. 4 Satz 1 (früher Abs. 4 einziger Text) Kursivdruck: Gem. Art. 3 Nr. 7 Buchst. c V v. 2.1.2018 I 84 wird mWv 1.1.2018 vor dem Wort "Hauptzollamt" das Wort "zuständigen" eingefügt. Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "zuständige" eingefügt.
 
@@ -293,7 +307,7 @@ zuständige Hauptzollamt nicht darauf verzichtet. Das Hauptzollamt kann prüfen,
 
 # § 6 – Vorauszahlungen
 
-(1) Die Festsetzung der Vorauszahlungen erfolgt durch Vorauszahlungsbescheid. Ist die Steuer nur in einem Teil des vorletzten dem Veranlagungsjahr vorhergehenden Kalenderjahres entstanden, ist die tatsächlich entstandene Steuer in eine Jahressteuerschuld umzurechnen. Ist die Steuer erstmals im vorangegangenen oder laufenden Kalenderjahr oder bisher noch nicht entstanden, ist die voraussichtlich zu erwartende Jahressteuerschuld maßgebend.
+(1) Die Festsetzung der Vorauszahlungen erfolgt durch Vorauszahlungsbescheid. Die Mitteilungen der Schätzungen nach § 8 Absatz 6 des Stromsteuergesetzes sind schriftlich nach amtlich vorgeschriebenem Vordruck vorzunehmen. Ist eine Steuer bislang noch nicht oder erstmals entstanden, ist die voraussichtliche Jahressteuerschuld für das Veranlagungsjahr maßgebend. Kann die voraussichtliche Jahressteuerschuld nicht auf zwölf monatliche Vorauszahlungen festgesetzt werden, so sind die fehlenden monatlichen Vorauszahlungen für die erste monatliche Vorauszahlung festzusetzen.
 
 (2) Das Hauptzollamt kann auf Antrag bei der Festsetzung der Höhe der Vorauszahlungen dem Steuerschuldner voraussichtlich im gleichen Zeitraum zu gewährende Steuerentlastungen nach den §§ 9a und 9b des Gesetzes berücksichtigen, soweit die Steuerbelange dadurch nicht gefährdet sind. Satz 1 gilt nur, wenn der Entlastungsabschnitt das Kalenderjahr ist, die Festsetzung der zu entlastenden Steuer nicht vor der Festsetzung der Jahressteuerschuld erfolgt und wenn in den Fällen des
 
@@ -317,15 +331,15 @@ Wird die durch Mieter, Pächter oder vergleichbare Vertragsparteien des Versorge
 
 # § 8 – Antrag auf Erteilung einer Erlaubnis zur steuerbegünstigten Entnahme
 
-(1) Wer Strom steuerbegünstigt entnehmen will, hat die Erlaubnis nach § 9 Absatz 4 des Gesetzes, soweit sie nicht nach § 10 allgemein erteilt ist, schriftlich nach amtlich vorgeschriebenem Vordruck beim zuständigen Hauptzollamt zu beantragen. Darin sind Name, Geschäfts- oder Wohnsitz, Rechtsform, die Steuernummer beim zuständigen Finanzamt und - sofern erteilt - die Umsatzsteuer-Identifikationsnummer anzugeben.
+(1) Wer Strom steuerbegünstigt entnehmen oder im Fall des § 9 Absatz 1 Nummer 3 Buchstabe b des Stromsteuergesetzes an Letztverbraucher leisten will, hat die Erlaubnis nach § 9 Absatz 4 des Stromsteuergesetzes, soweit sie nicht nach § 10 allgemein erteilt ist, schriftlich nach amtlich vorgeschriebenem Vordruck beim zuständigen Hauptzollamt zu beantragen.
 
 (2) Dem Antrag sind beizufügen:
 
-1. von Unternehmen, die in das Handels-, Genossenschafts- oder Vereinsregister eingetragen sind, ein Registerauszug nach dem neuesten Stand;
+1. eine Betriebserklärung nach amtlich vorgeschriebenem Vordruck, in den Fällen nach § 9 Absatz 1 Nummer 1, 2 und 3 des Stromsteuergesetzes je Anlage; soweit in der Betriebserklärung Daten zu Stromerzeugungseinheiten verlangt werden, die bereits zutreffend im Marktstammdatenregister enthalten sind, ist eine Angabe nicht erneut erforderlich;
 
-2. eine Betriebserklärung nach amtlich vorgeschriebenem Vordruck, in den Fällen nach § 9 Absatz 1 Nummer 1, 2 und 3 des Gesetzes je Anlage;
+2. in den Fällen nach § 9 Absatz 1 Nummer 3 des Stromsteuergesetzes je KWK-Anlage im Sinne des § 2 Nummer 10 des Stromsteuergesetzes ein Nachweis über die Hocheffizienz;
 
-2a. in den Fällen nach § 9 Absatz 1 Nummer 3 des Gesetzes je KWK-Anlage im Sinne von § 2 Nummer 10 des Gesetzes ein Nachweis über deren Hocheffizienz sowie eine Monats- oder Jahresnutzungsgradberechnung;
+2a. (weggefallen)
 
 3. eine Erklärung, ob die zu steuerbegünstigten Zwecken entnommene Verbrauchsmenge durch separate Zähl- oder Messeinrichtungen ermittelt wird;
 
@@ -337,17 +351,15 @@ Wird die durch Mieter, Pächter oder vergleichbare Vertragsparteien des Versorge
 
 (4) Sollen in den Fällen nach § 9 Absatz 1 Nummer 1, 2 und 3 des Gesetzes weitere Anlagen betrieben werden oder soll der Betrieb von solchen Anlagen eingestellt werden, hat der Erlaubnisinhaber in entsprechender Anwendung der Absätze 1 und 3 eine Änderung der Erlaubnis zu beantragen.
 
-(5) Für den Nachweis einer hocheffizienten KWK-Anlage nach § 2 Nummer 10 des Gesetzes gelten entsprechend:
+(5) Als Nachweis für die Hocheffizienz von KWK-Anlagen werden anerkannt:
 
-1. der Anlagenbegriff nach § 9 der Energiesteuer-Durchführungsverordnung,
+1. ein Gutachten, das von einem unabhängigen Sachverständigen nach den allgemein anerkannten Regeln der Technik erstellt wurde, oder
 
-2. die Nutzungsgradermittlung nach § 10 der Energiesteuer-Durchführungsverordnung,
+2. Herstellernachweise, wenn die Angaben von einem sachverständigen Dritten in angemessener Zeit nachvollzogen werden können und die steuerlichen Belange dadurch nicht beeinträchtigt werden, oder
 
-3. die allgemeinen Regelungen für die gekoppelte Erzeugung von Kraft und Wärme nach § 98 der Energiesteuer-Durchführungsverordnung und
+3. für Anlagen mit einer elektrischen Nennleistung von bis zu 2 Megawatt: eine Kopie des jeweiligen Zulassungsbescheides des Bundesamtes für Wirtschaft und Ausfuhrkontrolle.
 
-4. der Nachweis für die Hocheffizienz nach § 99b der Energiesteuer-Durchführungsverordnung.
-
-Abweichend von § 99b der Energiesteuer-Durchführungsverordnung gilt der Nachweis für die Hocheffizienz für Anlagen mit einer elektrischen Nennleistung von weniger als 1 Megawatt als erbracht, wenn die erzeugte Wärme nach § 10 Absatz 2 der Energiesteuer-Durchführungsverordnung als genutzt gilt.
+Die Einhaltung der allgemein anerkannten Regeln der Technik wird vermutet, wenn das Sachverständigengutachten oder der Herstellernachweis auf der Grundlage und nach den Rechenmethoden des Anhangs III der Richtlinie (EU) 2023/1791 erstellt worden ist. Ist der Betreiber der Anlage nicht zugleich Inhaber eines Nachweises nach Satz 1, hat er neben dem Nachweis eine Erklärung abzugeben, dass die dem Nachweis zugrunde liegenden technischen Parameter nicht verändert wurden. Abweichend davon gilt für KWK-Anlagen mit einer elektrischen Nennleistung von weniger als 1 Megawatt der Nachweis der Hocheffizienz als erbracht. Werden fossile Brennstoffe eingesetzt, gilt der Nachweis der Hocheffizienz für KWK-Anlagen mit einer elektrischen Nennleistung von weniger als 1 Megawatt jedoch nur dann als erbracht, wenn die direkten CO<sub>2</sub>-Emissionen aus der kombinierten Erzeugung mit fossilen Brennstoffen je Kilowattstunde Energieertrag, einschließlich Wärme, Kälte, Strom und mechanischer Energie, weniger als 270 Gramm betragen. Das zuständige Hauptzollamt kann Auskünfte verlangen, die für die Prüfung der Hocheffizienz der Anlage erforderlich sind.
 
 # § 9 – Erteilung, Überprüfung und Erlöschen der Erlaubnis
 
@@ -361,17 +373,19 @@ Abweichend von § 99b der Energiesteuer-Durchführungsverordnung gilt der Nachwe
 
 (1) Unter Verzicht auf eine förmliche Einzelerlaubnis (§ 9) ist die Entnahme von Strom für steuerbegünstigte Zwecke nach § 9 Absatz 3 des Gesetzes allgemein erlaubt. Dies gilt nicht für die Entnahme von Strom für Wasserfahrzeuge der Haupterwerbsfischerei auf Binnengewässern, für Wasserfahrzeuge der Position 8903 der Kombinierten Nomenklatur (§ 1 Absatz 2 des Gesetzes) und für Wasserfahrzeuge der Position 8905 der Kombinierten Nomenklatur, auf denen die in § 14 Absatz 2 Nummer 2 genannten Arbeitsmaschinen betrieben werden.
 
-(2) Unter Verzicht auf die förmliche Einzelerlaubnis (§ 9) ist die Entnahme oder die Leistung von Strom für steuerbegünstigte Zwecke nach § 9 Absatz 1 Nummer 3 des Gesetzes allgemein erlaubt, wenn der Strom
+(2) Unter Verzicht auf eine förmliche Einzelerlaubnis (§ 9) ist die Entnahme oder die Leistung von Strom für steuerbegünstigte Zwecke nach § 9 Absatz 1 Nummer 3 des Stromsteuergesetzes allgemein erlaubt, wenn der Strom
 
-1. in Anlagen aus erneuerbaren Energieträgern mit einer elektrischen Nennleistung von bis zu 1 Megawatt erzeugt wird;
+1. in Anlagen mit einer elektrischen Nennleistung von bis zu 1 Megawatt aus Windkraft, Sonnenenergie, Erdwärme oder Wasserkraft erzeugt wird;
 
-2. in hocheffizienten KWK-Anlagen mit einer elektrischen Nennleistung von bis zu 50 Kilowatt erzeugt wird; die Anlagen gelten als hocheffizient, wenn
+2. in einer hocheffizienten KWK-Anlage mit einer elektrischen Nennleistung von weniger als 1 Megawatt erzeugt wird und diese Anlage im Marktstammdatenregister nach Maßgabe der Marktstammdatenregisterverordnung registriert ist.
 
-a) die Voraussetzungen nach § 8 Absatz 5 Satz 2 vorliegen,
+Anlagen nach Satz 1 Nummer 2 gelten als hocheffizient, wenn die Voraussetzungen nach § 8 Absatz 5 Satz 4 und 5 vorliegen.
 
-b) die Anlagen ausschließlich wärmegeführt betrieben werden und weder über einen Notkühler noch über einen Bypass zur Umgehung des Abgaswärmetauschers verfügen und
+(3) Unter Verzicht auf die förmliche Einzelerlaubnis (§ 9) ist die Entnahme oder die Leistung von Strom für steuerbegünstigte Zwecke nach § 9 Absatz 1 Nummer 2 des Stromsteuergesetzes allgemein erlaubt, wenn der Strom
 
-c) den technischen Beschreibungen der Jahresnutzungsgrad von mindestens 70 Prozent entnommen werden kann.
+1. in einer mit Windkraft oder Sonnenenergie betriebenen Stromerzeugungseinheit erzeugt und
+
+2. ausschließlich am Ort der Erzeugung und ohne Nutzung des Netzes der allgemeinen Versorgung mit Strom zur Stromerzeugung aus Windkraft oder Sonnenenergie entnommen wird.
 
 # § 11 – Pflichten des Erlaubnisinhabers
 
@@ -381,7 +395,7 @@ c) den technischen Beschreibungen der Jahresnutzungsgrad von mindestens 70 Proze
 
 (3) Die Aufzeichnungen und der belegmäßige Nachweis nach Absatz 2 müssen so beschaffen sein, dass es einem sachverständigen Dritten innerhalb einer angemessenen Frist möglich ist zu prüfen, ob der Strom zu dem in der Erlaubnis genannten Zweck entnommen wurde.
 
-(3a) Der Erlaubnisinhaber hat die Hocheffizienz und den Monats- oder Jahresnutzungsgrad nach § 8 Absatz 2 Nummer 2a für jede hocheffiziente KWK-Anlage nach § 2 Nummer 10 des Gesetzes jährlich bis zum 31. Mai für das vorangegangene Kalenderjahr nachzuweisen. Sind die in Satz 1 genannten Nachweise auf mehrere Kalenderjahre anwendbar, kann das Hauptzollamt auf die jährliche Vorlage verzichten, soweit die Steuerbelange dadurch nicht beeinträchtigt werden. Die Nachweise sind dem zuständigen Hauptzollamt vorzulegen. § 8 Absatz 5 gilt entsprechend.
+(3a) Der Erlaubnisinhaber hat die Hocheffizienz nach § 8 Absatz 2 Nummer 2 für jede hocheffiziente KWK-Anlage nach § 2 Nummer 10 des Stromsteuergesetzes jährlich bis zum 31. Mai für das vorangegangene Kalenderjahr nachzuweisen. Sind die in Satz 1 genannten Nachweise auf mehrere Kalenderjahre anwendbar, kann das Hauptzollamt auf die jährliche Vorlage verzichten, soweit die Steuerbelange dadurch nicht beeinträchtigt werden. Die Nachweise sind dem zuständigen Hauptzollamt vorzulegen. § 8 Absatz 5 gilt entsprechend.
 
 (4) Der Erlaubnisinhaber hat dem zuständigen Hauptzollamt Änderungen der nach § 8 Absatz 1 und 2 Nummer 2 bis 5 angemeldeten Verhältnisse sowie Überschuldung, drohende oder eingetretene Zahlungsunfähigkeit, Zahlungseinstellung und Stellung des Antrags auf Eröffnung eines Insolvenzverfahrens unverzüglich schriftlich anzuzeigen, soweit das Hauptzollamt nicht darauf verzichtet. Das Hauptzollamt kann prüfen, ob der Anzeigepflicht nachgekommen wird, indem es Angaben und Unterlagen anfordert, die für die Erlaubnis erforderlich sind.
 
@@ -393,25 +407,23 @@ c) den technischen Beschreibungen der Jahresnutzungsgrad von mindestens 70 Proze
 
 (8) (weggefallen)
 
-# § 11a – Strom aus erneuerbaren Energieträgern und aus hocheffizienten KWK-Anlagen, Zeitgleichheit
+# § 11a – Zeitgleichheit, Mengenermittlung
 
-Zur Sicherstellung der Zeitgleichheit zwischen der Erzeugung und der Entnahme der steuerfreien Strommenge nach § 9 Absatz 1 Nummer 1 und 3 des Gesetzes ist die erzeugte und die entnommene Strommenge in geeigneter Form zu messen, es sei denn, es kann auf andere Weise nachgewiesen werden, dass Erzeugung und Entnahme des Stroms zeitgleich erfolgen.
+(1) Soll eine bestimmte nicht nach § 3 des Stromsteuergesetzes zu versteuernde oder eine bestimmte zu entlastende Strommenge einer bestimmten Entnahmestelle bilanziell zugeordnet werden, weil eine physikalische Zuordnung nicht möglich ist oder eine Leistungsbeziehung über diese Menge besteht, darf diese Menge höchstens bis zur Höhe der Entnahme bezogen auf jedes 15-Minuten-Intervall berücksichtigt werden (Zeitgleichheit). Zum Nachweis der Zeitgleichheit ist die jeweilige Menge zur Abgrenzung bezogen auf jedes 15-Minuten-Intervall in geeigneter Form mit mess- und eichrechtskonformen Messeinrichtungen zu erfassen. In anderen Fällen als nach Satz 1 kann die Zeitgleichheit auch auf andere Weise nachgewiesen werden. In diesen Fällen ist eine sachgerechte, von einem Dritten nachvollziehbare Schätzung zur Ermittlung der Mengen zulässig, soweit eine genaue Ermittlung nur mit unvertretbarem Aufwand möglich ist und die Steuerbelange dadurch nicht beeinträchtigt werden.
+
+(2) Wird Strom erzeugt und am Ort der Erzeugung ohne Nutzung des Netzes der allgemeinen Versorgung mit Strom entnommen, gilt die Zeitgleichheit zwischen der Erzeugung und der Entnahme der nach § 9 Absatz 1 Nummer 1, 3, 4 oder Nummer 6 des Stromsteuergesetzes steuerfreien und der nach den §§ 12c und 12d entlastungsfähigen Menge abweichend von Absatz 1 auch dann als sichergestellt, wenn diese Mengen jeweils gemäß ihrem Verhältnis zu der insgesamt im Veranlagungszeitraum entnommenen Menge den dortigen Entnahmestellen zugeordnet werden (quotale Zuordnung). Vorhandene Messungen sind zu berücksichtigen, insbesondere wenn sie bezogen auf jedes 15-Minuten-Intervall der quotalen Zuordnung entgegenstehen.
+
+(3) Soweit sich am Ort der Erzeugung Stromspeicher oder Ladepunkte befinden, können abweichend von Absatz 2 für die Ermittlung der jeweiligen Strommengen und deren Abgrenzung § 21 des Energiefinanzierungsgesetzes und die dazu getroffenen Festlegungen der Bundesnetzagentur entsprechend angewendet werden.
 
 # § 12 – Strom zur Stromerzeugung
 
-(1) Zur Stromerzeugung entnommen im Sinne des § 9 Absatz 1 Nummer 2 des Gesetzes wird Strom,
+(1) Zur Stromerzeugung entnommen im Sinne des § 9 Absatz 1 Nummer 2 des Stromsteuergesetzes wird Strom, der insbesondere in den Neben- und Hilfsanlagen einer Stromerzeugungseinheit insbesondere zur Wasseraufbereitung, Dampferzeugerwasserspeisung, Frischluftversorgung, Brennstoffversorgung oder Rauchgasreinigung zur Erzeugung von Strom im technischen Sinne entnommen wird.
 
-1. der in den Neben- und Hilfsanlagen einer Stromerzeugungseinheit insbesondere zur Wasseraufbereitung, Dampferzeugerwasserspeisung, Frischluftversorgung, Brennstoffversorgung oder Rauchgasreinigung oder
+(2) (weggefallen)
 
-2. der in Pumpspeicherkraftwerken von den Pumpen zum Fördern der Speichermedien
+(3) Wird der Strom als Letztverbraucher bezogen und sind keine Mess- und Zähleinrichtungen vorhanden, die eine Abgrenzung der zur Stromerzeugung steuerfrei entnommenen Strommengen von den zu versteuernden Mengen ermöglichen, so wird die Steuerbegünstigung nur in Form einer Steuerentlastung nach § 12a gewährt. Das zuständige Hauptzollamt kann darüber hinaus verlangen, dass die Steuerbegünstigung nur in Form der Steuerentlastung nach § 12a gewährt wird, wenn Steuerbelange gefährdet erscheinen.
 
-zur Erzeugung von Strom im technischen Sinne verbraucht wird.
-
-(2) Soweit die Verbrauchsmenge nach Absatz 1 wegen des Nichtvorhandenseins von Mess- oder Zähleinrichtungen nicht ermittelt werden kann, ist eine sachgerechte, von einem Dritten nachvollziehbare Schätzung zulässig.
-
-(3) Absatz 2 gilt nur, wenn der entnommene Strom selbst erzeugt oder als Versorger bezogen worden ist. Wird der Strom als Letztverbraucher bezogen und sind keine Mess- und Zähleinrichtungen vorhanden, die eine Abgrenzung der zur Stromerzeugung steuerfrei entnommenen Strommengen von den zu versteuernden Mengen ermöglichen, so wird die Steuerbegünstigung nur in Form einer Steuerentlastung nach § 12a gewährt. Das zuständige Hauptzollamt kann darüber hinaus verlangen, dass die Steuerbegünstigung nur in Form der Steuerentlastung nach § 12a gewährt wird, wenn Steuerbelange gefährdet erscheinen.
-
-(4) In den Fällen des § 1a Absatz 6 und 7 wird die Steuerbegünstigung nur in Form einer Steuerentlastung nach § 12a gewährt.
+(4) Vorbehaltlich des § 10 Absatz 3 kann in den Fällen des § 1a Absatz 5a, 6 und 7 für den selbst erzeugten und entnommenen Strom eine Erlaubnis nach § 9 Absatz 4 des Stromsteuergesetzes erteilt werden. Für anderen Strom wird die Steuerbegünstigung in diesen Fällen nur in Form einer Steuerentlastung nach § 12a gewährt.
 
 # § 12a – Steuerentlastung für Strom zur Stromerzeugung
 
@@ -419,59 +431,49 @@ zur Erzeugung von Strom im technischen Sinne verbraucht wird.
 
 (2) Entlastungsberechtigt ist derjenige, der den Strom entnommen hat.
 
-(3) Die Steuerentlastung ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für den Strom zu beantragen, der innerhalb eines Entlastungsabschnitts entnommen worden ist. Der Antragsteller hat in der Anmeldung alle Angaben zu machen, die für die Bemessung der Steuerentlastung erforderlich sind, und die Steuerentlastung selbst zu berechnen. Wahlweise kann er zur Abgeltung der Steuerbegünstigung folgende Pauschalen in Bezug auf die im Entlastungsabschnitt erfolgte Bruttostromerzeugung der jeweiligen Stromerzeugungsanlage in Anspruch nehmen:
-
-1. für Strom, der aus Windkraft erzeugt wird: 0,3 Prozent;
-
-2. für Strom, der aus Sonnenenergie erzeugt wird: 2 Prozent;
-
-3. für Strom, der in KWK-Anlagen erzeugt wird:
-
-a) bei einer elektrischen Nennleistung von bis zu 10 Kilowatt: 6 Prozent,
-
-b) bei einer elektrischen Nennleistung von über 10 Kilowatt bis zu 100 Kilowatt: 3 Prozent,
-
-c) bei einer elektrischen Nennleistung von über 100 Kilowatt: 2 Prozent.
-
-Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
+(3) Die Steuerentlastung ist für jede Anlage (§ 12b Absatz 1) bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für den Strom zu beantragen, der innerhalb eines Entlastungsabschnitts entnommen worden ist. Der Antragsteller hat in der Anmeldung alle Angaben zu machen, die für die Bemessung der Steuerentlastung erforderlich sind, und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
 (4) Entlastungsabschnitt ist das Kalenderjahr. Hiervon abweichend können Antragsteller das Kalenderhalbjahr, das Kalendervierteljahr oder den Kalendermonat als Entlastungsabschnitt wählen, sofern der Entlastungsbetrag bereits im jeweils ersten gewählten Entlastungsabschnitt eines Kalenderjahres mindestens 10 000 Euro beträgt. Das Wahlrecht kann einmalig für jeweils ein Kalenderjahr ausgeübt werden.
 
-(4a) Bei erstmaliger Antragstellung ist dem Antrag für jede Anlage eine Betriebserklärung nach amtlich vorgeschriebenem Vordruck beizufügen. Weiteren Anträgen muss eine Betriebserklärung nur beigefügt werden, wenn sich Änderungen gegenüber der dem zuständigen Hauptzollamt bereits vorliegenden Betriebserklärung ergeben haben. Der Antragsteller hat die Änderungen besonders kenntlich zu machen.
+(4a) Bei erstmaliger Antragstellung ist dem Antrag für die Anlage eine Betriebserklärung nach amtlich vorgeschriebenem Vordruck beizufügen. Soweit darin Daten zu Stromerzeugungseinheiten verlangt werden, die bereits zutreffend im Marktstammdatenregister enthalten sind, ist eine Angabe nicht erneut erforderlich. Weiteren Anträgen muss eine Betriebserklärung nur beigefügt werden, wenn sich Änderungen gegenüber den dem Hauptzollamt bereits vorliegenden Angaben und Unterlagen ergeben haben und Änderungen in Bezug auf die Angaben zu den Stromerzeugungseinheiten nicht zutreffend im Marktstammdatenregister ersichtlich sind. Das zuständige Hauptzollamt kann weitere Angaben und Unterlagen verlangen, wenn dies zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich ist.
 
-(5) Der Antragsteller hat einen buchmäßigen Nachweis zu führen, aus dem sich für den Entlastungsabschnitt die Menge und der genaue Verwendungszweck des Stroms ergeben müssen.
+(5) Der Antragsteller hat einen buchmäßigen Nachweis zu führen, aus dem sich für den Entlastungsabschnitt die Menge und der genaue Verwendungszweck des Stroms ergeben müssen. Abweichend von Satz 1 sind belegmäßige Nachweise anstelle des buchmäßigen Nachweises ausreichend, wenn die Steuerbelange dadurch nicht beeinträchtigt werden. Satz 2 gilt nicht für Antragsteller, die nach dem Handelsgesetzbuch oder der Abgabenordnung dazu verpflichtet sind, ordnungsmäßig kaufmännische Bücher zu führen und rechtzeitig Jahresabschlüsse aufzustellen.
 
-# § 12b – Steuerbefreiung für Anlagen mit einer elektrischen Nennleistung von bis zu zwei Megawatt
+# § 12b – Anlagenbegriff und räumlicher Zusammenhang
 
-(1) Mehrere unmittelbar miteinander verbundene Stromerzeugungseinheiten an einem Standort gelten als eine Anlage zur Stromerzeugung nach § 9 Abs. 1 Nr. 3 des Gesetzes. Als unmittelbar miteinander verbunden gelten insbesondere auch Anlagen in Modulbauweise, die sich im selben baulichen Objekt befinden.
+(1) Mit Ausnahme von Stromspeichern nach § 2 Nummer 9 des Stromsteuergesetzes gilt als Anlage im Sinne des Stromsteuergesetzes und dieser Verordnung ein Verbund aus technischen Komponenten, mit dem der Energiegehalt von Energieträgern in elektrischen Strom umgewandelt wird. Als Anlage nach Satz 1 gelten insbesondere Stromerzeugungseinheiten, die von demselben Betreiber an einem Standort betrieben werden und in denen Strom entweder
 
-(2) Stromerzeugungseinheiten an unterschiedlichen Standorten gelten als eine Anlage zur Stromerzeugung nach § 9 Absatz 1 Nummer 3 des Gesetzes, sofern
+1. aus gleichartigen Energieträgern soweit es sich dabei jeweils um Windkraft, Sonnenenergie, Erdwärme oder Wasserkraft handelt,
 
-1. die einzelnen Stromerzeugungseinheiten zum Zweck der Stromerzeugung zentral gesteuert werden; dies ist insbesondere der Fall, wenn die einzelnen Stromerzeugungsanlagen nach § 36 des Erneuerbare-Energien-Gesetzes vom 21. Juli 2014 (BGBl. I S. 1066), das zuletzt durch Artikel 1 des Gesetzes vom 29. Juni 2015 (BGBl. I S. 1010) geändert worden ist, in der jeweils geltenden Fassung, fernsteuerbar sind, und
+2. aus Energieträgern im Sinne der §§ 2 und 3 Nummer 2 bis 12 der Biomasseverordnung in einem Kraft-Wärme-Kopplungsprozess,
 
-2. der erzeugte Strom zumindest teilweise in das Versorgungsnetz eingespeist werden soll.
+3. aus sonstigen Energieträgern in einem Kraft-Wärme-Kopplungsprozess, unterschieden nach Stromerzeugungseinheiten, für die die direkten CO<sub>2</sub>-Emissionen aus der kombinierten Erzeugung mit fossilen Brennstoffen je Kilowattstunde Energieertrag, einschließlich Wärme, Kälte, Strom und mechanischer Energie betragen:
 
-Eine Entnahme von Strom im räumlichen Zusammenhang zu einer Anlage im Sinn des Satzes 1 liegt nur vor, soweit der in den einzelnen Stromerzeugungseinheiten der Anlage erzeugte Strom im räumlichen Zusammenhang zu der Stromerzeugungseinheit entnommen wird, in der der Strom erzeugt worden ist.
+a) weniger als 270 Gramm oder
 
-(3) In den Fällen der Absätze 1 und 2 gilt die Summe der elektrischen Nennleistungen der einzelnen Stromerzeugungseinheiten als elektrische Nennleistung im Sinn des § 9 Absatz 1 Nummer 3 des Gesetzes. Die Fernsteuerbarkeit nach Absatz 2 Satz 1 gilt nicht als zentrale Steuerung zum Zweck der Stromerzeugung, wenn die Direktvermarktung des in das Versorgungsnetz eingespeisten Stroms durch einen Dritten erfolgt, die elektrische Nennleistung der Anlagen eines Betreibers dabei 2 Megawatt nicht überschreitet und der Strom innerhalb der Kundenanlage (§ 1a Absatz 9) entnommen wird, in der er erzeugt worden ist.
+b) 270 Gramm oder mehr oder
 
-(4) Eine Leistung von Strom an Letztverbraucher durch denjenigen, der die Anlage betreibt oder betreiben lässt (§ 9 Absatz 1 Nummer 3 Buchstabe b des Gesetzes), liegt nur dann vor, wenn an den Leistungsbeziehungen über den in der Anlage erzeugten Strom keine weiteren als die in § 9 Absatz 1 Nummer 3 Buchstabe b des Gesetzes genannten Personen beteiligt sind. Wird der erzeugte Strom zunächst an einen Netzbetreiber geleistet und sogleich zurückerworben, ist dies für die Steuerbefreiung unschädlich, wenn die Leistung an den Netzbetreiber ausschließlich erfolgt, um einen Zuschlag nach dem Kraft-Wärme-Kopplungsgesetz vom 21. Dezember 2015 (BGBl. I S. 2498), in der jeweils geltenden Fassung zu erhalten. Die Sätze 1 und 2 gelten für die Steuerbefreiung nach § 9 Absatz 1 Nummer 3 Buchstabe a des Gesetzes sinngemäß.
+4. auf andere Art und Weise
 
-(5) Der räumliche Zusammenhang umfasst Entnahmestellen in einem Radius von bis zu 4,5 Kilometern um die jeweilige Stromerzeugungseinheit.
+erzeugt und die netto erzeugte Strommenge ganz oder teilweise am Standort ohne Nutzung eines Netzes der allgemeinen Versorgung mit Strom entnommen wird. Stromerzeugungseinheiten nach Satz 2 gelten auch als eine Anlage, wenn mindestens die netto erzeugte Strommenge eingespeist wird (Volleinspeisung). § 9 Absatz 1a Satz 2 des Stromsteuergesetzes gilt entsprechend. Werden in einer Stromerzeugungseinheit Energieträger im Sinne des Satzes 2 Nummer 2 und 3 oder Mischungen daraus eingesetzt, ist der im Marktstammdatenregister nach Maßgabe der Marktstammdatenregisterverordnung eingetragene Hauptbrennstoff für die Zuordnung maßgebend, soweit dieser tatsächlich als Hauptbrennstoff eingesetzt wird. Sind die Stromerzeugungseinheiten in den Fällen des Satzes 5 nicht nach Maßgabe der Marktstammdatenregisterverordnung im Marktstammdatenregister registriert oder wird der im Marktstammdatenregister eingetragene Hauptbrennstoff tatsächlich nicht als Hauptbrennstoff eingesetzt, gelten diese Stromerzeugungseinheiten als Anlage nach Satz 2 Nummer 3.
 
-# § 12c – Steuerentlastung für Strom aus erneuerbaren Energieträgern
+(2) Eine Leistung von Strom an Letztverbraucher durch denjenigen, der die Anlage betreibt oder betreiben lässt nach § 9 Absatz 1 Nummer 3 Buchstabe b des Stromsteuergesetzes, liegt nur dann vor, wenn an den Leistungsbeziehungen über den in der Anlage erzeugten Strom keine weiteren als die in § 9 Absatz 1 Nummer 3 Buchstabe b des Stromsteuergesetzes genannten Personen beteiligt sind. Satz 1 gilt für die Steuerbefreiung nach § 9 Absatz 1 Nummer 3 Buchstabe a des Stromsteuergesetzes sinngemäß.
 
-(1) Auf Antrag wird eine Steuerentlastung für nachweislich nach § 3 des Gesetzes versteuerten Strom gewährt, der aus erneuerbaren Energieträgern erzeugt und zu den in § 9 Absatz 1 Nummer 1 oder Nummer 3 Buchstabe a des Gesetzes genannten Zwecken entnommen wurde.
+(3) Der räumliche Zusammenhang nach § 9 Absatz 1 Nummer 3 des Stromsteuergesetzes umfasst Entnahmen in einem Radius von bis zu 4,5 Kilometern um die jeweilige Stromerzeugungseinheit.
+
+# § 12c – Steuerentlastung für Strom aus Windkraft, Sonnenenergie, Erdwärme oder Wasserkraft
+
+(1) Auf Antrag wird eine Steuerentlastung für nachweislich nach § 3 des Stromsteuergesetzes versteuerten Strom gewährt, der ausschließlich aus Windkraft, Sonnenenergie, Erdwärme oder Wasserkraft erzeugt und zu den in § 9 Absatz 1 Nummer 1 oder Nummer 3 Buchstabe a des Stromsteuergesetzes genannten Zwecken entnommen wurde.
 
 (2) Entlastungsberechtigt ist derjenige, der den Strom entnommen hat.
 
-(3) Die Steuerentlastung ist für jede Anlage bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für den Strom zu beantragen, der innerhalb eines Entlastungsabschnitts entnommen worden ist. Der Antragsteller hat in der Anmeldung alle Angaben zu machen, die für die Bemessung der Steuerentlastung erforderlich sind, und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
+(3) Die Steuerentlastung ist für jede Anlage (§ 12b Absatz 1) bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für den Strom zu beantragen, der innerhalb eines Entlastungsabschnitts entnommen worden ist. Der Antragsteller hat in der Anmeldung alle Angaben zu machen, die für die Bemessung der Steuerentlastung erforderlich sind, und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
 (4) Entlastungsabschnitt ist das Kalenderjahr. Hiervon abweichend können Antragsteller das Kalenderhalbjahr, das Kalendervierteljahr oder den Kalendermonat als Entlastungsabschnitt wählen, sofern der Entlastungsbetrag bereits im jeweils ersten gewählten Entlastungsabschnitt eines Kalenderjahres mindestens 10 000 Euro beträgt. Das Wahlrecht kann einmalig für jeweils ein Kalenderjahr ausgeübt werden.
 
-(5) Bei erstmaliger Antragstellung ist dem Antrag für die Anlage eine Betriebserklärung nach amtlich vorgeschriebenem Vordruck beizufügen. Weiteren Anträgen muss eine Betriebserklärung nur beigefügt werden, wenn sich Änderungen gegenüber den dem Hauptzollamt bereits vorliegenden Angaben und Unterlagen ergeben haben. Der Antragsteller hat die Änderungen besonders kenntlich zu machen. § 11a gilt entsprechend.
+(5) Bei erstmaliger Antragstellung ist dem Antrag für die Anlage eine Betriebserklärung nach amtlich vorgeschriebenem Vordruck beizufügen. Soweit darin Daten zu Stromerzeugungseinheiten verlangt werden, die bereits zutreffend im Marktstammdatenregister enthalten sind, ist eine Angabe nicht erneut erforderlich. Weiteren Anträgen muss eine Betriebserklärung nur beigefügt werden, wenn sich Änderungen gegenüber den dem Hauptzollamt bereits vorliegenden Angaben und Unterlagen ergeben haben und Änderungen in Bezug auf die Angaben zu den Stromerzeugungseinheiten nicht zutreffend im Marktstammdatenregister ersichtlich sind. Das zuständige Hauptzollamt kann weitere Angaben und Unterlagen verlangen, wenn dies zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich ist.
 
-(6) Der Antragsteller hat einen buchmäßigen Nachweis zu führen, aus dem sich für den Entlastungsabschnitt die Menge und der genaue Verwendungszweck des Stroms ergeben müssen.
+(6) Der Antragsteller hat einen buchmäßigen Nachweis zu führen, aus dem sich für den Entlastungsabschnitt die Menge und der genaue Verwendungszweck des Stroms ergeben müssen. Abweichend von Satz 1 sind belegmäßige Nachweise anstelle des buchmäßigen Nachweises ausreichend, wenn die Steuerbelange dadurch nicht beeinträchtigt werden. Satz 2 gilt nicht für Antragsteller, die nach dem Handelsgesetzbuch oder der Abgabenordnung dazu verpflichtet sind, ordnungsmäßig kaufmännische Bücher zu führen und rechtzeitig Jahresabschlüsse aufzustellen.
 
 # § 12d – Steuerentlastung für Strom aus hocheffizienten KWK-Anlagen
 
@@ -479,19 +481,19 @@ Eine Entnahme von Strom im räumlichen Zusammenhang zu einer Anlage im Sinn des 
 
 (2) Entlastungsberechtigt ist derjenige, der den Strom entnommen hat.
 
-(3) Die Steuerentlastung ist für jede Anlage bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für den Strom zu beantragen, der innerhalb eines Entlastungsabschnitts entnommen worden ist. Der Antragsteller hat in der Anmeldung alle Angaben zu machen, die für die Bemessung der Steuerentlastung erforderlich sind, und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
+(3) Die Steuerentlastung ist für jede Anlage (§ 12b Absatz 1) bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für den Strom zu beantragen, der innerhalb eines Entlastungsabschnitts entnommen worden ist. Der Antragsteller hat in der Anmeldung alle Angaben zu machen, die für die Bemessung der Steuerentlastung erforderlich sind, und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
-(4) Entlastungsabschnitt ist das Kalenderjahr. Hiervon abweichend können Antragsteller das Kalenderhalbjahr, das Kalendervierteljahr oder den Kalendermonat als Entlastungsabschnitt wählen, sofern der Entlastungsbetrag bereits im jeweils ersten gewählten Entlastungsabschnitt eines Kalenderjahres mindestens 10 000 Euro beträgt. Wird als Entlastungsabschnitt das Kalenderjahr zugrunde gelegt, ist der Jahresnutzungsgrad nachzuweisen. Wird dagegen ein anderer Entlastungsabschnitt gewählt, ist für jeden Monat des Entlastungsabschnitts der jeweilige Monatsnutzungsgrad nachzuweisen. Das Wahlrecht kann einmalig für jeweils ein Kalenderjahr ausgeübt werden.
+(4) Entlastungsabschnitt ist das Kalenderjahr. Hiervon abweichend können Antragsteller das Kalenderhalbjahr, das Kalendervierteljahr oder den Kalendermonat als Entlastungsabschnitt wählen, sofern der Entlastungsbetrag bereits im jeweils ersten gewählten Entlastungsabschnitt eines Kalenderjahres mindestens 10 000 Euro beträgt. Das Wahlrecht kann einmalig für jeweils ein Kalenderjahr ausgeübt werden.
 
 (5) Bei erstmaliger Antragstellung sind dem Antrag für die Anlage beizufügen:
 
-1. eine Betriebserklärung nach amtlich vorgeschriebenem Vordruck,
+1. eine Betriebserklärung nach amtlich vorgeschriebenem Vordruck; soweit darin Daten zu Stromerzeugungseinheiten verlangt werden, die bereits zutreffend im Marktstammdatenregister enthalten sind, ist eine Angabe nicht erneut erforderlich,
 
-2. ein Nachweis über die Hocheffizienz und eine Nutzungsgradberechnung.
+2. ein Nachweis für die Hocheffizienz.
 
-Das zuständige Hauptzollamt kann weitere Angaben und Unterlagen verlangen, wenn dies zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich ist. Bei Anlagen nach § 9 Absatz 1 Satz 3 Nummer 3 der Energiesteuer-Durchführungsverordnung sind die nach Satz 1 erforderlichen Angaben für jede zur Anlage gehörende KWK-Einheit oder Stromerzeugungseinheit vorzulegen. Der Antragsteller hat Änderungen der angegebenen Verhältnisse dem Hauptzollamt jeweils mit dem nächsten Antrag auf eine Steuerentlastung mitzuteilen. § 8 Absatz 5 und § 11a gelten entsprechend.
+Weiteren Anträgen muss eine Betriebserklärung nur beigefügt werden, wenn sich Änderungen gegenüber den dem Hauptzollamt bereits vorliegenden Angaben und Unterlagen ergeben haben und Änderungen in Bezug auf die Angaben zu den Stromerzeugungseinheiten nicht zutreffend im Marktstammdatenregister ersichtlich sind. Das zuständige Hauptzollamt kann weitere Angaben und Unterlagen verlangen, wenn dies zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich ist. Bei Anlagen nach § 12b Absatz 1 Satz 2 Nummer 2 sind die nach Satz 1 erforderlichen Angaben für jede zur Anlage gehörende KWK-Einheit oder Stromerzeugungseinheit vorzulegen. Der Antragsteller hat Änderungen der angegebenen Verhältnisse dem Hauptzollamt jeweils mit dem nächsten Antrag auf eine Steuerentlastung mitzuteilen. § 8 Absatz 5 und § 11a gelten entsprechend.
 
-(6) Der Antragsteller hat einen buchmäßigen Nachweis zu führen, aus dem sich für den Entlastungsabschnitt die Menge und der genaue Verwendungszweck des Stroms ergeben müssen.
+(6) Der Antragsteller hat einen buchmäßigen Nachweis zu führen, aus dem sich für den Entlastungsabschnitt die Menge und der genaue Verwendungszweck des Stroms ergeben müssen. Abweichend von Satz 1 sind belegmäßige Nachweise anstelle des buchmäßigen Nachweises ausreichend, wenn die Steuerbelange dadurch nicht beeinträchtigt werden. Satz 2 gilt nicht für Antragsteller, die nach dem Handelsgesetzbuch oder der Abgabenordnung dazu verpflichtet sind, ordnungsmäßig kaufmännische Bücher zu führen und rechtzeitig Jahresabschlüsse aufzustellen.
 
 # § 13 – Verkehr mit Oberleitungsomnibussen oder Schienenbahnen
 
@@ -597,7 +599,7 @@ Das Hauptzollamt kann die Wahl des Unternehmens zurückweisen, wenn diese offens
 
 4. Arbeitskräfte, die von anderen Unternehmen gegen Entgelt gemäß dem Arbeitnehmerüberlassungsgesetz zur Arbeitsleistung überlassen wurden.
 
-(8) Unternehmen oder Unternehmensteile im Vertrieb und in der Produktion von Gütern ohne eigene Warenproduktion (Converter) sind abweichend von Abschnitt 3.4 der Vorbemerkungen zur Klassifikation der Wirtschaftszweige auch dann, wenn sie die gewerblichen Schutzrechte an den Produkten besitzen, nicht so zu klassifizieren, als würden sie die Waren selbst herstellen.
+(8) Unternehmen oder Unternehmensteile im Vertrieb und in der Produktion von Gütern ohne eigene Warenproduktion (Converter) sind abweichend vom Abschnitt 3.4 der Vorbemerkungen zur Klassifikation der Wirtschaftszweige auch dann, wenn sie die gewerblichen Schutzrechte an den Produkten besitzen, nicht so zu klassifizieren, als würden sie die Waren selbst herstellen.
 
 (8a) Unternehmen oder Unternehmensteile, die zur Verarbeitung ihrer Stoffe andere Unternehmen beauftragen, werden abweichend von den Erläuterungen zu Abschnitt D Absatz 3 der Klassifikation der Wirtschaftszweige nicht im verarbeitenden Gewerbe erfasst.
 
@@ -609,7 +611,7 @@ Das Hauptzollamt kann die Wahl des Unternehmens zurückweisen, wenn diese offens
 
 # § 17 – (weggefallen)
 
-# § 17a – Erlass, Erstattung oder Vergütung der Steuer für bestimmte Prozesse und Verfahren
+# § 17a – Steuerentlastung für bestimmte Prozesse und Verfahren
 
 (1) Der Erlass, die Erstattung oder die Vergütung der Steuer (Steuerentlastung) nach § 9a des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für den Strom zu beantragen, der innerhalb eines Entlastungsabschnitts entnommen worden ist. Der Antragsteller hat in der Anmeldung alle Angaben zu machen, die für die Bemessung der Steuerentlastung erforderlich sind, und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
@@ -617,7 +619,7 @@ Das Hauptzollamt kann die Wahl des Unternehmens zurückweisen, wenn diese offens
 
 (3) Dem Antrag ist bei erstmaliger Antragstellung eine Betriebserklärung beizufügen, in der die Verwendung des Stroms genau beschrieben wird. Weiteren Anträgen muss eine Betriebserklärung nur beigefügt werden, wenn sich Änderungen gegenüber der dem Hauptzollamt bereits vorliegenden Betriebserklärung ergeben haben. Der Antragsteller hat die Änderungen besonders kenntlich zu machen. Darüber hinaus hat der Antragsteller auf Verlangen des Hauptzollamts eine Beschreibung seiner wirtschaftlichen Tätigkeiten im maßgebenden Zeitraum nach amtlich vorgeschriebenem Vordruck vorzulegen. Die Beschreibung muss es dem Hauptzollamt ermöglichen, das Unternehmen einem Abschnitt oder einer Klasse der Klassifikation der Wirtschaftszweige zuzuordnen.
 
-(4) Der Antragsteller hat einen buchmäßigen Nachweis zu führen, aus dem sich für den Entlastungsabschnitt die Menge und der genaue Verwendungszweck des Stroms ergeben müssen.
+(4) Der Antragsteller hat einen buchmäßigen Nachweis zu führen, aus dem sich für den Entlastungsabschnitt die Menge und der genaue Verwendungszweck des Stroms ergeben müssen. Abweichend von Satz 1 sind belegmäßige Nachweise anstelle des buchmäßigen Nachweises ausreichend, wenn die Steuerbelange dadurch nicht beeinträchtigt werden. Satz 2 gilt nicht für Antragsteller, die nach dem Handelsgesetzbuch oder der Abgabenordnung dazu verpflichtet sind, ordnungsmäßig kaufmännische Bücher zu führen und rechtzeitig Jahresabschlüsse aufzustellen.
 
 (4a) Zur Ermittlung der entlastungsfähigen Mengen ist der Strom zu messen, der zu den Zwecken nach § 9a des Gesetzes entnommen wurde. Das zuständige Hauptzollamt kann auf Antrag weitere Ermittlungsmethoden zulassen, soweit die Steuerbelange dadurch nicht beeinträchtigt werden.
 
@@ -662,6 +664,8 @@ Das Hauptzollamt kann die Wahl des Unternehmens zurückweisen, wenn diese offens
 a) der Name und die Anschrift dieses anderen Unternehmens sowie
 
 b) die Nutzenergiemengen, die durch dieses andere Unternehmen jeweils verwendet worden sind, sowie die für die Erzeugung der Nutzenergie jeweils entnommenen Strommengen.
+
+Abweichend von Satz 1 sind belegmäßige Nachweise anstelle des buchmäßigen Nachweises ausreichend, wenn die Steuerbelange dadurch nicht beeinträchtigt werden. Satz 2 gilt nicht für Antragsteller, die nach dem Handelsgesetzbuch oder der Abgabenordnung dazu verpflichtet sind, ordnungsmäßig kaufmännische Bücher zu führen und rechtzeitig Jahresabschlüsse aufzustellen.
 
 (7) Nutzenergie sind Licht, Wärme, Kälte, mechanische Energie und Druckluft, ausgenommen Druckluft, die in Druckflaschen oder anderen Behältern abgegeben wird.
 
@@ -721,7 +725,7 @@ Die Vorlage einer Selbsterklärung nach Satz 1 Nummer 1 ist nicht erforderlich, 
 
 (3) Dem Antrag auf Steuerentlastung sind die Abwicklungsscheine nach § 73 Absatz 1 Nummer 1 der Umsatzsteuer-Durchführungsverordnung beizufügen. Das Hauptzollamt kann auf Abwicklungsscheine verzichten, wenn die in diesen vorgeschriebenen Angaben anderen Belegen und den Aufzeichnungen des Antragstellers eindeutig und leicht nachprüfbar zu entnehmen sind.
 
-(4) Der Antragsteller hat einen buchmäßigen Nachweis zu führen, dem für die Leistung im Entlastungsabschnitt die Menge, die Herkunft und der Bezieher des Stroms oder der daraus erzeugten Wärme zu entnehmen sein müssen.
+(4) Der Antragsteller hat einen buchmäßigen Nachweis zu führen, dem für die Leistung im Entlastungsabschnitt die Menge, die Herkunft und der Bezieher des Stroms oder der daraus erzeugten Wärme zu entnehmen sein müssen. Abweichend von Satz 1 sind belegmäßige Nachweise anstelle des buchmäßigen Nachweises ausreichend, wenn die Steuerbelange dadurch nicht beeinträchtigt werden. Satz 2 gilt nicht für Antragsteller, die nach dem Handelsgesetzbuch oder der Abgabenordnung dazu verpflichtet sind, ordnungsmäßig kaufmännische Bücher zu führen und rechtzeitig Jahresabschlüsse aufzustellen.
 
 # § 17g – Steuerentlastung im Zusammenhang mit der Gemeinsamen Sicherheits- und Verteidigungspolitik (GSVP)
 
@@ -731,7 +735,7 @@ Die Vorlage einer Selbsterklärung nach Satz 1 Nummer 1 ist nicht erforderlich, 
 
 (3) Dem Antrag auf Steuerentlastung sind Unterlagen beizufügen, die den zeitlichen und räumlichen Umfang der begünstigten Maßnahme der Gemeinsamen Sicherheits- und Verteidigungspolitik sowie die vom Antragsteller geleistete Strommenge belegen. Das Hauptzollamt kann weitere Unterlagen anfordern, sofern dies zur Beurteilung der Steuerbegünstigung erforderlich ist.
 
-(4) Der Antragsteller hat einen buchmäßigen Nachweis zu führen, dem für die Leistung im Entlastungsabschnitt die Menge, die Herkunft und der Bezieher des Stroms zu entnehmen sein müssen.
+(4) Der Antragsteller hat einen buchmäßigen Nachweis zu führen, dem für die Leistung im Entlastungsabschnitt die Menge, die Herkunft und der Bezieher des Stroms zu entnehmen sein müssen. Abweichend von Satz 1 sind belegmäßige Nachweise anstelle des buchmäßigen Nachweises ausreichend, wenn die Steuerbelange dadurch nicht beeinträchtigt werden. Satz 2 gilt nicht für Antragsteller, die nach dem Handelsgesetzbuch oder der Abgabenordnung dazu verpflichtet sind, ordnungsmäßig kaufmännische Bücher zu führen und rechtzeitig Jahresabschlüsse aufzustellen.
 
 (5) Strom, der für zivile Missionen im Zusammenhang mit der Gemeinsamen Sicherheits- und Verteidigungspolitik geleistet wird, ist nur dann entlastungsfähig, wenn er durch das zivile Begleitpersonal von Streitkräften entnommen wird. Dieses muss Aufgaben ausführen, die unmittelbar mit einer Verteidigungsanstrengung im Rahmen mit der Gemeinsamen Sicherheits- und Verteidigungspolitik außerhalb ihres Mitgliedstaates zusammenhängen. Aufgaben, zu deren Erfüllung ausschließlich Zivilpersonal oder zivile Fähigkeiten eingesetzt werden, sind nicht als Verteidigungsanstrengungen zu betrachten.
 
@@ -765,6 +769,6 @@ Ordnungswidrig im Sinn des § 381 Absatz 1 Nummer 1 der Abgabenordnung handelt, 
 
 # § 21 – Übergangsregelung
 
-(1) Für Anträge auf eine Steuerentlastung nach § 10 des Gesetzes in der am 31. Dezember 2012 geltenden Fassung ist § 18 in der zu diesem Zeitpunkt geltenden Fassung weiter anzuwenden.
+(1) Erlaubnisse nach § 4 des Stromsteuergesetzes, auch in Verbindung mit § 2 Absatz 3 und § 3 Absatz 2 Satz 1, gelten mit Ablauf des 31. Dezember 2025 als erloschen, sofern die Voraussetzungen des § 1a Absatz 5 vorliegen oder die angezeigten Tätigkeiten die Voraussetzungen des § 1a Absatz 5a in der am 1. Januar 2026 geltenden Fassung erfüllen.
 
 (2) Erlaubnisse nach § 9 Absatz 4 in Verbindung mit § 9 Absatz 1 Nummer 2 des Gesetzes erlöschen in den Fällen nach § 12 Absatz 3 Satz 2 und in den Fällen nach § 12 Absatz 4 mit Ablauf des 31. Dezember 2017. Der Erlaubnisschein ist unverzüglich zurückzugeben.

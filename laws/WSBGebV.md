@@ -1,4 +1,4 @@
-% Besondere Gebührenverordnung des Bundesministeriums für Digitales und Verkehr für individuell zurechenbare öffentliche Leistungen im Zusammenhang mit der Verwaltung der Wasserstraßen und der Schifffahrtsverwaltung  (BMDV-Wasserstraßen und Schifffahrt Besondere Gebührenverordnung - BMDV-WS-BesGebV)
+% Besondere Gebührenverordnung des Bundesministeriums für Verkehr für individuell zurechenbare öffentliche Leistungen im Zusammenhang mit der Verwaltung der Wasserstraßen und der Schifffahrtsverwaltung  (Besondere Gebührenverordnung Wasserstraßen und Schifffahrt - WSBGebV)
 % Ausfertigungsdatum: 28.10.2021
  
 # Eingangsformel
@@ -7,7 +7,7 @@ Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2 und 3 des 
 
 # § 1 – Erhebung von Gebühren und Auslagen
 
-Im Zuständigkeitsbereich des Bundesministeriums für Digitales und Verkehr für die Wasserstraßen und die Schifffahrt werden Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen erhoben, die auf Grund der folgenden Vorschriften erbracht werden:
+Im Zuständigkeitsbereich des Bundesministeriums für Verkehr für die Wasserstraßen und die Schifffahrt werden Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen erhoben, die auf Grund der folgenden Vorschriften erbracht werden:
 
 1. Bundeswasserstraßengesetz (WaStrG),
 

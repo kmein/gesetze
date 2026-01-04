@@ -79,7 +79,7 @@ g) der nichtbundeseigenen Häfen von der für Häfen zuständigen obersten Lande
 
 (1) Vorschläge zur Unabkömmlichstellung können eingereicht werden, wenn die Bundesregierung den Bereitschaftsdienst angeordnet hat oder der Spannungs- oder der Verteidigungsfall festgestellt worden ist.
 
-(2) Über die Vorschläge, Wehrpflichtige oder Dienstleistungspflichtige unabkömmlich zu stellen, entscheidet das für den Wohnsitz zuständige Kreiswehrersatzamt. Vorschläge oberster Landesbehörden sind der Wehrbereichsverwaltung, Vorschläge oberster Bundesbehörden dem Bundesamt für Wehrverwaltung zur Entscheidung vorzulegen, wenn dem Kreiswehrersatzamt die Vorschläge nicht begründet erscheinen.
+(2) Über die Vorschläge, Wehrpflichtige oder Dienstleistungspflichtige unabkömmlich zu stellen, entscheidet das für den Wohnsitz zuständige Karrierecenter der Bundeswehr. Vorschläge oberster Landesbehörden sowie Vorschläge oberster Bundesbehörden sind dem Bundesamt für das Personalmanagement der Bundeswehr zur Entscheidung vorzulegen, wenn dem Karrierecenter der Bundeswehr die Vorschläge nicht begründet erscheinen.
 
 (3) Vor Ablehnung einer Unabkömmlichstellung soll die vorschlagsberechtigte Behörde gehört werden.
 
@@ -105,11 +105,9 @@ g) der nichtbundeseigenen Häfen von der für Häfen zuständigen obersten Lande
 
 (2) Zuständig für den Widerruf ist für Vorschläge
 
-1. einer obersten Bundesbehörde das Bundesamt für Wehrverwaltung,
+1. einer obersten Landesbehörde oder einer obersten Bundesbehörde das Bundesamt für das Personalmanagement der Bundeswehr,
 
-2. einer obersten Landesbehörde die zuständige Wehrbereichsverwaltung,
-
-3. im Übrigen das für den Wohnsitz des Wehrpflichtigen oder des oder der Dienstleistungspflichtigen zuständige Kreiswehrersatzamt.
+2. in den nicht in Nummer 1 genannten Fällen das für den Wohnsitz des Wehrpflichtigen oder des oder der Dienstleistungspflichtigen zuständige Karrierecenter der Bundeswehr.
 
 (3) Vor dem Widerruf einer Unabkömmlichstellung soll die vorschlagsberechtigte Behörde gehört werden.
 
@@ -117,9 +115,9 @@ g) der nichtbundeseigenen Häfen von der für Häfen zuständigen obersten Lande
 
 (1) Lehnt die Wehrersatzbehörde eine Unabkömmlichstellung ab oder widerruft sie diese nach § 5, kann die vorschlagsberechtigte Behörde innerhalb einer Woche nach Zugang der Entscheidung einen bei der Wehrersatzbehörde gebildeten Ausschuss anrufen.
 
-(2) Der Ausschuss beim Kreiswehrersatzamt und bei der Wehrbereichsverwaltung besteht aus der Leitung der Behörde oder deren Vertretung als Vorsitzender oder Vorsitzende sowie jeweils einem oder einer von der Landesregierung und von dem Vorstand der Bundesagentur für Arbeit zu benennenden Beisitzer oder Beisitzerin. Die Landesregierung kann das Recht zur Benennung der Beisitzer und Beisitzerinnen auf eine andere Behörde übertragen. Der Vorstand der Bundesagentur kann das Recht zur Benennung der Beisitzer und Beisitzerinnen auf die Geschäftsführungen der Regionaldirektionen übertragen. Der Ausschuss beim Bundesamt für Wehrverwaltung besteht aus der Leitung der Behörde oder deren Vertretung als Vorsitzender oder Vorsitzende sowie jeweils einem oder einer von dem Bundesministerium für Arbeit und Soziales und von der obersten Bundesbehörde, die die Unabkömmlichstellung der Wehrpflichtigen oder der Dienstleistungspflichtigen vorgeschlagen hat, zu benennenden Beisitzer oder Beisitzerin.
+(2) Der Ausschuss bei dem Karrierecenter der Bundeswehr und bei dem Bundesamt für das Personalmanagement der Bundeswehr besteht aus der Leitung der Behörde oder deren Vertretung als Vorsitzender oder Vorsitzende sowie jeweils einem oder einer von der Landesregierung und von dem Vorstand der Bundesagentur für Arbeit zu benennenden Beisitzer oder Beisitzerin. Die Landesregierung kann das Recht zur Benennung der Beisitzer und Beisitzerinnen auf eine andere Behörde übertragen. Der Vorstand der Bundesagentur kann das Recht zur Benennung der Beisitzer und Beisitzerinnen auf die Geschäftsführungen der Regionaldirektionen übertragen. Soweit eine Unabkömmlichstellung widerrufen werden soll, die auf Vorschlag einer obersten Bundesbehörde erfolgte, besteht der Ausschuss bei dem Bundesamt für das Personalmanagement der Bundeswehr aus der Leitung der Behörde oder deren Vertretung als Vorsitzender oder Vorsitzende sowie jeweils einem oder einer von dem Bundesministerium für Arbeit und Soziales und von der obersten Bundesbehörde, die die Unabkömmlichstellung der Wehrpflichtigen oder der Dienstleistungspflichtigen vorgeschlagen hat, zu benennenden Beisitzer oder Beisitzerin.
 
-(3) Zuständig ist der Ausschuss bei der Wehrersatzbehörde, die die Unabkömmlichstellung abgelehnt oder widerrufen hat. Befinden sich der Sitz der vorschlagsberechtigten Behörde und der Sitz des Kreiswehrersatzamtes in verschiedenen Ländern, ist diejenige Landesregierung für die Entsendung des Beisitzers oder der Beisitzerin zuständig, in deren Zuständigkeitsbereich das Kreiswehrersatzamt seinen Sitz hat.
+(3) Zuständig ist der Ausschuss bei der Wehrersatzbehörde, die die Unabkömmlichstellung abgelehnt oder widerrufen hat. Befinden sich der Sitz der vorschlagsberechtigten Behörde und der Sitz des Karrierecenters der Bundeswehr in verschiedenen Ländern, so ist diejenige Landesregierung für die Entsendung des Beisitzers oder der Beisitzerin zuständig, in deren Zuständigkeitsbereich das Karrierecenter der Bundeswehr seinen Sitz hat.
 
 # § 7 – Inkrafttreten, Außerkrafttreten
 

@@ -2033,7 +2033,7 @@ c) als Schülerinnen und Schüler allgemein- oder berufsbildender Schulen währe
 
 d) einem Freiwilligendienst nach dem Bundesfreiwilligendienstgesetz oder dem Jugendfreiwilligendienstegesetz nachgehen,
 
-8. Aufwandsentschädigungen oder Einnahmen aus nebenberuflichen Tätigkeiten, die nach § 3 Nummer 12, Nummer 26 oder Nummer 26a des Einkommensteuergesetzes steuerfrei sind, soweit diese einen Betrag in Höhe von 3 000 Euro kalenderjährlich nicht überschreiten,
+8. Aufwandsentschädigungen oder Einnahmen aus nebenberuflichen Tätigkeiten, die nach § 3 Nummer 12, Nummer 26 oder Nummer 26a des Einkommensteuergesetzes steuerfrei sind, kalenderjährlich bis zur Höhe des in § 3 Nummer 26 des Einkommensteuergesetzes genannten Betrags,
 
 9. einmalige Einnahmen aus Erbschaften, Vermächtnissen und Pflichtteilszuwendungen,
 
@@ -3166,7 +3166,16 @@ bedarfsstufe 6</th>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">357</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1. Januar 2025</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1. Januar 2025</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">563</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">506</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">451</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">471</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">390</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">357</td>
+</tr>
+<tr class="even">
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1. Januar 2026</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">563</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">506</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">451</td>
@@ -3259,7 +3268,12 @@ zweite Schulhalbjahr</th>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">65 Euro</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2025</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2025</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">130 Euro</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">65 Euro</td>
+</tr>
+<tr class="even">
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2026</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">130 Euro</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50">65 Euro</td>
 </tr>

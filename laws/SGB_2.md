@@ -652,7 +652,7 @@ Für Abwesenheiten außerhalb des näheren Bereichs aufgrund der Ausübung einer
 
 4. Aufwandspauschalen nach § 1878 des Bürgerlichen Gesetzbuchs kalenderjährlich bis zu dem in § 3 Nummer 26 Satz 1 des Einkommensteuergesetzes genannten Betrag,
 
-5. Aufwandsentschädigungen oder Einnahmen aus nebenberuflichen Tätigkeiten, die nach § 3 Nummer 12, Nummer 26 oder Nummer 26a des Einkommensteuergesetzes steuerfrei sind, soweit diese Einnahmen einen Betrag in Höhe von 3 000 Euro im Kalenderjahr nicht überschreiten,
+5. Aufwandsentschädigungen oder Einnahmen aus nebenberuflichen Tätigkeiten, die nach § 3 Nummer 12, Nummer 26 oder Nummer 26a des Einkommensteuergesetzes steuerfrei sind, bis zur Höhe des in § 3 Nummer 26 des Einkommensteuergesetzes genannten Betrags,
 
 6. Mutterschaftsgeld nach § 19 des Mutterschutzgesetzes
 
@@ -862,9 +862,9 @@ Im Kooperationsplan kann auch festgehalten werden,
 
 5. Leistungen zur Aufnahme einer sozialversicherungspflichtigen Beschäftigung nach dem Ersten Unterabschnitt des Fünften Abschnitts.
 
-§ 1 Absatz 2 Nummer 4 sowie die §§ 36, 76 und 81 Absatz 2 und 3 des Dritten Buches sind entsprechend anzuwenden.
+§ 1 Absatz 2 Nummer 4 sowie die §§ 36 und 76 des Dritten Buches sind entsprechend anzuwenden.
 
-(2) Soweit dieses Buch nichts Abweichendes regelt, gelten für die Leistungen nach Absatz 1 die Regelungen des Dritten Buches mit Ausnahme der Verordnungsermächtigung nach § 47 des Dritten Buches sowie der Anordnungsermächtigungen für die Bundesagentur und mit der Maßgabe, dass an die Stelle des Arbeitslosengeldes das Bürgergeld nach § 19 Absatz 1 Satz 1 tritt. § 44 Absatz 3 Satz 3 des Dritten Buches gilt mit der Maßgabe, dass die Förderung aus dem Vermittlungsbudget auch die anderen Leistungen nach dem Zweiten Buch nicht aufstocken, ersetzen oder umgehen darf. Für die Teilnahme erwerbsfähiger Leistungsberechtigter an einer Maßnahme zur beruflichen Weiterbildung im Rahmen eines bestehenden Arbeitsverhältnisses werden Leistungen nach Absatz 1 Satz 2 Nummer 4 in Verbindung mit § 82 des Dritten Buches nicht gewährt, wenn die betreffende Maßnahme auf ein nach § 2 Absatz 1 des Aufstiegsfortbildungsförderungsgesetzes förderfähiges Fortbildungsziel vorbereitet.
+(2) Soweit dieses Buch nichts Abweichendes regelt, gelten für die Leistungen nach Absatz 1 die Regelungen des Dritten Buches mit Ausnahme der Verordnungsermächtigung nach § 47 des Dritten Buches sowie der Anordnungsermächtigungen für die Bundesagentur und mit der Maßgabe, dass an die Stelle des Arbeitslosengeldes das Bürgergeld nach § 19 Absatz 1 Satz 1 tritt. § 44 Absatz 3 Satz 3 des Dritten Buches gilt mit der Maßgabe, dass die Förderung aus dem Vermittlungsbudget auch die anderen Leistungen nach dem Zweiten Buch nicht aufstocken, ersetzen oder umgehen darf.
 
 (3) Abweichend von § 44 Absatz 1 Satz 1 des Dritten Buches können Leistungen auch für die Anbahnung und Aufnahme einer schulischen Berufsausbildung erbracht werden.
 

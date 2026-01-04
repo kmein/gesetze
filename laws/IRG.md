@@ -943,7 +943,7 @@ Im Zusammenhang mit deutschen Rechtshilfeersuchen kann einem ausländischen Staa
 
 kann die Urschrift bereits vor Abschluss des Verfahrens vernichtet werden. Verfahrensinterne Erklärungen des Betroffenen und Dritter sowie ihnen beigefügte einfache Abschriften können unter den Voraussetzungen von Satz 1 vernichtet werden.
 
-(7) Im Übrigen gelten für die elektronische Kommunikation und die elektronische Aktenführung § 32 Absatz 1 Satz 3 zweiter Halbsatz und Absatz 2, § 32a Absatz 3 und 4 Satz 1 Nummer 1 bis 5, Absatz 5 Satz 2 und Absatz 6 Satz 2, § 32b Absatz 1 bis 4, § 32c Satz 1 bis 4, § 32d Satz 1, § 32e Absatz 2 bis 4, die §§ 32f und 497 der Strafprozessordnung sowie § 15 Absatz 1 des Einführungsgesetzes zur Strafprozessordnung sinngemäß. Abweichend von § 32b Absatz 1 Satz 2 der Strafprozessordnung ist bei der automatisierten Herstellung eines zu signierenden elektronischen Dokuments statt seiner die begleitende Verfügung zu signieren. § 32c Satz 1 gilt mit der Maßgabe, dass die Zustimmung des Bundesrates nicht erforderlich ist.
+(7) Im Übrigen gelten für die elektronische Kommunikation und die elektronische Aktenführung § 32 Absatz 2, § 32a Absatz 3 und 4 Satz 1 Nummer 1 bis 5, Absatz 5 Satz 2 und Absatz 6 Satz 2, § 32b Absatz 1 bis 4, § 32c Satz 1 bis 4, § 32d Satz 1, § 32e Absatz 2 bis 4, die §§ 32f und 497 der Strafprozessordnung sowie § 15 Absatz 1 des Einführungsgesetzes zur Strafprozessordnung sinngemäß. Abweichend von § 32b Absatz 1 Satz 2 der Strafprozessordnung ist bei der automatisierten Herstellung eines zu signierenden elektronischen Dokuments statt seiner die begleitende Verfügung zu signieren. § 32c Satz 1 gilt mit der Maßgabe, dass die Zustimmung des Bundesrates nicht erforderlich ist.
 
 # § 77b – Verordnungsermächtigung
 

@@ -119,9 +119,9 @@ Diese Verordnung ist erstmals anzuwenden
 
 2. in allen anderen Fällen auf Besteuerungssachverhalte seit dem 17. Oktober 2011.
 
-# § 12 – Inkrafttreten
+# § 12 – Außerkrafttreten
 
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
+Diese Verordnung tritt am 30. Dezember 2025 außer Kraft.
 
 # Schlussformel
 

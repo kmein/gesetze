@@ -75,7 +75,7 @@ Besondere Nutzungen des Luftraumes, insbesondere überregionale Luftfahrtveranst
 
 # § 11 – Vorrang
 
-Bei der Durchführung der Flugverkehrskontrolle ist folgenden Flügen in der angegebenen Reihenfolge Vorrang einzuräumen:
+(1) Bei der Durchführung der Flugverkehrskontrolle ist folgenden Flügen in der angegebenen Reihenfolge Vorrang einzuräumen:
 
 1. Flüge, bei denen der Luftfahrzeugführer eine Notlage erklärt hat oder bei denen eine Notlage offensichtlich ist, einschließlich der von einem widerrechtlichen Eingriff betroffenen oder bedrohten Flüge;
 
@@ -85,7 +85,11 @@ Bei der Durchführung der Flugverkehrskontrolle ist folgenden Flügen in der ang
 
 4. Flüge mit kranken und verletzten Personen, die sofortiger ärztlicher Hilfe bedürfen;
 
-5. Regierungsflüge einschließlich Flüge mit Staatsoberhäuptern nach den Bestimmungen des Bundesministeriums für Verkehr und digitale Infrastruktur.
+5. Regierungsflüge einschließlich Flüge mit Staatsoberhäuptern nach den Bestimmungen des Bundesministeriums für Verkehr;
+
+6. Flüge, bei denen zum Schutz vor Angriffen auf die Sicherheit des zivilen Luftverkehrs eine Vorrangbehandlung erforderlich ist, soweit nicht Nummer 1 Anwendung findet.
+
+(2) Das Bundesministerium des Innern kann im Einvernehmen mit dem Bundesministerium für Verkehr allgemein oder im Einzelfall anordnen, in welchen Fällen eine Vorrangbehandlung nach Absatz 1 Nummer 6 zu erfolgen hat. Das Bundesministerium des Innern kann die Ermächtigung zum Erlass der Anordnungen nach Satz 1 dem Bundespolizeipräsidium übertragen.
 
 # § 12 – Aufgabe
 

@@ -2532,23 +2532,13 @@ außer wenn er nicht oder zu einem späteren Zeitpunkt zugegangen ist; im Zweife
 
 2. Ehegatten mit ihren Kindern, Lebenspartner mit ihren Kindern oder Alleinstehende mit ihren Kindern,
 
-so reicht es für die Bekanntgabe an alle Beteiligten aus, wenn ihnen eine Ausfertigung unter ihrer gemeinsamen Anschrift übermittelt wird. Die Verwaltungsakte sind den Beteiligten einzeln bekannt zu geben, soweit sie dies beantragt haben oder soweit der Finanzbehörde bekannt ist, dass zwischen ihnen ernstliche Meinungsverschiedenheiten bestehen.
+so reicht es für die Bekanntgabe an alle Beteiligten aus, wenn ihnen eine Ausfertigung unter ihrer gemeinsamen Anschrift übermittelt wird. Betreffen Verwaltungsakte Ehegatten oder Lebenspartner mit gemeinsamer Anschrift, so reicht es für die Bekanntgabe durch Bereitstellung zum Datenabruf nach § 122a an alle Beteiligten aus, wenn einem der Beteiligten eine Ausfertigung zum Datenabruf nach § 122a bereitgestellt wird und dieser Beteiligte nach § 122a Absatz 1 Satz 3 informiert wurde, sofern nicht einer der Beteiligten einen Antrag nach § 122a Absatz 2 gestellt hat. Die Verwaltungsakte sind den Beteiligten einzeln bekannt zu geben, soweit sie dies beantragt haben oder soweit der Finanzbehörde bekannt ist, dass zwischen ihnen ernstliche Meinungsverschiedenheiten bestehen.
 
 (+++ § 122: Zur Anwendung vgl. Art. 97 §§ 1 u. 80 AOEG 1977 +++)
 
-# § 122a – Bekanntgabe von Verwaltungsakten durch Bereitstellung zum Datenabruf *
+# § 122a – Bekanntgabe von Verwaltungsakten durch Bereitstellung zum Datenabruf
 
-(1) Verwaltungsakte können mit Einwilligung des Beteiligten oder der von ihm bevollmächtigten Person bekannt gegeben werden, indem sie zum Datenabruf durch Datenfernübertragung bereitgestellt werden.
-
-(2) Die Einwilligung kann jederzeit mit Wirkung für die Zukunft widerrufen werden. Der Widerruf wird der Finanzbehörde gegenüber erst wirksam, wenn er ihr zugeht.
-
-(3) Für den Datenabruf hat sich die abrufberechtigte Person nach Maßgabe des § 87a Absatz 8 zu authentisieren.
-
-(4) Ein zum Abruf bereitgestellter Verwaltungsakt gilt am vierten Tag nach Absendung der elektronischen Benachrichtigung über die Bereitstellung der Daten an die abrufberechtigte Person als bekannt gegeben. Im Zweifel hat die Behörde den Zugang der Benachrichtigung nachzuweisen. Kann die Finanzbehörde den von der abrufberechtigten Person bestrittenen Zugang der Benachrichtigung nicht nachweisen, gilt der Verwaltungsakt an dem Tag als bekannt gegeben, an dem die abrufberechtigte Person den Datenabruf durchgeführt hat. Das Gleiche gilt, wenn die abrufberechtigte Person unwiderlegbar vorträgt, die Benachrichtigung nicht innerhalb von vier Tagen nach der Absendung erhalten zu haben.
-
-(5) Entscheidet sich die Finanzbehörde, den Verwaltungsakt im Postfach des Nutzerkontos nach dem Onlinezugangsgesetz zum Datenabruf bereitzustellen, gelten abweichend von § 9 Absatz 1 Satz 3 bis 6 des Onlinezugangsgesetzes die Regelungen des Absatzes 4.
-
-(1) Verwaltungsakte können dem Beteiligten oder der von ihm bevollmächtigten Person bekannt gegeben werden, indem sie nach § 87a Absatz 8 zum Datenabruf bereitgestellt werden. Mittels Bereitstellung soll insbesondere bekannt gegeben werden, wenn ein Steuerbescheid, Steuermessbescheid oder Feststellungsbescheid auf einer nach § 87a Absatz 6 elektronisch übermittelten Steuererklärung oder Feststellungserklärung beruht und sie
+(1) Verwaltungsakte können dem Beteiligten oder der von ihm bevollmächtigten Person bekannt gegeben werden, indem sie nach § 87a Absatz 8 zum Datenabruf bereitgestellt werden. Mittels Bereitstellung soll insbesondere bekannt gegeben werden, wenn ein Steuerbescheid, Steuermessbescheid oder Feststellungsbescheid auf einer nach § 87a Absatz 6 elektronisch übermittelten Steuererklärung oder Feststellungserklärung beruht und sie
 
 1. vom Beteiligten selbst über ein von der Finanzverwaltung bereitgestelltes Nutzerkonto übermittelt wurde oder
 
@@ -2556,13 +2546,13 @@ so reicht es für die Bekanntgabe an alle Beteiligten aus, wenn ihnen eine Ausfe
 
 Die abrufberechtigte Person ist am Tag der Bereitstellung elektronisch über die Abrufmöglichkeit und ihre Rechtswirkungen zu benachrichtigen.
 
-(2) Absatz 1 ist nicht anzuwenden, wenn der Beteiligte eine einmalige oder dauerhafte postalische Bekanntgabe nach § 122 Absatz 2 beantragt hat. Der Antrag wirkt, ebenso wie dessen Widerruf, nur für die Zukunft; sie werden der Finanzbehörde gegenüber erst wirksam, wenn sie ihr zugehen.
+(2) Absatz 1 ist nicht anzuwenden, wenn der Beteiligte eine einmalige oder dauerhafte postalische Bekanntgabe nach § 122 Absatz 2 beantragt hat. Der Antrag wirkt, ebenso wie dessen Widerruf, nur für die Zukunft; sie werden der Finanzbehörde gegenüber erst wirksam, wenn sie ihr zugehen.
 
-(3) Für den Datenabruf hat sich die abrufberechtigte Person nach Maßgabe des § 87a Absatz 8 zu authentisieren.
+(3) Für den Datenabruf hat sich die abrufberechtigte Person nach Maßgabe des § 87a Absatz 8 zu authentisieren.
 
-(4) Ein zum Abruf bereitgestellter Verwaltungsakt gilt am vierten Tag nach der Bereitstellung zum Abruf als bekannt gegeben. Im Zweifel hat die Behörde den Zeitpunkt der Bereitstellung zum Abruf nachzuweisen.
+(4) Ein zum Abruf bereitgestellter Verwaltungsakt gilt am vierten Tag nach der Bereitstellung zum Abruf als bekannt gegeben. Im Zweifel hat die Behörde den Zeitpunkt der Bereitstellung zum Abruf nachzuweisen.
 
-(5) Die Absätze 1 bis 4 sind auch dann anzuwenden, wenn die Finanzbehörde den Verwaltungsakt im Postfach des Nutzerkontos nach dem Onlinezugangsgesetz zum Abruf bereitstellen will.“
+(5) Die Absätze 1 bis 4 sind auch dann anzuwenden, wenn die Finanzbehörde den Verwaltungsakt im Postfach des Nutzerkontos nach dem Onlinezugangsgesetz zum Abruf bereitstellen will.
 
 (+++ § 122a: Zur Anwendung vgl. Art. 97 §§ 1 u. 28 AOEG 1977 +++)  
 (+++ § 122a Abs. 3 u. 4: Zur Anwendung vgl. § 50c Abs. 5 EStG +++)
@@ -4091,7 +4081,11 @@ Eine Steueranmeldung steht einer Steuerfestsetzung unter Vorbehalt der Nachprüf
 
 (1) Eine Steuerfestsetzung sowie ihre Aufhebung oder Änderung sind nicht mehr zulässig, wenn die Festsetzungsfrist abgelaufen ist. Dies gilt auch für die Berichtigung wegen offenbarer Unrichtigkeit nach § 129. Die Frist ist gewahrt, wenn vor Ablauf der Festsetzungsfrist
 
-1. der Steuerbescheid oder im Fall des § 122a die elektronische Benachrichtigung den Bereich der für die Steuerfestsetzung zuständigen Finanzbehörde verlassen hat oder<span id="FnR.F832391_5"></span><a href="#F832391_5" class="FnR">*</a></sup>
+1. der Steuerbescheid
+
+a) im Fall des § 122 Absatz 2, 2a oder Absatz 5 den Bereich der für die Steuerfestsetzung zuständigen Finanzbehörde verlassen hat oder
+
+b) im Fall des § 122a zum Abruf bereitgestellt worden ist oder
 
 2. bei öffentlicher Zustellung nach § 10 des Verwaltungszustellungsgesetzes die Benachrichtigung bekannt gemacht oder veröffentlicht wird.
 

@@ -199,7 +199,7 @@ Für die Verjährung der Ansprüche auf Beitragsanteile gilt § 25 des Vierten B
 
 # § 20
 
-Die Künstlersozialkasse hat dem Versicherten und dem Zuschußberechtigten jährlich eine Abrechnung zu erteilen, aus der die Berechnung der von ihm und für ihn erbrachten Beitragsleistungen ersichtlich ist. Die Jahresabrechnung gilt als Bescheinigung im Sinne des § 25 der Datenerfassungs- und -übermittlungsverordnung.
+Die Künstlersozialkasse hat dem Versicherten und dem Zuschußberechtigten jährlich eine Abrechnung zu erteilen, aus der die Berechnung der von ihm und für ihn erbrachten Beitragsleistungen ersichtlich ist. Die Jahresabrechnung gilt als Mitteilung im Sinne des § 28a Absatz 5 des Vierten Buches Sozialgesetzbuch.
 
 # § 21
 

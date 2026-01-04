@@ -4037,9 +4037,9 @@ Das Bundesministerium der Justiz kann die Ermächtigungen des Satzes 1 durch Rec
 
 (4) Auf die elektronische Aktenführung des Gerichts und die Kommunikation mit dem Gericht nach den Absätzen 1 bis 3 sind die folgenden Vorschriften entsprechend anzuwenden:
 
-1. § 110a Absatz 1 Satz 1 und § 110c des Gesetzes über Ordnungswidrigkeiten sowie
+1. § 110a Absatz 1 und § 110c des Gesetzes über Ordnungswidrigkeiten sowie
 
-2. § 110a Absatz 1 Satz 2 und 3, Absatz 2 Satz 1 und § 134 Satz 1 des Gesetzes über Ordnungswidrigkeiten mit der Maßgabe, dass die Landesregierung des Landes, in dem das Bundesamt seinen Sitz hat, die Rechtsverordnung erlässt und die Ermächtigungen durch Rechtsverordnung auf die Landesjustizverwaltung übertragen kann.
+2. § 110a Absatz 2 Satz 1 und § 134 Satz 1 des Gesetzes über Ordnungswidrigkeiten mit der Maßgabe, dass die Landesregierung des Landes, in dem das Bundesamt seinen Sitz hat, die Rechtsverordnung erlässt und die Ermächtigungen durch Rechtsverordnung auf die Landesjustizverwaltung übertragen kann.
 
 (+++ § 335a: Zur Anwendung vgl. § 45 Abs. 3 Satz 3, § 123 Abs. 1 Satz 2 u. § 160 Abs. 1 KAGB +++)  
 (+++ § 335a Abs. 3: Zur erstmaligen Anwendung vgl. Art. 70 Abs. 3 Satz 2 HGBEG +++)

@@ -7,9 +7,9 @@
 
 1. der Bundesbehörden und der Landesbehörden nach dem Gesetz über die Beförderung gefährlicher Güter und den auf der Grundlage dieses Gesetzes erlassenen Rechtsverordnungen,
 
-2. der Prüfstellen nach § 9 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt und nach § 12 Absatz 1 Nummer 8 der Gefahrgutverordnung See,
+2. der Prüfstellen nach § 12 Absatz 1 Nummer 8 der Gefahrgutverordnung See,
 
-3. der Benannten Stellen nach § 12 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt und nach § 16 Absatz 2 der Gefahrgutverordnung See,
+3. der Prüfstellen nach § 12 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt und nach § 16 Absatz 2 der Gefahrgutverordnung See,
 
 4. der Benannten Stellen für Druckgefäße nach § 13 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt und nach § 16 Absatz 1 der Gefahrgutverordnung See,
 

@@ -194,11 +194,7 @@ das Ersuchen um Datenübermittlung mit dem Datum der Anfrage und der Angabe der 
 
 10. für die Prüfung, ob die von der meldepflichtigen Person gemachten Angaben richtig sind, und zur Gewährleistung der Auskunftsrechte in § 19 Absatz 1 Satz 3 und § 50 Absatz 4
 
-den Namen und die Anschrift des Eigentümers der Wohnung und, wenn dieser nicht selbst Wohnungsgeber ist, den Namen des Eigentümers der Wohnung sowie den Namen und die Anschrift des Wohnungsgebers,
-
-11. im Spannungs- oder Verteidigungsfall für die Wehrerfassung
-
-die Tatsache, dass ein Einwohner bereits vor der Erfassung seines Jahrganges erfasst worden ist.
+den Namen und die Anschrift des Eigentümers der Wohnung und, wenn dieser nicht selbst Wohnungsgeber ist, den Namen des Eigentümers der Wohnung sowie den Namen und die Anschrift des Wohnungsgebers.
 
 # § 4 – Ordnungsmerkmale
 
@@ -842,9 +838,7 @@ Im Rahmen von Tätigkeiten, die ganz oder teilweise in den Anwendungsbereich des
 
 # § 36 – Regelmäßige Datenübermittlungen
 
-(1) Datenübermittlungen an andere öffentliche Stellen, die ohne Ersuchen in allgemein bestimmten Fällen regelmäßig wiederkehrend durchgeführt werden (regelmäßige Datenübermittlungen), sind zulässig, soweit dies durch Bundes- oder Landesrecht bestimmt ist, in dem Anlass und Zweck der Übermittlungen, der Empfänger und die zu übermittelnden Daten festgelegt sind.
-
-(2) Eine Datenübermittlung nach § 58c Absatz 1 Satz 1 des Soldatengesetzes ist nur zulässig, soweit die betroffene Person nicht widersprochen hat. Bei einem Widerspruch hat die betroffene Person gegenüber der Meldebehörde ein Recht auf unentgeltliche Einrichtung einer Übermittlungssperre. Die betroffene Person ist auf ihr Widerspruchsrecht bei der Anmeldung und spätestens im Oktober eines jeden Jahres durch ortsübliche Bekanntmachung hinzuweisen.
+Datenübermittlungen an andere öffentliche Stellen, die ohne Ersuchen in allgemein bestimmten Fällen regelmäßig wiederkehrend durchgeführt werden (regelmäßige Datenübermittlungen), sind zulässig, soweit dies durch Bundes- oder Landesrecht bestimmt ist, in dem Anlass und Zweck der Übermittlungen, der Empfänger und die zu übermittelnden Daten festgelegt sind.
 
 # § 37 – Datenweitergabe
 
@@ -1037,7 +1031,7 @@ h) Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52,
 
 9. Sterbedatum.
 
-(3) Familienangehörige im Sinne des Absatzes 2 sind der Ehegatte oder Lebenspartner, minderjährige Kinder und die Eltern von minderjährigen Kindern. Familienangehörige, die nicht derselben oder keiner öffentlich-rechtlichen Religionsgesellschaft angehören, haben das Recht, der Übermittlung ihrer Daten zu widersprechen; sie sind auf dieses Recht bei der Anmeldung nach § 17 Absatz 1 sowie einmal jährlich durch ortsübliche Bekanntmachung hinzuweisen. § 36 Absatz 2 Satz 2 gilt entsprechend. Satz 2 gilt nicht, soweit Daten für Zwecke des Steuererhebungsrechts der jeweiligen öffentlich-rechtlichen Religionsgesellschaft übermittelt werden.
+(3) Familienangehörige im Sinne des Absatzes 2 sind der Ehegatte oder Lebenspartner, minderjährige Kinder und die Eltern von minderjährigen Kindern. Familienangehörige, die nicht derselben oder keiner öffentlich-rechtlichen Religionsgesellschaft angehören, haben das Recht, der Übermittlung ihrer Daten zu widersprechen; sie sind auf dieses Recht bei der Anmeldung nach § 17 Absatz 1 sowie einmal jährlich durch ortsübliche Bekanntmachung hinzuweisen. Bei einem Widerspruch hat die betroffene Person gegenüber der Meldebehörde ein Recht auf unentgeltliche Einrichtung einer Übermittlungssperre. Satz 2 gilt nicht, soweit Daten für Zwecke des Steuererhebungsrechts der jeweiligen öffentlich-rechtlichen Religionsgesellschaft übermittelt werden.
 
 (4) Für Datenübermittlungen nach den Absätzen 1 und 2 gilt § 34 Absatz 5 entsprechend.
 
@@ -1255,7 +1249,7 @@ Die übermittelten Daten dürfen nur für die Herausgabe von Adressbüchern (Adr
 
 (4) Die Meldebehörde hat dem Eigentümer der Wohnung und, wenn er nicht selbst Wohnungsgeber ist, auch dem Wohnungsgeber bei Glaubhaftmachung eines rechtlichen Interesses unentgeltlich Auskunft über Familiennamen und Vornamen sowie Doktorgrad der in seiner Wohnung gemeldeten Einwohner zu erteilen. Die Auskunft kann auf Antrag des Auskunftsberechtigten im elektronischen Verfahren erteilt werden; § 10 Absatz 2 und 3 gilt entsprechend.
 
-(5) Die betroffene Person hat das Recht, der Übermittlung ihrer Daten nach den Absätzen 1 bis 3 zu widersprechen; hierauf ist bei der Anmeldung nach § 17 Absatz 1 sowie einmal jährlich durch ortsübliche Bekanntmachung hinzuweisen. § 36 Absatz 2 Satz 2 gilt entsprechend.
+(5) Die betroffene Person hat das Recht, der Übermittlung ihrer Daten nach den Absätzen 1 bis 3 zu widersprechen; hierauf ist bei der Anmeldung nach § 17 Absatz 1 sowie einmal jährlich durch ortsübliche Bekanntmachung hinzuweisen. Bei einem Widerspruch hat die betroffene Person gegenüber der Meldebehörde ein Recht auf unentgeltliche Einrichtung einer Übermittlungssperre.
 
 (6) Eine Erteilung von Auskünften nach den Absätzen 1 bis 3 unterbleibt, wenn eine Auskunftssperre nach § 51 vorliegt. Eine Auskunft nach Absatz 3 darf außerdem nicht erteilt werden, wenn ein bedingter Sperrvermerk nach § 52 eingetragen ist.
 

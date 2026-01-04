@@ -428,7 +428,7 @@ Abschnitt 9</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 72</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsvorschrift aus Anlass des Inkrafttretens dieses Gesetzes</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsvorschrift zum Gesetz zur Änderung des Zuständigkeitsstreitwerts der Amtsgerichte, zum Ausbau der Spezialisierung der Justiz in Zivilsachen sowie zur Änderung weiterer prozessualer Regelungen</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 73</td>
@@ -1206,7 +1206,7 @@ In gerichtlichen Verfahren nach dem Strafvollzugsgesetz, auch in Verbindung mit 
 
 (1) Über Erinnerungen des Kostenschuldners und der Staatskasse gegen den Kostenansatz entscheidet das Gericht, bei dem die Kosten angesetzt sind. Sind die Kosten bei der Staatsanwaltschaft angesetzt, ist das Gericht des ersten Rechtszugs zuständig. War das Verfahren im ersten Rechtszug bei mehreren Gerichten anhängig, ist das Gericht, bei dem es zuletzt anhängig war, auch insoweit zuständig, als Kosten bei den anderen Gerichten angesetzt worden sind. Soweit sich die Erinnerung gegen den Ansatz der Auslagen des erstinstanzlichen Musterverfahrens nach dem Kapitalanleger-Musterverfahrensgesetz richtet, entscheidet hierüber das für die Durchführung des Musterverfahrens zuständige Oberlandesgericht.
 
-(2) Gegen die Entscheidung über die Erinnerung findet die Beschwerde statt, wenn der Wert des Beschwerdegegenstands 200 Euro übersteigt. Die Beschwerde ist auch zulässig, wenn sie das Gericht, das die angefochtene Entscheidung erlassen hat, wegen der grundsätzlichen Bedeutung der zur Entscheidung stehenden Frage in dem Beschluss zulässt.
+(2) Gegen die Entscheidung über die Erinnerung findet die Beschwerde statt, wenn der Wert des Beschwerdegegenstands 300 Euro übersteigt. Die Beschwerde ist auch zulässig, wenn sie das Gericht, das die angefochtene Entscheidung erlassen hat, wegen der grundsätzlichen Bedeutung der zur Entscheidung stehenden Frage in dem Beschluss zulässt.
 
 (3) Soweit das Gericht die Beschwerde für zulässig und begründet hält, hat es ihr abzuhelfen; im Übrigen ist die Beschwerde unverzüglich dem Beschwerdegericht vorzulegen. Beschwerdegericht ist das nächsthöhere Gericht. Eine Beschwerde an einen obersten Gerichtshof des Bundes findet nicht statt. Das Beschwerdegericht ist an die Zulassung der Beschwerde gebunden; die Nichtzulassung ist unanfechtbar.
 
@@ -1232,7 +1232,7 @@ In gerichtlichen Verfahren nach dem Strafvollzugsgesetz, auch in Verbindung mit 
 
 # § 68 – Beschwerde gegen die Festsetzung des Streitwerts
 
-(1) Gegen den Beschluss, durch den der Wert für die Gerichtsgebühren festgesetzt worden ist (§ 63 Absatz 2), findet die Beschwerde statt, wenn der Wert des Beschwerdegegenstands 200 Euro übersteigt. Die Beschwerde findet auch statt, wenn sie das Gericht, das die angefochtene Entscheidung erlassen hat, wegen der grundsätzlichen Bedeutung der zur Entscheidung stehenden Frage in dem Beschluss zulässt. Die Beschwerde ist nur zulässig, wenn sie innerhalb der in § 63 Absatz 3 Satz 2 bestimmten Frist eingelegt wird; ist der Streitwert später als einen Monat vor Ablauf dieser Frist festgesetzt worden, kann sie noch innerhalb eines Monats nach Zustellung oder formloser Mitteilung des Festsetzungsbeschlusses eingelegt werden. Im Fall der formlosen Mitteilung gilt der Beschluss mit dem vierten Tag nach Aufgabe zur Post als bekannt gemacht. § 66 Absatz 3, 4, 5 Satz 1, 2 und 5 sowie Absatz 6 ist entsprechend anzuwenden. Die weitere Beschwerde ist innerhalb eines Monats nach Zustellung der Entscheidung des Beschwerdegerichts einzulegen.
+(1) Gegen den Beschluss, durch den der Wert für die Gerichtsgebühren festgesetzt worden ist (§ 63 Absatz 2), findet die Beschwerde statt, wenn der Wert des Beschwerdegegenstands 300 Euro übersteigt. Die Beschwerde findet auch statt, wenn sie das Gericht, das die angefochtene Entscheidung erlassen hat, wegen der grundsätzlichen Bedeutung der zur Entscheidung stehenden Frage in dem Beschluss zulässt. Die Beschwerde ist nur zulässig, wenn sie innerhalb der in § 63 Absatz 3 Satz 2 bestimmten Frist eingelegt wird; ist der Streitwert später als einen Monat vor Ablauf dieser Frist festgesetzt worden, kann sie noch innerhalb eines Monats nach Zustellung oder formloser Mitteilung des Festsetzungsbeschlusses eingelegt werden. Im Fall der formlosen Mitteilung gilt der Beschluss mit dem vierten Tag nach Aufgabe zur Post als bekannt gemacht. § 66 Absatz 3, 4, 5 Satz 1, 2 und 5 sowie Absatz 6 ist entsprechend anzuwenden. Die weitere Beschwerde ist innerhalb eines Monats nach Zustellung der Entscheidung des Beschwerdegerichts einzulegen.
 
 (2) War der Beschwerdeführer ohne sein Verschulden verhindert, die Frist einzuhalten, ist ihm auf Antrag von dem Gericht, das über die Beschwerde zu entscheiden hat, Wiedereinsetzung in den vorigen Stand zu gewähren, wenn er die Beschwerde binnen zwei Wochen nach der Beseitigung des Hindernisses einlegt und die Tatsachen, welche die Wiedereinsetzung begründen, glaubhaft macht. Ein Fehlen des Verschuldens wird vermutet, wenn eine Rechtsbehelfsbelehrung unterblieben oder fehlerhaft ist. Nach Ablauf eines Jahres, von dem Ende der versäumten Frist an gerechnet, kann die Wiedereinsetzung nicht mehr beantragt werden. Gegen die Ablehnung der Wiedereinsetzung findet die Beschwerde statt. Sie ist nur zulässig, wenn sie innerhalb von zwei Wochen eingelegt wird. Die Frist beginnt mit der Zustellung der Entscheidung. § 66 Absatz 3 Satz 1 bis 3, Absatz 5 Satz 1, 2 und 5 sowie Absatz 6 ist entsprechend anzuwenden.
 
@@ -1240,7 +1240,7 @@ In gerichtlichen Verfahren nach dem Strafvollzugsgesetz, auch in Verbindung mit 
 
 # § 69 – Beschwerde gegen die Auferlegung einer Verzögerungsgebühr
 
-Gegen den Beschluss nach § 38 findet die Beschwerde statt, wenn der Wert des Beschwerdegegenstands 200 Euro übersteigt oder das Gericht, das die angefochtene Entscheidung erlassen hat, die Beschwerde wegen der grundsätzlichen Bedeutung in dem Beschluss der zur Entscheidung stehenden Frage zugelassen hat. § 66 Absatz 3, 4, 5 Satz 1, 2 und 5, Absatz 6 und 8 ist entsprechend anzuwenden.
+Gegen den Beschluss nach § 38 findet die Beschwerde statt, wenn der Wert des Beschwerdegegenstands 300 Euro übersteigt oder das Gericht, das die angefochtene Entscheidung erlassen hat, die Beschwerde wegen der grundsätzlichen Bedeutung in dem Beschluss der zur Entscheidung stehenden Frage zugelassen hat. § 66 Absatz 3, 4, 5 Satz 1, 2 und 5, Absatz 6 und 8 ist entsprechend anzuwenden.
 
 # § 69a – Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
 
@@ -1286,15 +1286,17 @@ Das Bundesministerium der Justiz kann nach Änderungen den Wortlaut des Gesetzes
 
 (3) In Insolvenzverfahren, Verteilungsverfahren nach der Schifffahrtsrechtlichen Verteilungsordnung und Verfahren der Zwangsversteigerung und Zwangsverwaltung gilt das bisherige Recht für Kosten, die vor dem Inkrafttreten einer Gesetzesänderung fällig geworden sind.
 
-# § 72 – Übergangsvorschrift aus Anlass des Inkrafttretens dieses Gesetzes
+# § 72 – Übergangsvorschrift zum Gesetz zur Änderung des Zuständigkeitsstreitwerts der Amtsgerichte, zum Ausbau der Spezialisierung der Justiz in Zivilsachen sowie zur Änderung weiterer prozessualer Regelungen
 
-Das Gerichtskostengesetz in der Fassung der Bekanntmachung vom 15. Dezember 1975 (BGBl. I S. 3047), zuletzt geändert durch Artikel 2 Absatz 5 des Gesetzes vom 12. März 2004 (BGBl. I S. 390), und Verweisungen hierauf sind weiter anzuwenden
+Die §§ 66, 68 und 69 sind in ihrer bis einschließlich 31. Dezember 2025 geltenden Fassung weiter anzuwenden
 
-1. in Rechtsstreitigkeiten, die vor dem 1. Juli 2004 anhängig geworden sind; dies gilt nicht im Verfahren über ein Rechtsmittel, das nach dem 1. Juli 2004 eingelegt worden ist;
+1. in Rechtsstreitigkeiten, die vor dem 1. Januar 2026 anhängig geworden sind; dies gilt nicht im Verfahren über ein Rechtsmittel, das nach dem 31. Dezember 2025 eingelegt worden ist;
 
-2. in Strafsachen, in gerichtlichen Verfahren nach dem Gesetz über Ordnungswidrigkeiten und nach dem Strafvollzugsgesetz, wenn die über die Kosten ergehende Entscheidung vor dem 1. Juli 2004 rechtskräftig geworden ist;
+2. in Strafsachen, in gerichtlichen Verfahren nach dem Gesetz über Ordnungswidrigkeiten und nach dem Strafvollzugsgesetz, wenn die über die Kosten ergehende Entscheidung vor dem 1. Januar 2026 rechtskräftig geworden ist;
 
-3. in Insolvenzverfahren, Verteilungsverfahren nach der Schifffahrtsrechtlichen Verteilungsordnung und Verfahren der Zwangsversteigerung und Zwangsverwaltung für Kosten, die vor dem 1. Juli 2004 fällig geworden sind.
+3. in Insolvenzverfahren, in Verteilungsverfahren nach der Schifffahrtsrechtlichen Verteilungsordnung, in Verfahren nach dem Unternehmensstabilisierungs- und -restrukturierungsgesetz, in Umsetzungsverfahren nach dem Verbraucherrechtedurchsetzungsgesetz sowie in Verfahren der Zwangsversteigerung und Zwangsverwaltung für Kosten, die vor dem 1. Januar 2026 fällig geworden sind.
+
+Satz 1 gilt entsprechend bei Verweisungen auf die dort genannten Vorschriften.
 
 # § 73 – Übergangsvorschrift für die Erhebung von Haftkosten
 

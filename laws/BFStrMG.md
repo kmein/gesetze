@@ -694,7 +694,7 @@ Fahrzeuge der Schadstoffklasse EURO I sowie Fahrzeuge, die keiner EURO-Schadstof
 
 gg)  
 Kategorie G  
-Umweltfreundlichere Fahrzeuge als Kategorie A (inklusive emissionsfreie Fahrzeuge ab dem 1. Januar 2026).
+Umweltfreundlichere Fahrzeuge als Kategorie A.
 
 3. Mautteilsatz für die verursachten Lärmbelastungskosten je Kilometer differenziert nach technisch zulässiger Gesamtmasse und Achsanzahl für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen nach § 3 Absatz 1 Nummer 3 in Euro:
 

@@ -3,97 +3,100 @@
  
 # Inhaltsübersicht
 
-|                                        |                                                                                                |
+|                                        |                                                                                                                       |
 |:-------|:--------------------------------------------------------------:|
-|                                        |                                        Erster Abschnitt                                        |
-|                                        |                       Zweck, Anwendungsbereich und Begriffsbestimmungen                        |
-| § 1                                    |                                       Zweck des Gesetzes                                       |
-| § 2                                    |                                       Anwendungsbereich                                        |
-| § 3                                    |                                      Begriffsbestimmungen                                      |
-| § 3a                                   |                          Gefährliche Stoffe und gefährliche Gemische                           |
-| § 3b                                   |                                         (weggefallen)                                          |
-|                                        |                                       Zweiter Abschnitt                                        |
-|                                        |      Durchführung der Verordnung (EG) Nr. 1907/2006 und der Verordnung (EG) Nr. 1272/2008      |
-| § 4                                    |                                   Beteiligte Bundesbehörden                                    |
-| § 5                                    |                           Aufgaben der Bundesstelle für Chemikalien                            |
-| § 6                                    |                                 Aufgaben der Bewertungsstellen                                 |
-| § 7                                    | Zusammenarbeit der Bundesstelle für Chemikalien und der anderen beteiligten Bundesoberbehörden |
-| § 8                                    |                        Gebührenfreiheit der nationalen Auskunftsstelle                         |
-| § 9                                    |                   Informationsaustausch zwischen Bundes- und Landesbehörden                    |
-| § 10                                   |                                      Vorläufige Maßnahmen                                      |
-| § 11                                   |                                         (weggefallen)                                          |
-| § 12                                   |                                         (weggefallen)                                          |
-|                                        |                                          Abschnitt 2a                                          |
-|                                        |                         Durchführung der Verordnung (EU) Nr. 528/2012                          |
-| § 12a                                  |                                   Beteiligte Bundesbehörden                                    |
-| § 12b                                  |                           Aufgaben der Bundesstelle für Chemikalien                            |
-| § 12c                                  |                                 Aufgaben der Bewertungsstellen                                 |
-| § 12d                                  | Zusammenarbeit der Bundesstelle für Chemikalien und der anderen beteiligten Bundesoberbehörden |
-| § 12e                                  |                       Auskunftsstelle, Unterrichtung der Öffentlichkeit                        |
-| § 12f                                  |                   Informationsaustausch zwischen Bundes- und Landesbehörden                    |
-| § 12g                                  |          Anordnungsbefugnisse der Bundesstelle für Chemikalien, vorläufige Maßnahmen           |
-| § 12h                                  |                                   Verordnungsermächtigungen                                    |
-|                                        |                                          Abschnitt 2b                                          |
-|                                        |                         Durchführung der Verordnung (EU) Nr. 517/2014                          |
-| § 12i                                  |              Ergänzende Pflichten zu Kapitel III der Verordnung (EU) Nr. 517/2014              |
-| § 12j                                  |              Ergänzende Pflichten zu Kapitel IV der Verordnung (EU) Nr. 517/2014               |
-| § 12k                                  |                                   Verordnungsermächtigungen                                    |
-|                                        |                                       Dritter Abschnitt                                        |
-|                                        |                            Einstufung, Kennzeichnung und Verpackung                            |
-| § 13                                   |                     Einstufungs-, Kennzeichnungs- und Verpackungspflichten                     |
-| § 14                                   |           Ermächtigung zu Einstufungs-, Kennzeichnungs- und Verpackungsvorschriften            |
-| § 15                                   |                                         (weggefallen)                                          |
-| § 15a                                  |                                         (weggefallen)                                          |
-|                                        |                                       Vierter Abschnitt                                        |
-|                                        |                                      Mitteilungspflichten                                      |
-| §§ 16 bis 16c                          |                                         (weggefallen)                                          |
-| § 16d                                  |                               Mitteilungspflichten bei Gemischen                               |
-| § 16e                                  |        Mitteilungen für die gesundheitliche Notversorgung und für vorbeugende Maßnahmen        |
-| § 16f                                  |                              Informationspflicht der Lieferanten                               |
-|                                        |                                          Abschnitt 4a                                          |
-|                                        |                                      (zukünftig in Kraft)                                      |
-| §§ 16g bis 16l                         |                                      (zukünftig in Kraft)                                      |
-|                                        |                                       Fünfter Abschnitt                                        |
-|                                        |  Ermächtigung zu Verboten und Beschränkungen sowie zu Maßnahmen zum Schutz von Beschäftigten   |
-| § 17                                   |                                   Verbote und Beschränkungen                                   |
-| § 18                                   |                                   Giftige Tiere und Pflanzen                                   |
-| § 19                                   |                             Maßnahmen zum Schutz von Beschäftigten                             |
-|                                        |                                       Sechster Abschnitt                                       |
-|                                        |                                        Gute Laborpraxis                                        |
-| § 19a                                  |                                     Gute Laborpraxis (GLP)                                     |
-| § 19b                                  |                                       GLP-Bescheinigung                                        |
-| § 19c                                  |                                       Berichterstattung                                        |
-| § 19d                                  |                                    Ergänzende Vorschriften                                     |
-|                                        |                                       Siebter Abschnitt                                        |
-|                                        |                                    Allgemeine Vorschriften                                     |
-| § 20                                   |                 Antrags- und Mitteilungsunterlagen, Verordnungsermächtigungen                  |
-| § 20a                                  |                                         (weggefallen)                                          |
-| § 20b                                  |                                           Ausschüsse                                           |
-| § 21                                   |                                          Überwachung                                           |
-| § 21a                                  |                                   Mitwirkung von Zollstellen                                   |
-| § 22                                   |                                     Informationspflichten                                      |
-| § 23                                   |                                    Behördliche Anordnungen                                     |
-| § 24                                   |                               Vollzug im Bereich der Bundeswehr                                |
-| § 25                                   |                       Angleichung an Gemeinschaftsrecht oder Unionsrecht                       |
-| § 25a                                  |                             Aufwendungen des Auskunftspflichtigen                              |
-| § 26                                   |                          Bußgeldvorschriften, Verordnungsermächtigung                          |
-| § 27                                   |                           Strafvorschriften, Verordnungsermächtigung                           |
-| § 27a                                  |                  Unwahre GLP-Erklärungen, Erschleichen der GLP-Bescheinigung                   |
-| § 27b                                  |                   Zuwiderhandlungen gegen die Verordnung (EG) Nr. 1907/2006                    |
-| § 27c                                  |                           Zuwiderhandlungen gegen Abgabevorschriften                           |
-| § 27d                                  |                                           Einziehung                                           |
-|                                        |                                        Achter Abschnitt                                        |
-|                                        |                                      Schlussvorschriften                                       |
-| § 28                                   |                                       Übergangsregelung                                        |
-| § 29                                   |                                       (Außerkrafttreten)                                       |
-| § 30                                   |                                         Berlin-Klausel                                         |
-| § 31                                   |                                        (Inkrafttreten)                                         |
-| Anhang 1                               |                                                                                                |
-| Grundsätze der Guten Laborpraxis (GLP) |                                                                                                |
-| Anhang 2                               |                                                                                                |
-| GLP-Bescheinigung                      |                                                                                                |
-
-Inhaltsübersicht (zu Abschnitt 4a) Kursivdruck: Abschnitt 4a tritt gem. Art. 1 Nr. 9 iVm Art. 3 Abs. 2 G v. 16.11.2023 I Nr. 313 am 1.1.2026 in Kraft
+|                                        |                                                   Erster Abschnitt                                                    |
+|                                        |                                   Zweck, Anwendungsbereich und Begriffsbestimmungen                                   |
+| § 1                                    |                                                  Zweck des Gesetzes                                                   |
+| § 2                                    |                                                   Anwendungsbereich                                                   |
+| § 3                                    |                                                 Begriffsbestimmungen                                                  |
+| § 3a                                   |                                      Gefährliche Stoffe und gefährliche Gemische                                      |
+| § 3b                                   |                                                     (weggefallen)                                                     |
+|                                        |                                                   Zweiter Abschnitt                                                   |
+|                                        |                 Durchführung der Verordnung (EG) Nr. 1907/2006 und der Verordnung (EG) Nr. 1272/2008                  |
+| § 4                                    |                                               Beteiligte Bundesbehörden                                               |
+| § 5                                    |                                       Aufgaben der Bundesstelle für Chemikalien                                       |
+| § 6                                    |                                            Aufgaben der Bewertungsstellen                                             |
+| § 7                                    |            Zusammenarbeit der Bundesstelle für Chemikalien und der anderen beteiligten Bundesoberbehörden             |
+| § 8                                    |                                    Gebührenfreiheit der nationalen Auskunftsstelle                                    |
+| § 9                                    |                               Informationsaustausch zwischen Bundes- und Landesbehörden                               |
+| § 10                                   |                                                 Vorläufige Maßnahmen                                                  |
+| § 11                                   |                                                     (weggefallen)                                                     |
+| § 12                                   |                                                     (weggefallen)                                                     |
+|                                        |                                                     Abschnitt 2a                                                      |
+|                                        |                                     Durchführung der Verordnung (EU) Nr. 528/2012                                     |
+| § 12a                                  |                                               Beteiligte Bundesbehörden                                               |
+| § 12b                                  |                                       Aufgaben der Bundesstelle für Chemikalien                                       |
+| § 12c                                  |                                            Aufgaben der Bewertungsstellen                                             |
+| § 12d                                  |            Zusammenarbeit der Bundesstelle für Chemikalien und der anderen beteiligten Bundesoberbehörden             |
+| § 12e                                  |                                   Auskunftsstelle, Unterrichtung der Öffentlichkeit                                   |
+| § 12f                                  |                               Informationsaustausch zwischen Bundes- und Landesbehörden                               |
+| § 12g                                  |                      Anordnungsbefugnisse der Bundesstelle für Chemikalien, vorläufige Maßnahmen                      |
+| § 12h                                  |                                               Verordnungsermächtigungen                                               |
+|                                        |                                                     Abschnitt 2b                                                      |
+|                                        |                                     Durchführung der Verordnung (EU) Nr. 517/2014                                     |
+| § 12i                                  |                         Ergänzende Pflichten zu Kapitel III der Verordnung (EU) Nr. 517/2014                          |
+| § 12j                                  |                          Ergänzende Pflichten zu Kapitel IV der Verordnung (EU) Nr. 517/2014                          |
+| § 12k                                  |                                               Verordnungsermächtigungen                                               |
+|                                        |                                                   Dritter Abschnitt                                                   |
+|                                        |                                       Einstufung, Kennzeichnung und Verpackung                                        |
+| § 13                                   |                                Einstufungs-, Kennzeichnungs- und Verpackungspflichten                                 |
+| § 14                                   |                       Ermächtigung zu Einstufungs-, Kennzeichnungs- und Verpackungsvorschriften                       |
+| § 15                                   |                                                     (weggefallen)                                                     |
+| § 15a                                  |                                                     (weggefallen)                                                     |
+|                                        |                                                   Vierter Abschnitt                                                   |
+|                                        |                                                 Mitteilungspflichten                                                  |
+| §§ 16 bis 16c                          |                                                     (weggefallen)                                                     |
+| § 16d                                  |                                          Mitteilungspflichten bei Gemischen                                           |
+| § 16e                                  |                   Mitteilungen für die gesundheitliche Notversorgung und für vorbeugende Maßnahmen                    |
+| § 16f                                  |                                          Informationspflicht der Lieferanten                                          |
+|                                        |                                                     Abschnitt 4a                                                      |
+|                                        |                                                  Vergiftungsregister                                                  |
+| § 16g                                  |                                  Einrichtung und Führung eines Vergiftungsregisters                                   |
+| § 16h                                  |                                                        Beirat                                                         |
+| § 16i                                  | Datenerhebung, Datenspeicherung, Datenverwendung und Datenübermittlung durch die Informationszentren für Vergiftungen |
+| § 16j                                  |  Datenerhebung, Datenspeicherung, Datenverwendung und Datenübermittlung durch das Bundesinstitut für Risikobewertung  |
+| § 16k                                  |                                        Überregionale chemische Bedrohungslage                                         |
+| § 16l                                  |                                               Verordnungsermächtigungen                                               |
+|                                        |                                                   Fünfter Abschnitt                                                   |
+|                                        |              Ermächtigung zu Verboten und Beschränkungen sowie zu Maßnahmen zum Schutz von Beschäftigten              |
+| § 17                                   |                                              Verbote und Beschränkungen                                               |
+| § 18                                   |                                              Giftige Tiere und Pflanzen                                               |
+| § 19                                   |                                        Maßnahmen zum Schutz von Beschäftigten                                         |
+|                                        |                                                  Sechster Abschnitt                                                   |
+|                                        |                                                   Gute Laborpraxis                                                    |
+| § 19a                                  |                                                Gute Laborpraxis (GLP)                                                 |
+| § 19b                                  |                                                   GLP-Bescheinigung                                                   |
+| § 19c                                  |                                                   Berichterstattung                                                   |
+| § 19d                                  |                                                Ergänzende Vorschriften                                                |
+|                                        |                                                   Siebter Abschnitt                                                   |
+|                                        |                                                Allgemeine Vorschriften                                                |
+| § 20                                   |                             Antrags- und Mitteilungsunterlagen, Verordnungsermächtigungen                             |
+| § 20a                                  |                                                     (weggefallen)                                                     |
+| § 20b                                  |                                                      Ausschüsse                                                       |
+| § 21                                   |                                                      Überwachung                                                      |
+| § 21a                                  |                                              Mitwirkung von Zollstellen                                               |
+| § 22                                   |                                                 Informationspflichten                                                 |
+| § 23                                   |                                                Behördliche Anordnungen                                                |
+| § 24                                   |                                           Vollzug im Bereich der Bundeswehr                                           |
+| § 25                                   |                                  Angleichung an Gemeinschaftsrecht oder Unionsrecht                                   |
+| § 25a                                  |                                         Aufwendungen des Auskunftspflichtigen                                         |
+| § 26                                   |                                     Bußgeldvorschriften, Verordnungsermächtigung                                      |
+| § 27                                   |                                      Strafvorschriften, Verordnungsermächtigung                                       |
+| § 27a                                  |                              Unwahre GLP-Erklärungen, Erschleichen der GLP-Bescheinigung                              |
+| § 27b                                  |                               Zuwiderhandlungen gegen die Verordnung (EG) Nr. 1907/2006                               |
+| § 27c                                  |                                      Zuwiderhandlungen gegen Abgabevorschriften                                       |
+| § 27d                                  |                                                      Einziehung                                                       |
+|                                        |                                                   Achter Abschnitt                                                    |
+|                                        |                                                  Schlussvorschriften                                                  |
+| § 28                                   |                                                   Übergangsregelung                                                   |
+| § 29                                   |                                                  (Außerkrafttreten)                                                   |
+| § 30                                   |                                                    Berlin-Klausel                                                     |
+| § 31                                   |                                                    (Inkrafttreten)                                                    |
+| Anhang 1                               |                                                                                                                       |
+| Grundsätze der Guten Laborpraxis (GLP) |                                                                                                                       |
+| Anhang 2                               |                                                                                                                       |
+| GLP-Bescheinigung                      |                                                                                                                       |
 
 # § 1 – Zweck des Gesetzes
 
@@ -759,7 +762,161 @@ Satz 1 gilt nicht für Erzeugnisse mit militärischer Zweckbestimmung.
 
 (2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates näher zu bestimmen, auf welche Art und Weise und mit welchen Maßgaben die Verpflichtung nach Absatz 1 unter Berücksichtigung der auf Unionsebene entwickelten Vorgaben für die Datenbank zu erfüllen ist.
 
-# §§ 16g bis 16l – (zukünftig in Kraft)
+# § 16g – Einrichtung und Führung eines Vergiftungsregisters
+
+(1) Beim Bundesinstitut für Risikobewertung wird ein Vergiftungsregister zur bundesweiten Erfassung von Vergiftungen oder Vergiftungsverdachtsfällen eingerichtet. Das Bundesinstitut für Risikobewertung führt das Register zu dem Zweck, einen Überblick über das tatsächliche Vergiftungsgeschehen zu erhalten. Die in dem Register erfassten Informationen dienen dazu,
+
+1. gesundheitsbezogene Risikofaktoren frühzeitig zu erkennen,
+
+2. das Erfordernis oder die Wirksamkeit von Risikomanagementmaßnahmen zu überprüfen,
+
+3. die Beratung durch die Informationszentren für Vergiftungen zu unterstützen und
+
+4. die Planung und Durchführung von Überwachungsmaßnahmen zu unterstützen.
+
+(2) Das Bundesinstitut für Risikobewertung hat im Zusammenhang mit der Führung des Vergiftungsregisters folgende Aufgaben:
+
+1. Prüfung, Zusammenführung und Speicherung der Mitteilungen von Ärztinnen und Ärzten sowie Trägern der gesetzlichen Unfallversicherung nach § 16e Absatz 2,
+
+2. Prüfung, Zusammenführung und Speicherung der durch die Informationszentren für Vergiftungen übermittelten Informationen nach § 16e Absatz 3 Satz 2 und § 16i Absatz 1 Satz 2 Nummer 1 bis 4, 6 bis 8 und Absatz 2,
+
+3. Auswertung der im Vergiftungsregister gespeicherten Informationen,
+
+4. Übermittlung der wesentlichen Ergebnisse oder Teilergebnisse der Auswertungen nach Nummer 3 in nicht personenbezogener Form
+
+a) an die für die Regulierung der jeweiligen Risiken zuständigen Bundesministerien oder deren anstelle des jeweiligen Bundesministeriums zuständigen nachgeordneten Behörden, soweit sich konkrete Anhaltspunkte für gesundheitsbezogene Risiken beim Umgang mit den betroffenen Stoffen, Gemischen oder Erzeugnissen ergeben, und
+
+b) auf Anfrage an ausländische staatliche Stellen, soweit sich konkrete Anhaltspunkte für allgemeine gesundheitsbezogene Risiken beim Umgang mit den betreffenden Stoffen, Gemischen oder Erzeugnissen im Zuständigkeitsbereich dieser ausländischen staatlichen Stellen ergeben,
+
+5. Übermittlung der im Vergiftungsregister gespeicherten Informationen in nicht personenbezogener Form
+
+a) an das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz auf Anfrage zur Ermittlung des Bedarfs an verbesserten Risikomanagementmaßnahmen,
+
+b) an das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
+
+aa)  
+in allen Fällen von Vergiftungen mit Pflanzenschutzmitteln oder Vergiftungsverdachtsfällen; das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit kann diese Daten an die Pflanzenschutzdienste der Länder weiterleiten, und
+
+bb)  
+in allen übrigen Fällen auf Anfrage, sofern die Informationen zur Abwehr von Gefahren im Bereich der Lebensmittelsicherheit, bei kosmetischen Mitteln oder Bedarfsgegenständen benötigt werden,
+
+6. Information der Informationszentren für Vergiftungen über die wesentlichen Ergebnisse der Auswertungen nach Nummer 3 und über neu identifizierte Vergiftungsrisiken jeweils in nicht personenbezogener Form sowie Beratung der Informationszentren für Vergiftungen in den Fällen des § 16k in nicht personenbezogener Form,
+
+7. Information der Öffentlichkeit über besondere Gesundheitsrisiken beim Umgang mit den betreffenden Stoffen, Gemischen oder Erzeugnissen in nicht personenbezogener Form, die sich aus der Auswertung nach Nummer 3 ergeben,
+
+8. Veröffentlichung relevanter Auswertungen und Erkenntnisse nach Nummer 3 in nicht personenbezogener Form anhand von regelmäßigen Berichten über das Vergiftungsgeschehen in Deutschland.
+
+# § 16h – Beirat
+
+(1) Es wird ein Beirat eingerichtet, der das Bundesinstitut für Risikobewertung bei seinen Aufgaben nach § 16g Absatz 2 fachlich berät.
+
+(2) Der Beirat soll eine Anzahl von 15 Mitgliedern nicht überschreiten. Die Mitglieder des Beirats werden mit ihrem Einverständnis auf Vorschlag des Bundesinstituts für Risikobewertung gemeinsam vom Bundesministerium für Ernährung und Landwirtschaft und vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz berufen und abberufen. In den Beirat soll möglichst aus jedem Informationszentrum für Vergiftungen mindestens je eine Person berufen werden. Die Berufung erfolgt für die Dauer von fünf Jahren. Die mehrmalige Berufung eines Mitglieds ist zulässig. Die Mitglieder des Beirats sind ehrenamtlich tätig.
+
+(3) Die Geschäftsführung des Beirats wird durch das Bundesinstitut für Risikobewertung wahrgenommen. Der Beirat gibt sich eine Geschäftsordnung. Die Geschäftsordnung bedarf der Genehmigung des Bundesministeriums für Ernährung und Landwirtschaft und des Bundesministeriums für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz.
+
+# § 16i – Datenerhebung, Datenspeicherung, Datenverwendung und Datenübermittlung durch die Informationszentren für Vergiftungen
+
+(1) Die Informationszentren für Vergiftungen dokumentieren alle bei ihnen eingehenden Anfragen zu Vergiftungen und Vergiftungsverdachtsfällen nach Maßgabe der nachfolgenden Vorschriften. Sie sind befugt, zu dem in § 16g Absatz 1 Satz 2 und 3 genannten Zweck folgende Daten zu erheben, zu speichern und zu verwenden:
+
+1. das Datum und die Uhrzeit der Beratung, bei einer mehrmaligen Beratung das Datum der Erstberatung,
+
+2. das Datum, die Uhrzeit und den Ort der Exposition unter Angabe der Ortskategorie,
+
+3. die Information über die medizinische Qualifikation der anfragenden Person,
+
+4. die Information, ob es sich um eine tatsächliche oder vermutete Exposition eines Menschen oder eines Tieres handelt oder ob es sich um eine präventive Anfrage handelt,
+
+5. den Namen und die Telefonnummer der betroffenen oder der anfragenden Person,
+
+6. bei einer tatsächlichen oder vermuteten Exposition von Menschen:
+
+a) die Anzahl der betroffenen Personen,
+
+b) das Alter und Geschlecht der betroffenen Person oder Personen,
+
+c) die vollständige Bezeichnung der die Vergiftung oder den Vergiftungsverdacht auslösenden Stoffe, Gemische oder Erzeugnisse oder der sonstigen Quellen,
+
+d) bei einem Gemisch, das unter § 16e Absatz 1 fällt, den eindeutigen Rezepturidentifikator, in den übrigen Fällen die für die Beratung relevanten Inhaltsstoffe,
+
+e) die Dosis und die Dauer der Exposition, einschließlich des Sicherheitsgrades der Angabe über die Dosis,
+
+f) den Aufnahmeweg oder die Aufnahmewege,
+
+g) die Umstände der Exposition, insbesondere, ob es sich um eine bestimmungsgemäße Verwendung, eine nichtbestimmungsgemäße Verwendung, eine Selbst- oder Fremdbeibringung handelt,
+
+h) bei einem Biozid-Produkt oder einem Pflanzenschutzmittel, die Angabe, ob die Exposition gegenüber einem Konzentrat oder einer zur Anwendung verdünnten Lösung stattfand,
+
+i) den Schweregrad der Vergiftung zum Zeitpunkt der Anfrage sowie
+
+j) weitere für die tatsächliche oder vermutete Exposition toxikologisch relevante Informationen, einschließlich der Information, ob relevante Vorerkrankungen bestehen,
+
+7. bei einer Anfrage, die keine Exposition von Menschen zum Gegenstand hat, die Daten nach Nummer 6 Buchstabe c und g sowie den wesentlichen Inhalt der Anfrage,
+
+8. den internen Fallidentifikator des Informationszentrums für Vergiftungen.
+
+(2) Bei Anfragen zu Vergiftungen oder Verdachtsfällen durch Biozid-Produkte oder Pflanzenschutzmittel oder in Fällen von besonderer Relevanz im Hinblick auf den Zweck des Vergiftungsregisters nach § 16g Absatz 1 Satz 2 und 3 ist das angefragte Informationszentrum für Vergiftungen befugt, bei den Anfragenden, sofern erforderlich auch nachträglich, folgende Daten zu erheben, zu speichern und zu verwenden:
+
+1. die Symptome, ihre Latenzzeit und Dauer,
+
+2. bei Anfragen von Ärztinnen oder Ärzten die klinischen Zeichen und medizinischen Untersuchungsbefunde, einschließlich des Zeitpunkts ihrer Erhebung,
+
+3. den Schweregrad der Vergiftung, sofern im Rahmen einer späteren Erhebung Abweichungen von der Angabe nach Absatz 1 Satz 2 Nummer 6 Buchstabe i gegeben sind,
+
+4. eine Bewertung der Kausalität zwischen der Exposition und den Symptomen,
+
+5. die Art des Behandlungsortes sowie bei allen nicht nur leichten Vergiftungen die erteilte Behandlungsempfehlung und die durchgeführte Behandlung,
+
+6. bei allen nicht nur leichten Vergiftungen den Fallausgang.
+
+Bei Anfragen zu Biozid-Produkten und Pflanzenschutzmitteln, die nicht von besonderer Relevanz für den Zweck des Vergiftungsregisters sind, ist die Befugnis des angefragten Informationszentrums für Vergiftungen nach Satz 1 auf die Daten nach Satz 1 Nummer 1 bis 4 beschränkt.
+
+(3) Die Daten nach den Absätzen 1 und 2 sind vertraulich zu behandeln. Das nach Absatz 1 angefragte Informationszentrum für Vergiftungen kann diese Daten für eigene wissenschaftliche Studien und Veröffentlichungen in nicht personenbezogener Form verwenden, soweit nicht der Schutz geistigen Eigentums entgegensteht.
+
+(4) Die Daten nach Absatz 1 Nummer 5 dürfen nur verwendet werden, um bei der anrufenden Person oder den betroffenen Personen ergänzende Informationen zu den nach Absatz 2 mitgeteilten Informationen zu erfragen. Diese Daten sind nach erfolgter Nachfrage, spätestens aber ein halbes Jahr nach dem Tag der Erhebung und Speicherung, bei Speicherung in elektronischer Form automatisiert, zu löschen. Längere Aufbewahrungsfristen aufgrund anderer Vorschriften oder Berufsordnungen bleiben unberührt.
+
+(5) Die Informationszentren für Vergiftungen übermitteln die Daten nach Absatz 1 Nummer 1 bis 4, 6 bis 8 und Absatz 2 an das Bundesinstitut für Risikobewertung zu dem in § 16g Absatz 1 Satz 2 und 3 genannten Zweck. Die Übermittlung erfolgt jeweils am 15. Kalendertag jedes Monats für den vorangegangenen Monat in einem vom Bundesinstitut für Risikobewertung vorgegebenen elektronischen Datenformat. Sofern es aufgrund besonderer Gefahrenlagen erforderlich ist, übermitteln die Informationszentren für Vergiftungen die Daten in kürzeren, der jeweiligen Gefahrenlage angepassten Abständen.
+
+(6) Die Bundesregierung kann mit Zustimmung des Bundesrates allgemeine Verwaltungsvorschriften zum Verfahren der Datenerhebung durch die Informationszentren für Vergiftungen erlassen. Darin kann auch näher bestimmt werden, in welchen Fällen von besonderer Relevanz im Sinne von Absatz 2 auszugehen ist.
+
+# § 16j – Datenerhebung, Datenspeicherung, Datenverwendung und Datenübermittlung durch das Bundesinstitut für Risikobewertung
+
+(1) Das Bundesinstitut für Risikobewertung ist befugt, im Vergiftungsregister zu dem in § 16g Absatz 1 Satz 2 und 3 genannten Zweck die folgenden Daten zu erheben, zu speichern und zu verwenden:
+
+1. Daten, die übermittelt wurden von
+
+a) Ärztinnen und Ärzten nach § 16e Absatz 2 Satz 1 oder
+
+b) Trägern der gesetzlichen Unfallversicherung nach § 16e Absatz 2 Satz 4 zweiter Halbsatz,
+
+2. Daten nach § 16e Absatz 3 Satz 2 und § 16i Absatz 1 Satz 2 Nummer 1 bis 4, 6 bis 8 und Absatz 2, die durch die Informationszentren für Vergiftungen übermittelt wurden,
+
+3. bei einer Vergiftung oder einem Verdachtsfall mit einem Biozid-Produkt oder einem Pflanzenschutzmittel die Zulassungsnummer,
+
+4. die Produktkategorie sowie
+
+5. Daten zu Vergiftungen aus öffentlich zugänglichen Quellen.
+
+(2) Das Bundesinstitut für Risikobewertung übermittelt zur Erfüllung seiner Aufgaben nach § 16g Absatz 2 Nummer 4 die wesentlichen Ergebnisse oder Teilergebnisse der Auswertungen nach § 16g Absatz 2 Nummer 3 in nicht personenbezogener Form an die jeweils zuständigen Bundesministerien oder deren anstelle des jeweiligen Bundesministeriums zuständigen nachgeordneten Behörden, soweit sich konkrete Anhaltspunkte für gesundheitsbezogene Risiken beim Umgang mit den betroffenen Stoffen, Gemischen oder Erzeugnissen ergeben. Sofern das Bundesinstitut für Risikobewertung Daten nach § 21 Absatz 7 Satz 1 an die dort genannten Behörden im Wege der Amtshilfe übermittelt, werden nur die wesentlichen Ergebnisse der Auswertungen nach § 16g Absatz 2 Nummer 3 übermittelt. Die Übermittlung erfolgt in nicht personenbezogener Form an eine von den Ländern jeweils zu benennende zentrale Stelle mit Ausnahme der Übermittlung an die Träger der gesetzlichen Unfallversicherung.
+
+(3) Das Bundesinstitut für Risikobewertung gewährt einem Informationszentrum für Vergiftungen einen ausschließlich lesenden Zugriff auf die im Vergiftungsregister gespeicherten Daten, soweit dies für das Informationszentrum für Vergiftungen zur Erfüllung seiner Aufgaben nach § 16e Absatz 3, einschließlich der Durchführung eigener klinischer Risikobewertungen für den in § 16g Absatz 1 Satz 3 Nummer 3 genannten Zweck, und der Qualitätssicherung erforderlich ist. Das Informationszentrum für Vergiftungen kann die Daten auch für wissenschaftliche Veröffentlichungen in nicht personenbezogener Form nutzen.
+
+(4) Das Bundesinstitut für Risikobewertung kann einem Dritten auf Antrag Daten nach Absatz 1 in nicht personenbezogener Form übermitteln, sofern ein wissenschaftliches oder sonstiges berechtigtes Interesse des Dritten an der Verwendung der Daten besteht. Das Bundesinstitut für Risikobewertung hat vor der Übermittlung eine Stellungnahme des Beirats sowie der Informationszentren für Vergiftungen, von denen die Daten erhoben wurden, einzuholen. Ansprüche auf Informationszugang zu den in Absatz 1 genannten Daten können ausschließlich gegenüber dem Bundesinstitut für Risikobewertung geltend gemacht werden. Der Anspruch auf Informationszugang besteht nicht, soweit der Schutz geistigen Eigentums entgegensteht. Zugang zu Betriebs- oder Geschäftsgeheimnissen darf nur gewährt werden, soweit der Betroffene eingewilligt hat.
+
+# § 16k – Überregionale chemische Bedrohungslage
+
+(1) Sofern der Verdacht einer überregionalen chemischen Bedrohungslage besteht, übermitteln die Informationszentren für Vergiftungen die Daten nach § 16i Absatz 1 Satz 2 Nummer 1, 2, 6 und 8 und Absatz 2 Satz 1 Nummer 1 bis 4 in nicht personenbezogener Form unverzüglich an das Bundesinstitut für Risikobewertung.
+
+(2) Das Bundesinstitut für Risikobewertung leitet in Fällen einer überregionalen chemischen Bedrohungslage die nach Absatz 1 erhaltenen Daten unverzüglich an das Lagezentrum des Bundesministeriums des Innern und für Heimat, an das Gemeinsame Melde- und Lagezentrum von Bund und Ländern sowie an das Bundesministerium für Gesundheit in nicht personenbezogener Form weiter.
+
+# § 16l – Verordnungsermächtigungen
+
+Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+
+1. ergänzend zu § 16g Absatz 2 weitere Aufgaben des Bundesinstituts für Risikobewertung im Zusammenhang mit der Führung des Vergiftungsregisters festzulegen,
+
+2. Einzelheiten zu dem elektronischen Format zu regeln, in dem die Informationszentren für Vergiftungen die Daten nach § 16i Absatz 5 an das Bundesinstitut für Risikobewertung zu übermitteln haben,
+
+3. weitere Details zu den Inhalten der Berichte des Bundesinstituts für Risikobewertung nach § 16g Absatz 2 Nummer 8 festzulegen.
 
 # § 17 – Verbote und Beschränkungen
 

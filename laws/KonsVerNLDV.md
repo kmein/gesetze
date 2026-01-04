@@ -61,9 +61,9 @@ Sollten diese Berechnungen nachweislich zu Unbilligkeiten führen, kann hiervon 
 
 Diese Verordnung ist erstmals auf Besteuerungssachverhalte seit dem 1. Januar 2010 anzuwenden.
 
-# § 9 – Inkrafttreten
+# § 9 – Außerkrafttreten
 
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
+Diese Verordnung tritt am 30. Dezember 2025 außer Kraft.
 
 # Schlussformel
 

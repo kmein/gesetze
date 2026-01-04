@@ -153,7 +153,7 @@ c) der sonstige Zugang aus dem Inland und Ausland,
 
 d) der Abgang nach Verwendungszwecken einschließlich der Ausfuhr, im Fall des Verkaufs von Mahlerzeugnissen im Inland untergliedert nach Ländern.
 
-Bei der Herstellung von Mühlenerzeugnissen nach Satz 2 Nummer 2 Buchstabe b sind hinsichtlich der nach Satz 2 Nummer 1 jeweils verwendeten Rohstoffe die Mengen gesondert anzugeben, die auf Getreide entfallen, das nach Vorschriften über die ökologische Produktion nach Maßgabe der Verordnung (EG) Nr. 834/2007 des Rates vom 28. Juni 2007 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen und zur Aufhebung der Verordnung (EWG) Nr. 2092/91 (ABl. L 189 vom 20.7.2007, S. 1) in der jeweils geltenden Fassung erzeugt wurde.
+Bei der Herstellung von Mühlenerzeugnissen nach Satz 2 Nummer 2 Buchstabe b sind hinsichtlich der nach Satz 2 Nummer 1 jeweils verwendeten Rohstoffe die Mengen gesondert anzugeben, die auf Getreide entfallen, das nach Vorschriften über die ökologische Produktion nach Maßgabe der Verordnung (EU) 2018/848 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen sowie zur Aufhebung der Verordnung (EG) Nr. 834/2007 des Rates (ABl. L 150 vom 14.6.2018, S. 1; L 270 vom 29.10.2018, S. 37; L 305 vom 26.11.2019 S. 59; L 37 vom 10.2.2020, S. 26; L 324 vom 6.10.2020, S. 65; L 7 vom 11.1.2021, S. 53; L 204 vom 10.6.2021, S. 47; L 318 vom 9.9.2021, S. 5), die zuletzt durch die Delegierte Verordnung (EU) 2023/207 (ABl. L 29 vom 1.2.2023, S. 6) geändert worden ist in der jeweils geltenden Fassung erzeugt wurde.
 
 (2a) Mühlen mit einer jährlichen Verarbeitung von mehr als 200 000 Tonnen Brotgetreide haben monatlich nach Maßgabe des § 7 Nummer 2 den im Vormonat erzielten durchschnittlichen Verkaufspreis zu melden für
 
@@ -489,7 +489,7 @@ In ihnen sind folgende Angaben gesondert nach der jeweiligen Erzeugniskategorie 
 
 1. bezüglich des Zugangs und Abgangs von Milch und Rahm jeweils in Kilogramm:
 
-a) die Anlieferung von landwirtschaftlichen Betrieben, untergliedert nach Tierarten, jeweils unter gesonderter Angabe der Anlieferung der Milch, die nach unionsrechtlichen Vorschriften über die ökologische Produktion nach Maßgabe der Verordnung (EG) Nr. 834/2007 erzeugt wurde; die Anlieferung von landwirtschaftlichen Betrieben aus dem Ausland ist zusätzlich nach Herkunftsland zu untergliedern, die Anlieferung von landwirtschaftlichen Betrieben aus dem Inland nach Ländern,
+a) die Anlieferung von landwirtschaftlichen Betrieben, untergliedert nach Tierarten, jeweils unter gesonderter Angabe der Anlieferung der Milch, die nach unionsrechtlichen Vorschriften über die ökologische Produktion nach Maßgabe der Verordnung (EU) 2018/848 erzeugt wurde; die Anlieferung von landwirtschaftlichen Betrieben aus dem Ausland ist zusätzlich nach Herkunftsland zu untergliedern, die Anlieferung von landwirtschaftlichen Betrieben aus dem Inland nach Ländern,
 
 b) die Anlieferung von inländischen landwirtschaftlichen Betrieben untergliedert nach dem durch die Kreiskennziffer bezeichneten Standort der Milcherzeugung oder, wenn dieser nicht bekannt ist, nach dem Standort des Milcherzeugers,
 
@@ -505,13 +505,17 @@ Sofern dies die zuständige Stelle genehmigt, kann abweichend von Satz 1 die Mol
 
 (2) Molkereien haben darüber hinaus nach Maßgabe der Sätze 2 und 3 Meldungen nach § 6 Absatz 1 Satz 1 und Absatz 3 und § 7 Nummer 2 mit folgenden Angaben abzugeben:
 
-1. die Herstellung von Konsummilch im Sinne des § 1 Nummer 17 und von Milcherzeugnissen im Sinne des § 1 Nummer 18 Buchstabe a bis d, gesondert nach dem jeweiligen Erzeugnis in Kilogramm unter Angabe des jeweiligen Fettgehalts in Fetteinheiten und des Eiweißgehalts in Eiweißeinheiten, bei Konsummilch, Buttermilcherzeugnissen und Milchmischerzeugnissen auch untergliedert nach Gebindegrößen,
+1. die Herstellung von Konsummilch im Sinne des § 1 Nummer 17 und von Milcherzeugnissen im Sinne des § 1 Nummer 18 Buchstabe a bis d, gesondert nach dem jeweiligen Erzeugnis in Kilogramm unter Angabe des jeweiligen Fettgehalts in Fetteinheiten und des Eiweißgehalts in Eiweißeinheiten, und zusätzlich bei
+
+a) Konsummilch, Buttermilcherzeugnissen und Milchmischerzeugnissen auch untergliedert nach Gebindegrößen,
+
+b) Buttermilcherzeugnissen, ungezuckerten und gezuckerten Kondensmilcherzeugnissen, Trockenmilcherzeugnissen, Molkenerzeugnissen, Milcheiweißerzeugnissen, Milchmischerzeugnissen, Molkenmischerzeugnissen und Milchfetterzeugnissen im Sinne der Verordnung über Milcherzeugnisse auch gesondert nach ökologischer Wirtschaftsweise,
 
 2. für jede Gruppe von Milcherzeugnissen, im Fall von Trockenmilcherzeugnissen, Butter, Milchfett- und Milchstreichfetterzeugnissen gesondert nach dem jeweiligen Erzeugnis, die zur Herstellung verarbeitete Menge an Vollmilch und an Magermilch jeweils in Kilogramm,
 
 3. für Molkenerzeugnisse die verarbeitete Menge an Molke in Kilogramm Flüssigmolkeäquivalent,
 
-4. zur Herstellung von Konsummilch, Butter und Käse ergänzend zu Nummer 1 die Angabe der Erzeugnismenge, die nach unionsrechtlichen Vorschriften über die ökologische Produktion nach Maßgabe der Verordnung (EG) Nr. 834/2007 erzeugt wurde, in Kilogramm,
+4. zur Herstellung von Konsummilch, Butter, Sauermilcherzeugnissen, Joghurterzeugnissen, Kefirerzeugnissen, Sahneerzeugnissen, Milchzuckererzeugnissen und Käse ergänzend zu Nummer 1 die Angabe der Erzeugnismenge, die nach unionsrechtlichen Vorschriften über die ökologische Produktion nach Maßgabe der Verordnung (EU) 2018/848 erzeugt wurde, in Kilogramm,
 
 5. zur Herstellung von Käse ergänzend zu Nummer 1:
 

@@ -664,17 +664,17 @@ a) Leuchttonne
 
 |             |                |
 |:------------|---------------:|
-| „Westerems“ | 50 vom Hundert |
+| „Westerems“ | 70 vom Hundert |
 
 b) Leuchttonne  
 
 |           |                |
 |:----------|---------------:|
-| „3/Jade2“ | 50 vom Hundert |
+| „3/Jade2“ | 70 vom Hundert |
 
 c) |              |                |
 |:-------------|---------------:|
-| Tonne „Elbe“ | 50 vom Hundert |
+| Tonne „Elbe“ | 70 vom Hundert |
 
 des Höchstbetrages nach Abschnitt B Teil I;
 
@@ -1067,47 +1067,57 @@ auf der Trave
 
 im Verkehr auf den Fahrtstrecken zwischen
 
-<table width="100%" style="border: none;">
-<colgroup>
-<col style="width: 6%" />
-<col style="width: 47%" />
-<col style="width: 47%" />
-</colgroup>
+a) |                                                                           |                 |
+|:--------------------------------------------------------------------------|----------------:|
+| den Lübecker Stadthäfen und der Leuchttonne „Trave“ in der Lübecker Bucht | 100 vom Hundert |
+
+b) <table width="100%" style="border: none;">
 <tbody data-valign="top">
 <tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">a)</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">den Lübecker Stadthäfen und der Leuchttonne „Trave“ in der Lübecker Bucht</td>
-<td style="text-align: right;" data-valign="bottom" data-charoff="50">100 vom Hundert</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">b)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">den Kaianlagen von Lübeck-Siems, Lübeck-Schlutup, Lübeck-Herrenwyk<br />
 und der Leuchttonne „Trave“ in der Lübecker Bucht</td>
-<td style="text-align: right;" data-valign="bottom" data-charoff="50">90 vom Hundert</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">93 vom Hundert</td>
 </tr>
+</tbody>
+</table>
+
+c) <table width="100%" style="border: none;">
+<tbody data-valign="top">
 <tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">c)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">den Lübecker Stadthäfen und den Kaianlagen von Lübeck-Siems,<br />
 Lübeck-Schlutup und Lübeck-Herrenwyk</td>
-<td style="text-align: right;" data-valign="bottom" data-charoff="50">70 vom Hundert</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">72 vom Hundert</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">d)</td>
+</tbody>
+</table>
+
+d) <table width="100%" style="border: none;">
+<tbody data-valign="top">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">den Kaianlagen von Lübeck-Travemünde und der Leuchttonne „Trave“<br />
 in der Lübecker Bucht</td>
-<td style="text-align: right;" data-valign="bottom" data-charoff="50">70 vom Hundert</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">72 vom Hundert</td>
 </tr>
+</tbody>
+</table>
+
+e) <table width="100%" style="border: none;">
+<tbody data-valign="top">
 <tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">e)</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">den Liegeplätzen der Kaianlagen Lübeck-Siems., Lübeck-Schlutup und<br />
-Lübeck-Herrenwyk untereinander unter Benutzung der Bundeswasserstraße Trave</td>
-<td style="text-align: right;" data-valign="bottom" data-charoff="50">40 vom Hundert</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">den Liegeplätzen der Kaianlagen Lübeck-Siems, Lübeck-Schlutup<br />
+und Lübeck-Herrenwyk untereinander unter Benutzung der<br />
+Bundeswasserstraße Trave</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">55 vom Hundert</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">f)</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">den Liegeplätzen innerhalb der Lübecker Stadthäfen und Lübeck-Travemünde<br />
-unter Benutzung der Bundeswasserstraße Trave</td>
-<td style="text-align: right;" data-valign="bottom" data-charoff="50">40 vom Hundert</td>
+</tbody>
+</table>
+
+f) <table width="100%" style="border: none;">
+<tbody data-valign="top">
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">den Liegeplätzen innerhalb der Lübecker Stadthäfen und<br />
+Lübeck-Travemünde unter Benutzung der Bundeswasserstraße Trave</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">55 vom Hundert</td>
 </tr>
 </tbody>
 </table>

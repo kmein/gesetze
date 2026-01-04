@@ -27,25 +27,37 @@ Auf Grund des § 55 Absatz 1 und des § 56 Absatz 3 des Pflegeberufegesetzes vom
 
 # § 1 – Begriffsbestimmungen
 
-(1) Sektor im Sinne dieser Verordnung bezeichnet die jeweilige Gesamtheit der Pflegeeinrichtungen im Sinne des § 7 Absatz 1 Nummer 2 oder 3 des Pflegeberufegesetzes in den Bereichen „voll- und teilstationär“ oder „ambulant“.
+(1) Sektor im Sinne dieser Verordnung bezeichnet die jeweilige Gesamtheit der Pflegeeinrichtungen im Sinne des § 7 Absatz 1 Nummer 2 oder 3 des Pflegeberufegesetzes oder des § 6 Absatz 1 Nummer 2 oder 3 des Pflegefachassistenzgesetzes in den Bereichen „voll- und teilstationär“ oder „ambulant“.
 
 (2) Pflegefachkräfte im Sinne dieser Verordnung sind Personen, denen die Erlaubnis zum Führen einer Berufsbezeichnung nach dem Krankenpflegegesetz, dem Altenpflegegesetz oder dem Pflegeberufegesetz erteilt wurde.
 
-(3) Festsetzungsjahr im Sinne dieser Verordnung ist das Vorjahr des jeweiligen Finanzierungszeitraums nach dem Pflegeberufegesetz.
+(3) Pflegefachassistenzkräfte im Sinne dieser Verordnung sind Personen mit einer Erlaubnis nach § 1 des Pflegefachassistenzgesetzes oder § 50 des Pflegefachassistenzgesetzes.
 
-(4) Träger der praktischen Ausbildung im Sinne dieser Verordnung sind Träger der praktischen Ausbildung nach § 8 Absatz 2 des Pflegeberufegesetzes und Träger des praktischen Teils der hochschulischen Pflegeausbildung nach § 38a Absatz 2 des Pflegeberufegesetzes, soweit im Folgenden nicht etwas anderes bestimmt ist.
+(4) Pflegeschulen im Sinne dieser Verordnung sind Pflegeschulen nach den §§ 9 und 65 des Pflegeberufegesetzes sowie Pflegeschulen nach den §§ 8 und 51 des Pflegefachassistenzgesetzes.
 
-(5) Träger im Sinne dieser Verordnung bezeichnet den Rechtsträger einer Einrichtung oder Pflegeschule.
+(5) Festsetzungsjahr im Sinne dieser Verordnung ist das Vorjahr des jeweiligen Finanzierungszeitraums nach dem Pflegeberufegesetz oder nach dem Pflegefachassistenzgesetz.
 
-(6) Pflegeausbildung im Sinne dieser Verordnung bezeichnet die berufliche Ausbildung nach Teil 2 des Pflegeberufegesetzes auch in Verbindung mit Teil 5 des Pflegeberufegesetzes sowie die hochschulische Pflegeausbildung nach Teil 3 des Pflegeberufegesetzes, jeweils einschließlich der zusätzlichen Ausbildung nach § 14 des Pflegeberufegesetzes, soweit im Folgenden nicht etwas anderes bestimmt ist.
+(6) Träger der praktischen Ausbildung im Sinne dieser Verordnung sind Träger der praktischen Ausbildung nach § 8 Absatz 2 des Pflegeberufegesetzes, Träger des praktischen Teils der hochschulischen Pflegeausbildung nach § 38a Absatz 2 des Pflegeberufegesetzes und Träger der praktischen Ausbildung nach § 7 Absatz 2 des Pflegefachassistenzgesetzes, soweit im Folgenden nicht etwas anderes bestimmt ist.
 
-(7) Ausbildungskosten im Sinne dieser Verordnung sind die Kosten der beruflichen Pflegeausbildung nach § 27 des Pflegeberufegesetzes sowie die Kosten des praktischen Teils der hochschulischen Pflegeausbildung nach § 39a des Pflegeberufegesetzes, soweit im Folgenden nicht etwas anderes bestimmt ist.
+(7) Träger im Sinne dieser Verordnung bezeichnet den Rechtsträger einer Einrichtung oder Pflegeschule.
 
-(8) Ausbildungsvergütung im Sinne dieser Verordnung bezeichnet die Ausbildungsvergütung nach § 19 des Pflegeberufegesetzes, nach § 38b Absatz 1 Satz 2 in Verbindung mit § 19 des Pflegeberufegesetzes sowie nach § 66b des Pflegeberufegesetzes, soweit im Folgenden nicht etwas anderes bestimmt ist.
+(8) Pflegeausbildung im Sinne dieser Verordnung bezeichnet die berufliche Ausbildung nach Teil 2 des Pflegeberufegesetzes, auch in Verbindung mit Teil 5 des Pflegeberufegesetzes, die hochschulische Pflegeausbildung nach Teil 3 des Pflegeberufegesetzes, jeweils einschließlich der zusätzlichen Ausbildung nach § 14 des Pflegeberufegesetzes und die Ausbildung nach dem Pflegefachassistenzgesetz, soweit im Folgenden nicht etwas anderes bestimmt ist.
 
-(9) Ausbildungsverhältnis im Sinne dieser Verordnung ist das durch den Ausbildungsvertrag begründete Verhältnis zwischen einer oder einem Auszubildenden und dem Träger der praktischen Ausbildung.
+(9) Art der Ausbildung bezeichnet die Unterscheidung nach beruflicher und hochschulischer Pflegeausbildung nach dem Pflegeberufegesetz einschließlich der Angabe, inwieweit diese jeweils eine zusätzliche Ausbildung nach § 14 Absatz 1 bis 6 des Pflegeberufegesetzes umfasst, sowie die Unterscheidung nach einer Qualifikation nach § 14 Absatz 7 des Pflegeberufegesetzes oder nach dem Pflegefachassistenzgesetz.
 
-(10) Auszubildende im Sinne dieser Verordnung sind Auszubildende der beruflichen Ausbildung nach Teil 2 des Pflegeberufegesetzes sowie studierende Personen der hochschulischen Pflegeausbildung nach Teil 3 des Pflegeberufegesetzes, soweit im Folgenden nicht etwas anderes bestimmt ist.
+(10) Ausbildungskosten im Sinne dieser Verordnung sind die Kosten der beruflichen Pflegeausbildung nach § 27 des Pflegeberufegesetzes, die Kosten des praktischen Teils der hochschulischen Pflegeausbildung nach
+
+§ 39a des Pflegeberufegesetzes und die Kosten der Ausbildung nach § 24 Satz 1 des Pflegefachassistenzgesetzes in Verbindung mit § 27 Absatz 1 des Pflegeberufegesetzes einschließlich der Kosten des Vorbereitungskurses nach § 11 Absatz 2 des Pflegefachassistenzgesetzes und der Abschlussprüfung, auch im Fall des § 11 Absatz 3 des Pflegefachassistenzgesetzes, soweit im Folgenden nicht etwas anderes bestimmt ist.
+
+(11) Ausbildungsvergütung im Sinne dieser Verordnung bezeichnet die Ausbildungsvergütung nach § 19 des Pflegeberufegesetzes, nach § 38b Absatz 1 Satz 2 des Pflegeberufegesetzes in Verbindung mit § 19 des Pflegeberufegesetzes, nach § 66b des Pflegeberufegesetzes oder nach § 17 des Pflegefachassistenzgesetzes, soweit im Folgenden nicht etwas anderes bestimmt ist. In den Fällen des § 25 des Pflegeberufegesetzes und des § 23 des Pflegefachassistenzgesetzes wird der Teil der gezahlten Vergütung als angemessene Ausbildungsvergütung berücksichtigt, der einer angemessenen Ausbildungsvergütung der Höhe nach entspricht.
+
+(12) Ausbildungsverhältnis im Sinne dieser Verordnung ist das durch den Ausbildungsvertrag begründete Verhältnis zwischen einer oder einem Auszubildenden und dem Träger der praktischen Ausbildung.
+
+(13) Auszubildende im Sinne dieser Verordnung sind Auszubildende der beruflichen Ausbildung nach Teil 2 des Pflegeberufegesetzes, studierende Personen der hochschulischen Pflegeausbildung nach Teil 3 des Pflegeberufegesetzes und Auszubildende nach dem Pflegefachassistenzgesetz, soweit im Folgenden nicht etwas anderes bestimmt ist.
+
+(14) Krankenhäuser im Sinne dieser Verordnung sind Krankenhäuser nach § 7 Absatz 1 Nummer 1 des Pflegeberufegesetzes und nach § 6 Absatz 1 Nummer 1 des Pflegefachassistenzgesetzes.
+
+(15) Pflegeeinrichtungen im Sinne dieser Verordnung sind ambulante und stationäre Pflegeeinrichtungen nach § 7 Absatz 1 Nummer 2 oder 3 des Pflegeberufegesetzes und nach § 6 Absatz 1 Nummer 2 oder 3 des Pflegefachassistenzgesetzes.
 
 # § 2 – Rechtsträgerschaft bei staatlichen Pflegeschulen
 
@@ -57,17 +69,17 @@ Die Befugnis der Länder, für staatliche Pflegeschulen die Rechtsträgerschaft 
 
 (2) Die Ausbildungskosten sind prospektiv zu bestimmen.
 
-(3) Werden bei einem Träger der praktischen Ausbildung oder in einer Pflegeschule andere Ausbildungsberufe unterrichtet, die nicht unter das Pflegeberufegesetz fallen, sind Kosten, die für diese Ausbildungsberufe anfallen, nicht berücksichtigungsfähig. Soweit Personal- oder Sachmittel sowohl für andere Ausbildungsberufe als auch für die Pflegeausbildung genutzt werden, können diese in Höhe des auf die Pflegeausbildung entfallenden Anteils der Kosten berücksichtigt werden.
+(3) Werden bei einem Träger der praktischen Ausbildung oder in einer Pflegeschule andere Ausbildungsberufe unterrichtet, die nicht unter das Pflegeberufegesetz oder das Pflegefachassistenzgesetz fallen, sind Kosten, die für diese Ausbildungsberufe anfallen, nicht berücksichtigungsfähig. Soweit Personal- oder Sachmittel sowohl für andere Ausbildungsberufe als auch für die Pflegeausbildung genutzt werden, können diese in Höhe des auf die Pflegeausbildung entfallenden Anteils der Kosten berücksichtigt werden.
 
 (4) Zur Plausibilisierung der kalkulierten Kosten können Ist-Kosten-Daten herangezogen werden. Die Richtigkeit der Ist-Kosten ist durch geeignete Belege nachzuweisen.
 
-(5) Die Pauschalen nach § 30 des Pflegeberufegesetzes und die Individualbudgets nach § 31 des Pflegeberufegesetzes, jeweils auch in Verbindung mit § 39a Absatz 3 des Pflegeberufegesetzes, sind so zu bemessen, dass die Ausbildungskosten bei Einhaltung aller Qualitätsvorgaben des Pflegeberufegesetzes und der landesrechtlichen Vorgaben vollständig durch die Ausbildungsbudgets finanziert werden.
+(5) Die Pauschalen nach § 30 des Pflegeberufegesetzes und die Individualbudgets nach § 31 des Pflegeberufegesetzes, jeweils auch in Verbindung mit § 39a Absatz 3 des Pflegeberufegesetzes oder mit § 24 des Pflegefachassistenzgesetzes, sind so zu bemessen, dass die Ausbildungskosten bei Einhaltung aller Qualitätsvorgaben des Pflegeberufegesetzes und der landesrechtlichen Vorgaben vollständig durch die Ausbildungsbudgets finanziert werden.
 
 # § 4 – Unterschiedliche Pauschalen bei Pauschalbudgets
 
-(1) Werden Pauschalen nach § 30 des Pflegeberufegesetzes, auch in Verbindung mit § 39a Absatz 3 des Pflegeberufegesetzes, vereinbart, können mehrere oder alle Kostentatbestände der Anlage 1 in einer Pauschale zusammengefasst werden.
+(1) Werden Pauschalen nach § 30 des Pflegeberufegesetzes, auch in Verbindung mit § 39a Absatz 3 des Pflegeberufegesetzes oder mit § 24 des Pflegefachassistenzgesetzes, vereinbart, können mehrere oder alle Kostentatbestände der Anlage 1 in einer Pauschale zusammengefasst werden.
 
-(2) Eine Differenzierung der Pauschalen für einen Kostentatbestand ist nur bis zum Festsetzungsjahr 2028 zulässig und nur dann, wenn die Differenzierung nach sachgerechten, allgemeinen, objektiven und für alle Träger der praktischen Ausbildung oder für alle Pflegeschulen gleichen Kriterien erfolgt. Unzulässig ist insbesondere eine Differenzierung nach Versorgungsbereichen oder Trägerstrukturen ohne einen sachlichen Grund.
+(2) Eine Differenzierung der Pauschalen für einen Kostentatbestand nach Art der Ausbildung ist zulässig. Im Übrigen ist sie nur bis zum Festsetzungsjahr 2030 zulässig und nur dann, wenn die Differenzierung nach sachgerechten, allgemeinen, objektiven und für alle Träger der praktischen Ausbildung oder für alle Pflegeschulen gleichen Kriterien erfolgt. Unzulässig ist insbesondere eine Differenzierung nach Versorgungsbereichen oder Trägerstrukturen ohne einen sachlichen Grund.
 
 (3) Die zuständige Stelle veröffentlicht die Pauschalen und die Differenzierungskriterien.
 
@@ -77,9 +89,9 @@ Die Befugnis der Länder, für staatliche Pflegeschulen die Rechtsträgerschaft 
 
 1. die erforderlichen Angaben zur Festsetzung der Ausbildungsbudgets nach Anlage 2,
 
-2. die Zahl der voraussichtlichen Ausbildungsverhältnisse im Finanzierungszeitraum differenziert nach beruflicher und hochschulischer Pflegeausbildung, einschließlich der Angabe, inwieweit diese jeweils eine zusätzliche Ausbildung nach § 14 Absatz 1 bis 6 des Pflegeberufegesetzes umfasst, sowie nach einer Qualifikation nach § 14 Absatz 7 des Pflegeberufegesetzes und nach einer Qualifikation nach § 66e des Pflegeberufegesetzes, oder, im Fall der Pflegeschulen, die voraussichtlichen Schülerzahlen im Finanzierungszeitraum differenziert nach beruflicher Pflegeausbildung (einschließlich der Angabe, inwieweit diese eine zusätzliche Ausbildung nach § 14 Absatz 1 bis 6 des Pflegeberufegesetzes umfasst) und nach einer Qualifikation nach § 14 Absatz 7 des Pflegeberufegesetzes,
+2. die Zahl der voraussichtlichen Ausbildungsverhältnisse im Finanzierungszeitraum differenziert nach Art der Pflegeausbildung oder, im Fall der Pflegeschulen, die voraussichtlichen Schülerzahlen im Finanzierungszeitraum differenziert nach Art der Pflegeausbildung,
 
-3. bei einer Finanzierung über Pauschalbudgets die Angaben, die im Falle von § 4 Absatz 2 Satz 1 zur Festsetzung der Pauschalen nach den vereinbarten Differenzierungskriterien maßgeblich sind,
+3. bei einer Finanzierung über Pauschalbudgets die Angaben, die im Falle von § 4 Absatz 2 Satz 2 zur Festsetzung der Pauschalen nach den vereinbarten Differenzierungskriterien maßgeblich sind,
 
 4. bei einer Finanzierung über Individualbudgets die Höhe des vereinbarten oder von der Schiedsstelle festgesetzten Individualbudgets.
 
@@ -91,7 +103,7 @@ Die Angaben nach Satz 1 Nummer 2 und 3 sind zu begründen.
 
 # § 6 – Zurückweisung unangemessener Ausbildungsvergütungen
 
-(1) Teilt ein Träger der praktischen Ausbildung der zuständigen Stelle eine unangemessen niedrige Ausbildungsvergütung mit, wirkt die zuständige Stelle darauf hin, dass der Träger der praktischen Ausbildung eine angemessene Ausbildungsvergütung vereinbart, und fordert den Träger der praktischen Ausbildung auf, der zuständigen Stelle innerhalb eines Monats die Vereinbarung einer angemessenen Ausbildungsvergütung nachzuweisen. Weist der Träger der praktischen Ausbildung die vereinbarte angemessene Ausbildungsvergütung nicht innerhalb der Monatsfrist nach, informiert die zuständige Stelle die Behörde, die für die Überprüfung der Geeignetheit dieser Einrichtung zur Durchführung der Ausbildung nach dem Pflegeberufegesetz zuständig ist.
+(1) Teilt ein Träger der praktischen Ausbildung der zuständigen Stelle eine unangemessen niedrige Ausbildungsvergütung mit, wirkt die zuständige Stelle darauf hin, dass der Träger der praktischen Ausbildung eine angemessene Ausbildungsvergütung vereinbart, und fordert den Träger der praktischen Ausbildung auf, der zuständigen Stelle innerhalb eines Monats die Vereinbarung einer angemessenen Ausbildungsvergütung nachzuweisen. Weist der Träger der praktischen Ausbildung die vereinbarte angemessene Ausbildungsvergütung nicht innerhalb der Monatsfrist nach, informiert die zuständige Stelle die Behörde, die für die Überprüfung der Geeignetheit dieser Einrichtung zur Durchführung der Ausbildung nach dem Pflegeberufegesetz oder nach dem Pflegefachassistenzgesetz zuständig ist.
 
 (2) Teilt ein Träger der praktischen Ausbildung der zuständigen Stelle eine unangemessen hohe Ausbildungsvergütung mit, berücksichtigt die zuständige Stelle die mitgeteilte Ausbildungsvergütung bei der Festsetzung des Ausbildungsbudgets nur bis zur Höhe einer angemessenen Ausbildungsvergütung. Die zuständige Stelle teilt dem Träger der praktischen Ausbildung mit, in welcher Höhe die mitgeteilte Ausbildungsvergütung als angemessene Ausbildungsvergütung berücksichtigt wird.
 
@@ -111,25 +123,25 @@ Die Angaben nach Satz 1 Nummer 2 und 3 sind zu begründen.
 
 (1) Im Festsetzungsjahr 2019 setzt die zuständige Stelle zur Bildung einer Liquiditätsreserve einen Aufschlag von 3 Prozent auf die Summe aller Ausbildungsbudgets fest. Ab dem Festsetzungsjahr 2020 berechnet die zuständige Stelle den Aufschlag so, dass im Ausgleichsfonds erneut 3 Prozent der Summe aller Ausbildungsbudgets als Liquiditätsreserve zur Verfügung stehen.
 
-(1a) Die zuständige Stelle berechnet die Verwaltungs- und Vollstreckungskosten nach § 32 Absatz 2 des Pflegeberufegesetzes so, dass im Ausgleichsfonds für den Finanzierungszeitraum erneut 0,6 Prozent der Summe aller Ausbildungsbudgets als Verwaltungskostenpauschale zur Verfügung stehen. Ergeben sich aus der Rechnungslegung der zuständigen Stelle nach § 20 über einen Zeitraum von drei Finanzierungszeiträumen Mehr- oder Minderausgaben bei der Verwaltungskostenpauschale, die über oder unter 0,6 Prozent der Summe aller Ausbildungsbudgets liegen, so kann dies im nächstmöglichen Finanzierungszeitraum berücksichtigt werden, jedoch nicht mehr als 0,1 Prozentpunkte bei den Mehrausgaben und nicht weniger als 0,2 Prozentpunkte bei den Minderausgaben.
+(1a) Die zuständige Stelle berechnet die Verwaltungs- und Vollstreckungskosten nach § 32 Absatz 2 des Pflegeberufegesetzes, auch in Verbindung mit § 24 des Pflegefachassistenzgesetzes, so, dass im Ausgleichsfonds für den Finanzierungszeitraum erneut 0,6 Prozent der Summe aller Ausbildungsbudgets als Verwaltungskostenpauschale zur Verfügung stehen. Ergeben sich aus der Rechnungslegung der zuständigen Stelle nach § 20 über einen Zeitraum von drei Finanzierungszeiträumen Mehr- oder Minderausgaben bei der Verwaltungskostenpauschale, die über oder unter 0,6 Prozent der Summe aller Ausbildungsbudgets liegen, so kann dies im nächstmöglichen Finanzierungszeitraum berücksichtigt werden, jedoch nicht mehr als 0,1 Prozentpunkte bei den Mehrausgaben und nicht weniger als 0,2 Prozentpunkte bei den Minderausgaben.
 
-(2) Ab dem Festsetzungsjahr 2021 berücksichtigt die zuständige Stelle die Summe der Differenzbeträge, die von den Krankenhäusern und Pflegeeinrichtungen im Sinne des § 7 Absatz 1 des Pflegeberufegesetzes nach § 17 Absatz 1 mitgeteilt werden, bei der Festsetzung des Finanzierungsbedarfs getrennt für den Bereich der Krankenhäuser und den Bereich der Pflegeeinrichtungen.
+(2) Ab dem Festsetzungsjahr 2021 berücksichtigt die zuständige Stelle die Summe der Differenzbeträge, die von den Krankenhäusern und Pflegeeinrichtungen nach § 17 Absatz 1 mitgeteilt werden, bei der Festsetzung des Finanzierungsbedarfs getrennt für den Bereich der Krankenhäuser und den Bereich der Pflegeeinrichtungen.
 
 (3) Die zuständige Stelle setzt die Höhe des gesamten Finanzierungsbedarfs und die Finanzierungsanteile der Krankenhäuser und der Pflegeeinrichtungen gesondert bis spätestens zum 31. Oktober des Festsetzungsjahres fest und veröffentlicht diese.
 
 # § 10 – Mitteilungspflichten und Aufteilung des Finanzierungsbedarfs auf die Krankenhäuser
 
-(1) Die Landeskrankenhausgesellschaften teilen der zuständigen Stelle bis zum 1. April des Festsetzungsjahres Name, Träger und Anschrift der Krankenhäuser im Sinne des § 7 Absatz 1 Nummer 1 des Pflegeberufegesetzes mit. Die zuständige Stelle wird die Daten nach Satz 1 aus dem bundesweiten Verzeichnis nach § 293 Absatz 6 des Fünften Buches Sozialgesetzbuch über die zugelassenen Krankenhäuser abrufen, sobald es seinen Regelbetrieb aufnimmt.
+(1) Die Landeskrankenhausgesellschaften teilen der zuständigen Stelle bis zum 1. April des Festsetzungsjahres Name, Träger und Anschrift der Krankenhäuser mit. Die zuständige Stelle wird die Daten nach Satz 1 aus dem bundesweiten Verzeichnis nach § 293 Absatz 6 des Fünften Buches Sozialgesetzbuch über die zugelassenen Krankenhäuser abrufen, sobald es seinen Regelbetrieb aufnimmt.
 
-(2) Die Vertragsparteien nach § 18 Absatz 1 Satz 2 des Krankenhausfinanzierungsgesetzes teilen der zuständigen Stelle bis zum 30. November des Festsetzungsjahres gemeinsam die Höhe des vereinbarten Zuschlags oder des Teilbetrags nach § 33 Absatz 3 Satz 1 des Pflegeberufegesetzes sowie die voraussichtliche Anzahl der voll- und teilstationären Fälle des jeweiligen Krankenhauses mit. Die zuständige Stelle setzt diesen Zuschlag oder Teilbetrag und den monatlichen Umlagebetrag bis zum 15. Dezember des Festsetzungsjahres gegenüber den Krankenhäusern fest. Der Umlagebetrag ergibt sich aus der Multiplikation des Zuschlags oder des Teilbetrags mit der voraussichtlichen Zahl der voll- und teilstationären Fälle des Krankenhauses und der Berücksichtigung des Differenzbetrags nach § 17 Absatz 1 beim jeweiligen Krankenhaus.
+(2) Die Vertragsparteien nach § 18 Absatz 1 Satz 2 des Krankenhausfinanzierungsgesetzes teilen der zuständigen Stelle bis zum 30. November des Festsetzungsjahres gemeinsam die Höhe des vereinbarten Zuschlags oder des Teilbetrags nach § 33 Absatz 3 Satz 1 des Pflegeberufegesetzes, auch in Verbindung mit § 24 des Pflegefachassistenzgesetzes, sowie die voraussichtliche Anzahl der voll- und teilstationären Fälle des jeweiligen Krankenhauses mit. Die zuständige Stelle setzt diesen Zuschlag oder Teilbetrag und den monatlichen Umlagebetrag bis zum 15. Dezember des Festsetzungsjahres gegenüber den Krankenhäusern fest. Der Umlagebetrag ergibt sich aus der Multiplikation des Zuschlags oder des Teilbetrags mit der voraussichtlichen Zahl der voll- und teilstationären Fälle des Krankenhauses und der Berücksichtigung des Differenzbetrags nach § 17 Absatz 1 beim jeweiligen Krankenhaus.
 
 (+++ § 10 Abs. 1 Satz 2: Zur Anwendung vgl. § 18 Abs. 1 Satz 2 +++)
 
 # § 11 – Mitteilungspflichten zur Aufteilung des Finanzierungsbedarfs auf die Pflegeeinrichtungen
 
-(1) Die Landesverbände der Pflegekassen teilen der zuständigen Stelle bis zum 1. April des Festsetzungsjahres Name, Träger und Anschrift der stationären und ambulanten Pflegeeinrichtungen im Sinne des § 7 Absatz 1 Nummer 2 und 3 des Pflegeberufegesetzes mit.
+(1) Die Landesverbände der Pflegekassen teilen der zuständigen Stelle bis zum 1. April des Festsetzungsjahres Name, Träger und Anschrift der stationären und ambulanten Pflegeeinrichtungen mit.
 
-(2) Die stationären und ambulanten Pflegeeinrichtungen teilen der zuständigen Stelle bis zum 15. Juni des Festsetzungsjahres die Anzahl der Vollzeitäquivalente der Pflegefachkräfte mit, die am 15. Dezember des Vorjahres des Festsetzungsjahres in der Einrichtung beschäftigt oder eingesetzt sind. Ambulante Pflegeeinrichtungen teilen dabei zusätzlich mit, welcher Anteil an Vollzeitäquivalenten auf Pflegeleistungen nach dem Elften Buch Sozialgesetzbuch entfällt.
+(2) Die stationären und ambulanten Pflegeeinrichtungen teilen der zuständigen Stelle bis zum 15. Juni des Festsetzungsjahres die Anzahl der Vollzeitäquivalente der Pflegefachkräfte und Pflegefachassistenzkräfte mit, die am 15. Dezember des Vorjahres des Festsetzungsjahres in der Einrichtung beschäftigt oder eingesetzt sind. Ambulante Pflegeeinrichtungen teilen dabei zusätzlich mit, welcher Anteil an Vollzeitäquivalenten auf Pflegeleistungen nach dem Elften Buch Sozialgesetzbuch entfällt.
 
 (3) Die stationären Pflegeeinrichtungen teilen der zuständigen Stelle bis zum 15. Juni des Festsetzungsjahres zusätzlich die Gesamtzahl der Pflegeplätze sowie die Belegungstage für die jeweilige Einrichtung nach der aktuell gültigen Vergütungsvereinbarung mit.
 
@@ -139,7 +151,7 @@ Die Angaben nach Satz 1 Nummer 2 und 3 sind zu begründen.
 
 # § 12 – Aufteilung des Finanzierungsbedarfs auf die Pflegeeinrichtungen
 
-(1) Der Finanzierungsbedarf, der nach § 33 Absatz 1 Nummer 2 des Pflegeberufegesetzes durch die Pflegeeinrichtungen aufzubringen ist, wird im Verhältnis der Zahl der in den jeweiligen Sektoren beschäftigten und eingesetzten Pflegefachkräfte zur Gesamtzahl der Pflegefachkräfte auf die Sektoren aufgeteilt. Bei ambulanten Pflegeeinrichtungen wird bei dieser Aufteilung nur der Anteil an Pflegefachkräften berücksichtigt, der auf Pflegeleistungen nach dem Elften Buch Sozialgesetzbuch entfällt.
+(1) Der Finanzierungsbedarf, der nach § 33 Absatz 1 Nummer 2 des Pflegeberufegesetzes, auch in Verbindung mit § 24 des Pflegefachassistenzgesetzes, durch die Pflegeeinrichtungen aufzubringen ist, wird im Verhältnis der Zahl der in den jeweiligen Sektoren beschäftigten und eingesetzten Pflegefachkräfte und Pflegefachassistenzkräfte zur Gesamtzahl der Pflegefachkräfte und Pflegefachassistenzkräfte auf die Sektoren aufgeteilt. Bei ambulanten Pflegeeinrichtungen wird bei dieser Aufteilung nur der Anteil an Pflegefachkräften und Pflegefachassistenzkräften berücksichtigt, der auf Pflegeleistungen nach dem Elften Buch Sozialgesetzbuch entfällt.
 
 (2) Der auf die einzelne stationäre Einrichtung entfallende Anteil an dem nach Absatz 1 für den stationären Sektor ermittelten Betrag bemisst sich nach dem Verhältnis ihrer Belegungstage nach der Vergütungsvereinbarung zur Gesamtzahl der Belegungstage aller Vergütungsvereinbarungen in diesem Sektor.
 
@@ -151,6 +163,8 @@ Die Angaben nach Satz 1 Nummer 2 und 3 sind zu begründen.
 
 (1) Die Krankenhäuser und Pflegeeinrichtungen im Sinne des § 7 Absatz 1 des Pflegeberufegesetzes zahlen den monatlichen Umlagebetrag für Ausbildungen nach dem Pflegeberufegesetz nach § 10 Absatz 2 oder § 12 Absatz 4 jeweils bis zum 10. eines Kalendermonats, erstmals zum 10. Januar 2020. Abweichend von Satz 1 gilt für Länder, in denen die Ausbildung nach dem Pflegeberufegesetz nicht bereits am 1. Januar 2020 beginnt, Folgendes: Die Krankenhäuser und Pflegeeinrichtungen zahlen ihren monatlichen Umlagebetrag erstmals bis zum 10. des Monats, in welchem die Ausbildung nach dem Pflegeberufegesetz beginnt.
 
+(1a) Die Krankenhäuser und Pflegeeinrichtungen im Sinne des § 6 Absatz 1 des Pflegefachassistenzgesetzes zahlen den monatlichen Umlagebetrag für Ausbildungen nach dem Pflegefachassistenzgesetz nach § 10 Absatz 2 oder § 12 Absatz 4 jeweils bis zum zehnten eines Kalendermonats, erstmals zum 10. Januar 2027. Abweichend von Satz 1 gilt für Länder, in denen die Ausbildung nach § 52 Absatz 2 des Pflegefachassistenzgesetzes nicht bereits am 1. Januar 2027 beginnt, Folgendes: Die Krankenhäuser und Pflegeeinrichtungen zahlen ihren monatlichen Umlagebetrag erstmals bis zum zehnten des Monats, in welchem die Ausbildung nach dem Pflegefachassistenzgesetz beginnt.
+
 (2) Die jährlichen Direktzahlungen des Landes und der sozialen Pflegeversicherung erfolgen jeweils zum 15. Dezember des Festsetzungsjahres, erstmals zum 30. November 2019, im Fall der Ausbildung nach dem Pflegefachassistenzgesetz erstmals zum 15. Dezember 2026. Abweichend von Satz 1 gilt für Länder, in denen die Ausbildung nach dem Pflegeberufegesetz nicht bereits zum 1. Januar 2020 beginnt, Folgendes: Die jährlichen Direktzahlungen des Landes und der sozialen Pflegeversicherung erfolgen erstmals zum letzten Tag des vorletzten Monats, vor dem die Ausbildung nach dem Pflegeberufegesetz beginnt. Abweichend von Satz 1 gilt für Länder, in denen die Ausbildung nach § 52 Absatz 2 des Pflegefachassistenzgesetzes nicht bereits zum 1. Januar 2027 beginnt, Folgendes: Die jährlichen Direktzahlungen des Landes und der sozialen Pflegeversicherung erfolgen erstmals zum 15. Tag des letzten Monats, vor dem die Ausbildung nach dem Pflegefachassistenzgesetz beginnt. Im Fall des § 33 Absatz 6 Satz 2 des Pflegeberufegesetzes, auch in Verbindung mit § 24 des Pflegefachassistenzgesetzes, kann der Zeitpunkt der Einzahlung der Länder, einschließlich der Möglichkeit von anteiligen Einzahlungen, abweichend von Satz 1 vereinbart werden.
 
 # § 14 – Höhe der Ausgleichszuweisungen
@@ -161,33 +175,33 @@ Die Angaben nach Satz 1 Nummer 2 und 3 sind zu begründen.
 
 # § 15 – Zahlung der Ausgleichszuweisungen
 
-(1) Die Ausgleichszuweisungen werden zum letzten Tag jeden Monats an die Träger der praktischen Ausbildung und an die Pflegeschulen gezahlt, erstmals mit Beginn des Ausbildungsjahres 2020, frühestens am 31. Januar 2020.
+(1) Die Ausgleichszuweisungen werden zum letzten Tag jeden Monats an die Träger der praktischen Ausbildung und an die Pflegeschulen gezahlt, erstmals mit Beginn des Ausbildungsjahres 2020, frühestens am 31. Januar 2020, im Fall der Ausbildung nach dem Pflegefachassistenzgesetz erstmals mit Beginn des Ausbildungsjahres 2027, frühestens am 31. Januar 2027.
 
 (2) Ist ein Träger der praktischen Ausbildung von der zuständigen Stelle nach § 6 Absatz 1 Satz 1 aufgefordert worden, der zuständigen Stelle die Vereinbarung einer angemessenen Ausbildungsvergütung nachzuweisen, setzt die zuständige Stelle die Zahlung der Ausgleichszuweisung bis zum Eingang dieses Nachweises aus.
 
 # § 16 – Abrechnung der Ausgleichszuweisungen
 
-(1) Die Träger der praktischen Ausbildung und die Pflegeschulen legen der zuständigen Stelle die Abrechnung nach § 34 Absatz 5 und 6 des Pflegeberufegesetzes bis zum 30. Juni des auf den Finanzierungszeitraum folgenden Jahres vor. Sofern eine Bestätigung eines Jahresabschlussprüfers für den Träger der praktischen Ausbildung oder die Pflegeschule vorliegt, ist auch diese vorzulegen.
+(1) Die Träger der praktischen Ausbildung und die Pflegeschulen legen der zuständigen Stelle die Abrechnung nach § 34 Absatz 5 und 6 des Pflegeberufegesetzes, auch in Verbindung mit § 24 des Pflegefachassistenzgesetzes, bis zum 30. Juni des auf den Finanzierungszeitraum folgenden Jahres vor. Sofern eine Bestätigung eines Jahresabschlussprüfers für den Träger der praktischen Ausbildung oder die Pflegeschule vorliegt, ist auch diese vorzulegen.
 
 (2) Ein Träger der praktischen Ausbildung hat der zuständigen Stelle auf Anforderung Nachweise für die nach § 5 mitzuteilenden Angaben zur Festsetzung des Ausbildungsbudgets und zur Berechnung der Ausgleichszuweisung, insbesondere die Ausbildungsverträge, vorzulegen.
 
 # § 17 – Abrechnung der Umlagebeträge
 
-(1) Die Krankenhäuser und Pflegeeinrichtungen im Sinne des § 7 Absatz 1 des Pflegeberufegesetzes legen der zuständigen Stelle bis zum 30. Juni des auf den Finanzierungszeitraum folgenden Jahres eine Abrechnung über die im Finanzierungszeitraum geleisteten monatlichen Umlagebeträge und die jeweils in Rechnung gestellten Ausbildungszuschläge vor und teilen den sich hieraus ergebenden Differenzbetrag mit. Sofern eine Bestätigung eines Jahresabschlussprüfers für das Krankenhaus oder die Pflegeeinrichtung vorliegt, ist auch diese vorzulegen.
+(1) Die Krankenhäuser und Pflegeeinrichtungen legen der zuständigen Stelle bis zum 30. Juni des auf den Finanzierungszeitraum folgenden Jahres eine Abrechnung über die im Finanzierungszeitraum geleisteten monatlichen Umlagebeträge und die jeweils in Rechnung gestellten Ausbildungszuschläge vor und teilen den sich hieraus ergebenden Differenzbetrag mit. Sofern eine Bestätigung eines Jahresabschlussprüfers für das Krankenhaus oder die Pflegeeinrichtung vorliegt, ist auch diese vorzulegen.
 
 (2) Die zuständige Stelle gleicht den Differenzbetrag nach Absatz 1 innerhalb des nächsten Finanzierungszeitraums durch Anpassung des monatlichen Umlagebetrages der jeweiligen Einrichtung aus. Ein Ausgleich entfällt, wenn der Differenzbetrag dadurch entstanden ist, dass die Einrichtung von der Erhebung des Ausbildungszuschlags abgesehen hat, obwohl ihr eine Erhebung möglich gewesen wäre.
 
 # § 18 – Aufnahme und Aufgabe des Betriebs von Einrichtungen
 
-(1) Nach dem 1. April des Festsetzungsjahres teilen die Landeskrankenhausgesellschaften der zuständigen Stelle unverzüglich jede eingetretene Änderung im Bestand der Krankenhäuser im Sinne des § 7 Absatz 1 Nummer 1 des Pflegeberufegesetzes mit. § 10 Absatz 1 Satz 2 gilt entsprechend. Die zuständige Stelle setzt den monatlichen Umlagebetrag gegenüber einem Krankenhaus, das den Betrieb aufgenommen hat, zum nächstmöglichen Zeitpunkt fest. Der Umlagebetrag wird nach § 10 Absatz 2 Satz 3 ermittelt.
+(1) Nach dem 1. April des Festsetzungsjahres teilen die Landeskrankenhausgesellschaften der zuständigen Stelle unverzüglich jede eingetretene Änderung im Bestand der Krankenhäuser mit. § 10 Absatz 1 Satz 2 gilt entsprechend. Die zuständige Stelle setzt den monatlichen Umlagebetrag gegenüber einem Krankenhaus, das den Betrieb aufgenommen hat, zum nächstmöglichen Zeitpunkt fest. Der Umlagebetrag wird nach § 10 Absatz 2 Satz 3 ermittelt.
 
-(2) Nach dem 1. April des Festsetzungsjahres teilen die Landesverbände der Pflegekassen der zuständigen Stelle unverzüglich jede eingetretene Änderung im Bestand der Pflegeeinrichtungen im Sinne des § 7 Absatz 1 Nummer 2 oder 3 des Pflegeberufegesetzes mit. Pflegeeinrichtungen, die den Betrieb aufgenommen haben, nehmen die Mitteilungen nach § 11 Absatz 3 oder 4 unverzüglich vor. Die zuständige Stelle setzt den monatlichen Umlagebetrag gegenüber einer Pflegeeinrichtung, die den Betrieb aufgenommen hat, zum nächstmöglichen Zeitpunkt fest. Der Umlagebetrag wird nach § 12 Absatz 2 oder 3 ermittelt.
+(2) Nach dem 1. April des Festsetzungsjahres teilen die Landesverbände der Pflegekassen der zuständigen Stelle unverzüglich jede eingetretene Änderung im Bestand der Pflegeeinrichtungen mit. Pflegeeinrichtungen, die den Betrieb aufgenommen haben, nehmen die Mitteilungen nach § 11 Absatz 3 oder 4 unverzüglich vor. Die zuständige Stelle setzt den monatlichen Umlagebetrag gegenüber einer Pflegeeinrichtung, die den Betrieb aufgenommen hat, zum nächstmöglichen Zeitpunkt fest. Der Umlagebetrag wird nach § 12 Absatz 2 oder 3 ermittelt.
 
 (3) Mit der endgültigen Aufgabe des Betriebs eines Krankenhauses oder einer Pflegeeinrichtung endet die Pflicht zur Zahlung von Umlagebeträgen für die Zukunft.
 
 # § 19 – Aufnahme und Aufgabe des Betriebs von Trägern der praktischen Ausbildung oder Pflegeschulen
 
-(1) Wer den Betrieb eines Trägers der praktischen Ausbildung oder einer Pflegeschule nach § 9 und § 65 des Pflegeberufegesetzes aufnimmt oder aufgibt, hat dies der zuständigen Stelle unverzüglich mitzuteilen.
+(1) Wer den Betrieb eines Trägers der praktischen Ausbildung oder einer Pflegeschule nach den §§ 9 und 65 des Pflegeberufegesetzes oder nach den §§ 8 und 51 des Pflegefachassistenzgesetzes aufnimmt oder aufgibt, hat dies der zuständigen Stelle unverzüglich mitzuteilen.
 
 (2) Träger der praktischen Ausbildung oder Pflegeschulen, die den Betrieb aufnehmen, teilen der zuständigen Stelle unverzüglich die Angaben nach § 5 mit und erhalten zum nächstmöglichen Zeitpunkt Ausgleichszuweisungen.
 
@@ -215,7 +229,7 @@ Die Angaben nach Satz 1 Nummer 2 und 3 sind zu begründen.
 
 (1) Bei den Erhebungen nach § 21 Absatz 2 Nummer 1 werden Angaben zu folgenden Erhebungsmerkmalen erfasst:
 
-1. Art des Trägers der praktischen Ausbildung nach § 7 Absatz 1 Nummer 1 bis 3 des Pflegeberufegesetzes,
+1. Art des Trägers der praktischen Ausbildung nach § 7 Absatz 1 Nummer 1 bis 3 des Pflegeberufegesetzes und nach § 6 Absatz 1 Nummer 1 bis 3 des Pflegefachassistenzgesetzes,
 
 2. Art der Trägerschaft jedes Trägers der praktischen Ausbildung und jeder Pflegeschule nach öffentlich, privat oder frei gemeinnützig,
 
@@ -233,17 +247,19 @@ c) das Datum des Beginns der Ausbildung,
 
 d) der Ausbildungsumfang nach Voll- oder Teilzeit,
 
-e) die Tatsache des Erhalts von Fördermitteln nach § 81 des Dritten Buches oder nach § 16 des Zweiten Buches in Verbindung mit § 81 des Dritten Buches Sozialgesetzbuch,
+e) die Tatsache des Erhalts von Fördermitteln nach den §§ 81 oder 82 des Dritten Buches Sozialgesetzbuch,
 
 f) die Bezeichnung des Trägers der praktischen Ausbildung, der besuchten Pflegeschule oder der besuchten Hochschule samt Studiengang,
 
-g) die Art der Pflegeausbildung differenziert nach beruflicher und hochschulischer Pflegeausbildung, einschließlich der Angabe, inwieweit diese jeweils eine zusätzliche Ausbildung nach § 14 Absatz 1 bis 6 des Pflegeberufegesetzes umfasst, sowie nach einer Qualifikation nach § 14 Absatz 7 des Pflegeberufegesetzes und nach einer Qualifikation nach § 66e des Pflegeberufegesetzes,
+g) die Art der Pflegeausbildung,
 
-2. für Personen, die die Ausbildung während des Berichtsjahres beendet haben, zusätzlich Angaben zu Datum und Grund der Beendigung der Ausbildung einschließlich Art des Abschlusses (kein Abschluss, Abschluss nach § 1 des Pflegeberufegesetzes, Abschluss nach § 58 Absatz 1 des Pflegeberufegesetzes, Abschluss nach § 58 Absatz 2 des Pflegeberufegesetzes oder Abschluss nach § 39 Absatz 1 des Pflegeberufegesetzes, jeweils einschließlich der Angabe, inwieweit der Abschluss eine zusätzliche Ausbildung nach § 14 Absatz 1 bis 6 des Pflegeberufegesetzes umfasst, sowie Abschluss mit einer Qualifikation nach § 14 Absatz 7 des Pflegeberufegesetzes und Abschluss mit einer Qualifikation nach § 66e des Pflegeberufegesetzes).
+h) die Staatsangehörigkeit,
 
-g) Art der Ausbildung nach den Teilen 2, 3 oder 5,
+i) die Vorbildung (schulisch und beruflich),
 
-(3) Bei den Erhebungen nach § 21 Absatz 2 Nummer 3 werden für jede sich in der Ausbildung befindliche Person Angaben über die vertraglich vorgesehene Ausbildungsvergütung pro Ausbildungsjahr erfasst.
+2. für Personen, die die Ausbildung während des Berichtsjahres beendet haben, zusätzlich Angaben zu Datum und Grund der Beendigung der Ausbildung einschließlich Art des Abschlusses (kein Abschluss, Abschluss nach § 1 des Pflegeberufegesetzes, Abschluss nach § 58 Absatz 1 des Pflegeberufegesetzes, Abschluss nach § 58 Absatz 2 des Pflegeberufegesetzes, Abschluss nach § 39 Absatz 1 des Pflegeberufegesetzes, jeweils einschließlich der Angabe, inwieweit der Abschluss eine zusätzliche Ausbildung nach § 14 Absatz 1 bis 6 des Pflegeberufegesetzes umfasst, sowie Abschluss mit einer Qualifikation nach § 14 Absatz 7 des Pflegeberufegesetzes und Abschluss mit einer Qualifikation nach § 66e des Pflegeberufegesetzes oder Abschluss nach § 1 des Pflegefachassistenzgesetzes).
+
+(3) Bei den Erhebungen nach § 21 Absatz 2 Nummer 3 werden für jede in der Ausbildung befindliche Person Angaben über die vertraglich vorgesehene Ausbildungsvergütung pro Ausbildungsjahr und über die Art der Ausbildung erfasst.
 
 # § 23 – Hilfsmerkmale
 
@@ -257,11 +273,11 @@ Hilfsmerkmale sind:
 
 # § 24 – Periodizität, Berichtszeitraum und Berichtszeitpunkt
 
-(1) Die Erhebungen werden jährlich für das vorangegangene Kalenderjahr (Berichtsjahr) durchgeführt, erstmals für das Jahr 2020.
+(1) Die Erhebungen werden jährlich für das vorangegangene Kalenderjahr (Berichtsjahr) durchgeführt, erstmals für das Jahr 2020, im Fall der Ausbildung nach dem Pflegefachassistenzgesetz erstmals für das Jahr 2027.
 
 (2) Die Angaben nach § 22 werden jeweils nach dem Stand vom 31. Dezember des Berichtsjahres erhoben.
 
-(3) Die Angaben nach § 22 und § 23 sind bis zum 15. Februar des auf das Berichtsjahr folgenden Jahres dem zuständigen statistischen Landesamt zu melden, erstmals zum 15. Februar 2021.
+(3) Die Angaben nach § 22 und § 23 sind bis zum 15. Februar des auf das Berichtsjahr folgenden Jahres dem zuständigen statistischen Landesamt zu melden, erstmals zum 15. Februar 2021, im Fall der Ausbildung nach dem Pflegefachassistenzgesetz erstmals zum 15. Februar 2028.
 
 # § 25 – Auskunftspflicht
 
@@ -291,7 +307,7 @@ Diese Verordnung tritt am 1. Januar 2019 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-# Anlage 1 – (zu § 3 Absatz 1, § 4 Absatz 1)Kosten der Träger der praktischen Ausbildung und der Pflegeschulen ohne die Mehrkosten der Ausbildungsvergütung nach § 27 Absatz 1 Satz 1 des Pflegeberufegesetzes und ohne die Kosten der Ausbildungsvergütung nach § 39a Absatz 1 des Pflegeberufegesetzes
+# Anlage 1 – (zu § 3 Absatz 1, § 4 Absatz 1)Kosten der Träger der praktischen Ausbildung und der Pflegeschulen ohne Berücksichtigung der Ausbildungsvergütung
 
 (Fundstelle: BGBl. I 2018, 1628 - 1630;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -480,7 +496,7 @@ Ausbildung</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1.2</td>
-<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Kosten der Organisation nach den §§ 8 und 38a des Pflegeberufegesetzes einschließlich Reisekosten</td>
+<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Kosten der Organisation nach den §§ 8 und 38a des Pflegeberufegesetzes sowie nach § 7 des Pflegefachassistenzgesetzes einschließlich Reisekosten</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1.3</td>
@@ -626,15 +642,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 I. Träger der praktischen Ausbildung:  
   
 
-|     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |----|--------------------------------------------------------------------|
-| 1\. | Name und Anschrift des Trägers der Einrichtung und die Bankverbindung, sowie Name und Anschrift des Trägers der praktischen Ausbildung sowie Angabe einer vertretungsberechtigten Person,                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| 2\. | Art der Einrichtung,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| 3\. | in der Ausbildung befindliche Personen (Name, Geburtsdatum, Geschlecht), einschließlich des Datums des Ausbildungsbeginns, des Datums des Ausbildungsendes und des Ausbildungsumfangs (Vollzeit oder Umfang der Teilzeit) sowie der besuchten Pflegeschule mit Adresse oder Hochschule mit Adresse samt Studiengang,                                                                                                                                                                                                                                                                                                        |
-| 4\. | die jeweilige Art der Ausbildung, in der sich die Personen befinden, differenziert nach beruflicher und hochschulischer Pflegeausbildung, einschließlich der Angabe, inwieweit diese jeweils eine zusätzliche Ausbildung nach § 14 Absatz 1 bis 6 des Pflegeberufegesetzes umfasst, sowie nach einer Qualifikation nach § 14 Absatz 7 des Pflegeberufegesetzes und nach einer Qualifikation nach § 66e des Pflegeberufegesetzes,                                                                                                                                                                                            |
-| 5\. | für Träger der praktischen Ausbildung nach § 8 Absatz 2 des Pflegeberufegesetzes die Mehrkosten der Ausbildungsvergütung nach § 27 des Pflegeberufegesetzes je Auszubildender oder Auszubildendem, aufgeschlüsselt nach Monaten,                                                                                                                                                                                                                                                                                                                                                                                            |
-| 6\. | Zeitpunkt des Abschlusses der Ausbildung einschließlich der Art (kein Abschluss, Abschluss nach § 1 des Pflegeberufegesetzes, Abschluss nach § 58 Absatz 1 des Pflegeberufegesetzes, Abschluss nach § 58 Absatz 2 des Pflegeberufegesetzes oder Abschluss nach § 39 Absatz 1 des Pflegeberufegesetzes, jeweils einschließlich der Angabe, inwieweit der Abschluss eine zusätzliche Ausbildung nach § 14 Absatz 1 bis 6 des Pflegeberufegesetzes umfasst, sowie Abschluss mit einer Qualifikation nach § 14 Absatz 7 des Pflegeberufegesetzes und Abschluss mit einer Qualifikation nach § 66e des Pflegeberufegesetzes) und |
-| 7\. | die für den Finanzierungszeitraum vertraglich vorgesehene Ausbildungsvergütung je Person differenziert nach beruflicher und hochschulischer Pflegeausbildung sowie nach einer Qualifikation nach § 14 Absatz 7 des Pflegeberufegesetzes und nach einer Qualifikation nach § 66e des Pflegeberufegesetzes, und den jeweiligen Arbeitgeberbruttobetrag.                                                                                                                                                                                                                                                                       |
+| 1\. | Name und Anschrift des Trägers der Einrichtung und die Bankverbindung, sowie Name und Anschrift des Trägers der praktischen Ausbildung sowie Angabe einer vertretungsberechtigten Person,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| 2\. | Art der Einrichtung,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| 3\. | in der Ausbildung befindliche Personen (Name, Geburtsdatum, Geschlecht), einschließlich des Datums des Ausbildungsbeginns, des Datums des Ausbildungsendes und des Ausbildungsumfangs (Vollzeit oder Umfang der Teilzeit) sowie der besuchten Pflegeschule mit Adresse oder Hochschule mit Adresse samt Studiengang,                                                                                                                                                                                                                                                                                                                                                            |
+| 4\. | die jeweilige Art der Ausbildung, in der sich die Personen befinden,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| 5\. | für Träger der praktischen Ausbildung nach § 8 Absatz 2 des Pflegeberufegesetzes die Mehrkosten der Ausbildungsvergütung nach § 27 des Pflegeberufegesetzes je Auszubildender oder Auszubildendem, aufgeschlüsselt nach Monaten,                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| 6\. | Zeitpunkt des Abschlusses der Ausbildung einschließlich der Art (kein Abschluss, Abschluss nach § 1 des Pflegeberufegesetzes, Abschluss nach § 58 Absatz 1 des Pflegeberufegesetzes, Abschluss nach § 58 Absatz 2 des Pflegeberufegesetzes, Abschluss nach § 39 Absatz 1 des Pflegeberufegesetzes, jeweils einschließlich der Angabe, inwieweit der Abschluss eine zusätzliche Ausbildung nach § 14 Absatz 1 bis 6 des Pflegeberufegesetzes umfasst, sowie Abschluss mit einer Qualifikation nach § 14 Absatz 7 des Pflegeberufegesetzes und Abschluss mit einer Qualifikation nach § 66e des Pflegeberufegesetzes oder Abschluss nach § 1 des Pflegefachassistenzgesetzes) und |
+| 7\. | die für den Finanzierungszeitraum vertraglich vorgesehene Ausbildungsvergütung je Person, differenziert nach Art der Ausbildung, und den jeweiligen Arbeitgeberbruttobetrag.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
 II. Pflegeschulen:  
   
@@ -643,5 +659,5 @@ II. Pflegeschulen:
 |----|--------------------------------------------------------------------|
 | 1\. | Name und Anschrift des Trägers der Pflegeschule und die Bankverbindung, sowie Name und Anschrift der Pflegeschule sowie Angabe einer vertretungsberechtigten Person,                                                                                            |
 | 2\. | in der Ausbildung befindliche Personen (Name, Geburtsdatum, Geschlecht), einschließlich des Ausbildungsbeginns und des Ausbildungsendes und des Umfangs (Vollzeit oder Umfang der Teilzeit), einschließlich des Trägers der praktischen Ausbildung mit Adresse, |
-| 3\. | Anzahl der Fälle der Durchführung einer zusätzlichen Ausbildung nach § 14 Absatz 1 bis 6 des Pflegeberufegesetzes oder einer Qualifikation nach § 14 Absatz 7 des Pflegeberufegesetzes und einer Qualifikation nach § 66e des Pflegeberufegesetzes,             |
+| 3\. | die jeweilige Art der Ausbildung, in der sich die Personen befinden,                                                                                                                                                                                            |
 | 4\. | anderweitig erhaltene Leistungen zur Finanzierung der Ausbildung, beispielsweise Fördermittel nach dem Dritten Kapitel des Dritten Buches Sozialgesetzbuch.                                                                                                     |

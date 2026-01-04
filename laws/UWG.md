@@ -477,7 +477,7 @@ es sei denn, der Beklagte hat im Inland keinen allgemeinen Gerichtsstand.
 
 (4) Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten sind
 
-1. das Umweltbundesamt,
+1. das Bundesamt für Justiz,
 
 2. die Bundesanstalt für Finanzdienstleistungsaufsicht bei einer Zuwiderhandlung, die sich auf die Tätigkeit eines Unternehmens im Sinne des § 2 Nummer 2 des EU-Verbraucherschutzdurchführungsgesetzes bezieht, und
 

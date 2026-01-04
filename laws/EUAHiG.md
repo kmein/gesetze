@@ -323,7 +323,7 @@ b) auf einem Antrag gemäß Absatz 5 Satz 3 beruhen.
 
 Auf die praktischen Regelungen, die zur Erleichterung des Austauschs der in diesem Absatz aufgezählten Informationen von der Europäischen Kommission zur Umsetzung von Artikel 8a der Amtshilferichtlinie erlassen worden sind, wird verwiesen. Hierzu zählen auch Maßnahmen zur standardisierten Übermittlung der in diesem Absatz genannten Informationen als Teil des Verfahrens zur Festlegung des Standardformblatts, das gemäß Artikel 20 Absatz 5 der Amtshilferichtlinie vorgesehenen ist. Ab dem Zeitpunkt seiner Bereitstellung ist das Zentralverzeichnis der Mitgliedstaaten gemäß Artikel 21 Absatz 5 der Amtshilferichtlinie zu nutzen.
 
-(8) In den Fällen der Absätze 1 bis 5 und 9 bis 14b ist gemäß § 117 Absatz 4 Satz 3 der Abgabenordnung keine Anhörung der Beteiligten erforderlich.
+(8) In den Fällen der Absätze 1 bis 5 und 9 bis 14c ist gemäß § 117 Absatz 4 Satz 3 der Abgabenordnung keine Anhörung der Beteiligten erforderlich.
 
 (9) Das zentrale Verbindungsbüro nimmt die ihm von den zuständigen Behörden aller anderen Mitgliedstaaten der Europäischen Union gemäß Artikel 8a der Amtshilferichtlinie übermittelten Informationen entgegen; ab dem Zeitpunkt seiner Bereitstellung ist das Zentralverzeichnis der Mitgliedstaaten der Europäischen Union gemäß Artikel 21 Absatz 5 der Amtshilferichtlinie zu nutzen. Das zentrale Verbindungsbüro leitet die Informationen zur Durchführung des Besteuerungsverfahrens nach Maßgabe des § 88 Absatz 3 und 4 der Abgabenordnung an die jeweils zuständige Landesfinanzbehörde weiter. Unbeschadet des Satzes 2 greifen die zuständigen Stellen auf die Informationen nach Satz 1 zu; hierzu werden gemäß § 3 Absatz 2 Satz 2 Verbindungsstellen im Sinne des Artikels 4 Absatz 3 und zuständige Bedienstete im Sinne des Artikels 4 Absatz 4 der Amtshilferichtlinie unter Berücksichtigung der in Artikel 21 der Amtshilferichtlinie enthaltenen Regelungen zur Anwendung der dort genannten technischen Verfahren benannt.
 
@@ -346,6 +346,8 @@ Auf die praktischen Regelungen, die zur Erleichterung des Austauschs der in dies
 Die Übermittlung erfolgt auf elektronischem Weg. Auf die praktischen Regelungen, die zur Erleichterung des Austauschs der in Satz 1 genannten Informationen von der Europäischen Kommission zur Umsetzung von Artikel 8ac der Amtshilferichtlinie erlassen worden sind, wird verwiesen. Hierzu zählen auch Maßnahmen zur standardisierten Übermittlung der in Satz 1 genannten Informationen als Teil des Verfahrens zur Festlegung des Standardformats, das gemäß Artikel 20 Absatz 4 der Amtshilferichtlinie vorgesehen ist.
 
 (14b) Das zentrale Verbindungsbüro übermittelt im Wege des automatischen Austauschs die ihm nach § 9 des Kryptowerte-Steuertransparenz-Gesetzes gemeldeten Informationen über zu meldende Nutzer und zu meldende beherrschende Personen an die zuständigen Behörden aller Mitgliedstaaten der Europäischen Union, in denen der jeweilige zu meldende Nutzer oder die jeweilige zu meldende beherrschende Person als ansässig gilt. Die Übermittlung erfolgt auf elektronischem Weg.
+
+(14c) Das zentrale Verbindungsbüro übermittelt im Wege des automatischen Austauschs die ihm nach § 75 Absatz 1 des Mindeststeuergesetzes gemeldeten Informationen zu Mindeststeuer-Berichten steuerpflichtiger Geschäftseinheiten, die Angaben für einen Mitgliedstaat der Europäischen Union enthalten, an die zuständigen Behörden aller betroffenen Mitgliedstaaten der Europäischen Union.
 
 (15) Das Bundeszentralamt für Steuern ist berechtigt, die Informationen gemäß den Absätzen 1 bis 5, 7 und 9 bis 14b zur Erfüllung der ihm gesetzlich übertragenen Aufgaben auszuwerten. Auswertungen der Informationen nach Satz 1 durch die jeweils zuständige Landesfinanzbehörde bleiben hiervon unberührt. Für Informationen gemäß Absatz 14 Satz 2 finden § 138j der Abgabenordnung und § 21a Absatz 5 des Finanzverwaltungsgesetzes entsprechende Anwendung.
 
@@ -553,7 +555,7 @@ In Fällen des Satzes 3 Nummer 2 können die erhaltenen Informationen und Schrif
 
 1. der Europäischen Kommission
 
-a) jährlich Statistiken zum Umfang des automatischen Informationsaustauschs gemäß § 7 Absatz 1, 2, 10, 11 und 14a und Angaben zu den administrativen und anderen einschlägigen Kosten und Nutzen des erfolgten Austauschs und zu allen möglichen Änderungen, sowohl für die Steuerverwaltung als auch für Dritte,
+a) jährlich Statistiken zum Umfang des automatischen Informationsaustauschs gemäß § 7 Absatz 1, 2, 10, 11, 14a und Angaben zu den administrativen und anderen einschlägigen Kosten und Nutzen des erfolgten Austauschs und zu allen möglichen Änderungen, sowohl für die Steuerverwaltung als auch für Dritte,
 
 b) jährlich die Ergebnisse der Bewertung nach Absatz 1,
 
@@ -584,3 +586,5 @@ Bei der Übermittlung ist die Durchführungsverordnung (EU) 2015/2378 der Kommis
 (6) § 7 Absatz 14a ist erstmals ab dem 1. Januar 2023 anzuwenden.
 
 (7) § 7 Absatz 14b ist erstmals ab dem 1. Januar 2026 anzuwenden.
+
+(8) Die automatische Übermittlung von Informationen nach § 7 Absatz 14c ist ab dem 1. Januar 2026 vorzunehmen und erstmals auf Informationen der Geschäftsjähre, die nach dem 30. Dezember 2023 beginnen, anzuwenden.

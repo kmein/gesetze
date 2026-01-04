@@ -794,7 +794,7 @@ Keine ausschüttungsgleichen Erträge sind die inländischen Beteiligungseinnahm
 
 # § 37 – Ermittlung der Einkünfte
 
-(1) Der Spezial-Investmentfonds ermittelt die Einkünfte des Spezial-Investmentfonds entsprechend § 2 Absatz 2 Satz 1 Nummer 2 und § 23 Absatz 3 des Einkommensteuergesetzes und gliedert sie nach den steuerlichen Wirkungen beim Anleger. Dabei sind insbesondere die Einkünfte gesondert auszuweisen, bei denen beim Anleger die Regelungen nach den §§ 42 bis 47 zur Anwendung kommen.
+(1) Der Spezial-Investmentfonds ermittelt die Einkünfte des Spezial-Investmentfonds entsprechend § 2 Absatz 2 Satz 1 Nummer 2 und § 23 Absatz 3 des Einkommensteuergesetzes und gliedert sie nach den steuerlichen Wirkungen beim Anleger. Dabei sind insbesondere die Einkünfte gesondert auszuweisen, bei denen beim Anleger die Regelungen nach den §§ 42 bis 47 zur Anwendung kommen. Hinzurechnungsbeträge nach § 10 des Außensteuergesetzes sind nicht in die Ermittlung der Einkünfte nach Satz 1 einzubeziehen.
 
 (2) Spezial-Investmenterträge, die einem Dach-Spezial-Investmentfonds zufließen oder die als zugeflossen gelten, sind nach der Art der Einkünfte des Ziel-Spezial-Investmentfonds und nach den steuerlichen Wirkungen bei den Anlegern des Dach-Spezial-Investmentfonds zu gliedern, sofern in Kapitel 3 keine abweichenden Bestimmungen getroffen werden. Bei der Gliederung nach Satz 1 sind die Spezial-Investmenterträge nach § 34 Absatz 1 Nummer 1 und 2 nicht als steuerfrei thesaurierbare Kapitalerträge im Sinne des § 36 Absatz 2 anzusetzen.
 
@@ -878,7 +878,7 @@ Nummer 1 des Einkommensteuergesetzes abzuziehen, wenn der Spezial-Investmentfond
 (+++ § 42: Zur Anwendung vgl. § 15 KStG 1977 +++)  
 (+++ § 42 Abs. 1 bis 3: Zur Anwendung vgl. § 48 Abs. 2 +++)
 
-# § 43 – Steuerbefreiung aufgrund von Abkommen zur Vermeidung der Doppelbesteuerung, der Hinzurechnungsbesteuerung und der Teilfreistellung
+# § 43 – Steuerbefreiung aufgrund von Abkommen zur Vermeidung der Doppelbesteuerung und der Teilfreistellung
 
 (1) Die ausgeschütteten und ausschüttungsgleichen Erträge sind bei der Veranlagung des Anlegers insoweit von der Bemessungsgrundlage der deutschen Steuer auszunehmen, als sie aus einem ausländischen Staat stammende Einkünfte enthalten, für die die Bundesrepublik Deutschland aufgrund eines Abkommens zur Vermeidung der Doppelbesteuerung auf die Ausübung des Besteuerungsrechts verzichtet hat. Die Steuerfreistellung nach Satz 1 ist ausgeschlossen, wenn die jeweiligen Einkünfte des Spezial-Investmentfonds in dem ausländischen Staat, aus dem sie stammen, keiner tatsächlichen Besteuerung unterlegen haben. Die Sätze 1 und 2 sind nicht auf Erträge nach § 20 Absatz 1 Nummer 1 und 3 des Einkommensteuergesetzes anzuwenden. Satz 3 ist nicht auf Erträge nach § 20 Absatz 1 Nummer 1 des Einkommensteuergesetzes aus einer Gesellschaft im Sinne des § 26 Nummer 6 Satz 2 anzuwenden, soweit
 
@@ -1298,3 +1298,5 @@ in der Fassung des Artikels 14 des Gesetzes vom 16. Dezember 2022 (BGBl. I S. 22
 7. § 19 Absatz 3 erstmals auf Fälle, in denen die unbeschränkte Steuerpflicht des Anlegers nach dem 31. Dezember 2024 endet, die Investmentanteile nach dem 31. Dezember 2024 unentgeltlich übertragen werden oder der Ausschluss oder die Beschränkung des Besteuerungsrechts der Bundesrepublik Deutschland hinsichtlich des Gewinns aus der Veräußerung der Investmentanteile nach dem 31. Dezember 2024 eingetreten ist, und
 
 8. § 49 Absatz 5 erstmals auf Fälle, in denen die unbeschränkte Steuerpflicht des Anlegers nach dem 31. Dezember 2024 endet, die Spezial-Investmentanteile nach dem 31. Dezember 2024 unentgeltlich übertragen werden oder der Ausschluss oder die Beschränkung des Besteuerungsrechts der Bundesrepublik Deutschland hinsichtlich des Gewinns aus der Veräußerung der Spezial-Investmentanteile nach dem 31. Dezember 2024 eingetreten ist.
+
+(11) § 37 Absatz 1 Satz 3 in der Fassung des Artikels 7 des Gesetzes vom 22. Dezember 2025 (BGBl. 2025 I Nr. 353) ist erstmals anzuwenden für Geschäftsjahre, die nach dem 23. Dezember 2025 beginnen.

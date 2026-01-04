@@ -17,13 +17,15 @@
 
 (2) Die Erhebungen erstrecken sich auf
 
-1. folgende Gruppen des Anhangs I der Verordnung (EG) Nr. 1893/2006 des Europäischen Parlaments und des Rates vom 20. Dezember 2006 zur Aufstellung der statistischen Systematik der Wirtschaftszweige NACE Revision 2 und zur Änderung der Verordnung (EWG) Nr. 3037/90 des Rates sowie einiger Verordnungen der EG über bestimmte Bereiche der Statistik (ABl. L 393 vom 30.12.2006, S. 1) in der jeweils geltenden Fassung:
+1. folgende Wirtschaftsgruppen des Anhangs I der Verordnung (EG) Nr. 1893/2006 in Verbindung mit der vom Statistischen Bundesamt daraus erstellten Klassifikation der Wirtschaftszweige:
 
-a) 55.1 Hotels, Gasthöfe und Pensionen,
+a) 55.1 – Hotels, Gasthöfe und Pensionen,
 
-b) 55.2 Ferienunterkünfte und ähnliche Beherbergungsstätten,
+b) 55.2 – Ferienunterkünfte und ähnliche Beherbergungsstätten,
 
-c) 55.3 Campingplätze;
+c) 55.3 – Campingplätze,
+
+d) 55.4 – Vermittlungstätigkeiten für Beherbergungsdienstleistungen;
 
 2. Schulungsheime;
 

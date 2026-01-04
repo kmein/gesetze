@@ -220,6 +220,14 @@
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zahlung durch den Dienstherrn bei Schmerzensgeldansprüchen</td>
 </tr>
 <tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 31b</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Zuschuss zum Erwerb einer Fahrerlaubnis der Klasse B</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 31c</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Zuschuss zum Erwerb einer Fahrerlaubnis der Klasse C oder C1</td>
+</tr>
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 32</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Dienstzeitbescheinigung und Dienstzeugnis</td>
 </tr>
@@ -401,7 +409,7 @@ als besonderes staatsbürgerliches Engagement</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">3.</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Freiwilliger Wehrdienst als besonderes staatsbürgerliches Engagement</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Freiwilliger Wehrdienst als besonderes staatsbürgerliches Engagement; Datenverarbeitung</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 58b</td>
@@ -409,7 +417,7 @@ als besonderes staatsbürgerliches Engagement</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 58c</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Übermittlung personenbezogener Daten durch die Meldebehörden</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Verwendung und Löschung von Daten bei der Übersendung von Informationsmaterial</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 58d</td>
@@ -432,80 +440,88 @@ als besonderes staatsbürgerliches Engagement</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beendigung des freiwilligen Wehrdienstes nach § 58b</td>
 </tr>
 <tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 58i</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Freiwillige Bereitschaftserklärung; Datenverarbeitung</td>
+</tr>
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 <br />
 
 Vierter Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Dienstleistungspflicht</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> <br />
 <br />
 1. Umfang und Arten der Dienstleistungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 59</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Personenkreis</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 60</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Arten der Dienstleistungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 61</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 62</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Besondere Auslandsverwendungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 63</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Hilfeleistungen im Innern</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 63a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Hilfeleistungen im Ausland</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 63b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Wehrdienst zur temporären Verbesserung der personellen Einsatzbereitschaft</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> <br />
 <br />
 2. Dienstleistungsausnahmen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 64</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Dienstunfähigkeit</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 65</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ausschluss von Dienstleistungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 66</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befreiung von Dienstleistungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 67</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zurückstellung von Dienstleistungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 68</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Unabkömmlichstellung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> <br />
 <br />
 3. Heranziehungsverfahren</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 69</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zuständigkeit</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 69a</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Register für der Dienstleistungsüberwachung unterliegende Personen</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 70</td>
@@ -621,7 +637,9 @@ Sechster Abschnitt</td>
 Siebter Abschnitt</td>
 </tr>
 <tr class="odd">
-<td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Bußgeldvorschriften; Übergangs- und Schlussvorschriften</td>
+<td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Sonderregelungen, Bußgeld-,
+Übergangs-
+und Schlussvorschriften</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 86</td>
@@ -645,43 +663,51 @@ Siebter Abschnitt</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 91</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Aufwuchs des aktiven militärischen Personals und der Reserve</td>
 </tr>
 <tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 91a</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Bericht über den Aufwuchs des militärischen Personals und der Reserve</td>
+</tr>
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 92</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsvorschrift für die Laufbahnen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 93</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verordnungsermächtigungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 94</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsvorschrift aus Anlass des Änderungsgesetzes vom 24. Februar 1983 (BGBl. I S. 179)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 95</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsvorschrift aus Anlass des Änderungsgesetzes vom 6. Dezember 1990 (BGBl. I S. 2588)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 96</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsvorschrift aus Anlass des Dienstrechtsneuordnungsgesetzes</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 97</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsvorschrift aus Anlass des Änderungsgesetzes vom 19. Dezember 2000 (BGBl. I S. 1815)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 98</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsvorschrift aus Anlass des Wehrrechtsänderungsgesetzes 2011</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 99</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsvorschrift aus Anlass des Einsatzversorgungs-Verbesserungsgesetzes</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 100</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsvorschrift aus Anlass des Gesetzes zur Beitragsentlastung der Versicherten in der gesetzlichen Krankenversicherung</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 101</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsvorschrift aus Anlass des Wehrdienst-Modernisierungsgesetzes</td>
 </tr>
 </tbody>
 </table>
@@ -702,7 +728,7 @@ Siebter Abschnitt</td>
 
 (1) Das Wehrdienstverhältnis beginnt
 
-1. bei einem Soldaten, der nach dem Vierten Abschnitt zur Dienstleistung herangezogen wird, mit dem Zeitpunkt, der im Heranziehungsbescheid für den Diensteintritt festgesetzt wird,
+1. bei einem Soldaten, der nach dem Wehrpflichtgesetz einberufen oder nach dem Vierten Abschnitt zur Dienstleistung herangezogen wird, mit dem Zeitpunkt, der im Einberufungsbescheid oder im Heranziehungsbescheid für den Diensteintritt festgesetzt wird,
 
 2. bei einem Berufssoldaten oder Soldaten auf Zeit mit dem Zeitpunkt der Ernennung,
 
@@ -816,7 +842,7 @@ Der Soldat muss die freiheitliche demokratische Grundordnung im Sinne des Grundg
 
 (1) Berufssoldaten und Soldaten auf Zeit haben folgenden Diensteid zu leisten:  
 "Ich schwöre, der Bundesrepublik Deutschland treu zu dienen und das Recht und die Freiheit des deutschen Volkes tapfer zu verteidigen, so wahr mir Gott helfe."  
-Der Eid kann auch ohne die Worte "so wahr mir Gott helfe" geleistet werden. Gestattet ein Bundesgesetz den Mitgliedern einer Religionsgesellschaft, an Stelle der Worte "ich schwöre" andere Beteuerungsformeln zu gebrauchen, so kann das Mitglied einer solchen Religionsgesellschaft diese Beteuerungsformel sprechen.
+Der Eid kann auch ohne die Worte "so wahr mir Gott helfe" geleistet werden. Lehnt ein Soldat aus Glaubens- oder Gewissensgründen die Ablegung des vorgeschriebenen Eides ab, so kann er an Stelle der Worte „ich schwöre“ eine andere Beteuerungsformel sprechen.
 
 (2) Soldaten, die freiwilligen Wehrdienst nach § 58b oder Wehrdienst nach Maßgabe des Wehrpflichtgesetzes leisten, bekennen sich zu ihren Pflichten durch das folgende feierliche Gelöbnis:  
 "Ich gelobe, der Bundesrepublik Deutschland treu zu dienen und das Recht und die Freiheit des deutschen Volkes tapfer zu verteidigen."
@@ -917,7 +943,7 @@ Das Grundrecht auf körperliche Unversehrtheit (Artikel 2 Absatz 2 Satz 1 des Gr
 
 # § 18 – Gemeinschaftsunterkunft und Gemeinschaftsverpflegung
 
-Der Soldat ist auf dienstliche Anordnung verpflichtet, in einer Gemeinschaftsunterkunft zu wohnen und an einer Gemeinschaftsverpflegung teilzunehmen. Die zur Durchführung erforderlichen Verwaltungsvorschriften erlässt das Bundesministerium der Verteidigung im Einvernehmen mit dem Bundesministerium des Innern und für Heimat.
+Der Soldat ist auf dienstliche Anordnung verpflichtet, in einer Gemeinschaftsunterkunft zu wohnen und an einer Gemeinschaftsverpflegung teilzunehmen. Die zur Durchführung erforderlichen Verwaltungsvorschriften erlässt das Bundesministerium der Verteidigung im Einvernehmen mit dem Bundesministerium des Innern.
 
 # § 19 – Verbot der Annahme von Belohnungen oder Geschenken, Herausgabe- und Auskunftspflicht
 
@@ -1060,7 +1086,7 @@ c) die Ablegung einer Offizierprüfung,
 (7) Die besonderen Vorschriften für die Unteroffizierprüfungen und die Offizierprüfungen werden nach den Grundsätzen der Absätze 2 bis 6 in einer Rechtsverordnung bestimmt.
 
 (8) Auf den Bundespersonalausschuss in der Zusammensetzung für die Angelegenheiten der Soldaten sind die Vorschriften des Abschnittes 8 des Bundesbeamtengesetzes entsprechend anzuwenden, § 120 Abs. 2 und 3 mit folgender Maßgabe:  
-Ständige ordentliche Mitglieder sind der Präsident des Bundesrechnungshofes als Vorsitzender, der Leiter der Dienstrechtsabteilung des Bundesministeriums des Innern und für Heimat und der Leiter der Personalabteilung des Bundesministeriums der Verteidigung. Nichtständige ordentliche Mitglieder sind der Leiter der Personalabteilung einer anderen obersten Bundesbehörde und drei Berufssoldaten. Stellvertretende Mitglieder sind je ein Beamter des Bundesrechnungshofes und des Bundesministeriums des Innern und für Heimat, der Leiter der Personalabteilung einer anderen obersten Bundesbehörde, ein Beamter oder Berufssoldat des Bundesministeriums der Verteidigung und drei weitere Berufssoldaten. Der Beamte oder Berufssoldat des Bundesministeriums der Verteidigung und die übrigen Berufssoldaten werden vom Bundespräsidenten auf Vorschlag des Bundesministers der Verteidigung bestellt.
+Ständige ordentliche Mitglieder sind der Präsident des Bundesrechnungshofes als Vorsitzender, der Leiter der Dienstrechtsabteilung des Bundesministeriums des Innern und der Leiter der Personalabteilung des Bundesministeriums der Verteidigung. Nichtständige ordentliche Mitglieder sind der Leiter der Personalabteilung einer anderen obersten Bundesbehörde und drei Berufssoldaten. Stellvertretende Mitglieder sind je ein Beamter des Bundesrechnungshofes und des Bundesministeriums des Innern, der Leiter der Personalabteilung einer anderen obersten Bundesbehörde, ein Beamter oder Berufssoldat des Bundesministeriums der Verteidigung und drei weitere Berufssoldaten. Der Beamte oder Berufssoldat des Bundesministeriums der Verteidigung und die übrigen Berufssoldaten werden vom Bundespräsidenten auf Vorschlag des Bundesministers der Verteidigung bestellt.
 
 # § 27a – Dienstliche Beurteilung; Verordnungsermächtigung
 
@@ -1499,6 +1525,42 @@ Sobald die Voraussetzungen für eine Anhebung nach Satz 1 nicht mehr erfüllt si
 
 (5) Absatz 1 ist nicht anzuwenden auf Schmerzensgeldansprüche, die im Wege des Urkundenprozesses nach den §§ 592 bis 600 der Zivilprozessordnung festgestellt worden sind.
 
+# § 31b – Zuschuss zum Erwerb einer Fahrerlaubnis der Klasse B
+
+(1) Personen, die sich erstmalig freiwillig für einen Wehrdienst mit Dienstantritt ab dem 1. Januar 2026 verpflichtet und einen durchgehenden Wehrdienst von mindestens zwölf Monaten geleistet haben, wird nach Maßgabe der Absätze 2 bis 4 anstelle eines Zuschusses nach § 31c auf Antrag ein einmaliger Zuschuss für den erstmaligen Erwerb einer Fahrerlaubnis der Klasse B im Sinne der Fahrerlaubnis-Verordnung gewährt.
+
+(2) Die Gewährung des Zuschusses setzt voraus, dass eine Fahrschulausbildung innerhalb von zwölf Monaten vor Antritt und zwölf Monaten nach Beendigung des Wehrdienstes mit dem Erwerb einer Fahrerlaubnis der Klasse B abgeschlossen wurde.
+
+(3) Der Antrag auf Gewährung des Zuschusses ist innerhalb von zwölf Monaten nach Vorliegen der Voraussetzungen nach den Absätzen 1 und 2 zu stellen.
+
+(4) Der Zuschuss wird bis zu einer Höhe von 3 500 Euro gewährt, soweit die nachgewiesenen Kosten
+
+1. auf den Besuch einer Fahrschule sowie auf die Gebühren der Fahrerlaubnisprüfung entfallen sind,
+
+2. für den Erwerb einer Fahrerlaubnis der Klasse B aufgewendet wurden,
+
+3. der verpflichteten Person tatsächlich entstanden sind und
+
+4. nicht anderweitig erstattet oder bezuschusst wurden.
+
+# § 31c – Zuschuss zum Erwerb einer Fahrerlaubnis der Klasse C oder C1
+
+(1) Personen, die sich erstmalig freiwillig für einen Wehrdienst mit Dienstantritt ab dem 1. Januar 2026 verpflichtet und einen durchgehenden Wehrdienst von mindestens zwölf Monaten geleistet haben, wird nach Maßgabe der Absätze 2 bis 4 anstelle eines Zuschusses nach § 31b auf Antrag ein einmaliger Zuschuss für den erstmaligen Erwerb einer Fahrerlaubnis der Klasse C oder C1 im Sinne der Fahrerlaubnis-Verordnung gewährt.
+
+(2) Die Gewährung des Zuschusses setzt voraus, dass eine Fahrschulausbildung innerhalb von zwölf Monaten vor Antritt und 36 Monaten nach Beendigung des Wehrdienstes mit dem Erwerb einer Fahrerlaubnis der Klasse C oder C1 abgeschlossen wurde.
+
+(3) Der Antrag auf Gewährung des Zuschusses ist innerhalb von zwölf Monaten nach Vorliegen der Voraussetzungen nach den Absätzen 1 und 2 zu stellen.
+
+(4) Der Zuschuss wird bis zu einer Höhe von 5 000 Euro gewährt, soweit die nachgewiesenen Kosten
+
+1. auf den Besuch einer Fahrschule sowie auf die Gebühren der Fahrerlaubnisprüfung entfallen sind,
+
+2. für den Erwerb einer Fahrerlaubnis der Klasse C oder C1 aufgewendet wurden,
+
+3. der verpflichteten Person tatsächlich entstanden sind und
+
+4. nicht anderweitig erstattet oder bezuschusst wurden.
+
 # § 32 – Dienstzeitbescheinigung und Dienstzeugnis
 
 (1) Der Soldat erhält nach Beendigung seines Wehrdienstes eine Dienstzeitbescheinigung. Auf Antrag ist ihm bei einer Dienstzeit von mindestens vier Wochen von seinem nächsten Disziplinarvorgesetzten ein Dienstzeugnis zu erteilen, das über die Art und Dauer der wesentlichen von ihm bekleideten Dienststellungen, über seine Führung, seine Tätigkeit und seine Leistung im Dienst Auskunft gibt. Das Bundesministerium der Verteidigung kann die Zuständigkeit nach Satz 2 anders bestimmen.
@@ -1577,7 +1639,7 @@ In das Dienstverhältnis eines Berufssoldaten können berufen werden
 
 (4) Die Dauer der Berufung eines Soldaten, dessen militärische Ausbildung vor dem Beginn einer Elternzeit nach § 28 Absatz 7 bereits mehr als sechs Monate mit einem Studium oder einer Fachausbildung verbunden ist oder war, verlängert sich ohne die Beschränkungen des Absatzes 1 um die Dauer der Elternzeit. Gleiches gilt für einen Soldaten, der eine Teilzeitbeschäftigung nach § 30a in Anspruch genommen hat; die Dauer der Berufung verlängert sich um die Differenz der Teilzeitbeschäftigung zur Vollzeitbeschäftigung.
 
-(5) Ist ein Soldat auf Zeit während einer besonderen Auslandsverwendung zum Zeitpunkt des Ablaufs seiner Dienstzeit wegen Verschleppung, Gefangenschaft oder aus sonstigen mit dem Dienst zusammenhängenden Gründen, die er nicht zu vertreten hat, dem Einflussbereich des Dienstherrn entzogen, verlängert sich die Dauer der Berufung ohne die Beschränkungen des Absatzes 1 bis zum Ablauf des auf die Beendigung dieses Zustands folgenden Monats. Dies gilt auch bei anderen Verwendungen im Ausland mit vergleichbarer Gefährdungslage.
+(5) Ist ein Soldat auf Zeit zum Zeitpunkt des Ablaufs seiner Dienstzeit wegen Verschleppung, Gefangenschaft oder aus sonstigen mit dem Dienst zusammenhängenden Gründen dem Einflussbereich des Dienstherrn entzogen, so verlängert sich die Dauer der Berufung ohne die Beschränkungen des Absatzes 1 bis zum Ablauf des auf die Beendigung dieses Zustands folgenden Monats.
 
 (6) In die Dienstzeit wird der Wehrdienst eingerechnet, der in der Bundeswehr bis zur Berufung in das Dienstverhältnis eines Soldaten auf Zeit geleistet worden ist.
 
@@ -1627,7 +1689,7 @@ An Stelle der Worte "unter Berufung" können die Worte "ich berufe" verwendet we
 
 # § 44 – Eintritt oder Versetzung in den Ruhestand
 
-(1) Ein Berufssoldat tritt in den Ruhestand mit Ablauf des Monats, in dem er die nach § 45 Abs. 1 festgesetzte allgemeine Altersgrenze erreicht hat. Der Eintritt in den Ruhestand kann aus dienstlichen Gründen bis zum Ablauf des 31. März oder 30. September, der dem Erreichen der allgemeinen Altersgrenze folgt, hinausgeschoben werden. Wenn dringende dienstliche Gründe im Einzelfall die Fortführung des Dienstes erfordern, kann das Bundesministerium der Verteidigung oder eine von ihm beauftragte Stelle den Eintritt in den Ruhestand hinausschieben, jedoch für nicht mehr als drei Jahre. Der Eintritt in den Ruhestand kann auf Antrag des Berufssoldaten um bis zu einem Jahr hinausgeschoben werden, wenn dies im dienstlichen Interesse liegt. Der Antrag soll spätestens drei Jahre vor dem Erreichen der allgemeinen Altersgrenze gestellt werden. Ist ein Berufssoldat während einer besonderen Auslandsverwendung zum Zeitpunkt des vorgesehenen Eintritts in den Ruhestand wegen Verschleppung, Gefangenschaft oder aus sonstigen mit dem Dienst zusammenhängenden Gründen, die er nicht zu vertreten hat, dem Einflussbereich des Dienstherrn entzogen, ist der Eintritt in den Ruhestand bis zum Ablauf des auf die Beendigung dieses Zustands folgenden Monats hinauszuschieben; dies gilt auch bei anderen Verwendungen im Ausland mit vergleichbarer Gefährdungslage.
+(1) Ein Berufssoldat tritt in den Ruhestand mit Ablauf des Monats, in dem er die nach § 45 Abs. 1 festgesetzte allgemeine Altersgrenze erreicht hat. Der Eintritt in den Ruhestand kann aus dienstlichen Gründen bis zum Ablauf des 31. März oder 30. September, der dem Erreichen der allgemeinen Altersgrenze folgt, hinausgeschoben werden. Wenn dringende dienstliche Gründe im Einzelfall die Fortführung des Dienstes erfordern, kann das Bundesministerium der Verteidigung oder eine von ihm beauftragte Stelle den Eintritt in den Ruhestand hinausschieben, jedoch für nicht mehr als drei Jahre. Der Eintritt in den Ruhestand kann auf Antrag des Berufssoldaten um bis zu einem Jahr hinausgeschoben werden, wenn dies im dienstlichen Interesse liegt. Der Antrag soll spätestens drei Jahre vor dem Erreichen der allgemeinen Altersgrenze gestellt werden. Ist ein Berufssoldat zum Zeitpunkt des vorgesehenen Eintritts in den Ruhestand wegen Verschleppung, Gefangenschaft oder aus sonstigen mit dem Dienst zusammenhängenden Gründen dem Einflussbereich des Dienstherrn entzogen, so ist der Eintritt in den Ruhestand bis zum Ablauf des auf die Beendigung dieses Zustands folgenden Monats hinauszuschieben.
 
 (2) Ein Berufssoldat, der die für ihn geltende besondere Altersgrenze nach § 45 Absatz 2 erreicht hat, kann zum Ende eines Kalendermonats in den Ruhestand versetzt werden. Dem Berufssoldaten ist auf Antrag die Fortsetzung des Dienstverhältnisses um bis zu zwei Jahre über die besondere Altersgrenze hinaus zuzusichern, wenn dies im dienstlichen Interesse liegt. Der Antrag soll spätestens drei Jahre vor Erreichen der besonderen Altersgrenze gestellt werden.
 
@@ -1947,13 +2009,15 @@ Die Rechtsstellung der Soldaten in einem Reservewehrdienstverhältnis wird durch
 
 # § 58b – Freiwilliger Wehrdienst als besonderes staatsbürgerliches Engagement
 
-(1) Frauen und Männer können sich verpflichten, freiwilligen Wehrdienst als besonderes staatsbürgerliches Engagement zu leisten. Der freiwillige Wehrdienst als besonderes staatsbürgerliches Engagement besteht aus einer sechsmonatigen Probezeit und bis zu 17 Monaten anschließendem Wehrdienst.
+(1) Freiwilligen Wehrdienst als besonderes staatsbürgerliches Engagement kann leisten, wer sich verpflichtet, mindestens sechs und längstens elf Monate Wehrdienst zu leisten.
 
-(2) Die §§ 37 und 38 gelten entsprechend.
+(2) Die ersten sechs Monate gelten als Probezeit.
 
-# § 58c – Übermittlung personenbezogener Daten durch die Meldebehörden
+(3) Die §§ 37 und 38 gelten entsprechend.
 
-(1) Zum Zweck der Übersendung von Informationsmaterial nach Absatz 2 übermitteln die Meldebehörden dem Bundesamt für das Personalmanagement der Bundeswehr jährlich bis zum 31. März folgende Daten zu Personen mit deutscher Staatsangehörigkeit, die im nächsten Jahr volljährig werden:
+# § 58c – Verwendung und Löschung von Daten bei der Übersendung von Informationsmaterial
+
+(1) Zum Zweck der Übersendung von Informationsmaterial nach Absatz 2 übermitteln die Meldebehörden dem Bundesamt für das Personalmanagement der Bundeswehr jährlich bis zum 31. März folgende Daten zu Personen mit deutscher Staatsangehörigkeit, die im darauffolgenden Kalenderjahr volljährig werden:
 
 1. Familienname,
 
@@ -1961,11 +2025,9 @@ Die Rechtsstellung der Soldaten in einem Reservewehrdienstverhältnis wird durch
 
 3. gegenwärtige Anschrift.
 
-Die Datenübermittlung unterbleibt, wenn die betroffenen Personen ihr nach § 36 Absatz 2 des Bundesmeldegesetzes widersprochen haben.
-
 (2) Das Bundesamt für das Personalmanagement der Bundeswehr darf die Daten nur dazu verwenden, Informationsmaterial über Tätigkeiten in den Streitkräften zu versenden.
 
-(3) Das Bundesamt für das Personalmanagement der Bundeswehr hat die Daten zu löschen, wenn die betroffenen Personen dies verlangen, spätestens jedoch nach Ablauf eines Jahres nach der erstmaligen Speicherung der Daten beim Bundesamt für das Personalmanagement der Bundeswehr.
+(3) Das Bundesamt für das Personalmanagement der Bundeswehr hat die Daten spätestens nach Ablauf eines Jahres nach Übermittlung der Daten zu löschen.
 
 # § 58d – Beratung und Untersuchung
 
@@ -1979,7 +2041,7 @@ Die Datenübermittlung unterbleibt, wenn die betroffenen Personen ihr nach § 36
 
 # § 58e – Verpflichtung
 
-(1) Die Verpflichtungserklärung nach § 58b Absatz 1 Satz 1 bedarf der Schriftform. Für eine besondere Auslandsverwendung ist eine gesonderte schriftliche Verpflichtungserklärung erforderlich. Für eine Festsetzung der Dienstzeit auf zwölf oder mehr Monate ist die Abgabe der Verpflichtungserklärung nach Satz 2 erforderlich.
+(1) Die Verpflichtungserklärung nach § 58b Absatz 1 Satz 1 bedarf der Schriftform. Für eine besondere Auslandsverwendung ist eine gesonderte schriftliche Verpflichtungserklärung erforderlich.
 
 (2) Die Verpflichtungserklärungen nach Absatz 1 bedürfen der Annahme durch ein Karrierecenter der Bundeswehr.
 
@@ -1987,7 +2049,7 @@ Die Datenübermittlung unterbleibt, wenn die betroffenen Personen ihr nach § 36
 
 # § 58f – Status
 
-Regelungen in anderen Gesetzen oder Rechtsverordnungen, die an die Ableistung des Grundwehrdienstes (§ 5 des Wehrpflichtgesetzes) oder des freiwilligen zusätzlichen Wehrdienstes im Anschluss an den Grundwehrdienst (§ 6b des Wehrpflichtgesetzes) anknüpfen, sind auf Personen, die freiwilligen Wehrdienst nach § 58b leisten, entsprechend anzuwenden.
+Regelungen in anderen Gesetzen oder Rechtsverordnungen, die an die Ableistung des Grundwehrdienstes nach § 5 des Wehrpflichtgesetzes oder die freiwillige Verlängerung des Grundwehrdienstes nach § 6a des Wehrpflichtgesetzes anknüpfen, sind auf Personen, die freiwilligen Wehrdienst nach § 58b leisten, entsprechend anzuwenden.
 
 # § 58g – Dienstantritt
 
@@ -2008,6 +2070,24 @@ Regelungen in anderen Gesetzen oder Rechtsverordnungen, die an die Ableistung de
 (2) Während der Probezeit kann der Soldat zum 15. oder zum Letzten eines Monats entlassen werden. Die Entlassungsverfügung ist spätestens zwei Wochen vor dem Entlassungstermin bekannt zu geben. Auf schriftlichen Antrag des Soldaten ist dieser während der Probezeit zum 15. oder Letzten eines Monats zu entlassen. Die Entlassung ist in den ersten fünf Monaten einen Monat vor dem Entlassungstag zu beantragen.
 
 (3) Wird einem Antrag nach § 58e Absatz 3 stattgegeben, so kann der Soldat entlassen werden, wenn eine anderweitige Verwendung nicht möglich ist.
+
+# § 58i – Freiwillige Bereitschaftserklärung; Datenverarbeitung
+
+(1) Die Bereitschaftserklärung nach § 15a des Wehrpflichtgesetzes kann freiwillig abgegeben werden.
+
+(2) Das Bundesamt für das Personalmanagement der Bundeswehr darf für den Hinweis auf die Möglichkeit der freiwilligen Abgabe einer in Absatz 1 genannten Bereitschaftserklärung und für einen Hinweis auf gesetzlich geregelte Freiwilligendienste im automatisierten Abrufverfahren nach den §§ 34a und 38 des Bundesmeldegesetzes die in § 15 Absatz 1 des Wehrpflichtgesetzes genannten Daten folgender Personen abrufen und weiterverarbeiten:
+
+1. Personen, die nicht der Wehrpflicht unterliegen, vom vollendeten 18. bis zum vollendeten 23. Lebensjahr,
+
+2. Wehrpflichtiger, die im Zeitraum vom 1. Januar 2001 bis zum 31. Dezember 2007 geboren sind.
+
+(3) Die in einer freiwillig abgegebenen Bereitschaftserklärung angegebenen Daten können nur für folgende Zwecke verarbeitet werden:
+
+1. Übersendung von Informationen über Tätigkeiten in den Streitkräften,
+
+2. Personalbearbeitung, wenn die Person in der Bereitschaftserklärung nach § 15a des Wehrpflichtgesetzes Interesse an einem Wehrdienst bekundet.
+
+Das Bundesamt für das Personalmanagement der Bundeswehr hat die in einer freiwillig abgegebenen Bereitschaftserklärung angegebenen Daten unverzüglich zu löschen, sofern die Person bekundet hat, dass sie kein Interesse an einem Wehrdienst hat oder wenn die Daten zur Personalbearbeitung nicht mehr benötigt werden. Die Daten sind ebenfalls unverzüglich zu löschen, wenn es innerhalb von drei Jahren nach der Übersendung von Informationen über Tätigkeiten in den Streitkräften nach Satz 1 Nummer 1 nicht zu einer Kontaktaufnahme durch die betroffene Person gekommen ist.
 
 # § 59 – Personenkreis
 
@@ -2053,7 +2133,7 @@ Dienstleistungen sind
 
 (1) Befristete Übungen dauern grundsätzlich höchstens drei Monate. Über Ausnahmen entscheidet das Bundesministerium der Verteidigung.
 
-(2) Die Gesamtdauer der Übungen beträgt bei Mannschaften höchstens sechs, bei Unteroffizieren höchstens neun und bei Offizieren höchstens zwölf Monate.
+(2) Die Gesamtdauer der verpflichtenden Übungen beträgt bei Mannschaften höchstens sechs, bei Unteroffizieren höchstens neun und bei Offizieren höchstens zwölf Monate.
 
 (3) Übungen, die von der Bundesregierung als Bereitschaftsdienst angeordnet werden, sind unbefristet. Auf die Gesamtdauer der Übungen nach Absatz 2 werden sie nicht angerechnet; das Bundesministerium der Verteidigung kann eine Anrechnung anordnen.
 
@@ -2179,6 +2259,34 @@ unterbrechen oder die Aufnahme einer rechtsverbindlich zugesagten oder vertragli
 
 Zuständig für die Heranziehung von Dienstleistungspflichtigen zu Dienstleistungen und das damit in Zusammenhang stehende Verfahren nach diesem Abschnitt sind die Wehrersatzbehörden.
 
+# § 69a – Register für der Dienstleistungsüberwachung unterliegende Personen
+
+(1) Zur Aktualisierung der für die Zwecke der Dienstleistungsüberwachung nach § 77 Absatz 1 und 2 aus den Melderegistern abgerufenen Daten führt das Bundesamt für das Personalmanagement der Bundeswehr ein Register.
+
+(2) In dem Register nach Absatz 1 werden folgende personenbezogene Daten gespeichert:
+
+1. Familienname,
+
+2. frühere Namen,
+
+3. Vornamen,
+
+4. Doktorgrad,
+
+5. Tag und Ort der Geburt,
+
+6. Geschlecht,
+
+7. Staatsangehörigkeiten,
+
+8. gegenwärtige oder letzte bekannte Anschrift,
+
+9. Sterbetag sowie
+
+10. Tag des Einzugs und des Auszugs.
+
+(3) Hinsichtlich der datenverarbeitenden Regelungen zu Abruf- und Zugriffsrechten, zu Speicher- und Löschfristen sowie zu technisch-organisatorischen Maßnahmen sind § 29b Absatz 5 Satz 1 sowie die §§ 29d und 29e entsprechend anzuwenden.
+
 # § 70 – Verfahren
 
 (1) Das Verfahren nach diesem Abschnitt ist kostenfrei. Notwendige Auslagen sind zu erstatten. Zu den notwendigen Auslagen gehören auch die Kosten für die Beschaffung von Unterlagen, deren Beibringung dem Dienstleistungspflichtigen aufgegeben wird. Einem Arbeitnehmer, der nicht unter das Arbeitsplatzschutzgesetz fällt, wird auch der durch eine angeordnete ärztliche Untersuchung oder eine angeordnete sonstige Vorstellung bei der Wehrersatzbehörde entstehende Verdienstausfall erstattet. Einem Dienstleistungspflichtigen, der nicht Arbeitnehmer ist, werden notwendige Aufwendungen, die ihm durch die Bestellung eines Vertreters entstehen, erstattet. Das Nähere über die Erstattung von notwendigen Auslagen, Verdienstausfall und Vertretungskosten regelt eine Rechtsverordnung.
@@ -2247,7 +2355,7 @@ Die Dienstleistungen enden
 
 10. der mit der Dienstleistung verfolgte Zweck entfallen ist und im Fall einer befristeten Übung eine andere Verwendung im Hinblick auf die Ausbildung für die bestehende oder eine künftige Verwendung nicht erfolgen kann,
 
-11. er dienstunfähig ist oder die Wiederherstellung seiner Dienstfähigkeit innerhalb der Wehrdienstzeit nicht zu erwarten ist; § 44 Abs. 4 Satz 1 und 3 gilt entsprechend, oder
+11. er dienstunfähig ist oder die Wiederherstellung seiner Dienstfähigkeit innerhalb der Wehrdienstzeit nicht zu erwarten ist, wobei § 44 Absatz 4 Satz 1 und 3 entsprechend gilt, oder
 
 12. er nach § 67 Abs. 6 zurückgestellt ist.
 
@@ -2263,7 +2371,7 @@ Die Dienstleistungen enden
 
 (4) Ein Soldat, der sich schuldhaft von seiner Truppe oder Dienststelle fern hält, gilt mit dem Tag als entlassen, an dem er hätte entlassen werden müssen, wenn er Dienst geleistet hätte.
 
-(5) Ist ein Soldat während einer besonderen Auslandsverwendung wegen Verschleppung, Gefangenschaft oder aus sonstigen mit dem Dienst zusammenhängenden Gründen, die er nicht zu vertreten hat, dem Einflussbereich des Dienstherrn entzogen, ist die Entlassung bis zum Ablauf des auf die Beendigung dieses Zustandes folgenden Monats hinauszuschieben. Dies gilt auch bei anderen Verwendungen im Ausland mit vergleichbarer Gefährdungslage.
+(5) Ist ein Soldat im Entlassungszeitpunkt wegen Verschleppung, Gefangenschaft oder aus sonstigen mit dem Dienst zusammenhängenden Gründen dem Einflussbereich des Dienstherrn entzogen, so ist die Entlassung bis zum Ablauf des auf die Beendigung dieses Zustandes folgenden Monats hinauszuschieben.
 
 (6) Befindet sich ein Soldat, der eine Dienstleistung erbringt, im Entlassungszeitpunkt in stationärer truppenärztlicher Behandlung, endet der Wehrdienst, zu dem er herangezogen wurde, wenn
 
@@ -2293,7 +2401,7 @@ Die Dienstleistungen enden
 
 4. als Kriegsdienstverweigerer anerkannt sind.
 
-(3) Soweit es für die Kontaktpflege im Rahmen der Dienstleistungsüberwachung erforderlich ist, dürfen die Wehrersatzbehörden der Dienststelle, bei der ein Dienstleistungspflichtiger beordert ist, folgende Daten zur Person des Dienstleistungspflichtigen übermitteln:
+(3) Die Wehrersatzbehörden dürfen zum Zweck der Dienstleistungsüberwachung im automatisierten Abrufverfahren nach den §§ 34a und 38 des Bundesmeldegesetzes die in § 15 Absatz 1 des Wehrpflichtgesetzes genannten Daten abrufen und weiterverarbeiten. Im Falle der Unmöglichkeit des Datenabrufs ist § 34 Absatz 2 Satz 5 des Bundesmeldegesetzes entsprechend anzuwenden. Soweit es für die Kontaktpflege im Rahmen der Dienstleistungsüberwachung erforderlich ist, dürfen die Wehrersatzbehörden der Dienststelle, bei der ein Dienstleistungspflichtiger beordert ist, folgende Daten zur Person des Dienstleistungspflichtigen übermitteln:
 
 1. Familienname,
 
@@ -2371,7 +2479,7 @@ Diese Stellen dürfen die Daten zu dem Zweck, zu dem sie ihnen übermittelt word
 
 # § 80 – Konkurrenzregelung
 
-Für Wehrpflichtige nach § 1 des Wehrpflichtgesetzes geht im Spannungs- oder Verteidigungsfall das Wehrpflichtgesetz vor.
+Für Wehrpflichtige nach § 1 des Wehrpflichtgesetzes ist im Spannungs- oder Verteidigungsfall das Wehrpflichtgesetz vorrangig anzuwenden.
 
 # § 81 – Zuziehung zu dienstlichen Veranstaltungen
 
@@ -2453,7 +2561,30 @@ Die Mitteilungen sind als "Vertrauliche Personalsache" zu kennzeichnen. Im Fall 
 
 Die Organisation der Verteidigung, insbesondere die Spitzengliederung der Bundeswehr und die endgültige Organisation des Bundesministeriums der Verteidigung, bleiben besonderer gesetzlicher Regelung vorbehalten.
 
-# § 91 – (weggefallen)
+# § 91 – Aufwuchs des aktiven militärischen Personals und der Reserve
+
+(1) Bis 2035 ist der Aufwuchs der Streitkräfte auf 460 000 Soldatinnen und Soldaten, davon bis zu
+
+260 000 aktive Soldatinnen und Soldaten und mindestens 200 000 Reservistinnen und Reservisten zur Erfüllung der NATO-Fähigkeitsziele, vorgesehen. Dem liegt folgender Aufwuchspfad zugrunde:
+
+| Jahr | Aktive Soldatinnen und Soldaten | Reservistinnen und Reservisten |
+|:----:|:-------------------------------:|:------------------------------:|
+| 2026 |       186 000 bis 190 000       |       70 000 bis  80 000       |
+| 2027 |       190 000 bis 193 000       |       80 000 bis 100 000       |
+| 2028 |       193 000 bis 198 000       |      100 000 bis 120 000       |
+| 2029 |       198 000 bis 205 000       |      120 000 bis 140 000       |
+| 2030 |       204 000 bis 212 000       |      140 000 bis 160 000       |
+| 2031 |       210 000 bis 220 000       |      160 000 bis 180 000       |
+| 2032 |       218 000 bis 230 000       |      180 000 bis 200 000       |
+| 2033 |       228 000 bis 242 000       |       mindestens 200 000       |
+| 2034 |       240 000 bis 256 000       |       mindestens 200 000       |
+| 2035 |       255 000 bis 270 000       |       mindestens 200 000       |
+
+(2) Die Festlegung der zahlenmäßigen Stärke der Streitkräfte durch den Haushaltsplan gemäß Artikel 87a Absatz 1 Satz 2 des Grundgesetzes bleibt davon unberührt.
+
+# § 91a – Bericht über den Aufwuchs des militärischen Personals und der Reserve
+
+Das Bundesministerium der Verteidigung berichtet dem Deutschen Bundestag halbjährlich, beginnend ab dem 1. Januar 2027, über die Entwicklung des Aufwuchses und die sich daraus ergebende Entwicklung der Reserve. Dabei ist der Bericht über das militärische Personal nach Statusgruppen und Verpflichtungszeiten aufzuschlüsseln.
 
 # § 92 – Übergangsvorschrift für die Laufbahnen
 
@@ -2503,7 +2634,7 @@ In der Rechtsverordnung nach § 27 Abs. 1 kann für die Dauer des Spannungs- ode
 
 9. die verwendungsbezogenen Mindestdienstzeiten nach § 46 Absatz 3.
 
-(3) Das Bundesministerium der Verteidigung erlässt im Einvernehmen mit dem Bundesministerium des Innern und für Heimat und dem Bundesministerium der Finanzen die Rechtsverordnungen über
+(3) Das Bundesministerium der Verteidigung erlässt im Einvernehmen mit dem Bundesministerium des Innern und dem Bundesministerium der Finanzen die Rechtsverordnungen über
 
 1. das Ausbildungsgeld nach § 30 Absatz 2,
 
@@ -2511,7 +2642,7 @@ In der Rechtsverordnung nach § 27 Abs. 1 kann für die Dauer des Spannungs- ode
 
 3. Erstattung der Kosten für die Bestattung eines Soldaten in einem Ehrengrab der Bundeswehr nach § 31 Absatz 9.
 
-(4) Das Bundesministerium der Verteidigung erlässt im Einvernehmen mit dem Bundesministerium des Innern und für Heimat die Rechtsverordnung über die Festlegung der Verwendungen mit besonders hohen Sicherheitsanforderungen nach § 3a Absatz 2.
+(4) Das Bundesministerium der Verteidigung erlässt im Einvernehmen mit dem Bundesministerium des Innern die Rechtsverordnung über die Festlegung der Verwendungen mit besonders hohen Sicherheitsanforderungen nach § 3a Absatz 2.
 
 (5) Die Rechtsverordnung nach Absatz 1 Nr. 9 bedarf der Zustimmung des Bundesrates.
 
@@ -3415,3 +3546,9 @@ Für die Heranziehung zu Dienstleistungen ohne Zustimmung nach § 59 Absatz 3 Sa
 # § 100 – Übergangsvorschrift aus Anlass des Gesetzes zur Beitragsentlastung der Versicherten in der gesetzlichen Krankenversicherung
 
 Auf die am 31. Dezember 2018 vorhandenen Versorgungsempfängerinnen und Versorgungsempfänger ist § 31 Absatz 2 in der bis dahin geltenden Fassung weiter anzuwenden.
+
+# § 101 – Übergangsvorschrift aus Anlass des Wehrdienst-Modernisierungsgesetzes
+
+(1) Auf Soldaten, die am 31. Dezember 2025 freiwilligen Wehrdienst nach § 58b in der bis einschließlich 31. Dezember 2025 geltenden Fassung leisten, ist § 58b in der bis einschließlich 31. Dezember 2025 geltenden Fassung weiter anzuwenden.
+
+(2) Soldaten, die am 31. Dezember 2025 freiwilligen Wehrdienst nach § 58b in der bis einschließlich 31. Dezember 2025 geltenden Fassung mit einer Restdienstzeit von mindestens zwölf Monaten leisten, werden auf Antrag unter Beibehaltung der festgesetzten Dienstzeit nach Maßgabe des § 4 in das Dienstverhältnis eines Soldaten auf Zeit übernommen.

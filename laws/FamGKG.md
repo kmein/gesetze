@@ -503,7 +503,7 @@ Wird eine Abschätzung durch Sachverständige erforderlich, ist in dem Beschluss
 
 (1) Über Erinnerungen des Kostenschuldners und der Staatskasse gegen den Kostenansatz entscheidet das Gericht, bei dem die Kosten angesetzt sind. War das Verfahren im ersten Rechtszug bei mehreren Gerichten anhängig, ist das Gericht, bei dem es zuletzt anhängig war, auch insoweit zuständig, als Kosten bei den anderen Gerichten angesetzt worden sind.
 
-(2) Gegen die Entscheidung des Familiengerichts über die Erinnerung findet die Beschwerde statt, wenn der Wert des Beschwerdegegenstands 200 Euro übersteigt. Die Beschwerde ist auch zulässig, wenn sie das Familiengericht, das die angefochtene Entscheidung erlassen hat, wegen der grundsätzlichen Bedeutung der zur Entscheidung stehenden Frage in dem Beschluss zulässt.
+(2) Gegen die Entscheidung des Familiengerichts über die Erinnerung findet die Beschwerde statt, wenn der Wert des Beschwerdegegenstands 300 Euro übersteigt. Die Beschwerde ist auch zulässig, wenn sie das Familiengericht, das die angefochtene Entscheidung erlassen hat, wegen der grundsätzlichen Bedeutung der zur Entscheidung stehenden Frage in dem Beschluss zulässt.
 
 (3) Soweit das Familiengericht die Beschwerde für zulässig und begründet hält, hat es ihr abzuhelfen; im Übrigen ist die Beschwerde unverzüglich dem Oberlandesgericht vorzulegen. Das Oberlandesgericht ist an die Zulassung der Beschwerde gebunden; die Nichtzulassung ist unanfechtbar.
 
@@ -525,7 +525,7 @@ Wird eine Abschätzung durch Sachverständige erforderlich, ist in dem Beschluss
 
 # § 59 – Beschwerde gegen die Festsetzung des Verfahrenswerts
 
-(1) Gegen den Beschluss des Familiengerichts, durch den der Verfahrenswert für die Gerichtsgebühren festgesetzt worden ist (§ 55 Abs. 2), findet die Beschwerde statt, wenn der Wert des Beschwerdegegenstands 200 Euro übersteigt. Die Beschwerde findet auch statt, wenn sie das Familiengericht wegen der grundsätzlichen Bedeutung der zur Entscheidung stehenden Frage in dem Beschluss zulässt. Die Beschwerde ist nur zulässig, wenn sie innerhalb der in § 55 Abs. 3 Satz 2 bestimmten Frist eingelegt wird; ist der Verfahrenswert später als einen Monat vor Ablauf dieser Frist festgesetzt worden, kann sie noch innerhalb eines Monats nach Zustellung oder formloser Mitteilung des Festsetzungsbeschlusses eingelegt werden. Im Fall der formlosen Mitteilung gilt der Beschluss mit dem vierten Tag nach Aufgabe zur Post als bekannt gemacht. § 57 Abs. 3, 4 Satz 1, 2 und 4, Abs. 5 und 7 ist entsprechend anzuwenden.
+(1) Gegen den Beschluss des Familiengerichts, durch den der Verfahrenswert für die Gerichtsgebühren festgesetzt worden ist (§ 55 Abs. 2), findet die Beschwerde statt, wenn der Wert des Beschwerdegegenstands 300 Euro übersteigt. Die Beschwerde findet auch statt, wenn sie das Familiengericht wegen der grundsätzlichen Bedeutung der zur Entscheidung stehenden Frage in dem Beschluss zulässt. Die Beschwerde ist nur zulässig, wenn sie innerhalb der in § 55 Abs. 3 Satz 2 bestimmten Frist eingelegt wird; ist der Verfahrenswert später als einen Monat vor Ablauf dieser Frist festgesetzt worden, kann sie noch innerhalb eines Monats nach Zustellung oder formloser Mitteilung des Festsetzungsbeschlusses eingelegt werden. Im Fall der formlosen Mitteilung gilt der Beschluss mit dem vierten Tag nach Aufgabe zur Post als bekannt gemacht. § 57 Abs. 3, 4 Satz 1, 2 und 4, Abs. 5 und 7 ist entsprechend anzuwenden.
 
 (2) War der Beschwerdeführer ohne sein Verschulden verhindert, die Frist einzuhalten, ist ihm auf Antrag vom Oberlandesgericht Wiedereinsetzung in den vorigen Stand zu gewähren, wenn er die Beschwerde binnen zwei Wochen nach der Beseitigung des Hindernisses einlegt und die Tatsachen, welche die Wiedereinsetzung begründen, glaubhaft macht. Ein Fehlen des Verschuldens wird vermutet, wenn eine Rechtsbehelfsbelehrung unterblieben oder fehlerhaft ist. Nach Ablauf eines Jahres, von dem Ende der versäumten Frist an gerechnet, kann die Wiedereinsetzung nicht mehr beantragt werden.
 
@@ -533,7 +533,7 @@ Wird eine Abschätzung durch Sachverständige erforderlich, ist in dem Beschluss
 
 # § 60 – Beschwerde gegen die Auferlegung einer Verzögerungsgebühr
 
-Gegen den Beschluss des Familiengerichts nach § 32 findet die Beschwerde statt, wenn der Wert des Beschwerdegegenstands 200 Euro übersteigt oder das Familiengericht die Beschwerde wegen der grundsätzlichen Bedeutung in dem Beschluss der zur Entscheidung stehenden Frage zugelassen hat. § 57 Abs. 3, 4 Satz 1, 2 und 4, Abs. 5, 7 und 8 ist entsprechend anzuwenden.
+Gegen den Beschluss des Familiengerichts nach § 32 findet die Beschwerde statt, wenn der Wert des Beschwerdegegenstands 300 Euro übersteigt oder das Familiengericht die Beschwerde wegen der grundsätzlichen Bedeutung in dem Beschluss der zur Entscheidung stehenden Frage zugelassen hat. § 57 Abs. 3, 4 Satz 1, 2 und 4, Abs. 5, 7 und 8 ist entsprechend anzuwenden.
 
 # § 61 – Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
 
@@ -578,6 +578,12 @@ Das Bundesministerium der Justiz kann nach Änderungen den Wortlaut des Gesetzes
 # § 64 – Übergangsvorschrift für die Erhebung von Haftkosten
 
 Bis zum Erlass landesrechtlicher Vorschriften über die Höhe des Haftkostenbeitrags, der von einem Gefangenen zu erheben ist, sind die Nummern 2008 und 2009 des Kostenverzeichnisses in der bis zum 27. Dezember 2010 geltenden Fassung anzuwenden.
+
+# § 65 – Übergangsvorschrift zum Gesetz zur Änderung des Zuständigkeitsstreitwerts der Amtsgerichte, zum Ausbau der Spezialisierung der Justiz in Zivilsachen sowie zur Änderung weiterer prozessualer Regelungen
+
+(1) Die §§ 57, 59 und 60 sind in ihrer bis einschließlich 31. Dezember 2025 geltenden Fassung weiter anzuwenden in Verfahren, die vor dem 1. Januar 2026 anhängig geworden oder eingeleitet worden sind. Dies gilt nicht im Verfahren über ein Rechtsmittel, das nach dem 31. Dezember 2025 eingelegt worden ist.
+
+(2) In Verfahren, in denen Jahresgebühren erhoben werden, und in allen übrigen Fällen, in denen Absatz 1 keine Anwendung findet, gelten für Kosten, die vor dem 1. Januar 2026 fällig geworden sind, die §§ 57, 59 und 60 in ihrer bis einschließlich 31. Dezember 2025 geltenden Fassung.
 
 # Anlage 1 – (zu § 3 Abs. 2)Kostenverzeichnis
 

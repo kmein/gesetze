@@ -95,7 +95,7 @@
 
 1. Soldatinnen und Soldaten im Dienstverhältnis einer Berufssoldatin, eines Berufssoldaten, einer Soldatin auf Zeit oder eines Soldaten auf Zeit,
 
-2. Soldatinnen und Soldaten, die freiwilligen Wehrdienst nach § 58b des Soldatengesetzes oder Wehrdienst nach § 4 Absatz 1 Nummer 1, 4 oder 7 des Wehrpflichtgesetzes leisten,
+2. Soldatinnen und Soldaten, die freiwilligen Wehrdienst nach § 58b des Soldatengesetzes oder Wehrdienst nach § 4 Absatz 1 Nummer 1, 3 oder 4 des Wehrpflichtgesetzes leisten,
 
 3. Soldatinnen und Soldaten im Reservewehrdienstverhältnis nach dem Reservistengesetz,
 

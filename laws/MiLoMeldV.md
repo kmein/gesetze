@@ -35,13 +35,47 @@ b) in Schichtarbeit,
 
 beschäftigt, eine Einsatzplanung vorzulegen.
 
-(2) In den Fällen des Absatzes 1 Nummer 1 und 2 hat der Arbeitgeber in der Einsatzplanung für jeden Beschäftigungsort die dort eingesetzten Arbeitnehmerinnen und Arbeitnehmer mit Geburtsdatum auszuweisen. Die Angaben zum Beschäftigungsort müssen die Ortsbezeichnung, die Postleitzahl und, soweit vorhanden, den Straßennamen sowie die Hausnummer enthalten. Der Einsatz der Arbeitnehmerinnen und Arbeitnehmer am Beschäftigungsort wird durch die Angabe von Datum und Uhrzeiten konkretisiert. Die Einsatzplanung kann einen Zeitraum von bis zu drei Monaten umfassen. Beim Einsatz von Arbeitnehmerinnen und Arbeitnehmern im Geltungsbereich von Tarifverträgen für Bergbauspezialarbeiten auf Steinkohlebergwerken gilt der Schacht als Ort der Beschäftigung.
+(2) In den Fällen des Absatzes 1 Nummer 1 und 2 hat der Arbeitgeber in der Einsatzplanung folgende Angaben zu machen:
 
-(3) In den Fällen des Absatzes 1 Nummer 3 hat der Arbeitgeber in der Einsatzplanung den Beginn und die voraussichtliche Dauer der Werk- oder Dienstleistung, die voraussichtlich eingesetzten Arbeitnehmerinnen und Arbeitnehmer mit Geburtsdatum sowie die Anschrift, an der Unterlagen bereitgehalten werden, zu melden. Die Einsatzplanung kann je nach Auftragssicherheit einen Zeitraum von bis zu sechs Monaten umfassen. Sofern die Unterlagen im Ausland bereitgehalten werden, ist der Einsatzplanung eine Versicherung beizufügen, dass die Unterlagen auf Anforderung der Behörden der Zollverwaltung für die Prüfung in deutscher Sprache im Inland bereitgestellt werden. Diesen Unterlagen sind auch Angaben zu den im gemeldeten Zeitraum tatsächlich erbrachten Werk- oder Dienstleistungen sowie den jeweiligen Auftraggebern beizufügen.
+1. den Familiennamen, den Vornamen, das Geburtsdatum, die Staatsangehörigkeit und die Kontaktdaten der von ihm beschäftigten Arbeitnehmerinnen und Arbeitnehmer,
 
-(4) Bei einer ausschließlich mobilen Tätigkeit im Sinne des Absatzes 1 Nummer 3 handelt es sich um eine Tätigkeit, die nicht an Beschäftigungsorte gebunden ist. Eine ausschließlich mobile Tätigkeit liegt insbesondere bei der Zustellung von Briefen, Paketen und Druckerzeugnissen, der Abfallsammlung, der Straßenreinigung, dem Winterdienst, dem Gütertransport und der Personenbeförderung vor. Das Erbringen ambulanter Pflegeleistungen wird einer ausschließlich mobilen Tätigkeit gleichgestellt. Abweichend von Satz 2 gelten die Beförderung von Gütern oder Personen im Straßenverkehrssektor für Arbeitgeber mit Sitz in einem anderen Mitgliedstaat der Europäischen Union oder des Europäischen Wirtschaftsraums nicht als ausschließlich mobile Tätigkeit im Sinne des Absatzes 1 Nummer 3.
+2. den Beginn und die voraussichtliche Dauer der Beschäftigung,
 
-(5) Die Absätze 1 bis 3 und Absatz 4 Satz 1 bis 3 gelten entsprechend für Angaben des Verleihers auf Grund des § 16 Absatz 3 des Mindestlohngesetzes, des § 18 Absatz 3 des Arbeitnehmer-Entsendegesetzes und des § 17b Absatz 1 des Arbeitnehmerüberlassungsgesetzes.
+3. den Ort der Beschäftigung, wobei die Angaben die Ortsbezeichnung, die Postleitzahl und, soweit vorhanden, den Straßennamen sowie die Hausnummer enthalten müssen und der Einsatz der Arbeitnehmerinnen und Arbeitnehmer am Beschäftigungsort durch die Angabe von Datum und Uhrzeiten zu konkretisieren ist,
+
+4. den Ort im Inland, an dem die nach § 17 Absatz 2 des Mindestlohngesetztes und § 19 Absatz 2 des Arbeitnehmer-Entsendegesetzes erforderlichen Unterlagen bereitgehalten werden,
+
+5. den Familiennamen, den Vornamen, und die Anschrift in Deutschland einer oder eines Zustellungsbevollmächtigten,
+
+6. die Branche, in die die Arbeitnehmerinnen und Arbeitnehmer entsandt werden sollen,
+
+7. die Tätigkeit oder die Position der beschäftigten Arbeitnehmerinnen oder Arbeitnehmer für die Dauer der Beschäftigung und
+
+8. den Familiennamen, den Vornamen oder die Firma sowie die Anschrift der Auftraggeber.
+
+Die Einsatzplanung kann einen Zeitraum von bis zu drei Monaten umfassen.
+
+(3) In den Fällen des Absatzes 1 Nummer 3 hat der Arbeitgeber in der Einsatzplanung folgende Angaben zu machen:
+
+1. den Familiennamen, den Vornamen, das Geburtsdatum, die Staatsangehörigkeit und die Kontaktdaten der von ihm voraussichtlich eingesetzten Arbeitnehmerinnen und Arbeitnehmer unter Angabe der voraussichtlichen Anzahl der Einsätze in Deutschland während des angemeldeten Beschäftigungszeitraums,
+
+2. den Beginn und das voraussichtliche Ende der Werk- oder Dienstleistung,
+
+3. den Ort im Inland, an dem die nach § 17 Absatz 2 des Mindestlohngesetztes und § 19 Absatz 2 des Arbeitnehmer-Entsendegesetzes erforderlichen Unterlagen bereitgehalten werden,
+
+4. die Branche, in die die Arbeitnehmerinnen und Arbeitnehmer entsandt werden sollen,
+
+5. die Tätigkeit oder die Position der beschäftigten Arbeitnehmerinnen oder Arbeitnehmer für die Dauer der Beschäftigung und
+
+6. den Familiennamen, den Vornamen oder die Firma sowie die Anschrift der Auftraggeber.
+
+Die Einsatzplanung kann je nach Auftragssicherheit einen Zeitraum von bis zu sechs Monaten umfassen. Sofern die Unterlagen im Ausland bereitgehalten werden, ist der Einsatzplanung eine Versicherung beizufügen, dass die Unterlagen auf Anforderung der Behörden der Zollverwaltung für die Prüfung in deutscher Sprache im Inland bereitgestellt werden. Diesen Unterlagen sind auch Angaben zu den im gemeldeten Zeitraum tatsächlich erbrachten Werk- oder Dienstleistungen sowie den jeweiligen Auftraggebern beizufügen.
+
+(4) Bei einer ausschließlich mobilen Tätigkeit im Sinne des Absatzes 1 Nummer 3 handelt es sich um eine Tätigkeit, die nicht an Beschäftigungsorte gebunden ist. Eine ausschließlich mobile Tätigkeit liegt insbesondere bei der Zustellung von Briefen, Paketen und Druckerzeugnissen, der Abfallsammlung, der Straßenreinigung, dem Winterdienst, dem Gütertransport und der Personenbeförderung vor. Das Erbringen ambulanter Pflegeleistungen wird einer ausschließlich mobilen Tätigkeit gleichgestellt. Abweichend von Satz 2 gelten die Beförderung von Gütern oder Personen im Straßenverkehrssektor für Arbeitgeber mit Sitz in einem anderen Mitgliedstaat der Europäischen Union oder des Europäischen Wirtschaftsraums, die eine Entsendung im Sinne des Abschnitts 9 Unterabschnitt 2 des Arbeitnehmer-Entsendegesetzes darstellen, nicht als ausschließlich mobile Tätigkeit im Sinne des Absatzes 1 Nummer 3.
+
+(5) Bei einer ausschließlich mobilen Tätigkeit im Sinne des Absatzes 1 Nummer 3 handelt es sich um eine Tätigkeit, die nicht an Beschäftigungsorte gebunden ist. Eine ausschließlich mobile Tätigkeit liegt insbesondere bei der Zustellung von Briefen, Paketen und Druckerzeugnissen, der Abfallsammlung, der Straßenreinigung, dem Winterdienst, dem Gütertransport und der Personenbeförderung vor. Das Erbringen ambulanter Pflegeleistungen wird einer ausschließlich mobilen Tätigkeit gleichgestellt. Abweichend von Satz 2 gelten die Beförderung von Gütern oder Personen im Straßenverkehrssektor für Arbeitgeber mit Sitz in einem anderen Mitgliedstaat der Europäischen Union oder des Europäischen Wirtschaftsraums, die eine Entsendung im Sinne des Abschnitts 9 Unterabschnitt 2 des Arbeitnehmer-Entsendegesetzes darstellen, nicht als ausschließlich mobile Tätigkeit im Sinne des Absatzes 1 Nummer 3.
+
+(+++ Die Regelung zum gespaltenen Inkrafttreten der Änderungsanweisung aus Art. 19 Abs. 6 in Art. 23 Abs. 3 G v. 22.12.2025 I Nr. 369 ist wegen textlicher Unstimmigkeit nicht ausführbar +++)
 
 # § 3 – Änderungsmeldung
 

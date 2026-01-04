@@ -1455,7 +1455,7 @@ Die Aufenthaltserlaubnis kann verlängert werden, wenn dem Ausländer von Seiten
 
 # § 25a – Aufenthaltsgewährung bei gut integrierten Jugendlichen und jungen Volljährigen
 
-(1) Einem jugendlichen oder jungen volljährigen Ausländer, der Inhaber einer Aufenthaltserlaubnis nach § 104c oder seit mindestens zwölf Monaten im Besitz einer Duldung ist, soll eine Aufenthaltserlaubnis erteilt werden, wenn
+(1) Einem jugendlichen oder jungen volljährigen Ausländer, der Inhaber einer Aufenthaltserlaubnis nach § 104c oder seit mindestens zwölf Monaten im Besitz einer Duldung ist, soll eine Aufenthaltserlaubnis erteilt werden, wenn
 
 1. er sich seit drei Jahren ununterbrochen erlaubt, geduldet oder mit einer Aufenthaltsgestattung im Bundesgebiet aufhält,
 
@@ -1481,13 +1481,13 @@ Minderjährigen Kindern eines Ausländers, der eine Aufenthaltserlaubnis nach Sa
 
 (4) Die Aufenthaltserlaubnis kann abweichend von § 10 Absatz 3 Satz 2 erteilt werden.
 
-(5) Besitzt der Ausländer eine Aufenthaltserlaubnis nach § 104c, sind für die Anwendung des Absatzes 1 Satz 1 Nummer 1 auch die in § 60b Absatz 5 Satz 1 genannten Zeiten anzurechnen.
+(5) Besitzt der Ausländer eine Aufenthaltserlaubnis nach § 104c, sind für die Anwendung des Absatzes 1 Satz 1 Nummer 1 auch die in § 60b Absatz 5 Satz 1 genannten Zeiten anzurechnen.
 
-(6) Einem Ausländer mit einer Aufenthaltserlaubnis nach § 104c soll eine Aufenthaltserlaubnis nach Absatz 1 nur erteilt werden, wenn die Voraussetzungen des § 5 Absatz 1 Nummer 1a erfüllt sind. Hat der Ausländer die erforderlichen und ihm zumutbaren Maßnahmen für die Identitätsklärung ergriffen, kann sie abweichend von Satz 1 erteilt werden.
+(6) Einem Ausländer mit einer Aufenthaltserlaubnis nach § 104c soll eine Aufenthaltserlaubnis nach Absatz 1 nur erteilt werden, wenn die Voraussetzungen des § 5 Absatz 1 Nummer 1a erfüllt sind. Hat der Ausländer die erforderlichen und ihm zumutbaren Maßnahmen für die Identitätsklärung ergriffen, kann sie abweichend von Satz 1 erteilt werden.
 
 # § 25b – Aufenthaltsgewährung bei nachhaltiger Integration
 
-(1) Einem Ausländer, der geduldet oder Inhaber einer Aufenthaltserlaubnis nach § 104c ist, soll abweichend von § 5 Absatz 1 Nummer 1 und Absatz 2 eine Aufenthaltserlaubnis erteilt werden, wenn er sich nachhaltig in die Lebensverhältnisse der Bundesrepublik Deutschland integriert hat. Dies setzt regelmäßig voraus, dass der Ausländer
+(1) Einem Ausländer, der geduldet oder Inhaber einer Aufenthaltserlaubnis nach § 104c ist, soll abweichend von § 5 Absatz 1 Nummer 1 und Absatz 2 eine Aufenthaltserlaubnis erteilt werden, wenn er sich nachhaltig in die Lebensverhältnisse der Bundesrepublik Deutschland integriert hat. Dies setzt regelmäßig voraus, dass der Ausländer
 
 1. sich seit mindestens sechs Jahren oder, falls er zusammen mit einem minderjährigen ledigen Kind in häuslicher Gemeinschaft lebt, seit mindestens vier Jahren ununterbrochen geduldet, gestattet oder mit einer Aufenthaltserlaubnis im Bundesgebiet aufgehalten hat,
 
@@ -1523,7 +1523,7 @@ Ein vorübergehender Bezug von Sozialleistungen ist für die Lebensunterhaltssic
 
 (6) Einem Ausländer, seinem Ehegatten oder seinem Lebenspartner und in familiärer Lebensgemeinschaft lebenden minderjährigen ledigen Kindern, die seit 30 Monaten im Besitz einer Duldung nach § 60d sind, soll eine Aufenthaltserlaubnis nach Absatz 1 abweichend von der in Absatz 1 Satz 2 Nummer 1 genannten Frist erteilt werden, wenn die Voraussetzungen nach § 60d erfüllt sind und der Ausländer über hinreichende mündliche deutsche Sprachkenntnisse verfügt; bestand die Möglichkeit des Besuchs eines Integrationskurses, setzt die Erteilung der Aufenthaltserlaubnis zudem voraus, dass der Ausländer, sein Ehegatte oder sein Lebenspartner über hinreichende schriftliche Kenntnisse der deutschen Sprache verfügt.
 
-(7) Besitzt der Ausländer eine Aufenthaltserlaubnis nach § 104c, sind für die Anwendung des Absatzes 1 Satz 2 Nummer 1 auch die in § 60b Absatz 5 Satz 1 genannten Zeiten anzurechnen.
+(7) Besitzt der Ausländer eine Aufenthaltserlaubnis nach § 104c, sind für die Anwendung des Absatzes 1 Satz 2 Nummer 1 auch die in § 60b Absatz 5 Satz 1 genannten Zeiten anzurechnen.
 
 (8) Einem Ausländer mit einer Aufenthaltserlaubnis nach § 104c soll eine Aufenthaltserlaubnis nach Absatz 1 nur erteilt werden, wenn die Voraussetzungen des § 5 Absatz 1 Nummer 1a erfüllt sind. Hat der Ausländer die erforderlichen und ihm zumutbaren Maßnahmen für die Identitätsklärung ergriffen, kann sie abweichend von Satz 1 erteilt werden.
 
@@ -2104,6 +2104,10 @@ Der Integrationskurs soll durch weitere Integrationsangebote des Bundes und der 
 (2) Zuständige Behörde für die Umsetzung der Beratung nach Absatz 1 Satz 1 und 2 ist das Bundesministerium für Arbeit und Soziales. Es kann die Umsetzung der Beratung Dritten übertragen. Zuständige Behörde für die Konzeption von Vorintegrationsmaßnahmen nach Absatz 1 Satz 3 und 4 ist das Amt der Beauftragten der Bundesregierung für Migration, Flüchtlinge und Integration. Die Aufgabe der Durchführung von Vorintegrationsmaßnahmen nach Absatz 1 Satz 3 und 4 kann auf Dritte übertragen werden. Zuständige Behörde für die Umsetzung der Aufgaben nach Absatz 1 Satz 5 und 6 ist das Bundesministerium für Wirtschaft und Klimaschutz in Abstimmung mit den beteiligten Ressorts. Es kann die Umsetzung dieser Aufgaben an Dritte übertragen.
 
 (3) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates nähere Einzelheiten der Finanzierung der arbeits- und sozialrechtlichen Beratung, insbesondere das Nähere zur Leistungsgewährung, die Bewilligungsperiode, das Antragsverfahren, die Bedingungen und das Verfahren für die Weiterleitung der Leistung durch Träger an Dritte, die Übertragung der Umsetzung auf einen Dritten, das Nähere zur Kontrolle der Mittelverwendung und die Evaluierung zu regeln. In Bezug auf Vorintegrationsmaßnahmen und die Aufgaben nach Absatz 1 Satz 5 und 6 findet Satz 1 keine Anwendung.
+
+# § 45c – Informationspflicht bei Anwerbung aus dem Ausland
+
+Schließt ein Arbeitgeber mit Sitz im Bundesgebiet mit einem Drittstaatsangehörigen mit Wohnsitz oder gewöhnlichem Aufenthalt im Ausland einen Arbeitsvertrag zur Arbeitsleistung im Inland, hat er den Drittstaatsangehörigen spätestens am ersten Tag der Arbeitsleistung in Textform auf die Möglichkeit einer Information oder Beratung nach § 45b Absatz 1 Satz 1 und 2 hinzuweisen. Er hat dabei zumindest die aktuellen Kontaktdaten der vom Arbeitsplatz nächstgelegenen Beratungsstelle anzugeben. Die Hinweispflicht des Arbeitgebers entfällt bei einer grenzüberschreitenden Vermittlung im Sinne des § 299 des Dritten Buches Sozialgesetzbuch.
 
 # § 46 – Ordnungsverfügungen
 
@@ -4851,21 +4855,11 @@ Einem minderjährigen ledigen Kind kann im Fall der Ausreise seiner Eltern oder 
 
 5. seine Personensorge sichergestellt ist.
 
-# § 104c – Chancen-Aufenthaltsrecht
+# § 104c – Übergangsregelung zum Chancen-Aufenthaltsrecht
 
-(1) Einem geduldeten Ausländer soll abweichend von § 5 Absatz 1 Nummer 1, 1a und 4 sowie § 5 Absatz 2 eine Aufenthaltserlaubnis erteilt werden, wenn er sich am 31. Oktober 2022 seit fünf Jahren ununterbrochen geduldet, gestattet oder mit einer Aufenthaltserlaubnis im Bundesgebiet aufgehalten hat und er
+(1) Eine Aufenthaltserlaubnis nach § 104c in der Fassung dieses Gesetzes vom 31. Dezember 2022 gilt bis zum Ende ihrer Geltungsdauer als Aufenthaltstitel nach Kapitel 2 Abschnitt 5.
 
-1. sich zur freiheitlichen demokratischen Grundordnung der Bundesrepublik Deutschland bekennt und
-
-2. nicht wegen einer im Bundesgebiet begangenen vorsätzlichen Straftat verurteilt wurde, wobei Geldstrafen von insgesamt bis zu 50 Tagessätzen oder bis zu 90 Tagessätzen wegen Straftaten, die nach dem Aufenthaltsgesetz oder dem Asylgesetz nur von Ausländern begangen werden können, oder Verurteilungen nach dem Jugendstrafrecht, die nicht auf Jugendstrafe lauten, grundsätzlich außer Betracht bleiben.
-
-Die Aufenthaltserlaubnis nach Satz 1 soll versagt werden, wenn der Ausländer wiederholt vorsätzlich falsche Angaben gemacht oder über seine Identität oder Staatsangehörigkeit getäuscht hat und dadurch seine Abschiebung verhindert. Für die Anwendung des Satzes 1 sind auch die in § 60b Absatz 5 Satz 1 genannten Zeiten anzurechnen.
-
-(2) Dem Ehegatten, dem Lebenspartner und minderjährigen, ledigen Kindern, die mit einem Begünstigten nach Absatz 1 in häuslicher Gemeinschaft leben, soll unter den Voraussetzungen des Absatzes 1 Nummer 1 und 2 eine Aufenthaltserlaubnis auch dann erteilt werden, wenn diese sich am 31. Oktober 2022 noch nicht seit fünf Jahren ununterbrochen geduldet, gestattet oder mit einer Aufenthaltserlaubnis im Bundesgebiet aufgehalten haben. Das Gleiche gilt für das volljährige ledige Kind, wenn es bei der Einreise in das Bundesgebiet minderjährig war. Absatz 1 Satz 2 findet entsprechende Anwendung.
-
-(3) Die Aufenthaltserlaubnis kann abweichend von § 10 Absatz 3 Satz 2 erteilt werden. Sie gilt als Aufenthaltstitel nach Kapitel 2 Abschnitt 5. Sie wird für 18 Monate erteilt und ist nicht verlängerbar. Während des Aufenthalts nach Satz 3 kann nur eine Aufenthaltserlaubnis nach § 25a oder § 25b erteilt werden. Der Antrag auf Erteilung eines anderen Aufenthaltstitels als nach § 25a oder § 25b entfaltet nicht die Wirkung nach § 81 Absatz 4.
-
-(4) Der Ausländer ist spätestens bei der Erteilung der Aufenthaltserlaubnis auf die Voraussetzungen für die Erteilung einer Aufenthaltserlaubnis nach § 25b und, falls er das 27. Lebensjahr noch nicht vollendet hat, nach § 25a hinzuweisen. Dabei soll die Ausländerbehörde auch konkrete Handlungspflichten, die in zumutbarer Weise zu erfüllen sind, bezeichnen.
+(2) Die Aufenthaltserlaubnis nach § 104c in der Fassung dieses Gesetzes vom 31. Dezember 2022 kann nur als Aufenthaltserlaubnis nach § 25a oder § 25b verlängert werden. Sie gilt als Aufenthaltstitel nach Kapitel 2 Abschnitt 5. Der Antrag auf Erteilung eines anderen Aufenthaltstitels als nach § 25a oder § 25b entfaltet nicht die Wirkung nach § 81 Absatz 4.
 
 # § 105 – Übergangsregelung zur Duldung für Personen mit ungeklärter Identität
 
@@ -4886,34 +4880,6 @@ Inhaber eines nach § 78a Absatz 1 Satz 1 ausgestellten Aufenthaltstitels könne
 # § 105c – Überleitung von Maßnahmen zur Überwachung ausgewiesener Ausländer aus Gründen der inneren Sicherheit
 
 Maßnahmen und Verpflichtungen nach § 54a Absatz 1 bis 4 in der bis zum 31. Dezember 2015 geltenden Fassung, die vor dem 1. Januar 2016 bestanden, gelten nach dem 1. Januar 2016 als Maßnahmen und Verpflichtungen im Sinne von § 56 in der ab dem 1. Januar 2016 geltenden Fassung.
-
-# § 105d – Ermächtigung zur vorübergehenden Ausübung von Heilkunde
-
-(1) Stehen für die ärztliche Versorgung von Ausländern, die eine Aufenthaltserlaubnis nach § 24 Absatz 1 besitzen oder beantragt haben und denen eine entsprechende Fiktionsbescheinigung nach § 81 Absatz 5 in Verbindung mit Absatz 3 ausgestellt worden ist, in einer Aufnahmeeinrichtung oder einer anderen für die Unterbringung dieser Personen durch das Land bestimmten Einrichtung Ärzte, die über eine Approbation oder Erlaubnis zur vorübergehenden Ausübung des ärztlichen Berufs nach der Bundesärzteordnung verfügen, nicht in ausreichender Zahl zur Verfügung und ist hierdurch die Sicherstellung der ärztlichen Versorgung dieser Personen in diesen Einrichtungen gefährdet, können Personen, die eine Aufenthaltserlaubnis nach § 24 Absatz 1 besitzen oder beantragt haben und denen eine entsprechende Fiktionsbescheinigung nach § 81 Absatz 5 in Verbindung mit Absatz 3 ausgestellt worden ist und die in diesen Einrichtungen wohnen sowie über eine abgeschlossene Ausbildung als Arzt verfügen, auf Antrag vorübergehend zur Ausübung von Heilkunde in diesen Einrichtungen ermächtigt werden, um Ärzte bei der ärztlichen Versorgung dieser Personen in diesen Einrichtungen zu unterstützen.
-
-(2) Für die Ermächtigung nach Absatz 1 gelten die folgenden Beschränkungen:
-
-1. die Tätigkeit erfolgt unter der Verantwortung eines Arztes;
-
-2. die Berufsbezeichnung „Ärztin“ oder „Arzt“ darf nicht geführt werden;
-
-3. die Behandlungserlaubnis erstreckt sich nur auf Personen in der Aufnahmeeinrichtung oder der anderen für die Unterbringung dieser Personen durch das Land bestimmten Einrichtung;
-
-4. eine sprachliche Verständigung der ermächtigten Personen mit den zu behandelnden Personen in diesen Einrichtungen muss sichergestellt sein.
-
-(3) Die Ermächtigung nach Absatz 1 wird befristet erteilt. Sie kann jederzeit widerrufen werden, wenn die Voraussetzungen nach Absatz 1 nicht mehr gegeben sind oder berechtigte Zweifel an der Qualifikation als Arzt erkennbar werden.
-
-(4) Die Erteilung der Ermächtigung nach Absatz 1 setzt voraus, dass
-
-1. der Antragsteller seine Qualifikation als Arzt glaubhaft macht und
-
-2. ihm eine Approbation oder Erlaubnis zur vorübergehenden Ausübung des ärztlichen Berufs nach § 3 oder § 10 der Bundesärzteordnung nicht erteilt werden kann, weil die erforderlichen Unterlagen und Nachweise aus Gründen, die nicht in der Person des Antragstellers liegen, nicht vorgelegt werden können.
-
-Zur Glaubhaftmachung nach Satz 1 Nummer 1 hat der Antragsteller an Eides statt zu versichern, dass er über eine abgeschlossene Ausbildung als Arzt verfügt und hat in einem Fachgespräch mit einem von der zuständigen Behörde beauftragten Arzt seinen Ausbildungsweg sowie seine ärztliche Kompetenz nachzuweisen.
-
-(5) Ein späteres Verfahren zur Erteilung der Approbation nach § 3 der Bundesärzteordnung oder Verfahren zur Erteilung einer Erlaubnis zur vorübergehenden Ausübung des ärztlichen Berufs nach § 10 der Bundesärzteordnung bleibt von der Ermächtigung zur vorübergehenden Ausübung von Heilkunde nach Absatz 1 unberührt.
-
-(6) Das Verfahren zur Erteilung der Ermächtigung nach den Absätzen 1 bis 5 führt die zuständige Behörde des Landes durch, in dem die Heilkunde ausgeübt werden soll, oder das Land oder die gemeinsame Einrichtung, das oder die nach § 12 Absatz 3 Satz 3 der Bundesärzteordnung vereinbart wurde.
 
 # § 106 – Einschränkung von Grundrechten
 

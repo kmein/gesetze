@@ -331,11 +331,11 @@ Nicht oder nicht zweckentsprechend verwendete Mittel sind dem Bund zu erstatten.
 
 # § 9 – Unterstützung der Länder bei der Umsetzung des Vorhabens Deutschlandticket
 
-(1) Die Länder führen ab dem 1. Mai 2023 ein Ticket ein, das zur bundesweiten Nutzung des öffentlichen Personennahverkehrs berechtigt (Deutschlandticket). Es soll in digitaler Form erhältlich sein und für ein Entgelt zum Zeitpunkt der Einführung von 49 Euro je Monat in einem monatlich kündbaren Abonnement angeboten werden. Der maßgebliche Ausgleich finanzieller Nachteile entsprechend den Regelungen der Verordnung (EG) Nr. 1370/2007 wird von den Ländern bzw. den zuständigen Behörden abgewickelt.
+(1) Die Länder führen ab dem 1. Mai 2023 ein Ticket ein, das zur bundesweiten Nutzung des öffentlichen Personennahverkehrs berechtigt (Deutschlandticket). Es soll in digitaler Form erhältlich sein und in einem monatlich kündbaren Abonnement angeboten werden. Der maßgebliche Ausgleich finanzieller Nachteile entsprechend den Regelungen der Verordnung (EG) Nr. 1370/2007 wird von den Ländern bzw. den zuständigen Behörden abgewickelt.
 
-(2) Den Ländern steht für die Kalenderjahre 2023 bis 2025 für den Ausgleich der durch die Einführung und Umsetzung der in Absatz 1 Satz 1 genannten Maßnahme entstandenen finanziellen Nachteile ein Betrag von 1 500 000 000,00 Euro für jedes Kalenderjahr aus dem Steueraufkommen des Bundes zu. Mit den jährlichen Beträgen beteiligt sich der Bund an der Finanzierung der durch das Deutschlandticket entstandenen finanziellen Nachteile. Die Länder beteiligen sich mindestens in gleicher Höhe. Für den Zeitraum vom 1. Mai 2023 bis 31. Dezember 2025 werden die tatsächlich entstandenen finanziellen Nachteile nach den Regelungen des Absatzes 7 ausgeglichen.
+(2) Den Ländern steht für die Kalenderjahre 2023 bis 2030 für den Ausgleich der durch die Einführung und Umsetzung der in Absatz 1 Satz 1 genannten Maßnahme entstandenen finanziellen Nachteile ein Betrag von 1 500 000 000,00 Euro für jedes Kalenderjahr aus dem Steueraufkommen des Bundes zu. Mit den jährlichen Beträgen beteiligt sich der Bund an der Finanzierung der durch das Deutschlandticket entstandenen finanziellen Nachteile. Die Länder beteiligen sich mindestens in gleicher Höhe. Für den Zeitraum vom 1. Mai 2023 bis 31. Dezember 2025 werden die tatsächlich entstandenen finanziellen Nachteile nach den Regelungen des Absatzes 7 ausgeglichen. Für den Zeitraum vom 1. Januar 2026 bis 31. Dezember 2030 werden die tatsächlich entstandenen finanziellen Nachteile nach den Regelungen des Absatzes 7a ausgeglichen.
 
-(3) Der jährliche Betrag nach Absatz 2 Satz 1 wird wie folgt auf die Länder verteilt:  
+(3) Der jährliche Betrag nach Absatz 2 Satz 1 wird in den Jahren 2023 bis 2025 wie folgt auf die Länder verteilt:  
   
 
 |                        |                     |
@@ -359,13 +359,36 @@ Nicht oder nicht zweckentsprechend verwendete Mittel sind dem Bund zu erstatten.
 
   
 
-(4) Der Betrag für das Jahr 2023 ist zum 15. Mai 2023 zu überweisen. Von den für die Jahre 2024 und 2025 jeweils zur Verfügung zu stellenden Beträgen ist je ein Zwölftel zum 15. Tag eines jeden Monats zu überweisen.
+(3a) Der Betrag nach Absatz 2 Satz 1 wird in den Jahren 2026 bis 2030 wie folgt auf die Länder verteilt:
 
-(5) Die Länder haben einvernehmlich die in Absatz 3 festgelegte Verteilung in einer Endabrechnung an die tatsächlich entstandenen finanziellen Nachteile im öffentlichen Personennahverkehr in eigener Verantwortung anzupassen. Der Bund wird über eine solche Beschlussfassung und die anschließende Umsetzung jeweils zeitnah unterrichtet.
+|                        |                  |
+|:-----------------------|-----------------:|
+| Baden-Württemberg      | 203 200 000 Euro |
+| Bayern                 | 299 830 000 Euro |
+| Berlin                 | 152 790 000 Euro |
+| Brandenburg            |  12 010 000 Euro |
+| Bremen                 |   7 500 000 Euro |
+| Hamburg                |  99 030 000 Euro |
+| Hessen                 |  96 940 000 Euro |
+| Mecklenburg-Vorpommern |  14 770 000 Euro |
+| Niedersachsen          |  80 840 000 Euro |
+| Nordrhein-Westfalen    | 358 460 000 Euro |
+| Rheinland-Pfalz        |  45 650 000 Euro |
+| Saarland               |   7 500 000 Euro |
+| Sachsen                |  40 770 000 Euro |
+| Sachsen-Anhalt         |  17 130 000 Euro |
+| Schleswig-Holstein     |  42 930 000 Euro |
+| Thüringen              | 20 650 000 Euro. |
 
-(6) Die Länder sind für die zweckentsprechende Verwendung der Beträge nach Absatz 3 verantwortlich und weisen dem Bund jährlich, beginnend mit dem Jahr 2023, die Verwendung der Mittel nach Maßgabe der Anlage 8 bis zum 30. Juni des jeweiligen Folgejahres nach. Nachzuweisen sind die dem jeweiligen Kalenderjahr zuzurechnenden finanziellen Nachteile, unabhängig davon, in welchem Jahr diese haushaltswirksam geworden sind. Bei der Erstellung des Verwendungsnachweises sind Veränderungen der Werte der Vorjahre kenntlich zu machen und zu erläutern. Eine Ergänzung des Bundesanteils durch Regionalisierungsmittel gemäß § 5 sowie Verrechnungen, die dies bewirken, sind nicht gestattet. Nicht oder nicht zweckentsprechend verwendete Mittel sind dem Bund zu erstatten.
+(4) Von den für die Jahre 2024 bis 2030 jeweils zur Verfügung zu stellenden Beträgen ist je ein Zwölftel zum 15. Tag eines jeden Monats zu überweisen.
+
+(5) Die Länder haben einvernehmlich die in den Absätzen 3 und 3a jeweils festgelegte Verteilung in einer Endabrechnung an die tatsächlich entstandenen finanziellen Nachteile im öffentlichen Personennahverkehr in eigener Verantwortung anzupassen. Der Bund wird über eine solche Beschlussfassung und die anschließende Umsetzung jeweils zeitnah unterrichtet.
+
+(6) Die Länder sind für die zweckentsprechende Verwendung der Beträge nach den Absätzen 3 und 3a verantwortlich und weisen dem Bund jährlich, beginnend mit dem Jahr 2023, die Verwendung der Mittel nach Maßgabe der Anlage 8, ab dem Jahr 2026 nach Maßgabe der Anlage 9, bis zum 30. Juni des jeweiligen Folgejahres nach. Nachzuweisen sind die dem jeweiligen Kalenderjahr zuzurechnenden finanziellen Nachteile, unabhängig davon, in welchem Jahr diese haushaltswirksam geworden sind. Bei der Erstellung des Verwendungsnachweises sind Veränderungen der Werte der Vorjahre kenntlich zu machen und zu erläutern. Eine Ergänzung des Bundesanteils durch Regionalisierungsmittel gemäß § 5 sowie Verrechnungen, die dies bewirken, sind nicht gestattet. Nicht oder nicht zweckentsprechend verwendete Mittel sind dem Bund zu erstatten.
 
 (7) Nach Vorlage der endgültigen Daten gemäß Anlage 8 für die Kalenderjahre 2023, 2024 und 2025 ist nachzuweisen, auf welche Höhe sich der tatsächlich erforderliche Betrag beläuft, um die finanziellen Nachteile im Sinne des Absatzes 2 Satz 2 und 3, die im Zeitraum vom 1. Mai 2023 bis 31. Dezember 2025 entstanden sind, auszugleichen und wie sich dieser auf die einzelnen Länder verteilt. Im Benehmen mit den Ländern beauftragt der Bund eine Wirtschaftsprüferin, einen Wirtschaftsprüfer oder eine Wirtschaftsprüfungsgesellschaft mit der für die Prüfung erforderlichen Untersuchung der finanziellen Nachteile durch das Deutschlandticket.
+
+(7a) Die Mittel nach Absatz 3a stehen für den Ausgleich der finanziellen Nachteile im Sinne des Absatzes 2 Satz 2 und 3 im Zeitraum vom 1. Januar 2026 bis 31. Dezember 2030 zur Verfügung.
 
 (8) Die Bundesregierung hat jährlich aus den Nachweisen der Länder einen Gesamtbericht zu erstellen, der dem Deutschen Bundestag zugeleitet und veröffentlicht wird.
 
@@ -1306,3 +1329,95 @@ Vorjahr<br />
 </table>
 
 Zu den einzelnen Punkten werden geeignete inhaltliche Erläuterungen sowie Hinweise zur Validität (z. B. endgültige Testierung) beigefügt. Die Vorjahreswerte sind zu aktualisieren.
+
+# Anlage 9 – (zu § 9 Absatz 6)Nachweis über die Verwendung der zusätzlichen Regionalisierungsmittel nach § 9 Absatz 3a
+
+(Fundstelle: BGBl. 2025 I Nr. 287, S. 3)
+
+<table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
+<colgroup>
+<col style="width: 3%" />
+<col style="width: 6%" />
+<col style="width: 24%" />
+<col style="width: 12%" />
+<col style="width: 42%" />
+<col style="width: 12%" />
+</colgroup>
+<tbody data-valign="top">
+<tr class="odd">
+<td colspan="6" style="text-align: left;" data-valign="top" data-charoff="50">Nachweis über die Verwendung der zusätzlichen Regionalisierungsmittel</td>
+</tr>
+<tr class="even">
+<td colspan="3" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">für das Bundesland:</td>
+<td colspan="3" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">im Jahr<br />
+zum Stichtag 30. Juni</td>
+</tr>
+<tr class="odd" data-valign="middle">
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">Bereich</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">Landes-<br />
+haushalt<br />
+(Kapitel/Titel)</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">Verwendungszweck</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">Betrag<br />
+(in EUR)</td>
+</tr>
+<tr class="even">
+<td rowspan="4" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">1</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">1.1</td>
+<td rowspan="4" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">Verfügbare Mittel</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Zuweisung nach § 9 Abs. 3a RegG</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">1.2</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Minderung/Aufstockung aufgrund Länderausgleich</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">1.3</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Landesmittel</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">1.4</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">verfügbare Mittel gesamt (Summe 1.1 bis 1.3)</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td rowspan="3" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">2</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">2.1</td>
+<td rowspan="3" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">Ausgleich von finanziellen Nachteilen im öffentlichen Personennahverkehr</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">geleistete Zahlungen gemäß Landesrichtlinie</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">2.2</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">geleistete Zahlungen für zusätzliche Ausgaben</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">2.3</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Summe (2.1 und 2.2)</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="middle" data-charoff="50">3</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="middle" data-charoff="50"> </td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="middle" data-charoff="50">Differenz verfügbare Mittel/Ausgaben</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">(Differenz aus 1.4 und 2.3)</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+</tr>
+</tbody>
+</table>
+
+Dem Verwendungsnachweis sind geeignete inhaltliche Erläuterungen, Hinweise zur Validität (z. B. endgültige Testierung) sowie Aussagen zur Höhe des Mittelabflusses im Berichtsjahr beizufügen. Die Verwendungsnachweise der Vorjahre sind zu aktualisieren.

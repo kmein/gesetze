@@ -331,7 +331,7 @@ Die Weiterreichung an mit dem Anbieter im Konzernverbund stehende Unternehmen (�
 
 (1) Der Anbieter muss beim Betrieb seines EETS-Teilsystems die folgenden Qualitätsparameter erfüllen:
 
-1. Der Anbieter muss eine Erfassungsquote von mindestens 99,500 % erreichen. Mit der Erfassungsquote wird die Qualität der korrekten Mauterkennung für Befahrungen des mautpflichtigen Straßennetzes, bezogen auf den vom EETS-Anbieter zu verantwortenden Anteil der Mauterhebung, ermittelt.
+1. Der Anbieter muss eine Erfassungsquote von mindestens 99,600 % erreichen. Mit der Erfassungsquote wird die Qualität der korrekten Mauterkennung für Befahrungen des mautpflichtigen Straßennetzes, bezogen auf den vom EETS-Anbieter zu verantwortenden Anteil der Mauterhebung, ermittelt.
 
 2. Der Anbieter muss eine DSRC-Quote von mindestens 98,500 % erreichen. Die DSRC-Quote wird durch die Messung der korrekten DSRC Kommunikation der EETS-Fahrzeuggeräte mit den Kontrolleinrichtungen des Mauterhebers ermittelt, wobei alle abrechnungsrelevanten Daten (Fahrzeugparameter und Vertragsparameter) korrekt und vollständig übermittelt werden müssen.
 
@@ -339,9 +339,9 @@ Die Weiterreichung an mit dem Anbieter im Konzernverbund stehende Unternehmen (�
 
 4. Der Anbieter muss eine Nutzerlistenquote von mindestens 99,900 % erreichen. Die Nutzerlistenquote wird aus der Messung der Qualität der Erstellung und Übermittlung der Nutzerliste vom Anbieter an den Mauterheber ermittelt.
 
-5. Der Anbieter muss eine Quote für abschnittsbezogene Erhebungsdaten, die nicht vom Mauterhebungsdienst des Mauterhebers erzeugt wurden, von mindestens 99,000 % erreichen. Die Quote für abschnittsbezogene Erhebungsdaten wird durch die Messung der Korrektheit und Rechtzeitigkeit der Übermittlung von abschnittsbezogenen Erhebungsdaten (ABED) vom Anbieter an den Mauterheber bestimmt.
+5. Der Anbieter muss eine Quote für Fahrspuren von mindestens 99,000 % erreichen. Die Quote für Fahrspuren wird durch die Messung der Korrektheit und Rechtzeitigkeit der Übermittlung von Fahrspuren über die Schnittstelle 005 vom Anbieter an den Mauterhebungsdienst bestimmt.
 
-6. Der Anbieter, der den Mauterhebungsdienst nutzt, muss eine Quote für Fahrspuren von mindestens 99,000 % erreichen. Die Quote für Fahrspuren wird durch die Messung der Korrektheit und Rechtzeitigkeit der Übermittlung von Fahrspuren über die Schnittstelle 005 vom Anbieter an den Mauterhebungsdienst bestimmt.
+6. (weggefallen)
 
 Die Einzelheiten zur Messung und Bewertung der einzelnen Qualitätsparameter sind in den Qualitätsparametern für EETS-Anbieter (Anlage 5) geregelt.
 
@@ -554,7 +554,7 @@ In den Fällen der Nummern 7 und 8 wird die Vertragsstrafe für jeden Tag verwir
 
 (5) Die Summe der Vertragsstrafen nach den Absätzen 1 bis 5 darf einen Betrag in Höhe von 10 % der jährlichen Vergütung des Anbieters für das EETS-Gebiet BFStrMG pro Jahr – mindestens aber in Höhe von 50 000 Euro – nicht überschreiten. Von der Regelung in Satz 1 sind die folgenden Vertragsstrafen ausgenommen:
 
-1. die Vertragsstrafe, die der Anbieter beim Unterschreiten des Qualitätsparameters „Erfassungsquote EQ\_nonMED“ gemäß Ziffer 3.1.2, bzw. „Erfassungsquote\_MED“ gemäß Ziffer 3.2.2, der Anlage 5 dieses Vertrages verwirkt,
+1. die Vertragsstrafe, die der Anbieter beim Unterschreiten des Qualitätsparameters „Erfassungsquote EQ“ gemäß Ziffer 3.1.3 der Anlage 5 dieses Vertrags verwirkt,
 
 2. die Vertragsstrafe nach § 27 Absatz 3b. Die Summe der Vertragsstrafe nach § 27 Absatz 3b darf einen Betrag in Höhe des Gesamtanspruchs auf Änderungspauschale für ein Änderungsvorhaben für die jeweilige Vergütungsperiode gemäß Ziffer 2.3 der Anlage 9 dieses Vertrages nicht überschreiten.
 
@@ -755,66 +755,7 @@ Der EETS-Anbieter muss dem Mauterheber ebenfalls einen Service Desk bereitstelle
 
 (Fundstelle: BAnz AT 29.10.2021 V2)
 
-1. Vorbemerkungen
-
-2. Allgemeine Bestimmungen
-
-3. Bestimmungen zu den Qualitätsparametern
-
-3.1  
-Erfassungsquote EQ\_nonMED
-
-3.1.1  
-Messdatenerhebung
-
-3.1.2  
-Messdatenauswertung
-
-3.2  
-Erfassungsquote EQ\_MED
-
-3.2.1  
-Messdatenerhebung
-
-3.2.2  
-Messdatenauswertung
-
-3.2.3  
-Kombinierte Erfassungsquote bei der Migration auf den MED
-
-3.3  
-DSRC-Quote (QP\_DSRCTRANS)
-
-3.3.1  
-Messdatenerhebung und Messdatenauswertung
-
-3.4  
-Sperrlistenquote (QP\_SPERRLISTE)
-
-3.4.1  
-Messdatenerhebung und Messdatenauswertung
-
-3.5  
-Nutzerlistenquote (QP\_NUTZERLISTE)
-
-3.5.1  
-Messdatenerhebung und Messdatenauswertung
-
-3.6  
-Quote für die abschnittsbezogenen Erhebungsdaten (QP\_ABED)
-
-3.7  
-Fahrspurquote (QP\_FS)
-
-3.8  
-Übermittlung von Mautbuchungsnachweisen
-
-3.9  
-Übermittlung von Tagesberichten
-
-4. Bestimmungen zu den Audits
-
-Die folgenden Regelungen definieren vertragliche Bestimmungen für den Vertrag des Mauterhebers mit einem EETS-Anbieter hinsichtlich der Sicherstellung der Qualitätsanforderungen, die in den Gebietsvorgaben festgelegt wurden und das Leistungssoll beschreiben. Zur kontinuierlichen Überprüfung der Qualität des Systems des EETS-Anbieters werden täglich die Übertragung von Maut- und Auskehrdaten und die Einhaltung von Qualitätsparametern geprüft und ggf. auch Audits durchgeführt. Für EETS-Anbieter, die den vom nationalen Betreiber im Auftrag des Mauterhebers betriebenen Mauterhebungsdienst (MED) nutzen, gelten teilweise andere Qualitätsanforderungen als für EETS-Anbieter, die dies nicht tun. Auf diese Qualitätsanforderungen wird im Folgenden besonders hingewiesen.
+Die folgenden Regelungen definieren vertragliche Bestimmungen für den Vertrag des Mauterhebers mit einem EETS-Anbieter hinsichtlich der Sicherstellung der Qualitätsanforderungen, die in den Gebietsvorgaben festgelegt wurden und das Leistungssoll beschreiben. Zur kontinuierlichen Überprüfung der Qualität des Systems des EETS-Anbieters werden täglich die Übertragung von Maut- und Auskehrdaten und die Einhaltung von Qualitätsparametern geprüft und ggf. auch Audits durchgeführt.
 
 1. Der EETS-Anbieter hat dem Mauterheber jegliche Auskünfte in Zusammenhang mit den von ihm betriebenen Systemen zu erteilen, entsprechende Erklärungen und Berichte abzugeben und auf Aufforderung Dritte, die in die Zertifizierung oder den Betrieb der Qualitätssicherungs- und Qualitätsmanagementsysteme eingebunden sind, zum Beispiel weil sie Zertifizierungen durchführen, zur unbeschränkten, direkten Auskunft gegenüber dem Mauterheber und von ihm benannte Dritten zu verpflichten. Auf Aufforderung durch den Mauterheber hat der EETS-Anbieter Auditoren entsprechende – soweit aus Sicht des Mauterhebers erforderlich auch unbeschränkte – Einsicht in seine für die Erbringung der Leistung betriebenen Systeme, soweit diese zur Erfüllung der Gebietsvorgaben eingesetzt werden, zu gewähren.
 
@@ -824,363 +765,152 @@ Die folgenden definierten Qualitätsparameter werden entsprechend dieser Anlage 
 
 Folgende Qualitätsparameter werden zur Überwachung der Erfüllung des Leistungssolls herangezogen.
 
-Die Erfassungsquote EQ\_nonMED wird ausschließlich für EETS-Anbieter angewendet, die den Mauterhebungsdienst des Mauterhebers nicht nutzen.
+Die Erfassungsquote EQ dient der Bestimmung der Qualität der korrekten Mauterhebung für Befahrungen des mautpflichtigen Straßennetzes, bezogen auf den vom EETS-Anbieter zu verantwortenden Anteil der Mauterhebung.
 
-Die Erfassungsquote EQ\_nonMED dient der Bestimmung der Qualität der korrekten Erkennung befahrener Abschnitte des mautpflichtigen Straßennetzes.
+Es wird zunächst für jedes Bordgerät eine individuelle Erfassungsquote EQ\_OBU ermittelt. Die Bordgeräte werden daraufhin in zwei Kategorien unterteilt: K\_EP und K\_MED. Bordgeräte, deren EQ\_OBU unter einem definierten Grenzwert liegen, werden in die Kategorie K\_EP eingruppiert, alle anderen Bordgeräte in die Kategorie K\_MED.
 
-Die Erfassungsquote EQ\_nonMED berechnet sich wie folgt:  
-  
+Bei Bordgeräten der Kategorie K\_EP wird davon ausgegangen, dass nicht oder nicht korrekt erfolgte Mauterhebungen durch die Qualität des Bordgeräts verursacht wurden. Diese werden als vom EETS-Anbieter zu verantwortende Fehler der Mauterhebung betrachtet.
 
-<table width="100%" style="border: none;">
-<tbody data-valign="top">
-<tr class="odd">
-<td style="text-align: center;" data-valign="top" data-charoff="50">EQ = 0,9 * 
-FM + 0,1 * 
-FS</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">mit</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">FM  (Fremdauslesung mobil): DSRC-Auslesungen mit mobilen Kontrolleinrichtungen</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">FS  (Fremdauslesung stationär): DSRC-Auslesungen mit ortsgebundenen (stationären) Kontrolleinrichtungen</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">Für die Ermittlung der Teilquoten  
-FM  und  
-FS  gilt:</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50"><img src="../normengrafiken/banzat_2021/20211029v2_05.jpg" alt=" " /></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50"><img src="../normengrafiken/banzat_2021/20211029v2_06.jpg" alt=" " /></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">MFMkorrekt: Anzahl der in der Stichprobe mit mobilen Kontrollen erfassten
-korrekt vorgenommenen Mauterhebungen im automatischen Mauterhebungssystem.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">MFMgesamt: Anzahl der in der Stichprobe mit mobilen Kontrollen erfassten korrekt und
-nicht korrekt vorgenommenen Mauterhebungen im automatischen Mauterhebungssystem.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">MFSkorrekt: Anzahl der in der Stichprobe mit stationären Kontrollen erfassten
-korrekt vorgenommenen Mauterhebungen im automatischen Mauterhebungssystem.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">MFSgesamt: Anzahl der in der Stichprobe mit stationären Kontrollen erfassten korrekt und
-nicht korrekt vorgenommenen Mauterhebungen im automatischen Mauterhebungssystem.</td>
-</tr>
-</tbody>
-</table>
+Bei Bordgeräten der Kategorie K\_MED wird davon ausgegangen, dass nicht oder nicht korrekt erfolgte Mauterhebungen durch die Qualität des Mauterhebungsdienstes verursacht wurden. Fehler, die bei den Bordgeräten der Kategorie K\_MED auftreten, werden als vom Mauterhebungsdienst zu verantwortende Fehler betrachtet.
 
-Die Datenerhebung erfolgt durch DSRC-Auslesung der in den kontrollierten Fahrzeugen angebrachten EETS-Fahrzeuggeräte. Die Stichprobe besteht aus allen mit einem EETS-Fahrzeuggerät ausgestatteten Fahrzeugen, bei denen eine DSRC-Auslesung erfolgreich durchgeführt wurde und bei denen ein mautpflichtiger Abschnitt durch den Mauterheber eindeutig bestimmt werden kann. Die Stichprobe besteht des Weiteren nur aus jenen Fahrzeugen, in denen das EETS-Fahrzeuggerät Erhebungsbereitschaft anzeigt. Die Ermittlung der Erfassungsquote EQ\_nonMED erfolgt auf der Basis von Daten, die im Rahmen der Kontrolle im gesamten mautpflichtigen Streckennetz erhoben werden.
+Die Erfassungsquote EQ sowie die individuelle Erfassungsquote je OBU EQ\_OBU werden gleichermaßen wie folgt berechnet:
 
-Eine Mauterhebung gilt als korrekt, wenn für das eindeutig identifizierbare Fahrzeug der in den abschnittsbezogenen Erhebungsdaten übermittelte erkannte Abschnitt dem aufgrund der DSRC-Daten der Kontrolleinrichtungen des Mauterhebers bestimmten tatsächlich befahrenen Abschnitt entspricht. Andernfalls gilt die Mauterhebung als nicht korrekt. Ausgenommen sind jeweils diejenigen Fälle, in denen der Mautpflichtige nachweislich gegen seine Mitwirkungspflicht verstoßen oder eine unerlaubte Manipulation vorgenommen hat. Die Beweislast dafür liegt beim EETS-Anbieter.
+EQ bzw. EQ\_OBU = 0,9 \*
 
-Die Erfassungsquote EQ\_nonMED wird für jeden Kalendermonat durch den Mauterheber als Zwischenergebnis ermittelt und auf drei Stellen nach dem Komma kaufmännisch gerundet. Die Messdatenauswertung erfolgt durch den Mauterheber. Der Mauterheber stellt dem EETS-Anbieter spätestens 30 Tage nach Ende des Kalendermonats die ermittelte Erfassungsquote EQ\_nonMED sowie Informationen und die zugrunde gelegten eigenen Daten zu identifizierten Schlechtfällen zur Verfügung. Der EETS-Anbieter kann diese Informationen und Daten prüfen und dem Mauterheber das Ergebnis seiner Prüfung sowie eventuelle Einwendungen innerhalb von 30 Tagen nach Übermittlung der Ergebnisse durch den Mauterheber übermitteln. Einwendungen gegen das vom Mauterheber übermittelte Ergebnis sind nur insoweit zulässig, als der EETS-Anbieter nachweist, dass die Ermittlung der Erfassungsquote EQ\_nonMED entgegen den Vorgaben dieses Anhangs QP sowie ggf. der Verfahrensbeschreibung erfolgt ist oder die zugrunde gelegten eigenen Daten des Mauterhebers unrichtig sind. Der Mauterheber wird das Ergebnis der Prüfung durch den EETS-Anbieter innerhalb von weiteren 30 Tagen prüfen und die Erfassungsquote EQ\_nonMED für den jeweiligen Kalendermonat endgültig feststellen und in Form eines Berichts übermitteln.
+FM + 0,1 \*
 
-Basierend auf den Positionsdaten der Kontrolleinrichtung wird jedem erhobenen Messfall ein Abschnitt zugeordnet. Ist keine eindeutige Zuordnung zu einem Abschnitt möglich, dann wird der zugehörige Messfall verworfen.
+FS  
+mit
 
-Einem Gutfall für die Messung der Erfassungsquote EQ\_nonMED muss eine korrekte Erhebung in allen folgenden Unterpunkten zugrunde liegen. Als Schlechtfall gilt jeder Fall, dem mindestens in einem der folgenden Unterpunkte keine korrekte Erhebung zugrunde liegt:
+FM (Fremdauslesung mobil): DSRC-Auslesungen mit mobilen Kontrolleinrichtungen
 
-1. Eine durch den EETS-Anbieter erhobene Maut gilt im Rahmen der Ermittlung der Erfassungsquote EQ\_nonMED als korrekt erhoben, wenn die Höhe der tatsächlich erhobenen Maut der Höhe der geschuldeten Maut entspricht, die sich bei Anwendung der Regeln zur Ermittlung der Mauthöhe, unter Berücksichtigung der jeweiligen Gebührenklassen des kontrollierten Fahrzeugs, ergibt. Die Identifizierung des kontrollierten Fahrzeugs erfolgt ausschließlich über das Kennzeichen aus den DSRC-Daten. Mögliche Abweichungen des DSRC-Kennzeichens zum tatsächlich am Fahrzeug angebrachten Kennzeichen werden nicht berücksichtigt. Maut von Falschdeklarierern gilt im Rahmen der Ermittlung der Erfassungsquote EQ\_nonMED als korrekt erhoben. Alle Fälle von Nichtzahlungen bei Fahrzeugen, die mit einem EETS-Fahrzeuggerät ausgestattet sind und für die auf Basis des DSRC-Kennzeichens keine Erhebung erfolgte, werden als nicht korrekt erhoben angesehen. Ausgenommen sind jeweils diejenigen Fälle, in denen der Mautschuldner gegen seine gesetzliche Mitwirkungspflicht verstößt oder eine unerlaubte Manipulation vorgenommen hat. Die Beweislast dafür liegt beim EETS-Anbieter.
+FS (Fremdauslesung stationär): DSRC-Auslesungen mit ortsgebundenen (stationären) Kontrolleinrichtungen
 
-2. Eine Mauterhebung gilt als korrekt, wenn für das Fahrzeug, das von der Kontrolleinrichtung mittels DSRC identifiziert wurde, der tatsächlich befahrene Abschnitt, der aufgrund der für die Kontrolleinrichtung festgestellten Positionsdaten ermittelt wurde, dem vom EETS-Anbieter in den abschnittsbezogenen Erhebungsdaten übermittelten erkannten Abschnitt inklusive eventueller Lückenschlüsse entspricht.
+Für die Ermittlung der Teilquoten
 
-3. Eine Mauterhebung gilt ebenfalls als korrekt, sofern der EETS-Anbieter nachweist (zum Beispiel durch Mauterhebungsdaten), dass ein Fahrzeug durch die Kontrolleinrichtung mittels DSRC in Gegenrichtung auf einer Bundesstraße fahrend identifiziert wurde und dafür in den abschnittsbezogenen Erhebungsdaten des EETS-Anbieters ebenfalls der korrekte Abschnitt zugeordnet wurde. Andernfalls gilt die Mauterhebung als nicht korrekt. Ausgenommen sind jeweils diejenigen Fälle, in denen der Mautschuldner nachweislich gegen seine gesetzliche Mitwirkungspflicht verstoßen oder eine unerlaubte Manipulation vorgenommen hat. Die Beweislast dafür liegt beim EETS-Anbieter.
+FM und
 
-Der Mauterheber behält sich vor, weitere Details der praktischen Umsetzung der Messdatenauswertung in einer verbindlichen Verfahrensbeschreibung festzulegen, die sich innerhalb des in diesem Anhang QP vorgegebenen Rahmens bewegt.
+FS gilt:
 
-Der EETS-Anbieter muss einen Zielwert für
+![FM ist gleich Klammer auf 1 minus MFM tiefgestellt inkorrekt geteilt durch MFM tiefgestellt gesamt Klammer zu multipliziert mit 100 %](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02440_0010.jpg)
 
-die Erfassungsquote EQ\_nonMED von mindestens
+![FS ist gleich Klammer auf 1 minus MFS tiefgestellt inkorrekt geteilt durch MFS tiefgestellt gesamt Klammer zu multipliziert mit 100 %](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j02440_0020.jpg)
 
-99,500 % erreichen. Falls der EETS-Anbieter einen Zielwert von 95,000 % innerhalb eines Kalenderjahres in mehr als zwei Monaten oder in zwei aufeinanderfolgenden Monaten unterschreitet, ist der Mauterheber berechtigt, den Vertrag mit dem EETS-Anbieter zu kündigen (§ 28 Absatz 3 Satz 2 Nummer 16 EETS-Zulassungsvertrag). Wird die Erfassungsquote EQ\_nonMED in Höhe von 99,500 % nicht erreicht, verwirkt der EETS-Anbieter eine Vertragsstrafe in Höhe von 0,05 % der ausgekehrten Mauteinnahmen im relevanten Betrachtungszeitraum je angefangenen Zehntelprozentpunkt der Unterschreitung des Zielwerts der Erfassungsquote EQ\_nonMED. Der relevante Betrachtungszeitraum umfasst das Kalenderjahr. Die ausgekehrten Mauteinnahmen (ME) im relevanten Betrachtungszeitraum t ermitteln sich wie folgt:  
-  
+MFM
 
-<table width="100%" style="border: none;">
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 76%" />
-</colgroup>
-<tbody data-valign="top">
-<tr class="odd">
-<td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">ME
-t = 
-WZ
-t - 
-R
-t - 
-Z
-t</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">WZ
-t = </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">auf dem Konto des Mauterhebers gemäß § 5 des EETS-Zulassungsvertrags und gemäß den Vorgaben der EEMD-Gebietsvorgabenverordnung in Summe wertgestellte Zahlungen in Euro im Betrachtungszeitraum</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">R
-t = </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Betrag in Euro der gemäß Anlage 9, Nummer 1.3 des EETS-Zulassungsvertrags positiv beschiedenen Erstattungsverlangen im Betrachtungszeitraum</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">Z
-t = </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Betrag in Euro der im Betrachtungszeitraum vom EETS-Anbieter ausgekehrten Verzugszinsen</td>
-</tr>
-</tbody>
-</table>
+inkorrekt: Anzahl der in der Stichprobe mit mobilen Kontrollen erfassten
 
-Der Betrachtungszeitraum umfasst das Kalenderjahr. Sofern ein relevanter Betrachtungszeitraum nicht das gesamte Kalenderjahr umfasst, wird die Vertragsstrafe monatsgenau anteilig verwirkt (pro rata temporis).
+nicht korrekt vorgenommenen Mauterhebungen im automatischen Mauterhebungssystem.
 
-Die Erfassungsquote EQ\_MED wird ausschließlich für EETS-Anbieter angewendet, die den Mauterhebungsdienst des Mauterhebers nutzen. Die Erfassungsquote EQ\_MED dient der Bestimmung der Qualität der korrekten Mauterhebung für Befahrungen des mautpflichtigen Straßennetzes, bezogen auf den vom EETS-Anbieter zu verantwortenden Anteil der Mauterhebung. Die Erfassungsquote EQ\_MED berechnet sich wie folgt:  
-  
+MFM
 
-<table width="100%" style="border: none;">
-<tbody data-valign="top">
-<tr class="odd">
-<td style="text-align: center;" data-valign="top" data-charoff="50">EQ = 0,9 * 
-FM + 0,1 * 
-FS</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">mit</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">FM  (Fremdauslesung mobil): DSRC-Auslesungen mit mobilen Kontrolleinrichtungen</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">FS  (Fremdauslesung stationär): DSRC-Auslesungen mit ortsgebundenen (stationären) Kontrolleinrichtungen</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">Für die Ermittlung der Teilquoten  
-FM  und  
-FS  gilt:</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50"><img src="../normengrafiken/banzat_2021/20211029v2_05.jpg" alt=" " /></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50"><img src="../normengrafiken/banzat_2021/20211029v2_06.jpg" alt=" " /></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">MFMkorrekt: Anzahl der in der Stichprobe mit mobilen Kontrollen erfassten
-korrekt vorgenommenen Mauterhebungen im automatischen Mauterhebungssystem.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">MFMgesamt: Anzahl der in der Stichprobe mit mobilen Kontrollen erfassten korrekt und
-nicht korrekt vorgenommenen Mauterhebungen im automatischen Mauterhebungssystem.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">MFSkorrekt: Anzahl der in der Stichprobe mit (stationären) Kontrollen erfassten
-korrekt vorgenommenen Mauterhebungen im automatischen Mauterhebungssystem.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">MFSgesamt: Anzahl der in der Stichprobe mit (stationären) Kontrollen erfassten korrekt und
-nicht korrekt vorgenommenen Mauterhebungen im automatischen Mauterhebungssystem.</td>
-</tr>
-</tbody>
-</table>
+gesamt: Anzahl der in der Stichprobe mit mobilen Kontrollen erfassten
 
-Die Datenerhebung erfolgt durch DSRC-Auslesung der in den kontrollierten Fahrzeugen angebrachten EETS-Fahrzeuggeräte. Die Stichprobe besteht aus allen mit einem EETS-Fahrzeuggerät ausgestatteten Fahrzeugen, bei denen eine DSRC-Auslesung erfolgreich durchgeführt wurde und bei denen ein mautpflichtiger Abschnitt durch den Mauterheber eindeutig bestimmt werden kann. Die Stichprobe besteht des Weiteren nur aus jenen Fahrzeugen, in denen das EETS-Fahrzeuggerät Erhebungsbereitschaft anzeigt. Die Ermittlung der Erfassungsquote EQ\_MED erfolgt auf der Basis von Daten, die im Rahmen der Kontrolle im gesamten mautpflichtigen Streckennetz erhoben werden.
+korrekt und nicht korrekt vorgenommenen Mauterhebungen im automatischen Mauterhebungssystem.
 
-Eine Mauterhebung gilt bezogen auf den vom EETS-Anbieter zu verantwortenden Anteil als korrekt, wenn
+MFS
 
-1. für das eindeutig identifizierbare Fahrzeug der in den abschnittsbezogenen Erhebungsdaten übermittelte erkannte Abschnitt dem aufgrund der DSRC-Daten der Kontrolleinrichtungen des Mauterhebers bestimmten tatsächlich befahrenen Abschnitt entspricht,
+inkorrekt: Anzahl der in der Stichprobe mit (stationären) Kontrollen erfassten
+
+nicht korrekt vorgenommenen Mauterhebungen im automatischen Mauterhebungssystem.
+
+MFS
+
+gesamt: Anzahl der in der Stichprobe mit (stationären) Kontrollen erfassten
+
+korrekt und nicht korrekt vorgenommenen Mauterhebungen im automatischen Mauterhebungssystem.
+
+Die Datenerhebung erfolgt durch DSRC-Auslesung der in den kontrollierten Fahrzeugen angebrachten EETS-Fahrzeuggeräte. Die Stichprobe besteht aus allen mit einem EETS-Fahrzeuggerät ausgestatteten Fahrzeugen, bei denen eine DSRC-Auslesung erfolgreich durchgeführt wurde und bei denen ein mautpflichtiger Abschnitt durch den Mauterheber eindeutig bestimmt werden kann. Die Stichprobe besteht des Weiteren nur aus jenen Fahrzeugen, in denen das EETS-Fahrzeuggerät Erhebungsbereitschaft anzeigt. Die Ermittlung der Erfassungsquote EQ erfolgt auf der Basis von Daten, die im Rahmen der Kontrolle im gesamten mautpflichtigen Streckennetz erhoben werden.
+
+Für jedes Bordgerät des EETS-Anbieters wird für den jeweiligen Betrachtungszeitraum eine individuelle Erfassungsquote EQ\_OBU gemäß obiger Formel ermittelt. Ist die individuelle Erfassungsquote eines Bordgeräts im jeweiligen Betrachtungszeitraum kleiner als 95 %, so wird das Bordgerät in die Kategorie K\_EP eingruppiert, andernfalls in die Kategorie K\_MED.
+
+Die Erfassungsquote EQ für den EETS-Anbieter errechnet sich aus der obigen Formel, wobei für die Anzahl der inkorrekten Messfälle
+
+MFM
+
+inkorrekt und
+
+MFS
+
+inkorrekt
+
+nur die inkorrekten Mauterhebungen der Bordgeräte der Kategorie K\_EP berücksichtigt werden. In die Ermittlung der Anzahl der gesamten Messfälle
+
+MFM
+
+gesamt und
+
+MFS
+
+gesamt gehen die Messfälle aller Bordgeräte des EETS-Anbieters unabhängig von ihrer Kategorie ein.
+
+Eine Mauterhebung gilt für die Ermittlung der EQ bzw. EQ\_OBU bezogen auf den vom EETS-Anbieter zu verantwortenden Anteil als korrekt, wenn
+
+1. für das Fahrzeug, das von der Kontrolleinrichtung mittels DSRC identifiziert wurde, der tatsächlich befahrene Abschnitt, der aufgrund der für die Kontrolleinrichtung festgestellten Positionsdaten ermittelt wurde, dem Abschnitt in den abschnittsbezogenen Erhebungsdaten entspricht, der vom Mauterheber inklusive eventueller Lückenschlüsse erkannt wurde (wobei mögliche Abweichungen des DSRC-Kennzeichens zum tatsächlich am Fahrzeug angebrachten Kennzeichen nicht berücksichtigt werden; Maut von Falschdeklarierern gilt im Rahmen der Ermittlung der Erfassungsquote EQ als korrekt erhoben),
 
 oder
 
-2. für das eindeutig identifizierbare Fahrzeug vom EETS-Anbieter Fahrspuren an den Mauterhebungsdienst des Mauterhebers übermittelt wurden, die
+2. der EETS-Anbieter nachweist (zum Beispiel durch Mautbuchungsnachweise), dass ein Fahrzeug durch die Kontrolleinrichtung mittels DSRC in Gegenrichtung auf einer Bundesstraße fahrend identifiziert wurde und dafür in den Mautbuchungsnachweisen des Mauterhebers ebenfalls der korrekte Abschnitt zugeordnet wurde,
 
-a. Positionsdaten zum Zeitpunkt der DSRC-Auslesung umfassen und
+oder
 
-b. bei denen keine Abweichungen zu den im Dokument 4.3.14 (SST005, Anlage 2 Ortungsspezifikation MED) beschriebenen Anforderungen identifiziert werden konnten.
+3. nur für den Fall der Ermittlung der EQ das Bordgerät der Kategorie K\_MED zugeordnet wurde.
 
-Andernfalls gilt die Mauterhebung bezogen auf den vom EETS-Anbieter zu verantwortenden Anteil als
+Sind die Bedingungen nach Satz 1 nicht erfüllt, so gilt die Mauterhebung bezogen auf den vom EETS-Anbieter zu verantwortenden Anteil als
 
-nicht korrekt. Ausgenommen sind jeweils diejenigen Fälle, in denen der Mautpflichtige nachweislich gegen seine Mitwirkungspflicht verstoßen oder eine unerlaubte Manipulation vorgenommen hat. Die Beweislast dafür liegt beim EETS-Anbieter.
+nicht korrekt. Ausgenommen sind diejenigen Fälle, in denen der Mautpflichtige nachweislich gegen seine Mitwirkungspflicht verstoßen oder eine unerlaubte Manipulation vorgenommen hat. Die Beweislast dafür liegt beim EETS-Anbieter.
 
-Die Erfassungsquote EQ\_MED wird für jeden Kalendermonat durch den Mauterheber als Zwischenergebnis ermittelt und auf drei Stellen nach dem Komma kaufmännisch gerundet. Die Messdatenauswertung erfolgt durch den Mauterheber. Der Mauterheber stellt dem EETS-Anbieter spätestens 30 Tage nach Ende des Kalendermonats die ermittelte Erfassungsquote EQ\_MED sowie Informationen und die zugrunde gelegten eigenen Daten zu den, bezogen auf den vom EETS-Anbieter zu verantwortenden Anteil der Mauterhebung, identifizierten Schlechtfällen zur Verfügung. Der EETS-Anbieter kann diese Informationen und Daten prüfen und dem Mauterheber das Ergebnis seiner Prüfung sowie eventuelle Einwendungen innerhalb von 30 Tagen nach Übermittlung der Ergebnisse durch den Mauterheber übermitteln. Einwendungen gegen das vom Mauterheber übermittelte Ergebnis sind nur insoweit zulässig, als der EETS-Anbieter nachweist, dass die Ermittlung der Erfassungsquote EQ\_MED entgegen den Vorgaben dieses Anhangs QP sowie ggf. der Verfahrensbeschreibung erfolgt ist oder die zugrunde gelegten eigenen Daten des Mauterhebers unrichtig sind. Der Mauterheber wird das Ergebnis der Prüfung durch den EETS-Anbieter innerhalb von weiteren 30 Tagen prüfen und die Erfassungsquote EQ\_MED für den jeweiligen Kalendermonat endgültig feststellen und in Form eines Berichts übermitteln.
+Die Erfassungsquote EQ wird für jeden Kalendermonat durch den Mauterheber als Zwischenergebnis ermittelt und auf drei Stellen nach dem Komma kaufmännisch gerundet. Die Messdatenauswertung erfolgt durch den Mauterheber. Der Mauterheber stellt dem EETS-Anbieter spätestens 30 Tage nach Ende des Kalendermonats die ermittelte Erfassungsquote EQ sowie Informationen und die zugrunde gelegten eigenen Daten zu den, bezogen auf den vom EETS-Anbieter zu verantwortenden Anteil der Mauterhebung, identifizierten Schlechtfällen zur Verfügung. Der EETS-Anbieter kann diese Informationen und Daten prüfen und dem Mauterheber das Ergebnis seiner Prüfung sowie eventuelle Einwendungen innerhalb von 30 Tagen nach Übermittlung der Ergebnisse durch den Mauterheber seinerseits übermitteln. Einwendungen gegen das vom Mauterheber übermittelte Ergebnis sind nur insoweit zulässig, als der EETS-Anbieter nachweist, dass die Ermittlung der Erfassungsquote EQ entgegen den Vorgaben dieses Anhangs QP sowie ggf. entgegen der Verfahrensbeschreibung erfolgt ist oder die zugrunde gelegten eigenen Daten des Mauterhebers unrichtig sind. Der Mauterheber prüft seinerseits das Ergebnis der Prüfung durch den EETS-Anbieter innerhalb von weiteren 30 Tagen nach Übermittlung und stellt die Erfassungsquote EQ für den jeweiligen Kalendermonat endgültig fest und übermittelt diese Feststellung in Form eines Berichts.
 
-Für eventuelle Vertragsstrafen ist das Ergebnis nach obenstehender Formel unter Berücksichtigung der Werte für den jeweiligen Betrachtungszeitraum heranzuziehen.
-
-Basierend auf den Positionsdaten der Kontrolleinrichtung wird jedem erhobenen Messfall ein Abschnitt zugeordnet. Ist keine eindeutige Zuordnung zu einem Abschnitt möglich, dann wird der zugehörige Messfall verworfen.
-
-Einem Gutfall für die Messung der Erfassungsquote EQ\_MED muss eine korrekte Erhebung in allen folgenden Unterpunkten zugrunde liegen. Als Schlechtfall gilt jeder Fall, dem mindestens in einem der folgenden Unterpunkte keine korrekte Erhebung zugrunde liegt:
-
-1. Die Identifizierung des kontrollierten Fahrzeugs erfolgt ausschließlich über das Kennzeichen aus den DSRC-Daten. Mögliche Abweichungen des DSRC-Kennzeichens zum tatsächlich am Fahrzeug angebrachten Kennzeichen werden nicht berücksichtigt. Maut von Falschdeklarierern gilt im Rahmen der Ermittlung der Erfassungsquote EQ\_MED als korrekt erhoben. Alle Fälle von Nichtzahlungen bei Fahrzeugen, die mit einem EETS-Fahrzeuggerät ausgestattet sind und für die auf Basis des DSRC-Kennzeichens keine Erhebung erfolgte, werden als nicht korrekt erhoben angesehen. Ausgenommen sind jeweils diejenigen Fälle, in denen der Mautschuldner gegen seine gesetzliche Mitwirkungspflicht verstößt oder eine unerlaubte Manipulation vorgenommen hat. Die Beweislast dafür liegt beim EETS-Anbieter.
-
-2. Eine Mauterhebung gilt als korrekt, wenn für das Fahrzeug, das von der Kontrolleinrichtung mittels DSRC identifiziert wurde, der tatsächlich befahrene Abschnitt, der aufgrund der für die Kontrolleinrichtung festgestellten Positionsdaten ermittelt wurde, dem Abschnitt in den abschnittsbezogenen Erhebungsdaten entspricht, der vom Mauterheber inklusive eventueller Lückenschlüsse erkannt wurde.
-
-3. Eine Mauterhebung gilt ebenfalls als korrekt, sofern der EETS-Anbieter nachweist (zum Beispiel durch Mautbuchungsnachweise), dass ein Fahrzeug durch die Kontrolleinrichtung mittels DSRC in Gegenrichtung auf einer Bundesstraße fahrend identifiziert wurde und dafür in den Mautbuchungsnachweisen des Mauterhebers ebenfalls der korrekte Abschnitt zugeordnet wurde. Andernfalls gilt die Mauterhebung als nicht korrekt. Ausgenommen sind jeweils diejenigen Fälle, in denen der Mautschuldner nachweislich gegen seine gesetzliche Mitwirkungspflicht verstoßen oder eine unerlaubte Manipulation vorgenommen hat. Die Beweislast dafür liegt beim EETS-Anbieter.
-
-4. Eine Mauterhebung gilt ebenfalls als korrekt, sofern der EETS-Anbieter nachweist, dass von ihm Fahrspuren an den Mauterhebungsdienst des Mauterhebers übermittelt wurden, die (a) Positionsdaten zum Zeitpunkt der DSRC-Auslesung umfassen und (b) für die keine Abweichungen von denen in Dokument 4.3.14 (SST005, Anlage 2 Ortungsspezifikation MED) beschriebenen Anforderungen identifiziert werden konnten. Ausgenommen sind jeweils diejenigen Fälle, in denen der Mautschuldner nachweislich gegen seine gesetzliche Mitwirkungspflicht verstoßen oder eine unerlaubte Manipulation vorgenommen hat. Die Beweislast dafür liegt beim EETS-Anbieter.
+Basierend auf den Positionsdaten der Kontrolleinrichtung wird jedem erhobenen Messfall ein Abschnitt zugeordnet. Ist keine eindeutige Zuordnung zu einem Abschnitt möglich, so wird der zugehörige Messfall verworfen.
 
 Der Mauterheber behält sich vor, weitere Details der praktischen Umsetzung der Messdatenauswertung in einer verbindlichen Verfahrensbeschreibung festzulegen, die sich innerhalb des in diesem Anhang QP vorgegebenen Rahmens bewegt.
 
 Der EETS-Anbieter muss einen Zielwert für die
 
-Erfassungsquote EQ\_MED von mindestens
+Erfassungsquote EQ von mindestens
 
-99,500 % erreichen. Falls der EETS-Anbieter einen Zielwert von 95,000 % innerhalb eines Kalenderjahres in mehr als zwei Monaten oder in zwei aufeinanderfolgenden Monaten unterschreitet, ist der Mauterheber berechtigt, den Vertrag mit dem EETS-Anbieter zu kündigen (§ 28 Absatz 3 Satz 2 Nummer 16 EETS-Zulassungsvertrag). Wird die Erfassungsquote EQ\_MED in Höhe von 99,500 % nicht erreicht, verwirkt der Anbieter eine Vertragsstrafe in Höhe von 0,05 % der ausgekehrten Mauteinnahmen im relevanten Betrachtungszeitraum je angefangenem Zehntelprozentpunkt der Unterschreitung des Zielwerts der Erfassungsquote EQ\_MED. Der relevante Betrachtungszeitraum umfasst das Kalenderjahr. Die ausgekehrten Mauteinnahmen (ME) im relevanten Betrachtungszeitraum t ermitteln sich wie folgt:  
-  
+99,600 % erreichen. Der Bonussatz für die Berechnung des Bonus gemäß EETS-Zulassungsvertrag Anlage 9 Ziffer 1.4 beträgt 15,625 %.
 
-<table width="100%" style="border: none;">
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 76%" />
-</colgroup>
-<tbody data-valign="top">
-<tr class="odd">
-<td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">ME
-t = 
+Unterschreitet der EETS-Anbieter einen Zielwert von 95,000 % innerhalb eines Kalenderjahres in mehr als zwei Monaten oder in zwei aufeinanderfolgenden Monaten, so ist der Mauterheber berechtigt, den Vertrag mit dem EETS-Anbieter zu kündigen (§ 28 Absatz 3 Satz 2 Nummer 16 des EETS-Zulassungsvertrags).
+
+Wird die Erfassungsquote EQ in Höhe von 99,600 % nicht erreicht, verwirkt der Anbieter eine Vertragsstrafe in Höhe von 0,050 % der ausgekehrten Mauteinnahmen im relevanten Betrachtungszeitraum je angefangenem Zehntelprozentpunkt der Unterschreitung des Zielwerts der Erfassungsquote EQ. Der relevante Betrachtungszeitraum umfasst das Kalenderjahr. Die ausgekehrten Mauteinnahmen (ME) im relevanten Betrachtungszeitraum t sind wie folgt zu ermitteln:
+
+ME
+
+t =
+
 WZ
-t - 
+
+t –
+
 R
-t - 
+
+t –
+
 Z
-t</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">WZ
-t = </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">auf dem Konto des Mauterhebers gemäß § 5 des EETS-Zulassungsvertrags und gemäß den Vorgaben der EEMD-Gebietsvorgabenverordnung in Summe wertgestellte Zahlungen in Euro im Betrachtungszeitraum</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">R
-t = </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Betrag in Euro der gemäß Anlage 9 Nummer 1.3 des EETS-Zulassungsvertrags positiv beschiedenen Erstattungsverlangen im Betrachtungszeitraum</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">Z
-t = </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Betrag in Euro der im Betrachtungszeitraum vom EETS-Anbieter ausgekehrten Verzugszinsen</td>
-</tr>
-</tbody>
-</table>
+
+t
+
+WZ
+
+t =
+
+auf dem Konto des Mauterhebers gemäß § 5 des EETS-Zulassungsvertrags und gemäß den Vorgaben der EEMD-Gebietsvorgabenverordnung in Summe wertgestellte Zahlungen in Euro im Betrachtungszeitraum
+
+R
+
+t =
+
+Betrag in Euro der gemäß Anlage 9 Nummer 1.3 des EETS-Zulassungsvertrags positiv beschiedenen Erstattungsverlangen im Betrachtungszeitraum
+
+Z
+
+t =
+
+Betrag in Euro der im Betrachtungszeitraum vom EETS-Anbieter ausgekehrten Verzugszinsen
 
 Der Betrachtungszeitraum umfasst das Kalenderjahr. Sofern ein relevanter Betrachtungszeitraum nicht das gesamte Kalenderjahr umfasst, wird die Vertragsstrafe monatsgenau anteilig verwirkt (pro rata temporis).
-
-Für Betrachtungszeiträume, die einen Zeitraum umfassen, in dem ein EETS-Anbieter seine Bordgeräte auf den Mauterhebungsdienst migriert (Migrationsphase), wird eine kombinierte Erfassungsquote ermittelt. Die kombinierte Erfassungsquote wird nach der folgenden Formel ermittelt:  
-  
-
-<table width="100%" style="border: none;">
-<tbody data-valign="top">
-<tr class="odd">
-<td style="text-align: center;" data-valign="top" data-charoff="50">EQ = 0,9 * 
-FM + 0,1 * 
-FS</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">mit</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">FM  (Fremdauslesung mobil): DSRC-Auslesungen mit mobilen Kontrolleinrichtungen</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">FS  (Fremdauslesung stationär): DSRC-Auslesungen mit ortsgebundenen (stationären) Kontrolleinrichtungen</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">Für die Ermittlung der Teilquoten  
-FM  und  
-FS  gilt:</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50"><img src="../normengrafiken/banzat_2021/20211029v2_05.jpg" alt=" " /></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50"><img src="../normengrafiken/banzat_2021/20211029v2_06.jpg" alt=" " /></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">MFMkorrekt: Anzahl der in der Stichprobe mit mobilen Kontrollen erfassten
-korrekt vorgenommenen Mauterhebungen im automatischen Mauterhebungssystem.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">MFMgesamt: Anzahl der in der Stichprobe mit mobilen Kontrollen erfassten korrekt und
-nicht korrekt vorgenommenen Mauterhebungen im automatischen Mauterhebungssystem.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">MFSkorrekt: MFSkorrekt: Anzahl der in der Stichprobe mit (stationären) Kontrollen erfassten
-korrekt vorgenommenen Mauterhebungen im automatischen Mauterhebungssystem.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">MFSgesamt: Anzahl der in der Stichprobe mit (stationären) Kontrollen erfassten korrekt und
-nicht korrekt vorgenommenen Mauterhebungen im automatischen Mauterhebungssystem.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">Hinweis: In die Anzahl  
-MFMkorrekt  und  
-MFMgesamt  bzw.  
-MFSkorrekt  und  
-MFSgesamt  gehen sowohl die Fälle, die im Betrachtungszeitraum über den MED erhoben wurden, und die Fälle, die im Betrachtungszeitraum mittels eigener Erkennung des EETS-Anbieters erhoben wurden, ein.</td>
-</tr>
-</tbody>
-</table>
-
-Die Auswertung der Messfälle von Fahrzeuggeräten, die mittels eigener Erkennung des EETS-Anbieters erhoben wurden, erfolgt nach den Vorgaben der Nummer 3.1.2.
-
-Die Auswertung der Messfälle von Fahrzeuggeräten, die über den MED erhoben wurden, erfolgt nach den Vorgaben der Nummer 3.2.2.
-
-Für die kombinierte Erfassungsquote liegt die Zielvorgabe ebenfalls bei 99,500 %. In Bezug auf Vertragsstrafen bei Unterschreitung der Quote im Betrachtungszeitraum gelten die Regelungen gemäß Nummer 3.2.2 entsprechend.
 
 Ziel der Quote ist die Messung der korrekten DSRC Kommunikation zwischen den EETS-Fahrzeuggeräten mit den automatischen Kontrolleinrichtungen des Mauterhebers, wobei alle abrechnungsrelevanten Daten (Fahrzeugparameter und Vertragsparameter) korrekt und vollständig übermittelt werden müssen.
 
@@ -1262,7 +992,7 @@ QP\_SPERRLISTE von mindestens
 
 99,900 % erreichen. Die Sperrlistenquote wird für jeden Kalendermonat gemessen, durch den Mauterheber festgestellt und auf drei Stellen nach dem Komma kaufmännisch gerundet.
 
-Für jeden Schlechtfall gemäß Nummer 3.4.1 Absatz 2, der die 99,900 % im relevanten Betrachtungszeitraum unterschreitet, wird dem EETS-Anbieter eine Vertragsstrafe von 1 000 Euro verhängt. Der relevante Betrachtungszeitraum beträgt 1 Kalendermonat.
+Für jeden Schlechtfall gemäß Nummer 3.3.1 Absatz 2, der die 99,900 % im relevanten Betrachtungszeitraum unterschreitet, wird dem EETS-Anbieter eine Vertragsstrafe von 1 000 Euro verhängt. Der relevante Betrachtungszeitraum beträgt 1 Kalendermonat.
 
 Ein Eintrag auf der Nutzerliste (Userlist) und die korrekte und rechtzeitige Übermittlung dieser Liste (Schnittstelle 002a) an den Mauterheber ist eine wichtige Voraussetzung für die Verarbeitung von abschnittsbezogenen Erhebungsdaten und Mautbuchungsnachweisen der Nutzer im System des Mauterhebers. Ziel der Quote ist die Messung der Qualität der Erstellung und Übermittlung der Nutzerliste vom EETS-Anbieter an den Mauterheber. Die Messung erfolgt unter Heranziehung von DSRC-Auslesungen von Fahrzeugen des EETS-Anbieters und dem Vergleich mit den übermittelten Daten auf der Nutzerliste.
 
@@ -1301,59 +1031,11 @@ QP\_NUTZERLISTE von mindestens
 
 99,900 % erreichen. Die Nutzerlistenquote wird für jeden Kalendermonat gemessen, durch den Mauterheber festgestellt und auf drei Stellen nach dem Komma kaufmännisch gerundet.
 
-Für jeden Schlechtfall gemäß Nummer 3.5.1 Absatz 2, der die 99,900 % im relevanten Betrachtungszeitraum unterschreitet, wird dem EETS-Anbieter eine Vertragsstrafe von 500 Euro verhängt. Der relevante Betrachtungszeitraum beträgt 1 Kalendermonat.
+Für jeden Schlechtfall gemäß Nummer 3.4.1 Absatz 2, der die 99,900 % im relevanten Betrachtungszeitraum unterschreitet, wird dem EETS-Anbieter eine Vertragsstrafe von 500 Euro verhängt. Der relevante Betrachtungszeitraum beträgt 1 Kalendermonat.
 
-Die Quote für abschnittsbezogene Erhebungsdaten (QP\_ABED) wird ausschließlich für EETS-Anbieter angewendet, die den Mauterhebungsdienst des Mauterhebers nicht nutzen. Die Quote der Lieferung der abschnittsbezogenen Erhebungsdaten misst, wie viele der vom EETS-Anbieter übermittelten abschnittsbezogenen Erhebungsdaten innerhalb der vertraglich vereinbarten Frist rechtzeitig im System des Mauterhebers empfangen wurden.
+(weggefallen)
 
-Die Quote wird mit der folgenden Formel ermittelt:
-
-<table width="100%" style="border: none;">
-<colgroup>
-<col style="width: 7%" />
-<col style="width: 93%" />
-</colgroup>
-<tbody data-valign="top">
-<tr class="odd">
-<td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><img src="../normengrafiken/banzat_2021/20211029v2_10.jpg" alt=" " /></td>
-</tr>
-<tr class="even">
-<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">mit</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50"><dl>
-<dt>•</dt>
-<dd>
-ABED_rechtzeitig – vom EETS-Anbieter erzeugte und rechtzeitig eingegangene ABEDs beim Mauterheber, Abschnittsbezogene Erhebungsdaten (ABED) gelten als verspätet beim Mauterheber eingetroffen, wenn die zeitliche Differenz zwischen dem Zeitpunkt der Befahrung des erkannten mautpflichtigen Abschnitts und dem Eingang der korrekten ABED im System des Mauterhebers auf Ebene "DetectedChargeObject" der Schnittstelle 006 größer ist als die vertraglich vorgegebene Zeit. ABEDs gelten als nicht korrekt, wenn sie vom Mauterheber im Rahmen der fachlichen Prüfung mit einem Fehler an den EETS-Anbieter zurückgemeldet werden. Solche ABEDs werden nicht als inkorrekt gewertet, wenn sie innerhalb der vertraglich vereinbarten Fristen erneut und korrekt übermittelt werden.
-</dd>
-<dt>•</dt>
-<dd>
-ABED_alle  - alle vom EETS-Anbieter erzeugten und im System des Mauterhebers eingegangenen ABEDs des EETS-Anbieters
-</dd>
-</dl></td>
-</tr>
-</tbody>
-</table>
-
-Die Quote der Lieferung abschnittsbezogener Erhebungsdaten wird jeweils für den Kalendermonat durch den Mauterheber als Zwischenergebnis ermittelt und auf drei Stellen nach dem Komma gerundet. Die Messdatenauswertung erfolgt durch den Mauterheber. Der Mauterheber stellt dem EETS-Anbieter spätestens 30 Tage nach Ende des Kalendermonats die ermittelte Quote sowie Informationen und die zugrunde gelegten eigenen Daten zu identifizierten Schlechtfällen zur Verfügung. Der EETS-Anbieter kann diese Informationen und Daten prüfen und dem Mauterheber das Ergebnis seiner Prüfung sowie eventuelle Einwendungen innerhalb von 30 Tagen nach Übermittlung der Ergebnisse durch den Mauterheber übermitteln. Einwendungen gegen das vom Mauterheber übermittelte Ergebnis sind nur insoweit zulässig, als der EETS-Anbieter nachweist, dass die Ermittlung der Quote entgegen den Vorgaben dieses Anhangs QP sowie ggf. der Verfahrensbeschreibung erfolgt ist oder die zugrunde gelegten eigenen Daten des Mauterhebers unrichtig sind. Der Mauterheber wird das Ergebnis der Prüfung durch den EETS-Anbieter innerhalb von weiteren 30 Tagen prüfen und die Quote für den Kalendermonat endgültig feststellen und in Form eines Berichts übermitteln.
-
-ABED, die verspätet beim Mauterheber eingetroffen sind, weil das System des Mauterhebers für eine Entgegennahme von ABED nicht verfügbar war, werden bei der Ermittlung der Quote nicht berücksichtigt.
-
-ABED, die verspätet beim Mauterheber eingetroffen sind, weil das System des EETS-Anbieters nicht für eine Versendung von ABED verfügbar war, weil der EETS-Anbieter Maßnahmen an diesem System unter Einhaltung seiner vertraglichen Verpflichtungen aus dem Zulassungsvertrag durchgeführt hat, werden bei der Ermittlung der Quote nicht berücksichtigt.
-
-Der Mauterheber behält sich vor, weitere Details der praktischen Umsetzung der Messdatenerhebung und Messdatenauswertung unter Beteiligung des EETS-Anbieters in einer verbindlichen Verfahrensbeschreibung festzulegen, die sich innerhalb des in diesem Anhang QP vorgegebenen Rahmens bewegt.
-
-Der EETS-Anbieter muss einen Zielwert für
-
-QP\_ABED von mindestens
-
-99,000 % erreichen. Die Quote zur rechtzeitigen und korrekten Übermittlung der ABED wird für jeden Kalendermonat durch den Mauterheber als Zwischenergebnis festgestellt und auf drei Stellen nach dem Komma kaufmännisch gerundet.
-
-Für jeden verspäteten oder inkorrekten ABED wird dem EETS-Anbieter im relevanten Betrachtungszeitraum eine Vertragsstrafe von 1 Euro berechnet. Der relevante Betrachtungszeitraum beträgt ein Kalenderjahr. Die Vertragsstrafe ist nicht fällig, wenn die Quote im relevanten Betrachtungszeitraum mindestens 99,000 % beträgt. Sofern der vertraglich relevante Betrachtungszeitraum nicht das gesamte Kalenderjahr umfasst, wird die Vertragsstrafe monatsgenau anteilig verwirkt (pro rata temporis).
-
-Die Fahrspurquote (QP\_FS) wird ausschließlich für EETS-Anbieter angewendet, die den Mauterhebungsdienst des Mauterhebers nutzen.
-
-Die Quote der Lieferung der Fahrspuren misst, wie viele Fahrspuren rechtzeitig im System des nationalen Mautbetreibers empfangen wurden.
+Die Quote der Lieferung der Fahrspuren (QP\_FS) misst, wie viele Fahrspuren rechtzeitig im System des nationalen Mautbetreibers empfangen wurden.
 
 Die Quote wird mit der folgenden Formel ermittelt:
 
@@ -1400,12 +1082,6 @@ QP\_FS von mindestens
 99,000 % erreichen. Die Fahrspurquote wird kalendermonatlich durch den Mauterheber als Zwischenergebnis festgestellt, auf drei Stellen nach dem Komma kaufmännisch gerundet und dem EETS-Anbieter in Form eines Berichts zur Verfügung gestellt.
 
 Für jede verspätete Fahrspur, die zu einer Unterschreitung des Zielwerts der Quote von 99,000 % im relevanten Betrachtungszeitraum führt, wird gegenüber dem EETS-Anbieter eine Vertragsstrafe von 10 Euro verhängt. Der relevante Betrachtungszeitraum beträgt ein Kalenderjahr. Eine Vertragsstrafe ist nicht fällig, wenn die Quote im relevanten Betrachtungszeitraum mindestens 99,000 % beträgt.
-
-Die Vorgaben in diesem Abschnitt sowie die Vertragsstrafe für verspätet oder inkorrekte Mautbuchungsnachweise werden ausschließlich für EETS-Anbieter angewendet, die den Mauterhebungsdienst des Mauterhebers nicht nutzen.
-
-Die korrekte und rechtzeitige Übermittlung von Mautbuchungsnachweisen ist wesentlich für die Einnahmeprüfung des Mauterhebers. Da diese jedoch auf der korrekten und rechtzeitigen Übermittlung von abschnittsbezogenen Erhebungsdaten (ABED) beruhen, werden dafür keine separaten Quoten berechnet. Die Anzahl der nicht rechtzeitig und/oder nicht korrekt übermittelten Mautbuchungsnachweise wird dem EETS-Anbieter in Form eines monatlichen Berichts zur Verfügung gestellt. Vielmehr werden Vertragsstrafen fällig, falls Mautbuchungsnachweise entsprechend der Schnittstellenspezifikation 007 vom EETS-Anbieter an den Mauterheber nicht rechtzeitig und korrekt übermittelt werden. Mautbuchungsnachweise gelten als nicht korrekt, wenn sie vom Mauterheber im Rahmen der fachlichen Prüfung mit einem Fehler an den EETS-Anbieter zurückgemeldet werden. Mautbuchungsnachweise werden nicht als inkorrekt gewertet, wenn sie innerhalb der vertraglich vereinbarten Fristen vom EETS-Anbieter erneut und korrekt übermittelt werden. Mautbuchungsnachweise, die vom EETS-Anbieter erzeugt und verspätet beim Mauterheber eingetroffen sind, weil das System des Mauterhebers für eine Entgegennahme von Mautbuchungsnachweisen nicht verfügbar war, werden bei der Ermittlung der Quote nicht berücksichtigt.
-
-Je verspätetem oder inkorrektem Mautbuchungsnachweis wird dem EETS-Anbieter eine Vertragsstrafe von 50 Euro berechnet.
 
 Die korrekte und rechtzeitige Übermittlung von Tagesberichten ist wesentlich für die Einnahmeprüfung des Mauterhebers. Dafür werden keine separaten Quoten berechnet. Die Anzahl der nicht rechtzeitig und/oder nicht korrekt übermittelten Tagesberichte wird dem EETS-Anbieter in Form eines monatlichen Berichts zur Verfügung gestellt.
 

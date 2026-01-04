@@ -53,9 +53,7 @@
 
 # § 2 – Anspruch auf Wehrsold
 
-(1) Soweit gesetzlich nichts anderes bestimmt ist, besteht der Anspruch auf Wehrsold für die Zeit vom Tag des Dienstantritts bis zum Ablauf des Tages, an dem das Wehrdienstverhältnis endet.
-
-(2) Soldatinnen und Soldaten, die während einer besonderen Auslandsverwendung wegen Verschleppung, Gefangenschaft oder aus sonstigen mit dem Dienst zusammenhängenden Gründen, die sie nicht zu vertreten haben, dem Einflussbereich des Dienstherrn entzogen sind, wird für diesen Zeitraum der Wehrsold in der Höhe, in der er ihnen beim Eintritt des Ereignisses zustand, weitergewährt.
+Soweit gesetzlich nichts anderes bestimmt ist, besteht der Anspruch auf Wehrsold für die Zeit vom Tag des Dienstantritts bis zum Ablauf des Tages, an dem das Wehrdienstverhältnis endet.
 
 # § 3 – Anwendung von Vorschriften des Bundesbesoldungsgesetzes
 
@@ -79,7 +77,7 @@ Für Personen ohne eigenes Einkommen, die nach § 4 der Bundesbeihilfeverordnung
 
 # § 6 – Auslandsvergütung
 
-(1) Soldatinnen und Soldaten erhalten eine Auslandsvergütung, wenn bei entsprechender Verwendung an demselben Standort Besoldungsempfängerinnen oder Besoldungsempfänger Auslandsdienstbezüge nach § 52 Absatz 1 Satz 1 des Bundesbesoldungsgesetzes erhalten.
+(1) Soldatinnen und Soldaten, die an einer allgemeinen Verwendung im Ausland im Sinne des § 52 Absatz 1 Satz 1 des Bundesbesoldungsgesetzes teilnehmen, erhalten eine Auslandsvergütung unter den gleichen Voraussetzungen, unter denen Besoldungsempfängerinnen und Besoldungsempfängern an demselben Dienstort Auslandsdienstbezüge nach § 52 des Bundesbesoldungsgesetzes zustehen.
 
 (2) Die Höhe der Auslandsvergütung bemisst sich nach Spalte 5 der Tabelle in der Anlage.
 
@@ -89,6 +87,34 @@ Im Fall einer Besoldungsanpassung nach § 14 Absatz 1 des Bundesbesoldungsgesetz
 
 (+++ Hinweis: Zur Bekanntmachung der nach § 7 Satz 2 geltenden Beträge  
 ab 1.4.2021 u. 1.4.2022 vgl. Bek. v. 31.8.2021 I 4188 (WSG2020§7Satz2Bek 2021) u. ab 1.3.2024 vgl. Bek. v. 19.1.2024 I Nr. 20 (WSG2020§7Satz2Bek 2024) +++)
+
+# § 8 – Entlassungsgeld
+
+(1) Soldatinnen und Soldaten, die mehr als sechs Monate Wehrdienst leisten, erhalten bei der Entlassung ein Entlassungsgeld. Als Entlassung gilt auch der Eintritt in ein Wehrdienstverhältnis besonderer Art nach § 6 des Einsatz-Weiterverwendungsgesetzes.
+
+(2) Das Entlassungsgeld beträgt für jeden Monat des freiwilligen Wehrdienstes mit Anspruch auf Wehrsold 100 Euro.
+
+(3) Bei der Berechnung des Entlassungsgelds bleibt die Zeit der Verlängerung des Wehrdienstes wegen stationärer truppenärztlicher Behandlung (§ 75 Absatz 6 in Verbindung mit § 58h Absatz 1 des Soldatengesetzes) unberücksichtigt.
+
+(4) Soldatinnen und Soldaten erhalten kein Entlassungsgeld, wenn sie
+
+1. entlassen werden nach
+
+a) § 46 Absatz 1 in Verbindung mit § 58h Absatz 1 des Soldatengesetzes,
+
+b) § 75 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 58h Absatz 1 des Soldatengesetzes,
+
+c) § 75 Absatz 1 Satz 2 Nummer 6 in Verbindung mit § 58h Absatz 1 des Soldatengesetzes,
+
+d) § 75 Absatz 1 Satz 2 Nummer 7 in Verbindung mit § 58h Absatz 1 des Soldatengesetzes,
+
+e) § 75 Absatz 1 Satz 2 Nummer 11 in Verbindung mit § 58h Absatz 1 des Soldatengesetzes, sofern sie ihre Dienstunfähigkeit vorsätzlich herbeigeführt haben, oder
+
+f) § 75 Absatz 2 Nummer 2 oder Nummer 3 jeweils in Verbindung mit § 58h Absatz 1 des Soldatengesetzes,
+
+2. nach § 76 in Verbindung mit § 58h Absatz 1 des Soldatengesetzes aus der Bundeswehr ausgeschlossen werden oder
+
+3. (weggefallen)
 
 # § 9 – Vergütung für herausgehobene Funktionen
 
@@ -110,9 +136,7 @@ ab 1.4.2021 u. 1.4.2022 vgl. Bek. v. 31.8.2021 I 4188 (WSG2020§7Satz2Bek 2021) 
 
 # § 12 – Auslandsverwendungszuschlag
 
-(1) Soldatinnen und Soldaten, die an einer besonderen Verwendung im Ausland im Sinne des § 56 Absatz 1 des Bundesbesoldungsgesetzes teilnehmen, erhalten einen Auslandsverwendungszuschlag unter den gleichen Voraussetzungen, in der gleichen Höhe und in dem gleichen Umfang wie Besoldungsempfängerinnen und Besoldungsempfänger. § 56 Absatz 3 Satz 1 und 2 des Bundesbesoldungsgesetzes und die dazu erlassene Rechtsverordnung gelten entsprechend.
-
-(2) In den Fällen des § 2 Absatz 2 steht den Soldatinnen und Soldaten die höchste Stufe des Auslandsverwendungszuschlags zu.
+Soldatinnen und Soldaten, die an einer besonderen Verwendung im Ausland im Sinne des § 56 Absatz 1 des Bundesbesoldungsgesetzes teilnehmen, erhalten einen Auslandsverwendungszuschlag unter den gleichen Voraussetzungen, in der gleichen Höhe und in dem gleichen Umfang wie Besoldungsempfängerinnen und Besoldungsempfänger. § 56 des Bundesbesoldungsgesetzes und die dazu erlassene Rechtsverordnung gelten entsprechend.
 
 # § 13 – Kaufkraftausgleich
 
@@ -150,37 +174,71 @@ Geldbezüge nach den §§ 4, 6, 9, 10 und 11 unterliegen dem Kaufkraftausgleich 
 
 # § 18 – (weggefallen)
 
-# § 19 – Sonderzahlungen zur Abmilderung der Folgen gestiegener Verbraucherpreise im Jahr 2023
-
-(1) Zur Abmilderung der Folgen der gestiegenen Verbraucherpreise werden die folgenden Sonderzahlungen unter den Voraussetzungen der Absätze 2 und 3 gewährt:
-
-1. für den Monat Juni 2023 eine einmalige Sonderzahlung in Höhe von 1 240 Euro sowie
-
-2. für die Monate Juli 2023 bis Februar 2024 eine monatliche Sonderzahlung in Höhe von jeweils 220 Euro.
-
-(2) Die Sonderzahlung für den Monat Juni 2023 wird nur gewährt, wenn
-
-1. das Wehrdienstverhältnis am 1. Mai 2023 bestanden hat und
-
-2. mindestens an einem Tag im Zeitraum vom 1. Januar 2023 bis 31. Mai 2023 ein Anspruch auf Wehrsold bestanden hat.
-
-(3) Die Sonderzahlungen für die Monate Juli 2023 bis Februar 2024 werden nur gewährt, wenn
-
-1. das Wehrdienstverhältnis in dem jeweiligen Monat besteht und
-
-2. mindestens an einem Tag in dem jeweiligen Monat ein Anspruch auf Wehrsold besteht.
-
-(4) § 6 Absatz 1 des Bundesbesoldungsgesetzes gilt entsprechend. Maßgebend sind jeweils
-
-1. für die einmalige Sonderzahlung für den Monat Juni 2023 die Verhältnisse am 1. Mai 2023,
-
-2. für die Sonderzahlungen für die Monate Juli 2023 bis Februar 2024 die jeweiligen Verhältnisse am ersten Tag des jeweiligen Monats.
-
-(5) Den Sonderzahlungen nach Absatz 1 stehen entsprechende Leistungen aus einem anderen Rechtsverhältnis im öffentlichen Dienst des Bundes gleich und werden jedem Berechtigten nur einmal gewährt.
+# § 19 – (weggefallen)
 
 # Anlage – (zu den §§ 4 und 6)Wehrsoldgrundbetrag, Kinderzuschlag, Auslandsvergütung
 
-(Fundstelle: BGBl. I 2019, 1161)
+(Fundstelle: BGBl. 2025 I Nr. 370, S. 14)
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
+<colgroup>
+<col style="width: 12%" />
+<col style="width: 33%" />
+<col style="width: 18%" />
+<col style="width: 18%" />
+<col style="width: 18%" />
+</colgroup>
+<thead data-valign="bottom">
+<tr class="header">
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50"> </th>
+<th style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50"> </th>
+<th colspan="3" style="text-align: center; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">Monatsbetrag in Euro</th>
+</tr>
+<tr class="odd">
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">1</th>
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">2</th>
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">3</th>
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">4</th>
+<th style="text-align: center; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">5</th>
+</tr>
+<tr class="header" data-valign="middle">
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Wehr-<br />
+soldgruppe</th>
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Dienstgrad</th>
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Wehrsold-<br />
+grundbetrag<br />
+(§ 4 Absatz 1)</th>
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Kinderzuschlag<br />
+je Kind<br />
+(§ 4 Absatz 2)</th>
+<th style="text-align: center; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Auslands-<br />
+vergütung<br />
+(§ 6 Absatz 2)</th>
+</tr>
+</thead>
+<tbody data-valign="top">
+<tr class="odd">
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Jäger, Panzerschütze, Panzergrenadier, Kanonier,<br />
+Pionier, Panzerpionier, Funker, Schütze, Flieger, Sanitätssoldat, Matrose</td>
+<td style="text-align: right; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2 600</td>
+<td rowspan="3" style="text-align: right; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">115</td>
+<td style="text-align: right; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">495</td>
+</tr>
+<tr class="even">
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Gefreiter</td>
+<td style="text-align: right; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2 630</td>
+<td style="text-align: right; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">495</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Obergefreiter</td>
+<td style="text-align: right; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2 650</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">542</td>
+</tr>
+</tbody>
+</table>
 
 (+++ Hinweis: Zur Bekanntmachung der nach § 7 Satz 2 geltenden Beträge nach der Tabelle dieser Anlage  
 ab 1.4.2021 u. 1.4.2022 vgl. Bek. v. 31.8.2021 I 4188 (WSG2020§7Satz2Bek 2021) u. ab 1.3.2024 vgl. Bek. v. 19.1.2024 I Nr. 20 (WSG2020§7Satz2Bek 2024) +++)

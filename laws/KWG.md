@@ -2870,7 +2870,7 @@ Die Aufsichtsbehörde meldet den zuständigen Abwicklungsbehörden
 
 18. den Ausschuss für Finanzstabilität oder den Europäischen Ausschuss für Systemrisiken,
 
-19. die Bundesanstalt für Finanzmarktstabilisierung, das Gremium zum Finanzmarktstabilisierungsfonds im Sinne des § 10a Absatz 1 des Stabilisierungsfondsgesetzes oder den Lenkungsausschuss im Sinne des § 4 Absatz 1 Satz 2 des Stabilisierungsfondsgesetzes,
+19. die Bundesrepublik Deutschland – Finanzagentur GmbH in ihrer Funktion als Verwalterin des Finanzmarktstabilisierungsfonds nach § 3a Absatz 2 und 2a des Stabilisierungsfondsgesetzes, das Gremium zum Finanzmarktstabilisierungsfonds im Sinne des § 10a Absatz 1 des Stabilisierungsfondsgesetzes oder den Lenkungsausschuss im Sinne des § 4 Absatz 1 Satz 2 des Stabilisierungsfondsgesetzes,
 
 20. Behörden im Sinne von Artikel 2 Absatz 1 Nummer 17 und 18 der Verordnung (EU) Nr. 909/2014,
 

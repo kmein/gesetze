@@ -865,7 +865,7 @@ Vergütungszeitraum ist nach Wahl des Unternehmers ein Zeitraum von mindestens d
 
 (3) Die beantragte Vergütung muss mindestens 400 Euro betragen. Das gilt nicht, wenn der Vergütungszeitraum das Kalenderjahr oder der letzte Zeitraum des Kalenderjahres ist. Für diese Vergütungszeiträume muss die beantragte Vergütung mindestens 50 Euro betragen.
 
-(4) Der Bescheid über die Vergütung von Vorsteuerbeträgen ist durch Bereitstellung zum Datenabruf nach § 122a in Verbindung mit § 87a Absatz 8 der Abgabenordnung bekannt zu geben. Hat der Empfänger des Bescheids der Bekanntgabe durch Bereitstellung zum Datenabruf nach Satz 1 nicht zugestimmt, ist der Bescheid schriftlich zu erteilen.
+(4) Der Bescheid über die Vergütung von Vorsteuerbeträgen kann durch Bereitstellung zum Datenabruf nach § 122a in Verbindung mit § 87a Absatz 8 der Abgabenordnung bekannt gegeben werden. Hat der Empfänger des Bescheids eine einmalige oder dauerhafte postalische Bekanntgabe nach § 122 Absatz 2 der Abgabenordnung beantragt, ist der Bescheid, bis zum Widerruf des Antrags, schriftlich zu erteilen.
 
 (5) Der nach § 18 Abs. 9 des Gesetzes zu vergütende Betrag ist zu verzinsen. Der Zinslauf beginnt mit Ablauf von vier Monaten und zehn Arbeitstagen nach Eingang des Vergütungsantrags beim Bundeszentralamt für Steuern. Übermittelt der Antragsteller Rechnungen oder Einfuhrbelege abweichend von Absatz 2 Satz 3 nicht zusammen mit dem Vergütungsantrag, sondern erst zu einem späteren Zeitpunkt, beginnt der Zinslauf erst mit Ablauf von vier Monaten und zehn Arbeitstagen nach Eingang der auf elektronischem Weg übermittelten Rechnungen oder Einfuhrbelege beim Bundeszentralamt für Steuern. Hat das Bundeszentralamt für Steuern zusätzliche oder weitere zusätzliche Informationen angefordert, beginnt der Zinslauf erst mit Ablauf von zehn Arbeitstagen nach Ablauf der Fristen in Artikel 21 der Richtlinie 2008/9/EG. Der Zinslauf endet mit erfolgter Zahlung des zu vergütenden Betrages; die Zahlung gilt als erfolgt mit dem Tag der Fälligkeit, es sei denn, der Unternehmer weist nach, dass er den zu vergütenden Betrag später erhalten hat. Wird die Festsetzung oder Anmeldung der Steuervergütung geändert, ist eine bisherige Zinsfestsetzung zu ändern; § 233a Abs. 5 der Abgabenordnung gilt entsprechend. Für die Höhe und Berechnung der Zinsen gilt § 238 der Abgabenordnung. Auf die Festsetzung der Zinsen ist § 239 der Abgabenordnung entsprechend anzuwenden. Bei der Festsetzung von Prozesszinsen nach § 236 der Abgabenordnung sind Zinsen anzurechnen, die für denselben Zeitraum nach den Sätzen 1 bis 5 festgesetzt wurden.
 
@@ -875,9 +875,15 @@ Vergütungszeitraum ist nach Wahl des Unternehmers ein Zeitraum von mindestens d
 
 # § 61a – Vergütungsverfahren für nicht im Gemeinschaftsgebiet ansässige Unternehmer
 
-(1) Der nicht im Gemeinschaftsgebiet ansässige Unternehmer hat den Vergütungsantrag nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle an das Bundeszentralamt für Steuern zu übermitteln. Auf Antrag kann das Bundeszentralamt für Steuern zur Vermeidung von unbilligen Härten auf eine elektronische Übermittlung verzichten. In diesem Fall hat der nicht im Gemeinschaftsgebiet ansässige Unternehmer die Vergütung nach amtlich vorgeschriebenem Vordruck beim Bundeszentralamt für Steuern zu beantragen und den Vergütungsantrag eigenhändig zu unterschreiben.
+(1) Der nicht im Gemeinschaftsgebiet ansässige Unternehmer hat den Vergütungsantrag nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle an das Bundeszentralamt für Steuern zu übermitteln. Auf Antrag kann das Bundeszentralamt für Steuern zur Vermeidung von unbilligen Härten auf eine elektronische Übermittlung verzichten. In diesem Fall hat der nicht im Gemeinschaftsgebiet ansässige Unternehmer die Vergütung nach amtlich vorgeschriebenem Vordruck beim Bundeszentralamt für Steuern zu beantragen und den Vergütungsantrag eigenhändig zu unterschreiben. Der Bescheid über die Vergütung von Vorsteuerbeträgen ist durch Bereitstellung zum Datenabruf nach § 122a in Verbindung mit § 87a Absatz 8 der Abgabenordnung bekannt zu geben. Abweichend von § 122a Absatz 2 der Abgabenordnung kann das Bundeszentralamt für Steuern nur zur Vermeidung von unbilligen Härten einem Antrag auf einmalige postalischer Bekanntgabe nach § 122a Absatz 2 der Abgabenordnung entsprechen und den Bescheid, bis zum Widerruf des Antrags, postalisch bekannt geben.
 
-(2) Die Vergütung ist binnen sechs Monaten nach Ablauf des Kalenderjahres, in dem der Vergütungsanspruch entstanden ist, zu beantragen. Der Unternehmer hat die Vergütung selbst zu berechnen. Die Vorsteuerbeträge sind durch Vorlage von Rechnungen und Einfuhrbelegen im Original nachzuweisen.
+(2) Die Vergütung ist binnen sechs Monaten nach Ablauf des Kalenderjahres, in dem der Vergütungsanspruch entstanden ist, zu beantragen. Der Unternehmer hat die Vergütung selbst zu berechnen. In dem Antrag sind die Vorsteuerbeträge, deren Vergütung beantragt wird, im Einzelnen aufzuführen (Einzelaufstellung). Die Vorsteuerbeträge sind
+
+1. durch Hochladen der Rechnungen und Einfuhrbelege im Online-Portal des Bundeszentralamts für Steuern oder
+
+2. in Ausnahmefällen durch Vorlage der Rechnungen und Einfuhrbelege auf einem Speichermedium
+
+nachzuweisen, wenn der Gesamtbetrag der Rechnung oder des Einfuhrbeleges 250 Euro übersteigt. Das Bundeszentralamt für Steuern kann verlangen, dass die Vorsteuerbeträge durch Vorlage von Rechnungen und Einfuhrbelegen im Original nachgewiesen werden. In diesem Fall gilt der in Satz 4 genannte Schwellenwert nicht.
 
 (3) Die beantragte Vergütung muss mindestens 1 000 Euro betragen. Das gilt nicht, wenn der Vergütungszeitraum das Kalenderjahr oder der letzte Zeitraum des Kalenderjahres ist. Für diese Vergütungszeiträume muss die beantragte Vergütung mindestens 500 Euro betragen.
 
@@ -926,9 +932,7 @@ Unternehmer, auf deren Umsätze § 19 Abs. 1 Satz 1 des Gesetzes anzuwenden ist,
 
 Die Aufzeichnungspflichten nach § 22 Abs. 2 Nr. 4, 7, 8 und 9 des Gesetzes bleiben unberührt.
 
-# § 66 – Aufzeichnungspflichten bei der Anwendung allgemeiner Durchschnittssätze
-
-Der Unternehmer ist von den Aufzeichnungspflichten nach § 22 Abs. 2 Nr. 5 und 6 des Gesetzes befreit, soweit er die abziehbaren Vorsteuerbeträge nach einem Durchschnittssatz (§§ 69 und 70) berechnet.
+# § 66 – (weggefallen)
 
 # § 66a – Aufzeichnungspflichten bei der Anwendung des Durchschnittssatzes für Körperschaften, Personenvereinigungen und Vermögensmassen im Sinne des § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes
 
@@ -984,7 +988,7 @@ Der Unternehmer, der eine Erklärung nach § 24 Abs. 4 Satz 1 des Gesetzes abgeg
 
 (1) Der Unternehmer hat die Voraussetzungen der in § 26 Abs. 5 des Gesetzes bezeichneten Steuerbefreiungen wie folgt nachzuweisen:
 
-1. bei Lieferungen und sonstigen Leistungen, die von einer amtlichen Beschaffungsstelle in Auftrag gegeben worden sind, durch eine Bescheinigung der amtlichen Beschaffungsstelle nach amtlich vorgeschriebenem Vordruck (Abwicklungsschein);
+1. bei Lieferungen und sonstigen Leistungen, die von einer amtlichen Beschaffungsstelle in Auftrag gegeben worden sind, durch eine Bescheinigung der amtlichen Beschaffungsstelle nach amtlich vorgeschriebenem Vordruck oder eine elektronische Version des Vordrucks (Abwicklungsschein);
 
 2. bei Lieferungen und sonstigen Leistungen, die von einer deutschen Behörde für eine amtliche Beschaffungsstelle in Auftrag gegeben worden sind, durch eine Bescheinigung der deutschen Behörde.
 

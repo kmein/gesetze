@@ -209,9 +209,9 @@
 
 # § 6 – Dienstzeitbegleitende Förderung der schulischen und beruflichen Bildung
 
-(1) Während der Wehrdienstzeit bieten die Karrierecenter der Bundeswehr – Berufsförderungsdienste – interne Maßnahmen der schulischen und beruflichen Bildung an, an denen Soldatinnen auf Zeit, Soldaten auf Zeit oder freiwilligen Wehrdienst nach § 58b des Soldatengesetzes Leistende unentgeltlich teilnehmen können.
+(1) Während der Wehrdienstzeit bieten die Karrierecenter der Bundeswehr – Berufsförderungsdienste – interne Maßnahmen der schulischen und beruflichen Bildung an, an denen nach § 58b des Soldatengesetzes freiwilligen Wehrdienst Leistende sowie Soldatinnen auf Zeit und Soldaten auf Zeit unentgeltlich teilnehmen können. Sofern eine Wehrdienstzeit mit weniger als vier Jahren festgesetzt wurde, können Maßnahmen zum Berufseinstieg unterhalb der Erlangung von schulischen und beruflichen Abschlüssen, von Abschlüssen im Rahmen des Hochschulrahmengesetzes sowie von Fahrerlaubnissen angeboten werden. Über die Art der Maßnahmen nach Satz 2 entscheidet das Bundesministerium der Verteidigung oder die von ihm benannte Stelle.
 
-(2) Ist für Soldatinnen auf Zeit und Soldaten auf Zeit mit einer Wehrdienstzeit von weniger als vier Jahren und für freiwilligen Wehrdienst nach § 58b des Soldatengesetzes Leistende im Förderungsplan im Sinne des § 5 Absatz 2 vorgesehen, dass ein bestimmtes schulisches oder berufliches Bildungsziel im Rahmen der dienstzeitbegleitenden Förderung erreicht werden soll, und kann dieses Bildungsziel nicht oder nicht planmäßig durch Teilnahme an internen Maßnahmen erreicht werden, kann im Einzelfall die Teilnahme an Maßnahmen der schulischen und beruflichen Bildung anderer Anbieter gefördert werden.
+(2) Ist für freiwilligen Wehrdienst Leistende nach § 58b des Soldatengesetzes im Förderungsplan im Sinne des § 5 Absatz 2 vorgesehen, dass ein bestimmtes schulisches oder berufliches Bildungsziel im Rahmen der dienstzeitbegleitenden Förderung erreicht werden soll, und kann dieses Bildungsziel nicht oder nicht planmäßig durch Teilnahme an internen Maßnahmen erreicht werden, so kann im Einzelfall die Teilnahme an Maßnahmen der schulischen und beruflichen Bildung anderer Anbieter gefördert werden.
 
 (3) Auf die dienstzeitbegleitende Förderung nach den Absätzen 1 und 2 besteht kein Anspruch. Sie steht unter dem Vorbehalt ausreichend verfügbarer Haushaltsmittel.
 
@@ -219,7 +219,7 @@
 
 # § 7 – Förderung der schulischen und beruflichen Bildung der Soldatinnen auf Zeit und Soldaten auf Zeit
 
-(1) Soldatinnen auf Zeit und Soldaten auf Zeit, die nicht Inhaberinnen oder Inhaber eines Eingliederungsscheins sind, haben Anspruch auf Förderung ihrer schulischen und beruflichen Bildung nach der Wehrdienstzeit, wenn die Wehrdienstzeit auf mindestens vier Jahre festgesetzt worden ist. Die Förderung wird auf Antrag gewährt. Die Förderung beruflicher Erfahrungszeiten ist ausgeschlossen.
+(1) Soldatinnen auf Zeit und Soldaten auf Zeit, die nicht Inhaberinnen oder Inhaber eines Eingliederungsscheins sind, haben Anspruch auf Förderung ihrer schulischen und beruflichen Bildung nach der Wehrdienstzeit, wenn die Wehrdienstzeit auf mindestens ein Jahr festgesetzt worden ist. Die Förderung wird auf Antrag gewährt. Die Förderung beruflicher Erfahrungszeiten ist ausgeschlossen.
 
 (2) Sieht der Förderungsplan nach § 5 Absatz 2 vor, dass ein bestimmtes schulisches oder berufliches Bildungsziel schon während der Wehrdienstzeit erreicht werden soll, und kann dieses Bildungsziel nicht oder nicht planmäßig durch Teilnahme an internen Maßnahmen erreicht werden, so kann die Teilnahme an Maßnahmen der schulischen und beruflichen Bildung nach Absatz 1 gefördert werden, wenn dienstliche Gründe dem nicht entgegenstehen. Eine zeitliche Anrechnung auf den Anspruch nach Absatz 5 findet während der Wehrdienstzeit nicht statt.
 
@@ -237,17 +237,20 @@ Sind bei einer Entlassung auf eigenen Antrag Übergangsgebührnisse nach § 16 A
 
 (5) Die Förderungsdauer nach der Wehrdienstzeit beträgt nach einer Wehrdienstzeit von
 
-|     |                              |                      |
-|:----|:-----------------------------|:---------------------|
-| 1\. | 4 und weniger als 5 Jahren   | bis zu 12 Monate,    |
-| 2\. | 5 und weniger als 6 Jahren   | bis zu 18 Monate,    |
-| 3\. | 6 und weniger als 7 Jahren   | bis zu 24 Monate,    |
-| 4\. | 7 und weniger als 8 Jahren   | bis zu 30 Monate,    |
-| 5\. | 8 und weniger als 9 Jahren   | bis zu 36 Monate,    |
-| 6\. | 9 und weniger als 10 Jahren  | bis zu 42 Monate,    |
-| 7\. | 10 und weniger als 11 Jahren | bis zu 48 Monate,    |
-| 8\. | 11 und weniger als 12 Jahren | bis zu 54 Monate und |
-| 9\. | 12 und mehr Jahren           | bis zu 60 Monate.    |
+|      |                              |                   |
+|:-----|:-----------------------------|:------------------|
+| 1\.  | 1 und weniger als 2 Jahren   | bis zu 1 Monat    |
+| 2\.  | 2 und weniger als 3 Jahren   | bis zu 2 Monate   |
+| 3\.  | 3 und weniger als 4 Jahren   | bis zu 3 Monate   |
+| 4\.  | 4 und weniger als 5 Jahren   | bis zu 12 Monate  |
+| 5\.  | 5 und weniger als 6 Jahren   | bis zu 18 Monate  |
+| 6\.  | 6 und weniger als 7 Jahren   | bis zu 24 Monate  |
+| 7\.  | 7 und weniger als 8 Jahren   | bis zu 30 Monate  |
+| 8\.  | 8 und weniger als 9 Jahren   | bis zu 36 Monate  |
+| 9\.  | 9 und weniger als 10 Jahren  | bis zu 42 Monate  |
+| 10\. | 10 und weniger als 11 Jahren | bis zu 48 Monate  |
+| 11\. | 11 und weniger als 12 Jahren | bis zu 54 Monate  |
+| 12\. | 12 und mehr Jahren           | bis zu 60 Monate. |
 
 (6) Die Förderungsdauer nach Absatz 5 wird nach Maßgabe der Absätze 7 bis 9 und 11 vermindert. Für Soldatinnen auf Zeit und Soldaten auf Zeit mit einer Gesamtdienstzeit von mindestens 20 Jahren reduziert sich der Umfang der Minderung nach den Absätzen 7 bis 9 um 50 Prozent. Die Förderungsdauer nach Absatz 5 soll in unmittelbarem Anschluss an das Dienstzeitende, kann aber noch innerhalb von sieben Jahren nach dem Dienstzeitende, bei Soldatinnen auf Zeit und Soldaten auf Zeit mit einer Gesamtdienstzeit von mindestens 20 Jahren innerhalb von acht Jahren nach dem Dienstzeitende, genutzt werden.
 
@@ -279,7 +282,7 @@ Im Falle des Erreichens mehrerer Abschlüsse im Sinne des Satzes 1 beschränkt s
 
 (11) Für die Teilnahme an Studiengängen oder vergleichbaren Bildungsgängen an einer staatlichen Hochschule, an einer staatlich anerkannten Hochschule oder an einer vergleichbaren Bildungseinrichtung im Rahmen der militärischen Ausbildung der Soldatinnen auf Zeit und Soldaten auf Zeit und der Unteroffizierinnen und Unteroffiziere des Militärmusikdienstes wird die Förderungsdauer nach Absatz 5 auch dann im Umfang der Dauer der tatsächlichen Teilnahme vermindert, wenn der vorgesehene Abschluss nicht erreicht wurde, es sei denn, die Teilnahme musste aus dienstlichen Gründen vor Erreichen des Abschlusses beendet werden. Unbeschadet einer Verminderung nach Satz 1 verbleibt bei einer Wehrdienstzeit von vier bis sechs Jahren stets ein zeitlicher Anspruch von sechs Monaten, jedes weitere vollständig abgeleistete Dienstjahr erhöht den Anspruch um einen weiteren Monat.
 
-(12) Soweit es zur Umsetzung des Förderungsplans erforderlich ist, kann ausnahmsweise eine Freistellung vom militärischen Dienst gewährt werden. Der Freistellungszeitraum verkürzt nach § 16 Absatz 2 Satz 3 den Bezugszeitraum der Übergangsgebührnisse. Satz 2 gilt nicht für Soldatinnen auf Zeit und Soldaten auf Zeit mit einer Gesamtdienstzeit von mindestens 20 Jahren.
+(12) Soweit es zur Umsetzung des Förderungsplans erforderlich ist, kann Soldatinnen auf Zeit und Soldaten auf Zeit, deren Wehrdienstzeit auf mindestens vier Jahre festgesetzt wurde, ausnahmsweise eine Freistellung vom militärischen Dienst gewährt werden. Der Freistellungszeitraum verkürzt nach § 16 Absatz 2 Satz 3 den Bezugszeitraum der Übergangsgebührnisse. Satz 2 gilt nicht für Soldatinnen auf Zeit und Soldaten auf Zeit mit einer Gesamtdienstzeit von mindestens 20 Jahren.
 
 (13) Das Bundesministerium der Verteidigung oder die von ihm bestimmte Behörde der Bundeswehrverwaltung kann auf Antrag zum Ausgleich von Störungen im Förderungsverlauf die Förderung der Teilnahme an einer bewilligten Maßnahme der schulischen und beruflichen Bildung über die nach Absatz 5 vorgesehenen Zeiträume hinaus verlängern. Die Verlängerung kommt grundsätzlich nur einmal in dem im Einzelfall notwendigen Umfang in Betracht.
 
@@ -433,21 +436,24 @@ Soweit eine Einstellung nicht unmittelbar in ein Beamtenverhältnis oder ein Arb
 
 # § 16 – Übergangsgebührnisse
 
-(1) Soldatinnen auf Zeit und Soldaten auf Zeit mit einer Wehrdienstzeit von mindestens vier Jahren erhalten Übergangsgebührnisse, wenn ihr Dienstverhältnis wegen Ablaufs der festgesetzten Wehrdienstzeit, wegen Dienstunfähigkeit oder wegen Entlassung nach § 55 Absatz 4 Satz 2 des Soldatengesetzes auf Grund des Nichtbestehens der Laufbahnprüfung nach Laufbahnaufstieg und mindestens vierjähriger Wehrdienstzeit in der vorherigen Laufbahn endet. Dies gilt nicht, wenn im Anschluss an die Beendigung des Dienstverhältnisses als Soldatin auf Zeit oder Soldat auf Zeit ein Dienstverhältnis als Berufssoldatin oder Berufssoldat begründet wird. Der Anspruch auf Übergangsgebührnisse endet, wenn die frühere Soldatin auf Zeit oder der frühere Soldat auf Zeit während des Bezugszeitraums erneut in ein Dienstverhältnis als Soldatin auf Zeit oder als Soldat auf Zeit berufen wird.
+(1) Soldatinnen auf Zeit und Soldaten auf Zeit erhalten Übergangsgebührnisse, wenn ihr Dienstverhältnis wegen Ablaufs der festgesetzten Wehrdienstzeit, wegen Dienstunfähigkeit oder wegen Entlassung nach § 55 Absatz 4 Satz 2 des Soldatengesetzes auf Grund des Nichtbestehens der Laufbahnprüfung nach Laufbahnaufstieg und mindestens vierjähriger Wehrdienstzeit in der vorherigen Laufbahn endet. Dies gilt nicht, wenn im Anschluss an die Beendigung des Dienstverhältnisses als Soldatin auf Zeit oder Soldat auf Zeit ein Dienstverhältnis als Berufssoldatin oder Berufssoldat begründet wird. Der Anspruch auf Übergangsgebührnisse endet, wenn die frühere Soldatin auf Zeit oder der frühere Soldat auf Zeit während des Bezugszeitraums erneut in ein Dienstverhältnis als Soldatin auf Zeit oder als Soldat auf Zeit berufen wird.
 
 (2) Übergangsgebührnisse werden gewährt nach einer Wehrdienstzeit von
 
-|     |                              |                   |
-|:----|:-----------------------------|:------------------|
-| 1\. | 4 und weniger als 5 Jahren   | für 12 Monate,    |
-| 2\. | 5 und weniger als 6 Jahren   | für 18 Monate,    |
-| 3\. | 6 und weniger als 7 Jahren   | für 24 Monate,    |
-| 4\. | 7 und weniger als 8 Jahren   | für 30 Monate,    |
-| 5\. | 8 und weniger als 9 Jahren   | für 36 Monate,    |
-| 6\. | 9 und weniger als 10 Jahren  | für 42 Monate,    |
-| 7\. | 10 und weniger als 11 Jahren | für 48 Monate,    |
-| 8\. | 11 und weniger als 12 Jahren | für 54 Monate und |
-| 9\. | 12 und mehr Jahren           | für 60 Monate.    |
+|      |                              |                |
+|:-----|:-----------------------------|:---------------|
+| 1\.  | 1 und weniger als 2 Jahren   | für 1 Monat    |
+| 2\.  | 2 und weniger als 3 Jahren   | für 2 Monate   |
+| 3\.  | 3 und weniger als 4 Jahren   | für 3 Monate   |
+| 4\.  | 4 und weniger als 5 Jahren   | für 12 Monate  |
+| 5\.  | 5 und weniger als 6 Jahren   | für 18 Monate  |
+| 6\.  | 6 und weniger als 7 Jahren   | für 24 Monate  |
+| 7\.  | 7 und weniger als 8 Jahren   | für 30 Monate  |
+| 8\.  | 8 und weniger als 9 Jahren   | für 36 Monate  |
+| 9\.  | 9 und weniger als 10 Jahren  | für 42 Monate  |
+| 10\. | 10 und weniger als 11 Jahren | für 48 Monate  |
+| 11\. | 11 und weniger als 12 Jahren | für 54 Monate  |
+| 12\. | 12 und mehr Jahren           | für 60 Monate. |
 
 Soldatinnen auf Zeit und Soldaten auf Zeit mit einem Förderungsanspruch nach § 7 Absatz 10 erhalten Übergangsgebührnisse entsprechend der dort festgelegten Dauer der Förderung. Die Bezugszeiträume nach den Sätzen 1 und 2 verkürzen sich um
 
@@ -455,15 +461,15 @@ Soldatinnen auf Zeit und Soldaten auf Zeit mit einem Förderungsanspruch nach §
 
 2. Zeiten einer Freistellung vom militärischen Dienst nach § 7 Absatz 12.
 
-Die Bezugszeiträume verkürzen sich ferner um den Umfang einer Minderung nach Maßgabe des § 7 Absatz 6 Satz 2, Absatz 7 bis 9 und 11; bei einer Verkürzung nach Absatz 11 verbleibt ein Anspruch auf Übergangsgebührnisse von mindestens sechs Monaten, jedes weitere vollständig abgeleistete Dienstjahr erhöht den Anspruch um einen weiteren Monat.
+Die Bezugszeiträume verkürzen sich ferner um den Umfang einer Minderung nach Maßgabe des § 7 Absatz 6 Satz 2, Absatz 7 bis 9 und 11; bei einer Verkürzung nach Absatz 11 verbleibt ein Anspruch auf Übergangsgebührnisse von mindestens sechs Monaten, jedes weitere vollständig abgeleistete Dienstjahr erhöht den Anspruch um einen weiteren Monat.
 
-(3) Die Übergangsgebührnisse betragen 75 Prozent der Dienstbezüge des letzten Monats; war eine Soldatin auf Zeit oder ein Soldat auf Zeit im letzten Monat ohne Dienstbezüge beurlaubt oder teilzeitbeschäftigt, gelten als Dienstbezüge die dem letzten Dienstgrad entsprechenden Dienstbezüge. Bei der Berechnung ist der Familienzuschlag (§ 64 Absatz 1 Satz 1) bis zur Stufe 1 zugrunde zu legen. Die Übergangsgebührnisse erhöhen sich um einen Bildungszuschuss, wenn und solange während des Bezugszeitraums an einer nach § 7 geförderten Maßnahme der schulischen und beruflichen Bildung in Vollzeitform teilgenommen wird; in diesem Fall beträgt der Bildungszuschuss 25 Prozent der Dienstbezüge des letzten Monats. Einkünfte auf Grund einer geförderten Maßnahme der schulischen und beruflichen Bildung werden auf den Bildungszuschuss bis zu dessen Höhe angerechnet.
+(3) Die Übergangsgebührnisse betragen 75 Prozent der Dienstbezüge des letzten Monats; war eine Soldatin auf Zeit oder ein Soldat auf Zeit im letzten Monat ohne Dienstbezüge beurlaubt oder teilzeitbeschäftigt, gelten als Dienstbezüge die dem letzten Dienstgrad entsprechenden Dienstbezüge. Bei der Berechnung ist der Familienzuschlag (§ 64 Absatz 1 Satz 1) bis zur Stufe 1 zugrunde zu legen. Die Übergangsgebührnisse erhöhen sich um einen Bildungszuschuss, wenn und solange während des Bezugszeitraums an einer nach § 7 geförderten Maßnahme der schulischen und beruflichen Bildung in Vollzeitform teilgenommen wird; in diesem Fall beträgt der Bildungszuschuss 25 Prozent der Dienstbezüge des letzten Monats.
 
 (4) Wird die Förderungsdauer nach § 7 Absatz 13 zu Gunsten einer Vollzeitausbildung verlängert, sind für die Zeit der Verlängerung gekürzte Übergangsgebührnisse über die in Absatz 2 bestimmten Zeiträume hinaus zu gewähren. Die Höhe der Übergangsgebührnisse begrenzt sich auf die Anwärterbezüge nach § 59 Absatz 2 und § 61 des Bundesbesoldungsgesetzes einer Beamtin auf Widerruf oder eines Beamten auf Widerruf im Vorbereitungsdienst des gehobenen nichttechnischen Verwaltungsdienstes des Bundes unter Berücksichtigung des Familienzuschlages bis zur Stufe 1; ein Einkommen aus der Maßnahme der schulischen und beruflichen Bildung ist anzurechnen. Soldatinnen auf Zeit und Soldaten auf Zeit mit einer Gesamtdienstzeit von mindestens 20 Jahren werden Übergangsgebührnisse nach § 16 Absatz 3 gewährt.
 
-(5) Übergangsgebührnisse können den Soldatinnen auf Zeit und Soldaten auf Zeit, die nach einer Wehrdienstzeit von mindestens vier Jahren auf eigenen Antrag nach § 55 Absatz 3 des Soldatengesetzes entlassen worden sind, in den Grenzen der Absätze 2 und 3 in dem zeitlichen und finanziellen Umfang bewilligt werden, wie es übergangsweise zur Sicherung des Lebensunterhalts notwendig ist.
+(5) Übergangsgebührnisse können auf Antrag den Soldatinnen auf Zeit und Soldaten auf Zeit, die nach einer Wehrdienstzeit von mindestens vier Jahren auf eigenen Antrag nach § 55 Absatz 3 des Soldatengesetzes entlassen worden sind, in den Grenzen der Absätze 2 und 3 in dem zeitlichen und finanziellen Umfang bewilligt werden, wie es übergangsweise zur Sicherung des Lebensunterhalts notwendig ist.
 
-(6) Die Übergangsgebührnisse werden in Monatsbeträgen wie die Dienstbezüge gezahlt. Die Zahlung kann auf Antrag höchstens zweimal für insgesamt längstens 24 Monate aufgeschoben oder unterbrochen werden; dies gilt nicht für Monate, in denen Verwendungseinkommen im Sinne des § 68 Absatz 4 Satz 1 bezogen wird. Soweit es der Eingliederung in das zivile Erwerbsleben dient, kann die für die Zahlung von Übergangsgebührnissen zuständige Stelle in begründeten Einzelfällen, insbesondere zur Schaffung oder Verbesserung einer Existenzgrundlage, die Zahlung für den gesamten Anspruchszeitraum oder für mehrere Monate in einer Summe zulassen; für diesen Zeitraum gilt der Anspruch auf Übergangsgebührnisse mit der Zahlung als abgegolten. Beim Tod der oder des Berechtigten ist der noch nicht ausgezahlte Betrag der überlebenden Ehegattin oder dem überlebenden Ehegatten und ihren oder seinen Abkömmlingen weiterzuzahlen. Sind Anspruchsberechtigte nach Satz 4 nicht vorhanden, sind die Übergangsgebührnisse den Eltern weiterzuzahlen. Sind Personen vorhanden, die Anspruch auf Witwen- oder Waisengeld oder Unterhaltsbeitrag nach § 58 haben, sind die Sätze 4 und 5 nicht anzuwenden.
+(6) Die Übergangsgebührnisse werden in Monatsbeträgen wie die Dienstbezüge gezahlt. Die Zahlung kann auf Antrag höchstens zweimal für insgesamt längstens 24 Monate aufgeschoben oder unterbrochen werden. Soweit es der Eingliederung in das zivile Erwerbsleben dient, kann die für die Zahlung von Übergangsgebührnissen zuständige Stelle in begründeten Einzelfällen, insbesondere zur Schaffung oder Verbesserung einer Existenzgrundlage, die Zahlung für den gesamten Anspruchszeitraum oder für mehrere Monate in einer Summe zulassen; für diesen Zeitraum gilt der Anspruch auf Übergangsgebührnisse mit der Zahlung als abgegolten. Beim Tod der oder des Berechtigten ist der noch nicht ausgezahlte Betrag der überlebenden Ehegattin oder dem überlebenden Ehegatten und ihren oder seinen Abkömmlingen weiterzuzahlen. Sind Anspruchsberechtigte nach Satz 4 nicht vorhanden, sind die Übergangsgebührnisse den Eltern weiterzuzahlen. Sind Personen vorhanden, die Anspruch auf Witwen- oder Waisengeld oder Unterhaltsbeitrag nach § 58 haben, sind die Sätze 4 und 5 nicht anzuwenden.
 
 (7) Übergangsgebührnisse stehen für einen Zeitraum nicht zu, für den Krankengeld der Soldatenentschädigung nach § 19 des Soldatenentschädigungsgesetzes, Krankengeld der Sozialen Entschädigung nach § 47 des Vierzehnten Buches Sozialgesetzbuch, Übergangsgeld nach § 30 des Soldatenentschädigungsgesetzes oder Übergangsgeld nach § 64 des Vierzehnten Buches Sozialgesetzbuch gewährt wird. Dieser Zeitraum wird in die Zeiträume nach den Absätzen 2 und 4 nicht eingerechnet.
 
@@ -755,7 +761,7 @@ Absatz 1 Satz 1 Nummer 1 und 3 gilt ferner nicht bei Beurlaubungen nach § 28 Ab
 
 # § 25 – Unterhaltsbeitrag für Soldatinnen auf Zeit und Soldaten auf Zeit
 
-Einer früheren Soldatin auf Zeit oder einem früheren Soldaten auf Zeit kann nach Beendigung der Zahlung der Übergangsgebührnisse nach § 16 ein Unterhaltsbeitrag bis zur Höhe von 75 Prozent der Mindestversorgung einer Soldatin im Ruhestand oder eines Soldaten im Ruhestand nach § 40 Absatz 5 Satz 2 bewilligt werden, wenn deren oder dessen Dienstverhältnis
+Einer früheren Soldatin auf Zeit oder einem früheren Soldaten auf Zeit kann nach Beendigung der Zahlung der Übergangsgebührnisse nach § 16 auf Antrag ein Unterhaltsbeitrag bis zur Höhe von 75 Prozent der Mindestversorgung einer Soldatin im Ruhestand oder eines Soldaten im Ruhestand nach § 40 Absatz 5 Satz 2 bewilligt werden, wenn deren oder dessen Dienstverhältnis
 
 1. nach einer Gesamtdienstzeit von mindestens 20 Jahren endet wegen
 
@@ -831,7 +837,7 @@ die der Soldatin oder dem Soldaten in den Fällen der Nummern 1, 3 und 4 zuletzt
 
 (1) Ruhegehaltfähig ist die Wehrdienstzeit (§ 3 Absatz 1). Dies gilt nicht für die Zeit
 
-1. einer Beurlaubung ohne Dienstbezüge oder ohne Wehrsold; Zeiten einer Beurlaubung ohne Dienstbezüge, die keine Zeiten im öffentlichen Dienst einer zwischenzeitlich oder überstaatlichen Einrichtung sind, können berücksichtigt werden, wenn
+1. einer Beurlaubung ohne Dienstbezüge oder ohne Wehrsold; Zeiten einer Beurlaubung ohne Dienstbezüge, die keine Zeiten im öffentlichen Dienst einer zwischenstaatlichen oder überstaatlichen Einrichtung sind, können berücksichtigt werden, wenn
 
 a) spätestens bei Beendigung des Urlaubs schriftlich oder elektronisch anerkannt worden ist, dass dieser dienstlichen Interessen oder öffentlichen Belangen dient, und
 
@@ -1151,7 +1157,7 @@ b) bei einer Unteroffizierin oder einem Unteroffizier des Militärmusikdienstes,
 
 # § 55 – Eingliederung von Berufssoldatinnen und Berufssoldaten in das Erwerbsleben
 
-Jeder Berufssoldatin und jedem Berufssoldaten, deren oder dessen Dienstverhältnis wegen Dienstunfähigkeit endet, wird die Eingliederung in das spätere Berufsleben nach den §§ 5, 6, 9 und 11 erleichtert. Freistellung vom militärischen Dienst zur Teilnahme an einem notwendigen Berufsorientierungspraktikum kann im Umfang des § 9 Absatz 4 gewährt werden. § 10 gilt entsprechend.
+Jeder Berufssoldatin und jedem Berufssoldaten, deren oder dessen Dienstverhältnis wegen Dienstunfähigkeit endet, wird die Eingliederung in das spätere Berufsleben nach den §§ 5, 6, 9 und 11 erleichtert. Freistellung vom militärischen Dienst zur Teilnahme an einem notwendigen Berufsorientierungspraktikum kann im Umfang des § 9 Absatz 3 gewährt werden. § 10 gilt entsprechend.
 
 # § 56 – Bezüge für den Sterbemonat und Sterbegeld für Hinterbliebene von Soldatinnen auf Zeit, Soldaten auf Zeit und von Soldatinnen und Soldaten, die Wehrdienst nach dem Wehrpflichtgesetz, freiwilligen Wehrdienst oder Wehrdienst nach dem Vierten Abschnitt des Soldatengesetzes leisten
 
@@ -1159,9 +1165,9 @@ Jeder Berufssoldatin und jedem Berufssoldaten, deren oder dessen Dienstverhältn
 
 (2) Stirbt eine Soldatin oder ein Soldat, die oder der Wehrdienst nach dem Wehrpflichtgesetz oder nach § 58b des Soldatengesetzes leistet, oder eine Soldatin auf Zeit oder ein Soldat auf Zeit mit einer Wehrdienstzeit bis zu sechs Monaten während des Wehrdienstverhältnisses an den Folgen einer Wehrdienstbeschädigung, so erhalten die Eltern, wenn sie mit der oder dem Verstorbenen zur Zeit des Todes in häuslicher Gemeinschaft gelebt haben, ein Sterbegeld in Höhe von 2 557 Euro. Das Sterbegeld wird nicht gewährt, wenn eine einmalige Unfallentschädigung nach § 84 oder eine einmalige Entschädigung nach § 85 zusteht. Das Sterbegeld vermindert sich um Leistungen, die nach Absatz 1 Satz 1 Halbsatz 2 zu gewähren sind. Der Anspruch auf Sterbegeld kann weder abgetreten noch verpfändet noch gepfändet werden. Im Übrigen gilt § 63 Absatz 1 entsprechend sowie § 67 mit der Maßgabe, dass mit einer Forderung auf Rückerstattung zu viel gezahlten Sterbegeldes gegenüber einem Anspruch auf Sterbegeld aufgerechnet werden kann.
 
-# § 57 – Laufende Unterstützung für Hinterbliebene von Soldatinnen auf Zeit, Soldaten auf Zeit und von Soldatinnen und Soldaten, die Wehrdienst nach dem Wehrpflichtgesetz, freiwilligen Wehrdienst oder Wehrdienst nach dem Vierten Abschnitt des Soldatengesetzes leisten
+# § 57 – Laufende Unterstützung für Hinterbliebene von Soldatinnen auf Zeit und Soldaten auf Zeit
 
-(1) Ist eine Soldatin auf Zeit oder ein Soldat auf Zeit, die oder der in der Bundeswehr mindestens sechs Jahre Wehrdienst geleistet hat, während der Dauer ihres oder seines Dienstverhältnisses verstorben und ist der Tod nicht Folge einer Wehrdienstbeschädigung, können die überlebende Ehegattin oder der überlebende Ehegatte und die unterhaltsberechtigten Kinder auf Antrag eine laufende Unterstützung für die Zeit ihrer Bedürftigkeit erhalten. Die Unterstützung darf nach Höhe und Dauer die Übergangsgebührnisse nicht übersteigen, die die verstorbene Soldatin oder der verstorbene Soldat auf Grund der im Zeitpunkt des Todes von ihr oder ihm abgeleisteten Wehrdienstzeit hätte erhalten können.
+(1) Ist eine Soldatin auf Zeit oder ein Soldat auf Zeit, die oder der in der Bundeswehr mindestens sechs Jahre Wehrdienst geleistet hat, während der Dauer ihres oder seines Dienstverhältnisses verstorben und ist der Tod nicht Folge einer Wehrdienstbeschädigung, so können die überlebende Ehegattin oder der überlebende Ehegatte und die unterhaltsberechtigten Kinder auf Antrag eine laufende Unterstützung erhalten. Die Unterstützung darf nach Höhe und Dauer die Übergangsgebührnisse nicht übersteigen, die die verstorbene Soldatin oder der verstorbene Soldat auf Grund der im Zeitpunkt des Todes von ihr oder ihm abgeleisteten Wehrdienstzeit hätte erhalten können.
 
 (2) § 66 Absatz 2 sowie die §§ 67 und 81 gelten entsprechend. Für die Mindestdienstzeit im Sinne des Absatzes 1 Satz 1 gilt § 23 mit Ausnahme des Absatzes 1 Satz 2 entsprechend.
 
@@ -1519,7 +1525,7 @@ In den Fällen des Satzes 1 Nummer 1 Buchstabe a und b und Nummer 2 erhöht sich
 
 1. die Verlegung des Wohnsitzes,
 
-2. den Bezug von Krankengeld der Soldatenentschädigung (§ 16 Absatz 7) und den Bezug und jede Änderung von Einkünften nach § 16 Absatz 3 Satz 4, § 17 Absatz 1 Satz 2, den §§ 34 und 40 Absatz 6, den §§ 52 und 59 sowie den §§ 68 bis 72 und 80 Absatz 2,
+2. den Bezug von Krankengeld der Soldatenentschädigung (§ 16 Absatz 7) und den Bezug und jede Änderung von Einkünften nach § 17 Absatz 1 Satz 2, den §§ 34 und 40 Absatz 6, den §§ 52 und 59 sowie den §§ 68 bis 72 und 80 Absatz 2,
 
 3. die Begründung eines neuen öffentlich-rechtlichen Dienstverhältnisses oder eines privatrechtlichen Arbeitsverhältnisses im öffentlichen Dienst in den Fällen des § 52 Absatz 6,
 
@@ -1667,9 +1673,9 @@ Sie wird nicht gewährt, wenn die oder der Verletzte den Unfall vorsätzlich her
 
 2. infolge des Unfalls nach Nummer 1 dienstunfähig geworden ist und
 
-3. im Zeitpunkt des Dienstverhältnisses auf Grund des Unfalls nach Nummer 1 in ihrer oder seiner Erwerbsfähigkeit um mindestens 50 Prozent beeinträchtigt ist.
+3. im Zeitpunkt der Beendigung des Dienstverhältnisses auf Grund des Unfalls nach Nummer 1 in ihrer oder seiner Erwerbsfähigkeit um mindestens 50 Prozent beeinträchtigt ist.
 
-(2) Die Kompensationszahlung beträgt 30 000 Euro. Sie erhöht sich für Soldatinnen auf Zeit und Soldaten auf Zeit um 6 000 Euro für jedes vor dem Unfall vollendete Dienstjahr und um 500 Euro für jeden weiteren vor dem Unfall vollendeten Dienstmonat. Für nach § 58b und dem Vierten Abschnitt des Soldatengesetzes Wehrdienstleistende erhöht sich die Kompensationszahlung für jeden vor dem Unfall vollendeten Dienstmonat um 500 Euro. Für Zeiten der Beurlaubung ohne Dienstbezüge oder Wehrsold werden von der Erhöhung für jeweils 30 Tage Urlaub 500 Euro abgezogen. Der Abzug entfällt für die Zeit
+(2) Die Kompensationszahlung beträgt 50 000 Euro. Sie erhöht sich für Soldatinnen auf Zeit und Soldaten auf Zeit um 7 500 Euro für jedes vor dem Unfall vollendete Dienstjahr und um 625 Euro für jeden weiteren vor dem Unfall vollendeten Dienstmonat. Für nach § 58b und dem Vierten Abschnitt des Soldatengesetzes Wehrdienstleistende erhöht sich die Kompensationszahlung für jeden vor dem Unfall vollendeten Dienstmonat um 625 Euro. Für Zeiten der Beurlaubung ohne Dienstbezüge oder Wehrsold werden von der Erhöhung für jeweils 30 Tage Urlaub 625 Euro abgezogen. Der Abzug entfällt für die Zeit
 
 1. einer Beurlaubung, die öffentlichen Belangen oder dienstlichen Interessen dient,
 
@@ -1684,6 +1690,8 @@ Bei der Berechnung der Erhöhung der Kompensationszahlung bleiben früher abgele
 (3) Ist die Soldatin oder der Soldat an den Folgen des Dienstunfalls gestorben und hat sie oder er eine Kompensationszahlung nach Absatz 1 nicht erhalten, steht die Kompensationszahlung dem hinterbliebenen Ehegatten und den nach diesem Gesetz versorgungsberechtigten Kindern zu.
 
 (4) Die Kompensationszahlung wird nicht in den Fällen gewährt, in denen Anspruch auf erhöhtes Unfallruhegehalt nach § 42 in Verbindung mit § 37 des Beamtenversorgungsgesetzes oder auf erhöhte Unfall-Hinterbliebenenversorgung nach § 59 in Verbindung mit § 39 des Beamtenversorgungsgesetzes besteht, die sich unter Zugrundelegung des erhöhten Unfallruhegehalts nach § 37 des Beamtenversorgungsgesetzes berechnet.
+
+(5) Besteht auf Grund derselben Ursache Anspruch sowohl auf die Ausgleichzahlung nach § 90 des Soldatenversorgungsgesetzes als auch auf die Kompensationszahlung, wird nur die Ausgleichzahlung gewährt.
 
 # § 86 – Schadensausgleich in besonderen Fällen
 
@@ -1778,6 +1786,8 @@ Erleidet eine Soldatin oder ein Soldat einen Einsatzunfall im Sinne von § 87 Ab
 3. einer Freistellung wegen Kindererziehungszeiten bis zu einer Dauer von drei Jahren für jedes Kind und
 
 4. der tatsächlichen Betreuung und Pflege eines nach einem ärztlichen Gutachten pflegebedürftigen Angehörigen.
+
+Bei der Berechnung der Erhöhung der Ausgleichszahlung bleiben früher abgeleistete Dienstverhältnisse unberücksichtigt.
 
 (3) Für andere Angehörige des Geschäftsbereichs des Bundesministeriums der Verteidigung gelten die Absätze 1 und 2 entsprechend mit der Maßgabe, dass als Ausgleichszahlung nur der Grundbetrag nach Absatz 2 Satz 1 gewährt wird. Ist die oder der andere Angehörige des Geschäftsbereichs des Bundesministeriums der Verteidigung an den Folgen des Einsatzunfalls gestorben und hat sie oder er eine Ausgleichszahlung nach Absatz 1 nicht erhalten, steht die Ausgleichszahlung der hinterbliebenen Ehegattin oder dem hinterbliebenen Ehegatten und den nach diesem Gesetz versorgungsberechtigten Kindern zu.
 
@@ -2289,7 +2299,7 @@ Dies gilt nicht für das Ruhegehalt, das durch Anwendung des § 40 Absatz 5 Satz
 
 # § 121 – Übergangsregelungen aus Anlass des Berufsförderungsfortentwicklungsgesetzes
 
-(1) Die Rechtsverhältnisse der am 1. Juni 2005 vorhandenen Versorgungsempfängerinnen und Versorgungsempfänger regeln sich nach bisherigem Recht, wenn dies für die Versorgungsempfängerin oder den Versorgungsempfänger günstiger ist; dies gilt für die erweiterte Dauer der Förderung am Ende der Wehrdienstzeit allerdings nur, soweit dies mit ihrem Dienstzeitende kalendarisch vereinbar ist. Entsprechendes gilt für weggefallene Minderungstatbestände und verringerte Minderungsumfänge. Soweit neue Minderungstatbestände oder größere Minderungsumfänge in § 7 eingeführt worden sind, werden diese erst bei Förderungsmaßnahmen wirksam, die nach dem 31. Mai 2005 begonnen haben. Die Verminderung der Übergangsgebührnisse nach § 16 Absatz 3 Satz 4 wird erst dann vorgenommen, wenn die Tätigkeit, aus der das Erwerbseinkommen erzielt wird, oder die Maßnahme der beruflichen Bildung nach dem Inkrafttreten dieses Gesetzes begonnen werden.
+(1) Die Rechtsverhältnisse der am 1. Juni 2005 vorhandenen Versorgungsempfängerinnen und Versorgungsempfänger regeln sich nach bisherigem Recht, wenn dies für die Versorgungsempfängerin oder den Versorgungsempfänger günstiger ist; dies gilt für die erweiterte Dauer der Förderung am Ende der Wehrdienstzeit allerdings nur, soweit dies mit ihrem Dienstzeitende kalendarisch vereinbar ist. Entsprechendes gilt für weggefallene Minderungstatbestände und verringerte Minderungsumfänge. Soweit neue Minderungstatbestände oder größere Minderungsumfänge in § 7 eingeführt worden sind, werden diese erst bei Förderungsmaßnahmen wirksam, die nach dem 31. Mai 2005 begonnen haben.
 
 (2) § 87 Absatz 2 und 3 Satz 2 in der bis zum 31. Mai 2005 geltenden Fassung ist auf Inhaberinnen und Inhaber von Eingliederungsscheinen, die bis zum 31. Dezember 2005 ihren Dienst auf der vorbehaltenen Stelle angetreten oder ohne Inanspruchnahme einer vorbehaltenen Stelle bei einem Dienstantritt vor dem 1. Januar 2006 ihren Eingliederungsschein zum Zweck des Erhalts von Ausgleichsbezügen zur Personalakte bei dem neuen Dienstherrn gegeben haben, weiter anzuwenden.
 
@@ -2344,7 +2354,7 @@ Aus gleichem Anlass bereits gewährte Leistungen nach § 84 oder § 85 sind anzu
 
 # § 126 – Übergangsregelungen aus Anlass des Bundeswehrreform-Begleitgesetzes
 
-(1) Für die am 26. Juli 2012 vorhandenen Versorgungsempfängerinnen und Versorgungsempfänger sowie für die Soldatinnen und Soldaten, die vor dem 26. Juli 2012 in das Dienstverhältnis einer Soldatin auf Zeit oder eines Soldaten auf Zeit berufen worden sind oder freiwilligen Wehrdienst nach Abschnitt 7 des Wehrpflichtgesetzes in der bis zum 12. April 2013 geltenden Fassung angetreten oder eine Eignungsübung nach dem Eignungsübungsgesetz geleistet haben, gilt weiterhin das bisherige Recht, sofern zwischen den Dienstverhältnissen keine Unterbrechung bestand. Der Bemessungssatz der Übergangsgebührnisse vermindert sich nach § 11 Absatz 3 Satz 4 des Soldatenversorgungsgesetzes in der bis zum 25. Juli 2012 geltenden Fassung, solange auf Grund einer Maßnahme der schulischen und beruflichen Bildung Einkünfte erzielt werden, die höher sind als der Betrag dieser Verminderung. Die Sätze 1 und 2 gelten auch für die am 26. Juli 2012 vorhandenen Berufssoldatinnen und Berufssoldaten, deren Dienstverhältnis nach § 45a des Soldatengesetzes bis zum 31. Dezember 2017 umgewandelt wird. § 4 Absatz 1, § 5 Absatz 3, § 7 Absatz 7, 9 und 12, § 8 Absatz 1 und 2, die §§ 9, 10 und 16 Absatz 4 und 6, die §§ 17 und 19 Absatz 7 sowie die §§ 21, 22, 25, 33, 60, 62, 80, 104 und 125 sind nach diesem Gesetz in seiner jeweiligen Fassung anzuwenden.
+(1) Für die am 26. Juli 2012 vorhandenen Versorgungsempfängerinnen und Versorgungsempfänger sowie für die Soldatinnen und Soldaten, die vor dem 26. Juli 2012 in das Dienstverhältnis einer Soldatin auf Zeit oder eines Soldaten auf Zeit berufen worden sind oder freiwilligen Wehrdienst nach Abschnitt 7 des Wehrpflichtgesetzes in der bis zum 12. April 2013 geltenden Fassung angetreten oder eine Eignungsübung nach dem Eignungsübungsgesetz geleistet haben, gilt weiterhin das bisherige Recht, sofern zwischen den Dienstverhältnissen keine Unterbrechung bestand. Der Bemessungssatz der Übergangsgebührnisse vermindert sich nach § 11 Absatz 3 Satz 4 des Soldatenversorgungsgesetzes in der bis zum 25. Juli 2012 geltenden Fassung, solange auf Grund einer Maßnahme der schulischen und beruflichen Bildung Einkünfte erzielt werden, die höher sind als der Betrag dieser Verminderung. Die Sätze 1 und 2 gelten auch für die am 26. Juli 2012 vorhandenen Berufssoldatinnen und Berufssoldaten, deren Dienstverhältnis nach § 45a des Soldatengesetzes bis zum 31. Dezember 2017 umgewandelt wird. § 4 Absatz 1, § 5 Absatz 3, § 7 Absatz 7, 9 und 12, § 8 Absatz 1 und 2, die §§ 9, 10 und 16 Absatz 4 und 6, die §§ 17 und 19 Absatz 7 sowie die §§ 21, 22, 25, 33, 60, 62, 68, 80, 104 und 125 sind nach diesem Gesetz in der jeweils geltenden Fassung anzuwenden.
 
 (2) Abweichend von Absatz 1 Satz 1 gilt für Soldatinnen auf Zeit und Soldaten auf Zeit, die vor dem 26. Juli 2012 in das Dienstverhältnis einer Soldatin auf Zeit oder eines Soldaten auf Zeit berufen worden sind oder freiwilligen Wehrdienst nach Abschnitt 7 des Wehrpflichtgesetzes in der bis zum 12. April 2013 geltenden Fassung angetreten haben, dieses Gesetz in seiner jeweiligen Fassung, wenn
 
@@ -2354,7 +2364,7 @@ Aus gleichem Anlass bereits gewährte Leistungen nach § 84 oder § 85 sind anzu
 
 Die Höhe des Anspruchs nach § 7 Absatz 11 darf in den Fällen des Satzes 1 die Höhe des Förderungsanspruchs nach § 5 Absatz 10 in der vor dem 26. Juli 2012 geltenden Fassung nicht unterschreiten.
 
-(3) Auf Soldatinnen auf Zeit und Soldaten auf Zeit, die nach dem 25. Juli 2012 erneut in ein Dienstverhältnis einer Soldatin auf Zeit oder eines Soldaten auf Zeit berufen werden, ist § 21 Absatz 1 Satz 5 mit der Maßgabe anzuwenden, dass der Bezugszeitraum der Übergangsgebührnisse die nach § 21 Absatz 1 Satz 4 zustehende Förderungsdauer nicht übersteigen darf. Wenn Soldatinnen auf Zeit oder Soldaten auf Zeit nach dem 25. Juli 2012 erneut in ein Dienstverhältnis als Soldatinnen auf Zeit oder als Soldaten auf Zeit berufen werden und dieses Dienstverhältnis weniger als sechs Monate dauert, gilt § 20 Satz 2 bis 5 entsprechend. Übergangsgebührnisse stehen nicht zu.
+(3) Auf Soldatinnen auf Zeit und Soldaten auf Zeit, die nach dem 25. Juli 2012 erneut in ein Dienstverhältnis einer Soldatin auf Zeit oder eines Soldaten auf Zeit berufen werden, ist § 21 Absatz 1 Satz 5 mit der Maßgabe anzuwenden, dass der Bezugszeitraum der Übergangsgebührnisse die nach § 21 Absatz 1 Satz 4 zustehende Förderungsdauer nicht übersteigen darf. Wenn Soldatinnen auf Zeit oder Soldaten auf Zeit nach dem 25. Juli 2012 erneut in ein Dienstverhältnis als Soldatinnen auf Zeit oder als Soldaten auf Zeit berufen werden und dieses Dienstverhältnis weniger als sechs Monate dauert, gilt § 20 Satz 2 bis 4 entsprechend. Übergangsgebührnisse stehen nicht zu.
 
 # § 127 – Übergangsregelungen aus Anlass des Bundeswehr-Attraktivitätssteigerungsgesetzes
 

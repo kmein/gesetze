@@ -35,7 +35,7 @@ Die Informations- und Behandlungszentren für Vergiftungen berichten dem Bundesa
 
 # § 7 – Ausnahmen für die Einfuhr
 
-Für die Einfuhr von kosmetischen Mitteln gilt § 18 Absatz 1 der Lebensmitteleinfuhr-Verordnung entsprechend mit der Maßgabe, dass an die Stelle der Verbote des § 5 Absatz 1 Satz 1 des Lebensmittel- und Futtermittelgesetzbuches und des Artikels 14 Absatz 1 in Verbindung mit Absatz 2 Buchstabe a der Verordnung (EG) Nr. 178/2002 die Pflicht nach Artikel 5 Absatz 1 der Verordnung (EG) Nr. 1223/2009 tritt, für die Einhaltung der Sicherheit im Umfang des Artikels 3 der Verordnung (EG) Nr. 1223/2009 zu sorgen.
+Für die Einfuhr von kosmetischen Mitteln gilt § 11a Absatz 1 der Bedarfsgegenständeverordnung entsprechend mit der Maßgabe, dass an die Stelle der Verbote des § 30 Nummer 1 und 2 des Lebensmittel- und Futtermittelgesetzbuches die Pflicht nach Artikel 5 Absatz 1 der Verordnung (EG) Nr. 1223/2009 tritt, für die Einhaltung der Sicherheit im Umfang des Artikels 3 der Verordnung (EG) Nr. 1223/2009 zu sorgen.
 
 # § 8 – Straftaten
 

@@ -45,7 +45,7 @@ Für die Richterinnen und Richter im Bundesdienst gilt diese Verordnung nach § 
 
 (2) Für die wirtschaftliche Angemessenheit gilt § 6 Absatz 5 und 6 der Bundesbeihilfeverordnung entsprechend, soweit nachstehend nichts anderes bestimmt ist.
 
-(3) Bei der Prüfung der wirtschaftlichen Angemessenheit kann über die im Beihilferecht getroffenen Begrenzungen hinausgegangen werden. Die Entscheidung ist besonders zu begründen und zu dokumentieren.
+(3) Bei der Anerkennung der wirtschaftlichen Angemessenheit kann über die im Beihilferecht getroffenen Begrenzungen hinausgegangen werden. Die Entscheidung nach Satz 1 ist besonders zu begründen. Satz 2 gilt nicht für Aufwendungen nach § 6 Absatz 1 Nummer 3 bis zum Eineinhalbfachen der in Anlage 9 der Bundesbeihilfeverordnung aufgeführten Höchstbeträge.
 
 (4) Über die Notwendigkeit der Maßnahmen und über die wirtschaftliche Angemessenheit der Aufwendungen entscheidet die Dienstunfallfürsorgestelle.
 
@@ -111,11 +111,11 @@ Die Einschränkungen nach Satz 1 gelten nicht in Fällen des § 10 Absatz 1 Satz
 
 (4) Bei dienstunfallbedingten Aufwendungen, die im Ausland entstanden sind, gilt § 11 Absatz 1 und 2 der Bundesbeihilfeverordnung entsprechend. Für verletzte Personen, die ihren dienstlichen Wohnsitz im Ausland haben oder in das Ausland abgeordnet sind, gelten § 11 Absatz 3, § 18a Absatz 4 Satz 2, § 23 Absatz 3 Satz 1, § 26a Absatz 6, § 29 Absatz 1 und 3, § 31 Absatz 6, § 32 Absatz 3, § 36 Absatz 3 sowie § 44 Absatz 2 der Bundesbeihilfeverordnung entsprechend.
 
-(5) Zur Vermeidung unbilliger Härten kann die Dienstunfallfürsorgestelle mit vorheriger Zustimmung des Bundesministeriums des Innern und für Heimat und des Bundesministeriums der Finanzen von dieser Verordnung abweichen.
+(5) Zur Vermeidung unbilliger Härten kann die Dienstunfallfürsorgestelle mit vorheriger Zustimmung des Bundesministeriums des Innern und des Bundesministeriums der Finanzen von dieser Verordnung abweichen.
 
 # § 7 – Erstattungsfähige Aufwendungen bei Traumatisierung
 
-(1) Nach einem traumatischen Ereignis, das von der verletzten Person nach § 45 des Beamtenversorgungsgesetzes angezeigt worden ist, werden zur psychischen Stabilisierung nach vorheriger Zustimmung der Dienstunfallfürsorgestelle die Aufwendungen für bis zu fünf Sitzungen in Gruppen- oder Einzeltherapie erstattet. Satz 1 gilt auch, wenn das Verfahren zur Feststellung, ob ein Dienstunfall vorliegt, noch andauert. Für eine Therapie, die auf Veranlassung der Durchgangsärztin oder des Durchgangsarztes erfolgt, gilt die Zustimmung nach Satz 1 als erteilt.
+(1) Nach einem traumatischen Ereignis, das von der verletzten Person nach § 45 des Beamtenversorgungsgesetzes angezeigt worden ist, werden zur psychischen Stabilisierung nach vorheriger Zustimmung der Dienstunfallfürsorgestelle die Aufwendungen für bis zu acht Sitzungen in Gruppen- oder Einzeltherapie erstattet. Satz 1 gilt auch, wenn das Verfahren zur Feststellung, ob ein Dienstunfall vorliegt, noch andauert. Für eine Therapie, die auf Veranlassung der Durchgangsärztin oder des Durchgangsarztes erfolgt, gilt die Zustimmung nach Satz 1 als erteilt.
 
 (2) Zu den erstattungsfähigen Aufwendungen gehören auch solche für die fundierte Psychodiagnostik, für die Krisen- oder die Frühintervention und für das Abklären der Notwendigkeit weiterführender Behandlungsmaßnahmen.
 
@@ -159,7 +159,7 @@ Die Einschränkungen nach Satz 1 gelten nicht in Fällen des § 10 Absatz 1 Satz
 
 (4) Ist dienstunfallbedingt die Haltung eines Blindenhundes oder die Mitnahme einer Begleitperson erforderlich, so wird für nachgewiesene Aufwendungen ein Erstattungsbetrag von bis zu 200 Euro monatlich gezahlt.
 
-# § 9 – Krankenhausleistungen und Rehabilitationsmaßnahmen
+# § 9 – Krankenhausleistungen, Rehabilitationsmaßnahme und Leistungen der Übergangspflege im Krankenhaus
 
 (1) Erstattungsfähig sind die dienstunfallbedingten Aufwendungen für
 
@@ -177,7 +177,9 @@ b) in einem Einbettzimmer, wenn dies auf Grund besonderer dienstlicher oder medi
 
 5. ärztlich verordnete ambulante Rehabilitationsmaßnahmen in Rehabilitationseinrichtungen oder in wohnortnahen Einrichtungen,
 
-6. ärztlich verordneten Rehabilitationssport in Gruppen unter ärztlicher Betreuung und Überwachung.
+6. ärztlich verordneten Rehabilitationssport in Gruppen unter ärztlicher Betreuung und Überwachung und
+
+7. die in § 39e Absatz 1 und 2 Satz 1 des Fünften Buches Sozialgesetzbuch genannten Leistungen der Übergangspflege für längstens zehn Tage im Anschluss an eine Krankenhausbehandlung.
 
 (2) Die Erstattungsfähigkeit von Maßnahmen nach Absatz 1 Nummer 4 darf nur anerkannt werden, wenn die Maßnahmen nach durchgangsärztlicher Stellungnahme zur Behebung oder Minderung der Dienstunfallfolgen notwendig sind. Ort, Zeit und Dauer der Maßnahmen nach Absatz 1 Nummer 4 bestimmt dann die Dienstunfallfürsorgestelle. Bei dienstlichem Wohnsitz im Ausland oder bei einer Abordnung in das Ausland ist abweichend von Satz 1 eine fachärztliche Stellungnahme erforderlich; die Kosten einer erforderlichen Übersetzung werden erstattet.
 
@@ -326,6 +328,8 @@ Kraftfahrzeughilfe wird gewährt, wenn die Dienstunfallfürsorgestelle vor der E
 1. sich die in Satz 1 genannte Entscheidung nicht aus Gründen verzögert, die die verletzte Person zu vertreten hat, und
 
 2. die verletzte Person die Maßnahmen, die den Aufwendungen zugrunde liegen, im guten Glauben an das Vorliegen eines Dienstunfalls in Anspruch genommen hat.
+
+(6) Bescheide, mit denen Aufwendungen wie beantragt erstattet werden, können auch vollständig durch automatisierte Einrichtungen erlassen werden.
 
 # § 18 – Übergangsvorschriften
 

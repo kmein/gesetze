@@ -68,3 +68,25 @@ in Ausübung ihrer beruflichen Tätigkeit gewichtige Anhaltspunkte für die Gef�
 (1) Werden in einem Strafverfahren gewichtige Anhaltspunkte für die Gefährdung des Wohls eines Kindes oder eines Jugendlichen bekannt, informiert die Strafverfolgungsbehörde oder das Gericht unverzüglich den zuständigen örtlichen Träger der öffentlichen Jugendhilfe sowie im Falle seiner Zuständigkeit den überörtlichen Träger der öffentlichen Jugendhilfe und übermittelt die aus ihrer Sicht zur Einschätzung des Gefährdungsrisikos erforderlichen Daten. Die Mitteilung ordnen Richterinnen oder Richter, Staatsanwältinnen oder Staatsanwälte an. § 4 Absatz 2 gilt entsprechend.
 
 (2) Gewichtige Anhaltspunkte für eine Gefährdung können insbesondere dann vorliegen, wenn gegen eine Person, die mit einem Kind oder Jugendlichen in häuslicher Gemeinschaft lebt oder die regelmäßig Umgang mit ihm hat oder haben wird, der Verdacht besteht, eine Straftat nach den §§ 171, 174, 176 bis 180, 182, 184b bis 184e, 225, 232 bis 233a, 234, 235 oder 236 des Strafgesetzbuchs begangen zu haben.
+
+# § 6 – Beratung im medizinischen Kinderschutz
+
+(1) Das Bundesministerium für Familie, Senioren, Frauen und Jugend stellt sicher, dass ein telefonisches Beratungsangebot im medizinischen Kinderschutz insbesondere für
+
+1. Ärztinnen und Ärzte, Psychotherapeutinnen und Psychotherapeuten, Zahnärztinnen und Zahnärzte, Hebammen und Entbindungspfleger sowie Angehörige eines anderen Heilberufes, der für die Berufsausübung oder die Führung der Berufsbezeichnung eine staatlich geregelte Ausbildung erfordert,
+
+2. Fachkräfte, die hauptberuflich oder nebenamtlich bei einem Träger der öffentlichen oder freien Jugendhilfe oder einem Träger oder Leistungserbringer der Eingliederungshilfe beschäftigt sind, und
+
+3. Familienrichterinnen und Familienrichter
+
+bei Anhaltspunkten für die Gefährdung des Wohls eines Kindes oder eines Jugendlichen bedarfsgerecht zur Verfügung steht.
+
+(2) Das Beratungsangebot nach Absatz 1 ist unter einer entgeltfreien Rufnummer erreichbar und umfasst eine kostenlose Erstberatung und Information zu medizinischen Fragestellungen im Zusammenhang mit einer Kindeswohlgefährdung, zu adäquaten Vorgehensweisen bei Anhaltspunkten für eine Kindeswohlgefährdung sowie bei Bedarf zu geeigneten Ansprechpartnerinnen und Ansprechpartnern für eine weiterführende Beratung. Die medizinische Beratung nach Satz 1 erfolgt vertraulich.
+
+(3) Die Aufgaben nach Absatz 2 werden von insoweit erfahrenen Ärztinnen und Ärzten aus den Bereichen Rechtsmedizin, Kinder- und Jugendpsychiatrie und -psychotherapie und Kinder- und Jugendheilkunde sowie von insoweit erfahrenen Psychotherapeutinnen und Psychotherapeuten wahrgenommen.
+
+(4) Personenbezogene Daten dürfen verarbeitet werden, soweit dies für die in Absatz 2 genannten Zwecke erforderlich ist.
+
+(5) Das Bundesministerium für Familie, Senioren, Frauen und Jugend kann die Ausführung der ihm nach Absatz 1 obliegenden Aufgabe auch auf eine andere geeignete öffentliche Einrichtung übertragen. Erfolgt eine Übertragung nach Satz 1, nimmt das Bundesministerium für Familie, Senioren, Frauen und Jugend die Fachaufsicht wahr.
+
+(6) Das Bundesministerium für Familie, Senioren, Frauen und Jugend oder eine andere geeignete öffentliche Einrichtung nach Absatz 5 evaluiert nach einem Jahr die Bedarfsgerechtigkeit des im Rahmen eines Modellprojekts 24 Stunden täglich zur Verfügung gestellten telefonischen Beratungsangebots. Die Wirkungen des telefonischen Beratungsangebots insgesamt werden erstmals nach zwei Jahren, im Folgenden alle vier Jahre evaluiert.

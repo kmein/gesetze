@@ -167,7 +167,7 @@ Schlussvorschriften</td>
 </tr>
 <tr class="odd">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">§ 25</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsvorschrift aus Anlass des Inkrafttretens dieses Gesetzes</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsvorschrift zum Gesetz zur Änderung des Zuständigkeitsstreitwerts der Amtsgerichte, zum Ausbau der Spezialisierung der Justiz in Zivilsachen sowie zur Änderung weiterer prozessualer Regelungen</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
@@ -251,7 +251,7 @@ Auf Antrag ist ein angemessener Vorschuss zu bewilligen, wenn dem Berechtigten e
 
 (2) Ist die Heranziehung durch die Verwaltungsbehörde im Bußgeldverfahren erfolgt, werden die zu gewährende Vergütung oder Entschädigung und der Vorschuss durch gerichtlichen Beschluss festgesetzt, wenn der Berechtigte gerichtliche Entscheidung gegen die Festsetzung durch die Verwaltungsbehörde beantragt. Für das Verfahren gilt § 62 des Gesetzes über Ordnungswidrigkeiten.
 
-(3) Gegen den Beschluss nach Absatz 1 können der Berechtige und die Staatskasse Beschwerde einlegen, wenn der Wert des Beschwerdegegenstands 200 Euro übersteigt oder wenn sie das Gericht, das die angefochtene Entscheidung erlassen hat, wegen der grundsätzlichen Bedeutung der zur Entscheidung stehenden Frage in dem Beschluss zulässt.
+(3) Gegen den Beschluss nach Absatz 1 können der Berechtige und die Staatskasse Beschwerde einlegen, wenn der Wert des Beschwerdegegenstands 300 Euro übersteigt oder wenn sie das Gericht, das die angefochtene Entscheidung erlassen hat, wegen der grundsätzlichen Bedeutung der zur Entscheidung stehenden Frage in dem Beschluss zulässt.
 
 (4) Soweit das Gericht die Beschwerde für zulässig und begründet hält, hat es ihr abzuhelfen; im Übrigen ist die Beschwerde unverzüglich dem Beschwerdegericht vorzulegen. Beschwerdegericht ist das nächsthöhere Gericht. Eine Beschwerde an einen obersten Gerichtshof des Bundes findet nicht statt. Das Beschwerdegericht ist an die Zulassung der Beschwerde gebunden; die Nichtzulassung ist unanfechtbar.
 
@@ -377,7 +377,7 @@ Soweit das Gericht die Leistung berücksichtigt, gilt sie als verwertbar. Für d
 
 (2) Ist die Leistung auf einem Sachgebiet zu erbringen, das nicht in der Anlage 1 aufgeführt ist, so ist sie unter Berücksichtigung der allgemein für Leistungen dieser Art außergerichtlich und außerbehördlich vereinbarten Stundensätze nach billigem Ermessen mit einem Stundensatz zu vergüten, der den höchsten Stundensatz nach der Anlage 1 jedoch nicht übersteigen darf. Ist die Leistung auf mehreren Sachgebieten zu erbringen oder betrifft ein medizinisches oder psychologisches Gutachten mehrere Gegenstände und sind diesen Sachgebieten oder Gegenständen verschiedene Stundensätze zugeordnet, so bemisst sich das Honorar für die gesamte erforderliche Zeit einheitlich nach dem höchsten dieser Stundensätze. Würde die Bemessung des Honorars nach Satz 2 mit Rücksicht auf den Schwerpunkt der Leistung zu einem unbilligen Ergebnis führen, so ist der Stundensatz nach billigem Ermessen zu bestimmen.
 
-(3) Für die Festsetzung des Stundensatzes nach Absatz 2 gilt § 4 entsprechend mit der Maßgabe, dass die Beschwerde gegen die Festsetzung auch dann zulässig ist, wenn der Wert des Beschwerdegegenstands 200 Euro nicht übersteigt. Die Beschwerde ist nur zulässig, solange der Anspruch auf Vergütung noch nicht geltend gemacht worden ist.
+(3) Für die Festsetzung des Stundensatzes nach Absatz 2 gilt § 4 entsprechend mit der Maßgabe, dass die Beschwerde gegen die Festsetzung auch dann zulässig ist, wenn der Wert des Beschwerdegegenstands 300 Euro nicht übersteigt. Die Beschwerde ist nur zulässig, solange der Anspruch auf Vergütung noch nicht geltend gemacht worden ist.
 
 (4) Das Honorar des Sachverständigen für die Prüfung, ob ein Grund für die Eröffnung eines Insolvenzverfahrens vorliegt und welche Aussichten für eine Fortführung des Unternehmens des Schuldners bestehen, beträgt 120 Euro je Stunde. Ist der Sachverständige zugleich der vorläufige Insolvenzverwalter oder der vorläufige Sachwalter, so beträgt sein Honorar 110 Euro je Stunde.
 
@@ -555,9 +555,9 @@ Die Investitionssumme und die verbrauchte CPU-Zeit sind glaubhaft zu machen.
 
 Die Vergütung und die Entschädigung sind nach bisherigem Recht zu berechnen, wenn der Auftrag an den Sachverständigen, Dolmetscher oder Übersetzer vor dem Inkrafttreten einer Gesetzesänderung erteilt oder der Berechtigte vor diesem Zeitpunkt herangezogen worden ist. Dies gilt auch, wenn Vorschriften geändert werden, auf die dieses Gesetz verweist.
 
-# § 25 – Übergangsvorschrift aus Anlass des Inkrafttretens dieses Gesetzes
+# § 25 – Übergangsvorschrift zum Gesetz zur Änderung des Zuständigkeitsstreitwerts der Amtsgerichte, zum Ausbau der Spezialisierung der Justiz in Zivilsachen sowie zur Änderung weiterer prozessualer Regelungen
 
-Das Gesetz über die Entschädigung der ehrenamtlichen Richter in der Fassung der Bekanntmachung vom 1. Oktober 1969 (BGBl. I S. 1753), zuletzt geändert durch Artikel 1 Abs. 4 des Gesetzes vom 22. Februar 2002 (BGBl. I S. 981), und das Gesetz über die Entschädigung von Zeugen und Sachverständigen in der Fassung der Bekanntmachung vom 1. Oktober 1969 (BGBl. I S. 1756), zuletzt geändert durch Artikel 1 Abs. 5 des Gesetzes vom 22. Februar 2002 (BGBl. I S. 981), sowie Verweisungen auf diese Gesetze sind weiter anzuwenden, wenn der Auftrag an den Sachverständigen, Dolmetscher oder Übersetzer vor dem 1. Juli 2004 erteilt oder der Berechtigte vor diesem Zeitpunkt herangezogen worden ist. Satz 1 gilt für Heranziehungen vor dem 1. Juli 2004 auch dann, wenn der Berechtigte in derselben Rechtssache auch nach dem 1. Juli 2004 herangezogen worden ist.
+Die §§ 4 und 9 sind in ihrer bis einschließlich 31. Dezember 2025 geltenden Fassung weiter anzuwenden, wenn der Auftrag an den Sachverständigen, Dolmetscher oder Übersetzer vor dem 1. Januar 2026 erteilt oder der Berechtigte vor diesem Zeitpunkt herangezogen worden ist. Dies gilt auch dann, wenn der Berechtigte in derselben Rechtssache auch nach dem 1. Januar 2026 herangezogen worden ist.
 
 # Anlage 1 – (zu § 9 Absatz 1 Satz 1)
 

@@ -140,7 +140,7 @@ Das Gericht kann eines seiner Mitglieder mit der Beweisaufnahme oder mit örtlic
 
 # § 17
 
-Alle Behörden sind auf Ersuchen des Gerichts zur Amtshilfe verpflichtet. Die Finanzämter haben auf Ersuchen des Gerichts Auskünfte über den Einheitswert oder den Wirtschaftswert land- oder forstwirtschaftlicher Grundstücke zu erteilen.
+Alle Behörden sind auf Ersuchen des Gerichts zur Amtshilfe verpflichtet. Die Finanzämter haben auf Ersuchen des Gerichts Auskünfte über den Grundsteuerwert land- oder forstwirtschaftlicher Grundstücke zu erteilen.
 
 # § 18
 

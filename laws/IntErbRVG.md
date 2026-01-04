@@ -51,9 +51,9 @@
 
 # § 1 – Anwendungsbereich
 
-(1) Dieses Gesetz regelt die Durchführung der Verordnung (EU) Nr. 650/2012 des Europäischen Parlaments und des Rates vom 4. Juli 2012 über die Zuständigkeit, das anzuwendende Recht, die Anerkennung und Vollstreckung von Entscheidungen und die Annahme und Vollstreckung öffentlicher Urkunden in Erbsachen sowie zur Einführung eines Europäischen Nachlasszeugnisses.
+(1) Dieses Gesetz regelt die Durchführung der Verordnung (EU) Nr. 650/2012.
 
-(2) Mitgliedstaaten im Sinne dieses Gesetzes sind die Mitgliedstaaten der Europäischen Union mit Ausnahme Dänemarks, Irlands und des Vereinigten Königreichs.
+(2) Mitgliedstaaten im Sinne dieses Gesetzes sind die Mitgliedstaaten der Europäischen Union mit Ausnahme Dänemarks und Irlands.
 
 # § 2 – Örtliche Zuständigkeit
 
@@ -311,7 +311,13 @@ Vollstreckungsbescheide, Arrestbefehle und einstweilige Verfügungen oder einstw
 
 # § 31 – Entgegennahme von Erklärungen
 
-Für die Entgegennahme einer Erklärung, mit der nach dem anzuwendenden Erbrecht eine Erbschaft ausgeschlagen oder angenommen wird, ist in den Fällen des Artikels 13 der Verordnung (EU) Nr. 650/2012 das Nachlassgericht örtlich zuständig, in dessen Bezirk die erklärende Person ihren gewöhnlichen Aufenthalt hat. Die Erklärung ist zur Niederschrift des Nachlassgerichts oder in öffentlich beglaubigter Form abzugeben. Dem Erklärenden ist die Urschrift der Niederschrift oder die Urschrift der Erklärung in öffentlich beglaubigter Form auszuhändigen; auf letzterer hat das Nachlassgericht den Ort und das Datum der Entgegennahme zu vermerken.
+(1) Für die Entgegennahme einer Erklärung, mit der nach dem anzuwendenden Erbrecht eine Erbschaft ausgeschlagen oder angenommen wird, ist in den Fällen des Artikels 13 der Verordnung (EU) Nr. 650/2012 das Nachlassgericht örtlich zuständig, in dessen Bezirk die erklärende Person ihren gewöhnlichen Aufenthalt hat.
+
+(2) Die Erklärung ist zur Niederschrift des Nachlassgerichts oder in öffentlich beglaubigter Form abzugeben.
+
+(3) Dem Erklärenden ist die Urschrift der Niederschrift, die Urschrift der Erklärung in öffentlich-beglaubigter Form, eine beglaubigte Abschrift der Niederschrift oder eine beglaubigte Abschrift der entgegengenommenen Erklärung zu überlassen. Bei elektronischer Niederschrift kann dem Erklärenden diese überlassen werden.
+
+(4) Auf einer in öffentlich beglaubigter Form abgegebenen Erklärung oder deren beglaubigter Abschrift hat das Nachlassgericht den Ort und das Datum der Entgegennahme zu vermerken. Bei der Beglaubigung eines Ausdrucks oder einer Abschrift eines elektronischen Dokuments, das mit einer qualifizierten elektronischen Signatur der Urkundsperson versehen ist, soll das Ergebnis der Signaturprüfung dokumentiert werden.
 
 # § 32 – Aneignungsrecht
 

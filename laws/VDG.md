@@ -101,7 +101,11 @@ Die Berechtigung zur Datenübermittlung nach Satz 1 Nummer 1 gilt nicht, soweit 
 
 # § 9 – Vertrauenslisten
 
-Die Bundesetzagentur ist für die Aufstellung, Führung und Veröffentlichung von Vertrauenslisten nach Artikel 22 Absatz 1 der Verordnung (EU) Nr. 910/2014 zuständig.
+Die
+
+Bundesnetzagentur ist für die Aufstellung, Führung und Veröffentlichung von Vertrauenslisten nach Artikel 22 Absatz 1 der Verordnung (EU) Nr. 910/2014 zuständig.
+
+§ 9 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Bundesetzagentur" durch das Wort "Bundesnetzagentur" ersetzt
 
 # § 10 – Deckungsvorsorge
 

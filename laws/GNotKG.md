@@ -1035,7 +1035,7 @@ Wird eine Schätzung des Geschäftswerts durch Sachverständige erforderlich, is
 
 (1) Über Erinnerungen des Kostenschuldners und der Staatskasse gegen den Kostenansatz einschließlich der Ausübung des Zurückbehaltungsrechts (§ 11) entscheidet das Gericht, bei dem die Kosten angesetzt sind. War das Verfahren im ersten Rechtszug bei mehreren Gerichten anhängig, ist das Gericht, bei dem es zuletzt anhängig war, auch insoweit zuständig, als Kosten bei den anderen Gerichten angesetzt worden sind.
 
-(2) Gegen die Entscheidung über die Erinnerung ist die Beschwerde statthaft, wenn der Wert des Beschwerdegegenstands 200 Euro übersteigt. Die Beschwerde ist auch zulässig, wenn sie das Gericht, das die angefochtene Entscheidung erlassen hat, wegen der grundsätzlichen Bedeutung der zur Entscheidung stehenden Frage in dem Beschluss zulässt.
+(2) Gegen die Entscheidung über die Erinnerung ist die Beschwerde statthaft, wenn der Wert des Beschwerdegegenstands 300 Euro übersteigt. Die Beschwerde ist auch zulässig, wenn sie das Gericht, das die angefochtene Entscheidung erlassen hat, wegen der grundsätzlichen Bedeutung der zur Entscheidung stehenden Frage in dem Beschluss zulässt.
 
 (3) Soweit das Gericht die Beschwerde für zulässig und begründet hält, hat es ihr abzuhelfen; im Übrigen ist die Beschwerde unverzüglich dem Beschwerdegericht vorzulegen. Beschwerdegericht ist das nächsthöhere Gericht, in Verfahren der in § 119 Absatz 1 Nummer 1 Buchstabe b des Gerichtsverfassungsgesetzes bezeichneten Art jedoch das Oberlandesgericht. Eine Beschwerde an einen obersten Gerichtshof des Bundes findet nicht statt. Das Beschwerdegericht ist an die Zulassung der Beschwerde gebunden; die Nichtzulassung ist unanfechtbar.
 
@@ -1066,7 +1066,7 @@ Wird eine Schätzung des Geschäftswerts durch Sachverständige erforderlich, is
 
 # § 83 – Beschwerde gegen die Festsetzung des Geschäftswerts
 
-(1) Gegen den Beschluss, durch den der Geschäftswert für die Gerichtsgebühren festgesetzt worden ist (§ 79), ist die Beschwerde statthaft, wenn der Wert des Beschwerdegegenstands 200 Euro übersteigt. Die Beschwerde ist auch statthaft, wenn sie das Gericht, das die angefochtene Entscheidung erlassen hat, wegen der grundsätzlichen Bedeutung der zur Entscheidung stehenden Frage in dem Beschluss zulässt. Die Beschwerde ist nur zulässig, wenn sie innerhalb der in § 79 Absatz 2 Satz 2 bestimmten Frist eingelegt wird; ist der Geschäftswert später als einen Monat vor Ablauf dieser Frist festgesetzt worden, kann sie noch innerhalb eines Monats nach Zustellung oder formloser Mitteilung des Festsetzungsbeschlusses eingelegt werden. Im Fall der formlosen Mitteilung gilt der Beschluss mit dem vierten Tag nach Aufgabe zur Post als bekannt gemacht. § 81 Absatz 3 bis 5 Satz 1 und 4 und Absatz 6 ist entsprechend anzuwenden. Die weitere Beschwerde ist innerhalb eines Monats nach Zustellung der Entscheidung des Beschwerdegerichts einzulegen.
+(1) Gegen den Beschluss, durch den der Geschäftswert für die Gerichtsgebühren festgesetzt worden ist (§ 79), ist die Beschwerde statthaft, wenn der Wert des Beschwerdegegenstands 300 Euro übersteigt. Die Beschwerde ist auch statthaft, wenn sie das Gericht, das die angefochtene Entscheidung erlassen hat, wegen der grundsätzlichen Bedeutung der zur Entscheidung stehenden Frage in dem Beschluss zulässt. Die Beschwerde ist nur zulässig, wenn sie innerhalb der in § 79 Absatz 2 Satz 2 bestimmten Frist eingelegt wird; ist der Geschäftswert später als einen Monat vor Ablauf dieser Frist festgesetzt worden, kann sie noch innerhalb eines Monats nach Zustellung oder formloser Mitteilung des Festsetzungsbeschlusses eingelegt werden. Im Fall der formlosen Mitteilung gilt der Beschluss mit dem vierten Tag nach Aufgabe zur Post als bekannt gemacht. § 81 Absatz 3 bis 5 Satz 1 und 4 und Absatz 6 ist entsprechend anzuwenden. Die weitere Beschwerde ist innerhalb eines Monats nach Zustellung der Entscheidung des Beschwerdegerichts einzulegen.
 
 (2) War der Beschwerdeführer ohne sein Verschulden verhindert, die Frist einzuhalten, ist ihm auf Antrag von dem Gericht, das über die Beschwerde zu entscheiden hat, Wiedereinsetzung in den vorigen Stand zu gewähren, wenn er die Beschwerde binnen zwei Wochen nach der Beseitigung des Hindernisses einlegt und die Tatsachen, welche die Wiedereinsetzung begründen, glaubhaft macht. Ein Fehlen des Verschuldens wird vermutet, wenn eine Rechtsbehelfsbelehrung unterblieben oder fehlerhaft ist. Nach Ablauf eines Jahres, von dem Ende der versäumten Frist an gerechnet, kann die Wiedereinsetzung nicht mehr beantragt werden. Gegen die Entscheidung über den Antrag findet die Beschwerde statt. Sie ist nur zulässig, wenn sie innerhalb von zwei Wochen eingelegt wird. Die Frist beginnt mit der Zustellung der Entscheidung. § 81 Absatz 3 Satz 1 bis 3, Absatz 5 Satz 1, 2 und 4 sowie Absatz 6 ist entsprechend anzuwenden.
 
@@ -1626,6 +1626,16 @@ Das Bundesministerium der Justiz kann nach Änderungen den Wortlaut des Gesetzes
 13. § 65 Absatz 3 des Landwirtschaftsanpassungsgesetzes.
 
 An die Stelle der Kostenordnung treten dabei die in Satz 1 genannten Vorschriften.
+
+# § 137 – Übergangsvorschrift zum Gesetz zur Änderung des Zuständigkeitsstreitwerts der Amtsgerichte, zum Ausbau der Spezialisierung der Justiz in Zivilsachen sowie zur Änderung weiterer prozessualer Regelungen
+
+(1) Die §§ 81 und 83 sind in ihrer bis einschließlich 31. Dezember 2025 geltenden Fassung weiter anzuwenden
+
+1. in gerichtlichen Verfahren, die vor dem 1. Januar 2026 anhängig geworden oder eingeleitet worden sind;
+
+2. in gerichtlichen Verfahren über ein Rechtsmittel, das vor dem 1. Januar 2026 eingelegt worden ist.
+
+(2) In Verfahren, in denen Jahresgebühren erhoben werden, und in allen übrigen Fällen, in denen Absatz 1 keine Anwendung findet, gelten für Kosten, die vor dem 1. Januar 2026 fällig geworden sind, die §§ 81 und 83 in ihrer bis einschließlich 31. Dezember 2025 geltenden Fassung.
 
 # Anlage 1 – (zu § 3 Absatz 2)Kostenverzeichnis
 
@@ -4919,7 +4929,7 @@ Betreuungstätigkeiten</td>
 4. Prüfung und Beachtung der Auszahlungsvoraussetzungen von verwahrtem Geld und der Ablieferungsvoraussetzungen von verwahrten Wertpapieren und Kostbarkeiten,<br />
 5. Anzeige oder Anmeldung einer Tatsache, insbesondere einer Abtretung oder Verpfändung, an einen nicht an dem Beurkundungsverfahren Beteiligten zur Erzielung einer Rechtsfolge, wenn sich die Tätigkeit des Notars nicht darauf beschränkt, dem nicht am Beurkundungsverfahren Beteiligten die Urkunde oder eine Kopie oder eine Ausfertigung der Urkunde zu übermitteln,<br />
 6. Erteilung einer Bescheinigung über Veränderungen hinsichtlich der Personen der Gesellschafter oder des Umfangs ihrer Beteiligung (§ 40 Abs. 2 GmbHG), wenn Umstände außerhalb der Urkunde zu prüfen sind, und<br />
-7. Entgegennahme der für den Gläubiger bestimmten Ausfertigung einer Grundpfandrechtsbestellungsurkunde zur Herbeiführung der Bindungswirkung gemäß § 873 Abs. 2 BGB.</td>
+7. Entgegennahme der für den Gläubiger bestimmten Grundpfandrechtsbestellungsurkunde zur Herbeiführung der Bindungswirkung gemäß § 873 Abs. 2 BGB.</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="odd">
@@ -5340,7 +5350,7 @@ Die Gebühr 25100 beträgt  .......... </td>
  (2) Die Gebühr wird nicht erhoben für die Erteilung<br />
 1. beglaubigter Kopien oder Ausdrucke der vom Notar aufgenommenen oder entworfenen oder in Urschrift in seiner dauernden Verwahrung befindlichen Urkunden und<br />
 2. beglaubigter Kopien vorgelegter Vollmachten und Ausweise über die Berechtigung eines gesetzlichen Vertreters, die der vom Notar gefertigten Niederschrift beizulegen sind (§ 12 BeurkG).<br />
- (3) Einer Kopie im Sinne des Absatzes 2 steht ein in ein elektronisches Dokument übertragenes Schriftstück gleich, insbesondere wenn dieses einer vom Notar gefertigten elektronischen Niederschrift beigefügt ist (§ 16d BeurkG).</td>
+ (3) Einer Kopie im Sinne des Absatzes 2 steht ein in ein elektronisches Dokument übertragenes Schriftstück gleich, insbesondere wenn dieses einer vom Notar gefertigten elektronischen Niederschrift beigefügt ist (§ 12 Abs. 1 Satz 2 BeurkG).</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50">1,00 €<br />
 für jede<br />
 angefangene<br />

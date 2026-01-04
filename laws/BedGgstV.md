@@ -37,7 +37,7 @@ a) unbeschichtete Zellglasfolien,
 
 b) beschichtete Zellglasfolien mit einer aus Cellulose gewonnenen Beschichtung oder
 
-c) beschichtete Zellglasfolien mit einer Beschichtung aus Kunststoff im Sinne des Artikels 3 Nummer 2 der Verordnung (EU) Nr. 10/2011 der Kommission vom 14. Januar 2011 über Materialien und Gegenstände aus Kunststoff, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (ABl. L 12 vom 15.1.2011, S. 1; L 278 vom 25.10.2011, S. 13) in der jeweils geltenden Fassung,
+c) beschichtete Zellglasfolien mit einer Beschichtung aus Kunststoff im Sinne des Artikels 3 Nummer 2 der Verordnung (EU) Nr. 10/2011,
 
 jeweils hergestellt aus regenerierter Cellulose, die aus nicht zu anderen Zwecken verarbeitetem Holz oder aus nicht zu anderen Zwecken verarbeiteter Baumwolle gewonnen worden ist, auch mit Beschichtung auf einer oder auf beiden Seiten; ausgenommen sind Kunstdärme aus regenerierter Cellulose;
 
@@ -91,7 +91,7 @@ Zubereitungen zum Einfärben von Lebensmittelbedarfsgegenständen sowie Dekorfar
 
 # § 2a – Anzeige
 
-(1) Unternehmer, die Lebensmittelbedarfsgegenstände als Fertigerzeugnis herstellen, behandeln oder in den Verkehr bringen, haben dies spätestens bei Aufnahme der Tätigkeit gemäß Absatz 2 der für den jeweiligen Betrieb zuständigen Behörde anzuzeigen. Satz 1 gilt nicht für Lebensmittelunternehmer, die Lebensmittelbedarfsgegenstände herstellen, behandeln oder in den Verkehr bringen, sofern der jeweilige Betrieb bereits nach Artikel 6 Absatz 2 der Verordnung (EG) Nr. 852/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 über Lebensmittelhygiene (ABl. L 139 vom 30.4.2004, S. 1; L 226 vom 25.6.2004, S. 3; L 46 vom 21.2.2008, S. 51; L 58 vom 3.3.2009, S. 3), die zuletzt durch die Verordnung (EU) 2021/382 geändert worden ist, von der zuständigen Behörde registriert worden ist. Die Ausnahme nach Satz 2 gilt entsprechend für die in Artikel 1 Absatz 2 Buchstabe c der Verordnung (EG) Nr. 852/2004 aufgeführten Erzeuger.
+(1) Unternehmer, die Lebensmittelbedarfsgegenstände als Fertigerzeugnis herstellen, behandeln oder in den Verkehr bringen, haben dies spätestens bei Aufnahme der Tätigkeit gemäß Absatz 2 der für den jeweiligen Betrieb zuständigen Behörde anzuzeigen. Satz 1 gilt nicht für Lebensmittelunternehmer, die Lebensmittelbedarfsgegenstände herstellen, behandeln oder in den Verkehr bringen, sofern der jeweilige Betrieb bereits nach Artikel 6 Absatz 2 der Verordnung (EG) Nr. 852/2004 in der Fassung vom 3. März 2021 von der zuständigen Behörde registriert worden ist. Die Ausnahme nach Satz 2 gilt entsprechend für die in Artikel 1 Absatz 2 Buchstabe c der Verordnung (EG) Nr. 852/2004 in der Fassung vom 3. März 2021 aufgeführten Erzeuger.
 
 (2) Die Anzeige nach Absatz 1 Satz 1 muss die folgenden Angaben umfassen:
 
@@ -101,7 +101,7 @@ Zubereitungen zum Einfärben von Lebensmittelbedarfsgegenständen sowie Dekorfar
 
 3. die Art der Tätigkeit des anzeigenden Unternehmens einschließlich der im Wege der Fernkommunikation durchgeführten Tätigkeiten sowie
 
-4. die Gruppe der Materialien und Gegenstände nach Anhang I der Verordnung (EG) Nr. 1935/2004 des Europäischen Parlaments und des Rates vom 27. Oktober 2004 über Materialien und Gegenstände, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen und zur Aufhebung der Richtlinien 80/590/EWG und 89/109/EWG (ABl. L 338 vom 13.11.2004, S. 4), die zuletzt durch die Verordnung (EU) 2019/1381 (ABl. L 231 vom 6.9.2019, S. 1) geändert worden ist, die den Hauptbestandteil der hergestellten, behandelten oder in den Verkehr gebrachten Lebensmittelbedarfsgegenstände darstellt.
+4. die Gruppe der Materialien und Gegenstände nach Anhang I der Verordnung (EG) Nr. 1935/2004 in der Fassung vom 20. Juni 2019, die den Hauptbestandteil der hergestellten, behandelten oder in den Verkehr gebrachten Lebensmittelbedarfsgegenstände darstellt.
 
 (3) Der Unternehmer hat Änderungen der Angaben nach Absatz 2 der zuständigen Behörde spätestens sechs Monate nach Eintritt der Änderung mitzuteilen, wenn die Änderung zu diesem Zeitpunkt noch besteht.
 
@@ -125,11 +125,11 @@ Bei dem gewerbsmäßigen Herstellen oder Behandeln der in Anlage 1 aufgeführten
 
 4. durch mikrobielle Fermentation gewonnene Makromoleküle
 
-nur die in Anhang I Nummer 1 Tabelle 1 der Verordnung (EU) Nr. 10/2011 in der am 1. Januar 2013 geltenden Fassung aufgeführten Stoffe unter Einhaltung der Beschränkungen und Spezifikationen nach Anhang I Nummer 1 Tabelle 1 Spalte 10 und Nummer 4 der Verordnung (EU) Nr. 10/2011 in der am 1. Januar 2013 geltenden Fassung verwendet werden. Die Stoffe dürfen nur verwendet werden, wenn sie den allgemeinen Anforderungen nach Artikel 8 Satz 1 der Verordnung (EU) Nr. 10/2011 in der jeweils geltenden Fassung entsprechen. Artikel 6 Absatz 3 der Verordnung (EU) Nr. 10/2011 in der jeweils geltenden Fassung gilt entsprechend.
+nur die in Anhang I Nummer 1 Tabelle 1 der Verordnung (EU) Nr. 10/2011 in der Fassung vom 21. Februar 2025 aufgeführten Stoffe unter Einhaltung der Beschränkungen und Spezifikationen nach Anhang I Nummer 1 Tabelle 1 Spalte 10 und Nummer 4 der Verordnung (EU) Nr. 10/2011 in der Fassung vom 21. Februar 2025 verwendet werden. Die Stoffe dürfen nur verwendet werden, wenn sie den allgemeinen Anforderungen nach Artikel 8 Satz 1 der Verordnung (EU) Nr. 10/2011 in der Fassung vom 21. Februar 2025 entsprechen. Artikel 6 Absatz 3 der Verordnung (EU) Nr. 10/2011 in der Fassung vom 21. Februar 2025 gilt entsprechend.
 
-(3) Abweichend von Absatz 2 dürfen bei dem gewerbsmäßigen Herstellen von Lebensmittelbedarfsgegenständen im Sinne des § 2 Nummer 2 Buchstabe c hinsichtlich der Beschichtung als Additive auch die in Anlage 13 aufgeführten Stoffe unter Einhaltung der in Anlage 13 Spalte 4 genannten Beschränkungen verwendet werden, sofern Artikel 3 Absatz 1 der Verordnung (EG) Nr. 1935/2004 dem nicht entgegensteht.
+(3) (weggefallen)
 
-(4) Bei dem gewerbsmäßigen Herstellen von Materialien und Gegenständen aus Kunststoff im Sinne des Artikels 3 Nummer 1 der Verordnung (EU) Nr. 10/2011 dürfen neben den nach Anhang I der Verordnung (EU) Nr. 10/2011 zugelassenen Zusatzstoffen als Additive auch die in Anlage 13 aufgeführten Stoffe unter Einhaltung der in Anlage 13 Spalte 4 genannten Beschränkungen verwendet werden, sofern Artikel 3 Absatz 1 der Verordnung (EG) Nr. 1935/2004 dem nicht entgegensteht.
+(4) (weggefallen)
 
 (5) Bei dem gewerbsmäßigen Herstellen bedruckter Lebensmittelbedarfsgegenstände dürfen vorbehaltlich der Absätze 7 bis 9 in den Druckfarben nur verwendet werden
 
@@ -147,7 +147,7 @@ Die Stoffe dürfen nur verwendet werden, wenn sie den in Anlage 14 Tabelle 1 Spa
 
 2. als Monomere oder sonstige Ausgangsstoffe, oder als Farbmittel, Lösungsmittel, Photoinitiatoren oder andere Additive andere als die in Anlage 14 Tabelle 1 aufgeführten Stoffe.
 
-Die Stoffe im Sinne des Satzes 1 dürfen ferner nur verwendet werden, sofern sie nicht nach den Anforderungen der Abschnitte 3.5, 3.6 und 3.7 des Anhangs I der Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006 (ABl. L 353 vom 31.12.2008, S. 1; L 16 vom 20.1.2011, S. 1; L 94 vom 10.4.2015, S. 9; L 349 vom 21.12.2016, S. 1; L 190 vom 27.7.2018, S. 20; L 55 vom 25.2.2019, S. 18; L 117 vom 3.5.2019, S. 8), die zuletzt durch die Delegierte Verordnung (EU) 2021/643 (ABl. L 133 vom 20.4.2021, S. 5) geändert worden ist, als „mutagen“, „karzinogen“ oder „reproduktionstoxisch“ eingestuft sind. Stoffe im Sinne des Satzes 1 sind auch solche in Form von Nanomaterialien. Satz 1 gilt nicht für bedruckte Lebensmittelbedarfsgegenstände, bei denen die Druckfarben bei einer normalen, vorhersehbaren Verwendung der Lebensmittelbedarfsgegenstände unmittelbar mit Lebensmitteln in Berührung kommen, obwohl sie nicht dazu bestimmt sind.
+Die Stoffe im Sinne des Satzes 1 dürfen ferner nur verwendet werden, sofern sie nicht nach den Anforderungen der Abschnitte 3.5, 3.6 und 3.7 des Anhangs I der Verordnung (EG) Nr. 1272/2008 in der Fassung vom 23. Oktober 2024, als „mutagen“, „karzinogen“ oder „reproduktionstoxisch“ eingestuft sind. Stoffe im Sinne des Satzes 1 sind auch solche in Form von Nanomaterialien. Satz 1 gilt nicht für bedruckte Lebensmittelbedarfsgegenstände, bei denen die Druckfarben bei einer normalen, vorhersehbaren Verwendung der Lebensmittelbedarfsgegenstände unmittelbar mit Lebensmitteln in Berührung kommen, obwohl sie nicht dazu bestimmt sind.
 
 (8) Im Übrigen dürfen bei dem gewerbsmäßigen Herstellen bedruckter Lebensmittelbedarfsgegenstände in den Druckfarben Monomere oder sonstige Ausgangsstoffe sowie Additive verwendet werden, sofern sie
 
@@ -180,13 +180,11 @@ Gewerbsmäßig dürfen nicht in den Verkehr gebracht werden
 
 2. Lebensmittelbedarfsgegenstände im Sinne des § 2 Nummer 2 Buchstabe c, wenn
 
-sie hinsichtlich der Beschichtung die in Anhang I Nummer 1 Tabelle 1 der Verordnung (EU) Nr. 10/2011 in der am 1. Januar 2013 geltenden Fassung aufgeführten Stoffe über die dort jeweils in Spalte 10 festgesetzten Höchstmengen hinaus enthalten,
+sie hinsichtlich der Beschichtung die in Anhang I Nummer 1 Tabelle 1 der Verordnung (EU) Nr. 10/2011 in der Fassung vom 21. Februar 2025 aufgeführten Stoffe über die dort jeweils in Spalte 10 festgesetzten Höchstmengen hinaus enthalten,
 
 3. in Anlage 5 aufgeführte Bedarfsgegenstände, wenn sie die dort in Spalte 3 genannten Stoffe über die in Spalte 4 festgesetzten Höchstmengen hinaus enthalten,
 
-4. in Anlage 5a aufgeführte Bedarfsgegenstände, wenn sie die in Spalte 3 dieser Anlage aufgeführten Stoffe über die in Spalte 4 festgesetzten Höchstmengen nach den dort genannten Maßgaben freisetzen,
-
-5. Lebensmittelbedarfsgegenstände, auf die Lacke oder Beschichtungen aufgebracht worden sind, die den in Artikel 2 Absatz 1 und 2 der Verordnung (EU) 2018/213 der Kommission vom 12. Februar 2018 über die Verwendung von Bisphenol A in Lacken und Beschichtungen, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen, und zur Änderung der Verordnung (EU) Nr. 10/2011 hinsichtlich der Verwendung dieses Stoffes in Lebensmittelkontaktmaterialien aus Kunststoff (ABl. L 41 vom 14.2.2018, S. 6) festgesetzten Anforderungen an die Migration von 2,2-Bis-(4-hydroxyphenyl)-propan nicht entsprechen.
+4. in Anlage 5a aufgeführte Bedarfsgegenstände, wenn sie die in Spalte 3 dieser Anlage aufgeführten Stoffe über die in Spalte 4 festgesetzten Höchstmengen nach den dort genannten Maßgaben freisetzen.
 
 Satz 1 Nr. 1 gilt nicht, soweit die Beschichtung aus Kunststoff im Sinne des § 2 Nr. 2 Buchstabe c besteht.
 
@@ -204,7 +202,7 @@ Satz 1 Nr. 1 gilt nicht, soweit die Beschichtung aus Kunststoff im Sinne des § 
 
 (1b) (weggefallen)
 
-(1c) Bei den in Artikel 1 Abs. 2 in Verbindung mit Abs. 3 der Verordnung (EG) Nr. 1895/2005 der Kommission vom 18. November 2005 über die Beschränkung der Verwendung bestimmter Epoxyderivate in Materialien und Gegenständen, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (ABl. EU Nr. L 302 S. 28), genannten Materialien und Gegenständen dürfen Anteile der in Anhang I der Verordnung (EG) Nr. 1895/2005 aufgeführten Stoffe, die von den Materialien oder Gegenständen auf Lebensmittel übergehen, die dort festgesetzten spezifischen Migrationshöchstwerte nicht überschreiten.
+(1c) Bei den in Artikel 1 Abs. 2 in Verbindung mit Absatz 3 der Verordnung (EG) Nr. 1895/2005 in der Fassung vom 18. November 2005 genannten Materialien und Gegenständen dürfen Anteile der in Anhang I der Verordnung (EG) Nr. 1895/2005 in der Fassung vom 18. November 2005 aufgeführten Stoffe, die von den Materialien oder Gegenständen auf Lebensmittel übergehen, die dort festgesetzten spezifischen Migrationshöchstwerte nicht überschreiten.
 
 (1d) (weggefallen)
 
@@ -212,7 +210,7 @@ Satz 1 Nr. 1 gilt nicht, soweit die Beschichtung aus Kunststoff im Sinne des § 
 
 (3) Bei den in Anlage 6 aufgeführten Lebensmittelbedarfsgegenständen dürfen Anteile der dort genannten Stoffe, die von den Bedarfsgegenständen auf Lebensmittel übergehen, die dort angegebenen Höchstmengen nicht überschreiten.
 
-(4) Die Artikel 10, 11, 12, 17 und 18 der Verordnung (EU) Nr. 10/2011 in der jeweils geltenden Fassung gelten für Lebensmittelbedarfsgegenstände im Sinne des § 2 Nummer 2 Buchstabe c hinsichtlich der Beschichtung entsprechend.
+(4) Die Artikel 10, 11, 12, 17 und 18 der Verordnung (EU) Nr. 10/2011 gelten für Lebensmittelbedarfsgegenstände im Sinne des § 2 Nummer 2 Buchstabe c hinsichtlich der Beschichtung entsprechend.
 
 (5) Bei bedruckten Lebensmittelbedarfsgegenständen dürfen die in Anlage 14 Tabelle 1 und 2 aufgeführten Stoffe die dort für sie in Spalte 6 oder 7 in Verbindung mit Anlage 14 Tabelle 3 jeweils festgelegten Grenzwerte für den Übergang auf Lebensmittel nicht überschreiten. Übergänge von Barium, Eisen, Kobalt, Kupfer, Lithium, Mangan und Zink sowie von primären aromatischen Aminen dürfen die in Anlage 14 Tabelle 4 jeweils festgelegten Grenzwerte nicht überschreiten.
 
@@ -230,9 +228,9 @@ In Anlage 7 aufgeführte Bedarfsgegenstände dürfen gewerbsmäßig nur in den V
 
 (1) (weggefallen)
 
-(1a) Lebensmittelbedarfsgegenstände aus Zellglasfolie dürfen gewerbsmäßig nur in den Verkehr gebracht werden, wenn ihnen eine schriftliche Erklärung in deutscher Sprache beigefügt ist, in der bescheinigt wird, dass sie den Anforderungen dieser Verordnung und der Verordnung (EG) Nr. 1935/2004 entsprechen. Satz 1 gilt nicht für das Inverkehrbringen im Einzelhandel und für Lebensmittelbedarfsgegenstände aus Zellglasfolie, die offensichtlich für das Herstellen, Behandeln, Inverkehrbringen oder den Verzehr von Lebensmitteln verwendet werden sollen.
+(1a) Lebensmittelbedarfsgegenstände aus Zellglasfolie dürfen gewerbsmäßig nur in den Verkehr gebracht werden, wenn ihnen eine schriftliche Erklärung beigefügt ist, in der bescheinigt wird, dass sie den Anforderungen dieser Verordnung und der Verordnung (EG) Nr. 1935/2004 entsprechen. Satz 1 gilt nicht für das Inverkehrbringen im Einzelhandel und für Lebensmittelbedarfsgegenstände aus Zellglasfolie, die offensichtlich für das Herstellen, Behandeln, Inverkehrbringen oder den Verzehr von Lebensmitteln verwendet werden sollen.
 
-(2) Bei Lebensmittelbedarfsgegenständen aus Keramik, die noch nicht mit Lebensmitteln in Berührung gekommen sind, gilt Absatz 1a Satz 1 entsprechend. Die Erklärung muss vom Hersteller oder, sofern dieser nicht in der Europäischen Union ansässig ist, dem in der Europäischen Union ansässigen Einführer ausgestellt sein und folgende zusätzliche Angaben enthalten:
+(2) Bei Lebensmittelbedarfsgegenständen aus Keramik, die noch nicht mit Lebensmitteln in Berührung gekommen sind, gilt Absatz 1a Satz 1 entsprechend. Die Erklärung muss vom Hersteller oder, sofern dieser nicht in der Europäischen Union ansässig ist, dem in der Europäischen Union ansässigen Einführer in deutscher Sprache ausgestellt sein und folgende zusätzliche Angaben enthalten:
 
 1. Name und Anschrift des Herstellers und, sofern dieser nicht in der Europäischen Union ansässig ist, auch des Einführers,
 
@@ -242,13 +240,15 @@ In Anlage 7 aufgeführte Bedarfsgegenstände dürfen gewerbsmäßig nur in den V
 
 Darüber hinaus müssen der Hersteller oder der Einführer für Zwecke der Überwachung Nachweise darüber vorhalten, ob der Lebensmittelbedarfsgegenstand die in Anlage 6 Nummer 2 festgelegten Höchstmengen einhält. Diese Nachweise müssen mindestens die Ergebnisse der durchgeführten Analysen, die Testbedingungen sowie Name und Anschrift des Laboratoriums, das die Analyse durchgeführt hat, enthalten.
 
-(2a) Die in Artikel 1 Absatz 2 in Verbindung mit Absatz 3 der Verordnung (EG) Nr. 1895/2005 genannten Materialien und Gegenstände, die BADGE oder seine Derivate enthalten, dürfen gewerbsmäßig nur in den Verkehr gebracht werden, wenn ihnen eine schriftliche Erklärung in deutscher Sprache beigefügt ist, in der bescheinigt wird, dass sie den Anforderungen der Verordnung (EG) Nr. 1895/2005 und der Verordnung (EG) Nr. 1935/2004 entsprechen. Satz 1 gilt nicht für das Inverkehrbringen im Einzelhandel.
+(2a) Die in Artikel 1 Absatz 2 in Verbindung mit Absatz 3 der Verordnung (EG) Nr. 1895/2005 genannten Materialien und Gegenstände, die BADGE oder seine Derivate enthalten, dürfen gewerbsmäßig nur in den Verkehr gebracht werden, wenn ihnen eine schriftliche Erklärung beigefügt ist, in der bescheinigt wird, dass sie den Anforderungen der Verordnung (EG) Nr. 1895/2005 und der Verordnung (EG) Nr. 1935/2004 entsprechen. Satz 1 gilt nicht für das Inverkehrbringen im Einzelhandel.
 
 (3) Die in Anlage 9 aufgeführten Bedarfsgegenstände dürfen gewerbsmäßig an Verbraucherinnen oder Verbraucher nur abgegeben werden, wenn die in Spalte 3 aufgeführten Angaben an den in Spalte 4 vorgesehenen Stellen unverwischbar, deutlich sichtbar, leicht lesbar und in deutscher Sprache angebracht sind.
 
 (4) Wer Bedarfsgegenstände in Verkehr bringt, hat die Angaben nach Artikel 15 Abs. 1 Buchstabe a und b der Verordnung (EG) Nr. 1935/2004 in deutscher Sprache anzubringen.
 
-(5) Die in Artikel 4 Absatz 1 Satz 1 der Verordnung (EU) 2018/213 bezeichneten Materialien und Gegenstände dürfen nur in den Verkehr gebracht werden, wenn ihnen die in Artikel 4 Absatz 1 Satz 1 der Verordnung (EU) 2018/213 genannte schriftliche Konformitätserklärung in deutscher Sprache beigefügt ist und diese den Anforderungen des Anhangs 1, auch in Verbindung mit Artikel 4 Absatz 2, der Verordnung (EU) 2018/213 entspricht.
+(5) Die in Artikel 1 Absatz 2 der Verordnung (EU) 2024/3190 in der Fassung vom 19. Dezember 2024 bezeichneten Materialien und Gegenstände dürfen nur in den Verkehr gebracht werden, wenn ihnen die in Artikel 8 Absatz 1 der Verordnung (EU) 2024/3190 in der Fassung vom 19. Dezember 2024 genannte schriftliche Konformitätserklärung beigefügt ist und diese den Anforderungen des Anhangs III der Verordnung (EU) 2024/3190 in der Fassung vom 19. Dezember 2024 entspricht.
+
+(6) Der in Artikel 2 Absatz 3 Nummer 4 der Verordnung (EU) 2022/1616 in der Fassung vom 21. Februar 2025 bezeichnete recycelte Kunststoff darf nur in den Verkehr gebracht werden, wenn ihm die in Artikel 5 Absatz 2 in Verbindung mit Artikel 29 der Verordnung (EU) 2022/1616 in der Fassung vom 21. Februar 2025 genannte schriftliche Konformitätserklärung beigefügt ist und diese den Anforderungen des Anhangs III der Verordnung (EU) 2022/1616 in der Fassung vom 21. Februar 2025 entspricht.
 
 # § 10a – Kennzeichnung von Schuherzeugnissen
 
@@ -280,21 +280,35 @@ Die in Anlage 10 genannten Untersuchungen sind nach den dort aufgeführten Unter
 
 # § 11a – Besondere Vorschriften für die Einfuhr
 
-(1) § 18 Absatz 1 der Lebensmitteleinfuhr-Verordnung gilt entsprechend für die Einfuhr von Bedarfsgegenständen mit der Maßgabe, dass an die Stelle
+(1) § 53 Absatz 1 Satz 1 des Lebensmittel- und Futtermittelgesetzbuches gilt unbeschadet des § 30 Nummer 1 und 2 des Lebensmittel- und Futtermittelgesetzbuches nicht für
 
-1. des Verbotes des § 5 Absatz 1 Satz 1 des Lebensmittel- und Futtermittelgesetzbuches das Verbot des § 30 Nummer 1 des Lebensmittel- und Futtermittelgesetzbuches und
+1. die Beförderung von Bedarfsgegenständen unter zollamtlicher Überwachung und Lagerung von Bedarfsgegenständen in Zolllagern oder Lagern in Freizonen,
 
-2. des Verbotes des Artikels 14 Absatz 2 Buchstabe a der Verordnung (EG) Nr. 178/2002 das Verbot des § 30 Nummer 2 des Lebensmittel- und Futtermittelgesetzbuches
+2. die Veredelung und Umwandlung von Bedarfsgegenständen, solange sich die Bedarfsgegenstände unter zollamtlicher Überwachung befinden,
 
-tritt.
+3. Bedarfsgegenstände, die für das Oberhaupt eines auswärtigen Staates oder seines Gefolges verbraucht werden und zum Gebrauch während seines Aufenthaltes im Geltungsbereich dieser Verordnung bestimmt sind,
 
-(2) Sendungen von Lebensmittelbedarfsgegenständen nach Artikel 1 in Verbindung mit Artikel 2 Buchstabe a der Verordnung (EU) Nr. 284/2011 der Kommission vom 22. März 2011 mit besonderen Bedingungen und detaillierten Verfahren für die Einfuhr von Polyamid- und Melamin-Kunststoffküchenartikeln, deren Ursprung oder Herkunft die Volksrepublik China oder die Sonderverwaltungsregion Hongkong, China, ist (ABl. L 77 vom 23.3.2011, S. 25) dürfen aus Drittländern nur über einen der benannten spezifischen Orte der ersten Einführung im Sinne des Artikels 5 der Verordnung (EU) Nr. 284/2011 eingeführt werden. Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit macht die Liste der benannten spezifischen Orte der ersten Einführung im Sinne des Artikels 5 der Verordnung (EU) Nr. 284/2011 im Bundesanzeiger und nachrichtlich auf seiner Internetseite bekannt.
+4. Bedarfsgegenstände, die für diplomatische oder konsularische Vertretungen bestimmt sind,
+
+5. Bedarfsgegenstände, die ausschließlich für wissenschaftliche Zwecke, für Messen, Ausstellungen oder ähnliche Veranstaltungen bestimmt sind,
+
+6. Bedarfsgegenstände, die als Reisebedarf verbracht werden, soweit es sich um Mengen handelt, für die Eingangsabgaben nicht zu erheben sind,
+
+7. Bedarfsgegenstände, die in Verkehrsmitteln mitgeführt werden und ausschließlich zum Gebrauch durch die durch diese Verkehrsmittel beförderten Personen bestimmt sind,
+
+8. Bedarfsgegenstände in privaten Geschenksendungen, soweit sie zum eigenen Gebrauch des Empfängers bestimmt sind, sowie Bedarfsgegenstände als Geschenke im öffentlichen Interesse,
+
+9. Bedarfsgegenständemuster und -proben in geringen Mengen,
+
+10. Bedarfsgegenstände als Übersiedlungsgut oder Heiratsgut in Mengen, die üblicherweise als Vorrat gehalten werden,
+
+11. Bedarfsgegenstände, die auf Seeschiffen zum Verbrauch auf hoher See bestimmt sind und an Bord des Schiffes verbraucht werden.
+
+(2) Sendungen von Lebensmittelbedarfsgegenständen nach Artikel 1 in Verbindung mit Artikel 2 Buchstabe a der Verordnung (EU) Nr. 284/2011 dürfen aus Drittländern nur über einen der benannten spezifischen Orte der ersten Einführung im Sinne des Artikels 5 der Verordnung (EU) Nr. 284/2011 eingeführt werden. Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit macht die Liste der benannten spezifischen Orte der ersten Einführung im Sinne des Artikels 5 der Verordnung (EU) Nr. 284/2011 im Bundesanzeiger und nachrichtlich auf seiner Internetseite bekannt.
 
 # § 12 – Straftaten und Ordnungswidrigkeiten
 
-(1) Nach § 58 Abs. 1 Nr. 18, Abs. 4 bis 6 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer vorsätzlich oder fahrlässig entgegen § 7 Bedarfsgegenstände verwendet.
-
-(2) Nach § 58 Abs. 1 Nr. 18, Abs. 4 bis 6 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer vorsätzlich oder fahrlässig
+(1) Nach § 58 Absatz 1 Nummer 18 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer
 
 1. entgegen § 3 bei dem Herstellen oder Behandeln der in Anlage 1 aufgeführten Bedarfsgegenstände dort genannte Stoffe verwendet,
 
@@ -306,27 +320,45 @@ b) in Anlage 2 aufgeführte Stoffe unter Nichteinhaltung der dort genannten Verw
 
 verwendet,
 
-3. entgegen § 4 Absatz 2 Satz 1 oder Absatz 5 Satz 1, 2 oder 4 einen dort genannten Stoff verwendet oder
+3. entgegen § 4 Absatz 2 Satz 1 oder Absatz 5 Satz 1, 2 oder 4 einen dort genannten Stoff verwendet,
 
-4. entgegen § 5 bei dem Herstellen der in Anlage 4 aufgeführten Bedarfsgegenstände dort genannte Verfahren anwendet.
+4. entgegen § 5 bei dem Herstellen der in Anlage 4 aufgeführten Bedarfsgegenstände dort genannte Verfahren anwendet,
 
-(2a) Nach § 58 Absatz 3 Nummer 2, Absatz 4 bis 6 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer
+5. entgegen § 7 Absatz 1 einen Lebensmittelbedarfsgegenstand verwendet oder
 
-1. gegen die Verordnung (EG) Nr. 1895/2005 der Kommission vom 18. November 2005 über die Beschränkung der Verwendung bestimmter Epoxyderivate in Materialien und Gegenständen, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (ABl. L 302 vom 19.11.2005, S. 28), verstößt, indem er vorsätzlich oder fahrlässig
+6. entgegen § 7 Absatz 2 eine Zellglasfolie nicht richtig verwendet.
+
+(2) Nach § 58 Absatz 3 Nummer 2 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer
+
+1. gegen die Verordnung (EG) Nr. 1895/2005 in der Fassung vom 18. November 2005 verstößt, indem er
 
 a) entgegen Artikel 3 bei der Herstellung der dort genannten Materialien oder Gegenstände BFDGE verwendet oder
 
 b) entgegen Artikel 4 bei der Herstellung der dort genannten Materialien oder Gegenstände NOGE verwendet oder
 
-2. gegen die Verordnung (EG) Nr. 450/2009 der Kommission vom 29. Mai 2009 über aktive und intelligente Materialien und Gegenstände, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (ABl. L 135 vom 30.5.2009, S. 3), verstößt, indem er vorsätzlich oder fahrlässig entgegen Artikel 5 Absatz 1 in Verbindung mit Absatz 2 Buchstabe c Ziffer i oder ii einen der dort genannten Stoffe benutzt.
+2. gegen die Verordnung (EG) Nr. 450/2009 in der Fassung vom 29. Mai 2009 verstößt, indem er entgegen Artikel 5 Absatz 1 in Verbindung mit Absatz 2 Buchstabe c Ziffer i oder ii einen der dort genannten Stoffe benutzt,
 
-(3) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer entgegen § 6 Satz 1 Bedarfsgegenstände in den Verkehr bringt, wenn sie dort genannte Stoffe über die festgesetzten Höchstmengen oder Restgehalte hinaus enthalten oder freisetzen.
+3. gegen die Verordnung (EU) 2022/1616 in der Fassung vom 21. Februar 2025 verstößt, indem er entgegen Artikel 4 Absatz 1 Materialien oder Gegenstände aus recyceltem Kunststoff in den Verkehr bringt, die die Anforderungen
 
-(3a) Nach § 59 Absatz 3 Nummer 1 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer entgegen Artikel 4 Buchstabe e in Verbindung mit Artikel 10 Absatz 1 der Verordnung (EG) Nr. 450/2009 Materialien und Gegenstände in Verkehr bringt.
+a) des Artikels 4 Absatz 2 in Verbindung mit Artikel 5 Absatz 1 oder Artikel 9 Absatz 1 Buchstabe c der Verordnung (EU) Nr. 10/2011 in der Fassung vom 21. Februar 2025, jeweils auch in Verbindung mit Artikel 13 Absatz 1 oder Artikel 14 Absatz 1 der Verordnung (EU) Nr. 10/2011 in der Fassung vom 21. Februar 2025, an die Zusammensetzung der Materialien und Gegenstände aus recyceltem Kunststoff,
 
-(4) Wer eine in Absatz 3 oder 3a bezeichnete Handlung fahrlässig begeht, handelt nach § 60 Abs. 1 des Lebensmittel- und Futtermittelgesetzbuches ordnungswidrig.
+b) des Artikels 4 Absatz 3 Buchstabe a an den Einsatz einer geeigneten Recyclingtechnologie,
 
-(5) Ordnungswidrig im Sinne des § 60 Abs. 2 Nr. 26 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen § 9 Bedarfsgegenstände in den Verkehr bringt, die nicht oder nicht in der vorgeschriebenen Weise mit Warnhinweisen versehen sind.
+c) des Artikels 4 Absatz 4 Buchstabe a an das Erfordernis der Zulassung des Recyclingverfahrens,
+
+d) des Artikels 4 Absatz 4 Buchstabe b in Verbindung mit Artikel 6 Absatz 1 an die Sammlung und Vorbehandlung von Kunststoffabfällen oder
+
+e) des Artikels 4 Absatz 4 Buchstabe b in Verbindung mit Artikel 7 Absatz 1 oder 2 Satz 1 an die Dekontaminierung des Kunststoff-Eingangsmaterials
+
+nicht erfüllen oder
+
+4. gegen die Verordnung (EU) 2024/3190 in der Fassung vom 19. Dezember 2024 verstößt, indem er entgegen Artikel 3 Absatz 1 Bisphenol A oder seine Salze verwendet oder die dort genannten Lebensmittelkontaktmaterialien oder -gegenstände in Verkehr bringt.
+
+(3) Nach § 59 Absatz 1 Nummer 21 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer entgegen § 6 Satz 1 Bedarfsgegenstände in den Verkehr bringt, wenn sie dort genannte Stoffe über die festgesetzten Höchstmengen oder Restgehalte hinaus enthalten oder freisetzen.
+
+(4) Nach § 59 Absatz 3 Nummer 1 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer entgegen Artikel 4 Buchstabe e in Verbindung mit Artikel 10 Absatz 1 der Verordnung (EG) Nr. 450/2009 in der Fassung vom 29. Mai 2009 Materialien und Gegenstände in Verkehr bringt.
+
+(5) Ordnungswidrig im Sinne des § 60 Absatz 2 Nummer 26 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen § 9 Bedarfsgegenstände in den Verkehr bringt, die nicht oder nicht in der vorgeschriebenen Weise mit Warnhinweisen versehen sind.
 
 (6) Ordnungswidrig im Sinne des § 60 Absatz 2 Nummer 26 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig
 
@@ -334,7 +366,7 @@ b) entgegen Artikel 4 bei der Herstellung der dort genannten Materialien oder Ge
 
 2. entgegen § 2a Absatz 3 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
-3. entgegen § 10 Absatz 1a Satz 1, auch in Verbindung mit Absatz 2, oder Absatz 2a Satz 1 oder Absatz 5 einen Lebensmittelbedarfsgegenstand oder dort genannte Materialien in den Verkehr bringt,
+3. entgegen § 10 Absatz 1a Satz 1, auch in Verbindung mit Absatz 2, oder entgegen § 10 Absatz 2a Satz 1, Absatz 5 oder 6 einen Lebensmittelbedarfsgegenstand oder dort genannte Materialien in den Verkehr bringt,
 
 4. entgegen § 10 Absatz 2 Satz 3 und 4 Nachweise nicht, nicht richtig oder nicht vollständig vorhält,
 
@@ -346,7 +378,7 @@ b) entgegen Artikel 4 bei der Herstellung der dort genannten Materialien oder Ge
 
 (7) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig
 
-1. gegen die Verordnung (EG) Nr. 1935/2004 des Europäischen Parlaments und des Rates vom 27. Oktober 2004 über Materialien und Gegenstände, die dazu bestimmt sind, mit Lebensmittel in Berührung zu kommen und zur Aufhebung der Richtlinien 80/590/EWG und 89/109/EWG (ABl. L 338 vom 13.11.2004, S. 4) verstößt, indem er
+1. gegen die Verordnung (EG) Nr. 1935/2004 in der Fassung vom 20. Juni 2019 verstößt, indem er
 
 a) entgegen Artikel 15 Absatz 1 in Verbindung mit Absatz 3 Materialien oder Gegenstände nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig kennzeichnet,
 
@@ -354,7 +386,7 @@ b) entgegen Artikel 17 Absatz 2 Satz 1 nicht über ein System oder Verfahren ver
 
 c) als Unternehmer entgegen Artikel 17 Absatz 2 Satz 2 eine Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt,
 
-2. gegen die Verordnung (EG) Nr. 2023/2006 der Kommission vom 22. Dezember 2006 über gute Herstellungspraxis für Materialien und Gegenstände, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (ABl. L 384 vom 29.12.2006, S. 75), die durch die Verordnung (EG) Nr. 282/2008 (ABl. L 86 vom 28.3.2008, S. 9) geändert worden ist, verstößt, indem er
+2. gegen die Verordnung (EG) Nr. 2023/2006 in der Fassung vom 21. Februar 2025 verstößt, indem er
 
 a) entgegen Artikel 4 Buchstabe b in Verbindung mit Anhang Buchstabe A nicht sicherstellt, dass die Fertigungsverfahren für die in Artikel 1 genannten Materialien und Gegenstände in Übereinstimmung mit den dort genannten ausführlichen Regeln für die gute Herstellungspraxis durchgeführt werden,
 
@@ -362,13 +394,23 @@ b) entgegen Artikel 7 Absatz 1 oder Absatz 2 eine dort genannte Unterlage nicht,
 
 c) entgegen Artikel 7 Absatz 3 die Dokumentation den zuständigen Behörden nicht oder nicht rechtzeitig zugänglich macht,
 
-3. gegen die Verordnung (EG) Nr. 450/2009 verstößt, indem er
+3. gegen die Verordnung (EG) Nr. 450/2009 in der Fassung vom 29. Mai 2009 verstößt, indem er
 
 a) entgegen Artikel 4 Buchstabe f in Verbindung mit Artikel 12 Absatz 1 und 2 Materialien und Gegenstände in Verkehr bringt oder
 
-b) entgegen Artikel 13 eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt oder
+b) entgegen Artikel 13 eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt,
 
-4. entgegen Artikel 4 Absatz 3 Satz 1 der Verordnung (EU) 2018/213 der Kommission vom 12. Februar 2018 über die Verwendung von Bisphenol A in Lacken und Beschichtungen, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen, und zur Änderung der Verordnung (EU) Nr. 10/2011 hinsichtlich der Verwendung dieses Stoffes in Lebensmittelkontaktmaterialien aus Kunststoff (ABl. L 41 vom 14.2.2018, S. 6) eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt.
+4. gegen die Verordnung (EU) 2022/1616 in der Fassung vom 21. Februar 2025 verstößt, indem er
+
+a) entgegen Artikel 9 Absatz 1 Unterabsatz 2 in Verbindung mit Unterabsatz 3 Satz 1 die zuständige Behörde nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig informiert,
+
+b) entgegen Artikel 10 Absatz 2 Unterabsatz 1 in Verbindung mit Unterabsatz 2 eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+
+c) als Entwickler entgegen Artikel 10 Absatz 3 Unterabsatz 3 Satz 1 eine dort genannte Information nicht zur Verfügung stellt oder
+
+d) entgegen Artikel 25 Absatz 1 Buchstabe a eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht oder
+
+5. als Unternehmer entgegen Artikel 8 Absatz 3 Satz 2 der Verordnung (EU) 2024/3190 in der Fassung vom 19. Dezember 2024 eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt.
 
 (+++ § 12 Abs. 2 Nr. 3: Zur Anwendung vgl. § 16 Abs. 16 +++)
 
@@ -424,9 +466,9 @@ kann weiterhin in Verkehr gebracht werden, soweit das Abfülldatum auf dem Leben
 
 (14) (weggefallen)
 
-(15) Bedruckte Lebensmittelbedarfsgegenstände, die nach den bis zum Ablauf des 31. Dezember 2025 geltenden Vorschriften in den Verkehr gebracht worden sind, dürfen auch nach diesem Datum noch bis zum Abbau der Bestände nach Maßgabe dieser Vorschriften in den Verkehr gebracht werden.
+(15) Bedruckte Lebensmittelbedarfsgegenstände, die nach den bis zum Ablauf des 31. Dezember 2026 geltenden Vorschriften in den Verkehr gebracht worden sind, dürfen auch nach diesem Datum noch bis zum Abbau der Bestände nach Maßgabe dieser Vorschriften in den Verkehr gebracht werden.
 
-(16) § 2 Satz 1 Nummer 7 bis 13, Satz 2 und 3, § 4 Absatz 5 bis 11, § 8 Absatz 5 bis 7 und § 12 Absatz 2 Nummer 3 sind erst ab dem 1. Januar 2026 anzuwenden.
+(16) § 2 Satz 1 Nummer 7 bis 13, Satz 2 und 3, § 4 Absatz 5 bis 11, § 8 Absatz 5 bis 7 und § 12 Absatz 2 Nummer 3 sind erst ab dem 1. Januar 2027 anzuwenden.
 
 (17) In § 4 Absatz 7 Satz 4 bezeichnete, unter Verwendung von in Anlage 14 Tabelle 2 genannten Pigmenten bedruckte Lebensmittelbedarfsgegenstände, die nach den bis zum Ablauf des 31. Dezember 2026 geltenden Vorschriften in den Verkehr gebracht worden sind, dürfen auch nach diesem Datum noch bis zum Abbau der Bestände nach Maßgabe dieser Vorschriften in den Verkehr gebracht werden.
 
@@ -1946,7 +1988,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Lfd. Nr. | Untersuchung                                                                                                                                                                                                                      | Verfahren                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | 1        | 2                                                                                                                                                                                                                                 | 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | 1\.      | (weggefallen)                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| 2\.      | Bestimmung der Höchstmengen von Blei und Cadmium, die von Lebensmittelbedarfsgegenständen aus Keramik auf Lebensmittel übergehen dürfen                                                                                           | Grundregeln und Analysenmethode, die in den Anhängen I und II der Richtlinie 84/500/EWG des Rates vom 15. Oktober 1984 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Keramikgegenstände, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (ABl. EG Nr. L 277 S. 12), geändert durch die Richtlinie 2005/31/EG der Kommission vom 29. April 2005 (ABl. EU Nr. L 110 S. 36), genannt sind.                                                                                                                                                                |
+| 2\.      | Bestimmung der Höchstmengen von Blei und Cadmium, die von Lebensmittelbedarfsgegenständen aus Keramik auf Lebensmittel übergehen dürfen                                                                                           | Grundregeln und Analysenmethode, die in den Anhängen I und II der Richtlinie 84/500/EWG in der Fassung vom 29. April 2005 genannt sind.                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | 3\.      | Bestimmung des Vinylchloridgehaltes bei Bedarfsgegenständen aus Vinylchloridpolymerisaten                                                                                                                                         | Analysenmethode, die in der Amtlichen Sammlung von Untersuchungsverfahren nach § 64 Abs. 1 des Lebensmittel- und Futtermittelgesetzbuches 1) unter der Gliederungsnummer B 80.32-1 (EG), Stand November 1981, veröffentlicht ist                                                                                                                                                                                                                                                                                                                                                          |
 | 4\.      | (weggefallen)                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | 5a.      | Referenzprüfverfahren zur Bestimmung der Nickellässigkeit bei Bedarfsgegenständen im Sinne der Anlage 5a Nr. 1 bis 3 dieser Verordnung                                                                                            | Analysenmethode, die in der Amtlichen Sammlung von Untersuchungsverfahren nach § 64 Abs. 1 des Lebensmittel- und Futtermittelgesetzbuches unter der Gliederungsnummer B 82.02 - 6 (DIN EN 1811), Stand Oktober 1999, veröffentlicht ist                                                                                                                                                                                                                                                                                                                                                   |
@@ -2043,10 +2085,7 @@ Textilien sind sämtliche Erzeugnisse, die in den Anwendungsbereich des Textilke
 
 # Anlage 12 – (weggefallen)
 
-# Anlage 13 – (zu § 4 Absatz 3 und 4)  Vorläufiges Verzeichnis der Additive
-
-(Fundstelle: BGBl. I 2009, 3135 - 3137;  
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+# Anlage 13 – (weggefallen)
 
 # Anlage 14
 

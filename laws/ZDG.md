@@ -7,21 +7,19 @@
 
 Im Zivildienst erfüllen anerkannte Kriegsdienstverweigerer Aufgaben, die dem Allgemeinwohl dienen, vorrangig im sozialen Bereich.
 
-# § 1a – Aussetzung der Verpflichtung zur Ableistung des Zivildienstes
+# § 1a – Anwendung dieses Gesetzes
 
-(1) Die Einberufungsanordnungen des Bundesministeriums für Familie, Senioren, Frauen und Jugend können vorsehen, dass Einberufungen außerhalb des Spannungs- oder Verteidigungsfalls nur auf Vorschlag des Zivildienstpflichtigen und nur für Dienstantritte bis zum 30. Juni 2011 erfolgen.
-
-(2) § 2 Absatz 2 sowie die §§ 2a und 23 gelten nur im Spannungs- oder Verteidigungsfall.
+§ 2 Absatz 2 sowie die §§ 2a und 23 gelten nur im Spannungs- oder Verteidigungsfall.
 
 # § 2 – Organisation des Zivildienstes
 
-(1) Dieses Gesetz wird, soweit es nichts anderes bestimmt, in bundeseigener Verwaltung ausgeführt. Hierzu wird eine selbstständige Bundesoberbehörde unter der Bezeichnung "Bundesamt für den Zivildienst" (Bundesamt) errichtet, die dem Bundesministerium für Familie, Senioren, Frauen und Jugend untersteht. Dem Bundesamt können auch andere Aufgaben aus dem Geschäftsbereich des Bundesministeriums für Familie, Senioren, Frauen und Jugend übertragen werden.
+(1) Dieses Gesetz wird, soweit es nichts anderes bestimmt, in bundeseigener Verwaltung durch das Bundesamt für Familie und zivilgesellschaftliche Aufgaben (Bundesamt) als selbstständige Bundesoberbehörde ausgeführt, die dem Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend untersteht. Dem Bundesamt können auch andere Aufgaben aus dem Geschäftsbereich des Bundesministeriums für Bildung, Familie, Senioren, Frauen und Jugend übertragen werden.
 
-(2) Auf Vorschlag der Bundesregierung wird im Bundesministerium für Familie, Senioren, Frauen und Jugend eine Bundesbeauftragte für den Zivildienst (Bundesbeauftragte) oder ein Bundesbeauftragter für den Zivildienst (Bundesbeauftragter) ernannt. Die oder der Bundesbeauftragte führt die dem Bundesministerium für Familie, Senioren, Frauen und Jugend auf dem Gebiet des Zivildienstes obliegenden Aufgaben durch, soweit dieses Gesetz nichts anderes bestimmt. Die oder der Bundesbeauftragte erstattet dem Deutschen Bundestag in jeder Legislaturperiode einen schriftlichen Tätigkeitsbericht (Zivildienstbericht).
+(2) Auf Vorschlag der Bundesregierung wird im Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend eine Bundesbeauftragte für den Zivildienst (Bundesbeauftragte) oder ein Bundesbeauftragter für den Zivildienst (Bundesbeauftragter) ernannt. Die oder der Bundesbeauftragte führt die dem Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend auf dem Gebiet des Zivildienstes obliegenden Aufgaben durch, soweit dieses Gesetz nichts anderes bestimmt. Die oder der Bundesbeauftragte erstattet dem Deutschen Bundestag in jeder Legislaturperiode einen schriftlichen Tätigkeitsbericht.
 
 # § 2a – Beirat für den Zivildienst
 
-(1) Bei dem Bundesministerium für Familie, Senioren, Frauen und Jugend wird ein Beirat für den Zivildienst gebildet. Der Beirat hat das Bundesministerium für Familie, Senioren, Frauen und Jugend in Fragen des Zivildienstes einschließlich der Frage, welche Aufgaben den Zivildienstpflichtigen (Dienstpflichtigen) außerhalb des sozialen Bereichs zugewiesen werden sollen, zu beraten.
+(1) Bei dem Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend wird ein Beirat für den Zivildienst gebildet. Der Beirat hat das Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend in Fragen des Zivildienstes einschließlich der Frage, welche Aufgaben den Zivildienstpflichtigen (Dienstpflichtigen) außerhalb des sozialen Bereichs zugewiesen werden sollen, zu beraten.
 
 (2) Dem Beirat gehören an:
 
@@ -37,9 +35,9 @@ Im Zivildienst erfüllen anerkannte Kriegsdienstverweigerer Aufgaben, die dem Al
 
 6. eine Vertreterin oder ein Vertreter der kommunalen Spitzenverbände.
 
-(3) Das Bundesministerium für Familie, Senioren, Frauen und Jugend beruft die Mitglieder des Beirates in der Regel für die Dauer von vier Jahren. Die in Absatz 2 genannten Stellen sollen hierzu Vorschläge machen. Die Dienstleistenden (Absatz 2 Nr. 1) sind für die Dauer ihrer Dienstzeit zu berufen. Für jedes Mitglied wird eine persönliche Stellvertretung berufen.
+(3) Das Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend beruft die Mitglieder des Beirates in der Regel für die Dauer von vier Jahren. Die in Absatz 2 genannten Stellen sollen hierzu Vorschläge machen. Die Dienstleistenden (Absatz 2 Nr. 1) sind für die Dauer ihrer Dienstzeit zu berufen. Für jedes Mitglied wird eine persönliche Stellvertretung berufen.
 
-(4) Die Sitzungen des Beirates werden vom Bundesministerium für Familie, Senioren, Frauen und Jugend nach Maßgabe einer von ihm zu erlassenden Geschäftsordnung einberufen und geleitet.
+(4) Die Sitzungen des Beirates werden vom Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend nach Maßgabe einer von ihm zu erlassenden Geschäftsordnung einberufen und geleitet.
 
 # § 3 – Dienststellen
 
@@ -57,13 +55,13 @@ Die Dienstpflichtigen leisten den Zivildienst in einer dafür anerkannten Besch�
 
 3. sie sich bereit erklärt, Dienstpflichtige, die den von ihr geforderten Eignungsvoraussetzungen entsprechen, ohne besondere Zustimmung zur Person des Dienstpflichtigen zu beschäftigen, sofern nicht die Beschäftigung wegen ihrer Eigenart an die Person des Dienstpflichtigen besondere, über die geforderten Voraussetzungen hinausgehende Anforderungen stellt, und
 
-4. sie sich bereit erklärt, Beauftragten des Bundesministeriums für Familie, Senioren, Frauen und Jugend und des Bundesamtes Einblick in die Gesamttätigkeit der Dienstleistenden und deren einzelne Aufgaben zu gewähren sowie den Bundesrechnungshof bei der Rechnungsprüfung verausgabter Bundesmittel uneingeschränkt zu unterstützen. Die Anerkennung wird für bestimmte Dienstplätze ausgesprochen. Sie kann mit Auflagen verbunden werden.
+4. sie sich bereit erklärt, Beauftragten des Bundesministeriums für Bildung, Familie, Senioren, Frauen und Jugend und des Bundesamtes Einblick in die Gesamttätigkeit der Dienstleistenden und deren einzelne Aufgaben zu gewähren sowie den Bundesrechnungshof bei der Rechnungsprüfung verausgabter Bundesmittel uneingeschränkt zu unterstützen. Die Anerkennung wird für bestimmte Dienstplätze ausgesprochen. Sie kann mit Auflagen verbunden werden.
 
 (2) Die Anerkennung ist zurückzunehmen oder zu widerrufen, wenn eine der in Absatz 1 genannten Voraussetzungen nicht vorgelegen hat oder nicht mehr vorliegt. Sie kann auch aus anderen wichtigen Gründen widerrufen werden, insbesondere, wenn eine Auflage nicht oder nicht innerhalb einer gesetzten Frist erfüllt worden ist.
 
 # § 5 – Aufstellung der Dienstgruppen
 
-Dienstgruppen werden auf Anordnung des Bundesministeriums für Familie, Senioren, Frauen und Jugend nach Bedarf aufgestellt. Das Bundesministerium für Familie, Senioren, Frauen und Jugend bestimmt ihren Sitz nach Anhörung des beteiligten Landes.
+Dienstgruppen werden auf Anordnung des Bundesministeriums für Bildung, Familie, Senioren, Frauen und Jugend nach Bedarf aufgestellt. Das Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend bestimmt ihren Sitz nach Anhörung des beteiligten Landes.
 
 # § 5a – Übertragung von Verwaltungsaufgaben
 
@@ -81,7 +79,7 @@ Die Verwaltungskosten können in angemessenem Umfang erstattet werden.
 
 (1) Die Beschäftigungsstellen sorgen auf ihre Kosten für Unterkunft, Verpflegung und Arbeitskleidung der Dienstleistenden. Sie tragen die ihnen aus der Beschäftigung der Dienstleistenden entstehenden Verwaltungskosten.
 
-(2) Die Beschäftigungsstellen zahlen für den Bund den Dienstleistenden die diesen zustehenden Geldbezüge. Den Beschäftigungsstellen werden der Aufwand für den Mobilitätszuschlag in voller Höhe und für die übrigen Geldbezüge in Höhe von 70 vom Hundert vierteljährlich nachträglich erstattet. Das Bundesministerium für Familie, Senioren, Frauen und Jugend legt im Einvernehmen mit dem Bundesministerium der Finanzen für die Erstattung einheitliche Pauschalbeträge fest.
+(2) Die Beschäftigungsstellen zahlen für den Bund den Dienstleistenden die diesen zustehenden Geldbezüge. Den Beschäftigungsstellen werden der Aufwand für den Mobilitätszuschlag in voller Höhe und für die übrigen Geldbezüge in Höhe von 70 vom Hundert vierteljährlich nachträglich erstattet. Das Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend legt im Einvernehmen mit dem Bundesministerium der Finanzen für die Erstattung einheitliche Pauschalbeträge fest.
 
 (3) Den Beschäftigungsstellen können Zuschüsse zur Entlastung vom Aufwand für Unterkunft, Verpflegung und Arbeitskleidung der Dienstleistenden gewährt werden, wenn und soweit dies erforderlich ist,
 
@@ -89,7 +87,7 @@ Die Verwaltungskosten können in angemessenem Umfang erstattet werden.
 
 2. um für den Zivildienst nach Art der Beschäftigung besonders geeignete Zivildienstplätze
 
-zu erhalten. Das Bundesministerium für Familie, Senioren, Frauen und Jugend erlässt zur Durchführung von Satz 1 im Einvernehmen mit dem Bundesministerium der Finanzen allgemeine Verwaltungsvorschriften zur Durchführung. Die Zuschüsse dürfen nur insoweit gewährt werden, als der Haushaltsplan hierfür Mittel zur Verfügung stellt.
+zu erhalten. Das Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend erlässt zur Durchführung von Satz 1 im Einvernehmen mit dem Bundesministerium der Finanzen allgemeine Verwaltungsvorschriften zur Durchführung. Die Zuschüsse dürfen nur insoweit gewährt werden, als der Haushaltsplan hierfür Mittel zur Verfügung stellt.
 
 # § 7 – Tauglichkeit
 
@@ -139,7 +137,7 @@ d) Entwicklungsdienst nach § 14a Abs. 1 dieses Gesetzes oder nach § 13b Abs. 1
 
 e) einen anderen Dienst im Ausland nach § 14b Abs. 1,
 
-f) einen freiwilligen Dienst nach dem Jugendfreiwilligendienstegesetz von mindestens sechs Monaten,
+f) einen Freiwilligendienst nach dem Jugendfreiwilligendienstegesetz oder dem Bundesfreiwilligendienstgesetz von mindestens sechs Monaten,
 
 g) ein freies Arbeitsverhältnis nach § 15a Abs. 1,
 
@@ -199,7 +197,7 @@ unterbrechen oder die Aufnahme einer rechtsverbindlich zugesagten oder vertragli
 
 # § 12 – Befreiungs- und Zurückstellungsanträge
 
-(1) Anträge nach § 10 Abs. 2 und nach § 11 Abs. 2, 4 und 6 dieses Gesetzes, die nicht gemäß § 20 des Wehrpflichtgesetzes frühestens nach Mitteilung der Erfassung durch die Erfassungsbehörde (§ 15 Abs. 1 Satz 2 des Wehrpflichtgesetzes) und spätestens bis zum Abschluss der Musterung schriftlich, elektronisch oder zur Niederschrift beim Kreiswehrersatzamt zu stellen waren, sind schriftlich, elektronisch oder zur Niederschrift des Bundesamtes zu stellen.
+(1) Anträge nach § 10 Absatz 2 und nach § 11 Absatz 2, 4 und 6, die nicht gemäß § 20 des Wehrpflichtgesetzes frühestens nach der Aufforderung nach § 15a Absatz 1 des Wehrpflichtgesetzes und spätestens bis zum Abschluss der Musterung beim Bundesamt für das Personalmanagement der Bundeswehr zu stellen waren, sind schriftlich oder zur Niederschrift beim Bundesamt zu stellen.
 
 (2) Anträgen nach § 10 Abs. 2 und nach § 11 Abs. 4 sind Beweisurkunden, die der Antragsteller besitzt oder ohne unverhältnismäßigen Aufwand beschaffen kann, beizufügen. Bei Anträgen nach § 11 Abs. 2 sind beizubringen
 
@@ -259,17 +257,13 @@ Die Träger sind verpflichtet, dem Bundesamt das Vorliegen sowie den Wegfall der
 
 Über die Anerkennung eines Trägers entscheidet auf dessen Antrag das Bundesministerium für Familie, Senioren, Frauen und Jugend im Einvernehmen mit dem Auswärtigen Amt. Es kann die Anerkennung auf bestimmte Vorhaben des Trägers beschränken. § 4 Abs. 1 Satz 3 und Abs. 2 gelten entsprechend.
 
-# § 14c – Freiwilliges Jahr
+# § 14c – Freiwilligendienst
 
-(1) Anerkannte Kriegsdienstverweigerer werden nicht zum Zivildienst herangezogen, wenn sie sich nach ihrer Anerkennung als Kriegsdienstverweigerer schriftlich zu einem freiwilligen Dienst nach dem Jugendfreiwilligendienstegesetz verpflichtet haben, der mindestens zwei Monate länger dauert als der Zivildienst, den sie sonst zu leisten hätten. Der Dienst ist spätestens ein Jahr nach der Verpflichtung sowie vor Vollendung des 23. Lebensjahres anzutreten. Die Verpflichtung ist gegenüber einem Träger zu übernehmen, der nach dem Jugendfreiwilligendienstegesetz zugelassen ist.
+(1) Anerkannte Kriegsdienstverweigerer werden nicht zum Zivildienst herangezogen, wenn sie sich nach ihrer Anerkennung als Kriegsdienstverweigerer schriftlich zu einem Freiwilligendienst nach dem Jugendfreiwilligendienstegesetz oder dem Bundesfreiwilligendienstgesetz verpflichtet haben, der mindestens zwei Monate länger dauert als der Zivildienst, den sie sonst zu leisten hätten. Der Dienst ist spätestens ein Jahr nach der Verpflichtung sowie vor Vollendung des 23. Lebensjahres anzutreten. Die Verpflichtung ist bei einem Freiwilligendienst nach dem Jugendfreiwilligendienstegesetz gegenüber einem Träger zu übernehmen, der nach dem Jugendfreiwilligendienstegesetz zugelassen ist, und bei einem Freiwilligendienst nach dem Bundesfreiwilligendienstgesetz gegenüber dem Bund vertreten durch das Bundesamt.
 
-(2) Die Träger nach Absatz 1 Satz 3 sind verpflichtet, dem Bundesamt das Vorliegen sowie den Wegfall der Voraussetzungen für die Nichtheranziehung von anerkannten Kriegsdienstverweigerern zum Zivildienst anzuzeigen.
+(2) Die in Absatz 1 Satz 3 Genannten sind verpflichtet, dem Bundesamt das Vorliegen sowie den Wegfall der Voraussetzungen für die Nichtheranziehung von anerkannten Kriegsdienstverweigerern zum Zivildienst anzuzeigen.
 
 (3) Weisen anerkannte Kriegsdienstverweigerer bis zur Vollendung des 24. Lebensjahres nach, dass sie Dienst gemäß Absatz 1 geleistet haben, so erlischt ihre Pflicht, Zivildienst zu leisten; das gilt nicht für den Zivildienst im Verteidigungsfall. Wird der Dienst vorzeitig beendet, so ist die im Dienst zurückgelegte Zeit, soweit sie zwei Monate übersteigt, auf den Zivildienst anzurechnen.
-
-(4) (weggefallen)
-
-(5) (weggefallen)
 
 # § 15 – Sondervorschriften für Angehörige des Polizeivollzugsdienstes
 
@@ -303,7 +297,7 @@ Anerkannten Kriegsdienstverweigerern werden die aus Anlass einer Prüfung ihrer 
 
 # § 19 – Einberufung
 
-(1) Die Dienstpflichtigen werden nach den Einberufungsanordnungen des Bundesministeriums für Familie, Senioren, Frauen und Jugend zum Zivildienst einberufen, sofern sie nicht nach Absatz 2 in ein Dienstverhältnis nach diesem Gesetz überführt werden. Wer aus dem Grundwehrdienst entlassen wird, weil er als Kriegsdienstverweigerer anerkannt ist, soll unverzüglich zum Zivildienst einberufen werden.
+(1) Die Dienstpflichtigen werden nach den Einberufungsanordnungen des Bundesministeriums für Bildung, Familie, Senioren, Frauen und Jugend zum Zivildienst einberufen, sofern sie nicht nach Absatz 2 in ein Dienstverhältnis nach diesem Gesetz überführt werden. Wer aus dem Grundwehrdienst entlassen wird, weil er als Kriegsdienstverweigerer anerkannt ist, soll unverzüglich zum Zivildienst einberufen werden.
 
 (2) Das Wehrdienstverhältnis kann durch schriftlichen Bescheid im Einvernehmen mit der vom Bundesministerium der Verteidigung bestimmten Stelle in ein Dienstverhältnis nach diesem Gesetz umgewandelt werden, wenn der Soldat als Kriegsdienstverweigerer anerkannt ist. Der Bescheid bestimmt den Zeitpunkt der Umwandlung sowie Ort und Zeitpunkt des Diensteintritts im Zivildienst. Der Dienstpflichtige hat sich entsprechend dem Umwandlungsbescheid zur Aufnahme des Zivildienstes zu melden.
 
@@ -355,9 +349,9 @@ keinen Dienst geleistet hat.
 
 # § 22a – Anrechnung von Wehr- und Zivildienst anderer Staaten
 
-(1) Das Bundesministerium für Familie, Senioren, Frauen und Jugend kann im Einzelfall außerhalb der Bundeswehr geleisteten Wehrdienst oder an Stelle des Wehrdienstes geleisteten anderen Dienst auf den Zivildienst nach diesem Gesetz ganz oder zum Teil anrechnen. Der Wehrdienst oder der an Stelle des Wehrdienstes geleistete andere Dienst soll angerechnet werden, wenn er auf Grund gesetzlicher Vorschriften geleistet worden ist; dies gilt auch, wenn das Bundesministerium der Verteidigung dem Dienst außerhalb der Bundeswehr zugestimmt hat.
+(1) Das Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend kann im Einzelfall außerhalb der Bundeswehr geleisteten Wehrdienst oder an Stelle des Wehrdienstes geleisteten anderen Dienst auf den Zivildienst nach diesem Gesetz ganz oder zum Teil anrechnen. Der Wehrdienst oder der an Stelle des Wehrdienstes geleistete andere Dienst soll angerechnet werden, wenn er auf Grund gesetzlicher Vorschriften geleistet worden ist; dies gilt auch, wenn das Bundesministerium der Verteidigung dem Dienst außerhalb der Bundeswehr zugestimmt hat.
 
-(2) Das Bundesministerium für Familie, Senioren, Frauen und Jugend kann die in Absatz 1 genannte Befugnis auf das Bundesamt für den Zivildienst übertragen. Anträge auf Anrechnung von Wehrdienst, der außerhalb der Bundeswehr geleistet worden ist, sowie von anderem Dienst, der an Stelle des Wehrdienstes geleistet worden ist, sind beim Bundesamt zu stellen, das zum Nachweis eine Versicherung des Dienstpflichtigen an Eides statt verlangen kann.
+(2) Das Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend kann die in Absatz 1 genannte Befugnis auf das Bundesamt übertragen. Anträge auf Anrechnung von Wehrdienst, der außerhalb der Bundeswehr geleistet worden ist, sowie von anderem Dienst, der an Stelle des Wehrdienstes geleistet worden ist, sind beim Bundesamt zu stellen, das zum Nachweis eine Versicherung des Dienstpflichtigen an Eides statt verlangen kann.
 
 # § 23 – Zivildienstüberwachung
 
@@ -375,9 +369,9 @@ Die anerkannten Kriegsdienstverweigerer haben Vorsorge zu treffen, dass Mitteilu
 
 (3) Die Wehrersatzbehörde teilt dem Bundesamt die ihr von den Meldebehörden nach § 24a des Wehrpflichtgesetzes übermittelten Daten der Personen, die nicht der Wehrüberwachung unterliegen, zum Zweck der Zivildienstüberwachung mit. Das Bundesamt löscht die Daten, die hierzu nicht erforderlich sind.
 
-(4) Während der Zivildienstüberwachung haben anerkannte Kriegsdienstverweigerer ferner eine Genehmigung des Bundesamtes einzuholen, wenn sie die Bundesrepublik Deutschland länger als drei Monate verlassen wollen, ohne dass die Voraussetzungen des § 1 Abs. 2 des Wehrpflichtgesetzes bereits vorliegen. Sie haben eine Genehmigung auch dann einzuholen, wenn sie über einen genehmigten Zeitraum hinaus außerhalb der Bundesrepublik Deutschland verbleiben wollen oder einen nicht genehmigungspflichtigen Aufenthalt außerhalb der Bundesrepublik Deutschland über drei Monate ausdehnen wollen. Die Genehmigung ist für den Zeitraum zu erteilen, in dem der anerkannte Kriegsdienstverweigerer für eine Einberufung zum Zivildienst nicht heransteht. Über diesen Zeitraum hinaus ist sie zu erteilen, soweit die Versagung für den anerkannten Kriegsdienstverweigerer eine besondere - im Verteidigungsfall eine unzumutbare - Härte bedeuten würde; § 13 Abs. 1 ist entsprechend anzuwenden. Das Bundesministerium für Familie, Senioren, Frauen und Jugend kann Ausnahmen von der Genehmigungspflicht zulassen.
+(4) Während der Zivildienstüberwachung haben anerkannte Kriegsdienstverweigerer ferner eine Genehmigung des Bundesamtes einzuholen, wenn sie die Bundesrepublik Deutschland länger als drei Monate verlassen wollen, ohne dass die Voraussetzungen des § 1 Abs. 2 des Wehrpflichtgesetzes bereits vorliegen. Sie haben eine Genehmigung auch dann einzuholen, wenn sie über einen genehmigten Zeitraum hinaus außerhalb der Bundesrepublik Deutschland verbleiben wollen oder einen nicht genehmigungspflichtigen Aufenthalt außerhalb der Bundesrepublik Deutschland über drei Monate ausdehnen wollen. Die Genehmigung ist für den Zeitraum zu erteilen, in dem der anerkannte Kriegsdienstverweigerer für eine Einberufung zum Zivildienst nicht heransteht. Über diesen Zeitraum hinaus ist sie zu erteilen, soweit die Versagung für den anerkannten Kriegsdienstverweigerer eine besondere - im Verteidigungsfall eine unzumutbare - Härte bedeuten würde; § 13 Abs. 1 ist entsprechend anzuwenden. Das Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend kann Ausnahmen von der Genehmigungspflicht zulassen.
 
-(5) Wenn anerkannte Kriegsdienstverweigerer Zivildienst von der in § 24 Abs. 2 Satz 1 bezeichneten Dauer geleistet haben, obliegen ihnen die in Absatz 2 Satz 2 Nr. 1 bis 3 genannten Pflichten nur, soweit dies das Bundesministerium für Familie, Senioren, Frauen und Jugend zur Sicherung des Zivildienstes im Verteidigungsfall anordnet.
+(5) Wenn anerkannte Kriegsdienstverweigerer Zivildienst von der in § 24 Abs. 2 Satz 1 bezeichneten Dauer geleistet haben, obliegen ihnen die in Absatz 2 Satz 2 Nr. 1 bis 3 genannten Pflichten nur, soweit dies das Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend zur Sicherung des Zivildienstes im Verteidigungsfall anordnet.
 
 (6) Von den in den Absätzen 2 und 4 bezeichneten Pflichten sind diejenigen anerkannten Kriegsdienstverweigerer befreit, die
 
@@ -465,7 +459,7 @@ teilzunehmen.
 
 teilzunehmen. Das Reflexionsangebot gemäß Satz 1 Nr. 2 kann einmalig als dreitägiges Seminar oder dienstbegleitend halb- oder ganztägig in regionalen Gruppen durchgeführt werden.
 
-(3) Mit der Durchführung der in Absatz 1 Satz 2 Nr. 2 genannten Seminare sowie der in Absatz 2 genannten Veranstaltungen können Beschäftigungsstellen und Verbände, denen Beschäftigungsstellen angehören, mit ihrem Einverständnis beauftragt werden. Werden Stellen der Länder beauftragt, handeln diese im Auftrag des Bundes. Die Kosten der Seminare können in angemessenem Umfang erstattet werden. Das Bundesministerium für Familie, Senioren, Frauen und Jugend kann einheitliche Erstattungssätze festsetzen.
+(3) Mit der Durchführung der in Absatz 1 Satz 2 Nr. 2 genannten Seminare sowie der in Absatz 2 genannten Veranstaltungen können Beschäftigungsstellen und Verbände, denen Beschäftigungsstellen angehören, mit ihrem Einverständnis beauftragt werden. Werden Stellen der Länder beauftragt, handeln diese im Auftrag des Bundes. Die Kosten der Seminare können in angemessenem Umfang erstattet werden. Das Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend kann einheitliche Erstattungssätze festsetzen.
 
 (4) Bei dem Seminar nach Absatz 1 Satz 2 Nr. 1 darf die Behandlung politischer Fragen nicht auf die Darlegung einer einseitigen Meinung beschränkt werden. Das Gesamtbild des Unterrichts ist so zu gestalten, dass die Dienstleistenden nicht zugunsten oder zuungunsten einer bestimmten politischen Richtung beeinflusst werden.
 
@@ -493,7 +487,7 @@ Der Dienstleistende hat die freiheitliche demokratische Grundordnung im Sinne de
 
 (1) Der Dienstpflichtige hat, auch nach seinem Ausscheiden aus dem Zivildienst, über die ihm bei seiner dienstlichen Tätigkeit bekannt gewordenen Angelegenheiten Verschwiegenheit zu bewahren. Dies gilt nicht für Mitteilungen im dienstlichen Verkehr oder über Tatsachen, die offenkundig sind oder ihrer Bedeutung nach keiner Geheimhaltung bedürfen.
 
-(2) Der Dienstpflichtige darf ohne Genehmigung über solche Angelegenheiten weder vor Gericht noch außergerichtlich aussagen oder Erklärungen abgeben. Die §§ 66 und 67 des Bundesbeamtengesetzes finden entsprechende Anwendung mit der Maßgabe, dass über die Versagung der Genehmigung das Bundesministerium für Familie, Senioren, Frauen und Jugend entscheidet.
+(2) Der Dienstpflichtige darf ohne Genehmigung über solche Angelegenheiten weder vor Gericht noch außergerichtlich aussagen oder Erklärungen abgeben. Die §§ 66 und 67 des Bundesbeamtengesetzes finden entsprechende Anwendung mit der Maßgabe, dass über die Versagung der Genehmigung das Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend entscheidet.
 
 (3) Unberührt bleibt die gesetzlich begründete Pflicht des Dienstpflichtigen, Straftaten anzuzeigen.
 
@@ -549,7 +543,7 @@ Während der Dauer eines Arbeitskampfes, durch den die Beschäftigungsstelle unm
 
 (1) Auf den Dienstpflichtigen finden, soweit dieses Gesetz nichts anderes bestimmt, in Fragen der Fürsorge, der Geld- und Sachbezüge, der Reisekosten sowie des Urlaubs die Bestimmungen entsprechende Anwendung, die für einen Soldaten des untersten Mannschaftsdienstgrades, der auf Grund der Wehrpflicht Wehrdienst leistet, gelten.
 
-(2) Einem Dienstleistenden kann nach einer Dienstzeit von drei Monaten der Sold der Soldgruppe 2 gewährt werden, wenn seine Eignung, Befähigung und Leistung dies rechtfertigen. Einem Dienstleistenden, der Sold nach Soldgruppe 2 erhält, kann nach einer Dienstzeit von sechs Monaten bei Eignung, Befähigung und Leistung der Sold der Soldgruppe 3 gewährt werden. Das Bundesministerium für Familie, Senioren, Frauen und Jugend erlässt im Einvernehmen mit dem Bundesministerium der Verteidigung und dem Bundesministerium der Finanzen Verwaltungsvorschriften zur Durchführung der Sätze 1 und 2.
+(2) Einem Dienstleistenden kann nach einer Dienstzeit von drei Monaten der Sold der Soldgruppe 2 gewährt werden, wenn seine Eignung, Befähigung und Leistung dies rechtfertigen. Einem Dienstleistenden, der Sold nach Soldgruppe 2 erhält, kann nach einer Dienstzeit von sechs Monaten bei Eignung, Befähigung und Leistung der Sold der Soldgruppe 3 gewährt werden. Das Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend erlässt im Einvernehmen mit dem Bundesministerium der Verteidigung und dem Bundesministerium der Finanzen Verwaltungsvorschriften zur Durchführung der Sätze 1 und 2.
 
 (3) Verträge mit Körperschaften und Verbänden der Heilberufe zur Sicherstellung der Heilfürsorge der Dienstleistenden sowie mit öffentlichen Eisenbahnen zur Stundung von Reisekosten schließt das zuständige Bundesministerium ab.
 
@@ -563,7 +557,7 @@ Während der Dauer eines Arbeitskampfes, durch den die Beschäftigungsstelle unm
 
 (8) Stirbt ein Dienstpflichtiger während des Dienstverhältnisses an den Folgen einer Zivildienstbeschädigung, so erhalten die Eltern oder Adoptiveltern, wenn sie mit dem Verstorbenen zur Zeit des Todes in häuslicher Gemeinschaft gelebt haben, ein Sterbegeld, dessen Höhe den Vorschriften für wehrpflichtige Soldaten entspricht. § 50 Abs. 5 findet entsprechende Anwendung.
 
-(9) In Angelegenheiten des § 35 Absatz 5 und 8 sind die §§ 60 bis 62 sowie die §§ 65 bis 67 des Ersten Buches Sozialgesetzbuch und das Zehnte Buch Sozialgesetzbuch entsprechend anzuwenden. Die Durchführung obliegt dem Bundesministerium für Familie, Senioren, Frauen und Jugend und der von diesem bestimmten Stelle.
+(9) In Angelegenheiten des § 35 Absatz 5 und 8 sind die §§ 60 bis 62 sowie die §§ 65 bis 67 des Ersten Buches Sozialgesetzbuch und das Zehnte Buch Sozialgesetzbuch entsprechend anzuwenden. Die Durchführung obliegt dem Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend und der von diesem bestimmten Stelle.
 
 (10) Bei Streitigkeiten in Angelegenheiten des § 35 Absatz 5 und 8 ist der Rechtsweg vor den Gerichten der Sozialgerichtsbarkeit gegeben.
 
@@ -579,7 +573,7 @@ Satz 5 gilt auch für die Verarbeitung von Personalaktendaten in Dateisystemen.
 
 (2) Personenbezogene Daten über Dienstpflichtige dürfen nur erhoben werden, soweit dies zur Begründung, Durchführung, Beendigung oder Abwicklung des Dienstverhältnisses oder zur Durchführung organisatorischer, personeller und sozialer Maßnahmen, insbesondere auch zu Zwecken der Personalplanung und des Personaleinsatzes, erforderlich ist oder eine Rechtsvorschrift dies erlaubt. Fragebogen, mit denen solche personenbezogenen Daten erhoben werden, bedürfen vom 1. Januar 1994 an der Genehmigung durch die zuständige oberste Dienstbehörde.
 
-(3) Zugang zur Personalakte dürfen nur Personen haben, die für Personalangelegenheiten zuständig sind, und nur soweit dies zu Zwecken der Durchführung dieses Gesetzes erforderlich ist, sowie Personen, die mit dem in Absatz 1 genannten Rücknahme- oder Widerrufsverfahren befasst sind, und nur soweit dies zu Zwecken dieser Verfahren erforderlich ist. Ohne Einwilligung des Dienstpflichtigen darf die Personalakte an andere Stellen und an Ärztinnen und Ärzte im Geschäftsbereich des Bundesministeriums für Familie, Senioren, Frauen und Jugend weitergegeben werden, soweit dies im Rahmen der Zweckbestimmung des Dienstverhältnisses erforderlich ist. Ärztinnen und Ärzten, die im Auftrag des Bundesamtes für den Zivildienst ein medizinisches Gutachten erstellen, darf die Personalakte ohne Einwilligung des Dienstpflichtigen vorgelegt werden. Für Auskünfte aus der Personalakte gelten die Sätze 1 bis 3 entsprechend. Soweit eine Auskunft ausreicht, ist von einer Weitergabe abzusehen. Auskünfte an eine dritte Person dürfen ohne besondere gesetzliche Regelung nur mit Einwilligung des Dienstpflichtigen erteilt werden, es sei denn, dass die Abwehr einer erheblichen Beeinträchtigung des Gemeinwohls oder der Schutz berechtigter, höherrangiger Interessen der dritten Person oder die Durchführung des in Absatz 1 genannten Rücknahme- oder Widerrufsverfahrens dies erfordern. Inhalt, Empfängerinnen und Empfänger der Auskunft sind dem Dienstpflichtigen schriftlich mitzuteilen. Eine Pflicht zur Benachrichtigung besteht nicht, wenn die um Auskunft ersuchende Stelle gegenüber dem Bundesamt erklärt, dass die Benachrichtigung die öffentliche Sicherheit und Ordnung gefährden oder das Gemeinwohl beeinträchtigen würde. Ein automatisierter Datenabruf durch andere Behörden ist unzulässig, soweit durch besondere Rechtsvorschrift nichts anderes bestimmt ist.
+(3) Zugang zur Personalakte dürfen nur Personen haben, die für Personalangelegenheiten zuständig sind, und nur soweit dies zu Zwecken der Durchführung dieses Gesetzes erforderlich ist, sowie Personen, die mit dem in Absatz 1 genannten Rücknahme- oder Widerrufsverfahren befasst sind, und nur soweit dies zu Zwecken dieser Verfahren erforderlich ist. Ohne Einwilligung des Dienstpflichtigen darf die Personalakte an andere Stellen und an Ärztinnen und Ärzte im Geschäftsbereich des Bundesministeriums für Bildung, Familie, Senioren, Frauen und Jugend weitergegeben werden, soweit dies im Rahmen der Zweckbestimmung des Dienstverhältnisses erforderlich ist. Ärztinnen und Ärzten, die im Auftrag des Bundesamtes ein medizinisches Gutachten erstellen, darf die Personalakte ohne Einwilligung des Dienstpflichtigen vorgelegt werden. Für Auskünfte aus der Personalakte gelten die Sätze 1 bis 3 entsprechend. Soweit eine Auskunft ausreicht, ist von einer Weitergabe abzusehen. Auskünfte an eine dritte Person dürfen ohne besondere gesetzliche Regelung nur mit Einwilligung des Dienstpflichtigen erteilt werden, es sei denn, dass die Abwehr einer erheblichen Beeinträchtigung des Gemeinwohls oder der Schutz berechtigter, höherrangiger Interessen der dritten Person oder die Durchführung des in Absatz 1 genannten Rücknahme- oder Widerrufsverfahrens dies erfordern. Inhalt, Empfängerinnen und Empfänger der Auskunft sind dem Dienstpflichtigen schriftlich mitzuteilen. Eine Pflicht zur Benachrichtigung besteht nicht, wenn die um Auskunft ersuchende Stelle gegenüber dem Bundesamt erklärt, dass die Benachrichtigung die öffentliche Sicherheit und Ordnung gefährden oder das Gemeinwohl beeinträchtigen würde. Ein automatisierter Datenabruf durch andere Behörden ist unzulässig, soweit durch besondere Rechtsvorschrift nichts anderes bestimmt ist.
 
 (4) Der Dienstpflichtige ist zu Beschwerden, Behauptungen und Bewertungen, die für ihn ungünstig sind oder ihm nachteilig werden können, sowie zu Werturteilen vor deren Aufnahme in die Personalakte zu hören. Seine Äußerung ist zur Personalakte zu nehmen. Die Vorgänge nach den Sätzen 1 und 2 sind auf Antrag des Dienstpflichtigen nach drei Jahren aus der Personalakte zu entfernen und zu vernichten, es sei denn, sie sind in eine dienstliche Beurteilung aufgenommen worden oder unterliegen nach anderen gesetzlichen Bestimmungen einer längeren Tilgungsfrist. Die Frist für die Entfernung wird regelmäßig durch Einleitung eines Straf- oder Disziplinarverfahrens gegen den Dienstpflichtigen unterbrochen.
 
@@ -591,7 +585,7 @@ Satz 5 gilt auch für die Verarbeitung von Personalaktendaten in Dateisystemen.
 
 (8) Bevollmächtigten des Dienstpflichtigen ist Auskunft aus der Personalakte zu erteilen, soweit dienstliche Gründe nicht entgegenstehen. Das Recht auf Auskunft umfasst auch das Recht auf Einsicht in die vollständige Personalakte. Entsprechendes gilt für Hinterbliebene des Dienstpflichtigen und für Bevollmächtigte der Hinterbliebenen, wenn ein berechtigtes Interesse glaubhaft gemacht wird.
 
-(9) Das Bundesministerium für Familie, Senioren, Frauen und Jugend bestimmt durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Einzelheiten über
+(9) Das Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend bestimmt durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Einzelheiten über
 
 1. die Anlage und Führung der Personalakte des Dienstpflichtigen, auch für die Zeit nach der Beendigung des Zivildienstverhältnisses,
 
@@ -637,15 +631,15 @@ b) eine Zivildienstbeschädigung erlitten hat;
 
 (1) Der Dienstleistende hat alles in seinen Kräften Stehende zu tun, um seine Gesundheit zu erhalten oder wiederherzustellen. Er darf diese nicht vorsätzlich oder grob fahrlässig beeinträchtigen.
 
-(2) Ärztliche Eingriffe in seine körperliche Unversehrtheit muss er nur dulden, wenn es sich um Maßnahmen handelt, die der Verhütung und Bekämpfung übertragbarer Krankheiten dienen. § 26 Abs. 2 Satz 3 des Infektionsschutzgesetzes vom 20. Juli 2000 (BGBl. I S. 1045) bleibt unberührt.
+(2) Ärztliche Eingriffe in seine körperliche Unversehrtheit muss er nur dulden, wenn es sich um Maßnahmen handelt, die der Verhütung und Bekämpfung übertragbarer Krankheiten dienen. § 25 Absatz 3 Satz 2 des Infektionsschutzgesetzes bleibt unberührt.
 
 (3) Lehnt der Dienstleistende eine zumutbare ärztliche Behandlung ab und wird dadurch seine Dienst- oder Erwerbsfähigkeit ungünstig beeinflusst, so kann ihm eine sonst zustehende Versorgung insoweit versagt werden. Nicht zumutbar ist eine ärztliche Behandlung, die mit einer erheblichen Gefahr für Leben oder Gesundheit des Dienstleistenden verbunden ist, eine Operation auch dann, wenn sie einen erheblichen Eingriff in die körperliche Unversehrtheit bedeutet.
 
 # § 41 – Anträge und Beschwerden
 
-(1) Der Dienstleistende kann Anträge und Beschwerden vorbringen; hierbei hat er den Dienstweg einzuhalten. Der Beschwerdeweg bis zum Bundesministerium für Familie, Senioren, Frauen und Jugend steht offen. Außerdem hat jeder Dienstleistende das Recht, sich unmittelbar an die Bundesbeauftragte oder den Bundesbeauftragten für den Zivildienst zu wenden. Wegen des Vorbringens einer Beschwerde nach Satz 1 oder Satz 3 darf der Dienstleistende nicht dienstlich gemaßregelt oder benachteiligt werden.
+(1) Der Dienstleistende kann Anträge und Beschwerden vorbringen; hierbei hat er den Dienstweg einzuhalten. Der Beschwerdeweg bis zum Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend steht offen. Außerdem hat jeder Dienstleistende das Recht, sich unmittelbar an die Bundesbeauftragte oder den Bundesbeauftragten für den Zivildienst zu wenden. Wegen des Vorbringens einer Beschwerde nach Satz 1 oder Satz 3 darf der Dienstleistende nicht dienstlich gemaßregelt oder benachteiligt werden.
 
-(2) Richtet sich die Beschwerde gegen die Leitung der Dienststelle, kann sie bei der Präsidentin oder dem Präsidenten des Bundesamtes, richtet sie sich gegen die Präsidentin oder den Präsidenten des Bundesamtes, kann sie beim Bundesministerium für Familie, Senioren, Frauen und Jugend unmittelbar eingereicht werden.
+(2) Richtet sich die Beschwerde gegen die Leitung der Dienststelle, kann sie bei der Präsidentin oder dem Präsidenten des Bundesamtes, richtet sie sich gegen die Präsidentin oder den Präsidenten des Bundesamtes, kann sie beim Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend unmittelbar eingereicht werden.
 
 (3) Gemeinschaftliche Beschwerden sind unzulässig.
 
@@ -729,7 +723,7 @@ Er kann auf Antrag der Dienststelle vorzeitig entlassen werden, wenn sich aus se
 
 (1) In Strafsachen gegen Zivildienstleistende gilt § 115 des Bundesbeamtengesetzes entsprechend.
 
-(2) Die Mitteilungen sind an das Bundesamt für den Zivildienst zu richten und als "Vertrauliche Personalsache" zu kennzeichnen.
+(2) Die Mitteilungen sind an das Bundesamt zu richten und als "Vertrauliche Personalsache" zu kennzeichnen.
 
 # § 46 – Dienstzeitbescheinigung und Dienstzeugnis
 
@@ -1015,11 +1009,11 @@ Die §§ 71 bis 76 finden keine Anwendung, soweit Verwaltungsakte von anderen al
 
 1. das Arbeitsplatzschutzgesetz mit der Maßgabe, dass
 
-a) in § 14a Absatz 2 an die Stelle des Bundesministeriums der Verteidigung und der von diesem bestimmten Stelle sowie in § 14c Absatz 1 an die Stelle des Bundesamtes für das Personalmanagement der Bundeswehr das Bundesministerium für Familie, Senioren, Frauen und Jugend und die von diesem bestimmte Stelle treten und
+a) in § 14a Absatz 2 an die Stelle des Bundesministeriums der Verteidigung und der von diesem bestimmten Stelle sowie in § 14c Absatz 1 an die Stelle des Bundesamtes für das Personalmanagement der Bundeswehr das Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend und die von diesem bestimmte Stelle treten und
 
 b) an die Stelle des Grundwehrdienstes der Zivildienst tritt;
 
-2. das Unterhaltssicherungsgesetz mit der Maßgabe, dass in § 24 an die Stelle des Bundesamtes für das Personalmanagement der Bundeswehr die vom Bundesministerium für Familie, Senioren, Frauen und Jugend bestimmte Stelle tritt.
+2. das Unterhaltssicherungsgesetz mit der Maßgabe, dass in § 24 an die Stelle des Bundesamtes für das Personalmanagement der Bundeswehr die vom Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend bestimmte Stelle tritt.
 
 (2) Soweit in diesem Gesetz nichts anderes bestimmt ist, stehen der Zivildienst und der freiwillige zusätzliche Zivildienst bei Anwendung der Vorschriften des öffentlichen Dienstrechts dem Grundwehrdienst nach Maßgabe des Wehrpflichtgesetzes gleich.
 

@@ -272,7 +272,7 @@ Die Mindeststeuer umfasst den Primärergänzungssteuerbetrag nach den §§ 8 bis
 
 (2) Steuerpflichtige Joint Ventures und ihre Tochtergesellschaften im Sinne des § 1 Absatz 2 gelten für Zwecke dieses Paragraphen als Geschäftseinheiten der Unternehmensgruppe, deren oberste Muttergesellschaft das Joint Venture im Konzernabschluss entsprechend § 67 Absatz 4 erfasst. Gilt ein Joint Venture als Geschäftseinheit zweier Unternehmensgruppen, ist dessen nationaler Ergänzungssteuerbetrag hälftig aufzuteilen.
 
-(3) Gruppenträger ist die oberste Muttergesellschaft, wenn sie im Inland belegen ist. Liegt kein Fall des Satzes 1 vor, ist die im Inland belegene Muttergesellschaft Gruppenträger, wenn sie gemeinsame Muttergesellschaft aller im Inland belegenen Geschäftseinheiten ist. In allen anderen Fällen hat die oberste Muttergesellschaft eine der nach § 1 steuerpflichtigen Geschäftseinheiten als Gruppenträger bis auf Widerruf zu bestimmen. Erfolgt keine Bestimmung des Gruppenträgers nach Satz 3, ist Gruppenträger die im Inland belegene wirtschaftlich bedeutendste Geschäftseinheit. Für die Anwendung der vorstehenden Sätze sind die Verhältnisse bei Ablauf des Besteuerungszeitraums für den gesamten Besteuerungszeitraum maßgeblich. Bei einem Wechsel des Gruppenträgers ändert sich die Steuerschuldnerschaft nach Absatz 1 Satz 3 für bereits abgelaufene Besteuerungszeiträume nicht. Scheidet die nach Satz 3 bestimmte Geschäftseinheit aus der Mindeststeuergruppe aus, gilt die Bestimmung für das laufende Kalenderjahr mit sofortiger Wirkung als widerrufen.
+(3) Gruppenträger ist die oberste Muttergesellschaft, wenn sie im Inland belegen ist. Liegt kein Fall des Satzes 1 vor, ist die im Inland belegene Muttergesellschaft Gruppenträger, wenn sie gemeinsame Muttergesellschaft aller im Inland belegenen Geschäftseinheiten ist. In allen anderen Fällen hat die oberste Muttergesellschaft eine der nach § 1 steuerpflichtigen Geschäftseinheiten als Gruppenträger bis auf Widerruf zu bestimmen; in den Fällen des § 68 bestimmen die obersten Muttergesellschaften den Gruppenträger. Erfolgt keine Bestimmung des Gruppenträgers nach Satz 3, ist Gruppenträger die im Inland belegene wirtschaftlich bedeutendste Geschäftseinheit. Für die Anwendung der vorstehenden Sätze sind die Verhältnisse bei Ablauf des Besteuerungszeitraums für den gesamten Besteuerungszeitraum maßgeblich. Bei einem Wechsel des Gruppenträgers ändert sich die Steuerschuldnerschaft nach Absatz 1 Satz 3 für bereits abgelaufene Besteuerungszeiträume nicht. Scheidet die nach Satz 3 bestimmte Geschäftseinheit aus der Mindeststeuergruppe aus, gilt die Bestimmung für das laufende Kalenderjahr mit sofortiger Wirkung als widerrufen.
 
 (4) Der Gruppenträger hat dem Bundeszentralamt für Steuern spätestens zwei Monate nach Ablauf des Besteuerungszeitraums, für den die Steuerpflicht nach diesem Gesetz besteht, seine Stellung als Gruppenträger nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle elektronisch mitzuteilen. Änderungen der Stellung als Gruppenträger einschließlich eines Widerrufs nach Absatz 3 Satz 3 sind durch den bisherigen Gruppenträger unverzüglich mitzuteilen; für den neuen Gruppenträger gilt Satz 1 entsprechend. Der Gruppenträger hat die übrigen Geschäftseinheiten, die nach Absatz 5 haften, über seine Stellung zu informieren. Das Bundeszentralamt für Steuern leitet die Information nach den Sätzen 1 und 2 den jeweils zuständigen Finanzbehörden der Länder zu.
 
@@ -404,7 +404,15 @@ Als ausgeschlossene Einheit gilt auch eine qualifizierte Tochtergesellschaft. Ei
 
 Der bereinigte Mindeststeuer-Gesamtgewinn kann auf der Grundlage eines vom zugelassenen Standardsetzer anerkannten Rechnungslegungsstandards oder eines zugelassenen Rechnungslegungsstandards, der zur Vermeidung erheblicher Vergleichbarkeitseinschränkungen angepasst wurde, anstatt des im Konzernabschluss verwendeten Rechnungslegungsstandards berechnet werden.
 
-(3) Anerkannte Primärergänzungssteuerregelung bezeichnet ein Regelwerk, das im nationalen Recht eines Steuerhoheitsgebiets umgesetzt und den in den GloBE-Mustervorschriften festgelegten Bestimmungen gleichwertig ist, wonach die Muttergesellschaft einer Unternehmensgruppe den ihr zuzurechnenden Anteil an der Ergänzungssteuer für die niedrig besteuerten Geschäftseinheiten dieser Unternehmensgruppe berechnet und entrichtet sowie in einer Weise verwaltet wird, die mit den Bestimmungen der GloBE-Mustervorschriften in Einklang steht.
+(3) Anerkannte Primärergänzungssteuerregelung bezeichnet ein Regelwerk, das
+
+1. im nationalen Recht eines Steuerhoheitsgebiets umgesetzt ist,
+
+2. den GloBE-Mustervorschriften gleichwertig ist, nach denen die Muttergesellschaft einer Unternehmensgruppe den ihr zuzurechnenden Anteil an der Ergänzungssteuer für die niedrig besteuerten Geschäftseinheiten dieser Unternehmensgruppe berechnet und entrichtet,
+
+3. in einer Weise verwaltet wird, die mit den GloBE-Mustervorschriften in Einklang steht, und
+
+4. keine im Zusammenhang mit diesem Regelwerk stehende Vorteile gewährt.
 
 (4) Anerkannte Rechnungslegungsstandards sind
 
@@ -414,7 +422,15 @@ Der bereinigte Mindeststeuer-Gesamtgewinn kann auf der Grundlage eines vom zugel
 
 3. die allgemein anerkannten Rechnungslegungsgrundsätze von Australien, Brasilien, den Mitgliedstaaten der Europäischen Union, den anderen Vertragsstaaten des Europäischen Wirtschaftsraums, von Hongkong (Volksrepublik China), Japan, Kanada, Mexiko, Neuseeland, der Republik Indien, der Republik Korea, von Russland, der Schweiz, von Singapur, dem Vereinigten Königreich, den Vereinigten Staaten von Amerika und der Volksrepublik China.
 
-(5) Anerkannte Sekundärergänzungssteuerregelung bezeichnet ein Regelwerk, das im nationalen Recht eines Steuerhoheitsgebiets umgesetzt und den in den GloBE-Mustervorschriften festgelegten Bestimmungen, wonach ein Steuerhoheitsgebiet seinen zuzurechnenden Anteil an der Ergänzungssteuer einer Unternehmensgruppe, welcher nicht nach der Primärergänzungssteuerregelung erhoben wurde, für die niedrig besteuerten Geschäftseinheiten der Unternehmensgruppe erhebt und in einer Weise verwaltet wird, die mit den Bestimmungen der GloBE-Mustervorschriften in Einklang steht.
+(5) Anerkannte Sekundärergänzungssteuerregelung bezeichnet ein Regelwerk, das
+
+1. im nationalen Recht eines Steuerhoheitsgebiets umgesetzt ist,
+
+2. den GloBE-Mustervorschriften gleichwertig ist, nach denen ein Steuerhoheitsgebiet seinen zuzurechnenden Anteil an der Ergänzungssteuer einer Unternehmensgruppe, welcher nicht nach der Primärergänzungssteuerregelung erhoben wurde, für die niedrig besteuerten Geschäftseinheiten der Unternehmensgruppe erhebt,
+
+3. in einer Weise verwaltet wird, die mit den GloBE-Mustervorschriften in Einklang steht, und
+
+4. keine im Zusammenhang mit diesem Regelwerk stehende Vorteile gewährt.
 
 (6) Beizulegender Zeitwert ist der Preis, der in einem gewöhnlichen Geschäftsvorfall zwischen Marktteilnehmern am Bewertungsstichtag für den Verkauf eines Vermögenswerts erzielt oder für die Übertragung einer Schuld gezahlt würde.
 
@@ -452,7 +468,7 @@ Der bereinigte Mindeststeuer-Gesamtgewinn kann auf der Grundlage eines vom zugel
 
 2. eine Einheit, die zu mindestens 95 Prozent unmittelbar von einer in Nummer 1 genannten Einheit oder über eine Kette solcher Einheiten gehalten wird und die ausschließlich oder fast ausschließlich Vermögenswerte hält oder Gelder zugunsten dieser Investmenteinheiten investiert, oder
 
-3. eine Einheit, bei der mindestens 85 Prozent des Werts dieser Einheit im Eigentum einer in Nummer 1 genannten Einheit stehen, wenn die Erträge dieser Einheit im Wesentlichen bei der Berechnung des Mindeststeuer-Gewinns oder Mindesteuer-Verlusts nach § 18 Nummer 2 in Verbindung mit § 20 oder nach § 18 Nummer 3 in Verbindung mit § 21 ausgenommen werden.
+3. eine Einheit, bei der mindestens 85 Prozent des Werts dieser Einheit im Eigentum einer in Nummer 1 genannten Einheit stehen, wenn die Erträge dieser Einheit im Wesentlichen bei der Berechnung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts nach § 18 Nummer 2 in Verbindung mit § 20 oder nach § 18 Nummer 3 in Verbindung mit § 21 ausgenommen werden.
 
 (19) Investmentvehikel ist eine Einheit,
 
@@ -466,11 +482,11 @@ Der bereinigte Mindeststeuer-Gesamtgewinn kann auf der Grundlage eines vom zugel
 
 5. deren Anleger einen Anspruch auf Erträge aus den Vermögenswerten des Investmentvehikels oder auf Erträge aus diesen Vermögenswerten auf der Grundlage der von diesen Anlegern geleisteten Beiträge haben,
 
-6. die einer aufsichtsrechtlichen Regelung einschließlich ausreichender Vorschriften zur Bekämpfung der Geldwäsche und zum Anlegerschutz in dem Steuerhoheitsgebiet, in dem sie errichtet ist oder verwaltet wird, unterliegt und
+6. die oder deren Geschäftsleitung einer aufsichtsrechtlichen Regelung einschließlich ausreichender Vorschriften zur Bekämpfung der Geldwäsche und zum Anlegerschutz in dem Steuerhoheitsgebiet, in dem sie errichtet ist oder verwaltet wird, unterliegt und
 
 7. die von professionellen Verwaltern im Auftrag der Anleger verwaltet wird.
 
-(20) Kontrollbeteiligung ist eine Beteiligung an einer Einheit, die dazu führt, dass der Halter dieser Beteiligung verpflichtet ist oder bei Aufstellung eines Konzernabschlusses verpflichtet wäre, die Vermögenswerte, Verbindlichkeiten, Erträge, Aufwendungen und Zahlungsströme der Einheit nach einem anerkannten Rechnungslegungsstandard zu konsolidieren. Bei einem Stammhaus wird unterstellt, dass es als gruppenzugehöriger Gesellschafter die Kontrollbeteiligungen an seinen Betriebsstätten hält.
+(20) Kontrollbeteiligung ist eine Eigenkapitalbeteiligung an einer Einheit, die dazu führt, dass der Halter dieser Eigenkapitalbeteiligung verpflichtet ist oder bei Aufstellung eines Konzernabschlusses verpflichtet wäre, die Vermögenswerte, Verbindlichkeiten, Erträge, Aufwendungen und Zahlungsströme der Einheit nach einem anerkannten Rechnungslegungsstandard zu konsolidieren. Bei einem Stammhaus wird unterstellt, dass es als gruppenzugehöriger Gesellschafter die Kontrollbeteiligungen an seinen Betriebsstätten hält.
 
 (21) Konzernabschluss ist
 
@@ -480,9 +496,13 @@ Der bereinigte Mindeststeuer-Gesamtgewinn kann auf der Grundlage eines vom zugel
 
 3. der von der obersten Muttergesellschaft nach einem anderen zugelassenen Rechnungslegungsstandard aufgestellte und mit Nummer 1 oder 2 vergleichbare Abschluss, sofern dieser zur Vermeidung erheblicher Vergleichbarkeitseinschränkungen angepasst wurde, und
 
-4. wenn die oberste Muttergesellschaft keinen in den vorstehenden Nummern beschriebenen Abschluss aufstellt, der Abschluss, der nach einem zugelassenen Rechnungslegungsstandard aufgestellt worden wäre, wenn die oberste Muttergesellschaft hierzu verpflichtet gewesen wäre; der zugelassene Rechnungslegungsstandard kann entweder ein anerkannter Rechnungslegungsstandard oder ein anderer zugelassener Rechnungslegungsstandard sein, der zur Vermeidung erheblicher Wettbewerbsverzerrungen angepasst wurde.
+4. wenn die oberste Muttergesellschaft keinen in den vorstehenden Nummern beschriebenen Abschluss aufstellt, der Abschluss, der nach einem zugelassenen Rechnungslegungsstandard aufgestellt worden wäre, wenn die oberste Muttergesellschaft hierzu verpflichtet gewesen wäre; der zugelassene Rechnungslegungsstandard kann entweder ein anerkannter Rechnungslegungsstandard oder ein anderer zugelassener Rechnungslegungsstandard sein, der zur Vermeidung erheblicher Vergleichbarkeitseinschränkungen angepasst wurde.
 
-(22) Niedrig besteuerte Geschäftseinheit ist eine Geschäftseinheit, die in einem Niedrigsteuerhoheitsgebiet belegen oder staatenlos ist, in einem Geschäftsjahr einen Mindeststeuer-Gewinn verzeichnet und in diesem Geschäftsjahr einem nach Teil 5 dieses Gesetzes ermittelten effektiven Steuersatz unterliegt, der unter dem Mindeststeuersatz liegt.
+(22) Niedrig besteuerte Geschäftseinheit ist eine
+
+1. Geschäftseinheit, die in einem Niedrigsteuerhoheitsgebiet belegen ist, oder
+
+2. staatenlose Geschäftseinheit, die in einem Geschäftsjahr einen Mindeststeuer-Gewinn erzielt und in diesem Geschäftsjahr einem nach Teil 5 dieses Gesetzes ermittelten effektiven Steuersatz unterliegt, der unter dem Mindeststeuersatz liegt.
 
 (23) Niedrigsteuerhoheitsgebiet ist ein Steuerhoheitsgebiet, in dem eine multinationale Unternehmensgruppe einen Mindeststeuer-Gesamtgewinn erzielt und im betreffenden Geschäftsjahr einem nach Teil 5 dieses Gesetzes ermittelten effektiven Steuersatz unterliegt, der unter dem Mindeststeuersatz liegt.
 
@@ -544,27 +564,67 @@ aber nur, soweit ein gruppenzugehöriger Gesellschafter mit diesen Erträgen der
 
 (31) Steuerhoheitsgebiet ist ein Gebiet, das fiskalisch autonom ist, unabhängig davon, ob es völkerrechtlich als Staat anerkannt ist.
 
-(32) Eine Einheit gilt als transparente Einheit, soweit sie in Bezug auf ihre Erträge, Aufwendungen, Gewinne oder Verluste im Steuerhoheitsgebiet ihrer Gründung steuerlich transparent ist, es sei denn, sie ist in einem anderen Steuerhoheitsgebiet steuerlich belegen und unterliegt dort in Bezug auf ihre Erträge oder Gewinne einer erfassten Steuer. Eine transparente Einheit gilt in Bezug auf ihre Erträge, Aufwendungen, Gewinne oder Verluste
+(32) Transparente Einheit ist eine Einheit, soweit sie im Steuerhoheitsgebiet ihrer Gründung für steuerliche Zwecke transparent ist, es sei denn, sie ist in einem anderen Steuerhoheitsgebiet steuerlich belegen und unterliegt dort in Bezug auf ihre Erträge oder Gewinne einer erfassten Steuer. Eine Einheit wird steuerlich transparent behandelt, wenn die Erträge, Aufwendungen, Gewinne oder Verluste dieser Einheit nach dem Recht eines Steuerhoheitsgebiets so behandelt werden, als seien sie dem Gesellschafter der Einheit im Verhältnis zu dessen Kapitalbeteiligung an dieser Einheit entstanden. Eine transparente Einheit (getestete Einheit) gilt als
 
-1. als steuertransparente Einheit, soweit sie im Belegenheitsstaat des Gesellschafters steuerlich transparent ist, oder
+1. steuertransparente Einheit, soweit
 
-2. als umgekehrt hybride Einheit, soweit sie im Belegenheitsstaat des Gesellschafters nicht steuerlich transparent ist.
+a) sie und
 
-Eine Einheit wird steuerlich transparent behandelt, wenn die Erträge, Aufwendungen, Gewinne oder Verluste dieser Einheit nach dem Recht eines Steuerhoheitsgebiets so behandelt werden, als seien sie dem unmittelbaren Gesellschafter der Einheit im Verhältnis zu dessen Kapitalbeteiligung an dieser Einheit entstanden. Es liegt eine steuertransparente Struktur vor, wenn eine Kapitalbeteiligung an einer Einheit oder einer Betriebsstätte, bei der es sich um eine gruppenzugehörige Geschäftseinheit handelt, mittelbar über eine Kette von steuertransparenten Geschäftseinheiten gehalten wird. Eine Einheit, die nicht aufgrund des Orts ihrer Geschäftsleitung, ihres Gründungsorts oder ähnlicher Kriterien steuerlich belegen ist und keiner erfassten Steuer oder keiner anerkannten nationalen Ergänzungssteuerregelung unterliegt, wird in Bezug auf ihre Erträge, Aufwendungen, Gewinne oder Verluste als transparente Einheit und als steuertransparente Einheit behandelt, soweit
+b) bei mittelbarer Beteiligung jede dazwischengeschaltete Einheit
+
+nach dem Recht des Belegenheitsstaats ihrer Referenzeinheit steuerlich transparent behandelt wird, oder
+
+2. umgekehrt hybride Einheit, soweit
+
+a) sie oder
+
+b) bei mittelbarer Beteiligung sie oder eine dazwischengeschaltete Einheit
+
+nach dem Recht des Belegenheitsstaats ihrer Referenzeinheit nicht steuerlich transparent behandelt wird.
+
+Referenzeinheit ist die Geschäftseinheit, die am nächsten in der Beteiligungskette an der getesteten Einheit beteiligt ist und die entweder
+
+1. selbst keine transparente Einheit ist oder
+
+2. wenn es keine solche Geschäftseinheit gibt, eine transparente Einheit ist, die selbst die oberste Muttergesellschaft der Unternehmensgruppe ist.
+
+Eine steuertransparente Struktur liegt vor, wenn eine Eigenkapitalbeteiligung an einer Geschäftseinheit über eine Kette von steuertransparenten Einheiten gehalten wird. Transparente Einheit und steuertransparente Einheit ist auch eine Geschäftseinheit, die nicht aufgrund des Orts ihrer Geschäftsleitung, ihres Gründungsorts oder vergleichbarer Kriterien steuerlich belegen ist und keiner erfassten Steuer oder keiner anerkannten nationalen Ergänzungssteuer unterliegt, soweit
 
 1. ihre Gesellschafter in einem Steuerhoheitsgebiet belegen sind, das die Einheit als steuerlich transparent behandelt,
 
-2. sie keine Geschäftseinrichtung im Steuerhoheitsgebiet ihrer Gründung hat und
+2. sie keine Geschäftsleitung im Steuerhoheitsgebiet ihrer Gründung hat und
 
 3. die Erträge, Aufwendungen, Gewinne oder Verluste nicht einer Betriebsstätte zuzurechnen sind.
 
-Eine Einheit, die für ertragsteuerliche Zwecke im Belegenheitsstaat als selbstständige steuerpflichtige Person behandelt wird, gilt in Bezug auf ihre Erträge, Aufwendungen, Gewinne oder Verluste als hybride Einheit, soweit sie im Belegenheitsstaat des Gesellschafters steuerlich transparent ist.
+Eine Einheit, die keine transparente Einheit ist, gilt als hybride Einheit, soweit sie im Belegenheitsstaat des unmittelbaren oder mittelbaren Gesellschafters als steuerlich transparent behandelt wird.
 
 (33) Unzulässige erstattungsfähige Anrechnungssteuer ist jeder Steuerbetrag, bei dem es sich nicht um eine zulässige Anrechnungssteuer handelt, der von einer Geschäftseinheit noch zu entrichten ist oder bereits entrichtet wurde und der
 
 1. dem wirtschaftlichen Eigentümer einer von einer solchen Geschäftseinheit ausgeschütteten Dividende in Bezug auf diese Dividende erstattet werden kann oder vom wirtschaftlichen Eigentümer auf eine andere Steuerschuld als die Steuerschuld in Bezug auf diese Dividende angerechnet werden kann oder
 
 2. dem ausschüttenden Unternehmen bei Ausschüttung einer Dividende erstattet werden kann.
+
+(33a) Eine Verbriefungsvereinbarung ist eine Vereinbarung, die
+
+1. Vermögenswerte oder Risiken aus Vermögenswerten für Anleger, die keine Geschäftseinheiten der Unternehmensgruppe sind, so bündelt und strukturiert, dass eine oder mehrere Tranchen von Vermögenswerten rechtlich getrennt sind, und
+
+2. dazu dient, das Insolvenzrisiko der Verbriefungszweckeinheit für die Anleger zu begrenzen, indem bestimmte Gläubiger der Verbriefungszweckeinheit oder einer anderen Verbriefungszweckeinheit der Verbriefungsvereinbarung durch vertragliche Vereinbarungen daran gehindert werden, Ansprüche gegenüber der Verbriefungszweckeinheit zu erheben.
+
+(33b) Verbriefungszweckeinheit ist eine Einheit, die an einer Verbriefungsvereinbarung beteiligt ist und die
+
+1. ausschließlich Tätigkeiten zur Durchführung einer oder mehrerer Verbriefungsvereinbarungen ausübt,
+
+2. ihren Gläubigern oder den Gläubigern einer anderen Verbriefungszweckeinheit Sicherheiten an ihren Vermögenswerten gewährt und
+
+3. alle in Bezug auf ihre Vermögenswerte erhaltenen finanziellen Mittel jährlich oder häufiger an ihre Gläubiger oder die Gläubiger einer anderen Verbriefungszweckeinheit auskehrt; hiervon ausgenommen sind finanzielle Mittel, die gemäß Verbriefungsvereinbarung einzubehalten sind, um
+
+a) einen festgelegten Gewinn zu erzielen, der an die Gesellschafter oder Berechtigen der Verbriefungszweckeinheit oder hiermit vergleichbare Personen ausgeschüttet werden soll,
+
+b) Rückstellungen für künftige Zahlungsverpflichtungen in angemessener Höhe zu unterlegen oder
+
+c) die Kreditwürdigkeit der Verbriefungszweckeinheit in angemessener Weise zu verbessern oder aufrechtzuerhalten.
+
+Eine Einheit ist für Zwecke dieses Gesetzes keine Verbriefungszweckeinheit, wenn der in Satz 1 Nummer 3 Buchstabe a genannte Gewinn für ein bestimmtes Geschäftsjahr im Verhältnis zum Umsatz der Einheit unwesentlich ist.
 
 (34) Versicherungsinvestmenteinheit ist eine Einheit, die die Voraussetzungen nach Absatz 15 oder Absatz 19 erfüllt, im Zusammenhang mit Schulden im Rahmen eines Versicherungs- oder Rentenversicherungsvertrags errichtet wurde und vollständig im Besitz eines den aufsichtsrechtlichen Bestimmungen des Belegenheitsstaats unterliegenden Versicherungsunternehmens steht.
 
@@ -644,7 +704,7 @@ Der für eine niedrig besteuerte Geschäftseinheit nach Satz 3 berechnete Steuer
 ![Die Formel ist zweigeteilt als Addition: Anzahl der Beschäftigten im Inland geteilt durch die Anzahl der Beschäftigten in allen Steuerhoheitsgebieten mit anerkannter Sekundärergänzungssteuerregelung, alles multipliziert mit 50 % plus Gesamtwert der materiellen Vermögenswerte im Inland geteilt durch den Gesamtwert der materiellen Vermögenswerte in allen Steuerhoheitsgebieten mit anerkannter Sekundärergänzungssteuerregelung, alles multipliziert mit 50 %](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j03970_0030.jpg)  
 Für die Zwecke dieses Paragraphen gelten die folgenden Begriffsbestimmungen:
 
-1. „Anzahl der Beschäftigten im Inland“ ist die Gesamtzahl der Beschäftigten aller im Inland belegenen Geschäftseinheiten der Unternehmensgruppe ist.
+1. „Anzahl der Beschäftigten im Inland“ ist die Gesamtzahl der Beschäftigten aller im Inland belegenen Geschäftseinheiten der Unternehmensgruppe.
 
 2. „Anzahl der Beschäftigten in allen Steuerhoheitsgebieten mit anerkannter Sekundärergänzungssteuerregelung“ ist die Gesamtzahl der Beschäftigten aller Geschäftseinheiten der Unternehmensgruppe, die in einem Steuerhoheitsgebiet belegen sind, in dem für das Geschäftsjahr eine anerkannte Sekundärergänzungssteuerregelung anzuwenden ist.
 
@@ -680,7 +740,7 @@ Bei der Ermittlung der Inlandsquote nach § 12 Absatz 1 Satz 2 der Unternehmensg
 
 2. die im Jahresabschluss enthaltenen Informationen ordnungsgemäß sind und
 
-3. permanente Differenzen, sofern sie aggregiert mehr als 1 Million Euro betragen und aus den verwendeten Bilanzierungs- und Bewertungsvorschriften bestimmter Ertrags- oder Aufwandspositionen oder Transaktionen des Rechnungslegungsstandstandards der Geschäftseinheit resultieren, so angepasst werden, dass sie den Bilanzierungs- und Bewertungsvorschriften der obersten Muttergesellschaft entsprechen.
+3. permanente Differenzen, sofern sie aggregiert mehr als 1 Million Euro betragen und aus den verwendeten Bilanzierungs- und Bewertungsvorschriften bestimmter Ertrags- oder Aufwandspositionen oder Transaktionen des Rechnungslegungsstandards der Geschäftseinheit resultieren, so angepasst werden, dass sie den Bilanzierungs- und Bewertungsvorschriften der obersten Muttergesellschaft entsprechen.
 
 # § 16 – Betragsmäßige und fremdvergleichskonforme Anpassungen
 
@@ -730,9 +790,7 @@ Der Mindeststeuer-Jahresüberschuss oder Mindeststeuer-Jahresfehlbetrag wird
 
 13. vermehrt oder vermindert um Beträge, die nach den §§ 42 und 43 zuzuordnen sind,
 
-14. vermehrt um Gewinne oder vermindert um Verluste aus der Übertragung von Vermögenswerten oder Schulden (§ 66); Nummer 3 bleibt davon unberührt, und
-
-15. vermehrt oder vermindert um sonstige Anpassungen nach den Teilen 6 und 7 (§§ 64, 65, 67, 69 bis 74).
+14. vermehrt oder vermindert um Anpassungen nach den Teilen 6 und 7 (§§ 64 bis 67 und 69 bis 74).
 
 (+++ § 18 Nummer 8: Zur Nichtanwendung vgl. § 24 Abs. 2 +++)
 
@@ -808,25 +866,25 @@ Korrekturposten Pensionsaufwand ist der Unterschiedsbetrag zwischen dem Betrag d
 
 (1) Aufwendungen aus gruppeninternen Finanzierungsvereinbarungen werden für Zwecke der Ermittlung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts einer Geschäftseinheit nicht berücksichtigt. Dies gilt nur, wenn während der erwarteten Laufzeit dieser Vereinbarung nach vernünftigem kaufmännischem Ermessen davon auszugehen ist, dass die den Aufwendungen entsprechenden Erträge beim hochbesteuerten Gläubiger zu keiner entsprechenden Erhöhung des steuerlichen Gewinns führen.
 
-(2) Eine gruppeninterne Finanzierungsvereinbarung ist jede Vereinbarung zwischen zwei oder mehr Geschäftseinheiten derselben Unternehmensgruppe im Rahmen derer ein hochbesteuerter Gläubiger einer Geschäftseinheit in einem Niedrigsteuerhoheitsgebiet unmittelbar oder mittelbar Kapital überlässt. Ein hochbesteuerter Gläubiger ist eine Geschäftseinheit, die in keinem Niedrigsteuerhoheitsgebiet belegen ist. Für Zwecke der Bestimmung eines Niedrigsteuerhoheitsgebiets sind alle Erträge oder Aufwendungen aus der gruppeninternen Finanzierungsvereinbarung bei der Ermittlung des effektiven Steuersatzes dieses Steuerhoheitsgebiets außer Acht zu lassen.
+(2) Eine gruppeninterne Finanzierungsvereinbarung ist jede Vereinbarung zwischen zwei oder mehr Geschäftseinheiten derselben Unternehmensgruppe, im Rahmen derer ein hochbesteuerter Gläubiger einer Geschäftseinheit in einem Niedrigsteuerhoheitsgebiet unmittelbar oder mittelbar Kapital überlässt. Ein hochbesteuerter Gläubiger ist eine Geschäftseinheit, die in keinem Niedrigsteuerhoheitsgebiet belegen ist. Für Zwecke der Bestimmung eines Niedrigsteuerhoheitsgebiets sind alle Erträge oder Aufwendungen aus der gruppeninternen Finanzierungsvereinbarung bei der Ermittlung des effektiven Steuersatzes dieses Steuerhoheitsgebiets außer Acht zu lassen.
 
 # § 27 – Steuerliche Zulagen
 
 (1) Anerkannte steuerliche Zulagen sind im Geschäftsjahr der Erfüllung der Anspruchsvoraussetzung für deren Gewährung als Erträge zu behandeln; eine Erfassung im Betrag der angepassten Steuern ist nicht zulässig. Steht eine solche Zulage im Zusammenhang mit der Investition in einen Vermögenswert und mindert die Zulage die Anschaffungskosten oder Herstellungskosten für Zwecke der Rechnungslegung, kann die Erfassung als Ertrag auf die Nutzungsdauer des Vermögenswerts in Übereinstimmung mit der bilanziellen Behandlung bei der Geschäftseinheit verteilt werden. Nicht anerkannte steuerliche Zulagen dürfen vorbehaltlich der §§ 28 und 29 nicht als Erträge behandelt werden, sie sind im Betrag der angepassten Steuern zu erfassen.
 
-(2) Anerkannte steuerliche Zulagen sind durch das Steuersystem gewährte Zulagen, soweit die jeweilige Zulage so ausgestaltet ist, dass sie innerhalb von vier Jahren ab Erfüllung der Anspruchsvoraussetzung für die Gewährung der Zulage auf die Steuer angerechnet oder ausgezahlt wird und deren Gewährung nicht vom Bestehen einer Steuerschuld abhängt. Anerkannte steuerliche Zulagen umfassen keine anrechenbaren oder erstattungsfähigen Steuern in Bezug auf zulässige Anrechnungssteuern oder unzulässige erstattungsfähige Anrechnungssteuern. Nicht anerkannte steuerliche Zulagen sind Steuergutschriften, die keine anerkannten steuerlichen Zulagen sind, aber ganz oder teilweise auszahlbar sind.
+(2) Anerkannte steuerliche Zulagen sind Steuergutschriften, soweit die jeweilige Steuergutschrift so ausgestaltet ist, dass sie innerhalb von vier Jahren ab Erfüllung der Anspruchsvoraussetzungen für die Gewährung der Zulage auf die Steuer angerechnet oder ausgezahlt wird und deren Gewährung nicht vom Bestehen einer Steuerschuld abhängt. Anerkannte steuerliche Zulagen umfassen keine anrechenbaren oder erstattungsfähigen Steuern in Bezug auf zulässige Anrechnungssteuern oder unzulässige erstattungsfähige Anrechnungssteuern. Nicht anerkannte steuerliche Zulagen sind Steuergutschriften, die keine anerkannten steuerlichen Zulagen sind.
 
 (+++ § 27 Abs. 1: Zur Anwendung vgl. § 28 Abs. 1 +++)
 
 # § 28 – Marktfähige und übertragbare steuerliche Zulagen
 
-(1) Soweit eine nicht anerkannte steuerliche Zulage vorliegt, gilt § 27 Absatz 1 Satz 1 und 2 entsprechend, wenn es sich um eine marktfähige und übertragbare steuerliche Zulage handelt. Überträgt der originär Anspruchsberechtigte die steuerliche Zulage innerhalb der in Absatz 3 Satz 2 Nummer 1 genannten Frist ist abweichend von § 27 Absatz 1 nicht der Nennwert, sondern der Veräußerungspreis als Ertrag anzusetzen. Überträgt der originär Anspruchsberechtigte die steuerliche Zulage nach Ablauf der in Absatz 3 Satz 2 Nummer 1 genannten Frist, ist im Geschäftsjahr der Übertragung ein Verlust in Höhe der Differenz zwischen dem Nennwert der steuerlichen Zulage und dem Veräußerungspreis anzusetzen. Wenn die steuerliche Zulage ungenutzt ganz oder teilweise verfällt, ist ein Verlust in Höhe des Nennwertes der steuerlichen Zulage im Verfallszeitpunkt zu erfassen.
+(1) Soweit eine nicht anerkannte steuerliche Zulage vorliegt, gilt § 27 Absatz 1 Satz 1 und 2 entsprechend, wenn es sich um eine marktfähige und übertragbare steuerliche Zulage handelt. Überträgt der originär Anspruchsberechtigte die steuerliche Zulage innerhalb der in Absatz 3 Satz 2 Nummer 1 genannten Frist, ist abweichend von § 27 Absatz 1 nicht der Nennwert, sondern der Veräußerungspreis als Ertrag anzusetzen. Überträgt der originär Anspruchsberechtigte die steuerliche Zulage nach Ablauf der in Absatz 3 Satz 2 Nummer 1 genannten Frist, ist im Geschäftsjahr der Übertragung ein Verlust in Höhe der Differenz zwischen dem Nennwert der steuerlichen Zulage und dem Veräußerungspreis anzusetzen. Wenn die steuerliche Zulage ungenutzt ganz oder teilweise verfällt, ist ein Verlust in Höhe des Nennwertes der steuerlichen Zulage im Verfallszeitpunkt zu erfassen.
 
 (2) Eine marktfähige und übertragbare steuerliche Zulage ist beim Übertragungsempfänger in Höhe der Differenz zwischen dem Nennwert der steuerlichen Zulage und dem Kaufpreis als Ertrag anzusetzen, soweit die steuerliche Zulage im Geschäftsjahr zur Minderung der angepassten erfassten Steuern genutzt wird. Wird die steuerliche Zulage weiterübertragen, ist der Veräußerungsgewinn oder Veräußerungsverlust im Geschäftsjahr der Übertragung zu erfassen. Der Veräußerungsgewinn oder Veräußerungsverlust entspricht dem Verkaufspreis abzüglich des Kaufpreises und des Ertrags aus der Nutzung der steuerlichen Zulage.
 
-(3) Marktfähige und übertragbare steuerliche Zulagen sind durch das Steuersystem gewährte Zulagen, die im gewährenden Steuerhoheitsgebiet zur Minderung der Steuerschuld genutzt werden können. Eine steuerliche Zulage gilt als übertragbar:
+(3) Marktfähige und übertragbare steuerliche Zulagen sind Steuergutschriften, die im gewährenden Steuerhoheitsgebiet zur Minderung der Steuerschuld genutzt werden können. Eine steuerliche Zulage gilt als übertragbar:
 
-1. Beim originär Anspruchsberechtigten, wenn dieser die steuerliche Zulage nach den rechtlichen Vorgaben des gewährenden Steuerhoheitsgebiets in dem Geschäftsjahr, in dem die Anspruchsvoraussetzungen erfüllt sind oder innerhalb von 15 Monaten nach diesem Geschäftsjahr, an unverbundene Personen übertragen kann.
+1. Beim originär Anspruchsberechtigten, wenn dieser die steuerliche Zulage nach den rechtlichen Vorgaben des gewährenden Steuerhoheitsgebiets in dem Geschäftsjahr, in dem die Anspruchsvoraussetzungen erfüllt sind, oder innerhalb von 15 Monaten nach diesem Geschäftsjahr an unverbundene Personen übertragen kann.
 
 2. Beim Übertragungsempfänger, wenn dieser die steuerliche Zulage nach den rechtlichen Vorgaben des gewährenden Steuerhoheitsgebiets in dem Geschäftsjahr des Erwerbs an unverbundene Personen weiterübertragen kann und diese Übertragung keinen weitergehenden rechtlichen Einschränkungen unterliegt als beim originär Anspruchsberechtigten.
 
@@ -838,11 +896,11 @@ Eine steuerliche Zulage gilt als marktfähig:
 
 Der Marktbasispreis nach Satz 3 entspricht 80 Prozent des Kapitalwerts der steuerlichen Zulage, wobei unterstellt wird, dass
 
-1. der jährliche Zahlungsstrom unter den rechtlichen Vorgaben des gewährenden Steuerhoheitsgebiet maximal dem jedes Geschäftsjahr nutzbaren Betrag der steuerlichen Zulage entspricht und
+1. der jährliche Zahlungsstrom unter den rechtlichen Vorgaben des gewährenden Steuerhoheitsgebiets maximal dem jedes Geschäftsjahr nutzbaren Betrag der steuerlichen Zulage entspricht und
 
 2. der Diskontierungszinssatz dem Zins eines Schuldinstruments des die steuerliche Zulage gewährenden Steuerhoheitsgebietes mit einer Laufzeit von maximal fünf Geschäftsjahren beginnend mit dem Geschäftsjahr, in dem die steuerliche Zulage erstmals ganz oder teilweise nutzbar ist, entspricht; wird die steuerliche Zulage ratierlich über einen Zeitraum von weniger als fünf Geschäftsjahren gewährt, ist dieser Zeitraum bei der Bestimmung der Laufzeit des Schuldinstruments maßgeblich.
 
-(4) Für Zwecke des Absatzes 3 Satz 2 Nummer 1 gelten der originär Anspruchsberechtigte (Übertragender) und der Übertragungsempfänger als verbundene Personen, wenn der eine, mittelbar oder unmittelbar, zu 50 Prozent wert- oder stimmrechtsmäßig an dem anderen beteiligt ist oder eine andere Person jeweils an dem originär Anspruchsberechtigten und dem Übertragungsempfänger eine entsprechende Beteiligung hält. Besteht eine Kontrollbeteiligung ist von einer Verbundenheit auszugehen.
+(4) Für Zwecke des Absatzes 3 Satz 2 Nummer 1 gelten der originär Anspruchsberechtigte (Übertragender) und der Übertragungsempfänger als verbundene Personen, wenn der eine, mittelbar oder unmittelbar, zu 50 Prozent wert- oder stimmrechtsmäßig an dem anderen beteiligt ist oder eine andere Person jeweils an dem originär Anspruchsberechtigten und dem Übertragungsempfänger eine entsprechende Beteiligung hält. Besteht eine Kontrollbeteiligung, ist von einer Verbundenheit auszugehen.
 
 # § 29 – Behandlung steuerlicher Vorteile bei Beteiligungen an bestimmten steuertransparenten Einheiten
 
@@ -850,13 +908,13 @@ Der Marktbasispreis nach Satz 3 entspricht 80 Prozent des Kapitalwerts der steue
 
 (2) Die Investition des Inhabers in eine anerkannte Beteiligung wird um die folgenden Beträge, höchstens jedoch bis auf null, vermindert:
 
-1. Gesamtbetrag, der über die Beteiligung zugerechneten anerkannten und nicht anerkannten steuerlichen Zulagen,
+1. Gesamtbetrag der über die Beteiligung zugerechneten anerkannten und nicht anerkannten steuerlichen Zulagen,
 
-2. Gesamtbetrag, der über die Beteiligung zugerechneten verrechenbaren Verluste multipliziert mit dem für den Inhaber geltenden nominalen Steuersatz,
+2. Gesamtbetrag der über die Beteiligung zugerechneten verrechenbaren Verluste multipliziert mit dem für den Inhaber geltenden nominalen Steuersatz,
 
-3. Gesamtbetrag, der dem Inhaber zugeflossenen Gewinnausschüttungen und Einlagenrückgewähr und
+3. Gesamtbetrag der dem Inhaber zugeflossenen Gewinnausschüttungen und Einlagenrückgewähr und
 
-4. Gesamtbetrag, der Veräußerungserlöse aus der anteiligen oder vollständigen Veräußerung der Beteiligung.
+4. Gesamtbetrag der Veräußerungserlöse aus der anteiligen oder vollständigen Veräußerung der Beteiligung.
 
 (3) Eine anerkannte Beteiligung ist eine Beteiligung an einer steuertransparenten Einheit,
 
@@ -904,7 +962,7 @@ Satz 1 gilt nicht für Gewinne oder Verluste, die aus der Beförderung auf Binne
 
 Tätigkeiten im Sinne des Satzes 1 einer Geschäftseinheit setzen auch Tätigkeiten im Sinne des Absatzes 2 derselben Geschäftseinheit voraus.
 
-(4) Aufwendungen, die in unmittelbarem wirtschaftlichem Zusammenhang mit Tätigkeiten im Sinne des Absatzes 2 oder 3 stehen sind direkt zuzuordnen. Aufwendungen, die nur in mittelbarem wirtschaftlichem Zusammenhang stehen, sind entsprechend dem Verhältnis der Umsatzerlöse der Geschäftseinheit aus diesen Tätigkeiten zu ihren Gesamtumsatzerlösen zuzuordnen.
+(4) Aufwendungen, die in unmittelbarem wirtschaftlichem Zusammenhang mit Tätigkeiten im Sinne des Absatzes 2 oder 3 stehen, sind direkt zuzuordnen. Aufwendungen, die nur in mittelbarem wirtschaftlichem Zusammenhang stehen, sind entsprechend dem Verhältnis der Umsatzerlöse der Geschäftseinheit aus diesen Tätigkeiten zu ihren Gesamtumsatzerlösen zuzuordnen.
 
 (5) Die Gewinne oder Verluste im Sinne des Absatzes 3 sind abweichend von Absatz 1 nicht auszunehmen, soweit sie insgesamt den Betrag von 50 Prozent der Gewinne oder Verluste nach Absatz 2 dieser Geschäftseinheiten in demselben Steuerhoheitsgebiet übersteigen.
 
@@ -1027,7 +1085,7 @@ b) Gesamtbetrag, der nach den steuerrechtlichen Bestimmungen des Belegenheitssta
 
 1. bei einer Betriebsstätte nach § 4 Absatz 8 Nummer 1 und 2 nur die Erträge und Aufwendungen berücksichtigt werden, die der Betriebsstätte im Fall des § 4 Absatz 8 Nummer 1 nach den Bestimmungen eines Abkommens zur Vermeidung der Doppelbesteuerung oder im Fall des § 4 Absatz 8 Nummer 2 nach dem nationalen Recht des Belegenheitsstaats zuzuordnen sind,
 
-2. bei einer Betriebsstätte nach § 4 Absatz 8 Nummer 3 nur die Erträge und Aufwendungen berücksichtig werden, die dieser Betriebsstätte entsprechend Artikel 7 des OECD-Musterabkommens zugeordnet würden.
+2. bei einer Betriebsstätte nach § 4 Absatz 8 Nummer 3 nur die Erträge und Aufwendungen berücksichtigt werden, die dieser Betriebsstätte entsprechend Artikel 7 des OECD-Musterabkommens zugeordnet würden.
 
 (3) Bei einer Betriebsstätte nach § 4 Absatz 8 Nummer 4 gilt als Mindeststeuer-Jahresüberschuss oder Mindeststeuer-Jahresfehlbetrag für das Geschäftsjahr der Teil der Einkünfte, der im Steuerhoheitsgebiet des Stammhauses nicht der Besteuerung unterliegt und Tätigkeiten außerhalb dieses Steuerhoheitsgebiets zuzuordnen ist. Aufwendungen sind dem Steuerhoheitsgebiet der Betriebsstätte nur zuzuordnen, soweit sie nicht bereits im Steuerhoheitsgebiet des Stammhauses steuerlich berücksichtigt worden und diesem Steuerhoheitsgebiet keine Tätigkeiten zuzuordnen sind.
 
@@ -1053,7 +1111,7 @@ b) Gesamtbetrag, der nach den steuerrechtlichen Bestimmungen des Belegenheitssta
 
 2. den Gesamtbetrag der angepassten latenten Steuern im Sinne des § 50,
 
-3. Erhöhungen oder Minderungen der im Eigenkapital oder im sonstigen Ergebnis berücksichtigten erfassten Steuern in Bezug auf Bestandteile, die in die Berechnung des Mindeststeuer-Gewinns oder Mindesteuer-Verlusts einfließen und nach dem Steuerrecht des Belegenheitsstaats der Geschäftseinheit der Besteuerung unterliegen,
+3. Erhöhungen oder Minderungen der im Eigenkapital oder im sonstigen Ergebnis berücksichtigten erfassten Steuern in Bezug auf Bestandteile, die in die Berechnung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts einfließen und nach dem Steuerrecht des Belegenheitsstaats der Geschäftseinheit der Besteuerung unterliegen,
 
 4. Steuern im Sinne des § 36 Absatz 5 und
 
@@ -1077,13 +1135,15 @@ b) Gesamtbetrag, der nach den steuerrechtlichen Bestimmungen des Belegenheitssta
 
 1. Steuern der Geschäftseinheit, die im Rahmen einer anerkannten Primärergänzungssteuerregelung, einer anerkannten Sekundärergänzungssteuerregelung oder einer anerkannten nationalen Ergänzungssteuerregelung erhoben werden,
 
-2. unzulässige erstattungsfähige Anrechnungssteuern und
+2. Steuern der Geschäftseinheit, die Geschäftsjahre betreffen, die dem Übergangsjahr vorhergehen; sofern die Geschäftseinheit in den Geschäftsjahren vor dem Übergangsjahr bereits einer anerkannten nationalen Ergänzungssteuerpflicht unterlag, gilt dies für die Geschäftsjahre vor dem Geschäftsjahr, in dem die anerkannte nationale Ergänzungssteuer erstmals Anwendung findet,
 
-3. Steuern einer Versicherungseinheit, die den nach § 32 Absatz 1 auszunehmenden Erträgen entsprechen.
+3. unzulässige erstattungsfähige Anrechnungssteuern oder
+
+4. Steuern einer Versicherungseinheit, die den nach § 32 Absatz 1 auszunehmenden Erträgen entsprechen.
 
 # § 46 – Zusätzlicher Steuererhöhungsbetrag bei Mindeststeuer-Gesamtverlust
 
-(1) Ergibt sich für ein Geschäftsjahr für ein Steuerhoheitsgebiet ein Mindeststeuer-Gesamtverlust und beläuft sich der Gesamtbetrag der angepassten erfassten Steuern für dieses Steuerhoheitsgebiet auf weniger als null und auf weniger als die erwarteten angepassten erfassten Steuern, werden die Geschäftseinheiten in diesem Steuerhoheitsgebiet so behandelt, als hätten sie einen zusätzlichen Steuererhöhungsbetrag nach § 57 in Höhe der Differenz zwischen den angepassten erfassten Steuern und den erwarteten angepassten erfassten Steuern. Mindeststeuer-Gesamtverlust ist der Unterschiedsbetrag zwischen den Mindeststeuer-Gewinnen und Mindeststeuer-Verlusten aller in einem Steuerhoheitsgebiet belegenen Geschäftseinheiten, wenn dieser negativ oder null ist.
+(1) Ergibt sich für ein Geschäftsjahr für ein Steuerhoheitsgebiet ein Mindeststeuer-Gesamtverlust und beläuft sich der Gesamtbetrag der angepassten erfassten Steuern für dieses Steuerhoheitsgebiet auf weniger als null und auf weniger als der Betrag der erwarteten angepassten erfassten Steuern, so entsteht für die Geschäftseinheiten in diesem Steuerhoheitsgebiet ein zusätzlicher Steuererhöhungsbetrag nach § 57 in Höhe der Differenz zwischen den beiden Beträgen. Mindeststeuer-Gesamtverlust ist der Unterschiedsbetrag zwischen den Mindeststeuer-Gewinnen und Mindeststeuer-Verlusten aller in einem Steuerhoheitsgebiet belegenen Geschäftseinheiten, wenn dieser negativ oder null ist.
 
 (2) Die erwarteten angepassten erfassten Steuern betragen:  
 Mindeststeuer-Gesamtverlust x Mindeststeuersatz  
@@ -1108,7 +1168,7 @@ Den bei einer Geschäftseinheit im Mindeststeuer-Jahresüberschuss oder Mindests
 
 Die bei einer Geschäftseinheit im Mindeststeuer-Jahresüberschuss oder Mindeststeuer-Jahresfehlbetrag für das Geschäftsjahr erfassten Steuern werden gekürzt um
 
-1. angefallene laufende Steuern in Zusammenhang mit Erträgen oder Gewinnen, die nach den Vorschriften des Teils 3 dieses Gesetzes bei der Ermittlung des Mindesteuer-Gewinns oder Mindeststeuer-Verlusts auszunehmen sind oder ausgenommen werden,
+1. angefallene laufende Steuern in Zusammenhang mit Erträgen oder Gewinnen, die nach den Vorschriften des Teils 3 dieses Gesetzes bei der Ermittlung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts auszunehmen sind oder ausgenommen werden,
 
 2. nicht anerkannte steuerliche Zulagen (ausgenommen solcher im Sinne des § 28), soweit sie die angefallenen laufenden Steuern, soweit es sich um erfasste Steuern handelt, nicht gemindert haben; dies gilt auch für
 
@@ -1126,48 +1186,50 @@ c) die Differenz zwischen Nennwert und Kaufpreis beim Erwerber solcher Zulagen,
 
 # § 49 – Zurechnung erfasster Steuern zu anderen Geschäftseinheiten
 
-(1) Die erfassten Steuern einer Geschäftseinheit im Zusammenhang mit Betriebsstätten, steuertransparenten Einheiten, hybriden Einheiten sowie Steuern aufgrund einer Hinzurechnungsbesteuerungsregelung und Steuern auf Ausschüttungen werden wie folgt zugerechnet:
+(1) Die erfassten Steuern einer Geschäftseinheit im Zusammenhang mit Betriebsstätten, steuertransparenten Einheiten, hybriden Einheiten und umgekehrt hybriden Einheiten sowie Steuern aufgrund einer Hinzurechnungsbesteuerungsregelung und Steuern auf Ausschüttungen werden wie folgt zugerechnet:
 
 1. Der im Jahresabschluss einer Geschäftseinheit enthaltene Betrag der erfassten Steuern auf den Mindeststeuer-Gewinn oder Mindeststeuer-Verlust einer Betriebsstätte wird dieser zugerechnet.
 
-2. Der im Jahresabschluss einer steuertransparenten Einheit enthaltene Betrag der erfassten Steuern auf den Mindeststeuer-Gewinn oder Mindeststeuer-Verlust, der nach § 43 Absatz 2 Nummer 2 einem gruppenzugehörigen Gesellschafter zugerechnet wird, wird diesem zugerechnet.
+2. Der im Jahresabschluss einer steuertransparenten Einheit enthaltene Betrag der erfassten Steuern auf den Mindeststeuer-Gewinn oder Mindeststeuer-Verlust und ein ihr nach Nummer 3 zugerechneter Betrag, der nach § 43 Absatz 2 Nummer 2 einem gruppenzugehörigen Gesellschafter zugerechnet wird, werden diesem zugerechnet.
 
 3. Der im Jahresabschluss eines gruppenzugehörigen Gesellschafters berücksichtigte Betrag an erfassten Steuern aufgrund einer Hinzurechnungsbesteuerung ist der Geschäftseinheit, deren Einkommen beim gruppenzugehörigen Gesellschafter einer Hinzurechnungsbesteuerung unterliegt, entsprechend dem Anteil am hinzugerechneten Einkommen zuzurechnen.
 
-4. Der im Jahresabschluss eines gruppenzugehörigen Gesellschafters berücksichtigte Betrag der erfassten Steuern auf den Gewinn einer hybriden Einheit wird dieser zugerechnet.
+4. Der im Jahresabschluss eines gruppenzugehörigen Gesellschafters berücksichtigte Betrag der erfassten Steuern auf den Gewinn einer hybriden oder umgekehrt hybriden Einheit wird dieser zugerechnet.
 
 5. Der im Jahresabschluss eines gruppenzugehörigen unmittelbaren Gesellschafters einer Geschäftseinheit enthaltene Betrag erfasster Steuern auf die von dieser Geschäftseinheit im Geschäftsjahr vorgenommenen Ausschüttungen ist der ausschüttenden Geschäftseinheit zuzurechnen.
+
+Auf Antrag der berichtspflichtigen Geschäftseinheit sind sämtliche latenten Steuern bezogen auf ein Steuerhoheitsgebiet einheitlich nicht nach Satz 1 Nummer 1, 3, 4 und 5 zuzurechnen und bleiben bei der Ermittlung der angepassten erfassten Steuern unberücksichtigt. Für dieses Wahlrecht gilt § 77 Absatz 2.
 
 (2) Die nach Absatz 1 Nummer 3 und 4 zuzurechnenden erfassten Steuern bezogen auf passive Erträge sind auf den niedrigeren der beiden folgenden Beträge zu begrenzen:
 
 1. den Betrag der erfassten Steuern bezogen auf diese passiven Erträge oder
 
-2. den Betrag der passiven Erträge der Geschäftseinheit, die aufgrund einer Hinzurechnungsbesteuerungsregelung oder einer Steuertransparenzregelung einzubeziehen sind, multipliziert mit dem Ergänzungssteuersatz für das Steuerhoheitsgebiet der Geschäftseinheit, der ohne Berücksichtigung der vom gruppenzugehörigen Gesellschafter der Geschäftseinheit zu entrichtenden erfassten Steuern bestimmt wird.
+2. den Betrag der passiven Erträge der Geschäftseinheit, die aufgrund einer Hinzurechnungsbesteuerungsregelung oder einer Steuertransparenzregelung einzubeziehen sind, multipliziert mit dem Ergänzungssteuersatz für das Steuerhoheitsgebiet der Geschäftseinheit, der ohne Berücksichtigung der vom gruppenzugehörigen Gesellschafter der Geschäftseinheit auf diese passiven Einkünfte zu entrichtenden erfassten Steuern bestimmt wird.
 
 Die nach Satz 1 verbleibenden erfassten Steuern des gruppenzugehörigen Gesellschafters für passive Einkünfte sind von der Zurechnung nach Absatz 1 Nummer 3 und 4 auszunehmen.
 
-(3) Im Fall des § 42 Absatz 4 Satz 2 sind die erfassten Steuern, die im Belegenheitsstaat auf den Gewinn der Betriebsstätte anfallen, als erfasste Steuern des Stammhauses zu behandeln. Die nach Satz 1 zuzurechnenden erfassten Steuern dürfen den Betrag des Gewinns der Betriebsstätte, multipliziert mit dem höchsten inländischen Steuersatz für reguläre Einkünfte im Belegenheitsstaat des Stammhauses, nicht übersteigen.
+(3) Im Fall des § 42 Absatz 4 Satz 2 und 3 sind die erfassten Steuern, die im Belegenheitsstaat auf den Gewinn der Betriebsstätte anfallen, als erfasste Steuern des Stammhauses zu behandeln. Die nach Satz 1 zuzurechnenden erfassten Steuern dürfen den Betrag des Gewinns der Betriebsstätte, multipliziert mit dem höchsten inländischen Steuersatz für reguläre Einkünfte im Belegenheitsstaat des Stammhauses, nicht übersteigen.
 
 (+++ § 49: Zur Anwendung vgl. § 92 +++)
 
 # § 50 – Gesamtbetrag der angepassten latenten Steuern
 
-(1) Der Gesamtbetrag der angepassten latenten Steuern für eine Geschäftseinheit für ein Geschäftsjahr entspricht den im Mindeststeuer-Jahresüberschuss oder Mindeststeuer-Jahresfehlbetrag angefallenen latenten Steuern, wenn der anwendbare Steuersatz niedriger ist als der Mindeststeuersatz, und in allen anderen Fällen der unter Zugrundelegung des Mindeststeuersatzes neu berechneten latenten Steuern, die sich auf die erfassten Steuern für dieses Geschäftsjahr beziehen. Dabei sind die in den Absätzen 2 und 3 aufgeführten Anpassungen sowie folgende Positionen ausgeschlossen:
+(1) Der Gesamtbetrag der angepassten latenten Steuern für eine Geschäftseinheit für ein Geschäftsjahr entspricht vorbehaltlich des Absatzes 1a den im Mindeststeuer-Jahresüberschuss oder Mindeststeuer-Jahresfehlbetrag angefallenen latenten Steuern, wenn der anwendbare Steuersatz niedriger ist als der Mindeststeuersatz, und in allen anderen Fällen der unter Zugrundelegung des Mindeststeuersatzes neu berechneten latenten Steuern, die sich auf die erfassten Steuern für dieses Geschäftsjahr beziehen. Dabei sind die in den Absätzen 1a, 2 und 3 aufgeführten Anpassungen vorzunehmen sowie folgende Positionen ausgeschlossen:
 
-1. latente Steuern in Bezug auf Posten, die nach den Vorschriften des Teils 3 bei der Ermittlung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts auszunehmen sind oder ausgenommen werden,
+1. latente Steuern in Bezug auf Posten, die nach den Vorschriften des Teils 3 bei der Ermittlung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts auszunehmen sind oder ausgenommen werden;
 
-2. latente Steuern in Bezug auf unzulässige Abgrenzungen im Sinne des Absatzes 6 und nicht geltend gemachte Abgrenzungen im Sinne des Absatzes 7 für das laufende Geschäftsjahr,
+2. latente Steuern in Bezug auf unzulässige Abgrenzungen im Sinne des Absatzes 4 und nicht geltend gemachte Abgrenzungen im Sinne des Absatzes 5 für das laufende Geschäftsjahr;
 
-3. Auswirkungen von Ansatz- und Bewertungsanpassungen auf einen latenten Steueranspruch,
+3. Auswirkungen von Ansatz- und Bewertungsanpassungen auf einen latenten Steueranspruch; entsprechendes gilt auch für die Verrechnung latenter Steueransprüche mit latenten Steuerschulden sowie den Verzicht auf den Ansatz eines sich insgesamt ergebenden latenten Steueranspruchs;
 
-4. neu bemessene latente Steuern aufgrund einer Änderung des geltenden inländischen Steuersatzes und
+4. neu bemessene latente Steuern aufgrund einer Änderung des geltenden inländischen Steuersatzes;
 
-5. latente Steuern im Zusammenhang mit der Entstehung und Nutzung von Steueranrechnungsbeträgen, es sei denn, es handelt sich um einen qualifizierten gebietsfremden Steueranrechnungsbetrag. Ein qualifizierter gebietsfremder Steueranrechnungsbetrag einer Geschäftseinheit im Sinne dieser Vorschrift liegt vor,
+5. latente Steuern im Zusammenhang mit der Entstehung und Nutzung von Steuergutschriften, es sei denn, es handelt sich um einen qualifizierten gebietsfremden Steueranrechnungsbetrag. Ein qualifizierter gebietsfremder Steueranrechnungsbetrag einer Geschäftseinheit im Sinne dieser Vorschrift liegt vor,
 
 a) wenn nach dem Recht des Belegenheitsstaats der Geschäftseinheit vorgesehen ist, dass
 
 aa)  
-aus dem Belegenheitsstaat stammende Verluste zunächst mit gebietsfremden Gewinnen verrechnet werden müssen, bevor eine Anrechnung gebietsfremder Steuern erfolgen kann und
+aus dem Belegenheitsstaat stammende Verluste zunächst mit gebietsfremden Gewinnen verrechnet werden müssen, bevor eine Anrechnung gebietsfremder Steuern erfolgen kann, und
 
 bb)  
 ungenutzte gebietsfremde Steueranrechnungsbeträge in nachfolgenden Besteuerungszeiträumen auf Steuern des Belegenheitsstaats in Bezug auf aus dem Belegenheitsstaat stammende Gewinne angerechnet werden können,
@@ -1178,51 +1240,105 @@ c) soweit der gebietsfremde Steueranrechnungsbetrag auf diesem gebietsfremden Ge
 
 Als qualifizierter gebietsfremder Steueranrechnungsbetrag ist, vorbehaltlich der weiteren in diesem Paragraphen geregelten Ausschlüsse und Anpassungen, höchstens der kleinere der beiden folgenden Beträge anzusetzen:
 
-a) Betrag, der bezogen auf den gebietsfremden Gewinn gezahlten gebietsfremden Steuern,
+a) Betrag der bezogen auf den gebietsfremden Gewinn gezahlten gebietsfremden Steuern,
 
 b) verrechneter Verlust multipliziert mit dem Steuersatz, der für Berechnung der gebietsfremden Steuer maßgebend ist.
 
-Gebietsfremde Gewinne der Geschäftseinheit im Sinne dieser Vorschrift sind Einkünfte aufgrund einer Hinzurechnungsbesteuerung.
+Gebietsfremde Gewinne der Geschäftseinheit im Sinne dieser Vorschrift sind Einkünfte aufgrund einer Hinzurechnungsbesteuerung oder der Besteuerung gebietsfremder Betriebsstätten, hybrider Einheiten oder umgekehrt hybrider Einheiten;
+
+6. latente Steuern in Bezug auf eine gemischte Hinzurechnungsbesteuerung und
+
+7. latente Steuern, für die die berichtspflichtige Geschäftseinheit einen Antrag nach § 49 Absatz 1 Satz 2 stellt.
+
+(1a) Latente Steuern einer Geschäftseinheit dürfen nur auf der Grundlage des nach diesem Gesetz im Rahmen der Mindeststeuer-Gewinnermittlung für einen Vermögenswert oder eine Schuld zugelassenen Buchwerts berücksichtigt werden (Mindeststeuer-Buchwert). Weicht der Mindeststeuer-Buchwert eines Vermögenswerts oder einer Schuld von dem der Ermittlung des Mindeststeuer-Jahresüberschusses oder Mindeststeuer-Jahresfehlbetrags zugrunde gelegten Buchwerts ab, sind die latenten Steuern auf der Grundlage des Mindeststeuer-Buchwerts neu zu berechnen und die im Mindeststeuer-Jahresüberschuss oder Mindeststeuer-Jahresfehlbetrag angefallenen latenten Steuern dementsprechend anzupassen. Bei der Neuberechnung nach Satz 2 sind die für die Bilanzierung latenter Steuern einschlägigen Bilanzierungsmethoden des für die Ermittlung des Mindeststeuer-Jahresüberschusses oder Mindeststeuer-Jahresfehlbetrags einschlägigen Rechnungslegungsstandards zu beachten. Die Sätze 1 bis 3 gelten entsprechend, wenn ein im Mindeststeuer-Jahresüberschuss oder Mindeststeuer-Jahresfehlbetrag ausgewiesener Aufwand oder Ertrag durch einen nach diesem Gesetz im Rahmen der Mindeststeuer-Gewinnermittlung zugelassenen Minderungs- oder Erhöhungsbetrag zu ersetzen oder korrigieren ist.
 
 (2) Der nach Anwendung des Absatzes 1 verbleibende Gesamtbetrag der angepassten latenten Steuern ist wie folgt anzupassen:
 
 1. Erhöhung um den während des Geschäftsjahres tatsächlich angefallenen Betrag unzulässiger Abgrenzungen oder nicht geltend gemachter Abgrenzungen für ein früheres Geschäftsjahr,
 
-2. Erhöhung um eine nach Absatz 4 nachversteuerte latente Steuerschuld, soweit sie im laufenden Geschäftsjahr beglichen wurde, und
+2. Erhöhung um eine nach § 50a nachversteuerte latente Steuerschuld, soweit sie im laufenden Geschäftsjahr beglichen wurde, und
 
 3. Minderung um den Betrag, um den sich der Gesamtbetrag im Sinne des Absatzes 1 verringert hätte, wenn für einen steuerlichen Verlustvortrag im laufenden Jahr ein latenter Steueranspruch abgegrenzt worden wäre, jedoch hierfür die Voraussetzungen für den Ansatz nicht erfüllt waren.
 
 (3) Ein latenter Steueranspruch, der nach Absatz 1 zu einem unter dem Mindeststeuersatz liegenden Steuersatz zu erfassen ist, kann abweichend von den Absätzen 1 und 2 anhand des Mindeststeuersatzes neu berechnet werden, sofern die steuerpflichtige Geschäftseinheit nachweisen kann, dass der latente Steueranspruch auf einen Mindeststeuer-Verlust dieses Geschäftsjahres zurückzuführen ist. Der Gesamtbetrag der angepassten latenten Steuern wird um den Betrag verringert, um den sich ein latenter Steueranspruch aufgrund einer Neuberechnung nach Satz 1 erhöht.
 
-(4) Eine latente Steuerschuld, die nach Absatz 1 berücksichtigt worden ist, die nicht nach Absatz 5 von der Nachversteuerung ausgenommen und die nicht bis zum Ende des fünften der Berücksichtigung folgenden Geschäftsjahres wieder aufgelöst worden ist, ist nach den folgenden Bestimmungen nachzuversteuern (Nachversteuerungsbetrag): Der Nachversteuerungsbetrag des laufenden Geschäftsjahres ist als Minderung der erfassten Steuern des fünften vorangegangenen Geschäftsjahres zu behandeln und der effektive Steuersatz sowie der Steuererhöhungsbetrag dieses Geschäftsjahres sind nach § 57 zu ermitteln. Der Nachversteuerungsbetrag des laufenden Geschäftsjahres entspricht der Differenz zwischen dem Betrag, mit dem die latente Steuerschuld in den Gesamtbetrag im Sinne des Absatzes 1 im fünften vorangegangenen Geschäftsjahr einbezogen worden ist, und dem Betrag, der nicht bis zum letzten Tag des laufenden Geschäftsjahres wieder aufgelöst worden ist.
+(4) Unzulässige Abgrenzung bedeutet jede Veränderung des latenten Steueraufwands oder -ertrags, die
 
-(5) Von der Nachversteuerung nach Absatz 4 sind latente Steuerschulden in Bezug auf folgende Posten ausgenommen:
+1. mit einer Ungewissheit bezüglich der steuerlichen Behandlung oder
 
-1. Abschreibungen auf materielle Vermögenswerte,
+2. mit Ausschüttungen einer Geschäftseinheit
 
-2. Kosten einer staatlichen Lizenz oder ähnlichen Regelung für die Nutzung von unbeweglichem Vermögen oder natürlichen Ressourcen, die mit erheblichen Investitionen in materielle Vermögenswerte verbunden sind,
+zusammenhängt.
+
+(5) Auf Antrag der berichtspflichtigen Geschäftseinheit bleiben Erhöhungen latenter Steuerschulden bei der Ermittlung des Gesamtbetrags der angepassten latenten Steuern für das betreffende Geschäftsjahr außer Ansatz (nicht geltend gemachte Abgrenzungen). Der Antrag nach Satz 1 ist zulässig für jede Erhöhung bei einer Geschäftseinheit von
+
+1. einzelnen oder zusammengefassten latenten Steuerschulden, sofern jede dieser Steuerschulden voraussichtlich nicht innerhalb des in § 50a Absatz 1 genannten Zeitraums vollständig wieder aufgelöst werden, oder
+
+2. sämtlichen latenten Steuerschulden einer Nachversteuerungsgruppe nach § 50a Absatz 2.
+
+Für das Wahlrecht nach Satz 2 Nummer 1 gilt § 77 Absatz 1, für das Wahlrecht nach Satz 2 Nummer 2 gilt § 77 Absatz 2.
+
+# § 50a – Nachversteuerung latenter Steuerschulden
+
+(1) Eine latente Steuerschuld, die nach § 50 Absatz 1 berücksichtigt und weder nach Absatz 7 von der Nachversteuerung ausgenommen noch bis zum Ende des fünften Geschäftsjahres (laufendes Geschäftsjahr) des dem der Berücksichtigung folgenden Geschäftsjahres (getestetes Geschäftsjahr) wieder aufgelöst worden ist, ist nach den folgenden Bestimmungen nachzuversteuern (Nachversteuerungsbetrag): Der Nachversteuerungsbetrag des laufenden Geschäftsjahres ist für Zwecke der Nachversteuerung als Minderung der erfassten Steuern des getesteten Geschäftsjahres zu behandeln und der effektive Steuersatz sowie der Steuererhöhungsbetrag dieses Geschäftsjahres sind nach § 57 zu ermitteln. Der Nachversteuerungsbetrag des laufenden Geschäftsjahres entspricht der Differenz zwischen dem Betrag, mit dem die latente Steuerschuld in den Gesamtbetrag nach § 50 Absatz 1 im getesteten Geschäftsjahr einbezogen worden ist, und dem Betrag, der nicht bis zum letzten Tag des laufenden Geschäftsjahres wieder aufgelöst worden ist.
+
+(2) Abweichend von Absatz 1 kann eine Geschäftseinheit für die Ermittlung des Nachversteuerungsbetrags sämtliche latente Steuerschulden zusammenfassen, die Vermögensgegenstände oder Schulden betreffen, die im selben Sachkonto erfasst sind (Nachversteuerungsgruppe I). Eine Geschäftseinheit kann mehrere Nachversteuerungsgruppen I zusammenfassen (Nachversteuerungsgruppe II), wenn
+
+1. die Sachkonten gemäß dem im Konzernabschluss verwendeten Kontenplan demselben Bilanzposten zuzuordnen sind, der für die Ermittlung des Mindeststeuer-Jahresüberschusses oder Mindeststeuer-Jahresfehlbetrags zugrunde zu legen ist,
+
+2. das einzelne Sachkonto insgesamt zu keinem latenten Steueranspruch führen kann und
+
+3. die latenten Steuerschulden nicht folgende Vermögensgegenstände oder Schulden betreffen:
+
+a) nicht abnutzbare immaterielle Vermögenswerte, einschließlich eines Geschäfts- oder Firmenwerts,
+
+b) abnutzbare immaterielle Vermögenswerte mit einer Nutzungsdauer von mehr als fünf Jahren,
+
+c) Forderungen und Verbindlichkeiten gegenüber verbundenen Unternehmen.
+
+Latente Steuerschulden in Bezug auf Posten, die nach den Vorschriften des dritten Teils bei der Ermittlung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts auszunehmen sind oder ausgenommen werden, dürfen nicht nach den Sätzen 1 oder 2 zusammengefasst werden. Auf zusammengefasste latente Steuerschulden ist Absatz 7 nicht anzuwenden; dies gilt nicht, wenn ausschließlich latente Steuerschulden zusammengefasst werden, die nach Absatz 7 von der Nachversteuerung auszunehmen sind. Latente Steuerschulden nach § 82 Absatz 1 sind den Nachversteuerungsgruppen nach wirtschaftlichem Zusammenhang zuzuordnen (latente Steuerschulden aus Vor-Übergangsjahren).
+
+(3) Für zusammengefasste latente Steuerschulden einer Nachversteuerungsgruppe ist als Nachversteuerungsbetrag nach Absatz 1 die positive Nachversteuerungsjahresdifferenz anzusetzen. Eine negative Nachversteuerungsjahresdifferenz ist als Erhöhung des Gesamtbetrags der angepassten latenten Steuern nach § 50 Absatz 2 Nummer 2 zu behandeln. Die Nachversteuerungsjahresdifferenz ist die Differenz zwischen der Nachversteuerungsdifferenz des aktuellen und des vorangegangenen Geschäftsjahres. Die Nachversteuerungsdifferenz des Geschäftsjahres ist der Saldo der Erhöhungen und Minderungen der zusammengefassten latenten Steuerschulden seit ihrer erstmaligen Erfassung in der Nachversteuerungsgruppe (Nachversteuerungssaldo) abzüglich des maximal gerechtfertigten Betrags. Der maximal gerechtfertigte Betrag ist die Differenz zwischen den Erhöhungen und Minderungen der latenten Steuerschulden des aktuellen Geschäftsjahres sowie der vier vorangegangenen Geschäftsjahre (Differenzmethode); er kann nicht negativ werden. Soweit einer Nachversteuerungsgruppe latente Steuerschulden aus Vor-Übergangsjahren zuzuordnen sind, bleiben ein negativer Betrag des Nachversteuerungssaldos und der jährlichen Minderungen bis zur Höhe dieser latenten Steuerschulden aus Vor-Übergangsjahren außer Betracht. Der nach Satz 6 anzusetzende Betrag latenter Steuerschulden aus Vor-Übergangsjahren verringert sich um in den vorangegangenen Geschäftsjahren bereits berücksichtigte Beträge latenter Steuerschulden aus Vor-Übergangsjahren sowie in den Fällen des § 50 Absatz 5 Nummer 2 um Minderungen der latenten Steuerschulden einer Nachversteuerungsgruppe, die vorrangig latenten Steuerschulden aus Vor-Übergangsjahren zuzuordnen sind. Abweichend von Satz 5 kann als maximal gerechtfertigter Betrag die Summe der Erhöhungen der latenten Steuerschulden des aktuellen Geschäftsjahres sowie der vier vorangegangenen Geschäftsjahre angesetzt werden (Summenmethode); er kann nicht negativ werden. Die Summenmethode ist bei einer Nachversteuerungsgruppe II nur zulässig, wenn die Geschäftseinheit nachweist, dass
+
+1. die in der Nachversteuerungsgruppe II zusammengefassten latenten Steuerschulden einen ähnlichen Umkehrtrend haben oder
+
+2. die in der Nachversteuerungsgruppe II zusammengefassten latenten Steuerschulden keinen ähnlichen Umkehrtrend haben oder ihr Umkehrtrend sich über einen Zeitraum von mehr als fünf Jahren erstreckt und es entsprechend den Grundsätzen des Absatzes 1 zu einer angemessenen Nachversteuerung dieser latenten Steuerschulden kommt.
+
+Ein ähnlicher Umkehrtrend liegt vor, wenn die latenten Steuerschulden in höchstens einem Abstand von zwei Geschäftsjahren aufgelöst werden. Bei Anwendung der Summenmethode bleiben abweichend von Satz 7 Minderungen bei der Ermittlung des Nachversteuerungssaldos bis zur Höhe der in der Nachversteuerungsgruppe zusammengefassten latenten Steuerschulden aus Vor-Übergangsjahren außer Betracht; Satz 8 gilt entsprechend. Ist ein Nachversteuerungsbetrag nach diesem Absatz für zusammengefasste latente Steuerschulden zu ermitteln, die in vorangegangenen Geschäftsjahren aufgrund von § 50 Absatz 5 nicht nach § 50 Absatz 1 einbezogen wurden, sind diese den betreffenden Nachversteuerungsgruppen zuzuordnen und als latente Steuerschulden aus Vor-Übergangsjahren zu behandeln.
+
+(4) Die Ermittlung eines Nachversteuerungsbetrags kann für sämtliche latenten Steuerschulden einer Nachversteuerungsgruppe unterbleiben, wenn die Geschäftseinheit anhand objektiver Umstände darlegen kann, dass die latenten Steuerschulden bis zum Ende des fünften Geschäftsjahres des dem der Berücksichtigung folgenden Geschäftsjahres voraussichtlich aufgelöst sein werden. Im Fall des Satzes 1 können latente Steueransprüche in diese Nachversteuerungsgruppe einbezogen werden. Ist aufgrund einer wesentlichen Änderung der objektiven Umstände nicht mehr davon auszugehen, dass diese latenten Steuerschulden im Zeitraum nach Satz 1 aufgelöst sein werden, gilt Absatz 3 ab dem Geschäftsjahr, in dem diese Änderung eingetreten ist. Absatz 3 Satz 12 gilt entsprechend.
+
+(5) Werden latente Steuerschulden von der Geschäftseinheit nicht mehr oder abweichend von den vorangegangenen Geschäftsjahren neu nach Maßgabe des Absatzes 2 zusammengefasst, ist der Betrag der Nachversteuerungsattribute der bisherigen Nachversteuerungsgruppe zu ermitteln und sachgerecht auf die einzelnen latenten Steuerschulden oder die neu gebildeten Nachversteuerungsgruppen zu verteilen. Die Nachversteuerungsattribute sind:
+
+1. die Nachversteuerungsdifferenz des aktuellen Geschäftsjahres,
+
+2. der Nachversteuerungssaldo,
+
+3. der Betrag der noch nicht umgekehrten latenten Steuerschulden aus Vor-Übergangsjahren sowie diesen gleichstehende latente Steuerschulden und
+
+4. die Erhöhungen des Nachversteuerungssaldos während des fünfjährigen Zeitraums vor der Anwendung des Satzes 1.
+
+(6) Latente Steuerschulden der Nachversteuerungsgruppe II dürfen nach § 50 Absatz 1 nur berücksichtigt werden, wenn die Geschäftseinheit das Vorliegen der Voraussetzungen des Absatzes 2 Satz 2 oder des Absatzes 4 nachweist. Sind latente Steuerschulden nach Satz 1 nicht zu berücksichtigen und kann die Veranlagung für den Besteuerungszeitraum, in dem sie angefallen sind, nicht mehr geändert werden, sind die erfassten Steuern entsprechend § 52 nachträglich anzupassen. Absatz 3 Satz 11 gilt entsprechend.
+
+(7) Von der Nachversteuerung nach den vorherstehenden Absätzen sind latente Steuerschulden in Bezug auf folgende Kategorien ausgenommen:
+
+1. Abschreibungen auf materielle Vermögenswerte und auf Nutzungsrechte an diesen einschließlich Abschreibungen auf Forderungen eines Leasinggebers für überlassene materielle Vermögenswerte,
+
+2. Kosten einer staatlichen Lizenz oder einer ähnlichen Regelung für die Nutzung von unbeweglichem Vermögen oder natürlichen Ressourcen, die mit erheblichen Investitionen in materielle Vermögenswerte verbunden sind,
 
 3. Forschungs- und Entwicklungsaufwendungen,
 
 4. Stilllegungs- und Sanierungsaufwendungen,
 
-5. Zeitwertbilanzierung nicht realisierter Nettogewinne, sofern nicht die Realisationsmethode nach § 35 anzuwenden ist,
+5. Zeitwertbilanzierung nicht realisierter Nettogewinne, sofern nicht die Realisationsmethode nach § 35 anzuwenden ist,
 
 6. Nettowechselkursgewinne,
 
 7. Versicherungsrückstellungen und abgegrenzte Versicherungsvertragsabschlusskosten,
 
-8. Gewinne aus dem Verkauf von in demselben Steuerhoheitsgebiet wie die Geschäftseinheit belegenem Sachvermögen, die in Sachvermögen in demselben Steuerhoheitsgebiet reinvestiert werden, und
+8. Gewinne aus dem Verkauf von Sachvermögen, das in demselben Steuerhoheitsgebiet wie die Geschäftseinheit belegen ist und die in Sachvermögen in diesem Steuerhoheitsgebiet reinvestiert werden, und
 
 9. zusätzliche Beträge, die sich aus Änderungen von Rechnungslegungsgrundsätzen in Bezug auf die in den Nummern 1 bis 8 genannten Posten ergeben.
-
-(6) Unzulässige Abgrenzung bedeutet
-
-1. jede Veränderung des latenten Steueraufwands, die mit einer Ungewissheit bezüglich der steuerlichen Behandlung zusammenhängt, sowie
-
-2. jede Veränderung des latenten Steueraufwands, die mit Ausschüttungen einer Geschäftseinheit zusammenhängt.
-
-(7) Nicht geltend gemachte Abgrenzung bedeutet jede Erhöhung einer latenten Steuerschuld bei einer Geschäftseinheit für ein Geschäftsjahr, die voraussichtlich nicht innerhalb des in Absatz 4 genannten Zeitraums wieder aufgelöst wird und die auf Antrag der berichtspflichtigen Geschäftseinheit nicht in den Gesamtbetrag der angepassten latenten Steuern für das betreffende Geschäftsjahr einbezogen wird.
 
 # § 51 – Mindeststeuer-Verlustwahlrecht
 
@@ -1230,7 +1346,7 @@ Gebietsfremde Gewinne der Geschäftseinheit im Sinne dieser Vorschrift sind Eink
 Latenter Steueranspruch = Mindeststeuer-Gesamtverlust x Mindeststeuersatz
 
 (2) Der latente Steueranspruch ist in nachfolgende Geschäftsjahre vorzutragen und in jedem dieser nachfolgenden Geschäftsjahre, in denen sich ein Mindeststeuer-Gesamtgewinn nach Teil 5 dieses Gesetzes ergibt, um folgenden Betrag aufzulösen, höchstens jedoch in Höhe des Betrags des latenten Steueranspruchs nach Absatz 1:  
-Auflösungsbetrag = Mindeststeuer-Gesamtgewinns x Mindeststeuersatz
+Auflösungsbetrag = Mindeststeuer-Gesamtgewinn x Mindeststeuersatz
 
 (3) In dem Geschäftsjahr, in dem die Inanspruchnahme des Wahlrechts nach Absatz 1 widerrufen wird, ist der latente Steueranspruch aufzulösen. Die erstmalige Anwendung des § 50 in einem Geschäftsjahr gilt als Widerruf nach Satz 1.
 
@@ -1272,7 +1388,7 @@ Der effektive Steuersatz ist auf vier Stellen nach dem Komma zu runden. Der Gesa
 ![Ergänzungssteuersatz multipliziert mit dem bereinigten Mindeststeuer-Gesamtgewinn, zum Ergebnis wird der zusätzliche Steuererhöhungsbetrag nach den Paragraphen 46 und 57 Absatz 1 addiert und die anerkannte nationale Ergänzungssteuer subtrahiert](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j03970_0060.jpg)  
 Eine anerkannte nationale Ergänzungssteuer ist nicht nach Satz 1 zu berücksichtigen, soweit sie nicht erhoben oder bestritten wird. Satz 2 gilt nur, wenn für die Nichterhebung oder die Streitigkeiten höherrangiges Recht oder eine gegenüber dem Steuerhoheitsgebiet bestehenden Vereinbarung, welche die Besteuerung der betreffenden Unternehmensgruppe begrenzt, ursächlich ist. Eine für ein Geschäftsjahr nach Satz 2 nicht zu berücksichtigende Steuer ist für dieses Geschäftsjahr zu berücksichtigen, wenn die Steuer tatsächlich entrichtet worden und nicht mehr bestritten ist.
 
-(3) Der Ergänzungssteuersatz entspricht der positiven Differenz aus dem Mindeststeuersatz und dem effektiven Steuersatz nach § 53 Absatz 1. Der bereinigte Mindeststeuer-Gesamtgewinn entspricht der positiven Differenz aus dem Mindeststeuer-Gesamtgewinn für das Geschäftsjahr und dem substanzbasierten Freibetrag nach § 58. Übersteigt der Ergänzungssteuersatz 15 Prozent, ist § 46 Absatz 3 ungeachtet eines Antrags und vorbehaltlich des § 46 Absatz 4 auf den übersteigenden Teil anzuwenden. Für Zwecke der Anwendung von § 46 Absatz 3 entspricht der Vortrag der Summe der Beträge der angepassten erfassten Steuern für dieses Steuerhoheitsgebiet für das Geschäftsjahr.
+(3) Der Ergänzungssteuersatz entspricht der positiven Differenz aus dem Mindeststeuersatz und dem effektiven Steuersatz nach § 53 Absatz 1. Der bereinigte Mindeststeuer-Gesamtgewinn entspricht der positiven Differenz aus dem Mindeststeuer-Gesamtgewinn für das Geschäftsjahr und dem substanzbasierten Freibetrag nach § 58. Ergibt sich für ein Geschäftsjahr für ein Steuerhoheitsgebiet ein Mindeststeuer-Gesamtgewinn und beläuft sich rechnerisch der Gesamtbetrag der angepassten erfassten Steuern für dieses Steuerhoheitsgebiet auf weniger als null (Negativbetrag), ist der Gesamtbetrag der angepassten erfassten Steuern mit null anzusetzen. Im Fall des Satzes 3 ist der Negativbetrag nach § 46 Absatz 3 und 4 vorzutragen; eines Antrages bedarf es nicht; der Vortrag entspricht der Differenz zwischen null und dem Negativbetrag.
 
 (4) Vorbehaltlich des § 57 Absatz 3 wird der Steuererhöhungsbetrag nach Absatz 2 den in dem Steuerhoheitsgebiet belegenen Geschäftseinheiten, für die im Geschäftsjahr ein Mindeststeuer-Gewinn nach dem dritten Teil dieses Gesetzes ermittelt wurde, wie folgt zugeordnet:  
 ![Mindeststeuer-Gewinn der Geschäftseinheit geteilt durch die Summe aller Mindeststeuer-Gewinne aller in dem Steuerhoheitsgebiet belegenen Geschäftseinheiten, alles multipliziert mit dem Steuererhöhungsbetrag](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j03970_0070.jpg)  
@@ -1282,7 +1398,7 @@ Für den Fall, dass sich für das Geschäftsjahr kein Mindeststeuer-Gesamtgewinn
 
 (1) Die Ermittlung des effektiven Steuersatzes nach § 53 und des Steuererhöhungsbetrags nach § 54 ist bei in Minderheitseigentum stehenden Gruppen so vorzunehmen, als ob es sich bei dieser Gruppe um eine separate Unternehmensgruppe handeln würde. Die angepassten erfassten Steuern und die Mindeststeuer-Gewinne oder Mindeststeuer-Verluste der in Minderheitseigentum stehenden Gruppen sind bei der Ermittlung des effektiven Steuersatzes und des Mindeststeuer-Gesamtgewinns nicht zu berücksichtigen.
 
-(2) Die Ermittlung des effektiven Steuersatzes einer in Minderheitseigentum stehenden Geschäftseinheit, die nicht Teil einer in Minderheitseigentum stehenden Gruppe ist, hat entsprechend Absatz 1 zu erfolgen.
+(2) Die Ermittlung des effektiven Steuersatzes einer in Minderheitseigentum stehenden Geschäftseinheit, die nicht Teil einer in Minderheitseigentum stehenden Gruppe ist, hat entsprechend Absatz 1 zu erfolgen. Dies gilt nicht, wenn es sich bei der Geschäftseinheit um eine Investmenteinheit handelt.
 
 (3) Eine in Minderheitseigentum stehende Geschäftseinheit ist jede Geschäftseinheit, an der die oberste Muttergesellschaft unmittelbar oder mittelbar eine Eigenkapitalbeteiligung in Höhe von 30 Prozent oder weniger hält. Eine in Minderheitseigentum stehende Muttergesellschaft ist jede in Minderheitseigentum stehende Geschäftseinheit, die mittelbar oder unmittelbar eine Kontrollbeteiligung an anderen in Minderheitseigentum stehenden Geschäftseinheiten hält, wenn nicht eine andere in Minderheitseigentum stehende Geschäftseinheit eine mittelbare oder unmittelbare Kontrollbeteiligung an der erstgenannten Geschäftseinheit hält. Eine in Minderheitseigentum stehende Gruppe ist eine in Minderheitseigentum stehende Muttergesellschaft mit allen im Minderheitseigentum stehenden Geschäftseinheiten, an denen sie eine unmittelbare oder mittelbare Kontrollbeteiligung hält.
 
@@ -1302,7 +1418,7 @@ Für den Fall, dass in einem der zwei dem Geschäftsjahr vorangegangenen Geschä
 
 # § 57 – Zusätzlicher Steuererhöhungsbetrag
 
-(1) Führen § 36 Absatz 1, § 50 Absatz 4, § 52 Absatz 1, 2, 4 und 6 sowie § 71 zu einer Änderung des effektiven Steuersatzes und des Steuererhöhungsbetrags für ein vorangegangenes Geschäftsjahr,
+(1) Führen § 36 Absatz 1, die §§ 50a, 52 Absatz 1, 2, 4 und 6 sowie § 71 zu einer Änderung des effektiven Steuersatzes und des Steuererhöhungsbetrags für ein vorangegangenes Geschäftsjahr,
 
 1. werden der effektive Steuersatz und der Steuererhöhungsbetrag für das vorangegangene Geschäftsjahr nach den Regelungen der §§ 53, 54 und 58 bis 62 nach Berücksichtigung der Anpassungen der angepassten erfassten Steuern und des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts neu berechnet und
 
@@ -1360,7 +1476,7 @@ Für den Fall, dass in einem der zwei dem Geschäftsjahr vorangegangenen Geschä
 
 3. des Rechts des Leasingnehmers zur Nutzung eines im Steuerhoheitsgebiet der Geschäftseinheit belegenen materiellen Vermögenswertes und
 
-4. einer staatlichen Lizenz oder einer ähnlichen staatliche Vereinbarung zur Nutzung unbeweglichen Vermögens oder natürlicher Ressourcen, die mit erheblichen Investitionen in materielle Vermögenswerte einhergehen.
+4. einer staatlichen Lizenz oder einer ähnlichen staatlichen Vereinbarung zur Nutzung unbeweglichen Vermögens oder natürlicher Ressourcen, die mit erheblichen Investitionen in materielle Vermögenswerte einhergehen.
 
 Materielle Vermögenswerte werden anteilig berücksichtigt, soweit sie nicht mehr als 50 Prozent des Geschäftsjahres in demselben Steuerhoheitsgebiet der Geschäftseinheit belegen sind.
 
@@ -1370,7 +1486,7 @@ Materielle Vermögenswerte werden anteilig berücksichtigt, soweit sie nicht meh
 
 2. die Buchwerte materieller Vermögenswerte, die bei der Erzielung von Gewinnen oder Verlusten nach § 30 eingesetzt werden; Buchwerte materieller Vermögenswerte, die § 30 Absatz 3 zugeordnet sind, werden berücksichtigt, soweit die mit ihnen erzielten Gewinne oder Verluste über die nach § 30 Absatz 5 festgelegte Obergrenze hinausgehen.
 
-Bei Mietleasing dürfen die Buchwerte der zu diesen Zwecken gehaltenen Vermögenswerte beim Leasinggeber berücksichtigt werden, soweit diese den Betrag des Nutzungsrechts des Leasingnehmers übersteigen. Ist der Leasingnehmer keine Geschäftseinheit der Unternehmensgruppe, entspricht der Betrag des Nutzungsrechts dem nicht abgezinsten Betrag der im Rahmen des Leasingverhältnisses verbleibenden Zahlungen, einschließlich etwaiger Verlängerungen, die bei der Bestimmung des Nutzungsrechts nach einem anerkannten Rechnungslegungsstandard berücksichtigt werden würde. Bei materiellen Vermögenswerten, die zu kurzfristigen Vermietungszwecken dienen, ist kein Betrag für das Nutzungsrecht des Leasingnehmers anzusetzen. Materielle Vermögenswerte dienen zu kurzfristigen Vermietungszwecken, wenn diese während des Geschäftsjahres regelmäßig mehrmals an verschiedene Leasingnehmer vermietet werden, wobei die durchschnittliche Leasingdauer, einschließlich etwaiger Verlängerungen und Erweiterungen, für jeden Leasingnehmer höchstens 30 Tage beträgt.
+Bei Mietleasing dürfen die Buchwerte der zu diesen Zwecken gehaltenen Vermögenswerte beim Leasinggeber berücksichtigt werden, soweit diese den Betrag des Nutzungsrechts des Leasingnehmers übersteigen. Ist der Leasingnehmer keine Geschäftseinheit der Unternehmensgruppe, entspricht der Betrag des Nutzungsrechts dem nicht abgezinsten Betrag der im Rahmen des Leasingverhältnisses verbleibenden Zahlungen, einschließlich etwaiger Verlängerungen, die bei der Bestimmung des Nutzungsrechts nach einem anerkannten Rechnungslegungsstandard berücksichtigt werden würden. Bei materiellen Vermögenswerten, die zu kurzfristigen Vermietungszwecken dienen, ist kein Betrag für das Nutzungsrecht des Leasingnehmers anzusetzen. Materielle Vermögenswerte dienen zu kurzfristigen Vermietungszwecken, wenn diese während des Geschäftsjahres regelmäßig mehrmals an verschiedene Leasingnehmer vermietet werden, wobei die durchschnittliche Leasingdauer, einschließlich etwaiger Verlängerungen und Erweiterungen, für jeden Leasingnehmer höchstens 30 Tage beträgt.
 
 (3) Für die Ermittlung der berücksichtigungsfähigen materiellen Vermögenswerte nach den Absätzen 1 und 2 ist auf die durchschnittlichen Buchwerte der berücksichtigungsfähigen materiellen Vermögenswerte am Beginn und Ende des Geschäftsjahres abzustellen, wie sie im Konzernabschluss der obersten Muttergesellschaft ausgewiesen sind. Für den Betrag des Nutzungsrechts des Leasingnehmers nach Absatz 2 Satz 2 ist auf den durchschnittlichen Betrag des Nutzungsrechts am Beginn und Ende des Geschäftsjahres abzustellen.
 
@@ -1445,7 +1561,7 @@ Alle berücksichtigungsfähigen Lohnkosten und berücksichtigungsfähigen materi
 
 1. Der Mindeststeuer-Jahresüberschuss oder Mindeststeuer-Jahresfehlbetrag und die angepassten erfassten Steuern der beitretenden oder austretenden Geschäftseinheit werden im Geschäftsjahr des Beitritts oder Austritts bei der jeweiligen Unternehmensgruppe nur insoweit berücksichtigt, als diese im Konzernabschluss der obersten Muttergesellschaft berücksichtigt wurden.
 
-2. Im Geschäftsjahr des Beitritts oder Austritts und in jedem nachfolgenden Geschäftsjahr werden der Mindeststeuer-Gewinn oder Mindeststeuer-Verlust und die angepassten erfassten Steuern der beitretenden oder austretenden Geschäftseinheit auf der Grundlage der historischen Buchwerte ihrer Vermögenswerte und Schulden bestimmt.
+2. Im Geschäftsjahr des Beitritts oder Austritts und in jedem nachfolgenden Geschäftsjahr werden der Mindeststeuer-Gewinn oder Mindeststeuer-Verlust und die angepassten erfassten Steuern der beitretenden oder austretenden Geschäftseinheit auf der Grundlage der historischen Buchwerte ihrer Vermögenswerte und Schulden bestimmt. Satz 1 ist auch bei Veränderungen der Unternehmensgruppe vor dem Übergangsjahr zu berücksichtigen; § 15 Absatz 1 Satz 3 gilt entsprechend.
 
 3. Im Geschäftsjahr des Beitritts oder Austritts werden bei der Berechnung der berücksichtigungsfähigen Lohnkosten (§ 59) der beitretenden oder austretenden Geschäftseinheit nur die im Konzernabschluss der obersten Muttergesellschaft ausgewiesenen Lohnkosten berücksichtigt.
 
@@ -1453,7 +1569,7 @@ Alle berücksichtigungsfähigen Lohnkosten und berücksichtigungsfähigen materi
 
 5. Mit Ausnahme des latenten Steueranspruchs aufgrund des Mindeststeuer-Verlustwahlrechts (§ 51) werden die aktiven und passiven latenten Steuern der beitretenden oder austretenden Geschäftseinheit, die zwischen Unternehmensgruppen übertragen werden, von der erwerbenden Unternehmensgruppe in der gleichen Weise und im gleichen Umfang berücksichtigt als ob die erwerbende Unternehmensgruppe diese Geschäftseinheit bereits zum Zeitpunkt des Entstehens dieser aktiven und passiven latenten Steuern beherrschte.
 
-6. Passive latente Steuern der beitretenden oder austretenden Geschäftseinheit, die zuvor in den Gesamtbetrag der Anpassung der latenten Steuern einbezogen wurden, sind von der veräußernden Unternehmensgruppe für Zwecke des § 50 Absatz 4 als ausgeglichen und von der erwerbenden Unternehmensgruppe für Zwecke des § 50 Absatz 4 als im Geschäftsjahr des Erwerbs entstanden zu behandeln; abweichend von § 50 Absatz 4 Satz 2 ist in diesen Fällen der Nachversteuerungsbetrag als Minderung der erfassten Steuern des laufenden Geschäftsjahres zu behandeln.
+6. Passive latente Steuern der beitretenden oder austretenden Geschäftseinheit, die zuvor in den Gesamtbetrag der Anpassung der latenten Steuern einbezogen wurden, sind für Zwecke des § 50a von der veräußernden Unternehmensgruppe als ausgeglichen und von der erwerbenden Unternehmensgruppe als im Geschäftsjahr des Erwerbs entstanden zu behandeln; abweichend von § 50a ist in diesen Fällen der Nachversteuerungsbetrag als Minderung der erfassten Steuern des laufenden Geschäftsjahres zu behandeln.
 
 7. Ist die beitretende oder austretende Geschäftseinheit eine Muttergesellschaft und im Geschäftsjahr des Beitritts oder Austritts mindestens zu zwei Unternehmensgruppen zugehörig, wendet sie die Bestimmungen der Primärergänzungssteuerregelung gesondert auf die ihr zuzurechnenden Anteile an dem Steuererhöhungsbetrag für die niedrig besteuerten Geschäftseinheiten an, die für jede dieser Unternehmensgruppen identifiziert wurden.
 
@@ -1467,17 +1583,29 @@ Die Veräußerung oder der Erwerb einer Kontrollbeteiligung an einer beitretende
 
 (1) Eine Geschäftseinheit, die Vermögenswerte oder Schulden überträgt (übertragende Geschäftseinheit), bezieht die Gewinne oder Verluste der Übertragung in die Berechnung ihres Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts ein. Eine Geschäftseinheit, die Vermögenswerte und Schulden erwirbt (übernehmende Geschäftseinheit), übernimmt bei der Berechnung ihres Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts die Buchwerte der erworbenen Vermögenswerte und Schulden, die auf der Grundlage der von der obersten Muttergesellschaft im Konzernabschluss angewandten Rechnungslegungsstandards ermittelt wurden. § 21 bleibt unberührt.
 
-(2) Abweichend von Absatz 1 gilt bei der Übertragung oder dem Erwerb von Vermögenswerten und Schulden im Rahmen einer Mindeststeuer-Reorganisation, dass
+(2) Abweichend von Absatz 1 gilt bei der Übertragung oder dem Erwerb von Vermögenswerten und Schulden im Rahmen einer Mindeststeuer-Reorganisation, dass bei der Ermittlung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts
 
-1. bei der Berechnung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts der übertragenden Geschäftseinheit das Ergebnis aus der Übertragung der Vermögenswerte und Schulden außer Ansatz bleibt und
+1. der übertragenden Geschäftseinheit das Ergebnis aus der Übertragung der Vermögenswerte und Schulden außer Ansatz bleibt,
 
-2. bei der Berechnung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts der übernehmenden Geschäftseinheit die Buchwerte der Vermögenswerte und Schulden der übertragenden Geschäftseinheit zum Zeitpunkt der Übertragung zugrunde gelegt werden (Buchwertfortführung).
+2. der übernehmenden Geschäftseinheit
 
-(3) Abweichend von den Absätzen 1 und 2 gilt bei Übertragung von Vermögenswerten und Schulden im Rahmen einer Mindeststeuer-Reorganisation, die zu nicht begünstigten Gewinnen oder Verlusten bei der übertragenden Geschäftseinheit führt, dass
+a) die Buchwerte der Vermögenswerte und Schulden der übertragenden Geschäftseinheit zum Zeitpunkt der Übertragung zugrunde gelegt werden (Buchwertfortführung) und
 
-1. bei der Berechnung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts der übertragenden Geschäftseinheit ein nicht begünstigter Gewinn oder Verlust aus der Übertragung der Vermögenswerte und Schulden berücksichtigt wird und
+b) ein Gewinn oder Verlust in Höhe des Unterschieds zwischen dem Buchwert der Anteile an der übertragenden Geschäftseinheit und den Buchwerten im Sinne des Buchstabens a außer Ansatz bleibt (Übernahmegewinn oder Übernahmeverlust).
 
-2. bei der Berechnung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts der übernehmenden Geschäftseinheit die Buchwerte der Vermögenswerte und Schulden der übertragenden Geschäftseinheit zum Zeitpunkt der Übertragung zugrunde gelegt werden, wobei die Buchwerte nach den lokalen Steuervorschriften für die übernehmende Geschäftseinheit angepasst werden, um die nicht begünstigten Gewinne oder Verluste entsprechend abzubilden.
+Satz 1 Nummer 2 Buchstabe b gilt nicht für einen Übernahmegewinn, soweit dieser dem Anteil der übernehmenden Geschäftseinheit an der übertragenden Geschäftseinheit entspricht und ein Gewinn aus der Veräußerung des Anteils an der übertragenden Geschäftseinheit nicht nach § 21 ausgenommen wäre.
+
+(3) Abweichend von den Absätzen 1 und 2 gilt bei Übertragung von Vermögenswerten und Schulden im Rahmen einer Mindeststeuer-Reorganisation, die zu nicht begünstigten Gewinnen oder Verlusten bei der übertragenden Geschäftseinheit führt, dass bei der Berechnung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts
+
+1. der übertragenden Geschäftseinheit ein nicht begünstigter Gewinn oder Verlust aus der Übertragung der Vermögenswerte und Schulden berücksichtigt wird,
+
+2. der übernehmenden Geschäftseinheit
+
+a) die Buchwerte der Vermögenswerte und Schulden der übertragenden Geschäftseinheit zum Zeitpunkt der Übertragung zugrunde gelegt werden, wobei die Buchwerte nach den lokalen Steuervorschriften für die übernehmende Geschäftseinheit angepasst werden, um die nicht begünstigten Gewinne oder Verluste entsprechend abzubilden und
+
+b) ein Gewinn oder Verlust in Höhe des Unterschieds zwischen dem Buchwert der Anteile an der übertragenden Geschäftseinheit und den Buchwerten im Sinne des Buchstabens a außer Ansatz bleibt (Übernahmegewinn oder Übernahmeverlust).
+
+Satz 1 Nummer 2 Buchstabe b gilt nicht für einen Übernahmegewinn, soweit dieser dem Anteil der übernehmenden Geschäftseinheit an der übertragenden Geschäftseinheit entspricht und ein Gewinn aus der Veräußerung des Anteils an der übertragenden Geschäftseinheit nicht nach § 21 ausgenommen wäre.
 
 (4) Setzt eine Geschäftseinheit in ihrem Belegenheitsstaat aufgrund der steuerrechtlichen Bestimmungen Vermögenswerte und Schulden zum beizulegenden Zeitwert an, ist auf Antrag der berichtspflichtigen Geschäftseinheit
 
@@ -1495,7 +1623,7 @@ a) indem im Geschäftsjahr des auslösenden Ereignisses der Gesamtsaldo in volle
 
 b) indem im Geschäftsjahr des auslösenden Ereignisses und in den vier darauffolgenden Geschäftsjahren jeweils ein Fünftel des Gesamtsaldos angesetzt wird; scheidet die Geschäftseinheit in diesem Zeitraum aus der Unternehmensgruppe aus, ist der verbleibende Betrag in voller Höhe im Geschäftsjahr des Ausscheidens anzusetzen.
 
-(5) Für Zwecke der Absätze 2, 3 und 6 ist eine Mindeststeuer-Reorganisation eine Umwandlung im Sinne des § 1 des Umwandlungsgesetzes oder eine Übertragung von Vermögenswerten oder Schulden oder ein ähnlicher Geschäftsvorfall, bei der oder dem
+(5) Für Zwecke der Absätze 2, 3 und 6 ist eine Mindeststeuer-Reorganisation eine Umwandlung im Sinne des § 1 des Umwandlungsgesetzes oder eine Übertragung von Vermögenswerten oder Schulden im Rahmen eines Zusammenschlusses, einer Spaltung, einer Liquidation oder eines ähnlichen Geschäftsvorfalls, bei der
 
 1. die Gegenleistung für die Übertragung der Vermögenswerte ganz oder zu einem erheblichen Teil aus der Ausgabe von Kapitalanteilen durch die erwerbende Geschäftseinheit oder einer ihr nahestehenden Person im Sinne des Artikels 5 Absatz 8 des OECD-Musterabkommens besteht oder im Fall einer Liquidation aus Kapitalanteilen der liquidierten Geschäftseinheit oder, wenn keine Gegenleistung vorliegt, die Ausgabe eines Kapitalanteils keine wirtschaftliche Bedeutung hätte, und
 
@@ -1507,7 +1635,7 @@ b) indem im Geschäftsjahr des auslösenden Ereignisses und in den vier darauffo
 
 # § 67 – Joint Venture
 
-(1) Die Berechnung des Steuererhöhungsbetrags des Joint Venture und seiner Tochtergesellschaften erfolgt entsprechend den Teilen 3 bis 7 sowie den §§ 84 bis 87, als handle es sich bei den Tochtergesellschaften um Geschäftseinheiten einer selbstständigen Unternehmensgruppe und bei dem Joint Venture um deren oberste Muttergesellschaft.
+(1) Die Berechnung des Steuererhöhungsbetrags des Joint Venture und seiner Tochtergesellschaften erfolgt entsprechend den Teilen 3 bis 7, 8 Abschnitt 3 sowie den §§ 84 bis 87b und 89, als handle es sich bei den Tochtergesellschaften um Geschäftseinheiten einer selbstständigen Unternehmensgruppe und bei dem Joint Venture um deren oberste Muttergesellschaft.
 
 (2) Eine Muttergesellschaft, die unmittelbar oder mittelbar an einem Joint Venture oder einer seiner Tochtergesellschaften beteiligt ist, wendet die Primärergänzungssteuerregelung entsprechend den §§ 8 bis 10 auf den ihr zuzurechnenden Anteil an dem Steuererhöhungsbetrag eines Mitglieds der Joint-Venture-Gruppe an.
 
@@ -1517,7 +1645,7 @@ b) indem im Geschäftsjahr des auslösenden Ereignisses und in den vier darauffo
 
 (5) Ein Joint Venture umfasst nicht
 
-1. eine oberste Muttergesellschaft einer Unternehmensgruppe, die selbst die Umsatzgrenze erfüllt, und ihre Tochtergesellschaften, die Bestandteil dieser Unternehmensgruppe sind,
+1. eine oberste Muttergesellschaft einer Unternehmensgruppe, die selbst der Mindestbesteuerung nach den GloBE-Mustervorschriften unterliegt, und ihre Tochtergesellschaften, die Bestandteil dieser Unternehmensgruppe sind,
 
 2. eine ausgeschlossene Einheit,
 
@@ -1527,7 +1655,7 @@ a) die ausschließlich oder fast ausschließlich zu Gunsten der Anleger Vermöge
 
 b) die ausschließlich Nebentätigkeiten zu den von der ausgeschlossenen Einheit ausgeübten Tätigkeiten ausführt oder
 
-c) die fast ausschließlich ausgenommener Gewinne oder Verluste im Sinne des § 18 Nummer 2 in Verbindung mit § 20 oder des § 18 Nummer 3 in Verbindung mit § 21 erzielt,
+c) die fast ausschließlich ausgenommene Gewinne oder Verluste im Sinne des § 18 Nummer 2 in Verbindung mit § 20 oder des § 18 Nummer 3 in Verbindung mit § 21 erzielt,
 
 4. eine Einheit, die im Besitz einer Unternehmensgruppe steht, die sich ausschließlich aus ausgeschlossenen Einheiten zusammensetzt oder
 
@@ -1727,19 +1855,25 @@ Die angepassten erfassten Steuern einer Investmenteinheit entsprechen der Summe 
 
 # § 75 – Abgabeverpflichtung
 
-(1) Jede nach § 1 Absatz 1 Satz 1 oder Absatz 2 steuerpflichtige Geschäftseinheit hat den Mindeststeuer-Bericht für das Geschäftsjahr dem Bundeszentralamt für Steuern nach Maßgabe des Absatzes 3 sowie des § 76 zu übermitteln. Bei mehreren nach § 1 steuerpflichtigen Geschäftseinheiten einer Unternehmensgruppe, kann eine dieser Geschäftseinheiten im Auftrag der übrigen Geschäftseinheiten den Mindeststeuer-Bericht übermitteln. Konnte eine Geschäftseinheit davon ausgehen, dass eine andere im Auftrag der übrigen Geschäftseinheiten den Mindeststeuer-Bericht fristgerecht übermittelt, und stellt sich heraus, dass kein Mindeststeuer-Bericht abgegeben worden ist, so hat sie ihre Pflichten nach Satz 1 innerhalb eines Monats nachdem sie Kenntnis von der Nichtübermittlung erlangt hat, zu erfüllen.
+(1) Jede nach § 1 Absatz 1 Satz 1 oder Absatz 2 steuerpflichtige Geschäftseinheit hat den Mindeststeuer-Bericht für das Geschäftsjahr dem Bundeszentralamt für Steuern nach Maßgabe des Absatzes 3 sowie des § 76 zu übermitteln. Bei mehreren nach § 1 steuerpflichtigen Geschäftseinheiten einer Unternehmensgruppe kann eine dieser Geschäftseinheiten im Auftrag der übrigen Geschäftseinheiten den Mindeststeuer-Bericht übermitteln. Konnte eine Geschäftseinheit davon ausgehen, dass eine andere im Auftrag der übrigen Geschäftseinheiten den Mindeststeuer-Bericht fristgerecht übermittelt, und stellt sich heraus, dass kein Mindeststeuer-Bericht abgegeben worden ist, so hat sie ihre Pflichten nach Satz 1 innerhalb eines Monats nachdem sie Kenntnis von der Nichtübermittlung erlangt hat, zu erfüllen.
 
 (2) Die Verpflichtung nach Absatz 1 Satz 1 entfällt, wenn
 
 1. der Mindeststeuer-Bericht von der obersten Muttergesellschaft oder einer von ihr zur Übermittlung beauftragten Geschäftseinheit in ihrem jeweiligen Belegenheitsstaat abgegeben wurde und
 
-2. eine wirksame völkerrechtliche Vereinbarung besteht, die für das Geschäftsjahr einen automatischen Austausch von Mindeststeuer-Berichten durch den jeweiligen Belegenheitsstaat mit der zuständigen Behörde der Bundesrepublik Deutschland vorsieht.
+2. der Belegenheitsstaat ein Mitgliedstaat der Europäischen Union ist oder eine wirksame völkerrechtliche Vereinbarung besteht, die für das Geschäftsjahr einen automatischen Austausch von Mindeststeuer-Berichten durch den jeweiligen Belegenheitsstaat mit der zuständigen Behörde der Bundesrepublik Deutschland vorsieht.
 
 Absatz 1 Satz 3 gilt entsprechend.
 
-(3) Die Übermittlung des Mindeststeuer-Berichts an das Bundeszentralamt für Steuern hat spätestens 15 Monate nach Ablauf des Geschäftsjahres zu erfolgen. Abweichend von Satz 1 hat die Übermittlung spätestens 18 Monate nach Ablauf des Geschäftsjahres zu erfolgen, für das erstmals für die Unternehmensgruppe ein Mindeststeuer-Bericht zu erstellen ist. Die Übermittlung hat über die amtlich bestimmte Schnittstelle elektronisch zu erfolgen. Den für die elektronische Übermittlung amtlich vorgeschriebenen Datensatz gibt das Bundesministerium der Finanzen im Bundessteuerblatt bekannt.
+(3) Die Übermittlung des Mindeststeuer-Berichts an das Bundeszentralamt für Steuern hat spätestens 15 Monate nach Ablauf des Geschäftsjahres zu erfolgen. Abweichend von Satz 1 hat die Übermittlung spätestens 18 Monate nach Ablauf des Geschäftsjahres zu erfolgen, für das erstmals für die Unternehmensgruppe ein Mindeststeuer-Bericht zu erstellen ist. Die Fristen nach den Sätzen 1 und 2 enden nicht vor dem 30. Juni 2026. Die Übermittlung hat über die amtlich bestimmte Schnittstelle elektronisch zu erfolgen. Den für die elektronische Übermittlung amtlich vorgeschriebenen Datensatz gibt das Bundesministerium der Finanzen im Bundessteuerblatt bekannt.
 
-(4) Das Bundeszentralamt für Steuern übermittelt die Mindeststeuer-Berichte an das jeweils zuständige Finanzamt. Enthält ein Mindeststeuer-Bericht Angaben im Sinne des § 76 für ein Steuerhoheitsgebiet, übermittelt das Bundeszentralamt für Steuern der zuständigen Behörde dieses Steuerhoheitsgebiets den ihm nach Absatz 1 übermittelten Mindeststeuer-Bericht, wenn die Bundesrepublik Deutschland und dieses Steuerhoheitsgebiet aufgrund einer innerstaatlichen anwendbaren völkerrechtlichen Vereinbarung zum gegenseitigen automatischen Austausch von Informationen zu Mindeststeuer-Berichten zwischen ihren zuständigen Behörden verpflichtet sind (Vertragsstaat). Das Bundeszentralamt für Steuern nimmt die Mindeststeuer-Berichte entgegen, die ihm von den in Satz 2 genannten Vertragsstaaten übermittelt worden sind. Das Bundeszentralamt für Steuern kann die Mindeststeuer-Berichte im Rahmen der ihm gesetzlich übertragenen Aufgaben auswerten. Das Bundeszentralamt für Steuern speichert die Mindeststeuer-Berichte und löscht sie mit Ablauf des 15. Jahres, das dem Jahr der Übermittlung folgt. § 88a der Abgabenordnung ist zu beachten.
+(4) Enthält ein Mindeststeuer-Bericht Angaben im Sinne des § 76 für ein anderes Steuerhoheitsgebiet, übermittelt das Bundeszentralamt für Steuern der zuständigen Behörde dieses Steuerhoheitsgebiets Angaben nach dem in einer Rechtsverordnung nach § 99 Absatz 3 festgelegten Verteilungsansatz, wenn die Bundesrepublik Deutschland und dieses Steuerhoheitsgebiet aufgrund von Artikel 8ae Absatz 2 der Richtlinie 2011/16/EU oder einer innerstaatlich anwendbaren völkerrechtlichen Vereinbarung zum gegenseitigen automatischen Austausch von Informationen zu Mindeststeuer-Berichten zwischen ihren zuständigen Behörden verpflichtet sind. Die Übermittlung nach Satz 1 erfolgt spätestens mit Ablauf des dritten Monats nach Ablauf der Frist nach Absatz 3 Satz 1 oder 2. Für nach Ablauf der Frist nach Absatz 3 Satz 1 oder Satz 2 erhaltene Mindeststeuer-Berichte erfolgt die Übermittlung spätestens drei Monate nach deren Erhalt. Abweichend von den Sätzen 2 und 3 hat die Übermittlung nach Satz 1 für das Geschäftsjahr, für das erstmals für die Unternehmensgruppe ein Mindeststeuer-Bericht zu erstellen ist, spätestens sechs Monate nach Ablauf der Frist nach Absatz 3 Satz 2 zu erfolgen, frühestens jedoch am 1. Dezember 2026. Die Übermittlung nach Satz 1 erfolgt unter Verwendung des in Artikel 20 Absatz 4 der Richtlinie 2011/16/EU genannten elektronischen Standardformats. Das Bundeszentralamt für Steuern nimmt die Mindeststeuer-Berichte entgegen, die ihm von der zuständigen Behörde eines anderen Steuerhoheitsgebiets übermittelt worden sind. Das Bundeszentralamt für Steuern übermittelt die Mindeststeuer-Berichte zur Durchführung des Besteuerungsverfahrens an die zuständige Landesfinanzbehörde. Das Bundeszentralamt für Steuern kann die Mindeststeuer-Berichte im Rahmen der ihm gesetzlich übertragenen Aufgaben auswerten. Das Bundeszentralamt für Steuern speichert die Mindeststeuer-Berichte und löscht sie mit Ablauf des 15. Jahres, das dem Jahr der Übermittlung folgt. § 88a der Abgabenordnung ist zu beachten.
+
+# § 75a – Berichtigung des Mindeststeuer-Berichts
+
+(1) Hat das Bundeszentralamt für Steuern Grund zu der Annahme, dass ein von einer obersten Muttergesellschaft oder einer als berichtspflichtig benannten Geschäftseinheit, die im Steuerhoheitsgebiet eines anderen Mitgliedstaats der Europäischen Union oder eines Drittstaats belegen ist, nach Artikel 8ae der Richtlinie 2011/16/EU oder nach einer wirksamen völkerrechtlichen Vereinbarung übermittelter Mindeststeuer-Bericht offensichtlich fehlerhafte Informationen enthält, die berichtigt werden müssen, so unterrichtet es unverzüglich die zuständige Behörde des anderen Mitgliedstaats oder des Drittstaats. Wenn das Bundeszentralamt für Steuern nach einer Berichtigungsunterrichtung aus einem anderen Steuerhoheitsgebiet den dort genannten Mindeststeuer-Bericht für fehlerhaft hält, fordert es die betreffende oberste Muttergesellschaft oder die berichtspflichtige Geschäftseinheit unverzüglich auf, einen berichtigten Mindeststeuer-Bericht einzureichen. Das Bundeszentralamt für Steuern übermittelt den berichtigten Mindeststeuer-Bericht unverzüglich allen zuständigen Behörden, mit denen solche Informationen gemäß der Richtlinie 2011/16/EU oder einer innerstaatlich anwendbaren völkerrechtlichen Vereinbarung zum gegenseitigen automatischen Austausch von Informationen zu Mindeststeuer-Berichten zwischen ihren zuständigen Behörden auszutauschen sind.
+
+(2) Wurde das Bundeszentralamt für Steuern von einer Geschäftseinheit oder mehreren Geschäftseinheiten darüber unterrichtet, dass der Mindeststeuer-Bericht für diese Geschäftseinheiten von der obersten Muttergesellschaft oder der berichtspflichtigen Geschäftseinheit, die in einem anderen Steuerhoheitsgebiet belegen ist, einzureichen war, und wurden die im Mindeststeuer-Bericht enthaltenen Deutschland betreffenden Informationen nicht innerhalb der in § 75 Absatz 3 genannten Fristen übermittelt, so unterrichtet es die zuständige Behörde des anderen Steuerhoheitsgebiets unverzüglich darüber, dass die Informationen nicht bei ihr eingegangen sind. Wird das Bundeszentralamt für Steuern von einer Behörde in einem anderen Steuerhoheitsgebiet darüber unterrichtet, dass Informationen nicht bei ihr eingegangen sind, ermittelt es unverzüglich den Grund für die ausgebliebene Übermittlung des betreffenden Mindeststeuer-Berichts und teilt der zuständigen Behörde des anderen Steuerhoheitsgebiets diesen innerhalb eines Monats nach Eingang der Mitteilung mit, sofern möglich mit Angabe eines voraussichtlichen Datums für die Übermittlung des Mindeststeuer-Berichts. Dieses Datum soll höchstens drei Monate nach Eingang der Mitteilung über den ausgebliebenen Austausch liegen.
 
 # § 76 – Inhalt des Mindeststeuer-Berichts
 
@@ -1757,13 +1891,13 @@ b) der Steuererhöhungsbeträge eines Mitglieds einer Joint-Venture-Gruppe,
 
 c) der Primärergänzungssteuerbeträge für jedes Steuerhoheitsgebiet sowie der nach der Sekundärergänzungssteuerregelung den einzelnen Steuerhoheitsgebieten zuzurechnenden Anteile am Gesamtbetrag der Steuererhöhungsbeträge (Teil 2),
 
-4. eine Auflistung der nach § 77 Absatz 1 Satz 1 und Absatz 2 Satz 1 ausgeübten Wahlrechte.
+4. eine Auflistung der nach § 77 Absatz 1 Satz 1 und 3 sowie Absatz 2 Satz 1 ausgeübten Wahlrechte.
 
 # § 77 – Wahlrechte
 
-(1) Die Ausübung der in § 36 Absatz 1, § 50 Absatz 7, § 52 Absatz 4, § 56 Absatz 1, § 58 Absatz 2 und § 71 Absatz 1 genannten Wahlrechte bindet jeweils für ein Geschäftsjahr. Die Bindung verlängert sich automatisch, sofern die berichtspflichtige Geschäftseinheit die Inanspruchnahme des Wahlrechts nicht mit Wirkung zum Ende des Geschäftsjahres widerruft.
+(1) Die Ausübung der in § 36 Absatz 1, § 50 Absatz 5 Satz 3, § 52 Absatz 4, § 56 Absatz 1, § 58 Absatz 2 und § 71 Absatz 1 genannten Wahlrechte bindet jeweils für ein Geschäftsjahr. Die Bindung verlängert sich automatisch, sofern die berichtspflichtige Geschäftseinheit die Inanspruchnahme des Wahlrechts nicht mit Wirkung zum Ende des Geschäftsjahres widerruft. Satz 1 gilt entsprechend für das in § 41 Absatz 1 genannte Wahlrecht; Satz 2 kommt nicht zur Anwendung.
 
-(2) Die Ausübung der in § 5 Absatz 3, § 34 Absatz 1, § 35 Absatz 1, § 37 Absatz 1, § 38 Absatz 1, § 39 Absatz 1, § 40 Absatz 1, § 73 Absatz 1 und § 74 Absatz 1 genannten Wahlrechte bindet jeweils für fünf Geschäftsjahre, beginnend in dem Geschäftsjahr, in dem das Wahlrecht in Anspruch genommen wird. Die Bindung verlängert sich automatisch für weitere fünf Jahre, sofern die berichtspflichtige Geschäftseinheit die Inanspruchnahme des Wahlrechts nicht mit Wirkung zum Ende des Fünfjahreszeitraums widerruft. Der Widerruf bindet für fünf Geschäftsjahre, beginnend mit dem Geschäftsjahr, das auf das Ende des Fünfjahreszeitraums folgt, für das das Wahlrecht nach Satz 1 letztmals in Anspruch genommen wurde.
+(2) Die Ausübung der in § 5 Absatz 3, § 34 Absatz 1, § 35 Absatz 1, § 37 Absatz 1, § 38 Absatz 1, § 39 Absatz 1, § 40 Absatz 1, § 49 Absatz 1 Satz 2, § 50 Absatz 5 Satz 3, § 73 Absatz 1 und § 74 Absatz 1 genannten Wahlrechte bindet jeweils für fünf Geschäftsjahre, beginnend in dem Geschäftsjahr, in dem das Wahlrecht in Anspruch genommen wird. Die Bindung verlängert sich automatisch für weitere fünf Jahre, sofern die berichtspflichtige Geschäftseinheit die Inanspruchnahme des Wahlrechts nicht mit Wirkung zum Ende des Fünfjahreszeitraums widerruft. Der Widerruf bindet für fünf Geschäftsjahre, beginnend mit dem Geschäftsjahr, das auf das Ende des Fünfjahreszeitraums folgt, für das das Wahlrecht nach Satz 1 letztmals in Anspruch genommen wurde.
 
 (3) Die Inanspruchnahme der in den Absätzen 1 und 2 genannten Wahlrechte ist durch die berichtspflichtige Geschäftseinheit gegenüber der zuständigen Behörde des Steuerhoheitsgebiets zu erklären, in dem die berichtspflichtige Geschäftseinheit belegen ist.
 
@@ -1789,7 +1923,7 @@ c) der Primärergänzungssteuerbeträge für jedes Steuerhoheitsgebiet sowie der
 
 3. der für das jeweilige Steuerhoheitsgebiet nach den vereinfachten Berechnungen entsprechend § 53 Absatz 1 ermittelte effektive Steuersatz entspricht mindestens dem Mindeststeuersatz (Effektivsteuersatz-Test).
 
-(2) Zugelassene vereinfachte Berechnungen sind die in diesem Unterabschnitt enthaltenen alternativen Berechnungsgrundlagen betreffend den Mindeststeuer-Umsatz, den Mindesteuer-Gewinn und der angepassten erfassten Steuern.
+(2) Zugelassene vereinfachte Berechnungen sind die in diesem Unterabschnitt enthaltenen alternativen Berechnungsgrundlagen betreffend den Mindeststeuer-Umsatz, den Mindeststeuer-Gewinn und der angepassten erfassten Steuern.
 
 # § 80 – Wahlrecht für vereinfachte Ausgangsgrößen bei unwesentlichen Geschäftseinheiten
 
@@ -1801,7 +1935,9 @@ c) der Primärergänzungssteuerbeträge für jedes Steuerhoheitsgebiet sowie der
 
 2. der Betrag der angepassten erfassten Steuern den im länderbezogenen Bericht der Geschäftseinheit ausgewiesenen für dieses Geschäftsjahr gezahlten und zurückgestellten Ertragsteuern. Darunter fallen keine Erträge oder Aufwendungen aus der Bildung oder Auflösung aktiver und passiver latenter Steuern, Aufwendungen aus der Bildung von ungewissen Steuerrückstellungen sowie sonstigen periodenfremden Steueraufwands- oder Steuerertragspositionen.
 
-(3) Absatz 1 ist nicht auf unwesentliche Geschäftseinheiten mit Umsätzen von über 50 Millionen Euro anwendbar, wenn die Daten aus dem länderbezogenen Bericht nicht aus einem Einzelabschuss stammen, der auf Basis eines anerkannten Rechnungslegungsstandards (§ 7 Absatz 4) oder eines zugelassenen Rechnungslegungsstandards (§ 7 Absatz 37) aufgestellt worden ist.
+Unternehmensgruppen, die nicht zur Erstellung eines länderbezogenen Berichts verpflichtet sind, haben die Angaben zugrunde zu legen, die sie berichtet hätten, wenn sie verpflichtet gewesen wären, einen länderbezogenen Bericht zu erstellen.
+
+(3) Absatz 1 ist nicht auf unwesentliche Geschäftseinheiten mit Umsätzen von jeweils mehr als 50 Millionen Euro anwendbar, wenn die Daten aus dem länderbezogenen Bericht nicht aus einem Einzelabschuss stammen, der auf Basis eines anerkannten Rechnungslegungsstandards (§ 7 Absatz 4) oder eines zugelassenen Rechnungslegungsstandards (§ 7 Absatz 37) aufgestellt worden ist.
 
 # § 81 – Safe-Harbour bei anerkannter nationaler Ergänzungssteuer
 
@@ -1813,7 +1949,21 @@ c) der Primärergänzungssteuerbeträge für jedes Steuerhoheitsgebiet sowie der
 
 3. für die Unternehmensgruppe in dem jeweiligen Steuerhoheitsgebiet eine mit § 83 vergleichbare Steuerbefreiung für die anerkannte nationale Ergänzungssteuer besteht,
 
-4. die anerkannte nationale Ergänzungssteuer für Joint Ventures, Joint-Venture-Tochtergesellschaften oder Betriebsstätten eines Joint Venture oder einer Joint-Venture-Tochtergesellschaft nicht unmittelbar von diesen erhoben wird; dies gilt nicht, wenn in einem solchen Fall nach dem Recht des Steuerhoheitsgebiets eine mit § 3 Absatz 6 vergleichbare Ausgleichsverpflichtung besteht, oder
+4. die anerkannte nationale Ergänzungssteuer für Joint Ventures, Joint-Venture-Tochtergesellschaften oder Betriebsstätten eines Joint Venture oder einer Joint-Venture-Tochtergesellschaft nicht unmittelbar von diesen erhoben wird; dies gilt nicht, wenn in einem solchen Fall nach dem Recht des Steuerhoheitsgebiets eine mit § 3 Absatz 6 vergleichbare Ausgleichsverpflichtung besteht,
+
+5. in dem jeweiligen Steuerhoheitsgebiet Verbriefungszweckeinheiten keiner mit § 1 in Verbindung mit § 90 vergleichbaren Steuerpflicht unterliegen,
+
+6. in dem jeweiligen Steuerhoheitsgebiet aktive latente Steuern sowie der aus deren Umkehrung resultierende latente Steueraufwand, der
+
+a) im Zusammenhang mit einer staatlichen Maßnahme im Sinne des § 82a Absatz 3 steht, die nach dem 30. November 2021 beschlossen oder erweitert worden ist,
+
+b) im Zusammenhang mit einem Wahlrecht einer Geschäftseinheit steht, das rückwirkend die steuerliche Behandlung eines Vorgangs für einen Besteuerungszeitraum ändert, für den bereits eine Steuerfestsetzung erfolgt oder eine Steuererklärung eingereicht worden ist, sofern das Wahlrecht nach dem 30. November 2021 ausgeübt oder geändert worden ist, oder
+
+c) auf Unterschieden zwischen der steuerlichen und handelsrechtlichen Bewertung beruht, wenn diese Unterschiede auf einem Körperschaftsteuerregime im Sinne des § 82a Absatz 2 Satz 2 beruhen, das nach dem 30. November 2021 verabschiedet worden ist,
+
+bei der Berechnung des effektiven Steuersatzes oder der vereinfacht erfassten Steuern zu berücksichtigen ist, weil in dem jeweiligen Steuerhoheitsgebiet keine mit den §§ 82a und 87 Absatz 3 vergleichbare Regelung Anwendung findet,
+
+7. in dem jeweiligen Steuerhoheitsgebiet eine Wahlmöglichkeit zu einer mit § 1 in Verbindung mit § 90 vergleichbaren Steuerpflicht besteht, die nicht unwiderruflich ausgeübt worden ist.
 
 5. für die Unternehmensgruppe die anerkannte nationale Ergänzungssteuer ganz oder teilweise nicht nach § 54 Absatz 2 Satz 2 zu berücksichtigen wäre.
 
@@ -1827,7 +1977,7 @@ Der Ausschluss von dem Safe-Harbour nach Satz 3 gilt im Fall der
 
 4. Nummer 4 für die jeweiligen Joint Ventures, Joint-Venture-Tochtergesellschaften oder Betriebsstätten eines Joint Venture oder einer Joint-Venture-Tochtergesellschaft und
 
-5. Nummer 5 für das jeweilige Steuerhoheitsgebiet.
+5. Nummern 5 bis 7 für das jeweilige Steuerhoheitsgebiet.
 
 (2) Eine anerkannte nationale Ergänzungssteuer wird in Übereinstimmung mit dem Ergänzungssteuer-Rechnungslegungsstandard erhoben, wenn die Ergänzungssteuer auf der Grundlage einer mit § 15 vergleichbaren ausländischen Regelung ermittelt wird. Abweichend von § 15 ist dabei die Verwendung eines lokalen Rechnungslegungsstandards nur zulässig, wenn die folgenden Voraussetzungen erfüllt sind:
 
@@ -1853,13 +2003,67 @@ b) unterliegen einer Abschlussprüfung durch einen Abschlussprüfer im Sinne des
 
 # § 82 – Steuerattribute des Übergangsjahres
 
-(1) Bei der Bestimmung des effektiven Steuersatzes eines Steuerhoheitsgebiets in einem Übergangsjahr und den darauffolgenden Jahren berücksichtigt die Unternehmensgruppe alle zu Beginn des Übergangsjahres in den Abschlüssen aller Geschäftseinheiten in dem Steuerhoheitsgebiet für das Übergangsjahr erfassten oder ausgewiesenen aktiven und passiven latenten Steuern. Solche aktiven und passiven latenten Steuern müssen zum Mindeststeuersatz oder zu dem im Steuerhoheitsgebiet geltenden Steuersatz berücksichtigt werden, je nachdem, welcher der beiden Sätze niedriger ist. Aktive latente Steuern, die zu einem unter dem Mindeststeuersatz liegenden Satz erfasst wurden, können zum Mindeststeuersatz berücksichtigt werden, wenn der Steuerpflichtige nachweisen kann, dass der betreffende latente Steueranspruch einem Mindeststeuer-Verlust zuzuschreiben ist. Aktive latente Steuern, die zu einem über dem Mindeststeuersatz liegenden Satz erfasst wurden und die Nutzung von Steueranrechnungsbeträgen betreffen, sind nur in Höhe des Verhältnisses vom Mindeststeuersatz zu dem im Steuerhoheitsgebiet geltenden Steuersatz zu berücksichtigen. Bei einer späteren Steuersatzänderung ist der nach Satz 4 berücksichtigungsfähige Betrag bezogen auf den noch ausstehenden Betrag entsprechend anzupassen. Für die Zwecke der Anwendung dieses Absatzes werden die Auswirkungen von Ansatz- und Bewertungsanpassungen auf einen latenten Steueranspruch nicht berücksichtigt.
+(1) Bei der Bestimmung des effektiven Steuersatzes einer Unternehmensgruppe für ein Steuerhoheitsgebiet sind im Übergangsjahr und den darauf folgenden Geschäftsjahren alle aktiven und passiven latenten Steuern zu berücksichtigen, die am Ende des Geschäftsjahres, das dem Übergangsjahr vorhergeht, in den Berichtspaketen im Sinne des § 87 Absatz 2 der Geschäftseinheiten in dem jeweiligen Steuerhoheitsgebiet erfasst oder ausgewiesen sind. Für Geschäftseinheiten im Sinne des § 4 Absatz 1 Satz 1 Nummer 2 ist stattdessen auf den Jahresabschluss abzustellen. Solche aktiven und passiven latenten Steuern müssen zum Mindeststeuersatz berücksichtigt werden. Ist der in dem Steuerhoheitsgebiet geltende Steuersatz niedriger, findet dieser Steuersatz Anwendung.
 
-(2) Aktive latente Steuern, die sich aus Posten ergeben, welche von der Berechnung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts nach Teil 3 ausgenommen sind, sind von der Berechnung nach Absatz 1 ausgenommen, wenn diese latenten Steueransprüche durch einen Geschäftsvorfall entstehen, der nach dem 30. November 2021 stattfindet.
+(2) Aktive latente Steuern, die zu einem unter dem Mindeststeuersatz liegenden Satz erfasst wurden, können zum Mindeststeuersatz berücksichtigt werden, wenn der Steuerpflichtige nachweisen kann, dass der betreffende latente Steueranspruch einem Mindeststeuer-Verlust zuzuschreiben ist.
 
-(3) Bei Übertragungen von Vermögenswerten zwischen Geschäftseinheiten, die nach dem 30. November 2021 und vor Beginn eines Übergangsjahres stattfinden, beruht der Ansatz der erworbenen Vermögenswerte (mit Ausnahme von Vorräten) auf dem von der veräußernden Geschäftseinheit ausgewiesenen Buchwert der übertragenen Vermögenswerte im Zeitpunkt der Veräußerung. Die aktiven und passiven latenten Steuern sind auf dieser Grundlage und unter Außerachtlassung der aktiven und passiven latenten Steuern, die aus der Übertragung resultieren, zu ermitteln. Abweichend von Satz 2 kann auf Antrag der berichtspflichtigen Geschäftseinheit von der erwerbenden Geschäftseinheit ein latenter Steueranspruch auf Grundlage der von der veräußernden Geschäftseinheit auf den Veräußerungsgewinn gezahlten erfassten Steuern ermittelt werden; dieser darf die positive Differenz zwischen dem steuerlichen Buchwert des Vermögenswerts bei der erwerbenden Geschäftseinheit und dem nach Satz 1 anzusetzenden Wert multipliziert mit dem Mindeststeuersatz nicht übersteigen (Kappungsbetrag). Für die Ermittlung der auf den Veräußerungsgewinn gezahlten erfassten Steuern im Sinne des Satzes 3 ist § 49 entsprechend anzuwenden und sind aktive latente Steuern der veräußernden Geschäftseinheit zu berücksichtigen, die bei entsprechender Anwendung des Absatzes 1 hätten berücksichtigt werden können, wäre der Veräußerungsgewinn bei ihr nicht in die steuerliche Bemessungsgrundlage einbezogen worden. Der nach den Sätzen 3 und 4 ermittelte Steueranspruch wirkt sich im Jahr der Bildung nicht auf die angepassten erfassten Steuern der erwerbenden Geschäftseinheit aus und ist entsprechend der Wertentwicklung des Buchwerts fortzuschreiben. Abweichend von den Sätzen 1 und 2 kann auf Antrag der berichtspflichtigen Geschäftseinheit die erwerbende Geschäftseinheit ihren Buchwert beibehalten, wenn sie bei Anwendung der Sätze 3 bis 5 einen latenten Steueranspruch in Höhe des Kappungsbetrags beanspruchen könnte. Für Zwecke dieses Absatzes gelten als Übertragung von Vermögenswerten zwischen Geschäftseinheiten auch Geschäftsvorfälle, die ungeachtet ihrer Form und ungeachtet des Umstands, ob sie zwischen verschiedenen Geschäftseinheiten oder innerhalb der Geschäftseinheit stattfinden, als mit einer Übertragung von Vermögenswerten vergleichbar angesehen werden. Dies ist insbesondere der Fall, wenn sich der Buchwert eines Vermögenswerts aufgrund des Geschäftsvorfalls erhöht (zum Beispiel Finanzierungsleasing). Dabei ist allein die Erhöhung des steuerlichen Buchwerts ausreichend (zum Beispiel bei Sitzverlegung).
+(3) Aktive latente Steuern, die zu einem über dem Mindeststeuersatz liegenden Satz erfasst wurden und die Nutzung von Steueranrechnungsbeträgen betreffen, sind nur in Höhe des Verhältnisses vom Mindeststeuersatz zu dem im Steuerhoheitsgebiet geltenden Steuersatz zu berücksichtigen. Bei einer späteren Steuersatzänderung ist der nach Satz 1 berücksichtigungsfähige Betrag bezogen auf den noch ausstehenden Betrag entsprechend anzupassen.
 
-(4) Übergangsjahr im Sinne dieser Vorschrift bedeutet für ein Steuerhoheitsgebiet das erste Geschäftsjahr, in dem die Unternehmensgruppe in Bezug zu diesem Steuerhoheitsgebiet in den Anwendungsbereich dieses Gesetzes oder einer ausländischen Vorschrift, die den Vorschriften der Richtlinie (EU) 2022/2523 entspricht, fällt. Sofern die Voraussetzungen nach § 83 oder nach den §§ 84 bis 87 erfüllt sind und die Unternehmensgruppe den CbCR-Safe-Harbour in Bezug auf ein Steuerhoheitsgebiet tatsächlich anwendet, verschiebt sich das Übergangsjahr entsprechend.
+(4) Für Zwecke der Anwendung der Absätze 1 bis 3
+
+1. gelten § 50 Absatz 1 Satz 2 Nummer 3 sowie § 50 Absatz 1a in Verbindung mit § 64 Absatz 2 Nummer 2 entsprechend und
+
+2. bleiben latente Steuern in Bezug auf eine gemischte Hinzurechnungsbesteuerung im Übergangsjahr und in den darauf folgenden Jahren unberücksichtigt.
+
+# § 82a – Ausgeschlossene Steuerattribute
+
+(1) Aktive latente Steuern, die sich aus Positionen ergeben, die
+
+1. von der Berechnung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts nach dem dritten Teil ausgenommen wären,
+
+2. mit steuerlichen Abzügen oder steuerlichen Verlusten im Zusammenhang stehen, soweit diesen keine tatsächlichen Aufwendungen gegenüberstehen,
+
+3. in keinem Zusammenhang mit einer steuerlichen Zulage und in keinem Zusammenhang zu einer Steuervorauszahlung stehen, insbesondere solchen, die im Zusammenhang mit einer Aufstockung von steuerlichen Buchwerten stehen, denen kein korrespondierender Einbezug in die steuerlichen Bemessungsgrundlage gegenübersteht,
+
+4. im Zusammenhang mit einer steuerlichen Zulage stehen, die auf einer staatlichen Maßnahme beruht oder
+
+5. mit einem steuerlichen Verlust im Zusammenhang stehen, der aus einem Geschäftsjahr stammt, das bezogen auf das Inkrafttreten eines Körperschaftsteuerregimes eines Staates mehr als fünf Geschäftsjahre zurückliegt, auch wenn der steuerliche Verlust den Totalverlust dieses Zeitraums übersteigt,
+
+sind von der Berechnung nach § 82 ausgeschlossen. Satz 1 Nummer 1 bis 4 gilt nur, wenn diese latenten Steueransprüche durch einen Geschäftsvorfall entstehen, der nach dem 30. November 2021 stattfindet. Satz 1 Nummer 5 gilt nur für Körperschaftsteuerregime, die erstmalig nach dem 30. November 2021 in Kraft getreten sind. Satz 1 gilt nicht für aktive latente Steuern, die nach diesem Gesetz aufgrund eines abweichenden Mindeststeuer-Buchwerts im Sinne des § 50 Absatz 1a Satz 1 zu bilden sind. Passive latente Steuern, die auf Unterschieden zwischen der steuerlichen und handelsrechtlichen Bewertung aufgrund eines Körperschaftsteuerregimes im Sinne des Satzes 3 beruhen, sind bis zur Höhe der aktiven latenten Steuern, die ebenfalls auf solchen Unterschieden beruhen, von der Berechnung nach § 82 ausgeschlossen.
+
+(2) Aktive latente Steuern und, im Fall von Nummer 3, passive latente Steuern, die
+
+1. im Zusammenhang mit einer staatlichen Maßnahme stehen, die vor dem 19. November 2024 beschlossen oder erweitert worden ist,
+
+2. im Zusammenhang mit einem Wahlrecht einer Geschäftseinheit stehen, das rückwirkend die steuerliche Behandlung eines Vorgangs für einen Besteuerungszeitraum ändert, für den bereits eine Steuerfestsetzung erfolgt oder eine Steuererklärung eingereicht worden ist, sofern das Wahlrecht vor dem 19. November 2024 ausgeübt oder geändert worden ist, oder
+
+3. auf Unterschieden zwischen der steuerlichen und handelsrechtlichen Bewertung beruhen, wenn diese Unterschiede auf einem Körperschaftsteuerregime im Sinne des Absatzes 1 Satz 3 beruhen, das vor dem 19. November 2024 verabschiedet worden ist,
+
+sind abweichend von Absatz 1 innerhalb der Schonfrist nach Absatz 4 insgesamt bis maximal in Höhe des Verschonungsbetrags nach Absatz 5 vom Ausschluss ausgenommen.
+
+(3) Eine staatliche Maßnahme ist jede Vereinbarung, verbindliche Auskunft, Verfügung, Beihilfe oder ähnliche Handlung eines Staates sowie deren nachträgliche Änderung, die einer Geschäftseinheit einen selektiven Steuervorteil gewährt, den die Geschäftseinheit ohne die staatliche Maßnahme nicht erhalten hätte. Eine staatliche Maßnahme liegt insbesondere dann nicht vor, wenn die Gewährung des selektiven Steuervorteils nicht im Ermessen des Staates liegt.
+
+(4) Die Schonfrist umfasst in den Fällen, des
+
+1. Absatzes 2 Nummer 1 und 2 alle Geschäftsjahre, die nach dem 30. Dezember 2023 und vor dem 1. Januar 2026 beginnen sowie vor dem 1. Juli 2027 enden,
+
+2. Absatzes 2 Nummer 3 alle Geschäftsjahre, die nach dem 31. Dezember 2024 und vor dem 1. Januar 2027 beginnen sowie vor dem 1. Juli 2028 enden.
+
+(5) Der Verschonungsbetrag beträgt 20 Prozent der aktiven oder passiven latenten Steuer, bei ihrer erstmaligen Bilanzierung. Bei der Berechnung des Verschonungsbetrags ist der Mindeststeuersatz zugrunde zu legen. Ist der in dem jeweiligen Steuerhoheitsgebiet geltende Steuersatz niedriger, ist dieser zugrunde zu legen. Der Verschonungsbetrag darf den Betrag nicht übersteigen, der bei Zugrundelegung der tatsächlichen und rechtlichen Verhältnisse am 18. November 2024 gegolten hätte. Insbesondere bleiben Änderungen in den rechtlichen Rahmenbedingungen, der Ausübung von Wahlrechten, Rechnungslegungsmethoden und staatliche Maßnahmen, die nach dem 18. November 2024 erfolgen und die zu einer Erhöhung der aktiven latenten Steuern führen, für die Ermittlung des Verschonungsbetrags unberücksichtigt. Auf den Verschonungsbetrag werden bis maximal auf null aktive latente Steuern, die aufgrund von Absatz 2 und § 87 Absatz 4 Satz 3 berücksichtigt wurden, sowie der aus deren Umkehrung resultierende latente Steueraufwand angerechnet.
+
+# § 82b – Gruppeninterne Übertragung von Vermögenswerten
+
+(1) Bei Übertragungen von Vermögenswerten, ausgenommen Vorräte, zwischen Geschäftseinheiten derselben Unternehmensgruppe, die nach dem 30. November 2021 und vor Beginn eines Übergangsjahres stattgefunden haben, sind die übernommenen Vermögenswerte mit den Buchwerten anzusetzen, den die übertragende Geschäftseinheit im Zeitpunkt der Übertragung angesetzt hatte. Die aktiven und passiven latenten Steuern sind auf dieser Grundlage zu ermitteln, dabei sind die aktiven und passiven latenten Steuern, die aus der Übertragung resultieren, außer Acht zu lassen.
+
+(2) Auf Antrag der berichtspflichtigen Geschäftseinheit kann die übernehmende Geschäftseinheit einen latenten Steueranspruch ermitteln und berücksichtigen, der den erfassten Steuern entspricht, die die übertragende Geschäftseinheit auf den Übertragungsgewinn gezahlt hat. Der latente Steueranspruch darf die positive Differenz zwischen dem steuerlichen Buchwert des Vermögenswerts bei der übernehmenden Geschäftseinheit und dem Buchwert im Sinne des Absatzes 1 multipliziert mit dem Mindeststeuersatz (Kappungsbetrag) nicht übersteigen. Für die Ermittlung der auf den Übertragungsgewinn gezahlten erfassten Steuern nach Satz 1 ist § 49 entsprechend anzuwenden. Als gezahlte erfasste Steuern gelten auch aktive latente Steuern der übertragenden Geschäftseinheit, die nach den §§ 82 und 82a hätten berücksichtigt werden können, wäre der Übertragungsgewinn bei der übertragenden Geschäftseinheit nicht in die steuerliche Bemessungsgrundlage einbezogen worden. Der nach den Sätzen 1 bis 4 ermittelte Steueranspruch wirkt sich im Jahr der Bildung nicht auf die angepassten erfassten Steuern der übernehmenden Geschäftseinheit aus und ist entsprechend der Wertentwicklung der Buchwerte fortzuschreiben.
+
+(3) Die Absätze 1 und 2 sind auf Antrag der berichtspflichtigen Geschäftseinheit nicht anzuwenden, wenn die übernehmende Geschäftseinheit für die jeweiligen Vermögenswerte einen latenten Steueranspruch in Höhe des Kappungsbetrags nach Absatz 2 berücksichtigen könnte.
+
+(4) Als Übertragung von Vermögenswerten zwischen Geschäftseinheiten derselben Unternehmensgruppe gelten auch Geschäftsvorfälle, die für Zwecke der Rechnungslegung oder Besteuerung mit einer Übertragung von Vermögenswerten vergleichbar sind. Dies ist unter anderem der Fall, wenn aufgrund des Geschäftsvorfalls für einen Vermögenswert ein Buchwert anzusetzen oder zu erhöhen ist; insbesondere bei Finanzierungsleasing. Dabei ist allein der Ansatz oder die Erhöhung des Buchwerts für steuerliche Zwecke ausreichend. Unbeachtlich ist, ob ein Geschäftsvorfall zwischen verschiedenen Geschäftseinheiten oder nur innerhalb derselben Geschäftseinheit erfolgt. Ein Geschäftsvorfall innerhalb derselben Geschäftseinheit liegt insbesondere bei der Verlegung des Sitzes einer Geschäftseinheit oder der Umstellung auf Bilanzierung zum Zeitwert vor.
+
+# § 82c – Übergangsjahr
+
+Übergangsjahr ist, bezogen auf ein Steuerhoheitsgebiet, das erste Geschäftsjahr, in dem die Unternehmensgruppe in diesem Steuerhoheitsgebiet einer Besteuerung nach dem zweiten Teil dieses Gesetzes oder einer damit ähnlichen ausländischen Vorschrift unterliegt, die den Vorschriften der Richtlinie (EU) 2022/2523 entspricht. Sofern die Voraussetzungen des § 83 oder der §§ 84 bis 87 erfüllt sind und die Unternehmensgruppe einen Antrag nach § 84 Absatz 1 stellt, verschiebt sich das Übergangsjahr entsprechend.
 
 # § 83 – Übergangsregelung bei untergeordneter internationaler Tätigkeit
 
@@ -1877,21 +2081,23 @@ b) unterliegen einer Abschlussprüfung durch einen Abschlussprüfer im Sinne des
 
 # § 84 – Verwendung länderbezogener Berichte multinationaler Unternehmensgruppen (CbCR-Safe-Harbour)
 
-(1) Auf Antrag der berichtspflichtigen Geschäftseinheit wird der Steuererhöhungsbetrag (§ 54), einschließlich des zusätzlichen Steuererhöhungsbetrags (§ 57), in den Geschäftsjahren, die am oder vor dem 31. Dezember 2026 beginnen und vor dem 1. Juli 2028 enden (Übergangszeit), für ein Steuerhoheitsgebiet für das Geschäftsjahr mit null angesetzt, wenn die Unternehmensgruppe
+(1) Auf Antrag der berichtspflichtigen Geschäftseinheit wird der Steuererhöhungsbetrag (§ 54), einschließlich des zusätzlichen Steuererhöhungsbetrags (§ 57), in den Geschäftsjahren, die am oder vor dem 31. Dezember 2026 beginnen und vor dem 1. Juli 2028 enden (Übergangszeit), für ein getestetes Steuerhoheitsgebiet für das Geschäftsjahr mit null angesetzt, wenn die Unternehmensgruppe
 
-1. in diesem Steuerhoheitsgebiet unter Einbeziehung der zum Verkauf stehenden Einheiten (§ 4 Absatz 1 Satz 1 Nummer 2) weniger als 10 Millionen Euro Umsatzerlöse und weniger als 1 Million Euro Gewinn oder Verlust vor Steuern in ihrem qualifizierten länderbezogenen Bericht ausweist oder
+1. in diesem Steuerhoheitsgebiet unter Einbeziehung der zum Verkauf stehenden Einheiten (§ 4 Absatz 1 Satz 1 Nummer 2) weniger als 10 Millionen Euro Umsatzerlöse und weniger als 1 Million Euro Gewinn oder einen Verlust vor Steuern in ihrem qualifizierten länderbezogenen Bericht für ihre Geschäftseinheiten ausweist (CbCR-Wesentlichkeitsgrenze-Test) oder
 
-2. einem vereinfacht berechneten effektiven Steuersatz (§ 87 Nummer 6) für dieses Steuerhoheitsgebiet unterliegt, wenn dieser mindestens dem Übergangssteuersatz entspricht, oder
+2. mit ihren Geschäftseinheiten einem vereinfacht berechneten effektiven Steuersatz (§ 87 Absatz 8) für dieses Steuerhoheitsgebiet unterliegt, wenn dieser mindestens dem Übergangssteuersatz entspricht (CbCR-Effektivsteuersatz-Test), oder
 
-3. einen Gewinn oder Verlust vor Steuern im qualifizierten länderbezogenen Bericht ausweist, der gleich oder geringer als der substanzbasierte Freibetrag (§§ 58 bis 62) ist. Dabei sind nur solche Geschäftseinheiten zu berücksichtigen, die nach den Regelungen des länderbezogenen Berichts in diesem Steuerhoheitsgebiet belegen sind. Einheiten, die zum Verkauf stehen (§ 4 Absatz 1 Satz 1 Nummer 2), oder ausgeschlossene Einheiten (§ 5) sind nicht zu berücksichtigen.
+3. für ihre Geschäftseinheiten einen Gewinn oder Verlust vor Steuern im qualifizierten länderbezogenen Bericht ausweist, der gleich oder geringer als der substanzbasierte Freibetrag (§§ 58 bis 62) ist (CbCR-Routinegewinn-Test) . Dabei sind nur solche Geschäftseinheiten zu berücksichtigen, die nach den Regelungen des länderbezogenen Berichts in diesem Steuerhoheitsgebiet belegen sind. Einheiten, die zum Verkauf stehen (§ 4 Absatz 1 Satz 1 Nummer 2), oder ausgeschlossene Einheiten (§ 5) sind nicht zu berücksichtigen.
 
-(2) Auf Geschäftseinheiten, die für Zwecke des länderbezogenen Berichts und dieses Gesetzes in zwei unterschiedlichen Steuerhoheitsgebieten belegen sind, findet Absatz 1 keine Anwendung.
+Unternehmensgruppen, die nicht zur Erstellung eines länderbezogenen Berichts verpflichtet sind, haben die Angaben zugrunde zu legen, die sie berichtet hätten, wenn sie verpflichtet gewesen wären, einen länderbezogenen Bericht zu erstellen.
+
+(2) Ist eine Geschäftseinheit für Zwecke des länderbezogenen Berichts und dieses Gesetzes in unterschiedlichen Steuerhoheitsgebieten belegen, sind deren Beschäftigte, Lohnkosten und materiellen Vermögenswerte für Zwecke des CbCR-Routinegewinn-Tests in diesen Steuerhoheitsgebieten unberücksichtigt zu lassen. Verfügt eine Geschäftseinheit für Zwecke des länderbezogenen Berichts über eine Betriebsstätte, jedoch nach diesem Gesetz nicht, so sind für den CbCR-Safe-Harbour die Angaben und Rechnungslegungsdaten der Betriebsstätte mit denen des Stammhauses oder, sofern das Stammhaus eine steuertransparente Einheit ist, mit denen des gruppenzugehörigen Gesellschafters zusammenzufassen.
 
 (3) Stellt die Unternehmensgruppe für ein Geschäftsjahr keinen Antrag nach Absatz 1 oder erfüllt sie für ein Geschäftsjahr nicht die Voraussetzungen nach Absatz 1, ist sie für alle folgenden Geschäftsjahre von der Anwendung des Absatzes 1 ausgeschlossen. Dies gilt nicht, wenn in dem betreffenden Steuerhoheitsgebiet im vorherigen Geschäftsjahr keine Geschäftseinheit der Unternehmensgruppe belegen war. Wird nachträglich festgestellt, dass die Voraussetzungen nach Absatz 1 nicht erfüllt waren, entfällt die Anwendung des Absatzes 1 für dieses sowie die folgenden Geschäftsjahre rückwirkend.
 
 # § 85 – Besonderheiten bei bestimmten Einheiten
 
-(1) Für § 84 sind Joint Ventures und Joint-Venture-Tochtergesellschaften (§ 67) als Geschäftseinheiten einer eigenständigen Unternehmensgruppe zu behandeln. Für den Gewinn oder Verlust vor Steuern, die Umsatzerlöse sowie die vereinfacht erfassten Steuern ist der qualifizierte Konzernabschluss maßgeblich.
+(1) Die Vorschriften zum CbCR-Safe-Harbour gelten für Joint Ventures und Joint-Venture-Tochtergesellschaften (§ 67) entsprechend. Hierfür sind jedes Joint Venture und dessen Joint-Venture-Tochtergesellschaften als Geschäftseinheiten einer eigenständigen Unternehmensgruppe zu behandeln. Sofern sie in demselben Steuerhoheitsgebiet wie Geschäftseinheiten der Unternehmensgruppe belegen sind, sind sie als vom getesteten Steuerhoheitsgebiet der Unternehmensgruppe eigenständig zu testendes Steuerhoheitsgebiet zu behandeln. Anstelle von im länderbezogenen Bericht ausgewiesenen Informationen, ist auf die in den qualifizierten Rechnungslegungsinformationen enthaltenen Informationen abzustellen.
 
 (2) § 84 gilt nicht für den Belegenheitsstaat der obersten Muttergesellschaft, wenn es sich bei dieser um eine transparente Einheit (§ 7 Absatz 32) handelt. Dies gilt nicht, wenn alle an der obersten Muttergesellschaft gehaltenen Eigenkapitalbeteiligungen von qualifizierten Gesellschaftern gehalten werden.
 
@@ -1909,35 +2115,88 @@ Die folgenden Geschäftseinheiten, Unternehmensgruppen oder Steuerhoheitsgebiete
 
 3. Steuerhoheitsgebiete, in denen Geschäftseinheiten belegen sind, die einem zulässigen Ausschüttungssystem unterliegen und für die ein Antrag nach § 71 gestellt wurde.
 
-# § 87 – Definitionen für den CbCR-Safe-Harbour
+Abweichend von § 6 Absatz 2 Satz 1 gilt für die Anwendung von Satz 1 Nummer 1 eine transparente Einheit auch dann als staatenlose Geschäftseinheit, wenn sie keine oberste Muttergesellschaft ist.
 
-Soweit nichts anderes bestimmt ist, gelten für die Anwendung der §§ 84 bis 86 die folgenden Definitionen:
+# § 87 – Definitionen für den CbCR-Safe-Harbour und weitere Bestimmungen
 
-1. Ein länderbezogener Bericht (§ 138a der Abgabenordnung) ist qualifiziert, wenn dieser mit einem qualifizierten Konzernabschluss erstellt wurde. Ein qualifizierter Konzernabschluss ist einer der folgenden Abschlüsse:
+(1) Soweit nichts anderes geregelt ist, gelten für die Anwendung der §§ 84 bis 86, 87a und 87b die in den nachstehenden Absätzen definierten Begriffsbestimmungen. Sofern die Anforderungen für den CbCR-Safe-Harbour für ein getestetes Steuerhoheitsgebiet nicht erfüllt sind oder nach diesem Gesetz erforderliche Anpassungen unterblieben sind, scheidet die Anwendung des § 84 für das jeweilige getestete Steuerhoheitsgebiet unabhängig davon, ob dies Einfluss auf die Erfüllung der in § 84 Absatz 1 Satz 1 Nummer 1 bis 3 genannten Tests hätte.
 
-a) die für Konsolidierungszwecke an konzerneinheitliche Ansatz- und Bewertungsregeln angeglichenen Jahresabschlüsse der Geschäftseinheiten vor Konsolidierungsanpassungen und Zwischenergebniseliminierungen und ohne Anpassungen im Sinne des § 15 Absatz 1 Satz 2, sofern diese nach § 15 Absatz 1 Satz 3 nicht zulässig sind, oder
+(2) Ein länderbezogener Bericht (§ 138a der Abgabenordnung) ist qualifiziert, wenn er auf der Grundlage von qualifizierten Rechnungslegungsdaten und unter konsistenter Verwendung von Rechnungslegungsdaten erstellt wurde. Qualifizierte Rechnungslegungsdaten sind
 
-b) die Jahresabschlüsse der Geschäftseinheiten, sofern diese nach einem anerkannten Rechnungslegungsstandard (§ 7 Absatz 4) oder einem zugelassenen Rechnungslegungsstandard (§ 7 Absatz 37) aufgestellt werden und die in diesen Abschlüssen enthaltenen Informationen auf der Grundlage dieses Rechnungslegungsstandards fortgeführt werden und verlässlich sind, oder
+1. die Berichtspakete; Berichtspakete sind die für Konsolidierungszwecke an konzerneinheitliche Ansatz- und Bewertungsregeln angeglichenen Rechnungslegungsdaten der Geschäftseinheiten, wenn sie den in § 138a der Abgabenordnung enthaltenen Anforderungen für die länderbezogene Berichterstattung entsprechen;
 
-c) im Fall einer Geschäftseinheit, die allein aus Gründen der Größe oder der Wesentlichkeit nicht in den Konzernabschluss der Unternehmensgruppe einbezogen wird (§ 4 Absatz 1 Satz 1 Nummer 2), der Jahresabschluss, der für die Erstellung des länderbezogenen Berichts der Unternehmensgruppe verwendet wird.
+2. die Jahresabschlüsse der Geschäftseinheiten, sofern diese nach einem anerkannten Rechnungslegungsstandard (§ 7 Absatz 4) oder einem zugelassenen Rechnungslegungsstandard (§ 7 Absatz 37) aufgestellt wurden und die in diesen Abschlüssen enthaltenen Informationen auf der Grundlage dieses Rechnungslegungsstandards fortgeführt werden und verlässlich sind;
 
-2. Die Umsatzerlöse entsprechen der Summe aus den Umsatzerlösen und sonstigen Erträgen, wie sie im qualifizierten länderbezogenen Bericht ausgewiesen sind.
+3. im Fall einer Geschäftseinheit, die allein aus Gründen der Größe oder Wesentlichkeit nicht in den Konzernabschluss der Unternehmensgruppe einbezogen wird (§ 4 Absatz 1 Satz 1 Nummer 2), für die keine qualifizierten Rechnungslegungsdaten im Sinne der Nummer 2 erstellt wurden, die Unterlagen, die auch für die Erstellung des länderbezogenen Berichts der Unternehmensgruppe zugelassen und verwendet worden sind;
 
-3. Die vereinfacht erfassten Steuern entsprechen dem im qualifizierten Konzernabschluss der Unternehmensgruppe ausgewiesenen Ertragsteueraufwand, nach Bereinigung aller nicht erfasster Steuern und ungewisser Steuerrückstellungen.
+4. im Fall einer Betriebsstätte, für die keine qualifizierten Rechnungslegungsdaten im Sinne der Nummern 1 bis 3 erstellt wurden, die Unterlagen, die auch für die Erstellung eines länderbezogenen Berichts zugelassen und verwendet worden sind.
 
-4. Der Gewinn oder Verlust vor Steuern ist das Jahresergebnis vor Steuern, wie es im qualifizierten länderbezogenen Bericht ausgewiesen ist, erhöht um einen nicht realisierten Nettoverlust aus der Bewertung zum beizulegenden Zeitwert.
+Die konsistente Verwendung von Rechnungslegungsdaten erfordert, dass
 
-5. Ein nicht realisierter Nettoverlust aus der Bewertung zum beizulegenden Zeitwert ist die Summe aller Verluste, verringert um etwaige Gewinne, die auf einer Änderung des beizulegenden Zeitwerts von Eigenkapitalbeteiligungen im Sinne des § 20 Absatz 1 Nummer 1 beruhen. Dies gilt nur, wenn der Verlust 50 Millionen Euro für ein Steuerhoheitsgebiet übersteigt.
+1. für die in Satz 2 Nummer 3 und 4 genannten Geschäftseinheiten dürfen davon abweichend die anderen nach Satz 2 Nummer 2 bis 4 zugelassenen Rechnungslegungsdaten verwendet werden;
 
-6. Der vereinfacht berechnete effektive Steuersatz für ein Steuerhoheitsgebiet wird wie folgt berechnet:
+2. von der Betriebsstätte ausgewiesene Steuern oder ein von der Betriebsstätte ausgewiesener Verlust nicht auch beim Stammhaus berücksichtigt werden; die qualifizierten Rechnungslegungsdaten sind dementsprechend anzupassen;
 
+3. die dem länderbezogenen Bericht zugrunde gelegten Rechnungslegungsdaten für Zwecke des CbCR-Safe-Harbours unverändert übernommen werden, es sei denn, dieses Gesetz erfordert eine Anpassung.
+
+(3) Die Umsatzerlöse entsprechen der Summe aus den Umsatzerlösen und sonstigen Erträgen, wie sie im qualifizierten länderbezogenen Bericht ausgewiesen sind.
+
+(4) Die vereinfacht erfassten Steuern entsprechen dem in den qualifizierten Rechnungslegungsinformationen der Unternehmensgruppe ausgewiesenen Ertragsteueraufwand nach Bereinigung aller nicht erfassten Steuern, ausgenommen der nach § 45 Absatz 2 Nummer 2, und ungewissen Steuerpositionen. Als nicht erfasste Steuern gelten auch aktive latente Steuern sowie der aus deren Umkehrung resultierende latente Steueraufwand, der
+
+1. im Zusammenhang mit einer staatlichen Maßnahme nach § 82a Absatz 3 steht, die nach dem 30. November 2021 beschlossen oder erweitert worden ist,
+
+2. im Zusammenhang mit einem Wahlrecht einer Geschäftseinheit steht, das rückwirkend die steuerliche Behandlung eines Vorgangs für ein Besteuerungszeitraum ändert, für den bereits eine Steuerfestsetzung erfolgt oder eine Steuererklärung eingereicht worden ist, sofern das Wahlrecht nach dem 30. November 2021 ausgeübt oder geändert worden ist, oder
+
+3. auf Unterschieden zwischen der steuerlichen und handelsrechtlichen Bewertung beruhen, wenn diese Unterschiede auf einem nach dem 30. November 2021 verabschiedeten Körperschaftsteuerregime nach § 82a Absatz 2 Satz 2 beruhen.
+
+Dies gilt nicht, soweit diese latenten Steuern gemäß § 82a Absatz 2 zu berücksichtigen wären, wäre das Geschäftsjahr das Übergangsjahr, und soweit sie den Verschonungsbetrag im Sinne des § 82a Absatz 5 nicht übersteigen.
+
+(5) Der Gewinn oder Verlust vor Steuern ist das Jahresergebnis vor Steuern, wie es im qualifizierten länderbezogenen Bericht ausgewiesen ist, erhöht um einen nicht realisierten Nettoverlust aus einer Bewertung zum beizulegenden Zeitwert nach Absatz 6 sowie um inkongruente Dividenden nach Absatz 7.
+
+(6) Ein nicht realisierter Nettoverlust aus einer Bewertung zum beizulegenden Zeitwert ist die Summe aller Verluste, verringert um etwaige Gewinne, die auf einer Änderung des beizulegenden Zeitwerts von Eigenkapitalbeteiligungen nach § 20 Absatz 1 Nummer 1 beruhen. Dies gilt nur, wenn der Verlust 50 Millionen Euro für das getestete Steuerhoheitsgebiet übersteigt.
+
+(7) Inkongruente Dividenden sind Erträge, die bei der Leistungsempfängerin für Zwecke des länderbezogenen Berichts vom Gewinn oder Verlust vor Steuern als Dividende ausgenommen wurden, jedoch nach den dem länderbezogenen Bericht zugrunde liegenden Rechnungslegungsdaten der leistenden Geschäftseinheit nicht als Dividende einzustufen sind.
+
+(8) Der vereinfacht berechnete effektive Steuersatz für ein getestetes Steuerhoheitsgebiet wird wie folgt berechnet:  
   
-![Vereinfachte erfasste Steuern geteilt durch den Gewinn oder Verlust vor Steuern](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j03970_0100.jpg)  
-  
 
-7. Der Übergangssteuersatz beträgt für die Geschäftsjahre, die in den Jahren 2023 und 2024 beginnende 15 Prozent, für im Jahr 2025 beginnende 16 Prozent und für im Jahr 2026 beginnende 17 Prozent.
+|     |                                                                                                                                  |     |
+|:----|:--------------------------------------------------------------------------------------------------------------------------------:|:---:|
+|     | ![Vereinfachte erfasste Steuern geteilt durch den Gewinn oder Verlust vor Steuern](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j03530_0010.jpg) |     |
 
-8. Qualifizierte Gesellschafter einer obersten Muttergesellschaft, die eine transparente Einheit ist, sind die in § 69 Absatz 1 Satz 1 Nummer 1 bis 3 genannten. Qualifizierte Gesellschafter einer obersten Muttergesellschaft, die einem Dividendenabzugsregime unterliegen, sind die in § 70 Absatz 1 Satz 1 Nummer 1 bis 3 genannten.
+(9) Der Übergangssteuersatz beträgt für die Geschäftsjahre, die in den Jahren 2023 und 2024 beginnen, 15 Prozent, für die im Jahr 2025 beginnen 16 Prozent und für die im Jahr 2026 beginnen 17 Prozent.
+
+(10) Qualifizierte Gesellschafter einer obersten Muttergesellschaft, die eine transparente Einheit sind, sind die in § 69 Absatz 1 Satz 1 Nummer 1 bis 3 genannten Gesellschafter. Bei einer obersten Muttergesellschaft, die einem Dividendenabzugsregime unterliegt, sind qualifizierte Gesellschaft die in § 70 Absatz 1 Satz 1 Nummer 1 genannten Gesellschafter.
+
+# § 87a – Anwendung der Erwerbsmethode
+
+(1) Auswirkungen aus der Anpassung des Buchwerts von Vermögenswerten und Schulden, die aus der Anwendung der Erwerbsmethode bei einem Beteiligungserwerb im Rahmen eines Unternehmenszusammenschlusses resultieren, dürfen in den in § 87 Absatz 2 Satz 2 genannten Rechnungslegungsdaten nicht berücksichtigt werden. Satz 1 gilt nicht, wenn die Unternehmensgruppe für nach dem 31. Dezember 2022 beginnende Geschäftsjahre länderbezogene Berichte nur auf der Grundlage von solchen Berichtspaketen und Jahresabschlüssen erstellt und übermittelt hat, die die Auswirkungen der Erwerbsmethode beim Ansatz vorhergehender Erwerbe berücksichtigen. Abweichend von Satz 1 ist ein späterer Wechsel zur Einbeziehung der Auswirkungen aus der Anwendung der Erwerbsmethode zulässig, wenn die Geschäftseinheiten aufgrund einer späteren gesetzlichen oder aufsichtsrechtlichen Regelung zur Berücksichtigung der Erwerbsmethode im Berichtspaket oder Jahresabschluss verpflichtet sind.
+
+(2) Bei einer Berücksichtigung nach Absatz 1 Satz 2 oder 3 sind für den CbCR-Routinegewinn-Test Wertminderungen eines Geschäfts- oder Firmenwerts, welcher auf einem Beteiligungserwerb nach dem 30. November 2021 beruht, dem Gewinn oder Verlust vor Steuern nach § 87 Absatz 5 wieder hinzuzurechnen. Satz 1 gilt für den CbCR-Effektivsteuersatz-Test entsprechend, wenn die zugrunde liegenden Rechnungslegungsdaten nicht bereits eine Umkehrung der latenten Steuerschuld oder den Ansatz oder die Erhöhung eines latenten Steueranspruchs aus der Wertminderung eines Geschäfts- oder Firmenwerts enthalten.
+
+# § 87b – Anpassungen bei Inkongruenzen
+
+(1) Aufwendungen und Verluste sowie Ertragsteueraufwendungen dürfen im Fall von Inkongruenzen weder beim Gewinn oder Verlust vor Steuern (§ 87 Absatz 5) noch bei den vereinfacht erfassten Steuern (§ 87 Absatz 4) berücksichtigt werden. Die qualifizierten Rechnungslegungsdaten sind dementsprechend anzupassen. Eine Inkongruenz liegt vor, wenn eine Vereinbarung zwischen Geschäftseinheiten einer Unternehmensgruppe zu Folgendem führt:
+
+1. zum Abzug von Aufwendungen ohne eine entsprechende Erhöhung von Erträgen oder des Gewinns,
+
+2. zum doppelten Abzug von Aufwendungen oder zur doppelten Verlustnutzung oder
+
+3. zur doppelten Berücksichtigung von Steuern.
+
+(2) Eine Inkongruenz nach Absatz 1 Satz 3 Nummer 1 liegt vor, soweit die unmittelbare oder mittelbare Vergabe von Kapital im Jahresabschluss einer Geschäftseinheit zu Aufwendungen oder Verlusten führt und sich im Jahresabschluss einer anderen Geschäftseinheit die Erträge oder der Gewinn nicht entsprechend erhöhen und auch nicht zu erwarten ist, dass sich über die Laufzeit der Vereinbarung eine entsprechende Erhöhung der steuerpflichtigen Einkünfte ergibt. Nicht als Inkongruenz gilt, wenn sich die Aufwendungen oder der Verlust ausschließlich auf zusätzliches Kernkapital nach § 31 Satz 1 bezieht. Eine Erhöhung der steuerpflichtigen Einkünfte liegt nicht vor, soweit der Betrag, der die steuerlichen Einkünfte erhöht, durch steuerliche Attribute, insbesondere Verlustvorträge, ausgeglichen wird, die ohne die Vereinbarung nicht hätten genutzt werden können, oder die Vereinbarung in dem getesteten Steuerhoheitsgebiet, in dem sich die steuerpflichtigen Einkünfte erhöhen, zu steuerwirksamen Aufwendungen oder einem Verlust führt, ohne dass sich der Betrag auf den Gewinn oder Verlust vor Steuern (§ 87 Absatz 4) auswirkt.
+
+(3) Eine Inkongruenz nach Absatz 1 Satz 3 Nummer 2 liegt vor, soweit Aufwendungen oder ein Verlust im Jahresabschluss einer Geschäftseinheit
+
+1. auch im Jahresabschluss einer anderen Geschäftseinheit als Aufwendungen oder Verluste ausgewiesen sind oder
+
+2. im Jahresabschluss einer Geschäftseinheit zu Aufwendungen oder Verlusten bei der Ermittlung der steuerpflichtigen Einkünfte einer anderen Geschäftseinheit in einem anderen getesteten Steuerhoheitsgebiet führen.
+
+Aufwendungen oder Verluste im Jahresabschluss einer steuertransparenten Einheit nach § 7 Absatz 32 bleiben insoweit unberücksichtigt, als sie auch im Jahresabschluss eines gruppenzugehörigen Gesellschafters ausgewiesen sind. Eine Inkongruenz nach Satz 1 Nummer 1 liegt nicht vor, soweit die Aufwendungen im Jahresabschluss einer Geschäftseinheit mit Erträgen verrechnet werden und die Aufwendungen und die Erträge auch im Jahresabschluss einer anderen Geschäftseinheit enthalten sind. Eine Inkongruenz nach Satz 1 Nummer 2 liegt nicht vor, soweit die Aufwendungen oder Verluste im Jahresabschluss einer Geschäftseinheit mit Erträgen verrechnet werden und diese Erträge bei der Ermittlung der steuerpflichtigen Einkünfte der Geschäftseinheit in einem anderen getesteten Steuerhoheitsgebiet berücksichtigt werden, die die Aufwendungen steuerlich geltend macht. Eine Inkongruenz nach Satz 1 muss bei allen bis auf einer der Geschäftseinheiten korrigiert werden, wenn alle von der Inkongruenz betroffenen Geschäftseinheiten in demselben getesteten Steuerhoheitsgebiet belegen sind.
+
+(4) Eine Inkongruenz nach Absatz 1 Satz 3 Nummer 3 liegt vor, soweit mehr als eine Geschäftseinheit denselben Ertragsteueraufwand bei der Ermittlung des Gesamtsteueraufwands (§ 44) oder der vereinfacht erfassten Steuern (§ 87 Absatz 4) berücksichtigt, es sei denn, auch die der Steuer unterliegenden Einkünfte sind in den entsprechenden Abschlüssen der Geschäftseinheiten enthalten. Keine Inkongruenz nach Absatz 1 Satz 3 Nummer 3 stellt es dar, wenn diese nur deshalb entsteht, weil für die Ermittlung der vereinfacht erfassten Steuern (§ 87 Absatz 4) keine Anpassung des Ertragsteueraufwands erforderlich ist, der bei der Ermittlung des Gesamtsteueraufwands (§ 44) der ersten Geschäftseinheit einer anderen Geschäftseinheit zugerechnet würde.
+
+(5) Die vorstehenden Absätze gelten für Vereinbarungen, die nach dem 15. Dezember 2022 abgeschlossen, geändert oder übertragen wurden oder werden. Dies gilt auch, wenn sich nach dem 15. Dezember 2022 die Erfüllung der sich aus einer Vereinbarung ergebenden Rechte oder Pflichten einschließlich der Zahlungsmodalitäten oder die bilanzielle Behandlung in Bezug auf die Vereinbarung wesentlich geändert hat oder ändert. Geschäftseinheiten im Sinne der vorstehenden Absätze sind sowohl inländische als auch ausländische Geschäftseinheiten, Betriebsstätten, Joint Ventures und Joint-Venture-Tochtergesellschaften.
 
 # § 88 – Übergangsregelungen bei gemischter Hinzurechnungsbesteuerung
 
@@ -1951,15 +2210,29 @@ Eine gemischte Hinzurechnungsbesteuerung ist eine Form der Hinzurechnungsbesteue
   
 ![Zuzurechnendes Einkommen der ausländischen Geschäftseinheit multipliziert mit Klammer auf dem anwendbaren Steuersatz minus dem effektiven Steuersatz Klammer zu](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j03970_0120.jpg)  
   
-Dabei entspricht das zuzurechnende Einkommen der Einheit dem betragsmäßigen Anteil des beteiligten Gesellschafters an dem Einkommen der ausländischen Einheit. Der effektive Steuersatz entspricht dem nach § 53 Absatz 1 ermittelten effektiven Steuersatz ohne Berücksichtigung von Steuern auf Hinzurechnungsbeträge. Entspricht der effektive Steuersatz mindestens dem anwendbaren Steuersatz, beträgt der Zurechnungsschlüssel nach Absatz 1 null. Steuern aufgrund einer anerkannten nationalen Ergänzungssteuer sind bei der Berechnung des effektiven Steuersatzes zu berücksichtigen, soweit diese im Rahmen der gemischten Hinzurechnungsbesteuerung nach der gleichen Maßgabe wie alle anderen erfassten Steuern anrechenbar sind.
+Dabei entspricht das zuzurechnende Einkommen der Einheit dem betragsmäßigen Anteil des beteiligten Gesellschafters an dem Einkommen der ausländischen Einheit. Der effektive Steuersatz für in einem Steuerhoheitsgebiet belegene Einheiten entspricht dem nach § 53 Absatz 1 ermittelten effektiven Steuersatz ohne Berücksichtigung von Steuern auf Hinzurechnungsbeträge. Entspricht der effektive Steuersatz mindestens dem anwendbaren Steuersatz, beträgt der Zurechnungsschlüssel nach Absatz 1 null. Die Berechnung hat dabei für jedes Steuerhoheitsgebiet und jede Unternehmensgruppe getrennt zu erfolgen. Steuern aufgrund einer anerkannten nationalen Ergänzungssteuer sind bei der Berechnung des effektiven Steuersatzes zu berücksichtigen, soweit diese im Rahmen der gemischten Hinzurechnungsbesteuerung nach der gleichen Maßgabe wie alle anderen erfassten Steuern anrechenbar sind.
 
-(3) Findet die gemischte Hinzurechnungsbesteuerung auch auf Einheiten Anwendung, die keine Geschäftseinheiten im Sinne dieses Gesetzes sind, ist für die Anwendung des Absatzes 1 insoweit ebenfalls eine Zurechnung zu diesen Einheiten vorzunehmen.
+(3) Findet die gemischte Hinzurechnungsbesteuerung Anwendung auf eine Geschäftseinheit für Einkommen von Einheiten, an denen sie eine unmittelbare oder mittelbare Eigenkapitalbeteiligung hält, erfolgt die Zurechnung der entsprechenden Steuern an diese Einheiten. Jede Einheit berechnet den Zurechnungsschlüssel nach Absatz 2 anhand des effektiven Steuersatzes nach Absatz 4. Wenn die Einheit in einem Steuerhoheitsgebiet belegen ist, in welchem § 53 Absatz 1 keine Anwendung findet oder in welchem sie keine Berechnung nach Absatz 4 durchführt, erfolgt die Berechnung für alle dort belegenen Einheiten auf Basis des aggregierten Gewinns und der Steuern in den Jahresabschlüssen dieser Einheiten für die der gemischten Hinzurechnungsbesteuerung unterliegende Geschäftseinheit.
+
+(4) Findet § 53 Absatz 1 auf eine Unternehmensgruppe keine Anwendung, berechnet sich der effektive Steuersatz abweichend von Absatz 2 Satz 2 wie folgt:
+
+1. Nimmt eine Unternehmensgruppe die Übergangsregelungen nach den §§ 84 bis 87 für ein Steuerhoheitsgebiet in Anspruch, hat die Unternehmensgruppe den vereinfacht berechneten effektiven Steuersatz (§ 87 Absatz 6) zugrunde zu legen.
+
+2. Nimmt eine Unternehmensgruppe die Ausnahmeregelung nach § 81 Absatz 1 Satz 1 für ein Steuerhoheitsgebiet in Anspruch, ist der effektive Steuersatz wie folgt zu berechnen:  
+
+|     |                                                                                                                                                                               |
+|:----|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|     | ![Die Summe aus Summe der Steuern und der zu zahlenden Ergänzungssteuer wird geteilt durch die Summe des Mindeststeuer-Gewinns](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j03530_0020.jpg) |
+
+Hierbei sind die Werte für die anerkannte nationale Ergänzungssteuerregelung zugrunde zu legen.
+
+3. Für jedes andere Steuerhoheitsgebiet hat die Unternehmensgruppe den vereinfacht berechneten effektiven Steuersatz nach § 87 Absatz 6 zu berechnen und anstelle des Gewinns oder Verlusts vor Steuern nach § 87 Absatz 4 den Gewinn oder Verlust vor Steuern aus einem Konzernabschluss nach § 7 Absatz 21 zu verwenden.
 
 # § 89 – Sekundärergänzungssteuerbetrag-Safe-Harbour
 
 (1) Auf Antrag der berichtspflichtigen Geschäftseinheit wird für die Berechnung der Sekundärergänzungssteuer der Steuererhöhungsbetrag für Zwecke des § 54 für den Belegenheitsstaat der obersten Muttergesellschaft auf null reduziert, wenn der kombinierte nominelle Körperschaftsteuersatz in diesem Steuerhoheitsgebiet im jeweiligen Geschäftsjahr mindestens 20 Prozent beträgt. Satz 1 gilt für Geschäftsjahre, die nicht mehr als zwölf Monate umfassen und am oder vor dem 31. Dezember 2025 beginnen und vor dem 31. Dezember 2026 enden.
 
-(2) Wird der Antrag nach Absatz 1 gestellt, ist die Unternehmensgruppe für dieses Steuerhoheitsgebiet für alle den Geschäftsjahren im Sinne des Absatzes 1 Satz 2 folgenden Geschäftsjahren von der Anwendung des § 84 Absatz 1 ausgeschlossen.
+(2) Wird der Antrag nach Absatz 1 gestellt, ist die Unternehmensgruppe für dieses Steuerhoheitsgebiet für alle den Geschäftsjahren im Sinne des Absatzes 1 Satz 2 folgenden Geschäftsjahre von der Anwendung des § 84 Absatz 1 ausgeschlossen.
 
 # § 90 – Umfang der Besteuerung der Geschäftseinheit
 
@@ -1981,13 +2254,17 @@ Für Zwecke der nationalen Ergänzungssteuerregelung sind staatenlose Geschäfts
 
 § 54 ist mit der Maßgabe anzuwenden, dass die nationale Ergänzungssteuerregelung für Zwecke der Ermittlung des Steuererhöhungsbetrags unberücksichtigt bleibt.
 
+# § 93a – Neubestimmung des Übergangsjahrs
+
+Abweichend von § 82c ist für Zwecke der nationalen Ergänzungssteuer das Übergangsjahr das Geschäftsjahr, in dem eine Unternehmensgruppe in einem Steuerhoheitsgebiet erstmals einer Besteuerung nach dem zweiten Teil dieses Gesetz oder einer ähnlichen ausländischen Vorschrift unterliegt, die der Richtlinie (EU) 2022/2523 entspricht, wenn sie bereits der nationalen Ergänzungssteuerpflicht unterlag.
+
 # § 94 – Entstehung der Mindeststeuer und Besteuerungszeitraum
 
 Die Mindeststeuer (§ 2) für ein Geschäftsjahr entsteht mit Ablauf des Kalenderjahres, in dem das Geschäftsjahr endet. Besteuerungszeitraum ist das Kalenderjahr.
 
 # § 95 – Steuererklärungspflicht, Steuerentrichtungspflicht
 
-(1) Die nach § 1 Steuerpflichtigen haben für das Kalenderjahr eine Steuererklärung abzugeben und darin die Steuer selbst zu berechnen. Die Steuererklärung ist als Steueranmeldung nach amtlich vorgeschriebenem Datensatz elektronisch über die amtliche bestimmte Schnittstelle zu übermitteln. Die Steuer ist einen Monat nach Abgabe der Steuererklärung fällig und bis dahin zu entrichten. Wird die Mindeststeuer abweichend von der Steueranmeldung höher festgesetzt, ist der Unterschiedsbetrag einen Monat nach Bekanntgabe des Steuerbescheids fällig und bis dahin zu entrichten. Wird die Mindeststeuer aufgrund unterbliebener Abgabe einer Steueranmeldung festgesetzt, ist die Mindeststeuer einen Monat nach der Bekanntgabe des Steuerbescheids fällig und bis dahin zu entrichten. Im Fall des § 3 hat der für diesen Besteuerungszeitraum maßgebliche Gruppenträger die Steuererklärung nach Satz 1 abzugeben; im Übrigen gelten die Sätze 1 bis 5 entsprechend. Alle Geschäftseinheiten sowie Joint Venture und Joint-Venture-Tochtergesellschaften sind dem Steuererklärungspflichtigen gegenüber zur Erteilung der Auskünfte verpflichtet, die dieser zur Erstellung der Steuererklärung benötigt.
+(1) Der Gruppenträger hat für das Kalenderjahr eine Steuererklärung abzugeben und darin die Steuer selbst zu berechnen. Die Steuererklärung ist als Steueranmeldung nach amtlich vorgeschriebenem Datensatz elektronisch über die amtlich bestimmte Schnittstelle zu übermitteln. Die Steuer ist einen Monat nach Abgabe der Steuererklärung fällig und bis dahin zu entrichten. Wird die Mindeststeuer abweichend von der Steueranmeldung höher festgesetzt, ist der Unterschiedsbetrag einen Monat nach Bekanntgabe des Steuerbescheids fällig und bis dahin zu entrichten. Wird die Mindeststeuer aufgrund unterbliebener Abgabe einer Steueranmeldung festgesetzt, ist die Mindeststeuer einen Monat nach der Bekanntgabe des Steuerbescheids fällig und bis dahin zu entrichten. Alle Geschäftseinheiten sowie Joint Venture und Joint-Venture-Tochtergesellschaften sind dem Steuererklärungspflichtigen gegenüber zur Erteilung der Auskünfte verpflichtet, die dieser zur Erstellung der Steuererklärung benötigt.
 
 (2) Die Frist zur Abgabe der Steuererklärung endet nicht vor Ablauf der Frist nach § 75 Absatz 3. Enden mehrere Geschäftsjahre in einem Kalenderjahr, ist das letzte dieser Geschäftsjahre maßgebend.
 
@@ -1999,13 +2276,13 @@ Die Mindeststeuer (§ 2) für ein Geschäftsjahr entsteht mit Ablauf des Kalende
 
 # § 97 – Währungsumrechnungen
 
-(1) Wird der Konzernabschluss nicht in Euro aufgestellt, sind die auf Euro lautenden Beträge in § 1 Absatz 1, § 7 Absatz 10, § 15 Absatz 2 Nummer 3, § 18 Nummer 7, § 52 Absatz 4 und 6, § 56 Absatz 1, § 80 Absatz 3, § 83 Absatz 2 Nummer 2, § 84 Absatz 1 Nummer 1 und § 87 Nummer 5 zum Devisenkurs der Europäischen Zentralbank des letzten Monats des Kalenderjahres umzurechnen, das dem Beginn des Geschäftsjahres vorangeht.
+(1) Wird der Konzernabschluss nicht in Euro aufgestellt, sind die auf Euro lautenden Beträge in § 1 Absatz 1, § 7 Absatz 10, § 15 Absatz 2 Nummer 3, § 18 Nummer 7, § 52 Absatz 4 und 6, § 56 Absatz 1, § 80 Absatz 3, § 83 Absatz 2 Nummer 2, § 84 Absatz 1 Nummer 1 und § 87 Absatz 6 zum Devisenkurs der Europäischen Zentralbank des letzten Monats des Kalenderjahres umzurechnen, das dem Beginn des Geschäftsjahres vorangeht.
 
 (2) Wird der Steuererhöhungsbetrag für den Besteuerungszeitraum nicht in Euro ermittelt, ist er zum Devisenkurs der Europäischen Zentralbank des letzten Monats des Geschäftsjahres, das im Besteuerungszeitraum endet, in Euro umzurechnen.
 
 # § 98 – Bußgeldvorschriften
 
-(1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig entgegen § 75 Absatz 1 Satz 1 oder Satz 3 in Verbindung mit § 75 Absatz 3 Satz 1 bis 3 und § 76 den Mindeststeuer-Bericht nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig übermittelt.
+(1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig entgegen § 75 Absatz 1 Satz 1 , auch in Verbindung mit Satz 3, einen Mindeststeuer-Bericht nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig übermittelt.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu dreißigtausend Euro geahndet werden.
 
@@ -2024,7 +2301,17 @@ Die Mindeststeuer (§ 2) für ein Geschäftsjahr entsteht mit Ablauf des Kalende
 
 (3) Das Bundesministerium der Finanzen wird ermächtigt, mit Zustimmung des Bundesrates Vorschriften durch Rechtsverordnung zum Umfang, zur näheren Ausgestaltung und zum Informationsaustausch betreffend des Mindeststeuer-Berichts (§ 76) zu erlassen.
 
-(4) Der Steuererhöhungsbetrag einer Unternehmensgruppe oder eines Teils der Unternehmensgruppe wird für Zwecke des § 52 mit null angesetzt, wenn für das betreffende Geschäftsjahr und das betreffende Steuerhoheitsgebiet die Voraussetzungen des Artikels 32 der Richtlinie (EU) 2022/2523 erfüllt sind und die berichtspflichtige Geschäftseinheit für einen Safe Harbour optiert hat. Das Bundesministerium der Finanzen wird zur Gewährleistung einer einheitlichen Rechtsanwendung ermächtigt, mit Zustimmung des Bundesrates Vorschriften durch Rechtsverordnung zu den Voraussetzungen und zum Umfang der Rechtsfolge (gesamte Unternehmensgruppe oder Teil der Unternehmensgruppe) der Safe-Harbour, die die Voraussetzungen des Artikels 32 der Richtlinie (EU) 2022/2523 erfüllen, zu erlassen.
+(4) Der Steuererhöhungsbetrag einer Unternehmensgruppe oder eines Teils der Unternehmensgruppe wird für Zwecke des § 54 mit null angesetzt, wenn für das betreffende Geschäftsjahr und das betreffende Steuerhoheitsgebiet die Voraussetzungen des Artikels 32 der Richtlinie (EU) 2022/2523 erfüllt sind und die berichtspflichtige Geschäftseinheit für einen Safe Harbour optiert hat. Das Bundesministerium der Finanzen wird zur Gewährleistung einer einheitlichen Rechtsanwendung ermächtigt, mit Zustimmung des Bundesrates Vorschriften durch Rechtsverordnung zu den Voraussetzungen und zum Umfang der Rechtsfolge (gesamte Unternehmensgruppe oder Teil der Unternehmensgruppe) der Safe-Harbour, die die Voraussetzungen des Artikels 32 der Richtlinie (EU) 2022/2523 erfüllen, zu erlassen.
+
+(5) Zur Sicherstellung einer einheitlichen Rechtsanwendung bestimmt das Bundesministerium der Finanzen mit Zustimmung des Bundesrates durch Rechtsverordnung die Steuerhoheitsgebiete,
+
+1. die eine anerkannte nationale Ergänzungssteuer (§ 7 Absatz 2) eingeführt haben,
+
+2. die eine anerkannte Primärergänzungssteuerregelung (§ 7 Absatz 3) eingeführt haben,
+
+3. die eine anerkannte Sekundärergänzungssteuerregelung (§ 7 Absatz 5) eingeführt haben und
+
+4. in welchem die Voraussetzungen des § 81 Absatz 1 Satz 1 erfüllt sind.
 
 # § 100 – Auswirkung auf die Abkommensberechtigung
 
@@ -2037,3 +2324,5 @@ Die Besteuerung nach diesem Gesetz oder nach einer ausländischen Vorschrift, di
 (2) § 11 ist erstmals auf Geschäftsjahre anzuwenden, die nach dem 30. Dezember 2024 beginnen. Satz 1 gilt nicht für Unternehmensgruppen, deren oberste Muttergesellschaften in Mitgliedstaaten der Europäischen Union belegen sind, die die Option nach Artikel 50 Absatz 1 der Richtlinie (EU) 2022/2523 ausgeübt haben.
 
 (3) Für die Übergangszeit (§ 84 Absatz 1) findet § 98 Absatz 1 keine Anwendung, wenn nachgewiesen wird, dass angemessene Maßnahmen ergriffen wurden, die eine nicht rechtzeitige oder nicht in vorgeschriebener Weise oder eine nicht richtige oder nicht vollständige (§ 98 Absatz 1) Übermittlung rechtfertigen.
+
+(4) § 87b in der Fassung des Artikels 1 des Gesetzes vom 22. Dezember 2025 (BGBl. 2025 I Nr. 353) ist erstmals auf Geschäftsjahre anzuwenden, die nach dem 31. Dezember 2024 beginnen.

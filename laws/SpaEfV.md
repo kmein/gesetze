@@ -149,9 +149,9 @@ Die zuständige Stelle legt dem Bundesministerium für Wirtschaft und Energie, d
 
 Ordnungswidrig im Sinne des § 381 Absatz 1 Nummer 1 der Abgabenordnung handelt, wer vorsätzlich oder leichtfertig entgegen § 4 Absatz 6 Satz 1 oder § 5 Absatz 5 Satz 1 einen dort genannten Nachweis nicht richtig ausstellt oder nicht richtig bestätigt.
 
-# § 10 – Inkrafttreten
+# § 10 – Außerkrafttreten
 
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
+Diese Verordnung tritt mit Ablauf des 31. Dezember 2025 außer Kraft.
 
 # Anlage 1 – (zu § 3 Nummer 1)Inhaltliche Anforderungen an einen Energieaudit-Bericht entsprechend DIN EN 16247-1
 

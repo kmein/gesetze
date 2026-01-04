@@ -1333,6 +1333,16 @@ Die beantragte Auskunft ist mindestens einmal im Kalenderjahr, höchstens jedoch
 
 (6) Nach Eingang der Unstimmigkeitsmeldung nach Absatz 1 hat die registerführende Stelle auf dem Registerauszug sichtbar zu vermerken, dass die Angaben zu den wirtschaftlich Berechtigten der Vereinigung nach § 20 oder der Rechtsgestaltung nach § 21 der Prüfung unterliegen. Der Abschluss des Verfahrens zur Prüfung der Unstimmigkeitsmeldung ist auf dem Registerauszug zu vermerken.
 
+# § 23b – Meldung von Unstimmigkeiten bei der Zuordnung von Immobilien
+
+(1) Die in § 23 Absatz 1 Satz 1 Nummer 1 aufgeführten Behörden, Verpflichtete nach § 2 Absatz 1 Nummer 1 bis 3 und 7 sowie Notare haben der registerführenden Stelle Abweichungen unverzüglich zu melden, die sie zwischen den Angaben über die Immobilien, die im Transparenzregister zugänglich sind, und den ihnen zur Verfügung stehenden Angaben und Erkenntnissen über Immobilien feststellen. § 43 Absatz 2 gilt entsprechend.
+
+(2) Die registerführende Stelle hat auf der Internetseite des Transparenzregisters deutlich sichtbar eine Vorkehrung einzurichten, über die Meldungen nach Absatz 1 abzugeben sind.
+
+(3) Die registerführende Stelle hat die Meldung nach Absatz 1 unverzüglich zu prüfen. Hierzu kann sie von dem Erstatter der Meldung und von der betroffenen Vereinigung nach § 20 die zur Aufklärung erforderlichen Informationen und Unterlagen verlangen oder Einsicht in das Grundbuch der betroffenen Immobilien nehmen. Die Prüfung der Meldung nach Absatz 1 stellt ein berechtigtes Interesse im Sinne des § 12 Absatz 1 der Grundbuchordnung dar.
+
+(4) Die registerführende Stelle hat die Erfassung oder Zuordnung von Immobilien zu berichtigen, wenn sie zu dem Ergebnis gelangt, dass die gemeldete Abweichung zutreffend ist.
+
 # § 24 – Gebühren und Auslagen, Verordnungsermächtigung
 
 (1) Für die Führung des Transparenzregisters erhebt die registerführende Stelle von Vereinigungen nach § 20 und von Rechtsgestaltungen nach § 21 Gebühren. Dies gilt auf Antrag nicht für Vereinigungen nach § 20, die einen steuerbegünstigten Zweck im Sinne der §§ 52 bis 54 der Abgabenordnung verfolgen und dies mittels einer Bescheinigung des zuständigen Finanzamtes gegenüber der registerführenden Stelle nachweisen. Ein Nachweis nach Satz 2 ist nicht erforderlich, wenn im Antrag die Verfolgung der nach den §§ 52 bis 54 der Abgabenordnung steuerbegünstigten Zwecke versichert und das Einverständnis darüber erklärt werden, dass die registerführende Stelle beim zuständigen Finanzamt eine Bestätigung der Verfolgung dieser steuerbegünstigten Zwecke einholen darf. Die registerführende Stelle erhebt keine Gebühren von Vereinigungen nach § 20, wenn sich die Verfolgung der nach den §§ 52 bis 54 der Abgabenordnung steuerbegünstigten Zwecke unmittelbar aus dem Zuwendungsempfängerregister nach § 60b der Abgabenordnung ergibt. Die durch die Gebührenbefreiung entstehenden Mindereinnahmen werden der registerführenden Stelle durch den Bund erstattet.

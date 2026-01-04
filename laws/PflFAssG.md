@@ -83,9 +83,21 @@
 
 (+++ §§ 14 bis 23: Treten gem. Art. 14 Abs. 1 G v. 28.10.2025 I Nr. 259 am 01.01.2027 in Kraft +++)
 
-# § 24 – (zukünftig in Kraft)
+# § 24 – Finanzierung
 
-(+++ § 24: Tritt gem. Art. 14 Abs. 2 G v. 28.10.2025 I Nr. 259 am 01.01.2026 in Kraft +++)
+Mit dem Ziel,
+
+1. bundesweit eine wohnortnahe qualitätsgesicherte Ausbildung sicherzustellen,
+
+2. eine ausreichende Zahl qualifizierter Pflegefachassistentinnen, Pflegefachassistenten und Pflegefachassistenzpersonen auszubilden,
+
+3. Nachteile im Wettbewerb zwischen ausbildenden und nicht ausbildenden Einrichtungen zu vermeiden,
+
+4. die Ausbildung in kleineren und mittleren Einrichtungen zu stärken und
+
+5. wirtschaftliche Ausbildungsstrukturen zu gewährleisten,
+
+werden die Kosten der Pflegefachassistenzausbildung durch Ausgleichsfonds in entsprechender Anwendung von § 26 Absatz 2 bis 7, § 27 Absatz 1 sowie der §§ 28 bis 36 des Pflegeberufegesetzes finanziert. An die Stelle der Mehrkosten der Ausbildungsvergütung treten die Kosten der Ausbildungsvergütung.
 
 # §§ 25 bis 28 – (zukünftig in Kraft)
 
@@ -173,9 +185,13 @@ Für die Ausbildung nach diesem Gesetz findet das Berufsbildungsgesetz mit Ausna
 
 (+++ §§ 50 und 51: Treten gem. Art. 14 Abs. 1 G v. 28.10.2025 I Nr. 259 am 01.01.2027 in Kraft +++)
 
-# § 52 – (zukünftig in Kraft)
+# § 52 – Übergangsvorschriften für landesrechtliche Ausbildungen
 
-(+++ § 52: Tritt gem. Art. 14 Abs. 2 G v. 28.10.2025 I Nr. 259 am 01.01.2026 in Kraft +++)
+(1) Eine Ausbildung nach landesrechtlichen Vorschriften über eine Helfer- oder Assistenzausbildung, die die von der Arbeits- und Sozialministerkonferenz 2012 und von der Gesundheitsministerkonferenz 2013 als Mindestanforderungen beschlossenen „Eckpunkte für die in Länderzuständigkeit liegenden Ausbildungen zu Assistenz- und Helferberufen in der Pflege“ (BAnz AT 17.02.2016 B3) erfüllt und die vor Ablauf des 31. Dezember 2026 begonnen wurde, kann bis zum 31. Dezember 2029 auf Grundlage der landesrechtlichen Vorschriften in der am 31. Dezember 2026 jeweils geltenden Fassung abgeschlossen werden. Die Möglichkeit der Überleitung einer vor Außerkrafttreten der landesrechtlichen Vorschriften nach den landesrechtlichen Vorschriften begonnenen Ausbildung in die neue Pflegefachassistenzausbildung bleibt hiervon unberührt; das Nähere regeln die Länder.
+
+(2) Eine Ausbildung nach landesrechtlichen Vorschriften über eine Helfer- oder Assistenzausbildung, die die von der Arbeits- und Sozialministerkonferenz 2012 und von der Gesundheitsministerkonferenz 2013 als Mindestanforderungen beschlossenen „Eckpunkte für die in Länderzuständigkeit liegenden Ausbildungen zu Assistenz- und Helferberufen in der Pflege“ (BAnz AT 17.02.2016 B3) erfüllt, kann bis zum Ablauf des 31. Dezember 2027 auf Grundlage der landesrechtlichen Vorschriften in der am 31. Dezember 2026 jeweils geltenden Fassung neu begonnen und bis zum 31. Dezember 2030 auf der Grundlage dieser landesrechtlichen Vorschriften abgeschlossen werden, wenn das Land dies zur Sicherstellung der notwendigen Ausbildungskapazitäten durch landesrechtliche Vorschriften vorsieht; das Nähere regeln die Länder.
+
+(3) Für die Finanzierung der in den Absätzen 1 und 2 genannten Ausbildungen gelten § 2 Nummer 1a Buchstabe g des Krankenhausfinanzierungsgesetzes und § 17a des Krankenhausfinanzierungsgesetzes jeweils in der am 31. Dezember 2025 geltenden Fassung.
 
 # §§ 53 und 54 – (zukünftig in Kraft)
 

@@ -594,7 +594,7 @@ Ist Gegenstand der Einigung eine Zahlungsvereinbarung (Gebühr 1000 Nummer 2 des
 
 (2) Der Antrag ist erst zulässig, wenn die Vergütung fällig ist. Antragsberechtigt sind der Rechtsanwalt, der Auftraggeber, ein erstattungspflichtiger Gegner und in den Fällen des § 45 die Staatskasse.
 
-(3) Gegen den Beschluss nach Absatz 1 können die Antragsberechtigten Beschwerde einlegen, wenn der Wert des Beschwerdegegenstands 200 Euro übersteigt. Die Beschwerde ist auch zulässig, wenn sie das Gericht, das die angefochtene Entscheidung erlassen hat, wegen der grundsätzlichen Bedeutung der zur Entscheidung stehenden Frage in dem Beschluss zulässt. Die Beschwerde ist nur zulässig, wenn sie innerhalb von zwei Wochen nach Zustellung der Entscheidung eingelegt wird.
+(3) Gegen den Beschluss nach Absatz 1 können die Antragsberechtigten Beschwerde einlegen, wenn der Wert des Beschwerdegegenstands 300 Euro übersteigt. Die Beschwerde ist auch zulässig, wenn sie das Gericht, das die angefochtene Entscheidung erlassen hat, wegen der grundsätzlichen Bedeutung der zur Entscheidung stehenden Frage in dem Beschluss zulässt. Die Beschwerde ist nur zulässig, wenn sie innerhalb von zwei Wochen nach Zustellung der Entscheidung eingelegt wird.
 
 (4) Soweit das Gericht die Beschwerde für zulässig und begründet hält, hat es ihr abzuhelfen; im Übrigen ist die Beschwerde unverzüglich dem Beschwerdegericht vorzulegen. Beschwerdegericht ist das nächsthöhere Gericht, in Zivilsachen der in § 119 Absatz 1 Nummer 1 des Gerichtsverfassungsgesetzes bezeichneten Art jedoch das Oberlandesgericht. Eine Beschwerde an einen obersten Gerichtshof des Bundes findet nicht statt. Das Beschwerdegericht ist an die Zulassung der Beschwerde gebunden; die Nichtzulassung ist unanfechtbar.
 
@@ -981,11 +981,9 @@ Das Bundesministerium der Justiz kann nach Änderungen den Wortlaut des Gesetzes
 
 (3) In Angelegenheiten nach dem Pflegeberufegesetz ist bei der Bestimmung des Gegenstandswerts § 52 Absatz 4 Nummer 4 des Gerichtskostengesetzes nicht anzuwenden, wenn der unbedingte Auftrag zur Erledigung derselben Angelegenheit vor dem 15. August 2019 erteilt worden ist.
 
-# § 61 – Übergangsvorschrift aus Anlass des Inkrafttretens dieses Gesetzes
+# § 61 – Übergangsvorschrift zum Gesetz zur Änderung des Zuständigkeitsstreitwerts der Amtsgerichte, zum Ausbau der Spezialisierung der Justiz in Zivilsachen sowie zur Änderung weiterer prozessualer Regelungen
 
-(1) Die Bundesgebührenordnung für Rechtsanwälte in der im Bundesgesetzblatt Teil III, Gliederungsnummer 368-1, veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 2 Absatz 6 des Gesetzes vom 12. März 2004 (BGBl. I S. 390), und Verweisungen hierauf sind weiter anzuwenden, wenn der unbedingte Auftrag zur Erledigung derselben Angelegenheit im Sinne des § 15 vor dem 1. Juli 2004 erteilt oder der Rechtsanwalt vor diesem Zeitpunkt gerichtlich bestellt oder beigeordnet worden ist. Ist der Rechtsanwalt am 1. Juli 2004 in derselben Angelegenheit und, wenn ein gerichtliches Verfahren anhängig ist, in demselben Rechtszug bereits tätig, gilt für das Verfahren über ein Rechtsmittel, das nach diesem Zeitpunkt eingelegt worden ist, dieses Gesetz. § 60 Absatz 2 ist entsprechend anzuwenden.
-
-(2) Auf die Vereinbarung der Vergütung sind die Vorschriften dieses Gesetzes auch dann anzuwenden, wenn nach Absatz 1 die Vorschriften der Bundesgebührenordnung für Rechtsanwälte weiterhin anzuwenden und die Willenserklärungen beider Parteien nach dem 1. Juli 2004 abgegeben worden sind.
+§ 33 ist in seiner bis einschließlich 31. Dezember 2025 geltenden Fassung weiter anzuwenden, wenn der unbedingte Auftrag zur Erledigung derselben Angelegenheit im Sinne des § 15 vor dem 1. Januar 2026 erteilt oder der Rechtsanwalt vor diesem Zeitpunkt gerichtlich bestellt oder beigeordnet worden ist. Ist der Rechtsanwalt am 1. Januar 2026 in derselben Angelegenheit und, wenn ein gerichtliches Verfahren anhängig ist, in demselben Rechtszug bereits tätig, gilt Satz 1 nicht für das Verfahren über ein Rechtsmittel, das nach dem 31. Dezember 2025 eingelegt worden ist.
 
 # § 62 – Verfahren nach dem Therapieunterbringungsgesetz
 

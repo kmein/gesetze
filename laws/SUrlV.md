@@ -284,11 +284,7 @@ bis zu neun Arbeitstage</td>
 </tbody>
 </table>
 
-(2) Abweichend von Absatz 1 Nummer 4 beträgt die Dauer des gewährten Sonderurlaubs für die Jahre 2024 und 2025
-
-1. für jedes Kind längstens bis zu 13 Arbeitstage im Urlaubsjahr, für alle Kinder zusammen höchstens 30 Arbeitstage im Urlaubsjahr,
-
-2. bei alleinerziehenden Beamtinnen und Beamten beträgt die Dauer des gewährten Sonderurlaubs für jedes Kind längstens bis zu 26 Arbeitstage im Urlaubsjahr, für alle Kinder zusammen höchstens 60 Arbeitstage im Urlaubsjahr.
+(2) (weggefallen)
 
 (3) In den Fällen des Absatzes 1 Nummer 3 bis 5 können auch halbe Sonderurlaubstage gewährt werden. Ein halber Sonderurlaubstag entspricht der Hälfte der für den jeweiligen Arbeitstag festgesetzten regelmäßigen Arbeitszeit.
 

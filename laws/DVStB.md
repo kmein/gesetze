@@ -184,29 +184,23 @@ und 3</td>
 
 2. beglaubigte Abschrift der Prüfungszeugnisse, Diplome und Befähigungsnachweise über die gesetzlichen Vorbildungsvoraussetzungen für die Prüfung als Steuerberater,
 
-3. beglaubigte Abschrift der Zeugnisse über die bisherige berufliche Tätigkeit des Bewerbers, insbesondere mit Angaben über Art und Umfang der Tätigkeit auf dem Gebiet der von den Bundes- oder Landesfinanzbehörden verwalteten Steuern, und über bisher von ihm abgelegte einschlägige Prüfungen; Nachweise über die Arbeitszeit,
-
-4. ein Paßbild.
+3. beglaubigte Abschrift der Zeugnisse über die bisherige berufliche Tätigkeit des Bewerbers, insbesondere mit Angaben über Art und Umfang der Tätigkeit auf dem Gebiet der von den Bundes- oder Landesfinanzbehörden verwalteten Steuern, und über bisher von ihm abgelegte einschlägige Prüfungen; Nachweise über die Arbeitszeit.
 
 (4) u. (5) (weggefallen)
 
 # § 5 – Sonstige Nachweise
 
-(1) In den Fällen des § 37a Abs. 1 des Steuerberatungsgesetzes ist dem Antrag eine Bescheinigung der nach den Vorschriften der Wirtschaftsprüferordnung zuständigen Stelle darüber beizufügen, dass der Bewerber Wirtschaftsprüfer oder vereidigter Buchprüfer ist oder die Prüfung als Wirtschaftsprüfer oder vereidigter Buchprüfer bestanden hat.
+(1) Einem Antrag auf Zulassung zur Steuerberaterprüfung in verkürzter Form ist eine Bescheinigung der nach den Vorschriften der Wirtschaftsprüferordnung zuständigen Stelle darüber beizufügen, dass der Bewerber Wirtschaftsprüfer oder vereidigter Buchprüfer ist oder die Prüfung als Wirtschaftsprüfer oder vereidigter Buchprüfer bestanden hat.
 
-(2) In den Fällen des § 37a Abs. 2 des Steuerberatungsgesetzes sind dem Antrag zusätzlich zu den in § 4 Absatz 3 Nummer 1, 2 und 4 genannten Unterlagen beizufügen
+(2) Einem Antrag auf Zulassung zur Eignungsprüfung ist zusätzlich zu den in § 4 Absatz 3 Nummer 1 und 2 genannten Unterlagen beizufügen:
 
-1. (weggefallen)
+1. ein Befähigungs- oder Ausbildungsnachweis im Sinne des § 37a Absatz 3 Satz 1 und 2 des Steuerberatungsgesetzes oder ein gleichgestellter Nachweis im Sinne des § 37a Absatz 3 Satz 3 und 4 des Steuerberatungsgesetzes,
 
-2. eine Bescheinigung der zuständigen Stelle eines Mitgliedstaats der Europäischen Union oder eines Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum (Mitgliedstaat oder Vertragsstaat) oder der Schweiz, durch die nachgewiesen wird, dass der Bewerber ein Diplom erlangt hat, mit dem er in diesem Mitgliedstaat oder Vertragsstaat oder der Schweiz zur Hilfe in Steuersachen berechtigt ist, oder eine Bescheinigung im Sinne des § 37a Absatz 3 Satz 3 und 4 des Steuerberatungsgesetzes,
+2. sofern die Hilfeleistung in Steuersachen im Herkunftsstaat nicht reglementiert ist und soweit nach § 37a Absatz 3 Satz 5 bis 7 des Steuerberatungsgesetzes erforderlich, ein Nachweis, dass der Bewerber auf die Ausübung des Berufs vorbereitet wurde und in den vorhergehenden zehn Jahren mindestens ein Jahr in einem Umfang von sechzehn Wochenstunden steuerberatend tätig war,
 
-3. soweit erforderlich ein Nachweis über die einjährige Tätigkeit in einem Umfang von mindestens 16 Wochenstunden im steuerberatenden Beruf sowie ein oder mehrere Ausbildungsnachweise im Sinne des Artikels 7 Abs. 2 Buchstabe c der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. EU Nr. L 255 S. 22) in der jeweils geltenden Fassung,
+3. ein Nachweis im Sinne des § 37a Absatz 4 Satz 5 und 6 des Steuerberatungsgesetzes über die erlangten Kenntnisse in den Prüfungsgebieten, die entfallen sollen.
 
-4. eine Bescheinigung über eine mindestens einjährige Berufsausübung in einem Umfang von mindestens 16 Wochenstunden in einem Mitgliedstaat oder Vertragsstaat oder in der Schweiz, sofern dieser Staat ein Diplom, ein Prüfungszeugnis oder einen sonstigen Befähigungsnachweis eines Drittlandes anerkannt hat,
-
-5. die Bestimmung der Prüfungsgebiete, die bei der Prüfung gemäß § 37a Abs. 4 Satz 4 des Steuerberatungsgesetzes entfallen sollen, sowie ein Nachweis über die für diese Prüfungsgebiete erlangten Kenntnisse.
-
-Der Antrag und die beizufügenden Unterlagen, soweit sie vom Bewerber stammen, sind in deutscher Sprache einzureichen; sonstige Unterlagen sind mit einer beglaubigten Übersetzung vorzulegen.
+(3) Die beizufügenden Unterlagen sind in deutscher oder englischer Sprache einzureichen. Eine beglaubigte deutsche Übersetzung kann im begründeten Einzelfall angefordert werden.
 
 # § 6 – Zulassung zur Prüfung
 

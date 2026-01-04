@@ -111,19 +111,19 @@ Der Steuerberater hat Anspruch auf Ersatz der bei der Ausführung des Auftrags f
 
 (1) Der Steuerberater erhält eine Dokumentenpauschale
 
-1. für Ablichtungen
+1. für Kopien und Ausdrucke
 
 a) aus Behörden- und Gerichtsakten, soweit deren Herstellung zur sachgerechten Bearbeitung der Angelegenheit geboten war,
 
-b) zur Mitteilung an Gegner oder Beteiligte und Verfahrensbevollmächtigte auf Grund einer Rechtsvorschrift oder nach Aufforderung durch das Gericht, die Behörde oder die sonst das Verfahren führende Stelle, soweit hierfür mehr als 100 Ablichtungen zu fertigen waren,
+b) zur Mitteilung an Gegner oder Beteiligte und Verfahrensbevollmächtigte aufgrund einer Rechtsvorschrift oder nach Aufforderung durch das Gericht, die Behörde oder die sonst das Verfahren führende Stelle, soweit hierfür mehr als 100 Seiten zu fertigen waren,
 
-c) zur notwendigen Unterrichtung des Auftraggebers, soweit hierfür mehr als 100 Ablichtungen zu fertigen waren,
+c) zur notwendigen Unterrichtung des Auftraggebers, soweit hierfür mehr als 100 Seiten zu fertigen waren,
 
-d) in sonstigen Fällen nur, wenn sie im Einverständnis mit dem Auftraggeber zusätzlich, auch zur Unterrichtung Dritter, angefertigt worden sind und
+d) in sonstigen Fällen nur, wenn sie im Einverständnis mit dem Auftraggeber, auch zur Unterrichtung Dritter, angefertigt worden sind und
 
-2. für die Überlassung elektronischer Dokumente an Stelle der in Nummer 1 Buchstabe d genannten Ablichtungen.
+2. für die Überlassung von elektronischen Dateien oder deren Bereitstellung zum Abruf anstelle der in Nummer 1 Buchstabe d genannten Kopien und Ausdrucke.
 
-Eine Übermittlung durch den Steuerberater per Telefax steht der Herstellung einer Ablichtung gleich.
+Eine Übermittlung durch den Steuerberater per Telefax steht der Herstellung einer Kopie gleich.
 
 (2) Die Höhe der Dokumentenpauschale bemisst sich nach den für die Dokumentenpauschale im Vergütungsverzeichnis zum Rechtsanwaltsvergütungsgesetz bestimmten Beträgen. Die Höhe der Dokumentenpauschale nach Absatz 1 Nr. 1 ist in derselben Angelegenheit und in gerichtlichen Verfahren in demselben Rechtszug einheitlich zu berechnen.
 

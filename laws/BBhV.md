@@ -109,7 +109,7 @@ Die Aufwendungen gelten als zu dem Zeitpunkt entstanden, zu dem die sie begründ
 
 3. deren oder dessen Versorgungsbezüge und Renteneinkünfte.
 
-Auf Anforderung der Festsetzungsstelle ist der Gesamtbetrag der Einkünfte durch Vorlage einer Kopie des Steuerbescheids oder, wenn dieser nicht oder noch nicht vorliegt, durch andere geeignete Unterlagen nachzuweisen. Weist der Steuerbescheid den Gesamtbetrag der Einkünfte nicht vollständig aus, können andere Nachweise gefordert werden. Der Betrag nach Satz 1 wird im gleichen Verhältnis, wie sich der Rentenwert West auf Grund der Rentenwertbestimmungsverordnung erhöht, angepasst und auf volle Euro abgerundet. Die Anpassung erfolgt mit Wirkung für das auf das Inkrafttreten der Rentenwertbestimmungsverordnung folgende Kalenderjahr. Das Bundesministerium des Innern und für Heimat gibt den jeweils angepassten Betrag durch Rundschreiben bekannt. Sind zum Zeitpunkt der Antragstellung die Aufwendungen einer nach § 4 Absatz 1 berücksichtigungsfähigen Person nicht mehr beihilfefähig, ist auf den Zeitpunkt nach Absatz 1 abzustellen.
+Auf Anforderung der Festsetzungsstelle ist der Gesamtbetrag der Einkünfte durch Vorlage einer Kopie des Steuerbescheids oder, wenn dieser nicht oder noch nicht vorliegt, durch andere geeignete Unterlagen nachzuweisen. Weist der Steuerbescheid den Gesamtbetrag der Einkünfte nicht vollständig aus, können andere Nachweise gefordert werden. Der Betrag nach Satz 1 wird im gleichen Verhältnis, wie sich der Rentenwert West auf Grund der Rentenwertbestimmungsverordnung erhöht, angepasst und auf volle Euro abgerundet. Die Anpassung erfolgt mit Wirkung für das auf das Inkrafttreten der Rentenwertbestimmungsverordnung folgende Kalenderjahr. Das Bundesministerium des Innern gibt den jeweils angepassten Betrag durch Rundschreiben bekannt. Sind zum Zeitpunkt der Antragstellung die Aufwendungen einer nach § 4 Absatz 1 berücksichtigungsfähigen Person nicht mehr beihilfefähig, ist auf den Zeitpunkt nach Absatz 1 abzustellen.
 
 (3) Beihilfefähig sind grundsätzlich nur notwendige und wirtschaftlich angemessene Aufwendungen. Andere Aufwendungen sind ausnahmsweise beihilfefähig, soweit diese Verordnung die Beihilfefähigkeit vorsieht.
 
@@ -119,9 +119,9 @@ Auf Anforderung der Festsetzungsstelle ist der Gesamtbetrag der Einkünfte durch
 
 (6) Für Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, gelten unter Berücksichtigung der besonderen Verhältnisse im Ausland die ortsüblichen Gebühren als wirtschaftlich angemessen. Gelten Höchstbeträge nach Anlage 11, kann in entsprechender Anwendung des § 55 des Bundesbesoldungsgesetzes der für den Dienstort jeweils geltende Kaufkraftausgleich hinzutreten.
 
-(7) In Ausnahmefällen kann das Bundesministerium des Innern und für Heimat im Einvernehmen mit dem Bundesministerium der Finanzen die einmalige Beteiligung des Bundes als Beihilfeträger an allgemeinen, nicht individualisierbaren Maßnahmen erklären. Hierfür zu leistende Zahlungen und Erstattungen kann das Bundesministerium des Innern und für Heimat auf die Einrichtungen oder Stellen des Bundes, die Beihilfe nach dieser Verordnung gewähren, aufteilen. Auf Anforderung des Bundesministeriums des Innern und für Heimat leisten die Einrichtungen oder Stellen entsprechende Abschläge und Zahlungen. Die Anteile bemessen sich nach dem Verhältnis der tatsächlichen Beihilfeausgaben im Jahr 2009; jährliche Ausgaben unter 1 000 Euro bleiben außer Betracht. Auf Verlangen von mindestens fünf obersten Bundesbehörden oder Behörden der mittelbaren Bundesverwaltung setzt das Bundesministerium des Innern und für Heimat die Anteile entsprechend dem Verhältnis der tatsächlichen Beihilfeausgaben im Vorjahr für zukünftige Maßnahmen neu fest.
+(7) In Ausnahmefällen kann das Bundesministerium des Innern im Einvernehmen mit dem Bundesministerium der Finanzen die einmalige Beteiligung des Bundes als Beihilfeträger an allgemeinen, nicht individualisierbaren Maßnahmen erklären. Hierfür zu leistende Zahlungen und Erstattungen kann das Bundesministerium des Innern auf die Einrichtungen oder Stellen des Bundes, die Beihilfe nach dieser Verordnung gewähren, aufteilen. Auf Anforderung des Bundesministeriums des Innern leisten die Einrichtungen oder Stellen entsprechende Abschläge und Zahlungen. Die Anteile bemessen sich nach dem Verhältnis der tatsächlichen Beihilfeausgaben im Jahr 2009; jährliche Ausgaben unter 1 000 Euro bleiben außer Betracht. Auf Verlangen von mindestens fünf obersten Bundesbehörden oder Behörden der mittelbaren Bundesverwaltung setzt das Bundesministerium des Innern die Anteile entsprechend dem Verhältnis der tatsächlichen Beihilfeausgaben im Vorjahr für zukünftige Maßnahmen neu fest.
 
-(8) Sofern im Einzelfall die Ablehnung der Beihilfe eine besondere Härte darstellen würde, kann die oberste Dienstbehörde mit Zustimmung des Bundesministeriums des Innern und für Heimat eine Beihilfe zur Milderung der Härte gewähren. Die Entscheidung ist besonders zu begründen und zu dokumentieren.
+(8) Sofern im Einzelfall die Ablehnung der Beihilfe eine besondere Härte darstellen würde, kann die oberste Dienstbehörde mit Zustimmung des Bundesministeriums des Innern eine Beihilfe zur Milderung der Härte gewähren. Die Entscheidung ist besonders zu begründen und zu dokumentieren.
 
 # § 7 – Verweisungen auf das Sozialgesetzbuch
 
@@ -199,7 +199,7 @@ Satz 3 gilt nicht für
 
 (2) Nach dem Tod der beihilfeberechtigten Person kann die Beihilfe mit befreiender Wirkung auf folgende Konten gezahlt werden:
 
-1. das Bezügekonto der oder des Verstorbenen,
+1. das Konto der Beihilfezahlungen der oder des Verstorbenen,
 
 2. ein anderes Konto, das von der oder dem Verstorbenen im Antrag oder in der Vollmacht angegeben wurde, oder
 
@@ -227,7 +227,7 @@ Eine Anerkennung nach Satz 1 Nummer 5 kommt ausnahmsweise in Betracht, wenn ein 
 
 # § 12 – Ärztliche Leistungen
 
-Aufwendungen für ambulante ärztliche Untersuchungen und Behandlungen sind nach Maßgabe des § 6 in Krankheitsfällen grundsätzlich beihilfefähig. Die Vorschriften des Kapitels 4 bleiben unberührt. Aufwendungen für Dienstunfähigkeitsbescheinigungen für den Dienstherrn der beihilfeberechtigten Person trägt die Festsetzungsstelle.
+Aufwendungen für ambulante ärztliche Untersuchungen und Behandlungen sind nach Maßgabe des § 6 in Krankheitsfällen grundsätzlich beihilfefähig. Die Vorschriften des Kapitels 4 bleiben unberührt.
 
 # § 13 – Leistungen von Heilpraktikerinnen und Heilpraktikern
 
@@ -235,7 +235,7 @@ Aufwendungen für Leistungen von Heilpraktikerinnen und Heilpraktikern sind nach
 
 # § 14 – Zahnärztliche Leistungen
 
-Aufwendungen für ambulante zahnärztliche und kieferorthopädische Untersuchungen und Behandlungen sind nach Maßgabe des § 6 grundsätzlich beihilfefähig. Für Zahnersatz und implantologische Leistungen kann der Festsetzungsstelle vor Aufnahme der Behandlung ein Heil- und Kostenplan vorgelegt werden. Die Kosten des Heil- und Kostenplanes gehören zu den beihilfefähigen Aufwendungen. Aufwendungen für Dienstunfähigkeitsbescheinigungen für den Dienstherrn der beihilfeberechtigten Person trägt die Festsetzungsstelle.
+Aufwendungen für ambulante zahnärztliche und kieferorthopädische Untersuchungen und Behandlungen sind nach Maßgabe des § 6 grundsätzlich beihilfefähig. Die Kosten eines Heil- und Kostenplanes gehören zu den beihilfefähigen Aufwendungen.
 
 # § 15 – Implantologische Leistungen
 
@@ -257,29 +257,21 @@ f) Unfällen,
 
 2. dauerhaft bestehender extremer Xerostomie, insbesondere bei einer Tumorbehandlung,
 
-3. generalisierter genetischer Nichtanlage von Zähnen,
+3. generalisierter genetischer Nichtanlage von Zähnen oder
 
-4. nicht willentlich beeinflussbaren muskulären Fehlfunktionen im Mund- und Gesichtsbereich oder
+4. nicht willentlich beeinflussbaren muskulären Fehlfunktionen im Mund- und Gesichtsbereich.
 
-5. implantatbasiertem Zahnersatz im zahnlosen Ober- oder Unterkiefer.
-
-Im Fall des Satzes 1 Nummer 5 sind die Aufwendungen für höchstens vier Implantate je Kiefer, einschließlich bereits vorhandener Implantate, zu denen Beihilfen oder vergleichbare Leistungen aus öffentlichen Kassen gewährt wurden, beihilfefähig. Maßgebend für die Voraussetzung eines zahnlosen Ober- oder Unterkiefers ist der Zeitpunkt der Fixierung der Prothese. Zahnlos im Sinne der Verordnung ist ein Kiefer ohne Zähne und Zahnfragmente.
-
-(2) Liegt keiner der in Absatz 1 Satz 1 genannten Fälle vor, sind die Aufwendungen für höchstens zwei Implantate je Kiefer, einschließlich bereits vorhandener Implantate, zu denen Beihilfen oder vergleichbare Leistungen aus öffentlichen Kassen gewährt wurden, beihilfefähig. Die Aufwendungen, einschließlich der Material- und Laborkosten nach den §§ 4 und 9 der Gebührenordnung für Zahnärzte, sind entsprechend dem Verhältnis der Zahl der nicht beihilfefähigen Implantate zur Gesamtzahl der Implantate zu kürzen.
-
-(3) Die Aufwendungen für Suprakonstruktionen auf Implantaten sind im Rahmen des § 16 stets beihilfefähig.
+(2) Liegt keiner der in Absatz 1 genannten Fälle vor, sind die Aufwendungen für implantologische Leistungen nach Abschnitt K der Anlage 1 zur Gebührenordnung für Zahnärzte zu 50 Prozent beihilfefähig.
 
 # § 15a – Kieferorthopädische Leistungen
 
 (1) Aufwendungen für kieferorthopädische Leistungen sind beihilfefähig, wenn
 
-1. bei Behandlungsbeginn das 18. Lebensjahr noch nicht vollendet ist oder
+1. bei Behandlungsbeginn die zu behandelnde Person das 18. Lebensjahr noch nicht vollendet hat oder
 
 2. bei schweren Kieferanomalien, insbesondere bei angeborenen Missbildungen des Gesichts oder eines Kiefers, skelettalen Dysgnathien oder verletzungsbedingten Kieferfehlstellungen, eine kombinierte kieferchirurgische und kieferorthopädische Behandlung erfolgt.
 
-Voraussetzung ist, dass die Festsetzungsstelle den Aufwendungen vor Beginn der Behandlung auf der Grundlage eines vorgelegten Heil- und Kostenplanes zugestimmt hat. Die Aufwendungen für die Erstellung des Heil- und Kostenplanes nach Satz 2 sind beihilfefähig.
-
-(2) Für eine kieferorthopädische Behandlung Erwachsener ist abweichend von Absatz 1 Satz 1 Nummer 1 eine Beihilfe zu Aufwendungen zu bewilligen, wenn durch ein Gutachten bestätigt wird, dass
+(2) Aufwendungen für eine kieferorthopädische Behandlung Erwachsener sind beihilfefähig, wenn die Festsetzungsstelle vor Beginn der Behandlung auf der Grundlage eines vorgelegten Heil- und Kostenplanes zugestimmt hat. Die Festsetzungsstelle hat hierzu ein Gutachten einzuholen, das bestätigt, dass
 
 1. die Behandlung ausschließlich medizinisch indiziert ist und ästhetische Gründe ausgeschlossen werden können,
 
@@ -287,13 +279,11 @@ Voraussetzung ist, dass die Festsetzungsstelle den Aufwendungen vor Beginn der B
 
 3. erhebliche Folgeprobleme bestehen, insbesondere bei einer craniomandibulären Dysfunktion.
 
-(3) Bei einem Wechsel der Kieferorthopädin oder des Kieferorthopäden, den die beihilfeberechtigte oder die berücksichtigungsfähige Person zu vertreten hat, bleiben nur die Aufwendungen beihilfefähig, die nach dem Heil- und Kostenplan, dem die Festsetzungsstelle zugestimmt hatte, noch nicht abgerechnet sind.
+(3) Aufwendungen für Leistungen zur Retention sind bis zu zwei Jahre nach Abschluss der kieferorthopädischen Behandlung beihilfefähig.
 
-(4) Ist eine Weiterbehandlung über den Regelfall eines vierjährigen Zeitraums hinaus medizinisch notwendig, muss der Festsetzungsstelle vor Ablauf der laufenden Behandlung ein neuer Heil- und Kostenplan vorgelegt werden. Pro Jahr der Weiterbehandlung werden 25 Prozent der Aufwendungen für die kieferorthopädischen Leistungen nach den Nummern 6030 bis 6080 der Anlage 1 zur Gebührenordnung für Zahnärzte als beihilfefähig anerkannt. Aufwendungen für eine Behandlung, die vor Vollendung des 18. Lebensjahres begonnen wurde, sind auch bei einer medizinisch notwendigen Weiterbehandlung nach Vollendung des 18. Lebensjahres beihilfefähig.
+(4) Aufwendungen für die Erstellung des Heil- und Kostenplanes sind beihilfefähig.
 
-(5) Aufwendungen für Leistungen zur Retention sind bis zu zwei Jahre nach Abschluss der kieferorthopädischen Behandlung beihilfefähig, die auf Grundlage des Heil- und Kostenplanes nach Absatz 1 Satz 2 von der Festsetzungsstelle genehmigt wurde.
-
-(6) Aufwendungen für kieferorthopädische Leistungen vor Beginn der zweiten Phase des Zahnwechsels sind nur beihilfefähig bei
+(5) Aufwendungen für kieferorthopädische Leistungen vor Beginn der zweiten Phase des Zahnwechsels sind nur beihilfefähig bei
 
 1. Beseitigung von Habits bei einem habituellen Distalbiss bei distal sagittaler Stufe mit einer Frontzahnstufe von mehr als 9 Millimetern,
 
@@ -327,7 +317,7 @@ Die Frühbehandlung nach Satz 1 Nummer 4 soll nicht vor Vollendung des dritten L
 
 # § 15b – Funktionsanalytische und funktionstherapeutische Leistungen
 
-(1) Aufwendungen für funktionsanalytische und funktionstherapeutische Leistungen sind nur beihilfefähig, wenn eine der folgenden Indikationen vorliegt:
+Aufwendungen für funktionsanalytische und funktionstherapeutische Leistungen sind nur beihilfefähig, wenn eine der folgenden Indikationen vorliegt:
 
 1. Kiefer- und Muskelerkrankungen,
 
@@ -341,11 +331,9 @@ Die Frühbehandlung nach Satz 1 Nummer 4 soll nicht vor Vollendung des dritten L
 
 Eine Gebisssanierung ist umfangreich, wenn in einem Kiefer mindestens acht Seitenzähne mit Zahnersatz oder Inlays versorgt werden müssen, wobei fehlende Zähne sanierungsbedürftigen gleichstehen, und wenn die richtige Schlussbissstellung nicht mehr auf andere Weise herstellbar ist.
 
-(2) Die beihilfeberechtigte Person hat der Festsetzungsstelle eine Kopie der zahnärztlichen Dokumentation nach Nummer 8000 der Anlage 1 zur Gebührenordnung für Zahnärzte vorzulegen.
-
 # § 16 – Auslagen, Material- und Laborkosten
 
-(1) Gesondert berechenbare Aufwendungen für Auslagen, Material- und Laborkosten nach § 4 Abs. 3 und § 9 der Gebührenordnung für Zahnärzte, die bei einer zahnärztlichen Behandlung nach den Nummern 2130 bis 2320, 5000 bis 5340, 7080 bis 7100 und 9000 bis 9170 der Anlage 1 zur Gebührenordnung für Zahnärzte entstanden sind, sind zu 60 Prozent beihilfefähig. Dies gilt nicht bei Indikationen nach § 15 Absatz 1 Satz 1 Nummer 1 bis 4.
+(1) Gesondert berechenbare Aufwendungen für Auslagen, Material- und Laborkosten nach § 4 Absatz 3 und § 9 der Gebührenordnung für Zahnärzte, die bei einer zahnärztlichen Behandlung nach den §§ 14 bis 15b entstanden sind, sind zu 80 Prozent beihilfefähig. Dies gilt nicht bei Indikationen nach § 15 Absatz 1 Nummer 1 bis 4 und für Personen, die das 18. Lebensjahr noch nicht vollendet haben oder deren kieferorthopädische Behandlung vor Vollendung des 18. Lebensjahres begonnen wurde.
 
 (2) Wenn der auf die in Absatz 1 genannten Aufwendungen entfallende Anteil nicht nachgewiesen ist, sind 40 Prozent des Gesamtrechnungsbetrages anzusetzen.
 
@@ -367,29 +355,33 @@ Aufwendungen nach Satz 1 sind ausnahmsweise beihilfefähig, wenn sie auf einem U
 
 # § 18 – Psychotherapeutische Behandlungs- und Anwendungsformen
 
-(1) Aufwendungen für die folgenden psychotherapeutischen Behandlungs- und Anwendungsformen sind nach Maßgabe der Absätze 2 bis 6 sowie der §§ 18a bis 21 beihilfefähig:
+(1) Aufwendungen für die folgenden psychotherapeutischen Behandlungs- und Anwendungsformen sind nach Maßgabe der Absätze 2 bis 7 sowie der §§ 18a bis 21 beihilfefähig, sofern die Leistungen durch in Anlage 3 genannte Personen erbracht werden:
 
-1. Gruppenpsychotherapeutische Grundversorgung,
+1. Psychotherapeutische Sprechstunde,
 
-2. probatorische Sitzungen,
+2. Gruppenpsychotherapeutische Grundversorgung,
 
-3. psychotherapeutische Akutbehandlung,
+3. Probatorische Sitzungen,
 
-4. Psychotherapie in den Behandlungsformen der psychoanalytisch begründeten Verfahren, der Verhaltenstherapie, der Systemischen Therapie sowie
+4. Psychotherapeutische Akutbehandlung,
 
-5. psychosomatische Grundversorgung.
+5. Psychotherapie in den Behandlungsformen der psychoanalytisch begründeten Verfahren, der Verhaltenstherapie, der Systemischen Therapie sowie
 
-(2) Aufwendungen für die Gruppenpsychotherapeutische Grundversorgung sind je Krankheitsfall für bis zu vier Sitzungen in Einheiten von 100 Minuten beihilfefähig. Die Sitzungen können auch in Einheiten von 50 Minuten unter entsprechender Erhöhung der Gesamtzahl der Sitzungen durchgeführt werden. Darüber hinaus sind unter Einbeziehung von Bezugspersonen bei Personen, die das 21. Lebensjahr noch nicht vollendet haben, und bei Menschen mit einer geistigen Behinderung zusätzlich bis zu 100 Minuten je Krankheitsfall beihilfefähig.
+6. Psychosomatische Grundversorgung.
 
-(3) Aufwendungen für bis zu fünf probatorische Sitzungen, bei sich anschließender analytischer Psychotherapie für bis zu acht probatorische Sitzungen, sind beihilfefähig, auch wenn Bezugspersonen einbezogen werden. Die probatorische Sitzung umfasst im Einzelsetting 50 Minuten und im Gruppensetting 100 Minuten. Probatorische Sitzungen im Gruppensetting können auch in Einheiten von 50 Minuten unter entsprechender Erhöhung der Gesamtzahl der Sitzungen durchgeführt werden. Darüber hinaus sind bei Personen, die das 21. Lebensjahr noch nicht vollendet haben, und bei Menschen mit einer geistigen Behinderung zwei zusätzliche probatorische Sitzungen beihilfefähig. Probatorische Sitzungen sind nicht auf die beihilfefähigen Kontingente der Behandlungen von Kurz- oder Langzeittherapien anzurechnen.
+(2) Aufwendungen für eine psychotherapeutische Sprechstunde als Einzeltherapie sind je Krankheitsfall für bis zu sechs Sitzungen in Einheiten von mindestens 25 Minuten beihilfefähig. Für Personen, die das 21. Lebensjahr noch nicht vollendet haben, und für Menschen mit einer geistigen Behinderung sind Aufwendungen für bis zu zehn Sitzungen je Krankheitsfall als Einzeltherapie beihilfefähig.
 
-(4) Aufwendungen für eine psychotherapeutische Akutbehandlung als Einzeltherapie sind je Krankheitsfall für bis zu 24 Behandlungen in Einheiten von mindestens 25 Minuten beihilfefähig. Für Personen, die das 21. Lebensjahr noch nicht vollendet haben, und für Menschen mit einer geistigen Behinderung sind Aufwendungen bis zu 30 Behandlungen einer psychotherapeutischen Akutbehandlung je Krankheitsfall als Einzeltherapie unter Einbeziehung von Bezugspersonen beihilfefähig. Soll sich an die psychotherapeutische Akutbehandlung eine Behandlung nach den §§ 19 bis 20a anschließen, ist § 18a Absatz 3 zu beachten. Die Zahl der durchgeführten Akutbehandlungen ist auf das Kontingent der Behandlungen nach den §§ 19 bis 20a anzurechnen.
+(3) Aufwendungen für die Gruppenpsychotherapeutische Grundversorgung sind je Krankheitsfall für bis zu vier Sitzungen in Einheiten von 100 Minuten beihilfefähig. Die Sitzungen können auch in Einheiten von 50 Minuten unter entsprechender Erhöhung der Gesamtzahl der Sitzungen durchgeführt werden. Darüber hinaus sind unter Einbeziehung von Bezugspersonen bei Personen, die das 21. Lebensjahr noch nicht vollendet haben, und bei Menschen mit einer geistigen Behinderung zusätzlich bis zu 100 Minuten je Krankheitsfall beihilfefähig.
 
-(5) Vor einer psychotherapeutischen Behandlung muss eine somatische Abklärung spätestens nach den probatorischen Sitzungen erfolgen.
+(4) Aufwendungen für bis zu fünf probatorische Sitzungen, bei sich anschließender analytischer Psychotherapie für bis zu acht probatorische Sitzungen, sind beihilfefähig, auch wenn Bezugspersonen einbezogen werden. Die probatorische Sitzung umfasst im Einzelsetting 50 Minuten und im Gruppensetting 100 Minuten. Probatorische Sitzungen im Gruppensetting können auch in Einheiten von 50 Minuten unter entsprechender Erhöhung der Gesamtzahl der Sitzungen durchgeführt werden. Darüber hinaus sind bei Personen, die das 21. Lebensjahr noch nicht vollendet haben, und bei Menschen mit einer geistigen Behinderung zwei zusätzliche probatorische Sitzungen beihilfefähig. Probatorische Sitzungen sind nicht auf die beihilfefähigen Kontingente der Behandlungen von Kurz- oder Langzeittherapien anzurechnen.
 
-(6) Nicht beihilfefähig sind Aufwendungen für
+(5) Aufwendungen für eine psychotherapeutische Akutbehandlung als Einzeltherapie sind je Krankheitsfall für bis zu 24 Behandlungen in Einheiten von mindestens 25 Minuten beihilfefähig. Für Personen, die das 21. Lebensjahr noch nicht vollendet haben, und für Menschen mit einer geistigen Behinderung sind Aufwendungen bis zu 30 Behandlungen einer psychotherapeutischen Akutbehandlung je Krankheitsfall als Einzeltherapie unter Einbeziehung von Bezugspersonen beihilfefähig. Soll sich an die psychotherapeutische Akutbehandlung eine Behandlung nach den §§ 19 bis 20a anschließen, ist § 18a Absatz 3 zu beachten. Die Zahl der durchgeführten Akutbehandlungen ist auf das Kontingent der Behandlungen nach den §§ 19 bis 20a anzurechnen.
 
-1. gleichzeitige Behandlungen nach § 18 Absatz 4 und den §§ 19 bis 21 sowie
+(6) Vor einer psychotherapeutischen Behandlung muss eine somatische Abklärung spätestens nach den probatorischen Sitzungen erfolgen.
+
+(7) Nicht beihilfefähig sind Aufwendungen für
+
+1. gleichzeitige Behandlungen nach § 18 Absatz 5 und den §§ 19 bis 21 sowie
 
 2. Leistungen nach Anlage 3 Abschnitt 1.
 
@@ -427,7 +419,7 @@ b) durch Opioide und gleichzeitiger stabiler substitutionsgestützter Behandlung
 
 4. schizophrenen und affektiven psychotischen Störungen.
 
-Die Beihilfefähigkeit setzt voraus, dass die Leistungen von einer Ärztin, einem Arzt, einer Therapeutin oder einem Therapeuten nach den Abschnitten 2 bis 4 der Anlage 3 erbracht werden. Eine Sitzung der Psychotherapie umfasst eine Behandlungsdauer von mindestens 50 Minuten bei einer Einzelbehandlung und von in der Regel mindestens 100 Minuten bei einer Gruppenbehandlung. Eine Gruppenbehandlung kann auch mit einer Behandlungsdauer von 50 Minuten unter entsprechender Erhöhung der Gesamtzahl der Sitzungen durchgeführt werden.
+Die Beihilfefähigkeit setzt voraus, dass die Leistungen von einer Ärztin, einem Arzt, einer Psychotherapeutin oder einem Psychotherapeuten nach den Abschnitten 2 bis 4 der Anlage 3 erbracht werden. Eine Sitzung der Psychotherapie umfasst eine Behandlungsdauer von mindestens 50 Minuten bei einer Einzelbehandlung und von in der Regel mindestens 100 Minuten bei einer Gruppenbehandlung. Eine Gruppenbehandlung kann auch mit einer Behandlungsdauer von 50 Minuten unter entsprechender Erhöhung der Gesamtzahl der Sitzungen durchgeführt werden.
 
 (3) Aufwendungen für Leistungen der Psychotherapie, die zu den wissenschaftlich anerkannten Verfahren gehören und nach den Abschnitten B und G der Anlage zur Gebührenordnung für Ärzte abgerechnet werden, sind beihilfefähig, wenn
 
@@ -445,7 +437,7 @@ Aufwendungen für Maßnahmen nach Satz 1 Nummer 2 sind auch dann beihilfefähig,
 
 (6) Aufwendungen für Kurzzeittherapien sind ohne Genehmigung durch die Festsetzungsstelle bis zu 24 Sitzungen als Einzel- oder Gruppenbehandlung beihilfefähig. Für Personen, die das 21. Lebensjahr noch nicht vollendet haben, und für Menschen mit einer geistigen Behinderung sind Aufwendungen für bis zu 30 Behandlungen einer genehmigungsfreien Kurzzeittherapie unter Einbeziehung von Bezugspersonen beihilfefähig. Erbrachte Sitzungen im Rahmen der psychotherapeutischen Akutbehandlung werden mit der Anzahl der Sitzungen der Kurzzeittherapie verrechnet. Die bereits in Anspruch genommenen Sitzungen der Kurzzeittherapie sind auf eine genehmigungspflichtige Therapie nach den §§ 19 bis 20a anzurechnen.
 
-(7) Aufwendungen für eine Eye-Movement-Desensitization-and-Reprocessing-Behandlung sind nur bei Personen, die das 18. Lebensjahr vollendet haben, mit posttraumatischen Belastungsstörungen im Rahmen eines umfassenden Behandlungskonzepts der Verhaltenstherapie, der tiefenpsychologisch fundierten Psychotherapie oder analytischen Psychotherapie beihilfefähig.
+(7) Aufwendungen für eine Eye-Movement-Desensitization-and-Reprocessing-Behandlung sind nur bei Personen, die das 18. Lebensjahr vollendet haben, mit posttraumatischen Belastungsstörungen im Rahmen eines umfassenden Behandlungskonzepts der Verhaltenstherapie, der tiefenpsychologisch fundierten Psychotherapie, der analytischen Psychotherapie oder der Systemischen Therapie beihilfefähig.
 
 # § 19 – Psychoanalytisch begründete Verfahren
 
@@ -589,7 +581,7 @@ Bei einer Kombination von Einzel- und Gruppenbehandlung richtet sich die Beihilf
 
 (3) In Ausnahmefällen kann die oberste Dienstbehörde die Beihilfefähigkeit von Aufwendungen für die Behandlung auch für eine über die in Absatz 1 Satz 1 festgelegte Höchstzahl von Sitzungen hinaus anerkennen, wenn die medizinische Notwendigkeit durch ein Gutachten belegt wird.
 
-(4) Aufwendungen für Sitzungen, in die auf Grund einer durch Gutachten belegten medizinischen Notwendigkeit Bezugspersonen einbezogen werden, sind bei Einzelbehandlung bis zu einem Viertel und bei Gruppenbehandlung bis zur Hälfte der bewilligten Zahl von Sitzungen zusätzlich beihilfefähig, wenn die zu therapierende Person das 21. Lebensjahr noch nicht vollendet hat. Bei Personen, die das 21. Lebensjahr vollendet haben, werden die Sitzungen, in die Bezugspersonen einbezogen werden, in voller Höhe auf die bewilligte Zahl der Sitzungen angerechnet.
+(4) Aufwendungen für Sitzungen, in die auf Grund einer durch Gutachten belegten medizinischen Notwendigkeit Bezugspersonen einbezogen werden, sind bei Einzelbehandlung bis zu einem Viertel und bei Gruppenbehandlung bis zur Hälfte der bewilligten Zahl von Sitzungen zusätzlich beihilfefähig, wenn die zu therapierende Person das 21. Lebensjahr noch nicht vollendet hat. Bei Personen, die das 21. Lebensjahr vollendet haben, werden die Sitzungen, in die Bezugspersonen einbezogen werden, in voller Höhe auf die bewilligte Zahl der Sitzungen angerechnet. Satz 2 gilt nicht für Menschen mit einer geistigen Behinderung.
 
 (5) Im Rahmen psychoanalytisch begründeter Verfahren ist die simultane Kombination von Einzel- und Gruppentherapie grundsätzlich ausgeschlossen. Aufwendungen für Leistungen einer solchen Kombination sind nur beihilfefähig, wenn sie auf dem Gebiet der tiefenpsychologisch fundierten Psychotherapie bei niederfrequenten Therapien auf Grund eines besonders begründeten Erstantrags erbracht werden.
 
@@ -636,14 +628,14 @@ behandlung</th>
 
 # § 20a – Systemische Therapie
 
-(1) Aufwendungen für eine Systemische Therapie sind je Krankheitsfall für Personen, die das 18. Lebensjahr vollendet haben, in folgendem Umfang, auch im Mehrpersonensetting, beihilfefähig:
+(1) Aufwendungen für eine Systemische Therapie sind je Krankheitsfall in folgendem Umfang, auch im Mehrpersonensetting, beihilfefähig:
 
 |                   |   Einzelbehandlung   |  Gruppenbehandlung   |
 |:------------------|:--------------------:|:--------------------:|
 | im Regelfall      |     36 Sitzungen     |     36 Sitzungen     |
 | in Ausnahmefällen | weitere 12 Sitzungen | weitere 12 Sitzungen |
 
-(2) § 19 Absatz 3 gilt entsprechend.
+(2) § 19 Absatz 1 Satz 2 bis 4 und Absatz 3 gilt entsprechend.
 
 # § 21 – Psychosomatische Grundversorgung
 
@@ -737,9 +729,17 @@ e) als mild wirkendes Arzneimittel,
 
 5. traditionelle pflanzliche Arzneimittel nach § 39a des Arzneimittelgesetzes,
 
-6. hormonelle Mittel zur Empfängnisverhütung; dies gilt nicht bei Personen unter 22 Jahren oder wenn diese Mittel unabhängig von der arzneimittelrechtlichen Zulassung zur Behandlung einer Krankheit verordnet werden,
+6. hormonelle Mittel zur Empfängnisverhütung,
 
 7. gesondert ausgewiesene Versandkosten; dies gilt nicht für Aufwendungen von Botendienstzuschlägen in Höhe von 2,50 Euro zuzüglich Umsatzsteuer je Lieferort und Tag bei der Abgabe von verschreibungspflichtigen Arzneimitteln durch Apotheken.
+
+Satz 1 Nummer 6 gilt nicht
+
+1. bei Personen unter 22 Jahren,
+
+2. wenn diese Mittel unabhängig von der arzneimittelrechtlichen Zulassung zur Behandlung einer Krankheit verordnet werden oder
+
+3. für nicht verschreibungspflichtige Notfallkontrazeptiva ohne Altersbeschränkung, soweit sie ärztlich verordnet wurden und Hinweise auf einen sexuellen Missbrauch oder eine Vergewaltigung vorliegen.
 
 (3) Aufwendungen für Arzneimittel, für die Festbeträge nach § 35 Absatz 3, 5 und 6 des Fünften Buches Sozialgesetzbuch festgesetzt sind, sind nur bis zur Höhe der Festbeträge beihilfefähig, die das Bundesinstitut für Arzneimittel und Medizinprodukte nach § 35 Absatz 8 des Fünften Buches Sozialgesetzbuch im Internet veröffentlicht. Aufwendungen für Arzneimittel nach Satz 1 sind über den Festbetrag hinaus beihilfefähig, wenn die Arzneimittel
 
@@ -757,19 +757,29 @@ e) als mild wirkendes Arzneimittel,
 
 (1) Aufwendungen für ärztlich oder zahnärztlich verordnete Heilmittel und bei der Anwendung der Heilmittel verbrauchte Stoffe sind nach Maßgabe der Anlagen 9 und 10 beihilfefähig.
 
-(2) Aufwendungen für Ergotherapie und für bei der Anwendung der Ergotherapie verbrauchte Stoffe sind nach Maßgabe der Anlagen 9 und 10 auch beihilfefähig, wenn die Ergotherapie durch eine Kinder- und Jugendlichenpsychotherapeutin oder einen Kinder- und Jugendlichenpsychotherapeuten oder durch eine Psychologische Psychotherapeutin oder einen Psychologischen Psychotherapeuten verordnet wird.
+(2) Aufwendungen für Ergotherapie und für Stoffe, die bei der Anwendung der Ergotherapie verbraucht werden, sind nach Maßgabe der Anlagen 9 und 10 auch beihilfefähig, wenn die Ergotherapie durch eine Psychotherapeutin oder einen Psychotherapeuten verordnet wird, die oder der die Voraussetzungen des Fünften Buches Sozialgesetzbuch zur Eintragung in das Arztregister erfüllt.
 
 (3) Bei Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, beurteilt sich die Angemessenheit der Aufwendungen für verordnete Heilmittel anstelle der in Anlage 9 genannten Höchstbeträge nach den ortsüblichen Gebühren unter Berücksichtigung der besonderen Verhältnisse im Ausland. Die beihilfefähigen Aufwendungen mindern sich um 10 Prozent der Kosten, die die Höchstbeträge nach Anlage 9 übersteigen, höchstens jedoch um 10 Euro. Diese Minderung gilt nicht für Personen, die das 18. Lebensjahr noch nicht vollendet haben.
 
-# § 24 – Komplextherapie, integrierte Versorgung und Leistungen psychiatrischer und psychosomatischer Institutsambulanzen
+# § 24 – Komplextherapie, besondere Versorgung und Leistungen psychiatrischer und psychosomatischer Institutsambulanzen
 
 (1) Aufwendungen für Leistungen, die in Form von ambulanten, voll- oder teilstationären Komplextherapien erbracht werden, sind abweichend von § 6 Absatz 5 und § 23 Absatz 1 in angemessener Höhe beihilfefähig. Komplextherapie ist eine aus verschiedenen, sich ergänzenden Teilen zusammengesetzte Therapie spezifischer Krankheitsbilder und wird von einem interdisziplinären Team erbracht.
 
 (2) Aufwendungen für Leistungen psychiatrischer oder psychosomatischer Institutsambulanzen sind entsprechend § 118 des Fünften Buches Sozialgesetzbuch beihilfefähig bis zur Höhe der Vergütungen, die die Einrichtung mit dem Verband der privaten Krankenversicherung e. V., mit einem Landesverband der Krankenkassen, mit einem privaten Krankenversicherungsunternehmen oder mit Sozialversicherungsträgern in einer Vereinbarung getroffen hat.
 
-(3) Aufwendungen für die ambulante sozialpädiatrische Behandlung von Kindern in sozialpädiatrischen Zentren, die zu einer solchen Behandlung nach § 119 Absatz 1 Satz 1 des Fünften Buches Sozialgesetzbuch ermächtigt wurden, sind beihilfefähig bis zu der Höhe der Vergütung, die die Einrichtung mit dem Verband der privaten Krankenversicherung e. V., mit einem Landesverband der Krankenkassen, mit einem privaten Krankenversicherungsunternehmen oder mit Sozialversicherungsträgern in einer Vereinbarung getroffen hat. Aufwendungen für sozialpädagogische Leistungen sind nicht beihilfefähig.
+(3) Aufwendungen für folgende Behandlungen sind beihilfefähig bis zu der Höhe der Vergütung, die das jeweilige Zentrum mit dem Verband der privaten Krankenversicherung e. V., mit einem Landesverband der Krankenkassen, mit einem privaten Krankenversicherungsunternehmen oder mit Sozialversicherungsträgern in einer Vereinbarung getroffen hat:
 
-(4) Aufwendungen für Leistungen, die als integrierte Versorgung erbracht und pauschal berechnet werden, sind in der Höhe der Pauschalbeträge beihilfefähig, wenn dazu Verträge zwischen den Leistungserbringerinnen und Leistungserbringern und den Unternehmen der privaten Krankenversicherung oder Beihilfeträgern abgeschlossen wurden oder Verträge zu integrierten Versorgungsformen nach § 140a des Fünften Buches Sozialgesetzbuch bestehen.
+1. die ambulante sozialpädiatrische Behandlung von Kindern in sozialpädiatrischen Zentren, die zu einer solchen Behandlung nach § 119 Absatz 1 Satz 1 des Fünften Buches Sozialgesetzbuch ermächtigt wurden, und
+
+2. die ambulante Behandlung von Erwachsenen mit geistiger Behinderung oder schwerer Mehrfachbehinderung in medizinischen Behandlungszentren für Erwachsene mit geistiger Behinderung oder schwerer Mehrfachbehinderung, die zu einer solchen Behandlung nach § 119c Absatz 1 Satz 1 des Fünften Buches Sozialgesetzbuch ermächtigt wurden.
+
+Aufwendungen für sozialpädagogische Leistungen sind nicht beihilfefähig.
+
+(4) Aufwendungen für Leistungen, die als besondere Versorgung erbracht werden, sind beihilfefähig bis zur Höhe der Vergütungen, die in Verträgen vereinbart wurden
+
+1. zwischen den Leistungserbringerinnen oder Leistungserbringern und den Unternehmen der privaten Krankenversicherung oder Beihilfeträgern oder
+
+2. über eine besondere Versorgung nach § 140a Absatz 1 Satz 1, Absatz 3 Satz 1 und Absatz 4a Satz 1 des Fünften Buches Sozialgesetzbuch.
 
 (5) Bei chronisch Kranken oder schwerstkranken Personen, die das 14. Lebensjahr, in besonders schwerwiegenden Fällen das 18. Lebensjahr, noch nicht vollendet haben, sind Aufwendungen für sozialmedizinische Nachsorgemaßnahmen beihilfefähig, wenn die Maßnahmen
 
@@ -785,7 +795,7 @@ c) eine stationäre Rehabilitationsmaßnahme im Sinne von § 35 Absatz 1 Satz 1
 
 # § 25 – Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle, Körperersatzstücke
 
-(1) Aufwendungen für ärztlich verordnete Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle sowie Körperersatzstücke sind beihilfefähig, wenn sie im Einzelfall erforderlich sind, um den Erfolg der Krankenbehandlung zu sichern, einer drohenden Behinderung vorzubeugen oder eine Behinderung auszugleichen. Beihilfefähig sind vorbehaltlich des Absatzes 4 Aufwendungen für Anschaffung, Reparatur, Ersatz, Betrieb, Unterweisung in den Gebrauch und Unterhaltung der in Anlage 11 genannten Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle und Körperersatzstücke unter den dort genannten Voraussetzungen. Aufwendungen für den Ersatz eines unbrauchbar gewordenen oder verloren gegangenen Gegenstandes im Sinne des Satzes 1 sind auch ohne erneute ärztliche Verordnung beihilfefähig, wenn der Ersatzgegenstand in derselben oder einer gleichwertigen Ausführung beschafft wird wie der unbrauchbar gewordene oder verloren gegangene Gegenstand und die Ersatzbeschaffung innerhalb von sechs Monaten nach der Anschaffung erfolgt.
+(1) Aufwendungen für ärztlich verordnete Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle sowie Körperersatzstücke sind beihilfefähig, wenn sie im Einzelfall erforderlich sind, um den Erfolg der Krankenbehandlung zu sichern, einer drohenden Behinderung vorzubeugen oder eine Behinderung auszugleichen. Beihilfefähig sind vorbehaltlich des Absatzes 4 Aufwendungen für Anschaffung, Reparatur, Ersatz, Betrieb, Unterweisung in den Gebrauch und Unterhaltung der in Anlage 11 unter der jeweiligen Hilfsmittelgruppe genannten Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle und Körperersatzstücke unter den dort genannten Voraussetzungen. Aufwendungen für den Ersatz eines unbrauchbar gewordenen oder verloren gegangenen Gegenstandes im Sinne des Satzes 1 sind auch ohne erneute ärztliche Verordnung beihilfefähig, wenn der Ersatzgegenstand in derselben oder einer gleichwertigen Ausführung beschafft wird wie der unbrauchbar gewordene oder verloren gegangene Gegenstand und die Ersatzbeschaffung innerhalb von sechs Monaten nach der Anschaffung erfolgt.
 
 (2) Nicht beihilfefähig sind Aufwendungen für
 
@@ -797,13 +807,15 @@ b) einen niedrigen Abgabepreis haben,
 
 c) der allgemeinen Lebenshaltung zuzurechnen sind oder
 
-d) in Anlage 12 genannt sind, und
+d) in Anlage 12 genannt sind,
 
-2. gesondert ausgewiesene Versandkosten.
+2. Versicherungen in den Fällen des Absatzes 1 Satz 1 mit Ausnahme von Pflichtversicherungen für Blindenführhunde und
+
+3. gesondert ausgewiesene Versandkosten.
 
 (3) Aufwendungen für das Mieten von Hilfsmitteln und Geräten zur Selbstbehandlung und Selbstkontrolle nach Absatz 1 Satz 1 sind beihilfefähig, soweit sie nicht höher als die Aufwendungen für deren Anschaffung sind.
 
-(4) Sind Hilfsmittel und Geräte zur Selbstbehandlung und Selbstkontrolle im Sinne des Absatzes 1 Satz 1 weder in Anlage 11 oder 12 aufgeführt noch mit den aufgeführten Gegenständen vergleichbar, sind hierfür getätigte Aufwendungen ausnahmsweise beihilfefähig, wenn dies im Hinblick auf die Fürsorgepflicht nach § 78 des Bundesbeamtengesetzes notwendig ist. Die Festsetzungsstelle entscheidet in Fällen des Satzes 1 bei Aufwendungen von mehr als 600 Euro mit Zustimmung der obersten Dienstbehörde. Die oberste Dienstbehörde hat bei Aufwendungen von mehr als 1 200 Euro vor ihrer Zustimmung das Einvernehmen mit dem Bundesministerium des Innern und für Heimat herzustellen. Soweit das Einvernehmen des Bundesministeriums des Innern und für Heimat allgemein erklärt ist, kann die oberste Dienstbehörde ihre Zuständigkeit auf eine andere Behörde übertragen. Absatz 2 bleibt unberührt.
+(4) Sind Hilfsmittel und Geräte zur Selbstbehandlung und Selbstkontrolle im Sinne des Absatzes 1 Satz 1 weder in Anlage 11 oder 12 aufgeführt noch mit den aufgeführten Gegenständen vergleichbar, sind hierfür getätigte Aufwendungen ausnahmsweise beihilfefähig, wenn dies im Hinblick auf die Fürsorgepflicht nach § 78 des Bundesbeamtengesetzes notwendig ist. Die Festsetzungsstelle entscheidet in Fällen des Satzes 1 bei Aufwendungen von mehr als 600 Euro mit Zustimmung der obersten Dienstbehörde. Die oberste Dienstbehörde hat bei Aufwendungen von mehr als 1 200 Euro vor ihrer Zustimmung das Einvernehmen mit dem Bundesministerium des Innern herzustellen. Soweit das Einvernehmen des Bundesministeriums des Innern allgemein erklärt ist, kann die oberste Dienstbehörde ihre Zuständigkeit auf eine andere Behörde übertragen. Absatz 2 bleibt unberührt.
 
 (5) Aufwendungen für den Betrieb und die Unterhaltung der Hilfsmittel und Geräte zur Selbstbehandlung und Selbstkontrolle im Sinne des Absatzes 1 Satz 1 sind nur in Höhe des 100 Euro je Kalenderjahr übersteigenden Betrages beihilfefähig. Nicht beihilfefähig sind Aufwendungen für Batterien von Hörgeräten sowie Pflege- und Reinigungsmittel für Kontaktlinsen. Die Sätze 1 und 2 gelten nicht für Personen, die das 18. Lebensjahr noch nicht vollendet haben.
 
@@ -845,7 +857,7 @@ Die Aufwendungen sind nur beihilfefähig bis zu den Kosten für die Standardvers
 
 a) gesondert berechneter wahlärztlicher Leistungen im Sinne des § 17 des Krankenhausentgeltgesetzes und des § 16 Satz 2 der Bundespflegesatzverordnung,
 
-b) einer gesondert berechneten Unterkunft im Sinne des § 17 des Krankenhausentgeltgesetzes und des § 16 Satz 2 der Bundespflegesatzverordnung bis zur Höhe von 1,2 Prozent der oberen Grenze des einheitlichen Basisfallwertkorridors, der nach § 10 Absatz 9 des Krankenhausentgeltgesetzes vereinbart ist, täglich, und
+b) einer gesondert berechneten Unterkunft im Sinne des § 17 des Krankenhausentgeltgesetzes und des § 16 Satz 2 der Bundespflegesatzverordnung bis zur Höhe von 1,3 Prozent der oberen Grenze des einheitlichen Basisfallwertkorridors, der nach § 10 Absatz 9 des Krankenhausentgeltgesetzes vereinbart ist, täglich, und
 
 c) anderer im Zusammenhang mit Leistungen nach den Buchstaben a und b erbrachter ärztlicher Leistungen oder Leistungen nach § 22.
 
@@ -867,15 +879,15 @@ c) Zusatzentgelte bis zu der im Zusatzentgeltkatalog nach § 9 Absatz 1 Nummer 
 
 2. bei Indikationen, die in Krankenhäusern mit einer Zulassung nach § 108 des Fünften Buches Sozialgesetzbuch nach dem pauschalierenden Entgeltsystem für psychiatrische und psychosomatische Einrichtungen nach § 17d des Krankenhausfinanzierungsgesetzes und in psychosomatischen Einrichtungen abgerechnet werden:
 
-a) das nach Anlage 1a oder Anlage 2a des PEPP-Entgeltkatalogs berechnete Entgelt bei Anwendung des pauschalen Basisentgeltwertes in Höhe von 300 Euro,
+a) das nach Anlage 1a oder Anlage 2a des PEPP-Entgeltkatalogs berechnete Entgelt bei Anwendung des pauschalen Basisentgeltwertes in Höhe von 370 Euro,
 
 b) Zusatzentgelte bis zu den in Anlage 3 des PEPP-Entgeltkatalogs ausgewiesenen Beträgen und
 
-c) ergänzende Tagesentgelte nach Anlage 5 des PEPP-Entgeltkatalogs bei Anwendung des pauschalen Basisentgeltwertes von 300 Euro;
+c) ergänzende Tagesentgelte nach Anlage 5 des PEPP-Entgeltkatalogs bei Anwendung des pauschalen Basisentgeltwertes in Höhe von 370 Euro;
 
 maßgebend ist die jeweils geltende, auf der Internetseite des Instituts für das Entgeltsystem im Krankenhaus veröffentlichte Fassung des PEPP-Entgeltkatalogs,
 
-3. gesondert berechnete Wahlleistungen für Unterkunft bis zur Höhe von 1,2 Prozent der oberen Grenze des einheitlichen Basisfallwertkorridors, der nach § 10 Absatz 9 des Krankenhausentgeltgesetzes vereinbart ist, täglich,
+3. gesondert berechnete Wahlleistungen für Unterkunft bis zur Höhe von 1,3 Prozent der oberen Grenze des einheitlichen Basisfallwertkorridors, der nach § 10 Absatz 9 des Krankenhausentgeltgesetzes vereinbart ist, täglich,
 
 4. bei einer Notfallversorgung, wenn das nächstgelegene Krankenhaus aufgesucht werden musste,
 
@@ -897,7 +909,7 @@ maßgebend ist die jeweils geltende, auf der Internetseite des Instituts für da
 
 # § 26b – Übergangspflege im Krankenhaus
 
-Aufwendungen für die in § 39e Absatz 1 Satz 1 und 2 des Fünften Buches Sozialgesetzbuch genannten Leistungen der Übergangspflege im Krankenhaus sind für zehn Tage je Krankenhausbehandlung beihilfefähig. Nicht beihilfefähig sind Aufwendungen für gesondert berechnete Wahlleistungen für Unterkunft.
+Aufwendungen für die in § 39e Absatz 1 und 2 Satz 1 des Fünften Buches Sozialgesetzbuch genannten Leistungen der Übergangspflege sind für längstens zehn Tage im Anschluss an eine Krankenhausbehandlung beihilfefähig. Nicht beihilfefähig sind Aufwendungen für gesondert berechnete Wahlleistungen für Unterkunft.
 
 # § 27 – Häusliche Krankenpflege, Kurzzeitpflege bei fehlender Pflegebedürftigkeit
 
@@ -927,11 +939,9 @@ d) die Fachärztin für Psychiatrie und Psychotherapie oder der Facharzt für Ps
 
 e) die Fachärztin oder der Facharzt für Kinder- und Jugendpsychiatrie und -psychotherapie; in therapeutisch begründeten Fällen auch in der Übergangsphase ab dem vollendeten 18. Lebensjahr bis zur Vollendung des 21. Lebensjahres der Patientin oder des Patienten,
 
-f) die Psychologische Psychotherapeutin oder der Psychologische Psychotherapeut,
+f) die Psychotherapeutin oder der Psychotherapeut, die oder der die Voraussetzungen des Fünften Buches Sozialgesetzbuch zur Eintragung in das Arztregister erfüllt,
 
-g) die Kinder- und Jugendlichenpsychotherapeutin oder der Kinder- und Jugendlichenpsychotherapeut; in therapeutisch begründeten Fällen auch in der Übergangsphase ab dem vollendeten 18. Lebensjahr bis zur Vollendung des 21. Lebensjahres der Patientin oder des Patienten,
-
-h) die Fachärztin mit Zusatz-Weiterbildung Psychotherapie oder der Facharzt mit Zusatz-Weiterbildung Psychotherapie.
+g) die Fachärztin mit Zusatz-Weiterbildung Psychotherapie oder der Facharzt mit Zusatz-Weiterbildung Psychotherapie.
 
 (3) Häusliche Krankenpflege nach Absatz 1 Satz 1 umfasst
 
@@ -975,7 +985,7 @@ insbesondere nach einem Krankenhausaufenthalt, nach einer ambulanten Operation o
 
 1. eine ärztliche Verordnung aus der, zum Beispiel aus den Angaben zur Dauer oder zum notwendigen Umfang der medizinischen Behandlungspflege, der besonders hohe Bedarf an medizinischer Behandlungspflege, insbesondere der Bedarf zur Bedienung und Überwachung eines Beatmungsgerätes, hervorgeht, oder
 
-2. die Feststellung eines besonders hohen Bedarfes an medizinischer Behandlungspflege durch einen Träger der gesetzlichen Krankenversicherung, ein Unternehmen der privaten Krankenversicherung oder die Postbeamtenkrankenkasse.
+2. die Feststellung eines besonders hohen Bedarfs an medizinischer Behandlungspflege durch einen Träger der gesetzlichen Krankenversicherung, ein Unternehmen der privaten Krankenversicherung oder die Postbeamtenkrankenkasse.
 
 Spätestens zwölf Monate nach einer Erstausstellung oder einer Folgeausstellung ist ein erneuter Nachweis nach Satz 2 Nummer 1 oder nach Satz 2 Nummer 2 zu erbringen.
 
@@ -1057,15 +1067,17 @@ die zusätzlich zu ihrer Gebietsbezeichnung über eine neuropsychologische Zusat
 
 Satz 1 gilt auch bei Behandlungen, die durchgeführt werden von
 
-1. Psychotherapeutinnen oder Psychotherapeuten,
+1. Psychotherapeutinnen oder Psychotherapeuten, die aufgrund einer Weiterbildung im Gebiet der neuropsychologischen Psychotherapie die Voraussetzung des Fünften Buches Sozialgesetzbuch zur Eintragung in das Arztregister erfüllen, oder
 
-2. ärztlichen Psychotherapeutinnen oder Psychotherapeuten,
+2. folgenden Psychotherapeutinnen oder Psychotherapeuten, wenn diese über eine neuropsychologische Qualifikation verfügen:
 
-3. psychologischen Psychotherapeutinnen oder Psychotherapeuten oder
+a) ärztlichen Psychotherapeutinnen oder ärztlichen Psychotherapeuten,
 
-4. Kinder- und Jugendlichenpsychotherapeutinnen oder Kinder- und Jugendlichenpsychotherapeuten,
+b) psychologischen Psychotherapeutinnen oder Psychotherapeuten oder
 
-wenn diese über eine neuropsychologische Zusatzqualifikation verfügen. Der Umfang der beihilfefähigen Aufwendungen richtet sich nach Absatz 3.
+c) Kinder- und Jugendlichenpsychotherapeutinnen oder Kinder- und Jugendlichenpsychotherapeuten.
+
+Der Umfang der beihilfefähigen Aufwendungen richtet sich nach Absatz 3.
 
 (2) Nicht beihilfefähig sind Aufwendungen für eine ambulante neuropsychologische Therapie, wenn
 
@@ -1079,7 +1091,8 @@ wenn diese über eine neuropsychologische Zusatzqualifikation verfügen. Der Umf
 
 1. bis zu fünf probatorische Sitzungen sowie
 
-2. bei Einzelbehandlung, gegebenenfalls unter Einbeziehung von Bezugspersonen
+2. bei Einzelbehandlung, gegebenenfalls unter Einbeziehung von Bezugspersonen  
+  
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
 <colgroup>
@@ -1090,53 +1103,46 @@ wenn diese über eine neuropsychologische Zusatzqualifikation verfügen. Der Umf
 <thead data-valign="bottom">
 <tr class="header">
 <th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50"> </th>
-<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">wenn eine<br />
-Behandlungseinheit mindestens<br />
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">wenn eine Behandlungseinheit mindestens<br />
 25 Minuten dauert</th>
-<th style="text-align: center; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">wenn eine<br />
-Behandlungseinheit mindestens<br />
+<th style="text-align: center; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">wenn eine Behandlungseinheit mindestens<br />
 50 Minuten dauert</th>
 </tr>
 </thead>
 <tbody data-valign="top">
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Regelfall</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">120 Behandlungseinheiten</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">60 Behandlungseinheiten</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">120 Behandlungseinheiten</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">60 Behandlungseinheiten</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Ausnahmefall</td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">40 weitere Behandlungseinheiten</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">20 weitere Behandlungseinheiten</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">40 weitere Behandlungseinheiten</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">20 weitere Behandlungseinheiten</td>
 </tr>
 </tbody>
 </table>
 
-3. bei Gruppenbehandlung, bei Kindern und Jugendlichen, gegebenenfalls unter Einbeziehung von Bezugspersonen
+3. bei Gruppenbehandlung, bei Kindern und Jugendlichen, gegebenenfalls unter Einbeziehung von Bezugspersonen  
+  
 
-<table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
 <colgroup>
 <col style="width: 50%" />
 <col style="width: 50%" />
 </colgroup>
 <thead data-valign="bottom">
 <tr class="header">
-<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">wenn eine<br />
-Behandlungseinheit<br />
-mindestens<br />
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">wenn eine Behandlungseinheit mindestens<br />
 50 Minuten dauert</th>
-<th style="text-align: center; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">wenn eine<br />
-Behandlungseinheit<br />
-mindestens<br />
+<th style="text-align: center; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">wenn eine Behandlungseinheit mindestens<br />
 100 Minuten dauert</th>
 </tr>
 </thead>
 <tbody data-valign="top">
 <tr class="odd">
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">80 Behandlungs-<br />
-einheiten</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">40 Behandlungs-<br />
-einheiten</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">80 Behandlungseinheiten</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">40 Behandlungseinheiten</td>
 </tr>
 </tbody>
 </table>
@@ -1199,7 +1205,7 @@ Ist der Anlass der Fahrt aus den Belegen nicht ersichtlich, so ist dieser auf an
 
 4. die Fahrtkosten einschließlich Flugkosten anlässlich von Untersuchungen und Behandlungen außerhalb der Europäischen Union, sofern hierzu das Aufenthaltsland verlassen wird.
 
-Kosten nach Satz 1 Nummer 4 sind ausnahmsweise beihilfefähig, wenn zwingende medizinische Gründe für Untersuchungen und Behandlungen außerhalb der Europäischen Union vorliegen. Die Festsetzungsstelle entscheidet in Fällen des Satzes 2 mit Zustimmung der obersten Dienstbehörde. Die Erteilung der Zustimmung bedarf des Einvernehmens des Bundesministeriums des Innern und für Heimat.
+Kosten nach Satz 1 Nummer 4 sind ausnahmsweise beihilfefähig, wenn zwingende medizinische Gründe für Untersuchungen und Behandlungen außerhalb der Europäischen Union vorliegen. Die Festsetzungsstelle entscheidet in Fällen des Satzes 2 mit Zustimmung der obersten Dienstbehörde. Die Erteilung der Zustimmung bedarf des Einvernehmens des Bundesministeriums des Innern.
 
 (6) Ist für Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, in Krankheits- oder Geburtsfällen eine notwendige medizinische Versorgung im Gastland nicht gewährleistet, sind die Kosten der Beförderung zum nächstgelegenen geeigneten Behandlungsort einschließlich der Kosten für die Rückfahrt beihilfefähig, wenn
 
@@ -1225,11 +1231,11 @@ Beihilfefähig sind Aufwendungen für medizinische Leistungen anlässlich einer 
 
 2. eine nicht ganz entfernt liegende Aussicht auf Heilung oder auf eine spürbare positive Einwirkung auf den Krankheitsverlauf besteht.
 
-Die Festsetzungsstelle entscheidet in Fällen des Satzes 1 im Einvernehmen mit der obersten Dienstbehörde. Die oberste Dienstbehörde hat vor ihrer Zustimmung das Einvernehmen mit dem Bundesministerium des Innern und für Heimat herzustellen.
+Die Festsetzungsstelle entscheidet in Fällen des Satzes 1 im Einvernehmen mit der obersten Dienstbehörde. Die oberste Dienstbehörde hat vor ihrer Zustimmung das Einvernehmen mit dem Bundesministerium des Innern herzustellen.
 
 # § 34 – Anschlussheil- und Suchtbehandlungen
 
-(1) Aufwendungen für ärztlich verordnete Anschlussheilbehandlungen, die als medizinische Rehabilitationsmaßnahmen in Rehabilitationseinrichtungen, mit denen ein Versorgungsvertrag nach § 111 Absatz 2 Satz 1 oder § 111c des Fünften Buches Sozialgesetzbuch besteht, durchgeführt werden, sind beihilfefähig. Eine Anschlussheilbehandlung im Sinne des Satzes 1 liegt vor, wenn sich die Rehabilitationsmaßnahme an einen Krankenhausaufenthalt zur Behandlung einer schwerwiegenden Erkrankung anschließt oder im Zusammenhang mit einer Krankenhausbehandlung steht. Satz 1 gilt auch für Anschlussheilbehandlungen, wenn diese nach einer ambulanten Operation, Strahlen- oder Chemotherapie notwendig sind.
+(1) Aufwendungen für ärztlich verordnete oder durch ein Krankenhaus unter ärztlicher Verantwortung veranlasste Anschlussheilbehandlungen, die als medizinische Rehabilitationsmaßnahmen in Rehabilitationseinrichtungen durchgeführt werden, mit denen ein Versorgungsvertrag nach § 111 Absatz 2 Satz 1 und Absatz 3 oder § 111c Absatz 1 und 4 des Fünften Buches Sozialgesetzbuch besteht, sind beihilfefähig. Eine Anschlussheilbehandlung im Sinne des Satzes 1 liegt vor, wenn sich die Rehabilitationsmaßnahme an einen Krankenhausaufenthalt zur Behandlung einer schwerwiegenden Erkrankung anschließt oder im Zusammenhang mit einer Krankenhausbehandlung steht. Satz 1 gilt auch für Anschlussheilbehandlungen, wenn diese nach einer ambulanten Operation, Strahlen- oder Chemotherapie notwendig sind.
 
 (2) Aufwendungen für ärztlich verordnete Suchtbehandlungen, die als medizinische Rehabilitationsmaßnahmen oder Entwöhnungen in Rehabilitationseinrichtungen, mit denen ein Versorgungsvertrag nach § 111 Absatz 2 Satz 1 des Fünften Buches Sozialgesetzbuch besteht, durchgeführt werden, sind beihilfefähig. Aufwendungen für die ambulante Nachsorge nach einer stationären Entwöhnungsbehandlung sind in angemessener Höhe beihilfefähig.
 
@@ -1261,13 +1267,13 @@ Die Festsetzungsstelle entscheidet in Fällen des Satzes 1 im Einvernehmen mit d
 
 3. ärztlich verordnete familienorientierte Rehabilitation für berücksichtigungsfähige Kinder, die an schweren chronischen Erkrankungen, insbesondere Krebserkrankungen oder Mukoviszidose, leiden oder deren Zustand nach Operationen am Herzen oder nach Organtransplantationen eine solche Maßnahme erfordert,
 
-4. ambulante Rehabilitationsmaßnahmen unter ärztlicher Leitung nach einem Rehabilitationsplan in einem anerkannten Heilbad oder Kurort zur Wiederherstellung oder Erhaltung der Dienstfähigkeit sowie zur Verhütung oder Vermeidung von Krankheiten oder deren Verschlimmerung für beihilfeberechtigte Personen nach § 2 Abs. 1 Nr. 1,
+4. ambulante Rehabilitationsmaßnahmen unter ärztlicher Leitung nach einem Rehabilitationsplan in einem anerkannten Heilbad oder Kurort zur Wiederherstellung oder Erhaltung der Dienstfähigkeit sowie zur Verhütung oder Vermeidung von Krankheiten oder deren Verschlimmerung für beihilfeberechtigte Personen nach § 2 Absatz 1 Nummer 1,
 
 5. ärztlich verordnete ambulante Rehabilitationsmaßnahmen in Rehabilitationseinrichtungen oder durch wohnortnahe Einrichtungen und
 
 6. ärztlich verordneten Rehabilitationssport entsprechend der Rahmenvereinbarung über den Rehabilitationssport und das Funktionstraining der Bundesarbeitsgemeinschaft für Rehabilitation.
 
-Das Bundesministerium des Innern und für Heimat gibt die Übersicht der anerkannten Heilbäder und Kurorte durch Rundschreiben bekannt. Die Unterkunft muss sich am Heilbad oder Kurort befinden.
+Das Bundesministerium des Innern gibt die Übersicht der anerkannten Heilbäder und Kurorte durch Rundschreiben bekannt. Die Unterkunft muss sich am Heilbad oder Kurort befinden.
 
 (2) Für Rehabilitationsmaßnahmen nach Absatz 1 Satz 1 sind Aufwendungen nach den §§ 12, 13, 18, 22 bis 25 und 26 Absatz 1 Nummer 5 beihilfefähig. Daneben sind bei Leistungen nach Absatz 1 Satz 1 Nummer 1 bis 4 beihilfefähig:
 
@@ -1317,7 +1323,7 @@ Aufwendungen für eine Begleitperson sind nur beihilfefähig, wenn die medizinis
 
 5. eine Begleitperson medizinisch notwendig ist.
 
-Der ärztlichen Bescheinigung steht bei Diagnosen aus dem Indikationsspektrum zur Anwendung von Psychotherapie nach den §§ 19 bis 21 und 30a die Bescheinigung durch eine Psychologische Psychotherapeutin oder einen Psychologischen Psychotherapeuten oder durch eine Kinder- und Jugendlichenpsychotherapeutin oder einen Kinder- und Jugendlichenpsychotherapeuten gleich. Für die Anerkennung von Rehabilitationsmaßnahmen nach § 35 Absatz 1 Satz 1 Nummer 1 ist eine ärztliche Bescheinigung nicht notwendig, wenn die beihilfeberechtigte oder berücksichtigungsfähige Person mit der Mitteilung der Entscheidung über die Pflegebedürftigkeit eine Rehabilitationsempfehlung erhalten hat, aus der hervorgeht, dass die Durchführung einer solchen Rehabilitationsmaßnahme angezeigt ist. Wird die Rehabilitationsmaßnahme nicht innerhalb von vier Monaten nach Anerkennung begonnen, entfällt der Anspruch auf Beihilfe zu der anerkannten Rehabilitationsmaßnahme. In Ausnahmefällen kann die Anerkennung auch nachträglich erfolgen.
+Der ärztlichen Bescheinigung steht bei Diagnosen aus dem Indikationsspektrum zur Anwendung von Psychotherapie nach den §§ 19 bis 21 und 30a die Bescheinigung durch eine Psychotherapeutin oder einen Psychotherapeuten, die oder der die Voraussetzungen des Fünften Buches Sozialgesetzbuch zur Eintragung in das Arztregister erfüllt, gleich. Für die Anerkennung von Rehabilitationsmaßnahmen nach § 35 Absatz 1 Satz 1 Nummer 1 ist eine ärztliche Bescheinigung nicht notwendig, wenn die beihilfeberechtigte oder berücksichtigungsfähige Person mit der Mitteilung der Entscheidung über die Pflegebedürftigkeit eine Rehabilitationsempfehlung erhalten hat, aus der hervorgeht, dass die Durchführung einer solchen Rehabilitationsmaßnahme angezeigt ist. Wird die Rehabilitationsmaßnahme nicht innerhalb von sechs Monaten nach Anerkennung begonnen, entfällt der Anspruch auf Beihilfe zu der anerkannten Rehabilitationsmaßnahme. In Ausnahmefällen kann die Anerkennung auch nachträglich erfolgen.
 
 (2) Die Anerkennung von Rehabilitationsmaßnahmen nach Absatz 1 ist nicht zulässig, wenn im laufenden oder den drei vorherigen Kalenderjahren eine als beihilfefähig anerkannte Rehabilitationsmaßnahme nach Absatz 1 durchgeführt wurde, es sei denn, nach der ärztlichen Bescheinigung ist aus medizinischen Gründen eine Rehabilitationsmaßnahme nach Absatz 1 in einem kürzeren Zeitabstand dringend notwendig.
 
@@ -1335,7 +1341,7 @@ b) beantragt haben und erkennbar Hilfe- und Beratungsbedarf besteht und
 
 2. eine entsprechende Vereinbarung des Bundes und den Trägern der Pflegeberatung nach § 7a des Elften Buches Sozialgesetzbuch besteht.
 
-Der von der Festsetzungsstelle zu zahlende Betrag wird durch Rundschreiben des Bundesministeriums des Innern und für Heimat bekanntgegeben.
+Der von der Festsetzungsstelle zu zahlende Betrag wird durch Rundschreiben des Bundesministeriums des Innern bekanntgegeben.
 
 (2) Beihilfeberechtigte und berücksichtigungsfähige Personen erhalten Beihilfe zu Pflegeleistungen nach Maßgabe der §§ 38 bis 38g und der §§ 39 bis 39b, wenn sie pflegebedürftig im Sinne der §§ 14 und 15 des Elften Buches Sozialgesetzbuch sind.
 
@@ -1363,7 +1369,7 @@ sind entsprechend den §§ 45a und 45b des Elften Buches Sozialgesetzbuch beihil
 
 (4) Besteht der Anspruch auf Pauschalbeihilfe nicht für einen vollen Kalendermonat, wird die Pauschalbeihilfe für den Teilmonat nur anteilig gewährt; dabei ist ein Kalendermonat mit 30 Tagen anzusetzen. Pauschalbeihilfe wird fortgewährt
 
-1. während einer Verhinderungspflege nach § 38c für bis zu sechs Wochen je Kalenderjahr, im Fall des § 39 Absatz 4 Satz 1 des Elften Buches Sozialgesetzbuch für bis zu acht Wochen je Kalenderjahr, und
+1. während einer Verhinderungspflege nach § 38c für bis zu acht Wochen je Kalenderjahr und
 
 2. während einer Kurzzeitpflege nach § 38e für bis zu acht Wochen je Kalenderjahr.
 
@@ -1379,7 +1385,7 @@ Die Höhe der fortgewährten Pauschalbeihilfe beträgt die Hälfte der vor Begin
 
 (2) Die anteilige Pauschalbeihilfe wird fortgewährt
 
-1. während einer Verhinderungspflege nach § 38c für bis zu sechs Wochen je Kalenderjahr, im Fall des § 39 Absatz 4 Satz 1 des Elften Buches Sozialgesetzbuch für bis zu acht Wochen je Kalenderjahr, und
+1. während einer Verhinderungspflege nach § 38c für bis zu acht Wochen je Kalenderjahr und
 
 2. während einer Kurzzeitpflege nach § 38e für bis zu acht Wochen je Kalenderjahr.
 
@@ -1521,11 +1527,11 @@ Daneben beteiligt sich der Bund an den Kosten der Pflegeberatung nach § 37 Absa
 
 # § 40 – Palliativversorgung
 
-(1) Aufwendungen für spezialisierte ambulante Palliativversorgung sind beihilfefähig, wenn wegen einer nicht heilbaren, fortschreitenden und weit fortgeschrittenen Erkrankung bei einer zugleich begrenzten Lebenserwartung eine besonders aufwändige Versorgung notwendig ist. § 37b Abs. 1 Satz 3 und 4 sowie § 37b Abs. 2 und 3 des Fünften Buches Sozialgesetzbuch gelten entsprechend.
+(1) Aufwendungen für spezialisierte ambulante Palliativversorgung sind beihilfefähig, wenn wegen einer nicht heilbaren, fortschreitenden und weit fortgeschrittenen Erkrankung bei einer zugleich begrenzten Lebenserwartung eine besonders aufwändige Versorgung notwendig ist. § 37b Absatz 1 Satz 3 und 4 sowie § 37b Absatz 2 und 3 des Fünften Buches Sozialgesetzbuch gelten entsprechend.
 
 (2) Aufwendungen für eine stationäre oder teilstationäre palliativmedizinische Versorgung in einem Hospiz sind nach Maßgabe einer ärztlichen Bescheinigung und in angemessener Höhe beihilfefähig, wenn eine ambulante Versorgung im eigenen Haushalt oder in der Familie nicht erbracht werden kann.
 
-(3) Der Bund beteiligt sich an den personenbezogenen Kosten ambulanter Hospizdienste für erbrachte Sterbebegleitung einschließlich palliativpflegerischer Beratung bei beihilfeberechtigten und berücksichtigungsfähigen Personen. Voraussetzung einer Kostenbeteiligung ist eine Vereinbarung zwischen dem Bund und den für die Wahrnehmung der Interessen der ambulanten Hospizdienste maßgeblichen Spitzenorganisationen. Der von der Festsetzungsstelle zu zahlende Betrag wird durch Rundschreiben des Bundesministeriums des Innern und für Heimat bekanntgegeben.
+(3) Der Bund beteiligt sich an den personenbezogenen Kosten ambulanter Hospizdienste für erbrachte Sterbebegleitung einschließlich palliativpflegerischer Beratung bei beihilfeberechtigten und berücksichtigungsfähigen Personen. Voraussetzung einer Kostenbeteiligung ist eine Vereinbarung zwischen dem Bund und den für die Wahrnehmung der Interessen der ambulanten Hospizdienste maßgeblichen Spitzenorganisationen. Der von der Festsetzungsstelle zu zahlende Betrag wird durch Rundschreiben des Bundesministeriums des Innern bekanntgegeben.
 
 # § 40a – Gesundheitliche Versorgungsplanung für die letzte Lebensphase
 
@@ -1545,23 +1551,39 @@ Daneben beteiligt sich der Bund an den Kosten der Pflegeberatung nach § 37 Absa
 
 3. prophylaktische zahnärztliche Leistungen nach Abschnitt B und den Nummern 0010, 0070, 2000, 4050, 4055 und 4060 der Anlage 1 zur Gebührenordnung für Zahnärzte und Nummer 1 der Anlage zur Gebührenordnung für Ärzte.
 
-(3) Aufwendungen für Maßnahmen im Rahmen des Früherkennungsprogramms für erblich belastete Personen mit einem erhöhten familiären Brust- oder Eierstockkrebsrisiko sind für Personen nach den §§ 2 und 4 beihilfefähig, wenn die erbliche Belastung auf einem Verwandtschaftsverhältnis ersten bis dritten Grades beruht. Aufwendungen nach Satz 1 sind nach Maßgabe der Anlage 14 für folgende Maßnahmen beihilfefähig:
+(3) Aufwendungen für Maßnahmen im Rahmen des Früherkennungsprogramms für erblich belastete Personen mit einem erhöhten familiären Brust- oder Eierstockkrebsrisiko sind für beihilfeberechtigte und berücksichtigungsfähige Personen beihilfefähig, wenn
 
-1. Risikofeststellung, Aufklärung und interdisziplinäre Beratung,
+1. die erbliche Belastung auf einem Verwandtschaftsverhältnis ersten bis dritten Grades beruht und
+
+2. die Maßnahmen in einem im Deutschen Konsortium Familiärer Brust- und Eierstockkrebs zusammengeschlossenen universitären Zentrum durchgeführt werden, das auf der Internetseite des Konsortiums gelistet ist.
+
+Aufwendungen nach Satz 1 sind bis zur Höhe der Vergütungen, die mit dem Verband der privaten Krankenversicherung e. V. in einer Vereinbarung getroffen wurden, für folgende Maßnahmen beihilfefähig:
+
+1. Risikofeststellung, Aufklärung und Beratung,
 
 2. genetische Untersuchung,
 
 3. intensivierte Früherkennungs- und Nachsorgemaßnahmen.
 
-(4) Aufwendungen für Maßnahmen im Rahmen des Früherkennungsprogramms für erblich belastete Personen mit einem erhöhten familiären Darmkrebsrisiko sind für Personen nach den §§ 2 und 4 beihilfefähig, wenn die erbliche Belastung auf einem Verwandtschaftsverhältnis ersten bis zweiten Grades beruht. Aufwendungen nach Satz 1 sind nach Maßgabe der Anlage 15 für folgende Maßnahmen beihilfefähig:
+Die Höhe der Vergütungen, die mit dem Verband der privaten Krankenversicherung e. V. in einer Vereinbarung getroffen wurden, wird durch Rundschreiben des Bundesministeriums des Innern bekanntgegeben.
+
+(4) Aufwendungen für Maßnahmen im Rahmen des Früherkennungsprogramms für erblich belastete Personen mit einem erhöhten familiären Darmkrebsrisiko sind für beihilfeberechtigte und berücksichtigungsfähige Personen beihilfefähig, wenn
+
+1. die erbliche Belastung auf einem Verwandtschaftsverhältnis ersten bis zweiten Grades beruht und
+
+2. die Maßnahmen in einem im Deutschen Konsortium Familiärer Darmkrebs zusammengeschlossenen universitären Zentrum durchgeführt werden, das auf der Internetseite des Konsortiums gelistet ist.
+
+Aufwendungen nach Satz 1 sind bis zur Höhe der Vergütungen, die mit dem Verband der privaten Krankenversicherung e. V. in einer Vereinbarung getroffen wurden, für folgende Maßnahmen beihilfefähig:
 
 1. Risikofeststellung und interdisziplinäre Beratung,
 
 2. Tumorgewebsdiagnostik,
 
-3. genetische Analyse (Untersuchung auf Keimmutation),
+3. Genanalyse zur Identifizierung einer Keimbahn-Mutation,
 
-4. Früherkennungsmaßnahmen.
+4. Früherkennungs-Maßnahmen.
+
+Absatz 3 Satz 3 gilt entsprechend.
 
 (5) Bei Personen, die das 16. Lebensjahr vollendet haben, sind Aufwendungen beihilfefähig für
 
@@ -1569,7 +1591,7 @@ Daneben beteiligt sich der Bund an den Kosten der Pflegeberatung nach § 37 Absa
 
 2. Untersuchungen, die bei Anwendung der für die medikamentöse Präexpositionsprophylaxe zugelassenen Arzneimittel erforderlich sind.
 
-(6) Das Bundesministerium des Innern und für Heimat kann die Beihilfefähigkeit von Aufwendungen für Maßnahmen zur Früherkennung, Überwachung und Verhütung von Erkrankungen, die nicht nach anderen Vorschriften dieser Verordnung beihilfefähig sind, in Verwaltungsvorschriften für diejenigen Fälle ausnahmsweise zulassen, in denen die Gewährung von Beihilfe im Hinblick auf die Fürsorgepflicht nach § 78 des Bundesbeamtengesetzes notwendig ist.
+(6) Das Bundesministerium des Innern kann die Beihilfefähigkeit von Aufwendungen für Maßnahmen zur Früherkennung, Überwachung und Verhütung von Erkrankungen, die nicht nach anderen Vorschriften dieser Verordnung beihilfefähig sind, in Verwaltungsvorschriften für diejenigen Fälle ausnahmsweise zulassen, in denen die Gewährung von Beihilfe im Hinblick auf die Fürsorgepflicht nach § 78 des Bundesbeamtengesetzes notwendig ist.
 
 (7) § 31 Absatz 6 in Verbindung mit § 49 Absatz 4 Nummer 3 gilt entsprechend.
 
@@ -1742,7 +1764,13 @@ Sofern eine Indikation sowohl für eine In-vitro-Fertilisation als auch für ein
 
 (1) Aufwendungen für eine durch eine Ärztin oder einen Arzt vorgenommene Sterilisation sind beihilfefähig, wenn die Sterilisation wegen einer Krankheit notwendig ist.
 
-(2) Aufwendungen für die ärztliche Beratung zu Fragen der Empfängnisregelung einschließlich der hierfür notwendigen ärztlichen Untersuchungen und der ärztlich verordneten empfängnisregelnden Mittel sind beihilfefähig. Aufwendungen für ärztlich verordnete Mittel zur Empfängnisverhütung sowie für deren Applikation sind nur bei beihilfeberechtigten und berücksichtigungsfähigen Personen bis zum vollendeten 22. Lebensjahr beihilfefähig, es sei denn, die Mittel sind nach ärztlicher Bestätigung zur Behandlung einer Krankheit notwendig. Aufwendungen für allgemeine Sexualaufklärung oder Sexualberatung sind nicht beihilfefähig.
+(2) Aufwendungen für die ärztliche Beratung zu Fragen der Empfängnisregelung einschließlich der hierfür notwendigen ärztlichen Untersuchungen und der ärztlich verordneten empfängnisregelnden Mittel sind beihilfefähig. Aufwendungen für ärztlich verordnete Mittel zur Empfängnisverhütung sowie für deren Applikation sind nur bei beihilfeberechtigten und berücksichtigungsfähigen Personen bis zum vollendeten 22. Lebensjahr beihilfefähig, es sei denn, die Mittel sind nach ärztlicher Bestätigung notwendig
+
+1. zur Behandlung einer Krankheit oder
+
+2. als Notfallkontrazeptiva ohne Altersbeschränkung, wenn Hinweise auf einen sexuellen Missbrauch oder eine Vergewaltigung vorliegen.
+
+Aufwendungen für allgemeine Sexualaufklärung oder Sexualberatung sind nicht beihilfefähig.
 
 (3) Für einen nicht rechtswidrigen Schwangerschaftsabbruch sind Aufwendungen nach den §§ 12, 22, 26, 28, 29, 31 und 32 beihilfefähig. Daneben sind auch Aufwendungen für die ärztliche Beratung über die Erhaltung der Schwangerschaft und die ärztliche Untersuchung und Begutachtung zur Feststellung der Voraussetzungen eines nicht rechtswidrigen Schwangerschaftsabbruchs beihilfefähig.
 
@@ -1764,17 +1792,7 @@ Sofern eine Indikation sowohl für eine In-vitro-Fertilisation als auch für ein
 
 # § 45a – Organspende und andere Spenden
 
-(1) Beihilfefähig sind Aufwendungen bei postmortalen Organspenden für die Vermittlung, Entnahme, Versorgung, Organisation der Bereitstellung und für den Transport des Organs zur Transplantation, sofern es sich bei den Organempfängerinnen oder Organempfängern um beihilfeberechtigte oder berücksichtigungsfähige Personen handelt. Die Höhe der Aufwendungen nach Satz 1 richtet sich nach den Entgelten, die die Vertragsparteien nach § 11 Absatz 2 des Transplantationsgesetzes vereinbart haben. Das Bundesministerium des Innern und für Heimat gibt folgende Pauschalen durch Rundschreiben bekannt:
-
-1. für die Organisation der Bereitstellung eines postmortal gespendeten Organs,
-
-2. für die Aufwandserstattung der Entnahmekrankenhäuser,
-
-3. für die Finanzierung des Transplantationsbeauftragten,
-
-4. für die Finanzierung des Betriebs der Geschäftsstelle Transplantationsmedizin und des Transplantationsregisters,
-
-5. für die Flugtransportkosten.
+(1) Beihilfefähig sind Aufwendungen bei postmortalen Organspenden für die Vermittlung, Entnahme, Versorgung, Organisation der Bereitstellung und für den Transport des Organs zur Transplantation, sofern es sich bei den Organempfängerinnen oder Organempfängern um beihilfeberechtigte oder berücksichtigungsfähige Personen handelt. Die Höhe der Aufwendungen nach Satz 1 richtet sich nach den Entgelten, die die Vertragsparteien nach § 11 Absatz 2 des Transplantationsgesetzes vereinbart haben. Das Bundesministerium des Innern gibt die beihilfefähigen Pauschalen für Aufwendungen im Zusammenhang mit Organtransplantationen durch Rundschreiben bekannt.
 
 (2) Aufwendungen für eine Spenderin oder einen Spender von Organen, Geweben, Blutstammzellen oder anderen Blutbestandteilen sind entsprechend Kapitel 2 und § 7 Absatz 1 des Bundesreisekostengesetzes beihilfefähig, wenn die Empfängerin oder der Empfänger der Spende eine beihilfeberechtigte oder berücksichtigungsfähige Person ist. Der Spenderin oder dem Spender wird auf Antrag auch der nachgewiesene transplantationsbedingte Ausfall von Arbeitseinkünften anteilig in Höhe des Bemessungssatzes der Empfängerin oder des Empfängers ausgeglichen. Dem Arbeitgeber der Spenderin oder des Spenders wird auf Antrag das fortgezahlte Entgelt anteilig in Höhe des Bemessungssatzes der Empfängerin oder des Empfängers erstattet. Den Spenderinnen und Spendern gleichgestellt sind Personen, die als Spenderin oder Spender vorgesehen waren, aber nicht in Betracht kommen.
 
@@ -1790,7 +1808,7 @@ Sofern eine Indikation sowohl für eine In-vitro-Fertilisation als auch für ein
 
 Voraussetzung der Kostenbeteiligung ist eine Vereinbarung zwischen dem Bund und dem klinischen Krebsregister.
 
-(2) Der von der Festsetzungsstelle zu zahlende Betrag wird durch Rundschreiben des Bundesministeriums des Innern und für Heimat bekanntgegeben.
+(2) Der von der Festsetzungsstelle zu zahlende Betrag wird durch Rundschreiben des Bundesministeriums des Innern bekanntgegeben.
 
 # § 46 – Bemessung der Beihilfe
 
@@ -1814,21 +1832,21 @@ Voraussetzung der Kostenbeteiligung ist eine Vereinbarung zwischen dem Bund und 
 
 (1) Die oberste Dienstbehörde oder eine von ihr bestimmte Behörde kann im Hinblick auf die Fürsorgepflicht nach § 78 des Bundesbeamtengesetzes den Bemessungssatz für Aufwendungen anlässlich einer Dienstbeschädigung angemessen erhöhen, soweit nicht bereits Ansprüche nach dem Beamtenversorgungsgesetz bestehen.
 
-(2) Den Bemessungssatz für beihilfefähige Aufwendungen nach den Kapiteln 2 und 4 von Versorgungsempfängerinnen, Versorgungsempfängern und deren berücksichtigungsfähigen Personen mit geringen Gesamteinkünften kann die oberste Dienstbehörde für höchstens drei Jahre um höchstens 10 Prozentpunkte erhöhen, wenn der Beitragsaufwand für eine beihilfekonforme private Krankenversicherung 15 Prozent ihrer oder seiner Gesamteinkünfte übersteigt. Zu den maßgebenden Gesamteinkünften zählt das durchschnittliche Monatseinkommen der zurückliegenden zwölf Monate aus Bruttoversorgungsbezügen, Sonderzahlungen, Renten, Kapitalerträgen und aus sonstigen laufenden Einnahmen der beihilfeberechtigten Person und ihrer berücksichtigungsfähigen Personen nach § 4 Absatz 1; unberücksichtigt bleiben Entschädigungszahlungen an Geschädigte nach dem Vierzehnten Buch Sozialgesetzbuch oder Ausgleiche für gesundheitliche Schädigungsfolgen nach dem Soldatenentschädigungsgesetz, Blindengeld, Wohngeld und Leistungen für Kindererziehung nach § 294 des Sechsten Buches Sozialgesetzbuch. Die geringen Gesamteinkünfte betragen 150 Prozent des Ruhegehalts nach § 14 Abs. 4 Satz 2 und 3 des Beamtenversorgungsgesetzes. Der Betrag erhöht sich um 255,65 Euro, wenn für die berücksichtigungsfähige Person nach § 4 Absatz 1 ebenfalls Beiträge zur privaten Krankenversicherung gezahlt werden. Ein zu zahlender Versorgungsausgleich der Versorgungsempfängerin oder des Versorgungsempfängers mindert die anzurechnenden Gesamteinkünfte nicht. Bei einer erneuten Antragstellung ist von den fiktiven Beiträgen zur Krankenversicherung auszugehen, die sich unter Zugrundelegung eines Bemessungssatzes nach § 46 ergeben würden.
+(2) Den Bemessungssatz für beihilfefähige Aufwendungen nach den Kapiteln 2 und 4 von Versorgungsempfängerinnen, Versorgungsempfängern und deren berücksichtigungsfähigen Personen mit geringen Gesamteinkünften kann die oberste Dienstbehörde für höchstens drei Jahre um höchstens 10 Prozentpunkte erhöhen, wenn der Beitragsaufwand für eine beihilfekonforme private Krankenversicherung 15 Prozent ihrer oder seiner Gesamteinkünfte übersteigt. Zu den maßgebenden Gesamteinkünften zählt das durchschnittliche Monatseinkommen der zurückliegenden zwölf Monate aus Bruttoversorgungsbezügen, Sonderzahlungen, Renten, Kapitalerträgen und aus sonstigen laufenden Einnahmen der beihilfeberechtigten Person und ihrer berücksichtigungsfähigen Personen nach § 4 Absatz 1; unberücksichtigt bleiben Entschädigungszahlungen an Geschädigte nach dem Vierzehnten Buch Sozialgesetzbuch oder Ausgleiche für gesundheitliche Schädigungsfolgen nach dem Soldatenentschädigungsgesetz, Blindengeld, Wohngeld und Leistungen für Kindererziehung nach § 294 des Sechsten Buches Sozialgesetzbuch. Die geringen Gesamteinkünfte betragen 150 Prozent des Ruhegehalts nach § 14 Absatz 4 Satz 2 und 3 des Beamtenversorgungsgesetzes. Der Betrag erhöht sich um 255,65 Euro, wenn für die berücksichtigungsfähige Person nach § 4 Absatz 1 ebenfalls Beiträge zur privaten Krankenversicherung gezahlt werden. Ein zu zahlender Versorgungsausgleich der Versorgungsempfängerin oder des Versorgungsempfängers mindert die anzurechnenden Gesamteinkünfte nicht. Bei einer erneuten Antragstellung ist von den fiktiven Beiträgen zur Krankenversicherung auszugehen, die sich unter Zugrundelegung eines Bemessungssatzes nach § 46 ergeben würden.
 
-(3) Die oberste Dienstbehörde kann den Bemessungssatz in weiteren Ausnahmefällen im Einvernehmen mit dem Bundesministerium des Innern und für Heimat angemessen erhöhen, wenn dies im Hinblick auf die Fürsorgepflicht nach § 78 des Bundesbeamtengesetzes zwingend geboten ist. Hierbei ist ein sehr strenger Maßstab anzulegen. Bei dauernder Pflegebedürftigkeit ist eine Erhöhung ausgeschlossen.
+(3) Die oberste Dienstbehörde kann den Bemessungssatz in weiteren Ausnahmefällen im Einvernehmen mit dem Bundesministerium des Innern angemessen erhöhen, wenn dies im Hinblick auf die Fürsorgepflicht nach § 78 des Bundesbeamtengesetzes zwingend geboten ist. Hierbei ist ein sehr strenger Maßstab anzulegen. Bei dauernder Pflegebedürftigkeit ist eine Erhöhung ausgeschlossen.
 
-(4) Für beihilfefähige Aufwendungen, für die trotz ausreichender und rechtzeitiger Versicherung auf Grund eines individuellen Ausschlusses wegen angeborener Leiden oder bestimmter Krankheiten keine Versicherungsleistungen gewährt werden oder für die die Leistungen auf Dauer eingestellt worden sind (Aussteuerung), erhöht sich der Bemessungssatz um 20 Prozentpunkte, jedoch höchstens auf 90 Prozent. Dies gilt nur, wenn das Versicherungsunternehmen die Bedingungen nach § 257 Abs. 2a Satz 1 Nr. 1 bis 4 des Fünften Buches Sozialgesetzbuch erfüllt. Satz 1 ist nicht anzuwenden auf Aufwendungen nach den §§ 37 bis 39b.
+(4) Für beihilfefähige Aufwendungen, für die trotz ausreichender und rechtzeitiger Versicherung auf Grund eines individuellen Ausschlusses wegen angeborener Leiden oder bestimmter Krankheiten keine Versicherungsleistungen gewährt werden oder für die die Leistungen auf Dauer eingestellt worden sind (Aussteuerung), erhöht sich der Bemessungssatz um 20 Prozentpunkte, jedoch höchstens auf 90 Prozent. Dies gilt nur, wenn das Versicherungsunternehmen die Bedingungen nach § 257 Absatz 2a Satz 1 Nummer 1 bis 4 des Fünften Buches Sozialgesetzbuch erfüllt. Satz 1 ist nicht anzuwenden auf Aufwendungen nach den §§ 37 bis 39b.
 
 (5) Bei beihilfeberechtigten und berücksichtigungsfähigen Personen, die freiwillig in der gesetzlichen Krankenversicherung versichert sind, erhöht sich der Bemessungssatz auf 100 Prozent der beihilfefähigen Aufwendungen, die sich nach Anrechnung der Leistungen und Erstattungen der gesetzlichen Krankenversicherung ergeben. Dies gilt nicht für beihilfefähige Aufwendungen, wenn für diese keine Leistungen oder Erstattungen von der gesetzlichen Krankenversicherung erbracht werden.
 
-(6) Der Bemessungssatz erhöht sich für Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, in den Fällen nach § 31 Absatz 6 und § 41 Absatz 6 auf 100 Prozent der beihilfefähigen Aufwendungen, soweit diese Aufwendungen 153 Euro übersteigen und in Fällen nach § 36 Abs. 3, soweit diese Aufwendungen 200 Euro übersteigen.
+(6) Der Bemessungssatz erhöht sich für Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, in den Fällen nach § 31 Absatz 6 und § 41 Absatz 6 auf 100 Prozent der beihilfefähigen Aufwendungen, soweit diese Aufwendungen 153 Euro übersteigen und in Fällen nach § 36 Absatz 3, soweit diese Aufwendungen 200 Euro übersteigen.
 
 (7) In Fällen des § 39 Absatz 2 und des § 44 erhöht sich der Bemessungssatz auf 100 Prozent.
 
 (8) Für Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, erhöht sich der Bemessungssatz für beihilfefähige Aufwendungen nach den §§ 38 bis 39b auf 100 Prozent, wenn ein Pflegegrad vorliegt und während des dienstlichen Auslandsaufenthalts keine Leistungen der privaten oder sozialen Pflegeversicherung gewährt werden.
 
-(9) Das Bundesministerium des Innern und für Heimat kann für Gruppen von beihilfeberechtigten Personen Abweichungen von den §§ 46 und 47 festlegen, wenn ihnen bis zum Entstehen eines Beihilfeanspruchs nach dieser Verordnung ein Anspruch auf Beihilfe nach Landesrecht zustand und die Änderung der Anspruchsgrundlage auf einer bundesgesetzlichen Regelung beruht. Die Abweichungen sollen so festgelegt werden, dass wirtschaftliche Nachteile, die sich aus unterschiedlichen Regelungen über den Bemessungssatz ergeben, ausgeglichen werden. Die Festlegung bedarf des Einvernehmens des Bundesministeriums der Finanzen und des Ressorts, das nach der Geschäftsverteilung der Bundesregierung für die Belange der betroffenen beihilfeberechtigten Personen zuständig ist.
+(9) Das Bundesministerium des Innern kann für Gruppen von beihilfeberechtigten Personen Abweichungen von den §§ 46 und 47 festlegen, wenn ihnen bis zum Entstehen eines Beihilfeanspruchs nach dieser Verordnung ein Anspruch auf Beihilfe nach Landesrecht zustand und die Änderung der Anspruchsgrundlage auf einer bundesgesetzlichen Regelung beruht. Die Abweichungen sollen so festgelegt werden, dass wirtschaftliche Nachteile, die sich aus unterschiedlichen Regelungen über den Bemessungssatz ergeben, ausgeglichen werden. Die Festlegung bedarf des Einvernehmens des Bundesministeriums der Finanzen und des Ressorts, das nach der Geschäftsverteilung der Bundesregierung für die Belange der betroffenen beihilfeberechtigten Personen zuständig ist.
 
 # § 48 – Begrenzung der Beihilfe
 
@@ -1888,13 +1906,15 @@ auf Grund einer ärztlichen Verordnung zuvor von der beihilfeberechtigten oder b
 
 b) deren Apothekeneinkaufspreis einschließlich Umsatzsteuer mindestens 20 Prozent niedriger ist als der jeweils gültige Festbetrag, der diesem Preis zugrunde liegt,
 
-6. Heil- und Hilfsmittel, soweit vom Bundesministerium des Innern und für Heimat beihilfefähige Höchstbeträge festgesetzt worden sind,
+6. Heil- und Hilfsmittel, soweit vom Bundesministerium des Innern beihilfefähige Höchstbeträge festgesetzt worden sind,
 
 7. Harn- und Blutteststreifen,
 
 8. Spenderinnen und Spender nach § 45a Absatz 2,
 
-9. Arzneimittel nach § 22, wenn auf Grund eines Arzneimittelrückrufs oder einer von der zuständigen Behörde vorgenommenen Einschränkung der Verwendbarkeit eines Arzneimittels erneut ein Arzneimittel verordnet werden musste.
+9. Arzneimittel nach § 22, wenn auf Grund eines Arzneimittelrückrufs oder einer von der zuständigen Behörde vorgenommenen Einschränkung der Verwendbarkeit eines Arzneimittels erneut ein Arzneimittel verordnet werden musste,
+
+10. vollstationäre Krankenhausleistungen nach § 26 Absatz 1 Nummer 2, wenn die beihilfeberechtigte Person von der Möglichkeit des § 51a Absatz 3 Gebrauch macht.
 
 # § 50 – Belastungsgrenzen
 
@@ -1940,11 +1960,11 @@ berücksichtigungsfähige Personen</td>
 </tbody>
 </table>
 
-Ein Antrag muss spätestens bis zum Ablauf des Jahres gestellt werden, das auf das Jahr folgt, in dem die Eigenbehalte nach § 49 einbehalten worden sind. Dabei sind sowohl die Beträge nach § 49 Absatz 1 bis 3 als auch die Aufwendungen für Arzneimittel nach Satz 1 Nummer 2 zum entsprechenden Bemessungssatz zu berücksichtigen. Die beihilfeberechtigte Person hat das Einkommen nach § 39 Absatz 3, die anrechenbaren Eigenbehalte und die Aufwendungen für nicht verschreibungspflichtige Arzneimittel nachzuweisen. Die Belastungsgrenze beträgt für beihilfeberechtigte Personen und berücksichtigungsfähige Personen zusammen 2 Prozent der jährlichen Einnahmen nach § 39 Absatz 3 Satz 2 sowie für chronisch Kranke nach der Chroniker-Richtlinie des Gemeinsamen Bundesausschusses in der Fassung vom 22. Januar 2004 (BAnz. S. 1343), die zuletzt durch Beschluss vom 15. Februar 2018 (BAnz. AT 05.03.2018 B4) geändert worden ist, 1 Prozent der jährlichen Einnahmen nach § 39 Absatz 3 Satz 2.
+Ein Antrag muss spätestens bis zum Ablauf des Jahres gestellt werden, das auf das Jahr folgt, in dem die Eigenbehalte nach § 49 einbehalten worden sind. Dabei sind sowohl die Beträge nach § 49 Absatz 1 bis 3 als auch die Aufwendungen für Arzneimittel nach Satz 1 Nummer 2 zum entsprechenden Bemessungssatz zu berücksichtigen. Die beihilfeberechtigte Person hat das Einkommen nach § 39 Absatz 3 nachzuweisen und auf Verlangen der Festsetzungsstelle die anrechenbaren Eigenbehalte sowie die Aufwendungen für nicht verschreibungspflichtige Arzneimittel zu belegen. Die Belastungsgrenze beträgt für beihilfeberechtigte Personen und berücksichtigungsfähige Personen zusammen 2 Prozent der jährlichen Einnahmen nach § 39 Absatz 3 Satz 2 sowie für chronisch Kranke nach der Chroniker-Richtlinie des Gemeinsamen Bundesausschusses in der Fassung vom 22. Januar 2004 (BAnz. S. 1343), die zuletzt durch Beschluss vom 15. Februar 2018 (BAnz. AT 05.03.2018 B4) geändert worden ist, 1 Prozent der jährlichen Einnahmen nach § 39 Absatz 3 Satz 2.
 
 (2) Maßgeblich ist das Datum des Entstehens der Aufwendungen. Die Einnahmen der Ehegattin, des Ehegatten, der Lebenspartnerin oder des Lebenspartners werden nicht berücksichtigt, wenn sie oder er Mitglied der gesetzlichen Krankenversicherung oder selbst beihilfeberechtigt ist. Die Einnahmen vermindern sich bei verheirateten oder in einer Lebenspartnerschaft lebenden beihilfeberechtigten Personen um 15 Prozent und für jedes Kind nach § 4 Absatz 2 um den Betrag, der sich aus § 32 Absatz 6 Satz 1 bis 3 des Einkommensteuergesetzes ergibt. Maßgebend für die Feststellung der Belastungsgrenze sind jeweils die jährlichen Einnahmen des vorangegangenen Kalenderjahres.
 
-(3) Werden die Kosten der Unterbringung in einem Heim oder einer ähnlichen Einrichtung von einem Träger der Sozialhilfe oder der Kriegsopferfürsorge getragen, ist für die Berechnung der Belastungsgrenze der nach Maßgabe des Regelbedarfs-Ermittlungsgesetzes zu ermittelnde Regelsatz anzuwenden.
+(3) Werden die Kosten der Unterbringung in einem Heim oder einer ähnlichen Einrichtung von einem Träger der Sozialhilfe, der Sozialen Entschädigung oder der Soldatenentschädigung getragen, ist für die Berechnung der Belastungsgrenze derjenige Regelsatz anzuwenden, der nach Maßgabe des Regelbedarfs-Ermittlungsgesetzes vom 9. Dezember 2020 (BGBl. I S. 2855), das durch Artikel 12 Absatz 13 des Gesetzes vom 16. Dezember 2022 (BGBl. I S. 2328) geändert worden ist, in der jeweils geltenden Fassung zu ermitteln ist.
 
 # § 51 – Bewilligungsverfahren
 
@@ -2004,7 +2024,7 @@ Beihilfefähige Aufwendungen werden zugeordnet:
 
 # § 54 – Antragsfrist
 
-(1) Beihilfe wird nur gewährt, wenn sie innerhalb von drei Jahren nach Rechnungsdatum beantragt wird. Für den Beginn der Frist ist bei Pflegeleistungen nach § 38a Absatz 3 der letzte Tag des Monats maßgebend, in dem die Pflege erbracht wurde. Hat ein Sozialhilfeträger oder im Bereich der Pflege der Träger der sozialen Entschädigung vorgeleistet, beginnt die Frist mit dem Ersten des Monats, der auf den Monat folgt, in dem der Sozialhilfeträger oder der Träger der sozialen Entschädigung die Aufwendungen bezahlt hat. Die Frist beginnt in Fällen des § 45a Absatz 2 Satz 2 und 3 mit Ablauf des Jahres, in dem die Transplantation oder gegebenenfalls der Versuch einer Transplantation erfolgte.
+(1) Beihilfe wird nur gewährt, wenn sie innerhalb von drei Jahren nach Rechnungsdatum beantragt wird. Für den Beginn der Frist ist bei Pflegeleistungen nach § 38a Absatz 3 der letzte Tag des Monats maßgebend, in dem die Pflege erbracht wurde. Hat ein Sozialhilfeträger oder im Bereich der Pflege der Träger der Sozialen Entschädigung oder der Soldatenentschädigung vorgeleistet, so beginnt die Frist mit dem Ersten des Monats, der auf den Monat folgt, in dem der Sozialhilfeträger oder der Träger der Sozialen Entschädigung oder der Soldatenentschädigung die Aufwendungen bezahlt hat. Die Frist beginnt in Fällen des § 45a Absatz 2 Satz 2 und 3 mit Ablauf des Jahres, in dem die Transplantation oder gegebenenfalls der Versuch einer Transplantation erfolgte.
 
 (2) Die Frist ist auch gewahrt, wenn der Antrag von beihilfeberechtigten Personen nach § 3 innerhalb der Frist nach Absatz 1 bei der zuständigen Beschäftigungsstelle im Ausland eingereicht wird.
 
@@ -2043,6 +2063,8 @@ Die bei der Bearbeitung von Beihilfeangelegenheiten bekannt gewordenen personenb
 (6) Für beihilfeberechtigte und berücksichtigungsfähige Personen, deren Ansprüche nach dem Bundesversorgungsgesetz in der bis zum 31. Dezember 2023 geltenden Fassung oder nach einem Gesetz, das das Bundesversorgungsgesetz in der bis zum 31. Dezember 2023 geltenden Fassung ganz oder teilweise für anwendbar erklärt, bestandskräftig festgestellt sind, gelten die Vorschriften des § 8 Absatz 4 Satz 4 Nummer 1, des § 9 Absatz 3 Satz 4 Nummer 1, des § 38a Absatz 5, des § 47 Absatz 2 Satz 2 und des § 54 Absatz 1 Satz 3 in der am 31. Dezember 2023 geltenden Fassung weiter. Satz 1 gilt auch für ab 1. Januar 2024 entstehende Ansprüche nach dem Soldatenversorgungsgesetz in Verbindung mit dem Bundesversorgungsgesetz.
 
 (7) Im Zeitraum vom 1. Januar 2025 bis einschließlich 30. Juni 2025 ausgezahlte Beihilfeleistungen nach § 38c Absatz 1 und § 38e werden auf die Beihilfeleistungen des Gemeinsamen Jahresbetrags nach § 38c Absatz 1 und § 38e in Verbindung mit den §§ 39, 42 und 42a des Elften Buches Sozialgesetzbuch für das Kalenderjahr 2025 angerechnet.
+
+(8) Für Aufwendungen einer implantologischen Behandlung nach § 15 sowie einer kieferorthopädischen Behandlung nach § 15a Absatz 2, die vor dem 1. Januar 2026 begonnen wurde und fortgeführt wird, gelten die Vorschriften in der bis zu diesem Tag geltenden Fassung weiter. Als Behandlungsbeginn gilt das Datum der erstmaligen Erbringung einer Leistung aus den Abschnitten G oder K der Anlage 1 der Gebührenordnung für Zahnärzte.
 
 # § 59 – Inkrafttreten
 
@@ -2198,6 +2220,9 @@ Regeneresen-Therapie
 Reinigungsprogramm mit Megavitaminen und Ausschwitzen
 
 18.3  
+Rimkus-Methode
+
+18.4  
 Rolfing-Behandlung
 
 19.1  
@@ -2243,9 +2268,21 @@ Zellmilieu-Therapie
 
 Aufwendungen sind nur beihilfefähig bei Behandlung von Schwermetallvergiftung, Morbus Wilson und Siderose. Alternative Schwermetallausleitungen gehören nicht zur Behandlung einer Schwermetallvergiftung.
 
-2. Extrakorporale Stoßwellentherapie (ESWT) im orthopädischen und schmerztherapeutischen Bereich
+2. Extrakorporale Stoßwellentherapie (ESWT)
 
-Aufwendungen sind nur beihilfefähig bei Behandlung von Tendinosis calcarea, Pseudarthrose, Fasziitis plantaris, therapierefraktäre Epicondylitis humeri radialis und therapierefraktäre Achillodynie. Auf der Grundlage des Beschlusses der Bundesärztekammer zur Analogbewertung der ESWT sind Gebühren nach Nummer 1800 der Anlage zur Gebührenordnung für Ärzte beihilfefähig. Daneben sind keine Zuschläge beihilfefähig.
+Aufwendungen sind nur beihilfefähig im orthopädischen und schmerztherapeutischen Bereich bei Behandlung von
+
+a) Tendinosis calcarea,
+
+b) Pseudarthrose,
+
+c) Fascziitis plantaris,
+
+d) therapierefraktärer Epicondylitis humeri radialis,
+
+e) therapierefraktärer Achillodynie oder
+
+f) therapierefraktärer Bursitis trochanterica.
 
 3. Hyperbare Sauerstofftherapie (Überdruckbehandlung)
 
@@ -2288,7 +2325,15 @@ Aufwendungen sind nur beihilfefähig bei Gasinsufflationen, wenn damit arteriell
 
 10. Radiale extrakorporale Stoßwellentherapie (r-ESWT)
 
-Aufwendungen sind nur beihilfefähig im orthopädischen und schmerztherapeutischen Bereich bei Behandlung der therapierefraktären Epicondylitis humeri radialis oder einer therapierefraktären Fasciitis plantaris. Auf der Grundlage des Beschlusses der Bundesärztekammer zur Analogbewertung der r-ESWT sind Gebühren nach Nummer 302 der Anlage zur Gebührenordnung für Ärzte beihilfefähig. Zuschläge sind nicht beihilfefähig.
+Aufwendungen sind nur beihilfefähig im orthopädischen und schmerztherapeutischen Bereich bei Behandlung von
+
+a) Fasciitis plantaris,
+
+b) therapierefraktärer Epicondylitis humeri radialis,
+
+c) therapierefraktärer Achillodynie oder
+
+d) therapierefraktärer Bursitis trochanterica.
 
 11. Therapeutisches Reiten (Hippotherapie)
 
@@ -2328,7 +2373,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 # Anlage 3 – (zu den §§ 18 bis 21)Ambulant durchgeführte psychotherapeutische Behandlungen und Maßnahmen der psychosomatischen Grundversorgung
 
-(Fundstelle: BGBl. I 2020, 2726 - 2728)
+(Fundstelle: BGBl. I 2020, 2726 - 2728;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1. Nicht beihilfefähig sind Aufwendungen für:
 
@@ -2406,19 +2452,19 @@ Die behandelnde Person muss über Kenntnisse und Erfahrungen in der Anwendung de
 
 1. Leistungen der anerkannten Psychotherapieform tiefenpsychologisch fundierte oder analytische Psychotherapie dürfen bei Personen, die das 18. Lebensjahr vollendet haben, nur von folgenden Personen erbracht werden:
 
-a) Psychotherapeutinnen und Psychotherapeuten mit einer Weiterbildung für die Behandlung von Erwachsenen in diesem Verfahren,
+a) Psychotherapeutinnen und Psychotherapeuten, die die Voraussetzungen des Fünften Buches Sozialgesetzbuch zur Eintragung in das Arztregister erfüllen, mit einer Weiterbildung für die Behandlung von Erwachsenen auf dem Gebiet der tiefenpsychologisch fundierten oder analytischen Psychotherapie,
 
-b) Psychologischen Psychotherapeutinnen und Psychologischen Psychotherapeuten mit einer vertieften Ausbildung in diesem Verfahren.
+b) Psychologischen Psychotherapeutinnen und Psychologischen Psychotherapeuten mit einer vertieften Ausbildung auf dem Gebiet der tiefenpsychologisch fundierten oder analytischen Psychotherapie.
 
 2. Leistungen der anerkannten Psychotherapieform tiefenpsychologisch fundierte oder analytische Psychotherapie dürfen bei Personen, die das 18. Lebensjahr noch nicht vollendet haben, nur von folgenden Personen erbracht werden:
 
-a) Psychotherapeutinnen und Psychotherapeuten mit einer Weiterbildung für die Behandlung von Kindern und Jugendlichen in diesem Verfahren,
+a) Psychotherapeutinnen und Psychotherapeuten, die die Voraussetzungen des Fünften Buches Sozialgesetzbuch zur Eintragung in das Arztregister erfüllen, mit einer Weiterbildung für die Behandlung von Kindern und Jugendlichen auf dem Gebiet der tiefenpsychologisch fundierten oder analytischen Psychotherapie,
 
-b) Psychologischen Psychotherapeutinnen und Psychologischen Psychotherapeuten mit einer vertieften Ausbildung in diesem Verfahren und einer Zusatzqualifikation für die Behandlung von Kindern und Jugendlichen, die die Anforderungen des § 6 Absatz 4 der Psychotherapievereinbarung erfüllt,
+b) Psychologischen Psychotherapeutinnen und Psychologischen Psychotherapeuten mit einer vertieften Ausbildung auf dem Gebiet der tiefenpsychologisch fundierten oder analytischen Psychotherapie und einer Zusatzqualifikation für die Behandlung von Kindern und Jugendlichen, die die Anforderungen des § 4 Absatz 2 der auf der Internetseite der Kassenärztlichen Bundesvereinigung veröffentlichten Psychotherapie-Vereinbarung vom 1. Januar 2025 erfüllt,
 
-c) Kinder- und Jugendlichenpsychotherapeutinnen und Kinder- und Jugendlichenpsychotherapeuten mit einer vertieften Ausbildung in diesem Verfahren.
+c) Kinder- und Jugendlichenpsychotherapeutinnen und Kinder- und Jugendlichenpsychotherapeuten mit einer vertieften Ausbildung auf dem Gebiet der tiefenpsychologisch fundierten oder analytischen Psychotherapie.
 
-3. Abweichend von Nummer 1 dürfen Leistungen der anerkannten Psychotherapieform tiefenpsychologisch fundierte oder analytische Psychotherapie bei Personen, die das 18. Lebensjahr, aber noch nicht das 21. Lebensjahr vollendet haben, sowohl von Personen nach Nummer 1 als auch von Personen nach Nummer 2 erbracht werden.
+3. Abweichend von Nummer 1 dürfen Leistungen der anerkannten Psychotherapieform tiefenpsychologisch fundierte oder analytische Psychotherapie bei Personen, die das 18. Lebensjahr, aber noch nicht das 21. Lebensjahr vollendet haben, sowohl von in Nummer 1 genannten Personen als auch von in Nummer 2 genannten Personen erbracht werden.
 
 4. Wird die Behandlung von einer ärztlichen Psychotherapeutin oder einem ärztlichen Psychotherapeuten durchgeführt, muss diese Person Fachärztin oder Facharzt für eines der folgenden Fachgebiete sein:
 
@@ -2426,29 +2472,29 @@ a) Psychotherapeutische Medizin,
 
 b) Psychiatrie und Psychotherapie oder Psychosomatische Medizin und Psychotherapie,
 
-c) Kinder- und Jugendlichenpsychiatrie und -psychotherapie oder
+c) Kinder- und Jugendpsychiatrie und -psychotherapie oder
 
 d) Ärztin oder Arzt mit der Bereichs- oder Zusatzbezeichnung „Psychotherapie“ oder „Psychoanalyse“.
 
-Eine Fachärztin oder ein Facharzt für Psychotherapeutische Medizin, Psychiatrie und Psychotherapie oder Kinder- und Jugendlichenpsychiatrie und -psychotherapie sowie eine Ärztin oder ein Arzt mit der Bereichsbezeichnung „Psychotherapie“ kann nur tiefenpsychologisch fundierte Psychotherapie (Nummern 860 bis 862 der Anlage zur Gebührenordnung für Ärzte) durchführen. Eine Ärztin oder ein Arzt mit der Bereichs- oder Zusatzbezeichnung „Psychoanalyse“ oder mit der vor dem 1. April 1984 verliehenen Bereichsbezeichnung „Psychotherapie“ kann auch analytische Psychotherapie (Nummern 863 und 864 der Anlage zur Gebührenordnung für Ärzte) durchführen.
+Eine Fachärztin oder ein Facharzt für Psychotherapeutische Medizin, Psychiatrie und Psychotherapie oder Kinder- und Jugendpsychiatrie und -psychotherapie sowie eine Ärztin oder ein Arzt mit der Bereichsbezeichnung „Psychotherapie“ kann nur tiefenpsychologisch fundierte Psychotherapie durchführen. Eine Ärztin oder ein Arzt mit der Bereichs- oder Zusatzbezeichnung „Psychoanalyse“ oder mit der vor dem 1. April 1984 verliehenen Bereichsbezeichnung „Psychotherapie“ kann auch analytische Psychotherapie durchführen.
 
-5. Voraussetzung für die Beihilfefähigkeit der Aufwendungen in Ausnahmefällen (§ 19 Absatz 1 Nummer 3 und 4) ist, dass vor Beginn der Behandlung eine erneute eingehende Begründung der Therapeutin oder des Therapeuten vorgelegt wird und die Festsetzungsstelle vor Beginn der Behandlung zugestimmt hat. Zeigt sich bei der Therapie, dass das Behandlungsziel innerhalb der vorgesehenen Anzahl der Sitzungen nicht erreicht wird, kann in Ausnahmefällen eine weitere begrenzte Behandlungsdauer anerkannt werden. Die Anerkennung darf erst im letzten Behandlungsabschnitt erfolgen. Voraussetzung für die Anerkennung ist eine Indikation nach § 18a Absatz 1 und 2, die nach ihrer besonderen Symptomatik und Struktur eine besondere tiefenpsychologisch fundierte oder analytische Bearbeitung erfordert und eine hinreichende Prognose über das Erreichen des Behandlungsziels erlaubt.
+5. Voraussetzung für die Beihilfefähigkeit der Aufwendungen in Ausnahmefällen (§ 19 Absatz 1 Nummer 3 und 4) ist, dass vor Beginn der Behandlung eine erneute eingehende Begründung der Psychotherapeutin oder des Psychotherapeuten vorgelegt wird und die Festsetzungsstelle vor Beginn der Behandlung zugestimmt hat.
 
 1. Leistungen der Verhaltenstherapie dürfen bei Personen, die das 18. Lebensjahr vollendet haben, nur von folgenden Personen erbracht werden:
 
-a) Psychotherapeutinnen und Psychotherapeuten mit einer Weiterbildung für die Behandlung von Erwachsenen in diesem Verfahren,
+a) Psychotherapeutinnen und Psychotherapeuten, die die Voraussetzungen des Fünften Buches Sozialgesetzbuch zur Eintragung in das Arztregister erfüllen, mit einer Weiterbildung für die Behandlung von Erwachsenen auf dem Gebiet der Verhaltenstherapie,
 
-b) Psychologischen Psychotherapeutinnen und Psychologischen Psychotherapeuten mit einer vertieften Ausbildung in diesem Verfahren.
+b) Psychologischen Psychotherapeutinnen und Psychologischen Psychotherapeuten mit einer vertieften Ausbildung auf dem Gebiet der Verhaltenstherapie.
 
 2. Leistungen der Verhaltenstherapie dürfen bei Personen, die das 18. Lebensjahr noch nicht vollendet haben, nur von folgenden Personen erbracht werden:
 
-a) Psychotherapeutinnen und Psychotherapeuten mit einer Weiterbildung für die Behandlung von Kindern und Jugendlichen in diesem Verfahren,
+a) Psychotherapeutinnen und Psychotherapeuten, die die Voraussetzungen des Fünften Buches Sozialgesetzbuch zur Eintragung in das Arztregister erfüllen, mit einer Weiterbildung für die Behandlung von Kindern und Jugendlichen auf dem Gebiet der Verhaltenstherapie,
 
-b) Psychologischen Psychotherapeutinnen und Psychologischen Psychotherapeuten mit einer vertieften Ausbildung in diesem Verfahren und einer Zusatzqualifikation für die Behandlung von Kindern- und Jugendlichen, die die Anforderungen des § 6 Absatz 4 der Psychotherapeutenvereinbarung erfüllt,
+b) Psychologischen Psychotherapeutinnen und Psychologischen Psychotherapeuten mit einer vertieften Ausbildung auf dem Gebiet der Verhaltenstherapie und einer Zusatzqualifikation für die Behandlung von Kindern und Jugendlichen, die die Anforderungen des § 4 Absatz 2 der auf der Internetseite der Kassenärztlichen Bundesvereinigung veröffentlichten Psychotherapie-Vereinbarung vom 1. Januar 2025 erfüllt,
 
-c) Kinder- und Jugendlichenpsychotherapeutinnen und Kinder- und Jugendlichenpsychotherapeuten mit einer vertieften Ausbildung in diesem Verfahren.
+c) Kinder- und Jugendlichenpsychotherapeutinnen und Kinder- und Jugendlichenpsychotherapeuten mit einer vertieften Ausbildung auf dem Gebiet der Verhaltenstherapie.
 
-3. Abweichend von Nummer 1 dürfen Leistungen der Verhaltenstherapie bei Personen, die das 18. Lebensjahr, aber noch nicht das 21. Lebensjahr vollendet haben, sowohl von Personen nach Nummer 1 als auch von Personen nach Nummer 2 erbracht werden.
+3. Abweichend von Nummer 1 dürfen Leistungen der Verhaltenstherapie bei Personen, die das 18. Lebensjahr, aber noch nicht das 21. Lebensjahr vollendet haben, sowohl von in Nummer 1 genannten Personen als auch von in Nummer 2 genannten Personen erbracht werden.
 
 4. Wird die Behandlung von einer ärztlichen Psychotherapeutin oder einem ärztlichen Psychotherapeuten durchgeführt, muss diese Person Fachärztin oder Facharzt für eines der folgenden Fachgebiete sein:
 
@@ -2456,51 +2502,59 @@ a) Psychotherapeutische Medizin oder Psychosomatische Medizin,
 
 b) Psychiatrie und Psychotherapie,
 
-c) Kinder- und Jugendlichenpsychiatrie und -psychotherapie oder
+c) Kinder- und Jugendpsychiatrie und -psychotherapie oder
 
 d) Ärztin oder Arzt mit der Bereichs- oder Zusatzbezeichnung „Psychotherapie“.
 
 Ärztliche Psychotherapeutinnen oder ärztliche Psychotherapeuten, die keine Fachärztinnen oder Fachärzte sind, können die Behandlung durchführen, wenn sie den Nachweis erbringen, dass sie während ihrer Weiterbildung schwerpunktmäßig Kenntnisse und Erfahrungen in Verhaltenstherapie erworben haben.
 
-1. Leistungen der Systemischen Therapie dürfen nur von folgenden Personen erbracht werden:
+1. Leistungen der Systemischen Therapie dürfen bei Personen, die das 18. Lebensjahr vollendet haben, nur von folgenden Personen erbracht werden:
 
-a) Psychotherapeutinnen und Psychotherapeuten mit einer Weiterbildung in diesem Verfahren,
+a) Psychotherapeutinnen und Psychotherapeuten, die die Voraussetzungen des Fünften Buches Sozialgesetzbuch zur Eintragung in das Arztregister erfüllen, mit einer Weiterbildung für die Behandlung von Erwachsenen auf dem Gebiet der Systemischen Therapie,
 
-b) Psychologischen Psychotherapeutinnen und Psychologischen Psychotherapeuten mit einer vertieften Ausbildung in diesem Verfahren,
+b) Psychologischen Psychotherapeutinnen und Psychologischen Psychotherapeuten mit einer vertieften Ausbildung auf dem Gebiet der Systemischen Therapie,
 
-c) Psychologischen Psychotherapeutinnen und Psychologischen Psychotherapeuten mit einer vertieften Ausbildung in einem Verfahren nach Abschnitt 3 oder 4 und einer Zusatzqualifikation für dieses Verfahren, die die Anforderungen des § 6 Absatz 8 der Psychotherapievereinbarung erfüllt.
+c) Psychologischen Psychotherapeutinnen und Psychologischen Psychotherapeuten mit einer vertieften Ausbildung in einem Verfahren nach den Abschnitten 3 oder 4 und einer Zusatzqualifikation auf dem Gebiet der Systemischen Therapie, die die Anforderungen des § 4 Absatz 5 der auf der Internetseite der Kassenärztlichen Bundesvereinigung veröffentlichten Psychotherapie-Vereinbarung vom 1. Januar 2025 erfüllt.
 
-2. Wird die Behandlung von einer ärztlichen Psychotherapeutin oder einem ärztlichen Psychotherapeuten durchgeführt, muss diese Person Fachärztin oder Facharzt für eines der folgenden Fachgebiete sein:
+2. Leistungen der Systemischen Therapie dürfen bei Personen, die das 18. Lebensjahr noch nicht vollendet haben, nur von folgenden Personen erbracht werden:
+
+a) Psychotherapeutinnen und Psychotherapeuten, die die Voraussetzungen des Fünften Buches Sozialgesetzbuch zur Eintragung in das Arztregister erfüllen, mit einer Weiterbildung für die Behandlung von Kindern und Jugendlichen auf dem Gebiet der Systemischen Therapie,
+
+b) Psychologischen Psychotherapeutinnen und Psychologischen Psychotherapeuten mit einer Weiterbildung für die Behandlung von Kindern und Jugendlichen und einer vertieften Ausbildung auf dem Gebiet der Systemischen Therapie,
+
+c) Psychologischen Psychotherapeutinnen und Psychologischen Psychotherapeuten mit einer Weiterbildung für die Behandlung von Kindern und Jugendlichen und einer vertieften Ausbildung in einem Verfahren nach den Abschnitten 3 oder 4 und einer Zusatzqualifikation auf dem Gebiet der Systemischen Therapie, die die Anforderungen des § 4 Absatz 5 der auf der Internetseite der Kassenärztlichen Bundesvereinigung veröffentlichten Psychotherapie-Vereinbarung vom 1. Januar 2025 erfüllt.
+
+3. Abweichend von Nummer 1 dürfen Leistungen der Systemischen Therapie bei Personen, die das 18. Lebensjahr, aber noch nicht das 21. Lebensjahr vollendet haben, sowohl von in Nummer 1 genannten Personen als auch von in Nummer 2 genannten Personen erbracht werden.
+
+4. Wird die Behandlung von einer ärztlichen Psychotherapeutin oder einem ärztlichen Psychotherapeuten durchgeführt, muss diese Person Fachärztin oder Facharzt für eines der folgenden Fachgebiete sein:
 
 a) Psychiatrie und Psychotherapie,
 
-b) Psychosomatische Medizin und Psychotherapie oder
+b) Psychosomatische Medizin und Psychotherapie,
 
-c) Ärztin oder Arzt mit der Zusatzbezeichnung „Psychotherapie“
+c) Kinder- und Jugendpsychiatrie und -psychotherapie oder
+
+d) Ärztin oder Arzt mit der Zusatzbezeichnung „Psychotherapie“
 
 mit erfolgreicher Weiterbildung auf dem Gebiet der Systemischen Therapie.
 
-1. Leistungen der Eye-Movement-Desensitization-and-Reprocessing-Behandlung dürfen nur von folgenden Personen erbracht werden:
+1. Leistungen der Eye-Movement-Desensitization-and-Reprocessing-Behandlung dürfen nur von Personen erbracht werden, die
 
-a) Psychotherapeutinnen und Psychotherapeuten mit einer Weiterbildung in einem Verfahren nach Abschnitt 3 oder 4,
+a) Kenntnisse und praktische Erfahrungen in der Behandlung der posttraumatischen Belastungsstörung erworben haben,
 
-b) Psychologischen Psychotherapeutinnen und Psychologischen Psychotherapeuten mit einer vertieften Ausbildung in einem Verfahren nach Abschnitt 3 oder 4.
+b) Kenntnisse und praktische Erfahrungen in der Eye-Movement-Desensitization-and-Reprocessing-Behandlung erworben haben und
 
-2. Wird die Behandlung von einer Psychologischen Psychotherapeutin oder einem Psychologischen Psychotherapeuten, einer Psychotherapeutin oder einem Psychotherapeuten durchgeführt, muss diese Person Kenntnisse und praktische Erfahrungen in der Behandlung der posttraumatischen Belastungsstörung und in der
+c) über eine der folgenden Qualifikationen verfügen:
 
-Eye-Movement-Desensitization-and-Reprocessing-Behandlung erworben haben.
+aa)  
+Psychotherapeutinnen und Psychotherapeuten, die die Voraussetzungen des Fünften Buches Sozialgesetzbuch zur Eintragung in das Arztregister erfüllen, mit einer Weiterbildung in einem Verfahren nach den Abschnitten 3, 4 oder 5,
 
-3. Wurde die Qualifikation nach Nummer 1 oder Nummer 2 bei Psychologischen Psychotherapeutinnen oder Psychologischen Psychotherapeuten nicht im Rahmen der Ausbildung und bei Psychotherapeutinnen oder Psychotherapeuten nicht im Rahmen der Weiterbildung erworben, muss die behandelnde Person
+bb)  
+Psychologische Psychotherapeutinnen und Psychologische Psychotherapeuten mit einer vertieften Ausbildung in einem Verfahren nach den Abschnitten 3, 4 oder 5.
 
-a) in mindestens 40 Stunden eingehende Kenntnisse in der Theorie der Traumabehandlung und der
+2. Wird die Behandlung von einer ärztlichen Psychotherapeutin oder einem ärztlichen Psychotherapeuten durchgeführt, so muss diese Person
 
-Eye-Movement-Desensitization-and-Reprocessing-Behandlung erworben haben und
-
-b) mindestens 40 Stunden Einzeltherapie mit mindestens fünf abgeschlossenen Eye-Movement-Desensitization-and-Reprocessing-Behandlungsabschnitten unter Supervision von mindestens 10 Stunden mit Eye-Movement-Desensitization-and-Reprocessing-Behandlung durchgeführt haben.
-
-4. Wird die Behandlung von einer ärztlichen Psychotherapeutin oder einem ärztlichen Psychotherapeuten durchgeführt, muss diese Person
-
-a) die Voraussetzungen nach Abschnitt 3 oder 4 erfüllen und
+a) die Voraussetzungen nach den Abschnitten 3, 4 oder 5 erfüllen und
 
 b) Kenntnisse und praktische Erfahrungen in der Behandlung der posttraumatischen Belastungsstörung und in der Eye-Movement-Desensitization-and-Reprocessing-Behandlung erworben haben.
 
@@ -2607,7 +2661,7 @@ Vorbemerkungen: Wenn im Leistungsverzeichnis ein Richtwert angegeben ist, ist di
 
 Einige Therapiemaßnahmen sehen nach deren Durchführung eine Nachruhe vor. Der Zeitrahmen für die Nachruhe beträgt 20 bis 25 Minuten.
 
-<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
+<table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
 <colgroup>
 <col style="width: 6%" />
 <col style="width: 81%" />
@@ -2629,7 +2683,7 @@ in Euro</th>
 <td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="even">
-<td rowspan="4" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1</td>
+<td rowspan="5" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Inhalationstherapie, auch mittels Ultraschallvernebelung</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
@@ -2640,7 +2694,7 @@ in Euro</th>
 als Einzelinhalation
 </dd>
 </dl></td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">11,60</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">12,10</td>
 </tr>
 <tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
@@ -2657,16 +2711,19 @@ als Rauminhalation in einer Gruppe, je Teilnehmerin oder Teilnehmer
 <dd>
 als Rauminhalation in einer Gruppe bei Anwendung ortsgebundener natürlicher Heilwässer, je Teilnehmerin oder Teilnehmer
 </dd>
-</dl>
-Aufwendungen für die für Inhalationen erforderlichen Zusätze sind daneben gesondert beihilfefähig.</td>
+</dl></td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">7,50</td>
 </tr>
 <tr class="even">
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Aufwendungen für die für Inhalationen erforderlichen Zusätze sind daneben gesondert beihilfefähig.</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
 <td rowspan="3" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Radon-Inhalation</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>a)</dt>
 <dd>
@@ -2675,7 +2732,7 @@ im Stollen
 </dl></td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">14,90</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>b)</dt>
 <dd>
@@ -2684,17 +2741,17 @@ mittels Hauben
 </dl></td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">18,20</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Bereich Krankengymnastik, Bewegungsübungen</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
-<td rowspan="3" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3</td>
+<tr class="odd">
+<td rowspan="5" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Physiotherapeutische Befundung und Berichte</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>a)</dt>
 <dd>
@@ -2703,57 +2760,75 @@ physiotherapeutische Erstbefundung zur Erstellung eines Behandlungsplans, einmal
 </dl></td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">16,50</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>b)</dt>
 <dd>
 physiotherapeutischer Bericht auf schriftliche Anforderung der verordnenden Person
 </dd>
 </dl></td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">63,50</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">66,10</td>
+</tr>
+<tr class="even">
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
+<dt>c)</dt>
+<dd>
+physiotherapeutische Diagnostik (PD), einmal je Blankoverordnung
+</dd>
+</dl></td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">35,80</td>
 </tr>
 <tr class="odd">
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
+<dt>d)</dt>
+<dd>
+Bedarfsdiagnostik (BD), einmal je Blankoverordnung
+</dd>
+</dl></td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">26,80</td>
+</tr>
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">4</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Krankengymnastik (KG), auch auf neurophysiologischer Grundlage, Atemtherapie, einschließlich der zur Leistungserbringung erforderlichen Massage, als Einzelbehandlung,<br />
 Richtwert: 15 bis 25 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">27,80</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">29,00</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">5</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Krankengymnastik auf neurophysiologischer Grundlage (KG-ZNS nach Bobath, Vojta, Propriozeptive Neuromuskuläre Fazilitation (PNF)) bei zentralen Bewegungsstörungen nach Vollendung des 18. Lebensjahres, als Einzelbehandlung,<br />
 Richtwert: 25 bis 35 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">44,20</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">46,00</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Krankengymnastik auf neurophysiologischer Grundlage (KG-ZNS-Kinder nach Bobath, Vojta) bei zentralen Bewegungsstörungen bis zur Vollendung des 18. Lebensjahres als Einzelbehandlung,<br />
 Richtwert: 30 bis 45 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">55,20</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">57,40</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">7</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Krankengymnastik (KG) in einer Gruppe (2 bis 5 Personen), je Teilnehmerin oder Teilnehmer,<br />
 Richtwert: 20 bis 30 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">12,50</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">13,00</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Krankengymnastik bei zerebralen Dysfunktionen in einer Gruppe (2 bis 4 Personen), je Teilnehmerin oder Teilnehmer,<br />
 Richtwert: 20 bis 30 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">15,60</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">16,20</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Krankengymnastik (Atemtherapie) insbesondere bei Mukoviszidose und schweren Bronchialerkrankungen als Einzelbehandlung,<br />
 Richtwert: 60 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">83,50</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">86,80</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td rowspan="4" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">10</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Krankengymnastik im Bewegungsbad</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>a)</dt>
 <dd>
@@ -2761,9 +2836,9 @@ als Einzelbehandlung einschließlich der erforderlichen Nachruhe,
 </dd>
 </dl>
 Richtwert: 20 bis 30 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">31,80</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">33,10</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>b)</dt>
 <dd>
@@ -2771,9 +2846,9 @@ in einer Gruppe (2 bis 3 Personen), je Teilnehmerin oder Teilnehmer, einschließ
 </dd>
 </dl>
 Richtwert: 20 bis 30 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">22,70</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">23,60</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>c)</dt>
 <dd>
@@ -2783,24 +2858,24 @@ in einer Gruppe (4 bis 5 Personen), je Teilnehmerin oder Teilnehmer, einschließ
 Richtwert: 20 bis 30 Minuten</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">15,60</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">11</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Manuelle Therapie,<br />
 Richtwert: 15 bis 25 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">33,40</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">34,80</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">12</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Chirogymnastik (funktionelle Wirbelsäulengymnastik) als Einzelbehandlung,<br />
 Richtwert: 15 bis 20 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">19,20</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">20,00</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td rowspan="3" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">13</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Bewegungsübungen</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>a)</dt>
 <dd>
@@ -2808,9 +2883,9 @@ als Einzelbehandlung,
 </dd>
 </dl>
 Richtwert: 10 bis 20 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">12,90</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">13,40</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>b)</dt>
 <dd>
@@ -2818,14 +2893,14 @@ in einer Gruppe (2 bis 5 Personen),
 </dd>
 </dl>
 Richtwert: 10 bis 20 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">8,00</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">8,30</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td rowspan="4" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">14</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Bewegungsübungen im Bewegungsbad</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>a)</dt>
 <dd>
@@ -2833,9 +2908,9 @@ als Einzelbehandlung einschließlich der erforderlichen Nachruhe,
 </dd>
 </dl>
 Richtwert: 20 bis 30 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">31,20</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">32,10</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>b)</dt>
 <dd>
@@ -2843,9 +2918,9 @@ in einer Gruppe (2 bis 3 Personen), je Teilnehmerin oder Teilnehmer, einschließ
 </dd>
 </dl>
 Richtwert: 20 bis 30 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">22,60</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">23,50</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>c)</dt>
 <dd>
@@ -2853,37 +2928,37 @@ in einer Gruppe (4 bis 5 Personen), je Teilnehmerin oder Teilnehmer, einschließ
 </dd>
 </dl>
 Richtwert: 20 bis 30 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">15,60</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">15,90</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">15</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Erweiterte ambulante Physiotherapie (EAP),<br />
 Richtwert: 120 Minuten je Behandlungstag</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">108,10</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">115,30</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">16</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Gerätegestützte Krankengymnastik (KG-Gerät) einschließlich Medizinischen Aufbautrainings (MAT) und Medizinischer Trainingstherapie (MTT), je Sitzung für eine parallele Einzelbehandlung (bis zu 3 Personen),<br />
 Richtwert: 60 Minuten, begrenzt auf maximal 25 Behandlungen je Kalenderhalbjahr</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">52,40</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">54,50</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">17</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Traktionsbehandlung mit Gerät (zum Beispiel Schrägbrett, Extensionstisch, Perl'sches Gerät, Schlingentisch) als Einzelbehandlung,<br />
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Traktionsbehandlung mit Gerät (beispielsweise Schrägbrett, Extensionstisch, Perlʼsches Gerät, Schlingentisch) als Einzelbehandlung,<br />
 Richtwert: 10 bis 20 Minuten</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">8,80</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Bereich Massagen</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td rowspan="3" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">18</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Massage eines einzelnen Körperteils oder mehrerer Körperteile</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>a)</dt>
 <dd>
@@ -2891,9 +2966,9 @@ Klassische Massagetherapie (KMT), Segment-, Periost-, Reflexzonen-, Bürsten- un
 </dd>
 </dl>
 Richtwert: 15 bis 20 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">20,30</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">21,10</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>b)</dt>
 <dd>
@@ -2901,14 +2976,14 @@ Bindegewebsmassage (BGM),
 </dd>
 </dl>
 Richtwert: 20 bis 30 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">24,40</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">25,40</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td rowspan="5" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">19</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Manuelle Lymphdrainage (MLD)</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>a)</dt>
 <dd>
@@ -2916,9 +2991,9 @@ Teilbehandlung,
 </dd>
 </dl>
 Richtwert: 30 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">33,80</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">35,10</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>b)</dt>
 <dd>
@@ -2926,9 +3001,9 @@ Großbehandlung,
 </dd>
 </dl>
 Richtwert: 45 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">50,60</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">52,70</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>c)</dt>
 <dd>
@@ -2936,60 +3011,60 @@ Ganzbehandlung,
 </dd>
 </dl>
 Richtwert: 60 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">67,50</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">70,20</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>d)</dt>
 <dd>
-Kompressionsbandagierung einer Extremität; Aufwendungen für das notwendige Polster- und Bindenmaterial (zum Beispiel Mullbinden, Kurzzugbinden, Fließpolsterbinden) sind daneben beihilfefähig
+Kompressionsbandagierung einer Extremität; Aufwendungen für das notwendige Polster- und Bindenmaterial (beispielsweise Mullbinden, Kurzzugbinden, Fließpolsterbinden) sind daneben beihilfefähig
 </dd>
 </dl></td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">21,50</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">22,40</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">20</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Unterwasserdruckstrahlmassage einschließlich der erforderlichen Nachruhe,<br />
 Richtwert: 15 bis 20 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">31,70</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">33,00</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Bereich Palliativversorgung</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">21</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Physiotherapeutische Komplexbehandlung in der Palliativversorgung,<br />
 Richtwert: 60 Minuten</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">66,00</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Bereich Packungen, Hydrotherapie, Bäder</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">22</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Heiße Rolle einschließlich der erforderlichen Nachruhe,<br />
 Richtwert: 10 bis 15 Minuten</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">13,60</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td rowspan="4" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">23</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Warmpackung eines einzelnen Körperteils oder mehrerer Körperteile einschließlich der erforderlichen Nachruhe</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>a)</dt>
 <dd>
-bei Anwendung wiederverwendbarer Packungsmaterialien (zum Beispiel Fango-Paraffin, Moor-Paraffin, Pelose, Turbatherm)
+bei Anwendung wiederverwendbarer Packungsmaterialien (beispielsweise Fango-Paraffin, Moor-Paraffin, Pelose, Turbatherm)
 </dd>
 </dl></td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">15,60</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">15,80</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>b)</dt>
 <dd>
@@ -2998,7 +3073,7 @@ bei Anwendung einmal verwendbarer natürlicher Peloide (Heilerde, Moor, Naturfan
 </dl></td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">36,20</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>c)</dt>
 <dd>
@@ -3007,17 +3082,17 @@ bei Anwendung einmal verwendbarer natürlicher Peloide (Heilerde, Moor, Naturfan
 </dl></td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">47,80</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">24</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Schwitzpackung (zum Beispiel spanischer Mantel, Salzhemd, Dreiviertel-Packung nach Kneipp) einschließlich der erforderlichen Nachruhe</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Schwitzpackung (beispielsweise spanischer Mantel, Salzhemd, Dreiviertel-Packung nach Kneipp) einschließlich der erforderlichen Nachruhe</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">19,70</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td rowspan="3" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">25</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Kaltpackung (Teilpackung)</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>a)</dt>
 <dd>
@@ -3026,7 +3101,7 @@ Anwendung von Lehm, Quark oder Ähnlichem
 </dl></td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">10,20</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>b)</dt>
 <dd>
@@ -3035,27 +3110,27 @@ Anwendung einmal verwendbarer Peloide (Heilerde, Moor, Naturfango, Pelose, Schla
 </dl></td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">20,30</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">26</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Heublumensack, Peloidkompresse</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">12,10</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">27</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Sonstige Packungen (z. B. Wickel, Auflagen, Kompressen), auch mit Zusatz</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Sonstige Packungen (beispielsweise Wickel, Auflagen, Kompressen), auch mit Zusatz</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">6,10</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">28</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Trockenpackung</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">4,10</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td rowspan="4" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">29</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Guss</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>a)</dt>
 <dd>
@@ -3064,7 +3139,7 @@ Teilguss, Teilblitzguss, Wechselteilguss
 </dl></td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">4,10</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>b)</dt>
 <dd>
@@ -3073,7 +3148,7 @@ Vollguss, Vollblitzguss, Wechselvollguss
 </dl></td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">6,10</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>c)</dt>
 <dd>
@@ -3082,21 +3157,21 @@ Abklatschung, Abreibung, Abwaschung
 </dl></td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">5,40</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td rowspan="3" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">30</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">An- oder absteigendes Bad einschließlich der erforderlichen Nachruhe</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>a)</dt>
 <dd>
-an- oder absteigendes Teilbad (zum Beispiel nach Hauffe)
+an- oder absteigendes Teilbad (beispielsweise nach Hauffe)
 </dd>
 </dl></td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">16,20</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>b)</dt>
 <dd>
@@ -3105,12 +3180,12 @@ an- oder absteigendes Vollbad (Überwärmungsbad)
 </dl></td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">26,40</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td rowspan="3" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">31</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Wechselbad einschließlich der erforderlichen Nachruhe</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>a)</dt>
 <dd>
@@ -3119,7 +3194,7 @@ Teilbad
 </dl></td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">12,10</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>b)</dt>
 <dd>
@@ -3128,17 +3203,17 @@ Vollbad
 </dl></td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">17,60</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">32</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Bürstenmassagebad einschließlich der erforderlichen Nachruhe</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">25,10</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td rowspan="3" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">33</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Naturmoorbad einschließlich der erforderlichen Nachruhe</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>a)</dt>
 <dd>
@@ -3147,21 +3222,21 @@ Teilbad
 </dl></td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">43,30</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>b)</dt>
 <dd>
 Vollbad
 </dd>
 </dl></td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">52,70</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">54,10</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td rowspan="3" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">34</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Sandbad einschließlich der erforderlichen Nachruhe</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>a)</dt>
 <dd>
@@ -3170,7 +3245,7 @@ Teilbad
 </dl></td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">37,90</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>b)</dt>
 <dd>
@@ -3179,17 +3254,17 @@ Vollbad
 </dl></td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">43,30</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">35</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Balneo-Phototherapie (Sole-Photo-Therapie) und Licht-Öl-Bad einschließlich Nachfetten und der erforderlichen Nachruhe</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">43,30</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td rowspan="5" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">36</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Medizinische Bäder mit Zusatz</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>a)</dt>
 <dd>
@@ -3198,7 +3273,7 @@ Hand- oder Fußbad
 </dl></td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">8,80</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>b)</dt>
 <dd>
@@ -3207,7 +3282,7 @@ Teilbad einschließlich der erforderlichen Nachruhe
 </dl></td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">17,60</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>c)</dt>
 <dd>
@@ -3216,7 +3291,7 @@ Vollbad einschließlich der erforderlichen Nachruhe
 </dl></td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">24,40</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>d)</dt>
 <dd>
@@ -3225,21 +3300,21 @@ bei mehreren Zusätzen je weiterer Zusatz
 </dl></td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">4,10</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td rowspan="6" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">37</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Gashaltige Bäder</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>a)</dt>
 <dd>
-gashaltiges Bad (zum Beispiel Kohlensäurebad, Sauerstoffbad) einschließlich der erforderlichen Nachruhe
+gashaltiges Bad (beispielsweise Kohlensäurebad, Sauerstoffbad) einschließlich der erforderlichen Nachruhe
 </dd>
 </dl></td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">26,10</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">27,10</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>b)</dt>
 <dd>
@@ -3248,7 +3323,7 @@ gashaltiges Bad mit Zusatz einschließlich der erforderlichen Nachruhe
 </dl></td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">29,70</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>c)</dt>
 <dd>
@@ -3257,7 +3332,7 @@ Kohlendioxidgasbad (Kohlensäuregasbad) einschließlich der erforderlichen Nachr
 </dl></td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">27,70</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>d)</dt>
 <dd>
@@ -3266,7 +3341,7 @@ Radon-Bad einschließlich der erforderlichen Nachruhe
 </dl></td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">24,40</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>e)</dt>
 <dd>
@@ -3275,133 +3350,133 @@ Radon-Zusatz, je 500 000 Millistat
 </dl></td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">4,10</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">38</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Aufwendungen für andere als die in diesem Abschnitt bezeichneten Bäder sind nicht beihilfefähig. Bei Hand- oder Fußbad, Teil- oder Vollbad mit ortsgebundenen natürlichen Heilwässern erhöhen sich die jeweils angegebenen beihilfefähigen Höchstbeträge nach Nummer 36 Buchstabe a bis c und nach Nummer 37 Buchstabe b um 4,10 Euro. Weitere Zusätze hierzu sind nach Maßgabe der Nummer 36 Buchstabe d beihilfefähig.</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Bereich Kälte- und Wärmebehandlung</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">39</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Kältetherapie eines einzelnen Körperteils oder mehrerer Körperteile mit lokaler Applikation intensiver Kälte in Form von Eiskompressen, tiefgekühlten Eis- oder Gelbeuteln, direkter Abreibung, Kaltgas oder Kaltluft mit entsprechenden Apparaturen sowie Eisteilbädern in Fuß- oder Armbadewannen,<br />
 Richtwert: 5 bis 10 Minuten</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">12,90</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">40</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Wärmetherapie eines einzelnen Körperteils oder mehrerer Körperteile mittels Heißluft,<br />
 Richtwert: 10 bis 20 Minuten</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">7,50</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">41</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Ultraschall-Wärmetherapie,<br />
 Richtwert: 10 bis 20 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">13,80</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">14,30</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Bereich Elektrotherapie</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">42</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Elektrotherapie eines einzelnen Körperteils oder mehrerer Körperteile mit individuell eingestellten Stromstärken und Frequenzen,<br />
 Richtwert: 10 bis 20 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">8,20</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">8,30</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">43</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Elektrostimulation bei Lähmungen,<br />
 Richtwert: je Muskelnerveinheit 5 bis 10 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">17,60</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">18,30</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">44</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Iontophorese</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">8,20</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">45</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Hydroelektrisches Teilbad (Zwei- oder Vierzellenbad),<br />
 Richtwert: 10 bis 20 Minuten</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">14,90</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">46</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Hydroelektrisches Vollbad (zum Beispiel Stangerbad), auch mit Zusatz, einschließlich der erforderlichen Nachruhe,<br />
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Hydroelektrisches Vollbad (beispielsweise Stangerbad), auch mit Zusatz, einschließlich der erforderlichen Nachruhe,<br />
 Richtwert: 10 bis 20 Minuten</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">29,00</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Bereich Stimm-, Sprech-, Sprach- und Schlucktherapie</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">47</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Stimm-, sprech-, sprach- und schlucktherapeutische Erstdiagnostik zur Erstellung eines Behandlungsplans, einmal je Behandlungsfall; bei Wechsel der Leistungserbringerin oder des Leistungserbringers innerhalb des Behandlungsfalls sind die Aufwendungen für eine erneute Erstdiagnostik beihilfefähig. Je Kalenderjahr sind Aufwendungen für bis zu zwei Einheiten Diagnostik (entweder eine Einheit Erstdiagnostik und eine Einheit Bedarfsdiagnostik oder zwei Einheiten Bedarfsdiagnostik) innerhalb eines Behandlungsfalls beihilfefähig,<br />
 Richtwert: 60 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">111,20</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">117,30</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">48</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Stimm-, sprech-, sprach- und schlucktherapeutische Bedarfsdiagnostik; je Kalenderjahr sind Aufwendungen für bis zu zwei Einheiten Diagnostik (entweder eine Einheit Erstdiagnostik und eine Einheit Bedarfsdiagnostik oder zwei Einheiten Bedarfsdiagnostik) innerhalb eines Behandlungsfalls beihilfefähig,<br />
 Richtwert: 30 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">55,60</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">49</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Bericht an die verordnende Person</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">6,20</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">58,70</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">50</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Bericht auf besondere Anforderung der verordnenden Person</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">111,20</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">49</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Bericht an die verordnende Person</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">6,60</td>
 </tr>
 <tr class="odd">
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">50</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Bericht auf besondere Anforderung der verordnenden Person</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">117,30</td>
+</tr>
+<tr class="even">
 <td rowspan="4" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">51</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Einzelbehandlung bei Stimm-, Sprech-, Sprach- und Schluckstörungen</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>a)</dt>
 <dd>
 Richtwert: 30 Minuten
 </dd>
 </dl></td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">49,40</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">52,20</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>b)</dt>
 <dd>
 Richtwert: 45 Minuten
 </dd>
 </dl></td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">68,00</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">71,70</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>c)</dt>
 <dd>
 Richtwert: 60 Minuten
 </dd>
 </dl></td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">86,50</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">91,30</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td rowspan="5" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">52</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Gruppenbehandlung bei Stimm-, Sprech-, Sprach- und Schluckstörungen, je Teilnehmerin oder Teilnehmer</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>a)</dt>
 <dd>
@@ -3409,9 +3484,9 @@ Gruppe (2 Personen),
 </dd>
 </dl>
 Richtwert: 45 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">61,20</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">64,50</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>b)</dt>
 <dd>
@@ -3421,7 +3496,7 @@ Gruppe (3 bis 5 Personen),
 Richtwert: 45 Minuten</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">34,60</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>c)</dt>
 <dd>
@@ -3429,9 +3504,9 @@ Gruppe (2 Personen),
 </dd>
 </dl>
 Richtwert: 90 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">111,20</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">117,30</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>d)</dt>
 <dd>
@@ -3439,24 +3514,24 @@ Gruppe (3 bis 5 Personen),
 </dd>
 </dl>
 Richtwert: 90 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">56,10</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">58,70</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Bereich Ergotherapie</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">53</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Funktionsanalyse und Erstgespräch einschließlich Beratung und Behandlungsplanung, einmal je Behandlungsfall</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">41,80</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">47,70</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td rowspan="4" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">54</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Einzelbehandlung</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>a)</dt>
 <dd>
@@ -3464,9 +3539,9 @@ bei motorisch-funktionellen Störungen,
 </dd>
 </dl>
 Richtwert: 45 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">45,20</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">57,00</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>b)</dt>
 <dd>
@@ -3474,9 +3549,9 @@ bei sensomotorischen oder perzeptiven Störungen,
 </dd>
 </dl>
 Richtwert: 60 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">60,90</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">76,00</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>c)</dt>
 <dd>
@@ -3484,14 +3559,14 @@ bei psychisch-funktionellen Störungen,
 </dd>
 </dl>
 Richtwert: 75 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">76,20</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">94,90</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td rowspan="4" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">55</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Einzelbehandlung als Beratung zur Integration in das häusliche und soziale Umfeld im Rahmen eines Besuchs im häuslichen oder sozialen Umfeld, einmal je Behandlungsfall</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>a)</dt>
 <dd>
@@ -3499,9 +3574,9 @@ bei motorisch-funktionellen Störungen,
 </dd>
 </dl>
 Richtwert: 120 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">135,60</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">151,90</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>b)</dt>
 <dd>
@@ -3511,7 +3586,7 @@ bei sensomotorischen oder perzeptiven Störungen,
 Richtwert: 120 Minuten</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">182,60</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>c)</dt>
 <dd>
@@ -3521,12 +3596,12 @@ bei psychisch-funktionellen Störungen,
 Richtwert: 120 Minuten</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">152,40</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td rowspan="4" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">56</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Parallelbehandlung (bei Anwesenheit von zwei zu behandelnden Personen)</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>a)</dt>
 <dd>
@@ -3534,9 +3609,9 @@ bei motorisch-funktionellen Störungen, je Teilnehmerin oder Teilnehmer,
 </dd>
 </dl>
 Richtwert: 45 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">35,90</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">45,60</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>b)</dt>
 <dd>
@@ -3544,9 +3619,9 @@ bei sensomotorischen oder perzeptiven Störungen, je Teilnehmerin oder Teilnehme
 </dd>
 </dl>
 Richtwert: 60 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">48,70</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">60,80</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>c)</dt>
 <dd>
@@ -3554,14 +3629,14 @@ bei psychisch-funktionellen Störungen, je Teilnehmerin oder Teilnehmer,
 </dd>
 </dl>
 Richtwert: 75 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">60,30</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">76,00</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td rowspan="4" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">57</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Gruppenbehandlung (3 bis 6 Personen)</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>a)</dt>
 <dd>
@@ -3569,9 +3644,9 @@ bei motorisch-funktionellen Störungen, je Teilnehmerin oder Teilnehmer,
 </dd>
 </dl>
 Richtwert: 45 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">16,50</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">20,00</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>b)</dt>
 <dd>
@@ -3579,9 +3654,9 @@ bei sensomotorischen oder perzeptiven Störungen, je Teilnehmerin oder Teilnehme
 </dd>
 </dl>
 Richtwert: 60 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">21,40</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">26,60</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>c)</dt>
 <dd>
@@ -3589,60 +3664,60 @@ bei psychisch-funktionellen Störungen, je Teilnehmerin oder Teilnehmer,
 </dd>
 </dl>
 Richtwert: 105 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">39,30</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">46,50</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">58</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Hirnleistungstraining/Neuropsychologisch orientierte Einzelbehandlung,<br />
 Richtwert: 45 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">50,10</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">57,00</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">59</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Hirnleistungstraining als Einzelbehandlung bei der Beratung zur Integration in das häusliche und soziale Umfeld im Rahmen eines Besuchs im häuslichen oder sozialen Umfeld, einmal je Behandlungsfall,<br />
 Richtwert: 120 Minuten</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">152,40</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">60</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Hirnleistungstraining als Parallelbehandlung bei Anwesenheit von zwei zu behandelnden Personen, je Teilnehmerin oder Teilnehmer,<br />
 Richtwert: 45 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">39,40</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">45,60</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">61</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Hirnleistungstraining als Gruppenbehandlung, je Teilnehmerin oder Teilnehmer,<br />
 Richtwert: 60 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">21,40</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">26,60</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Bereich Podologie</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">62</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Podologische Behandlung (klein),<br />
 Richtwert: 35 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">34,20</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">36,10</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">63</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Podologische Behandlung (groß),<br />
 Richtwert: 50 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">49,20</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">64</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Podologische Befundung, je Behandlung</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">3,40</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">52,00</td>
 </tr>
 <tr class="even">
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">64</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Podologische Befundung, je Behandlung</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">3,60</td>
+</tr>
+<tr class="odd">
 <td rowspan="4" style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">65</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Erst- und Eingangsbefundung</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>a)</dt>
 <dd>
@@ -3650,9 +3725,9 @@ Erstbefundung (klein),
 </dd>
 </dl>
 Richtwert: 20 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">27,20</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">28,70</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>b)</dt>
 <dd>
@@ -3660,142 +3735,159 @@ Erstbefundung (groß), einmal je Kalenderjahr,
 </dd>
 </dl>
 Richtwert: 45 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">54,50</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">57,60</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
 <dt>c)</dt>
 <dd>
-Eingangsbefundung, einmal je Leistungserbringer
+Eingangsbefundung, einmal je Leistungserbringer,
 </dd>
 </dl>
 Richtwert: 20 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">21,90</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">23,20</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">66</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Therapiebericht auf schriftliche Anforderung der verordnenden Person</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">16,40</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">17,40</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">67</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Anpassung einer einteiligen unilateralen oder bilateralen Nagelkorrekturspange, z. B. nach Ross Fraser</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">96,40</td>
-</tr>
-<tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">68</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Fertigung einer einteiligen unilateralen oder bilateralen Nagelkorrekturspange, z. B. nach Ross Fraser</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">52,80</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Anpassung einer einteiligen unilateralen oder bilateralen Nagelkorrekturspange, beispielsweise nach Ross Fraser</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">101,70</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">69</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Nachregulierung der einteiligen unilateralen oder bilateralen Nagelkorrekturspange, z. B. nach Ross Fraser</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">48,30</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">68</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Fertigung einer einteiligen unilateralen oder bilateralen Nagelkorrekturspange, beispielsweise nach Ross Fraser</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">55,70</td>
 </tr>
 <tr class="even">
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">69</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Nachregulierung der einteiligen unilateralen oder bilateralen Nagelkorrekturspange, beispielsweise nach Ross Fraser</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">51,00</td>
+</tr>
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">70</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Vorbereitung des Nagels, Anpassung und Aufsetzen einer mehrteiligen bilateralen Nagelkorrekturspange</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">92,00</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">99,90</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">71</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Vorbereitung des Nagels, Anpassung und Aufsetzen einer einteiligen Kunststoff- oder Metall-Nagelkorrekturspange</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">52,60</td>
-</tr>
-<tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">72</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Indikationsspezifische Kontrolle auf Sitz- und Passgenauigkeit</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">16,80</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">55,20</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">73</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Behandlungsabschluss, ggf. einschließlich der Entfernung der Nagelkorrekturspange</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">25,20</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">72</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Indikationsspezifische Kontrolle auf Sitz- und Passgenauigkeit</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">17,70</td>
 </tr>
 <tr class="even">
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">73</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Behandlungsabschluss, ggf. einschließlich der Entfernung der Nagelkorrekturspange</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">26,60</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">73.1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Nagelspangenbehandlung, zweimal je Behandlungstag<br />
+Aufwendungen für Leistungen der Nummern 67 bis 71 sind daneben nicht beihilfefähig.</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">57,20</td>
+</tr>
+<tr class="even">
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">73.2</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Aufschlag für besonderen Aufwand bei der Behandlung von Kindern bis zur Vollendung des 14. Lebensjahres oder von Personen mit Unguis incarnatus in den Stadien 2 bis 3 (Diagnosegruppe UI2), zweimal je Behandlungstag<br />
+Aufwendungen für Leistungen der Nummern 67 bis 71 sind daneben nicht beihilfefähig.</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">17,40</td>
+</tr>
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Bereich Ernährungstherapie</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">74</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Ernährungstherapeutische Anamnese, einmal je Behandlungsfall<br />
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Ernährungstherapeutische Anamnese, einmal je Behandlungsfall,<br />
 Richtwert: 30 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">38,70</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">40,90</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">75</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Ernährungstherapeutische Anamnese, einmal je Behandlungsfall,<br />
+Richtwert: 60 Minuten</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">81,70</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">75</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Ernährungstherapeutische Anamnese, einmal je Behandlungsfall<br />
-Richtwert: 60 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">77,40</td>
-</tr>
-<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">76</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Berechnung und Auswertung von Ernährungsprotokollen und Entwicklung entsprechender individueller Empfehlungen,<br />
 Richtwert: 60 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">63,40</td>
-</tr>
-<tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">77</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Notwendige Abstimmung der Therapie mit einer dritten Partei</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">63,40</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">66,90</td>
 </tr>
 <tr class="odd">
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">77</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Notwendige Abstimmung der Therapie mit einer dritten Partei</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">66,90</td>
+</tr>
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">78</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Ernährungstherapeutische Intervention als Einzelbehandlung,<br />
 Richtwert: 30 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">38,70</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">40,90</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">79</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Ernährungstherapeutische Intervention als Einzelbehandlung,<br />
 Richtwert: 60 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">77,40</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">81,70</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">80</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Ernährungstherapeutische Intervention im häuslichen oder sozialen Umfeld als Einzelbehandlung,<br />
 Richtwert: 60 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">77,40</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">81,70</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">81</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Ernährungstherapeutische Intervention als Gruppenbehandlung,<br />
 Richtwert: 30 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">27,10</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">28,60</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">82</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Ernährungstherapeutische Intervention als Gruppenbehandlung,<br />
 Richtwert: 60 Minuten</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">54,20</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">57,20</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Bereich Sonstiges</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">83</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Ärztlich verordneter Hausbesuch einschließlich der Fahrtkosten, pauschal<br />
 Werden auf demselben Weg mehrere Patientinnen oder Patienten besucht, sind die Aufwendungen nur anteilig je Patientin oder Patient beihilfefähig.</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">22,40</td>
-</tr>
-<tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">84</td>
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Besuch einer Patientin oder eines Patienten oder mehrerer Patientinnen oder Patienten in einer sozialen Einrichtung oder Gemeinschaft, einschließlich der Fahrtkosten, je Patientin oder Patient pauschal</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">14,70</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">27,60</td>
 </tr>
 <tr class="odd">
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">84</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Besuch einer Patientin oder eines Patienten oder mehrerer Patientinnen oder Patienten in einer sozialen Einrichtung oder Gemeinschaft, einschließlich der Fahrtkosten, je Patientin oder Patient pauschal</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">18,00</td>
+</tr>
+<tr class="even">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">85</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Hausbesuch bei der Beratung im häuslichen und sozialen Umfeld (Mehraufwand)<br />
 Der Hausbesuch ist nur beihilfefähig, wenn Leistungen nach Nummer 55 Buchstabe a bis c, Nummer 59 oder Nummer 80 ohne ärztlich verordneten Hausbesuch erbracht wurden. Aufwendungen für Leistungen der Nummern 83 und 84 sind daneben nicht beihilfefähig.</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">22,40</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">27,60</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">86</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Übermittlungsgebühr für Mitteilung oder Bericht an die verordnende Person</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">1,40</td>
+</tr>
+<tr class="even">
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">87</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Versorgungsbezogene Pauschale je Blankoverordnung</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">98,60</td>
 </tr>
 </tbody>
 </table>
@@ -3836,7 +3928,7 @@ Knieendoprothesen,
 
 cc) Hüftendoprothesen,
 
-d) operativ oder konservativ behandelte Gelenkerkrankungen, einschließlich Instabilitäten bei
+d) operativ oder konservativ behandelte Gelenkerkrankungen, einschließlich Instabilitäten, bei
 
 aa)  
 Kniebandrupturen (Ausnahme isoliertes Innenband),
@@ -4049,601 +4141,602 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
   
   
 
-Die Aufwendungen für die Anschaffung der nachstehend aufgeführten Hilfsmittel, Geräte und Körperersatzstücke sind – gegebenenfalls im Rahmen der Höchstbeträge – beihilfefähig, wenn sie von einer Ärztin oder einem Arzt verordnet werden:
+Die Aufwendungen für die Anschaffung von Hilfsmitteln, Geräten und Körperersatzstücken, die unter den Hilfsmittelgruppen der Nummern 1 bis 31 aufgeführt sind, sind – gegebenenfalls im Rahmen der Höchstbeträge – beihilfefähig, wenn sie ärztlich verordnet werden:
+
+1. Absauggeräte
 
 1.1  
-Abduktionslagerungskeil
-
-1.2  
-Absauggerät (zum Beispiel bei Kehlkopferkrankung)
-
-1.3  
-Adaptionshilfen
-
-1.4  
-Anpassungen für diverse Gebrauchsgegenstände (zum Beispiel Universalhalter für Schwerstbehinderte zur Erleichterung der Körperpflege und zur Nahrungsaufnahme)
-
-1.5  
-Alarmgerät für Epileptikerinnen oder Epileptiker
-
-1.6  
-(weggefallen)
-
-1.7  
-Anus-praeter-Versorgungsartikel
-
-1.8  
-Anzieh- oder Ausziehhilfen
-
-1.9  
-Aquamat
-
-1.10  
-Armmanschette
-
-1.11  
-Armtragegurt oder -tuch
-
-1.12  
-Arthrodesensitzkissen oder -sitzkoffer
-
-1.13  
-Atemtherapiegeräte
-
-1.14  
-Atomiseur (zur Medikamenten-Aufsprühung)
-
-1.15  
-Auffahrrampen für einen Krankenfahrstuhl
-
-1.16  
-Aufrichteschlaufe
-
-1.17  
-Aufrichtstuhl (für Aufrichtfunktion sind bis zu 150 Euro beihilfefähig)
-
-1.18  
-Aufstehgestelle
-
-1.19  
-Auftriebshilfe (bei Schwerstbehinderung)
-
-1.20  
-Augenbadewanne, -dusche, -spülglas, -flasche, -pinsel, -pipette oder -stäbchen
-
-1.21  
-Augenschielklappe, auch als Folie
-
-2.1  
-Badestrumpf
-
-2.2  
-Badewannensitz (bei Schwerstbehinderung, Totalendoprothese, Hüftgelenk-Luxations-Gefahr oder Polyarthritis)
-
-2.3  
-Badewannenverkürzer
-
-2.4  
 Ballspritze
 
-2.5  
-Behinderten-Dreirad
+1.2  
+Gerät zum Entfernen von Körperflüssigkeiten oder Fremdstoffen mittels Erzeugung von Unterdruck, einschließlich Zubehör
 
-2.6  
-Bestrahlungsmaske für ambulante Strahlentherapie
+1.3  
+Katheder, auch Ballonkatheder, einschließlich Zubehör
 
-2.7  
-Bettnässer-Weckgerät
-
-2.8  
-Beugebandage
-
-2.9  
-Billroth-Batist-Lätzchen
-
-2.10  
-Blasenfistelbandage
-
-2.11  
-Blindenführhund (einschließlich Geschirr, Leine, Halsband, Maulkorb)
-
-2.12  
-Blindenleitgerät (Ultraschallbrille, Ultraschallleitgerät)
-
-2.13  
-Blindenstock, -langstock oder -taststock
-
-2.14  
-Blutdruckmessgerät
-
-2.15  
-Blutgerinnungsmessgerät (bei erforderlicher Dauerantikoagulation oder künstlichem Herzklappenersatz)
-
-2.16  
-Blutlanzette
-
-2.17  
-Blutzuckermessgerät
-
-2.18  
-Bracelet
-
-2.19  
-Bruchband
-
-3.1  
-Clavicula-Bandage
-
-3.2  
-Cochlea-Implantate einschließlich Zubehör
-
-3.3  
-Communicator bei Sprech- oder Sprachstörungen
-
-3.4  
-Computerspezialausstattung für Behinderte; Spezialhardware und Spezialsoftware bis zu 3 500 Euro, gegebenenfalls zuzüglich bis zu 5 400 Euro für eine Braillezeile mit 40 Modulen
-
-4.1  
-Defibrillatorweste
-
-4.2  
-Dekubitus-Schutzmittel (zum Beispiel Auf- oder Unterlagen für das Bett, Spezialmatratzen, Keile, Kissen, Auf- oder Unterlagen für den Rollstuhl, Schützer für Ellenbogen, Unterschenkel und Füße)
-
-4.3  
-Delta-Gehrad
-
-4.4  
-Drehscheibe, Umsetzhilfen
-
-4.5  
-Duschsitz oder -stuhl
-
-5.1  
-Einlagen, orthopädische, einschließlich der zur Anpassung notwendigen Ganganalyse
-
-5.2  
-Einmal-Schutzhose bei Querschnittgelähmten
-
-5.3  
-Ekzemmanschette
-
-5.4  
-Elektromobil bis zu 2 500 Euro, ausgenommen Zulassung und Versicherung
-
-5.5  
-Elektrostimulationsgerät
-
-5.6  
-Epicondylitisbandage oder -spange mit Pelotten
-
-5.7  
-Epitrainbandage
-
-5.8  
-Ernährungssonde
-
-6.1  
-Farberkennungsgerät
-
-6.2  
-Fepo-Gerät (funktionelle elektronische Peronaeus-Prothese)
-
-6.3  
-Fersenschutz (Kissen, Polster, Schale, Schoner)
-
-6.4  
-Fingerling
-
-6.5  
-Fingerschiene
-
-6.6  
-Fixationshilfen
-
-6.7  
-Fußteil-Entlastungsschuh (Einzelschuhversorgung)
-
-7.1  
-Gehgipsgalosche
-
-7.2  
-Gehhilfen und -übungsgeräte
-
-7.3  
-Gehörschutz
-
-7.4  
-Genutrain-Aktiv-Kniebandage
-
-7.5  
-Gerät zur Behandlung mit elektromagnetischen Wechselfeldern bei atropher Pseudarthrose, Endoprothesenlockerung, idiopathischer Hüftnekrose oder verzögerter Knochenbruchheilung (in Verbindung mit einer sachgerechten chirurgischen Therapie)
-
-7.6  
-Gerät zur kontinuierlichen Gewebezuckermessung (Continuous Glucose Monitoring – CGM, Flash Glucose Monitoring – FGM) einschließlich Sensoren bei Personen mit einer behandlungsbedürftigen Stoffwechselerkrankung wie einem behandlungsbedürftigen Diabetes mellitus; daneben sind Aufwendungen für übliche Blutzuckermessgeräte einschließlich der erforderlichen Blutteststreifen beihilfefähig
-
-7.7  
-Gesichtsteilersatzstücke (Ektoprothese, Epithese)
-
-7.8  
-Gilchrist-Bandage
-
-7.9  
-Gipsbett, Liegeschale
-
-7.10  
-Glasstäbchen
-
-7.11  
-Gummihose sowie saugende körpernah getragene Inkontinenzhilfen (insbesondere Fixierhosen für Inkontinenzvorlagen, saugende Inkontinenzhosen und -vorlagen) bei Blasen- oder Darminkontinenz
-
-7.12  
-Gummistrümpfe
-
-8.1  
-Halskrawatte, Hals-, Kopf-, Kinnstütze
-
-8.2  
-Handgelenkriemen
-
-8.3  
-Hebekissen
-
-8.4  
-Heimdialysegerät
-
-8.5  
-Helfende Hand, Scherenzange
-
-8.6  
-Herz-Atmungs-Überwachungsgerät oder -monitor
-
-8.7  
-Hochtontherapiegerät
-
-8.8  
-Hörgeräte (Hinter-dem-Ohr-Geräte \[HdO-Geräte\] sowie In-dem-Ohr-Geräte \[IdO-Geräte\] einschließlich Otoplastik, Taschengeräte, Hörbrillen, Schallsignale überleitende Geräte \[C.R.O.S.-Geräte, Contralateral Routing of Signals\], drahtlose Hörhilfen), alle fünf Jahre einschließlich der Nebenkosten, es sei denn, aus medizinischen oder technischen Gründen ist eine vorzeitige Verordnung zwingend erforderlich; Aufwendungen sind für Personen ab 15 Jahren auf 1 500 Euro je Ohr begrenzt, gegebenenfalls zuzüglich der Aufwendungen für eine medizinisch indizierte notwendige Fernbedienung; der Höchstbetrag kann überschritten werden, soweit dies erforderlich ist, um eine ausreichende Versorgung bei beidseitiger an Gehörlosigkeit grenzender Schwerhörigkeit oder bei vergleichbar schwerwiegenden Sachverhalten zu gewährleisten
-
-9.1  
-Impulsvibrator
-
-9.2  
-Infusionsbesteck oder -gerät und Zubehör
-
-9.3  
-Inhalationsgerät, einschließlich Sauerstoff und Zubehör, jedoch keine Luftbefeuchter, -filter, -wäscher
-
-9.4  
-Innenschuh, orthopädischer
-
-9.5  
-Insulinapplikationshilfen und Zubehör (Insulindosiergerät, -pumpe, -injektor)
-
-9.6  
-Irisschale mit geschwärzter Pupille bei entstellenden Veränderungen der Hornhaut eines blinden Auges
-
-10.1  
-(frei)
-
-11.1  
-Kanülen und Zubehör
-
-11.2  
-Katapultsitz
-
-11.3  
-Katheter, auch Ballonkatheter, und Zubehör
-
-11.4  
-Kieferspreizgerät
-
-11.5  
-Klosett-Matratze für den häuslichen Bereich bei dauernder Bettlägerigkeit und bestehender Inkontinenz
-
-11.6  
-Klumpfußschiene
-
-11.7  
-Klumphandschiene
-
-11.8  
-Klyso
-
-11.9  
-Knetmaterial für Übungszwecke bei cerebral-paretischen Kindern
-
-11.10  
-Kniekappe/-bandage, Kreuzgelenkbandage
-
-11.11  
-Kniepolster/-rutscher bei Unterschenkelamputation
-
-11.12  
-Knöchel- und Gelenkstützen
-
-11.13  
-Körperersatzstücke einschließlich Zubehör, abzüglich eines Eigenanteils von 15 Euro für Brustprothesenhalter und 40 Euro für Badeanzüge, Bodys oder Korseletts für Brustprothesenträgerinnen
-
-11.14  
-Kompressionsstrümpfe/-strumpfhose
-
-11.15  
-Koordinator nach Schielbehandlung
-
-11.16  
-Kopfring mit Stab, Kopfschreiber
-
-11.17  
-Kopfschützer
-
-11.18  
-Korrektursicherungsschuh
-
-11.19  
-Krabbler für Spastikerinnen und Spastiker
-
-11.20  
-Krampfaderbinde
-
-11.21  
-Krankenfahrstuhl (auch elektrisch) und Zubehör
-
-11.22  
-Krankenpflegebett
-
-11.23  
-Krankenstock
-
-11.24  
-Kreuzstützbandage
-
-11.25  
-Krücke
-
-12.1  
-Latextrichter bei Querschnittlähmung
-
-12.2  
-Leibbinde, jedoch keine Nieren-, Flanell- und Wärmeleibbinden
-
-12.3  
-Lesehilfen (Leseständer, Blattwendestab, Blattwendegerät, Blattlesegerät, Auflagegestell)
-
-12.4  
-Lichtsignalanlage für Gehörlose und hochgradig Schwerhörige
-
-12.5  
-Lifter (Krankenlifter, Multilift, Bad-Helfer, Krankenheber oder Badewannenlifter)
-
-12.6  
-Lispelsonde
-
-12.7  
-Lumbalbandage
-
-13.1  
-Malleotrain-Bandage
-
-13.2  
-Mangoldsche Schnürbandage
-
-13.3  
-Manutrain-Bandage
-
-13.4  
-Maßschuhe, orthopädische, die nicht serienmäßig herstellbar sind, abzüglich eines Eigenanteils von 64 Euro:
-
-13.4.1  
-Straßenschuhe (Erstausstattung zwei Paar, Ersatzbeschaffung regelmäßig frühestens nach zwei Jahren),
-
-13.4.2  
-Hausschuhe (Erstausstattung zwei Paar, Ersatzbeschaffung regelmäßig frühestens nach zwei Jahren),
-
-13.4.3  
-Sportschuhe (Erstausstattung ein Paar, Ersatzbeschaffung regelmäßig frühestens nach zwei Jahren),
-
-13.4.4  
-Badeschuhe (Erstausstattung ein Paar, Ersatzbeschaffung regelmäßig frühestens nach vier Jahren),
-
-13.4.5  
-Interimsschuhe (wegen vorübergehender Versorgung entfällt der Eigenanteil von 64 Euro)
-
-13.5  
+1.4  
 Milchpumpe
 
-13.6  
-Mundsperrer
+2. Adaptionshilfen
 
-13.7  
-Mundstab/-greifstab
+2.1  
+Anzieh- und Ausziehhilfe
 
-14.1  
-Narbenschützer
+2.2  
+Helfende Hand, Scherenzange
 
-14.2  
-Neurodermitis-Overall für Personen, die das zwölfte Lebensjahr noch nicht vollendet haben (zwei pro Jahr und bis zu 80 Euro je Overall)
+2.3  
+Hilfsmittel zur Unterstützung von Verrichtungen im Alltag zur Bewahrung der Selbstständigkeit
 
-15.1  
-Orthese, Orthoprothese, Korrekturschienen, Korsetts und Ähnliches, auch Haltemanschetten und Ähnliches
+2.4  
+Schreibhilfsmittel (beispielweise Kopfring mit Stab, Kopfschreiber)
 
-15.2  
-Orthesenschuhe, abzüglich eines Eigenanteils von 64 Euro
+2.5  
+Lesehilfe (Leseständer, Blattwendestab, Blattwendegerät, Blattlesegerät, Auflagegestell)
 
-15.3  
-Orthopädische Zurichtungen an Konfektionsschuhen (höchstens sechs Paar Schuhe pro Jahr)
+2.6  
+Mundstab und Mundgreifstab
 
-16.1  
-Pavlik-Bandage
+3. Apparate zur elektronischen Nerven- oder Muskelstimulation
 
-16.2  
-Peak-Flow-Meter
+3.1  
+Defibrillatorweste
 
-16.3  
-Penisklemme
+3.2  
+Elektrostimulationsgerät
 
-16.4  
-Peronaeusschiene, Heidelberger Winkel
+3.3  
+Fepo-Gerät (funktionelle elektronische Peronaeus-Prothese)
 
-16.5  
-Phonator
+3.4  
+Gerät zur Behandlung mit elektromagnetischen Wechselfeldern bei atropher Pseudarthrose, Endoprothesenlockerung, idiopathischer Hüftnekrose oder verzögerter Knochenbruchheilung (in Verbindung mit einer sachgerechten chirurgischen Therapie)
 
-16.6  
-Polarimeter
-
-16.7  
-Psoriasiskamm
-
-17.1  
-Quengelschiene
-
-18.1  
-Rauchwarnmelder für Gehörlose und hochgradig Schwerhörige
-
-18.2  
-Reflektometer
-
-18.3  
-Rektophor
-
-18.4  
-Rollator
-
-18.5  
-Rollbrett
-
-18.6  
-Rutschbrett
-
-19.1  
-Schede-Rad
-
-19.2  
-Schlafpositionsgerät zur Lagetherapie bei positionsabhängiger obstruktiver Schlafapnoe (eine gleichzeitige Versorgung mit einem Atemtherapiegerät ist ausgeschlossen)
-
-19.3  
-Schrägliegebrett
-
-19.4  
-Schutzbrille für Blinde
-
-19.5  
-Schutzhelm für Behinderte
-
-19.6  
+3.5  
 Schwellstromapparat
 
-19.7  
-Segofix-Bandagensystem
+4. Applikationshilfen
 
-19.8  
-Sitzkissen für Oberschenkelamputierte
+4.1  
+Ernährungssonde
 
-19.9  
-Sitzschale, wenn Sitzkorsett nicht ausreicht
+4.2  
+Glasstäbchen
 
-19.10  
-Skolioseumkrümmungsbandage
+4.3  
+GnRH-Pumpe im Rahmen der Kinderwunschbehandlung
 
-19.11  
-Spastikerhilfen (Gymnastik-/Übungsgeräte)
+4.4  
+Infusionsbesteck oder -gerät und Zubehör
 
-19.12  
-Spezialschuhe für Diabetiker, abzüglich eines Eigenanteils von 64 Euro
+4.5  
+Kanülen und Zubehör
 
-19.13  
-Sphinkter-Stimulator
+4.6  
+Klyso
 
-19.14  
-Sprachverstärker nach Kehlkopfresektion
+4.7  
+Spritze
 
-19.15  
+5. Bade- und Duschhilfen
+
+5.1  
+Auftriebshilfe (bei bestehender Schwerbehinderung)
+
+5.2  
+Badestrumpf, Duschstrumpf
+
+5.3  
+Badewannensitz (bei bestehender Schwerbehinderung, Totalendoprothese, Hüftgelenk-Luxations-Gefahr oder Polyarthritis)
+
+5.4  
+Badewannenverkürzer
+
+5.5  
+Duschsitz, Duschstuhl
+
+6. Bandagen
+
+6.1  
+Armtragegurt, Armtragetuch
+
+6.2  
+Beugebandage
+
+6.3  
+Bruchband
+
+6.4  
+Clavicula-Bandage
+
+6.5  
+Ellenbogenbandage
+
+6.6  
+Epicondylitisbandage oder -spange mit Pelotten
+
+6.7  
+Gilchrist-Bandage
+
+6.8  
+Handgelenk-Bandage
+
+6.9  
+Handgelenkriemen
+
+6.10  
+Kniekappe, Kniebandage, Kreuzgelenkbandage
+
+6.11  
+Knöchelstütze, Gelenkstütze
+
+6.12  
+Kreuzstützbandage
+
+6.13  
+Leibbinde, jedoch keine Nieren-, Flanell- und Wärmeleibbinde
+
+6.14  
+Lumbalbandage
+
+6.15  
+Mangoldsche Schnürbandage
+
+6.16  
+Narbenbandage
+
+6.17  
 Spreizfußbandage
 
-19.16  
-Spreizhose/-schale/-wagenaufsatz
+6.18  
+Sprunggelenkbandage
 
-19.17  
-Spritzen
+6.19  
+Sprunggelenkmanschette
 
-19.18  
-Stabilisationsschuhe bei Sprunggelenkschäden, Achillessehnenschäden oder Lähmungszuständen (eine gleichzeitige Versorgung mit Orthesen oder Orthesenschuhen ist ausgeschlossen)
+7. Blindenhilfsmittel
 
-19.19  
-Stehübungsgerät
+7.1  
+Blindenleitgerät (Ultraschallbrille, Ultraschallleitgerät)
 
-19.20  
-Stomaversorgungsartikel, Sphinkter-Plastik
+7.2  
+Blindenführhund (einschließlich Geschirr, Leine, Halsband, Maulkorb, Gespannprüfung)
 
-19.21  
-Strickleiter zum Aufrichten und Übersetzen Gelähmter
+7.3  
+Blindenstock, Blindenlangstock, Blindentaststock
 
-19.22  
-Stubbies
+7.4  
+Farberkennungsgerät
 
-19.23  
-Stumpfschutzhülle
+7.5  
+Irisschale mit geschwärzter Pupille bei entstellenden Veränderungen der Hornhaut eines blinden Auges
 
-19.24  
-Stumpfstrumpf
+7.6  
+Schutzbrille für Blinde
 
-19.25  
-Suspensorium
+8. Gehhilfen
 
-19.26  
-Symphysengürtel
+8.1  
+Delta-Gehrad
 
-20.1  
-Talocrur (Sprunggelenkmanschette nach Dr. Grisar)
+8.2  
+Gehhilfe, Gehübungsgerät
 
-20.2  
-Therapeutische Bewegungsgeräte (nur mit Spasmenschaltung)
+8.3  
+Krankenstock
 
-20.3  
-Therapiestuhl
+8.4  
+Krücke
 
-20.4  
-Tinnitusgerät
+8.5  
+Rollator
 
-20.5  
-Toilettenhilfen bei Schwerbehinderten oder Personen mit Hüfttotalendoprothese
-
-20.6  
-Tracheostomaversorgungsartikel, auch Wasserschutzgerät (Larchel)
-
-20.7  
-Tragegurtsitz
-
-21.1  
-Übertragungsanlagen – zur Befriedung von allgemeinen Grundbedürfnissen des täglichen Lebens zusätzlich zu einem Hörgerät oder einem Cochlea-Implantat oder wenn bei peripherer Normalhörigkeit auf Grund einer auditiven Verarbeitungs- und Wahrnehmungsstörung eine pathologische Einschränkung des Sprachverstehens im Störschall besteht
-
-21.2  
-Übungsschiene
-
-21.3  
-Urinale
-
-21.4  
-Urostomiebeutel
-
-22.1  
-Verbandschuhe (Einzelschuhversorgung)
-
-22.2  
-Vibrationstrainer bei Gehörlosigkeit
-
-23.1  
+8.6  
 Wasserfeste Gehhilfe
 
-23.2  
+9. Hilfsmittel bei Tracheostoma und Laryngektomie
+
+9.1  
+Aquamat (Spezialkanüle für Kehlkopflose)
+
+9.2  
+Billroth-Batist-Lätzchen
+
+9.3  
+Phonator
+
+9.4  
+Tracheostomaversorgungsartikel, auch Wasserschutzgerät
+
+10. Hilfsmittel für die Anwendung am Auge
+
+10.1  
+Augenbadewanne, -dusche, -spülglas, -flasche, -pinsel, -pipette, -stäbchen
+
+10.2  
+Augenklappe, Augenabdeckpflaster
+
+11. Hilfsmittel zum Glukosemanagement
+
+11.1  
+Blutzuckermessgerät
+
+11.2  
+Gerät zur kontinuierlichen Gewebezuckermessung (Continuous Glucose Monitoring – CGM, Flash Glucose Monitoring – FGM) einschließlich Sensoren bei Personen mit Diabetes mellitus sowie bei anderen Erkrankungen mit implizierten häufigen Hypoglykämien/Hypoglykämiewahrnehmungsstörung; daneben sind Aufwendungen für übliche Blutzuckermessgeräte einschließlich der erforderlichen Blutteststreifen beihilfefähig
+
+11.3  
+Hochtontherapiegerät
+
+11.4  
+Insulinapplikationshilfen und Zubehör (Insulindosiergerät, -pumpe, -injektor)
+
+11.5  
+Lanzette zur Insulintherapie
+
+12. Hilfsmittel zum Hautschutz
+
+12.1  
+Manschette als Kratzschutz bei Hautekzem
+
+12.2  
+Neurodermitis-Overall für Personen, die das zwölfte Lebensjahr noch nicht vollendet haben (zwei pro Jahr und bis zu 80 Euro je Overall)
+
+13. Hilfsmittel zur Behandlung von Hüftdysplasie bei Kindern
+
+13.1  
+Pavlik-Bandage
+
+13.2  
+Spreizhose, -schale, -wagenaufsatz
+
+14. Hilfsmittel zur Kompressionstherapie
+
+14.1  
+Krampfaderbinde
+
+14.2  
+Textiles Kompressionshilfsmittel (beispielsweise Kompressionsstrümpfe, -strumpfhose)
+
+14.3  
 Wechseldruckgerät
 
+15. Hörhilfen
+
+15.1  
+Cochlea-Implantate einschließlich Zubehör
+
+15.2  
+Gehörschutz
+
+15.3  
+Hörgeräte (Hinter-dem-Ohr-Geräte \[HdO-Geräte\] sowie In-dem-Ohr-Geräte \[IdO-Geräte\] einschließlich Otoplastik, Taschengeräte, Hörbrillen, Schallsignale überleitende Geräte
+
+\[C.R.O.S.-Geräte, Contralateral Routing of Signals\], drahtlose Hörhilfen), alle fünf Jahre einschließlich der Nebenkosten, es sei denn, aus medizinischen oder technischen Gründen ist eine vorzeitige Verordnung zwingend erforderlich; Aufwendungen sind für Personen ab 15 Jahren auf 1 500 Euro je Ohr begrenzt, gegebenenfalls zuzüglich der Aufwendungen für eine medizinisch indizierte notwendige Fernbedienung; der Höchstbetrag kann überschritten werden, soweit dies erforderlich ist, um eine ausreichende Versorgung bei beidseitiger an Gehörlosigkeit grenzender Schwerhörigkeit oder bei vergleichbar schwerwiegenden Sachverhalten zu gewährleisten
+
+15.4  
+Lichtsignalanlage für Gehörlose und hochgradig Schwerhörige
+
+15.5  
+Rauchwarnmelder für Gehörlose und hochgradig Schwerhörige
+
+15.6  
+Tinnitusgerät
+
+15.7  
+Übertragungsanlage – zur Befriedung von allgemeinen Grundbedürfnissen des täglichen Lebens zusätzlich zu einem Hörgerät oder einem Cochlea-Implantat oder wenn bei peripherer Normalhörigkeit aufgrund einer auditiven Verarbeitungs- und Wahrnehmungsstörung eine pathologische Einschränkung des Sprachverstehens im Störschall besteht
+
+15.8  
+Vibrationstrainer bei Gehörlosigkeit
+
+16. Inhalations- und Atemtherapiegeräte
+
+16.1  
+Atemtherapiegerät
+
+16.2  
+Impulsvibrator
+
+16.3  
+Inhalationsgerät, einschließlich Sauerstoff und Zubehör, jedoch keine Luftbefeuchter, -filter, -wäscher
+
+17. Inkontinenzhilfen
+
+17.1  
+Bettnässer-Weckgerät
+
+17.2  
+Einmal-Schutzhose bei Querschnittsgelähmten
+
+17.3  
+Gummihose sowie saugende körpernah getragene Inkontinenzhilfen (insbesondere Fixierhosen für Inkontinenzvorlagen, saugende Inkontinenzhosen und -vorlagen) bei Blasen- oder Darminkontinenz
+
+17.4  
+Penisklemme
+
+17.5  
+Sphinkter-Stimulator
+
+17.6  
+Urinal
+
+18. Kranken- und Behindertenfahrzeuge
+
+18.1  
+Elektromobil bis 2 500 Euro, ausgenommen Zulassung
+
+18.2  
+Krankenfahrstuhl (auch elektrisch) einschließlich Zubehör
+
+19. Krankenpflegeartikel
+
+19.1  
+Fingerling
+
+19.2  
+Fixiersystem (beispielsweise für Krankenbett und Rollstuhl)
+
+19.3  
+Krankenpflegebett
+
+19.4  
+Kieferspreizgerät, Kiefermuskeltrainer
+
+19.5  
+Mundsperrer
+
+20. Lagerungshilfen und Hilfsmittel gegen Dekubitus
+
+20.1  
+Abduktionskissen, -keil
+
+20.2  
+Dekubitus-Schutzmittel (beispielsweise Auf- oder Unterlagen für das Bett, Spezialmatratzen, Keile, Kissen, Auf- oder Unterlagen für den Rollstuhl, Schützer für Ellenbogen, Unterschenkel und Füße)
+
+20.3  
+Gipsbett, Liegeschale
+
+21. Messgeräte für Körperzustände und -funktionen
+
+21.1  
+Alarmgerät für Personen mit Epilepsie
+
+21.2  
+Blutdruckmessgerät
+
+21.3  
+Blutgerinnungsmessgerät (bei erforderlicher Dauerantikoagulation oder künstlichen Herzklappenersatz)
+
+21.4  
+Herz-Atmungs-Überwachungsgerät oder -monitor
+
+21.5  
+Peak-Flow-Meter
+
+22. Mobilitätshilfen
+
+22.1  
+Auffahrrampe für einen Krankenfahrstuhl
+
+22.2  
+Aufrichteschlaufe
+
+22.3  
+Aufrichtstuhl (für Aufrichtfunktion sind bis zu 150 Euro beihilfefähig)
+
+22.4  
+Aufstehgestelle
+
+22.5  
+Behinderten-Dreirad
+
+22.6  
+Drehscheibe, Umsetzhilfe
+
+22.7  
+Hebekissen
+
+22.8  
+Katapultsitz
+
+22.9  
+Lifter (beispielsweise Krankenlifter, Multilift, Badhelfer, Krankenheber, Badewannenlifter)
+
+22.10  
+Rollbrett
+
+22.11  
+Rutschbrett
+
+23. Orthesen und Schienen
+
+23.1  
+Fingerschiene
+
+23.2  
+Halskrawatte, Hals-, Kopf-, Kinnstütze
+
+23.3  
+Klumpfußschiene
+
+23.4  
+Klumphandschiene
+
+23.5  
+Orthese, Orthoprothese, Korrekturschiene, Korsett, Haltemanschette
+
+23.6  
+Peronaeusschiene, Heidelberger Winkel
+
+23.7  
+Quengelschiene
+
+23.8  
+Suspensorium
+
+23.9  
+Symphysengürtel
+
+24. Prothesen
+
 24.1  
-(frei)
+Kniepolster, -rutscher bei Unterschenkelamputation
+
+24.2  
+Körperersatzstücke einschließlich Zubehör, abzüglich eines Eigenanteils von 15 Euro für Brustprothesenhalter und 40 Euro für Badeanzüge, Bodys oder Korseletts für Brustprothesenträgerinnen
+
+24.3  
+Stubbies
+
+24.4  
+Stumpfstrumpf
+
+25. Schuhe und Einlagen
 
 25.1  
-(frei)
+Einlagen, orthopädische, einschließlich der zur Anpassung notwendigen Ganganalyse
+
+25.2  
+Fersenschutz (Kissen, Polster, Schale, Schoner)
+
+25.3  
+Fußteil-Entlastungsschuh (Einzelschuhversorgung)
+
+25.4  
+Gehgipsgalosche
+
+25.5  
+Innenschuh, orthopädischer
+
+25.6  
+Korrektursicherungsschuh
+
+25.7  
+Maßschuhe, orthopädische, die nicht serienmäßig herstellbar sind, abzüglich eines Eigenanteils von 64 Euro:
+
+25.7.1  
+Badeschuhe (Erstausstattung ein Paar, Ersatzbeschaffung regelmäßig frühestens nach vier Jahren)
+
+25.7.2  
+Hausschuhe (Erstausstattung zwei Paar, Ersatzbeschaffung regelmäßig frühestens nach zwei Jahren)
+
+25.7.3  
+Interimsschuhe (wegen vorübergehender Versorgung entfällt der Eigenanteil von 64 Euro)
+
+25.7.4  
+Sportschuhe (Erstausstattung ein Paar, Ersatzbeschaffung regelmäßig frühestens nach zwei Jahren)
+
+25.7.5  
+Straßenschuhe (Erstausstattung zwei Paar, Ersatzbeschaffung regelmäßig frühestens nach zwei Jahren)
+
+25.8  
+Orthesenschuhe, abzüglich eines Eigenanteils von 64 Euro
+
+25.9  
+Orthopädische Zurichtungen an Konfektionsschuhen (höchstens sechs Paar Schuhe pro Jahr)
+
+25.10  
+Spezialschuhe für Personen mit Diabetes mellitus, abzüglich eines Eigenanteils von 64 Euro
+
+25.11  
+Stabilisationsschuhe bei Sprunggelenkschäden, Achillessehnenschäden oder Lähmungszuständen (eine gleichzeitige Versorgung mit Orthesen oder Orthesenschuhen ist ausgeschlossen)
+
+25.12  
+Verbandsschuhe (Einzelschuhversorgung)
+
+26. Sitz- und Stehhilfen
 
 26.1  
-Zyklomat-Hormon-Pumpe.
+Arthrodesensitzkissen, -sitzkoffer
+
+26.2  
+Schrägliegebrett
+
+26.3  
+Sitzkissen für Oberschenkelamputierte
+
+26.4  
+Sitzschale, wenn Sitzkorsett nicht ausreicht
+
+26.5  
+Strickleiter zum Aufrichten und Übersetzen Gelähmter
+
+26.6  
+Therapiestuhl
+
+27. Sprechhilfen
+
+27.1  
+Lispelsonde
+
+27.2  
+Sprachverstärker nach Kehlkopfresektion
+
+28. Stomaartikel
+
+28.1  
+Stomaversorgungsartikel, Sphinkter-Plastik
+
+28.2  
+Urostomiebeutel
+
+28.3  
+Vorfallbandage bei Mastdarm- oder Scheidenvorfall
+
+29. Therapeutische Hilfsmittel zur Mobilisation
+
+29.1  
+Bewegungsschiene
+
+29.2  
+Knetmaterial für Übungszwecke bei cerebral-paretischen Kindern
+
+29.3  
+Krabbler für Personen mit Spastik
+
+29.4  
+Spastikerhilfe (Gymnastik-, Übungsgeräte)
+
+29.5  
+Stehübungsgerät
+
+29.6  
+Therapeutisches Bewegungsgerät (nur mit Spasmenschaltung)
+
+30. Toilettenhilfen
+
+30.1  
+Hilfsmittel zur Toilettenverrichtung bei Schwerbehinderung oder Personen mit Hüfttotalendoprothese
+
+30.2  
+Klosett-Matratze für den häuslichen Bereich bei dauernder Bettlägerigkeit und bestehender Inkontinenz
+
+31. Sonstige Hilfsmittel
+
+31.1  
+Anpassungen für diverse Gebrauchsgegenstände (beispielweise Universalhalter bei Schwerbehinderung zur Erleichterung der Körperpflege und Nahrungsaufnahme)
+
+31.2  
+Bestrahlungsmaske für amblulante Strahlentherapie
+
+31.3  
+Communicator bei Sprech- oder Sprachstörungen
+
+31.4  
+Computerspezialausstattung bei Behinderung; Spezialhardware und Spezialsoftware bis zu 3 500 Euro, gegebenenfalls zuzüglich bis zu 5 400 Euro für eine Braillezeile mit 40 Modulen
+
+31.5  
+Gesichtsteilersatzstücke (Ektoprothese, Epithese)
+
+31.6  
+Heimdialysegerät
+
+31.7  
+Psoriasiskamm
+
+31.8  
+Schlafpositionsgerät zur Lagetherapie bei positionsabhängiger obstuktiver Schlafapnoe (eine gleichzeitige Versorgung mit einem Atemtherapiegerät ist ausgeschlossen)
+
+31.9  
+Schutzhelm bei Behinderung, Kopfschützer
 
 Aufwendungen für ärztlich verordnete Voll- oder Teilperücken einschließlich Befestigungselementen wie Klebestreifen und Spangen sowie Materialien zur Befestigung sind bis zu einem Betrag von 512 Euro beihilfefähig, wenn, vorübergehend oder langfristig, großflächiger und massiver Haarverlust wegen einer Krankheit oder im Zusammenhang mit einer Krankheit vorliegt, insbesondere bei:
 
@@ -4718,7 +4811,7 @@ c) Aufwendungen für ein ergänzendes Training an Blindenleitgeräten können in
 
 4. Aufwendungen für ärztlich verordnete elektronische Systeme zur Informationsverarbeitung und Informationsausgabe für Blinde sind beihilfefähig.
 
-1. Voraussetzung für die Beihilfefähigkeit der Aufwendungen für die erstmalige Beschaffung einer Sehhilfe ist, dass diese von einer Augenärztin oder einem Augenarzt verordnet worden ist. Bei der Ersatzbeschaffung genügt die Refraktionsbestimmung von einer Augenoptikerin oder einem Augenoptiker; die Aufwendungen hierfür sind bis zu 13 Euro beihilfefähig.
+1. Voraussetzung für die Beihilfefähigkeit der Aufwendungen für die erstmalige Beschaffung einer Sehhilfe ist, dass diese von einer Augenärztin oder einem Augenarzt verordnet worden ist. Bei der Ersatzbeschaffung genügt die Refraktionsbestimmung von einer Augenoptikerin oder einem Augenoptiker.
 
 2. Aufwendungen für erneute Beschaffung einer Sehhilfe sind beihilfefähig, wenn bei gleichbleibendem Visus seit dem Kauf der bisherigen Sehhilfe drei, bei weichen Kontaktlinsen zwei Jahre vergangen sind oder vor Ablauf dieses Zeitraums die erneute Beschaffung der Sehhilfe notwendig ist, weil
 
@@ -4730,176 +4823,39 @@ c) sich die Kopfform geändert hat.
 
 3. Als Sehhilfen zur Verbesserung des Visus sind beihilfefähig:
 
-a) Brillengläser,
+a) Brillen,
 
 b) Kontaktlinsen,
 
 c) vergrößernde Sehhilfen.
 
-4. Bei Personen, die der Vollzeitschulpflicht unterliegen, sind Aufwendungen für eine Brille beihilfefähig, wenn sie für die Teilnahme am Schulsport erforderlich ist. Die Höhe der beihilfefähigen Aufwendungen richtet sich nach dem Unterabschnitt 2 Nummer 1 und 2; für die Brillenfassung sind Aufwendungen bis zu 52 Euro beihilfefähig.
+4. Bei Personen, die der Vollzeitschulpflicht unterliegen, sind Aufwendungen für eine Brille beihilfefähig, wenn sie für die Teilnahme am Schulsport erforderlich ist. Die Höhe der beihilfefähigen Aufwendungen richtet sich nach dem Unterabschnitt 2.
 
-1. Aufwendungen für Brillengläser sind bis zu folgenden Höchstbeträgen beihilfefähig:
+1. Aufwendungen für Brillen, einschließlich der Refraktionsbestimmung von einer Augenoptikerin oder einem Augenoptiker, sind bis zu folgenden Höchstbeträgen beihilfefähig:
 
-a) für vergütete Gläser mit Gläserstärken bis +/–6 Dioptrien (dpt):
+a) |                               |           |
+|:------------------------------|----------:|
+| Brillen mit Einstärkengläsern | 110 Euro, |
 
-aa)  
-Einstärkengläser:
+b) |                                |           |
+|:-------------------------------|----------:|
+| Brillen mit Mehrstärkengläsern | 260 Euro. |
 
-aaa)  
-|                          |             |
-|:-------------------------|------------:|
-| für ein sphärisches Glas | 31,00 Euro, |
+2. Nicht beihilfefähig sind Aufwendungen für:
 
-bbb)  
-|                            |             |
-|:---------------------------|------------:|
-| für ein zylindrisches Glas | 41,00 Euro, |
+a) Zurichtungen an der Brille zur Verhinderung von Unfallschäden am Arbeitsplatz oder für den Freizeitbereich,
 
-bb)  
-Mehrstärkengläser:
+b) Bildschirmbrillen,
 
-aaa)  
-|                          |             |
-|:-------------------------|------------:|
-| für ein sphärisches Glas | 72,00 Euro, |
+c) Brillenversicherungen,
 
-bbb)  
-|                            |             |
-|:---------------------------|------------:|
-| für ein zylindrisches Glas | 92,50 Euro, |
+d) Zweitbrillen, deren Korrektionsstärke bereits der einer vorhandenen Brille entspricht (Mehrfachverordnung),
 
-b) |                                                                        |             |
-|:-----------------------------------------------------------------------|------------:|
-| für vergütete Gläser mit Gläserstärken über +/–6 dpt zuzüglich je Glas | 21,00 Euro, |
+e) Reservebrillen, die beispielsweise aus Gründen der Verkehrssicherheit benötigt werden,
 
-c) |                                                         |             |
-|:--------------------------------------------------------|------------:|
-| für Dreistufen- oder Multifokalgläser zuzüglich je Glas | 21,00 Euro, |
+f) Sportbrillen, außer im Fall des Unterabschnitts 1 Nummer 4,
 
-d) |                                                        |             |
-|:-------------------------------------------------------|------------:|
-| für Gläser mit prismatischer Wirkung zuzüglich je Glas | 21,00 Euro. |
-
-2. Zusätzlich zu den Aufwendungen nach Nummer 1 sind Mehraufwendungen für Kunststoff-, Leicht- und Lichtschutzgläser bei den jeweils genannten Indikationen bis zu folgenden Höchstbeträgen beihilfefähig:
-
-a) <table width="100%" style="border: none;">
-<tbody data-valign="top">
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">für Kunststoffgläser und hochbrechende mineralische Gläser (Leichtgläser) zuzüglich<br />
-je Glas</td>
-<td style="text-align: right;" data-valign="bottom" data-charoff="50">21,00 Euro,
-<dl>
-<dt>aa)</dt>
-<dd>
-für Gläserstärken ab +6/–8 dpt,
-</dd>
-<dt>bb)</dt>
-<dd>
-für Anisometropien ab 2 dpt,
-</dd>
-<dt>cc)</dt>
-<dd>
-unabhängig von der Gläserstärke
-<dl>
-<dt>aaa)</dt>
-<dd>
-für Personen, die das 14. Lebensjahr noch nicht vollendet haben,
-</dd>
-<dt>bbb)</dt>
-<dd>
-für Personen mit chronischem Druckekzem der Nase, mit Fehlbildungen oder Missbildungen des Gesichts, insbesondere im Nasen- und Ohrenbereich, wenn trotz optimaler Anpassung unter Verwendung von Silikatgläsern ein befriedigender Sitz der Brille nicht gewährleistet ist,
-</dd>
-<dt>ccc)</dt>
-<dd>
-für Brillen, die im Rahmen der Vollzeitschulpflicht für die Teilnahme am Schulsport erforderlich sind,
-</dd>
-</dl>
-</dd>
-</dl></td>
-</tr>
-</tbody>
-</table>
-
-b) <table width="100%" style="border: none;">
-<tbody data-valign="top">
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">für Lichtschutzgläser oder fototrope Gläser zuzüglich je Glas</td>
-<td style="text-align: right;" data-valign="bottom" data-charoff="50">11,00 Euro,
-<dl>
-<dt>aa)</dt>
-<dd>
-bei umschriebenen Transparenzverlusten (Trübungen) im Bereich der brechenden Medien, die zu Lichtstreuungen führen (zum Beispiel Hornhautnarben, Linsentrübungen, Glaskörpertrübungen),
-</dd>
-<dt>bb)</dt>
-<dd>
-bei krankhaften, andauernden Pupillenerweiterungen,
-</dd>
-<dt>cc)</dt>
-<dd>
-bei Fortfall der Pupillenverengung (zum Beispiel absolute oder reflektorische Pupillenstarre, Adie-Kehrer-Syndrom),
-</dd>
-<dt>dd)</dt>
-<dd>
-bei chronisch-rezidivierenden Reizzuständen der vorderen und mittleren Augenabschnitte, die medikamentös nicht behebbar sind (zum Beispiel Keratoconjunctivitis, Iritis, Cyclitis),
-</dd>
-<dt>ee)</dt>
-<dd>
-bei entstellenden Veränderungen im Bereich der Lider und ihrer Umgebung (zum Beispiel Lidkolobom, Lagophthalmus, Narbenzug) und Behinderung des Tränenflusses,
-</dd>
-<dt>ff)</dt>
-<dd>
-bei Ciliarneuralgie,
-</dd>
-<dt>gg)</dt>
-<dd>
-bei Blendung auf Grund entzündlicher oder degenerativer Erkrankungen der Netzhaut, der Aderhaut oder der Sehnerven,
-</dd>
-<dt>hh)</dt>
-<dd>
-bei totaler Farbenblindheit,
-</dd>
-<dt>ii)</dt>
-<dd>
-bei unerträglichen Blendungserscheinungen bei praktischer Blindheit,
-</dd>
-<dt>jj)</dt>
-<dd>
-bei intrakraniellen Erkrankungen, bei denen nach ärztlicher Erfahrung eine pathologische Lichtempfindlichkeit besteht (zum Beispiel Hirnverletzungen, Hirntumoren),
-</dd>
-<dt>kk)</dt>
-<dd>
-bei Gläserstärken ab +10 dpt wegen Vergrößerung der Eintrittspupille.
-</dd>
-</dl></td>
-</tr>
-</tbody>
-</table>
-
-3. Nicht beihilfefähig sind Aufwendungen für:
-
-a) hochbrechende Lentikulargläser,
-
-b) entspiegelte Gläser,
-
-c) polarisierende Gläser,
-
-d) Gläser mit härtender Oberflächenbeschichtung,
-
-e) Gläser und Zurichtungen an der Brille zur Verhinderung von Unfallschäden am Arbeitsplatz oder für den Freizeitbereich,
-
-f) Bildschirmbrillen,
-
-g) Brillenversicherungen,
-
-h) Gläser für eine sogenannte Zweitbrille, deren Korrektionsstärken bereits den vorhandenen Gläsern entsprechen (Mehrfachverordnung),
-
-i) Gläser für eine sogenannte Reservebrille, die zum Beispiel aus Gründen der Verkehrssicherheit benötigt werden,
-
-j) Gläser für Sportbrillen, außer im Fall des Unterabschnitts 1 Nummer 4,
-
-k) Brillenetuis,
-
-l) Brillenfassungen, außer im Fall des Unterabschnitts 1 Nummer 4.
+g) Brillenetuis.
 
 1. Aufwendungen für Kontaktlinsen zur Verbesserung des Visus sind beihilfefähig bei:
 
@@ -4929,9 +4885,9 @@ b) für torische Kontaktlinsen bis zu 230 Euro.
 
 3. Beihilfefähig sind
 
-a) bei Vorliegen einer Indikation nach Nummer 1 zusätzlich Aufwendungen für Brillengläser nach Unterabschnitt 2 ungeachtet von Unterabschnitt 1 Nummer 2,
+a) bei Vorliegen einer Indikation nach Nummer 1 zusätzlich Aufwendungen für Brillen nach Unterabschnitt 2 ungeachtet von Unterabschnitt 1 Nummer 2,
 
-b) bei Nichtvorliegen einer Indikation nach Nummer 1 einmalig nur die vergleichbaren Kosten für Brillengläser; im Falle einer Ersatzbeschaffung gelten die Regelungen nach Unterabschnitt 1 Nummer 2 Buchstabe a und b.
+b) bei Nichtvorliegen einer Indikation nach Nummer 1 einmalig nur die vergleichbaren Kosten für Brillen; im Falle einer Ersatzbeschaffung gelten die Regelungen nach Unterabschnitt 1 Nummer 2 Buchstabe a und b.
 
 4. Nicht beihilfefähig sind:
 
@@ -4972,12 +4928,10 @@ c) Fresnellinsen.
 a) Glas mit Lichtschutz mit einer Transmission bis 75 Prozent bei
 
 aa)  
-Substanzverlusten der Iris, die den Blendschutz herabsetzen (zum Beispiel Iriskolobom, Aniridie, traumatische Mydriasis, Iridodialyse),
+Substanzverlusten der Iris, die den Blendschutz herabsetzen (beispielsweise Iriskolobom, Aniridie, traumatische Mydriasis, Iridodialyse),
 
 bb)  
-Albinismus.
-
-Ist beim Lichtschutzglas zusätzlich ein Refraktionsausgleich erforderlich, so sind die Aufwendungen für die entsprechenden Gläser nach Unterabschnitt 2 beihilfefähig. Zusätzlich sind die Aufwendungen für einen konfektionierten Seitenschutz beihilfefähig, wenn der Seitenschutz erfolgreich getestet wurde.
+Albinismus;
 
 b) Glas mit Ultraviolett-(UV-)Kantenfilter (400 Nanometer Wellenlänge) bei
 
@@ -4993,11 +4947,9 @@ dd)
 Iriskolobom,
 
 ee)  
-Albinismus.
+Albinismus;
 
-Ist beim Kantenfilterglas zusätzlich ein Refraktionsausgleich und bei Albinismus zudem eine Transmissionsminderung notwendig, so sind die Aufwendungen für die entsprechenden Gläser nach Unterabschnitt 2 beihilfefähig. Zusätzlich sind die Aufwendungen für einen konfektionierten Seitenschutz beihilfefähig, wenn der Seitenschutz erfolgreich getestet wurde.
-
-c) Glas mit Kantenfilter als Bandpassfilter mit einem Transmissionsmaximum bei einer Wellenlänge von 450 Nanometer bei Blauzapfenmonochromasie. Ist beim Kantenfilterglas zusätzlich ein Refraktionsausgleich und gegebenenfalls auch eine Transmissionsminderung notwendig, sind die Aufwendungen für die entsprechenden Gläser nach Unterabschnitt 2 beihilfefähig. Vorbehaltlich einer erfolgreichen Austestung sind zusätzlich die Aufwendungen für einen konfektionierten Seitenschutz beihilfefähig.
+c) Glas mit Kantenfilter als Bandpassfilter mit einem Transmissionsmaximum bei einer Wellenlänge von 450 Nanometer bei Blauzapfenmonochromasie;
 
 d) Glas mit Kantenfilter (Wellenlänge größer als 500 Nanometer) als Langpassfilter zur Vermeidung der Stäbchenbleichung und zur Kontrastanhebung bei
 
@@ -5005,40 +4957,53 @@ aa)
 angeborenem Fehlen von oder angeborenem Mangel an Zapfen in der Netzhaut (Achromatopsie, inkomplette Achromatopsie),
 
 bb)  
-dystrophischen Netzhauterkrankungen (zum Beispiel Zapfendystrophien, Zapfen-StäbchenDystrophien, Stäbchen-Zapfen-Dystrophien, Retinopathia pigmentosa, Chorioidemie),
+dystrophischen Netzhauterkrankungen (beispielsweise Zapfendystrophien, Zapfen-Stäbchen-Dystrophien, Stäbchen-Zapfen-Dystrophien, Retinopathia pigmentosa, Chorioidemie),
 
 cc) Albinismus.
 
-Das Ausmaß der Transmissionsminderung und die Lage der Kanten der Filter sind individuell zu erproben, die subjektive Akzeptanz ist zu überprüfen. Ist beim Kantenfilterglas zusätzlich ein Refraktionsausgleich notwendig, so sind die Aufwendungen für die entsprechenden Gläser nach Unterabschnitt 2 beihilfefähig. Zusätzlich sind die Aufwendungen für einen konfektionierten Seitenschutz beihilfefähig, wenn der Seitenschutz erfolgreich getestet wurde.
+Das Ausmaß der Transmissionsminderung und die Lage der Kanten der Filter sind individuell zu erproben, die subjektive Akzeptanz ist zu überprüfen.
 
-e) Horizontale Prismen in Gläsern  
-ab 3 Prismendioptrien und Folien mit prismatischer Wirkung  
-ab 3 Prismendioptrien (Gesamtkorrektur auf beiden Augen) sowie vertikale Prismen und Folien  
-ab 1 Prismendioptrie, bei
+e) Horizontale Prismen in Gläsern
 
 aa)  
-krankhaften Störungen in der sensorischen und motorischen Zusammenarbeit der Augen mit dem Ziel, Binokularsehen zu ermöglichen und die sensorische Zusammenarbeit der Augen zu verbessern,
+ab 3 Prismendioptrien und Folien mit prismatischer Wirkung,
 
 bb)  
+ab 3 Prismendioptrien (Gesamtkorrektur auf beiden Augen) sowie vertikale Prismen und Folien,
+
+cc) ab 1 Prismendioptrie, bei
+
+aaa)  
+krankhaften Störungen in der sensorischen und motorischen Zusammenarbeit der Augen mit dem Ziel, Binokularsehen zu ermöglichen und die sensorische Zusammenarbeit der Augen zu verbessern,
+
+bbb)  
 Augenmuskelparesen, um Muskelkontrakturen zu beseitigen oder zu verringern.
 
 Voraussetzung für die Beihilfefähigkeit ist, dass die Verordnung auf Grund einer umfassenden augenärztlichen orthoptisch-pleoptischen Diagnostik ausgestellt ist. Verordnungen, die auf Grund isolierter Ergebnisse einer subjektiven Heterophie-Testmethode ausgestellt sind, werden nicht anerkannt.
 
-Bei wechselnder Prismenstärke oder temporärem Einsatz, zum Beispiel prä- oder postoperativ, sind nur die Aufwendungen für Prismenfolien ohne Trägerglas beihilfefähig. Ausgleichsprismen bei übergroßen Brillendurchmessern sowie Höhenausgleichsprismen bei Mehrstärkengläsern sind nicht beihilfefähig.
+Bei wechselnder Prismenstärke oder temporärem Einsatz, beispielsweise prä- oder postoperativ, sind nur die Aufwendungen für Prismenfolien ohne Trägerglas beihilfefähig. Ausgleichsprismen bei übergroßen Brillendurchmessern sowie Höhenausgleichsprismen bei Mehrstärkengläsern sind nicht beihilfefähig.
 
-Ist bei Brillengläsern mit therapeutischen Prismen zusätzlich ein Refraktionsausgleich notwendig, so sind die Aufwendungen der entsprechenden Brillengläser nach Unterabschnitt 2 beihilfefähig.
+f) Kunststoffgläser als Schutzgläser bei
 
-f) Okklusionsschalen oder -linsen bei dauerhaft therapeutisch nicht anders beeinflussbarer Doppelwahrnehmung;
+aa)  
+erheblich sturzgefährdeten Personen, die an Epilepsie oder an Spastiken erkrankt sind,
 
-g) Kunststoff-Bifokalgläser mit besonders großem Nahteil zur Behebung des akkommodativen Schielens bei Personen, die das 18. Lebensjahr noch nicht vollendet haben;
+bb)  
+funktionell Einäugigen (bestkorrigierter Visus mindestens eines Auges unter 0,2).
 
-h) Okklusionspflaster und -folien als Amblyopietherapeutika, nachrangig Okklusionskapseln;
+Kontaktlinsen sind bei dieser Indikation nicht beihilfefähig.
 
-i) Uhrglasverbände oder konfektionierter Seitenschutz bei unvollständigem Lidschluss (zum Beispiel infolge einer Gesichtslähmung) oder bei Zustand nach Keratoplastik, um das Austrocknen der Hornhaut zu vermeiden;
+g) Okklusionsschalen oder -linsen bei dauerhaft therapeutisch nicht anders beeinflussbarer Doppelwahrnehmung;
 
-j) Irislinsen mit durchsichtigem, optisch wirksamem Zentrum bei Substanzverlusten der Iris, die den Blendschutz herabsetzen (zum Beispiel Iriskolobom, Aniridie, traumatische Mydriasis, Iridodialyse oder Albinismus);
+h) Kunststoff-Bifokalgläser mit besonders großem Nahteil zur Behebung des akkommodativen Schielens bei Personen, die das 18. Lebensjahr noch nicht vollendet haben;
 
-k) Verbandlinsen oder -schalen bei oder nach
+i) Okklusionspflaster und -folien als Amblyopietherapeutika, nachrangig Okklusionskapseln;
+
+j) Uhrglasverbände oder konfektionierter Seitenschutz bei unvollständigem Lidschluss (beispielsweise infolge einer Gesichtslähmung) oder bei Zustand nach Keratoplastik, um das Austrocknen der Hornhaut zu vermeiden;
+
+k) Irislinsen mit durchsichtigem, optisch wirksamem Zentrum bei Substanzverlusten der Iris, die den Blendschutz herabsetzen (beispielsweise Iriskolobom, Aniridie, traumatische Mydriasis, Iridodialyse oder Albinismus);
+
+l) Verbandlinsen oder -schalen bei oder nach
 
 aa)  
 Hornhauterosionen oder -epitheldefekten,
@@ -5055,29 +5020,21 @@ ee)
 Keratoplastik,
 
 ff)  
-Hornhautentzündungen und -ulzerationen (zum Beispiel Keratitis bullosa, Keratitis neuroparalytica, Keratitis e lagophtalmo, Keratitis filiformis);
+Hornhautentzündungen und -ulzerationen (beispielsweise Keratitis bullosa, Keratitis neuroparalytica, Keratitis e lagophtalmo, Keratitis filiformis);
 
-l) Kontaktlinsen als Medikamententräger zur kontinuierlichen Medikamentenzufuhr;
+m) Kontaktlinsen als Medikamententräger zur kontinuierlichen Medikamentenzufuhr;
 
-m) Kontaktlinsen
+n) Kontaktlinsen
 
 aa)  
 bei ausgeprägtem, fortgeschrittenem Keratokonus mit keratokonusbedingten pathologischen Hornhautveränderungen und Hornhautradius unter 7 Millimeter zentral oder im Apex,
 
 bb)  
-nach Hornhauttransplantation oder Keratoplastik;
+nach Hornhauttransplantation oder Keratoplastik.
 
-n) Kunststoffgläser als Schutzgläser bei
+2. Ist neben den Aufwendungen für Gläser nach Nummer 1 Buchstaben a bis f zusätzlich ein Refraktionsausgleich erforderlich, sind Aufwendungen für entsprechende Gläser zusätzlich bis zur Höhe der Pauschalen des Unterabschnitts 2 beihilfefähig. Aufwendungen für einen konfektionierten Seitenschutz für Gläser nach Nummer 1 Buchstaben a bis d sind beihilfefähig, wenn der Seitenschutz erfolgreich getestet wurde.
 
-aa)  
-erheblich sturzgefährdeten Personen, die an Epilepsie oder an Spastiken erkrankt sind,
-
-bb)  
-funktionell Einäugigen (bestkorrigierter Visus mindestens eines Auges unter 0,2).
-
-Ist zusätzlich ein Refraktionsausgleich notwendig, sind die Aufwendungen für die entsprechenden Brillengläser nach Unterabschnitt 2 beihilfefähig. Kontaktlinsen sind bei dieser Indikation nicht beihilfefähig.
-
-2. Nicht beihilfefähig sind Aufwendungen für
+3. Nicht beihilfefähig sind Aufwendungen für
 
 a) Kantenfilter bei
 
@@ -5107,7 +5064,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 Nicht zu den beihilfefähigen Hilfsmitteln gehören Gegenstände, die weder notwendig noch wirtschaftlich angemessen (§ 6 Absatz 3) sind, die einen geringen oder umstrittenen therapeutischen Nutzen oder einen geringen Abgabepreis haben (§ 25 Absatz 2) oder die zur allgemeinen Lebenshaltung gehören. Nicht beihilfefähig sind insbesondere folgende Gegenstände:
 
 1.1  
-Adju-Set/-Sano
+Adju-Set, Adju-Sano (vielseitig verwendbarer Stuhl)
 
 1.2  
 Angorawäsche
@@ -5122,61 +5079,58 @@ Aqua-Therapie-Hose
 Arbeitsplatte zum Krankenfahrstuhl
 
 1.6  
-Augenheizkissen
+Assistenzhund (soweit nicht in Anlage 11 aufgeführt)
 
 1.7  
-Autofahrerrückenstütze
+Augenheizkissen
 
 1.8  
-Autokindersitz
+Autofahrerrückenstütze
 
 1.9  
-Autokofferraumlifter
+Autokindersitz
 
 1.10  
+Autokofferraumlifter
+
+1.11  
 Autolifter
 
 2.1  
-Badewannengleitschutz/-kopfstütze/-matte
+Badewannengleitschutz, -kopfstütze, -matte
 
 2.2  
-Bandagen (soweit nicht in Anlage 11 aufgeführt)
+Bandage (soweit nicht in Anlage 11 aufgeführt)
 
 2.3  
-Basalthermometer
+barrierefreie Badewanne, Sitzbadewanne
 
 2.4  
-Bauchgurt
+Basalthermometer sowie sonstige Hilfsmittel und Geräte zur Bestimmung und Kontrolle des Monatszyklus
 
 2.5  
-Bestrahlungsgeräte/-lampen zur Selbstbehandlung, soweit nicht in Anlage 11 aufgeführt
+Bauchgurt
 
 2.6  
-Bett (soweit nicht in Anlage 11 aufgeführt)
+Bestrahlungsgerät, -lampe zur Selbstbehandlung (soweit nicht in Anlage 11 aufgeführt)
 
 2.7  
-Bettbrett/-füllung/-lagerungskissen/-platte/-rost/-stütze
+Bett (soweit nicht in Anlage 11 aufgeführt)
 
 2.8  
-Bett-Tisch
+Bettbrett, -füllung, -lagerungskissen, -platte, -rost, -stütze (soweit nicht in Anlage 11 aufgeführt)
 
 2.9  
-Bidet
+Bett- und Beistelltisch
 
 2.10  
-Bildschirmbrille
+Bidet
 
 2.11  
-Bill-Wanne
+Bildschirmbrille
 
 2.12  
-Blinden-Uhr
-
-2.13  
-(weggefallen)
-
-2.14  
-Brückentisch
+Blindenuhr, sprechende Armbanduhr
 
 3.1  
 (frei)
@@ -5211,59 +5165,38 @@ Elektronic-Muscle-Control (EMC 1000)
 5.9  
 Erektionshilfen
 
-5.10  
-Ergometer
-
-5.11  
-(weggefallen)
-
-5.12  
-Expander
-
 6.1  
 Fieberthermometer
-
-6.2  
-Fußgymnastik-Rolle, Fußwippe (zum Beispiel Venentrainer)
 
 7.1  
 Garage für Krankenfahrzeuge
 
 8.1  
-Handschuhe, es sei denn, sie sind nach Nummer 11.21 der Anlage 11 erforderlich
+Handschuhe, es sei denn, sie sind nach Nummer 18.2 der Anlage 11 erforderlich
 
 8.2  
-Handtrainer
-
-8.3  
 Hängeliege
 
-8.4  
-Hantel (Federhantel)
-
-8.5  
+8.3  
 Hausnotrufsystem
 
-8.6  
+8.4  
 Hautschutzmittel
 
+8.5  
+Heizdecke, -kissen
+
+8.6  
+Hilfsgerät für die Hausarbeit
+
 8.7  
-Heimtrainer
-
-8.8  
-Heizdecke/-kissen
-
-8.9  
-Hilfsgeräte für die Hausarbeit
-
-8.10  
 Höhensonne
 
-8.11  
+8.8  
 Hörkissen
 
-8.12  
-Hörkragen Akusta-Coletta
+8.9  
+Hörkragen
 
 9.1  
 Intraschallgerät (Schallwellengerät)
@@ -5281,38 +5214,35 @@ Ionopront, Permox-Sauerstofferzeuger
 (frei)
 
 11.1  
-Katzenfell
+Klingelleuchte, die nicht von Nummer 15.4 der Anlage 11 erfasst ist
 
 11.2  
-Klingelleuchten, die nicht von Nummer 12.4 der Anlage 11 erfasst sind
-
-11.3  
 Knickfußstrumpf
 
-11.4  
+11.3  
 Knoche Natur-Bruch-Slip
 
+11.4  
+Kommunikationssystem (soweit nicht in Anlage 11 aufgeführt)
+
 11.5  
-Kolorimeter
-
-11.6  
-Kommunikationssystem
-
-11.7  
 Kraftfahrzeug einschließlich behindertengerechter Umrüstung
 
-11.8  
-Krankenunterlagen (saugende Bettschutzeinlagen), es sei denn,
+11.6  
+Krankenunterlage (saugende Bettschutzeinlagen), es sei denn,
 
-a) sie sind zur Sicherung der Behandlung einer Krankheit bei Harn- oder Stuhlinkontinenz erforderlich oder
+a) sie ist zur Sicherung der Behandlung einer Krankheit bei Harn- oder Stuhlinkontinenz erforderlich oder
 
-b) die Teilnahme am gesellschaftlichen Leben wird damit wieder ermöglicht.
+b) die Teilnahme am gesellschaftlichen Leben wird damit wieder ermöglicht
+
+11.7  
+Kreislaufgerät
 
 11.9  
 Kreislaufgerät
 
 12.1  
-Lagerungskissen/-stütze, ausgenommen Nummer 1.1 der Anlage 11
+Lagerungskissen oder -stütze, das beziehungsweise die nicht von Nummer 20.1 der Anlage 11 erfasst ist
 
 12.2  
 Language-Master
@@ -5345,48 +5275,42 @@ Pulsfrequenzmesser
 (frei)
 
 18.1  
-Rotlichtlampe
+Raumluftbefeuchter
 
 18.2  
-Rückentrainer
+Rotlichtlampe
 
 19.1  
 Salbenpinsel
 
 19.2  
-Schlaftherapiegerät
+Schlaftherapiegerät (soweit nicht in Anlage 11 aufgeführt)
 
 19.3  
-Schuhe, soweit nicht in Anlage 11 aufgeführt
+Schuhe (soweit nicht in Anlage 11 aufgeführt)
 
 19.4  
-Spezialsitze
+Spezialsitz
 
 19.5  
 Spirometer
 
 19.6  
-Spranzbruchband
+Sport- und Therapiegerät, beispielsweise Ergometer, Expander, Fußgymnastik-Rolle oder Ähnliches (soweit nicht in Anlage 11 aufgeführt)
 
 19.7  
-Sprossenwand
-
-19.8  
 Sterilisator
 
-19.9  
+19.8  
 Stimmübungssystem für Kehlkopflose
 
+19.9  
+Stockroller, Stockständer
+
 19.10  
-Stockroller
-
-19.11  
-Stockständer
-
-19.12  
 Stufenbett
 
-19.13  
+19.11  
 SUNTRONIC-System (AS 43)
 
 20.1  
@@ -5411,12 +5335,9 @@ Therapeutische Wärme-/Kältesegmente
 Treppenlift, Monolift, Plattformlift
 
 21.1  
-Übungsmatte
-
-21.2  
 Ultraschalltherapiegeräte
 
-21.3  
+21.2  
 Urin-Prüfgerät
 
 22.1  
@@ -5448,253 +5369,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
   
   
 
-# Anlage 14 – (zu § 41 Absatz 3)Früherkennungsprogramm für erblich belastete Personen mit einem erhöhten familiären Brust- oder Eierstockkrebsrisiko
-
-(Fundstelle: BGBl. 2024 I Nr. 92, S. 23 – 24)
-
-Aufwendungen für die Teilnahme am Früherkennungsprogramm für erblich belastete Personen mit einem erhöhten familiären Brust- oder Eierstockkrebsrisiko nach § 41 Absatz 3 sind beihilfefähig, wenn die Maßnahmen in einem der folgenden im Deutschen Konsortium Familiärer Brust- und Eierstockkrebs (FBREK) zusammengeschlossenen universitären Zentren durchgeführt werden:
-
-1. Berlin
-
-Charité – Universitätszentrum Berlin, Brustzentrum
-
-2. Dresden
-
-Medizinische Fakultät der Technischen Universität Dresden
-
-Klinik und Poliklinik für Frauenheilkunde und Geburtshilfe
-
-3. Düsseldorf
-
-Universitätsklinikum Düsseldorf, Frauenklinik, Brustzentrum
-
-4. Erlangen
-
-Universitätsklinikum Erlangen
-
-Familiäres Brust- und Eierstockkrebszentrum
-
-5. Frankfurt
-
-Universitätsklinikum Frankfurt
-
-Klinik für Frauenheilkunde und Geburtshilfe
-
-6. Freiburg
-
-Institut für Humangenetik des Universitätsklinikums Freiburg
-
-7. Göttingen
-
-Universitäts-Medizin Göttingen, Brustzentrum, Gynäkologisches Krebszentrum
-
-8. Greifswald
-
-Institut für Humangenetik der Universitätsmedizin Greifswald
-
-9. Halle
-
-Universitätsklinikum Halle, Klinik und Poliklinik für Gynäkologie
-
-10. Hamburg
-
-Brustzentrum Klinik und Poliklinik für Gynäkologie
-
-Universitätsklinikum Hamburg-Eppendorf
-
-11. Hannover
-
-Institut für Humangenetik, Medizinische Hochschule Hannover
-
-12. Heidelberg
-
-Institut für Humangenetik der Universität Heidelberg
-
-13. Kiel
-
-Klinik für Gynäkologie und Geburtshilfe des Universitätsklinikums Schleswig-Holstein
-
-14. Köln
-
-Zentrum Familiärer Brust- und Eierstockkrebs
-
-15. Leipzig
-
-Institut für Humangenetik der Universität Leipzig
-
-Zentrum für familiären Brust- und Eierstockkrebs
-
-16. Lübeck
-
-Klinik für Frauenheilkunde und Geburtshilfe
-
-Zentrum für Familiären Brust- und Eierstockkrebs
-
-17. Mainz
-
-Zentrum für familiären Brust- und Eierstockkrebs der Universitätsmedizin Mainz, Institut für Humangenetik und Klinik für Frauengesundheit
-
-18. München
-
-Universitätsfrauenklinik der Ludwig-Maximilians-Universität München-Großhadern
-
-Universitätsfrauenklinik der Technischen Universität München am Klinikum rechts der Isar
-
-19. Münster
-
-Institut für Humangenetik der Universität Münster
-
-20. Regensburg
-
-Institut für Humangenetik, Universität Regensburg
-
-21. Tübingen
-
-Universität Tübingen, Institut für Humangenetik
-
-22. Ulm
-
-Frauenklinik und Poliklinik der Universität Ulm
-
-23. Würzburg
-
-Institut für Humangenetik der Universität Würzburg.
-
-Beihilfefähig sind Aufwendungen für die Maßnahmen des Früherkennungsprogrammes in Höhe der nachstehenden Pauschalen:
-
-1. Risikofeststellung, Aufklärung und interdisziplinäre Beratung
-
-a) 900 Euro pro Familie für eine einmalige Risikofeststellung mit einer Aufklärung sowie einer interdisziplinären Erstberatung, einer Stammbaumerfassung und der Mitteilung des Genbefundes; die Pauschale umfasst auch die Beratung weiterer Familienmitglieder,
-
-b) bei Aufklärung zur diagnostischen genetischen Untersuchung durch einen Kooperationspartner der in Abschnitt 1 dieser Anlage genannten Zentren
-
-aa)  
-400 Euro, sofern keine Anschlussbetreuung im kooperierenden FBREK-Zentrum mehr erfolgt, oder
-
-bb)  
-600 Euro, sofern noch eine Anschlussbetreuung im kooperierenden FBREK-Zentrum erfolgt,
-
-c) 113 Euro einmalig für ein Entscheidungscoaching für BRCA1/2-Mutationträgerinnen durch spezialisiert Pflegende.
-
-2. Genetische Untersuchung
-
-a) 3 500 Euro für eine genetische Untersuchung bei einer an Brust- oder Eierstockkrebs erkrankten Person (Indexfall); die genetische Analyse wird bei den Indexfällen durchgeführt; dabei handelt es sich in der Regel um einen diagnostischen Gentest, dessen Kosten der erkrankten Person zugerechnet werden,
-
-b) 250 Euro für einen prädiktiven Gentest; ein prädiktiver Gentest liegt vor, wenn sich aus dem Test keine Therapieoptionen für die Indexperson mehr ableiten lassen, die genetische Analyse also keinen diagnostischen Charakter hat; eine solche Situation ist gesondert durch eine schriftliche oder elektronische ärztliche Stellungnahme zu attestieren; die Kosten einer sich als prädiktiver Gentest darstellenden genetischen Analyse der Indexperson werden der gesunden ratsuchenden Person zugerechnet, oder
-
-c) sofern ratsuchende Personen bis zum Jahr 2015 getestet wurden,
-
-aa)  
-2 600 Euro bei einer erneuten Genpanel-Untersuchung zur Komplettierung der Indextestung oder
-
-bb)  
-920 Euro für eine bioinformatorische Auswertung bei Vorliegen von Daten aus einer Komplementärdiagnostik.
-
-Aufwendungen nach Nummer 2 Buchstabe a bis c sind nicht nebeneinander beihilfefähig.
-
-3. Intensivierte Früherkennungs- und Nachsorgemaßnahmen
-
-a) 672,80 Euro jährlich für intensivierte Früherkennungs- und Nachsorgemaßnahmen oder
-
-b) einmalig 672,80 Euro, sofern wegen des Wegfalls des erhöhten Risikos bei Nichterkrankten die intensivierte Früherkennung beendet wird und im entsprechenden Kalenderjahr noch keine Pauschale nach Buchstabe a erstattet wurde.
+# Anlage 14 – (weggefallen)
 
 # Anlage 14a – (weggefallen)
 
-# Anlage 15 – (zu § 41 Absatz 4)Früherkennungsprogramm für erblich belastete Personen mit einem erhöhten familiären Darmkrebsrisiko
-
-(Fundstelle: BGBl. 2024 I Nr. 92, S. 25 – 26)
-
-Aufwendungen für die Teilnahme am Früherkennungsprogramm für erblich belastete Personen mit einem erhöhten familiären Darmkrebsrisiko nach § 41 Absatz 4 sind beihilfefähig, wenn die Maßnahmen in einem der folgenden im Deutschen Konsortium Familiärer Darmkrebs (Hereditäres Nicht-Polypöses Colorektales Carcinom – HNPCC) zusammengeschlossenen universitären Zentren durchgeführt werden:
-
-1. Berlin
-
-Gastroenterologie, Rheumatologie und Infektiologie der Charité – Universitätsmedizin Berlin, Campus Benjamin Franklin
-
-Medizinische Klinik mit Schwerpunkt Hepatologie und Gastroenterologie der Charité – Universitätsmedizin Berlin, Campus Charité Mitte
-
-2. Bochum
-
-Medizinische Universitätsklinik der Ruhr-Universität Bochum, Knappschaftskrankenhaus
-
-3. Bonn
-
-Institut für Humangenetik des Universitätsklinikums Bonn, Biomedizinisches Zentrum
-
-4. Dresden
-
-Institut für Klinische Genetik des Universitätsklinikums Carl Gustav Carus Dresden, Abteilung Chirurgische Forschung
-
-5. Düsseldorf
-
-Institut für Humangenetik des Universitätsklinikums Düsseldorf
-
-6. Halle (Saale)
-
-Universitätsklinikum Halle (Saale)
-
-7. Hamburg
-
-II\. Medizinische Klinik und Poliklinik des Universitätsklinikums Hamburg
-
-8. Hannover
-
-Institut für Humangenetik der Medizinischen Hochschule Hannover
-
-9. Heidelberg
-
-Pathologisches Institut des Universitätsklinikums Heidelberg, Abteilung für Angewandte Tumorbiologie
-
-10. Leipzig
-
-Klinik und Poliklinik für Onkologie, Gastroenterologie, Hepatologie, Pneumologie und Infektiologie des Universitätsklinikums Leipzig
-
-11. Lübeck
-
-Institut für Pathologie des Universitätsklinikums Schleswig-Holstein, Campus Lübeck
-
-12. Magdeburg
-
-Medizinische Fakultät der Universitätsklinik für Gastroenterologie, Hepatologie und Infektiologie der Otto-von-Guericke–Universität Magdeburg
-
-13. München
-
-Medizinische Klinik und Poliklinik IV der Ludwig-Maximilians-Universität München, Campus Innenstadt
-
-Medizinisch-Genetisches Zentrum
-
-14. Münster
-
-Institut für Humangenetik des Universitätsklinikums Münster
-
-15. Tübingen
-
-Institut für Medizinische Genetik und angewandte Genomik des Universitätsklinikums Tübingen
-
-16. Ulm
-
-Klinik für Innere Medizin I des Universitätsklinikums Ulm.
-
-Beihilfefähig sind Aufwendungen für die Maßnahmen des Früherkennungsprogrammes in Höhe der nachstehenden Pauschalen:
-
-1. Risikofeststellung und interdisziplinäre Beratung
-
-a) einmalig 600 Euro für die erstmalige Risikofeststellung und interdisziplinäre Beratung einschließlich Erhebung des Familienbefundes und Organisation der diagnostischen Abklärung unter der Voraussetzung, dass die revidierten Bethesda-Kriterien in der Familie der ratsuchenden Person erfüllt sind,
-
-b) 300 Euro für jede weitere Beratung einer Person, in deren Familie bereits das Lynch-Syndrom oder Polyposis-Syndrom bekannt ist.
-
-2. Tumorgewebsdiagnostik
-
-500 Euro für die immunhistochemische Untersuchung am Tumorgewebe hinsichtlich der Expression der Mismatch-Reparatur-Gene MLH1, MSH2, MSH6 und PMS sowie gegebenenfalls die Mikrosatellitenanalyse und Testung auf somatische Mutationen im Tumorgewebe; ist die Analyse des Tumorgewebes negativ und das Ergebnis eindeutig, sind Aufwendungen für weitere Untersuchungen auf eine Mutation nicht beihilfefähig.
-
-3. Genetische Analyse (Untersuchung auf Keimbahnmutation)
-
-a) 3 500 Euro für eine genetische Analyse zur Mutationssuche auf eine bis dahin in der Familie nicht identifizierte Keimbahnmutation bei einer an Darmkrebs erkrankten Person (Indexfall) oder bei Vorliegen der Voraussetzungen bei einer ratsuchenden Person (Verdachtsfall), wenn die Einschlusskriterien und möglichst eine abgeschlossene Tumorgewebsdiagnostik, die auf das Vorliegen einer MMR-Mutation hinweist, vorliegen,
-
-b) 350 Euro für die prädiktive oder diagnostische Testung weiterer Personen auf eine in der Familie bekannte Genmutation.
-
-4. Früherkennungsmaßnahmen
-
-540 Euro für eine jährliche endoskopische Untersuchung des Magendarmtraktes einschließlich Biopsien, Polypektomien und Videoendoskopien unter den Voraussetzungen, dass ein Lynch- oder ein Polyposis-Syndrom vorliegt.
+# Anlage 15 – (weggefallen)
 
 # Anlage 16 – (zu § 51a Absatz 2)
 

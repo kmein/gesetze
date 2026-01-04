@@ -503,7 +503,7 @@ Die Vorschriften der Lohnsteuer-Durchführungsverordnung über die Steuerpflicht
 
 # § 8 – Eigenbetrieblich genutzte Grundstücke von untergeordnetem Wert
 
-Eigenbetrieblich genutzte Grundstücksteile brauchen nicht als Betriebsvermögen behandelt zu werden, wenn ihr Wert nicht mehr als ein Fünftel des gemeinen Werts des gesamten Grundstücks und nicht mehr als 20.500 Euro beträgt.
+Eigenbetrieblich genutzte Grundstücksteile brauchen nicht als Betriebsvermögen behandelt zu werden, wenn ihre Größe nicht mehr als 30 Quadratmeter oder ihr Wert nicht mehr als 40 000 Euro beträgt. In diesem Fall dürfen Aufwendungen, die mit dem Grundstücksteil im Zusammenhang stehen, nicht abgezogen werden.
 
 # § 8a – (weggefallen)
 
@@ -787,11 +787,11 @@ b) wenn in dem Gesamtbetrag der Einkünfte Einkünfte aus nichtselbständiger Ar
 
 # § 60 – Unterlagen zur Steuererklärung
 
-(1) ¹Der Steuererklärung ist eine Abschrift der Bilanz, die auf dem Zahlenwerk der Buchführung beruht, im Fall der Eröffnung des Betriebs auch eine Abschrift der Eröffnungsbilanz beizufügen, wenn der Gewinn nach § 4 Abs. 1, § 5 oder § 5a des Gesetzes ermittelt und auf eine elektronische Übermittlung nach § 5b Abs. 2 des Gesetzes verzichtet wird. ²Werden Bücher geführt, die den Grundsätzen der doppelten Buchführung entsprechen, ist eine Gewinn- und Verlustrechnung beizufügen.
+(1) Der Steuererklärung ist eine Abschrift der Bilanz, der Gewinn- und Verlustrechnung jeweils einschließlich der unverdichteten Kontennachweise mit Kontensalden sowie der Anlagenspiegel und das diesem zugrundeliegende Anlagenverzeichnis, im Fall der Eröffnung des Betriebs auch eine Abschrift der Eröffnungsbilanz beizufügen, wenn der Gewinn nach § 4 Absatz 1, § 5 oder § 5a des Einkommensteuergesetzes ermittelt und auf eine elektronische Übermittlung nach § 5b Absatz 2 des Einkommensteuergesetzes verzichtet wird. Dies gilt auch für solche Bilanzen, die für andere steuerliche Zwecke zu erstellen sind.
 
 (2) ¹Enthält die Bilanz Ansätze oder Beträge, die den steuerlichen Vorschriften nicht entsprechen, so sind diese Ansätze oder Beträge durch Zusätze oder Anmerkungen den steuerlichen Vorschriften anzupassen. ²Der Steuerpflichtige kann auch eine den steuerlichen Vorschriften entsprechende Bilanz (Steuerbilanz) beifügen.
 
-(3) ¹Liegt ein Anhang, ein Lagebericht oder ein Prüfungsbericht vor, so ist eine Abschrift der Steuererklärung beizufügen. ²Bei der Gewinnermittlung nach § 5a des Gesetzes ist das besondere Verzeichnis nach § 5a Abs. 4 des Gesetzes der Steuererklärung beizufügen.
+(3) ¹Liegt ein Anhang, ein Lagebericht, ein Prüfungsbericht oder ein Verzeichnis nach § 5 Absatz 1 Satz 2 des Einkommensteuergesetzes vor, so ist eine Abschrift der Steuererklärung beizufügen. ²Bei der Gewinnermittlung nach § 5a des Gesetzes ist das besondere Verzeichnis nach § 5a Abs. 4 des Gesetzes der Steuererklärung beizufügen.
 
 (4) ¹Wird der Gewinn nach § 4 Abs. 3 des Gesetzes durch den Überschuss der Betriebseinnahmen über die Betriebsausgaben ermittelt, ist die Einnahmenüberschussrechnung nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu übermitteln. ²Auf Antrag kann die Finanzbehörde zur Vermeidung unbilliger Härten auf eine elektronische Übermittlung verzichten; in diesem Fall ist der Steuererklärung eine Gewinnermittlung nach amtlich vorgeschriebenem Vordruck beizufügen. ³§ 150 Absatz 8 der Abgabenordnung gilt entsprechend.
 
@@ -841,7 +841,7 @@ f) wissenschaftlich nicht anerkannte Behandlungsmethoden, wie z. B. Frisch- und 
 
 (2) Die zuständigen Gesundheitsbehörden haben auf Verlangen des Steuerpflichtigen die für steuerliche Zwecke erforderlichen Gesundheitszeugnisse, Gutachten oder Bescheinigungen auszustellen.
 
-(3) Für den Nachweis der Anspruchsvoraussetzungen zur behinderungsbedingten Fahrtkostenpauschale sind die Vorschriften des § 65 anzuwenden.
+(3) Für den Nachweis der Zwangsläufigkeit von behinderungsbedingt entstandenen Aufwendungen und der Anspruchsvoraussetzungen zur behinderungsbedingten Fahrtkostenpauschale ist § 65 anzuwenden.
 
 (+++ § 64: Zur Anwendung vgl. § 84 +++)
 
@@ -863,11 +863,11 @@ b) wenn ihm wegen seiner Behinderung nach den gesetzlichen Vorschriften Renten o
 
 (3) ¹Die Gewährung des Behinderten-Pauschbetrags setzt voraus, dass der Antragsteller Inhaber gültiger Unterlagen nach den Absätzen 1 und 2 ist. ²Bei erstmaliger Geltendmachung des Pauschbetrags oder bei Änderung der Verhältnisse hat der Steuerpflichtige die Unterlagen nach den Absätzen 1 und 2 zusammen mit seiner Steuererklärung oder seinem Antrag auf Lohnsteuerermäßigung, ansonsten auf Anforderung des Finanzamts vorzulegen.
 
-(3a) ¹Die Gewährung des Behinderten-Pauschbetrags setzt voraus, dass die für die Feststellung einer Behinderung zuständige Stelle als mitteilungspflichtige Stelle ihre Feststellungen zur Behinderung nach den Absätzen 1 und 2 nach Maßgabe des § 93c der Abgabenordnung an die für die Besteuerung des Antragstellers zuständige Finanzbehörde übermittelt hat. ²Die nach Satz 1 mitteilungspflichtige Stelle hat ihre Feststellungen auf schriftlichen oder elektronischen Antrag derjenigen Person, die diese Feststellungen begehrt, an die nach Satz 1 zuständige Finanzbehörde zu übermitteln. ³Die Person hat der mitteilungspflichtigen Stelle zu diesem Zweck ihre Identifikationsnummer (§ 139b der Abgabenordnung) mitzuteilen. ⁴Neben den nach § 93c Absatz 1 der Abgabenordnung zu übermittelnden Daten sind zusätzlich folgende Daten zu übermitteln:
+(3a) ¹Die Berücksichtigung des Behinderten-Pauschbetrags aufgrund der nach § 152 Absatz 1 des Neunten Buches Sozialgesetzbuch festgestellten Behinderung setzt voraus, dass die für die Feststellung einer Behinderung zuständige Stelle als mitteilungspflichtige Stelle ihre Feststellungen zur Behinderung nach den Absätzen 1 und 2 auf Antrag der Person, für die die Feststellungen getroffen werden (betroffene Person), nach Maßgabe des § 93c der Abgabenordnung an die für die Besteuerung der betroffenen Person zuständige Finanzbehörde übermittelt hat. ²Satz 1 gilt auch, wenn die Feststellung einer Behinderung nach den Absätzen 1 und 2 geändert wird. ³Abweichend von § 93c Absatz 1 Nummer 1 der Abgabenordnung hat die mitteilungspflichtige Stelle ihre Feststellungen zur Behinderung nach den Absätzen 1 und 2 unverzüglich zu übermitteln. ⁴Neben den nach § 93c Absatz 1 der Abgabenordnung zu übermittelnden Daten sind zusätzlich folgende Daten zu übermitteln:
 
-1. der Grad der Behinderung,
+1. der Grad der Behinderung
 
-2. die Feststellung weiterer gesundheitlicher Merkmale (Merkzeichen):
+2. die Feststellung weiterer gesundheitlicher Merkmale, die mit den folgenden Merkzeichen gekennzeichnet sind:
 
 a) G (erheblich gehbehindert),
 
@@ -879,17 +879,15 @@ d) H (hilflos),
 
 e) Bl (blind),
 
-f) Gl (gehörlos),
+f) TBl (taubblind),
 
-3. die Feststellung, dass die Behinderung zu einer dauernden Einbuße der körperlichen Beweglichkeit geführt hat,
+3. das Datum des Eingangs des Antrags auf Feststellung einer Behinderung,
 
-4. die Feststellung, dass die Behinderung auf einer typischen Berufskrankheit beruht,
+4. das Datum des Bescheides über die jeweilige Feststellung einer Behinderung,
 
-5. die Einstufung als pflegebedürftige Person mit schwersten Beeinträchtigungen der Selbständigkeit oder der Fähigkeiten in den Pflegegraden 4 oder 5,
+5. die Dauer der Gültigkeit der jeweiligen Feststellung einer Behinderung nach Nummer 1 und 2.
 
-6. die Dauer der Gültigkeit der Feststellung.
-
-⁵Die mitteilungspflichtige Stelle hat jede Änderung der Feststellungen nach Satz 4 abweichend von § 93c Absatz 1 Nummer 1 der Abgabenordnung unverzüglich zu übermitteln. ⁶§ 72a Absatz 4, § 93c Absatz 1 Nummer 3 und Absatz 4 sowie § 203a der Abgabenordnung finden keine Anwendung.
+⁵Die betroffene Person hat der mitteilungspflichtigen Stelle zu diesem Zweck ihre Identifikationsnummer (§ 139b der Abgabenordnung) mitzuteilen. ⁶Ist in Härtefällen der mitteilungspflichtigen Stelle die Identifikationsnummer nicht bekannt, kann sie diese beim Bundeszentralamt für Steuern anfragen. ⁷In der Anfrage dürfen nur die in § 139b Absatz 3 der Abgabenordnung genannten Daten der betroffenen Person angegeben werden, die der mitteilungspflichtigen Stelle bekannt sind. ⁸Das Bundeszentralamt für Steuern teilt der mitteilungspflichtigen Stelle die Identifikationsnummer mit, sofern die übermittelten Daten mit den nach § 139b Absatz 3 der Abgabenordnung beim Bundeszentralamt für Steuern gespeicherten Daten übereinstimmen. ⁹Die mitteilungspflichtige Stelle darf die Identifikationsnummer nur verarbeiten, soweit dies für die Erfüllung der Übermittlung erforderlich ist. ¹⁰§ 72a Absatz 4, § 93c Absatz 1 Nummer 3 und Absatz 4 sowie § 203a der Abgabenordnung finden keine Anwendung. ¹¹Die betroffene Person kann ihren Antrag nach Satz 1 gegenüber der mitteilungspflichtigen Stelle mit Wirkung für die Zukunft widerrufen; die mitteilungspflichtige Stelle hat dies der für die Besteuerung der betroffenen Person zuständigen Finanzbehörde nach Maßgabe des § 93c der Abgabenordnung unter Angabe des Datums des Eingangs des Widerrufs unverzüglich mitzuteilen. ¹²Ab dem Veranlagungszeitraum, der dem Veranlagungszeitraum des Widerrufs folgt, liegen die Voraussetzungen zur Berücksichtigung des Behinderten-Pauschbetrags nicht mehr vor.
 
 (4) ¹Ist der Mensch mit Behinderungen verstorben und kann sein Rechtsnachfolger die Unterlagen nach den Absätzen 1 und 2 nicht vorlegen, so genügt zum Nachweis eine gutachtliche Stellungnahme der nach § 152 Absatz 1 des Neunten Buches Sozialgesetzbuch zuständigen Behörde. ²Diese Stellungnahme hat die Finanzbehörde einzuholen.
 
@@ -989,9 +987,11 @@ bei Zahlung, Verrechnung oder Gutschrift der Vorschüsse.
 
 ¹Der Schuldner hat die innerhalb eines Kalendervierteljahrs einbehaltene Steuer von Vergütungen im Sinne des § 50a Absatz 1 des Gesetzes unter der Bezeichnung „Steuerabzug von Vergütungen im Sinne des § 50a Absatz 1 des Einkommensteuergesetzes“ jeweils bis zum zehnten des dem Kalendervierteljahr folgenden Monats an das Bundeszentralamt für Steuern abzuführen. ²Bis zum gleichen Zeitpunkt hat der Schuldner dem Bundeszentralamt für Steuern eine Steueranmeldung über den Gläubiger, die Höhe der Vergütungen im Sinne des § 50a Absatz 1 des Gesetzes, die Höhe und Art der von der Bemessungsgrundlage des Steuerabzugs abgezogenen Betriebsausgaben oder Werbungskosten und die Höhe des Steuerabzugs zu übersenden. ³Satz 2 gilt entsprechend, wenn ein Steuerabzug auf Grund des § 50a Absatz 2 Satz 3 oder Absatz 4 Satz 1 des Gesetzes nicht vorzunehmen ist oder auf Grund des § 50c Absatz 2 des Gesetzes nicht oder nicht in voller Höhe vorzunehmen ist. ⁴Die Steueranmeldung ist nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu übermitteln. ⁵Auf Antrag kann das Bundeszentralamt für Steuern zur Vermeidung unbilliger Härten auf eine elektronische Übermittlung verzichten; in diesem Fall ist die Steueranmeldung vom Schuldner oder von einem zu seiner Vertretung Berechtigten zu unterschreiben. ⁶Ist es zweifelhaft, ob der Gläubiger beschränkt oder unbeschränkt steuerpflichtig ist, so darf der Schuldner die Einbehaltung der Steuer nur dann unterlassen, wenn der Gläubiger durch eine Bescheinigung des nach den abgabenrechtlichen Vorschriften für die Besteuerung seines Einkommens zuständigen Finanzamts nachweist, dass er unbeschränkt steuerpflichtig ist. ⁷Die Sätze 1, 2, 4 und 5 gelten entsprechend für die Steuer nach § 50a Absatz 7 des Gesetzes mit der Maßgabe, dass
 
-1. die Steuer an das Finanzamt abzuführen und bei dem Finanzamt anzumelden ist, das den Steuerabzug angeordnet hat, und
+1. die Steuer an das Finanzamt abzuführen und bei dem Finanzamt anzumelden ist, das den Steuerabzug angeordnet hat,
 
-2. bei entsprechender Anordnung die innerhalb eines Monats einbehaltene Steuer jeweils bis zum zehnten des Folgemonats anzumelden und abzuführen ist.
+2. bei entsprechender Anordnung die innerhalb eines Monats einbehaltene Steuer jeweils bis zum zehnten des Folgemonats anzumelden und abzuführen ist und
+
+3. der Schuldner bei Anordnung des Steuerabzugs für Einkünfte im Sinne des § 49 Absatz 1 Nummer 7 und 10 des Einkommensteuergesetzes berechtigt ist, ohne die Angaben im Sinne des Satzes 2 die Höhe der Steuerabzüge für mehrere Gläubiger in einer Summe anzumelden (Sammelanmeldung).
 
 (+++ § 73e: Zur Anwendung vgl. § 84 +++)
 
@@ -1146,6 +1146,8 @@ an Stelle der nach § 7 Absatz 4, 5 oder 5a oder § 7b des Gesetzes zu bemessend
 
 (1c) Die §§ 8 und 8a der Einkommensteuer-Durchführungsverordnung 1986 in der Fassung der Bekanntmachung vom 24. Juli 1986 (BGBl. I S. 1239) sind letztmals für das Wirtschaftsjahr anzuwenden, das vor dem 1. Januar 1990 endet.
 
+(1d) § 8 Satz 1 in der am 30. Dezember 2025 geltenden Fassung ist in allen offenen Fällen anzuwenden. § 8 Satz 2 in der am 30. Dezember 2025 geltenden Fassung ist erstmals für Wirtschaftsjahre anzuwenden, die nach dem 31. Dezember 2025 beginnen.
+
 (2) § 8c Absatz 2 Satz 1 in der Fassung des Artikels 1 der Verordnung vom 25. Juni 2020 (BGBl. I S. 1495) kann erstmals für Wirtschaftsjahre angewendet werden, die nach dem 31. Dezember 2018 beginnen.
 
 (2a) § 11c Abs. 2 Satz 3 ist erstmals für das nach dem 31. Dezember 1998 endende Wirtschaftsjahr anzuwenden.
@@ -1168,15 +1170,17 @@ an Stelle der nach § 7 Absatz 4, 5 oder 5a oder § 7b des Gesetzes zu bemessend
 
 (3e) § 60 Abs. 1 und 4 in der Fassung des Artikels 2 des Gesetzes vom 20. Dezember 2008 (BGBl. I S. 2850) ist erstmals für Wirtschaftsjahre (Gewinnermittlungszeiträume) anzuwenden, die nach dem 31. Dezember 2010 beginnen.
 
-(3f) § 62d Abs. 2 Satz 2 in der Fassung des Artikels 2 des Gesetzes vom 22. Dezember 2003 (BGBl. I S. 2840) ist erstmals auf Verluste anzuwenden, die aus dem Veranlagungszeitraum 2004 in den Veranlagungszeitraum 2003 zurückgetragen werden.
+(3f) § 60 Absatz 1 Satz 1 in der am 30. Dezember 2025 geltenden Fassung ist, soweit er sich auf die Übermittlung des Anlagenverzeichnisses bezieht, erstmals auf Wirtschaftsjahre anzuwenden, die nach dem 31. Dezember 2027 beginnen.
 
-(3g) ¹§ 65 Absatz 1 in der Fassung des Artikels 10 des Gesetzes vom 2. Juni 2021 (BGBl. I S. 1259) ist erstmals für den Veranlagungszeitraum 2021 anzuwenden. ²§ 65 Absatz 3a ist erstmals für den Veranlagungszeitraum anzuwenden, der auf den Veranlagungszeitraum folgt, in dem die für die Anwendung erforderlichen Programmierarbeiten für das elektronische Datenübermittlungsverfahren abgeschlossen sind. ³Das Bundesministerium der Finanzen gibt im Einvernehmen mit den obersten Finanzbehörden der Länder im Bundessteuerblatt Teil I den Veranlagungszeitraum bekannt, ab dem die Regelung des § 65 Absatz 3a erstmals anzuwenden ist. ⁴Mit der Anwendung von § 65 Absatz 3a ist § 65 Absatz 1 Nummer 1 und 2 Buchstabe a, Absatz 2 Satz 1 und 2 zweiter Halbsatz nicht weiter anzuwenden. ⁵Der Anwendungsbereich des § 65 Absatz 3 wird auf die Fälle des § 65 Absatz 1 Nummer 2 Buchstabe b beschränkt. ⁶Zu diesem Zeitpunkt noch gültige und dem Finanzamt vorliegende Feststellungen über eine Behinderung werden bis zum Ende ihrer Gültigkeit weiter berücksichtigt, es sei denn, die Feststellungen ändern sich vor Ablauf der Gültigkeit.
+(3g) § 62d Abs. 2 Satz 2 in der Fassung des Artikels 2 des Gesetzes vom 22. Dezember 2003 (BGBl. I S. 2840) ist erstmals auf Verluste anzuwenden, die aus dem Veranlagungszeitraum 2004 in den Veranlagungszeitraum 2003 zurückgetragen werden.
 
-(3h) § 70 in der Fassung des Artikels 24 des Gesetzes vom 25. Juli 2014 (BGBl. I S. 1266) ist erstmals ab dem Veranlagungszeitraum 2014 anzuwenden.
+(3h) ¹§ 65 Absatz 1 in der Fassung des Artikels 10 des Gesetzes vom 2. Juni 2021 (BGBl. I S. 1259) ist erstmals für den Veranlagungszeitraum 2021 anzuwenden. ²§ 65 Absatz 3a ist erstmals zum 1. Januar 2026 anzuwenden. ³Vor diesem Zeitpunkt bereits ausgestellte Ausweise nach dem Neunten Buch Sozialgesetzbuch oder noch gültige Bescheide der nach § 152 Absatz 1 des Neunten Buches Sozialgesetzbuch zuständigen Behörde werden weiter berücksichtigt, es sei denn, die Feststellungen ändern sich vor Ablauf der Gültigkeit. ⁴Mit der Anwendung von § 65 Absatz 3a ist § 65 Absatz 1 Nummer 1 und 2 Buchstabe a und Absatz 2 Satz 1 nicht weiter anzuwenden mit Ausnahme für den Nachweis der Zwangsläufigkeit von behinderungsbedingt entstandenen Aufwendungen und der Anspruchsvoraussetzungen zur behinderungsbedingten Fahrtkostenpauschale (§ 64 Absatz 3). ⁵Der Anwendungsbereich des § 65 Absatz 3 wird auf die Fälle des § 65 Absatz 1 Nummer 2 Buchstabe b beschränkt. ⁶§ 65 Absatz 3 gilt weiterhin auch im Fall der Übertragung des einem Kind zustehenden Behinderten-Pauschbetrags (§ 33b Absatz 5 Satz 1 des Gesetzes), wenn das Kind nicht nach einem Steuergesetz steuerpflichtig ist (§ 32 Absatz 6 Satz 13 des Gesetzes).
 
-(3i) ¹Die §§ 73a, 73c, 73d Abs. 1 sowie die §§ 73e und 73f Satz 1 in der Fassung des Artikels 2 des Gesetzes vom 19. Dezember 2008 (BGBl. I S. 2794) sind erstmals auf Vergütungen anzuwenden, die nach dem 31. Dezember 2008 zufließen. ²Abweichend von Satz 1 ist § 73e Satz 4 und 5 in der Fassung des Artikels 2 des Gesetzes vom 19. Dezember 2008 (BGBl. I S. 2794) erstmals auf Vergütungen anzuwenden, die nach dem 31. Dezember 2009 zufließen. ³§ 73e Satz 4 in der Fassung der Bekanntmachung vom 10. Mai 2000 (BGBl. I S. 717) ist letztmals auf Vergütungen anzuwenden, die vor dem 1. Januar 2010 zufließen. ⁴§ 73d Absatz 1 Satz 3, § 73e Satz 1, 2 und 5 sowie § 73g Absatz 1 und 2 in der Fassung des Artikels 9 des Gesetzes vom 10. August 2009 (BGBl. I S. 2702) sind erstmals auf Vergütungen anzuwenden, die nach dem 31. Dezember 2013 zufließen. ⁵§ 73a Absatz 3 in der am 30. Dezember 2014 geltenden Fassung ist erstmals ab dem 1. Januar 2014 anzuwenden.⁶§ 73e Satz 7 in der am 31. Juli 2014 geltenden Fassung ist erstmals auf Vergütungen anzuwenden, für die der Steuerabzug nach dem 31. Dezember 2014 angeordnet worden ist.
+(3i) § 70 in der Fassung des Artikels 24 des Gesetzes vom 25. Juli 2014 (BGBl. I S. 1266) ist erstmals ab dem Veranlagungszeitraum 2014 anzuwenden.
 
-(3j) § 80 der Einkommensteuer-Durchführungsverordnung 1997 in der Fassung der Bekanntmachung vom 18. Juni 1997 (BGBl. I S. 1558) ist letztmals für das Wirtschaftsjahr anzuwenden, das vor dem 1. Januar 1999 endet.
+(3j) ¹Die §§ 73a, 73c, 73d Abs. 1 sowie die §§ 73e und 73f Satz 1 in der Fassung des Artikels 2 des Gesetzes vom 19. Dezember 2008 (BGBl. I S. 2794) sind erstmals auf Vergütungen anzuwenden, die nach dem 31. Dezember 2008 zufließen. ²Abweichend von Satz 1 ist § 73e Satz 4 und 5 in der Fassung des Artikels 2 des Gesetzes vom 19. Dezember 2008 (BGBl. I S. 2794) erstmals auf Vergütungen anzuwenden, die nach dem 31. Dezember 2009 zufließen. ³§ 73e Satz 4 in der Fassung der Bekanntmachung vom 10. Mai 2000 (BGBl. I S. 717) ist letztmals auf Vergütungen anzuwenden, die vor dem 1. Januar 2010 zufließen. ⁴§ 73d Absatz 1 Satz 3, § 73e Satz 1, 2 und 5 sowie § 73g Absatz 1 und 2 in der Fassung des Artikels 9 des Gesetzes vom 10. August 2009 (BGBl. I S. 2702) sind erstmals auf Vergütungen anzuwenden, die nach dem 31. Dezember 2013 zufließen. ⁵§ 73a Absatz 3 in der am 30. Dezember 2014 geltenden Fassung ist erstmals ab dem 1. Januar 2014 anzuwenden.⁶§ 73e Satz 7 in der am 31. Juli 2014 geltenden Fassung ist erstmals auf Vergütungen anzuwenden, für die der Steuerabzug nach dem 31. Dezember 2014 angeordnet worden ist.
+
+(3k) § 80 der Einkommensteuer-Durchführungsverordnung 1997 in der Fassung der Bekanntmachung vom 18. Juni 1997 (BGBl. I S. 1558) ist letztmals für das Wirtschaftsjahr anzuwenden, das vor dem 1. Januar 1999 endet.
 
 (4) ¹§ 82a ist auf Tatbestände anzuwenden, die in dem in Artikel 3 des Einigungsvertrages genannten Gebiet nach dem 31. Dezember 1990 und vor dem 1. Januar 1992 verwirklicht worden sind. ²Auf Tatbestände, die im Geltungsbereich dieser Verordnung ausschließlich des in Artikel 3 des Einigungsvertrages genannten Gebiets verwirklicht worden sind, ist
 

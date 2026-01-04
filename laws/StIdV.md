@@ -15,7 +15,7 @@ Die Identifikationsnummer nach § 139b der Abgabenordnung besteht aus zehn Ziffe
 
 # § 4 – Löschungsfrist
 
-Die beim Bundeszentralamt für Steuern nach § 139b Abs. 3 der Abgabenordnung gespeicherten Daten sind zu löschen, wenn sie zur Erfüllung der gesetzlichen Aufgaben der Finanzbehörden nicht mehr erforderlich sind, spätestens jedoch 20 Jahre nach Ablauf des Kalenderjahres, in dem der Steuerpflichtige verstorben ist.
+Die beim Bundeszentralamt für Steuern nach § 139b Absatz 3 und 3a der Abgabenordnung gespeicherten Daten sind 20 Jahre nach Ablauf des Kalenderjahres zu löschen, in dem die natürliche Person, der die Identifikationsnummer erteilt wurde, verstorben ist. Wurde eine Identifikationsnummer in einem Besteuerungs- oder Verwaltungsverfahren zu Unrecht vergeben, sind die zu ihr nach § 139b Absatz 3 und 3a der Abgabenordnung gespeicherten Daten unverzüglich zu löschen.
 
 # § 5 – Sicherheit und Funktionsfähigkeit des Verfahrens
 

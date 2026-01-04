@@ -135,7 +135,7 @@ b) gilt Absatz 3 Satz 1 und 2 entsprechend für Zubereitungen aus von den Gesund
 
 # § 11a
 
-Die Erlaubnis zum Versand von apothekenpflichtigen Arzneimitteln gemäß § 43 Abs. 1 Satz 1 des Arzneimittelgesetzes ist dem Inhaber einer Erlaubnis nach § 2 auf Antrag zu erteilen, wenn er schriftlich oder elektronisch versichert, dass er im Falle der Erteilung der Erlaubnis folgende Anforderungen erfüllen wird:
+Die Erlaubnis zum Versand von apothekenpflichtigen Arzneimitteln gemäß § 43 Absatz 1 Satz 1 des Arzneimittelgesetzes und gemäß den §§ 43 und 44a Absatz 2 des Tierarzneimittelgesetzes ist dem Inhaber einer Erlaubnis nach § 2 auf Antrag zu erteilen, wenn er schriftlich oder elektronisch versichert, dass er im Falle der Erteilung der Erlaubnis folgende Anforderungen erfüllen wird:
 
 1. Der Versand wird aus einer öffentlichen Apotheke zusätzlich zu dem üblichen Apothekenbetrieb und nach den dafür geltenden Vorschriften erfolgen, soweit für den Versandhandel keine gesonderten Vorschriften bestehen.
 
@@ -163,7 +163,7 @@ e) ein System zur Sendungsverfolgung unterhalten wird und
 
 f) eine Transportversicherung abgeschlossen wird.
 
-Im Falle des elektronischen Handels mit apothekenpflichtigen Arzneimitteln gilt Satz 1 mit der Maßgabe, dass die Apotheke auch über die dafür geeigneten Einrichtungen und Geräte verfügen wird.
+Im Falle des elektronischen Handels mit zur Anwendung beim Menschen bestimmten apothekenpflichtigen Arzneimitteln sowie nicht verschreibungspflichtigen Tierarzneimitteln gilt Satz 1 mit der Maßgabe, dass die Apotheke auch über die dafür geeigneten Einrichtungen und Geräte verfügen wird.
 
 # § 11b
 
@@ -457,7 +457,7 @@ Wer vorsätzlich oder fahrlässig ohne die erforderliche Erlaubnis oder Genehmig
 
 # § 28a
 
-(weggefallen)
+Eine vor dem 1. Januar 2026 ausgestellte Erlaubnis zum Versand von apothekenpflichtigen Arzneimitteln gemäß § 43 Absatz 1 Satz 1 des Arzneimittelgesetzes gilt auch als Erlaubnis für den Versand von apothekenpflichtigen Tierarzneimitteln gemäß den §§ 43 und 44a Absatz 2 des Tierarzneimittelgesetzes.
 
 # § 29
 

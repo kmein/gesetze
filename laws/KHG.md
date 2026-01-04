@@ -565,7 +565,7 @@ dies gilt im Falle der vollen Förderung von Teilen eines Krankenhauses nur hins
 
 # § 17a – Finanzierung von Ausbildungskosten
 
-(1) Die Kosten der in § 2 Nummer 1a Buchstabe a, b und d bis n genannten mit den Krankenhäusern notwendigerweise verbundenen Ausbildungsstätten, die Ausbildungsvergütungen für die in § 2 Nummer 1a genannten Berufe und die Mehrkosten des Krankenhauses infolge der Ausbildung sind nach Maßgabe der folgenden Vorschriften durch Zuschläge zu finanzieren, soweit diese Kosten nach diesem Gesetz zu den pflegesatzfähigen Kosten gehören und nicht nach anderen Vorschriften aufzubringen sind (Ausbildungskosten); der von dem jeweiligen Land finanzierte Teil der Ausbildungskosten ist in Abzug zu bringen. Abweichend von Satz 1 sind bei einer Anrechnung nach Satz 3 nur die Mehrkosten der Ausbildungsvergütungen zu finanzieren. Bei der Ermittlung der Mehrkosten der Ausbildungsvergütung sind Personen, die im in § 2 Nummer 1a Buchstabe g genannten Bereich der Pflegehilfe und ‑assistenz ausgebildet werden, nach dem ersten Jahr ihrer Ausbildung im Verhältnis 6 zu 1 auf die Stelle einer voll ausgebildeten Person nach Teil 2 des Pflegeberufegesetzes anzurechnen. Zu den Ausbildungsvergütungen nach Satz 1 gehören auch die Vergütungen der Hebammenstudierenden nach § 34 Absatz 1 des Hebammengesetzes. Zu den Mehrkosten des Krankenhauses infolge der Ausbildung nach Satz 1 gehören auch die Kosten der berufspraktischen Ausbildung von Hebammenstudierenden durch ambulante hebammengeleitete Einrichtungen oder durch freiberufliche Hebammen nach § 13 Absatz 1 Satz 1 Nummer 2 des Hebammengesetzes.
+(1) Die Kosten der in § 2 Nummer 1a Buchstabe a, b und d bis n genannten mit den Krankenhäusern notwendigerweise verbundenen Ausbildungsstätten, die Ausbildungsvergütungen für die in § 2 Nummer 1a genannten Berufe und die Mehrkosten des Krankenhauses infolge der Ausbildung sind nach Maßgabe der folgenden Vorschriften durch Zuschläge zu finanzieren, soweit diese Kosten nach diesem Gesetz zu den pflegesatzfähigen Kosten gehören und nicht nach anderen Vorschriften aufzubringen sind (Ausbildungskosten); der von dem jeweiligen Land finanzierte Teil der Ausbildungskosten ist in Abzug zu bringen. Zu den Ausbildungsvergütungen nach Satz 1 gehören auch die Vergütungen der Hebammenstudierenden nach § 34 Absatz 1 des Hebammengesetzes. Zu den Mehrkosten des Krankenhauses infolge der Ausbildung nach Satz 1 gehören auch die Kosten der berufspraktischen Ausbildung von Hebammenstudierenden durch ambulante hebammengeleitete Einrichtungen oder durch freiberufliche Hebammen nach § 13 Absatz 1 Satz 1 Nummer 2 des Hebammengesetzes.
 
 (2) Mit dem Ziel, eine sachgerechte Finanzierung sicherzustellen, schließen
 
@@ -651,13 +651,13 @@ Auf der Grundlage eines Konzepts des Instituts für das Entgeltsystem im Kranken
 
 a) Personen, die erfolgreich eine landesrechtlich geregelte Assistenz- oder Helferausbildung in der Pflege von mindestens einjähriger Dauer abgeschlossen haben, die die von der 89. Arbeits- und Sozialministerkonferenz 2012 und der 86. Gesundheitsministerkonferenz 2013 als Mindestanforderungen beschlossenen Eckpunkte für die in Länderzuständigkeit liegenden Ausbildungen zu Assistenz- und Helferberufen in der Pflege (BAnz AT 17.02.2016 B3) erfüllt,
 
-b) Personen, die erfolgreich eine landesrechtlich geregelte Ausbildung in der Krankenpflegehilfe oder in der Altenpflegehilfe von mindestens einjähriger Dauer abgeschlossen haben,
+b) (weggefallen)
 
 c) Personen, denen auf der Grundlage des Krankenpflegegesetzes in der am 31. Dezember 2003 geltenden Fassung eine Erlaubnis als Krankenpflegehelferin oder Krankenpflegehelfer erteilt worden ist,
 
 d) Medizinische Fachangestellte, die erfolgreich eine Ausbildung nach der Verordnung über die Berufsausbildung zum Medizinischen Fachangestellten/zur Medizinischen Fachangestellten abgeschlossen haben oder eine Qualifikation vorweisen, die dieser Ausbildung entspricht,
 
-e) Anästhesietechnische Assistentinnen und Anästhesietechnische Assistenten, die über die Erlaubnis zum Führen der Berufsbezeichnung nach § 1 Absatz 1 des Anästhesietechnische- und Operationstechnische-Assistenten-Gesetzes verfügen, und
+e) Anästhesietechnische Assistentinnen und Anästhesietechnische Assistenten, denen die Erlaubnis zum Führen der Berufsbezeichnung nach § 1 Absatz 1 des Anästhesietechnische- und Operationstechnische-Assistenten-Gesetzes erteilt worden ist,
 
 f) Notfallsanitäterinnen und Notfallsanitäter, denen die Erlaubnis zum Führen einer Berufsbezeichnung nach § 1 Absatz 1 des Notfallsanitätergesetzes erteilt worden ist,
 
@@ -665,7 +665,7 @@ f) Notfallsanitäterinnen und Notfallsanitäter, denen die Erlaubnis zum Führen
 
 4. als Auszubildende in der Pflege Personen, die eine berufliche oder hochschulische Ausbildung in einem in Nummer 1 oder Nummer 2 Buchstabe a oder Buchstabe b genannten Beruf absolvieren, in dem Umfang, in dem die betreffenden Kosten der Ausbildungsvergütung nicht nach § 27 Absatz 2 des Pflegeberufegesetzes oder nach § 17a Absatz 1 Satz 3 Mehrkosten der Ausbildungsvergütungen sind, und
 
-5. als Pflegekräfte im Anerkennungsverfahren Personen, die eine Anpassungsmaßnahme nach § 40 Absatz 3 Satz 2 oder § 41 Absatz 2 Satz 4 oder Absatz 3 Satz 2 des Pflegeberufegesetzes absolvieren.
+5. als Pflegekräfte im Anerkennungsverfahren Personen, die eine Anpassungsmaßnahme nach § 40 Absatz 3 Satz 2 oder § 41 Absatz 2 Satz 2 des Pflegeberufegesetzes absolvieren.
 
 In der Vereinbarung haben sie auch Regelungen für die Zuordnung von Kosten von Pflegepersonal festzulegen, das überwiegend in der unmittelbaren Patientenversorgung auf bettenführenden Stationen oder in Kreißsälen tätig ist.
 

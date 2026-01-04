@@ -5,6 +5,12 @@
 
 Im Produzierenden Gewerbe, das Bergbau und Gewinnung von Steinen und Erden, Verarbeitendes Gewerbe, Energieversorgung, Wasserversorgung, Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen sowie Baugewerbe umfasst, werden statistische Erhebungen als Bundesstatistik durchgeführt.
 
+# § 1a – Auswahl der Berichtseinheiten
+
+Die Auswahl der Berichtseinheiten für die Erhebungen nach diesem Gesetz erfolgt auf Grundlage der Klassifizierungen des Anhangs I der Verordnung (EG) Nr. 1893/2006 in Verbindung mit der vom Statistischen Bundesamt daraus erstellten Klassifikation der Wirtschaftszweige. Für Berichtszeiträume ab dem 1. Januar 2025 gilt die Klassifikation der Wirtschaftszweige 2025. Abweichend von Satz 2 gilt für die Erhebungen nach § 4 Buchstabe A Ziffer III, Buchstabe B und C Ziffer I Nummer 2 und Ziffer II für die Berichtszeiträume bis zum Ablauf des 31. Dezember 2026 und für die Erhebungen nach den §§ 2 und 3 Buchstabe A Ziffer I und II, § 4 Buchstabe A Ziffer I und II, Buchstabe C Ziffer I Nummer 1, § 6 Buchstabe A und § 6a Buchstabe A für die Berichtszeiträume bis zum Ablauf des 31. Dezember 2027 die Klassifikation der Wirtschaftszweige 2008.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 354 +++)
+
 # § 2 – Erhebungen bei Betrieben
 
 Die Erhebungen werden durchgeführt bei den produzierenden Betrieben von höchstens 68 000 Unternehmen des Bergbaus und der Gewinnung von Steinen und Erden, des Verarbeitenden Gewerbes sowie bei den produzierenden Betrieben der Unternehmen anderer Wirtschaftszweige, jeweils ohne Baubetriebe und Betriebe der Energieversorgung, Wasserversorgung, Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen. Die Erhebungen erfassen:
@@ -430,9 +436,7 @@ Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechts
 
 (3) Die statistischen Ämter der Länder übermitteln dem Statistischen Bundesamt auf Anforderung die von ihnen erhobenen Einzelangaben für Sonderaufbereitungen des Bundes.
 
-# § 12 – Übergangsregelung
-
-Die Erhebung nach § 2 Satz 2 Buchstabe B Ziffer II Nr. 1 bis 3 wird erstmals im Jahr 2008 für das Jahr 2007 durchgeführt.
+# § 12 – (weggefallen)
 
 # § 13 – (Änderung von Rechtsvorschriften)
 

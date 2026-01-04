@@ -416,3 +416,7 @@ zu begehen. Sie finden entsprechende Anwendung auch für den Fall, dass der nach
 # § 43
 
 § 169 Absatz 2 des Gerichtsverfassungsgesetzes findet keine Anwendung auf Verfahren, die am 18. April 2018 bereits anhängig sind.
+
+# § 44
+
+§ 23 Nummer 1 des Gerichtsverfassungsgesetzes ist auf Verfahren, die vor dem 1. Januar 2026 anhängig geworden sind, in der bis einschließlich 31. Dezember 2025 geltenden Fassung anzuwenden. § 23 Nummer 2 Buchstabe e, § 71 Absatz 2 Nummer 7 bis 9, § 72a Absatz 1 Nummer 8 sowie § 119a Absatz 1 Nummer 8 des Gerichtsverfassungsgesetzes finden keine Anwendung auf Verfahren, die vor dem 1. Januar 2026 anhängig geworden sind.

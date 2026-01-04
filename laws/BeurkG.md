@@ -171,7 +171,9 @@ einen rechtlichen Vorteil zu verschaffen.
 
 # § 8 – Grundsatz
 
-Bei der Beurkundung von Willenserklärungen muß eine Niederschrift über die Verhandlung aufgenommen werden.
+(1) Bei der Beurkundung von Willenserklärungen muss eine Niederschrift über die Verhandlung aufgenommen werden.
+
+(2) Die Niederschrift kann als elektronisches Dokument aufgenommen werden. Für die elektronische Niederschrift gelten die Vorschriften über die Niederschrift entsprechend, soweit in diesem Unterabschnitt nichts anderes bestimmt ist.
 
 # § 9 – Inhalt der Niederschrift
 
@@ -201,33 +203,57 @@ Erklärungen in einem Schriftstück, auf das in der Niederschrift verwiesen und 
 
 # § 12 – Nachweise für die Vertretungsberechtigung
 
-(1) Vorgelegte Vollmachten und Ausweise über die Berechtigung eines gesetzlichen Vertreters sollen der Niederschrift in Urschrift oder in beglaubigter Abschrift beigefügt werden. Ergibt sich die Vertretungsberechtigung aus einer Eintragung im Handelsregister oder in einem ähnlichen Register, so genügt die Bescheinigung eines Notars nach § 21 der Bundesnotarordnung.
+(1) Vorgelegte Vollmachten und Ausweise über die Berechtigung eines gesetzlichen Vertreters sollen der Niederschrift in Urschrift oder in beglaubigter Abschrift beigefügt werden. Einer elektronischen Niederschrift sollen vorgelegte Nachweise nach Satz 1 in elektronisch beglaubigter Abschrift beigefügt werden. Ergibt sich die Vertretungsberechtigung aus einer Eintragung im Handelsregister oder in einem ähnlichen Register, so genügt die Bescheinigung eines Notars nach § 21 der Bundesnotarordnung.
 
 (2) Wird eine Willenserklärung als von einem Bevollmächtigten abgegeben beurkundet, so gilt die Vorlage der Vollmachtsurkunde gegenüber dem Notar auch als Vorlage gegenüber demjenigen, gegenüber dem die beurkundete Willenserklärung abgegeben wird.
 
 # § 13 – Vorlesen, Genehmigen, Unterschreiben
 
-(1) Die Niederschrift muß in Gegenwart des Notars den Beteiligten vorgelesen, von ihnen genehmigt und eigenhändig unterschrieben werden; soweit die Niederschrift auf Karten, Zeichnungen oder Abbildungen verweist, müssen diese den Beteiligten anstelle des Vorlesens zur Durchsicht vorgelegt werden. In der Niederschrift soll festgestellt werden, daß dies geschehen ist. Haben die Beteiligten die Niederschrift eigenhändig unterschrieben, so wird vermutet, daß sie in Gegenwart des Notars vorgelesen oder, soweit nach Satz 1 erforderlich, zur Durchsicht vorgelegt und von den Beteiligten genehmigt ist. Die Niederschrift soll den Beteiligten auf Verlangen vor der Genehmigung auch zur Durchsicht vorgelegt werden.
+(1) Der Inhalt der Niederschrift muss in Gegenwart des Notars den Beteiligten vorgelesen, die Niederschrift von ihnen genehmigt und eigenhändig unterschrieben werden; soweit die Niederschrift auf Karten, Zeichnungen oder Abbildungen verweist, müssen diese den Beteiligten anstelle des Vorlesens zur Durchsicht vorgelegt werden. In der Niederschrift soll festgestellt werden, daß dies geschehen ist. Haben die Beteiligten die Niederschrift eigenhändig unterschrieben, so wird vermutet, daß sie in Gegenwart des Notars vorgelesen oder, soweit nach Satz 1 erforderlich, zur Durchsicht vorgelegt und von den Beteiligten genehmigt ist. Die Niederschrift soll den Beteiligten auf Verlangen vor der Genehmigung auch zur Durchsicht vorgelegt werden.
 
 (2) Werden mehrere Niederschriften aufgenommen, die ganz oder teilweise übereinstimmen, so genügt es, wenn der übereinstimmende Inhalt den Beteiligten einmal nach Absatz 1 Satz 1 vorgelesen oder anstelle des Vorlesens zur Durchsicht vorgelegt wird. § 18 der Bundesnotarordnung bleibt unberührt.
 
 (3) Die Niederschrift muß von dem Notar eigenhändig unterschrieben werden. Der Notar soll der Unterschrift seine Amtsbezeichnung beifügen.
 
-# § 13a – Eingeschränkte Beifügungs- und Vorlesungspflicht
+# § 13a – Signieren einer elektronischen Niederschrift
 
-(1) Wird in der Niederschrift auf eine andere notarielle Niederschrift verwiesen, die nach den Vorschriften über die Beurkundung von Willenserklärungen errichtet worden ist, so braucht diese nicht vorgelesen zu werden, wenn die Beteiligten erklären, daß ihnen der Inhalt der anderen Niederschrift bekannt ist, und sie auf das Vorlesen verzichten. Dies soll in der Niederschrift festgestellt werden. Der Notar soll nur beurkunden, wenn den Beteiligten die andere Niederschrift zumindest in beglaubigter Abschrift bei der Beurkundung vorliegt. Für die Vorlage zur Durchsicht anstelle des Vorlesens von Karten, Zeichnungen oder Abbildungen gelten die Sätze 1 bis 3 entsprechend.
+(1) Die elektronische Niederschrift muss in Gegenwart des Notars von den Beteiligten
+
+1. mit ihren qualifizierten elektronischen Signaturen versehen werden oder
+
+2. auf einem zur elektronischen Erfassung der Unterschrift geeigneten Hilfsmittel eigenhändig unterschrieben werden.
+
+(2) Die elektronische Niederschrift muss von dem Notar mit seiner qualifizierten elektronischen Signatur versehen werden.
+
+(3) Elektronische Unterschriften müssen am Schluss der elektronischen Niederschrift bildlich wiedergegeben werden.
+
+(4) Qualifizierte elektronische Signaturen sollen auf einem qualifizierten Zertifikat beruhen, das auf Dauer prüfbar ist. Die signierenden Personen müssen die qualifizierten elektronischen Signaturen selbst erstellen. Am Schluss der elektronischen Niederschrift sollen die Namen der Personen angegeben werden, die diese mit ihren qualifizierten elektronischen Signaturen versehen. Dem Namen des Notars soll seine Amtsbezeichnung beigefügt werden.
+
+(5) An die Stelle der nach diesem Gesetz vorgesehenen Unterschriften anderer Personen treten deren elektronische Unterschriften oder qualifizierte elektronische Signaturen in entsprechender Anwendung der Absätze 1, 3 und 4 Satz 1 bis 3.
+
+# § 13b – Technische Rahmenbedingungen für elektronische Niederschriften
+
+(1) Elektronische Niederschriften sollen mittels eines Signatursystems signiert werden, das durch oder im Auftrag einer staatlichen Stelle oder einer juristischen Person des öffentlichen Rechts bereitgestellt wird.
+
+(2) Die in Absatz 1 genannte Stelle oder Person hat die Vertraulichkeit der durch das Signatursystem verarbeiteten elektronischen Niederschrift zu gewährleisten. Eine Übertragung der elektronischen Niederschrift an Dritte zur Anbringung einer qualifiziert elektronischen Signatur soll nicht erfolgen.
+
+(3) Bei der Aufnahme elektronischer Niederschriften sollen die Hilfsmittel, die zur elektronischen Erfassung der Unterschriften verwendet werden, die Unterschriften in Echtzeit wiedergeben.
+
+# § 13c – Eingeschränkte Beifügungs- und Vorlesungspflicht
+
+(1) Wird in der Niederschrift auf eine andere notarielle Niederschrift verwiesen, die nach den Vorschriften über die Beurkundung von Willenserklärungen errichtet worden ist, so braucht diese nicht vorgelesen zu werden, wenn die Beteiligten erklären, daß ihnen der Inhalt der anderen Niederschrift bekannt ist, und sie auf das Vorlesen verzichten. Dies soll in der Niederschrift festgestellt werden. Der Notar soll nur beurkunden, wenn für die Beteiligten die andere Niederschrift zumindest in beglaubigter Abschrift bei der Beurkundung einsehbar ist. Für die Vorlage zur Durchsicht anstelle des Vorlesens von Karten, Zeichnungen oder Abbildungen gelten die Sätze 1 bis 3 entsprechend.
 
 (2) Die andere Niederschrift braucht der Niederschrift nicht beigefügt zu werden, wenn die Beteiligten darauf verzichten. In der Niederschrift soll festgestellt werden, daß die Beteiligten auf das Beifügen verzichtet haben.
 
 (3) Kann die andere Niederschrift bei dem Notar oder einer anderen Stelle rechtzeitig vor der Beurkundung eingesehen werden, so soll der Notar dies den Beteiligten vor der Verhandlung mitteilen; befindet sich die andere Niederschrift bei dem Notar, so soll er diese dem Beteiligten auf Verlangen übermitteln. Unbeschadet des § 17 soll der Notar die Beteiligten auch über die Bedeutung des Verweisens auf die andere Niederschrift belehren.
 
-(4) Wird in der Niederschrift auf Karten oder Zeichnungen verwiesen, die von einer öffentlichen Behörde innerhalb der Grenzen ihrer Amtsbefugnisse oder von einer mit öffentlichem Glauben versehenen Person innerhalb des ihr zugewiesenen Geschäftskreises mit Unterschrift und Siegel oder Stempel versehen worden sind, so gelten die Absätze 1 bis 3 entsprechend.
+(4) Wird in der Niederschrift auf Karten oder Zeichnungen verwiesen, die von einer öffentlichen Behörde innerhalb der Grenzen ihrer Amtsbefugnisse oder von einer mit öffentlichem Glauben versehenen Person innerhalb des ihr zugewiesenen Geschäftskreises mit Unterschrift und Siegel oder Stempel versehen worden sind, so gelten die Absätze 1 bis 3 entsprechend. Wird auf Karten oder Zeichnungen in elektronischen Dokumenten verwiesen, so tritt an die Stelle der Unterschrift und des Siegels oder Stempels ein qualifiziertes elektronisches Siegel oder eine qualifizierte elektronische Signatur, wobei das der Signatur zugrunde liegende qualifizierte Zertifikat die Behörde erkennen lassen muss.
 
 # § 14 – Eingeschränkte Vorlesungspflicht
 
 (1) Werden Bilanzen, Inventare, Nachlaßverzeichnisse oder sonstige Bestandsverzeichnisse über Sachen, Rechte und Rechtsverhältnisse in ein Schriftstück aufgenommen, auf das in der Niederschrift verwiesen und das dieser beigefügt wird, so braucht es nicht vorgelesen zu werden, wenn die Beteiligten auf das Vorlesen verzichten. Das gleiche gilt für Erklärungen, die bei der Bestellung einer Hypothek, Grundschuld, Rentenschuld, Schiffshypothek oder eines Registerpfandrechts an Luftfahrzeugen aufgenommen werden und nicht im Grundbuch, Schiffsregister, Schiffsbauregister oder im Register für Pfandrechte an Luftfahrzeugen selbst angegeben zu werden brauchen. Eine Erklärung, sich der sofortigen Zwangsvollstreckung zu unterwerfen, muß in die Niederschrift selbst aufgenommen werden.
 
-(2) Wird nach Absatz 1 das beigefügte Schriftstück nicht vorgelesen, so soll es den Beteiligten zur Kenntnisnahme vorgelegt und von ihnen unterschrieben werden; besteht das Schriftstück aus mehreren Seiten, soll jede Seite von ihnen unterzeichnet werden. § 17 bleibt unberührt.
+(2) Wird nach Absatz 1 das beigefügte Schriftstück nicht vorgelesen, so soll es den Beteiligten zur Kenntnisnahme vorgelegt werden. Unbeschadet des § 17 soll der Notar die Beteiligten auch über die Bedeutung des Verweisens auf das beigefügte Schriftstück belehren.
 
 (3) In der Niederschrift muß festgestellt werden, daß die Beteiligten auf das Vorlesen verzichtet haben; es soll festgestellt werden, daß ihnen das beigefügte Schriftstück zur Kenntnisnahme vorgelegt worden ist.
 
@@ -241,7 +267,7 @@ Bei der Beurkundung von Versteigerungen gelten nur solche Bieter als beteiligt, 
 
 (2) Eine Niederschrift, die eine derartige Feststellung enthält, muß dem Beteiligten anstelle des Vorlesens übersetzt werden. Wenn der Beteiligte es verlangt, soll die Übersetzung außerdem schriftlich angefertigt und ihm zur Durchsicht vorgelegt werden; die Übersetzung soll der Niederschrift beigefügt werden. Der Notar soll den Beteiligten darauf hinweisen, daß dieser eine schriftliche Übersetzung verlangen kann. Diese Tatsachen sollen in der Niederschrift festgestellt werden.
 
-(3) Für die Übersetzung muß, falls der Notar nicht selbst übersetzt, ein Dolmetscher zugezogen werden. Für den Dolmetscher gelten die §§ 6, 7 entsprechend. Ist der Dolmetscher nicht allgemein vereidigt, so soll ihn der Notar vereidigen, es sei denn, daß alle Beteiligten darauf verzichten. Diese Tatsachen sollen in der Niederschrift festgestellt werden. Die Niederschrift soll auch von dem Dolmetscher unterschrieben werden.
+(3) Für die Übersetzung muß, falls der Notar nicht selbst übersetzt, ein Dolmetscher zugezogen werden. Für den Dolmetscher gelten die §§ 6, 7 entsprechend. Ist der Dolmetscher nicht allgemein im Sinne von § 189 Absatz 2 des Gerichtsverfassungsgesetzes beeidigt, so soll ihn der Notar beeidigen, es sei denn, dass alle Beteiligten darauf verzichten. Diese Tatsachen sollen in der Niederschrift festgestellt werden. Die Niederschrift soll auch von dem Dolmetscher unterschrieben werden.
 
 # § 16a – Zulässigkeit
 
@@ -251,15 +277,11 @@ Bei der Beurkundung von Versteigerungen gelten nur solche Bieter als beteiligt, 
 
 # § 16b – Aufnahme einer elektronischen Niederschrift
 
-(1) Bei der Beurkundung von Willenserklärungen mittels Videokommunikation muss eine elektronische Niederschrift über die Verhandlung aufgenommen werden. Auf die elektronische Niederschrift sind die Vorschriften über die Niederschrift entsprechend anzuwenden, soweit in den Absätzen 2 bis 5 sowie den §§ 16c bis 16e nichts anderes bestimmt ist.
+(1) Bei der Beurkundung von Willenserklärungen mittels Videokommunikation muss eine elektronische Niederschrift über die Verhandlung aufgenommen werden. Für die elektronische Niederschrift gelten die Vorschriften des Unterabschnitts 2, ausgenommen § 13b, entsprechend, soweit in diesem Unterabschnitt nichts anderes bestimmt ist.
 
-(2) Die elektronische Niederschrift wird als elektronisches Dokument errichtet.
+(2) Ort der Verhandlung ist der Ort, an dem die elektronische Niederschrift aufgenommen wird. In der elektronischen Niederschrift soll festgestellt werden, dass die Verhandlung mittels Videokommunikation durchgeführt worden ist.
 
-(3) Ort der Verhandlung ist der Ort, an dem die elektronische Niederschrift aufgenommen wird. In der elektronischen Niederschrift soll festgestellt werden, dass die Verhandlung mittels Videokommunikation durchgeführt worden ist. Am Schluss der elektronischen Niederschrift sollen die Namen der Personen wiedergegeben werden, die diese nach Absatz 4 signieren; dem Namen des Notars soll seine Amtsbezeichnung beigefügt werden.
-
-(4) Die elektronische Niederschrift ist mit qualifizierten elektronischen Signaturen zu versehen, die an die Stelle der nach diesem Gesetz vorgesehenen Unterschriften treten. Diese sollen auf einem Zertifikat beruhen, das auf Dauer prüfbar ist. Die Beteiligten sollen die qualifizierten elektronischen Signaturen selbst erstellen. Der Notar muss die qualifizierte elektronische Signatur selbst erstellen; § 33 Absatz 3 der Bundesnotarordnung gilt entsprechend.
-
-(5) Die elektronische Niederschrift soll den Beteiligten auf Verlangen vor der Genehmigung auch zur Durchsicht elektronisch übermittelt werden.
+(3) Die elektronische Niederschrift ist mit qualifizierten elektronischen Signaturen zu versehen, die an die Stelle der nach diesem Gesetz vorgesehenen Unterschriften treten. Die Beteiligten sollen die qualifizierten elektronischen Signaturen selbst erstellen.
 
 # § 16c – Feststellung der Beteiligten mittels Videokommunikation
 
@@ -277,13 +299,11 @@ b) auf dem Vertrauensniveau „hoch“ im Sinne des Artikels 8 Absatz 2 Buchstab
 
 Das dem Notar zu übermittelnde Lichtbild ist mit Zustimmung des betreffenden Beteiligten nebst Vornamen, Familienname, Tag der Geburt, ausstellendem Staat, Dokumentenart, Gültigkeitsdauer sowie derjenigen Daten, die zur Überprüfung der Echtheit des Dokuments erforderlich sind, aus dem elektronischen Speicher- und Verarbeitungsmedium eines von der Bundesrepublik Deutschland ausgegebenen Personalausweises, Passes oder elektronischen Aufenthaltstitels oder eines amtlichen Ausweises oder Passes eines anderen Staates, mit dem die Pass- und Ausweispflicht im Inland erfüllt wird, auszulesen. Sofern ein Beteiligter dem Notar bekannt ist, ist die elektronische Übermittlung eines Lichtbildes nicht erforderlich.
 
-# § 16d – Nachweise für die Vertretungsberechtigung bei elektronischen Niederschriften
-
-Vorgelegte Vollmachten und Ausweise über die Berechtigung eines gesetzlichen Vertreters sollen der elektronischen Niederschrift in elektronisch beglaubigter Abschrift beigefügt werden.
+# § 16d – (weggefallen)
 
 # § 16e – Gemischte Beurkundung
 
-(1) Erfolgt die Beurkundung mit einem Teil der Beteiligten, die bei dem Notar körperlich anwesend sind, und mit dem anderen Teil der Beteiligten mittels Videokommunikation, so ist zusätzlich zu der elektronischen Niederschrift mit den bei dem Notar körperlich anwesenden Beteiligten eine inhaltsgleiche Niederschrift nach § 8 aufzunehmen. Dies soll in der Niederschrift und der elektronischen Niederschrift vermerkt werden.
+(1) Erfolgt die Beurkundung mit einem Teil der Beteiligten, die bei dem Notar körperlich anwesend sind, und mit dem anderen Teil der Beteiligten mittels Videokommunikation, so ist zusätzlich zu der elektronischen Niederschrift nach § 16b mit den bei dem Notar körperlich anwesenden Beteiligten eine inhaltsgleiche Niederschrift nach § 8 aufzunehmen. Dies soll in beiden Niederschriften vermerkt werden.
 
 (2) Beide Niederschriften sind zusammen zu verwahren.
 
@@ -391,7 +411,9 @@ Auf Verlangen der Beteiligten soll der Notar bei der Beurkundung bis zu zwei Zeu
 
 Wird eine Verfügung von Todes wegen durch Übergabe einer Schrift errichtet, so muß die Niederschrift auch die Feststellung enthalten, daß die Schrift übergeben worden ist. Die Schrift soll derart gekennzeichnet werden, daß eine Verwechslung ausgeschlossen ist. In der Niederschrift soll vermerkt werden, ob die Schrift offen oder verschlossen übergeben worden ist. Von dem Inhalt einer offen übergebenen Schrift soll der Notar Kenntnis nehmen, sofern er der Sprache, in der die Schrift verfaßt ist, hinreichend kundig ist; § 17 ist anzuwenden. Die Schrift soll der Niederschrift beigefügt werden; einer Verlesung der Schrift bedarf es nicht.
 
-# § 31 – (weggefallen)
+# § 31 – Ausschluss der elektronischen Niederschrift
+
+Über die Errichtung einer Verfügung von Todes wegen soll keine elektronische Niederschrift aufgenommen werden.
 
 # § 32 – Sprachunkundige
 
@@ -399,7 +421,7 @@ Ist ein Erblasser, der dem Notar seinen letzten Willen mündlich erklärt, der S
 
 # § 33 – Besonderheiten beim Erbvertrag
 
-Bei einem Erbvertrag gelten die §§ 30 und 32 entsprechend auch für die Erklärung des anderen Vertragschließenden.
+Bei einem Erbvertrag gelten die §§ 30 bis 32 entsprechend auch für die Erklärung des anderen Vertragschließenden.
 
 # § 34 – Verschließung, Verwahrung
 
@@ -425,7 +447,9 @@ Hat der Notar die Niederschrift über die Errichtung einer Verfügung von Todes 
 
 # § 36 – Grundsatz
 
-Bei der Beurkundung anderer Erklärungen als Willenserklärungen sowie sonstiger Tatsachen oder Vorgänge muß eine Niederschrift aufgenommen werden, soweit in § 39 nichts anderes bestimmt ist.
+(1) Bei der Beurkundung anderer Erklärungen als Willenserklärungen sowie sonstiger Tatsachen oder Vorgänge muss eine Niederschrift aufgenommen werden, soweit in § 39 nichts anderes bestimmt ist.
+
+(2) Die Niederschrift kann als elektronisches Dokument aufgenommen werden. Für die elektronische Niederschrift gelten die Vorschriften dieses Unterabschnitts über die Niederschrift entsprechend, soweit in diesem Unterabschnitt nichts anderes bestimmt ist.
 
 # § 37 – Inhalt der Niederschrift
 
@@ -439,7 +463,7 @@ Der Bericht des Notars in einem Schriftstück, auf das in der Niederschrift verw
 
 (2) In der Niederschrift sollen Ort und Tag der Wahrnehmungen des Notars sowie Ort und Tag der Errichtung der Urkunde angegeben werden.
 
-(3) § 13 Abs. 3 gilt entsprechend.
+(3) § 13 Absatz 3 gilt entsprechend. Bei Aufnahme einer elektronischen Niederschrift gilt § 13a Absatz 2 und 4 entsprechend.
 
 # § 38 – Eide, eidesstattliche Versicherungen
 
@@ -453,13 +477,13 @@ Bei der Beglaubigung einer Unterschrift oder eines Handzeichens oder der Zeichnu
 
 # § 39a – Einfache elektronische Zeugnisse
 
-(1) Beglaubigungen und sonstige Zeugnisse im Sinne des § 39 können elektronisch errichtet werden; Beglaubigungen qualifizierter elektronischer Signaturen sind elektronisch zu errichten. Das hierzu erstellte Dokument muss mit einer qualifizierten elektronischen Signatur versehen werden. § 16b Absatz 4 Satz 2 und 4 gilt entsprechend.
+(1) Beglaubigungen und sonstige Zeugnisse im Sinne des § 39 können elektronisch errichtet werden; Beglaubigungen qualifizierter elektronischer Signaturen, elektronischer Unterschriften und elektronischer Handzeichen sind elektronisch zu errichten. Das hierzu erstellte Zeugnis muss mit einer qualifizierten elektronischen Signatur versehen werden. § 13a Absatz 4 Satz 1 und 2 gilt entsprechend.
 
 (2) Mit dem Zeugnis muss eine Bestätigung der Notareigenschaft durch die zuständige Stelle verbunden werden. Das Zeugnis soll Ort und Tag der Ausstellung angeben.
 
 (3) Bei der Beglaubigung eines elektronischen Dokuments, das mit einer qualifizierten elektronischen Signatur versehen ist, soll das Ergebnis der Signaturprüfung dokumentiert werden. Ist das elektronische Dokument mit der qualifizierten elektronischen Signatur eines Notars versehen, so genügt die Dokumentation der Prüfung seiner qualifizierten elektronischen Signatur.
 
-(4) Bei der Beglaubigung einer qualifizierten elektronischen Signatur ist der Bezug zwischen dem Zeugnis und dem mit der zu beglaubigenden qualifizierten elektronischen Signatur versehenen elektronischen Dokument durch kryptografische Verfahren nach dem Stand der Technik herzustellen, wenn das Zeugnis nicht in dem mit der zu beglaubigenden qualifizierten elektronischen Signatur versehenen elektronischen Dokument enthalten ist.
+(4) Bei der Beglaubigung einer qualifizierten elektronischen Signatur ist der Bezug zwischen dem Zeugnis und dem mit der zu beglaubigenden qualifizierten elektronischen Signatur versehenen elektronischen Dokument durch kryptografische Verfahren nach dem Stand der Technik herzustellen, wenn das Zeugnis nicht in dem mit der zu beglaubigenden qualifizierten elektronischen Signatur versehenen elektronischen Dokument enthalten ist. Dasselbe gilt für die Beglaubigung einer elektronischen Unterschrift oder eines elektronischen Handzeichens.
 
 # § 40 – Beglaubigung einer Unterschrift
 
@@ -487,6 +511,14 @@ Bei der Beglaubigung einer Unterschrift oder eines Handzeichens oder der Zeichnu
 
 (5) Der Notar soll die Beglaubigung einer mittels Videokommunikation anerkannten qualifizierten elektronischen Signatur ablehnen, wenn er die Erfüllung seiner Amtspflichten auf diese Weise nicht gewährleisten kann, insbesondere wenn er sich auf diese Weise keine Gewissheit über die Person verschaffen kann, welche die qualifizierte elektronische Signatur anerkannt hat.
 
+# § 40b – Beglaubigung einer elektronischen Unterschrift
+
+(1) Eine elektronische Unterschrift soll nur beglaubigt werden, wenn sie in Gegenwart des Notars auf einem zur elektronischen Erfassung der Unterschrift geeigneten Hilfsmittel vollzogen und in einem elektronischen Dokument bildlich wiedergegeben wird.
+
+(2) Die §§ 13b und 40 Absatz 2 bis 5 gelten entsprechend.
+
+(3) Die Absätze 1 und 2 gelten für die Beglaubigung von elektronischen Handzeichen entsprechend.
+
 # § 41 – Beglaubigung der Zeichnung einer Namensunterschrift
 
 Bei der Beglaubigung der Zeichnung einer Namensunterschrift, die zur Aufbewahrung beim Gericht bestimmt ist, muß die Zeichnung in Gegenwart des Notars vollzogen werden; dies soll in dem Beglaubigungsvermerk festgestellt werden. Der Beglaubigungsvermerk muß auch die Person angeben, welche gezeichnet hat. § 10 Absatz 1, 2 und 3 Satz 1 gilt entsprechend.
@@ -511,9 +543,9 @@ Besteht eine Urkunde aus mehreren Blättern, so sollen diese mit Schnur und Prä
 
 # § 44a – Änderungen in den Urkunden
 
-(1) Zusätze und sonstige, nicht nur geringfügige Änderungen sollen am Schluß vor den Unterschriften oder am Rande vermerkt und im letzteren Falle von dem Notar besonders unterzeichnet werden. Ist der Niederschrift ein Schriftstück nach § 9 Abs. 1 Satz 2, den §§ 14, 37 Abs. 1 Satz 2 beigefügt, so brauchen Änderungen in dem beigefügten Schriftstück nicht unterzeichnet zu werden, wenn aus der Niederschrift hervorgeht, daß sie genehmigt worden sind.
+(1) Zusätze und sonstige, nicht nur geringfügige Änderungen sollen am Schluss vor den Unterschriften oder in der Niederschrift vermerkt und im letzteren Fall von dem Notar am Rand besonders unterzeichnet werden, es sei denn, er versieht das Dokument mit seiner qualifizierten elektronischen Signatur. Ist der Niederschrift ein Schriftstück nach § 9 Abs. 1 Satz 2, den §§ 14, 37 Abs. 1 Satz 2 beigefügt, so brauchen Änderungen in dem beigefügten Schriftstück nicht unterzeichnet zu werden, wenn aus der Niederschrift hervorgeht, daß sie genehmigt worden sind.
 
-(2) Offensichtliche Unrichtigkeiten kann der Notar auch nach Abschluß der Niederschrift durch einen von ihm zu unterschreibenden Nachtragsvermerk richtigstellen. Der Nachtragsvermerk ist mit dem Datum der Richtigstellung zu versehen. Der Nachtragsvermerk ist am Schluß nach den Unterschriften oder auf einem besonderen, mit der Urkunde zu verbindenden Blatt niederzulegen. Wird die elektronische Fassung der Urschrift zum Zeitpunkt der Richtigstellung bereits in der elektronischen Urkundensammlung verwahrt, darf der Nachtragsvermerk nur noch auf einem gesonderten, mit der Urkunde zu verbindenden Blatt niedergelegt werden. Bei elektronischen Niederschriften ist der Nachtragsvermerk in einem gesonderten elektronischen Dokument niederzulegen, das vom Notar mit einer qualifizierten elektronischen Signatur zu versehen und zusammen mit der elektronischen Urschrift in der elektronischen Urkundensammlung zu verwahren ist; § 16b Absatz 4 Satz 2 und 4 und § 39a Absatz 2 Satz 1 gelten entsprechend.
+(2) Offensichtliche Unrichtigkeiten kann der Notar auch nach Abschluß der Niederschrift durch einen von ihm zu unterschreibenden Nachtragsvermerk richtigstellen. Der Nachtragsvermerk ist mit dem Datum der Richtigstellung zu versehen. Der Nachtragsvermerk ist am Schluß nach den Unterschriften oder auf einem besonderen, mit der Urkunde zu verbindenden Blatt niederzulegen. Wird die elektronische Fassung der Urschrift zum Zeitpunkt der Richtigstellung bereits in der elektronischen Urkundensammlung verwahrt, darf der Nachtragsvermerk nur noch auf einem gesonderten, mit der Urkunde zu verbindenden Blatt niedergelegt werden. Bei elektronischen Niederschriften ist der Nachtragsvermerk in einem gesonderten elektronischen Dokument niederzulegen, das vom Notar mit einer qualifizierten elektronischen Signatur zu versehen und zusammen mit der elektronischen Urschrift in der elektronischen Urkundensammlung zu verwahren ist; § 13a Absatz 4 Satz 1 und 2 und § 39a Absatz 2 Satz 1 gelten entsprechend.
 
 (3) Ergibt sich im übrigen nach Abschluß der Niederschrift die Notwendigkeit einer Änderung oder Berichtigung, so hat der Notar hierüber eine besondere Niederschrift aufzunehmen.
 
@@ -529,7 +561,7 @@ Besteht eine Urkunde aus mehreren Blättern, so sollen diese mit Schnur und Prä
 
 (2) Wird die Urschrift der notariellen Urkunde nach § 56 in ein elektronisches Dokument übertragen und in der elektronischen Urkundensammlung verwahrt, steht die elektronische Fassung der Urschrift derjenigen in Papierform gleich.
 
-(3) Das nach § 16b oder § 39a erstellte elektronische Dokument (elektronische Urkunde), das in der elektronischen Urkundensammlung verwahrt wird, gilt als Urschrift im Sinne dieses Gesetzes (elektronische Urschrift).
+(3) Das nach § 8 Absatz 2, den §§ 16b, 36 Absatz 2 oder § 39a erstellte elektronische Dokument (elektronische Urkunde), das in der elektronischen Urkundensammlung verwahrt wird, gilt als Urschrift (elektronische Urschrift).
 
 # § 45a – Aushändigung der Urschrift
 
@@ -539,7 +571,7 @@ Besteht eine Urkunde aus mehreren Blättern, so sollen diese mit Schnur und Prä
 
 # § 45b – Verwahrung und Aushändigung elektronischer Urkunden
 
-(1) Das nach § 16b erstellte elektronische Dokument bleibt in der Verwahrung des Notars. Elektronische Vervielfältigungen dieses elektronischen Dokuments sollen nicht ausgehändigt werden.
+(1) Die nach § 8 Absatz 2, den §§ 16b und 36 Absatz 2 erstellten elektronischen Dokumente bleiben in der Verwahrung des Notars. Elektronische Vervielfältigungen dieses elektronischen Dokuments sollen nicht ausgehändigt werden.
 
 (2) Das nach § 39a erstellte elektronische Dokument bleibt nur dann in der Verwahrung des Notars, wenn die Verwahrung verlangt wird. Die Verwahrung kann nur verlangt werden, wenn das Dokument den nach § 35 Absatz 4 der Verordnung über die Führung notarieller Akten und Verzeichnisse zu beachtenden Vorgaben für die Einstellung elektronischer Dokumente in die elektronische Urkundensammlung entspricht. Elektronische Vervielfältigungen dieses elektronischen Dokuments können ausgehändigt werden. Wird die Verwahrung nicht verlangt, ist das nach § 39a erstellte elektronische Dokument auszuhändigen.
 
@@ -557,7 +589,7 @@ Besteht eine Urkunde aus mehreren Blättern, so sollen diese mit Schnur und Prä
 
 # § 47 – Ausfertigung
 
-Die Ausfertigung der Niederschrift oder der elektronischen Niederschrift vertritt die Urschrift im Rechtsverkehr.
+Die Ausfertigung der Niederschrift vertritt die Urschrift im Rechtsverkehr.
 
 # § 48 – Zuständigkeit für die Erteilung der Ausfertigung
 
@@ -627,7 +659,7 @@ Sind Willenserklärungen beurkundet worden, die beim Grundbuchamt oder Registerg
 
 # § 56 – Übertragung der Papierdokumente in die elektronische Form; Einstellung der elektronischen Dokumente in die elektronische Urkundensammlung
 
-(1) Bei der Übertragung der in Papierform vorliegenden Schriftstücke in die elektronische Form soll durch geeignete Vorkehrungen nach dem Stand der Technik sichergestellt werden, dass die elektronischen Dokumente mit den in Papierform vorhandenen Schriftstücken inhaltlich und bildlich übereinstimmen. Diese Übereinstimmung ist vom Notar in einem Vermerk unter Angabe des Ortes und des Tages seiner Ausstellung zu bestätigen. Durchstreichungen, Änderungen, Einschaltungen, Radierungen oder andere Mängel des Schriftstücks sollen im Vermerk angegeben werden, soweit sie nicht aus dem elektronischen Dokument eindeutig ersichtlich sind. Das elektronische Dokument und der Vermerk müssen mit einer qualifizierten elektronischen Signatur versehen werden. § 16b Absatz 4 Satz 2 und 4 und § 39a Absatz 2 Satz 1 gelten entsprechend.
+(1) Bei der Übertragung der in Papierform vorliegenden Schriftstücke in die elektronische Form soll durch geeignete Vorkehrungen nach dem Stand der Technik sichergestellt werden, dass die elektronischen Dokumente mit den in Papierform vorhandenen Schriftstücken inhaltlich und bildlich übereinstimmen. Diese Übereinstimmung ist vom Notar in einem Vermerk unter Angabe des Ortes und des Tages seiner Ausstellung zu bestätigen. Durchstreichungen, Änderungen, Einschaltungen, Radierungen oder andere Mängel des Schriftstücks sollen im Vermerk angegeben werden, soweit sie nicht aus dem elektronischen Dokument eindeutig ersichtlich sind. Das elektronische Dokument und der Vermerk müssen mit einer qualifizierten elektronischen Signatur versehen werden. § 13a Absatz 4 Satz 1 und 2 und § 39a Absatz 2 Satz 1 gelten entsprechend.
 
 (2) Werden nach der Einstellung der elektronischen Fassung einer in der Urkundensammlung zu verwahrenden Urschrift oder Abschrift in die elektronische Urkundensammlung Nachtragsvermerke, weitere Unterlagen oder andere Urschriften der Urschrift oder Abschrift beigefügt, sind die Nachtragsvermerke, die weiteren Unterlagen und die anderen Urschriften nach Absatz 1 in elektronische Dokumente zu übertragen und zusammen mit der elektronischen Fassung der Urschrift oder Abschrift in der elektronischen Urkundensammlung zu verwahren.
 

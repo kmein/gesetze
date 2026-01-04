@@ -37,11 +37,13 @@
 
 1. Grundwehrdienst Leistende nach § 5 des Wehrpflichtgesetzes,
 
-2. freiwilligen zusätzlichen Wehrdienst Leistende im Anschluss an den Grundwehrdienst nach § 6b des Wehrpflichtgesetzes und
+2. Wehrübende nach § 6 des Wehrpflichtgesetzes,
 
-3. unbefristeten Wehrdienst Leistende nach § 4 Absatz 1 Nummer 7 des Wehrpflichtgesetzes.
+3. freiwillig verlängerten Grundwehrdienst Leistende nach § 6a des Wehrpflichtgesetzes und
 
-(4) Im Spannungs- oder Verteidigungsfall sind die §§ 12 bis 17 nicht anzuwenden.
+4. unbefristeten Wehrdienst Leistende nach § 4 Absatz 1 Nummer 4 des Wehrpflichtgesetzes.
+
+(4) Im Spannungs- oder Verteidigungsfall sind die §§ 12 bis 17a nicht anzuwenden. Abweichend von § 25 Absatz 1 werden die Leistungen nach § 19 von Amts wegen gewährt.
 
 # § 2 – Teilzeit
 
@@ -85,7 +87,7 @@ Neben Leistungen nach § 6 werden Leistungen nach § 5 nur bis zu 70 Prozent des
 
 1. Leistungen nach § 1 Absatz 2 Satz 1 und § 9 Absatz 2 Satz 2, auch in Verbindung mit Absatz 11, des Arbeitsplatzschutzgesetzes und
 
-2. Ruhegehälter nach § 27 Absatz 1 des Soldatenversorgungsgesetzes einschließlich des Unterschiedsbetrags nach § 64 Absatz 1 Satz 2 und 3 des Soldatenversorgungsgesetzes, die der oder dem Reservistendienst Leistenden weitergewährt werden.
+2. Ruhegehälter nach § 27 Absatz 1 des Soldatenversorgungsgesetzes einschließlich des Unterschiedsbetrags nach § 64 Absatz 1 Satz 2 und 3 des Soldatenversorgungsgesetzes sowie Ruhegehälter nach § 4 des Beamtenversorgungsgesetzes einschließlich des Unterschiedsbetrags nach § 50 Absatz 1 Satz 2 und 3 des Beamtenversorgungsgesetzes und Ruhegehälter nach den entsprechenden Vorschriften der Beamtenversorgungsgesetze der Länder, die der oder dem Reservistendienst Leistenden weitergewährt werden.
 
 # § 9 – Leistungen für Versorgungsempfänger
 
@@ -135,7 +137,7 @@ Reservistendienst Leistende, die sich vor dem ersten Tag eines Reservistendienst
 
 # § 14 – Dienstgeld
 
-Reservistendienst Leistende erhalten für Dienstleistungen an einem Samstag, einem Sonntag und einem gesetzlichen Feiertag sowie für eine eintägige Dienstleistung an einem Freitag eine zweite Prämie nach Spalte 2 der Tabelle in Anlage 2. Für Tage, an denen kein Dienst geleistet wird, wird die zweite Prämie nicht gewährt.
+Reservistendienst Leistende erhalten für Dienstleistungen an einem Samstag, einem Sonntag oder einem gesetzlichen Feiertag sowie für eine eintägige Dienstleistung an einem Freitag eine zweite Prämie nach Spalte 3 der Tabelle in Anlage 2. Für Tage, an denen kein Dienst geleistet wird, wird die zweite Prämie nicht gewährt. Satz 1 gilt nicht bei Anspruch auf den Auslandsverwendungszuschlag nach § 18.
 
 (+++ §§ 12 bis 17: Zur Nichtanwendung vgl. § 1 Abs. 4 +++)
 
@@ -151,7 +153,7 @@ Reservistendienst Leistende erhalten für Dienstleistungen an einem Samstag, ein
 
 (1) Reservistendienst Leistende erhalten einen widerruflichen Zuschlag zur Abgeltung besonderer Erschwernisse, sofern sie Aufgaben unter den gleichen Voraussetzungen wahrnehmen, unter denen Besoldungsempfängerinnen und Besoldungsempfängern eine Erschwerniszulage nach § 47 des Bundesbesoldungsgesetzes zusteht.
 
-(2) Der Zuschlag beträgt 70 Prozent der entsprechenden Zulage nach der auf Grund des § 47 des Bundesbesoldungsgesetzes erlassenen Rechtsverordnung.
+(2) Der Zuschlag beträgt 70 Prozent der entsprechenden Zulage nach der auf Grund des § 47 des Bundesbesoldungsgesetzes erlassenen Rechtsverordnung. Abweichend von Satz 1 beträgt der Zuschlag 100 Prozent, wenn dieser für Soldatinnen und Soldaten nicht steuerpflichtig ist.
 
 (+++ §§ 12 bis 17: Zur Nichtanwendung vgl. § 1 Abs. 4 +++)
 
@@ -162,6 +164,10 @@ Reservistendienst Leistende erhalten für Dienstleistungen an einem Samstag, ein
 (2) Der Zuschlag beträgt 70 Prozent der Leistungen, die dienstgradgleichen Besoldungsempfängerinnen und Besoldungsempfängern gewährt werden.
 
 (+++ §§ 12 bis 17: Zur Nichtanwendung vgl. § 1 Abs. 4 +++)
+
+# § 17a – Zuschlag für Fahrtkosten
+
+Reservistendienst Leistende, die aus persönlichen oder dienstlichen Gründen von der Pflicht zum Wohnen in einer Gemeinschaftsunterkunft befreit sind und täglich von der Dienststätte zu ihrer Wohnung zurückkehren, erhalten pro Tag der Dienstleistung einen Zuschlag in Höhe von 20 Cent je Kilometer der mit einem privaten Kraftfahrzeug zurückgelegten Strecke der einfachen Entfernung zwischen Dienststätte und Wohnung. Der Zuschlag ist je Tag der Dienstleistung an der Dienststätte auf höchstens 20 Euro begrenzt. Entstandene Kosten für Fahrten auf dem Land- oder Wasserweg mit regelmäßig verkehrenden Beförderungsmitteln werden bis zur Höhe der niedrigsten Beförderungsklasse entsprechend Satz 2 erstattet. Ist die Wohnung auf einer üblicherweise befahrenen Strecke weniger als 30 Kilometer von der Dienststätte entfernt oder liegt sie im Dienstort, wird der Zuschlag nicht gewährt.
 
 # § 18 – Auslandsverwendungszuschlag
 
@@ -207,11 +213,13 @@ Reservistendienst Leistenden werden die Dienstkleidung und die Ausrüstung unent
 
 (5) Bei dienstlichem Aufenthalt im Ausland unterliegt das nach Absatz 2 auszuzahlende Verpflegungsgeld dem Kaufkraftausgleich nach § 10.
 
-# § 24 – (weggefallen)
+# § 24 – Zuständigkeit
+
+Die Aufgaben dieses Gesetzes werden in bundeseigener Verwaltung durchgeführt und den Behörden der Bundeswehrverwaltung übertragen, die dem Bundesministerium der Verteidigung unterstehen.
 
 # § 25 – Antrag
 
-(1) Die Leistungen nach den §§ 5 bis 9, 14 und 19 werden auf Antrag gewährt.
+(1) Die Leistungen nach den §§ 5 bis 9, 14, 17a und 19 werden auf Antrag gewährt.
 
 (2) Das Antragsrecht endet mit Ablauf des sechsten Monats nach Beendigung des geleisteten Reservistendienstes.
 
@@ -259,12 +267,31 @@ Die Bundesministerin der Verteidigung oder der Bundesminister der Verteidigung k
 
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für das Personalmanagement der Bundeswehr.
 
-# Anlage 1 – (zu § 8)Mindestleistung
+# Anlage 1 – (zu § 8 Absatz 1)Mindestleistung
 
-(Fundstelle: BGBl. I 2019, 1184)
+(Fundstelle: BGBl. 2025 I Nr. 370, S. 16)
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+|     | Dienstgrad                                                                                                                                                                                  |                           Tagessatz                           |                                       |                                         |                                                                                                                            |
+|:---:|:----------------------|:---------:|:---------:|:---------:|:---------:|
+|     | 1                                                                                                                                                                                           |                               2                               |                   3                   |                    4                    |                                                             5                                                              |
+|     |                                                                                                                                                                                             | Reservistendienst Leistende oder Reservistendienst Leistender |                                       |                                         |                                                                                                                            |
+|     |                                                                                                                                                                                             |               ohne unterhaltsberechtigtes Kind                | mit einem unterhaltsberechtigten Kind | mit zwei unterhaltsberechtigten Kindern | mit drei unterhaltsberechtigten Kindern<span id="FnR.F835163_01"></span><a href="#F835163_01" class="FnR">1</a></sup> |
+|  1  | Jäger, Panzerschütze, Panzergrenadier, Kanonier, Pionier, Panzerpionier, Funker, Schütze, Flieger, Sanitätssoldat, Matrose, Gefreiter, Grenadier, Panzerjäger, Panzerkanonier, Panzerfunker |                            76,85 €                            |                89,52 €                |                 93,90 €                 |                                                          105,34 €                                                          |
+|  2  | Obergefreiter, Hauptgefreiter                                                                                                                                                               |                            78,04 €                            |                90,88 €                |                 95,10 €                 |                                                          106,29 €                                                          |
+|  3  | Stabsgefreiter, Oberstabsgefreiter, Unteroffizier, Maat, Fahnenjunker, Seekadett                                                                                                            |                            78,48 €                            |                91,39 €                |                 95,40 €                 |                                                          106,44 €                                                          |
+|  4  | Stabsunteroffizier, Obermaat, Korporal, Stabskorporal                                                                                                                                       |                            80,31 €                            |                93,29 €                |                 96,76 €                 |                                                          107,26 €                                                          |
+|  5  | Feldwebel, Bootsmann, Fähnrich, Fähnrich zur See, Oberfeldwebel, Oberbootsmann                                                                                                              |                            82,74 €                            |                96,04 €                |                 99,48 €                 |                                                          109,89 €                                                          |
+|  6  | Hauptfeldwebel, Hauptbootsmann, Oberfähnrich, Oberfähnrich zur See                                                                                                                          |                            86,35 €                            |               100,09 €                |                103,44 €                 |                                                          113,81 €                                                          |
+|  7  | Stabsfeldwebel, Stabsbootsmann, Oberstabsfeldwebel, Oberstabsbootsmann, Leutnant, Leutnant zur See                                                                                          |                            91,66 €                            |               106,29 €                |                109,62 €                 |                                                          119,88 €                                                          |
+|  8  | Oberleutnant, Oberleutnant zur See                                                                                                                                                          |                            96,75 €                            |               111,74 €                |                115,27 €                 |                                                          125,24 €                                                          |
+|  9  | Hauptmann, Kapitänleutnant                                                                                                                                                                  |                           106,84 €                            |               123,11 €                |                126,51 €                 |                                                          136,56 €                                                          |
+| 10  | Stabsarzt, Stabsapotheker, Stabsveterinär, Stabshauptmann, Stabskapitänleutnant, Major, Korvettenkapitän                                                                                    |                           126,36 €                            |               145,38 €                |                148,81 €                 |                                                          158,91 €                                                          |
+| 11  | Oberstabsarzt, Oberstabsapotheker, Oberstabsveterinär, Oberstleutnant, Fregattenkapitän                                                                                                     |                           128,97 €                            |               148,44 €                |                151,90 €                 |                                                          161,76 €                                                          |
+| 12  | Oberfeldarzt, Flottillenarzt, Oberfeldapotheker, Flottillenapotheker, Oberfeldveterinär                                                                                                     |                           148,97 €                            |               172,69 €                |                176,03 €                 |                                                          185,57 €                                                          |
+| 13  | Oberst, Kapitän zur See, Oberstarzt, Flottenarzt, Oberstapotheker, Flottenapotheker, Oberstveterinär und höhere Dienstgrade                                                                 |                           160,07 €                            |               186,02 €                |                189,34 €                 |                                                          189,70 €                                                          |
 
-# Anlage 2 – (zu den §§ 11, 14 und 19)Prämie, Dienstgeld, Auslandszuschlag
+\_\_\_\_\_\_\_\_\_\_
 
-(Fundstelle: BGBl. I 2019, 1185)
+# Anlage 2 – (zu den §§ 11, 14 und 19 Absatz 2)Prämie, Dienstgeld, Auslandszuschlag
+
+(Fundstelle: BGBl. 2025 I Nr. 370, S. 17)

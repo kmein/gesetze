@@ -48,8 +48,9 @@ Die Ausnahme nach § 1 Nr. 1 erstreckt sich nicht auf die in der Anlage zu diese
 
 1. Kraftfahrzeuge und Kraftfahrzeuganhänger, die ein vorgeschriebenes Kennzeichen folgender Staaten oder Gebiete führen:
 
-  
 Andorra
+
+Bosnien und Herzegowina
 
 Grönland
 
@@ -59,6 +60,8 @@ Liechtenstein
 
 Monaco
 
+Montenegro
+
 Norwegen
 
 San Marino
@@ -67,7 +70,9 @@ Schweiz
 
 Serbien
 
-Vatikanstadt;
+Vatikanstadt
+
+Vereinigtes Königreich;
 
 2. zweirädrige Kraftfahrzeuge (einschließlich Fahrräder mit Hilfsmotor), für die ein Kennzeichen nicht vorgeschrieben ist und deren Führer seinen gesetzlichen Wohnsitz in
 
@@ -85,10 +90,10 @@ Monaco
 
 hat.
 
-(2) Die Ausnahme nach Absatz 1 Nr. 1 erstreckt sich nicht auf folgende Fahrzeuge von San Marino und Vatikanstadt:  
+(2) Die Ausnahme nach Absatz 1 Nummer 1 erstreckt sich nicht auf folgende Fahrzeuge von San Marino und Vatikanstadt:  
 landwirtschaftliche Fahrzeuge, insbesondere landwirtschaftliche Zugmaschinen, ihre Anhänger sowie landwirtschaftliche Arbeitsgeräte.
 
-(3) (weggefallen)
+(3) Die Ausnahme nach Absatz 1 Nummer 1 erstreckt sich nicht auf Militärfahrzeuge, die in Bosnien und Herzegowina, Montenegro oder im Vereinigten Königreich zugelassen sind.
 
 # Schlußformel
 
@@ -96,7 +101,7 @@ Der Bundesminister für Verkehr
 
 # Anlage – (zu § 2)
 
-Fundstelle des Originaltextes: BGBl. I 2004, 2157 u. 2158
+(Fundstelle des Originaltextes: BGBl. I 2004, 2157 u. 2158)
 
   
 
@@ -106,8 +111,6 @@ Dänemark (und Faröer-Inseln)
 Kraftfahrzeuge und Kraftfahrzeuganhänger der Streitkräfte, die internationalen Vereinbarungen unterliegen. 
 Frankreich  
 Kraftfahrzeuge und Kraftfahrzeuganhänger der Streitkräfte, die internationalen Vereinbarungen unterliegen. 
-Vereinigtes Königreich Großbritannien und Nordirland einschließlich der Kanalinseln, Gibraltar und der Insel Man  
-Kraftfahrzeuge und Kraftfahrzeuganhänger der NATO-Streitkräfte. 
 Griechenland
 
 1. Fahrzeuge zwischenstaatlicher Organisationen (Grüne Schilder mit den Buchstaben "CD" und "Delta Sigma" vor der Zulassungsnummer).

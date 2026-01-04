@@ -15,7 +15,7 @@ Auf Grund des § 151 Abs. 2 Nr. 4 des Dritten Buches Sozialgesetzbuch - Arbeitsf
 
 3. bei einer Organisation erfolgt, die ohne Gewinnerzielungsabsicht Aufgaben ausführt, welche im öffentlichen Interesse liegen oder gemeinnützige, mildtätige oder kirchliche Zwecke fördern.
 
-(2) Der Ersatz von Auslagen, die dem ehrenamtlich Tätigen durch Ausübung der ehrenamtlichen Tätigkeit entstehen, berührt die Unentgeltlichkeit nicht. Dies gilt auch, wenn der Auslagenersatz in pauschalierter Form erfolgt und die Pauschale 250 Euro im Monat nicht übersteigt. Neben einer nicht steuerpflichtigen Aufwandsentschädigung, die der ehrenamtlich Tätige erhält, ist eine Pauschalierung des Auslagenersatzes nur möglich, soweit die Auslagenpauschale zusammen mit der nicht steuerpflichtigen Aufwandsentschädigung 250 Euro im Monat nicht übersteigt.
+(2) Der Ersatz von Auslagen, die dem ehrenamtlich Tätigen durch Ausübung der ehrenamtlichen Tätigkeit entstehen, berührt die Unentgeltlichkeit nicht. Dies gilt auch, wenn der Auslagenersatz in pauschalierter Form erfolgt und die Pauschale 275 Euro im Monat nicht übersteigt. Neben einer nicht steuerpflichtigen Aufwandsentschädigung, die der ehrenamtlich Tätige erhält, ist eine Pauschalierung des Auslagenersatzes nur möglich, soweit die Auslagenpauschale zusammen mit der nicht steuerpflichtigen Aufwandsentschädigung 275 Euro im Monat nicht übersteigt.
 
 # § 2 – Berufliche Eingliederung
 

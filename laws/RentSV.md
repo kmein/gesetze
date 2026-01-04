@@ -186,11 +186,11 @@ einen Anspruch auf die Auszahlung haben.
 
 # § 9 – Zahlweise
 
-(1) Zahlungen an Zahlungsempfänger mit gewöhnlichem Aufenthalt im Inland (Inlandszahlungen) sollen auf ein Konto der Zahlungsempfänger bei einem Geldinstitut innerhalb des Geltungsbereiches der Verordnung (EU) Nr. 260/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 zur Festlegung der technischen Vorschriften und der Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22) erfolgen. Die Träger der Rentenversicherung und der Renten Service sollen darauf hinwirken, daß die Zahlungsempfänger ein solches Konto benennen. Soweit Zahlungen nicht auf ein Konto erfolgen, sollen sie in einer für die Träger der Rentenversicherung möglichst wirtschaftlichen Form ausgeführt werden.
+(1) Zahlungen an Zahlungsempfänger mit gewöhnlichem Aufenthalt im Inland (Inlandszahlungen) sollen auf ein Konto der Zahlungsempfänger bei einem Geldinstitut innerhalb des Geltungsbereiches der Verordnung (EU) Nr. 260/2012 erfolgen.
 
 (2) Zahlungen an Zahlungsempfänger mit gewöhnlichem Aufenthalt im Ausland (Auslandszahlungen) sollen bei Aufenthalt innerhalb des Geltungsbereiches der in Absatz 1 genannten Verordnung auf ein Konto der Zahlungsempfänger bei einem Geldinstitut innerhalb des Geltungsbereiches dieser Verordnung erfolgen. Bei Aufenthalt der Zahlungsempfänger außerhalb des Geltungsbereiches der Verordnung sollen die Zahlungen in einer für die Träger der Rentenversicherung möglichst wirtschaftlichen Form ausgeführt werden.
 
-(3) Berechtigten Interessen der Zahlungsempfänger ist Rechnung zu tragen, soweit hierdurch keine Mehraufwendungen entstehen oder die Mehraufwendungen im Hinblick auf die Umstände des Einzelfalls gerechtfertigt erscheinen.
+(3) Berechtigten Interessen der Zahlungsempfänger ist Rechnung zu tragen, soweit dies zahlungstechnisch möglich ist und hierdurch keine Mehraufwendungen entstehen oder die Mehraufwendungen im Hinblick auf die Umstände des Einzelfalls gerechtfertigt erscheinen.
 
 (4) Die Zahlung laufender Geldleistungen ist so rechtzeitig zu bewirken, dass die Leistungen den Zahlungsempfängern nach dem gewöhnlichen Verfahrensablauf am Auszahlungstag im Sinne von § 118 Abs. 1 und § 272a Abs. 1 des Sechsten Buches Sozialgesetzbuch zur Verfügung stehen. Die Zahlung sonstiger Geldleistungen ist unverzüglich nach der Erteilung des Zahlungsauftrages zu bewirken.
 

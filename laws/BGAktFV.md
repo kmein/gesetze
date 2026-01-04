@@ -5,9 +5,9 @@
 
 Diese Verordnung gilt für die Führung von elektronischen Prozess- und Verfahrensakten bei den obersten Gerichten des Bundes nach § 298a der Zivilprozessordnung, § 14 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit, § 46e des Arbeitsgerichtsgesetzes, § 65b des Sozialgerichtsgesetzes, § 55b der Verwaltungsgerichtsordnung sowie § 52b der Finanzgerichtsordnung.
 
-# § 2 – Einführung der elektronischen Akte
+# § 2 – In Papierform angelegte Akten
 
-Die Akten können ab dem 2. April 2020 elektronisch geführt werden. Die Präsidentin oder der Präsident des jeweiligen Gerichts bestimmt durch Verwaltungsanordnung die Verfahren, in denen die Akten elektronisch geführt werden. Die Verwaltungsanordnung ist im Bundesanzeiger bekannt zu machen sowie auf der Internetseite des jeweiligen Gerichts zu veröffentlichen.
+Akten, die in Papierform angelegt wurden, können in Papierform weitergeführt werden.
 
 # § 3 – Struktur und Format der elektronischen Akten; Repräsentat
 

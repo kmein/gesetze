@@ -540,9 +540,9 @@ Der Notar hat der Aufsichtsbehörde sowie derjenigen Notarkammer, in deren Bezir
 
 2. seine qualifizierte elektronische Signaturerstellungseinheit abhandengekommen ist, missbraucht oder manipuliert wurde oder Wissensdaten zur Identifikation des Notars gegenüber der qualifizierten elektronischen Signaturerstellungseinheit einer anderen Person bekannt geworden sind,
 
-3. Wissensdaten oder andere Vorkehrungen, die zum Schutz des Elektronischen Urkundenarchivs, des Elektronischen Notariatsaktenspeichers, des Zentralen Vorsorgeregisters oder des Zentralen Testamentsregisters vor unbefugtem Zugang vorgesehen sind, missbraucht, manipuliert oder Unbefugten zugänglich geworden sind.
+3. Wissensdaten oder andere Vorkehrungen, die zum Schutz des Zentralen Vorsorgeregisters, des Zentralen Testamentsregisters, des Elektronischen Urkundenarchivs, des Elektronischen Notariatsaktenspeichers, des besonderen elektronischen Notariatspostfachs, des Videokommunikationssystems für Urkundstätigkeiten oder des Signatursystems nach § 78 Absatz 1 Satz 2 Nummer 11 vor unbefugtem Zugang vorgesehen sind, missbraucht, manipuliert oder Unbefugten zugänglich geworden sind.
 
-Im Fall des Satzes 1 Nummer 2 hat der Notar außerdem unverzüglich eine Sperrung des qualifizierten Zertifikats bei dem Vertrauensdiensteanbieter zu veranlassen und den Nachweis über die Sperrung mit der Mitteilung nach Satz 1 vorzulegen. Im Fall des Satzes 1 Nummer 3 hat die Notarkammer unverzüglich die Bundesnotarkammer zu unterrichten, wenn Anlass zu der Annahme besteht, dass die Sicherheit des Elektronischen Urkundenarchivs, des Elektronischen Notariatsaktenspeichers, des Zentralen Vorsorgeregisters oder des Zentralen Testamentsregisters auch im Hinblick auf die von anderen Stellen übermittelten oder verwahrten Daten betroffen ist.
+Im Fall des Satzes 1 Nummer 2 hat der Notar außerdem unverzüglich eine Sperrung des qualifizierten Zertifikats bei dem Vertrauensdiensteanbieter zu veranlassen und den Nachweis über die Sperrung mit der Mitteilung nach Satz 1 vorzulegen. Im Fall des Satzes 1 Nummer 3 hat die Notarkammer unverzüglich die Bundesnotarkammer zu unterrichten, wenn die Sicherheit der dort genannten Einrichtungen auch im Hinblick auf die von anderen Stellen übermittelten oder verwahrten Daten betroffen sein könnte.
 
 # § 35 – Führung der Akten und Verzeichnisse
 
@@ -1196,7 +1196,9 @@ Die näheren Bestimmungen über die Organe der Notarkammer und ihre Zuständigke
 
 9. die besonderen elektronischen Notarpostfächer (§ 78n) einzurichten;
 
-10. ein Videokommunikationssystem zu betreiben, das die Vornahme von Urkundstätigkeiten mittels Videokommunikation nach den §§ 16a bis 16e und 40a des Beurkundungsgesetzes (§ 78p) ermöglicht.
+10. das Videokommunikationssystem für Urkundstätigkeiten (§ 78p) zu betreiben;
+
+11. ein Signatursystem bereitzustellen, das das Signieren elektronischer Niederschriften nach § 13a des Beurkundungsgesetzes und die Beglaubigung elektronischer Unterschriften und elektronischer Handzeichen nach § 40b des Beurkundungsgesetzes ermöglicht.
 
 (2) Die Bundesnotarkammer führt
 

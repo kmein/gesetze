@@ -167,9 +167,9 @@ Die Berechnung des Faktors (f<sub>M</sub>) für das Kriterium „Gesamtmasse“ 
 | Gesamtmasse 41,8 t bis 200 t: | f<sub>M</sub> = 0,037926675 · x - 1,58533502 |
 | Gesamtmasse mehr als 200 t:   | f<sub>M</sub> = 0,01 · x + 4.                |
 
-c) Anzahl der am Genehmigungsverfahren durch die Genehmigungsbehörde zu beteiligenden Stellen
+c) Anzahl der am Verfahren beteiligten Stellen
 
-Die Anzahl umfasst die Summe aller am Verfahren zu beteiligenden Stellen einschließlich der des eigenen Bundeslandes.
+Die Anzahl umfasst die Summe aller am Verfahren beteiligten Stellen einschließlich der des eigenen Bundeslandes.
 
 Die Berechnung des Faktors (f<sub>B</sub>) erfolgt nach folgender Formel (x = die Summe der jeweils im Einzelfall beteiligten Stellen):
 

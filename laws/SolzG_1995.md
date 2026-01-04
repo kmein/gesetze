@@ -59,9 +59,9 @@ nach dem ab 1. Januar 1998 zu erhebenden Steuerabzugsbetrag.
 
 (3) Der Solidaritätszuschlag ist von einkommensteuerpflichtigen Personen nur zu erheben, wenn die Bemessungsgrundlage nach Absatz 1 Nummer 1 und 2, vermindert um die Einkommensteuer nach § 32d Absatz 3 und 4 des Einkommensteuergesetzes,
 
-1. in den Fällen des § 32a Absatz 5 und 6 des Einkommensteuergesetzes 39 900 Euro,
+1. in den Fällen des § 32a Absatz 5 und 6 des Einkommensteuergesetzes 40 700 Euro,
 
-2. in anderen Fällen 19 950 Euro
+2. in anderen Fällen 20 350 Euro
 
 übersteigt. Auf die Einkommensteuer nach § 32d Absatz 3 und 4 des Einkommensteuergesetzes ist der Solidaritätszuschlag ungeachtet des Satzes 1 zu erheben.
 
@@ -69,31 +69,31 @@ nach dem ab 1. Januar 1998 zu erhebenden Steuerabzugsbetrag.
 
 1. bei monatlicher Lohnzahlung
 
-a) in der Steuerklasse III mehr als ein Zwölftel des in Absatz 3 Satz 1 Nummer 1 angegebenen Betrages und
+a) in der Steuerklasse III mehr als 3 021,67 Euro und
 
-b) in den Steuerklassen I, II, IV bis VI mehr als ein Zwölftel des in Absatz 3 Satz 1 Nummer 2 angegebenen Betrages,
+b) in den Steuerklassen I, II, IV bis VI mehr als 1 510,83 Euro,
 
 2. bei wöchentlicher Lohnzahlung
 
-a) in der Steuerklasse III mehr als sieben Dreihundertsechzigstel des in Absatz 3 Satz 1 Nummer 1 angegebenen Betrages und
+a) in der Steuerklasse III mehr als 705,06 Euro und
 
-b) in den Steuerklassen I, II, IV bis VI mehr als sieben Dreihundertsechzigstel des in Absatz 3 Satz 1 Nummer 2 angegebenen Betrages,
+b) in den Steuerklassen I, II, IV bis VI mehr als 352,53 Euro,
 
 3. bei täglicher Lohnzahlung
 
-a) in der Steuerklasse III mehr als ein Dreihundertsechzigstel des in Absatz 3 Satz 1 Nummer 1 angegebenen Betrages und
+a) in der Steuerklasse III mehr als 100,72 Euro und
 
-b) in den Steuerklassen I, II, IV bis VI mehr als ein Dreihundertsechzigstel des in Absatz 3 Satz 1 Nummer 2 angegebenen Betrages beträgt.
+b) in den Steuerklassen I, II, IV bis VI mehr als 50,36 Euro beträgt.
 
 (4a) Beim Abzug von einem sonstigen Bezug ist der Solidaritätszuschlag nur zu erheben, wenn die Jahreslohnsteuer im Sinne des § 39b Absatz 3 Satz 5 des Einkommensteuergesetzes unter Berücksichtigung des Kinderfreibetrags und des Freibetrags für den Betreuungs- und Erziehungs- oder Ausbildungsbedarf für jedes Kind entsprechend den Vorgaben in Absatz 2a folgende Beträge übersteigt:
 
-1. in den Steuerklassen I, II, IV bis VI den Betrag nach Absatz 3 Satz 1 Nummer 2 und
+1. in den Steuerklassen I, II, IV bis VI 18 130 Euro und
 
-2. in der Steuerklasse III den Betrag nach Absatz 3 Satz 1 Nummer 1.
+2. in der Steuerklasse III 36 260 Euro.
 
 Die weiteren Berechnungsvorgaben in § 39b Absatz 3 des Einkommensteuergesetzes finden Anwendung.
 
-(5) Beim Lohnsteuer-Jahresausgleich ist der Solidaritätszuschlag nur zu ermitteln, wenn die Bemessungsgrundlage in Steuerklasse III mehr als den Betrag nach Absatz 3 Satz 1 Nummer 1 und in den Steuerklassen I, II oder IV mehr als den Betrag nach Absatz 3 Satz 1 Nummer 2 beträgt.
+(5) Beim Lohnsteuer-Jahresausgleich ist der Solidaritätszuschlag nur zu ermitteln, wenn die Bemessungsgrundlage in Steuerklasse III mehr als 36 260 Euro und in den Steuerklassen I, II oder IV mehr als 18 130 Euro beträgt.
 
 (+++ § 3: Zur Anwendung vgl. § 6 +++)
 
@@ -160,3 +160,5 @@ Werden auf Grund eines Abkommens zur Vermeidung der Doppelbesteuerung im Geltung
 (25) § 3 Absatz 2a Satz 1 in Verbindung mit § 32 Absatz 6 Satz 1 des Einkommensteuergesetzes in der am 6. Dezember 2024 geltenden Fassung ist erstmals anzuwenden auf laufenden Arbeitslohn, der für einen nach dem 30. November 2024 endenden Lohnzahlungszeitraum gezahlt wird, und auf sonstige Bezüge, die nach dem 30. November 2024 zufließen. Bei der Lohnsteuerberechnung auf laufenden Arbeitslohn, der für einen nach dem 30. November 2024 aber vor dem 1. Januar 2025 endenden täglichen, wöchentlichen und monatlichen Lohnzahlungszeitraum gezahlt wird, ist zu berücksichtigen, dass § 3 Absatz 2a Satz 1 in Verbindung mit § 32 Absatz 6 Satz 1 des Einkommensteuergesetzes in der am 6. Dezember 2024 geltenden Fassung bis zum 30. November 2024 nicht angewandt wurde (Nachholung). Das Bundesministerium der Finanzen hat dies im Einvernehmen mit den obersten Finanzbehörden der Länder bei der Aufstellung und Bekanntmachung der entsprechenden Programmablaufpläne zu berücksichtigen (§ 52 Absatz 32a Satz 3 des Einkommensteuergesetzes).
 
 (26) § 3 Absatz 3 in der Fassung des Artikels 3 des Gesetzes vom 23. Dezember 2024 (BGBl. 2024 I Nr. 449) ist erstmals im Veranlagungszeitraum 2025 anzuwenden. § 3 Absatz 4 und 4a in der Fassung des Artikels 3 des Gesetzes vom 23. Dezember 2024 (BGBl. 2024 I Nr. 449) ist erstmals auf den laufenden Arbeitslohn anzuwenden, der für einen nach dem 31. Dezember 2024 endenden Lohnzahlungszeitraum gezahlt wird, und auf sonstige Bezüge, die nach dem 31. Dezember 2024 zufließen. § 3 Absatz 5 in der Fassung des Artikels 3 des Gesetzes vom 23. Dezember 2024 (BGBl. 2024 I Nr. 449) ist beim Lohnsteuer-Jahresausgleich durch den Arbeitgeber (§ 42b des Einkommensteuergesetzes) erstmals für das Ausgleichsjahr 2025 anzuwenden.
+
+(27) § 3 Absatz 3 in der Fassung des Artikels 4 des Gesetzes vom 23. Dezember 2024 (BGBl. 2024 I Nr. 449) ist erstmals im Veranlagungszeitraum 2026 anzuwenden.

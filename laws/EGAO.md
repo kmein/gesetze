@@ -511,7 +511,9 @@ in den Aufzeichnungen nach § 154 Absatz 2 bis 2c der Abgabenordnung in der am 2
 
 # § 28 – Elektronische Bekanntgabe von Verwaltungsakten
 
-§ 87a Absatz 7 und 8, die §§ 122a und 169 Absatz 1 der Abgabenordnung in der am 1. Januar 2017 geltenden Fassung sind erstmals auf Verwaltungsakte anzuwenden, die nach dem 31. Dezember 2016 erlassen worden sind. § 8 Absatz 4 Satz 4 gilt entsprechend.
+(1) § 87a Absatz 7 und 8, die §§ 122a und 169 Absatz 1 der Abgabenordnung in der am 1. Januar 2017 geltenden Fassung sind erstmals auf Verwaltungsakte anzuwenden, die nach dem 31. Dezember 2016 erlassen worden sind. § 8 Absatz 4 Satz 4 gilt entsprechend.
+
+(2) Die §§ 122a und 169 Absatz 1 Satz 3 Nummer 1 der Abgabenordnung in der am 1. Januar 2026 geltenden Fassung sind erstmals auf Verwaltungsakte anzuwenden, die nach dem 31. Dezember 2025 erlassen worden sind. Abweichend von Satz 1 ist § 122a Absatz 1 Satz 2 der Abgabenordnung in der am 1. Januar 2026 geltenden Fassung erstmalig auf Verwaltungsakte anzuwenden, die nach dem 31. Dezember 2026 erlassen worden sind.
 
 # § 29 – Abweichende Festsetzung von Steuern aus Billigkeitsgründen
 

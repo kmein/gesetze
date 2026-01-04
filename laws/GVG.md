@@ -255,7 +255,7 @@ Die Gültigkeit der Handlung eines Richters beim Amtsgericht wird nicht dadurch 
 
 Die Zuständigkeit der Amtsgerichte umfaßt in bürgerlichen Rechtsstreitigkeiten, soweit sie nicht ohne Rücksicht auf den Wert des Streitgegenstandes den Landgerichten zugewiesen sind:
 
-1. Streitigkeiten über Ansprüche, deren Gegenstand an Geld oder Geldeswert die Summe von fünftausend Euro nicht übersteigt;
+1. Streitigkeiten über Ansprüche, deren Gegenstand an Geld oder Geldeswert die Summe von zehntausend Euro nicht übersteigt;
 
 2. ohne Rücksicht auf den Wert des Streitgegenstandes:
 
@@ -267,7 +267,7 @@ c) Streitigkeiten nach § 43 Absatz 2 des Wohnungseigentumsgesetzes; diese Zust�
 
 d) Streitigkeiten wegen Wildschadens;
 
-e) (weggefallen)
+e) Streitigkeiten über Ansprüche aus dem Nachbarrecht nach den §§ 910, 911, 923 des Bürgerlichen Gesetzbuchs und nach § 906 des Bürgerlichen Gesetzbuchs sowie nach den landesgesetzlichen Vorschriften im Sinne des Artikels 124 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche, sofern es sich nicht um Einwirkungen von einem gewerblichen Betrieb handelt;
 
 f) (weggefallen)
 
@@ -701,7 +701,13 @@ a) über das Anordnungsrecht des Bestellers gemäß § 650b des Bürgerlichen Ge
 
 b) über die Höhe des Vergütungsanspruchs infolge einer Anordnung des Bestellers (§ 650c des Bürgerlichen Gesetzbuchs);
 
-6. für Ansprüche aus dem Unternehmensstabilisierungs- und -restrukturierungsgesetz.
+6. für Ansprüche aus dem Unternehmensstabilisierungs- und -restrukturierungsgesetz;
+
+7. in Streitigkeiten über Ansprüche aus Veröffentlichungen durch Druckerzeugnisse und Bild- und Tonträger jeder Art, insbesondere in Presse, Rundfunk, Film und Fernsehen sowie im Internet;
+
+8. in Streitigkeiten über die Vergabe von öffentlichen Aufträgen, Konzessionen oder Rahmenvereinbarungen, soweit sich nicht aus Teil 4 des Gesetzes gegen Wettbewerbsbeschränkungen eine andere Zuständigkeit ergibt;
+
+9. in Streitigkeiten aus Heilbehandlungen.
 
 (3) Der Landesgesetzgebung bleibt überlassen, Ansprüche gegen den Staat oder eine Körperschaft des öffentlichen Rechts wegen Verfügungen der Verwaltungsbehörden sowie Ansprüche wegen öffentlicher Abgaben ohne Rücksicht auf den Wert des Streitgegenstandes den Landgerichten ausschließlich zuzuweisen.
 
@@ -727,11 +733,13 @@ b) über die Höhe des Vergütungsanspruchs infolge einer Anordnung des Bestelle
 
 4. Streitigkeiten aus Versicherungsvertragsverhältnissen,
 
-5. Streitigkeiten über Ansprüche aus Veröffentlichungen durch Druckerzeugnisse, Bild- und Tonträger jeder Art, insbesondere in Presse, Rundfunk, Film und Fernsehen,
+5. Streitigkeiten über Ansprüche aus Veröffentlichungen durch Druckerzeugnisse und Bild- und Tonträger jeder Art, insbesondere in Presse, Rundfunk, Film und Fernsehen sowie im Internet,
 
-6. erbrechtliche Streitigkeiten und
+6. erbrechtliche Streitigkeiten,
 
-7. insolvenzrechtliche Streitigkeiten und Beschwerden, Anfechtungssachen nach dem Anfechtungsgesetz sowie Streitigkeiten und Beschwerden aus dem Unternehmensstabilisierungs- und -restrukturierungsgesetz.
+7. insolvenzrechtliche Streitigkeiten und Beschwerden, Anfechtungssachen nach dem Anfechtungsgesetz sowie Streitigkeiten und Beschwerden aus dem Unternehmensstabilisierungs- und -restrukturierungsgesetz und
+
+8. Streitigkeiten über die Vergabe von öffentlichen Aufträgen, Konzessionen oder Rahmenvereinbarungen, soweit sich nicht aus Teil 4 des Gesetzes gegen Wettbewerbsbeschränkungen eine andere Zuständigkeit ergibt.
 
 (2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung bei den Landgerichten eine oder mehrere Zivilkammern für weitere Sachgebiete einzurichten. Die Landesregierungen können die Ermächtigung auf die Landesjustizverwaltungen übertragen.
 
@@ -1232,11 +1240,13 @@ b) in den Angelegenheiten der freiwilligen Gerichtsbarkeit mit Ausnahme der Frei
 
 4. Streitigkeiten aus Versicherungsvertragsverhältnissen,
 
-5. Streitigkeiten über Ansprüche aus Veröffentlichungen durch Druckerzeugnisse, Bild- und Tonträger jeder Art, insbesondere in Presse, Rundfunk, Film und Fernsehen,
+5. Streitigkeiten über Ansprüche aus Veröffentlichungen durch Druckerzeugnisse und Bild- und Tonträger jeder Art, insbesondere in Presse, Rundfunk, Film und Fernsehen sowie im Internet,
 
-6. erbrechtliche Streitigkeiten und
+6. erbrechtliche Streitigkeiten,
 
-7. insolvenzrechtliche Streitigkeiten, Anfechtungssachen nach dem Anfechtungsgesetz sowie Streitigkeiten aus dem Unternehmensstabilisierungs- und -restrukturierungsgesetz.
+7. insolvenzrechtliche Streitigkeiten und Beschwerden, Anfechtungssachen nach dem Anfechtungsgesetz sowie Streitigkeiten und Beschwerden aus dem Unternehmensstabilisierungs- und -restrukturierungsgesetz und
+
+8. Streitigkeiten über die Vergabe von öffentlichen Aufträgen, Konzessionen oder Rahmenvereinbarungen, soweit sich nicht aus Teil 4 des Gesetzes gegen Wettbewerbsbeschränkungen eine andere Zuständigkeit ergibt.
 
 (2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung bei den Oberlandesgerichten einen oder mehrere Zivilsenate für weitere Sachgebiete einzurichten. Die Landesregierungen können die Ermächtigung auf die Landesjustizverwaltungen übertragen.
 

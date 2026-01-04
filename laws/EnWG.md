@@ -263,80 +263,88 @@
 <td style="text-align: left;" data-valign="top" data-charoff="50">Systemstabilitätsbericht, Monitoring der Systemstabilität</td>
 </tr>
 <tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 12j</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Infrastrukturgebieteplan im Übertragungsnetz</td>
+</tr>
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 13</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Systemverantwortung der Betreiber von Übertragungsnetzen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 13a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Erzeugungsanpassung und ihr bilanzieller und finanzieller Ausgleich</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 13b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Stilllegungen von Anlagen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 13c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vergütung bei geplanten Stilllegungen von Anlagen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 13d</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Netzreserve</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 13e</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Kapazitätsreserve</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 13f</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Systemrelevante Gaskraftwerke</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 13g</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Stilllegung von Braunkohlekraftwerken</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 13h</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verordnungsermächtigung zur Kapazitätsreserve</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 13i</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Weitere Verordnungsermächtigungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 13j</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Festlegungskompetenzen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 13k</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Nutzen statt Abregeln</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 13l</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Umrüstung einer Erzeugungsanlage zu einem Betriebsmittel zur Bereitstellung von Blind- und Kurzschlussleistung sowie von Trägheit der lokalen Netzstabilität; Betrieb des Betriebsmittels</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 14</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Aufgaben der Betreiber von Elektrizitätsverteilernetzen; Festlegungskompetenz, Evaluation</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 14a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Netzorientierte Steuerung von steuerbaren Verbrauchseinrichtungen und steuerbaren Netzanschlüssen; Festlegungskompetenzen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 14b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Steuerung von vertraglichen Abschaltvereinbarungen, Verordnungsermächtigung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 14c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Marktgestützte Beschaffung von Flexibilitätsdienstleistungen im Elektrizitätsverteilernetz; Festlegungskompetenz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 14d</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Planung und besondere Bedeutung des Verteilernetzausbaus; Festlegungskompetenz; Verordnungsermächtigung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 14e</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gemeinsame Internetplattform; Festlegungskompetenz</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 14f</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Infrastrukturgebieteplan im Elektrizitätsverteilernetz</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 15</td>
@@ -885,6 +893,14 @@ Gewährleistung der Versorgungssicherheit</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anwendbarkeit von Artikel 6 der Verordnung (EU) 2022/2577</td>
 </tr>
 <tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 43n</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Vorhaben in Infrastrukturgebieten</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 43o</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Vergleich zur ursprünglichen Netzinfrastruktur</td>
+</tr>
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 44</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vorarbeiten</td>
 </tr>
@@ -1414,140 +1430,144 @@ Gewährleistung der Versorgungssicherheit</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Geschlossene Verteilernetze</td>
 </tr>
 <tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 110a</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Ausnahmeregelung nach Artikel 6 der Verordnung (EU) 2024/1991</td>
+</tr>
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 111</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verhältnis zum Gesetz gegen Wettbewerbsbeschränkungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 111a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verbraucherbeschwerden</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 111b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Schlichtungsstelle, Verordnungsermächtigung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 111c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zusammentreffen von Schlichtungsverfahren und Missbrauchs- oder Aufsichtsverfahren</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Teil 9a</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Transparenz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 111d</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50">Einrichtung einer nationalen Informationsplattform</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 111e</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50">Marktstammdatenregister</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 111f</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50">Verordnungsermächtigung zum Marktstammdatenregister</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 111g</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50">Festlegungskompetenz, Datenerhebung und -verarbeitung; Einrichtung und Betrieb einer nationalen Transparenzplattform</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Teil 10</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Evaluierung, Schlussvorschriften</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 112</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 112a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 112b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Berichte des Bundesministeriums für Wirtschaft und Energie sowie der Bundesnetzagentur zur Evaluierung der Wasserstoffregulierung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 113</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Laufende Wegenutzungsverträge</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 113a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Überleitung von Wegenutzungsrechten auf Wasserstoffleitungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 113b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Umstellung von Erdgasleitungen im Netzentwicklungsplan Gas und Wasserstoff</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 113c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsregelungen zu Sicherheitsanforderungen; Anzeigepflicht und Verfahren zur Prüfung von Umstellungsvorhaben</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 114</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 115</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 116</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 117</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Konzessionsabgaben für die Wasserversorgung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 117a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Regelung bei Stromeinspeisung in geringem Umfang</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 117b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verwaltungsvorschriften</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 117c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Umgang mit geheimhaltungsbedürftigen Informationen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 118</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsregelungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 118a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Regulatorische Rahmenbedingungen für LNG-Anlagen; Verordnungsermächtigung und Subdelegation</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 118b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 118c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 119</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verordnungsermächtigung für das Forschungs- und Entwicklungsprogramm „Schaufenster intelligente Energie – Digitale Agenda für die Energiewende“</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 120</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Schrittweiser Abbau der Entgelte für dezentrale Einspeisung; Übergangsregelung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 121</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anlage (zu § 13g)</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Berechnung der Vergütung</td>
 </tr>
@@ -2927,6 +2947,44 @@ Dabei darf die Beschaffung dieser Systemdienstleistungen nur erfolgen, soweit di
 
 (7) Spätestens sechs Monate nach Erhalt des Berichts nach Absatz 1 legt die Regulierungsbehörde dem Bundesministerium für Wirtschaft und Energie die Bewertung nach Absatz 5 sowie einen Bericht zum Monitoring nach Absatz 6 vor und veröffentlicht diese sowie den Bericht nach Absatz 1.
 
+# § 12j – Infrastrukturgebieteplan im Übertragungsnetz
+
+(1) Für nach dem Ablauf des 19. November 2023 erstmals im Netzentwicklungsplan durch die Regulierungsbehörde nach § 12c bestätigte Maßnahmen für Energieleitungen kann die Planfeststellungsbehörde oder die nach Landesrecht zuständige Behörde auf Antrag des Trägers des Vorhabens anhand von vorhandenen Daten zur großräumigen Raum- und Umweltsituation Infrastrukturgebiete für die Umsetzung von Maßnahmen zur Optimierung, Verstärkung und zum Ausbau des Elektrizitätsversorgungsnetzes in einem Plan ausweisen (Infrastrukturgebieteplan). In der ausschließlichen Wirtschaftszone kann die Zulassungsbehörde Infrastrukturgebiete nach Satz 1 für erstmals im Flächenentwicklungsplan festgelegte Trassen und Trassenkorridore sowie Standorte von Konverter-, Sammel- oder Umspannplattformen für Offshore-Anbindungsleitungen ohne Antrag ausweisen. Sofern Geodaten über die verbindlichen Festlegungen der Landes- und Regionalplanung benötigt werden, legt die Planfeststellungsbehörde oder die nach Landesrecht zuständige Behörde die Daten des Raumordnungsplan-Monitors des Bundesinstituts für Bau-, Stadt- und Raumforschung zugrunde, die ihr für diesen Zweck zur Verfügung zu stellen sind. Landesbehörden können stattdessen die verfügbaren Geodaten über die verbindlichen Festlegungen der Landes- und Regionalplanung zugrunde legen. Für die Herausgabe von Geodaten ist § 31 Absatz 4 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz entsprechend anzuwenden. Der Infrastrukturgebieteplan hat folgende Gebiete zu meiden, es sei denn, es gibt unter Berücksichtigung der mit dem Gebiet verbundenen Ziele keine verhältnismäßige Alternative:
+
+1. Natura 2000-Gebiete,
+
+2. Naturschutzgebiete nach § 23 des Bundesnaturschutzgesetzes vom 29. Juli 2009 (BGBl. I S. 2542), das zuletzt durch Artikel 48 des Gesetzes vom 23. Oktober 2024 (BGBl. 2024 I Nr. 323) geändert worden ist,
+
+3. Nationalparke nach § 24 des Bundesnaturschutzgesetzes,
+
+4. die Kernzone und die Pflegezone der Biosphärenreservate nach § 25 Absatz 3 des Bundesnaturschutzgesetzes sowie
+
+5. Meeresgebiete, die durch eine Rechtsverordnung nach § 57 des Bundesnaturschutzgesetzes geschützt sind.
+
+Zur Vorbereitung der Ausweisung des Infrastrukturgebiets kann die Planfeststellungsbehörde oder die nach Landesrecht zuständige Behörde den Vorhabenträger auffordern, einen Vorschlag für das auszuweisende Infrastrukturgebiet zu übermitteln.
+
+(2) Soweit die gemeinsame Durchführung mehrerer Maßnahmen nach Absatz 1 Satz 1 oder § 14f Absatz 1 Satz 1, für die jeweils ein Infrastrukturgebiet ausgewiesen werden soll, im räumlichen und zeitlichen Zusammenhang sinnvoll erscheint, können die Planfeststellungsbehörden oder die nach Landesrecht zuständigen Behörden im gegenseitigen Einvernehmen festlegen, dass die Ausweisung eines einheitlichen Infrastrukturgebiets nach Maßgabe der für eine der Maßnahmen geltenden Rechtsvorschriften durch die für diese Maßnahme zuständige Behörde erfolgt. Satz 1 ist nur anzuwenden, soweit die betroffenen Träger der Vorhaben zustimmen. Um eine solche Bündelung zu ermöglichen, darf die nach Satz 1 zuständige Behörde Kopplungsräume setzen. Der Antrag nach Absatz 1 Satz 1 soll Angaben dazu enthalten, inwieweit die gemeinsame Durchführung mehrerer Maßnahmen nach Satz 1 sinnvoll erscheint.
+
+(3) Bei der Ausweisung eines Infrastrukturgebiets berücksichtigt die Planfeststellungsbehörde oder die nach Landesrecht zuständige Behörde, inwiefern die Bestätigung des Netzentwicklungsplans für die Maßnahmen eine Änderung und Erweiterung einer Leitung im Sinne von § 3 Nummer 1 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz, einen Ersatzneubau im Sinne von § 3 Nummer 4 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz oder einen Parallelneubau im Sinne von § 3 Nummer 5 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz vorsieht. Dazu ist bei der Ausweisung des Infrastrukturgebiets insbesondere die Bestandstrasse im Sinne von § 3 Nummer 2 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz zugrunde zu legen.
+
+(4) Für erstmals im Flächenentwicklungsplan festgelegte Trassen und Trassenkorridore sowie Konverterstandorte für Offshore-Anbindungsleitungen in der ausschließlichen Wirtschaftszone erfolgt die Ausweisung als Infrastrukturgebiet im Infrastrukturgebieteplan anhand von vorhandenen Daten.
+
+(5) Die Ausweisung von Infrastrukturgebieten hat keine unmittelbare Außenwirkung und ersetzt nicht die Entscheidung über die Zulässigkeit der Netzausbau-, Netzverstärkungs- oder Netzoptimierungsmaßnahme. Die Ausweisung von Infrastrukturgebieten kann nur im Rahmen des Rechtsbehelfsverfahrens gegen die Zulassungsentscheidung für die jeweilige Netzausbaumaßnahme überprüft werden. § 75 Absatz 1a des Verwaltungsverfahrensgesetzes ist entsprechend anzuwenden. § 4 Absatz 1 des Raumordnungsgesetzes vom 22. Dezember 2008 (BGBl. I S. 2986), das zuletzt durch Artikel 1 des Gesetzes vom 22. März 2023 (BGBl. 2023 I Nr. 88) geändert worden ist, in der jeweils geltenden Fassung ist bei der Ausweisung von Infrastrukturgebieten mit der Maßgabe anzuwenden, dass nur die Ziele der Raumordnung und diese nur soweit entsprechend der jeweiligen Datengrundlage nach Absatz 1 Satz 3 und 4 möglich, zu beachten sind. Für den Infrastrukturgebieteplan sowie für Maßnahmen, die in einem ausgewiesenen Infrastrukturgebiet verwirklicht werden sollen, ist keine Raumverträglichkeitsprüfung nach § 15 des Raumordnungsgesetzes durchzuführen.
+
+(6) Für den Infrastrukturgebieteplan ist eine Strategische Umweltprüfung und gegebenenfalls eine Verträglichkeitsprüfung nach § 36 des Bundesnaturschutzgesetzes durchzuführen. Die Verträglichkeitsprüfung muss ebenengerecht erfolgen. Für Offshore-Anbindungsleitungen in der ausschließlichen Wirtschaftszone ist eine Strategische Umweltprüfung nur durchzuführen, wenn diese noch nicht im Verfahren zur Aufstellung des Flächenentwicklungsplans durchgeführt wurde oder die Strategische Umweltprüfung, die im Verfahren zur Aufstellung des Flächenentwicklungsplans durchgeführt wurde, die Umweltauswirkungen im Infrastrukturgebiet nicht mit berücksichtigt.
+
+(7) Die Planfeststellungsbehörde oder die nach Landesrecht zuständige Behörde sieht in dem Infrastrukturgebieteplan Regeln für geeignete und verhältnismäßige Minderungsmaßnahmen vor, die zu ergreifen sind, um mögliche Auswirkungen auf die Erhaltungsziele nach § 7 Absatz 1 Nummer 9 des Bundesnaturschutzgesetzes und auf europäische Vogelarten nach § 7 Absatz 2 Nummer 12 des Bundesnaturschutzgesetzes, in Anhang IV der Richtlinie 92/43/EWG aufgeführte Arten oder Arten, die in einer Rechtsverordnung nach § 54 Absatz 1 Nummer 2 des Bundesnaturschutzgesetzes aufgeführt sind, zu vermeiden oder, falls dies nicht möglich ist, solche Auswirkungen erheblich zu verringern.
+
+(8) Die Planfeststellungsbehörde oder die nach Landesrecht zuständige Behörde beteiligt vor der Ausweisung des Infrastrukturgebiets die Behörden, deren Aufgabenbereich berührt wird, die zuständigen Betreiber von Übertragungsnetzen mit Regelzonenverantwortung und die Öffentlichkeit nach den Bestimmungen des Gesetzes über die Umweltverträglichkeitsprüfung, soweit sich aus den nachfolgenden Vorschriften oder aus § 70b des Windenergie-auf-See-Gesetzes nicht etwas anderes ergibt.Gegenstand der Beteiligung ist der Entwurf des Infrastrukturgebieteplans und der Umweltbericht. Die Unterlagen für die Strategische Umweltprüfung sowie der Entwurf des Infrastrukturgebieteplans sind von der Planfeststellungsbehörde oder der nach Landesrecht zuständigen Behörde für die Dauer von einem Monat zur Einsicht auszulegen. Die Auslegung ist dadurch zu bewirken, dass die Dokumente auf der Internetseite der Planfeststellungsbehörde oder der nach Landesrecht zuständigen Behörde zugänglich gemacht werden. Auf Verlangen eines Beteiligten wird ihm eine leicht zu erreichende Zugangsmöglichkeit zur Verfügung gestellt. Die Auslegung ist auf der Internetseite der Planfeststellungsbehörde oder der nach Landesrecht zuständigen Behörde sowie in einer überregionalen oder regionalen Tageszeitung öffentlich bekannt zu machen, dabei ist auf das nach Satz 5 bestehende Recht der Beteiligten hinzuweisen. Die betroffene Öffentlichkeit kann sich zum Entwurf des Infrastrukturgebieteplans und zum Umweltbericht bis einen Monat nach Ende der Auslegung äußern. Für Offshore-Anbindungsleitungen in der ausschließlichen Wirtschaftszone kann die Anhörung nach Satz 1 im Rahmen der Strategischen Umweltprüfung des Flächenentwicklungsplans durchgeführt werden. Wird die Anhörung nach Satz 1 im Rahmen der Umweltprüfung des Flächenentwicklungsplans durchgeführt, konsultiert das Bundesamt für Seeschifffahrt und Hydrographie vor der Ausweisung des Infrastrukturgebiets die zuständigen Betreiber von Übertragungsnetzen mit Regelzonenverantwortung.
+
+(9) Die vom Träger des Vorhabens beantragte Ausweisung des Infrastrukturgebiets soll spätestens 20 Monate nach Antragstellung erfolgen. Die Planfeststellungsbehörde oder die nach Landesrecht zuständige Behörde kann nach Anhörung des Trägers des Vorhabens vorsehen, dass die Ausweisung von Infrastrukturgebieten zu einem späteren Zeitpunkt erfolgt, wenn nach überschlägiger Prüfung der geplante Inbetriebnahmezeitpunkt der jeweiligen Maßnahme nicht gefährdet wird, dabei ist Absatz 2 zu berücksichtigen. Die Bundesnetzagentur nimmt die Ausweisung von Infrastrukturgebieten auch für Maßnahmen vor, bei denen sie nicht die zuständige Planfeststellungsbehörde ist, sofern die Planfeststellungsbehörde oder die nach Landesrecht zuständige Behörde dies innerhalb von einem Monat, nachdem aufgrund Änderung des Bundesbedarfsplans nach § 12e feststeht, welche Behörde für die Planfeststellung zuständig ist, verlangt. Die Bundesnetzagentur kann die Frist nach Satz 3 verlängern. Die Ausweisung des Infrastrukturgebiets für Offshore-Anbindungsleitungen in der ausschließlichen Wirtschaftszone erfolgt spätestens sechs Monate nach der Bekanntmachung des Flächenentwicklungsplans.
+
+(10) Der Träger des Vorhabens kann den Antrag nach Absatz 1 Satz 1 innerhalb von einem Monat, nachdem aufgrund einer Änderung des Bundesbedarfsplans nach § 12e feststeht, welche Behörde für die Planfeststellung zuständig ist, bei der Planfeststellungsbehörde oder der nach Landesrecht zuständigen Behörde stellen. Bei Maßnahmen im Sinne von Absatz 1 Satz 1, die bereits vor dem 23. Dezember 2025 in den Bundesbedarfsplan aufgenommen wurden, beginnt die Frist nach Satz 1 abweichend am 23. Dezember 2025. Die Planfeststellungsbehörde oder die nach Landesrecht zuständige Behörde kann die Frist nach den Sätzen 1 und 2 verlängern. Die Sätze 1 bis 3 sind nicht für Offshore-Anbindungsleitungen in der ausschließlichen Wirtschaftszone anzuwenden. Die Absätze 1 bis 9 sind nicht anzuwenden auf Maßnahmen, für die vor dem 23. Dezember 2025 bereits nach § 12c Absatz 2a mit der Ermittlung eines Präferenzraums begonnen wurde. Sofern für eine Maßnahme nach Satz 5 bis zum Ablauf des 30. Juni 2025 kein Antrag auf Planfeststellung gestellt wurde, sind die Absätze 1 bis 9 auch auf diese Maßnahme anzuwenden, wobei die Fristen nach Satz 1 und nach Absatz 9 Satz 1 und 3 am 23. Dezember 2025 beginnen.
+
+(11) Wurden Maßnahmen im Sinne von Absatz 1 Satz 1 im Netzentwicklungsplan von der Regulierungsbehörde unter einem Vorbehalt bestätigt, beginnen die Fristen nach den Absätzen 9 und 10 frühestens mit dem Wegfall des Vorbehalts. Die Ausweisung des Infrastrukturgebiets für eine solche Maßnahme kann zu einem früheren Zeitpunkt erfolgen, wenn der Vorhabenträger dies gegenüber der Planfeststellungsbehörde oder der nach Landesrecht zuständigen Behörde beantragt. In den Fällen des Satzes 2 beginnt die Frist nach Absatz 9 Satz 3 mit Zugang des Antrags nach Satz 2.
+
+(12) Für eine nach dem 1. Januar 2025 erstmals im Netzentwicklungsplan bestätigte Maßnahme ist kein Präferenzraum nach § 12c Absatz 2a zu ermitteln.
+
 # § 13 – Systemverantwortung der Betreiber von Übertragungsnetzen
 
 (1) Sofern die Sicherheit oder Zuverlässigkeit des Elektrizitätsversorgungssystems in der jeweiligen Regelzone gefährdet oder gestört ist, sind die Betreiber der Übertragungsnetze berechtigt und verpflichtet, die Gefährdung oder Störung zu beseitigen durch
@@ -3635,6 +3693,20 @@ Die Regulierungsbehörde kann Vorgaben zu Form, Inhalt und Art der Übermittlung
 
 (7) Die Regulierungsbehörde kann durch Festlegung nach § 29 Absatz 1 nähere Bestimmungen zu den Absätzen 1 bis 5 treffen.
 
+# § 14f – Infrastrukturgebieteplan im Elektrizitätsverteilernetz
+
+(1) Für Maßnahmen zur Errichtung und zum Betrieb sowie zur Änderung von Hochspannungsfreileitungen mit einer Nennspannung von 110 Kilovolt, die Betreiber von Elektrizitätsverteilernetzen nach § 14d Absatz 4 Satz 1 Nummer 4 in ihrem Netzausbauplan angegeben haben, kann die Planfeststellungsbehörde oder die nach Landesrecht zuständige Behörde auf Antrag des Trägers des Vorhabens anhand von vorhandenen Daten zur großräumigen Raum- und Umweltsituation Infrastrukturgebiete für die Umsetzung von Optimierungs-, Verstärkungs-, Erneuerungs- und Ausbaumaßnahmen in einem Plan ausweisen (Infrastrukturgebieteplan im Elektrizitätsverteilernetz). Die Ausweisung des Infrastrukturgebiets soll spätestens 20 Monate nach Antragstellung erfolgen. Für die Ausweisung der Infrastrukturgebiete nach Satz 1 ist § 12j Absatz 1 Satz 3 bis 7 entsprechend anzuwenden.
+
+(2) Soweit die gemeinsame Durchführung mehrerer Maßnahmen nach Absatz 1 Satz 1 oder § 12j Absatz 1 Satz 1, für die jeweils ein Infrastrukturgebiet ausgewiesen werden soll, im räumlichen und zeitlichen Zusammenhang sinnvoll erscheint, können die Planfeststellungsbehörden oder die nach Landesrecht zuständigen Behörden im gegenseitigen Einvernehmen festlegen, dass die Ausweisung eines einheitlichen Infrastrukturgebiets nach Maßgabe der für eine der Maßnahmen geltenden Rechtsvorschriften durch die für diese Maßnahme zuständige Behörde erfolgt. Satz 1 ist nur anzuwenden, soweit die betroffenen Träger der Vorhaben zustimmen. Um eine solche Bündelung zu ermöglichen, darf die nach Satz 1 zuständige Behörde Kopplungsräume setzen.
+
+(3) Bei der Ausweisung eines Infrastrukturgebiets im Elektrizitätsverteilernetz berücksichtigt die Planfeststellungsbehörde oder die nach Landesrecht zuständige Behörde, inwiefern es sich bei den Vorhaben nach Absatz 1 Satz 1 um eine Änderung und Erweiterung einer Leitung im Sinne von § 3 Nummer 1 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz, um einen Ersatzneubau im Sinne von § 3 Nummer 4 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz oder einen Parallelneubau im Sinne von § 3 Nummer 5 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz handelt. Dazu ist bei der Ausweisung des Infrastrukturgebiets insbesondere die Bestandstrasse im Sinne von § 3 Nummer 2 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz zugrunde zu legen.
+
+(4) § 12j Absatz 5, 6 Satz 1 und 2, Absatz 7 sowie Absatz 9 Satz 2 ist entsprechend anzuwenden.
+
+(5) Die Planfeststellungsbehörde oder die nach Landesrecht zuständige Behörde beteiligt vor der Ausweisung des Infrastrukturgebiets die Behörden, deren Aufgabenbereich berührt wird, die zuständigen Betreiber von Elektrizitätsverteilernetzen und die Öffentlichkeit nach den Bestimmungen des Gesetzes über die Umweltverträglichkeitsprüfung, soweit sich aus den nachfolgenden Vorschriften nicht etwas anderes ergibt. Gegenstand der Beteiligung ist der Entwurf des Infrastrukturgebieteplans im Elektrizitätsverteilernetz und der Umweltbericht. Die Unterlagen für die Strategische Umweltprüfung sowie der Entwurf des Infrastrukturgebieteplans im Elektrizitätsverteilernetz sind von der Planfeststellungsbehörde oder der nach Landesrecht zuständigen Behörde für eine Dauer von einem Monat zur Einsicht auszulegen. Die Auslegung ist dadurch zu bewirken, dass die Dokumente auf der Internetseite der Planfeststellungsbehörde oder der nach Landesrecht zuständigen Behörde zugänglich gemacht werden. Auf Verlangen eines Beteiligten wird ihm eine leicht zu erreichende Zugangsmöglichkeit zur Verfügung gestellt. Die Auslegung ist auf der Internetseite der Planfeststellungsbehörde oder der nach Landesrecht zuständigen Behörde sowie in einer überregionalen oder regionalen Tageszeitung öffentlich bekannt zu machen, dabei ist auf das nach Satz 5 bestehende Recht der Beteiligten hinzuweisen. Die betroffene Öffentlichkeit kann sich zum Entwurf des Infrastrukturgebieteplans im Elektrizitätsverteilernetz und zum Umweltbericht bis einen Monat nach Ende der Auslegung äußern.
+
+(6) Der Antrag nach Absatz 1 Satz 1 muss die Angabe der anvisierten Anfangs- und Endpunkte der Maßnahme enthalten. Der Antrag soll Angaben dazu enthalten, inwieweit die gemeinsame Durchführung mehrerer Maßnahmen nach Absatz 2 Satz 1 sinnvoll erscheint.
+
 # § 15 – Aufgaben der Betreiber von Fernleitungsnetzen
 
 (1) Betreiber von Fernleitungsnetzen haben den Gastransport durch ihr Netz unter Berücksichtigung der Verbindungen mit anderen Netzen zu regeln und mit der Bereitstellung und dem Betrieb ihrer Fernleitungsnetze im nationalen und internationalen Verbund zu einem sicheren und zuverlässigen Gasversorgungssystem in ihrem Netz und damit zu einer sicheren Energieversorgung beizutragen.
@@ -3781,7 +3853,7 @@ Die §§ 15 und 16 Absatz 1 bis 4a gelten für Betreiber von Gasverteilernetzen 
 
 (1) Betreiber von Übertragungsnetzen, in deren Regelzone die Netzanbindung von Windenergieanlagen auf See erfolgen soll (anbindungsverpflichteter Übertragungsnetzbetreiber), haben die Offshore-Anbindungsleitungen entsprechend den Vorgaben des Offshore-Netzentwicklungsplans und ab dem 1. Januar 2019 entsprechend den Vorgaben des Netzentwicklungsplans und des Flächenentwicklungsplans gemäß § 5 des Windenergie-auf-See-Gesetzes zu errichten und zu betreiben. Sie haben mit der Umsetzung der Netzanbindungen von Windenergieanlagen auf See entsprechend den Vorgaben des Offshore-Netzentwicklungsplans und ab dem 1. Januar 2019 entsprechend den Vorgaben des Netzentwicklungsplans und des Flächenentwicklungsplans gemäß § 5 des Windenergie-auf-See-Gesetzes zu beginnen und die Errichtung der Netzanbindungen von Windenergieanlagen auf See zügig voranzutreiben. Eine Offshore-Anbindungsleitung nach Satz 1 ist ab dem Zeitpunkt der Fertigstellung ein Teil des Energieversorgungsnetzes.
 
-(1a) Es sind alle erforderlichen Maßnahmen zu ergreifen, damit die Offshore-Anbindungsleitungen, die im Flächenentwicklungsplan festgelegt sind, rechtzeitig zum festgelegten Jahr der Inbetriebnahme errichtet werden können. Insbesondere können mehrere Offshore-Anbindungsleitungen in einem Trassenkorridor pro Jahr errichtet werden. Für die Errichtung von Offshore-Anbindungsleitungen können alle technisch geeigneten Verfahren verwendet werden. Im Küstenmeer soll in den Jahren 2024 bis 2030 die Errichtung auch im Zeitraum vom 1. April bis zum 31. Oktober erfolgen, wenn dies mit dem Küstenschutz vereinbar ist.
+(1a) Es sind alle erforderlichen Maßnahmen zu ergreifen, damit die Offshore-Anbindungsleitungen, die im Flächenentwicklungsplan festgelegt sind, rechtzeitig zum festgelegten Jahr der Inbetriebnahme errichtet werden können. Insbesondere können mehrere Offshore-Anbindungsleitungen in einem Trassenkorridor pro Jahr errichtet werden. Für die Errichtung von Offshore-Anbindungsleitungen können alle technisch geeigneten Verfahren verwendet werden. Im Küstenmeer soll in den Jahren 2024 bis 2032 die Errichtung auch im Zeitraum vom 1. April bis zum 31. Oktober erfolgen, wenn dies mit dem Küstenschutz vereinbar ist.
 
 (1b) Der Betrieb von Offshore-Anbindungsleitungen soll in der Regel nicht dazu führen, dass sich das Sediment im Abstand zur Meeresbodenoberfläche von 20 Zentimetern in der ausschließlichen Wirtschaftszone oder im Abstand von 30 Zentimetern im Küstenmeer der Nordsee oder im Abstand von 20 Zentimetern im Küstenmeer der Ostsee um mehr als 2 Kelvin erwärmt. Eine stärkere Erwärmung ist zulässig, wenn sie nicht mehr als zehn Tage pro Jahr andauert oder weniger als 1 Kilometer Länge der Offshore-Anbindungsleitung betrifft. Die Sätze 1 und 2 sind sowohl auf bereits in Betrieb befindliche Offshore-Anbindungsleitungen als auch auf neu zu errichtende Offshore-Anbindungsleitungen anwendbar. Auf die parkinternen Seekabel und grenzüberschreitende Kabelsysteme sind die Sätze 1 bis 3 entsprechend anwendbar.
 
@@ -5868,7 +5940,7 @@ Für die Planergänzung und das ergänzende Verfahren im Sinne des § 75 Abs. 1a
 
 # § 43e – Rechtsbehelfe
 
-(1) Die Anfechtungsklage gegen einen Planfeststellungsbeschluss oder eine Plangenehmigung hat keine aufschiebende Wirkung. Der Antrag auf Anordnung der aufschiebenden Wirkung der Anfechtungsklage gegen einen Planfeststellungsbeschluss oder eine Plangenehmigung nach § 80 Abs. 5 Satz 1 der Verwaltungsgerichtsordnung kann nur innerhalb eines Monats nach der Zustellung des Planfeststellungsbeschlusses oder der Plangenehmigung gestellt und begründet werden. Darauf ist in der Rechtsbehelfsbelehrung hinzuweisen. § 58 der Verwaltungsgerichtsordnung gilt entsprechend.
+(1) Die Anfechtungsklage gegen einen Planfeststellungsbeschluss oder eine Plangenehmigung hat keine aufschiebende Wirkung. Der Antrag auf Anordnung der aufschiebenden Wirkung der Anfechtungsklage gegen einen Planfeststellungsbeschluss oder eine Plangenehmigung nach § 80 Absatz 5 Satz 1 der Verwaltungsgerichtsordnung kann seitens des Vorhabenträgers nur innerhalb eines Monats nach der Zustellung und im Übrigen nur innerhalb eines Monats nach der Bekanntgabe nach § 43b Absatz 1 Nummer 3 Satz 2 und 3 des Planfeststellungsbeschlusses oder der Plangenehmigung gestellt und begründet werden. § 58 der Verwaltungsgerichtsordnung gilt entsprechend.
 
 (2) Treten später Tatsachen ein, die die Anordnung der aufschiebenden Wirkung rechtfertigen, so kann der durch den Planfeststellungsbeschluss oder die Plangenehmigung Beschwerte einen hierauf gestützten Antrag nach § 80 Abs. 5 Satz 1 der Verwaltungsgerichtsordnung innerhalb einer Frist von einem Monat stellen und begründen. Die Frist beginnt mit dem Zeitpunkt, in dem der Beschwerte von den Tatsachen Kenntnis erlangt.
 
@@ -5902,7 +5974,7 @@ Satz 1 Nummer 2 und 3 ist nur anzuwenden, wenn die nach Landesrecht zuständige 
 
 (4) Der Vorhabenträger zeigt gegenüber der nach Landesrecht zuständigen Behörde die von ihm geplante Maßnahme an. Der Anzeige sind in ausreichender Weise Erläuterungen beizufügen, aus denen sich ergibt, dass die geplante Änderung oder Erweiterung den Voraussetzungen der Absätze 1 bis 3 genügt. Insbesondere bedarf es einer Darstellung zu den zu erwartenden Umweltauswirkungen. Die nach Landesrecht zuständige Behörde entscheidet innerhalb eines Monats, ob anstelle des Anzeigeverfahrens ein Plangenehmigungs- oder Planfeststellungsverfahren durchzuführen ist oder die Maßnahme von einem förmlichen Verfahren freigestellt ist. Prüfgegenstand ist nur die jeweils angezeigte Änderung oder Erweiterung; im Falle des Absatzes 2 Satz 1 Nummer 1 bedarf es keiner Prüfung der dinglichen Rechte anderer; im Fall der standortnahen Maständerung bleibt es unabhängig von den Vorgaben der §§ 3, 3a und 4 der Verordnung über elektromagnetische Felder und den Vorgaben der Technischen Anleitung zum Schutz gegen Lärm vom 26. August 1998 (GMBl S. 503) in der jeweils geltenden Fassung beim Anzeigeverfahren. Die Entscheidung ist dem Vorhabenträger bekannt zu machen.
 
-(5) Für die Zwecke des § 43 und dieses Paragrafen sind die Begriffsbestimmungen des § 3 Nummer 1, 2 und 4 bis 6 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz sowie im Anwendungsbereich der Verordnung über elektromagnetische Felder in der jeweils geltenden Fassung die Begriffsbestimmungen des § 3 Nummer 2 und 6 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz entsprechend anzuwenden. Im Anwendungsbereich der Verordnung über elektromagnetische Felder in der jeweils geltenden Fassung stellt es keine neue Trasse dar, wenn der Schutzstreifen der geänderten oder erweiterten Leitung den Schutzstreifen der bisherigen Leitung auf jeder Seite um nicht mehr als 20 Meter überschreitet.
+(5) Für die Zwecke der §§ 12j, 14f, 43, 43o und dieses Paragrafen sind die Begriffsbestimmungen des § 3 Nummer 1, 2 und 4 bis 6 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz sowie im Anwendungsbereich der Verordnung über elektromagnetische Felder in der jeweils geltenden Fassung die Begriffsbestimmungen des § 3 Nummer 2 und 6 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz entsprechend anzuwenden. Im Anwendungsbereich der Verordnung über elektromagnetische Felder in der jeweils geltenden Fassung stellt es keine neue Trasse dar, wenn der Schutzstreifen der geänderten oder erweiterten Leitung den Schutzstreifen der bisherigen Leitung auf jeder Seite um nicht mehr als 20 Meter überschreitet.
 
 (6) § 43e ist entsprechend anzuwenden.
 
@@ -5936,7 +6008,7 @@ Satz 1 Nummer 2 und 3 ist nur anzuwenden, wenn die nach Landesrecht zuständige 
 
 # § 43h – Ausbau des Hochspannungsnetzes
 
-Hochspannungsleitungen auf neuen Trassen mit einer Nennspannung von 110 Kilovolt oder weniger sind als Erdkabel auszuführen, soweit die Gesamtkosten für Errichtung und Betrieb des Erdkabels die Gesamtkosten der technisch vergleichbaren Freileitung den Faktor 2,75 nicht überschreiten und naturschutzfachliche Belange nicht entgegenstehen; die für die Zulassung des Vorhabens zuständige Behörde kann auf Antrag des Vorhabenträgers die Errichtung als Freileitung zulassen, wenn öffentliche Interessen nicht entgegenstehen. Soll der Neubau einer Hochspannungsleitung weit überwiegend in oder unmittelbar neben einer Bestandstrasse durchgeführt werden, handelt es sich nicht um eine neue Trasse im Sinne des Satzes 1.
+Hochspannungsleitungen auf neuen Trassen mit einer Nennspannung von 110 Kilovolt oder weniger sind als Erdkabel auszuführen, soweit die Gesamtkosten für Errichtung und Betrieb des Erdkabels die Gesamtkosten der technisch vergleichbaren Freileitung den Faktor 2,75 nicht überschreiten und naturschutzfachliche Belange nicht entgegenstehen; die für die Zulassung des Vorhabens zuständige Behörde kann auf Antrag des Vorhabenträgers die Errichtung als Freileitung zulassen, wenn öffentliche Interessen nicht entgegenstehen. Soll der Neubau einer Hochspannungsleitung weit überwiegend in oder unmittelbar neben einer Bestandstrasse durchgeführt werden, handelt es sich nicht um eine neue Trasse im Sinne des Satzes 1. Satz 1 ist ebenfalls nicht anzuwenden, sofern Hochspannungsfreileitungen mit einer Nennspannung von 110 Kilovolt mit einem anderen Vorhaben auf einem Mehrfachgestänge geführt werden sollen und eine einheitliche Entscheidung über beide Vorhaben in einem Planfeststellungsverfahren ergeht.
 
 # § 43i – Überwachung
 
@@ -5982,11 +6054,63 @@ Soweit für die Planfeststellung, die Plangenehmigung oder das Anzeigeverfahren 
 
 (1) Bei Vorhaben, für die die Bundesfachplanung nach § 12 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz abgeschlossen wurde oder für die ein Präferenzraum nach § 12c Absatz 2a ermittelt wurde und für sonstige Vorhaben im Sinne des § 43 Absatz 1 Satz 1 Nummer 1 bis 4 und des § 1 des Bundesbedarfsplangesetzes und des § 1 des Energieleitungsausbaugesetzes, die in einem für sie vorgesehenen Gebiet liegen, für das eine Strategische Umweltprüfung durchgeführt wurde, ist von der Durchführung einer Umweltverträglichkeitsprüfung und einer Prüfung des Artenschutzes nach den Vorschriften des § 44 Absatz 1 des Bundesnaturschutzgesetzes abzusehen. Die Untersuchungsräume des Umweltberichts nach § 12c Absatz 2 sind vorgesehene Gebiete im Sinne von Satz 1. § 18 Absatz 4 Satz 1 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz und § 43 Absatz 3 sind mit der Maßgabe anzuwenden, dass Belange, die nach Satz 1 nicht zu ermitteln, zu beschreiben und zu bewerten sind, nur insoweit im Rahmen der Abwägung zu berücksichtigen sind, als diese Belange im Rahmen der zuvor durchgeführten Strategischen Umweltprüfung ermittelt, beschrieben und bewertet wurden.
 
-(2) Die zuständige Behörde stellt sicher, dass auf Grundlage der vorhandenen Daten geeignete und verhältnismäßige Minderungsmaßnahmen ergriffen werden, um die Einhaltung der Vorschriften des § 44 Absatz 1 des Bundesnaturschutzgesetzes zu gewährleisten, soweit solche Maßnahmen verfügbar und geeignete Daten vorhanden sind. Der Betreiber hat ungeachtet des Satzes 1 einen finanziellen Ausgleich für nationale Artenhilfsprogramme nach § 45d Absatz 1 des Bundesnaturschutzgesetzes zu zahlen, mit denen der Erhaltungszustand der betroffenen Arten gesichert oder verbessert wird. Die Zahlung ist von der zuständigen Behörde zusammen mit der Zulassungsentscheidung als einmalig zu leistender Betrag festzusetzen. Die Höhe der Zahlung beträgt 25 000 Euro je angefangenem Kilometer Trassenlänge. Sie ist von dem Betreiber als zweckgebundene Abgabe an den Bund zu leisten. Die Mittel werden vom Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit bewirtschaftet. Sie sind für Maßnahmen nach § 45d Absatz 1 des Bundesnaturschutzgesetzes zu verwenden, für die nicht bereits nach anderen Vorschriften eine rechtliche Verpflichtung besteht. Eine Ausnahme nach § 45 Absatz 7 des Bundesnaturschutzgesetzes ist nicht erforderlich.
+(2) Die zuständige Behörde stellt sicher, dass auf Grundlage der vorhandenen Daten geeignete und verhältnismäßige Minderungsmaßnahmen ergriffen werden, um die Einhaltung der Vorschriften des § 44 Absatz 1 des Bundesnaturschutzgesetzes zu gewährleisten, soweit solche Maßnahmen verfügbar und geeignete Daten vorhanden sind. Der Betreiber hat ungeachtet des Satzes 1 einen finanziellen Ausgleich für nationale Artenhilfsprogramme nach § 45d Absatz 1 des Bundesnaturschutzgesetzes zu zahlen, mit denen der Erhaltungszustand der betroffenen Arten gesichert oder verbessert wird. Die Zahlung ist von der zuständigen Behörde zusammen mit der Zulassungsentscheidung als einmalig zu leistender Betrag festzusetzen. Die Höhe der Zahlung beträgt 25 000 Euro je angefangenem Kilometer Trassenlänge. Sie ist von dem Betreiber als zweckgebundene Abgabe an den Bund zu leisten. Die Mittel werden vom Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit bewirtschaftet. Sie sind für Maßnahmen nach § 45d Absatz 1 des Bundesnaturschutzgesetzes zu verwenden, für die nicht bereits nach anderen Vorschriften eine rechtliche Verpflichtung besteht. Werden die in der Genehmigung für wildlebende Tiere oder Pflanzen der besonders geschützten Arten angeordneten Maßnahmen und der dort angeordnete finanzielle Ausgleich vorgenommen, ist auch für die Bauphase die Einhaltung der Vorschriften des § 44 Absatz 1 des Bundesnaturschutzgesetzes gewährleistet. Dies ist auch anzuwenden auf wildlebende Tiere und Pflanzen der besonders geschützten Arten, deren Vorkommen zum Zeitpunkt der Genehmigung nicht bekannt war, wobei jedoch für europäische Vogelarten nach § 7 Absatz 2 Nummer 12 des Bundesnaturschutzgesetzes, in Anhang IV der Richtlinie 92/43/EWG aufgeführte Arten oder Arten, die in einer Rechtsverordnung nach § 54 Absatz 1 Nummer 2 des Bundesnaturschutzgesetzes aufgeführt sind, verhältnismäßige Minderungsmaßnahmen zu ergreifen sind, soweit dies ohne zeitliche Verzögerung möglich ist. In den Fällen der Sätze 8 und 9
 
-(3) Die Bestimmungen der Absätze 1 und 2 sind auf alle Planfeststellungs- und Plangenehmigungsverfahren anzuwenden, bei denen der Antragsteller den Antrag bis zum Ablauf des 30. Juni 2025 stellt. Sie sind ebenfalls auf bereits laufende Planfeststellungs- und Plangenehmigungsverfahren anzuwenden, bei denen der Antragsteller den Antrag vor dem 29. März 2023 gestellt hat und noch keine endgültige Entscheidung ergangen ist, wenn der Antragsteller dies gegenüber der zuständigen Behörde verlangt. Die Sätze 1 und 2 sind für das gesamte Planfeststellungs- und Plangenehmigungsverfahren anzuwenden, ungeachtet dessen, ob es bis zum Ablauf des 30. Juni 2025 abgeschlossen wird.
+1. ist keine Ausnahme nach § 45 Absatz 7 des Bundesnaturschutzgesetzes erforderlich,
+
+2. liegt keine Schädigung nach § 19 des Bundesnaturschutzgesetzes vor.
+
+(2a) Die Minderungsmaßnahmen und Ausgleichszahlungen nach Absatz 2 erfüllen in Bezug auf besonders geschützte Arten dem Grunde und dem Umfang nach die Anforderungen an Ausgleichs- und Ersatzmaßnahmen nach § 15 Absatz 2 und 6 des Bundesnaturschutzgesetzes. Eine weitergehende Prüfung und Bewertung sowie Ausgleich und Ersatz der Eingriffe in Bezug auf besonders geschützte wildlebende Pflanzen und Tierarten findet nicht statt. Kartierungen für diese Arten als Grundlage für eine Eingriffsbewertung finden nicht statt.
+
+(3) Die Bestimmungen der Absätze 1 bis 2a sind auf alle Planfeststellungs- und Plangenehmigungsverfahren anzuwenden, bei denen der Antragsteller den Antrag bis zum Ablauf des 30. Juni 2025 stellt. Sie sind ebenfalls auf bereits laufende Planfeststellungs- und Plangenehmigungsverfahren anzuwenden, bei denen der Antragsteller den Antrag vor dem 29. März 2023 gestellt hat und noch keine endgültige Entscheidung ergangen ist, wenn der Antragsteller dies gegenüber der zuständigen Behörde verlangt. Die Sätze 1 und 2 sind für das gesamte Planfeststellungs- und Plangenehmigungsverfahren anzuwenden, ungeachtet dessen, ob es bis zum Ablauf des 30. Juni 2025 abgeschlossen wird. Die Bestimmungen der Absätze 1 bis 2a sind auch auf Planänderungen anzuwenden, für die der Antrag nach dem 30. Juni 2025 gestellt wird, wenn der Plan nach den Bestimmungen der Absätze 1 bis 2a festgestellt wurde.
 
 (4) Bei Vorhaben nach Absatz 1 Satz 1 ist auch im Sinne von § 25 Absatz 1 Satz 2 Nummer 1 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz und § 43f Absatz 1 Satz 2 Nummer 1 keine Prüfung durchzuführen, ob eine Umweltverträglichkeitsprüfung erforderlich ist. Absatz 3 ist entsprechend anzuwenden.
+
+(5) Die Bestimmungen der Absätze 1 bis 4 sind auch auf die Errichtung, den Betrieb sowie die Änderung von Hochspannungsfreileitungen mit einer Nennspannung von 110 Kilovolt oder mehr entsprechend anzuwenden, sofern diese Leitungen auf einem Mehrfachgestänge mit einem Vorhaben nach Absatz 1 geführt werden, für das sich das Planfeststellungsverfahren nach den Vorgaben dieses Paragrafen richtet und eine einheitliche Entscheidung über beide Vorhaben in diesem Planfeststellungsverfahren ergeht.
+
+# § 43n – Vorhaben in Infrastrukturgebieten
+
+(1) Bei im Netzentwicklungsplan bestätigten Maßnahmen sowie bei Maßnahmen im Elektrizitätsverteilernetz, die in für diese Maßnahmen ausgewiesenen Infrastrukturgebieten nach § 12j oder nach § 14f liegen, ist abweichend von
+
+1. den Vorschriften des Gesetzes über die Umweltverträglichkeitsprüfung keine Umweltverträglichkeitsprüfung oder Vorprüfung zur Feststellung der Pflicht zur Durchführung einer Umweltverträglichkeitsprüfung durchzuführen,
+
+2. § 34 Absatz 1 des Bundesnaturschutzgesetzes keine Verträglichkeitsprüfung durchzuführen und
+
+3. den Vorschriften des § 44 Absatz 1 des Bundesnaturschutzgesetzes keine artenschutzrechtliche Prüfung durchzuführen.
+
+§ 18 Absatz 4 Satz 1 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz und § 43 Absatz 3 sind mit der Maßgabe anzuwenden, dass Belange, die nach Satz 1 nicht zu ermitteln, zu beschreiben und zu bewerten sind, nur insoweit im Rahmen der Abwägung zu berücksichtigen sind, als diese Belange im Rahmen der zuvor durchgeführten Strategischen Umweltprüfung und gegebenenfalls einer Verträglichkeitsprüfung nach § 36 des Bundesnaturschutzgesetzes oder aufgrund sonstiger rechtlicher Vorgaben ermittelt, beschrieben und bewertet wurden. Die Planfeststellungsbehörde ordnet an, dass auf Grundlage der vorhandenen Daten geeignete und verhältnismäßige Minderungsmaßnahmen nach den nach § 12j Absatz 7 oder nach § 14f Absatz 4 in Verbindung mit § 12j Absatz 7 festgelegten Regeln zu ergreifen sind, um die Einhaltung der Vorschriften der §§ 34 und 44 Absatz 1 des Bundesnaturschutzgesetzes zu gewährleisten, soweit solche Maßnahmen verfügbar und geeignete Daten vorhanden sind. Der Betreiber hat ungeachtet des Satzes 3 einen finanziellen Ausgleich zu zahlen. Die Zahlung ist von der zuständigen Behörde zusammen mit der Zulassungsentscheidung als einmalig zu leistender Betrag festzusetzen. Die Höhe der Zahlung beträgt 17 500 Euro je angefangenen Kilometer Trassenlänge. Sie ist von dem Betreiber als zweckgebundene Abgabe an den Bund zu leisten. Die Mittel werden vom Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit bewirtschaftet. Sie sind für Maßnahmen nach § 45d Absatz 1 des Bundesnaturschutzgesetzes zu verwenden, für die nicht bereits nach anderen Vorschriften eine rechtliche Verpflichtung besteht. Die Anforderungen nach sonstigen Vorschriften des Fachrechts bleiben unberührt.
+
+(2) Absatz 1 Satz 1, 2 und 4 bis 10 sowie die Absätze 3 bis 6 und 8 bis 10 sind entsprechend anzuwenden auf Maßnahmen nach § 43 Absatz 1 Satz 1 Nummer 1 bis 4 und nach § 1 des Bundesbedarfsplangesetzes und nach § 1 des Energieleitungsausbaugesetzes, für die vor dem Ablauf des 19. November 2023
+
+1. die Bundesfachplanung nach § 12 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz abgeschlossen wurde oder
+
+2. ein Gebiet vorgesehen wurde, für das eine Strategische Umweltprüfung durchgeführt wurde, insbesondere die Untersuchungsräume des nach § 12c Absatz 2 erstellten Umweltberichts.
+
+Diese in der Bundesfachplanung bestimmten Trassenkorridore, Untersuchungsräume und sonstigen vorgesehenen Gebiete sind Infrastrukturgebiete im Sinne von Artikel 15e Absatz 2 Satz 2 der Richtlinie (EU) 2018/2001 in der Fassung vom 18. Oktober 2023. Absatz 1 Satz 4 ist mit der Maßgabe entsprechend anzuwenden, dass Satz 3 nicht anzuwenden ist, und Absatz 3 Satz 2 ist mit der Maßgabe entsprechend anzuwenden, dass § 12j Absatz 7 nicht anzuwenden ist. Die Bestimmungen dieses Absatzes sind auch auf die Errichtung, den Betrieb sowie die Änderung von Hochspannungsfreileitungen mit einer Nennspannung von 110 Kilovolt oder mehr entsprechend anzuwenden, sofern diese Leitungen auf einem Mehrfachgestänge mit einem Vorhaben nach Satz 1 geführt werden, für das sich das Planfeststellungsverfahren nach den Vorgaben dieses Absatzes richtet und eine einheitliche Entscheidung über beide Vorhaben in diesem Planfeststellungsverfahren ergeht.
+
+(3) Die Planfeststellungsbehörde führt innerhalb von 30 Tagen ab Beginn der Planfeststellung ein Überprüfungsverfahren durch. In dem Überprüfungsverfahren soll festgestellt werden, ob die Maßnahme auch bei Durchführung der Maßnahmen nach § 12j Absatz 7 oder nach § 14f Absatz 4 in Verbindung mit § 12j Absatz 7 höchstwahrscheinlich erhebliche unvorhergesehene nachteilige Umweltauswirkungen angesichts der ökologischen Empfindlichkeit des Gebiets haben wird, die bei der Strategischen Umweltprüfung und der im Einzelfall durchzuführenden Verträglichkeitsprüfung nach § 36 des Bundesnaturschutzgesetzes nicht ermittelt wurden, und ob dadurch die Einhaltung der Vorschriften der §§ 34 und 44 Absatz 1 des Bundesnaturschutzgesetzes nicht gewährleistet ist. Das Überprüfungsverfahren stützt sich auf vorhandene Daten. Die zuständige Behörde kann den Träger des Vorhabens auffordern, zusätzliche verfügbare Informationen vorzulegen. Daten, die nicht innerhalb von 30 Tagen ab Beginn des Planfeststellungsverfahrens ermittelt werden können, sind nicht zu berücksichtigen.
+
+(4) Ergibt das Überprüfungsverfahren, dass die Maßnahme mit hoher Wahrscheinlichkeit erhebliche unvorhergesehene nachteilige Umweltauswirkungen nach Absatz 3 haben wird, so ordnet die Planfeststellungsbehörde auf der Grundlage der vorliegenden Daten an, dass geeignete und verhältnismäßige Minderungsmaßnahmen getroffen werden, um diesen Auswirkungen zu begegnen. Sofern solche Minderungsmaßnahmen nicht getroffen werden können, ordnet die zuständige Behörde an, dass der Betreiber geeignete und verhältnismäßige Ausgleichsmaßnahmen ergreift. Falls keine anderen geeigneten und verhältnismäßigen Ausgleichsmaßnahmen verfügbar sind, hat der Betreiber einen finanziellen Ausgleich zu zahlen. Die Zahlung ist von der zuständigen Behörde zusammen mit der Zulassungsentscheidung als einmalig zu leistender Betrag festzusetzen. Die Höhe der Zahlung beträgt 5 000 Euro je angefangenen Kilometer Trassenlänge, bei dem unvorhergesehene nachteilige Umweltauswirkungen nach Absatz 3 festgestellt wurden. Die Zahlung ist von dem Betreiber als zweckgebundene Abgabe an den Bund zu leisten. Die Mittel werden vom Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit bewirtschaftet. Sie sind für Maßnahmen nach § 45d Absatz 1 des Bundesnaturschutzgesetzes zu verwenden, für die nicht bereits nach anderen Vorschriften eine rechtliche Verpflichtung besteht. Die Anforderungen nach sonstigen Vorschriften des Fachrechts bleiben unberührt.
+
+(5) Die Minderungsmaßnahmen nach Absatz 1 sowie die Minderungs- und Ausgleichsmaßnahmen nach Absatz 4, beide jeweils einschließlich der Ausgleichszahlungen, sowie die Minderungsmaßnahmen nach Absatz 6 erfüllen in Bezug auf besonders geschützte Arten sowie die Erhaltungsziele gemäß § 7 Absatz 1 Nummer 9 des Bundesnaturschutzgesetzes dem Grunde und dem Umfang nach die Anforderungen an Ausgleichs- und Ersatzmaßnahmen nach § 15 Absatz 2 und 6 des Bundesnaturschutzgesetzes. Eine weitergehende Prüfung und Bewertung sowie Ausgleich und Ersatz der Eingriffe in Bezug auf besonders geschützte wildlebende Pflanzen und Tierarten sowie die Erhaltungsziele gemäß § 7 Absatz 1 Nummer 9 des Bundesnaturschutzgesetzes findet nicht statt. Kartierungen für diese Arten und Gebiete als Grundlage für eine Eingriffsbewertung finden nicht statt.
+
+(6) Werden die in der Genehmigung für wildlebende Tiere oder Pflanzen der besonders geschützten Arten angeordneten Maßnahmen und der dort angeordnete finanzielle Ausgleich vorgenommen, ist auch für die Bauphase die Einhaltung der Vorschriften des § 44 Absatz 1 des Bundesnaturschutzgesetzes gewährleistet. Dies ist auch anzuwenden auf wildlebende Tiere und Pflanzen der besonders geschützten Arten, deren Vorkommen zum Zeitpunkt der Genehmigung nicht bekannt war, wobei jedoch für europäische Vogelarten nach § 7 Absatz 2 Nummer 12 des Bundesnaturschutzgesetzes, in Anhang IV der Richtlinie 92/43/EWG aufgeführte Arten oder Arten, die in einer Rechtsverordnung nach § 54 Absatz 1 Nummer 2 des Bundesnaturschutzgesetzes aufgeführt sind, verhältnismäßige Minderungsmaßnahmen zu ergreifen sind, soweit dies ohne zeitliche Verzögerung möglich ist. In den Fällen der Sätze 1 und 2
+
+1. ist keine Ausnahme nach § 45 Absatz 7 des Bundesnaturschutzgesetzes erforderlich,
+
+2. liegt keine Schädigung nach § 19 des Bundesnaturschutzgesetzes vor.
+
+(7) Für Maßnahmen, für die ein Infrastrukturgebiet in einem Infrastrukturgebieteplan nach § 12j oder in einem Infrastrukturgebieteplan im Elektrizitätsverteilernetz nach § 14f ausgewiesen wurde, ist die Trasse sowie eine Prüfung ernsthaft in Betracht kommender Alternativen für den beabsichtigten Verlauf der Trasse auf dieses Infrastrukturgebiet beschränkt. Eine Prüfung außerhalb dieses Infrastrukturgebiets ist nur aus zwingenden Gründen durchzuführen. Für Vorhaben, für die das Netzausbaubeschleunigungsgesetz Übertragungsnetz anzuwenden ist und die in einem Infrastrukturgebieteplan nach § 12j oder in einem Infrastrukturgebieteplan im Elektrizitätsverteilernetz nach § 14f ausgewiesen wurden, wird in entsprechender Anwendung des § 5a des Netzausbaubeschleunigungsgesetzes Übertragungsnetz auf die Bundesfachplanung verzichtet. In entsprechender Anwendung des § 16 Absatz 7 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz kann die Planfeststellungsbehörde für Maßnahmen nach Satz 1 Veränderungssperren erlassen, auch wenn für diese Leitungen ein vordringlicher Bedarf im Sinne des Bundesbedarfs nicht festgestellt wird.
+
+(8) Bei Maßnahmen nach Absatz 1 Satz 1 und Absatz 2 Satz 1 ist auch im Sinne von § 25 Absatz 1 Satz 2 Nummer 1 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz und § 43f Absatz 1 Satz 2 Nummer 1 keine Prüfung durchzuführen, ob eine Umweltverträglichkeitsprüfung erforderlich ist.
+
+(9) Die Absätze 1 bis 8 sind nicht anzuwenden auf Maßnahmen, die voraussichtlich erhebliche Auswirkungen auf die Umwelt eines anderen EU-Mitgliedstaats haben oder wenn ein EU-Mitgliedstaat, der davon voraussichtlich erheblich betroffen ist, nach § 54 Absatz 2 des Gesetzes über die Umweltverträglichkeitsprüfung um Benachrichtigung ersucht oder nach § 54 Absatz 5 des Gesetzes über die Umweltverträglichkeitsprüfung mitteilt, dass eine Beteiligung gewünscht wird.
+
+(10) Die Bestimmungen der Absätze 1 bis 9 sind auf alle Planfeststellungs- und Plangenehmigungsverfahren sowie Anzeigeverfahren von im Netzentwicklungsplan bestätigten Maßnahmen sowie von Hochspannungsfreileitungen mit einer Nennspannung von 110 Kilovolt anzuwenden, bei denen der Vorhabenträger den Antrag nach dem 23. Dezember 2025 stellt oder bei denen die Anzeige nach diesem Zeitpunkt erfolgt. Bei Vorhaben nach Satz 1 sind die Bestimmungen der Absätze 1 bis 9 nicht anzuwenden, wenn der Vorhabenträger dies bei der Antragstellung oder der Anzeige gegenüber der zuständigen Behörde verlangt. Die Bestimmungen der Absätze 1 bis 9 sind auch auf Planänderungen anzuwenden, wenn der Plan nach den Bestimmungen der Absätze 1 bis 9 festgestellt wurde, sowie auf die für den Betrieb von Maßnahmen nach Absatz 1 Satz 1 notwendigen Anlagen nach § 43 Absatz 2 Satz 1 Nummer 1.
+
+# § 43o – Vergleich zur ursprünglichen Netzinfrastruktur
+
+Unterliegt die Änderung oder Erweiterung einer Leitung, ein Ersatzneubau oder ein Parallelneubau bei einer Maßnahme nach § 43 Absatz 1 Satz 1 Nummer 1 bis 4 einem Überprüfungsverfahren nach § 43n Absatz 3, einer Feststellung, ob eine Umweltverträglichkeitsprüfung erforderlich ist, oder einer Umweltverträglichkeitsprüfung, so beschränkt sich dieses Überprüfungsverfahren, diese Feststellung oder diese Umweltverträglichkeitsprüfung auf die potenziellen Auswirkungen, die sich aus der Änderung oder Erweiterung der Leitung, dem Ersatzneubau oder dem Parallelneubau im Vergleich zur ursprünglichen Netzinfrastruktur ergeben. Bei der Festsetzung einer Kompensation aufgrund einer Beeinträchtigung des Landschaftsbildes ist auf die Veränderung gegenüber der Bestandssituation abzustellen.
 
 # § 44 – Vorarbeiten
 
@@ -6154,31 +6278,39 @@ eingehalten worden sind. Die Bundesnetzagentur kann durch Festlegung nach § 29 
 
 (3) Bei Anlagen oder Bestandteilen von Anlagen, die nach den in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum geltenden Regelungen oder Anforderungen rechtmäßig hergestellt und in den Verkehr gebracht wurden und die gleiche Sicherheit gewährleisten, ist davon auszugehen, dass die Anforderungen nach Absatz 1 an die Beschaffenheit der Anlagen erfüllt sind. In begründeten Einzelfällen ist auf Verlangen der nach Landesrecht zuständigen Behörde nachzuweisen, dass die Anforderungen nach Satz 1 erfüllt sind.
 
-(4) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, zur Gewährleistung der technischen Sicherheit und der technischen und betrieblichen Flexibilität von Energieanlagen und Energieanlagenteilen sowie der Interoperabilität von Ladepunkten für Elektromobile durch Rechtsverordnung mit Zustimmung des Bundesrates
+(4) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
-1. Anforderungen an die technische Sicherheit dieser Anlagen und Anlagenteile, ihre Errichtung und ihren Betrieb festzulegen;
+1. Anforderungen an die technische Sicherheit und Flexibilität sowie die Errichtung und den Betrieb von Energieanlagen und Energieanlagenteilen einschließlich der Anforderungen zur Gewährleistung der Interoperabilität bei Ladepunkten für Elektromobile festzulegen;
 
-2. das Verfahren zur Sicherstellung der Anforderungen nach Nummer 1 zu regeln, insbesondere zu bestimmen,
+2. das Verfahren zur Sicherstellung der Anforderungen nach Nummer 1 oder zur Sicherstellung von in unmittelbar geltenden Rechtsakten der Europäischen Union bestimmten Anforderungen an Ladepunkte für Elektromobile und deren Betreiber zu regeln, insbesondere
 
-a) dass und wo die Errichtung solcher Anlagen und Anlagenteile, ihre Inbetriebnahme, die Vornahme von Änderungen oder Erweiterungen und sonstige die Anlagen und Anlagenteile betreffenden Umstände angezeigt werden müssen,
+a) zu bestimmen, dass und wo die Errichtung solcher Energieanlagen und Energieanlagenteile, ihre Inbetriebnahme, die Vornahme von Änderungen oder Erweiterungen und sonstige die Energieanlagen und Energieanlagenteile betreffenden Umstände angezeigt werden müssen,
 
-b) dass der Anzeige nach Buchstabe a bestimmte Nachweise beigefügt werden müssen,
+b) zu bestimmen, dass bestimmte Nachweise der Anzeige nach Buchstabe a beigefügt oder nach Inbetriebnahme der Energieanlage auf Anforderung übermittelt werden müssen,
 
-c) dass mit der Errichtung und dem Betrieb der Anlagen erst nach Ablauf bestimmter Registrierungen, Prüfungen oder Prüffristen begonnen werden darf und
+c) zu bestimmen, dass mit der Errichtung und dem Betrieb der Energieanlagen erst nach Ablauf bestimmter Registrierungen, Prüfungen oder Prüffristen begonnen werden darf,
 
-d) unter welchen Voraussetzungen schriftliche und elektronische Nachweisedokumente gültig sind;
+d) zu bestimmen, unter welchen Voraussetzungen schriftliche und elektronische Nachweisdokumente gültig sind,
 
-3. Prüfungen vor Errichtung und Inbetriebnahme und Überprüfungen der Anlagen und Anlagenteile vorzusehen und festzulegen, dass diese Prüfungen und Überprüfungen durch behördlich anerkannte Sachverständige zu erfolgen haben;
+e) eine Pflicht der Betreiber von öffentlich zugänglichen Ladepunkten für Elektromobile zur Erfassung und zur Übermittlung von Daten dieser Ladepunkte an die Bundesnetzagentur sowie die Anforderungen an die Ausgestaltung der Datenerfassung und der Datenübermittlung festzulegen;
+
+2a. eine Pflicht der Bundesnetzagentur zur Übermittlung von Daten von öffentlich zugänglichen Ladepunkten für Elektromobile an die nach Landesrecht für die Wahrnehmung der Aufgaben nach dem Mess- und Eichgesetz oder nach den aufgrund des Mess- und Eichgesetzes erlassenen Rechtsverordnungen zuständigen Behörden festzulegen;
+
+3. Prüfungen der Einhaltung der Anforderungen an Energieanlagen und Energieanlagenteile vor Errichtung und Inbetriebnahme und deren Überprüfungen vorzusehen und festzulegen, dass
+
+a) hierzu geeignete Nachweise verlangt werden dürfen,
+
+b) diese Prüfungen und Überprüfungen durch behördlich anerkannte Sachverständige zu erfolgen haben.
 
 4. Anordnungsbefugnisse festzulegen, insbesondere die behördliche Befugnis, den Bau und den Betrieb von Energieanlagen zu untersagen, wenn das Vorhaben nicht den in der Rechtsverordnung geregelten Anforderungen entspricht;
 
 5. zu bestimmen, welche Auskünfte die zuständige Behörde vom Betreiber der Energieanlage gemäß Absatz 6 Satz 1 und von sonstigen zuständigen Stellen verlangen kann;
 
-6. die Einzelheiten des Verfahrens zur Anerkennung von Sachverständigen, die bei der Prüfung der Energieanlagen tätig werden, sowie der Anzeige der vorübergehenden Tätigkeit von Sachverständigen aus anderen Mitgliedstaaten der Europäischen Union oder eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum zu bestimmen;
+6. die Einzelheiten des Verfahrens zur Anerkennung von Sachverständigen, die bei der Prüfung der technischen Sicherheit der Energieanlagen tätig werden, sowie der Anzeige der vorübergehenden Tätigkeit von Sachverständigen aus anderen Mitgliedstaaten der Europäischen Union oder eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum zu bestimmen;
 
 7. Anforderungen sowie Meldepflichten festzulegen, die Sachverständige nach Nummer 6 und die Stellen, denen sie angehören, erfüllen müssen, insbesondere zur Gewährleistung ihrer fachlichen Qualifikation, Unabhängigkeit und Zuverlässigkeit;
 
-8. Anforderungen an die technische und betriebliche Flexibilität neuer Anlagen und Anlagenteile zur Erzeugung von Energie zu treffen;
+8. Anforderungen an die technische und betriebliche Flexibilität neuer Energieanlagen und Energieanlagenteile zur Erzeugung von Energie zu treffen;
 
 9. Rechte und Pflichten fachlich qualifizierter Stellen zur Errichtung, zu Inhalten, zum Betrieb, zur Pflege und zur Weiterentwicklung von Datenbanken, in denen Nachweise nach Nummer 2 gespeichert werden, und zur Überprüfung und Sicherstellung der Korrektheit der gespeicherten Informationen festzulegen sowie die Rechtswirkungen der gespeicherten Informationen festzulegen;
 
@@ -6913,7 +7045,7 @@ Zusätzlich zu den Berichten nach Satz 1 veröffentlicht das Bundesministerium f
 
 (3b) Die Bundesnetzagentur veröffentlicht bis zum 31. Dezember 2027 einen Bericht über die Umsetzung der Anforderungen aus § 19 Absatz 1a und 1b durch die Betreiber von Elektrizitätsversorgungsnetzen.
 
-(4) Die Bundesnetzagentur kann in ihrem Amtsblatt oder auf ihrer Internetseite jegliche Information veröffentlichen, die für Haushaltskunden Bedeutung haben kann, auch wenn dies die Nennung von Unternehmensnamen beinhaltet. Sonstige Rechtsvorschriften, namentlich zum Schutz personenbezogener Daten und zum Presserecht, bleiben unberührt. Die Bundesnetzagentur stellt dem Bundesministerium für Verkehr erstmals zum 1. Juli 2024 und dann vierteljährlich aggregierte Daten, getrennt nach Ladeleistung von höchstens 22 Kilowatt und mehr als 22 Kilowatt, über die aktuelle Anzahl und die aktuelle kumulierte Ladeleistung nicht öffentlich zugänglicher Ladepunkte aller Netzanschlussebenen sowie deren jeweilige räumliche Verteilung nach Postleitzahl und Ort zur Verfügung. Die Bundesnetzagentur veröffentlicht auf ihrer Internetseite Informationen zu öffentlich zugänglichen Ladepunkten, die ihr nach § 5 der Ladesäulenverordnung angezeigt worden sind. Die Informationen können insbesondere Angaben zu Betreiber, Standort, technischer Ausstattung und Zugänglichkeit des öffentlich zugänglichen Ladepunktes umfassen.
+(4) Die Bundesnetzagentur kann in ihrem Amtsblatt oder auf ihrer Internetseite jegliche Information veröffentlichen, die für Haushaltskunden Bedeutung haben kann, auch wenn dies die Nennung von Unternehmensnamen beinhaltet. Sonstige Rechtsvorschriften, namentlich zum Schutz personenbezogener Daten und zum Presserecht, bleiben unberührt. Die Bundesnetzagentur stellt dem Bundesministerium für Verkehr erstmals zum 1. Juli 2024 und dann vierteljährlich aggregierte Daten, getrennt nach Ladeleistung von höchstens 22 Kilowatt und mehr als 22 Kilowatt, über die aktuelle Anzahl und die aktuelle kumulierte Ladeleistung nicht öffentlich zugänglicher Ladepunkte aller Netzanschlussebenen sowie deren jeweilige räumliche Verteilung nach Postleitzahl und Ort zur Verfügung. Die Bundesnetzagentur veröffentlicht auf ihrer Internetseite Informationen zu öffentlich zugänglichen Ladepunkten, die ihr nach einer aufgrund von § 49 Absatz 4 Satz 1 Nummer 1 bis 3 erlassenen Rechtsverordnung angezeigt worden sind. Die Informationen können insbesondere Angaben zu Betreiber, Standort, technischer Ausstattung und Zugänglichkeit des öffentlich zugänglichen Ladepunktes umfassen.
 
 (5) Das Statistische Bundesamt unterrichtet die Europäische Kommission alle drei Monate über in den vorangegangenen drei Monaten getätigte Elektrizitätseinfuhren in Form physikalisch geflossener Energiemengen aus Ländern außerhalb der Europäischen Union.
 
@@ -7767,6 +7899,20 @@ Die Einstufung erfolgt nur, wenn keine Letztverbraucher, die Energie für den Ei
 Das Verteilernetz gilt ab vollständiger Antragstellung bis zur Entscheidung der Regulierungsbehörde als geschlossenes Verteilernetz.
 
 (4) Jeder Netznutzer eines geschlossenen Verteilernetzes kann eine Überprüfung der Entgelte durch die Regulierungsbehörde verlangen; § 31 findet insoweit keine Anwendung. Es wird vermutet, dass die Bestimmung der Netznutzungsentgelte den rechtlichen Vorgaben entspricht, wenn der Betreiber des geschlossenen Verteilernetzes kein höheres Entgelt fordert als der Betreiber des vorgelagerten Energieversorgungsnetzes für die Nutzung des an das geschlossene Verteilernetz angrenzenden Energieversorgungsnetzes der allgemeinen Versorgung auf gleicher Netz-oder Umspannebene; grenzen mehrere Energieversorgungsnetze der allgemeinen Versorgung auf gleicher Netz- oder Umspannebene an, ist das niedrigste Entgelt maßgeblich. § 31 Absatz 1, 2 und 4 sowie § 32 Absatz 1 und 3 bis 5 finden entsprechend Anwendung.
+
+# § 110a – Ausnahmeregelung nach Artikel 6 der Verordnung (EU) 2024/1991
+
+Vorbehaltlich des Satzes 2 sind die folgenden Vorhaben nach Artikel 6 Absatz 1 Satz 2 der Verordnung (EU) 2024/1991 von der Anforderung ausgenommen, dass keine weniger schädlichen Alternativlösungen nach Artikel 4 Absatz 14 Buchstabe c und Absatz 15 Buchstabe c sowie Artikel 5 Absatz 11 Buchstabe c und Absatz 12 Buchstabe c der Verordnung (EU) 2024/1991 zur Verfügung stehen:
+
+1. Vorhaben nach § 43 Absatz 1 Satz 1 Nummer 1 bis 4, Absatz 2 Satz 1 Nummer 1, 5 und 6 in Bezug auf Leerrohre, die im räumlichen und zeitlichen Zusammenhang mit der Baumaßnahme eines Erdkabels nach § 43 Absatz 1 Satz 1 Nummer 2 bis 4 mitverlegt werden,
+
+2. Vorhaben nach § 43 Absatz 1 Satz 1 Nummer 10,
+
+3. Vorhaben nach § 1 des Bundesbedarfsplangesetzes und
+
+4. Vorhaben nach § 1 des Energieleitungsausbaugesetzes.
+
+Satz 1 ist nur anzuwenden, wenn eine der in Artikel 6 Absatz 1 Satz 2 der Verordnung (EU) 2024/1991 genannten Prüfungen durchgeführt wurde. Als Prüfung im Sinne von Artikel 6 Absatz 1 Satz 2 Buchstabe a der Verordnung (EU) 2024/1991 gilt die Strategische Umweltprüfung. Als Prüfung im Sinne von Artikel 6 Absatz 1 Satz 2 Buchstabe b der Verordnung (EU) 2024/1991 gilt die Umweltverträglichkeitsprüfung.
 
 # § 111 – Verhältnis zum Gesetz gegen Wettbewerbsbeschränkungen
 

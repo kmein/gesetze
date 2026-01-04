@@ -349,7 +349,7 @@ Dauert die Maßnahme insgesamt weniger als 4 Tage, ist von Vollzeitform auszugeh
 
 (1) Maßnahmen der beruflichen Bildung werden nur gefördert, wenn sie bis zum Ablauf von sieben Jahren nach Beendigung des Dienstverhältnisses, bei Soldatinnen auf Zeit und Soldaten auf Zeit mit einer Gesamtdienstzeit von mindestens 20 Jahren bis zum Ablauf von acht Jahren nach Beendigung des Dienstverhältnisses, begonnen werden; die Förderung kann bis zum Erreichen der jeweiligen Förderungshöchstdauer nach § 7 des Soldatenversorgungsgesetzes erfolgen.
 
-(2) Eine Maßnahme der beruflichen Bildung in Vollzeitform kann ausnahmsweise bis zu drei Monate vor dem Dienstzeitende gefördert werden, wenn
+(2) Eine Maßnahme der beruflichen Bildung in Vollzeitform kann nach § 7 Absatz 12 des Soldatenversorgungsgesetzes ausnahmsweise bis zu drei Monate vor dem Dienstzeitende gefördert werden, wenn
 
 1. der Beginn der Maßnahme unabänderlich ist und
 
@@ -403,74 +403,80 @@ Satz 1 gilt für Soldatinnen auf Zeit und Soldaten auf Zeit mit einer Gesamtdien
 
 Sonstige Kosten dürfen nur mit Zustimmung des Bundesministeriums der Verteidigung oder der von ihm bestimmten Stelle erstattet werden. Kosten dürfen nur erstattet werden, wenn sie nach Art und Höhe zur Erreichung des angestrebten schulischen und beruflichen Bildungsziels notwendig sind. Leistungen Dritter, die für denselben Zweck gewährt werden, sind anzurechnen.
 
-(2) Kosten nach Absatz 1 Satz 1 Nummer 1 und 2 werden grundsätzlich nur bis zu folgenden Höchstbeträgen erstattet:  
-  
+(2) Kosten nach Absatz 1 Satz 1 Nummer 1 und 2 werden grundsätzlich nur bis zu folgenden Höchstbeträgen erstattet:
 
-<table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
 <colgroup>
-<col style="width: 13%" />
-<col style="width: 50%" />
-<col style="width: 38%" />
+<col style="width: 7%" />
+<col style="width: 47%" />
+<col style="width: 47%" />
 </colgroup>
 <thead data-valign="bottom">
-<tr class="header">
-<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50"> </th>
-<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">Dauer der Förderung<br />
-nach § 7 Absatz 5<br />
-des Soldatenversorgungsgesetzes<br />
-in Monaten</th>
-<th style="text-align: center; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Höchstbetrag<br />
-in Euro</th>
-</tr>
-<tr class="odd">
-<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50"> </th>
-<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50"> 1</th>
-<th style="text-align: center; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">2</th>
+<tr class="header" data-valign="middle">
+<th style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50"> </th>
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Dauer der Förderung nach § 7 Absatz 5<br />
+des Soldatenversorgungsgesetzes in Monaten</th>
+<th style="text-align: center; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Höchstbetrag in Euro</th>
 </tr>
 </thead>
 <tbody data-valign="top">
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 1</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 1 200</td>
+</tr>
+<tr class="even">
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 2</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 2 400</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 3</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 3 600</td>
+</tr>
+<tr class="even">
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4</td>
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">12</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 5 000</td>
 </tr>
-<tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2</td>
+<tr class="odd">
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">5</td>
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">18</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 7 000</td>
 </tr>
-<tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3</td>
+<tr class="even">
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6</td>
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">24</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 9 000</td>
 </tr>
-<tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4</td>
+<tr class="odd">
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">7</td>
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">30</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">11 000</td>
 </tr>
-<tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">5</td>
+<tr class="even">
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">36</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">13 000</td>
 </tr>
-<tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6</td>
+<tr class="odd">
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">42</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15 000</td>
 </tr>
-<tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">7</td>
+<tr class="even">
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">10</td>
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">48</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">17 000</td>
 </tr>
-<tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
+<tr class="odd">
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">11</td>
 <td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">54</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19 000</td>
 </tr>
-<tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
+<tr class="even">
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">12</td>
 <td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">60</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50">21 000</td>
 </tr>
@@ -750,9 +756,9 @@ Ein Lohnkostenzuschuss wird nicht neben einem Einarbeitungszuschuss gewährt.
 
 (4) (weggefallen)
 
-# § 34 – Berufsorientierungspraktika nach § 9 Absatz 3 des Soldatenversorgungsgesetzes
+# § 34 – Berufsorientierungspraktika nach § 9 Absatz 2 des Soldatenversorgungsgesetzes
 
-(1) Über die Freistellung vom militärischen Dienst zur Teilnahme an einem Berufsorientierungspraktikum nach § 9 Absatz 3 des Soldatenversorgungsgesetzes wird auf den vor dem Beginn des Praktikums schriftlich oder elektronisch gestellten Antrag der Förderungsberechtigten entsprechend dem Verfahren nach § 16 Absatz 3 entschieden.
+(1) Über die Freistellung vom militärischen Dienst zur Teilnahme an einem Berufsorientierungspraktikum nach § 9 Absatz 2 des Soldatenversorgungsgesetzes wird auf den vor dem Beginn des Praktikums schriftlich oder elektronisch gestellten Antrag der Förderungsberechtigten entsprechend dem Verfahren nach § 16 Absatz 3 entschieden.
 
 (2) Grundsätzlich wird nur die Teilnahme an kostenfreien Praktika gefördert. Im Einzelfall kann die Teilnahme an einem entgeltlichen Praktikum unter Anrechnung der Kosten auf den Höchstbetrag nach § 19 Absatz 2 bewilligt werden. Hinsichtlich der Fahrtkosten und der Kosten für auswärtige Unterkunft und Verpflegung gilt § 23 entsprechend.
 
@@ -760,11 +766,11 @@ Ein Lohnkostenzuschuss wird nicht neben einem Einarbeitungszuschuss gewährt.
 
 (+++ § 34 Abs. 1 u. 2: Zur Weiteranwendung in der bis zum 27.8.2015 geltenden Fassung vgl. § 38 F. 4.8.2019 +++)
 
-# § 35 – Berufsorientierungspraktikum nach § 9 Absatz 4 des Soldatenversorgungsgesetzes
+# § 35 – Berufsorientierungspraktikum nach § 9 Absatz 3 des Soldatenversorgungsgesetzes
 
 (1) Über die Freistellung vom militärischen Dienst nach § 9 Absatz 3 des Soldatenversorgungsgesetzes zur Teilnahme an einem Berufsorientierungspraktikum entscheidet das Karrierecenter der Bundeswehr – Berufsförderungsdienst –; § 16 Absatz 3 gilt entsprechend. Der Antrag ist vor Beginn des Berufsorientierungspraktikums zu stellen.
 
-(2) Erhöhter Berufsorientierungsbedarf im Sinne des § 9 Absatz 4 des Soldatenversorgungsgesetzes liegt regelmäßig vor, wenn die Förderungsberechtigten noch keine abschließende Berufswahlentscheidung getroffen haben, Neigung und Eignung für bestimmte Berufe geklärt oder berufliche Alternativen erprobt werden sollen.
+(2) Erhöhter Berufsorientierungsbedarf im Sinne des § 9 Absatz 3 des Soldatenversorgungsgesetzes liegt in der Regel vor, wenn die Förderungsberechtigten noch keine abschließende Berufswahlentscheidung getroffen haben, Neigung und Eignung für bestimmte Berufe geklärt oder berufliche Alternativen erprobt werden sollen.
 
 (3) Bei einer Teilnahme an einem Berufsorientierungspraktikum werden Kosten nicht erstattet. Über Ausnahmen entscheidet das Bundesministerium der Verteidigung oder die von ihm bestimmte Stelle.
 

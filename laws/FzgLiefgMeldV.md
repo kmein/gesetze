@@ -11,7 +11,7 @@ Auf Grund des § 18c Satz 1 und 2 Nr. 1 bis 4 des Umsatzsteuergesetzes in der Fa
 
 (2) Für die Form der Mitteilung gilt:
 
-1. Unternehmer im Sinne des § 2 des Umsatzsteuergesetzes haben die Meldungen nach Absatz 1 nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu übermitteln; auf Antrag kann das Finanzamt zur Vermeidung unbilliger Härten auf eine elektronische Übermittlung verzichten;
+1. Unternehmer im Sinne des § 2 des Umsatzsteuergesetzes haben die Meldungen nach Absatz 1 nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle zu übermitteln; auf Antrag kann das Finanzamt zur Vermeidung unbilliger Härten auf eine elektronische Übermittlung verzichten;
 
 2. Fahrzeuglieferer nach § 2a des Umsatzsteuergesetzes können die Meldung nach Absatz 1 auf elektronischem Weg übermitteln oder in Papierform abgeben.
 
@@ -49,7 +49,7 @@ Zur Meldung verpflichtet ist der Unternehmer (§ 2 des Umsatzsteuergesetzes) ode
 
 # § 4 – Ordnungswidrigkeit
 
-Ordnungswidrig im Sinne des § 26a Abs. 1 Nr. 6 des Umsatzsteuergesetzes handelt, wer vorsätzlich oder leichtfertig entgegen § 1 Abs. 1 Satz 1 eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
+Ordnungswidrig im Sinne des § 26a Absatz 2 Nummer 6 des Umsatzsteuergesetzes handelt, wer vorsätzlich oder leichtfertig entgegen § 1 Abs. 1 Satz 1 eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
 # § 5 – Inkrafttreten
 

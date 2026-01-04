@@ -51,9 +51,11 @@
 
 Beim Bundesministerium für Familie, Senioren, Frauen und Jugend wird das Amt der oder des Unabhängigen Bundesbeauftragten gegen sexuellen Missbrauch von Kindern und Jugendlichen eingerichtet (Unabhängige Bundesbeauftragte oder Unabhängiger Bundesbeauftragter).
 
-# § 3 – (zukünftig in Kraft)
+# § 3 – Sensibilisierung, Aufklärung und Qualifizierung zum Schutz von Kindern und Jugendlichen vor sexueller Gewalt und Ausbeutung
 
-(+++ § 3: Tritt gem. Art. 3 Abs. 2 G v. 3.4.2025 I Nr. 107 am 1.1.2026 in Kraft +++)
+(1) Zur Verbesserung des präventiven Schutzes von Kindern und Jugendlichen vor sexueller Gewalt und Ausbeutung entwickelt die Bundeszentrale für gesundheitliche Aufklärung in Zusammenarbeit mit den Ländern wissenschaftlich abgesicherte und bundeseinheitliche Angebote, Materialien und Medien. Bei deren Entwicklung ist die oder der Unabhängige Bundesbeauftragte einzubeziehen. Im Kinder- und Jugendschutz sowie in der Eingliederungshilfe tätige Institutionen und Verbände, regionale und überregionale spezialisierte Fachstellen und zentrale Verbände im Kinder- und Jugendbereich, insbesondere im Bereich des Sports, der kulturellen Bildung und der Freizeitgestaltung, sind zu beteiligen. Diese Angebote, Materialien und Medien zielen insbesondere auf die Sensibilisierung, Aufklärung und Qualifizierung von Fachkräften, die regelmäßig mit Kindern und Jugendlichen arbeiten, sowie Eltern im Themenfeld Sexuelle Gewalt und Ausbeutung gegen Kinder und Jugendliche, sind qualitätsgesichert und jeweils abgestimmt auf die verschiedenen Alters- und Personengruppen. Die Bundeszentrale für gesundheitliche Aufklärung unterstützt bei der Entwicklung, Anwendung und Umsetzung von Konzepten zum Schutz vor sexueller Gewalt und Ausbeutung. Kinder und Jugendliche sind entsprechend ihrem Entwicklungsstand angemessen zu beteiligen.
+
+(2) Die Bundeszentrale für gesundheitliche Aufklärung stellt die gemäß Absatz 1 Satz 1 und 2 entwickelten bundeseinheitlichen Materialien und Medien zur Verfügung. Darüber hinaus sichert sie deren Transfer in frühkindliche, schulische, berufsbildende und außerschulische Einrichtungen, in Beratungsstellen und Einrichtungen des Gesundheitswesens sowie der Jugend- und Bildungsarbeit.
 
 # § 4 – Unterstützung für Betroffene von sexueller Gewalt oder Ausbeutung in Kindheit oder Jugend
 

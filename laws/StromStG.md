@@ -25,23 +25,31 @@ Im Sinne dieses Gesetzes ist oder sind
 
 6. Unternehmen im Sinne der Nummer 5: Wirtschaftliche, finanzielle und rechtliche Einheit, die unter einheitlicher und selbständiger Führung steht;
 
-7. Strom aus erneuerbaren Energieträgern: Strom, der ausschließlich aus Wasserkraft, Windkraft, Sonnenenergie, Erdwärme, Deponiegas, Klärgas oder aus Biomasse erzeugt wird, ausgenommen Strom aus Wasserkraftwerken mit einer installierten Generatorleistung über zehn Megawatt;
+7. (weggefallen)
 
 8. Elektromobilität: das Nutzen elektrisch betriebener Fahrzeuge, ausgenommen schienen- oder leitungsgebundener Fahrzeuge;
 
-9. stationärer Batteriespeicher: ein wiederaufladbarer Speicher für Strom auf elektrochemischer Basis, der während des Betriebs ausschließlich an seinem geografischen Standort verbleibt, dauerhaft mit dem Versorgungsnetz verbunden und nicht Teil eines Fahrzeuges ist. Der geografische Standort ist ein durch geografische Koordinaten bestimmter Punkt;
+8a. Ladepunkt: eine Einrichtung, an der gleichzeitig nur ein elektrisch betriebenes Fahrzeug aufgeladen oder entladen werden kann und die geeignet und bestimmt ist zum Aufladen oder zum Auf- und Entladen von elektrisch betriebenen Fahrzeugen;
 
-10. hocheffiziente KWK-Anlagen: ortsfeste Anlagen zur gekoppelten Erzeugung von Kraft und Wärme, die die Voraussetzungen nach § 53a Absatz 6 Satz 4 und 5 des Energiesteuergesetzes erfüllen;
+8b. Betreiber des Ladepunkts: wer unter Berücksichtigung der rechtlichen, wirtschaftlichen und tatsächlichen Umstände bestimmenden Einfluss auf den Betrieb eines Ladepunkts ausübt;
+
+8c. bidirektionales Laden: ein Ladevorgang, bei dem die Richtung des Stromflusses umgekehrt werden kann, sodass Strom vom aufladbaren elektrischen Energiespeicher eines Elektrofahrzeugs zu dem Ladepunkt fließen kann, an den er angeschlossen ist;
+
+9. Stromspeicher: andere Anlagen als Anlagen zur Stromerzeugung, die am Ort ihres Betriebs ausschließlich dem Zweck der Zwischenspeicherung von Strom für eine spätere Verwendung dienen, während des Betriebs ausschließlich an ihrem geografischen Standort verbleiben und nicht Teil eines Fahrzeugs sind; der geografische Standort ist ein durch Koordinaten bestimmter Punkt;
+
+9a. Zwischenspeicherung von Strom: die Umwandlung von Strom in eine andere Energieform, die Speicherung der umgewandelten Energie und ihre anschließende Rückumwandlung in Strom;
+
+10. hocheffiziente KWK-Anlagen: ortsfeste Anlagen zur gekoppelten Erzeugung von Kraft und Wärme, in denen Strom erzeugt wird und die die Kriterien des Anhangs III zu der Richtlinie (EU) 2023/1791 mit der Maßgabe erfüllen, dass unabhängig vom Datum der Inbetriebnahme der Anlagen die direkten CO<sub>2</sub>-Emissionen aus der kombinierten Erzeugung mit fossilen Brennstoffen je Kilowattstunde Energieertrag, einschließlich Wärme, Kälte, Strom und mechanischer Energie, je Stromerzeugungseinheit weniger als 270 Gramm betragen;
 
 11. Netz der allgemeinen Versorgung mit Strom: ein Netz, das der Verteilung von Strom an Dritte dient und von seiner Dimensionierung nicht von vornherein nur auf die Versorgung bestimmter, schon bei der Netzerrichtung feststehender oder bestimmbarer Personen ausgelegt ist, sondern grundsätzlich jedermann für die Versorgung offensteht.
 
 # § 2a – Staatliche Beihilfen
 
-(1) Die Inanspruchnahme oder die Beantragung einer Steuerbefreiung, Steuerermäßigung oder Steuerentlastung, die nach Absatz 3 als staatliche Beihilfe anzusehen ist, ist nicht zulässig, solange derjenige, der den Strom entnimmt, zu einer Rückzahlung von Beihilfen auf Grund eines früheren Beschlusses der Europäischen Kommission zur Feststellung der Unzulässigkeit einer Beihilfe und ihrer Unvereinbarkeit mit dem Binnenmarkt verpflichtet worden und dieser Rückforderungsanordnung nicht nachgekommen ist. Im Falle einer Steuerbefreiung oder der Inanspruchnahme einer Steuerermäßigung hat der Verwender dem zuständigen Hauptzollamt unverzüglich mitzuteilen, wenn er einer Rückforderungsanordnung im Sinn des Satzes 1 nicht nachkommt. Im Falle eines Antrages auf Steuerentlastung ist bei Antragstellung zu versichern, dass keine offenen Ansprüche nach Satz 1 bestehen.
+(1) Die Inanspruchnahme oder die Gewährung einer Steuerbefreiung, Steuerermäßigung oder Steuerentlastung, die nach Absatz 3 als staatliche Beihilfe anzusehen ist, ist nicht zulässig, solange derjenige, der den Strom entnimmt, zu einer Rückzahlung von Beihilfen auf Grund eines früheren Beschlusses der Europäischen Kommission zur Feststellung der Unzulässigkeit einer Beihilfe und ihrer Unvereinbarkeit mit dem Binnenmarkt verpflichtet worden und dieser Rückforderungsanordnung nicht nachgekommen ist. Im Falle einer Steuerbefreiung oder der Inanspruchnahme einer Steuerermäßigung hat der Verwender dem zuständigen Hauptzollamt unverzüglich mitzuteilen, wenn er einer Rückforderungsanordnung im Sinn des Satzes 1 nicht nachkommt. Im Falle eines Antrages auf Steuerentlastung ist bei Antragstellung zu versichern, dass keine offenen Ansprüche nach Satz 1 bestehen.
 
-(2) Die Inanspruchnahme oder Beantragung einer Steuerbefreiung, Steuerermäßigung oder Steuerentlastung, die nach Absatz 3 als staatliche Beihilfe anzusehen ist, ist nicht zulässig für Unternehmen in Schwierigkeiten
+(2) Die Inanspruchnahme oder Gewährung einer Steuerbefreiung, Steuerermäßigung oder Steuerentlastung, die nach Absatz 3 als staatliche Beihilfe anzusehen ist, ist nicht zulässig für Unternehmen in Schwierigkeiten
 
-1. im Sinn des Artikels 1 Absatz 4 Buchstabe c, des Artikels 2 Nummer 18 der Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (Allgemeine Gruppenfreistellungsverordnung; ABl. L 187 vom 26.6.2014, S. 1; L 283 vom 27.9.2014, S. 65), soweit diese Anwendung findet, oder
+1. im Sinn des Artikels 1 Absatz 4 Buchstabe c, des Artikels 2 Nummer 18 der Verordnung (EU) Nr. 651/2014, soweit diese Anwendung findet, oder
 
 2. im Sinn der Leitlinien für staatliche Beihilfen zur Rettung und Umstrukturierung nichtfinanzieller Unternehmen in Schwierigkeiten (2014/C 249/01) (ABl. C 249 vom 31.7.2014, S. 1 ff.) in der jeweils geltenden Fassung, soweit die Allgemeine Gruppenfreistellungsverordnung keine Anwendung findet.
 
@@ -75,7 +83,15 @@ Die Steuer beträgt 20,50 Euro für eine Megawattstunde.
 
 (3) Strom gilt mit der Leistung an einen Versorger, der nicht Inhaber einer nach § 4 Abs. 1 erforderlichen Erlaubnis als Versorger ist, als durch einen Letztverbraucher im Steuergebiet aus dem Versorgungsnetz entnommen, wenn die Leistung des Stroms in der Annahme erfolgt, dass eine Steuer nach Absatz 1 Satz 1 entstanden sei. Eine Steuerentstehung durch die tatsächliche Entnahme des Stroms aus dem Versorgungsnetz bleibt dadurch unberührt. Dem Versorger ohne Erlaubnis wird die durch den an ihn leistenden Versorger entrichtete Steuer auf Antrag vergütet, soweit er nachweist, dass die durch die tatsächliche Entnahme des Stroms entstandene Steuer entrichtet worden ist, für den Strom keine Steuer entstanden ist oder der Strom steuerfrei entnommen worden ist.
 
-(4) Stationäre Batteriespeicher, die dazu dienen, Strom vorübergehend zu speichern und anschließend in ein Versorgungsnetz für Strom einzuspeisen, gelten als Teile dieses Versorgungsnetzes.
+(4) Stromspeicher, in denen Strom durch Versorger zwischengespeichert und aus denen dieser Strom durch Versorger in ein Versorgungsnetz eingespeist wird, gelten insoweit als Teile dieses Versorgungsnetzes, wenn sie im Marktstammdatenregister nach Maßgabe der Marktstammdatenregisterverordnung vom 10. April 2017 (BGBl. I S. 842), die zuletzt durch Artikel 1 der Verordnung vom 11. Dezember 2024 (BGBl. 2024 I Nr. 402) geändert worden ist, in der jeweils geltenden Fassung, registriert sind. Soweit nach § 9 Absatz 1 Nummer 1, 3, 4 oder 6 Buchstabe b Strom ohne Zwischenspeicherung steuerfrei wäre, bleibt dieser nach Rückumwandlung in dem Verhältnis zu der insgesamt im Veranlagungsjahr zur Zwischenspeicherung entnommenen Strommenge steuerfrei. Soweit Stromspeicher nicht als Teile des Versorgungsnetzes gelten und soweit Strom, der am Ort des Betriebs zur Zwischenspeicherung entnommen wird, nach § 3 zu versteuern ist, unterliegt dieser nach Rückumwandlung und Entnahme an diesem Ort in dem Verhältnis zu der insgesamt im Veranlagungsjahr zur Zwischenspeicherung entnommenen Strommenge nicht erneut der Versteuerung. Erfolgt die Rückumwandlung der im Stromspeicher zwischengespeicherten Energie in Strom unter Nutzung einer Anlage zur Stromerzeugung, findet für die Stromerzeugung § 9 Absatz 1 Nummer 2 Anwendung.
+
+# § 5a – Steuerliche Behandlung von Ladepunkten
+
+(1) Wird Strom an einem Ladepunkt entnommen, so gilt dies als eine Entnahme nach § 5 Absatz 1 durch den Betreiber des Ladepunkts. Dies gilt entsprechend, wenn Stromspeicher mit einem Ladepunkt unmittelbar und nicht nur vorübergehend verbunden sind. Das Leisten von Strom an den Ladepunkt oder an mit dem Ladepunkt unmittelbar und nicht nur vorübergehend verbundene Stromspeicher gilt als ein Leisten an den Betreiber des Ladepunkts. Steuerschuldner ist der oder sind die Versorger des Betreibers des Ladepunkts oder der Betreiber des Ladepunkts, wenn dieser selbst Versorger ist. Ist der Betreiber des Ladepunkts Eigenerzeuger, ist er für den eigenerzeugten und am Ladepunkt entnommenen Strom Steuerschuldner. Der Betreiber des Ladepunkts wird nicht zum Versorger, sofern er Strom nur am Ladepunkt leistet.
+
+(2) Die Entnahme nach Absatz 1 Satz 1 gilt im Sinne des § 9 Absatz 1 Nummer 1 und 3 Buchstabe a als Selbstverbrauch des Betreibers des Ladepunkts. Im Fall des § 9 Absatz 1 Nummer 3 Buchstabe b gilt die Entnahme nach Absatz 1 Satz 1 als Entnahme durch einen Letztverbraucher.
+
+(3) Wer Strom im Rahmen des bidirektionalen Ladens aus einem aufladbaren elektrischen Energiespeicher von Elektrofahrzeugen an einen Ladepunkt leistet, gilt insoweit nicht als Versorger. Wird nach Satz 1 geleisteter Strom unmittelbar am Ort des Ladepunkts, ohne Nutzung des Netzes der allgemeinen Versorgung mit Strom, zum Verbrauch entnommen, entsteht keine Steuer.
 
 # § 6 – Widerrechtliche Entnahme von Strom
 
@@ -97,9 +113,13 @@ Bezieht ein Letztverbraucher Strom aus einem Gebiet außerhalb des Steuergebiets
 
 (4a) Wird die Leistung von Strom oder die Entnahme von Strom zum Selbstverbrauch nach Ablesezeiträumen abgerechnet oder ermittelt, die mehrere Veranlagungsmonate oder mehrere Veranlagungsjahre betreffen, ist insoweit eine sachgerechte, von einem Dritten nachvollziehbare Schätzung zur Aufteilung der im gesamten Ablesezeitraum entnommenen Menge auf die betroffenen Veranlagungszeiträume zulässig. Sofern Ablesezeiträume später enden als der jeweilige Veranlagungszeitraum, ist für diese Ablesezeiträume die voraussichtlich im Veranlagungszeitraum entnommene Menge zur Versteuerung anzumelden. Nachdem ein solcher Ablesezeitraum beendet ist, hat der Steuerschuldner die nach Satz 2 angemeldete Menge und die darauf entfallende Steuer entsprechend Satz 1 zu berichtigen. Die Berichtigung ist für den Veranlagungszeitraum vorzunehmen, in dem der Ablesezeitraum endet. Die Steuer oder der Erstattungsanspruch für die Differenzmenge zwischen der angemeldeten und der berichtigten Menge gilt insoweit in dem Zeitpunkt als entstanden, in dem der Ablesezeitraum endet. Die Sätze 1 bis 5 gelten für Steuerschuldner nach § 7 Satz 2 sinngemäß.
 
+(4b) Ablesezeiträume nach Absatz 4a enden auch dann später als der jeweilige Veranlagungszeitraum, wenn die für den Veranlagungszeitraum abgerechnete oder ermittelte Menge auf einer Schätzung beruht oder sich im Nachhinein als unzutreffend herausstellt und auf Grund einer Ablesung oder der Berichtigung eines abgelesenen Wertes eine Änderung der Abrechnung oder eine Änderung der ermittelten Menge erfolgt.
+
+(4c) Ablesezeiträume nach Absatz 4a betreffen auch dann mehrere Veranlagungsjahre, wenn Geschäftsvorfälle der Abrechnung oder Ermittlung der Menge nicht mehr in dem Jahresabschluss zu berücksichtigen sind, der das Veranlagungsjahr umfasst.
+
 (5) Scheidet ein Steuerschuldner während des Veranlagungsjahres aus der Steuerpflicht aus, ist die Höhe der zu entrichtenden Steuer bis zum Ablauf des fünften Kalendermonats, der dem Ende der Steuerpflicht folgt, anzumelden. Ein sich unter Anrechnung der geleisteten monatlichen Vorauszahlungen nach Absatz 7 ergebender Restbetrag ist bis zum 25. Kalendertag des Folgemonats an das Hauptzollamt zu zahlen.
 
-(6) Bei jährlicher Anmeldung sind auf die Steuerschuld monatliche Vorauszahlungen zu leisten. Die Höhe der monatlichen Vorauszahlungen wird durch das Hauptzollamt festgesetzt und beträgt ein Zwölftel der Steuer, die im vorletzten dem Veranlagungsjahr vorhergehenden Kalenderjahr entstanden ist. Das Hauptzollamt kann die monatlichen Vorauszahlungen abweichend festsetzen, wenn die Summe der vom Steuerschuldner zu leistenden Vorauszahlungen erheblich von der zu erwartenden Jahressteuerschuld abweichen würde.
+(6) Bei jährlicher Anmeldung sind auf die Steuerschuld monatliche Vorauszahlungen zu leisten. Die Höhe der monatlichen Vorauszahlungen wird durch das Hauptzollamt festgesetzt und beträgt ein Zwölftel der voraussichtlich im Veranlagungsjahr zu erwartenden Steuerschuld (voraussichtliche Jahressteuerschuld). Das Hauptzollamt kann die monatlichen Vorauszahlungen auf Antrag abweichend festsetzen, wenn die Summe der vom Steuerschuldner zu leistenden Vorauszahlungen erheblich von der voraussichtlichen Jahressteuerschuld abweichen würde. Der Steuerschuldner hat dem Hauptzollamt bis zum 15. Januar des Veranlagungsjahres, für das Vorauszahlungen zu leisten sind, eine sachgerechte, von einem Dritten nachvollziehbare Schätzung der voraussichtlichen Jahressteuerschuld mitzuteilen. Beträgt die voraussichtliche Jahressteuerschuld nach der Schätzung des Steuerschuldners weniger als 2 400 Euro, ist die Schätzung nur auf Verlangen des Hauptzollamts mitzuteilen. Der Steuerschuldner hat zum 30. Juni für das Veranlagungsjahr eine weitere Schätzung der voraussichtlichen Jahressteuerschuld vorzunehmen und diese auf Verlangen des Hauptzollamts mitzuteilen. Übersteigt diese Schätzung 100 000 Euro und die vom Hauptzollamt bei der Festsetzung der vom Steuerschuldner für das Veranlagungsjahr zu leistenden Vorauszahlungen zugrunde gelegte voraussichtliche Jahressteuerschuld um mehr als 20 Prozent, hat der Steuerschuldner dem Hauptzollamt die Schätzung bis zum 15. August des Veranlagungsjahres mitzuteilen. Das Hauptzollamt hat die monatlichen Vorauszahlungen abweichend festzusetzen.
 
 (7) Die Vorauszahlungen für den einzelnen Kalendermonat sind jeweils bis zum 25. Kalendertag des folgenden Kalendermonats an das Hauptzollamt zu entrichten.
 
@@ -123,11 +143,11 @@ hat der Steuerschuldner unverzüglich eine Steueranmeldung abzugeben. Die Steuer
 
 (1) Von der Steuer ist befreit:
 
-1. Strom, der in Anlagen mit einer elektrischen Nennleistung von mehr als zwei Megawatt aus erneuerbaren Energieträgern erzeugt und vom Betreiber der Anlage am Ort der Erzeugung zum Selbstverbrauch entnommen wird;
+1. Strom, der in Anlagen mit einer elektrischen Nennleistung von mehr als 2 Megawatt ausschließlich aus Windkraft, Sonnenenergie, Erdwärme oder Wasserkraft in Wasserkraftwerken mit einer installierten Generatorleistung von bis zu 10 Megawatt erzeugt und vom Betreiber der Anlage am Ort der Erzeugung zum Selbstverbrauch entnommen wird;
 
-2. Strom, der zur Stromerzeugung entnommen wird;
+2. Strom, der zur Stromerzeugung oder zur Aufrechterhaltung der Fähigkeit, elektrischen Strom zu erzeugen, entnommen wird;
 
-3. Strom, der in Anlagen mit einer elektrischen Nennleistung von bis zu zwei Megawatt aus erneuerbaren Energieträgern oder in hocheffizienten KWK-Anlagen mit einer elektrischen Nennleistung von bis zu zwei Megawatt erzeugt wird und der
+3. Strom, der in Anlagen mit einer elektrischen Nennleistung von bis zu 2 Megawatt ausschließlich aus Windkraft, Sonnenenergie, Erdwärme oder Wasserkraft oder in hocheffizienten KWK-Anlagen mit einer elektrischen Nennleistung von bis zu 2 Megawatt erzeugt wird und der
 
 a) vom Betreiber der Anlage als Eigenerzeuger im räumlichen Zusammenhang zu der Anlage zum Selbstverbrauch entnommen wird oder
 
@@ -135,9 +155,13 @@ b) von demjenigen, der die Anlage betreibt oder betreiben lässt, an Letztverbra
 
 4. Strom, der in Anlagen erzeugt wird, soweit diese der vorübergehenden Stromversorgung im Falle des Ausfalls oder der Störung der sonst üblichen Stromversorgung dienen (Notstromanlagen);
 
-5. Strom, der auf Wasserfahrzeugen oder in Luftfahrzeugen erzeugt und eben dort verbraucht wird, sowie Strom, der in Schienenfahrzeugen im Schienenbahnverkehr erzeugt und zu begünstigten Zwecken nach Absatz 2 entnommen wird;
+5. Strom, der auf Wasserfahrzeugen oder in Luftfahrzeugen erzeugt und eben dort entnommen wird, sowie Strom, der in Schienenfahrzeugen im Schienenbahnverkehr erzeugt und zu begünstigten Zwecken nach Absatz 2 entnommen wird;
 
-6. Strom, der in Anlagen mit einer elektrischen Nennleistung von bis zu zwei Megawatt erzeugt und am Ort der Erzeugung verwendet wird, sofern die Anlagen weder mittel- noch unmittelbar an das Netz der allgemeinen Versorgung mit Strom angeschlossen sind und zur Stromerzeugung nachweislich versteuerte Energieerzeugnisse eingesetzt werden;
+6. Strom, zu dessen Erzeugung nachweislich versteuerte Energieerzeugnisse eingesetzt werden und der in Anlagen mit einer elektrischen Nennleistung von bis zu 2 Megawatt erzeugt und
+
+a) am Ort der Erzeugung entnommen wird, sofern die Anlagen weder mittel- noch unmittelbar an das Netz der allgemeinen Versorgung mit Strom angeschlossen sind, oder
+
+b) am Ort der Erzeugung entnommen wird, ohne durch ein Netz der allgemeinen Versorgung mit Strom durchgeleitet zu werden;
 
 7. Strom, für den bei der Entnahme die Voraussetzungen vorliegen nach
 
@@ -151,15 +175,17 @@ c) den Artikeln III bis V des Abkommens zwischen der Bundesrepublik Deutschland 
 
 (1a) Strom ist nicht nach Absatz 1 Nummer 1 von der Steuer befreit, wenn er in ein Netz der allgemeinen Versorgung mit Strom eingespeist wird. Ein Einspeisen liegt auch dann vor, wenn Strom lediglich kaufmännisch-bilanziell weitergegeben und infolge dessen als eingespeist behandelt wird.
 
+(1b) Auf die Steuerbefreiungen nach Absatz 1 Nummer 1 bis 3 und 6 Buchstabe b kann unwiderruflich verzichtet werden, indem die entnommene Menge durch den Steuerschuldner nachweislich nach § 3 versteuert wird.
+
 (2) Strom unterliegt einem ermäßigten Steuersatz von 11,42 Euro für eine Megawattstunde, wenn er im Verkehr mit Oberleitungsomnibussen oder für den Fahrbetrieb im Schienenbahnverkehr, mit Ausnahme der betriebsinternen Werkverkehre und Bergbahnen, entnommen wird und nicht gemäß Absatz 1 von der Steuer befreit ist.
 
 (2a) (weggefallen)
 
-(3) Strom unterliegt einem ermäßigten Steuersatz von 0,50 Euro für eine Megawattstunde, wenn er im Fall einer landseitigen Stromversorgung von Wasserfahrzeugen für die Schifffahrt, mit Ausnahme der privaten nichtgewerblichen Schifffahrt, verbraucht wird. Satz 1 gilt nicht für die landseitige Stromversorgung von Wasserfahrzeugen während ihres Aufenthaltes in einer Werft.
+(3) Strom unterliegt einem ermäßigten Steuersatz von 0,50 Euro für eine Megawattstunde, wenn er im Fall einer landseitigen Stromversorgung von Wasserfahrzeugen für die Schifffahrt, mit Ausnahme der privaten nichtgewerblichen Schifffahrt, entnommen wird. Satz 1 gilt nicht für die landseitige Stromversorgung von Wasserfahrzeugen während ihres Aufenthaltes in einer Werft.
 
 (4) Der Erlaubnis bedarf, wer
 
-1. nach Absatz 1 Nummer 1 bis 3 von der Steuer befreiten Strom entnehmen will,
+1. nach Absatz 1 Nummer 1 bis 3 Buchstabe a von der Steuer befreiten Strom entnehmen will,
 
 2. nach Absatz 2 oder Absatz 3 begünstigten Strom entnehmen will oder
 
@@ -175,11 +201,11 @@ Die Erlaubnis wird auf Antrag unter Widerrufsvorbehalt Personen erteilt, gegen d
 
 (8) Wird Strom steuerbegünstigt an einen Nichtberechtigten geleistet, entsteht die Steuer auch in der Person des Nichtberechtigten. Mehrere Steuerschuldner sind Gesamtschuldner.
 
-(9) Die Steuerbefreiungen nach Absatz 1 Nummer 1 und 3 und die Steuerermäßigungen nach den Absätzen 2 und 3 werden gewährt nach Maßgabe und bis zum Auslaufen der hierfür erforderlichen Freistellungsanzeigen bei der Europäischen Kommission nach der Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (Allgemeine Gruppenfreistellungsverordnung; ABl. L 187 vom 26.6.2014, S. 1; L 283 vom 27.9.2014, S. 65), die durch die Verordnung (EU) 2017/1084 (ABl. L 156 vom 20.6.2017, S. 1) geändert worden ist, in der jeweils geltenden Fassung. Das Auslaufen der Freistellungsanzeigen ist vom Bundesministerium der Finanzen im Bundesgesetzblatt gesondert bekannt zu geben.
+(9) Die Steuerbefreiungen nach Absatz 1 Nummer 1 und 3 und die Steuerermäßigungen nach den Absätzen 2 und 3 werden gewährt nach Maßgabe und bis zum Auslaufen der hierfür erforderlichen Freistellungsanzeigen bei der Europäischen Kommission nach der Verordnung (EU) Nr. 651/2014. Das Auslaufen der Freistellungsanzeigen ist vom Bundesministerium der Finanzen im Bundesgesetzblatt gesondert bekannt zu geben.
 
-# § 9a – Erlass, Erstattung oder Vergütung der Steuer für bestimmte Prozesse und Verfahren
+# § 9a – Steuerentlastung für bestimmte Prozesse und Verfahren
 
-(1) Auf Antrag wird die Steuer für nachweislich versteuerten Strom erlassen, erstattet oder vergütet, den ein Unternehmen des Produzierenden Gewerbes
+(1) Eine Steuerentlastung wird auf Antrag gewährt für nachweislich nach § 3 versteuerten Strom, den ein Unternehmen des Produzierenden Gewerbes
 
 1. für die Elektrolyse,
 
@@ -191,15 +217,19 @@ Die Erlaubnis wird auf Antrag unter Widerrufsvorbehalt Personen erteilt, gegen d
 
 entnommen hat.
 
-(2) Erlass-, erstattungs- oder vergütungsberechtigt ist das Unternehmen des Produzierenden Gewerbes, das den Strom entnommen hat.
+(2) Entlastungsberechtigt ist derjenige, der den Strom entnommen hat.
 
 # § 9b – Steuerentlastung für Unternehmen
 
-(1) Eine Steuerentlastung wird auf Antrag gewährt für nachweislich nach § 3 versteuerten Strom, den ein Unternehmen des Produzierenden Gewerbes oder ein Unternehmen der Land- und Forstwirtschaft für betriebliche Zwecke entnommen hat und der nicht von der Steuer befreit ist. Die Steuerentlastung wird jedoch für die Entnahme von Strom zur Erzeugung von Licht, Wärme, Kälte, Druckluft und mechanischer Energie nur gewährt, soweit die vorgenannten Erzeugnisse nachweislich durch ein Unternehmen des Produzierenden Gewerbes oder ein Unternehmen der Land- und Forstwirtschaft genutzt worden sind. Abweichend von Satz 2 wird die Steuerentlastung auch für Strom zur Erzeugung von Druckluft gewährt, soweit diese in Druckflaschen oder anderen Behältern abgegeben wird. Die Steuerentlastung wird nicht für Strom gewährt, der für Elektromobilität verwendet wird.
+(1) Eine Steuerentlastung wird auf Antrag gewährt für nachweislich nach § 3 versteuerten Strom, den ein Unternehmen des Produzierenden Gewerbes oder ein Unternehmen der Land- und Forstwirtschaft für betriebliche Zwecke entnommen hat. Die Steuerentlastung wird jedoch für die Entnahme von Strom zur Erzeugung von Licht, Wärme, Kälte, Druckluft und mechanischer Energie nur gewährt, soweit die vorgenannten Erzeugnisse nachweislich durch ein Unternehmen des Produzierenden Gewerbes oder ein Unternehmen der Land- und Forstwirtschaft genutzt worden sind. Abweichend von Satz 2 wird die Steuerentlastung auch für Strom zur Erzeugung von Druckluft gewährt, soweit diese in Druckflaschen oder anderen Behältern abgegeben wird. Die Steuerentlastung wird nicht für Strom gewährt, der für Elektromobilität entnommen wird.
 
-(2) Die Steuerentlastung beträgt 5,13 Euro für eine Megawattstunde. Eine Steuerentlastung wird nur gewährt, soweit der Entlastungsbetrag nach Satz 1 im Kalenderjahr den Betrag von 250 Euro übersteigt.
+(1a) Die Entnahme von Strom zur Zwischenspeicherung in Stromspeichern stellt keine Entnahme zu betrieblichen Zwecken im Sinne von Absatz 1 dar, soweit der rückumgewandelte Strom anschließend an Dritte geleistet oder zu anderen als betrieblichen Zwecken entnommen wird. Der Anspruch nach Absatz 1 entsteht in den Fällen des Satzes 1 mit der Entnahme des rückumgewandelten Stroms zu betrieblichen Zwecken.
 
-(2a) Abweichend von Absatz 2 Satz 1 beträgt die Steuerentlastung für vom 1. Januar 2024 bis einschließlich 31. Dezember 2025 entnommenen Strom 20 Euro für eine Megawattstunde.
+(1b) Absatz 1 gilt für Umwandlungs- oder Verteilverluste nur, soweit die Nutzenergie durch Unternehmen des Produzierenden Gewerbes oder Unternehmen der Land- und Forstwirtschaft genutzt worden ist.
+
+(2) Die Steuerentlastung beträgt 20 Euro für eine Megawattstunde. Eine Steuerentlastung wird nur gewährt, soweit der Entlastungsbetrag nach Satz 1 im Kalenderjahr den Betrag von 250 Euro übersteigt.
+
+(2a) (weggefallen)
 
 (3) Entlastungsberechtigt ist derjenige, der den Strom entnommen hat.
 
@@ -207,15 +237,13 @@ entnommen hat.
 
 # § 9c – Steuerentlastung für den Öffentlichen Personennahverkehr
 
-(1) Eine Steuerentlastung wird auf Antrag gewährt für Strom, der nachweislich nach § 3 versteuert worden ist und der
+(1) Eine Steuerentlastung wird auf Antrag gewährt für Strom, der nachweislich nach § 3 versteuert worden ist und der
 
-1. in Kraftfahrzeugen im genehmigten Linienverkehr nach den §§ 42 und 43 des Personenbeförderungsgesetzes in der Fassung der Bekanntmachung vom 8. August 1990 (BGBl. I S. 1690), das zuletzt durch Artikel 5 des Gesetzes vom 29. August 2016 (BGBl. I S. 2082) geändert worden ist, in der jeweils geltenden Fassung, oder
+1. in Kraftfahrzeugen im genehmigten Linienverkehr nach den §§ 42 und 43 des Personenbeförderungsgesetzes in der Fassung der Bekanntmachung vom 8. August 1990 (BGBl. I S. 1690), das zuletzt durch Artikel 5 des Gesetzes vom 29. August 2016 (BGBl. I S. 2082) geändert worden ist, in der jeweils geltenden Fassung, oder
 
 2. in Kraftfahrzeugen in Verkehren nach § 1 Nummer 4 Buchstabe d, g und i der Freistellungs-Verordnung vom 30. August 1962 (BGBl. I S. 601), die zuletzt durch Artikel 1 der Verordnung vom 4. Mai 2012 (BGBl. I S. 1037) geändert worden ist, in der jeweils geltenden Fassung,
 
-zum Antrieb des Kraftfahrzeuges verwendet worden ist, wenn in der Mehrzahl der Beförderungsfälle eines Verkehrsmittels die gesamte Reiseweite
-
-50 Kilometer oder die gesamte Reisezeit eine Stunde nicht übersteigt. Die Steuerentlastung nach Satz 1 wird nur für den Anteil an Strom gewährt, der im Steuergebiet nach § 1 Absatz 1 Satz 2 verwendet worden ist. Die Steuerentlastung wird nicht gewährt, sofern der Strom bereits anderweitig von der Stromsteuer befreit oder für betriebsinterne Werkverkehre verwendet worden ist.
+zum Antrieb des Kraftfahrzeuges entnommen worden ist, wenn in der Mehrzahl der Beförderungsfälle eines Verkehrsmittels die gesamte Reiseweite 50 Kilometer oder die gesamte Reisezeit eine Stunde nicht übersteigt. Die Steuerentlastung nach Satz 1 wird nur für den Anteil an Strom gewährt, der im Steuergebiet nach § 1 Absatz 1 Satz 2 entnommen worden ist. Die Steuerentlastung wird nicht gewährt, sofern der Strom bereits anderweitig von der Stromsteuer befreit oder für betriebsinterne Werkverkehre entnommen worden ist.
 
 (2) Die Steuerentlastung beträgt 9,08 Euro für eine Megawattstunde.
 
@@ -223,7 +251,7 @@ zum Antrieb des Kraftfahrzeuges verwendet worden ist, wenn in der Mehrzahl der B
 
 50 Euro im Kalenderjahr beträgt.
 
-(4) Entlastungsberechtigt ist derjenige, der den Strom verwendet hat.
+(4) Entlastungsberechtigt ist derjenige, der den Strom entnommen hat.
 
 (5) Die Steuerentlastung wird gewährt nach Maßgabe und bis zum Auslaufen der hierfür erforderlichen Freistellungsanzeige bei der Europäischen Kommission nach der Verordnung (EU) Nr. 651/2014. Das Auslaufen der Freistellungsanzeige ist vom Bundesministerium der Finanzen im Bundesgesetzblatt gesondert bekannt zu geben.
 
@@ -251,9 +279,27 @@ wenn diese Streitkräfte im Steuergebiet an einer Verteidigungsanstrengung teiln
 
 # § 10 – (weggefallen)
 
-# § 10a – Datenaustausch
+# § 10a – Datenübermittlung
 
-Informationen, einschließlich personenbezogener Daten sowie Betriebs- und Geschäftsgeheimnisse, die in einem Steuerverfahren bekannt geworden sind, können zwischen den Hauptzollämtern, den Übertragungsnetzbetreibern, der Bundesnetzagentur und dem Bundesamt für Wirtschaft und Ausfuhrkontrolle ausgetauscht werden, soweit diese Stellen die Informationen zur Erfüllung ihrer gesetzlichen Aufgaben aus dem Erneuerbare-Energien-Gesetz, aus dem Kraft-Wärme-Kopplungsgesetz, aus dem Energiewirtschaftsgesetz oder aus einer auf Grund dieser Gesetze ergangenen Rechtsverordnung benötigen.
+(1) Die Generalzolldirektion sowie die Hauptzollämter dürfen Informationen, einschließlich personenbezogener Daten sowie Betriebs- und Geschäftsgeheimnisse, die ihnen in einem Steuerverfahren bekannt geworden sind, an folgende Stellen übermitteln, soweit dies für die Erfüllung der jeweiligen gesetzlichen Aufgaben erforderlich ist:
+
+1. an die Übertragungsnetzbetreiber zur Erfüllung ihrer Aufgaben im Zusammenhang mit
+
+a) dem Betrieb der Energieversorgungsnetze und der Systemverantwortung für die Energieversorgungsnetze nach dem Energiewirtschaftsgesetz und den dazu erlassenen Rechtsverordnungen,
+
+b) der Erhebung der nach Teil 4 Abschnitt 4 des Energiefinanzierungsgesetzes begrenzten Umlagen oder
+
+c) den Vermarktungspflichten nach dem Erneuerbare-Energien-Gesetz und den dazu erlassenen Rechtsverordnungen,
+
+2. an die Bundesnetzagentur zur Erfüllung ihrer Aufgaben nach dem Energiewirtschaftsgesetz, dem Erneuerbare-Energien-Gesetz, dem Energiefinanzierungsgesetz, dem Kraft-Wärme-Kopplungsgesetz oder den zu diesen Gesetzen erlassenen Rechtsverordnungen,
+
+3. an das Umweltbundesamt zur Erfüllung seiner Aufgaben im Zusammenhang mit der Stromkennzeichnung nach dem Energiewirtschaftsgesetz oder dem Erneuerbare-Energien-Gesetz oder den auf Grund dieser Gesetze erlassenen Rechtsverordnungen und
+
+4. an das Bundesamt für Wirtschaft und Ausfuhrkontrolle zur Erfüllung seiner Aufgaben im Zusammenhang mit der Begrenzung der Umlagen nach Teil 4 Abschnitt 4 des Energiefinanzierungsgesetzes oder nach dem Kraft-Wärme-Kopplungsgesetz oder den dazu erlassenen Rechtsverordnungen.
+
+(2) Die Übertragungsnetzbetreiber, die Bundesnetzagentur, das Umweltbundesamt sowie das Bundesamt für Wirtschaft und Ausfuhrkontrolle dürfen Informationen, einschließlich personenbezogener Daten sowie Betriebs- und Geschäftsgeheimnisse, an die Generalzolldirektion und die Hauptzollämter übermitteln, soweit dies zur Durchführung eines Steuerverfahrens nach der Abgabenordnung, diesem Gesetz und der Stromsteuer-Durchführungsverordnung erforderlich ist.
+
+(3) Die Datenübermittlungen nach den Absätzen 1 und 2 dürfen auf Initiative der zur Übermittlung befugten Stellen und auf Ersuchen der Datenempfänger erfolgen.
 
 # § 11 – Ermächtigungen
 
@@ -265,9 +311,11 @@ Das Bundesministerium der Finanzen wird ermächtigt, zur Durchführung dieses Ge
 
 a) die Begriffe des Versorgers, des Letztverbrauchers und des Eigenerzeugers abweichend von § 2 Nummer 1 und 2 zu bestimmen,
 
-b) die Begriffe des § 2a näher zu bestimmen und für die Mitteilungspflichten die Form, den Inhalt, den Umfang und die Art und Weise der Übermittlung festzulegen sowie besondere Vorgaben, einschließlich der Fristen, innerhalb derer die Angaben zu machen sind, zu erlassen;
+b) die Begriffe des § 2a näher zu bestimmen und für die Mitteilungspflichten die Form, den Inhalt, den Umfang und die Art und Weise der Übermittlung festzulegen sowie besondere Vorgaben, einschließlich der Fristen, innerhalb derer die Angaben zu machen sind, zu erlassen,
 
-3. zur Sicherung des Steueraufkommens und der Gleichmäßigkeit der Besteuerung, zur Verfahrenserleichterung und zur Vermeidung unangemessener wirtschaftlicher Belastungen Bestimmungen für die Elektromobilität (§ 2 Nummer 8) zu erlassen und dabei insbesondere
+c) den Begriff der Anlage zur Stromerzeugung näher zu bestimmen, dabei kann es nach eingesetzten Energieträgern unterscheiden;
+
+3. zur Sicherung des Steueraufkommens und der Gleichmäßigkeit der Besteuerung, zur Verfahrenserleichterung und zur Vermeidung unangemessener wirtschaftlicher Belastungen Bestimmungen für die Elektromobilität (§ 2 Nummer 8) und für Ladepunkte und bidirektionales Laden (§ 2 Nummer 8a bis 8c, § 5a) zu erlassen und dabei insbesondere
 
 a) die Begriffe der elektrisch betriebenen Fahrzeuge sowie der Ladepunkte näher zu bestimmen und den Kreis der elektrisch betriebenen Fahrzeuge einzugrenzen,
 
@@ -275,29 +323,37 @@ b) im Zusammenhang mit der Leistung von Strom an elektrisch betriebene Fahrzeuge
 
 c) das Erteilen und das Erlöschen einer Erlaubnis sowie das zugehörige Erlaubnisverfahren im Übrigen zu regeln oder eine Anzeigepflicht im Zusammenhang mit der Leistung von Strom an elektrisch betriebene Fahrzeuge oder für die Entnahme von Strom durch elektrisch betriebene Fahrzeuge einzuführen,
 
-d) für die Speicherung von Strom in den Batterien oder sonstigen Speichern der elektrisch betriebenen Fahrzeuge das Erteilen und das Erlöschen einer Erlaubnis sowie das zugehörige Erlaubnisverfahren im Übrigen zu regeln, die Verfahren für die Steuerentstehung oder die Steuerentlastung zu regeln und Vorschriften über Angaben und Nachweise zu erlassen, die für die Steuerentlastungen erforderlich sind; dabei kann es anordnen, dass der Anspruch auf Erlass, Erstattung oder Vergütung der Steuer innerhalb bestimmter Fristen geltend zu machen ist;
+d) für die Speicherung von Strom in den Batterien oder sonstigen Speichern der elektrisch betriebenen Fahrzeuge das Erteilen und das Erlöschen einer Erlaubnis sowie das zugehörige Erlaubnisverfahren im Übrigen zu regeln, die Verfahren für die Steuerentstehung oder die Steuerentlastung zu regeln und Vorschriften über Angaben und Nachweise zu erlassen, die für die Steuerentlastungen erforderlich sind; dabei kann es anordnen, dass der Anspruch auf Erlass, Erstattung oder Vergütung der Steuer innerhalb bestimmter Fristen geltend zu machen ist,
+
+e) Regelungen zur Steueranmeldung, zur Erfassung, Abgrenzung und Mitteilung von Strommengen, zur Berechnung und Entrichtung der Steuer sowie zur Festsetzung von monatlichen Vorauszahlungen vorzusehen,
+
+f) Regelungen zur Zwischenspeicherung von Strom in unmittelbar und dauerhaft mit Ladepunkten verbundenen Stromspeichern und zu bidirektionalen Ladevorgängen an Ladepunkten und Ausnahmen vom Versorgerstatus vorzusehen;
 
 4. die Zuordnung von Unternehmen zu einem Abschnitt oder einer Klasse der Klassifikation der Wirtschaftszweige (§ 2 Nummer 3 und 5) auch abweichend von den Zuordnungsregelungen der Klassifikation der Wirtschaftszweige zu regeln;
 
 5. zur Sicherung des Steueraufkommens und der Gleichmäßigkeit der Besteuerung das Erteilen und das Erlöschen einer Erlaubnis nach § 4, das zugehörige Erlaubnisverfahren im Übrigen und das Verfahren der Sicherheitsleistung näher zu regeln;
 
-6. zur Verfahrensvereinfachung vorzusehen, dass Versorger Strom als Letztverbraucher im Sinne von § 5 Abs. 1 Satz 1 beziehen können, und die dafür erforderlichen Bestimmungen zu erlassen;
+6. zur Verfahrensvereinfachung vorzusehen, wann Versorger nicht als Versorger gelten oder wann Versorger als Letztverbraucher im Sinne des § 5 Absatz 1 Satz 1 gelten, und die dafür erforderlichen Bestimmungen zu erlassen;
+
+6a. zur Sicherung des Steueraufkommens und zur Gleichmäßigkeit der Besteuerung Verfahrensvorschriften und Bestimmungen zu Stromspeichern (§ 2 Nummer 9, 9a und § 5 Absatz 4) zu erlassen und dabei insbesondere Regelungen zur Erfassung, Abgrenzung und Mitteilung von Strommengen, zur Art und Weise der Zwischenspeicherung, zum Ort des Betriebs des Speichers und zur Weitergabe von aus Stromspeichern erzeugten Strommengen zu erlassen;
 
 7. Verfahrensvorschriften zu § 8 zu erlassen, insbesondere zur Steueranmeldung, zur Berechnung und Entrichtung der Steuer sowie zur Berechnung und Festsetzung der monatlichen Vorauszahlungen;
+
+7a. vorzusehen, dass die Steuer auf der Rechnung gesondert auszuweisen ist und die hierfür notwendigen Vorgaben zu machen;
 
 8. zur Sicherung der Gleichmäßigkeit der Besteuerung, zur Verfahrensvereinfachung und zur Vermeidung unangemessener wirtschaftlicher Belastungen Bestimmungen zu § 9 zu erlassen und dabei insbesondere
 
 a) die Voraussetzungen für die steuerbegünstigte Entnahme von Strom einschließlich der Begriffe näher zu bestimmen, das Erteilen und das Erlöschen einer Erlaubnis und das zugehörige Erlaubnisverfahren im Übrigen zu regeln sowie die Erlaubnis allgemein zu erteilen; dabei kann es anordnen, dass die Steuer in Person des Erlaubnisinhabers entsteht, wenn die Voraussetzungen der Steuerbegünstigung nicht oder nicht mehr vorliegen, und das erforderliche Verfahren regeln;
 
-b) statt der Steuerbegünstigung eine Steuerentlastung durch Erlass, Erstattung oder Vergütung der Steuer anzuordnen und das dafür erforderliche Verfahren zu regeln sowie Vorschriften über die zum Zwecke der Steuerentlastung erforderlichen Angaben und Nachweise einschließlich ihrer Aufbewahrung zu erlassen; dabei kann es anordnen, dass der Anspruch auf Erlass, Erstattung oder Vergütung der Steuer innerhalb bestimmter Fristen geltend zu machen ist;
+b) statt der Steuerbegünstigung eine Steuerentlastung anzuordnen und das dafür erforderliche Verfahren zu regeln sowie Vorschriften über die zum Zwecke der Steuerentlastung erforderlichen Angaben und Nachweise einschließlich ihrer Aufbewahrung zu erlassen; dabei kann es anordnen, dass der Anspruch auf Steuerentlastung innerhalb bestimmter Fristen geltend zu machen ist;
 
 c) vorzusehen, dass Inhaber von Erlaubnissen zur steuerbegünstigten Entnahme von Strom, die Strom auch zu anderen Zwecken entnehmen oder Strom sowohl entnehmen als auch an Dritte leisten, auf Antrag den zu anderen Zwecken entnommenen oder den an Dritte geleisteten Strom mit dem Unterschiedsbetrag zwischen den jeweiligen Steuersätzen versteuern können; dabei kann es die dafür erforderlichen Bestimmungen erlassen;
 
-d) vorzuschreiben, in welchen Fällen die Steuerbegünstigung auf der Rechnung gesondert auszuweisen ist;
+d) vorzuschreiben, in welchen Fällen die Steuer oder die Steuerbegünstigungen auf der Rechnung gesondert auszuweisen sind und die hierfür notwendigen Vorgaben zu machen;
 
-e) Vorgaben zur Ermittlung des Monats- oder des Jahresnutzungsgrads und zur Abgrenzung des Kraft-Wärme-Kopplungsprozesses zu erlassen sowie den Betreibern von Anlagen nach § 9 Pflichten zum Nachweis der dort genannten Voraussetzungen aufzuerlegen;
+e) Vorgaben zur Abgrenzung des Kraft-Wärme-Kopplungsprozesses zu erlassen sowie den Betreibern von Anlagen nach § 9 Vorgaben und Pflichten zum Nachweis der dort genannten Voraussetzungen aufzuerlegen;
 
-f) Näheres zur Ermittlung für die Hocheffizienzkriterien, zur Berechnung und zum Nachweis des Nutzungsgrads und zu den Hauptbestandteilen hocheffizienter KWK-Anlagen (§ 9 Absatz 1 Nummer 3) zu bestimmen und den am Betrieb dieser Anlagen Beteiligten Pflichten zum Nachweis der dort genannten Voraussetzungen aufzuerlegen;
+f) (weggefallen)
 
 8a. zur Sicherung der Gleichmäßigkeit der Besteuerung, zur Verfahrensvereinfachung und zur Vermeidung unangemessener wirtschaftlicher Belastungen festzulegen, dass die Steuerbegünstigung nach § 9 Absatz 1 Nummer 2 wahlweise auch in Form festgesetzter pauschaler Werte in Anspruch genommen werden kann, die sich an der Bruttostromerzeugung der jeweiligen Anlage orientieren; dabei kann es nach eingesetzten Energieträgern und der Art und Größe der Stromerzeugungsanlage unterscheiden;
 
@@ -305,7 +361,7 @@ f) Näheres zur Ermittlung für die Hocheffizienzkriterien, zur Berechnung und z
 
 10. zur Sicherung des Steueraufkommens und der Gleichmäßigkeit der Besteuerung die Voraussetzungen für die Steuerentlastungen nach den §§ 9a bis 9e einschließlich der Begriffe näher zu bestimmen und das Verfahren der Steuerentlastung zu regeln sowie Vorschriften über Angaben und Nachweise zu erlassen, die zum Zwecke der Steuerentlastung erforderlich sind. Dabei kann es zur Verwaltungsvereinfachung anordnen, dass der Anspruch auf Erlass, Erstattung oder Vergütung der Steuer innerhalb bestimmter Fristen geltend zu machen ist;
 
-11. zur Sicherung des Steueraufkommens und der Gleichmäßigkeit der Besteuerung Regelungen zur Ermittlung der steuerrelevanten Strommengen zu erlassen und dabei aus Vereinfachungsgründen Mengenschätzungen durch den Steuerpflichtigen zuzulassen, soweit eine genaue Ermittlung nur mit unvertretbarem Aufwand möglich ist;
+11. zur Sicherung des Steueraufkommens und der Gleichmäßigkeit der Besteuerung Regelungen zur Ermittlung, Abgrenzung und des Nachweises der steuerrelevanten Strommengen zu erlassen und hierfür notwendige Begriffe näher zu bestimmen, und dabei insbesondere Vorgaben zur Zeitgleichheit von Erzeugung, Stromleistung und Entnahme von Strommengen vorzusehen oder aus Vereinfachungsgründen Mengenschätzungen durch den Steuerpflichtigen zuzulassen, soweit eine genaue Ermittlung nur mit unvertretbarem Aufwand möglich ist;
 
 12. (weggefallen)
 
@@ -361,7 +417,11 @@ Rechtsverordnungen, die auf Grund der in diesem Gesetz enthaltenen Ermächtigung
 
 # § 14 – Bußgeldvorschriften
 
-(1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig einer Rechtsverordnung nach § 11 Nummer 13 Buchstabe a bis c oder d oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
+(1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
+
+1. entgegen § 8 Absatz 6 Satz 4 bis 7 eine Mitteilung nicht, nicht richtig oder nicht rechtzeitig macht oder
+
+2. einer Rechtsverordnung nach § 11 Nummer 13 Buchstabe a bis c oder d oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 

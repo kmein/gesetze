@@ -153,7 +153,7 @@ b) dreirädriges Kleinkraftrad mit Fremdzündungsmotor, dessen Hubraum nicht meh
 
 25. Überführungsfahrt: die Fahrt zur Überführung des Fahrzeuges an einen anderen Ort, auch zur Durchführung von Um- oder Aufbauten.
 
-Die nationale Typgenehmigung nach Satz 1 Nummer 5 oder die Fahrzeug-Einzelgenehmigung nach Satz 1 Nummer 6 ist eine Betriebserlaubnis im Sinne des Straßenverkehrsgesetzes und eine Allgemeine Betriebserlaubnis im Sinne der Straßenverkehrs-Zulassungs-Ordnung. Unter den Begriff der selbstfahrenden Arbeitsmaschine nach Satz 1 Nummer 17 fällt auch
+Die nationale Typgenehmigung nach Satz 1 Nummer 5 ist eine Betriebserlaubnis im Sinne des Straßenverkehrsgesetzes und eine Allgemeine Betriebserlaubnis im Sinne der Straßenverkehrs-Zulassungs-Ordnung. Die Fahrzeug-Einzelgenehmigung nach Satz 1 Nummer 6 ist eine Betriebserlaubnis im Sinne des Straßenverkehrsgesetzes und eine Einzelbetriebserlaubnis im Sinne der Straßenverkehrs-Zulassungs-Ordnung. Unter den Begriff der selbstfahrenden Arbeitsmaschine nach Satz 1 Nummer 17 fällt auch
 
 1. ein selbstfahrender Futtermischwagen mit einer bauartbedingten Höchstgeschwindigkeit von nicht mehr als 25 Kilometern pro Stunde,
 
@@ -219,7 +219,7 @@ Anhänger im Sinne des Satzes 1 Nummer 2 Buchstabe a bis c sind nur dann zulassu
 
 # § 4 – Voraussetzungen für die Inbetriebsetzung eines zulassungsfreien Fahrzeuges
 
-(1) Ein zulassungsfreies Fahrzeug nach § 3 Absatz 3 Satz 1 Nummer 1 und 2 Buchstabe a bis g sowie ein land- oder forstwirtschaftliches Arbeitsgerät mit einer zulässigen Gesamtmasse von mehr als 3 Tonnen darf von der das Fahrzeug führenden Person auf öffentlichen Straßen nur in Betrieb gesetzt werden, wenn es einem genehmigten Typ entspricht oder eine Fahrzeug-Einzelgenehmigung erteilt ist.
+(1) Ein zulassungsfreies Fahrzeug nach § 3 Absatz 3 Satz 1 Nummer 1 Buchstabe a bis f und Nummer 2 Buchstabe a bis g sowie ein land- oder forstwirtschaftliches Arbeitsgerät mit einer zulässigen Gesamtmasse von mehr als drei Tonnen darf von der das Fahrzeug führenden Person auf öffentlichen Straßen nur in Betrieb gesetzt werden, wenn es einem genehmigten Typ entspricht oder eine Fahrzeug-Einzelgenehmigung erteilt ist.
 
 (2) Eine das Fahrzeug führende Person darf folgende Fahrzeuge nach Absatz 1 auf öffentlichen Straßen nur dann in Betrieb setzen, wenn das jeweilige Fahrzeug zudem ein Kennzeichen nach § 9 Absatz 1 Satz 1 führt:
 
@@ -275,7 +275,7 @@ Name oder Bezeichnung und Anschrift;
 
 3. bei Vereinigungen, soweit ihnen ein Recht zustehen kann:
 
-Vertreter mit den Angaben nach Nummer 1 oder 2 und Name der Vereinigung.
+Name und Anschrift der Vereinigung.
 
 Bei beruflich selbstständigen Haltern sind außerdem die Daten nach § 33 Absatz 2 des Straßenverkehrsgesetzes über Beruf oder Gewerbe anzugeben und auf Verlangen nachzuweisen.
 
@@ -434,7 +434,7 @@ e) das Datum der Außerbetriebsetzung.
 
 (3) Bei einem Fahrzeug, für das eine EU-Typgenehmigung vorliegt und das in einem Staat außerhalb der Europäischen Union oder außerhalb des Europäischen Wirtschaftsraums in Betrieb war, ist vor der Zulassung eine Untersuchung nach § 29 der Straßenverkehrs-Zulassungs-Ordnung durchzuführen.
 
-(4) Die Zulassungsbehörde hat die ausländische Zulassungsbescheinigung einzuziehen, ab dem Zeitpunkt der Einziehung sechs Monate aufzubewahren und nach Ablauf der Aufbewahrungsfrist unverzüglich zu vernichten. Sie hat das Kraftfahrt-Bundesamt über die Einziehung umgehend, spätestens innerhalb eines Monats, elektronisch zu unterrichten. Ausführungsregelungen zur technisch-organisatorischen Ausgestaltung der Datenübermittlung hat das Kraftfahrt-Bundesamt festzulegen und auf seiner Internetseite in entsprechenden Standards rechtzeitig zu veröffentlichen. Das Kraftfahrt-Bundesamt hat auf Änderungen im Verkehrsblatt hinzuweisen. Auf Verlangen der zuständigen ausländischen Behörde hat die Zulassungsbehörde die nach Satz 1 eingezogene Zulassungsbescheinigung innerhalb der Aufbewahrungsfrist über das Kraftfahrt-Bundesamt zurückzusenden.
+(4) Die Zulassungsbehörde hat die ausländische Zulassungsbescheinigung einzuziehen, ab dem Zeitpunkt der Einziehung sechs Monate aufzubewahren und nach Ablauf der Aufbewahrungsfrist unverzüglich zu vernichten. Sie hat das Kraftfahrt-Bundesamt über die Einziehung umgehend, spätestens innerhalb eines Monats, elektronisch zu unterrichten. Ausführungsregelungen zur technisch-organisatorischen Ausgestaltung der Datenübermittlung hat das Kraftfahrt-Bundesamt festzulegen und auf seiner Internetseite in entsprechenden Standards rechtzeitig zu veröffentlichen. Das Kraftfahrt-Bundesamt hat auf Änderungen im Verkehrsblatt hinzuweisen. Auf Verlangen der zuständigen ausländischen Behörde hat die Zulassungsbehörde die nach Satz 1 eingezogene Zulassungsbescheinigung innerhalb der Aufbewahrungsfrist über das Kraftfahrt-Bundesamt zurückzusenden. Bei berechtigtem Interesse des Antragstellers ist die eingezogene ausländische Zulassungsbescheinigung auf Antrag zu entwerten und dem Antragsteller auszuhändigen.
 
 # § 9 – Zuteilung von Kennzeichen
 
@@ -466,13 +466,13 @@ wenn das Wechselkennzeichen an diesem Fahrzeug vollständig angebracht ist. Der 
 
 auf öffentlichen Straßen nur anordnen oder zulassen, wenn die Voraussetzungen nach Satz 6 vorliegen. § 41 Absatz 1 bleibt unberührt.
 
-(3) Die Unterscheidungszeichen der Verwaltungsbezirke werden auf Antrag der Länder vom Bundesministerium für Digitales und Verkehr festgelegt oder aufgehoben. Die Buchstabenkombination des Unterscheidungszeichens darf nicht gegen die guten Sitten verstoßen. Die Länder können auch die Festlegung von mehr als einem Unterscheidungszeichen für einen Verwaltungsbezirk beantragen. Die Beantragung eines zusätzlichen Unterscheidungszeichens für einen Verwaltungsbezirk kann seitens der Länder erfolgen, wenn ohne dieses ein Verbrauch der verfügbaren Kennzeichenkombinationen unmittelbar bevorsteht. Die Festlegung und Aufhebung der Unterscheidungszeichen ist vom Bundesministerium für Digitales und Verkehr unverzüglich im Bundesanzeiger zu veröffentlichen. Ein Kennzeichen, dessen Unterscheidungszeichen aufgehoben ist, darf bis zur Außerbetriebsetzung des betroffenen Fahrzeuges weitergeführt werden.
+(3) Die Unterscheidungszeichen der Verwaltungsbezirke werden auf Antrag der Länder vom Bundesministerium für Verkehr festgelegt oder aufgehoben. Die Buchstabenkombination des Unterscheidungszeichens darf nicht gegen die guten Sitten verstoßen. Die Länder können auch die Festlegung von mehr als einem Unterscheidungszeichen für einen Verwaltungsbezirk beantragen. Die Beantragung eines zusätzlichen Unterscheidungszeichens für einen Verwaltungsbezirk kann seitens der Länder erfolgen, wenn ohne dieses ein Verbrauch der verfügbaren Kennzeichenkombinationen unmittelbar bevorsteht. Die Festlegung und Aufhebung der Unterscheidungszeichen ist vom Bundesministerium für Verkehr unverzüglich im Bundesanzeiger zu veröffentlichen. Ein Kennzeichen, dessen Unterscheidungszeichen aufgehoben ist, darf bis zur Außerbetriebsetzung des betroffenen Fahrzeuges weitergeführt werden.
 
 (4) Die Zulassungsbehörde kann das zugeteilte Kennzeichen von Amts wegen oder auf Antrag ändern. Hierzu kann sie die Vorlage der bisherigen abgestempelten Kennzeichenschilder zur Entstempelung sowie die Vorführung des Fahrzeuges anordnen.
 
 # § 10 – Besondere Kennzeichen
 
-(1) Auf Antrag ist für ein Fahrzeug, für das ein Gutachten nach § 23 der Straßenverkehrs-Zulassungs-Ordnung vorliegt, ein Oldtimerkennzeichen zuzuteilen. Dieses Kennzeichen hat aus einem Unterscheidungszeichen und einer Erkennungsnummer nach § 9 Absatz 1 zu bestehen. Es hat als Oldtimerkennzeichen den Kennbuchstaben „H“ als amtlichen Zusatz hinter der Erkennungsnummer, der von der Zulassungsbehörde auch in der Zulassungsbescheinigung Teil I und Teil II zu vermerken ist, zu führen. Die Zulassungsbehörde kann im Einzelfall bei der Berechnung des in geforderten Mindestzeitraums vor dem Zeitpunkt des erstmaligen Inverkehrbringens liegende Zeiten, in denen das Fahrzeug außerhalb des öffentlichen Straßenverkehrs in Betrieb gesetzt wurde, anrechnen.
+(1) Auf Antrag ist für ein Fahrzeug, für das ein Gutachten nach § 23 der Straßenverkehrs-Zulassungs-Ordnung vorliegt, ein Oldtimerkennzeichen zuzuteilen. Dieses Kennzeichen hat aus einem Unterscheidungszeichen und einer Erkennungsnummer nach § 9 Absatz 1 zu bestehen. Es hat als Oldtimerkennzeichen den Kennbuchstaben „H“ als amtlichen Zusatz hinter der Erkennungsnummer, der von der Zulassungsbehörde auch in der Zulassungsbescheinigung Teil I und Teil II zu vermerken ist, zu führen. Die Zulassungsbehörde kann im Einzelfall bei der Berechnung des in § 2 Satz 1 Nummer 22 geforderten Mindestzeitraums vor dem Zeitpunkt des erstmaligen Inverkehrbringens liegende Zeiten, in denen das Fahrzeug außerhalb des öffentlichen Straßenverkehrs in Betrieb war, anrechnen.
 
 (2) Für ein Fahrzeug, dessen Halter von der Kraftfahrzeugsteuer befreit ist, ist abweichend von § 12 Absatz 1 ein Kennzeichen mit grüner Beschriftung auf weißem Grund (grünes Kennzeichen) zuzuteilen. Ausgenommen von Satz 1 sind:
 
@@ -560,7 +560,7 @@ In die Plakette ist von der Ausgabestelle im dafür vorgesehenen Sichtfeld mit l
 
 (11) Am Fahrzeug darf außer dem Kennzeichen nur das Unterscheidungszeichen für den Zulassungsstaat nach Artikel 37 in Verbindung mit Anhang 3 des Übereinkommens vom 8. November 1968 über den Straßenverkehr (BGBl. 1977 II S. 809) angebracht werden. Für die Bundesrepublik Deutschland ist dies der Großbuchstabe „D“.
 
-(12) Zeichen und Einrichtungen aller Art, die zu Verwechslungen mit Kennzeichen oder dem Unterscheidungszeichen nach Absatz 11 Satz 1 führen oder deren Wirkung beeinträchtigen können, dürfen an Fahrzeugen nicht angebracht werden. Über die Anbringung der Zeichen „CD“ für Fahrzeuge von Angehörigen diplomatischer Vertretungen und „CC“ für Fahrzeuge von Angehörigen konsularischer Vertretungen entscheidet das Bundesministerium für Digitales und Verkehr. Die Zeichen CD und CC dürfen an einem Fahrzeug auf öffentlichen Straßen von der das Fahrzeug führenden Person nur geführt werden, wenn die Berechtigung in der Zulassungsbescheinigung Teil I eingetragen ist. Der Halter darf die Inbetriebsetzung eines Fahrzeuges auf öffentlichen Straßen nur anordnen oder zulassen, wenn die Voraussetzungen nach Satz 3 vorliegen.
+(12) Zeichen und Einrichtungen aller Art, die zu Verwechslungen mit Kennzeichen oder dem Unterscheidungszeichen nach Absatz 11 Satz 1 führen oder deren Wirkung beeinträchtigen können, dürfen an Fahrzeugen nicht angebracht werden. Über die Anbringung der Zeichen „CD“ für Fahrzeuge von Angehörigen diplomatischer Vertretungen und „CC“ für Fahrzeuge von Angehörigen konsularischer Vertretungen entscheidet das Bundesministerium für Verkehr. Die Zeichen CD und CC dürfen an einem Fahrzeug auf öffentlichen Straßen von der das Fahrzeug führenden Person nur geführt werden, wenn die Berechtigung in der Zulassungsbescheinigung Teil I eingetragen ist. Der Halter darf die Inbetriebsetzung eines Fahrzeuges auf öffentlichen Straßen nur anordnen oder zulassen, wenn die Voraussetzungen nach Satz 3 vorliegen.
 
 (13) Unbeschadet des Absatzes 4 darf ein Fahrzeug auf öffentlichen Straßen von der das Fahrzeug führenden Person nur in Betrieb gesetzt werden, wenn
 
@@ -788,7 +788,7 @@ Das Kraftfahrt-Bundesamt hat die Standards auf seiner Internetseite zu veröffen
 
 # § 19 – Portal
 
-(1) Sofern ein nach dieser Verordnung erforderlicher Antrag elektronisch gestellt werden soll, hat dies über das von der Zulassungsbehörde hierfür eingerichtete informationstechnische System (Portal) zu erfolgen. Nach der Antragstellung werden die in das Portal eingegebenen und von diesem Portal erstellten Daten zusammen mit der vollständig durch eine automatische Einrichtung des Portals erlassenen Entscheidung (automatisierte Entscheidung) an die internen informationstechnischen Verfahren der Zulassungsbehörde übermittelt. Die Übermittlung erfolgt nach Abruf der automatisierten Entscheidung durch die antragstellende Person oder spätestens nach dem Ende deren Bereitstellungsdauer. Sofern die maschinelle Prüfung scheitert, wird die Entscheidung der Zulassungsbehörde übertragen, ohne dass diese an das Ergebnis der maschinellen Vorprüfung im Portal gebunden ist. Die Übermittlung der Daten und der automatisierten Entscheidung nach Satz 2 erfolgt elektronisch über ein vom Kraftfahrt-Bundesamt eingerichtetes Verfahren. Die im Portal zu dem jeweiligen Dialog gespeicherten Daten sind entweder unverzüglich nach ihrer Übermittlung nach Satz 2 oder, bei einem Abbruch des Vorgangs, spätestens 30 Minuten nach dem Abbruch zu löschen. Bei der Übermittlung der Daten und der automatisierten Entscheidung nach Satz 2 ist anzugeben, dass es sich um die Daten und die Entscheidung eines internetbasierten Antrags handelt.
+(1) Sofern ein nach dieser Verordnung erforderlicher Antrag elektronisch gestellt werden soll, hat dies über das von der Zulassungsbehörde hierfür eingerichtete informationstechnische System (Portal) zu erfolgen. Nach der Antragstellung werden die in das Portal eingegebenen und von diesem Portal erstellten Daten zusammen mit der vollständig durch eine automatische Einrichtung des Portals erlassenen Entscheidung (automatisierte Entscheidung) an die internen informationstechnischen Verfahren der Zulassungsbehörde übermittelt. Die Übermittlung erfolgt nach Abruf der automatisierten Entscheidung durch die antragstellende Person oder spätestens nach dem Ende deren Bereitstellungsdauer. Sofern die maschinelle Prüfung scheitert, wird die Entscheidung der Zulassungsbehörde übertragen, ohne dass diese an das Ergebnis der maschinellen Vorprüfung im Portal gebunden ist. Die Übermittlung der Daten und der automatisierten Entscheidung nach Satz 2 erfolgt elektronisch über ein vom Kraftfahrt-Bundesamt eingerichtetes Verfahren. Die im Portal zu dem jeweiligen Dialog gespeicherten Daten sind entweder unverzüglich nach ihrer Übermittlung nach Satz 2 oder, bei einem Abbruch des Vorgangs, spätestens 30 Minuten nach dem Abbruch zu löschen. Können die im Portal zu dem jeweiligen Dialog gespeicherten Daten aus technischen Gründen vorübergehend nicht nach Satz 2 übermittelt werden, sind sie bis zu ihrer Übermittlung nach Satz 2 zu speichern und danach unverzüglich zu löschen. Bei der Übermittlung der Daten und der automatisierten Entscheidung nach Satz 2 ist anzugeben, dass es sich um die Daten und die Entscheidung eines internetbasierten Antrags handelt.
 
 (2) Nach Maßgabe des § 18 Absatz 3 erfolgen
 
@@ -920,9 +920,9 @@ Die Verifizierung hat durch das Portal nach Maßgabe der Anlage 10 zu erfolgen u
 
 # § 23 – Bekanntgabe und Wirksamkeit der Entscheidung sowie Vorbehalt der Nachprüfung
 
-(1) Die Zulassungsbehörde hat der antragstellenden Person die automatisierte Entscheidung unmittelbar nach Abschluss des maschinellen Prüfungsvorgangs in Form eines schreibgeschützten elektronischen Bescheides nach Maßgabe der Vorschriften für das jeweilige Zulassungsverfahren in einem üblichen Format in ihrem Portal bekannt zu geben, wobei der Bescheid für die Dauer von 30 Minuten nach Bekanntgabe zum Abruf durch die antragstellende Person bereit zu stehen hat. Sofern der Abruf nicht innerhalb der Bereitstellungsdauer nach Satz 1 erfolgt, hat die Zulassungsbehörde einen Ausdruck des automatisierten Bescheides an den Halter zu übersenden. Im Fall der manuellen Bearbeitung und Entscheidung der Zulassungsbehörde nach § 19 Absatz 1 Satz 4 hat die Zulassungsbehörde dem Halter die Entscheidung durch Übersendung eines schriftlichen Bescheides bekannt zu geben.
+(1) Die Zulassungsbehörde hat der antragstellenden Person die automatisierte Entscheidung unmittelbar nach Abschluss des maschinellen Prüfungsvorgangs in Form eines Textes in ihrem Portal anzuzeigen und gleichzeitig in Form eines schreibgeschützten elektronischen Bescheides nach Maßgabe der Vorschriften für das jeweilige Zulassungsverfahren in einem üblichen Format in ihrem Portal für die Dauer von 30 Minuten zum Abruf durch die antragstellende Person bereitzustellen. Sofern der Abruf nicht innerhalb der Bereitstellungsdauer nach Satz 1 erfolgt, hat die Zulassungsbehörde einen Ausdruck des automatisierten Bescheides an den Halter zu übersenden. Im Fall der manuellen Bearbeitung und Entscheidung der Zulassungsbehörde nach § 19 Absatz 1 Satz 4 hat die Zulassungsbehörde dem Halter die Entscheidung durch Übersendung eines schriftlichen Bescheides bekannt zu geben.
 
-(2) Die Zulassung oder ihre Änderung ist am Tag des Abrufes wirksam; im Fall des Absatz 1 Satz 2 am dritten Tag, der dem Tag folgt, an dem die Zulassungsbehörde den Ausdruck abgesandt hat.
+(2) Die Zulassung oder ihre Änderung gilt am Tag der Anzeige der Entscheidung in Textform und der gleichzeitigen Bereitstellung des schreibgeschützten elektronischen Bescheides im Portal der Zulassungsbehörde als bekannt gegeben.
 
 (3) Eine automatisierte Entscheidung nach § 19 Absatz 1 Satz 2 steht beginnend mit dem Tag, an dem die Zulassung oder ihre Änderung nach Absatz 2 wirksam wird, einen Monat unter dem Vorbehalt der Nachprüfung, Aufhebung und Neuentscheidung durch die Zulassungsbehörde. Die Zulassungsbehörde hat zu gewährleisten, dass
 
@@ -976,7 +976,7 @@ und ist die Außerbetriebsetzung abweichend von § 23 Absatz 2 Halbsatz 2 am Tag
 
 (2) Der Vermerk über die Außerbetriebsetzung in der Zulassungsbescheinigung Teil I und die Aushändigung der entstempelten Kennzeichenschilder nach § 16 Absatz 1 Satz 4 werden durch die Erhebung, Speicherung und Verwendung der freigelegten Sicherheitscodes nach § 21 Absatz 1 Nummer 1 und 2 zur Prüfung des Antrags auf Außerbetriebsetzung ersetzt.
 
-(3) Die zuständige Zulassungsbehörde hat den bisherigen Halter auf das Datum der Wirksamkeit der Außerbetriebsetzung schriftlich hinzuweisen.
+(3) (weggefallen)
 
 # § 26 – Gemeinsame Regelungen für die Zulassung und für Änderungen
 
@@ -1108,13 +1108,13 @@ kann internetbasiert nach dem Verfahren des § 26 nach Maßgabe der folgenden Ab
 
 3. Bis zum Empfang der nach § 26 Absatz 4 Nummer 3 zu übersendenden Zulassungsbescheinigung Teil I, längstens jedoch für die Dauer von zehn Tagen nach dem Abruf der automatisierten Zulassungsentscheidung nach § 23 Absatz 1 Satz 1, genügt das Mitführen und die Aushändigung der Zulassungsentscheidung in unmittelbar lesbarer Form den Anforderungen des § 13 Absatz 6 für die Inbetriebsetzung des Fahrzeuges.
 
-(5) Soll das bisherige Kennzeichen nicht weitergeführt werden, gelten für den Fall des Wohnsitzwechsels die Vorschriften des Unterabschnitts 3 entsprechend.
+(5) Soll das bisherige Kennzeichen nicht weitergeführt werden, gelten für den Fall des Wohnsitzwechsels die Vorschriften des Unterabschnitts 4 entsprechend.
 
-(6) Wechselt der Halter, so hat die für den neuen Halter zuständige Zulassungsbehörde den bisherigen Halter auf das Datum der Wirksamkeit der Änderung der Zulassung auf den neuen Halter schriftlich hinzuweisen.
+(6) (weggefallen)
 
 # § 31 – Zulässigkeit der sofortigen Inbetriebsetzung
 
-Ein Fahrzeug darf abweichend von § 12 Absatz 13 Satz 1 Nummer 2 ohne Stempelplaketten oder Plakettenträger bis zum Empfang der nach § 26 Absatz 4 Nummer 4 zu übersendenden Stempelplaketten und Plakettenträger, längstens jedoch für 10 Tage, in Betrieb gesetzt werden. Die Frist des Satzes 1 beginnt mit Abruf der automatisierten Entscheidung
+Ein Fahrzeug darf abweichend von § 12 Absatz 13 Satz 1 Nummer 2 ohne Stempelplaketten oder Plakettenträger bis zum Empfang der nach § 26 Absatz 4 Nummer 4 zu übersendenden Stempelplaketten und Plakettenträger, längstens jedoch für vierzehn Tage, in Betrieb gesetzt werden. Die Frist des Satzes 1 beginnt mit Abruf der automatisierten Entscheidung
 
 1. über die internetbasierte Erstzulassung,
 
@@ -1140,7 +1140,7 @@ Ein gut lesbarer Ausdruck der abgerufenen automatisierten Entscheidung ist von d
 
 Liegt eine der Angaben nach Satz 3 nicht vor, darf ein vorläufiger Zulassungsnachweis nicht erstellt werden.
 
-(2) Bei der Inbetriebsetzung des Fahrzeuges auf öffentlichen Straßen ist der vorläufige Zulassungsnachweis von der das Fahrzeug führenden Person ununterbrochen bis zum Ablauf des Tages, an dem die Berechtigung nach § 31 endet, von außen gut lesbar im Fahrzeug auszulegen.
+(2) Bei der Inbetriebsetzung des Fahrzeuges auf öffentlichen Straßen ist der vorläufige Zulassungsnachweis von der das Fahrzeug führenden Person ununterbrochen bis zum Ablauf des Tages, an dem die Berechtigung nach § 31 endet, von außen gut lesbar im Fahrzeug auszulegen. Satz 1 gilt nicht für Kraftfahrzeuge der EU-Fahrzeugklasse L und Anhänger der EU-Fahrzeugklasse O.
 
 # § 33 – Großkundenschnittstelle
 
@@ -1162,7 +1162,7 @@ Liegt eine der Angaben nach Satz 3 nicht vor, darf ein vorläufiger Zulassungsna
 
 3. die Namen, die Anschriften, die E-Mail-Adressen und die Telefonnummern von mindestens zwei natürlichen Personen als Kontaktpersonen,
 
-4. eine Bankverbindung,
+4. der Name und die Anschrift sämtlicher Vertragspartner, die im Namen des Großkunden Anträge nach § 33 Absatz 1 stellen,
 
 5. die geschätzte Anzahl der zu erwartenden Anträge nach § 33 Absatz 1 pro Jahr und
 
@@ -1186,9 +1186,11 @@ f) stets eine ausreichende Anzahl von Kennzeichen bei der Zulassungsbehörde zu 
 
 g) nur die reservierten Kennzeichen für Anträge nach § 33 Absatz 1 zu nutzen,
 
-h) als registrierter Großkunde alle Änderungen der Angaben nach den Absätzen 3 und 4 unverzüglich dem Kraftfahrt-Bundesamt anzuzeigen und
+h) als registrierter Großkunde alle Änderungen der Angaben nach den Absätzen 3 und 4 unverzüglich dem Kraftfahrt-Bundesamt anzuzeigen,
 
 i) die ihm im Rahmen der Registrierung vom Kraftfahrt-Bundesamt zur Verfügung gestellten Daten nicht an Dritte weiterzugeben und
+
+j) für die Zuverlässigkeit eines Vertragspartners nach § 34 Absatz 3 Nummer 4 einzustehen und für dessen Verschulden wie eigenes Verschulden zu haften und
 
 2. zu bestätigen, dass zum Zeitpunkt des Antrags auf Registrierung keine Eintragungen im Bundeszentralregister nach § 1 Absatz 1 des Bundeszentralregistergesetzes für die Vertretungsberechtigten der juristischen Person und die Kontaktpersonen nach Absatz 2 Nummer 3 wegen rechtskräftiger Verurteilungen im Bereich der Wirtschaft im Sinne des § 74c Absatz 1 Nummer 1 bis Nummer 6 des Gerichtsverfassungsgesetzes bestehen.
 
@@ -1220,7 +1222,11 @@ Der Bescheid ist mit einem Widerrufsvorbehalt nach § 36 Absatz 2 Nummer 3 Verwa
 
 (2) Der Großkunde ist zur Mitwirkung bei der Überprüfung verpflichtet und hat auf Anforderung des Kraftfahrt-Bundesamts die entsprechenden Nachweise zu den in § 34 Absatz 3 und 4 genannten Daten und Voraussetzungen vorzulegen.
 
-(3) Liegen die Voraussetzungen für die Registrierung nicht mehr vor oder kommt der Großkunde seinen Mitwirkungspflichten nach Absatz 2 nicht nach, kann das Kraftfahrt-Bundesamt die Registrierung widerrufen.
+(3) Liegen die Voraussetzungen für die Registrierung nicht mehr vor oder kommt der Großkunde seinen Mitwirkungspflichten nach Absatz 2 nicht nach, kann das Kraftfahrt-Bundesamt die Registrierung widerrufen. Das Kraftfahrt-Bundesamt kann anstelle des Widerrufes der Registrierung nach Satz 1 dem Großkunden aufgeben,
+
+1. einem Vertragspartner nach § 34 Absatz 3 Nummer 4, der sich als nicht zuverlässig erweist, die weitere Stellung von Anträgen nach § 33 Absatz 1 unverzüglich zu untersagen und
+
+2. den Vertragspartner nach Nummer 1 durch technische Maßnahmen von der Antragstellung unverzüglich ausschließen.
 
 (4) Hat das Kraftfahrt-Bundesamt eine Registrierung einmal widerrufen, darf eine erneute Registrierung nicht automatisiert erfolgen. Satz 1 gilt nicht, sofern die Registrierung wegen zu geringer Fallzahlen widerrufen wurde.
 
@@ -1354,7 +1360,7 @@ Dies gilt auch für eine notwendige Fahrt zum Tanken und zur Außenreinigung anl
 
 Das rote Kennzeichen hat zu bestehen aus einem Unterscheidungszeichen nach § 9 Absatz 1 und einer nur aus Ziffern bestehenden und mit „05“ beginnenden Erkennungsnummer nach § 9 Absatz 1. Absatz 3 gilt entsprechend.
 
-(5) Mit dem Antrag auf Zuteilung eines roten Kennzeichens hat der Antragsteller der Zulassungsbehörde seine in § 6 Absatz 1 Satz 2 bezeichneten Daten und die in § 6 Absatz 5 Nummer 3 bezeichneten Daten zur Kraftfahrzeug-Haftpflichtversicherung zum Zweck der Erhebung und Speicherung in den Fahrzeugregistern mitzuteilen und auf Verlangen nachzuweisen. Änderungen dieser Daten hat der Inhaber des roten Kennzeichens der Zulassungsbehörde zum Zweck der Änderung der Fahrzeugregister und des Fahrzeugscheinheftes unverzüglich mitzuteilen und dabei das Fahrzeugscheinheft vorzulegen. § 15 Absatz 2 gilt entsprechend.
+(5) Mit dem Antrag auf Zuteilung eines roten Kennzeichens hat der Antragsteller der Zulassungsbehörde seine in § 6 Absatz 1 Satz 2 bezeichneten Daten, die in § 6 Absatz 5 Nummer 3 bezeichneten Daten zur Kraftfahrzeug-Haftpflichtversicherung und die Angaben über einen Empfangsbevollmächtigten nach § 6 Absatz 5 Nummer 4 zum Zweck der Erhebung und Speicherung in den Fahrzeugregistern mitzuteilen und auf Verlangen nachzuweisen. Änderungen dieser Daten hat der Inhaber des roten Kennzeichens der Zulassungsbehörde zum Zweck der Änderung der Fahrzeugregister und des Fahrzeugscheinheftes unverzüglich mitzuteilen und dabei das Fahrzeugscheinheft vorzulegen. § 15 Absatz 2 gilt entsprechend.
 
 (6) Ein rotes Kennzeichen ist nach § 12 Absatz 1, Absatz 2 Satz 1 bis 3, Absatz 3, Absatz 5 bis 7, Absatz 8 Satz 2 und 3, Absatz 9 Satz 1, Absatz 10 Satz 1, Absatz 11 Satz 1 und Absatz 12 Satz 1 in Verbindung mit Anlage 4 Abschnitt 1 und 7 auszugestalten und anzubringen. Ein rotes Kennzeichen muss nicht fest angebracht sein. Ein Fahrzeug mit einem roten Kennzeichen darf von der das Fahrzeug führenden Person im Übrigen nur nach Maßgabe des § 12 Absatz 13 Satz 1 in Betrieb gesetzt werden. Der Halter darf die Inbetriebsetzung eines Fahrzeuges nur anordnen oder zulassen, wenn die Voraussetzungen der Sätze 1 und 3 vorliegen.
 
@@ -1465,7 +1471,7 @@ Sofern der nächste Termin zur Durchführung der Untersuchung nach § 29 der Str
 
 # § 46 – Vorübergehende Teilnahme am Straßenverkehr in der Bundesrepublik Deutschland
 
-(1) Ein in einem anderen Mitgliedstaat oder einem anderen Vertragsstaat zugelassenes Fahrzeug darf vorübergehend am Verkehr in der Bundesrepublik Deutschland teilnehmen, wenn für das Fahrzeug von einer zuständigen Stelle des anderen Mitgliedstaates oder des anderen Vertragsstaates eine gültige Zulassungsbescheinigung ausgestellt ist und in der Bundesrepublik Deutschland kein regelmäßiger Standort begründet wurde. Die Zulassungsbescheinigung muss mindestens die nach Artikel 35 des Übereinkommens vom 8. November 1968 über den Straßenverkehr erforderlichen Angaben enthalten. Bei einem Kraftrad müssen aus der Zulassungsbescheinigung zusätzlich die Angaben zu Hubraum, Nennleistung und Gewicht des Fahrzeuges hervorgehen. Eine Zulassungsbescheinigung nach Satz 1, die den Anforderungen der Sätze 2 und 3 genügt und ausschließlich zum Zweck der Überführung eines Fahrzeuges ausgestellt wurde, ist vom Bundesministerium für Digitales und Verkehr im Verkehrsblatt bekannt zu machen. Satz 1 gilt nicht für ein Fahrzeug, das sich zum Zeitpunkt der Zulassung durch den anderen Mitgliedstaat oder den anderen Vertragsstaat in der Bundesrepublik Deutschland befunden hat. Abweichend von Satz 1 dürfen Mietfahrzeuge im Sinne der Richtlinie 2006/1/EG des Europäischen Parlamentes und des Rates vom 18. Januar 2006 über die Verwendung von ohne Fahrer gemieteten Fahrzeugen im Güterkraftverkehr (ABl. L 33 vom 4.2.2006, S. 82) in der jeweils geltenden Fassung, die von einem Kraftverkehrsunternehmen mit Niederlassung in der Bundesrepublik Deutschland gemietet wurden, für die Dauer von bis zu 30 Tagen am Verkehr in der Bundesrepublik Deutschland teilnehmen, sofern das Mietfahrzeug gemäß den Rechtsvorschriften eines anderen Mitgliedstaats zugelassen oder in Betrieb genommen wurde und für das Mietfahrzeug von einer zuständigen Stelle des anderen Mitgliedstaates eine gültige Zulassungsbescheinigung ausgestellt ist.
+(1) Ein in einem anderen Mitgliedstaat oder einem anderen Vertragsstaat zugelassenes Fahrzeug darf vorübergehend am Verkehr in der Bundesrepublik Deutschland teilnehmen, wenn für das Fahrzeug von einer zuständigen Stelle des anderen Mitgliedstaates oder des anderen Vertragsstaates eine gültige Zulassungsbescheinigung ausgestellt ist und in der Bundesrepublik Deutschland kein regelmäßiger Standort begründet wurde. Die Zulassungsbescheinigung muss mindestens die nach Artikel 35 des Übereinkommens vom 8. November 1968 über den Straßenverkehr erforderlichen Angaben enthalten. Bei einem Kraftrad müssen aus der Zulassungsbescheinigung zusätzlich die Angaben zu Hubraum, Nennleistung und Gewicht des Fahrzeuges hervorgehen. Eine Zulassungsbescheinigung nach Satz 1, die den Anforderungen der Sätze 2 und 3 genügt und ausschließlich zum Zweck der Überführung eines Fahrzeuges ausgestellt wurde, ist vom Bundesministerium für Verkehr im Verkehrsblatt bekannt zu machen. Satz 1 gilt nicht für ein Fahrzeug, das sich zum Zeitpunkt der Zulassung durch den anderen Mitgliedstaat oder den anderen Vertragsstaat in der Bundesrepublik Deutschland befunden hat. Abweichend von Satz 1 dürfen Mietfahrzeuge im Sinne der Richtlinie 2006/1/EG des Europäischen Parlamentes und des Rates vom 18. Januar 2006 über die Verwendung von ohne Fahrer gemieteten Fahrzeugen im Güterkraftverkehr (ABl. L 33 vom 4.2.2006, S. 82) in der jeweils geltenden Fassung, die von einem Kraftverkehrsunternehmen mit Niederlassung in der Bundesrepublik Deutschland gemietet wurden, für die Dauer von bis zu 30 Tagen am Verkehr in der Bundesrepublik Deutschland teilnehmen, sofern das Mietfahrzeug gemäß den Rechtsvorschriften eines anderen Mitgliedstaats zugelassen oder in Betrieb genommen wurde und für das Mietfahrzeug von einer zuständigen Stelle des anderen Mitgliedstaates eine gültige Zulassungsbescheinigung ausgestellt ist.
 
 (2) Ein in einem anderen Mitgliedstaat oder einem anderen Vertragsstaat zulassungsfreier Anhänger darf vorübergehend am Verkehr in der Bundesrepublik Deutschland teilnehmen, wenn er von einem Zugfahrzeug gezogen wird, das in demselben Mitgliedstaat oder in demselben Vertragsstaat zugelassen ist und für das in der Bundesrepublik Deutschland kein regelmäßiger Standort begründet ist.
 
@@ -1473,7 +1479,7 @@ Sofern der nächste Termin zur Durchführung der Untersuchung nach § 29 der Str
 
 (4) Ein ausländisches Fahrzeug darf vorübergehend am Verkehr in der Bundesrepublik Deutschland nur teilnehmen, wenn es betriebs- und verkehrssicher ist.
 
-(5) Ist die Zulassungsbescheinigung nicht in deutscher Sprache abgefasst und entspricht sie nicht der Richtlinie 1999/37/EG des Rates vom 29. April 1999 über Zulassungsdokumente für Fahrzeuge (ABl. L 138 vom 1.6.1999, S. 57), in der jeweils geltenden Fassung, oder dem Artikel 35 des Übereinkommens vom 8. November 1968 über den Straßenverkehr, muss sie mit einer von einem Berufskonsularbeamten oder Honorarkonsul der Bundesrepublik Deutschland im Ausstellungsstaat bestätigten Übersetzung oder mit einer Übersetzung durch einen international anerkannten Automobilklub des Ausstellungsstaates oder durch eine vom Bundesministerium für Digitales und Verkehr bestimmte Stelle verbunden sein.
+(5) Ist die Zulassungsbescheinigung nicht in deutscher Sprache abgefasst und entspricht sie nicht der Richtlinie 1999/37/EG des Rates vom 29. April 1999 über Zulassungsdokumente für Fahrzeuge (ABl. L 138 vom 1.6.1999, S. 57), in der jeweils geltenden Fassung, oder dem Artikel 35 des Übereinkommens vom 8. November 1968 über den Straßenverkehr, muss sie mit einer von einem Berufskonsularbeamten oder Honorarkonsul der Bundesrepublik Deutschland im Ausstellungsstaat bestätigten Übersetzung oder mit einer Übersetzung durch einen international anerkannten Automobilklub des Ausstellungsstaates oder durch eine vom Bundesministerium für Verkehr bestimmte Stelle verbunden sein.
 
 (6) Die das Fahrzeug führende Person hat die ausländische Zulassungsbescheinigung nach Absatz 1 Satz 1 bis 3 oder Absatz 3 Satz 1 und 2 sowie die nach Absatz 5 erforderliche Übersetzung oder den Internationalen Zulassungsschein nach Absatz 3 Satz 1 und 2 mitzuführen und zuständigen Personen auf Verlangen zur Prüfung auszuhändigen.
 
@@ -1597,7 +1603,7 @@ Darüber hinaus darf die Anzeige folgende Daten enthalten, wenn deren Übermittl
 
 3. die Kennzeichenart.
 
-Das zulässige Datenformat der Anzeige hat das Kraftfahrt-Bundesamt festzulegen und auf der Internetseite des Kraftfahrt-Bundesamts zu veröffentlichen. Das Kraftfahrt-Bundesamt hat auf Änderungen im Bundesanzeiger und im Verkehrsblatt hinzuweisen. Eine Anzeige ist zu unterlassen, wenn der Zulassungsbehörde die Versicherungsbestätigung über den Abschluss einer neuen Kraftfahrzeug-Haftpflichtversicherung nach § 1 des Pflichtversicherungsgesetzes zugegangen ist und dies dem Versicherer nach § 50 Absatz 1 Nummer 3 mitgeteilt worden ist. Eine Versicherungsbestätigung für die Zuteilung eines Kurzzeitkennzeichens gilt auch als Anzeige zur Beendigung der Haftung. Satz 7 gilt entsprechend, wenn in der Versicherungsbestätigung für die Zuteilung eines roten Kennzeichens ein befristeter Versicherungsschutz ausgewiesen ist oder wenn die Zuteilung des roten Kennzeichens befristet ist.
+Das zulässige Datenformat der Anzeige hat das Kraftfahrt-Bundesamt festzulegen und auf der Internetseite des Kraftfahrt-Bundesamts zu veröffentlichen. Das Kraftfahrt-Bundesamt hat auf Änderungen im Bundesanzeiger und im Verkehrsblatt hinzuweisen. Eine Anzeige ist zu unterlassen, wenn der Zulassungsbehörde die Versicherungsbestätigung über den Abschluss einer neuen Kraftfahrzeug-Haftpflichtversicherung nach § 1 des Pflichtversicherungsgesetzes zugegangen ist und dies dem Versicherer nach § 50 Absatz 1 Nummer 3 mitgeteilt worden ist. Eine Versicherungsbestätigung für die Zuteilung eines Kurzzeitkennzeichens gilt auch als Anzeige zur Beendigung der Haftung. Satz 8 gilt entsprechend, wenn in der Versicherungsbestätigung für die Zuteilung eines roten Kennzeichens ein befristeter Versicherungsschutz ausgewiesen ist oder wenn die Zuteilung des roten Kennzeichens befristet ist.
 
 (2) Die Zulassungsbehörde hat dem Versicherer auf dessen Anzeige nach Absatz 1 Satz 1 das Datum des Eingangs der Anzeige mitzuteilen. § 50 Absatz 2 gilt entsprechend.
 
@@ -1611,7 +1617,7 @@ Das zulässige Datenformat der Anzeige hat das Kraftfahrt-Bundesamt festzulegen 
 
 (1) Für ein Kraftfahrzeug im Sinne des § 4 Absatz 3 Satz 1 in Verbindung mit § 3 Absatz 3 Satz 1 Nummer 1 Buchstabe d bis f ist das Versicherungskennzeichen der Nachweis, dass für das jeweilige Kraftfahrzeug eine Kraftfahrzeug-Haftpflichtversicherung nach § 1 des Pflichtversicherungsgesetzes besteht. Nach Abschluss eines Versicherungsvertrages und Zahlung der Prämie hat der Versicherer dem Halter das Versicherungskennzeichen zusammen mit einer Bescheinigung über das Versicherungskennzeichen für das jeweilige Verkehrsjahr zu überlassen. Ein Verkehrsjahr hat jeweils den Zeitraum vom 1. März eines Jahres bis zum Ablauf des Monats Februar des nächsten Jahres zu umfassen. Zur anschließenden Übermittlung an das Kraftfahrt-Bundesamt durch den Versicherer zur Erhebung und Speicherung im dort geführten Zentralen Fahrzeugregister hat der Halter dem Versicherer die in § 33 Absatz 1 Satz 1 Nummer 2 des Straßenverkehrsgesetzes bezeichneten Halterdaten, die Angaben zu Fahrzeugklasse, Art des Aufbaus und Marke des Fahrzeuges sowie die Fahrzeug-Identifizierungsnummer zu übermitteln und auf Verlangen ihm gegenüber nachzuweisen. Das Versicherungskennzeichen und die Bescheinigung verlieren ihre Gültigkeit mit Ablauf des Verkehrsjahres. Die das Fahrzeug führende Person hat die Bescheinigung über das Versicherungskennzeichen mitzuführen und zuständigen Personen auf Verlangen zur Prüfung auszuhändigen oder vorzuzeigen.
 
-(2) Das Versicherungskennzeichen hat zu bestehen aus einem Schild, das eine zur eindeutigen Identifizierung des Kraftfahrzeuges geeignete Erkennungsnummer und das Zeichen des zuständigen Verbandes der Kraftfahrtversicherer oder, wenn kein Verband zuständig ist, das Zeichen des Versicherers trägt sowie das Verkehrsjahr angibt, für welches das Versicherungskennzeichen gilt. Die Erkennungsnummer hat sich aus nicht mehr als drei Ziffern und nicht mehr als drei Buchstaben zusammenzusetzen. Die Ziffern sind in einer Zeile über den Buchstaben anzugeben. Das Verkehrsjahr ist durch die Angabe des Kalenderjahrs zu bezeichnen, in welchem es beginnt. Der zuständige Verband der Kraftfahrtversicherer oder, wenn kein Verband zuständig ist, das Kraftfahrt-Bundesamt hat jeweils mit Genehmigung des Bundesministeriums für Digitales und Verkehr den Versicherern die Erkennungsnummern zuzuteilen.
+(2) Das Versicherungskennzeichen hat zu bestehen aus einem Schild, das eine zur eindeutigen Identifizierung des Kraftfahrzeuges geeignete Erkennungsnummer und das Zeichen des zuständigen Verbandes der Kraftfahrtversicherer oder, wenn kein Verband zuständig ist, das Zeichen des Versicherers trägt sowie das Verkehrsjahr angibt, für welches das Versicherungskennzeichen gilt. Die Erkennungsnummer hat sich aus nicht mehr als drei Ziffern und nicht mehr als drei Buchstaben zusammenzusetzen. Die Ziffern sind in einer Zeile über den Buchstaben anzugeben. Das Verkehrsjahr ist durch die Angabe des Kalenderjahrs zu bezeichnen, in welchem es beginnt. Der zuständige Verband der Kraftfahrtversicherer oder, wenn kein Verband zuständig ist, das Kraftfahrt-Bundesamt hat jeweils mit Genehmigung des Bundesministeriums für Verkehr den Versicherern die Erkennungsnummern zuzuteilen.
 
 (3) Der Versicherer hat dem Kraftfahrt-Bundesamt die Halterdaten nach § 33 Absatz 1 Satz 1 Nummer 2 des Straßenverkehrsgesetzes und die in § 57 Absatz 5 genannten Fahrzeugdaten sowie Änderungen der Daten unverzüglich nach Zuweisung des Versicherungskennzeichens zu übermitteln. Die Übermittlung kann auch über eine Gemeinschaftseinrichtung der Versicherer erfolgen. Ausführungsregeln zur technisch-organisatorischen Ausgestaltung der Datenübermittlung hat das Kraftfahrt-Bundesamt festzulegen und die entsprechenden Standards auf der Internetseite des Kraftfahrt-Bundesamts zu veröffentlichen. Das Kraftfahrt-Bundesamt hat auf Änderungen im Bundesanzeiger und im Verkehrsblatt hinzuweisen.
 
@@ -1639,6 +1645,22 @@ Das zulässige Datenformat der Anzeige hat das Kraftfahrt-Bundesamt festzulegen 
 
 (+++ § 53: Zur Anwendung vgl. § 56 Abs. 2 +++)
 
+# § 53a – Kennzeichenfolie und Trägerplatte
+
+(1) Versicherungskennzeichen nach § 52 dürfen sich abweichend von § 53 in Verbindung mit Anlage 17 aus einer Kennzeichenfolie und der dazugehörigen Trägerplatte zusammensetzen, wenn die Maßgaben der Absätze 2 bis 6 erfüllt sind. Eine Kennzeichenfolie darf bis zu dreimal mit einer neuen Kennzeichenfolie überklebt werden; sodann sind alle Kennzeichenfolien von der Trägerplatte vor Anbringung einer neuen Kennzeichenfolie zu entfernen.
+
+(2) Der Versicherer, der das Kennzeichen ausgibt, muss gewährleisten, dass die Festigkeit des Verbundes aus der Kennzeichenfolie und der dazugehörigen Trägerplatte den in Nummer 4 Satz 7 der Anlage 17 genannten Anforderungen entspricht. Dies ist durch das Gutachten eines für Bauteilprüfung geeigneten Sachverständigen nachzuweisen.
+
+(3) Die Beschriftung der Kennzeichenfolie erfolgt nach dem Schriftmuster „Schrift für Kfz-Kennzeichen“ mit fälschungserschwerender Schrift (FE-Schrift). Die Schriftmuster können bei der Bundesanstalt für Straßen- und Verkehrswesen, Postfach 10 01 50, 51401 Bergisch Gladbach, bezogen werden. Form, Größe und Ausgestaltung der Kennzeichenfolie müssen dem Muster und den Angaben der Anlage 17a entsprechen.
+
+(4) Der Versicherer, der das Kennzeichen ausgibt, muss gewährleisten, dass der Verbund aus der Kennzeichenfolie und der dazugehörigen Trägerplatte eine hinreichende Witterungsbeständigkeit aufweist. Durch das Gutachten eines für Bauteilprüfung geeigneten Sachverständigen ist nachzuweisen, dass das verwendete Material entsprechende Eigenschaften aufweist.
+
+(5) Die Kennzeichenfolie samt ihrer vollflächigen Verklebung auf der Trägerplatte oder auf einer dort vorhandenen Kennzeichenfolie muss so beschaffen sein, dass diese beim Abziehen reißt, oder es müssen durch Augenschein deutlich erkennbare Veränderungen der Kennzeichenfolie nach einem Entfernen auftreten, so dass diese nicht wiederverwendbar wird.
+
+(6) Es ist ein fälschungserschwerendes Merkmal in Form eines transparenten diffraktiven Hologrammmotivs vorzusehen, das dauernd fest mit der Kennzeichenfolie verbunden ist und die Lesbarkeit der Beschriftung der Kennzeichenfolie nicht beeinträchtigt. Das Motiv des Hologramms soll die Anmutung eines Glasbruchs haben. Das Hologramm ist in Form eines durchgehenden Streifens linksbündig am rechten Rand des Versicherungskennzeichens transparent auszugestalten. Dieser Streifen ist unterlegt mit dem hellgrauen Schriftzug „VERSICHERUNGSKENNZEICHEN“, der von rechts oben nach rechts unten, sowohl vertikal als auch horizontal mittig zwischen den Rahmeninnenseiten platziert, verlaufen soll. Der Schriftzug „VERSICHERUNGSKENNZEICHEN“ ist in der Schriftart Arial Fett in Schrifthöhe 4 Millimeter in Großbuchstaben auszuführen. Zusätzlich muss zwischen den beiden Zeilen der Zahlen-Buchstaben-Kombination rechtsbündig in Form eines transparenten Hologramms der Schriftzug „GDV“, gefolgt von der jeweiligen Jahreszahl des Versicherungsjahres, nach dem Schriftmuster „Schrift für Kfz-Kennzeichen“ mit FE-Schrift in einer Schrifthöhe von 8 Millimetern angebracht sein. Auf der Kennzeichenfolie muss zudem ein verdecktes Sicherheitsmerkmal nach Wahl des Herstellers der Kennzeichenfolie vorhanden sein; es ist so zu wählen, dass die automatische Erfassung des Kennzeichens nicht erschwert wird.
+
+(7) Im Übrigen bleibt Anlage 17 unberührt.
+
 # § 54 – Rote Versicherungskennzeichen
 
 (1) Eine Fahrt im Sinne des § 41 Absatz 1 darf mit einem Kraftfahrzeug im Sinne des § 4 Absatz 3 Satz 1 vorbehaltlich des § 4 Absatz 1 auch mit einem roten Versicherungskennzeichen nach dem Muster in Anlage 17 unternommen werden.
@@ -1661,7 +1683,7 @@ Endet das Versicherungsverhältnis vor dem Ablauf des Verkehrsjahres, das auf de
 
 (2) Die Vorschriften über das Versicherungskennzeichen nach den §§ 52 und 53 sind mit der Maßgabe entsprechend anzuwenden, dass
 
-1. es abweichend von § 52 Absatz 1 Satz 6 genügt, wenn die Bescheinigung über die Versicherungsplakette für eine Inbetriebsetzung von der das Fahrzeug führenden Person aufbewahrt und zuständigen Personen auf Verlangen zur Prüfung ausgehändigt wird;
+1. es abweichend von § 52 Absatz 1 Satz 7 genügt, wenn die Bescheinigung über die Versicherungsplakette für eine Inbetriebsetzung von der das Fahrzeug führenden Person aufbewahrt und zuständigen Personen auf Verlangen zur Prüfung ausgehändigt wird;
 
 2. die Versicherungsplakette abweichend von § 52 Absatz 2 anstelle eines Schildes aus einem Aufkleber besteht, der eine dauerhafte Verklebung auf der Fahrzeugoberfläche gewährleistet und zusätzlich mit einem fälschungserschwerenden Hologramm ausgestattet ist;
 
@@ -1687,7 +1709,9 @@ Endet das Versicherungsverhältnis vor dem Ablauf des Verkehrsjahres, das auf de
 
 4. bei Zuteilung eines Kennzeichens als Saisonkennzeichen zusätzlich zu den Angaben nach Nummer 3 der Betriebszeitraum,
 
-5. bei Zuteilung eines Wechselkennzeichens, eines Oldtimerkennzeichens oder eines Kennzeichens für elektrisch betriebene Fahrzeuge zusätzlich zu den Angaben nach Nummer 3 ein Hinweis darauf, dass es sich um ein solches Kennzeichen handelt,
+5. bei Zuteilung eines Oldtimerkennzeichens oder eines Kennzeichens für elektrisch betriebene Fahrzeuge zusätzlich zu den Angaben nach Nummer 3 ein Hinweis darauf, dass es sich um ein solches Kennzeichen handelt,
+
+5a. bei Zuteilung eines Wechselkennzeichens zusätzlich zu den Angaben nach Nummer 3 ein Hinweis darauf, dass es sich um ein solches Kennzeichen handelt, und das jeweils zugehörige andere Wechselkennzeichen,
 
 6. das Unterscheidungszeichen und die Erkennungsnummer aufgrund von einer Ausnahmegenehmigung zugeteilten weiteren Kennzeichen sowie das Datum der jeweiligen Zuteilung,
 
@@ -2421,7 +2445,7 @@ c) bei Fahrzeugen mit Versicherungskennzeichen oder Versicherungsplakette zusät
 
 Satz 1 Nummer 1 gilt nicht für die Sicherheitscodes der Zulassungsbescheinigung Teil I und Teil II sowie der Stempelplaketten.
 
-(2) Zur Übermittlung durch Abruf im automatisierten Verfahren aus dem Zentralen Fahrzeugregister nach § 36 Absatz 2 Satz 1 Nummer 1, 2, 2a und 4, Absatz 2a, Absatz 2h und 3 des Straßenverkehrsgesetzes dürfen folgende Daten bereitgehalten werden:
+(2) Zur Übermittlung durch Abruf im automatisierten Verfahren aus dem Zentralen Fahrzeugregister nach § 36 Absatz 2 Satz 1 Nummer 1, 2, 2a und 4, Absatz 2a, 2h, 2l und 3 des Straßenverkehrsgesetzes dürfen folgende Daten bereitgehalten werden:
 
 1. für eine Anfrage unter Verwendung des Kennzeichens, der Fahrzeug-Identifizierungsnummer, der Nummer der Zulassungsbescheinigung, die bei Teil I der Vordrucknummer oder der von der Zulassungsbehörde aufgebrachten Nummer entspricht, der Nummer einer ausländischen Zulassungsbescheinigung oder des Familiennamens, Vornamens, Ordens- oder Künstlernamens, Geburtsnamens, Datums und Ortes der Geburt oder im Fall einer juristischen Person, Behörde oder Vereinigung des Namens oder der Bezeichnung des Halters erforderlichenfalls in Verbindung mit der Anschrift des Halters:
 
@@ -2435,9 +2459,9 @@ a) die mit dem angefragten Teil des Kennzeichens übereinstimmenden Kennzeichen,
 
 b) die Fahrzeugklasse, die Marke, die Handelsbezeichnung, der Typ und bei Personenkraftwagen die Farbe des Fahrzeuges sowie das Datum der ersten Zulassung und
 
-c) bei Fahrzeugen mit Versicherungskennzeichen oder zusätzlich zu den Angaben nach Buchstabe b der Beginn und das Ende des Versicherungsverhältnisses.
+c) bei Fahrzeugen mit Versicherungskennzeichen oder Versicherungsplakette zusätzlich zu den Angaben nach Buchstabe b der Beginn und das Ende des Versicherungsverhältnisses.
 
-Satz 1 Nummer 1 Buchstabe a gilt nicht für die Sicherheitscodes der Zulassungsbescheinigung Teil I und Teil II sowie der Stempelplaketten.
+Satz 1 Nummer 1 Buchstabe a gilt nicht für die Sicherheitscodes der Zulassungsbescheinigung Teil I und Teil II sowie der Stempelplaketten. Die in Satz 1 genannten Daten sind zur Übermittlung nach § 36 Absatz 2l des Straßenverkehrsgesetzes für die Zentralstelle für Sanktionsdurchsetzung bereitzuhalten.
 
 (3) Zur Übermittlung durch Abruf im automatisierten Verfahren aus dem Zentralen Fahrzeugregister nach § 36 Absatz 2 Satz 1 Nummer 1a und Absatz 2m des Straßenverkehrsgesetzes dürfen für eine Anfrage unter Verwendung des Kennzeichens oder der Fahrzeug-Identifizierungsnummer folgende Daten bereitgehalten werden:
 
@@ -2661,7 +2685,7 @@ Die §§ 68 und 69 gelten entsprechend.
 
 Besteht in der Bundesrepublik Deutschland kein Wohnsitz, kein Sitz, keine Niederlassung oder keine Dienststelle, so ist die Behörde des Wohnorts eines Empfangsbevollmächtigten zuständig. Im Fall des § 6 Absatz 2 Satz 2 ist die Behörde am regelmäßigen Standort des Fahrzeuges zuständig.
 
-(3) Örtlich zuständige Behörde im Sinne des § 51 ist die Behörde, die das Kennzeichen zugeteilt hat, es sei denn, dass im Fall des § 15 Absatz 4 Satz 1 Nummer 2 die für den neuen Wohnsitz oder den neuen Sitz zuständige Behörde die Zulassungsbescheinigung Teil I bereits nach § 15 Absatz 4 Satz 5 berichtigt hat.
+(3) Örtlich zuständige Behörde im Sinne des § 15 Absatz 5 Satz 5 und des § 51 Absatz 4 ist die Behörde, die das Kennzeichen zugeteilt hat, es sei denn, dass im Fall des § 15 Absatz 4 Satz 1 Nummer 2 die für den neuen Wohnsitz oder den neuen Sitz zuständige Behörde die Zulassungsbescheinigung Teil I bereits nach § 15 Absatz 4 Satz 5 geändert hat.
 
 (4) Ein Antrag kann mit Zustimmung der örtlich zuständigen Verwaltungsbehörde von einer gleichgeordneten auswärtigen Behörde, mit Zustimmung der zuständigen obersten Landesbehörden oder der von ihnen bestimmten oder nach Landesrecht zuständigen Stellen auch in einem anderen Land, behandelt und erledigt werden. Verlangt die Verkehrssicherheit ein sofortiges Eingreifen, so kann an Stelle der örtlich zuständigen Behörde jede ihr gleichgeordnete Behörde mit derselben Wirkung Maßnahmen auf Grund dieser Verordnung vorläufig treffen.
 
@@ -2749,9 +2773,9 @@ Ordnungswidrig im Sinne des § 24 Absatz 1 des Straßenverkehrsgesetzes handelt,
 
 # § 78 – Verweis auf technische Regelwerke
 
-(1) DIN-Normen, EN-Normen und ISO-Normen, auf die in dieser Verordnung verwiesen wird, sind im Beuth Verlag GmbH, Berlin, erschienen. Sie sind beim Deutschen Patent- und Markenamt in München archivmäßig gesichert niedergelegt.
+(1) DIN-Normen, EN-Normen und ISO-Normen, auf die in dieser Verordnung verwiesen wird, sind bei der DIN Media GmbH, Berlin, zu beziehen und bei der Deutschen Nationalbibliothek archivmäßig gesichert niedergelegt.
 
-(2) RAL-Farben, auf die in dieser Verordnung Bezug genommen wird, sind dem Farbregister RAL 840-HR entnommen. Das Farbregister wird vom RAL Deutsches Institut für Gütesicherung und Kennzeichnung e. V., Siegburger Straße 39, 53757 St. Augustin, herausgegeben und ist dort erhältlich.
+(2) RAL-Farben, auf die in dieser Verordnung Bezug genommen wird, sind dem Farbregister RAL 840-HR entnommen. Das Farbregister wird vom RAL Deutsches Institut für Gütesicherung und Kennzeichnung e. V., Fränkische Straße 7, 53229 Bonn, herausgegeben und ist dort erhältlich.
 
 # § 79 – Übergangs- und Anwendungsbestimmungen
 
@@ -2888,9 +2912,10 @@ Unterscheidungszeichen Bund
 </colgroup>
 <tbody data-valign="top">
 <tr class="odd">
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">BD</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Dienstfahrzeuge des Bundestages, des Bundesrates, des Bundespräsidialamtes, der Bundesregierung, der Bundesministerien, der Bundesfinanzverwaltung, des Bundesverfassungsgerichts und des Bundeskriminalamtes<br />
+<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">BD</td>
+<td style="border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Dienstfahrzeuge des Bundestages, des Bundesrates, des Bundespräsidialamtes, der Bundesregierung, der Bundesministerien, der Bundesfinanzverwaltung, des Bundesverfassungsgerichts und des Bundeskriminalamtes<br />
 (Zulassungsbehörde Berlin; Zulassungsbehörde Bonn, Stadt;<br />
+für BD 4 Zulassungsbehörde Karlsruhe;<br />
 für BD 8 und 16 Kfz-Zulassungsstelle bei der „Generalzolldirektion“ – Dienstort Offenbach)</td>
 </tr>
 <tr class="even">
@@ -3038,7 +3063,6 @@ Unterscheidungszeichen des Diplomatischen Corps und bevorrechtigter internationa
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Unterscheidungszeichen des Verwaltungsbezirkes am Sitz des Konsulats</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Berufskonsularische Vertretungen und in Abhängigkeit vom Status der bevorrechtigten Person<br />
-
 (Zulassungsbehörde am Sitz des Konsulats)</td>
 </tr>
 </tbody>
@@ -3046,7 +3070,7 @@ Unterscheidungszeichen des Diplomatischen Corps und bevorrechtigter internationa
 
 4\.
 
-Unterscheidungszeichen des Diplomatischen Corps und bevorrechtigter internationaler Organisationen
+Unterscheidungszeichen des Präsidenten des Deutschen Bundestages
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
 <colgroup>
@@ -3100,7 +3124,7 @@ Schrift
 
 Beschriftung (fälschungserschwerende Schrift – FE-Schrift –)
 
-Die Beschriftung muss den Schriftmustern „Schrift für Kfz-Kennzeichen“ entsprechen. Die Schriftmuster können bei der Bundesanstalt für Straßenwesen, Postfach 10 01 50, 51401 Bergisch Gladbach, bezogen werden. Der waagerechte Abstand der Beschriftung einschließlich der Plaketten zum schwarzen, grünen oder roten Rand, zum Euro-Feld oder zum Feld, in dem der Betriebszeitraum oder das Ablaufdatum angegeben ist, muss auf beiden Seiten gleich sein. Bei der Fertigung der Kennzeichen dürfen die nachstehenden Toleranzen nicht über- oder unterschritten werden.
+Die Beschriftung muss den Schriftmustern „Schrift für Kfz-Kennzeichen“ entsprechen. Die Schriftmuster können bei der Bundesanstalt für Straßen- und Verkehrswesen, Postfach 10 01 50, 51401 Bergisch Gladbach, bezogen werden. Der waagerechte Abstand der Beschriftung einschließlich der Plaketten zum schwarzen, grünen oder roten Rand, zum Euro-Feld oder zum Feld, in dem der Betriebszeitraum oder das Ablaufdatum angegeben ist, muss auf beiden Seiten gleich sein. Bei der Fertigung der Kennzeichen dürfen die nachstehenden Toleranzen nicht über- oder unterschritten werden.
 
 2.1.1
 
@@ -3130,7 +3154,7 @@ Schriftarten
 
 Mittelschrift 75 mm
 
-![Es werden beispielhaft alle Buchstaben des Alphabets nebst Umlauten in der Mittelschrift Höhe 75 mm in schwarz sowie alle Zahlen von 1 bis 0 einschließlich der 0 dargestellt. Darunter werden beispielhaft der Buchstabe A sowie die Zahl 8 mit Bemaßung dargestellt. Bespielhaft werden die Abmessungen des Buchstaben A und der Zahl 8 dargestellt. Der Buchstabe A ist 47,5 mm breit und die Zahl 8 44,5 mm.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j01990_0020.jpg)
+![Abbildung Mittelschrift 75 mm](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j03820_0010.jpg)
 
 2.2.2
 
@@ -3148,7 +3172,7 @@ verkleinerte Mittelschrift 49 mm (nur für verkleinerte zweizeilige Kennzeichen 
 
 abweichende Schrift für Kennzeichen der Bundeswehr sowie für Versicherungskennzeichen:
 
-Die Beschriftung erfolgt nach dem anliegenden Schriftmuster der Normvorschrift DIN 1451-2:1986-02 (Verkehrsschrift) (nach dem Hilfsnetz hergestellt), und zwar grundsätzlich für Buchstaben und Zahlen in Mittelschrift. Reicht die vorgesehene Höchstlänge des Kennzeichens hierfür nicht aus oder lässt die etwa vorgeschriebene oder die vom Hersteller vorgesehene Anbringungsstelle für Kennzeichen dies nicht zu, so darf fette Engschrift verwendet werden. Bei Umlauten darf die vorgesehene Schrifthöhe nicht überschritten werden. Der waagerechte Abstand der Beschriftung einschließlich Plaketten zum schwarzen, blauen oder grünen Rand muss auf beiden Seiten gleich sein.
+Soweit sich aus dieser Verordnung nichts anderes ergibt, erfolgt die Beschriftung nach dem anliegenden Schriftmuster der Normvorschrift DIN 1451-2:1986-02 (Verkehrsschrift) (nach dem Hilfsnetz hergestellt), und zwar grundsätzlich für Buchstaben und Zahlen in Mittelschrift. Reicht die vorgesehene Höchstlänge des Kennzeichens hierfür nicht aus oder lässt die etwa vorgeschriebene oder die vom Hersteller vorgesehene Anbringungsstelle für Kennzeichen dies nicht zu, so darf fette Engschrift verwendet werden. Bei Umlauten darf die vorgesehene Schrifthöhe nicht überschritten werden. Der waagerechte Abstand der Beschriftung einschließlich Plaketten zum schwarzen, blauen oder grünen Rand muss auf beiden Seiten gleich sein.
 
 2.3.1
 
@@ -3202,7 +3226,7 @@ verkleinertes zweizeiliges Kennzeichen
 
 Ergänzungsbestimmungen
 
-Mehr als acht Stellen (Buchstaben und Ziffern) auf einem Kennzeichen sind unzulässig. Für einzeilige Kennzeichen oder zweizeilige Kennzeichen nach Nummer 1 Satz 1 Buchstabe b ist die Mittelschrift zu verwenden, es sei denn, die vorgesehene Höchstlänge des Kennzeichens reicht hierfür nicht aus oder die etwa vorgeschriebene oder die vom Hersteller vorgesehene Anbringungsstelle für Kennzeichen lässt dies nicht zu. In diesem Fall darf für die Buchstaben zur Unterscheidung des Verwaltungsbezirks und/oder für die Buchstaben der Erkennungsnummer und/oder die Zahlen der Erkennungsnummer jeweils die Engschrift verwendet werden. Das Kennzeichen darf nicht größer sein als die etwa vorgeschriebene oder die vom Hersteller vorgesehene Anbringungsstelle dies zulässt. In keinem Fall dürfen die zu den einzelnen Kennzeichenarten angegebenen Größtmaße überschritten werden. Ist es der Zulassungsbehörde nicht möglich, für ein Fahrzeug ein Kennzeichen zuzuteilen, das an der am Fahrzeug vorgesehenen Stelle angebracht werden kann, so hat der Halter Veränderungen am Fahrzeug vorzunehmen, die die Anbringung eines vorschriftsmäßigen Kennzeichens ermöglichen, sofern die Veränderungen nicht unverhältnismäßigen Aufwand erfordern; in Zweifelsfällen kann die Zulassungsbehörde die Vorlage eines Gutachtens eines amtlich anerkannten Sachverständigen für den Kraftfahrzeugverkehr oder eines Technischen Dienstes, der zur Prüfung von Gesamtfahrzeugen der jeweiligen Fahrzeugklasse zur Erlangung einer EU-Typgenehmigung benannt ist, verlangen. Wird in einem solchen Gutachten festgestellt, dass an einem Kraftfahrzeug die Anbringung eines vorschriftsmäßigen hinteren Kennzeichens nach Nummer 1 Satz 1 Buchstabe a, b oder c einen unverhältnismäßigen Aufwand erfordert oder technisch nicht möglich ist, kann die Zulassungsbehörde eine Ausnahme zum Führen eines verkleinerten zweizeiligen Kennzeichens nach Nummer 1 Satz 1 Buchstabe d genehmigen; dies gilt nicht, wenn durch nachträgliche Änderungen oder den Anbau von Zubehör die Anbringung eines vorschriftsmäßigen Kennzeichens nicht mehr möglich ist.
+Mehr als acht Stellen (Buchstaben des Unterscheidungszeichens sowie Buchstaben und Ziffern der Erkennungsnummer) auf einem Kennzeichen sind unzulässig. Für einzeilige Kennzeichen oder zweizeilige Kennzeichen nach Nummer 1 Satz 1 Buchstabe b ist die Mittelschrift zu verwenden, es sei denn, die vorgesehene Höchstlänge des Kennzeichens reicht hierfür nicht aus oder die etwa vorgeschriebene oder die vom Hersteller vorgesehene Anbringungsstelle für Kennzeichen lässt dies nicht zu. In diesem Fall darf für die Buchstaben zur Unterscheidung des Verwaltungsbezirks und/oder für die Buchstaben der Erkennungsnummer und/oder die Zahlen der Erkennungsnummer jeweils die Engschrift verwendet werden. Das Kennzeichen darf nicht größer sein als die etwa vorgeschriebene oder die vom Hersteller vorgesehene Anbringungsstelle dies zulässt. In keinem Fall dürfen die zu den einzelnen Kennzeichenarten angegebenen Größtmaße überschritten werden. Ist es der Zulassungsbehörde nicht möglich, für ein Fahrzeug ein Kennzeichen zuzuteilen, das an der am Fahrzeug vorgesehenen Stelle angebracht werden kann, so hat der Halter Veränderungen am Fahrzeug vorzunehmen, die die Anbringung eines vorschriftsmäßigen Kennzeichens ermöglichen, sofern die Veränderungen nicht unverhältnismäßigen Aufwand erfordern; in Zweifelsfällen kann die Zulassungsbehörde die Vorlage eines Gutachtens eines amtlich anerkannten Sachverständigen für den Kraftfahrzeugverkehr oder eines Technischen Dienstes, der zur Prüfung von Gesamtfahrzeugen der jeweiligen Fahrzeugklasse zur Erlangung einer EU-Typgenehmigung benannt ist, verlangen. Wird in einem solchen Gutachten festgestellt, dass an einem Kraftfahrzeug die Anbringung eines vorschriftsmäßigen hinteren Kennzeichens nach Nummer 1 Satz 1 Buchstabe a, b oder c einen unverhältnismäßigen Aufwand erfordert oder technisch nicht möglich ist, kann die Zulassungsbehörde eine Ausnahme zum Führen eines verkleinerten zweizeiligen Kennzeichens nach Nummer 1 Satz 1 Buchstabe d genehmigen; dies gilt nicht, wenn durch nachträgliche Änderungen oder den Anbau von Zubehör die Anbringung eines vorschriftsmäßigen Kennzeichens nicht mehr möglich ist.
 
 5\.
 
@@ -3366,7 +3390,7 @@ b) fünf Stellen in der Erkennungsnummer (Buchstaben und Ziffern – ohne Kennbu
 
 c) vier Stellen in der Erkennungsnummer (Buchstaben und Ziffern – ohne Kennbuchstaben „H“) auf einem Kennzeichen nach Nummer 2 mit einem Größtmaß von 280 mm oder einem Kennzeichen nach Nummer 2a
 
-sind unzulässig. Für Kennzeichen nach den Nummern 1 und 2 ist die Mittelschrift zu verwenden, es sei denn, die etwa vorgeschriebene oder die vom Hersteller vorgesehene Anbringungsstelle für Kennzeichen lässt dies nicht zu. In diesem Fall darf für die Buchstaben zur Unterscheidung des Verwaltungsbezirks und für die Buchstaben der Erkennungsnummer und die Zahlen der Erkennungsnummer jeweils die Engschrift verwendet werden. Für Oldtimerkennzeichen als Saisonkennzeichen gilt Abschnitt 5a Nummer 2 bis 6 entsprechend.
+sind unzulässig. Für Kennzeichen nach den Nummern 1 und 2 ist die Mittelschrift zu verwenden, es sei denn, die vorgesehene Höchstlänge des Kennzeichens reicht hierfür nicht aus oder die etwa vorgeschriebene oder die vom Hersteller vorgesehene Anbringungsstelle für Kennzeichen lässt dies nicht zu. In diesem Fall darf für die Buchstaben zur Unterscheidung des Verwaltungsbezirks und für die Buchstaben der Erkennungsnummer und die Zahlen der Erkennungsnummer jeweils die Engschrift verwendet werden. Für Oldtimerkennzeichen als Saisonkennzeichen gilt Abschnitt 5a Nummer 2 bis 6 entsprechend.
 
 1\.
 
@@ -4185,13 +4209,9 @@ e) Schlüsselnummer der Technischen Prüfstelle, der anerkannten Überwachungsor
 
 Die verifizierten und erstellten Daten werden den Antragsdaten im Portal hinzugefügt.
 
-# Anlage 12 – (zu § 37 Absatz 4)Bevollmächtigung eines Großkunden zur Antragstellung bei der Zulassungsbehörde mithilfe der beim Kraftfahrt-Bundesamt vorhandenen Großkundenschnittstelle
+# Anlage 12 – (zu § 37 Absatz 4)Bevollmächtigung zur Antragstellung bei der Zulassungsbehörde mithilfe der beim Kraftfahrt-Bundesamt vorhandenen Großkundenschnittstelle
 
-(Fundstelle: BGBl. 2023 I Nr. 199, S. 115 - 122)
-
- 
-
- 
+(Fundstelle: BGBl. 2025 I Nr. 382, S. 6 - 14)
 
 1\.
 
@@ -4210,7 +4230,7 @@ Vollmachtgeber/in bzw. betroffene Person (Fahrzeughalter)
 | Geburtsname  |            |
 
 □  
-\[optional\] Angaben zum Erziehungsberechtigten/gesetzlichen Vertreter, bei minderjährigem Fahrzeughalter
+\[optional\] Angaben zum Erziehungsberechtigten/gesetzlichen Vertreter bei minderjährigem Fahrzeughalter
 
 |              |            |
 |:-------------|:-----------|
@@ -4264,7 +4284,9 @@ Einzelzulassung oder Mehrfachzulassung
 
 Option 1 – Einzelzulassung
 
-die Zulassung (inkl. Wiederzulassung, Tageszulassung und Halter- oder Adressänderung) nach der Fahrzeug-Zulassungsverordnung (FZV) für das folgende Fahrzeug durchzuführen:
+die Zulassung (inkl. Wiederzulassung, Tageszulassung und Halter-
+
+oder Adressänderung) nach der Fahrzeug-Zulassungsverordnung (FZV) für das folgende Fahrzeug durchzuführen:
 
 a)
 
@@ -4278,7 +4300,7 @@ fahrzeugspezifische Angaben
 </colgroup>
 <tbody data-valign="top">
 <tr class="odd">
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Entweder</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">entweder</td>
 <td colspan="2" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Fahrzeug-Identifizierungsnummer (FIN)<br />
 </td>
 </tr>
@@ -4301,11 +4323,11 @@ b)
 Angaben zur Zustellung der Zulassungsunterlagen
 
 □  
-Ich wähle die
+Ich beantrage die
 
 Abholung der vollständigen Zulassungsunterlagen nach zuvor elektronisch übermitteltem Zulassungsbescheid
 
-durch den Bevollmächtigten oder ein durch ihn beauftragtes drittes\* Unternehmen oder Person.
+durch den Bevollmächtigten oder einen durch ihn beauftragten Dritten\*.
 
 □  
 Für den Fall der Abholung durch einen Dritten sind folgende Angaben zu machen:
@@ -4341,7 +4363,7 @@ Für den Fall der Abholung durch einen Dritten sind folgende Angaben zu machen:
 </table>
 
 □  
-Ich wähle den
+Ich beantrage den
 
 postalischen Versand der Zulassungsunterlagen an folgende Adressaten:
 
@@ -4379,24 +4401,24 @@ postalischen Versand der Zulassungsunterlagen an folgende Adressaten:
 </colgroup>
 <tbody data-valign="top">
 <tr class="odd">
-<td colspan="3" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Name des Unternehmens<br />
+<td colspan="3" style="border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Name des Unternehmens<br />
 </td>
 </tr>
 <tr class="even">
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">oder<br />
+<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">oder<br />
 </td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Name<br />
+<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Name<br />
 </td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Vorname<br />
+<td style="border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Vorname<br />
 </td>
 </tr>
 <tr class="odd">
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Straße</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Hausnummer</td>
+<td colspan="2" style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Straße</td>
+<td style="border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Hausnummer</td>
 </tr>
 <tr class="even">
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">PLZ</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Ort</td>
+<td colspan="2" style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">PLZ</td>
+<td data-valign="top" data-charoff="50">Ort</td>
 </tr>
 </tbody>
 </table>
@@ -4412,24 +4434,24 @@ postalischen Versand der Zulassungsunterlagen an folgende Adressaten:
 </colgroup>
 <tbody data-valign="top">
 <tr class="odd">
-<td colspan="3" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Name des Unternehmens<br />
+<td colspan="3" style="border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Name des Unternehmens<br />
 </td>
 </tr>
 <tr class="even">
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">oder<br />
+<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">oder<br />
 </td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Name<br />
+<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Name<br />
 </td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Vorname<br />
+<td style="border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Vorname<br />
 </td>
 </tr>
 <tr class="odd">
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Straße</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Hausnummer</td>
+<td colspan="2" style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Straße</td>
+<td style="border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Hausnummer</td>
 </tr>
 <tr class="even">
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">PLZ</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Ort</td>
+<td colspan="2" style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">PLZ</td>
+<td data-valign="top" data-charoff="50">Ort</td>
 </tr>
 </tbody>
 </table>
@@ -4438,48 +4460,50 @@ postalischen Versand der Zulassungsunterlagen an folgende Adressaten:
 
 Option 2 – Mehrfachzulassung
 
-die Zulassung (inkl. Wiederzulassung, Tageszulassung und Halter- oder Adressänderung) nach der Fahrzeug-Zulassungsverordnung (FZV) für die folgenden Fahrzeuge durchzuführen (in der untenstehenden Liste können bis zu 100 Fahrzeuge angegeben werden):
+die Zulassung (inkl. Wiederzulassung, Tageszulassung und Halter-
+
+oder Adressänderung) nach der Fahrzeug-Zulassungsverordnung (FZV) für die folgenden Fahrzeuge durchzuführen (in der untenstehenden Liste können bis zu 100 Fahrzeuge angegeben werden):
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
 <colgroup>
 <col style="width: 5%" />
-<col style="width: 17%" />
+<col style="width: 16%" />
 <col style="width: 12%" />
 <col style="width: 9%" />
 <col style="width: 9%" />
-<col style="width: 30%" />
+<col style="width: 28%" />
 <col style="width: 18%" />
-<col />
+<col style="width: 2%" />
 </colgroup>
 <thead data-valign="bottom">
-<tr class="header" style="border-bottom: 0.5pt solid ; ">
-<th colspan="5" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">a) fahrzeugspezifische Angaben</th>
-<th colspan="3" style="text-align: left; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">b) Angaben zur Zustellung der Zulassungsunterlagen</th>
+<tr class="header">
+<th colspan="5" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="top" data-charoff="50">a) fahrzeugspezifische Angaben</th>
+<th colspan="3" style="text-align: left; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="top" data-charoff="50">b) Angaben zur Zustellung der Zulassungsunterlagen</th>
 </tr>
 <tr class="odd">
-<th rowspan="3" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50"> </th>
-<th rowspan="3" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">Entweder FIN</th>
-<th rowspan="3" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">Oder ZB II</th>
-<th colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">Oder (bei noch nicht produzierten Fahrzeugen)</th>
-<th rowspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">Gesammelte Abholung durch Bevollmächtigten oder Dritten*<br />
+<th rowspan="3" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="top" data-charoff="50"> </th>
+<th rowspan="3" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="top" data-charoff="50">entweder FIN</th>
+<th rowspan="3" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="top" data-charoff="50">oder ZB II</th>
+<th colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="top" data-charoff="50">oder (bei noch nicht produzierten Fahrzeugen)</th>
+<th rowspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="top" data-charoff="50">Gesammelte Abholung durch Bevollmächtigten oder Dritten*<br />
 (bitte B oder D I<br />
 in der Tabelle angeben)</th>
-<th colspan="2" rowspan="2" style="text-align: left; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">Gesammelte postalische Übersendung an Halter, Bevollmächtigten oder Dritten*<br />
+<th colspan="2" rowspan="2" style="text-align: left; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="top" data-charoff="50">Gesammelte postalische Übersendung an Halter, Bevollmächtigten oder Dritten*<br />
 (bitte H, B, D I oder D II<br />
 in der Tabelle angeben)</th>
 </tr>
 <tr class="header">
-<th rowspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">HSN</th>
-<th rowspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">TSN</th>
+<th rowspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="top" data-charoff="50">HSN</th>
+<th rowspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="top" data-charoff="50">TSN</th>
 </tr>
 <tr class="odd">
-<th style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">ZB I + ZB II u. Plaketten</th>
-<th style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">ZB I u. Plaketten</th>
-<th style="text-align: left; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">ZB II</th>
+<th style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="top" data-charoff="50">ZB I + ZB II u. Plaketten</th>
+<th style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="top" data-charoff="50">ZB I u. Plaketten</th>
+<th style="text-align: left; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="top" data-charoff="50">ZB II</th>
 </tr>
 </thead>
 <tbody data-valign="top">
-<tr class="odd" style="border-bottom: 0.5pt solid ; ">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1.</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
@@ -4489,7 +4513,7 @@ in der Tabelle angeben)</th>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even" style="border-bottom: 0.5pt solid ; ">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2.</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
@@ -4509,7 +4533,7 @@ in der Tabelle angeben)</th>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even" style="border-bottom: 0.5pt solid ; ">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4.</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
@@ -4519,7 +4543,7 @@ in der Tabelle angeben)</th>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd" style="border-bottom: 0.5pt solid ; ">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">5.</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
@@ -4529,7 +4553,7 @@ in der Tabelle angeben)</th>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even" style="border-bottom: 0.5pt solid ; ">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6.</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
@@ -4539,7 +4563,7 @@ in der Tabelle angeben)</th>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd" style="border-bottom: 0.5pt solid ; ">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">7.</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
@@ -4549,7 +4573,7 @@ in der Tabelle angeben)</th>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even" style="border-bottom: 0.5pt solid ; ">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8.</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
@@ -4559,7 +4583,7 @@ in der Tabelle angeben)</th>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd" style="border-bottom: 0.5pt solid ; ">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9.</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
@@ -4569,7 +4593,7 @@ in der Tabelle angeben)</th>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even" style="border-bottom: 0.5pt solid ; ">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">10.</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
@@ -4579,7 +4603,7 @@ in der Tabelle angeben)</th>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd" style="border-bottom: 0.5pt solid ; ">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">11.</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
@@ -4589,7 +4613,7 @@ in der Tabelle angeben)</th>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even" style="border-bottom: 0.5pt solid ; ">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">12.</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
@@ -4646,9 +4670,7 @@ in der Tabelle angeben)</th>
 </table>
 
 □  
-\* Nur auszufüllen, falls die Zulassungsbescheinigung Teil II an die Adresse eines Dritten (D II, z. B. ein
-
-Kreditinstitut) versandt werden soll:
+\* Nur auszufüllen, falls die Zulassungsbescheinigung Teil II an die Adresse eines Dritten (D II, z. B. ein Kreditinstitut) versandt werden soll:
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
 <colgroup>
@@ -4658,24 +4680,24 @@ Kreditinstitut) versandt werden soll:
 </colgroup>
 <tbody data-valign="top">
 <tr class="odd">
-<td colspan="3" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Name des Unternehmens<br />
+<td colspan="3" style="border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Name des Unternehmens<br />
 </td>
 </tr>
 <tr class="even">
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">oder<br />
+<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">oder<br />
 </td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Name<br />
+<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Name<br />
 </td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Vorname<br />
+<td style="border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Vorname<br />
 </td>
 </tr>
 <tr class="odd">
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Straße</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Hausnummer</td>
+<td colspan="2" style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Straße</td>
+<td style="border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Hausnummer</td>
 </tr>
 <tr class="even">
-<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">PLZ</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Ort</td>
+<td colspan="2" style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">PLZ</td>
+<td data-valign="top" data-charoff="50">Ort</td>
 </tr>
 </tbody>
 </table>
@@ -4686,7 +4708,7 @@ Einwilligungserklärungen
 
 Mir ist bekannt, dass der jeweils internetbasiert beantragte Vorgang in der Regel am Tag der Entscheidung der Zulassungsbehörde wirksam wird.
 
-Ich willige zu diesem Zweck ein in die elektronische Bekanntgabe des jeweiligen Verwaltungsakts einschließlich der Übermittlung des Zulassungsbescheids und des vorläufigen Zulassungsnachweises, sowie meiner jeweils hierin enthaltenen personenbezogenen Daten, durch Übermittlung der Zulassungsbehörde an den/die Bevollmächtigte(n).
+Ich willige zu diesem Zweck ein in die elektronische Bekanntgabe des jeweiligen Verwaltungsakts einschließlich der Übermittlung des Zulassungsbescheids und des vorläufigen Zulassungsnachweises sowie meiner jeweils hierin enthaltenen personenbezogenen Daten, durch Übermittlung der Zulassungsbehörde an den/die Bevollmächtigte(n).
 
 Ich willige zu diesem Zweck ein, dass die Zulassungsbehörde dem/der Bevollmächtigten auf geeignetem elektronischem Wege
 
@@ -4697,21 +4719,17 @@ den Zeitpunkt der Wirksamkeit der Fahrzeugzulassung,
 das Kennzeichen,
 
 •  
-die festgesetzte Gebührenhöhe
+die festgesetzte Gebührenhöhe und
 
 •  
-sowie im Falle einer Entscheidung gegen die Zulassung, den Ablehnungsgrund für die Zulassung
+im Falle einer Entscheidung gegen die Zulassung, den Ablehnungsgrund für die Zulassung
 
 jeweils einschließlich meiner jeweils hierin enthaltenen personenbezogenen Daten übermittelt.
 
-Ich willige zu diesem Zweck ein, dass dem/der Bevollmächtigten meine dem Steuergeheimnis unterliegenden kraftfahrzeugsteuerlichen Verhältnisse im Rahmen der Mitteilung über das Ergebnis der Prüfung etwaiger Kraftfahrzeugsteuerrückstände nach § 13 Absatz 2 des Kraftfahrzeugsteuergesetz sowie Art und Höhe etwaiger Gebührenrückstände durch die Zulassungsbehörde, einschließlich meiner jeweils hierin enthaltenen personenbezogenen Daten, bekannt gegeben werden dürfen, soweit dies für die Prüfung des jeweiligen internetbasierten Antrags erforderlich ist.
+Ich willige zu diesem Zweck ein, dass dem/der Bevollmächtigten meine dem Steuergeheimnis unterliegenden kraftfahrzeugsteuerlichen Verhältnisse im Rahmen der Mitteilung über das Ergebnis der Prüfung etwaiger Kraftfahrzeugsteuerrückstände nach § 13 Absatz 2 des Kraftfahrzeugsteuergesetzes sowie Art und Höhe etwaiger Gebührenrückstände durch die Zulassungsbehörde, einschließlich meiner jeweils hierin enthaltenen personenbezogenen Daten, bekannt gegeben werden dürfen, soweit dies für die Prüfung des jeweiligen internetbasierten Antrags erforderlich ist.
 
 □  
-\[optional\] Ich bitte darum, dass die Zulassungsbehörde dem/der Bevollmächtigten die in der Zulassungsbescheinigung Teil I und Zulassungsbescheinigung Teil II enthaltenen Daten jeweils einschließlich meiner hierin enthaltenen personenbezogenen Daten auf elektronischem Weg nach der wirksamen Zulassung zur Verfügung stellt. Hierfür habe ich hinsichtlich der in der Zulassungsbescheinigung Teil I und Zulassungsbescheinigung Teil II enthaltenen Daten eine separate Einwilligungserklärung unterzeichnet und wurde diesbezüglich von dem/der Bevollmächtigten nach der DSGVO belehrt.
-
- 
-
- 
+\[optional\] Ich bitte darum, dass die Zulassungsbehörde dem/der Bevollmächtigten die in der Zulassungsbescheinigung Teil I und Zulassungsbescheinigung Teil II enthaltenen Daten jeweils einschließlich meiner hierin enthaltenen personenbezogenen Daten auf elektronischem Weg nach der wirksamen Zulassung zur Verfügung stellt. Hierfür habe ich hinsichtlich der in der Zulassungsbescheinigung Teil I und Zulassungsbescheinigung Teil II enthaltenen Daten eine separate Einwilligungserklärung unterzeichnet und wurde diesbezüglich von dem/der Bevollmächtigten nach der Datenschutz-Grundverordnung belehrt.
 
 1\.
 
@@ -4719,12 +4737,88 @@ Vollmacht \[Pflichtangaben\]
 
 Hiermit bevollmächtige ich/bevollmächtigen wir,
 
-Vollmachtgeber (Fahrzeughalter) c
+Vollmachtgeber (Fahrzeughalter) als juristische Person
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
 <colgroup>
-<col style="width: 19%" />
-<col style="width: 31%" />
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody data-valign="top">
+<tr class="odd">
+<td colspan="2" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Name des Unternehmens<br />
+</td>
+</tr>
+<tr class="even">
+<td colspan="2" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Wirtschaftszweig nach ErfassRL Kfz<br />
+</td>
+</tr>
+<tr class="odd">
+<td colspan="2" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Großkundennummer der Zollverwaltung, sofern vorhanden (SEPA-Mandat wird bei anerkannten Großkunden der Zollverwaltung hierdurch ersetzt)<br />
+</td>
+</tr>
+<tr class="even">
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Straße<br />
+</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Hausnummer</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">PLZ<br />
+</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Postfach</td>
+</tr>
+<tr class="even">
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Ort<br />
+</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+</tr>
+</tbody>
+</table>
+
+Vollmachtgeber (Fahrzeughalter) als Behörde
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody data-valign="top">
+<tr class="odd">
+<td colspan="2" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Name der Behörde<br />
+</td>
+</tr>
+<tr class="even">
+<td colspan="2" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Wirtschaftszweig nach ErfassRL Kfz<br />
+</td>
+</tr>
+<tr class="odd">
+<td colspan="2" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Großkundennummer der Zollverwaltung, sofern vorhanden (SEPA-Mandat wird bei anerkannten Großkunden der Zollverwaltung hierdurch ersetzt)<br />
+</td>
+</tr>
+<tr class="even">
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Straße<br />
+</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Hausnummer</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">PLZ<br />
+</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Postfach</td>
+</tr>
+<tr class="even">
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Ort<br />
+</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+</tr>
+</tbody>
+</table>
+
+Vollmachtgeber (Fahrzeughalter) als Einzelunternehmen bzw. beruflich Selbstständige
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
 <col style="width: 50%" />
 </colgroup>
 <tbody data-valign="top">
@@ -4737,6 +4831,53 @@ Vollmachtgeber (Fahrzeughalter) c
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Name<br />
 </td>
 <td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Vorname<br />
+</td>
+</tr>
+<tr class="odd">
+<td colspan="3" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Wirtschaftszweig nach ErfassRL Kfz<br />
+</td>
+</tr>
+<tr class="even">
+<td colspan="3" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Großkundennummer der Zollverwaltung, sofern vorhanden (SEPA-Mandat wird bei anerkannten Großkunden der Zollverwaltung hierdurch ersetzt)<br />
+</td>
+</tr>
+<tr class="odd">
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Straße<br />
+</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Hausnummer</td>
+</tr>
+<tr class="even">
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">PLZ<br />
+</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Postfach</td>
+</tr>
+<tr class="odd">
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Ort<br />
+</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+</tr>
+</tbody>
+</table>
+
+Vollmachtgeber (Fahrzeughalter) als Vereinigung
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody data-valign="top">
+<tr class="odd">
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Vertretungsberechtigter<br />
+</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Name<br />
+</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Vorname<br />
+</td>
+</tr>
+<tr class="even">
+<td colspan="3" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Name der Vereinigung<br />
 </td>
 </tr>
 <tr class="odd">
@@ -4810,7 +4951,9 @@ Einzelzulassung, Mehrfachzulassung oder Dauervollmacht
 
 Option 1 – Einzelzulassung
 
-die Zulassung (inkl. Wiederzulassung, Tageszulassung und Halter- oder Adressänderung) nach der Fahrzeug-Zulassungsverordnung (FZV) für das folgende Fahrzeug durchzuführen:
+die Zulassung (inkl. Wiederzulassung, Tageszulassung und Halter-
+
+oder Adressänderung) nach der Fahrzeug-Zulassungsverordnung (FZV) für das folgende Fahrzeug durchzuführen:
 
 a)
 
@@ -4824,7 +4967,7 @@ fahrzeugspezifische Angaben
 </colgroup>
 <tbody data-valign="top">
 <tr class="odd">
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Entweder</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">entweder</td>
 <td colspan="2" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Fahrzeug-Identifizierungsnummer (FIN)<br />
 </td>
 </tr>
@@ -4847,11 +4990,11 @@ b)
 Angaben zur Zustellung der Zulassungsunterlagen
 
 □  
-Ich wähle die
+Ich beantrage die
 
 Abholung der vollständigen Zulassungsunterlagen nach zuvor elektronisch übermitteltem Zulassungsbescheid
 
-durch den Bevollmächtigten oder ein durch ihn beauftragtes drittes\* Unternehmen oder Person.
+durch den Bevollmächtigten oder einen durch ihn beauftragten Dritten\*.
 
 □  
 Für den Fall der Abholung durch einen Dritten sind folgende Angaben zu machen:
@@ -4887,7 +5030,7 @@ Für den Fall der Abholung durch einen Dritten sind folgende Angaben zu machen:
 </table>
 
 □  
-Ich wähle den
+Ich beantrage den
 
 postalischen Versand der Zulassungsunterlagen an folgende Adressaten:
 
@@ -4948,7 +5091,7 @@ postalischen Versand der Zulassungsunterlagen an folgende Adressaten:
 </table>
 
 □  
-\* Nur auszufüllen, falls die Zulassungsbescheinigung Teil II an die Adresse eines Dritten (D II, z. B. ein Kreditinstitut) versandt werden soll:
+\* Nur auszufüllen, falls die Zulassungsbescheinigung Teil II an die Adresse eines Dritten (D II, z. B. ein Kreditinstitut) versandt werden soll:
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
 <colgroup>
@@ -4984,48 +5127,50 @@ postalischen Versand der Zulassungsunterlagen an folgende Adressaten:
 
 Option 2 – Mehrfachzulassung
 
-die Zulassung (inkl. Wiederzulassung, Tageszulassung und Halter- oder Adressänderung) gemäß Fahrzeug-Zulassungsverordnung (FZV) für die folgenden Fahrzeuge durchzuführen (in der untenstehenden Liste können bis zu 100 Fahrzeuge angegeben werden):
+die Zulassung (inkl. Wiederzulassung, Tageszulassung und Halter-
+
+oder Adressänderung) gemäß Fahrzeug-Zulassungsverordnung (FZV) für die folgenden Fahrzeuge durchzuführen (in der untenstehenden Liste können bis zu 100 Fahrzeuge angegeben werden):
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
 <colgroup>
 <col style="width: 5%" />
-<col style="width: 17%" />
+<col style="width: 16%" />
 <col style="width: 12%" />
 <col style="width: 9%" />
 <col style="width: 9%" />
-<col style="width: 30%" />
+<col style="width: 28%" />
 <col style="width: 18%" />
-<col />
+<col style="width: 2%" />
 </colgroup>
 <thead data-valign="bottom">
-<tr class="header" style="border-bottom: 0.5pt solid ; ">
-<th colspan="5" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">a) fahrzeugspezifische Angaben</th>
-<th colspan="3" style="text-align: left; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">b) Angaben zur Zustellung der Zulassungsunterlagen</th>
+<tr class="header">
+<th colspan="5" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="top" data-charoff="50">a) fahrzeugspezifische Angaben</th>
+<th colspan="3" style="text-align: left; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="top" data-charoff="50">b) Angaben zur Zustellung der Zulassungsunterlagen</th>
 </tr>
 <tr class="odd">
-<th rowspan="3" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50"> </th>
-<th rowspan="3" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">Entweder FIN</th>
-<th rowspan="3" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">Oder ZB II</th>
-<th colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">Oder (bei noch nicht produzierten Fahrzeugen)</th>
-<th rowspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">Gesammelte Abholung durch Bevollmächtigten oder Dritten*<br />
+<th rowspan="3" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="top" data-charoff="50"> </th>
+<th rowspan="3" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="top" data-charoff="50">entweder FIN</th>
+<th rowspan="3" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="top" data-charoff="50">oder ZB II</th>
+<th colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="top" data-charoff="50">oder (bei noch nicht produzierten Fahrzeugen)</th>
+<th rowspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="top" data-charoff="50">Gesammelte Abholung durch Bevollmächtigten oder Dritten*<br />
 (bitte B oder D I<br />
 in der Tabelle angeben)</th>
-<th colspan="2" rowspan="2" style="text-align: left; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">Gesammelte postalische Übersendung an Halter, Bevollmächtigten oder Dritten*<br />
+<th colspan="2" rowspan="2" style="text-align: left; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="top" data-charoff="50">Gesammelte postalische Übersendung an Halter, Bevollmächtigten oder Dritten*<br />
 (bitte H, B, D I oder D II<br />
 in der Tabelle angeben)</th>
 </tr>
 <tr class="header">
-<th rowspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">HSN</th>
-<th rowspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">TSN</th>
+<th rowspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="top" data-charoff="50">HSN</th>
+<th rowspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="top" data-charoff="50">TSN</th>
 </tr>
 <tr class="odd">
-<th style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">ZB I + ZB II u. Plaketten</th>
-<th style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">ZB I u. Plaketten</th>
-<th style="text-align: left; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="bottom" data-charoff="50">ZB II</th>
+<th style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="top" data-charoff="50">ZB I + ZB II u. Plaketten</th>
+<th style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="top" data-charoff="50">ZB I u. Plaketten</th>
+<th style="text-align: left; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="top" data-charoff="50">ZB II</th>
 </tr>
 </thead>
 <tbody data-valign="top">
-<tr class="odd" style="border-bottom: 0.5pt solid ; ">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1.</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
@@ -5035,7 +5180,7 @@ in der Tabelle angeben)</th>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even" style="border-bottom: 0.5pt solid ; ">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2.</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
@@ -5055,7 +5200,7 @@ in der Tabelle angeben)</th>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even" style="border-bottom: 0.5pt solid ; ">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4.</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
@@ -5065,7 +5210,7 @@ in der Tabelle angeben)</th>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd" style="border-bottom: 0.5pt solid ; ">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">5.</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
@@ -5075,7 +5220,7 @@ in der Tabelle angeben)</th>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even" style="border-bottom: 0.5pt solid ; ">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6.</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
@@ -5085,7 +5230,7 @@ in der Tabelle angeben)</th>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd" style="border-bottom: 0.5pt solid ; ">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">7.</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
@@ -5095,7 +5240,7 @@ in der Tabelle angeben)</th>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even" style="border-bottom: 0.5pt solid ; ">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8.</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
@@ -5105,7 +5250,7 @@ in der Tabelle angeben)</th>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd" style="border-bottom: 0.5pt solid ; ">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9.</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
@@ -5115,7 +5260,7 @@ in der Tabelle angeben)</th>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even" style="border-bottom: 0.5pt solid ; ">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">10.</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
@@ -5125,7 +5270,7 @@ in der Tabelle angeben)</th>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd" style="border-bottom: 0.5pt solid ; ">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">11.</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
@@ -5135,7 +5280,7 @@ in der Tabelle angeben)</th>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even" style="border-bottom: 0.5pt solid ; ">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">12.</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
@@ -5192,9 +5337,7 @@ in der Tabelle angeben)</th>
 </table>
 
 □  
-\* Nur auszufüllen, falls die Zulassungsbescheinigung Teil II an die Adresse eines Dritten (D II, z. B. ein
-
-Kreditinstitut) versandt werden soll:
+\* Nur auszufüllen, falls die Zulassungsbescheinigung Teil II an die Adresse eines Dritten (D II, z. B. ein Kreditinstitut) versandt werden soll:
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
 <colgroup>
@@ -5245,7 +5388,7 @@ b)
 Angaben zur Zustellung der Zulassungsunterlagen
 
 □  
-Ich wähle die
+Ich beantrage die
 
 Abholung der vollständigen Zulassungsunterlagen nach zuvor elektronisch übermitteltem Zulassungsbescheid
 
@@ -5285,15 +5428,15 @@ Für den Fall der Abholung durch einen Dritten sind folgende Angaben zu machen:
 </table>
 
 □  
-Ich wähle den
+Ich beantrage den
 
 postalischen Versand der Zulassungsunterlagen an folgende Adressaten:
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col style="width: 30%" />
+<col style="width: 35%" />
+<col style="width: 35%" />
 </colgroup>
 <tbody data-valign="top">
 <tr class="odd">
@@ -5346,7 +5489,7 @@ postalischen Versand der Zulassungsunterlagen an folgende Adressaten:
 </table>
 
 □  
-\* Nur auszufüllen, falls die Zulassungsbescheinigung Teil II an die Adresse eines Dritten (D II, z. B. ein Kreditinstitut) versandt werden soll:
+\* Nur auszufüllen, falls die Zulassungsbescheinigung Teil II an die Adresse eines Dritten (D II, z. B. ein Kreditinstitut) versandt werden soll:
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
 <colgroup>
@@ -5395,17 +5538,17 @@ den Zeitpunkt der Wirksamkeit der Fahrzeugzulassung,
 das Kennzeichen,
 
 •  
-die festgesetzte Gebührenhöhe
+die festgesetzte Gebührenhöhe und
 
 •  
-sowie im Falle einer Entscheidung gegen die Zulassung, den Ablehnungsgrund für die Zulassung
+im Falle einer Entscheidung gegen die Zulassung, den Ablehnungsgrund für die Zulassung
 
 jeweils einschließlich meiner jeweils hierin enthaltenen personenbezogenen Daten übermittelt.
 
 Ich willige zu diesem Zweck ein, dass dem/der Bevollmächtigten meine dem Steuergeheimnis unterliegenden kraftfahrzeugsteuerlichen Verhältnisse im Rahmen der Mitteilung über das Ergebnis der Prüfung etwaiger Kraftfahrzeugsteuerrückstände nach § 13 Absatz 2 des Kraftfahrzeugsteuergesetz sowie Art und Höhe etwaiger Gebührenrückstände durch die Zulassungsbehörde, einschließlich meiner jeweils hierin enthaltenen personenbezogenen Daten, bekannt gegeben werden dürfen, soweit dies für die Prüfung des jeweiligen internetbasierten Antrags erforderlich ist.
 
 □  
-\[optional\] Ich bitte darum, dass die Zulassungsbehörde dem/der Bevollmächtigten die in der Zulassungsbescheinigung Teil I und Zulassungsbescheinigung Teil II enthaltenen Daten jeweils einschließlich meiner hierin enthaltenen personenbezogenen Daten auf elektronischem Weg nach der wirksamen Zulassung zur Verfügung stellt. Hierfür habe ich hinsichtlich der in der Zulassungsbescheinigung Teil I und Zulassungsbescheinigung Teil II enthaltenen Daten eine separate Einwilligungserklärung unterzeichnet und wurde diesbezüglich von dem/der Bevollmächtigten nach der DSGVO belehrt.
+\[optional\] Ich bitte darum, dass die Zulassungsbehörde dem/der Bevollmächtigten die in der Zulassungsbescheinigung Teil I und Zulassungsbescheinigung Teil II enthaltenen Daten jeweils einschließlich meiner hierin enthaltenen personenbezogenen Daten auf elektronischem Weg nach der wirksamen Zulassung zur Verfügung stellt. Hierfür habe ich hinsichtlich der in der Zulassungsbescheinigung Teil I und Zulassungsbescheinigung Teil II enthaltenen Daten eine separate Einwilligungserklärung unterzeichnet und wurde diesbezüglich von dem/der Bevollmächtigten nach der Datenschutz-Grundverordnung belehrt.
 
 Abschnitt A Nr. 2 Option 2 Kursivdruck: Wegen offensichtlicher Unrichtigkeit wurde das Wort "Kreditistitut" durch das Wort "Kreditinstitut" ersetzt Abschnitt B Nr. 2 Option 2 Kursivdruck: Wegen offensichtlicher Unrichtigkeit wurde das Wort "Kreditistitut" durch das Wort "Kreditinstitut" ersetzt
 
@@ -5920,13 +6063,13 @@ Bestätigung über eine dem Gesetz über die Haftpflichtversicherung für auslä
 
 Die Bestätigung enthält die Daten zur Kraftfahrzeug-Haftpflichtversicherung, zum Kennzeichen, zur Fahrzeugbeschreibung und zum Versicherungsnehmer sowie zusätzlich das Datum des Endes des Versicherungsschutzes.
 
-# Anlage 17 – (zu § 53 Absatz 1 Satz 6)Versicherungskennzeichen für Kleinkrafträder, motorisierte Krankenfahrstühle und leichte vierrädrige Kraftfahrzeuge
+# Anlage 17 – (zu § 53 Absatz 1 Satz 6, § 53a Absatz 2)Versicherungskennzeichen für Kleinkrafträder, motorisierte Krankenfahrstühle und leichte vierrädrige Kraftfahrzeuge
 
 (Fundstelle: BGBl. 2023 I Nr. 199, S. 129 - 130)
 
 1\.
 
-Versicherungskennzeichen
+Schematische Darstellung eines Versicherungskennzeichens mit fälschungserschwerender Schrift – FE-Schrift
 
 ![Es wird beispielhaft ein Versicherungskennzeichen nebst Bemaßung dargestellt. Es ist viereckig und hat einen schwarzen Rand mit abgerundeten Ecken. In der ersten Zeile sin die Zahlen 999 angegeben. In der zweite Zeile sind die Buchstaben VXY aufgeführt. Darunter befindet sich die Angabe GDV 2005. Die Bemaßung ergibt sich aus nachfolgender Tabelle.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j01990_0620.jpg)
 
@@ -5936,7 +6079,7 @@ Enthält eine Zeile nur eine oder zwei Ziffern oder einen oder zwei Buchstaben, 
 
 Schrift
 
-Schriftart und -größe nach DIN 1451-2:1986-02 (Anlage 4 Abschnitt 1 Nummer 2.3.1 und 2.3.2).
+Schriftart und -größe richten sich nach DIN 1451-2:1986-02 (Anlage 4 Abschnitt 1 Nummer 2.3.1 und 2.3.2). Abweichend davon darf die Beschriftung auch nach dem Schriftmuster „Schrift für Kfz-Kennzeichen“ (fälschungserschwerende Schrift – FE-Schrift) erfolgen. Die Beschriftung muss dann den Schriftmustern „Schrift für Kfz-Kennzeichen“ entsprechen. Die Schriftmuster können bei der Bundesanstalt für Straßen- und Verkehrswesen, Postfach 10 01 50, 51401 Bergisch Gladbach, bezogen werden.
 
 3\.
 
@@ -6061,7 +6204,23 @@ Zwischen den Buchstaben- und Zahlengruppen (Jahreszahl) ist ein Gruppenabstand i
 
 Ergänzungsbestimmungen
 
-Die Ecken des Versicherungskennzeichens müssen mit einem Halbmesser von 10 mm abgerundet sein. Die Beschriftung des Kennzeichens darf nicht mehr als 1,5 mm über die Grundfläche hervortreten. Die Beschriftung erfolgt in fetter Mittelschrift, beim Zusammentreffen von mehr als 2 Buchstaben oder mehr als 2 Ziffern in fetter Engschrift. Der Buchstabe Q darf nicht verwendet werden. Die Farbtöne des Randes und der Beschriftung sind dem Farbregister RAL 840 HR zu entnehmen, und zwar für schwarz RAL 9005, blau RAL 5012 und grün RAL 6010; der Farbton des Untergrundes des Kennzeichens ist weiß (ws) nach DIN 6171, Tabelle 3. Bei Verwendung von Stahlblech muss die Blechstärke mindestens 0,35 mm, bei Aluminiumblech mindestens 0,50 mm betragen. Wird anderes Material verwendet, so muss es eine entsprechende Festigkeit besitzen.
+Die Ecken des Versicherungskennzeichens müssen mit einem Halbmesser von 10 mm abgerundet sein. Die Beschriftung des Kennzeichens darf nicht mehr als 1,5 mm über die Grundfläche hervortreten. Beim Zusammentreffen von mehr als 2 Buchstaben oder mehr als 2 Ziffern erfolgt die Beschriftung in fetter Engschrift. Bei Verwendung der Mittel- oder Engschrift nach DIN 1451-2:1986-02 darf der Buchstabe Q nicht verwendet werden. Die Farbtöne des Randes und der Beschriftung sind dem Farbregister RAL 840 HR zu entnehmen, und zwar für schwarz RAL 9005, blau RAL 5012 und grün RAL 6010; der Farbton des Untergrundes des Kennzeichens ist weiß (ws) nach DIN 6171, Tabelle 3. Bei Verwendung von Stahlblech muss die Blechstärke mindestens 0,35 mm, bei Aluminiumblech mindestens 0,50 mm betragen. Wird anderes Material verwendet, so muss es eine entsprechende Festigkeit besitzen.
+
+# Anlage 17a – (zu § 53a)Kennzeichenfolie auf Trägerplatte als Versicherungskennzeichen für Kleinkrafträder, motorisierte Krankenfahrstühle und leichte vierrädrige Kraftfahrzeuge
+
+(Fundstelle: BGBl. 2025 I Nr. 382, S. 15 - 16)
+
+1\.
+
+Schematische Darstellung mit Maßen der Beschriftung
+
+![Schematische Darstellung eines Versicherungskennzeichens (Kennzeichenfolie auf Trägerplatte) mit Maßen der Beschriftung ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j03820_0020.jpg)
+
+2\.
+
+Schematische Darstellung des Hologramms
+
+![Schematische Darstellung des Hologramms auf der Kennzeichenfolie](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2025/j03820_0030.jpg)
 
 # Anlage 18 – (zu § 56 Absatz 2 Nummer 3)Versicherungsplakette für Elektrokleinstfahrzeuge
 
@@ -6077,7 +6236,9 @@ Enthält eine Zeile nur eine oder zwei Ziffern oder einen oder zwei Buchstaben, 
 
 2\.
 
-Die Beschriftung der Kennzeichenfolie erfolgt nach dem Schriftmuster „Schrift für Kfz-Kennzeichen“ (fälschungserschwerende Schrift – FE-Schrift). Die Beschriftung muss den Schriftmustern „Schrift für Kfz-Kennzeichen“ entsprechen. Die Schriftmuster können bei der Bundesanstalt für Straßenwesen, Postfach 10 01 50, 51401 Bergisch Gladbach, bezogen werden. Form, Größe und Ausgestaltung der Kennzeichenfolie müssen dem Muster und den Angaben der Anlage entsprechen.
+Schrift
+
+Die Beschriftung der Kennzeichenfolie erfolgt nach dem Schriftmuster „Schrift für Kfz-Kennzeichen“ mit fälschungserschwerender Schrift – FE-Schrift. Die Schriftmuster können bei der Bundesanstalt für Straßen- und Verkehrswesen, Postfach 10 01 50, 51401 Bergisch Gladbach, bezogen werden. Form, Größe und Ausgestaltung der Kennzeichenfolie müssen dem Muster und den Angaben der Anlage entsprechen.
 
 3\.
 

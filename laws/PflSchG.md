@@ -301,13 +301,13 @@ zu erlassen.
 
 Wer Pflanzenschutzmittel für andere – außer gelegentlicher Nachbarschaftshilfe – anwenden oder zu gewerblichen Zwecken oder im Rahmen sonstiger wirtschaftlicher Unternehmungen andere über den Pflanzenschutz beraten will, hat dies der für den Betriebssitz und der für den Ort der Tätigkeit zuständigen Behörde vor Aufnahme der Tätigkeit anzuzeigen. Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die näheren Vorschriften über die Anzeige und das Anzeigeverfahren zu erlassen. Die Landesregierungen können diese Befugnis durch Rechtsverordnung auf oberste Landesbehörden übertragen.
 
-# § 11 – Aufzeichnungs- und Informationspflichten
+# § 11 – Aufzeichnungspflichten
 
-(1) Die Aufzeichnungen nach Artikel 67 Absatz 1 Satz 1 oder 2 der Verordnung (EG) Nr. 1107/2009 können elektronisch oder schriftlich geführt werden. Der Leiter eines landwirtschaftlichen, forstwirtschaftlichen oder gärtnerischen Betriebes ist verpflichtet, die Aufzeichnungen für die bewirtschafteten Flächen seines Betriebes unter Angabe des jeweiligen Anwenders zusammen zu führen.
+(1) Die Aufzeichnungen nach Artikel 67 Absatz 1 Satz 1 der Verordnung (EG) Nr. 1107/2009 können elektronisch oder schriftlich geführt werden.
 
-(2) Die Fristen des Artikels 67 Absatz 1 Satz 1 oder 2 der Verordnung (EG) Nr. 1107/2009 zur Aufbewahrung der Aufzeichnungen rechnen ab dem Beginn des Jahres, das auf das Jahr des Entstehens der jeweiligen Aufzeichnung folgt.
+(2) Die nach Artikel 67 Absatz 1 Satz 2 der Verordnung (EG) Nr. 1107/2009 in Verbindung mit Artikel 2 der Durchführungsverordnung (EU) 2023/564 grundsätzlich elektronisch zu führenden Aufzeichnungen der beruflichen Verwender können bis zum Ablauf des 31. Dezember 2026 auch schriftlich geführt werden. Der Leiter eines landwirtschaftlichen, forstwirtschaftlichen oder gärtnerischen Betriebes ist verpflichtet, die Aufzeichnungen für die bewirtschafteten Flächen seines Betriebes unter Angabe des jeweiligen Anwenders zusammen zu führen.
 
-(3) Die zuständige Behörde kann auf Antrag bei Vorliegen eines berechtigten Interesses und unter Wahrung der Betriebs- und Geschäftsgeheimnisse des Aufzeichnenden, im Einzelfall Auskunft über die Aufzeichnungen geben.
+(3) Die Fristen des Artikels 67 Absatz 1 Satz 1 oder 2 der Verordnung (EG) Nr. 1107/2009 zur Aufbewahrung der Aufzeichnungen rechnen ab dem Beginn des Jahres, das auf das Jahr des Entstehens der jeweiligen Aufzeichnung folgt.
 
 # § 12 – Vorschriften für die Anwendung von Pflanzenschutzmitteln
 

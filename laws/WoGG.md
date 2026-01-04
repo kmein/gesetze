@@ -492,7 +492,7 @@ mit Ausnahme der Pflegezulage nach § 269 Abs. 2 des Lastenausgleichsgesetzes;
 
 11. die nach § 3b des Einkommensteuergesetzes steuerfreien Zuschläge für Sonntags-, Feiertags- oder Nachtarbeit;
 
-12. (weggefallen)
+12. die nach § 3 Nummer 21 des Einkommensteuergesetzes steuerfreien Einnahmen;
 
 13. (weggefallen)
 

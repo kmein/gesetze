@@ -252,7 +252,7 @@ Zur Bestimmung des Zeitpunkts des Einsetzens der Leistungen nach den §§ 3, 4 u
 
 7. ein Fahrtkostenzuschuss, der den Leistungsberechtigten von dem Bundesamt für Migration und Flüchtlinge zur Sicherstellung ihrer Teilnahme an einem Integrationskurs nach § 43 des Aufenthaltsgesetzes oder an der berufsbezogenen Deutschsprachförderung nach § 45a des Aufenthaltsgesetzes gewährt wird.
 
-(3) Einkommen aus Erwerbstätigkeit bleiben bei Anwendung des Absatzes 1 in Höhe von 25 vom Hundert außer Betracht, höchstens jedoch in Höhe von 50 vom Hundert der maßgeblichen Bedarfsstufe des Geldbetrags zur Deckung aller notwendigen persönlichen Bedarfe nach § 3a Absatz 1 und des notwendigen Bedarfs nach § 3a Absatz 2, jeweils in Verbindung mit § 3a Absatz 4. Erhält eine leistungsberechtigte Person mindestens aus einer Tätigkeit Bezüge oder Einnahmen, die nach § 3 Nummer 12, 26, 26a oder 26b des Einkommensteuergesetzes steuerfrei sind, ist abweichend von Satz 1 ein Betrag von bis zu 250 Euro monatlich nicht als Einkommen zu berücksichtigen. Von den Einkommen nach Absatz 1 Satz 1 sind ferner abzusetzen
+(3) Einkommen aus Erwerbstätigkeit bleiben bei Anwendung des Absatzes 1 in Höhe von 25 vom Hundert außer Betracht, höchstens jedoch in Höhe von 50 vom Hundert der maßgeblichen Bedarfsstufe des Geldbetrags zur Deckung aller notwendigen persönlichen Bedarfe nach § 3a Absatz 1 und des notwendigen Bedarfs nach § 3a Absatz 2, jeweils in Verbindung mit § 3a Absatz 4. Erhält eine leistungsberechtigte Person mindestens aus einer Tätigkeit Bezüge oder Einnahmen, die nach § 3 Nummer 12, 26, 26a oder 26b des Einkommensteuergesetzes steuerfrei sind, ist abweichend von Satz 1 ein Betrag von bis zu einem Zwölftel des in § 3 Nummer 26 des Einkommensteuergesetzes genannten Betrags monatlich nicht als Einkommen zu berücksichtigen. Von den Einkommen nach Absatz 1 Satz 1 sind ferner abzusetzen
 
 1. auf das Einkommen entrichtete Steuern,
 
@@ -262,7 +262,7 @@ Zur Bestimmung des Zeitpunkts des Einsetzens der Leistungen nach den §§ 3, 4 u
 
 4. die mit der Erzielung des Einkommens verbundenen notwendigen Ausgaben.
 
-Übersteigt das Einkommen in den Fällen von Satz 2 den Betrag von 250 Euro monatlich, findet Satz 3 Nummer 3 und 4 mit der Maßgabe Anwendung, dass eine Absetzung der dort genannten Aufwendungen nur erfolgt, soweit die oder der Leistungsberechtigte nachweist, dass die Summe dieser Aufwendungen den Betrag von 250 Euro monatlich übersteigt. Die Möglichkeit zur Absetzung der Beträge nach Satz 3 von Einkommen aus Erwerbstätigkeit bleibt unberührt.
+Übersteigt das Einkommen in den Fällen von Satz 2 den Betrag von einem Zwölftel des in § 3 Nummer 26 des Einkommensteuergesetzes genannten Betrags monatlich, findet Satz 3 Nummer 3 und 4 mit der Maßgabe Anwendung, dass eine Absetzung der dort genannten Aufwendungen nur erfolgt, soweit die oder der Leistungsberechtigte nachweist, dass die Summe dieser Aufwendungen den Betrag von einem Zwölftel des in § 3 Nummer 26 des Einkommensteuergesetzes genannten Betrags monatlich übersteigt. Die Möglichkeit zur Absetzung der Beträge nach Satz 3 von Einkommen aus Erwerbstätigkeit bleibt unberührt.
 
 (4) Hat ein Leistungsberechtigter einen Anspruch gegen einen anderen, so kann die zuständige Behörde den Anspruch in entsprechender Anwendung des § 93 des Zwölften Buches Sozialgesetzbuch auf sich überleiten.
 

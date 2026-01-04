@@ -21,7 +21,7 @@ Im Sinne dieses Gesetzes sind
 
 3. „Marktproduzenten“ solche des Kapitels 3 Nummer 3.24 des Anhangs A der Verordnung (EU) Nr. 549/2013 des Europäischen Parlaments und des Rates vom 21. Mai 2013 zum Europäischen System Volkswirtschaftlicher Gesamtrechnungen auf nationaler und regionaler Ebene in der Europäischen Union (ABl. L 174 vom 26.6.2013, S. 1), die durch die Delegierte Verordnung (EU) 2015/1342 (ABl. L 207 vom 4.8.2015, S. 35) geändert worden ist, in der jeweils geltenden Fassung;
 
-4. „Wirtschaftszweige“ solche des Anhangs I „NACE Rev. 2“ der Verordnung (EG) Nr. 1893/2006 des Europäischen Parlaments und des Rates vom 20. Dezember 2006 zur Aufstellung der statistischen Systematik der Wirtschaftszweige NACE Revision 2 und zur Änderung der Verordnung (EWG) Nr. 3037/90 des Rates sowie einiger Verordnungen der EG über bestimmte Bereiche der Statistik (ABl. L 393 vom 30.12.2006, S. 1), die zuletzt durch die Verordnung (EU) 2019/1243 (ABl. L 198 vom 25.7.2019, S. 241) geändert worden ist, in der jeweils geltenden Fassung in Verbindung mit der vom Statistischen Bundesamt daraus erstellten Klassifikation der Wirtschaftszweige in der jeweils geltenden Fassung.
+4. „Wirtschaftszweige“ solche nach der Untergliederung gemäß des Anhangs I der Verordnung (EG) Nr. 1893/2006 in Verbindung mit der vom Statistischen Bundesamt daraus erstellten Klassifikation der Wirtschaftszweige.
 
 # § 3 – Erhebungseinheiten, Erhebungsbereiche
 

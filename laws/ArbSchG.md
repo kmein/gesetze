@@ -325,11 +325,11 @@ zu machen. Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durc
 
 (3) Ergeben sich im Einzelfall für die zuständigen Behörden konkrete Anhaltspunkte für
 
-1. eine Beschäftigung oder Tätigkeit von Ausländern ohne den erforderlichen Aufenthaltstitel nach § 4 Abs. 3 des Aufenthaltsgesetzes, eine Aufenthaltsgestattung oder eine Duldung, die zur Ausübung der Beschäftigung berechtigen, oder eine Genehmigung nach § 284 Abs. 1 des Dritten Buches Sozialgesetzbuch,
+1. eine Beschäftigung oder Tätigkeit von Ausländern ohne den erforderlichen Aufenthaltstitel nach § 4a Absatz 5 Satz 1 des Aufenthaltsgesetzes, eine Erlaubnis oder Berechtigung nach § 4a Absatz 5 Satz 2 in Verbindung mit Absatz 4 des Aufenthaltsgesetzes, eine Aufenthaltsgestattung oder eine Duldung, die zur Ausübung der Beschäftigung berechtigen, oder eine Genehmigung nach § 284 Absatz 1 des Dritten Buches Sozialgesetzbuch,
 
 2. Verstöße gegen die Mitwirkungspflicht nach § 60 Abs. 1 Satz 1 Nr. 2 des Ersten Buches Sozialgesetzbuch gegenüber einer Dienststelle der Bundesagentur für Arbeit, einem Träger der gesetzlichen Kranken-, Pflege-, Unfall- oder Rentenversicherung oder einem Träger der Sozialhilfe oder gegen die Meldepflicht nach § 8a des Asylbewerberleistungsgesetzes,
 
-3. Verstöße gegen das Gesetz zur Bekämpfung der Schwarzarbeit,
+3. Verstöße gegen das Schwarzarbeitsbekämpfungsgesetz,
 
 4. Verstöße gegen das Arbeitnehmerüberlassungsgesetz,
 
@@ -343,7 +343,13 @@ zu machen. Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durc
 
 9. Verstöße gegen Vorgaben für Pakete mit erhöhtem Gewicht nach dem Postgesetz,
 
-unterrichten sie die für die Verfolgung und Ahndung der Verstöße nach den Nummern 1 bis 9 zuständigen Behörden, die Träger der Sozialhilfe sowie die Behörden nach § 71 des Aufenthaltsgesetzes. In den Fällen des Satzes 1 arbeiten die zuständigen Behörden insbesondere mit den Agenturen für Arbeit, den Hauptzollämtern, den Rentenversicherungsträgern, den Krankenkassen als Einzugsstellen für die Sozialversicherungsbeiträge, den Trägern der gesetzlichen Unfallversicherung, den nach Landesrecht für die Verfolgung und Ahndung von Verstößen gegen das Gesetz zur Bekämpfung der Schwarzarbeit zuständigen Behörden, den Trägern der Sozialhilfe, den in § 71 des Aufenthaltsgesetzes genannten Behörden, den Finanzbehörden und der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen zusammen.
+10. Verstöße gegen das Mindestlohngesetz,
+
+11. Verstöße gegen das Arbeitnehmer-Entsendegesetz,
+
+unterrichten sie die für die Verfolgung und Ahndung zuständigen Behörden, die Träger der Sozialhilfe sowie die Behörden nach § 71 des Aufenthaltsgesetzes. In den Fällen des Satzes 1 arbeiten die zuständigen Behörden insbesondere mit den Agenturen für Arbeit, den Hauptzollämtern, den Rentenversicherungsträgern, den Krankenkassen als Einzugsstellen für die Sozialversicherungsbeiträge, den Trägern der gesetzlichen Unfallversicherung, den nach Landesrecht für die Verfolgung und Ahndung von Verstößen gegen das Gesetz zur Bekämpfung der Schwarzarbeit zuständigen Behörden, den Trägern der Sozialhilfe, den in § 71 des Aufenthaltsgesetzes genannten Behörden, den Finanzbehörden und der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen zusammen.
+
+(3a) Leitet die Generalzolldirektion im Rahmen ihrer Funktion als Verbindungsbüro im Sinne des Artikels 4 Absatz 1 der Richtlinie 96/71/EG in der Fassung vom 28. Juni 2018 ein über das Binnenmarkt-Informationssystem eingehendes Ersuchen, das die Mindestarbeitsbedingungen nach Artikel 3 Absatz 1 Buchstabe e der Richtlinie 96/71/EG in der Fassung vom 28. Juni 2018 betrifft, an die zuständigen Behörden weiter, so können diese die zur Beantwortung erforderlichen Informationen an die Generalzolldirektion zur Weiterleitung an die ersuchenden Behörden übermitteln.
 
 (4) Die zuständigen obersten Landesbehörden haben über die Überwachungstätigkeit der ihnen unterstellten Behörden einen Jahresbericht zu veröffentlichen. Der Jahresbericht umfaßt auch Angaben zur Erfüllung von Unterrichtungspflichten aus internationalen Übereinkommen oder Rechtsakten der Europäischen Gemeinschaften, soweit sie den Arbeitsschutz betreffen.
 
