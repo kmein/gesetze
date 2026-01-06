@@ -31,6 +31,8 @@ d) 55.4 – Vermittlungstätigkeiten für Beherbergungsdienstleistungen;
 
 3. Vorsorge- und Rehabilitationskliniken.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 354 +++)
+
 # § 4 – Erhebungsmerkmale
 
 Erhebungsmerkmale sind:
