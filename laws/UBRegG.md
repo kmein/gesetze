@@ -101,6 +101,8 @@ Jede einzelne wirtschaftliche Tätigkeit natürlicher Personen nach Satz 1 Numme
 
 (5) Die Registerbehörde hat fünf Jahre, nachdem das Unternehmen in keinem Register nach § 4 Absatz 1 und 3 mehr geführt oder als gelöscht geführt wird, die Unternehmensbasisdaten zu löschen.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 354 +++)
+
 # § 4 – Datenübermittlung an die Registerbehörde
 
 (1) Zum Zweck des Aufbaus und zur Führung des Basisregisters werden der Registerbehörde von folgenden öffentlichen Stellen folgende Daten übermittelt:

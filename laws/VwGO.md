@@ -420,6 +420,14 @@ Das Oberverwaltungsgericht entscheidet über das Rechtsmittel
 
 3b. die Errichtung, den Betrieb und die Änderung von Kraft-Wärme-Kopplungsanlagen im Sinne des Kraft-Wärme-Kopplungsgesetzes ab einer Feuerungswärmeleistung von 50 Megawatt,
 
+3c. die Errichtung, den Betrieb und die Änderung von
+
+a) Anlagen nach § 2 Nummer 1 des Geothermie-Beschleunigungsgesetzes vom 22. Dezember 2025 (BGBl. 2025 I Nr. 348, S. 2) in der jeweils geltenden Fassung einschließlich der Streitigkeiten nach § 10 Absatz 2 des Geothermie-Beschleunigungsgesetzes,
+
+b) Anlagen nach § 2 Nummer 3 des Geothermie-Beschleunigungsgesetzes mit einer thermischen Leistung von mindestens 500 Kilowatt einschließlich der Streitigkeiten nach § 10 Absatz 2 des Geothermie-Beschleunigungsgesetzes sowie
+
+c) Leitungen nach § 2 Nummer 5 des Geothermie-Beschleunigungsgesetzes einschließlich der Streitigkeiten nach § 10 Absatz 2 des Geothermie-Beschleunigungsgesetzes,
+
 4. Planfeststellungsverfahren gemäß § 43 des Energiewirtschaftsgesetzes, soweit nicht die Zuständigkeit des Bundesverwaltungsgerichts nach § 50 Absatz 1 Nummer 6 begründet ist,
 
 4a. Planfeststellungs- oder Plangenehmigungsverfahren für die Errichtung, den Betrieb und die Änderung von Einrichtungen nach § 66 Absatz 1 des Windenergie-auf-See-Gesetzes, soweit nicht die Zuständigkeit des Bundesverwaltungsgerichts nach § 50 Absatz 1 Nummer 6 begründet ist,

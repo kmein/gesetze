@@ -61,6 +61,28 @@ Für Berechtigte nach Satz 1 Buchstabe b findet § 8a des Fremdrentengesetzes ke
 
 §§ 1 bis 13 des Fremdrentengesetzes finden auf Arbeitsunfälle und Berufskrankheiten der in § 5 des Fremdrentengesetzes genannten Art auch dann Anwendung, wenn auf diese Fälle das Fremdrenten- und Auslandsrentengesetz nicht angewendet worden ist.
 
+# § 4
+
+(1) § 15 Abs. 1 Satz 3 des Fremdrentengesetzes ist nicht anzuwenden, wenn hierdurch eine besondere Härte vermieden wird. Mögliche Leistungen eines fremden Trägers stehen den bereits anerkannten Ansprüchen für Berechtigte nach § 1 Buchstabe b des Fremdrentengesetzes nicht entgegen, solange sie ihren gewöhnlichen Aufenthalt im Inland haben. § 31 des Fremdrentengesetzes bleibt unberührt.
+
+(1a) § 2 Satz 1 Buchstabe b des Fremdrentengesetzes gilt nicht für Versicherungs- und Beschäftigungszeiten, die in Estland, Lettland oder Litauen zurückgelegt wurden, wenn der Berechtigte bereits vor dem 1. Mai 2004 Ansprüche oder Anwartschaften nach dem Fremdrentengesetz erworben hat.
+
+(2) Besteht vor dem 1. Juli 1990 ein Anspruch auf Zahlung einer Rente, ist das Fremdrentengesetz in seiner bis zum 30. Juni 1990 geltenden Fassung weiter anzuwenden. Für Zeiten eines weiteren Rentenbezugs gilt Absatz 3 Satz 1 und 2 entsprechend, wenn die Rentenbezugszeiten unmittelbar aneinander anschließen.
+
+(3) Hat der Berechtigte bis zum 30. Juni 1990 einen gewöhnlichen Aufenthalt im Gebiet der Bundesrepublik Deutschland ohne das Beitrittsgebiet genommen, ohne in ein Herkunftsgebiet zurückgekehrt zu sein, und besteht ein Anspruch auf Zahlung einer Rente für einen Zeitraum vor dem 1. Januar 1996, frühestens jedoch vom 1. Juli 1990 an, ist das Fremdrentengesetz mit der Maßgabe anzuwenden, daß § 5 anstelle von § 22 Abs. 1 des Fremdrentengesetzes gilt. Dies gilt auch für Zeiten eines weiteren Rentenbezugs, wenn sich die Rentenbezugszeiten ununterbrochen aneinander anschließen. Besteht ein Anspruch auf Zahlung einer Rente erstmals für einen Zeitraum nach dem 31. Dezember 1995, ist das Fremdrentengesetz uneingeschränkt anzuwenden.
+
+(3a) Für Zeiten eines weiteren Rentenbezuges aufgrund einer neuen Rentenfeststellung nach dem 31. Dezember 1996 können Beschäftigungszeiten nach § 16 des Fremdrentengesetzes angerechnet werden, wenn sie nach Vollendung des 16. Lebensjahres zurückgelegt wurden und die Rentenbezugszeiten unmittelbar aneinander anschließen.
+
+(4) Hat der Berechtigte nach dem 30. Juni 1990 seinen gewöhnlichen Aufenthalt im Gebiet der Bundesrepublik Deutschland ohne das Beitrittsgebiet genommen und besteht ein Anspruch auf Zahlung einer Rente für einen Zeitraum vor dem 1. Januar 1992, ist das Fremdrentengesetz mit der Maßgabe anzuwenden, daß der Zahlbetrag der Rente, der sich nach § 22 Abs. 1 des Fremdrentengesetzes für Zeiten bis zum 31. Dezember 1991 ergibt, begrenzt wird auf den Betrag, der sich auf der Grundlage einer Berechnung der Rente nach § 5 ergeben würde. Der so ermittelte Rentenbetrag wird auch für Zeiten eines weiteren Rentenbezugs zugrunde gelegt, wenn sich die Rentenbezugszeiten ununterbrochen aneinander anschließen.
+
+(4a) Ist eine bereits vorher geleistete Rente neu festzustellen und sind dabei die persönlichen Entgeltpunkte neu zu ermitteln, sind die Vorschriften des Fremdrentengesetzes maßgebend, die bei erstmaliger Feststellung der Rente anzuwenden waren, soweit § 317 Abs. 2a des Sechsten Buches Sozialgesetzbuch nichts anderes bestimmt.
+
+(5) § 22 Abs. 3 des Fremdrentengesetzes in der bis zum 31. Dezember 1991 geltenden Fassung und § 22 Abs. 4 des Fremdrentengesetzes in der ab 1. Januar 1992 sowie in der vom 7. Mai 1996 an geltenden Fassung finden keine Anwendung auf Berechtigte, die nach Maßgabe des Abkommens vom 8. Dezember 1990 zwischen der Bundesrepublik Deutschland und der Republik Polen über Soziale Sicherheit Ansprüche und Anwartschaften auf der Grundlage des Abkommens vom 9. Oktober 1975 zwischen der Bundesrepublik Deutschland und der Volksrepublik Polen über Renten- und Unfallversicherung haben.
+
+(6) (weggefallen)
+
+(7) (weggefallen)
+
 # § 4a
 
 § 22a des Fremdrentengesetzes gilt nicht für Personen nach § 4 Abs. 5.

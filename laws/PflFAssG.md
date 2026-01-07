@@ -173,6 +173,8 @@ einschließlich der Beachtung der gesetzlichen Vorgaben zum Schutz personenbezog
 
 (4) Abweichungen durch Landesrecht von den Regelungen des Verwaltungsverfahrens in der auf Grundlage der Absätze 1 bis 3 erlassenen Rechtsverordnung sind ausgeschlossen. Abweichend von Satz 1 können die Länder Abweichungen von den durch Rechtsverordnung im Falle des § 81a des Aufenthaltsgesetzes erlassenen Fristenregelungen vorsehen.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 28.10.2025 I Nr. 259 +++)
+
 # § 48 – (zukünftig in Kraft)
 
 (+++ § 48: Tritt gem. Art. 14 Abs. 1 G v. 28.10.2025 I Nr. 259 am 01.01.2027 in Kraft +++)

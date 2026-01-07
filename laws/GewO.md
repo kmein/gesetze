@@ -809,7 +809,8 @@ Die Datenempfänger sowie die Verarbeitungszwecke, für die Abrufe zugelassen we
 
 (+++ § 14: Zur Nichtanwendung vgl. § 4 Abs. 1 Satz 2 +++)  
 (+++ § 14: Zur Anwendung vgl. § 158 in der bis zum 22.6.2022 geltenden Fassung +++)  
-(+++ § 14 Abs. 1 Satz 2 bis 4, Abs. 4 bis 12: Zur Geltung vgl. § 55c Satz 2 +++)
+(+++ § 14 Abs. 1 Satz 2 bis 4, Abs. 4 bis 12: Zur Geltung vgl. § 55c Satz 2 +++)  
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 354 +++)
 
 # § 15 – Empfangsbescheinigung, Betrieb ohne Zulassung
 

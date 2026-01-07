@@ -7684,9 +7684,9 @@ Die freiwillige Mitgliedschaft endet
 
 # § 193 – Fortbestehen der Mitgliedschaft bei Wehrdienst oder Zivildienst
 
-(1) Bei versicherungspflichtig Beschäftigten, denen nach § 1 Abs. 2 des Arbeitsplatzschutzgesetzes Entgelt weiterzugewähren ist, gilt das Beschäftigungsverhältnis als durch den Wehrdienst nach § 4 Abs. 1 und § 6b Abs. 1 des Wehrpflichtgesetzes nicht unterbrochen. Dies gilt auch für Personen in einem Wehrdienstverhältnis besonderer Art nach § 6 des Einsatz-Weiterverwendungsgesetzes, wenn sie den Einsatzunfall in einem Versicherungsverhältnis erlitten haben.
+(1) Bei versicherungspflichtig Beschäftigten, denen nach § 1 Abs. 2 des Arbeitsplatzschutzgesetzes Entgelt weiterzugewähren ist, gilt das Beschäftigungsverhältnis als durch den Wehrdienst nach § 4 Absatz 1 und § 6a Absatz 1 des Wehrpflichtgesetzes nicht unterbrochen. Dies gilt auch für Personen in einem Wehrdienstverhältnis besonderer Art nach § 6 des Einsatz-Weiterverwendungsgesetzes, wenn sie den Einsatzunfall in einem Versicherungsverhältnis erlitten haben.
 
-(2) Bei Versicherungspflichtigen, die nicht unter Absatz 1 fallen, sowie bei freiwilligen Mitgliedern berührt der Wehrdienst nach § 4 Abs. 1 und § 6b Abs. 1 des Wehrpflichtgesetzes eine bestehende Mitgliedschaft bei einer Krankenkasse nicht. Die versicherungspflichtige Mitgliedschaft gilt als fortbestehend, wenn die Versicherungspflicht am Tag vor dem Beginn des Wehrdienstes endet oder wenn zwischen dem letzten Tag der Mitgliedschaft und dem Beginn des Wehrdienstes ein Samstag, Sonntag oder gesetzlicher Feiertag liegt. Absatz 1 Satz 2 gilt entsprechend.
+(2) Bei Versicherungspflichtigen, die nicht unter Absatz 1 fallen, sowie bei freiwilligen Mitgliedern berührt der Wehrdienst nach § 4 Absatz 1 und § 6a Absatz 1 des Wehrpflichtgesetzes eine bestehende Mitgliedschaft bei einer Krankenkasse nicht. Die versicherungspflichtige Mitgliedschaft gilt als fortbestehend, wenn die Versicherungspflicht am Tag vor dem Beginn des Wehrdienstes endet oder wenn zwischen dem letzten Tag der Mitgliedschaft und dem Beginn des Wehrdienstes ein Samstag, Sonntag oder gesetzlicher Feiertag liegt. Absatz 1 Satz 2 gilt entsprechend.
 
 (3) Die Absätze 1 und 2 gelten für den Zivildienst entsprechend.
 
@@ -8050,7 +8050,7 @@ Die Agenturen für Arbeit oder in den Fällen des § 6a des Zweiten Buches die z
 
 # § 204 – Meldepflichten bei Einberufung zum Wehrdienst oder Zivildienst
 
-(1) Bei Einberufung zu einem Wehrdienst hat bei versicherungspflichtig Beschäftigten der Arbeitgeber und bei Arbeitslosen die Agentur für Arbeit den Beginn des Wehrdienstes sowie das Ende des Grundwehrdienstes und einer Wehrübung oder einer Dienstleistung oder Übung nach dem Vierten Abschnitt des Soldatengesetzes der zuständigen Krankenkasse unverzüglich zu melden. Das Ende eines Wehrdienstes nach § 4 Abs. 1 Nr. 6 des Wehrpflichtgesetzes hat das Bundesministerium der Verteidigung oder die von ihm bestimmte Stelle zu melden. Sonstige Versicherte haben die Meldungen nach Satz 1 selbst zu erstatten.
+(1) Bei Einberufung zu einem Wehrdienst hat bei versicherungspflichtig Beschäftigten der Arbeitgeber und bei Arbeitslosen die Agentur für Arbeit den Beginn des Wehrdienstes sowie das Ende des Grundwehrdienstes und einer Wehrübung oder einer Dienstleistung oder Übung nach dem Vierten Abschnitt des Soldatengesetzes der zuständigen Krankenkasse unverzüglich zu melden. Sonstige Versicherte haben die Meldungen nach Satz 1 selbst zu erstatten.
 
 (2) Absatz 1 gilt für den Zivildienst entsprechend. An die Stelle des Bundesministeriums der Verteidigung tritt das Bundesamt für den Zivildienst.
 

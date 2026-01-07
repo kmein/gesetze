@@ -23,6 +23,8 @@ Im Sinne dieses Gesetzes sind
 
 4. „Wirtschaftszweige“ solche nach der Untergliederung gemäß des Anhangs I der Verordnung (EG) Nr. 1893/2006 in Verbindung mit der vom Statistischen Bundesamt daraus erstellten Klassifikation der Wirtschaftszweige.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 354 +++)
+
 # § 3 – Erhebungseinheiten, Erhebungsbereiche
 
 (1) Erhebungseinheiten sind rechtliche Einheiten, bei denen es sich um Marktproduzenten handelt und bei denen die Zahl der Lohn- und Gehaltsempfänger und der Selbstständigen mindestens den Wert erreicht, der im Anhang der Durchführungsverordnung (EU) 2022/918 der Kommission vom 13. Juni 2022 zur Festlegung der technischen Spezifikationen der Datenanforderungen für das Thema „Globale Wertschöpfungsketten“ gemäß der Verordnung (EU) 2019/2152 des Europäischen Parlaments und des Rates (ABl. L 159 vom 14.6.2022, S. 43) in der jeweils geltenden Fassung aufgeführt ist. Die Zahl der Lohn- und Gehaltsempfänger und der Selbstständigen bezieht sich bei rechtlichen Einheiten, die zu einem Unternehmen gehören, das aus mehreren rechtlichen Einheiten besteht, auf das gesamte Unternehmen, ansonsten auf die rechtliche Einheit selbst.

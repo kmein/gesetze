@@ -31,13 +31,19 @@ Auf Grund des § 945b der Zivilprozessordnung, der durch Artikel 1 Nummer 27 des
 
 (4) Das elektronische Dokument, das die Schutzschrift enthält, muss mit einer qualifizierten elektronischen Signatur der verantwortenden Person versehen sein. Wird das elektronische Dokument auf einem sicheren Übermittlungsweg eingereicht, genügt es, wenn die Schutzschrift durch die verantwortende Person signiert wird.
 
-(5) Sichere Übermittlungswege sind
+(5) Sichere Übermittlungswege sind:
 
-1. der Postfach- und Versanddienst eines De-Mail-Kontos, wenn der Absender bei Versand der Nachricht sicher im Sinne des § 4 Absatz 1 Satz 2 des De-Mail-Gesetzes angemeldet ist und er sich die sichere Anmeldung gemäß § 5 Absatz 5 des De-Mail-Gesetzes bestätigen lässt,
+1. der Übermittlungsweg zwischen den besonderen elektronischen Anwaltspostfächern nach den §§ 31a und 31b der Bundesrechtsanwaltsordnung und dem Register,
 
-2. der Übermittlungsweg zwischen den besonderen elektronischen Anwaltspostfächern nach den §§ 31a und 31b der Bundesrechtsanwaltsordnung und dem Register,
+2. der Übermittlungsweg zwischen einem auf gesetzlicher Grundlage errichteten elektronischen Postfach, das dem Anwaltspostfach nach Nummer 1 entspricht, und dem Register,
 
-3. der Übermittlungsweg zwischen einem auf gesetzlicher Grundlage errichteten elektronischen Postfach, das dem Anwaltspostfach nach Nummer 2 entspricht, und dem Register.
+3. der Übermittlungsweg zwischen einem nach Durchführung eines Identifizierungsverfahrens eingerichteten Postfach einer Behörde oder einer juristischen Person des öffentlichen Rechts und dem Register,
+
+4. der Übermittlungsweg zwischen einem nach Durchführung eines Identifizierungsverfahrens eingerichteten elektronischen Postfach einer natürlichen oder juristischen Person oder einer sonstigen Vereinigung und dem Register,
+
+5. der Übermittlungsweg zwischen einem nach Durchführung eines Identifizierungsverfahrens genutzten Postfach- und Versanddienst eines Nutzerkontos im Sinne des § 2 Absatz 5 des Onlinezugangsgesetzes und dem Register,
+
+6. sonstige bundeseinheitliche Übermittlungswege, die durch Rechtsverordnung nach § 130a Absatz 4 Satz 1 Nummer 5 der Zivilprozessordnung festgelegt werden.
 
 (6) Ist ein elektronisches Dokument für das Register zur Bearbeitung nicht geeignet, hat der Betreiber des Registers dies dem Absender unter Hinweis auf die Unwirksamkeit des Eingangs und auf die geltenden technischen Rahmenbedingungen unverzüglich mitzuteilen.
 

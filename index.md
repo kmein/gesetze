@@ -4257,6 +4257,7 @@
 - [NOK-GefAbwV](laws/NOK-GefAbwV.md) Verordnung über die Gefahrenabwehr in den bundeseigenen Schleusenanlagen im Nord-Ostsee-Kanal
 - [NOK-LV](laws/NOK-LV.md) Verordnung über die Verwaltung und Ordnung der Seelotsreviere Nord-Ostsee-Kanal I und Nord-Ostsee-Kanal II/Kieler Förde/Trave/Flensburger Förde
 - [NOKBefAbgV](laws/NOKBefAbgV.md) Verordnung über die Befahrungsabgaben auf dem Nord-Ostsee-Kanal
+- [NOOTSNetzV](laws/NOOTSNetzV.md) Verordnung zur Bestimmung eines anderen Netzes des Bundes zum Datenaustausch über das nationale Once-only-technical-System im Anwendungsbereich des Onlinezugangsgesetzes
 - [NOOTSStVtrG](laws/NOOTSStVtrG.md) Gesetz zum Vertrag über die Errichtung, den Betrieb und die Weiterentwicklung des Nationalen Once-Only-Technical-Systems (NOOTS) – Vertrag zur Ausführung von Artikel 91c Absatz 1, Absatz 2 GG – NOOTS-Staatsvertrag
 - [NordBinSchHfV](laws/NordBinSchHfV.md) Verordnung über die Schutz- und Sicherheitshäfen der Bundesrepublik Deutschland an Binnenschiffahrtsstraßen im Bereich der Wasser- und Schiffahrtsdirektion Nord
 - [NordSBefV](laws/NordSBefV.md) Verordnung über das Befahren der Bundeswasserstraßen in Nationalparken im Bereich der Nordsee

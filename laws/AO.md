@@ -962,7 +962,7 @@ Bei Verschollenheit gilt für die Besteuerung der Tag als Todestag, mit dessen A
 
 20. die Förderung der Kriminalprävention;
 
-21. die Förderung des Sports (Schach gilt als Sport);
+21. die Förderung des Sports (Schach und E-Sport gelten als Sport);
 
 22. die Förderung der Heimatpflege, Heimatkunde und der Ortsverschönerung;
 
@@ -1014,7 +1014,7 @@ aller Haushaltsangehörigen. Zu berücksichtigen sind auch gezahlte und empfange
 
 4. Bei Auflösung oder Aufhebung der Körperschaft oder bei Wegfall ihres bisherigen Zwecks darf das Vermögen der Körperschaft, soweit es die eingezahlten Kapitalanteile der Mitglieder und den gemeinen Wert der von den Mitgliedern geleisteten Sacheinlagen übersteigt, nur für steuerbegünstigte Zwecke verwendet werden (Grundsatz der Vermögensbindung). Diese Voraussetzung ist auch erfüllt, wenn das Vermögen einer anderen steuerbegünstigten Körperschaft oder einer juristischen Person des öffentlichen Rechts für steuerbegünstigte Zwecke übertragen werden soll.
 
-5. Die Körperschaft muss ihre Mittel vorbehaltlich des § 62 grundsätzlich zeitnah für ihre steuerbegünstigten satzungsmäßigen Zwecke verwenden. Verwendung in diesem Sinne ist auch die Verwendung der Mittel für die Anschaffung oder Herstellung von Vermögensgegenständen, die satzungsmäßigen Zwecken dienen. Eine zeitnahe Mittelverwendung ist gegeben, wenn die Mittel spätestens in den auf den Zufluss folgenden zwei Kalender- oder Wirtschaftsjahren für die steuerbegünstigten satzungsmäßigen Zwecke verwendet werden. Satz 1 gilt nicht für Körperschaften mit jährlichen Einnahmen von nicht mehr als 45 000 Euro.
+5. Die Körperschaft muss ihre Mittel vorbehaltlich des § 62 grundsätzlich zeitnah für ihre steuerbegünstigten satzungsmäßigen Zwecke verwenden. Verwendung in diesem Sinne ist auch die Verwendung der Mittel für die Anschaffung oder Herstellung von Vermögensgegenständen, die satzungsmäßigen Zwecken dienen. Eine zeitnahe Mittelverwendung ist gegeben, wenn die Mittel spätestens in den auf den Zufluss folgenden zwei Kalender- oder Wirtschaftsjahren für die steuerbegünstigten satzungsmäßigen Zwecke verwendet werden. Satz 1 gilt nicht für Körperschaften mit jährlichen Einnahmen von nicht mehr als 100 000 Euro.
 
 (2) Bei der Ermittlung des gemeinen Werts (Absatz 1 Nummer 2 und 4) kommt es auf die Verhältnisse zu dem Zeitpunkt an, in dem die Sacheinlagen geleistet worden sind.
 
@@ -1059,7 +1059,9 @@ Die Steuervergünstigung wird nicht dadurch ausgeschlossen, dass
 
 9. eine von einer Gebietskörperschaft errichtete Stiftung zur Erfüllung ihrer steuerbegünstigten Zwecke Zuschüsse an Wirtschaftsunternehmen vergibt,
 
-10. eine Körperschaft Mittel zum Erwerb von Gesellschaftsrechten zur Erhaltung der prozentualen Beteiligung an Kapitalgesellschaften im Jahr des Zuflusses verwendet. Dieser Erwerb mindert die Höhe der Rücklage nach § 62 Absatz 1 Nummer 3.
+10. eine Körperschaft Mittel zum Erwerb von Gesellschaftsrechten zur Erhaltung der prozentualen Beteiligung an Kapitalgesellschaften im Jahr des Zuflusses verwendet. Dieser Erwerb mindert die Höhe der Rücklage nach § 62 Absatz 1 Nummer 3,
+
+11. eine Körperschaft Mittel für die Errichtung und den Betrieb von Photovoltaikanlagen und anderen Anlagen nach dem Erneuerbare-Energien-Gesetz verwendet, soweit es sich dabei nicht um den Hauptzweck der Körperschaft handelt.
 
 (+++ § 58: Zur erstmaligen Anwendung ab 1.1.2007 vgl. Art. 97 § 1d AOEG 1977 +++)  
 (+++ § 58 Nr. 1: Anzuwenden ab 1.1.2001 gem. Art. 97 § 1a Abs. 1 u. § 1d Abs. 3 AOEG 1977 +++)  
@@ -1211,7 +1213,7 @@ Die Frist ist taggenau zu berechnen.
 
 (2) Unterhält die Körperschaft mehrere wirtschaftliche Geschäftsbetriebe, die keine Zweckbetriebe (§§ 65 bis 68) sind, werden diese als ein wirtschaftlicher Geschäftsbetrieb behandelt.
 
-(3) Übersteigen die Einnahmen einschließlich Umsatzsteuer aus wirtschaftlichen Geschäftsbetrieben, die keine Zweckbetriebe sind, insgesamt nicht 45 000 Euro im Jahr, so unterliegen die diesen Geschäftsbetrieben zuzuordnenden Besteuerungsgrundlagen nicht der Körperschaftsteuer und der Gewerbesteuer.
+(3) Übersteigen die Einnahmen einschließlich Umsatzsteuer aus wirtschaftlichen Geschäftsbetrieben, die keine Zweckbetriebe sind, insgesamt nicht 50 000 Euro im Jahr, so unterliegen die diesen Geschäftsbetrieben zuzuordnenden Besteuerungsgrundlagen nicht der Körperschaftsteuer und der Gewerbesteuer. Falls die Einnahmen aus sämtlichen wirtschaftlichen Geschäftsbetrieben (§ 14) die Grenze nach Satz 1 nicht überschreiten und insgesamt ein Gewinn erzielt wird, ist damit eine Prüfung, ob die Voraussetzungen der §§ 65 bis 68 vorliegen, nicht mehr erforderlich.
 
 (4) Die Aufteilung einer Körperschaft in mehrere selbständige Körperschaften zum Zweck der mehrfachen Inanspruchnahme der Steuervergünstigung nach Absatz 3 gilt als Missbrauch von rechtlichen Gestaltungsmöglichkeiten im Sinne des § 42.
 
@@ -1256,7 +1258,7 @@ Ein Zweckbetrieb ist gegeben, wenn
 
 # § 67a – Sportliche Veranstaltungen
 
-(1) Sportliche Veranstaltungen eines Sportvereins sind ein Zweckbetrieb, wenn die Einnahmen einschließlich Umsatzsteuer insgesamt 45 000 Euro im Jahr nicht übersteigen. Der Verkauf von Speisen und Getränken sowie die Werbung gehören nicht zu den sportlichen Veranstaltungen.
+(1) Sportliche Veranstaltungen eines Sportvereins sind ein Zweckbetrieb, wenn die Einnahmen einschließlich Umsatzsteuer insgesamt 50 000 Euro im Jahr nicht übersteigen. Der Verkauf von Speisen und Getränken sowie die Werbung gehören nicht zu den sportlichen Veranstaltungen.
 
 (2) Der Sportverein kann dem Finanzamt bis zur Unanfechtbarkeit des Körperschaftsteuerbescheids erklären, dass er auf die Anwendung des Absatzes 1 Satz 1 verzichtet. Die Erklärung bindet den Sportverein für mindestens fünf Veranlagungszeiträume.
 
@@ -1862,6 +1864,8 @@ Hat ein Steuerpflichtiger Aufzeichnungen im Sinne des Satzes 1 für ein Unterneh
 4. die Finanzbehörde eine Allgemeinverfügung oder gleichartige Verwaltungsakte in größerer Zahl oder Verwaltungsakte mit Hilfe automatischer Einrichtungen erlassen will,
 
 5. Maßnahmen in der Vollstreckung getroffen werden sollen.
+
+(2a) Von der Anhörung soll abgesehen werden, wenn die Finanzbehörde bei Erlass eines Verwaltungsakts anstelle der in der Steuererklärung angegebenen Daten die auf Grund gesetzlicher Vorschriften von einer mitteilungspflichtigen Stelle (§ 93c Absatz 1) elektronisch übermittelten und dem Steuerpflichtigen gemäß § 93c Absatz 1 Nummer 3 mitzuteilenden Daten verwendet; auf die Abweichung von den erklärten Daten ist im Verwaltungsakt hinzuweisen. § 150 Absatz 7 Satz 1 bleibt unberührt.
 
 (3) Eine Anhörung unterbleibt, wenn ihr ein zwingendes öffentliches Interesse entgegensteht.
 

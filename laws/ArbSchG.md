@@ -355,6 +355,8 @@ unterrichten sie die für die Verfolgung und Ahndung zuständigen Behörden, die
 
 (5) Bei der Bundesanstalt für Arbeitsschutz und Arbeitsmedizin wird eine Bundesfachstelle für Sicherheit und Gesundheit bei der Arbeit eingerichtet. Sie hat die Aufgabe, die Jahresberichte der Länder einschließlich der Besichtigungsquote nach § 21 Absatz 1a auszuwerten und die Ergebnisse für den statistischen Bericht über den Stand von Sicherheit und Gesundheit bei der Arbeit und über das Unfall- und Berufskrankheitengeschehen in der Bundesrepublik Deutschland nach § 25 Absatz 1 des Siebten Buches Sozialgesetzbuch zusammenzufassen. Das Bundesministerium für Arbeit und Soziales kann die Arbeitsweise und das Verfahren der Bundesfachstelle für Sicherheit und Gesundheit bei der Arbeit im Errichtungserlass der Bundesanstalt für Arbeitsschutz und Arbeitsmedizin festlegen.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 369 +++)
+
 # § 24 – Ermächtigung zum Erlaß von allgemeinen Verwaltungsvorschriften
 
 Die Bundesregierung kann mit Zustimmung des Bundesrates allgemeine Verwaltungsvorschriften erlassen insbesondere

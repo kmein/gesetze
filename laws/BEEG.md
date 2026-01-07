@@ -117,7 +117,7 @@ wird das Elterngeld um 10 Prozent, mindestens jedoch um 75 Euro erhöht (Geschwi
 
 3. eine Krankheit hatte, die maßgeblich durch eine Schwangerschaft bedingt war, oder
 
-4. Wehrdienst nach dem Wehrpflichtgesetz in der bis zum 31. Mai 2011 geltenden Fassung oder nach dem Vierten Abschnitt des Soldatengesetzes oder Zivildienst nach dem Zivildienstgesetz geleistet hat.
+4. Wehrdienst nach dem Wehrpflichtgesetz oder nach dem Vierten Abschnitt des Soldatengesetzes oder Zivildienst nach dem Zivildienstgesetz geleistet hat.
 
 Abweichend von Satz 2 sind Kalendermonate im Sinne des Satzes 2 Nummer 1 bis 4 auf Antrag der berechtigten Person zu berücksichtigen. Abweichend von Satz 2 bleiben auf Antrag bei der Ermittlung des Einkommens für die Zeit vom 1. März 2020 bis zum Ablauf des 23. September 2022 auch solche Kalendermonate unberücksichtigt, in denen die berechtigte Person aufgrund der COVID-19-Pandemie ein geringeres Einkommen aus Erwerbstätigkeit hatte und dies glaubhaft machen kann. Satz 2 Nummer 1 gilt in den Fällen des § 27 Absatz 1 Satz 1 mit der Maßgabe, dass auf Antrag auch Kalendermonate mit Elterngeldbezug für ein älteres Kind nach Vollendung von dessen 14. Lebensmonat unberücksichtigt bleiben, soweit der Elterngeldbezug von der Zeit vor Vollendung des 14. Lebensmonats auf danach verschoben wurde.
 
@@ -180,6 +180,20 @@ wobei die Höhe der Teilbeträge ohne Berücksichtigung der besonderen Regelunge
 (6) Vorbehaltlich der Absätze 2 bis 5 werden Freibeträge und Pauschalen nur berücksichtigt, wenn sie ohne weitere Voraussetzung jeder berechtigten Person zustehen.
 
 (7) Abzüge für Steuern nach Absatz 1 Satz 1 sind nicht zu berücksichtigen, wenn dem Ansässigkeitsstaat der berechtigten Person nach einem Abkommen zur Vermeidung der Doppelbesteuerung das Besteuerungsrecht für das Elterngeld zusteht und wenn das aus Deutschland gezahlte Elterngeld nach den maßgebenden Vorschriften des Ansässigkeitsstaats der Steuer unterliegt. Unterliegt das Elterngeld im Ansässigkeitsstaat nach dessen maßgebenden Vorschriften nicht der Steuer, so sind die Abzüge für Steuern nach den Absätzen 1 bis 6 entsprechend zu berücksichtigen.
+
+# § 2f – Abzüge für Sozialabgaben
+
+(1) Als Abzüge für Sozialabgaben sind Beträge für die gesetzliche Sozialversicherung oder für eine vergleichbare Einrichtung sowie für die Arbeitsförderung zu berücksichtigen. Die Abzüge für Sozialabgaben werden einheitlich für Einkommen aus nichtselbstständiger und selbstständiger Erwerbstätigkeit anhand folgender Beitragssatzpauschalen ermittelt:
+
+1. 9 Prozent für die Kranken- und Pflegeversicherung, falls die berechtigte Person in der gesetzlichen Krankenversicherung nach § 5 Absatz 1 Nummer 1 bis 12 des Fünften Buches Sozialgesetzbuch versicherungspflichtig gewesen ist,
+
+2. 10 Prozent für die Rentenversicherung, falls die berechtigte Person in der gesetzlichen Rentenversicherung oder einer vergleichbaren Einrichtung versicherungspflichtig gewesen ist, und
+
+3. 2 Prozent für die Arbeitsförderung, falls die berechtigte Person nach dem Dritten Buch Sozialgesetzbuch versicherungspflichtig gewesen ist.
+
+(2) Bemessungsgrundlage für die Ermittlung der Abzüge für Sozialabgaben ist die monatlich durchschnittlich zu berücksichtigende Summe der Einnahmen nach § 2c und der Gewinneinkünfte nach § 2d. Einnahmen aus Beschäftigungen im Sinne des § 8, des § 8a oder des § 20 Absatz 3 Satz 1 des Vierten Buches Sozialgesetzbuch werden nicht berücksichtigt. Für Einnahmen aus Beschäftigungsverhältnissen im Sinne des § 20 Absatz 2 des Vierten Buches Sozialgesetzbuch ist der Betrag anzusetzen, der sich nach § 344 Absatz 4 des Dritten Buches Sozialgesetzbuch für diese Einnahmen ergibt, wobei der Faktor im Sinne des § 20 Absatz 2a Satz 2 des Vierten Buches Sozialgesetzbuch unter Zugrundelegung der Beitragssatzpauschalen nach Absatz 1 bestimmt wird.
+
+(3) Andere Maßgaben zur Bestimmung der sozialversicherungsrechtlichen Beitragsbemessungsgrundlagen werden nicht berücksichtigt.
 
 # § 3 – Anrechnung von anderen Einnahmen
 

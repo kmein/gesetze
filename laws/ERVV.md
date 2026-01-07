@@ -201,7 +201,7 @@ Eine nach Satz 2 Nummer 5 angegebene geschäftliche Anschrift ist durch eine Bes
 
 1. eine technische Vorrichtung besteht, die auf dem Protokollstandard OSCI oder einem diesen ersetzenden, dem jeweiligen Stand der Technik entsprechenden Protokollstandard beruht,
 
-2. die Identität des Nutzers des Postfach- und Versanddienstes durch ein Identifizierungsmittel nach § 11 Absatz 2 Satz 2 Nummer 1 oder 2 oder für Nutzer des Organisationskontos im Sinne des § 2 Absatz 5 Satz 4 des Onlinezugangsgesetzes durch ein nach § 87a Absatz 6 der Abgabenordnung in der Steuerverwaltung eingesetztes sicheres Verfahren festgestellt ist,
+2. die Identität des Nutzers des Postfach- und Versanddienstes durch ein Identifizierungsmittel nach § 11 Absatz 2 Satz 2 Nummer 1 oder 2 oder durch ein nach § 87a Absatz 6 der Abgabenordnung in der Steuerverwaltung eingesetztes sicheres Verfahren festgestellt ist,
 
 3. der Nutzer des Postfach- und Versanddienstes sich beim Versand eines elektronischen Dokuments entsprechend § 11 Absatz 3 authentisiert und
 

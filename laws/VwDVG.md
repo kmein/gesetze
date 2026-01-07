@@ -95,6 +95,8 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht übermittelt dem Statistisc
 
 Die in § 309 Absatz 1 Satz 1 des Versicherungsaufsichtsgesetzes genannten Personen sind insoweit von ihrer Verschwiegenheitspflicht befreit. Das Statistische Bundesamt übermittelt die Daten an die statistischen Ämter der Länder jeweils für deren Zuständigkeitsbereich. Im Übrigen gilt für die nach dieser Vorschrift erhaltenen Informationen die Verschwiegenheitspflicht gemäß § 309 Absatz 1 Satz 1 des Versicherungsaufsichtsgesetzes für die bei dem Statistischen Bundesamt und den statistischen Ämtern der Länder beschäftigten Personen entsprechend.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 354 +++)
+
 # § 3b – Daten der Deutschen Bundesbank
 
 Die Deutsche Bundesbank übermittelt dem Statistischen Bundesamt jährlich folgende Daten der zu den Wirtschaftsgruppen 64.1 – Zentralbanken und Kreditinstitute, 64.9 – Sonstige Finanzierungsinstitutionen, 66.1 – Mit Finanzdienstleistungen verbundene Tätigkeiten und 66.3 – Fondsmanagement gehörenden rechtlichen Einheiten nach Anhang I der Verordnung (EG) Nr. 1893/2006 in Verbindung mit der vom Statistischen Bundesamt daraus erstellten Klassifikation der Wirtschaftszweige, soweit sie der Deutschen Bundesbank vorliegen:
@@ -112,6 +114,8 @@ Die Deutsche Bundesbank übermittelt dem Statistischen Bundesamt jährlich folge
 6. die Daten zur Bilanz und Gewinn- und Verlustrechnung sowie die erfassten Daten des Personalbestands.
 
 Die in § 9 Absatz 1 Satz 1 des Kreditwesengesetzes genannten Personen sind insoweit von ihrer Verschwiegenheitspflicht befreit. Das Statistische Bundesamt übermittelt die Daten an die statistischen Ämter der Länder jeweils für deren Zuständigkeitsbereich. Im Übrigen gilt für die nach dieser Vorschrift erhaltenen Informationen die Verschwiegenheitspflicht gemäß § 9 Absatz 1 Satz 1 des Kreditwesengesetzes für die bei dem Statistischen Bundesamt und den statistischen Ämtern der Länder beschäftigten Personen entsprechend.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 354 +++)
 
 # § 3c – Daten über bewilligte staatliche finanzwirksame Hilfen
 

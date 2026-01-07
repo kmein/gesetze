@@ -19,6 +19,8 @@
 
 (4) Das Statistische Bundesamt übermittelt den statistischen Ämtern der Länder die Einzeldatensätze für ihr Land für Sonderaufbereitungen auf regionaler Ebene.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 354 +++)
+
 # § 2 – (weggefallen)
 
 # § 3

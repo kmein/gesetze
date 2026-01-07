@@ -43,7 +43,9 @@ beschäftigt, eine Einsatzplanung vorzulegen.
 
 3. den Ort der Beschäftigung, wobei die Angaben die Ortsbezeichnung, die Postleitzahl und, soweit vorhanden, den Straßennamen sowie die Hausnummer enthalten müssen und der Einsatz der Arbeitnehmerinnen und Arbeitnehmer am Beschäftigungsort durch die Angabe von Datum und Uhrzeiten zu konkretisieren ist,
 
-4. den Ort im Inland, an dem die nach § 17 Absatz 2 des Mindestlohngesetztes und § 19 Absatz 2 des Arbeitnehmer-Entsendegesetzes erforderlichen Unterlagen bereitgehalten werden,
+4. den Ort im Inland, an dem die nach § 17 Absatz 2 des
+
+Mindestlohngesetzes und § 19 Absatz 2 des Arbeitnehmer-Entsendegesetzes erforderlichen Unterlagen bereitgehalten werden,
 
 5. den Familiennamen, den Vornamen, und die Anschrift in Deutschland einer oder eines Zustellungsbevollmächtigten,
 
@@ -61,7 +63,9 @@ Die Einsatzplanung kann einen Zeitraum von bis zu drei Monaten umfassen.
 
 2. den Beginn und das voraussichtliche Ende der Werk- oder Dienstleistung,
 
-3. den Ort im Inland, an dem die nach § 17 Absatz 2 des Mindestlohngesetztes und § 19 Absatz 2 des Arbeitnehmer-Entsendegesetzes erforderlichen Unterlagen bereitgehalten werden,
+3. den Ort im Inland, an dem die nach § 17 Absatz 2 des
+
+Mindestlohngesetzes und § 19 Absatz 2 des Arbeitnehmer-Entsendegesetzes erforderlichen Unterlagen bereitgehalten werden,
 
 4. die Branche, in die die Arbeitnehmerinnen und Arbeitnehmer entsandt werden sollen,
 
@@ -75,7 +79,8 @@ Die Einsatzplanung kann je nach Auftragssicherheit einen Zeitraum von bis zu sec
 
 (5) Bei einer ausschließlich mobilen Tätigkeit im Sinne des Absatzes 1 Nummer 3 handelt es sich um eine Tätigkeit, die nicht an Beschäftigungsorte gebunden ist. Eine ausschließlich mobile Tätigkeit liegt insbesondere bei der Zustellung von Briefen, Paketen und Druckerzeugnissen, der Abfallsammlung, der Straßenreinigung, dem Winterdienst, dem Gütertransport und der Personenbeförderung vor. Das Erbringen ambulanter Pflegeleistungen wird einer ausschließlich mobilen Tätigkeit gleichgestellt. Abweichend von Satz 2 gelten die Beförderung von Gütern oder Personen im Straßenverkehrssektor für Arbeitgeber mit Sitz in einem anderen Mitgliedstaat der Europäischen Union oder des Europäischen Wirtschaftsraums, die eine Entsendung im Sinne des Abschnitts 9 Unterabschnitt 2 des Arbeitnehmer-Entsendegesetzes darstellen, nicht als ausschließlich mobile Tätigkeit im Sinne des Absatzes 1 Nummer 3.
 
-(+++ Die Regelung zum gespaltenen Inkrafttreten der Änderungsanweisung aus Art. 19 Abs. 6 in Art. 23 Abs. 3 G v. 22.12.2025 I Nr. 369 ist wegen textlicher Unstimmigkeit nicht ausführbar +++)
+(+++ Die Regelung zum gespaltenen Inkrafttreten der Änderungsanweisung aus Art. 19 Abs. 6 in Art. 23 Abs. 3 G v. 22.12.2025 I Nr. 369 ist wegen textlicher Unstimmigkeit nicht ausführbar +++)  
+§ 2 Abs. 2 Nr. 4 u. Abs. 3 Satz 1 Nr. 3 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde jeweils das Wort "Mindestlohngesetztes" durch das Wort "Mindestlohngesetzes" ersetzt
 
 # § 3 – Änderungsmeldung
 

@@ -1616,836 +1616,844 @@ Ausländerinnen und Ausländern</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Meldepflicht bei Wechsel der Zuständigkeit</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 310a</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Meldepflicht für sonstige Personen</td>
 </tr>
 <tr class="odd">
-<td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Zweiter Unterabschnitt</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="even">
-<td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Anzeige-, Nachweis- und Bescheinigungspflichten</td>
+<td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Zweiter Unterabschnitt</td>
 </tr>
 <tr class="odd">
+<td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Anzeige-, Nachweis- und Bescheinigungspflichten</td>
+</tr>
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 311</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anzeige- und Nachweispflichten bei Arbeitsunfähigkeit und stationärer Behandlung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 312</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Arbeitsbescheinigung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 312a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Arbeitsbescheinigung für Zwecke des über- und zwischenstaatlichen Rechts</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 313</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Nebeneinkommensbescheinigung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 313a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Bescheinigungsverfahren</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 314</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Insolvenzgeldbescheinigung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Dritter Unterabschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Auskunfts-, Mitwirkungs- und Duldungspflichten</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 315</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Allgemeine Auskunftspflicht Dritter</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 316</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Auskunftspflicht bei Leistung von Insolvenzgeld</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 317</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Auskunftspflicht bei Kurzarbeitergeld und Wintergeld</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 318</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Auskunftspflicht bei Maßnahmen der beruflichen Aus- oder Weiterbildung, Leistungen zur Teilhabe am Arbeitsleben, zur Aktivierung und beruflichen Eingliederung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 319</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Mitwirkungs- und Duldungspflichten</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Vierter Unterabschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Sonstige Pflichten</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 320</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Berechnungs-, Auszahlungs-, Aufzeichnungs- und Anzeigepflichten</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Zweiter Abschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Schadensersatz bei Pflichtverletzungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 321</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Schadensersatz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Dritter Abschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Verordnungsermächtigung und Anordnungsermächtigung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 321a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verordnungsermächtigung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 322</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anordnungsermächtigung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Neuntes Kapitel</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Gemeinsame Vorschriften für Leistungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Erster Abschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Antrag und Fristen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 323</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Antragserfordernis</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 324</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Antrag vor Leistung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 325</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Wirkung des Antrages</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 326</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ausschlußfrist für Gesamtabrechnung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Zweiter Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Zuständigkeit</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 327</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Grundsatz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Dritter Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Leistungsverfahren in Sonderfällen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 328</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vorläufige Entscheidung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 329</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Einkommensberechnung in besonderen Fällen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 330</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Sonderregelungen für die Aufhebung von Verwaltungsakten</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 331</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vorläufige Zahlungseinstellung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 332</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übergang von Ansprüchen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 333</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Aufrechnung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 334</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Pfändung von Leistungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 335</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Erstattung von Beiträgen zur Kranken-, Renten- und Pflegeversicherung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 336</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 336a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Wirkung von Widerspruch und Klage</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Vierter Abschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Auszahlung von Geldleistungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 337</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Auszahlung im Regelfall</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Fünfter Abschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Berechnungsgrundsätze</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 338</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Allgemeine Berechnungsgrundsätze</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 339</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Berechnung von Zeiten</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Zehntes Kapitel</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Finanzierung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Erster Abschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Finanzierungsgrundsatz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 340</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Aufbringung der Mittel</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Zweiter Abschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Beiträge und Verfahren</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Erster Unterabschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Beiträge</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 341</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beitragssatz und Beitragsbemessung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 342</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beitragspflichtige Einnahmen Beschäftigter</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 343</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 344</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Sonderregelungen für beitragspflichtige Einnahmen Beschäftigter</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 345</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beitragspflichtige Einnahmen sonstiger Versicherungspflichtiger</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 345a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Pauschalierung der Beiträge</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 345b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beitragspflichtige Einnahmen bei einem Versicherungspflichtverhältnis auf Antrag</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Zweiter Unterabschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Verfahren</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 346</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beitragstragung bei Beschäftigten</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 347</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beitragstragung bei sonstigen Versicherten</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 348</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beitragszahlung für Beschäftigte</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 349</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beitragszahlung für sonstige Versicherungspflichtige</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 349a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beitragstragung und Beitragszahlung bei einem Versicherungspflichtverhältnis auf Antrag</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 350</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Meldungen der Sozialversicherungsträger</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 351</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beitragserstattung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Dritter Unterabschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Verordnungsermächtigung, Anordnungsermächtigung und Ermächtigung zum Erlass von Verwaltungsvorschriften</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 352</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verordnungsermächtigung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 352a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anordnungsermächtigung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 353</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ermächtigung zum Erlaß von Verwaltungsvorschriften</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Dritter Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Umlagen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Erster Unterabschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Winterbeschäftigungs-Umlage</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 354</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Grundsatz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 355</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Höhe der Umlage</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 356</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Umlageabführung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 357</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verordnungsermächtigung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Zweiter Unterabschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Umlage für das Insolvenzgeld</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 358</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Aufbringung der Mittel</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 359</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Einzug und Weiterleitung der Umlage</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 360</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Umlagesatz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 361</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verordnungsermächtigung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 362</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Vierter Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Beteiligung des Bundes</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 363</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Finanzierung aus Bundesmitteln</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 364</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Liquiditätshilfen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 365</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Stundung von Darlehen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Fünfter Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Rücklage und Versorgungsfonds</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 366</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Bildung und Anlage der Rücklage</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 366a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Versorgungsfonds</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Elftes Kapitel</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Organisation und Datenschutz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Erster Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Bundesagentur für Arbeit</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 367</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Bundesagentur für Arbeit</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 368</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Aufgaben der Bundesagentur</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 368a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 369</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Besonderheiten zum Gerichtsstand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 370</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beteiligung an Gesellschaften</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Zweiter Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Selbstverwaltung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Erster Unterabschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Verfassung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 371</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Selbstverwaltungsorgane</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 372</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Satzung und Anordnungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 373</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verwaltungsrat</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 374</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verwaltungsausschüsse</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 374a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 375</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Amtsdauer</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 376</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Entschädigung der ehrenamtlich Tätigen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Zweiter Unterabschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Berufung und Abberufung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 377</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Berufung und Abberufung der Mitglieder</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 378</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Berufungsfähigkeit</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 379</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vorschlagsberechtigte Stellen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Dritter Unterabschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Neutralitätsausschuss</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 380</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Neutralitätsausschuss</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Dritter Abschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Vorstand und Verwaltung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 381</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vorstand der Bundesagentur</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 382</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Rechtsstellung der Vorstandsmitglieder</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 383</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Geschäftsführung der Agenturen für Arbeit</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 384</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Geschäftsführung der Regionaldirektionen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 385</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beauftragte für Chancengleichheit am Arbeitsmarkt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 386</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Innenrevision</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 387</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Personal der Bundesagentur</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 388</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ernennung der Beamtinnen und Beamten</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 389</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anstellungsverhältnisse oberster Führungskräfte</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 390</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Außertarifliche Arbeitsbedingungen und Vergütungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 391</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 392</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Obergrenzen für Beförderungsämter</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Vierter Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Aufsicht</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 393</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Aufsicht</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Fünfter Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Datenschutz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 394</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verarbeitung von Sozialdaten durch die Bundesagentur</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 395</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Datenübermittlung an Dritte; Verarbeitung von Sozialdaten durch nichtöffentliche Stellen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 396</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Kennzeichnungs- und Maßregelungsverbot</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 397</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Automatisierter Datenabgleich</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 398</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Datenübermittlung durch beauftragte Dritte</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§§ 399 bis 403</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Zwölftes Kapitel</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Bußgeldvorschriften</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Erster Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Bußgeldvorschriften</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 404</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Bußgeldvorschriften</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 405</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zuständigkeit, Vollstreckung und Unterrichtung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Zweiter Abschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 406</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 407</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Dreizehntes Kapitel</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Sonderregelungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Erster Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 408</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§§ 409 bis 416a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Zweiter Abschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Ergänzungen für<br />
 übergangsweise mögliche<br />
 Leistungen und zeitweilige Aufgaben</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 417</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Sonderregelung zum Bundesprogramm „Ausbildungsplätze sichern“</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 418</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Tragung der Beiträge zur Arbeitsförderung bei Beschäftigung älterer Arbeitnehmerinnen und Arbeitnehmer</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 419</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 420</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Versicherungsfreiheit von Teilnehmerinnen und Teilnehmern des Programms Soziale Teilhabe am Arbeitsmarkt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 421</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Förderung der Teilnahme an Sprachkursen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 421a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Arbeiten in Maßnahmen des Arbeitsmarktprogramms Flüchtlingsintegrationsmaßnahmen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 421b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Erprobung einer zentralen Servicestelle für anerkennungssuchende Fachkräfte im Ausland</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 421c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vorübergehende Sonderregelung im Zusammenhang mit Kurzarbeit</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 421d</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vorübergehende Sonderregelungen zum Arbeitslosengeld</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 421e</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vorübergehende Sonderregelungen im Zusammenhang mit dem Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 421f</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übermittlung von Daten zum Bezug von Kurzarbeitergeld</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 421g</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Vorübergehende Sonderregelung für anerkennungssuchende Fachkräfte im Inland</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
@@ -3259,7 +3267,7 @@ Die besonderen Bedürfnisse behinderter und schwerbehinderter Menschen sollen an
 
 # § 38 – Rechte und Pflichten der Ausbildung- und Arbeitsuchenden
 
-(1) Personen, deren Ausbildungs- oder Arbeitsverhältnis endet, sind verpflichtet, sich spätestens drei Monate vor dessen Beendigung bei der Agentur für Arbeit unter Angabe der persönlichen Daten und des Beendigungszeitpunktes des Ausbildungs- oder Arbeitsverhältnisses arbeitsuchend zu melden. Liegen zwischen der Kenntnis des Beendigungszeitpunktes und der Beendigung des Ausbildungs- oder Arbeitsverhältnisses weniger als drei Monate, haben sie sich innerhalb von drei Tagen nach Kenntnis des Beendigungszeitpunktes zu melden. Die Pflicht zur Meldung besteht unabhängig davon, ob der Fortbestand des Ausbildungs- oder Arbeitsverhältnisses gerichtlich geltend gemacht oder vom Arbeitgeber in Aussicht gestellt wird. Die Pflicht zur Meldung gilt nicht bei einem betrieblichen Ausbildungsverhältnis. Im Übrigen gelten für Ausbildung- und Arbeitsuchende die Meldepflichten im Leistungsverfahren nach den §§ 309 und 310 entsprechend.
+(1) Personen, deren Ausbildungs- oder Arbeitsverhältnis endet, sind verpflichtet, sich spätestens drei Monate vor dessen Beendigung bei der Agentur für Arbeit unter Angabe der persönlichen Daten und des Beendigungszeitpunktes des Ausbildungs- oder Arbeitsverhältnisses arbeitsuchend zu melden. Liegen zwischen der Kenntnis des Beendigungszeitpunktes und der Beendigung des Ausbildungs- oder Arbeitsverhältnisses weniger als drei Monate, haben sie sich innerhalb von drei Tagen nach Kenntnis des Beendigungszeitpunktes zu melden. Die Pflicht zur Meldung besteht unabhängig davon, ob der Fortbestand des Ausbildungs- oder Arbeitsverhältnisses gerichtlich geltend gemacht oder vom Arbeitgeber in Aussicht gestellt wird. Die Pflicht zur Meldung gilt nicht bei einem betrieblichen Ausbildungsverhältnis.
 
 (1a) Die zuständige Agentur für Arbeit soll mit der nach Absatz 1 arbeitsuchend gemeldeten Person unverzüglich nach der Arbeitsuchendmeldung ein erstes Beratungs- und Vermittlungsgespräch führen, das persönlich oder bei Einvernehmen zwischen Agentur für Arbeit und der arbeitsuchenden Person auch per Videotelefonie erfolgen kann.
 
@@ -6021,6 +6029,10 @@ erfolgen.
 
 Wird für die Arbeitslose oder den Arbeitslosen nach der Arbeitslosmeldung eine andere Agentur für Arbeit zuständig, hat sie oder er sich bei der nunmehr zuständigen Agentur für Arbeit unverzüglich zu melden.
 
+# § 310a – Meldepflicht für sonstige Personen
+
+Für Ratsuchende, Ausbildung- und Arbeitsuchende sowie für Arbeitslose, die keinen Anspruch auf Arbeitslosengeld erheben, gilt § 309 entsprechend. Satz 1 gilt auch, wenn die Agentur für Arbeit Leistungen nach dem Dritten Kapitel für erwerbsfähige Leistungsberechtigte nach dem Zweiten Buch erbringen darf.
+
 # § 311 – Anzeige- und Nachweispflichten bei Arbeitsunfähigkeit und stationärer Behandlung
 
 (1) Wer Anspruch auf Arbeitslosengeld erhebt, ist verpflichtet,
@@ -6750,6 +6762,10 @@ wird ein Sondervermögen der Bundesagentur unter dem Namen „Versorgungsfonds d
 
 (2a) Um die örtliche rechtskreisübergreifende Zusammenarbeit zur Integration junger Menschen in den Ausbildungs- und Arbeitsmarkt zu unterstützen, entwickelt und betreibt die Bundesagentur ein IT-System, welches den im jeweiligen Einzelfall beteiligten Leistungsträgern zur Verfügung gestellt werden kann, soweit dies für die Zusammenarbeit erforderlich ist.
 
+(2b) Um die Transparenz auf dem Arbeitsmarkt zu erhöhen und die Weiterbildungsbeteiligung von Arbeitnehmerinnen und Arbeitnehmern zu steigern, prüft die Bundesagentur den Aufbau und Betrieb eines Weiterbildungsportals. Abhängig von den Ergebnissen der Prüfung kann sie ein Weiterbildungsportal probeweise entwickeln und betreiben. Der Bund kann sich an den Kosten der Entwicklung des Weiterbildungsportals einschließlich der Prüfung nach Satz 1 beteiligen.
+
+(2c) Um die örtliche rechtskreisübergreifende Zusammenarbeit zwischen den Agenturen für Arbeit und den zugelassenen kommunalen Trägern bei der Förderung der beruflichen Weiterbildung nach dem Vierten Abschnitt des Dritten Kapitels und der Teilhabe von Menschen mit Behinderungen am Arbeitsleben nach dem Siebten Abschnitt des Dritten Kapitels zu unterstützen, entwickelt und betreibt die Bundesagentur ein IT-System, das an eine Schnittstelle angebunden wird, die auch den zugelassenen kommunalen Trägern die Anbindung ihrer IT-Systeme ermöglicht. Die Bundesagentur kann eine vorhandene Schnittstelle nutzen oder eine neue Schnittstelle entwickeln, betreiben und den zugelassenen kommunalen Trägern für die Anbindung ihrer IT-Systeme zur Verfügung stellen. Die zugelassenen kommunalen Träger müssen der Bundesagentur die hierfür entstehenden Aufwendungen nicht erstatten.
+
 (3) Die Bundesregierung kann der Bundesagentur durch Rechtsverordnung mit Zustimmung des Bundesrates weitere Aufgaben übertragen, die im Zusammenhang mit deren Aufgaben nach diesem Buch stehen. Die Durchführung befristeter Arbeitsmarktprogramme kann sie der Bundesagentur durch Verwaltungsvereinbarung übertragen.
 
 (4) Die Regionaldirektionen können mit Zustimmung der Zentrale durch Verwaltungsvereinbarung die Durchführung befristeter Arbeitsmarktprogramme der Länder übernehmen.
@@ -7122,9 +7138,9 @@ Hat die Bundesagentur eine externe Gutachterin oder einen externen Gutachter bea
 
 (1) Ordnungswidrig handelt, wer als Unternehmerin oder Unternehmer Dienst- oder Werkleistungen in erheblichem Umfang ausführen lässt, indem sie oder er eine andere Unternehmerin oder einen anderen Unternehmer beauftragt, von dem sie oder er weiß oder fahrlässig nicht weiß, dass diese oder dieser zur Erfüllung dieses Auftrags
 
-1. entgegen § 284 Absatz 1 oder § 4a Absatz 5 Satz 1 des Aufenthaltsgesetzes eine Ausländerin oder einen Ausländer beschäftigt oder
+1. entgegen § 284 Absatz 1 oder § 4a Absatz 5 Satz 1 oder 2 des Aufenthaltsgesetzes eine Ausländerin oder einen Ausländer beschäftigt oder
 
-2. eine Nachunternehmerin oder einen Nachunternehmer einsetzt oder es zulässt, dass eine Nachunternehmerin oder ein Nachunternehmer tätig wird, die oder der entgegen § 284 Absatz 1 oder § 4a Absatz 5 Satz 1 des Aufenthaltsgesetzes eine Ausländerin oder einen Ausländer beschäftigt.
+2. eine Nachunternehmerin oder einen Nachunternehmer einsetzt oder es zulässt, dass eine Nachunternehmerin oder ein Nachunternehmer tätig wird, die oder der entgegen § 284 Absatz 1 oder § 4a Absatz 5 Satz 1 oder 2 des Aufenthaltsgesetzes eine Ausländerin oder einen Ausländer beschäftigt.
 
 (2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -7136,9 +7152,9 @@ Hat die Bundesagentur eine externe Gutachterin oder einen externen Gutachter bea
 
 3. entgegen § 284 Abs. 1 oder § 4a Absatz 5 Satz 1 oder 2 des Aufenthaltsgesetzes eine Ausländerin oder einen Ausländer beschäftigt,
 
-4. entgegen § 284 Absatz 1 oder entgegen § 4a Absatz 3 Satz 4 oder Absatz 4, § 6 Absatz 2a, § 7 Absatz 1 Satz 4 erster Halbsatz, § 16a Absatz 3 Satz 1, § 16b Absatz 3, auch in Verbindung mit Absatz 7 Satz 3, § 16b Absatz 5 Satz 3 zweiter Halbsatz, § 16c Absatz 2 Satz 3, § 16d Absatz 1 Satz 4, Absatz 3 Satz 2 oder Absatz 4 Satz 3, § 16f Absatz 3 Satz 4, § 17 Absatz 3 Satz 1, § 20 Absatz 1 Satz 4, auch in Verbindung mit Absatz 2 Satz 2, § 23 Absatz 1 Satz 4 erster Halbsatz, § 24 Absatz 6 Satz 2 erster Halbsatz oder § 25 Absatz 4 Satz 3 erster Halbsatz, Absatz 4a Satz 4 erster Halbsatz oder Absatz 4b Satz 4 erster Halbsatz des Aufenthaltsgesetzes eine Beschäftigung ausübt,
+4. entgegen § 284 Absatz 1 oder entgegen § 4a Absatz 3 Satz 4 oder Absatz 4, § 6 Absatz 2a, § 7 Absatz 1 Satz 4 erster Halbsatz, § 16a Absatz 3 Satz 1, § 16b Absatz 3 Satz 1, auch in Verbindung mit Absatz 5 Satz 2 oder 3 erster Halbsatz oder Absatz 7 Satz 3, § 16c Absatz 2 Satz 3, § 16d Absatz 1 Satz 4, auch in Verbindung mit Absatz 6 Satz 3, § 16d Absatz 3 Satz 8, Absatz 4 Satz 3 oder Absatz 5 Satz 2, § 16f Absatz 3 Satz 4 oder 5, § 16g Absatz 3a, § 17 Absatz 3 Satz 1, § 20a Absatz 2, § 23 Absatz 1 Satz 4 erster Halbsatz oder § 25 Absatz 4 Satz 3 erster Halbsatz, Absatz 4a Satz 4 erster Halbsatz oder Absatz 4b Satz 4 erster Halbsatz des Aufenthaltsgesetzes eine Beschäftigung ausübt,
 
-5. entgegen § 39 Absatz 4 Satz 2 des Aufenthaltsgesetzes eine Auskunft nicht, nicht richtig oder nicht rechtzeitig erteilt,
+5. (weggefallen)
 
 6. einer vollziehbaren Anordnung nach § 288a Abs. 1 zuwiderhandelt,
 
@@ -7184,11 +7200,15 @@ eine dort genannte Tatsache nicht, nicht richtig, nicht vollständig, nicht in d
 
 25. entgegen § 320 Abs. 1 Satz 1, Abs. 3 Satz 1 oder 2 oder Abs. 5 einen Nachweis nicht, nicht richtig oder nicht vollständig oder nicht rechtzeitig erbringt, eine Aufzeichnung nicht, nicht richtig oder nicht vollständig führt oder eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
 
-26. entgegen § 60 Absatz 1 Satz 1 Nummer 1 des Ersten Buches eine Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht oder
+26. entgegen § 60 Absatz 1 Satz 1 Nummer 1 des Ersten Buches eine Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
-27. entgegen § 60 Abs. 1 Satz 1 Nr. 2 des Ersten Buches eine Änderung in den Verhältnissen, die für einen Anspruch auf eine laufende Leistung erheblich ist, nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig mitteilt.
+27. entgegen § 60 Abs. 1 Satz 1 Nr. 2 des Ersten Buches eine Änderung in den Verhältnissen, die für einen Anspruch auf eine laufende Leistung erheblich ist, nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig mitteilt,
 
-(3) Die Ordnungswidrigkeit kann in den Fällen der Absätze 1 und 2 Nr. 3 mit einer Geldbuße bis zu fünfhunderttausend Euro, in den Fällen des Absatzes 2 Nr. 1, 5 bis 9 und 11 bis 13 mit einer Geldbuße bis zu dreißigtausend Euro, in den Fällen des Absatzes 2 Nr. 2, 4, 16, 26 und 27 mit einer Geldbuße bis zu fünftausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu zweitausend Euro geahndet werden.
+28. entgegen § 39 Absatz 4 Satz 1, auch in Verbindung mit Absatz 6 Satz 1, des Aufenthaltsgesetzes eine Auskunft nicht richtig erteilt oder
+
+29. entgegen § 39 Absatz 4 Satz 2, auch in Verbindung mit Absatz 6 Satz 1, des Aufenthaltsgesetzes eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt.
+
+(3) Die Ordnungswidrigkeit kann in den Fällen der Absätze 1 und 2 Nummer 3 mit einer Geldbuße bis zu fünfhunderttausend Euro, in den Fällen des Absatzes 2 Nummer 1, 6 bis 9, 11 bis 13, 28 und 29 mit einer Geldbuße bis zu dreißigtausend Euro, in den Fällen des Absatzes 2 Nummer 2, 4, 16, 26 und 27 mit einer Geldbuße bis zu fünftausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu zweitausend Euro geahndet werden.
 
 # § 405 – Zuständigkeit, Vollstreckung und Unterrichtung
 
@@ -7196,7 +7216,7 @@ eine dort genannte Tatsache nicht, nicht richtig, nicht vollständig, nicht in d
 
 1. des § 404 Abs. 1 sowie des § 404 Abs. 2 Nr. 3 und 4 die Behörden der Zollverwaltung,
 
-2. des § 404 Abs. 2 Nr. 1, 1a, 2, 5 bis 16 und 19 bis 25 die Bundesagentur,
+2. des § 404 Absatz 2 Nummer 1, 1a, 2, 6 bis 16, 19 bis 25, 28 und 29 die Bundesagentur,
 
 3. des § 404 Abs. 2 Nr. 26 und 27 die Behörden der Zollverwaltung und die Bundesagentur jeweils für ihren Geschäftsbereich.
 
@@ -7206,7 +7226,7 @@ eine dort genannte Tatsache nicht, nicht richtig, nicht vollständig, nicht in d
 
 (4) Bei der Verfolgung und Ahndung der Beschäftigung oder Tätigkeit von Ausländerinnen und Ausländern ohne Genehmigung nach § 284 Abs. 1, ohne Aufenthaltstitel nach § 4a Absatz 5 Satz 1 des Aufenthaltsgesetzes oder ohne Erlaubnis oder Berechtigung nach § 4a Absatz 5 Satz 2 in Verbindung mit Absatz 4 des Aufenthaltsgesetzes sowie der Verstöße gegen die Mitwirkungspflicht gegenüber der Bundesagentur nach § 60 Absatz 1 Satz 1 Nummer 1 und 2 des Ersten Buches arbeiten die Behörden nach Absatz 1 mit den in § 2 Absatz 4 des Schwarzarbeitsbekämpfungsgesetzes genannten Behörden zusammen.
 
-(5) Die Bundesagentur unterrichtet das Gewerbezentralregister über rechtskräftige Bußgeldbescheide nach § 404 Abs. 2 Nr. 1, 5 bis 16 und 19 Buchstabe a. Die Behörden der Zollverwaltung unterrichten das Gewerbezentralregister über rechtskräftige Bußgeldbescheide nach § 404 Abs. 1 und 2 Nr. 3. Dies gilt nur, sofern die Geldbuße mehr als 200 Euro beträgt.
+(5) Die Bundesagentur unterrichtet das Gewerbezentralregister über rechtskräftige Bußgeldbescheide nach § 404 Absatz 2 Nummer 1, 6 bis 16, 19 Buchstabe a, Nummer 28 und 29. Die Behörden der Zollverwaltung unterrichten das Gewerbezentralregister über rechtskräftige Bußgeldbescheide nach § 404 Abs. 1 und 2 Nr. 3. Dies gilt nur, sofern die Geldbuße mehr als 200 Euro beträgt.
 
 (6) Gerichte, Strafverfolgungs- oder Strafvollstreckungsbehörden sollen den Behörden der Zollverwaltung Erkenntnisse aus sonstigen Verfahren, die aus ihrer Sicht zur Verfolgung von Ordnungswidrigkeiten nach § 404 Abs. 1 oder 2 Nr. 3 erforderlich sind, übermitteln, soweit nicht für die übermittelnde Stelle erkennbar ist, dass schutzwürdige Interessen der oder des Betroffenen oder anderer Verfahrensbeteiligter an dem Ausschluss der Übermittlung überwiegen. Dabei ist zu berücksichtigen, wie gesichert die zu übermittelnden Erkenntnisse sind.
 
@@ -7305,6 +7325,10 @@ werden Geldleistungen abweichend von § 337 Absatz 1 Satz 1 ohne Abzug der dadur
 (1) Die Bundesagentur für Arbeit ist bis zum 31. Dezember 2025 berechtigt, Daten über die Höhe des dem Arbeitgeber für seine Beschäftigten ausgezahlten Kurzarbeitergeldes für die Monate November und Dezember 2020 sowie über die Höhe der dem Arbeitgeber für den gleichen Zeitraum erstatteten Sozialversicherungsbeiträge an die Bewilligungsstellen der Länder für die November- und Dezemberhilfen zur Verhinderung von Leistungsmissbrauch durch Verdachtsprüfungen und Stichprobenkontrollen zu übermitteln, indem sie diese Daten zum automatisierten Abruf aus ihrem Datenbestand bereitstellt.
 
 (2) § 79 Absatz 2 bis 4 des Zehnten Buches gilt entsprechend.
+
+# § 421g – Vorübergehende Sonderregelung für anerkennungssuchende Fachkräfte im Inland
+
+Die Bundesagentur baut durch Zusammenwirken mit den Projektträgern des ESF Plus-Förderprogramms „IQ – Integration durch Qualifizierung“ ab dem 1. Januar 2026 das für die Übernahme notwendige Fach- und Erfahrungswissen zur Anerkennungs- und Qualifizierungsberatung auf. Die Bundesagentur kann in diesem Zusammenhang in Absprache mit den Projektträgern auch selbst beraten.
 
 # § 422 – Leistungen der aktiven Arbeitsförderung
 

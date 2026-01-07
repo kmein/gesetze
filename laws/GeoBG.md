@@ -41,11 +41,9 @@ Die Errichtung oder der Betrieb einer Anlage nach § 2 liegen bis zum Erreichen 
 
 Für eine Anlage nach § 2 besteht ein öffentliches Interesse am vorzeitigen Beginn nach § 17 Absatz 1 Nummer 2 des Wasserhaushaltsgesetzes vom 31. Juli 2009 (BGBl. I S. 2585), das zuletzt durch Artikel 2 des Gesetzes vom 12. August 2025 (BGBl. 2025 I Nr. 189) geändert worden ist, in der jeweils geltenden Fassung sowie nach § 57b Absatz 1 Nummer 3 des Bundesberggesetzes vom 13. August 1980 (BGBl. I S. 1310), das zuletzt durch Artikel 10 des Gesetzes vom 10. Dezember 2025 (BGBl. 2025 I Nr. 320) geändert worden ist, in der jeweils geltenden Fassung.
 
-# § 6 – Maßgabe für § 39 Absatz 1 Nummer 1 und § 44 Absatz 1 Nummer 2 des Bundesnaturschutzgesetzes
+# § 6 – (zukünftig in Kraft)
 
-(1) § 39 Absatz 1 Nummer 1 des Bundesnaturschutzgesetzes vom 29. Juli 2009 (BGBl. I S. 2542), das zuletzt durch Artikel 48 des Gesetzes vom 23. Oktober 2024 (BGBl. 2024 I Nr. 323) geändert worden ist, in der jeweils geltenden Fassung, ist bei der Genehmigung zur Aufsuchung von Erdwärme mit der Maßgabe anzuwenden, dass eine seismische Exploration durch Vibrotrucks in der Regel nicht zu einer mutwilligen Beunruhigung wild lebender Tiere führt.
-
-(2) § 44 Absatz 1 Nummer 2 des Bundesnaturschutzgesetzes ist bei der Genehmigung zur Aufsuchung von Erdwärme mit der Maßgabe anzuwenden, dass eine seismische Exploration durch Vibrotrucks auf befestigten Straßen und Wegen in der Regel nicht zu einer erheblichen Störung wild lebender Tiere der streng geschützten Arten und der europäischen Vogelarten führt, wenn eine ökologische Baubegleitung erfolgt.
+(+++ § 6: Tritt gem. Art. 10 Abs. 2 G v. 22.12.2025 I Nr. 348 am 22.06.2026 in Kraft +++)
 
 # § 7 – Duldungspflichten
 

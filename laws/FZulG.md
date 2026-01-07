@@ -117,7 +117,7 @@ Die Forschungszulage kann nur für Forschungs- und Entwicklungsvorhaben im Sinne
 
 (4) In den Antrag nach § 5 sind die Angaben aufzunehmen, die für die Feststellung der Voraussetzungen nach den Absätzen 1 bis 3 erforderlich sind.
 
-(5) Die Forschungszulage kann für den Teil der Bemessungsgrundlage, der auf Aufwendungen im Sinne des § 3 Absatz 3 Satz 1 und 2 entfällt, nur gewährt werden, soweit die Voraussetzungen der Verordnung (EU) Nr. 1407/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen (ABl. L 352 vom 24.12.2013, S. 1) (De-minimis-Verordnung) in der jeweils geltenden Fassung eingehalten sind. Die Forschungszulage kann insoweit erst gewährt werden, wenn der Anspruchsberechtigte in geeigneter Weise den Nachweis erbracht hat, in welcher Höhe ihm in den beiden vorangegangenen sowie im laufenden Veranlagungszeitraum De-minimis-Beihilfen gewährt worden sind, für die die vorliegende oder andere De-minimis-Verordnungen gelten, und nur soweit, wie die Voraussetzungen der De-minimis-Verordnung bei dem Unternehmen im Sinne der De-minimis-Verordnung eingehalten werden.
+(5) Die Forschungszulage kann für den Teil der Bemessungsgrundlage, der auf Aufwendungen im Sinne des § 3 Absatz 3 Satz 1 und 2 entfällt, nur gewährt werden, soweit die Voraussetzungen der Verordnung (EU) 2023/2831 eingehalten sind und dies durch den Anspruchsberechtigten in geeigneter Weise nachgewiesen wird.
 
 # § 10 – Festsetzung und Leistung der Forschungszulage
 
