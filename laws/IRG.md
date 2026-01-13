@@ -947,7 +947,7 @@ kann die Urschrift bereits vor Abschluss des Verfahrens vernichtet werden. Verfa
 
 # § 77b – Verordnungsermächtigung
 
-(1) Das Bundesministerium der Justiz und die Landesregierungen bestimmen für ihren Bereich durch Rechtsverordnung,
+(1) Das Bundesministerium der Justiz und für Verbraucherschutz und die Landesregierungen bestimmen für ihren Bereich durch Rechtsverordnung,
 
 1. den Zeitpunkt, von dem an elektronische Dokumente nach § 77a Absatz 1 eingereicht werden können,
 
@@ -959,13 +959,13 @@ kann die Urschrift bereits vor Abschluss des Verfahrens vernichtet werden. Verfa
 
 5. die Urschriften, die abweichend von § 77a Absatz 6 weiterhin aufzubewahren sind.
 
-(2) Das Bundesministerium der Justiz und die Landesregierungen können jeweils für ihren Bereich durch Rechtsverordnung bestimmen,
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz und die Landesregierungen können jeweils für ihren Bereich durch Rechtsverordnung bestimmen,
 
 1. dass Akten, die vor dem in Absatz 1 Nummer 3 bezeichneten Zeitpunkt in Papierform angelegt wurden, ab einem bestimmten Stichtag oder Ereignis in elektronischer Form weitergeführt werden und
 
 2. dass Akten, die elektronisch angelegt wurden, ab einem bestimmten Ereignis in Papierform weitergeführt werden.
 
-(3) Die elektronische Aktenführung nach § 77a Absatz 4 sowie die Zulassung der Weiterführung in elektronischer beziehungsweise Papierform können jeweils auf einzelne Gerichte oder Behörden oder auf allgemein bestimmte Verfahren oder Verfahrensabschnitte beschränkt werden; wird von dieser Möglichkeit Gebrauch gemacht, kann in der Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt wird, in welchen Verfahren oder Verfahrensabschnitten die Akten elektronisch geführt werden oder geführt werden können und in welchen Verfahren oder Verfahrensabschnitten die Akten in elektronischer beziehungsweise Papierform weitergeführt werden. Die Rechtsverordnung des Bundesministeriums der Justiz bedarf nicht der Zustimmung des Bundesrates. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen. Die Zulassung der elektronischen Übermittlung nach § 77a Absatz 1 kann auf einzelne Gerichte und Behörden sowie auf einzelne Verfahren oder Verfahrensabschnitte beschränkt werden.
+(3) Die Rechtsverordnung des Bundesministeriums der Justiz und für Verbraucherschutz bedarf nicht der Zustimmung des Bundesrates. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen. Die Zulassung der elektronischen Übermittlung nach § 77a Absatz 1 kann auf einzelne Gerichte und Behörden sowie auf einzelne Verfahren oder Verfahrensabschnitte beschränkt werden. Die elektronische Aktenführung nach § 77a Absatz 4 sowie die Zulassung der Weiterführung in elektronischer beziehungsweise Papierform können jeweils auf einzelne Gerichte oder Behörden oder auf allgemein bestimmte Verfahren oder Verfahrensabschnitte beschränkt werden; wird von dieser Möglichkeit Gebrauch gemacht, kann in der Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt wird, in welchen Verfahren oder Verfahrensabschnitten die Akten elektronisch geführt werden oder geführt werden können und in welchen Verfahren oder Verfahrensabschnitten die Akten in elektronischer beziehungsweise Papierform weitergeführt werden.
 
 # § 77c – Anwendungsbereich
 

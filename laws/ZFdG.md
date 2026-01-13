@@ -219,9 +219,11 @@ a) nach Maßgabe völkerrechtlicher Vereinbarungen oder anderer Rechtsvorschrift
 
 b) nach Maßgabe des Unionsrechts mit Stellen der Europäischen Union,
 
-2. für den Zollfahndungsdienst mit Verbänden und Institutionen und
+2. für den Zollfahndungsdienst mit Verbänden und Institutionen,
 
-3. mit den für den Staatsschutz zuständigen Stellen des Bundes und der Länder,
+3. mit den für den Staatsschutz zuständigen Stellen des Bundes und der Länder und
+
+4. für die Behörden der Zollverwaltung für Auskünfte an andere öffentliche Stellen zu dort durchgeführten Zuverlässigkeits- und Sicherheitsüberprüfungen,
 
 soweit das Bundesministerium der Finanzen die Aufgaben nach den Nummern 1 und 2 nicht selbst wahrnimmt oder eine abweichende Zuweisung vorsieht. Das Zollkriminalamt tauscht sich als Zentralstelle für die Behörden der Zollverwaltung mit den vorgenannten und sonstigen Stellen für Zwecke des Risikomanagements im Sinne des Absatzes 2 aus. Hierfür unterhält das Zollkriminalamt Informationssysteme nach Maßgabe internationaler Vereinbarungen und anderer Rechtsvorschriften.
 
@@ -465,7 +467,7 @@ und sich aus den Gründen der Entscheidung ergibt, dass die betroffene Person di
 
 # § 13 – Daten zur Beobachtung bestimmter Verkehre
 
-Das Zollkriminalamt kann, soweit es zur Erfüllung seiner Aufgaben nach § 3 Absatz 1 und 2, jeweils auch in Verbindung mit § 3 Absatz 11, erforderlich ist, personenbezogene Daten von Personen, die am innerstaatlichen, grenzüberschreitenden und internationalen Waren-, Kapital- und Dienstleistungsverkehr teilnehmen, verarbeiten. Das Zollkriminalamt kann hierzu verarbeiten:
+(1) Das Zollkriminalamt kann, soweit es zur Erfüllung seiner Aufgaben nach § 3 Absatz 1 und 2, jeweils auch in Verbindung mit § 3 Absatz 11, erforderlich ist, personenbezogene Daten von Personen, die am innerstaatlichen, grenzüberschreitenden und internationalen Waren-, Kapital- und Dienstleistungsverkehr teilnehmen, verarbeiten. Das Zollkriminalamt kann hierzu verarbeiten:
 
 1. Angaben zur betroffenen Person,
 
@@ -473,7 +475,73 @@ Das Zollkriminalamt kann, soweit es zur Erfüllung seiner Aufgaben nach § 3 Abs
 
 3. Art und Inhalt der Information.
 
-Die Verarbeitung personenbezogener Daten, die in anderen Dateisystemen der Zollverwaltung gespeichert sind, ist, mit Ausnahme von personenbezogenen Daten zur Bekämpfung der Schwarzarbeit und der illegalen Beschäftigung, zulässig, soweit die Verarbeitung zur Erfüllung der Aufgaben des Zollkriminalamtes nach § 3 Absatz 1 und 2, jeweils auch in Verbindung mit § 3 Absatz 11, erforderlich ist. § 88a der Abgabenordnung und § 67b des Zehnten Buches Sozialgesetzbuch bleiben unberührt.
+Die Verarbeitung personenbezogener Daten, die in anderen Dateisystemen der Zollverwaltung gespeichert sind, ist, mit Ausnahme von personenbezogenen Daten zur Bekämpfung der Schwarzarbeit und der illegalen Beschäftigung, zulässig, soweit die Verarbeitung zur Erfüllung der Aufgaben des Zollkriminalamtes nach § 3 Absatz 1 und 2, jeweils auch in Verbindung mit § 3 Absatz 11, erforderlich ist; § 30 der Abgabenordnung steht einer Zweckänderung nicht entgegen. § 88a der Abgabenordnung und § 67b des Zehnten Buches Sozialgesetzbuch bleiben unberührt.
+
+(2) Das Zollkriminalamt darf bei der Verarbeitung personenbezogener Daten nach Absatz 1 zur Erfüllung seiner Aufgabe nach § 3 Absatz 2 automationsgestützte Systeme einsetzen
+
+1. zur Identifikation von Beteiligten und
+
+2. bei der Bearbeitung von Verwaltungsvorgängen im Einzelfall zur Bewertung des Risikos, dass die von Beteiligten gemachten oder unterlassenen Angaben oder die den Beteiligten zuzurechnenden Informationen von den tatsächlichen Gegebenheiten abweichen (Vorgangsrisiko).
+
+(3) Eine Risikobewertung der beteiligten Personen über den zu bewertenden Einzelfall hinaus ist unzulässig. Folgende personenbezogene Daten dürfen in automationsgestützten Systemen nach Absatz 2 nicht verarbeitet werden:
+
+1. besondere Kategorien personenbezogener Daten gemäß § 46 Nummer 14 des Bundesdatenschutzgesetzes und nach Artikel 9 Absatz 1 der Verordnung (EU) 2016/679 in der Fassung vom 27. April 2016,
+
+2. Daten, die ursprünglich durch den Bundesnachrichtendienst, das Bundesamt für Verfassungsschutz, die Verfassungsschutzbehörden der Länder oder den Militärischen Abschirmdienst erhoben wurden,
+
+3. Daten, die aus Maßnahmen nach den §§ 99, 100a bis 100c oder 100f bis 100i, 100k Absatz 1 Satz 2, § 110a oder 163f der Strafprozessordnung erlangt wurden,
+
+4. Daten, die aus Maßnahmen nach den §§ 47, 62, 72, 77 und 78 erlangt wurden und
+
+5. Daten aus Maßnahmen, die einen vergleichbar schwerwiegenden Eingriff darstellen wie die in den Nummern 3 und 4 genannten Maßnahmen.
+
+Personenbezogene Daten aus allgemein zugänglichen Quellen und geschützten Bereichen sozialer Netzwerke dürfen nicht automatisiert in die Verarbeitung einbezogen werden.
+
+(4) Folgende Datenarten von am Vorgang beteiligten natürlichen oder juristischen Personen dürfen mittels automationsgestützter Systeme nach Absatz 2 verarbeitet werden:
+
+1. zur Identifikation von Beteiligten
+
+a) Namen,
+
+b) Adressen,
+
+c) Geburtstag,
+
+d) Geburtsort,
+
+e) Geburtsland,
+
+f) Gründungsdatum,
+
+g) Zuordnung zu einer Kennzeichnung oder Legitimationsdokumente einschließlich der ausstellenden öffentlichen Stelle,
+
+h) Telekommunikationsanschlüsse,
+
+i) Adressen für elektronische Post,
+
+j) Kontodaten,
+
+2. zur Bewertung des Vorgangsrisikos
+
+a) Anmelde- oder Antragsdaten,
+
+b) Art und Häufigkeit von Anmeldungen und Anträgen,
+
+c) Urkunden,
+
+d) Feststellungen aus zurückliegenden Anmeldungen, Anträgen oder Entscheidungen,
+
+e) Erkenntnisse aus Kontrollen, Steueraufsichtsmaßnahmen, Außenprüfungen, Zahlungsverhalten, Vollstreckungsmaßnahmen, strafrechtliche Erkenntnisse oder Erkenntnisse aus Ordnungswidrigkeitenverfahren sowie Erlaubnisse, Zulassungen oder Bewilligungen, einschließlich deren Änderung, Widerruf oder Aussetzung, sofern und soweit sich hieraus Erkenntnisse eines erhöhten oder verringerten Vorgangsrisikos ergeben können.
+
+(5) Durch den Einsatz automationsgestützter Systeme nach Absatz 2 können durch die Zollverwaltung im Einzelfall zu bearbeitende Verwaltungsvorgänge unter Verwendung der Datenarten nach Absatz 4 Nummer 2 hinsichtlich des Vorgangsrisikos bewertet werden. Zu diesem Zweck kann anlässlich eines Verwaltungsvorgangs für jeden Beteiligten das Risiko, dass die von ihm gemachten oder unterlassenen Angaben oder die ihm zuzurechnenden Informationen von den tatsächlichen Gegebenheiten abweichen (Beteiligtenrisiko), anhand der zu ihm vorliegenden Daten nach Absatz 4 Nummer 2 bewertet werden. Das Vorgangsrisiko wird für jeden angefragten Vorgang anhand des Beteiligtenrisikos aller Beteiligten ermittelt und nach § 3 Absatz 11 den Behörden der Zollverwaltung mitgeteilt. Liegt ein erhebliches Vorgangsrisiko vor, scheidet eine automatisierte Verarbeitung des Verwaltungsvorgangs im Zielsystem aus. Auf die automationsgestützten Systeme ist § 88 Absatz 5 Satz 3 der Abgabenordnung entsprechend anzuwenden.
+
+(6) Das Zollkriminalamt darf zur Unterstützung der automationsgestützten Systeme nach Absatz 2 selbstlernende Systeme einsetzen. Das Anlernen der in Satz 1 genannten Systeme erfolgt auf Grundlage der Daten nach Absatz 4. Dabei gewährleistet das Zollkriminalamt, dass diese Systeme ausschließlich Vorschläge zur Anpassung oder Berechnung von Risiken erstellen. Diese Vorschläge sind vom Zollkriminalamt auf ihre Eignung zu überprüfen. Geeignet sind die Vorschläge nur dann, wenn sie nicht auf diskriminierenden oder verzerrenden Algorithmen beruhen. Entscheidungen über die Festlegung von Parametern zur Risikobewertung sind zu begründen. Der Einsatz automatisierter Systeme, die eigenständig Gefährlichkeitsaussagen über Personen treffen können, ist unzulässig.
+
+(7) Die Daten in den automationsgestützten Systemen nach Absatz 2 sind spätestens ein Jahr nach Ablauf des Kalenderjahres, in dem der Verwaltungsvorgang im Sinne des § 13 Absatz 2 Nummer 2 abgeschlossen wurde, zu löschen. Daten, die zu keinem Vorgangsrisiko führen, sind unverzüglich nach der maschinellen Risikobewertung in dem automationsgestützten System zu löschen.
+
+(8) Das Zollkriminalamt stellt durch organisatorische und technische Maßnahmen sicher, dass Daten nur gemäß ihrer rechtlichen Verwendbarkeit verarbeitet werden. Hierbei sind auch Begrenzungen der Zugriffsmöglichkeiten auf die automationsgestützten Systeme vorzusehen. Insbesondere ist sicherzustellen, dass ein Zugriff nur von einzelnen, entsprechend qualifizierten Bediensteten zur Erstellung und Pflege des Systems erfolgen kann. § 76 des Bundesdatenschutzgesetzes ist entsprechend anzuwenden.
+
+(9) Das Bundesministerium der Finanzen legt die Kriterien und Kategorien für die zu verarbeitenden Datenarten nach Absatz 4 Nummer 2, die Datenarten und Datenquellen nach Absatz 6 sowie die Bewertungsmethoden nach Absatz 5 Satz 2 in einer Verwaltungsvorschrift fest. Die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit ist vor Erlass einer Verwaltungsvorschrift anzuhören. Die Verwaltungsvorschrift ist in der jeweils aktuellen Fassung im Bundesanzeiger zu veröffentlichen. Einzelheiten der Risikomanagementsysteme dürfen nicht veröffentlicht werden, soweit dies die Gleichmäßigkeit und Gesetzmäßigkeit der Besteuerung gefährdet.
 
 # § 14 – Daten für Zwecke der Ausschreibung
 

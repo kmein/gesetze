@@ -1707,6 +1707,8 @@ b) an Unternehmen begeben und von diesen erworben werden, die nicht derselben Ab
 
 Für die Zwecke des Satzes 1 Nummer 7 stellt die Abwicklungseinheit auf Verlangen der Abwicklungsbehörde ein unabhängiges, schriftliches und mit einer Begründung versehenes Rechtsgutachten bereit oder weist auf andere Weise glaubhaft nach, dass keinerlei rechtliche, regulatorische oder operative Hindernisse für die Übertragung der Sicherheit von der Abwicklungseinheit an das betreffende Tochterunternehmen bestehen.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 344 +++)
+
 # § 49g – Ausnahmen für eine Zentralorganisation und CRR-Kreditinstitute, die einer Zentralorganisation ständig zugeordnet sind
 
 Die Abwicklungsbehörde kann die Zentralorganisation oder ein CRR-Kreditinstitut, das einer Zentralorganisation ständig zugeordnet ist, von der Anwendung des § 49f teilweise oder ganz ausnehmen, wenn
@@ -1746,6 +1748,8 @@ c) Teil derselben Abwicklungsgruppe sind,
 (4) Positionen in Eigenmittelinstrumenten und Instrumenten berücksichtigungsfähiger Verbindlichkeiten, die von Tochterinstituten begeben werden, die Liquidationseinheiten sind, für die die Abwicklungsbehörde die in § 49 Absatz 1 genannte Anforderung nicht festgelegt hat, werden nicht nach Artikel 72e Absatz 5 der Verordnung (EU) Nr. 575/2013 in Abzug gebracht.
 
 (5) Abweichend von Absatz 4 bringt ein Institut oder gruppenangehöriges Unternehmen, das selbst keine Abwicklungseinheit, sondern Tochterunternehmen einer Abwicklungseinheit oder eines Drittlandunternehmens ist, das eine Abwicklungseinheit wäre, wenn es in der Union niedergelassen wäre, seine Positionen in Eigenmittelinstrumenten in Tochterinstituten, die derselben Abwicklungsgruppe angehören und bei denen es sich um Liquidationseinheiten handelt, für die die Abwicklungsbehörde die Anforderung nach § 49 Absatz 1 nicht festgelegt hat, in Abzug, wenn der Gesamtbetrag dieser Positionen 7 Prozent des Gesamtbetrags seiner Eigenmittel und Verbindlichkeiten, die die in § 49f Absatz 2 festgelegten Kriterien für die Berücksichtigungsfähigkeit erfüllen, entspricht oder übersteigt. Die Bestimmung der Beträge erfolgt jährlich zum 31. Dezember als Durchschnitt der letzten zwölf Monate.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 344 +++)
 
 # § 50 – Gemeinsame Entscheidung über die Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten
 

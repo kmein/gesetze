@@ -2300,7 +2300,7 @@ Die landwirtschaftliche Alterskasse darf die ihnen übermittelten Daten nur zur 
 
 # § 62 – Dateisysteme der landwirtschaftlichen Sozialversicherung
 
-Für die Führung und den Inhalt der Dateisysteme der landwirtschaftlichen Sozialversicherung gilt § 150 mit Ausnahme des Absatzes 1 Satz 1 Nummer 6 und 8 und des Absatzes 3 des Sechsten Buches Sozialgesetzbuch entsprechend mit der Maßgabe, dass in die Stammsatzdatei alle Personen und Unternehmen aufzunehmen sind, die von der landwirtschaftlichen Alterskasse, der landwirtschaftlichen Krankenkasse oder der landwirtschaftlichen Berufsgenossenschaft eine Mitgliedsnummer erhalten haben.
+Für die Führung und den Inhalt der Dateisysteme der landwirtschaftlichen Sozialversicherung gilt § 150 mit Ausnahme des Absatzes 1 Satz 1 Nummer 6 und 8, des Absatzes 3 und des Absatzes 3a des Sechsten Buches Sozialgesetzbuch entsprechend mit der Maßgabe, dass in die Stammsatzdatei alle Personen und Unternehmen aufzunehmen sind, die von der landwirtschaftlichen Alterskasse, der landwirtschaftlichen Krankenkasse oder der landwirtschaftlichen Berufsgenossenschaft eine Mitgliedsnummer erhalten haben.
 
 # § 63 – Auskünfte der Deutschen Post AG
 

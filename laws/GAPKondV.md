@@ -175,7 +175,7 @@ Eine Ersatzfläche gilt als zu dem Zeitpunkt entstanden, zu dem die Dauergrünla
 
 (7) Soweit die zuständige Behörde für die Zustimmung und Erklärungen nach den Absätzen 3, 4 und 6 Muster bekannt gibt oder Vordrucke oder Formulare bereithält, sind diese zu verwenden.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 30.4.2025 I Nr. 128 +++)
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 30.4.2025 I Nr. 128 u. V v. 18.12.2025 I Nr. 357 +++)
 
 # § 5 – Frist für die Anlage von Ersatzflächen
 
@@ -196,8 +196,6 @@ Die Ersatzfläche ist bis zu dem auf die Genehmigung folgenden Schlusstermin fü
 (1) Sofern Dauergrünland ohne Genehmigung nach § 5 Absatz 1 Satz 2 des GAP-Konditionalitäten-Gesetzes umgewandelt wurde und kein Fall der §§ 6 und 7 des GAP-Konditionalitäten-Gesetzes vorliegt, hat die zuständige Behörde die Rückumwandlung der Fläche in Dauergrünland anzuordnen. Die Anordnung ist an den Begünstigten zu richten, der zum Zeitpunkt der Anordnung Bewirtschafter der Fläche ist. Sie ist flächenbezogen und gilt auch für nachfolgende Bewirtschafter, sofern diese Begünstigte sind. Die zuständige Behörde hat eine angemessene Frist für die Rückumwandlung zu setzen. § 4 Absatz 1 Satz 1 und Absatz 2 gilt entsprechend.
 
 (2) Sofern im Falle des Absatzes 1 zum Zeitpunkt der Umwandlung die Voraussetzungen einer Genehmigung vorlagen, soll die zuständige Behörde auf Antrag des Begünstigten die Umwandlung nachträglich genehmigen.
-
-(3) (weggefallen)
 
 # § 8 – Nichtanwendbarkeit von § 6 des GAP- Konditionalitäten-Gesetzes in bestimmten Fällen
 

@@ -552,9 +552,11 @@ aa)
 bb)  
 über Bewilligung, Gewährung, Rückforderung, Erstattung, Weitergewährung oder Belassen einer Leistung aus öffentlichen Mitteln,
 
-2. für die Prüfung des Vorliegens oder die Geltendmachung eines Anspruchs auf Rückgewähr einer Leistung aus öffentlichen Mitteln oder
+2. für die Prüfung des Vorliegens oder die Geltendmachung eines Anspruchs auf Rückgewähr einer Leistung aus öffentlichen Mitteln,
 
-3. für die Prüfung des Vorliegens oder die Geltendmachung eines gesetzlichen Anspruchs auf Schadensersatz aus einer vorsätzlich begangenen unerlaubten Handlung, auf Grund derer eine Leistung aus öffentlichen Mitteln gewährt wurde.
+3. für die Prüfung des Vorliegens oder die Geltendmachung eines gesetzlichen Anspruchs auf Schadensersatz aus einer vorsätzlich begangenen unerlaubten Handlung, auf Grund derer eine Leistung aus öffentlichen Mitteln gewährt wurde oder
+
+4. für die automationsgestützte Analyse und Bewertung nach § 26 Absatz 1 des Schwarzarbeitsbekämpfungsgesetzes.
 
 In den Fällen von Satz 1 Nummer 1 Buchstabe b Doppelbuchstabe bb oder Nummer 2 ist die Offenbarung auf Ersuchen der zuständigen Stellen auch zulässig, soweit sie für die Durchführung eines Strafverfahrens wegen einer zu Unrecht erlangten Leistung aus öffentlichen Mitteln erforderlich ist. Die für die Verwaltung einer Leistung aus öffentlichen Mitteln zuständige öffentliche Stelle darf die ihr von Finanzbehörden nach Satz 1 übermittelten Informationen abweichend von § 30 Absatz 11 an die für die Verfolgung einer Straftat hinsichtlich der von ihr bewilligten Leistung zuständige Stelle weiterleiten, wenn dies auch nach den für sie geltenden Vorschriften über die Verarbeitung personenbezogener Daten zu anderen Zwecken zulässig ist.
 

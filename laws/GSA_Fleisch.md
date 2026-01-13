@@ -61,7 +61,7 @@ Bei der Bestimmung der Anzahl der in der Regel tätigen Personen nach Satz 2 sin
 
 (1) Die Prüfung der Einhaltung der Vorgaben des § 6a obliegt den Behörden der Zollverwaltung.
 
-(2) Die §§ 2 bis 6, 14, 15 bis 20, 22 und 23 des Schwarzarbeitsbekämpfungsgesetzes sind entsprechend anzuwenden mit der Maßgabe, dass
+(2) Die §§ 2, 3 bis 7, 13, 14, 15 bis 20, 22 und 23 des Schwarzarbeitsbekämpfungsgesetzes sind entsprechend anzuwenden mit der Maßgabe, dass
 
 1. die dortigen Befugnisse, Duldungs- und Mitwirkungspflichten auch gegenüber Inhabern im Sinne des § 6a Absatz 3 sowie Personen, welche die Nutzung eines Betriebes oder einer übergreifenden Organisation gestatten, Anwendung finden,
 
@@ -93,7 +93,7 @@ Bei der Bestimmung der Anzahl der in der Regel tätigen Personen nach Satz 2 sin
 
 6. entgegen § 6a Absatz 2 Satz 3 eine Arbeitnehmerin oder einen Arbeitnehmer oder einen Selbstständigen tätig werden lässt oder eine Leiharbeitnehmerin oder einen Leiharbeitnehmer überlässt..
 
-(3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 sowie des Absatzes 2 Nummer 3 bis 6 mit einer Geldbuße bis zu fünfhunderttausend Euro, in den Fällen des Absatzes 2 Nummer 1 mit einer Geldbuße bis zu fünfzigtausend Euro und in den Fällen des Absatzes 2 Nummer 2 mit einer Geldbuße bis zu dreißigtausend Euro geahndet werden.
+(3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 sowie des Absatzes 2 Nummer 3 bis 6 mit einer Geldbuße bis zu fünfhunderttausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
 (4) Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten sind
 

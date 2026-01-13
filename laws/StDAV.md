@@ -39,7 +39,9 @@ Die Erteilung einer Abrufbefugnis kommt in Betracht bei
 
 5. Amtsträgern der Zollverwaltung oder gleichgestellten Personen, soweit die Abrufbefugnis für die Festsetzung oder Erhebung der Einfuhrumsatzsteuer erforderlich ist und die Daten beim Bundeszentralamt für Steuern gespeichert sind,
 
-6. Amtsträgern der Gemeinden, soweit sie in einem Realsteuerverfahren in Ausübung der nach § 21 des Finanzverwaltungsgesetzes den Gemeinden zustehenden Rechte tätig sind.
+6. Amtsträgern der Gemeinden, soweit sie in einem Realsteuerverfahren in Ausübung der nach § 21 des Finanzverwaltungsgesetzes den Gemeinden zustehenden Rechte tätig sind,
+
+7. Amtsträgern der Zollverwaltung oder gleichgestellten Personen, soweit die Abrufbefugnis für die Wahrnehmung der Aufgaben oder Befugnisse nach dem Schwarzarbeitsbekämpfungsgesetz erforderlich ist.
 
 # § 4 – Umfang der Abrufbefugnis
 

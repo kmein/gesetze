@@ -9,7 +9,7 @@ Ziel des Gesetzes ist, Beschäftigten die Möglichkeit zu eröffnen, pflegebedü
 
 (1) Beschäftigte haben das Recht, bis zu zehn Arbeitstage der Arbeit fernzubleiben, wenn dies erforderlich ist, um für einen pflegebedürftigen nahen Angehörigen in einer akut aufgetretenen Pflegesituation eine bedarfsgerechte Pflege zu organisieren oder eine pflegerische Versorgung in dieser Zeit sicherzustellen.
 
-(2) Beschäftigte sind verpflichtet, dem Arbeitgeber ihre Verhinderung an der Arbeitsleistung und deren voraussichtliche Dauer unverzüglich mitzuteilen. Dem Arbeitgeber ist auf Verlangen eine ärztliche Bescheinigung über die Pflegebedürftigkeit des nahen Angehörigen und die Erforderlichkeit der in Absatz 1 genannten Maßnahmen vorzulegen.
+(2) Beschäftigte sind verpflichtet, dem Arbeitgeber ihre Verhinderung an der Arbeitsleistung und deren voraussichtliche Dauer unverzüglich mitzuteilen. Dem Arbeitgeber ist auf Verlangen eine ärztliche Bescheinigung oder eine Bescheinigung einer Pflegefachperson über die Pflegebedürftigkeit des nahen Angehörigen und die Erforderlichkeit der in Absatz 1 genannten Maßnahmen vorzulegen.
 
 (3) Der Arbeitgeber ist zur Fortzahlung der Vergütung nur verpflichtet, soweit sich eine solche Verpflichtung aus anderen gesetzlichen Vorschriften oder auf Grund einer Vereinbarung ergibt. Ein Anspruch der Beschäftigten auf Zahlung von Pflegeunterstützungsgeld richtet sich nach § 44a Absatz 3 des Elften Buches Sozialgesetzbuch.
 

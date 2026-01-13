@@ -257,6 +257,14 @@ Gleiches gilt, wenn Anhaltspunkte dafür vorliegen, dass Straftaten von erheblic
 
 (2) Die in § 11 Absatz 1 Satz 1 genannten Dienststellen der Zollverwaltung erteilen dem übermittelnden Staat auf dessen Ersuchen zu Zwecken der Datenschutzkontrolle Auskunft darüber, wie die übermittelten Daten verwendet wurden.
 
+# § 11c – Datenübermittlung zu Zwecken des Risikomanagements
+
+(1) Die Dienststellen der Zollverwaltung nach § 11 Absatz 1 Satz 1 können die in § 13 Absatz 4 des Zollfahndungsdienstgesetzes genannten personenbezogenen Daten im nach Absatz 2 näher bezeichneten Umfang zu Zwecken des Risikomanagements im Sinne des § 3 Absatz 2 des Zollfahndungsdienstgesetzes an das Zollkriminalamt übermitteln; die weitere Datenverarbeitung durch das Zollkriminalamt erfolgt nach § 13 des Zollfahndungsdienstgesetzes. § 30 der Abgabenordnung steht der Übermittlung nach Satz 1 nicht entgegen.
+
+(2) Das Bundesministerium der Finanzen bestimmt durch Verwaltungsvorschrift die von der Zollverwaltung betriebenen oder genutzten Datenverarbeitungssysteme, aus denen Daten gemäß Absatz 1 übermittelt werden dürfen und bestimmt die Sachverhalte, für die eine Datenübermittlung zum Zwecke der Risikoanalyse erfolgen soll. Die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit ist vor Erlass einer Verwaltungsvorschrift anzuhören.
+
+(3) Die Einrichtung eines automatisierten Verfahrens für die Übermittlung der Daten an das Zollkriminalamt durch Abruf ist mit Zustimmung des Bundesministeriums der Finanzen zulässig, soweit diese Form der Datenübermittlung unter Berücksichtigung der schutzwürdigen Interessen der betroffenen Personen wegen der Vielzahl der Übermittlungen oder ihrer besonderen Eilbedürftigkeit angemessen ist. Die Verantwortung für die Zulässigkeit der einzelnen Abfrage trägt das Zollkriminalamt. Zur Wahrung des Steuergeheimnisses und zur Sicherstellung von Datenschutz und Datensicherheit beim Abrufverfahren sind § 2 Absatz 1 und die §§ 5 bis 8 der Steuerdaten-Abrufverordnung entsprechend anzuwenden.
+
 # § 12 – Weiterleitungsbefugnis
 
 Ergeben sich bei der zollamtlichen Überwachung zureichende tatsächliche Anhaltspunkte dafür, daß Waren unter Verstoß gegen ein Einfuhr-, Durchfuhr- oder Ausfuhrverbot in den oder aus dem Geltungsbereich dieses Gesetzes verbracht werden, und werden diese Anhaltspunkte durch Nachprüfung nicht entkräftet, so werden die Waren und die dazugehörigen Verwaltungsvorgänge vorbehaltlich anderweitiger gesetzlicher Regelungen der Staatsanwaltschaft oder, wenn nur die Ahndung als Ordnungswidrigkeit in Betracht kommt, der für die Verfolgung und Ahndung zuständigen Verwaltungsbehörde vorgelegt. Für Postsendungen gilt dies nur, wenn zureichende tatsächliche Anhaltspunkte für eine Straftat vorliegen. Das Brief- und Postgeheimnis nach Artikel 10 des Grundgesetzes wird nach Maßgabe der Sätze 1 und 2 eingeschränkt.

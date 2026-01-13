@@ -932,7 +932,7 @@ Das Bundesverfassungsgericht kann seine Entscheidung ohne Begründung bekanntgeb
 
 (1) Der Berichterstatter des beanstandeten Verfahrens soll binnen eines Monats nach Eingang der Begründung der Verzögerungsbeschwerde eine Stellungnahme vorlegen.
 
-(2) Die Beschwerdekammer entscheidet mit Mehr-heit. Bei Stimmengleichheit gilt die Verzögerungsbeschwerde als zurückgewiesen. Die Beschwerdekammer entscheidet ohne mündliche Verhandlung. Der Beschluss über die Verzögerungsbeschwerde bedarf keiner Begründung.
+(2) Die Beschwerdekammer entscheidet mit Mehrheit. Bei Stimmengleichheit gilt die Verzögerungsbeschwerde als zurückgewiesen. Die Beschwerdekammer entscheidet ohne mündliche Verhandlung. Der Beschluss über die Verzögerungsbeschwerde bedarf keiner Begründung.
 
 (3) Die Entscheidung ist unanfechtbar.
 

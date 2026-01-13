@@ -189,13 +189,13 @@ Insbesondere können sie die weitere Teilnahme am Grundstoffverkehr ganz oder te
 
 1. entgegen § 3 einen Grundstoff besitzt, herstellt, mit ihm Handel treibt, ihn, ohne Handel zu treiben, einführt, ausführt, durch den oder im Geltungsbereich dieses Gesetzes befördert, veräußert, abgibt oder in sonstiger Weise einem anderen die Möglichkeit eröffnet, die tatsächliche Verfügung über ihn zu erlangen, erwirbt oder sich in sonstiger Weise verschafft,
 
-2. entgegen Artikel 3 Abs. 2 der Verordnung (EG) Nr. 273/2004 einen in Kategorie 1 des Anhangs I dieser Verordnung bezeichneten Grundstoff ohne Erlaubnis besitzt oder in den Verkehr bringt,
+2. entgegen Artikel 3 Absatz 2 der Verordnung (EG) Nr. 273/2004 in der Fassung vom 21. Mai 2025 einen in Kategorie 1 des Anhangs I dieser Verordnung bezeichneten Grundstoff ohne Erlaubnis besitzt oder in den Verkehr bringt,
 
-3. entgegen Artikel 6 Abs. 1 der Verordnung (EG) Nr. 111/2005 einen in Kategorie 1 des Anhangs dieser Verordnung bezeichneten Grundstoff ohne Erlaubnis einführt, ausführt oder ein Vermittlungsgeschäft mit ihm betreibt,
+3. entgegen Artikel 6 Absatz 1 Unterabsatz 1 der Verordnung (EG) Nr. 111/2005 in der Fassung vom 21. Mai 2025 einen in Kategorie 1 des Anhangs dieser Verordnung bezeichneten Grundstoff ohne Erlaubnis einführt, ausführt oder ein Vermittlungsgeschäft mit ihm betreibt,
 
-4. entgegen Artikel 12 Abs. 1 der Verordnung (EG) Nr. 111/2005 einen in Kategorie 1, 2, 3 oder 4 des Anhangs dieser Verordnung bezeichneten Grundstoff ohne Ausfuhrgenehmigung ausführt oder
+4. entgegen Artikel 12 Absatz 1 Unterabsatz 1 der Verordnung (EG) Nr. 111/2005 in der Fassung vom 21. Mai 2025 einen in Kategorie 1, 2, 3 oder 4 des Anhangs dieser Verordnung bezeichneten Grundstoff ohne Ausfuhrgenehmigung ausführt oder
 
-5. entgegen Artikel 20 der Verordnung (EG) Nr. 111/2005 einen in Kategorie 1 des Anhangs dieser Verordnung bezeichneten Grundstoff ohne Einfuhrgenehmigung einführt.
+5. entgegen Artikel 20 Absatz 1 Satz 1 der Verordnung (EG) Nr. 111/2005 in der Fassung vom 21. Mai 2025 einen in Kategorie 1 des Anhangs dieser Verordnung bezeichneten Grundstoff ohne Einfuhrgenehmigung einführt.
 
 (2) Der Versuch ist strafbar.
 
@@ -207,7 +207,7 @@ Insbesondere können sie die weitere Teilnahme am Grundstoffverkehr ganz oder te
 
 (4) Handelt der Täter in den Fällen des Absatzes 1 fahrlässig, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
-(5) Soweit auf die Verordnung (EG) Nr. 273/2004 oder die Verordnung (EG) Nr. 111/2005 Bezug genommen wird, ist jeweils die am 20. Februar 2023 geltende Fassung maßgeblich.
+(5) (weggefallen)
 
 # § 20 – Bußgeldvorschriften
 

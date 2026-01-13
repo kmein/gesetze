@@ -1584,7 +1584,7 @@ Gegenstände oder sonstige Leistungen, die der Unternehmer zur Ausführung einer
 
 (3) Der Ausschluss vom Vorsteuerabzug nach Absatz 2 tritt nicht ein, wenn die Umsätze
 
-1. in den Fällen des Absatzes 2 Nr. 1
+1. in den Fällen des Absatzes 2 Satz 1 Nr. 1
 
 a) nach § 4 Nr. 1 bis 7, § 25 Abs. 2 oder nach den in § 26 Abs. 5 bezeichneten Vorschriften steuerfrei sind oder
 
@@ -1598,7 +1598,7 @@ b) nach § 4 Nummer 8 Buchstabe a bis g, Nummer 10 oder Nummer 11 steuerfrei wä
 
 Satz 1 gilt nicht für Umsätze, die auch unter Absatz 2 Satz 1 Nummer 3 oder § 19 fallen.
 
-(4) Verwendet der Unternehmer einen für sein Unternehmen gelieferten, eingeführten oder innergemeinschaftlich erworbenen Gegenstand oder eine von ihm in Anspruch genommene sonstige Leistung nur zum Teil zur Ausführung von Umsätzen, die den Vorsteuerabzug ausschließen, so ist der Teil der jeweiligen Vorsteuerbeträge nicht abziehbar, der den zum Ausschluss vom Vorsteuerabzug führenden Umsätzen wirtschaftlich zuzuordnen ist. Der Unternehmer kann die nicht abziehbaren Teilbeträge im Wege einer sachgerechten Schätzung ermitteln. Eine Ermittlung des nicht abziehbaren Teils der Vorsteuerbeträge nach dem Verhältnis der Umsätze, die den Vorsteuerabzug ausschließen, zu den Gesamtumsätzen ist nur zulässig, wenn keine andere, präzisere wirtschaftliche Zuordnung möglich ist. In den Fällen des Absatzes 1b gelten die Sätze 1 bis 3 entsprechend.
+(4) Verwendet der Unternehmer einen für sein Unternehmen gelieferten, eingeführten oder innergemeinschaftlich erworbenen Gegenstand oder eine von ihm in Anspruch genommene sonstige Leistung nur zum Teil zur Ausführung von Umsätzen, die den Vorsteuerabzug ausschließen, so ist der Teil der jeweiligen Vorsteuerbeträge nicht abziehbar, der den zum Ausschluss vom Vorsteuerabzug führenden Umsätzen wirtschaftlich zuzuordnen ist. Der Unternehmer kann die nicht abziehbaren Teilbeträge im Wege einer sachgerechten Schätzung ermitteln. Eine Ermittlung des nicht abziehbaren Teils der Vorsteuerbeträge nach dem Verhältnis der Umsätze, die den Vorsteuerabzug ausschließen, zu den Gesamtumsätzen ist nur zulässig, wenn keine andere, präzisere wirtschaftliche Zuordnung möglich ist. Für Grundstücke ist dabei eine Aufteilung nach dem Verhältnis der Nutzflächen vorzunehmen, es sei denn, eine andere Methode führt zu einer demgegenüber präziseren wirtschaftlichen Zuordnung. In den Fällen des Absatzes 1b gelten die Sätze 1 bis 4 entsprechend.
 
 (4a) Für Fahrzeuglieferer (§ 2a) gelten folgende Einschränkungen des Vorsteuerabzugs:
 
@@ -2874,6 +2874,8 @@ Die Absätze 15 und 18 bleiben unberührt.
 3. Wertpapierinstitute im Sinne des § 2 Absatz 1 des Wertpapierinstitutsgesetzes sind,
 
 ist § 14b Absatz 1 Satz 1 in der ab dem 1. Januar 2025 geltenden Fassung abweichend von Satz 1 erstmals auf Unterlagen anzuwenden, deren Aufbewahrungsfrist nach § 14b Absatz 1 Satz 1 in der bis einschließlich 31. Dezember 2024 geltenden Fassung am 1. Januar 2026 noch nicht abgelaufen ist.
+
+(40a) Für vor dem 1. Januar 2026 nach § 4 Nummer 4a Satz 1 von der Steuer befreite Umsätze sind § 4 Nummer 4a Satz 1 Buchstabe a und b, Nummer 19 Buchstabe a Satz 4, § 10 Absatz 1 Satz 4, § 13 Absatz 1 Nummer 9, § 13a Absatz 1 Nummer 6, § 15 Absatz 1 Satz 1 Nummer 5, § 18e Nummer 2, § 22 Absatz 2 Nummer 9 und Absatz 4c in der am 31. Dezember 2025 geltenden Fassung bis zur Auslagerung und für diese Auslagerung der jeweiligen Gegenstände weiterhin anzuwenden. Mit Ablauf des 30. Dezember 2029 gelten alle bis zu diesem Zeitpunkt nicht ausgelagerten Gegenstände als ausgelagert im Sinne des § 4 Nummer 4a Satz 1 Buchstabe a Satz 3 in der bis zum 31. Dezember 2025 geltenden Fassung.
 
 # § 27a – Umsatzsteuer-Identifikationsnummer
 

@@ -1236,11 +1236,11 @@ Wenn mit dem Wiedereintritt der Arbeitsfähigkeit nicht zu rechnen ist und Leist
 
 # § 47 – Höhe des Verletztengeldes
 
-(1) Versicherte, die Arbeitsentgelt oder Arbeitseinkommen erzielt haben, erhalten Verletztengeld entsprechend § 47 Abs. 1 und 2 des Fünften Buches mit der Maßgabe, daß
+(1) Versicherte, die Arbeitsentgelt oder Arbeitseinkommen erzielt haben, erhalten Verletztengeld entsprechend § 47 Absatz 1, 2 und 5 des Fünften Buches mit der Maßgabe, daß
 
 1. das Regelentgelt aus dem Gesamtbetrag des regelmäßigen Arbeitsentgelts und des Arbeitseinkommens zu berechnen und bis zu einem Betrag in Höhe des 360. Teils des Höchstjahresarbeitsverdienstes zu berücksichtigen ist,
 
-2. das Verletztengeld 80 vom Hundert des Regelentgelts beträgt und das bei Anwendung des § 47 Abs. 1 und 2 des Fünften Buches berechnete Nettoarbeitsentgelt nicht übersteigt.
+2. das Verletztengeld 80 vom Hundert des Regelentgelts beträgt und das bei Anwendung des § 47 Absatz 1, 2 und 5 des Fünften Buches berechnete Nettoarbeitsentgelt nicht übersteigt.
 
 Arbeitseinkommen ist bei der Ermittlung des Regelentgelts mit dem 360. Teil des im Kalenderjahr vor Beginn der Arbeitsunfähigkeit oder der Maßnahmen der Heilbehandlung erzielten Arbeitseinkommens zugrunde zu legen. Die Satzung hat bei nicht kontinuierlicher Arbeitsverrichtung und -vergütung abweichende Bestimmungen zur Zahlung und Berechnung des Verletztengeldes vorzusehen, die sicherstellen, daß das Verletztengeld seine Entgeltersatzfunktion erfüllt.
 
@@ -3340,7 +3340,7 @@ Zur Verfolgung und Ahndung von Ordnungswidrigkeiten arbeiten die Unfallversicher
 
 1. Verstöße gegen das Schwarzarbeitsbekämpfungsgesetz,
 
-2. eine Beschäftigung oder Tätigkeit von Ausländern ohne erforderlichen Aufenthaltstitel nach § 4 Abs. 3 des Aufenthaltsgesetzes, eine Aufenthaltsgestattung oder eine Duldung, die zur Ausübung der Beschäftigung berechtigen, oder eine Genehmigung nach § 284 Abs. 1 des Dritten Buches,
+2. eine Beschäftigung oder Tätigkeit von Ausländern ohne erforderlichen Aufenthaltstitel nach § 4a Absatz 5 Satz 1 des Aufenthaltsgesetzes, eine Erlaubnis oder Berechtigung nach § 4a Absatz 5 Satz 2 in Verbindung mit Absatz 4 des Aufenthaltsgesetzes, eine Aufenthaltsgestattung oder eine Duldung, die zur Ausübung der Beschäftigung berechtigen, oder eine Genehmigung nach § 284 Absatz 1 des Dritten Buches,
 
 3. Verstöße gegen die Mitwirkungspflicht nach § 60 Abs. 1 Satz 1 Nr. 2 des Ersten Buches gegenüber einer Dienststelle der Bundesagentur für Arbeit, einem Träger der gesetzlichen Kranken-, Pflege- oder Rentenversicherung, einem nach § 6 Abs. 1 Satz 1 Nr. 2 des Zweiten Buches zuständigen Träger oder einem nach § 6a des Zweiten Buches zugelassenen kommunalen Träger oder einem Träger der Sozialhilfe oder gegen die Meldepflicht nach § 8a des Asylbewerberleistungsgesetzes,
 
@@ -3350,7 +3350,13 @@ Zur Verfolgung und Ahndung von Ordnungswidrigkeiten arbeiten die Unfallversicher
 
 6. Verstöße gegen die Steuergesetze,
 
-7. Verstöße gegen das Aufenthaltsgesetz
+7. Verstöße gegen das Aufenthaltsgesetz,
+
+8. Verstöße gegen das Gesetz zur Sicherung von Arbeitnehmerrechten in der Fleischwirtschaft,
+
+9. Verstöße gegen das Mindestlohngesetz,
+
+10. Verstöße gegen das Arbeitnehmer-Entsendegesetz
 
 ergeben. Sie unterrichten die für die Verfolgung und Ahndung zuständigen Behörden, die Träger der Sozialhilfe sowie die Behörden nach § 71 des Aufenthaltsgesetzes. Die Unterrichtung kann auch Angaben über die Tatsachen, die für die Einziehung der Beiträge zur Unfallversicherung erforderlich sind, enthalten. Medizinische und psychologische Daten, die über einen Versicherten erhoben worden sind, dürfen die Unfallversicherungsträger nicht übermitteln.
 

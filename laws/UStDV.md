@@ -725,7 +725,7 @@ Die §§ 33 und 34 bleiben unberührt. § 31 gilt entsprechend. Eine Rechnung na
 
 # § 40 – Vorsteuerabzug bei unfreien Versendungen
 
-(1) Läßt ein Absender einen Gegenstand durch einen Frachtführer oder Verfrachter unfrei zu einem Dritten befördern oder eine solche Beförderung durch einen Spediteur unfrei besorgen, so ist für den Vorsteuerabzug der Empfänger der Frachtsendung als Auftraggeber dieser Leistungen anzusehen. Der Absender darf die Steuer für diese Leistungen nicht als Vorsteuer abziehen. Der Empfänger der Frachtsendung kann diese Steuer unter folgenden Voraussetzungen abziehen:
+(1) Lässt ein Absender einen Gegenstand durch einen Frachtführer oder Verfrachter unfrei zu einem Dritten befördern oder eine solche Beförderung durch einen Spediteur unfrei besorgen, so ist für den Vorsteuerabzug der Empfänger der Frachtsendung als Auftraggeber dieser Leistungen anzusehen. Der Absender darf die Steuer für diese Leistungen nicht als Vorsteuer abziehen. Der Empfänger der Frachtsendung kann diese Steuer unter folgenden Voraussetzungen abziehen:
 
 1. Er muss im Übrigen hinsichtlich der Beförderung oder ihrer Besorgung zum Abzug der Steuer berechtigt sein (§ 15 Abs. 1 Satz 1 Nr. 1 des Gesetzes).
 

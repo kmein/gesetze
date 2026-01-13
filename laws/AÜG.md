@@ -343,23 +343,27 @@ wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft. Handelt
 
 10. entgegen § 13b Satz 1 Zugang nicht gewährt,
 
-11. entgegen § 17a in Verbindung mit § 5 Absatz 1 Satz 1 Nummer 1 oder 3 des Schwarzarbeitsbekämpfungsgesetzes eine Prüfung nicht duldet oder bei dieser Prüfung nicht mitwirkt,
+11. entgegen § 17a Satz 1 in Verbindung mit § 5 Absatz 1 Satz 1 Nummer 1 des Schwarzarbeitsbekämpfungsgesetzes eine Prüfung nicht duldet oder bei dieser Prüfung nicht mitwirkt,
 
-12. entgegen § 17a in Verbindung mit § 5 Absatz 1 Satz 1 Nummer 2 des Schwarzarbeitsbekämpfungsgesetzes das Betreten eines Grundstücks oder Geschäftsraums nicht duldet,
+12. entgegen § 17a Satz 1 in Verbindung mit § 5 Absatz 1 Satz 1 Nummer 2 des Schwarzarbeitsbekämpfungsgesetzes das Betreten eines Grundstücks oder Geschäftsraums nicht duldet,
 
-13. entgegen § 17a in Verbindung mit § 5 Absatz 5 Satz 1 des Schwarzarbeitsbekämpfungsgesetzes Daten nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig übermittelt,
+13. entgegen § 17a Satz 1 in Verbindung mit § 5 Absatz 1 Satz 1 Nummer 3 Buchstabe a des Schwarzarbeitsbekämpfungsgesetzes eine dort genannte Auskunft nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erteilt,
 
-14. entgegen § 17b Absatz 1 Satz 1 eine Anmeldung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig zuleitet,
+14. entgegen § 17a Satz 1 in Verbindung mit § 5 Absatz 1 Satz 1 Nummer 3 Buchstabe b des Schwarzarbeitsbekämpfungsgesetzes eine dort genannte Unterlage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig bereitstellt oder nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
 
-15. entgegen § 17b Absatz 1 Satz 2 eine Änderungsmeldung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht,
+15. entgegen § 17a Satz 1 in Verbindung mit § 5 Absatz 1 Satz 1 Nummer 4 des Schwarzarbeitsbekämpfungsgesetzes die Einsicht in eine dort genannte Unterlage nicht, nicht richtig oder nicht rechtzeitig ermöglicht,
 
-16. entgegen § 17c Absatz 1 eine Aufzeichnung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstellt oder nicht oder nicht mindestens zwei Jahre aufbewahrt oder
+16. entgegen § 17b Absatz 1 Satz 1 eine Anmeldung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig zuleitet,
 
-17. entgegen § 17c Absatz 2 eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise bereithält.
+17. entgegen § 17b Absatz 1 Satz 2 eine Änderungsmeldung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht,
 
-(2) Die Ordnungswidrigkeit nach Absatz 1 Nummer 1 bis 1f, 6 und 11 bis 17 kann mit einer Geldbuße bis zu dreißigtausend Euro, die Ordnungswidrigkeit nach Absatz 1 Nummer 2, 7a, 7b und 8a mit einer Geldbuße bis zu fünfhunderttausend Euro, die Ordnungswidrigkeit nach Absatz 1 Nummer 2a, 3, 9 und 10 mit einer Geldbuße bis zu zweitausendfünfhundert Euro, die Ordnungswidrigkeit nach Absatz 1 Nummer 8 mit einer Geldbuße bis zu zweitausend Euro und die Ordnungswidrigkeit nach Absatz 1 Nummer 4, 5 und 6a mit einer Geldbuße bis zu tausend Euro geahndet werden.
+18. entgegen § 17c Absatz 1 eine Aufzeichnung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstellt oder nicht oder nicht mindestens zwei Jahre aufbewahrt oder
 
-(3) Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten sind in den Fällen des Absatzes 1 Nummer 1, 1a, 1c, 1d, 1f, 2, 2a und 7b sowie 11 bis 17 die Behörden der Zollverwaltung jeweils für ihren Geschäftsbereich, in den Fällen des Absatzes 1 Nummer 1b, 1e, 3 bis 7a sowie 8 bis 10 die Bundesagentur für Arbeit.
+19. entgegen § 17c Absatz 2 eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise bereithält.
+
+(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 2, 7a, 7b und 8a mit einer Geldbuße bis zu fünfhunderttausend Euro, in den Fällen des Absatzes 1 Nummer 18 mit einer Geldbuße bis zu fünfzigtausend Euro, in den Fällen des Absatzes 1 Nummer 1 bis 1f, 6, 11 bis 17 und 19 mit einer Geldbuße bis zu dreißigtausend Euro, in den Fällen des Absatzes 1 Nummer 2a, 3, 9 und 10 mit einer Geldbuße bis zu dreitausend Euro, in den Fällen des Absatzes 1 Nummer 8 mit einer Geldbuße bis zu zweitausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu eintausend Euro geahndet werden.
+
+(3) Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten sind in den Fällen des Absatzes 1 Nummer 1, 1a, 1c, 1d, 1f, 2, 2a und 7b sowie 11 bis 19 die Behörden der Zollverwaltung jeweils für ihren Geschäftsbereich, in den Fällen des Absatzes 1 Nummer 1b, 1e, 3 bis 7a sowie 8 bis 10 die Bundesagentur für Arbeit.
 
 (4) §§ 66 des Zehnten Buches Sozialgesetzbuch gilt entsprechend.
 
@@ -373,7 +377,7 @@ wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft. Handelt
 
 # § 17a – Befugnisse der Behörden der Zollverwaltung
 
-Die §§ 2, 3 bis 6 und 14 bis 20, 22, 23 des Schwarzarbeitsbekämpfungsgesetzes sind entsprechend anzuwenden mit der Maßgabe, dass die dort genannten Behörden auch Einsicht in Arbeitsverträge, Niederschriften nach § 2 des Nachweisgesetzes und andere Geschäftsunterlagen nehmen können, die mittelbar oder unmittelbar Auskunft über die Einhaltung der Arbeitsbedingungen nach § 8 Absatz 5 geben.
+Die §§ 2, 3 bis 7, 13, 14, 15 bis 20, 22 und 23 des Schwarzarbeitsbekämpfungsgesetzes sind entsprechend anzuwenden mit der Maßgabe, dass die dort genannten Behörden auch Einsicht in Arbeitsverträge, Niederschriften nach § 2 des Nachweisgesetzes und andere Geschäftsunterlagen nehmen können, die mittelbar oder unmittelbar Auskunft über die Einhaltung der Arbeitsbedingungen nach § 8 Absatz 5 geben. Entsandte Arbeitnehmerinnen und Arbeitnehmer können im Rahmen der Prüfungen nach dem Schwarzarbeitsbekämpfungsgesetz auch nach dem Abschluss der Entsendung kontaktiert werden.
 
 # § 17b – Meldepflicht
 
@@ -444,6 +448,12 @@ Die §§ 2, 3 bis 6 und 14 bis 20, 22, 23 des Schwarzarbeitsbekämpfungsgesetzes
 5. Verstöße gegen die Steuergesetze,
 
 6. Verstöße gegen das Aufenthaltsgesetz,
+
+7. Verstöße gegen das Gesetz zur Sicherung von Arbeitnehmerrechten in der Fleischwirtschaft,
+
+8. Verstöße gegen das Mindestlohngesetz,
+
+9. Verstöße gegen das Arbeitnehmer-Entsendegesetz,
 
 unterrichten sie die für die Verfolgung und Ahndung zuständigen Behörden, die Träger der Sozialhilfe sowie die Behörden nach § 71 des Aufenthaltsgesetzes.
 

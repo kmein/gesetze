@@ -358,7 +358,7 @@ Für die Prüfung der Einhaltung der Pflichten eines Arbeitgebers nach § 8, sow
 
 # § 17 – Befugnisse der Behörden der Zollverwaltung und anderer Behörden
 
-Die §§ 2 bis 6, 14, 15, 20, 22 und 23 des Schwarzarbeitsbekämpfungsgesetzes sind entsprechend anzuwenden mit der Maßgabe, dass
+Die §§ 2, 3 bis 7, 13, 14, 15 bis 20, 22 und 23 des Schwarzarbeitsbekämpfungsgesetzes sind entsprechend anzuwenden mit der Maßgabe, dass
 
 1. die dort genannten Behörden auch Einsicht in Arbeitsverträge, Niederschriften nach § 2 des Nachweisgesetzes und andere Geschäftsunterlagen nehmen können, die mittelbar oder unmittelbar Auskunft über die Einhaltung der Arbeitsbedingungen nach § 8 geben,
 
@@ -366,7 +366,7 @@ Die §§ 2 bis 6, 14, 15, 20, 22 und 23 des Schwarzarbeitsbekämpfungsgesetzes s
 
 3. die Behörden der Zollverwaltung zur Prüfung von Arbeitsbedingungen nach § 5 Satz 1 Nummer 4 befugt sind, bei einer dringenden Gefahr für die öffentliche Sicherheit und Ordnung die vom Arbeitgeber zur Verfügung gestellten Unterkünfte für Arbeitnehmer und Arbeitnehmerinnen zu jeder Tages- und Nachtzeit zu betreten.
 
-Die §§ 16 bis 19 des Schwarzarbeitsbekämpfungsgesetzes finden Anwendung. § 6 Absatz 4 des Schwarzarbeitsbekämpfungsgesetzes findet entsprechende Anwendung. Für die Datenverarbeitung, die dem in § 16 genannten Zweck oder der Zusammenarbeit mit den Behörden des Europäischen Wirtschaftsraums nach § 20 Abs. 2 dient, findet § 67 Absatz 3 Nummer 4 des Zehnten Buches Sozialgesetzbuch keine Anwendung. Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird durch Satz 1 Nummer 3 eingeschränkt.
+Entsandte Arbeitnehmer und Arbeitnehmerinnen können im Rahmen der Prüfungen nach dem Schwarzarbeitsbekämpfungsgesetz auch nach dem Abschluss der Entsendung kontaktiert werden. Für die Datenverarbeitung, die dem in § 16 genannten Zweck oder der Zusammenarbeit mit den Behörden des Europäischen Wirtschaftsraums nach § 20 Abs. 2 dient, findet § 67 Absatz 3 Nummer 4 des Zehnten Buches Sozialgesetzbuch keine Anwendung. Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird durch Satz 1 Nummer 3 eingeschränkt.
 
 (+++ Abschn. 6 (§§ 16 bis 23): Zur Anwendung vgl. §§ 13 u. 13a +++)
 
@@ -486,11 +486,11 @@ Die Behörden der Zollverwaltung dürfen die Unterlagen nach Satz 1 nur für den
 
 # § 21 – Ausschluss von der Vergabe öffentlicher Aufträge
 
-(1) Von der Teilnahme an einem Wettbewerb um einen Liefer-, Bau- oder Dienstleistungsauftrag der in §§ 99 und 100 des Gesetzes gegen Wettbewerbsbeschränkungen genannten Auftraggeber sollen Bewerber oder Bewerberinnen für eine angemessene Zeit bis zur nachgewiesenen Wiederherstellung ihrer Zuverlässigkeit ausgeschlossen werden, die wegen eines Verstoßes nach § 23 Absatz 1 Nummer 1 bis 9 und 11 oder Absatz 2 mit einer Geldbuße von wenigstens zweitausendfünfhundert Euro belegt worden sind. Das Gleiche gilt auch schon vor Durchführung eines Bußgeldverfahrens, wenn im Einzelfall angesichts der Beweislage kein vernünftiger Zweifel an einer schwerwiegenden Verfehlung im Sinne des Satzes 1 besteht.
+(1) Von der Teilnahme an einem Wettbewerb um einen Liefer-, Bau- oder Dienstleistungsauftrag der in §§ 99 und 100 des Gesetzes gegen Wettbewerbsbeschränkungen genannten Auftraggeber sollen Bewerber oder Bewerberinnen für eine angemessene Zeit bis zur nachgewiesenen Wiederherstellung ihrer Zuverlässigkeit ausgeschlossen werden, die wegen eines Verstoßes nach § 23 Absatz 1 Nummer 1 bis 11 und 13 oder Absatz 2 mit einer Geldbuße von wenigstens zweitausendfünfhundert Euro belegt worden sind. Das Gleiche gilt auch schon vor Durchführung eines Bußgeldverfahrens, wenn im Einzelfall angesichts der Beweislage kein vernünftiger Zweifel an einer schwerwiegenden Verfehlung im Sinne des Satzes 1 besteht.
 
-(2) Die für die Verfolgung oder Ahndung der Ordnungswidrigkeiten nach § 23 Absatz 1 Nummer 1 bis 9 und 11 oder Absatz 2 zuständigen Behörden dürfen öffentlichen Auftraggebern nach § 99 des Gesetzes gegen Wettbewerbsbeschränkungen und solchen Stellen, die von öffentlichen Auftraggebern zugelassene Präqualifikationsverzeichnisse oder Unternehmer- und Lieferantenverzeichnisse führen, auf Verlangen die erforderlichen Auskünfte geben.
+(2) Die für die Verfolgung oder Ahndung der Ordnungswidrigkeiten nach § 23 Absatz 1 Nummer 1 bis 11 und 13 oder Absatz 2 zuständigen Behörden dürfen öffentlichen Auftraggebern nach § 99 des Gesetzes gegen Wettbewerbsbeschränkungen und solchen Stellen, die von öffentlichen Auftraggebern zugelassene Präqualifikationsverzeichnisse oder Unternehmer- und Lieferantenverzeichnisse führen, auf Verlangen die erforderlichen Auskünfte geben.
 
-(3) Öffentliche Auftraggeber nach Absatz 2 fordern im Rahmen ihrer Tätigkeit beim Wettbewerbsregister Auskünfte über rechtskräftige Bußgeldentscheidungen wegen einer Ordnungswidrigkeit nach § 23 Absatz 1 Nummer 1 bis 9 und 11 oder Absatz 2 an oder verlangen von Bewerbern oder Bewerberinnen eine Erklärung, dass die Voraussetzungen für einen Ausschluss nach Absatz 1 nicht vorliegen. Im Falle einer Erklärung des Bewerbers oder der Bewerberin können öffentliche Auftraggeber nach Absatz 2 jederzeit zusätzlich Auskünfte des Wettbewerbsregisters anfordern.
+(3) Öffentliche Auftraggeber nach Absatz 2 fordern im Rahmen ihrer Tätigkeit beim Wettbewerbsregister Auskünfte über rechtskräftige Bußgeldentscheidungen wegen einer Ordnungswidrigkeit nach § 23 Absatz 1 Nummer 1 bis 11 und 13 oder Absatz 2 an oder verlangen von Bewerbern oder Bewerberinnen eine Erklärung, dass die Voraussetzungen für einen Ausschluss nach Absatz 1 nicht vorliegen. Im Falle einer Erklärung des Bewerbers oder der Bewerberin können öffentliche Auftraggeber nach Absatz 2 jederzeit zusätzlich Auskünfte des Wettbewerbsregisters anfordern.
 
 (4) Bei Aufträgen ab einer Höhe von 30 000 Euro fordert der öffentliche Auftraggeber nach Absatz 2 für den Bewerber oder die Bewerberin, der oder die den Zuschlag erhalten soll, vor der Zuschlagserteilung eine Auskunft aus dem Wettbewerbsregister an.
 
@@ -506,25 +506,29 @@ Die Behörden der Zollverwaltung dürfen die Unterlagen nach Satz 1 nur für den
 
 1. entgegen § 8 Abs. 1 Satz 1 oder Abs. 3 eine Arbeitsbedingung, deren Einhaltung nach § 16 von den Behörden der Zollverwaltung geprüft wird, nicht oder nicht rechtzeitig gewährt oder einen Beitrag nicht oder nicht rechtzeitig leistet,
 
-2. entgegen § 17 Satz 1 in Verbindung mit § 5 Abs. 1 Satz 1 Nummer 1 oder 3 des Schwarzarbeitsbekämpfungsgesetzes eine Prüfung nicht duldet oder bei einer Prüfung nicht mitwirkt,
+2. entgegen § 17 Satz 1 in Verbindung mit § 5 Abs. 1 Satz 1 Nummer 1 des Schwarzarbeitsbekämpfungsgesetzes eine Prüfung nicht duldet oder bei einer Prüfung nicht mitwirkt,
 
 3. entgegen § 17 Satz 1 in Verbindung mit § 5 Abs. 1 Satz 1 Nummer 2 des Schwarzarbeitsbekämpfungsgesetzes das Betreten eines Grundstücks oder Geschäftsraums nicht duldet,
 
-4. entgegen § 17 Satz 1 in Verbindung mit § 5 Absatz 5 Satz 1 des Schwarzarbeitsbekämpfungsgesetzes Daten nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig übermittelt,
+4. entgegen § 17 Satz 1 in Verbindung mit § 5 Absatz 1 Satz 1 Nummer 3 Buchstabe a des Schwarzarbeitsbekämpfungsgesetzes eine dort genannte Auskunft nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erteilt,
 
-5. entgegen § 18 Absatz 1 Satz 1, Absatz 2 Satz 1 oder Absatz 3 Satz 1 eine Anmeldung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vorlegt oder nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig zuleitet,
+5. entgegen § 17 Satz 1 in Verbindung mit § 5 Absatz 1 Satz 1 Nummer 3 Buchstabe b des Schwarzarbeitsbekämpfungsgesetzes eine dort genannte Unterlage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig bereitstellt oder nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
 
-6. entgegen § 18 Absatz 1 Satz 3, auch in Verbindung mit Absatz 2 Satz 2 oder Absatz 3 Satz 2, eine Änderungsmeldung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht,
+6. entgegen § 17 Satz 1 in Verbindung mit § 5 Absatz 1 Satz 1 Nummer 4 des Schwarzarbeitsbekämpfungsgesetzes die Einsicht in eine dort genannte Unterlage nicht, nicht richtig oder nicht rechtzeitig ermöglicht,
 
-7. entgegen § 19 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, eine Aufzeichnung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstellt oder nicht oder nicht mindestens zwei Jahre aufbewahrt,
+7. entgegen § 18 Absatz 1 Satz 1, Absatz 2 Satz 1 oder Absatz 3 Satz 1 eine Anmeldung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vorlegt oder nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig zuleitet,
 
-8. entgegen § 19 Absatz 2 eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise bereithält,
+8. entgegen § 18 Absatz 1 Satz 3, auch in Verbindung mit Absatz 2 Satz 2 oder Absatz 3 Satz 2, eine Änderungsmeldung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht,
 
-9. entgegen § 19 Absatz 2a Satz 1 nicht sicherstellt, dass die dort genannten Unterlagen zur Verfügung stehen,
+9. entgegen § 19 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, eine Aufzeichnung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstellt oder nicht oder nicht mindestens zwei Jahre aufbewahrt,
 
-10. entgegen § 19 Absatz 2a Satz 2 eine Unterlage nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vorlegt oder
+10. entgegen § 19 Absatz 2 eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise bereithält,
 
-11. entgegen § 19 Absatz 2b Satz 1 oder 3 eine Unterlage nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig übermittelt.
+11. entgegen § 19 Absatz 2a Satz 1 nicht sicherstellt, dass die dort genannten Unterlagen zur Verfügung stehen,
+
+12. entgegen § 19 Absatz 2a Satz 2 eine Unterlage nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vorlegt oder
+
+13. entgegen § 19 Absatz 2b Satz 1 oder 3 eine Unterlage nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig übermittelt.
 
 (2) Ordnungswidrig handelt, wer Werk- oder Dienstleistungen in erheblichem Umfang ausführen lässt, indem er als Unternehmer einen anderen Unternehmer beauftragt, von dem er weiß oder fahrlässig nicht weiß, dass dieser bei der Erfüllung dieses Auftrags
 
@@ -532,7 +536,7 @@ Die Behörden der Zollverwaltung dürfen die Unterlagen nach Satz 1 nur für den
 
 2. einen Nachunternehmer einsetzt oder zulässt, dass ein Nachunternehmer tätig wird, der entgegen § 8 Abs. 1 Satz 1 oder Abs. 3 eine Arbeitsbedingung, deren Einhaltung nach § 16 von den Behörden der Zollverwaltung geprüft wird, nicht oder nicht rechtzeitig gewährt oder einen Beitrag nicht oder nicht rechtzeitig leistet.
 
-(3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 1 und des Absatzes 2 mit einer Geldbuße bis zu fünfhunderttausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu dreißigtausend Euro geahndet werden.
+(3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 1 und des Absatzes 2 mit einer Geldbuße bis zu fünfhunderttausend Euro, in den Fällen des Absatzes 1 Nummer 9 mit einer Geldbuße bis zu fünfzigtausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu dreißigtausend Euro geahndet werden.
 
 (4) Verwaltungsbehörden im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten sind die in § 16 genannten Behörden jeweils für ihren Geschäftsbereich.
 
@@ -710,7 +714,7 @@ Die Arbeitsbedingungen nach § 2 Absatz 1 Nummer 1 und 2, § 5 Satz 1 Nummer 1 b
 
 1. für ihren Arbeitgeber Besprechungen oder Verhandlungen im Inland führen, Vertragsangebote erstellen oder Verträge schließen,
 
-2. als Besucher an einer Messeveranstaltung, Fachkonferenz oder Fachtagung teilnehmen, ohne Tätigkeiten nach § 2a Absatz 1 Nummer 8 des Schwarzarbeitsbekämpfungsgesetzes zu erbringen,
+2. als Besucher an einer Messeveranstaltung, Fachkonferenz oder Fachtagung teilnehmen, ohne Tätigkeiten nach § 2a Absatz 1 Nummer 7 des Schwarzarbeitsbekämpfungsgesetzes zu erbringen,
 
 3. für ihren Arbeitgeber einen inländischen Unternehmensteil gründen oder
 

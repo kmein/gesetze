@@ -201,7 +201,9 @@ c) die Heilfürsorge, die Soldaten nach § 16 des Wehrsoldgesetzes und Zivildien
 
 d) das an Personen, die einen in § 32 Absatz 4 Satz 1 Nummer 2 Buchstabe d genannten Freiwilligendienst leisten, gezahlte Taschengeld oder eine vergleichbare Geldleistung,
 
-e) Leistungen nach § 5 des Wehrsoldgesetzes;
+e) Leistungen nach § 5 des Wehrsoldgesetzes,
+
+f) Zuschüsse nach den §§ 31b und 31c des Soldatengesetzes;
 
 6. Bezüge, die auf Grund gesetzlicher Vorschriften aus öffentlichen Mitteln versorgungshalber an Wehrdienstbeschädigte, im Freiwilligen Wehrdienst Beschädigte, Zivildienstbeschädigte und im Bundesfreiwilligendienst Beschädigte oder ihre Hinterbliebenen, Kriegsbeschädigte, Kriegshinterbliebene und ihnen gleichgestellte Personen gezahlt werden, soweit es sich nicht um Bezüge handelt, die auf Grund der Dienstzeit gewährt werden. ²Gleichgestellte im Sinne des Satzes 1 sind auch Personen, die Anspruch auf Leistungen nach dem Vierzehnten Buch Sozialgesetzbuch oder auf Unfallfürsorgeleistungen nach dem Soldatenversorgungsgesetz, Soldatenentschädigungsgesetz, Beamtenversorgungsgesetz oder vergleichbarem Landesrecht haben;
 

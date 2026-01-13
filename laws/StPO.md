@@ -231,25 +231,23 @@ Das für die Erledigung eines Ablehnungsgesuchs zuständige Gericht hat auch dan
 
 (1) Elektronische Dokumente können bei Strafverfolgungsbehörden und Gerichten nach Maßgabe der folgenden Absätze eingereicht werden.
 
-(2) Das elektronische Dokument muss für die Bearbeitung durch die Strafverfolgungsbehörde oder das Gericht geeignet sein. Die Bundesregierung bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates technische Rahmenbedingungen für die Übermittlung und die Eignung zur Bearbeitung durch die Strafverfolgungsbehörde oder das Gericht sowie das Nähere zur Verarbeitung von Daten der Postfachinhaber nach Absatz 4 Satz 1 Nummer 4 und 5 in einem sicheren elektronischen Verzeichnis.
+(2) Das elektronische Dokument muss für die Bearbeitung durch die Strafverfolgungsbehörde oder das Gericht geeignet sein. Die Bundesregierung bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates technische Rahmenbedingungen für die Übermittlung und die Eignung zur Bearbeitung durch die Strafverfolgungsbehörde oder das Gericht sowie das Nähere zur Verarbeitung von Daten der Postfachinhaber nach Absatz 4 Satz 1 Nummer 3 und 4 in einem sicheren elektronischen Verzeichnis.
 
 (3) Ein Dokument, das schriftlich abzufassen, zu unterschreiben oder zu unterzeichnen ist, muss als elektronisches Dokument mit einer qualifizierten elektronischen Signatur der verantwortenden Person versehen sein oder von der verantwortenden Person signiert und auf einem sicheren Übermittlungsweg eingereicht werden. Soll ein Dokument, das von einem Beschuldigten, einem anderen Verfahrensbeteiligten oder einem Dritten schriftlich abzufassen, zu unterschreiben oder zu unterzeichnen ist, elektronisch eingereicht werden, so kann es in ein elektronisches Dokument übertragen und durch einen Verteidiger oder Rechtsanwalt nach Satz 1 übermittelt werden.
 
 (4) Sichere Übermittlungswege sind
 
-1. der Postfach- und Versanddienst eines De-Mail-Kontos, wenn der Absender bei Versand der Nachricht sicher im Sinne des § 4 Absatz 1 Satz 2 des De-Mail-Gesetzes angemeldet ist und er sich die sichere Anmeldung gemäß § 5 Absatz 5 des De-Mail-Gesetzes bestätigen lässt,
+1. der Übermittlungsweg zwischen den besonderen elektronischen Anwaltspostfächern nach den §§ 31a und 31b der Bundesrechtsanwaltsordnung oder einem entsprechenden, auf gesetzlicher Grundlage errichteten elektronischen Postfach und der elektronischen Poststelle der Behörde oder des Gerichts,
 
-2. der Übermittlungsweg zwischen den besonderen elektronischen Anwaltspostfächern nach den §§ 31a und 31b der Bundesrechtsanwaltsordnung oder einem entsprechenden, auf gesetzlicher Grundlage errichteten elektronischen Postfach und der elektronischen Poststelle der Behörde oder des Gerichts,
+2. der Übermittlungsweg zwischen einem nach Durchführung eines Identifizierungsverfahrens eingerichteten Postfach einer Behörde oder einer juristischen Person des öffentlichen Rechts und der elektronischen Poststelle der Behörde oder des Gerichts,
 
-3. der Übermittlungsweg zwischen einem nach Durchführung eines Identifizierungsverfahrens eingerichteten Postfach einer Behörde oder einer juristischen Person des öffentlichen Rechts und der elektronischen Poststelle der Behörde oder des Gerichts,
+3. der Übermittlungsweg zwischen einem nach Durchführung eines Identifizierungsverfahrens eingerichteten elektronischen Postfach einer natürlichen oder juristischen Person oder einer sonstigen Vereinigung und der elektronischen Poststelle der Behörde oder des Gerichts,
 
-4. der Übermittlungsweg zwischen einem nach Durchführung eines Identifizierungsverfahrens eingerichteten elektronischen Postfach einer natürlichen oder juristischen Person oder einer sonstigen Vereinigung und der elektronischen Poststelle der Behörde oder des Gerichts,
+4. der Übermittlungsweg zwischen einem nach Durchführung eines Identifizierungsverfahrens genutzten Postfach- und Versanddienst eines Nutzerkontos im Sinne des § 2 Absatz 5 des Onlinezugangsgesetzes und der elektronischen Poststelle der Behörde oder des Gerichts,
 
-5. der Übermittlungsweg zwischen einem nach Durchführung eines Identifizierungsverfahrens genutzten Postfach- und Versanddienst eines Nutzerkontos im Sinne des § 2 Absatz 5 des Onlinezugangsgesetzes und der elektronischen Poststelle der Behörde oder des Gerichts,
+5. sonstige bundeseinheitliche Übermittlungswege, die durch Rechtsverordnung der Bundesregierung mit Zustimmung des Bundesrates festgelegt werden, bei denen die Authentizität und Integrität der Daten sowie die Barrierefreiheit gewährleistet sind.
 
-6. sonstige bundeseinheitliche Übermittlungswege, die durch Rechtsverordnung der Bundesregierung mit Zustimmung des Bundesrates festgelegt werden, bei denen die Authentizität und Integrität der Daten sowie die Barrierefreiheit gewährleistet sind.
-
-Das Nähere zu den Übermittlungswegen gemäß Satz 1 Nummer 3 bis 5 regelt die Rechtsverordnung nach Absatz 2 Satz 2.
+Das Nähere zu den Übermittlungswegen gemäß Satz 1 Nummer 2 bis 4 regelt die Rechtsverordnung nach Absatz 2 Satz 2.
 
 (5) Ein elektronisches Dokument ist eingegangen, sobald es auf der für den Empfang bestimmten Einrichtung der Behörde oder des Gerichts gespeichert ist. Dem Absender ist eine automatisierte Bestätigung über den Zeitpunkt des Eingangs zu erteilen.
 

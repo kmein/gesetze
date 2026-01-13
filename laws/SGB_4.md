@@ -577,7 +577,7 @@ Betriebsstätten sind eindeutig einem Unternehmen nach Absatz 1 zugeordnet. Besc
 
 (1) Die Bundesagentur für Arbeit übermittelt die Betriebsnummern und die Angaben nach § 18i Absatz 2 und 4 aus dem Dateisystem der Beschäftigungsbetriebe den Leistungsträgern nach den §§ 12 und 18 bis 29 des Ersten Buches, der Künstlersozialkasse, der Datenstelle der Rentenversicherung, den berufsständischen Versorgungseinrichtungen und deren Datenannahmestelle und der Deutschen Gesetzlichen Unfallversicherung e. V. sowie den gemeinsamen Einrichtungen im Sinne von § 4 Absatz 2 des Tarifvertragsgesetzes zur weiteren Verarbeitung, soweit dies für die Erfüllung ihrer Aufgaben nach diesem Gesetzbuch erforderlich ist.
 
-(2) Die Sozialversicherungsträger, ihre Verbände und ihre Arbeitsgemeinschaften, die Künstlersozialkasse, die Behörden der Zollverwaltung, soweit sie Aufgaben nach § 2 des Schwarzarbeitsbekämpfungsgesetzes oder nach § 66 des Zehnten Buches wahrnehmen, sowie die zuständigen Aufsichtsbehörden und die Arbeitgeber dürfen die Betriebsnummern speichern, verändern, nutzen, übermitteln und in der Verarbeitung einschränken, soweit dies für die Erfüllung einer Aufgabe nach diesem Gesetzbuch oder dem Künstlersozialversicherungsgesetz erforderlich ist. Andere Behörden, Gerichte oder Dritte dürfen die Betriebsnummern speichern, verändern, nutzen, übermitteln oder in der Verarbeitung einschränken, soweit dies für die Erfüllung einer gesetzlichen Aufgabe einer der in Satz 1 genannten Stellen erforderlich ist.
+(2) Die Sozialversicherungsträger, ihre Verbände und ihre Arbeitsgemeinschaften, die Künstlersozialkasse, die Behörden der Zollverwaltung, soweit sie Aufgaben nach § 2 oder § 25 des Schwarzarbeitsbekämpfungsgesetzes oder nach § 66 des Zehnten Buches wahrnehmen, sowie die zuständigen Aufsichtsbehörden und die Arbeitgeber dürfen die Betriebsnummern speichern, verändern, nutzen, übermitteln und in der Verarbeitung einschränken, soweit dies für die Erfüllung einer Aufgabe nach diesem Gesetzbuch oder dem Künstlersozialversicherungsgesetz erforderlich ist. Andere Behörden, Gerichte oder Dritte dürfen die Betriebsnummern speichern, verändern, nutzen, übermitteln oder in der Verarbeitung einschränken, soweit dies für die Erfüllung einer gesetzlichen Aufgabe einer der in Satz 1 genannten Stellen erforderlich ist.
 
 # § 18n – Absendernummer
 
@@ -917,21 +917,21 @@ b) im Falle des § 23b Absatz 2 der Kalendermonat und das Jahr der nicht zwecken
 
 3. im Personenbeförderungsgewerbe,
 
-4. im Speditions-, Transport- und damit verbundenen Logistikgewerbe,
+4. im Speditions-, Transport- und damit verbundenen Logistikgewerbe einschließlich der plattformbasierten Lieferdienste,
 
 5. im Schaustellergewerbe,
 
-6. bei Unternehmen der Forstwirtschaft,
+6. im Gebäudereinigungsgewerbe,
 
-7. im Gebäudereinigungsgewerbe,
+7. bei Unternehmen, die sich am Auf- und Abbau von Messen und Ausstellungen beteiligen,
 
-8. bei Unternehmen, die sich am Auf- und Abbau von Messen und Ausstellungen beteiligen,
+8. in der Fleischwirtschaft mit Ausnahme des Fleischerhandwerks nach § 2 Absatz 2 Satz 2 des Gesetzes zur Sicherung von Arbeitnehmerrechten in der Fleischwirtschaft,
 
-9. in der Fleischwirtschaft,
+9. im Prostitutionsgewerbe,
 
-10. im Prostitutionsgewerbe,
+10. im Wach- und Sicherheitsgewerbe,
 
-11. im Wach- und Sicherheitsgewerbe.
+11. im Friseur- und Kosmetikgewerbe.
 
 Die Meldung enthält folgende Angaben über den Beschäftigten:
 
@@ -1305,7 +1305,15 @@ Sie darf die Daten der Stammsatzdatei nach § 150 Absatz 1 und 2 des Sechsten Bu
 
 6. die im Verfahren nach Absatz 6a Satz 1 übermittelten Daten
 
-zu verarbeiten, soweit dies für die Prüfung, ob die Arbeitgeber ihre Meldepflichten und ihre sonstigen Pflichten nach diesem Gesetzbuch, die im Zusammenhang mit dem Gesamtsozialversicherungsbeitrag stehen, sowie ihre Pflichten als zur Abgabe Verpflichtete nach dem Künstlersozialversicherungsgesetz und ihre Pflichten nach dem Siebten Buch zur Meldung und Beitragszahlung ordnungsgemäß erfüllen, erforderlich ist. Die dem prüfenden Träger der Rentenversicherung übermittelten Daten sind unverzüglich nach Abschluss der Prüfung bei der Datenstelle und beim prüfenden Träger der Rentenversicherung zu löschen. Die Träger der Rentenversicherung, die Einzugsstellen, die Künstlersozialkasse und die Bundesagentur für Arbeit sind verpflichtet, der Deutschen Rentenversicherung Bund und der Datenstelle die für die Prüfung bei den Arbeitgebern erforderlichen Daten zu übermitteln. Sind für die Prüfung bei den Arbeitgebern Daten zu übermitteln, so dürfen sie auch durch Abruf im automatisierten Verfahren übermittelt werden, ohne dass es einer Genehmigung nach § 79 Absatz 1 des Zehnten Buches bedarf.
+zu verarbeiten, soweit dies für die Prüfung, ob die Arbeitgeber ihre Meldepflichten und ihre sonstigen Pflichten nach diesem Gesetzbuch, die im Zusammenhang mit dem Gesamtsozialversicherungsbeitrag stehen, sowie ihre Pflichten als zur Abgabe Verpflichtete nach dem Künstlersozialversicherungsgesetz und ihre Pflichten nach dem Siebten Buch zur Meldung und Beitragszahlung ordnungsgemäß erfüllen, erforderlich ist. Die dem prüfenden Träger der Rentenversicherung übermittelten Daten sind unverzüglich nach Abschluss der Prüfung bei der Datenstelle und beim prüfenden Träger der Rentenversicherung zu löschen. Die Träger der Rentenversicherung, die Einzugsstellen, die Künstlersozialkasse und die Bundesagentur für Arbeit sind verpflichtet, der Deutschen Rentenversicherung Bund und der Datenstelle die für die Prüfung bei den Arbeitgebern erforderlichen Daten zu übermitteln. Sind für die Prüfung bei den Arbeitgebern Daten zu übermitteln, so dürfen sie auch durch Abruf im automatisierten Verfahren übermittelt werden, ohne dass es einer Genehmigung nach § 79 Absatz 1 des Zehnten Buches bedarf. Die Datenstelle der Rentenversicherung darf zur Erkennung von Risikofällen in den Wirtschaftsbereichen oder Wirtschaftszweigen nach § 26 Absatz 1 Satz 3 des Schwarzarbeitsbekämpfungsgesetzes in Vorbereitung der automationsgestützten Analyse und Bewertung durch die Zentralstelle nach § 26 Absatz 1 Satz 1 des Schwarzarbeitsbekämpfungsgesetzes nach Maßgabe von Satz 10 und 11 eine Datenselektion durchführen. Zu diesem Zweck darf die Datenstelle der Rentenversicherung die Daten nach Satz 3 sowie die ihr nach § 18m Absatz 1 von der Bundesagentur für Arbeit übermittelten Betriebsnummern und Angaben nach § 18i Absatz 2 und 4 aus dem Dateisystem der Beschäftigungsbetriebe verarbeiten. Für die Datenselektion verwendet die Datenstelle der Rentenversicherung die nach § 26 Absatz 1 Satz 1 und 2 des Schwarzarbeitsbekämpfungsgesetzes von ihr und der Zentralstelle im Einvernehmen sowie im Einvernehmen mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit festgelegten Risikoindikatoren und Risikoparametern. Sie darf der Zentralstelle die hierdurch ermittelten Risikofälle einschließlich der einschlägigen Risikoindikatoren und Risikoparameter sowie zur eindeutigen Identifikation des Arbeitgebers die ihr von der Bundesagentur für Arbeit für die betroffenen Arbeitgeber übermittelten Daten nach § 18m Absatz 1 der betroffenen Arbeitgeber übermitteln. Soweit die festgelegten Risikoindikatoren und Risikoparameter zur Erstellung von Risikofällen einen Datenabgleich bei der Zentralstelle mit weiteren nach § 26 des Schwarzarbeitsbekämpfungsgesetzes vorliegenden Daten erfordern, darf die Datenstelle der Rentenversicherung zu diesem Zweck und unabhängig von der Datenselektion nach den Sätzen 9 bis 11 neben den Daten nach Satz 12 auch folgende Daten an die Zentralstelle übermitteln:
+
+1. die Anzahl der bei dem Arbeitgeber Beschäftigten,
+
+2. die monatsbezogene Anzahl der An- und Abmeldungen von Beschäftigten,
+
+3. die Kennzeichnung, in wie vielen Fällen es sich bei den zu den Nummern 1 und 2 genannten um geringfügige Beschäftigungen handelt,
+
+4. das in der Unfallversicherung beitragspflichtige Entgelt der bei dem Arbeitgeber Beschäftigten als Gesamtsumme.
 
 (8a) Die Deutsche Rentenversicherung Bund führt für die Vorbereitung der Prüfung bei einem Arbeitgeber nach Absatz 1 eine automatisierte Datenanalyse mittels eines KI-Systems im Sinne von Artikel 3 Nummer 1 der Verordnung (EU) 2024/1689 durch. Die Datenanalyse dient dem Zweck, den prüfenden Träger der Rentenversicherung bei der Erfüllung seiner Aufgaben nach den Absätzen 1, 1a und 1c zu unterstützen, indem durch das Aufzeigen von Wahrscheinlichkeiten Hinweise zur Verfügung gestellt werden, die auf mögliche Verstöße gegen Pflichten nach diesem Gesetz durch den Arbeitgeber, insbesondere auf unrichtige Beitragszahlungen oder Meldungen, hindeuten. Zum Zwecke der Datenanalyse nach Satz 1 verarbeitet die Deutsche Rentenversicherung Bund Daten nach den Absätzen 4, 6a und 8 Satz 5. Sie ist dabei Verantwortlicher im Sinne von Artikel 4 Nummer 7 der Verordnung (EU) 2016/679. Die Datenstelle der Rentenversicherung übermittelt die Daten nach den Absätzen 6a und 8 Satz 5 an die Deutsche Rentenversicherung Bund für die Verarbeitung nach Satz 3. Die Deutsche Rentenversicherung Bund übermittelt dem prüfenden Träger der Rentenversicherung die Ergebnisse der Datenanalyse nach Satz 1 für die Durchführung der Prüfung bei dem Arbeitgeber. Absatz 8 Satz 6 gilt entsprechend.
 

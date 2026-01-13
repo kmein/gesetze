@@ -7178,7 +7178,9 @@ Hat die Bundesagentur eine externe Gutachterin oder einen externen Gutachter bea
 
 16. einer Rechtsverordnung nach § 352 Abs. 2 Nr. 2 oder § 357 Satz 1 zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
-17\. u. 18. (weggefallen)
+17. (weggefallen)
+
+18. (weggefallen)
 
 19. entgegen
 

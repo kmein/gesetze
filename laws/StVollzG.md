@@ -1345,7 +1345,7 @@ Um die Flucht aus einer offenen Anstalt zu vereiteln, dürfen keine Schußwaffen
 
 # § 120 – Entsprechende Anwendung anderer Vorschriften
 
-(1) Kommt die Behörde in den Fällen des § 114 Absatz 2 Satz 2 sowie des § 115 Absatz 2 Satz 2 und Absatz 4 der ihr in der einstweiligen Anordnung oder im Beschluss auferlegten Verpflichtung nicht nach, gilt § 172 der Verwaltungsgerichtsordnung entsprechend. Im Übrigen sind die Vorschriften der Strafprozessordnung und die auf der Grundlage des § 32a Absatz 2 Satz 2 und Absatz 4 Satz 1 Nummer 6, des § 32b Absatz 5 und des § 32f Absatz 6 der Strafprozessordnung erlassenen Rechtsverordnungen entsprechend anzuwenden, soweit sich aus diesem Gesetz nichts anderes ergibt.
+(1) Kommt die Behörde in den Fällen des § 114 Absatz 2 Satz 2 sowie des § 115 Absatz 2 Satz 2 und Absatz 4 der ihr in der einstweiligen Anordnung oder im Beschluss auferlegten Verpflichtung nicht nach, gilt § 172 der Verwaltungsgerichtsordnung entsprechend. Im Übrigen sind die Vorschriften der Strafprozessordnung und die auf der Grundlage des § 32a Absatz 2 Satz 2 und Absatz 4 Satz 1 Nummer 5, des § 32b Absatz 5 und des § 32f Absatz 6 der Strafprozessordnung erlassenen Rechtsverordnungen entsprechend anzuwenden, soweit sich aus diesem Gesetz nichts anderes ergibt.
 
 (2) Auf die Bewilligung der Prozeßkostenhilfe sind die Vorschriften der Zivilprozeßordnung entsprechend anzuwenden.
 

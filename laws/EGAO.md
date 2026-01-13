@@ -430,7 +430,7 @@ Die Höhe der Gebühren und Auslagen im Vollstreckungsverfahren richtet sich nac
 
 3. Wertpapierinstitute im Sinne des § 2 Absatz 1 des Wertpapierinstitutsgesetzes sind,
 
-ist § 147 Absatz 3 Satz 1 der Abgabenordnung in der ab dem 1. Januar 2025 geltenden Fassung abweichend von Absatz 2 erstmals auf Unterlagen anzuwenden, deren Aufbewahrungsfrist nach § 147 Absatz 3 Satz 1 der Abgabenordnung in der bis einschließlich 31. Dezember 2024 geltenden Fassung am 1. Januar 2026 noch nicht abgelaufen ist.
+ist § 147 Absatz 3 Satz 1 der Abgabenordnung in der am 31. Dezember 2024 geltenden Fassung abweichend von Absatz 2 anzuwenden.
 
 # § 19b – Zugriff auf datenverarbeitungsgestützte Buchführungssysteme
 

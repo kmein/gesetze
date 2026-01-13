@@ -74,13 +74,13 @@ Die Anordnung ist aufzuheben, wenn ihre Voraussetzungen nicht mehr vorliegen.
 
 (+++ § 3: Zur Anwendung vgl. § 58 Abs. 3 +++)
 
-# § 4 – Vorbehaltene Tätigkeiten
+# § 4 – Vorbehaltene Aufgaben, Pflegeprozessverantwortung
 
-(1) Pflegerische Aufgaben nach Absatz 2 dürfen beruflich nur von Personen mit einer Erlaubnis nach § 1 durchgeführt werden. Ruht die Erlaubnis nach § 3 Absatz 3 Satz 1, dürfen pflegerische Aufgaben nach Absatz 2 nicht durchgeführt werden.
+(1) Pflegerische Aufgaben nach Absatz 2 dürfen beruflich nur von Personen mit einer Erlaubnis nach § 1 durchgeführt werden (Pflegeprozessverantwortung). Ruht die Erlaubnis nach § 3 Absatz 3 Satz 1, dürfen pflegerische Aufgaben nach Absatz 2 nicht durchgeführt werden.
 
 (2) Die pflegerischen Aufgaben im Sinne des Absatzes 1 umfassen
 
-1. die Erhebung und Feststellung des individuellen Pflegebedarfs nach § 5 Absatz 3 Nummer 1 Buchstabe a,
+1. die Erhebung und Feststellung des individuellen Pflegebedarfs und die Planung der Pflege nach § 5 Absatz 3 Nummer 1 Buchstabe a,
 
 2. die Organisation, Gestaltung und Steuerung des Pflegeprozesses nach § 5 Absatz 3 Nummer 1 Buchstabe b sowie
 
@@ -89,6 +89,10 @@ Die Anordnung ist aufzuheben, wenn ihre Voraussetzungen nicht mehr vorliegen.
 (3) Wer als Arbeitgeber Personen ohne eine Erlaubnis nach § 1 oder Personen, deren Erlaubnis nach § 3 Absatz 3 Satz 1 ruht, in der Pflege beschäftigt, darf diesen Personen Aufgaben nach Absatz 2 weder übertragen noch die Durchführung von Aufgaben nach Absatz 2 durch diese Personen dulden.
 
 (+++ § 4: Zur Anwendung vgl. § 58 Abs. 3 +++)
+
+# § 4a – Eigenverantwortliche Heilkundeausübung
+
+Personen mit einer Erlaubnis nach § 1 sind zur eigenverantwortlichen Heilkundeausübung im Rahmen der dazu erworbenen staatlich geprüften, staatlich anerkannten oder staatlich festgestellten Kompetenzen befugt.
 
 # § 5 – Ausbildungsziel
 
@@ -265,6 +269,10 @@ nach Maßgabe der Ausbildungs- und Prüfungsverordnung,
 (7) Die Absätze 1 bis 5 gelten entsprechend für Personen, die bereits zur Führung der Berufsbezeichnung nach § 1 berechtigt sind. Die erworbenen erweiterten Kompetenzen werden zum Abschluss des Ausbildungsangebots staatlich geprüft.
 
 (+++ § 14: Zur Anwendung vgl. § 37 Abs. 5 +++)
+
+# § 14a – Standardisierte Kompetenzbeschreibungen für heilkundliche Aufgaben
+
+Die Fachkommission nach § 53 kann mit empfehlender Wirkung standardisierte Beschreibungen für die erforderlichen fachlichen und personalen Kompetenzen zur eigenverantwortlichen Ausübung von heilkundlichen Aufgaben (standardisierte Kompetenzbeschreibungen) entwickeln, soweit diese Kompetenzen nicht bereits im Rahmen der Ausbildung nach § 5 vermittelt werden. Dazu gehören insbesondere standardisierte Beschreibungen der nach § 37 Absatz 2 Satz 2 und Absatz 3 Satz 2 Nummer 6 bis 9 zu vermittelnden Kompetenzen. Die standardisierten Kompetenzbeschreibungen nach den Sätzen 1 und 2 können gemeinsam vom Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend und vom Bundesministerium für Gesundheit genehmigt werden. Änderungen der standardisierten Kompetenzbeschreibungen bedürfen einer erneuten Genehmigung. Die standardisierten Kompetenzbeschreibungen sollen in geeigneten Abständen an den medizinischen und pflegewissenschaftlichen Fortschritt angepasst werden.
 
 # § 15 – Modellvorhaben zur Weiterentwicklung des Pflegeberufs
 
@@ -610,7 +618,7 @@ zu bestimmen; sie können diese Ermächtigung durch Rechtsverordnung auf oberste
 
 (1) Die primärqualifizierende Pflegeausbildung an Hochschulen befähigt zur unmittelbaren Tätigkeit an zu pflegenden Menschen aller Altersstufen und verfolgt gegenüber der beruflichen Pflegeausbildung nach Teil 2 ein erweitertes Ausbildungsziel.
 
-(2) Die hochschulische Ausbildung zur Pflegefachfrau oder zum Pflegefachmann vermittelt die für die selbstständige umfassende und prozessorientierte Pflege von Menschen aller Altersstufen nach § 5 Absatz 2 in akut und dauerhaft stationären sowie ambulanten Pflegesituationen erforderlichen fachlichen und personalen Kompetenzen auf wissenschaftlicher Grundlage und Methodik. Sie vermittelt zusätzlich die zur eigenverantwortlichen und selbständigen Ausübung von erweiterten heilkundlichen Tätigkeiten erforderlichen fachlichen und personalen Kompetenzen auf wissenschaftlicher Grundlage und Methodik in den Bereichen diabetische Stoffwechsellage, chronische Wunden und Demenz.
+(2) Die hochschulische Ausbildung zur Pflegefachfrau oder zum Pflegefachmann vermittelt die für die selbstständige umfassende und prozessorientierte Pflege von Menschen aller Altersstufen nach § 5 Absatz 2 in akut und dauerhaft stationären sowie ambulanten Pflegesituationen erforderlichen fachlichen und personalen Kompetenzen auf wissenschaftlicher Grundlage und Methodik. Sie vermittelt zusätzlich die zur eigenverantwortlichen Wahrnehmung von heilkundlichen Aufgaben bei besonderen Versorgungsbedarfen in den Bereichen diabetische Stoffwechsellage, chronische Wunden und Demenz erforderlichen fachlichen und personalen Kompetenzen auf wissenschaftlicher Grundlage und Methodik.
 
 (3) Die hochschulische Ausbildung umfasst die in § 5 Absatz 3 beschriebenen Kompetenzen der beruflichen Pflegeausbildung. Sie befähigt darüber hinaus insbesondere
 
@@ -624,13 +632,13 @@ zu bestimmen; sie können diese Ermächtigung durch Rechtsverordnung auf oberste
 
 5. an der Entwicklung von Qualitätsmanagementkonzepten, Leitlinien und Expertenstandards mitzuwirken,
 
-6. zur selbständigen und eigenverantwortlichen Übernahme von erweiterten heilkundlichen Tätigkeiten in den in Absatz 2 Satz 2 genannten Bereichen in Pflege- und Therapieprozessen auch bei hochkomplexen Pflegebedarfen von Menschen aller Altersstufen unter Einbezug von deren Bezugspersonen und in Zusammenarbeit mit den behandelnden Ärztinnen und Ärzten,
+6. zur eigenverantwortlichen Wahrnehmung von heilkundlichen Aufgaben in den in Absatz 2 Satz 2 genannten Bereichen in Pflege- und Therapieprozessen auch bei hochkomplexen Pflegebedarfen von Menschen aller Altersstufen unter Einbezug von deren Bezugspersonen und in Zusammenarbeit mit den behandelnden Ärztinnen und Ärzten,
 
-7. zur Integration der eigenverantwortlich und selbständig ausgeübten erweiterten heilkundlichen Aufgaben in den in Absatz 2 Satz 2 genannten Bereichen in den Pflege- und Therapieprozess aus einer pflegerischen Perspektive sowie dazu, die so gewonnenen Erkenntnisse im interprofessionellen Team argumentativ zu vertreten und die subjektiven Vorstellungen zu diesen Aufgaben zu reflektieren,
+7. zur Integration der eigenverantwortlich wahrgenommenen heilkundlichen Aufgaben in den in Absatz 2 Satz 2 genannten Bereichen in den Pflege- und Therapieprozess aus einer pflegerischen Perspektive sowie dazu, die so gewonnenen Erkenntnisse im interprofessionellen Team argumentativ zu vertreten und die subjektiven Vorstellungen zu diesen Aufgaben zu reflektieren,
 
 8. zur Verabreichung von Infusionstherapie und Injektionen sowie zur Verordnung von und Versorgung mit Medizinprodukten und Hilfsmitteln in den in Absatz 2 Satz 2 genannten Bereichen und
 
-9. zur Auseinandersetzung mit einem professionellen Berufs- und Rollenverständnis in Bezug auf die selbständige und eigenverantwortliche Ausübung erweiterter heilkundlicher Tätigkeiten sowie den damit zusammenhängenden fachlichen, wirtschaftlichen, rechtlichen und ethischen Fragestellungen, die sich aus dem Anspruch einer prozesshaften Bearbeitung und einer am zu pflegenden Menschen ausgerichteten Pflege ergeben.
+9. zur Auseinandersetzung mit einem professionellen Berufs- und Rollenverständnis in Bezug auf die eigenverantwortliche Wahrnehmung von heilkundlichen Aufgaben in den in Absatz 2 Satz 2 genannten Bereichen sowie den damit zusammenhängenden fachlichen, wirtschaftlichen, rechtlichen und ethischen Fragestellungen, die sich aus dem Anspruch einer prozesshaften Bearbeitung und einer am zu pflegenden Menschen ausgerichteten Pflege ergeben.
 
 (4) Die Hochschule kann im Rahmen der ihr obliegenden Ausgestaltung des Studiums die Vermittlung zusätzlicher Kompetenzen vorsehen. Das Erreichen des Ausbildungsziels darf hierdurch nicht gefährdet werden.
 
@@ -849,7 +857,7 @@ Gleiches gilt für Drittstaaten und Drittstaatsangehörige, soweit sich hinsicht
 
 2. die Unterschiede zwischen der in einem anderen Mitgliedstaat der Europäischen Union, in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz rechtmäßig ausgeübten beruflichen Tätigkeit und den Tätigkeiten, die unter denjenigen in diesem Gesetz geregelten Beruf, für den eine Erlaubnis zur partiellen Berufsausübung angestrebt wird, fallen, so wesentlich sind, dass die Anwendung von Anpassungsmaßnahmen nach § 40 Absatz 3 der Anforderung an die antragstellende Person gleichkäme, die vollständige Ausbildung nach diesem Gesetz zu absolvieren,
 
-3. die rechtmäßig ausgeübte berufliche Tätigkeit nach Nummer 1 eine oder mehrere der vorbehaltenen Tätigkeiten nach § 4 umfasst und
+3. die rechtmäßig ausgeübte berufliche Tätigkeit nach Nummer 1 eine oder mehrere der vorbehaltenen Aufgaben nach § 4 umfasst und
 
 4. die Voraussetzungen nach § 2 Nummer 2 bis 4 vorliegen.
 
@@ -885,7 +893,7 @@ b) dieser Beruf in diesem Mitgliedstaat der Europäischen Union, in diesem Vertr
 
 3. die Voraussetzungen nach § 48a Absatz 1 Nummer 1 bis 4 vorliegen.
 
-(2) Personen mit einer Genehmigung zur Dienstleistungserbringung im Rahmen einer partiellen Berufsausübung haben beim Erbringen der Dienstleistung in Deutschland im Umfang dieser Genehmigung die gleichen Rechte und Pflichten wie eine Person mit einer Erlaubnis zum Führen der Berufsbezeichnung nach § 1. Sie dürfen insbesondere eine oder mehrere vorbehaltene Tätigkeiten nach § 4 ausüben, soweit sie in den Umfang der Genehmigung zur Dienstleistungserbringung im Rahmen einer partiellen Berufsausübung fallen.
+(2) Personen mit einer Genehmigung zur Dienstleistungserbringung im Rahmen einer partiellen Berufsausübung haben beim Erbringen der Dienstleistung in Deutschland im Umfang dieser Genehmigung die gleichen Rechte und Pflichten wie eine Person mit einer Erlaubnis zum Führen der Berufsbezeichnung nach § 1. Sie dürfen insbesondere eine oder mehrere der vorbehaltenen Aufgaben nach § 4 ausüben, soweit sie in den Umfang der Genehmigung zur Dienstleistungserbringung im Rahmen einer partiellen Berufsausübung fallen.
 
 (3) Die §§ 3, 44 Absatz 2 und 3, § 46 Absatz 1, 2 und 4, § 48 Absatz 1 und 2, § 48a Absatz 2 Nummer 1, Absatz 3 und 4, § 50 Absatz 1 und 2 sowie § 51 gelten entsprechend.
 
@@ -1065,7 +1073,7 @@ einschließlich der erforderlichen Vorgaben zum Erheben, Verarbeiten und Nutzen 
 
 (2) Wer die Berufsbezeichnung „Altenpflegerin“ oder „Altenpfleger“ führen will, bedarf der Erlaubnis.
 
-(3) Die §§ 2 bis 4 sind entsprechend anzuwenden.
+(3) Die §§ 2 bis 4a sind entsprechend anzuwenden.
 
 # § 59 – Gemeinsame Vorschriften; Wahlrecht der Auszubildenden
 
@@ -1189,7 +1197,7 @@ Die Möglichkeit der Überleitung bereits auf Grundlage von Teil 3 dieses Gesetz
 
 # § 66e – Übergangsvorschrift für Personen, die bereits über eine Erlaubnis zum Führen der Berufsbezeichnung nach § 1 Satz 2 verfügen
 
-Personen, die bereits über eine Erlaubnis zum Führen der Berufsbezeichnung nach § 1 Satz 2 verfügen, können die für eine erweiterte heilkundliche Tätigkeit nach § 37 Absatz 2 Satz 2 erforderlichen Kompetenzen ebenfalls erwerben. In diesem Fall finden für den gesonderten Erwerb von erweiterten heilkundlichen Kompetenzen nach § 37 Absatz 2 Satz 2 die Vorschriften von Teil 3 dieses Gesetzes in der geltenden Fassung entsprechend Anwendung. Die erworbenen erweiterten heilkundlichen Kompetenzen werden zum Ende des Studienangebots staatlich geprüft.
+Personen, die bereits über eine Erlaubnis zum Führen der Berufsbezeichnung nach § 1 Satz 2 verfügen, können die Kompetenzen nach § 37 Absatz 2 Satz 2 ebenfalls erwerben. Für den gesonderten Erwerb der Kompetenzen nach § 37 Absatz 2 Satz 2 finden die Vorschriften von Teil 3 dieses Gesetzes in der geltenden Fassung entsprechende Anwendung. Die gesondert erworbenen Kompetenzen werden zum Ende des Studienangebots staatlich geprüft.
 
 # § 67 – Kooperationen von Hochschulen und Pflegeschulen
 
