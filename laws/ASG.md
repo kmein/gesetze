@@ -59,7 +59,12 @@
 |                     |                                                                                                    |     | Sonderregelungen                                                                              |       |
 |                     |                                                                                                    |     | Zumutung von Gefahren                                                                         | § 31  |
 | Sechster Abschnitt: |                                                                                                    |     |                                                                                               |       |
-|                     | Schlußvorschriften                                                                                 |     |                                                                                               |       |
+|                     | Datenverarbeitung                                                                                  |     |                                                                                               |       |
+|                     |                                                                                                    |     | Datenübermittlung von den Meldebehörden                                                       | § 31a |
+|                     |                                                                                                    |     | Datenübermittlung durch die Jobcenter; Verordnungsermächtigung                                | § 31b |
+|                     |                                                                                                    |     | Zweck der Verarbeitung und Löschung der Daten                                                 | § 31c |
+| Siebter Abschnitt:  |                                                                                                    |     |                                                                                               |       |
+|                     | Schlussvorschriften                                                                                |     |                                                                                               |       |
 |                     |                                                                                                    |     | Verletzung von Sicherstellungsvorschriften                                                    | § 32  |
 |                     |                                                                                                    |     | (weggefallen)                                                                                 | § 33  |
 |                     |                                                                                                    |     | Koordinierung und Bedarfsdeckung                                                              | § 34  |
@@ -134,7 +139,7 @@ Militärausrüstung im Sinne des Satzes 1 Nummer 1c ist jede Ausrüstung, die ei
 
 (3) Verpflichtungen und Beschränkungen nach § 2 sind gegenüber deutschen Staatsangehörigen bei einem Beschäftigungsort außerhalb des Hoheitsgebietes der Bundesrepublik Deutschland auch zulässig zur Sicherstellung von Arbeitsleistungen
 
-1. nach Absatz 1 Satz 1 Nummer 1, 1a und 1b, wenn der versorgende Betrieb der Gesellschaft oder des Unternehmens seinen Sitz im Gebiet der Bundesrepublik Deutschland hat, und
+1. nach Absatz 1 Satz 1 Nummer 1 sowie, wenn der versorgende Betrieb der Gesellschaft oder des Unternehmens seinen Sitz im Gebiet der Bundesrepublik Deutschland hat, nach Absatz 1 Satz 1 Nummer 1a und 1b und
 
 2. nach Absatz 1 Satz 1 Nummer 9.
 
@@ -168,7 +173,7 @@ Militärausrüstung im Sinne des Satzes 1 Nummer 1c ist jede Ausrüstung, die ei
 
 # § 6 – Abgrenzung zum Wehrdienst und anderen Dienstleistungen
 
-Die Verpflichtung zum Dienst in den Streitkräften, im Bundesgrenzschutz, in einem Zivilschutzverband und im Zivildienst geht einer Maßnahme zur Sicherstellung von Arbeitsleistungen nach § 2 vor. Die §§ 13 und 13a des Wehrpflichtgesetzes und die §§ 14 und 16 des Zivildienstgesetzes bleiben unberührt.
+Die Verpflichtung zum Dienst in den Streitkräften, in der Bundespolizei, in einem Zivilschutzverband und im Zivildienst geht einer Maßnahme zur Sicherstellung von Arbeitsleistungen nach § 2 vor. Die §§ 13 und 13a des Wehrpflichtgesetzes und die §§ 14 und 16 des Zivildienstgesetzes bleiben unberührt.
 
 # § 7 – Zustimmungsbedürftigkeit der Beendigung eines Arbeitsverhältnisses
 
@@ -394,6 +399,36 @@ f) während der Ausbildung ist der Schutz der gesetzlichen Unfallversicherung si
 
 Nach Eintritt der Voraussetzungen für die Sicherstellung von Arbeitsleistungen (§ 3) ist ein Arbeitnehmer im Anwendungsbereich des Gesetzes (§ 4) verpflichtet, bei der Erfüllung von Aufgaben, die Zwecken des Gesetzes dienen, soweit nach den Umständen und seinen persönlichen Verhältnissen zumutbar, Gefahren und Erschwernisse auf sich zu nehmen.
 
+# § 31a – Datenübermittlung von den Meldebehörden
+
+(1) Die Bundesagentur für Arbeit ist berechtigt, im Verteidigungsfall und nach Maßgabe von Artikel 80a Absatz 1 des Grundgesetzes die folgenden Daten aller männlichen Personen vom vollendeten 18. Lebensjahr bis zum Ablauf des Jahres, in dem die Person das 60. Lebensjahr vollendet, bei den Meldebehörden abzurufen:
+
+1. Familienname,
+
+2. Vornamen,
+
+3. Geburtsdatum und Geburtsort,
+
+4. derzeitige Staatsangehörigkeiten,
+
+5. derzeitige Anschriften, gekennzeichnet nach Haupt- und Nebenwohnung.
+
+(2) Die Bundesagentur für Arbeit ist berechtigt, im Verteidigungsfall die in Absatz 1 Satz 1 genannten Daten aller weiblichen Personen vom vollendeten 18. Lebensjahr bis zum vollendeten 55. Lebensjahr bei den Meldebehörden abzurufen.
+
+(3) Ist der Datenabruf nicht möglich, so erfolgt die Datenübermittlung durch elektronische Datenübertragung nach § 34 Absatz 2 Satz 1 Nummer 2 des Bundesmeldegesetzes.
+
+# § 31b – Datenübermittlung durch die Jobcenter; Verordnungsermächtigung
+
+Die Jobcenter sind verpflichtet, im Verteidigungsfall oder nach Maßgabe von Artikel 80a Absatz 1 des Grundgesetzes die zur Durchführung dieses Gesetzes erforderlichen Daten an die Bundesagentur für Arbeit zu übermitteln. Das Bundesministerium für Arbeit und Soziales legt durch Rechtsverordnung mit Zustimmung des Bundestages und des Bundesrates die erforderlichen Daten fest.
+
+# § 31c – Zweck der Verarbeitung und Löschung der Daten
+
+(1) Die nach § 15d des Wehrpflichtgesetzes und den §§ 31a und 31b dieses Gesetzes erhobenen Daten dürfen durch die Bundesagentur für Arbeit ausschließlich zur Erfüllung der Aufgaben nach diesem Gesetz verarbeitet werden.
+
+(2) Die nach § 15d des Wehrpflichtgesetzes und den §§ 31a und 31b dieses Gesetzes erhobenen Daten einer Person sind zu löschen, wenn die jeweilige Person das in § 31a Absatz 1 oder 2 genannte Lebensjahr vollendet hat.
+
+(3) Die nach § 15d des Wehrpflichtgesetzes und den §§ 31a und 31b dieses Gesetzes erhobenen Daten einer Person sind nach Beendigung des Verteidigungsfalls oder eines Falls nach Maßgabe von Artikel 80a Absatz 1 des Grundgesetzes zu löschen, soweit diese nicht für aufgrund dieses Gesetzes begründete individuelle Rechtsverhältnisse weiter erforderlich sind.
+
 # § 32 – Verletzung von Sicherstellungsvorschriften
 
 (1) Ordnungswidrig handelt, wer
@@ -446,7 +481,7 @@ Soweit nach Artikel 12a Abs. 3 des Grundgesetzes öffentlich-rechtliche Dienstve
 
 # § 38 – Rechtsverordnung
 
-(1) Für Arbeitnehmer bei der Bundeswehr gelten § 7 Abs. 1, § 9 Abs. 1 und 2 und § 32 Abs. 1 Nr. 1 und Abs. 4 mit der Maßgabe, daß an die Stelle der Agentur für Arbeit die vom Bundesministerium der Verteidigung durch Rechtsverordnung bestimmte Stelle tritt.
+(1) Für Arbeitnehmer bei der Bundeswehr und den verbündeten Streitkräften sowie bei Gesellschaften im Sinne von § 4 Absatz 1 Satz 1 Nummer 1a und bei sonstigen Unternehmen im Sinne von § 4 Absatz 1 Satz 1 Nummer 1b, deren Leistungserbringung im Rahmen von Vertragsverhältnissen zur Versorgung der Bundeswehr und der verbündeten Streitkräfte erforderlich ist, gelten § 7 Absatz 1, § 9 Absatz 1 und 2 sowie § 32 Absatz 1 Nummer 1 und Absatz 4 mit der Maßgabe, dass an die Stelle der Agentur für Arbeit die vom Bundesministerium der Verteidigung durch Rechtsverordnung bestimmte Stelle tritt.
 
 (2) Die Rechtsverordnung bedarf nicht der Zustimmung des Bundesrates.
 

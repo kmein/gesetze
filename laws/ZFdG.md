@@ -1633,7 +1633,7 @@ Die Löschung hat unter Aufsicht eines Bediensteten, der die Befähigung zum Ric
 
 (1) Das Zollkriminalamt kann die von ihm nach § 72 Absatz 1, 2, 3 oder Absatz 4 erhobenen personenbezogenen Daten zur Verhütung von Straftaten an die mit polizeilichen Aufgaben betrauten Behörden übermitteln, wenn sich aus den erhobenen personenbezogenen Daten selbst oder in Verbindung mit weiteren Kenntnissen im Einzelfall konkrete Anhaltspunkte ergeben, dass jemand als Täter oder Teilnehmer
 
-1. Straftaten nach § 81 Absatz 1, § 89a, § 89c, § 94 Absatz 2, § 129a, auch in Verbindung mit § 129b Absatz 1, den §§ 130, 146, 151 bis 152a, 211, 212, 232a Absatz 1 bis 5, den §§ 232b, 239a, 239b, 249 bis 251, 255, 261, 305a, 306 bis 306c, 307 Absatz 1 bis 3, § 308 Absatz 1 bis 4, § 309 Absatz 1 bis 5, den §§ 313, 314, 315 Absatz 1, 3 oder Absatz 4, § 315b Absatz 3, den §§ 316a, 316b Absatz 1 oder 3 oder § 316c Absatz 1 oder 3 des Strafgesetzbuches begehen will oder begeht,
+1. Straftaten nach § 81 Absatz 1, § 89a, § 89c, § 94 Absatz 2, § 129a, auch in Verbindung mit § 129b Absatz 1, den §§ 130, 146, 151 bis 152a, 211, 212, 232a Absatz 1 bis 5, den §§ 232b, 239a, 239b, 249 bis 251, 255, 261, 305a, 306 bis 306c, 307 Absatz 1 bis 3, § 308 Absatz 1 bis 5, § 309 Absatz 1 bis 5, den §§ 313, 314, 315 Absatz 1, 3 oder Absatz 4, § 315b Absatz 3, den §§ 316a, 316b Absatz 1 oder 3 oder § 316c Absatz 1 oder 3 des Strafgesetzbuches begehen will oder begeht,
 
 2. vorsätzliche Straftaten nach den §§ 17 oder 18 des Außenwirtschaftsgesetzes, den §§ 19 bis 20a oder 22a Absatz 1 Nummer 4, 5 oder 7, jeweils auch in Verbindung mit § 21 des Gesetzes über die Kontrolle von Kriegswaffen begehen will oder begeht,
 

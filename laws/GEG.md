@@ -385,13 +385,21 @@ Satz 1 gilt entsprechend für Bedingungen öffentlich-rechtlich gestalteter Vers
 
 (3) Wenn eine Bewertung von Baustoffen, Bauteilen und Anlagen im Hinblick auf die Anforderungen dieses Gesetzes auf Grund anerkannter Regeln der Technik nicht möglich ist, weil solche Regeln nicht vorliegen oder wesentlich von ihnen abgewichen wird, sind der nach Landesrecht zuständigen Behörde die erforderlichen Nachweise für eine anderweitige Bewertung vorzulegen. Satz 1 ist nicht anzuwenden auf Baustoffe, Bauteile und Anlagen,
 
-1. wenn für sie die Bewertung auch im Hinblick auf die Anforderungen zur Energieeinsparung im Sinne dieses Gesetzes durch die Verordnung (EU) Nr. 305/2011 des Europäischen Parlaments und des Rates vom 9. März 2011 zur Festlegung harmonisierter Bedingungen für die Vermarktung von Bauprodukten und zur Aufhebung der Richtlinie 89/106/EWG des Rates (ABl. L 88 vom 4.4.2011, S. 5; L 103 vom 12.4.2013, S. 10; L 92 vom 8.4.2015, S. 118), die zuletzt durch die Delegierte Verordnung (EU) Nr. 574/2014 (ABl. L 159 vom 28.5.2014, S. 41) geändert worden ist, oder durch nationale Rechtsvorschriften zur Umsetzung oder Durchführung von Rechtsvorschriften der Europäischen Union gewährleistet wird, erforderliche CE-Kennzeichnungen angebracht wurden und nach den genannten Vorschriften zulässige Klassen und Leistungsstufen nach Maßgabe landesrechtlicher Vorschriften eingehalten werden oder
+1. wenn für sie die nachstehenden Voraussetzungen erfüllt sind:
+
+a) die Bewertung wird auch im Hinblick auf die Anforderungen zur Energieeinsparung im Sinne dieses Gesetzes durch die Verordnung (EU) Nr. 305/2011 oder die Verordnung (EU) 2024/3110 oder durch nationale Rechtsvorschriften zur Umsetzung oder Durchführung von Rechtsvorschriften der Europäischen Union gewährleistet,
+
+b) die erforderlichen CE-Kennzeichnungen wurden angebracht und
+
+c) die nach den in Buchstabe a genannten Vorschriften zulässigen Klassen und Leistungsstufen werden nach Maßgabe landesrechtlicher Vorschriften eingehalten oder
 
 2. bei denen nach bauordnungsrechtlichen Vorschriften über die Verwendung von Bauprodukten auch die Einhaltung dieses Gesetzes sichergestellt wird.
 
 (4) Verweisen die nach diesem Gesetz anzuwendenden datierten technischen Regeln auf undatierte technische Regeln, sind diese in der Fassung anzuwenden, die dem Stand zum Zeitpunkt der Herausgabe der datierten technischen Regel entspricht.
 
 (5) Das Bundesministerium für Wirtschaft und Klimaschutz und das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen werden dem Deutschen Bundestag bis zum 31. Dezember 2022 gemeinsam einen Bericht über die Ergebnisse von Forschungsprojekten zu Methodiken zur ökobilanziellen Bewertung von Wohn- und Nichtwohngebäuden vorlegen.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 9.1.2026 I Nr. 4 +++)
 
 # § 8 – Verantwortliche
 

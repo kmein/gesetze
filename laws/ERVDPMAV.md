@@ -39,6 +39,10 @@ b) Anträge auf Feststellung oder Erklärung der Nichtigkeit,
 
 (3) § 1 Absatz 2 ist anzuwenden.
 
+# § 2a – Elektronische Kommunikation über das Amt der Europäischen Union für geistiges Eigentum
+
+In Verfahren nach dem Markengesetz, die den Schutz geografischer Angaben für handwerkliche und industrielle Erzeugnisse betreffen, können elektronische Dokumente über das Portal des Amtes der Europäischen Union für geistiges Eigentum beim Deutschen Patent- und Markenamt signaturfrei eingereicht werden. Die weiteren Anforderungen dieser Verordnung an die Form der Einreichung finden für die elektronische Kommunikation über dieses Portal keine Anwendung.
+
 # § 3 – Form der Einreichung
 
 (1) Zur Einreichung elektronisch übermittelter Dokumente ist ausschließlich die elektronische Annahmestelle des Deutschen Patent- und Markenamts bestimmt. Für die signaturgebundene Einreichung ist die elektronische Annahmestelle über die vom Deutschen Patent- und Markenamt zur Verfügung gestellte Zugangs- und Übertragungssoftware erreichbar. Die Software kann über die Internetseite www.dpma.de unentgeltlich heruntergeladen werden. Für die signaturfreie Einreichung sind Onlineformulare zu verwenden, die auf der in Satz 3 genannten Internetseite bereitgestellt werden.

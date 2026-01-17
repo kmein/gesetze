@@ -119,9 +119,9 @@ Zuständig für die Berichterstattung gegenüber der Europäischen Kommission na
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer entgegen Artikel 5 Absatz 1 der Verordnung (EU) 2019/1148 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über die Vermarktung und Verwendung von Ausgangsstoffen für Explosivstoffe, zur Änderung der Verordnung (EG) Nr. 1907/2006 und zur Aufhebung der Verordnung (EU) Nr. 98/2013 (ABl. L 186 vom 11.7.2019, S. 1; L 231 vom 6.9.2019, S. 30) einen beschränkten Ausgangsstoff für Explosivstoffe bereitstellt, verbringt, besitzt oder verwendet.
 
-(2) Der Versuch ist strafbar.
+(2) Mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren wird bestraft, wer in den Fällen des Absatzes 1 gewerbsmäßig oder als Mitglied einer Bande handelt, die sich zur fortgesetzten Begehung solcher Taten verbunden hat.
 
-(3) Mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren wird bestraft, wer in den Fällen des Absatzes 1 gewerbsmäßig oder als Mitglied einer Bande handelt, die sich zur fortgesetzten Begehung solcher Taten verbunden hat.
+(3) Der Versuch ist strafbar.
 
 # § 14 – Bußgeldvorschriften
 
@@ -149,6 +149,10 @@ Zuständig für die Berichterstattung gegenüber der Europäischen Kommission na
 
 (3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
-# § 15 – Verordnungsermächtigung
+# § 15 – Einziehung
+
+Gegenstände, auf die sich eine Straftat nach § 13 bezieht, können eingezogen werden. § 74a des Strafgesetzbuchs ist anzuwenden.
+
+# § 16 – Verordnungsermächtigung
 
 Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Einzelheiten bezüglich des Verfahrens der Übermittlung und Entgegennahme der Meldungen nach Artikel 9 der Verordnung (EU) 2019/1148 zu regeln. In der Verordnung kann insbesondere bestimmt werden, dass für die Entgegennahme der Meldungen ein zentrales, bundeseinheitliches Online-Portal errichtet wird.

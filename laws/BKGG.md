@@ -281,6 +281,8 @@ Macht das Bundesministerium der Finanzen von seiner Ermächtigung nach § 68 Abs
 
 2. die vorläufige Zahlungseinstellung nach § 331 mit der Maßgabe, dass die Familienkasse auch zur teilweisen Zahlungseinstellung berechtigt ist, wenn sie von Tatsachen Kenntnis erhält, die zu einem geringeren Leistungsanspruch führen.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 355 +++)
+
 # § 12 – Aufrechnung
 
 § 51 des Ersten Buches Sozialgesetzbuch gilt für die Aufrechnung eines Anspruchs auf Erstattung von Kindergeld und Kinderzuschlag gegen einen späteren Anspruch auf Kindergeld und Kinderzuschlag eines oder einer mit dem Erstattungspflichtigen in Haushaltsgemeinschaft lebenden Berechtigten entsprechend, soweit es sich um laufendes Kindergeld oder laufenden Kinderzuschlag für ein Kind handelt, das bei beiden berücksichtigt werden konnte.

@@ -565,15 +565,15 @@ Unbeschadet des Rechts des Lieferanten, nach § 25 eine Beschwerde einzulegen, u
 
 2. nach Anhörung des Käufers einen Verstoß gegen eines der in § 23 Satz 2 in Verbindung mit den §§ 11 bis 21 und in Verbindung mit § 4 des Gesetzes zum Schutz von Geschäftsgeheimnissen normierten Verbote festzustellen und die Anordnungen zu treffen, die zur Beseitigung des Verstoßes und zur Verhütung künftiger Verstöße notwendig sind,
 
-3. ihre nach Nummer 2 sowie nach § 55 Absatz 1 Nummer 1a und 1b gegenüber Käufern getroffenen Entscheidungen nach Maßgabe der Absätze 5 bis 7 zu veröffentlichen und
+3. ihre nach Nummer 2 sowie nach § 55 Absatz 1 Nummer 1a und 1b gegenüber Käufern getroffenen Entscheidungen nach Maßgabe der Absätze 3 bis 5 zu veröffentlichen und
 
 4. Leitlinien zur Einstufung von Erzeugnissen als verderblich im Sinne des § 2 Absatz 1 Nummer 4 zu veröffentlichen.
 
 In Verfügungen nach Satz 1 Nummer 2 kann die Durchsetzungsbehörde eine Rückerstattung der aus dem rechtswidrigen Verhalten erwirtschafteten Vorteile anordnen. Die erwirtschafteten Vorteile einschließlich der Zinsvorteile können geschätzt werden. Nach Ablauf der in der Anordnung bestimmten Frist für die Rückerstattung sind die bis zu diesem Zeitpunkt erwirtschafteten Vorteile entsprechend § 288 Absatz 2 und § 289 Satz 1 des Bürgerlichen Gesetzbuchs zu verzinsen.
 
-(2) Die Durchsetzungsbehörde kann Anordnungen nach Absatz 1 Nummer 2 mit Zwangsmitteln nach den Bestimmungen des Verwaltungs-Vollstreckungsgesetzes durchsetzen. Dabei kann sie die Zwangsmittel für jeden Fall der Nichtbefolgung androhen. Sie kann auch Zwangsmittel gegen Behörden anwenden. Die Höhe des Zwangsgelds kann bis zu 300 000 Euro betragen.
+(2) Die Durchsetzungsbehörde kann Anordnungen nach Absatz 1 Satz 1 Nummer 2 mit Zwangsmitteln nach den Bestimmungen des Verwaltungs-Vollstreckungsgesetzes durchsetzen. Dabei kann sie die Zwangsmittel für jeden Fall der Nichtbefolgung androhen. Sie kann auch Zwangsmittel gegen Behörden anwenden. Die Höhe des Zwangsgelds kann bis zu 300 000 Euro betragen.
 
-(3) Die Durchsetzungsbehörde veröffentlicht Entscheidungen nach Absatz 1 Nummer 3 nach Abschluss des Verwaltungsverfahrens unter Nennung des Namens des Käufers auf ihrer Internetseite, soweit die Entscheidung nicht einen geringfügigen Verstoß betrifft. Ist die Entscheidung bei Veröffentlichung noch nicht bestandskräftig, weist die Durchsetzungsbehörde auf die fehlende Bestandskraft hin.
+(3) Die Durchsetzungsbehörde veröffentlicht Entscheidungen nach Absatz 1 Satz 1 Nummer 3 nach Abschluss des Verwaltungsverfahrens unter Nennung des Namens des Käufers auf ihrer Internetseite, soweit die Entscheidung nicht einen geringfügigen Verstoß betrifft. Ist die Entscheidung bei Veröffentlichung noch nicht bestandskräftig, weist die Durchsetzungsbehörde auf die fehlende Bestandskraft hin.
 
 (4) Wird ein Verstoß behoben, der Gegenstand einer veröffentlichten Entscheidung ist, macht die Durchsetzungsbehörde dies unverzüglich auf ihrer Internetseite bekannt. Ergeht zu der Entscheidung der Durchsetzungsbehörde eine Gerichtsentscheidung, macht die Durchsetzungsbehörde auf Antrag des betroffenen Käufers den Tenor der Gerichtsentscheidung unverzüglich auf ihrer Internetseite bekannt.
 

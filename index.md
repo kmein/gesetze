@@ -110,6 +110,7 @@
 - [AgrarAusbStEignV](laws/AgrarAusbStEignV.md) Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zur Fachkraft Agrarservice
 - [AgrarAusbV](laws/AgrarAusbV.md) Verordnung über die Berufsausbildung zur Fachkraft Agrarservice*)
 - [AgrarFrostBeih2024V](laws/AgrarFrostBeih2024V.md) Verordnung für Beihilfen wegen Frostschäden für bestimmte Agrarerzeuger im Jahr 2024
+- [AgrarGeoSchDG](laws/AgrarGeoSchDG.md) Gesetz zur Durchführung des Unionsrechts auf dem Gebiet des Agrargeoschutzes
 - [AgrarOLkG](laws/AgrarOLkG.md) Gesetz zur Stärkung der Organisationen und Lieferketten im Agrarbereich
 - [AgrarOLkV](laws/AgrarOLkV.md) Verordnung zur Stärkung der Organisationen und Lieferketten im Agrarbereich
 - [AgrarservMeistPrV](laws/AgrarservMeistPrV.md) Verordnung über die Meisterprüfung zum anerkannten Fortbildungsabschluss Agrarservicemeister und Agrarservicemeisterin
@@ -497,7 +498,7 @@
 - [BauMaschMeistPrV](laws/BauMaschMeistPrV.md) Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Baumaschinenmeister
 - [BaumeisterVAblV](laws/BaumeisterVAblV.md) Verordnung zur Ablösung der Baumeisterverordnung
 - [BauNVO](laws/BauNVO.md) Verordnung über die bauliche Nutzung der Grundstücke
-- [BauPG](laws/BauPG.md) Gesetz zur Durchführung der Verordnung (EU) Nr. 305/2011 zur Festlegung harmonisierter Bedingungen für die Vermarktung von Bauprodukten und zur Umsetzung und Durchführung anderer Rechtsakte der Europäischen Union in Bezug auf Bauprodukte
+- [BauPG](laws/BauPG.md) Gesetz zur Durchführung der Verordnungen (EU) Nr. 305/2011 und (EU) 2024/3110 zur Festlegung harmonisierter Vorschriften für die Vermarktung von Bauprodukten
 - [BauPGHeizkesselV](laws/BauPGHeizkesselV.md) Verordnung über das Inverkehrbringen von Heizkesseln und Geräten nach dem Bauproduktengesetz
 - [BauPGPÜZAnerkV](laws/BauPGPÜZAnerkV.md) Verordnung über die Anerkennung als Prüf-, Überwachungs- und Zertifizierungsstelle nach dem Bauproduktengesetz
 - [BAusfAmtG](laws/BAusfAmtG.md) Gesetz über die Errichtung eines Bundesausfuhramtes
@@ -1355,6 +1356,7 @@
 - [BwKoopG](laws/BwKoopG.md) Kooperationsgesetz der Bundeswehr
 - [BWO](laws/BWO.md) Bundeswahlordnung
 - [BWpVerwPG](laws/BWpVerwPG.md) Gesetz über das Personal der Bundeswertpapierverwaltung
+- [BwSchutzG](laws/BwSchutzG.md) Gesetz zur Stärkung des personellen Schutzes in der Bundeswehr
 - [BwTAMAbgV](laws/BwTAMAbgV.md) Verordnung über die Abgabe von Tierarzneimitteln im Bereich der Bundeswehr
 - [BwVollzO](laws/BwVollzO.md) Verordnung über den Vollzug von Freiheitsstrafe, Strafarrest, Jugendarrest und Disziplinararrest durch Behörden der Bundeswehr
 - [BzBlG](laws/BzBlG.md) Gesetz zur Verminderung von Luftverunreinigungen durch Bleiverbindungen in Ottokraftstoffen für Kraftfahrzeugmotore
@@ -3458,7 +3460,6 @@
 - [LottStVereinfV](laws/LottStVereinfV.md) Verordnung zur Vereinfachung der Steuererhebung bei der Lotteriesteuer
 - [LPachtVG](laws/LPachtVG.md) Gesetz über die Anzeige und Beanstandung von Landpachtverträgen
 - [LPartG](laws/LPartG.md) Gesetz über die Eingetragene Lebenspartnerschaft
-- [LSpG](laws/LSpG.md) Gesetz zur Durchführung der Rechtsakte der Europäischen Union über Qualitätsregelungen betreffend garantiert traditionelle Spezialitäten und fakultative Qualitätsangaben
 - [LSpV](laws/LSpV.md) Verordnung zur Durchführung des Lebensmittelspezialitätengesetzes
 - [LStDV](laws/LStDV.md) Lohnsteuer-Durchführungsverordnung
 - [LStrkrAbk Genf](laws/LStrkrAbk_Genf.md) I. Genfer Abkommen vom 12. August 1949 zur Verbesserung des Loses der Verwundeten und Kranken der Streitkräfte im Felde
@@ -3640,7 +3641,7 @@
 - [MAbkMadridGemAO 1996](laws/MAbkMadridGemAO_1996.md) Gemeinsame Ausführungsordnung zum Madrider Abkommen über die internationale Registrierung von Marken und zum Protokoll zu diesem Abkommen
 - [MAbkMadridProtÄnd](laws/MAbkMadridProtÄnd.md) Protokoll zum Madrider Abkommen über die internationale Registrierung von Marken, angenommen in Madrid am 27. Juni 1989
 - [MaBV](laws/MaBV.md) Verordnung über die Pflichten der Immobilienmakler, Darlehensvermittler, Bauträger, Baubetreuer und Wohnimmobilienverwalter
-- [MADG](laws/MADG.md) Gesetz über den militärischen Abschirmdienst
+- [MADG](laws/MADG.md) Gesetz über den Militärischen Abschirmdienst
 - [MADVDV](laws/MADVDV.md) Verordnung über den Vorbereitungsdienst für den mittleren Auswärtigen Dienst
 - [MahnVordrV](laws/MahnVordrV.md) Verordnung zur Einführung von Vordrucken für das Mahnverfahren
 - [MainDonWasStrG 2](laws/MainDonWasStrG_2.md) Zweites Gesetz über den rechtlichen Status der Main-Donau-Wasserstraße
@@ -5000,7 +5001,7 @@
 - [SchBrÜbkG](laws/SchBrÜbkG.md) Gesetz betreffend das Internationale Übereinkommen über die Gewährung einer Entschädigung für Arbeitslosigkeit infolge von Schiffbruch
 - [ScheckG](laws/ScheckG.md) Scheckgesetz
 - [SchErsRÄndG](laws/SchErsRÄndG.md) Gesetz zur Änderung schadensersatzrechtlicher Vorschriften
-- [SchfAusbV](laws/SchfAusbV.md) Verordnung über die Berufsausbildung zum Schornsteinfeger und zur Schornsteinfegerin*
+- [SchfAusbV](laws/SchfAusbV.md) Verordnung über die Berufsausbildung zum Schornsteinfeger und zur Schornsteinfegerin *
 - [SchfHwG](laws/SchfHwG.md) Gesetz über das Berufsrecht und die Versorgung im Schornsteinfegerhandwerk
 - [SchHaltHygV](laws/SchHaltHygV.md) Verordnung über hygienische Anforderungen beim Halten von Schweinen
 - [SchiedsAmtsO](laws/SchiedsAmtsO.md) Verordnung über die Schiedsämter für die vertragsärztliche (vertragszahnärztliche) Versorgung
@@ -5975,7 +5976,7 @@
 - [UWG](laws/UWG.md) Gesetz gegen den unlauteren Wettbewerb
 - [UWG/EinigVtrEÜbV](laws/UWG_EinigVtrEÜbV.md) Verordnung über die Übertragung der Ermächtigung nach § 3 Abs. 6 der besonderen Bestimmungen zur Einführung der Rechtsvorschriften auf dem Gebiet des gewerblichen Rechtsschutzes im Einigungsvertrag
 - [UZwG](laws/UZwG.md) Gesetz über den unmittelbaren Zwang bei Ausübung öffentlicher Gewalt durch Vollzugsbeamte des Bundes
-- [UZwGBw](laws/UZwGBw.md) Gesetz über die Anwendung unmittelbaren Zwanges und die Ausübung besonderer Befugnisse durch Soldaten der Bundeswehr und verbündeter Streitkräfte sowie zivile Wachpersonen
+- [UZwGBw](laws/UZwGBw.md) Gesetz über die Anwendung unmittelbaren Zwanges und die Ausübung besonderer Befugnisse durch Soldatinnen und Soldaten der Bundeswehr und verbündeter Streitkräfte sowie durch zivile Wachpersonen
 - [V zu § 180 Abs. 2 AO](laws/V_zu_§_180_Abs._2_AO.md) Verordnung über die gesonderte Feststellung von Besteuerungsgrundlagen nach § 180 Abs. 2 der Abgabenordnung
 - [VAAufsG](laws/VAAufsG.md) Gesetz über die Beaufsichtigung der Versorgungsanstalt der deutschen Bühnen und der Versorgungsanstalt der deutschen Kulturorchester
 - [VAErstV](laws/VAErstV.md) Verordnung über die Erstattung von Aufwendungen der Träger der Rentenversicherung im Rahmen des Versorgungsausgleichs

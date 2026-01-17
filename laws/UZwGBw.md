@@ -1,4 +1,4 @@
-% Gesetz über die Anwendung unmittelbaren Zwanges und die Ausübung besonderer Befugnisse durch Soldaten der Bundeswehr und verbündeter Streitkräfte sowie zivile Wachpersonen  (UZwGBw)
+% Gesetz über die Anwendung unmittelbaren Zwanges und die Ausübung besonderer Befugnisse durch Soldatinnen und Soldaten der Bundeswehr und verbündeter Streitkräfte sowie durch zivile Wachpersonen  (UZwGBw)
 % Ausfertigungsdatum: 12.08.1965
  
 # Eingangsformel
@@ -7,11 +7,27 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 # § 1 – Berechtigte Personen
 
-(1) Soldaten der Bundeswehr, denen militärische Wach- oder Sicherheitsaufgaben übertragen sind, sind befugt, in rechtmäßiger Erfüllung dieser Aufgaben nach den Vorschriften dieses Gesetzes Personen anzuhalten, zu überprüfen, vorläufig festzunehmen und zu durchsuchen, Sachen sicherzustellen und zu beschlagnahmen und unmittelbaren Zwang gegen Personen und Sachen anzuwenden.
+(1) Soldatinnen und Soldaten der Bundeswehr, denen militärische Wach- oder Sicherheitsaufgaben übertragen sind, sind befugt, in rechtmäßiger Erfüllung dieser Aufgaben nach den Vorschriften dieses Gesetzes
 
-(2) Soldaten verbündeter Streitkräfte, die im Einzelfall mit der Wahrnehmung militärischer Wach- oder Sicherheitsaufgaben betraut werden können, unterstehen vom Bundesminister der Verteidigung bestimmten und diesem für die Wahrnehmung des Wach- oder Sicherheitsdienstes verantwortlichen Vorgesetzten; sie können dann die Befugnisse nach diesem Gesetz ausüben.
+1. Personen anzuhalten, zu überprüfen, vorläufig festzunehmen und zu durchsuchen,
 
-(3) Wer, ohne Soldat zu sein, mit militärischen Wachaufgaben der Bundeswehr beauftragt ist (zivile Wachperson), hat in rechtmäßiger Erfüllung dieser Aufgaben die Befugnisse nach diesem Gesetz, soweit sie ihm durch das Bundesministerium der Verteidigung oder eine von diesem bestimmte Stelle übertragen werden. Zivile Wachpersonen, denen Befugnisse nach diesem Gesetz übertragen werden, müssen daraufhin überprüft werden, ob sie persönlich zuverlässig, körperlich geeignet und im Wachdienst ausreichend vorgebildet sind sowie gute Kenntnisse der Befugnisse nach diesem Gesetz besitzen. Sie sollen das 20. Lebensjahr vollendet und das 65. Lebensjahr nicht überschritten haben.
+2. Sachen sicherzustellen und zu beschlagnahmen und
+
+3. unmittelbaren Zwang gegen Personen und Sachen anzuwenden.
+
+(2) Soldatinnen und Soldaten verbündeter Streitkräfte, die im Einzelfall mit der Wahrnehmung militärischer Wach- oder Sicherheitsaufgaben betraut werden können, unterstehen den von der Bundesministerin oder von dem Bundesminister der Verteidigung bestimmten und dieser oder diesem für die Wahrnehmung des Wach- oder Sicherheitsdienstes verantwortlichen Vorgesetzten; Soldatinnen und Soldaten verbündeter Streitkräfte können dann die Befugnisse nach diesem Gesetz ausüben.
+
+(3) Wer, ohne Soldatin oder Soldat zu sein, mit militärischen Wachaufgaben der Bundeswehr beauftragt ist (zivile Wachperson), hat in rechtmäßiger Erfüllung dieser Aufgaben die Befugnisse nach diesem Gesetz, soweit sie ihm durch das Bundesministerium der Verteidigung oder durch eine von diesem bestimmte Stelle übertragen werden. Zivile Wachpersonen, denen Befugnisse nach diesem Gesetz übertragen werden, müssen daraufhin überprüft werden, ob sie die folgenden Voraussetzungen erfüllen:
+
+1. persönliche Zuverlässigkeit,
+
+2. körperliche Eignung,
+
+3. ausreichende Vorbildung im Wachdienst und
+
+4. gute Kenntnisse der Befugnisse nach diesem Gesetz.
+
+Sie müssen zudem das 18. Lebensjahr vollendet und sollen das 67. Lebensjahr nicht überschritten haben.
 
 # § 2 – Militärische Bereiche und Sicherheitsbereiche
 
@@ -35,9 +51,11 @@ b) während ihres Aufenthalts in militärischen Bereichen oder Sicherheitsbereic
 
 3. die militärische Geheimhaltung in der Bundeswehr oder in den verbündeten Streitkräften.
 
-(2) Angehörige der verbündeten Streitkräfte im Sinne des Absatzes 1 sind Soldaten sowie Beamte und mit militärischen Aufgaben, insbesondere mit Wach- oder Sicherheitsaufgaben beauftragte sonstige Zivilbedienstete der verbündeten Streitkräfte in der Bundesrepublik.
+(2) Angehörige der verbündeten Streitkräfte im Sinne des Absatzes 1 sind Soldatinnen und Soldaten sowie Beamtinnen und Beamte und mit militärischen Aufgaben, insbesondere mit Wach- oder Sicherheitsaufgaben beauftragte sonstige Zivilbedienstete der verbündeten Streitkräfte in der Bundesrepublik Deutschland.
 
-# § 4 – Anhalten und Personenüberprüfung
+(3) Verbündete Streitkräfte sind die Streitkräfte solcher Staaten, mit denen die Bundesrepublik Deutschland zum Zwecke der Landes- und Bündnisverteidigung sowie im Einklang mit Artikel 51 der Charta der Vereinten Nationen eine Verpflichtung zum gegenseitigen Beistand oder zur gegenseitigen Hilfe und Unterstützung im Falle eines bevorstehenden oder bereits erfolgten bewaffneten Angriffs auf einen der Partner eingegangen ist. Hierzu zählen insbesondere die Mitgliedstaaten der Europäischen Union und die Vertragsstaaten des Nordatlantikvertrages.
+
+# § 4 – Anhalten und Überprüfen von Personen im militärischen Sicherheitsbereich
 
 (1) Zur Feststellung seiner Person und seiner Berechtigung zum Aufenthalt in einem militärischen Sicherheitsbereich (§ 2 Abs. 2) kann angehalten und überprüft werden, wer
 
@@ -65,7 +83,7 @@ b) während ihres Aufenthalts in militärischen Bereichen oder Sicherheitsbereic
 
 # § 7 – Durchsuchung und Beschlagnahme bei Personenüberprüfung
 
-(1) Wer nach § 4 der Personenüberprüfung unterliegt, kann bei Gefahr im Verzug durchsucht werden, wenn gegen ihn der Verdacht einer Straftat gegen die Bundeswehr besteht und zu vermuten ist, daß die Durchsuchung zur Auffindung von Beweismitteln führen werde. Die von einer solchen Person mitgeführten Gegenstände können gleichfalls durchsucht werden.
+(1) Wer nach § 4 der Personenüberprüfung unterliegt, kann bei Gefahr im Verzug durchsucht werden, wenn gegen ihn der Verdacht einer Straftat gegen die Bundeswehr besteht und zu vermuten ist, daß die Durchsuchung zur Auffindung von Beweismitteln führen werde. Die von einer solchen Person mitgeführten Gegenstände können gleichfalls durchsucht werden. § 8a Absatz 5 gilt entsprechend.
 
 (2) Im Gewahrsam einer durchsuchten Person stehende Gegenstände können sichergestellt oder vorläufig beschlagnahmt werden, wenn sie durch eine vorsätzliche Straftat gegen die Bundeswehr hervorgebracht oder zur Begehung einer solchen Straftat geeignet sind oder als Beweismittel für die Untersuchung von Bedeutung sein können. Die Vorschriften der §§ 96, 97 und 110 Abs. 1 und 2 der Strafprozeßordnung sind anzuwenden.
 
@@ -78,6 +96,56 @@ b) während ihres Aufenthalts in militärischen Bereichen oder Sicherheitsbereic
 (2) Eine Anordnung nach Absatz 1 darf nur zur Feststellung von Gegenständen getroffen werden, die durch ein vorsätzliches Verbrechen oder Vergehen gegen die Bundeswehr hervorgebracht oder zur Begehung einer solchen Straftat geeignet sind oder als Beweismittel für die Untersuchung von Bedeutung sein können.
 
 (3) § 7 Abs. 2 und 3 gilt entsprechend.
+
+# § 8a – Identitätsfeststellung außerhalb eines militärischen Sicherheitsbereiches
+
+(1) Die Feststellung der Identität einer Person und ihrer Berechtigung zum Aufenthalt in einem militärischen Bereich nach § 2 Absatz 1 kann erfolgen, wenn sich die Person
+
+1. in einem solchen Bereich aufhält oder
+
+2. einen solchen Bereich betreten oder verlassen will.
+
+(2) Die Feststellung der Identität einer Person im nahen Umfeld eines militärischen Sicherheitsbereiches nach § 2 Absatz 2 kann erfolgen, wenn tatsächliche Anhaltspunkte dafür vorliegen, dass durch das Verhalten der Person die Einsatzbereitschaft, Schlagkraft oder Sicherheit der Truppe gefährdet werden könnte und die Person
+
+1. den militärischen Sicherheitsbereich oder militärische Aktivitäten in oder an dem militärischen Sicherheitsbereich mit oder ohne Hilfsmittel beobachtet oder
+
+2. mit Gegenständen umgeht, die geeignet sind, eine solche Gefährdung herbeizuführen, insbesondere mit
+
+a) Waffen und ähnlich gefährlichen Gegenständen,
+
+b) Einbruchswerkzeugen,
+
+c) Beobachtungshilfen oder
+
+d) unbemannten Luftfahrzeugen und Geräten zu deren Steuerung.
+
+Im nahen Umfeld eines militärischen Sicherheitsbereiches befindet sich, wer sich in Sicht- oder Rufweite dieses Bereiches aufhält. § 4 Absatz 2 bleibt unberührt.
+
+(3) Die Feststellung der Identität einer Person außerhalb eines militärischen Bereiches nach § 2 Absatz 1 kann durch Soldatinnen und Soldaten mit Sicherheitsaufgaben erfolgen, wenn tatsächliche Anhaltspunkte dafür vorliegen, dass durch das Verhalten der Person die Einsatzbereitschaft, Schlagkraft oder Sicherheit der Truppe gefährdet werden könnte und die Person
+
+1. militärische Aktivitäten mit oder ohne Hilfsmittel beobachtet oder
+
+2. im nahen Umfeld militärischer Aktivitäten mit Gegenständen umgeht, die geeignet sind, eine solche Gefährdung herbeizuführen, insbesondere mit
+
+a) Waffen und ähnlich gefährlichen Gegenständen,
+
+b) Einbruchswerkzeugen,
+
+c) Beobachtungshilfen oder
+
+d) unbemannten Luftfahrzeugen und Geräten zu deren Steuerung.
+
+Militärische Aktivitäten sind alle dienstlichen Tätigkeiten der Streitkräfte im Geltungsbereich dieses Gesetzes.
+
+(4) Zur Feststellung der Identität nach den Absätzen 1 bis 3 können die erforderlichen Maßnahmen getroffen werden. Insbesondere kann die betroffene Person angehalten, nach ihren Personalien befragt und von ihr verlangt werden, dass sie Angaben zur Feststellung ihrer Identität macht und mitgeführte Ausweispapiere zur Prüfung aushändigt. Die betroffene Person kann festgehalten und zur nächstgelegenen Dienststelle der Bundeswehr oder der Polizei gebracht werden, wenn die Identität auf andere Weise nicht oder nur unter erheblichen Schwierigkeiten festgestellt werden kann. § 5 Absatz 2 sowie § 6 gelten entsprechend.
+
+(5) Unter den Voraussetzungen des Absatzes 4 Satz 3 können die betroffene Person sowie die von ihr mitgeführten Gegenstände durchsucht werden. Personen dürfen nur von Personen gleichen Geschlechts oder Ärzten durchsucht werden; dies gilt nicht, wenn Gefahr im Verzug vorliegt. Dies ist insbesondere dann der Fall, wenn die sofortige Durchsuchung zum Schutz gegen eine Gefahr für Leib oder Leben erforderlich ist. Bei der Durchsuchung von Sachen hat der Inhaber der tatsächlichen Gewalt das Recht, anwesend zu sein. § 7 Absatz 2 und 3 gilt entsprechend.
+
+# § 8b – Durchsuchung zum Eigenschutz
+
+(1) Eine Person, die nach diesem Gesetz oder anderen Rechtsvorschriften der Personenüberprüfung oder der Identitätsfeststellung unterliegt, kann nach Waffen, Explosionsmitteln und anderen gefährlichen Gegenständen durchsucht werden, wenn dies nach den Umständen zum Schutz von Angehörigen der Bundeswehr, zivilen Wachpersonen oder Angehörigen der verbündeten Streitkräfte, der Person selbst oder eines Dritten gegen eine Gefahr für Leib oder Leben erforderlich ist. Die von einer solchen Person mitgeführten Gegenstände können gleichfalls durchsucht werden.
+
+(2) § 7 Absatz 2 und 3 gilt entsprechend.
 
 # § 9 – Voraussetzungen des unmittelbaren Zwanges
 
@@ -97,7 +165,7 @@ Unmittelbarer Zwang darf nach Maßgabe der Vorschriften des 3. Abschnitts nur an
 
 (3) Hilfsmittel der körperlichen Gewalt sind insbesondere Fesseln, technische Sperren und Dienstfahrzeuge.
 
-(4) Waffen sind die dienstlich zugelassenen Hieb- und Schußwaffen, Reizstoffe und Explosivmittel.
+(4) Waffen sind die dienstlich zugelassenen Hieb- und Schusswaffen, Distanz-Elektroimpulsgeräte, Reizstoffe und Explosivmittel.
 
 # § 11 – Androhung der Maßnahmen des unmittelbaren Zwanges
 
@@ -171,7 +239,11 @@ Die in Artikel 2 Abs. 2 Satz 1 und 2 des Grundgesetzes für die Bundesrepublik D
 
 (1) Wird durch die vorübergehende Sperrung einer sonstigen Örtlichkeit nach § 2 Abs. 2 Satz 2 die gewöhnliche Nutzung des betroffenen Grundstücks derart beeinträchtigt, daß dadurch eine Ertragsminderung oder ein sonstiger Nutzungsausfall verursacht wird, so ist eine Entschädigung in Geld zu gewähren, die diesen Nachteil angemessen ausgleicht.
 
-(2) Für die Entschädigung nach Absatz 1 gelten die Vorschriften des § 23 Abs. 4, des § 29, des § 32 Abs. 2 und der §§ 34, 49, 58, 61, 62, 64 und 65 des Bundesleistungsgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 54-1, veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 12 Abs. 33 des Postneuordnungsgesetzes vom 14. September 1994 (BGBl. I S 2325), entsprechend mit der Maßgabe, daß an die Stelle der Anforderungsbehörde die Wehrbereichsverwaltung tritt, in deren Wehrbereich das Grundstück belegen ist. § 58 Abs. 2 gilt mit der Maßgabe, daß das Landgericht, in dessen Bezirk das Grundstück belegen ist, örtlich ausschließlich zuständig ist.
+(2) Für die Entschädigung nach Absatz 1 gelten § 23 Absatz 4, die §§ 29 und 32 Absatz 2 sowie die §§ 34, 49, 58, 62, 64 und 65 des Bundesleistungsgesetzes entsprechend mit der Maßgabe, dass an die Stelle der Anforderungsbehörde das Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr tritt.
+
+# § 20a – Datenverarbeitung und Datenübermittlung
+
+Die Verarbeitung personenbezogener Daten ist nur offen und bei der betroffenen Person durch den in § 1 benannten Personenkreis zulässig, wenn dies zur Erfüllung der durch dieses Gesetz übertragenen Befugnisse erforderlich ist.
 
 # § 21 – Inkrafttreten
 

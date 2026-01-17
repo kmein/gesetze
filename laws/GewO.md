@@ -2762,7 +2762,7 @@ erteilt. Auskunftsberechtigt sind die Behörden, denen die in Satz 1 bezeichnete
 
 5. der Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach dem Geldwäschegesetz,
 
-6. den Verfassungsschutzbehörden des Bundes und der Länder, dem Bundesnachrichtendienst und dem Militärischen Abschirmdienst für die diesen Behörden übertragenen Sicherheitsaufgaben nach dem Sicherheitsüberprüfungsgesetz des Bundes,
+6. den Verfassungsschutzbehörden des Bundes und der Länder, dem Bundesnachrichtendienst und dem Militärischen Abschirmdienst für die diesen Behörden übertragenen Sicherheitsaufgaben nach dem Sicherheitsüberprüfungsgesetz des Bundes oder einer entsprechenden landesrechtlichen Vorschrift,
 
 7. der Zentralstelle für Sanktionsdurchsetzung,
 

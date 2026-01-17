@@ -1162,7 +1162,7 @@ o) Subventionsbetrug unter den in § 264 Abs. 2 Satz 2 genannten Voraussetzungen
 
 p) Sportwettbetrug und Manipulation von berufssportlichen Wettbewerben unter den in § 265e Satz 2 genannten Voraussetzungen,
 
-q) Vorenthalten und Veruntreuen von Arbeitsentgelt unter den in § 266a Absatz 4 Satz 2 Nummer 4 genannten Voraussetzungen,
+q) Vorenthalten und Veruntreuen von Arbeitsentgelt unter den in § 266a Absatz 4 Satz 2 Nummer 3 oder 4 genannten Voraussetzungen,
 
 r) Straftaten der Urkundenfälschung unter den in § 267 Abs. 3 Satz 2 genannten Voraussetzungen und im Fall des § 267 Abs. 4, jeweils auch in Verbindung mit § 268 Abs. 5 oder § 269 Abs. 3, sowie nach § 275 Abs. 2 und § 276 Abs. 2,
 
@@ -1170,7 +1170,7 @@ s) Bankrott unter den in § 283a Satz 2 genannten Voraussetzungen,
 
 t) Straftaten gegen den Wettbewerb nach § 298 und, unter den in § 300 Satz 2 genannten Voraussetzungen, nach § 299,
 
-u) gemeingefährliche Straftaten in den Fällen der §§ 306 bis 306c, 307 Abs. 1 bis 3, des § 308 Abs. 1 bis 3, des § 309 Abs. 1 bis 4, des § 310 Abs. 1, der §§ 313, 314, 315 Abs. 3, des § 315b Abs. 3 sowie der §§ 316a und 316c,
+u) gemeingefährliche Straftaten in den Fällen der §§ 306 bis 306c, 307 Abs. 1 bis 3, des § 308 Absatz 1 bis 4, des § 309 Abs. 1 bis 4, des § 310 Abs. 1, der §§ 313, 314, 315 Abs. 3, des § 315b Abs. 3 sowie der §§ 316a und 316c,
 
 v) Bestechlichkeit und Bestechung nach den §§ 332 und 334,
 
@@ -1202,7 +1202,7 @@ b) Einschleusen mit Todesfolge und gewerbs- und bandenmäßiges Einschleusen nac
 5a. aus dem Ausgangsstoffgesetz:  
   
 
-Straftaten nach § 13 Absatz 3,
+Straftaten nach § 13 Absatz 2,
 
 6. aus dem Außenwirtschaftsgesetz:  
   
@@ -1243,6 +1243,11 @@ b) Straftaten nach § 22a Abs. 1 bis 3,
 
 Straftaten nach § 4 Absatz 3 Nummer 1 Buchstabe a,
 
+9b. aus dem Sprengstoffgesetz:  
+  
+
+Straftaten nach § 40 Absatz 3a,
+
 10. aus dem Völkerstrafgesetzbuch:
 
 a) Völkermord nach § 6,
@@ -1257,7 +1262,11 @@ d) Verbrechen der Aggression nach § 13,
 
 a) Straftaten nach § 51 Abs. 1 bis 3,
 
-b) Straftaten nach § 52 Abs. 1 Nr. 1 und 2 Buchstabe c und d sowie Abs. 5 und 6.
+b) Straftaten nach § 52 Abs. 1 Nr. 1 und 2 Buchstabe c und d sowie Absatz 5 und 6,
+
+12. aus dem Schwarzarbeitsbekämpfungsgesetz:
+
+Straftaten nach § 9.
 
 (3) Die Anordnung darf sich nur gegen den Beschuldigten oder gegen Personen richten, von denen auf Grund bestimmter Tatsachen anzunehmen ist, dass sie für den Beschuldigten bestimmte oder von ihm herrührende Mitteilungen entgegennehmen oder weitergeben oder dass der Beschuldigte ihren Anschluss oder ihr informationstechnisches System benutzt.
 
@@ -2139,7 +2148,7 @@ c) andere zu solchem Verhalten veranlassen,
 
 und wenn deshalb die Gefahr droht, daß die Ermittlung der Wahrheit erschwert werde (Verdunkelungsgefahr).
 
-(3) Gegen den Beschuldigten, der einer Straftat nach § 6 Absatz 1 Nummer 1 oder § 13 Absatz 1 des Völkerstrafgesetzbuches oder § 129a Abs. 1 oder Abs. 2, auch in Verbindung mit § 129b Abs. 1, oder nach den §§ 176c, 176d, 211, 212, 226, 306b oder 306c des Strafgesetzbuches oder, soweit durch die Tat Leib oder Leben eines anderen gefährdet worden ist, nach § 308 Abs. 1 bis 3 des Strafgesetzbuches dringend verdächtig ist, darf die Untersuchungshaft auch angeordnet werden, wenn ein Haftgrund nach Absatz 2 nicht besteht.
+(3) Gegen den Beschuldigten, der einer Straftat nach § 6 Absatz 1 Nummer 1 oder § 13 Absatz 1 des Völkerstrafgesetzbuches oder § 129a Abs. 1 oder Abs. 2, auch in Verbindung mit § 129b Abs. 1, oder nach den §§ 176c, 176d, 211, 212, 226, 306b oder 306c des Strafgesetzbuches oder, soweit durch die Tat Leib oder Leben eines anderen gefährdet worden ist, nach § 308 Absatz 1 bis 4 des Strafgesetzbuches dringend verdächtig ist, darf die Untersuchungshaft auch angeordnet werden, wenn ein Haftgrund nach Absatz 2 nicht besteht.
 
 # § 112a – Haftgrund der Wiederholungsgefahr
 
@@ -4881,7 +4890,7 @@ einer Person, deren Tod eine direkte Folge der Tat, ihre Begehung unterstellt od
 
 7. eine Straftat nach § 16 des Gesetzes gegen den unlauteren Wettbewerb und § 23 des Gesetzes zum Schutz von Geschäftsgeheimnissen,
 
-8. eine Straftat nach § 142 Abs. 1 des Patentgesetzes, § 25 Abs. 1 des Gebrauchsmustergesetzes, § 10 Abs. 1 des Halbleiterschutzgesetzes, § 39 Abs. 1 des Sortenschutzgesetzes, § 143 Abs. 1, § 143a Abs. 1 und § 144 Abs. 1 und 2 des Markengesetzes, § 51 Abs. 1 und § 65 Abs. 1 des Designgesetzes, den §§ 106 bis 108 sowie § 108b Abs. 1 und 2 des Urheberrechtsgesetzes und § 33 des Gesetzes betreffend das Urheberrecht an Werken der bildenden Künste und der Photographie.
+8. eine Straftat nach § 142 Abs. 1 des Patentgesetzes, § 25 Abs. 1 des Gebrauchsmustergesetzes, § 10 Abs. 1 des Halbleiterschutzgesetzes, § 39 Abs. 1 des Sortenschutzgesetzes, § 143 Abs. 1 und § 144 Absatz 1 des Markengesetzes, § 51 Abs. 1 und § 65 Abs. 1 des Designgesetzes, den §§ 106 bis 108 sowie § 108b Abs. 1 und 2 des Urheberrechtsgesetzes und § 33 des Gesetzes betreffend das Urheberrecht an Werken der bildenden Künste und der Photographie.
 
 (2) Die Privatklage kann auch erheben, wer neben dem Verletzten oder an seiner Stelle berechtigt ist, Strafantrag zu stellen. Die in § 77 Abs. 2 des Strafgesetzbuches genannten Personen können die Privatklage auch dann erheben, wenn der vor ihnen Berechtigte den Strafantrag gestellt hat.
 
@@ -5059,7 +5068,7 @@ Die Zurücknahme der Privatklage und der Tod des Privatklägers sowie die Fortse
 
 5. § 4 des Gewaltschutzgesetzes,
 
-6. § 142 des Patentgesetzes, § 25 des Gebrauchsmustergesetzes, § 10 des Halbleiterschutzgesetzes, § 39 des Sortenschutzgesetzes, den §§ 143 bis 144 des Markengesetzes, den §§ 51 und 65 des Designgesetzes, den §§ 106 bis 108b des Urheberrechtsgesetzes, § 33 des Gesetzes betreffend das Urheberrecht an Werken der bildenden Künste und der Photographie, § 16 des Gesetzes gegen den unlauteren Wettbewerb und § 23 des Gesetzes zum Schutz von Geschäftsgeheimnissen.
+6. § 142 des Patentgesetzes, § 25 des Gebrauchsmustergesetzes, § 10 des Halbleiterschutzgesetzes, § 39 des Sortenschutzgesetzes, den §§ 143 und 144 des Markengesetzes, den §§ 51 und 65 des Designgesetzes, den §§ 106 bis 108b des Urheberrechtsgesetzes, § 33 des Gesetzes betreffend das Urheberrecht an Werken der bildenden Künste und der Photographie, § 16 des Gesetzes gegen den unlauteren Wettbewerb und § 23 des Gesetzes zum Schutz von Geschäftsgeheimnissen.
 
 (2) Die gleiche Befugnis steht Personen zu,
 
@@ -6571,7 +6580,7 @@ Dies gilt nicht für Dateisysteme, die nur vorübergehend vorgehalten und innerh
 
 einzutragen. Die Daten dürfen nur für Strafverfahren gespeichert und verändert werden.
 
-(3) Die Staatsanwaltschaften teilen die einzutragenden Daten der Registerbehörde zu dem in Absatz 2 Satz 2 genannten Zweck mit. Auskünfte aus dem Verfahrensregister dürfen nur Strafverfolgungsbehörden für Zwecke eines Strafverfahrens erteilt werden. Dem Bundeskriminalamt dürfen Auskünfte auch erteilt werden, soweit dies im Einzelfall zur Erfüllung seiner Aufgaben nach § 5 Absatz 1, § 6 Absatz 1 oder § 7 Absatz 1 und 2 des Bundeskriminalamtgesetzes erforderlich ist. § 5 Abs. 5 Satz 1 Nr. 2 des Waffengesetzes, § 8a Absatz 5 Satz 1 Nummer 2 des Sprengstoffgesetzes, § 7 Absatz 3 Satz 1 Nummer 3 des Luftsicherheitsgesetzes, § 12 Absatz 1 Nummer 2 des Sicherheitsüberprüfungsgesetzes und § 31 Absatz 4a Satz 1 des Geldwäschegesetzes bleiben unberührt; die Auskunft über die Eintragung wird insoweit im Einvernehmen mit der Staatsanwaltschaft, die die personenbezogenen Daten zur Eintragung in das Verfahrensregister mitgeteilt hat, erteilt, wenn hiervon eine Gefährdung des Untersuchungszwecks nicht zu besorgen ist.
+(3) Die Staatsanwaltschaften teilen die einzutragenden Daten der Registerbehörde zu dem in Absatz 2 Satz 2 genannten Zweck mit. Auskünfte aus dem Verfahrensregister dürfen nur Strafverfolgungsbehörden für Zwecke eines Strafverfahrens erteilt werden. Dem Bundeskriminalamt dürfen Auskünfte auch erteilt werden, soweit dies im Einzelfall zur Erfüllung seiner Aufgaben nach § 5 Absatz 1, § 6 Absatz 1 oder § 7 Absatz 1 und 2 des Bundeskriminalamtgesetzes erforderlich ist. § 5 Abs. 5 Satz 1 Nr. 2 des Waffengesetzes, § 8a Absatz 5 Satz 1 Nummer 2 des Sprengstoffgesetzes, § 7 Absatz 3 Satz 1 Nummer 3 des Luftsicherheitsgesetzes, § 12 Absatz 1 Nummer 2 des Sicherheitsüberprüfungsgesetzes oder eine entsprechende landesrechtliche Vorschrift und § 31 Absatz 4a Satz 1 des Geldwäschegesetzes bleiben unberührt; die Auskunft über die Eintragung wird insoweit im Einvernehmen mit der Staatsanwaltschaft, die die personenbezogenen Daten zur Eintragung in das Verfahrensregister mitgeteilt hat, erteilt, wenn hiervon eine Gefährdung des Untersuchungszwecks nicht zu besorgen ist.
 
 (4) Die in Absatz 2 Satz 1 Nummer 1 und 2 und, wenn dies erforderlich ist, Nummer 3 und 4 genannten Daten dürfen nach Maßgabe des § 18 Abs. 3 des Bundesverfassungsschutzgesetzes, auch in Verbindung mit § 10 Abs. 2 des Gesetzes über den Militärischen Abschirmdienst und § 10 Absatz 3 des BND-Gesetzes, auf Ersuchen auch an die Verfassungsschutzbehörden des Bundes und der Länder, den Militärischen Abschirmdienst und den Bundesnachrichtendienst übermittelt werden. § 18 Abs. 5 Satz 2 des Bundesverfassungsschutzgesetzes gilt entsprechend.
 

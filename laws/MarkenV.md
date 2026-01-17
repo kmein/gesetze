@@ -397,7 +397,7 @@ Auf Grund des § 65 Abs. 1 Nr. 2 bis 10 und 13 sowie des § 138 Abs. 1 des Marke
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">Zwischenstaatliches Einspruchsverfahren nach § 131 des Markengesetzes</td>
+<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">Zwischenstaatliches Einspruchsverfahren</td>
 </tr>
 <tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 50</td>
@@ -659,7 +659,7 @@ sind nur auf Anforderung des Deutschen Patent- und Markenamts nachzureichen. Das
 
 # § 17 – Berufung auf eine im Ursprungsland eingetragene Marke
 
-(1) Beruft sich der Anmelder auf eine im Ursprungsland eingetragene Marke nach Artikel 6 quinquies der Pariser Verbandsübereinkunft, so kann die entsprechende Erklärung auch noch nach der Anmeldung abgegeben werden.
+(1) Beruft sich der Anmelder auf eine im Ursprungsland eingetragene Marke nach Artikel 6quinquies</sup> der Pariser Verbandsübereinkunft, so kann die entsprechende Erklärung auch noch nach der Anmeldung abgegeben werden.
 
 (2) Der Anmelder hat eine von der zuständigen Behörde ausgestellte Bescheinigung über die Eintragung im Ursprungsland vorzulegen.
 
@@ -1093,7 +1093,7 @@ Für Anträge und für sonstige Mitteilungen im Verfahren der internationalen Re
 
 # § 48 – Veröffentlichung des Antrags
 
-(1) In der Veröffentlichung des Antrags (§ 130 Abs. 4 des Markengesetzes) sind mindestens anzugeben:
+(1) In der Veröffentlichung des Antrags (§ 130 Absatz 4 des Markengesetzes in der vor dem 16. Januar 2026 geltenden Fassung) sind mindestens anzugeben:
 
 1. der Name und die Anschrift des Antragstellers,
 
@@ -1105,11 +1105,11 @@ Für Anträge und für sonstige Mitteilungen im Verfahren der internationalen Re
 
 5. die Spezifikation nach Artikel 49 Absatz 1 der Verordnung (EU) 2024/1143.
 
-(2) In der Veröffentlichung ist auf die Möglichkeit des Einspruchs nach § 130 Abs. 4 des Markengesetzes in Verbindung mit Artikel 10 Absatz 4 der Verordnung (EU) 2024/1143 hinzuweisen.
+(2) In der Veröffentlichung ist auf die Möglichkeit des Einspruchs nach § 130 Absatz 4 des Markengesetzes in der vor dem 16. Januar 2026 geltenden Fassung in Verbindung mit Artikel 10 Absatz 4 der Verordnung (EU) 2024/1143 hinzuweisen.
 
 # § 49 – Nationaler Einspruch
 
-(1) Der Einspruch nach § 130 Abs. 4 des Markengesetzes in Verbindung mit Artikel 10 Absatz 4 der Verordnung (EU) 2024/1143 soll unter Verwendung des vom Deutschen Patent- und Markenamt herausgegebenen Formblatts eingereicht werden.
+(1) Der Einspruch nach § 130 Absatz 4 des Markengesetzes in der vor dem 16. Januar 2026 geltenden Fassung in Verbindung mit Artikel 10 Absatz 4 der Verordnung (EU) 2024/1143 soll unter Verwendung des vom Deutschen Patent- und Markenamt herausgegebenen Formblatts eingereicht werden.
 
 (2) In der Einspruchsschrift sind anzugeben:
 
@@ -1125,7 +1125,7 @@ Für Anträge und für sonstige Mitteilungen im Verfahren der internationalen Re
 
 # § 50 – Einspruch
 
-(1) Der Einspruch nach § 131 des Markengesetzes in Verbindung mit Artikel 17 Absatz 2 der Verordnung (EU) 2024/1143 soll unter Verwendung des vom Deutschen Patent- und Markenamt herausgegebenen Formblatts eingereicht werden.
+(1) Der Einspruch nach § 131 des Markengesetzes in der vor dem 16. Januar 2026 geltenden Fassung in Verbindung mit Artikel 17 Absatz 2 der Verordnung (EU) 2024/1143 soll unter Verwendung des vom Deutschen Patent- und Markenamt herausgegebenen Formblatts eingereicht werden.
 
 (2) In der Einspruchsschrift sind anzugeben:
 
@@ -1197,9 +1197,7 @@ Für Markenanmeldungen, die vor Inkrafttreten dieser Verordnung eingereicht word
 
 Für Markenanmeldungen, die vor Inkrafttreten von Änderungen dieser Verordnung eingereicht worden sind, gelten die Vorschriften dieser Verordnung in ihrer bis dahin geltenden Fassung.
 
-# § 57a – Übergangsregelung aus Anlass der Verordnung (EU) 2024/1143
-
-Soweit nach den in den Artikeln 90 und 91 der Verordnung (EU) 2024/1143 enthaltenen Übergangsbestimmungen Vorschriften der Verordnung (EU) Nr. 1151/2012 des Europäischen Parlaments und des Rates vom 21. November 2012 über Qualitätsregelungen für Agrarerzeugnisse und Lebensmittel (ABl. L 343 vom 14.12.2012, S. 1) in der jeweils in Bezug genommenen Fassung weiterhin Anwendung finden, sind die Überschrift zu Teil 6, die §§ 47, 48 und § 49 Absatz 1, § 50 Absatz 1 und 3, § 52 Absatz 1 und 3, § 53 Absatz 1 sowie § 54 in der bis zum 27. Juni 2024 geltenden Fassung weiter anzuwenden.
+# § 57a – (weggefallen)
 
 # § 58 – Inkrafttreten, Außerkrafttreten
 

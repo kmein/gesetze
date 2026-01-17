@@ -416,7 +416,7 @@ Die Entscheidung trifft der Behördenleiter oder ein von ihm besonders beauftrag
 
 (1) Das Bundesamt für Verfassungsschutz informiert die Öffentlichkeit über Bestrebungen und Tätigkeiten nach § 3 Absatz 1, soweit hinreichend gewichtige tatsächliche Anhaltspunkte hierfür vorliegen, sowie über präventiven Wirtschaftsschutz.
 
-(2) Das Bundesministerium des Innern, für Bau und Heimat informiert die Öffentlichkeit über Bestrebungen und Tätigkeiten nach § 3 Absatz 1, soweit hinreichend gewichtige tatsächliche Anhaltspunkte hierfür vorliegen, mindestens einmal jährlich in einem zusammenfassenden Bericht insbesondere zu aktuellen Entwicklungen. In dem Bericht sind die Zuschüsse des Bundeshaushaltes an das Bundesamt für Verfassungsschutz und den Militärischen Abschirmdienst sowie die jeweilige Gesamtzahl ihrer Bediensteten anzugeben.
+(2) Das Bundesministerium des Innern informiert die Öffentlichkeit über Bestrebungen und Tätigkeiten nach § 3 Absatz 1, soweit hinreichend gewichtige tatsächliche Anhaltspunkte hierfür vorliegen, mindestens einmal jährlich in einem zusammenfassenden Bericht insbesondere zu aktuellen Entwicklungen. In dem Bericht sind die Zuschüsse des Bundeshaushaltes an das Bundesamt für Verfassungsschutz sowie die Gesamtzahl seiner Bediensteten anzugeben.
 
 (3) Bei der Information nach den Absätzen 1 und 2 dürfen auch personenbezogene Daten bekanntgegeben werden, wenn die Bekanntgabe für das Verständnis des Zusammenhanges oder der Darstellung von Organisationen oder unorganisierten Gruppierungen erforderlich ist und die Interessen der Allgemeinheit das schutzwürdige Interesse des Betroffenen überwiegen.
 

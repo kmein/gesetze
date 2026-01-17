@@ -196,6 +196,8 @@ einen Anspruch auf die Auszahlung haben.
 
 (5) Der Renten Service übernimmt für die Träger der Rentenversicherung die nach dem Außenwirtschaftsrecht zu erstattenden Meldungen an die Deutsche Bundesbank.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 355 +++)
+
 # § 10 – Nicht ausführbare Zahlungen
 
 (1) Zahlungen, die

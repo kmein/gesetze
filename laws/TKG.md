@@ -3709,7 +3709,7 @@ c) bei welchen Telekommunikationsanlagen und damit erbrachten Telekommunikations
 
 # § 171 – Mitwirkung bei technischen Ermittlungsmaßnahmen bei Mobilfunkendgeräten
 
-Jeder Betreiber eines öffentlichen Mobilfunknetzes hat den berechtigten Stellen nach § 100i Absatz 1 der Strafprozessordnung, § 53 des Bundekriminalamtsgesetzes, § 9 Absatz 4 des Bundesverfassungsschutzgesetzes, auch in Verbindung mit § 5 des MAD-Gesetzes und § 5 des BND-Gesetzes, oder nach Landesrecht nach Maßgabe der Rechtsverordnung nach § 170 Absatz 5 und der Technischen Richtlinie nach § 170 Absatz 6 ohne dass dies dem Endnutzer bekannt wird,
+Jeder Betreiber eines öffentlichen Mobilfunknetzes hat den berechtigten Stellen nach § 100i Absatz 1 der Strafprozessordnung, § 53 des Bundekriminalamtsgesetzes, § 12 Absatz 1 des MAD-Gesetzes, § 9 Absatz 4 des Bundesverfassungsschutzgesetzes, auch in Verbindung mit § 5 des BND-Gesetzes, oder nach Landesrecht nach Maßgabe der Rechtsverordnung nach § 170 Absatz 5 und der Technischen Richtlinie nach § 170 Absatz 6 ohne dass dies dem Endnutzer bekannt wird,
 
 1. den Einsatz von technischen Mitteln der berechtigten Stellen in seinem Mobilfunknetz zu ermöglichen, die der Ermittlung folgender Informationen von Mobilfunkendgeräten dienen:
 
@@ -3958,7 +3958,7 @@ a) § 3 Absatz 1 des Bundesverfassungsschutzgesetzes oder
 
 b) einem zum Verfassungsschutz (§ 1 Absatz 1 des Bundesverfassungsschutzgesetzes) landesgesetzlich begründeten Beobachtungsauftrag der Landesbehörde, insbesondere zum Schutz der verfassungsmäßigen Ordnung vor Bestrebungen und Tätigkeiten der organisierten Kriminalität,
 
-6. an den Militärischen Abschirmdienst, soweit dies aufgrund tatsächlicher Anhaltspunkte im Einzelfall zur Aufklärung bestimmter Bestrebungen oder Tätigkeiten nach § 1 Absatz 1 des MAD-Gesetzes oder zur Sicherung der Einsatzbereitschaft der Truppe oder zum Schutz der Angehörigen, der Dienststellen oder Einrichtungen des Geschäftsbereichs des Bundesministeriums der Verteidigung nach § 14 Absatz 1 des MAD-Gesetzes erforderlich ist,
+6. an den Militärischen Abschirmdienst, soweit dies aufgrund tatsächlicher Anhaltspunkte im Einzelfall zur Wahrnehmung der Aufgaben nach § 2 Absatz 1, 4 oder 5 des MAD-Gesetzes erforderlich ist,
 
 7. an den Bundesnachrichtendienst, soweit dies erforderlich ist
 
@@ -4057,7 +4057,7 @@ a) § 3 Absatz 1 des Bundesverfassungsschutzgesetzes oder
 
 b) einem zum Verfassungsschutz (§ 1 Absatz 1 des Bundesverfassungsschutzgesetzes) landesgesetzlich begründeten Beobachtungsauftrag der Landesbehörde, insbesondere zum Schutz der verfassungsmäßigen Ordnung vor Bestrebungen und Tätigkeiten der organisierten Kriminalität,
 
-6. den Militärischen Abschirmdienst, soweit dies aufgrund tatsächlicher Anhaltspunkte im Einzelfall zur Aufklärung bestimmter Bestrebungen oder Tätigkeiten nach § 1 Absatz 1 des MAD-Gesetzes oder zur Sicherung der Einsatzbereitschaft der Truppe oder zum Schutz der Angehörigen, der Dienststellen und Einrichtungen des Geschäftsbereichs des Bundesministeriums der Verteidigung nach § 14 Absatz 1 des MAD-Gesetzes erforderlich ist,
+6. an den Militärischen Abschirmdienst, soweit dies aufgrund tatsächlicher Anhaltspunkte im Einzelfall zur Wahrnehmung der Aufgaben nach § 2 Absatz 1, 4 oder 5 des MAD-Gesetzes erforderlich ist,
 
 7. den Bundesnachrichtendienst, soweit dies erforderlich ist
 

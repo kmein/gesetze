@@ -581,7 +581,7 @@ Die Bundesministerin der Verteidigung oder der Bundesminister der Verteidigung s
 
 (1) Werden Tatsachen bekannt, die den Verdacht eines Dienstvergehens rechtfertigen, so muss die oder der Disziplinarvorgesetzte den Sachverhalt durch die erforderlichen Ermittlungen aufklären. Der Inhalt mündlicher Vernehmungen ist aktenkundig zu machen.
 
-(2) Die oder der Disziplinarvorgesetzte kann die Aufklärung des Sachverhalts einer Offizierin oder einem Offizier übertragen. In Fällen von geringerer Bedeutung kann sie oder er auch den Kompaniefeldwebel oder eine Unteroffizierin oder einen Unteroffizier in entsprechender Dienststellung mit der Vernehmung von Zeuginnen und Zeugen beauftragen, soweit es sich um Mannschaften oder um Unteroffizierinnen ohne Portepee oder Unteroffiziere ohne Portepee handelt.
+(2) Die Aufklärung des Sachverhalts kann einer Offizierin oder einem Offizier übertragen werden. Eine Feldjägeroffizierin oder ein Feldjägeroffizier kann im Rahmen der ihr oder ihm übertragenen Aufklärung des Sachverhalts auch einen Feldjägerfeldwebel mit Vernehmungen beauftragen. In Fällen von geringerer Bedeutung kann die oder der Disziplinarvorgesetzte auch den Kompaniefeldwebel oder eine Unteroffizierin oder einen Unteroffizier in entsprechender Dienststellung mit der Vernehmung von Zeuginnen und Zeugen beauftragen, soweit es sich um Mannschaften oder um Unteroffizierinnen ohne Portepee oder Unteroffiziere ohne Portepee handelt.
 
 (3) Bei der Aufklärung des Sachverhalts sind die belastenden, entlastenden und die für Art und Höhe der Disziplinarmaßnahme bedeutsamen Umstände zu ermitteln.
 

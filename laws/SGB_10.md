@@ -1087,6 +1087,8 @@ und keine Anhaltspunkte dafür bestehen, dass überwiegende schutzwürdige Inter
 
 (7) Die Speicherung und Nutzung der Identifikationsnummer nach dem Identifikationsnummerngesetz ist ausschließlich zum Zweck der eindeutigen Zuordnung der betroffenen Person bei der Erbringung von Verwaltungsleistungen nach dem Onlinezugangsgesetz zulässig sowie zur Qualitätssicherung nach § 10 des Identifikationsnummerngesetzes und zur Erfüllung der Aufgaben nach § 2 des Identifikationsnummerngesetzes.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 355 +++)
+
 # § 67d – Übermittlungsgrundsätze
 
 (1) Die Verantwortung für die Zulässigkeit der Bekanntgabe von Sozialdaten durch ihre Weitergabe an einen Dritten oder durch die Einsichtnahme oder den Abruf eines Dritten von zur Einsicht oder zum Abruf bereitgehaltenen Daten trägt die übermittelnde Stelle. Erfolgt die Übermittlung auf Ersuchen des Dritten, an den die Daten übermittelt werden, trägt dieser die Verantwortung für die Richtigkeit der Angaben in seinem Ersuchen.
@@ -1586,8 +1588,6 @@ und die Auskunftserteilung einen unverhältnismäßigen Aufwand erfordern würde
 (4) Wird einer betroffenen Person keine Auskunft erteilt, so kann, soweit es sich um in § 35 des Ersten Buches genannte Stellen handelt, die der Kontrolle des oder der Bundesbeauftragten unterliegen, diese, sonst die nach Landesrecht für die Kontrolle des Datenschutzes zuständige Stelle, auf Verlangen der betroffenen Person prüfen, ob die Ablehnung der Auskunftserteilung rechtmäßig war.
 
 (5) Bezieht sich die Informationserteilung auf die Übermittlung von Sozialdaten durch öffentliche Stellen an Staatsanwaltschaften und Gerichte im Bereich der Strafverfolgung, an Polizeibehörden, Verfassungsschutzbehörden, den Bundesnachrichtendienst und den Militärischen Abschirmdienst, ist sie nur mit Zustimmung dieser Stellen zulässig.
-
-# § 83a – (weggefallen)
 
 # § 84 – Recht auf Berichtigung, Löschung, Einschränkung der Verarbeitung und Widerspruch
 

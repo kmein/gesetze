@@ -1398,6 +1398,8 @@ Beschäftigte, die in einer Einrichtung der Deutschen Welle im Ausland eingesetz
 
 2. bei innerdienstlichen oder sozialen Angelegenheiten, die Liegenschaften eines Dienstortes betreffen, die Beteiligung durch einen Ausschuss ausgeübt wird, der bei der für die Entscheidung zuständigen Stelle eingerichtet ist, sofern ein solcher gebildet worden ist und das gesetzlich zuständige Beteiligungsgremium zugestimmt hat. Die Aufgaben und Befugnisse der Leiterin oder des Leiters der Dienststelle werden in diesen Fällen durch die für die Entscheidung zuständige Stelle wahrgenommen. Kommt im Beteiligungsverfahren eine Einigung nicht zustande, richtet sich das weitere Verfahren nach den §§ 71 bis 75 oder nach § 82.
 
+(6) Die Mitgliedschaft in einem Personalrat beim Bundesamt für den Militärischen Abschirmdienst ruht bei Personen, die zu einer sicherheitsempfindlichen Tätigkeit nicht zugelassen sind.
+
 # § 118 – Grundsatz
 
 Für die Dienststellen des Bundes im Ausland gilt dieses Gesetz, soweit im Folgenden nichts anderes bestimmt ist.

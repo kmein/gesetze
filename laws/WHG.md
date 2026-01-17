@@ -1520,11 +1520,13 @@ Durch Rechtsverordnung nach § 23 Absatz 1 Nummer 5, 6 und 10 kann geregelt werd
 
 (4) Folgende Anlagenteile gelten als geeignet:
 
-1. Bauprodukte im Sinne von Artikel 2 Nummer 1 und 2 der Verordnung (EU) Nr. 305/2011 des Europäischen Parlaments und des Rates vom 9. März 2011 zur Festlegung harmonisierter Bedingungen für die Vermarktung von Bauprodukten und zur Aufhebung der Richtlinie 89/106/EWG des Rates (ABl. L 88 vom 4.4.2011, S. 5), wenn
+1. Bauprodukte im Sinne des Artikels 2 Nummer 1 und 2 der Verordnung (EU) Nr. 305/2011 und Bauprodukte im Sinne des Artikels 3 Nummer 1 der Verordnung (EU) 2024/3110, wenn
 
-a) die Bauprodukte von einer harmonisierten Norm im Sinne von Artikel 2 Nummer 11 der Verordnung (EU) Nr. 305/2011 erfasst sind oder einer Europäischen Technischen Bewertung im Sinne von Artikel 2 Nummer 13 der Verordnung (EU) Nr. 305/2011 entsprechen und die CE-Kennzeichnung angebracht wurde und
+a) die Bauprodukte von einer harmonisierten Norm im Sinne des Artikels 2 Nummer 11 der Verordnung (EU) Nr. 305/2011 oder einer harmonisierten technischen Spezifikation im Sinne des Artikels 3 Nummer 42 der Verordnung (EU) 2024/3110 erfasst sind oder einer europäischen technischen Bewertung im Sinne des Artikels 2 Nummer 13 der Verordnung (EU) Nr. 305/2011 oder des Artikels 3 Nummer 19 der Verordnung (EU) 2024/3110 entsprechen und
 
-b) die erklärten Leistungen alle wesentlichen Merkmale der harmonisierten Norm oder der Europäischen Technischen Bewertung umfassen, die dem Gewässerschutz dienen,
+b) die CE-Kennzeichnung angebracht wurde und
+
+c) die erklärten Leistungen alle wesentlichen dem Gewässerschutz dienenden Merkmale einer harmonisierten Norm im Sinne des Artikels 2 Nummer 11 der Verordnung (EU) Nr. 305/2011, einer harmonisierten technischen Spezifikation im Sinne der Verordnung (EU) 2024/3110 oder einer europäischen technischen Bewertung im Sinne des Artikels 2 Nummer 13 der Verordnung (EU) Nr. 305/2011 oder des Artikels 3 Nummer 19 der Verordnung (EU) 2024/3110 umfassen,
 
 2. serienmäßig hergestellte Bauprodukte, die nicht unter Nummer 1 fallen und für die nach bauordnungsrechtlichen Vorschriften ein Verwendbarkeitsnachweis erteilt wurde, der die Einhaltung der wasserrechtlichen Anforderungen gewährleistet,
 
@@ -1537,6 +1539,8 @@ b) die erklärten Leistungen alle wesentlichen Merkmale der harmonisierten Norm 
 Entsprechen bei Bauprodukten nach Satz 1 Nummer 1 die erklärten Leistungen nicht den wasserrechtlichen Anforderungen an die jeweilige Verwendung, muss die Anlage insgesamt so beschaffen sein, dass die wasserrechtlichen Anforderungen erfüllt werden. Bei Anlagenteilen nach Satz 1 Nummer 4 und 5 bleiben die wasserrechtlichen Anforderungen an die Rückhaltung wassergefährdender Stoffe unberührt. Druckgeräte und Baugruppen nach Satz 1 Nummer 4, für die eine Betreiberprüfstelle eine EU-Konformitätserklärung nach § 2 Satz 1 Nummer 10 der Druckgeräteverordnung erteilt hat, bedürfen keiner CE-Kennzeichnung.
 
 (5) Bei serienmäßig hergestellten Bauprodukten, die nicht unter Absatz 4 Satz 1 Nummer 1 fallen, sowie bei Anlagenteilen, die aus Bauprodukten zusammengefügt werden, stehen den Verwendbarkeitsnachweisen nach Absatz 4 Satz 1 Nummer 2 sowie den Bauartgenehmigungen oder allgemeinen bauaufsichtlichen Zulassungen nach Absatz 4 Satz 1 Nummer 3 Zulassungen aus einem anderen Mitgliedstaat der Europäischen Union, einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Türkei gleich, wenn mit den Zulassungen dauerhaft das gleiche Schutzniveau erreicht wird. Das Ergebnis von Prüfungen von Anlagenteilen nach Satz 1, die bereits in einem anderen Mitgliedstaat der Europäischen Union, einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Türkei vorgenommen worden sind, ist bei der Eignungsfeststellung zu berücksichtigen.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 9.1.2026 I Nr. 4 +++)
 
 # § 64 – Bestellung von Gewässerschutzbeauftragten
 

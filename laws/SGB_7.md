@@ -3582,10 +3582,6 @@ Der Angleichungssatz im ersten Jahr ergibt sich aus der Summe des Ausgangssatzes
 
 (2) Die Länder setzen die Konzepte nach Absatz 1 bis zum 31. Dezember 2009 um. Dabei ist eine angemessene Vertretung der Interessen von Ländern, Kommunen und Feuerwehrverbänden in den Selbstverwaltungsgremien sowie eine ortsnahe Betreuung der Versicherten und Unternehmen sicherzustellen.
 
-# § 224 – (weggefallen)
-
-# § 225 – (weggefallen)
-
 # Anlage 1 – (zu § 114)Gewerbliche Berufsgenossenschaften
 
 1. Berufsgenossenschaft Rohstoffe und chemische Industrie,

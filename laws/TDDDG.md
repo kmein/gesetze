@@ -444,7 +444,7 @@ a) § 3 Absatz 1 des Bundesverfassungsschutzgesetzes oder
 
 b) einem zum Verfassungsschutz (§ 1 Absatz 1 des Bundesverfassungsschutzgesetzes) landesgesetzlich begründeten Beobachtungsauftrag der Landesbehörde, insbesondere zum Schutz der verfassungsmäßigen Ordnung vor Bestrebungen und Tätigkeiten der organisierten Kriminalität,
 
-7. den Militärischen Abschirmdienst, soweit dies aufgrund tatsächlicher Anhaltspunkte im Einzelfall zur Aufklärung bestimmter Bestrebungen oder Tätigkeiten nach § 1 Absatz 1 des MAD-Gesetzes oder zur Sicherung der Einsatzbereitschaft der Truppe oder zum Schutz der Angehörigen, der Dienststellen und Einrichtungen des Geschäftsbereichs des Bundesministeriums der Verteidigung nach § 14 Absatz 1 des MAD-Gesetzes erforderlich ist,
+7. den Militärischen Abschirmdienst, soweit dies aufgrund tatsächlicher Anhaltspunkte im Einzelfall zur Wahrnehmung der Aufgaben nach § 2 Absatz 1, 4 oder 5 des MAD-Gesetzes erforderlich ist,
 
 8. den Bundesnachrichtendienst, soweit dies erforderlich ist
 
@@ -541,7 +541,7 @@ a) § 3 Absatz 1 des Bundesverfassungsschutzgesetzes, oder
 
 b) einem zum Verfassungsschutz (§ 1 Absatz 1 des Bundesverfassungsschutzgesetzes) landesgesetzlich begründeten Beobachtungsauftrag der Landesbehörde, insbesondere zum Schutz der verfassungsmäßigen Ordnung vor Bestrebungen und Tätigkeiten der organisierten Kriminalität,
 
-7. den Militärischen Abschirmdienst, soweit dies aufgrund tatsächlicher Anhaltspunkte im Einzelfall zur Aufklärung bestimmter Bestrebungen oder Tätigkeiten nach § 1 Absatz 1 des MAD-Gesetzes oder zur Sicherung der Einsatzbereitschaft der Truppe oder zum Schutz der Angehörigen, der Dienststellen und Einrichtungen des Geschäftsbereichs des Bundesministeriums der Verteidigung nach § 14 Absatz 1 des MAD-Gesetzes erforderlich ist,
+7. den Militärischen Abschirmdienst, soweit dies aufgrund tatsächlicher Anhaltspunkte im Einzelfall zur Wahrnehmung der Aufgaben nach § 2 Absatz 1, 4 oder 5 des MAD-Gesetzes erforderlich ist,
 
 8. den Bundesnachrichtendienst, soweit dies erforderlich ist
 
@@ -611,7 +611,7 @@ a) § 3 Absatz 1 des Bundesverfassungsschutzgesetzes oder
 
 b) einem zum Verfassungsschutz (§ 1 Absatz 1 des Bundesverfassungsschutzgesetzes) landesgesetzlich begründeten Beobachtungsauftrag der Landesbehörde, insbesondere zum Schutz der verfassungsmäßigen Ordnung vor Bestrebungen und Tätigkeiten der organisierten Kriminalität,
 
-6. den Militärischen Abschirmdienst, soweit dies aufgrund tatsächlicher Anhaltspunkte im Einzelfall zur Aufklärung bestimmter Bestrebungen oder Tätigkeiten nach § 1 Absatz 1 des MAD-Gesetzes oder zur Sicherung der Einsatzbereitschaft der Truppe oder zum Schutz der Angehörigen, der Dienststellen und Einrichtungen des Geschäftsbereichs des Bundesministeriums der Verteidigung nach § 14 Absatz 1 des MAD-Gesetzes erforderlich ist,
+6. den Militärischen Abschirmdienst, soweit dies aufgrund tatsächlicher Anhaltspunkte im Einzelfall zur Wahrnehmung der Aufgaben nach § 2 Absatz 1, 4 oder 5 des MAD-Gesetzes erforderlich ist,
 
 7. den Bundesnachrichtendienst zur Gewinnung von Erkenntnissen über das Ausland von außen- und sicherheitspolitischer Bedeutung für die Bundesrepublik Deutschland, sofern
 

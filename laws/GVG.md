@@ -793,15 +793,15 @@ b) über die Höhe des Vergütungsanspruchs infolge einer Anordnung des Bestelle
 
 16. des Herbeiführens einer Explosion durch Kernenergie (§ 307 Abs. 1 bis 3 des Strafgesetzbuches),
 
-17. des Herbeiführens einer Sprengstoffexplosion mit Todesfolge (§ 308 Abs. 3 des Strafgesetzbuches),
+17. des Herbeiführens einer Sprengstoffexplosion mit Todesfolge (§ 308 Absatz 4 des Strafgesetzbuches),
 
 18. des Mißbrauchs ionisierender Strahlen gegenüber einer unübersehbaren Zahl von Menschen (§ 309 Abs. 2 und 4 des Strafgesetzbuches),
 
 19. der fehlerhaften Herstellung einer kerntechnischen Anlage mit Todesfolge (§ 312 Abs. 4 des Strafgesetzbuches),
 
-20. des Herbeiführens einer Überschwemmung mit Todesfolge (§ 313 in Verbindung mit § 308 Abs. 3 des Strafgesetzbuches),
+20. des Herbeiführens einer Überschwemmung mit Todesfolge (§ 313 in Verbindung mit § 308 Absatz 4 des Strafgesetzbuches),
 
-21. der gemeingefährlichen Vergiftung mit Todesfolge (§ 314 in Verbindung mit § 308 Abs. 3 des Strafgesetzbuches),
+21. der gemeingefährlichen Vergiftung mit Todesfolge (§ 314 in Verbindung mit § 308 Absatz 4 des Strafgesetzbuches),
 
 22. des räuberischen Angriffs auf Kraftfahrer mit Todesfolge (§ 316a Abs. 3 des Strafgesetzbuches),
 
@@ -1302,7 +1302,7 @@ Die Zuständigkeit des Commercial Courts nach Satz 1 kann auf bestimmte Sachgebi
 
 2. bei Mord (§ 211 des Strafgesetzbuches), Totschlag (§ 212 des Strafgesetzbuches) und den in § 129a Abs. 1 Nr. 2 und Abs. 2 des Strafgesetzbuches bezeichneten Straftaten, wenn ein Zusammenhang mit der Tätigkeit einer nicht oder nicht nur im Inland bestehenden Vereinigung besteht, deren Zweck oder Tätigkeit die Begehung von Straftaten dieser Art zum Gegenstand hat, und der Generalbundesanwalt wegen der besonderen Bedeutung des Falles die Verfolgung übernimmt,
 
-3. bei Mord (§ 211 des Strafgesetzbuchs), Totschlag (§ 212 des Strafgesetzbuchs), erpresserischem Menschenraub (§ 239a des Strafgesetzbuchs), Geiselnahme (§ 239b des Strafgesetzbuchs), schwerer und besonders schwerer Brandstiftung (§§ 306a und 306b des Strafgesetzbuchs), Brandstiftung mit Todesfolge (§ 306c des Strafgesetzbuchs), Herbeiführen einer Explosion durch Kernenergie in den Fällen des § 307 Abs. 1 und 3 Nr. 1 des Strafgesetzbuchs, Herbeiführen einer Sprengstoffexplosion in den Fällen des § 308 Abs. 1 bis 3 des Strafgesetzbuchs, Missbrauch ionisierender Strahlen in den Fällen des § 309 Abs. 1 bis 4 des Strafgesetzbuchs, Vorbereitung eines Explosions- oder Strahlungsverbrechens in den Fällen des § 310 Abs. 1 Nr. 1 bis 3 des Strafgesetzbuchs, Herbeiführen einer Überschwemmung in den Fällen des § 313 Abs. 2 in Verbindung mit § 308 Abs. 2 und 3 des Strafgesetzbuchs, gemeingefährlicher Vergiftung in den Fällen des § 314 Abs. 2 in Verbindung mit § 308 Abs. 2 und 3 des Strafgesetzbuchs und Angriff auf den Luft- und Seeverkehr in den Fällen des § 316c Abs. 1 und 3 des Strafgesetzbuchs, wenn die Tat nach den Umständen geeignet ist,
+3. bei Mord (§ 211 des Strafgesetzbuchs), Totschlag (§ 212 des Strafgesetzbuchs), erpresserischem Menschenraub (§ 239a des Strafgesetzbuchs), Geiselnahme (§ 239b des Strafgesetzbuchs), schwerer und besonders schwerer Brandstiftung (§§ 306a und 306b des Strafgesetzbuchs), Brandstiftung mit Todesfolge (§ 306c des Strafgesetzbuchs), Herbeiführen einer Explosion durch Kernenergie in den Fällen des § 307 Abs. 1 und 3 Nr. 1 des Strafgesetzbuchs, Herbeiführen einer Sprengstoffexplosion in den Fällen des § 308 Absatz 1 bis 4 des Strafgesetzbuchs, Missbrauch ionisierender Strahlen in den Fällen des § 309 Abs. 1 bis 4 des Strafgesetzbuchs, Vorbereitung eines Explosions- oder Strahlungsverbrechens in den Fällen des § 310 Abs. 1 Nr. 1 bis 3 des Strafgesetzbuchs, Herbeiführen einer Überschwemmung in den Fällen des § 313 Abs. 2 in Verbindung mit § 308 Absatz 2 und 4 des Strafgesetzbuchs, gemeingefährlicher Vergiftung in den Fällen des § 314 Abs. 2 in Verbindung mit § 308 Absatz 2 und 4 des Strafgesetzbuchs und Angriff auf den Luft- und Seeverkehr in den Fällen des § 316c Abs. 1 und 3 des Strafgesetzbuchs, wenn die Tat nach den Umständen geeignet ist,
 
 a) den Bestand oder die Sicherheit eines Staates zu beeinträchtigen,
 

@@ -4385,6 +4385,20 @@ ausgenommen in Zubereitungen zur oralen Anwendung, die ohne einen weiteren Stoff
 </dl></td>
 </tr>
 <tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">Zuranolon</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">–</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">1-[(3α,5β)-3-Hydroxy-3-methyl-20-oxo-19-norpregnan-21-yl]-1
+H-pyrazol-4-carbonitril</td>
+</tr>
+<tr class="odd">
+<td colspan="3" style="text-align: left;" data-valign="top" data-charoff="50"><dl>
+<dt>-</dt>
+<dd>
+ausgenommen in Zubereitungen, die ohne einen weiteren Stoff der Anlagen I bis III je abgeteilte Form bis zu 50 mg Zuranolon enthalten -
+</dd>
+</dl></td>
+</tr>
+<tr class="even">
 <td colspan="3" style="text-align: left;" data-valign="top" data-charoff="50"><dl>
 <dt>-</dt>
 <dd>
@@ -4403,20 +4417,6 @@ ohne am oder im menschlichen oder tierischen Körper angewendet zu werden, aussc
 besonders ausgenommen sind. Für ausgenommene Zubereitungen - außer solchen mit Codein oder Dihydrocodein - gelten jedoch die betäubungsmittelrechtlichen Vorschriften über die Einfuhr, Ausfuhr und Durchfuhr. Nach Buchstabe b der Position Barbital ausgenommene Zubereitungen können jedoch ohne Genehmigung nach § 11 des Betäubungsmittelgesetzes ein-, aus- oder durchgeführt werden, wenn nach den Umständen eine missbräuchliche Verwendung nicht zu befürchten ist.
 </dd>
 </dl>
-</dd>
-</dl></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">Zuranolon</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">–</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">1-[(3α,5β)-3-Hydroxy-3-methyl-20-oxo-19-norpregnan-21-yl]-1
-H-pyrazol-4-carbonitril</td>
-</tr>
-<tr class="even">
-<td colspan="3" style="text-align: left;" data-valign="top" data-charoff="50"><dl>
-<dt>-</dt>
-<dd>
-ausgenommen in Zubereitungen, die ohne einen weiteren Stoff der Anlagen I bis III je abgeteilte Form bis zu 50 mg Zuranolon enthalten -
 </dd>
 </dl></td>
 </tr>

@@ -845,7 +845,7 @@ Der Inhaber einer Erlaubnis und der Inhaber eines Betriebes, der auf Grund einer
 
 # § 15 – Einfuhr, Durchfuhr und Verbringen
 
-(1) Wer explosionsgefährliche Stoffe einführen, durchführen oder verbringen oder durch einen anderen einführen, durchführen oder verbringen lassen will, hat nachzuweisen, dass er zum Umgang mit explosionsgefährlichen Stoffen oder zum Erwerb dieser Stoffe berechtigt ist. Der Einführer oder Verbringer hat auf Verlangen der zuständigen Behörde nachzuweisen, dass für die explosionsgefährlichen Stoffe eine auf Grund einer Rechtsverordnung nach § 25 dieses Gesetzes vorgeschriebene Lager- und Verträglichkeitsgruppenzuordnung durch die zuständige Stelle erfolgt ist; dies gilt nicht für die Einfuhr oder das Verbringen zum Zwecke der Zulassung, der EU-Baumusterprüfung oder der Lager- und Verträglichkeitsgruppenzuordnung. Das Erfordernis des Konformitätsnachweises und der CE-Kennzeichnung nach § 5 Absatz 1a oder der Zulassung nach § 5f bleiben unberührt.
+(1) Wer explosionsgefährliche Stoffe einführen, durchführen oder verbringen oder durch einen anderen einführen, durchführen oder verbringen lassen will, muss zum Umgang mit explosionsgefährlichen Stoffen oder zum Erwerb dieser Stoffe berechtigt sein; er hat die Berechtigung auf Verlangen der nach Absatz 5 bestimmten Behörde nachzuweisen. Der Einführer oder Verbringer hat auf Verlangen der zuständigen Behörde nachzuweisen, dass für die explosionsgefährlichen Stoffe eine auf Grund einer Rechtsverordnung nach § 25 dieses Gesetzes vorgeschriebene Lager- und Verträglichkeitsgruppenzuordnung durch die zuständige Stelle erfolgt ist; dies gilt nicht für die Einfuhr oder das Verbringen zum Zwecke der Zulassung, der EU-Baumusterprüfung oder der Lager- und Verträglichkeitsgruppenzuordnung. Das Erfordernis des Konformitätsnachweises und der CE-Kennzeichnung nach § 5 Absatz 1a oder der Zulassung nach § 5f bleiben unberührt.
 
 (2) Die Nachweispflicht des Absatzes 1 Satz 3 gilt nicht für die Durchfuhr von explosionsgefährlichen Stoffen einschließlich ihrer Lagerung in verschlossenen Zolllagern oder in Freizonen.
 
@@ -1078,9 +1078,7 @@ Unter den Voraussetzungen des Satzes 1 erheben die zuständigen Behörden von de
 
 (1) Der Genehmigung bedürfen
 
-1. die Errichtung und der Betrieb von Lagern, in denen explosionsgefährliche Stoffe zu gewerblichen Zwecken
-
-, im Rahmen einer wirtschaftlichen Unternehmung oder eines land- oder forstwirtschaftlichen Betriebes oder bei der Beschäftigung von Arbeitnehmern aufbewahrt werden sollen,
+1. die Errichtung und der Betrieb von Lagern, in denen explosionsgefährliche Stoffe zu gewerblichen Zwecken, im Rahmen einer wirtschaftlichen Unternehmung oder eines land- oder forstwirtschaftlichen Betriebes oder bei der Beschäftigung von Arbeitnehmern aufbewahrt werden sollen,
 
 2. die wesentliche Änderung der Beschaffenheit oder des Betriebes solcher Lager.
 
@@ -1260,7 +1258,7 @@ Satz 1 Nr. 2 gilt nicht für die Erlaubnis zum Erwerb und zur Verwendung pyrotec
 
 # § 28 – Anwendbare Vorschriften
 
-Für den Umgang und den Verkehr mit explosionsgefährlichen Stoffen in anderen als den in § 7 Abs. 1 bezeichneten Fällen gelten die §§ 13, 15 Abs. 1, 3 und 6, § 16 Abs. 1, 1a und 2, §§ 17, 19 Abs. 1 Nr. 1 und Abs. 2, § 22 Abs. 1 bis 4, §§ 23, 24 Abs. 1 und 2 Nr. 4 sowie § 26 Abs. 1 entsprechend. § 26 Abs. 2 gilt mit der Maßgabe, dass die dort vorgeschriebene Anzeige nur der zuständigen Behörde zu erstatten ist.
+Für den Umgang und den Verkehr mit explosionsgefährlichen Stoffen in anderen als den in § 7 Abs. 1 bezeichneten Fällen gelten die §§ 13, 15 Absatz 1, 3, 4 und 6, § 16 Abs. 1, 1a und 2, §§ 17, 19 Abs. 1 Nr. 1 und Abs. 2, § 22 Abs. 1 bis 4, §§ 23, 24 Abs. 1 und 2 Nr. 4 sowie § 26 Abs. 1 entsprechend. § 26 Abs. 2 gilt mit der Maßgabe, dass die dort vorgeschriebene Anzeige nur der zuständigen Behörde zu erstatten ist.
 
 # § 29 – Ermächtigungen
 
@@ -1454,27 +1452,37 @@ Die Bundesanstalt für Materialforschung und -prüfung ist über die Maßnahmen 
 
 (2) Ebenso wird bestraft, wer
 
-1. entgegen § 15 Abs. 1 Satz 1 explosionsgefährliche Stoffe einführt, durchführt oder verbringt oder durch einen anderen einführen, durchführen oder verbringen lässt, ohne seine Berechtigung zum Umgang mit explosionsgefährlichen Stoffen oder zu deren Erwerb nachgewiesen zu haben,
+1. entgegen
 
-2. ein Lager ohne Genehmigung nach § 17 Abs. 1 Satz 1 Nr. 1 oder nach einer wesentlichen Änderung ohne Genehmigung nach § 17 Abs. 1 Satz 1 Nr. 2 betreibt,
+a) § 15 Absatz 1 Satz 1 erster Halbsatz oder
+
+b) § 28 Satz 1 in Verbindung mit § 15 Absatz 1 Satz 1 erster Halbsatz
+
+explosionsgefährliche Stoffe einführt, durchführt oder verbringt oder durch einen anderen einführen, durchführen oder verbringen lässt,
+
+2. ohne Genehmigung nach § 17 Absatz 1 Satz 1, auch in Verbindung mit § 28 Satz 1, ein Lager betreibt,
 
 3. explosionsgefährliche Stoffe
 
-a) entgegen § 22 Abs. 1 Satz 2 an Personen vertreibt oder Personen überlässt, die mit diesen Stoffen nicht umgehen oder den Verkehr mit diesen Stoffen nicht betreiben dürfen,
+a) entgegen § 22 Absatz 1 Satz 2, auch in Verbindung mit § 28 Satz 1, an Personen vertreibt oder Personen überlässt, die mit diesen Stoffen nicht umgehen oder den Verkehr mit diesen Stoffen nicht betreiben dürfen,
 
 b) entgegen § 22 Abs. 1 Satz 3 innerhalb einer Betriebsstätte einer Person, die nicht unter Aufsicht oder nach Weisung einer verantwortlichen Person handelt oder noch nicht 16 Jahre alt ist, oder einer Person unter 18 Jahren ohne Vorliegen der dort bezeichneten Voraussetzungen überlässt,
 
-c) entgegen § 22 Abs. 2 einer anderen als dort bezeichneten Person oder Stelle überlässt,
+c) entgegen § 22 Absatz 2, auch in Verbindung mit § 28 Satz 1, einer anderen als dort bezeichneten Person oder Stelle überlässt,
 
-d) entgegen § 22 Abs. 3 einer Person unter 18 Jahren überlässt oder
+d) entgegen § 22 Absatz 3, auch in Verbindung mit § 28 Satz 1, einer Person unter 18 Jahren überlässt oder
 
 e) entgegen § 22 Abs. 4 Satz 1 vertreibt oder anderen überlässt.
 
 (3) Wer wissentlich durch eine der in den Absätzen 1 oder 2 bezeichneten Handlungen Leib oder Leben eines anderen oder fremde Sachen von bedeutendem Wert gefährdet, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
 
+(3a) Mit Freiheitstrafe von sechs Monaten bis zu fünf Jahren wird bestraft, wer in den Fällen des Absatzes 1 oder des Absatzes 2 gewerbsmäßig oder als Mitglied einer Bande handelt, die sich zur fortgesetzten Begehung solcher Taten verbunden hat.
+
+(3b) In den Fällen des Absatzes 1, des Absatzes 2 Nummer 1 oder Nummer 3 Buchstabe a, c oder d, des Absatzes 3 oder des Absatzes 3a ist der Versuch strafbar.
+
 (4) Handelt der Täter in den Fällen des Absatzes 1 oder 2 fahrlässig, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
-(5) Die Tat ist nicht nach Absatz 1 Nummer 3 oder Absatz 2 Nummer 3 strafbar, wenn eine dort bezeichnete Handlung in Bezug auf einen nach § 5 Absatz 1 Nummer 1 konformitätsbewerteten oder nach § 47 Absatz 2 oder Absatz 4 zugelassenen pyrotechnischen Gegenstand begangen wird. Satz 1 gilt nicht für einen pyrotechnischen Gegenstand nach § 3a Absatz 1 Nummer 1 Buchstabe d.
+(5) Die Tat ist nicht nach Absatz 1 Nummer 3 oder Absatz 2 Nummer 1 Buchstabe b oder Nummer 3 strafbar, wenn eine dort bezeichnete Handlung in Bezug auf einen nach § 5 Absatz 1 Nummer 1 konformitätsbewerteten oder nach § 47 Absatz 2 oder Absatz 4 zugelassenen pyrotechnischen Gegenstand begangen wird. Satz 1 gilt nicht für einen pyrotechnischen Gegenstand nach § 3a Absatz 1 Nummer 1 Buchstabe d.
 
 # § 41 – Ordnungswidrigkeiten
 
@@ -1512,7 +1520,13 @@ zuwiderhandelt,
 
 4. eine Anzeige nach § 12 Abs. 1 Satz 3, § 14, § 21 Abs. 4 Satz 1 oder 2, § 26 Abs. 1 oder Abs. 2 Satz 1 oder § 35 Abs. 1 Satz 1 nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
 
-4a. entgegen § 15 Absatz 1 Satz 2 Halbsatz 1 in Verbindung mit einer Rechtsverordnung nach § 25 Nummer 5 einen Nachweis nicht oder nicht rechtzeitig erbringt,
+4a. entgegen
+
+a) § 15 Absatz 1 Satz 1 zweiter Halbsatz, auch in Verbindung mit § 28 Satz 1, oder
+
+b) § 15 Absatz 1 Satz 2 erster Halbsatz in Verbindung mit einer Rechtsverordnung nach § 25 Nummer 5
+
+einen Nachweis nicht oder nicht rechtzeitig erbringt,
 
 5. entgegen § 15 Abs. 3 Satz 1 explosionsgefährliche Stoffe bei den zuständigen Behörden nicht anmeldet oder auf Verlangen nicht vorführt,
 
@@ -1520,7 +1534,7 @@ zuwiderhandelt,
 
 6. gegen die Aufzeichnungspflicht nach § 16 Abs. 1 verstößt,
 
-7. ohne Genehmigung nach § 17 Abs. 1 ein Lager errichtet oder wesentlich ändert,
+7. ohne Genehmigung nach § 17 Absatz 1, auch in Verbindung mit § 28 Satz 1, ein Lager errichtet oder wesentlich ändert,
 
 8. als verantwortliche Person nach § 19 Abs. 1 Nr. 3 oder 4 Buchstabe a tätig wird, ohne einen Befähigungsschein zu besitzen,
 
@@ -1544,7 +1558,7 @@ zuwiderhandelt,
 
 17. entgegen einer landesrechtlichen Vorschrift über den Umgang oder den Verkehr mit explosionsgefährlichen Stoffen, auf den das Sprengstoffgesetz vom 25. August 1969 nicht anzuwenden war, oder entgegen einer auf Grund einer solchen Rechtsvorschrift ergangenen vollziehbaren Anordnung mit explosionsgefährlichen Stoffen umgeht, diese Stoffe erwirbt, vertreibt oder anderen überlässt, soweit die Rechtsvorschrift für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist; die Verweisung ist nicht erforderlich, wenn die Rechtsvorschrift vor Inkrafttreten dieses Gesetzes erlassen worden ist.
 
-(1a) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig eine in § 40 Absatz 1 Nummer 3 oder Absatz 2 Nummer 3 bezeichnete Handlung in Bezug auf einen nach § 5 Absatz 1 Nummer 1 konformitätsbewerteten oder nach § 47 Absatz 2 oder Absatz 4 zugelassenen pyrotechnischen Gegenstand begeht.
+(1a) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig eine in § 40 Absatz 1 Nummer 3 oder Absatz 2 Nummer 1 Buchstabe b oder Nummer 3 bezeichnete Handlung in Bezug auf einen nach § 5 Absatz 1 Nummer 1 konformitätsbewerteten oder nach § 47 Absatz 2 oder Absatz 4 zugelassenen pyrotechnischen Gegenstand begeht.
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 1, 1b, 4, 6, 11 und 12 sowie 16, soweit sich die Rechtsverordnung auf Auskunfts-, Mitteilungs- oder Anzeigepflichten bezieht, mit einer Geldbuße bis zu zehntausend Euro, in den übrigen Fällen des Absatzes 1 und in den Fällen des Absatzes 1a mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 

@@ -115,7 +115,7 @@ b) nach Maßgabe des § 492 Absatz 3 Satz 3 der Strafprozessordnung und des § 
 
 5a. die Sprengstoffbehörden nach Maßgabe des § 492 Absatz 3 Satz 4 der Strafprozessordnung und des § 8a Absatz 5 Satz 1 Nummer 2 und Satz 3 des Sprengstoffgesetzes,
 
-5b. die an Sicherheitsüberprüfungen mitwirkenden Behörden nach Maßgabe des § 492 Absatz 3 Satz 4 der Strafprozessordnung und des § 12 Absatz 1 Nummer 2 des Sicherheitsüberprüfungsgesetzes,
+5b. die an Sicherheitsüberprüfungen mitwirkenden Behörden nach Maßgabe des § 492 Absatz 3 Satz 4 der Strafprozessordnung und des § 12 Absatz 1 Nummer 2 des Sicherheitsüberprüfungsgesetzes oder einer entsprechenden landesrechtlichen Vorschrift,
 
 5c. die Zentralstelle für Finanztransaktionsuntersuchungen nach Maßgabe des § 492 Absatz 3 Satz 4 der Strafprozessordnung und des § 31 Absatz 4a des Geldwäschegesetzes,
 

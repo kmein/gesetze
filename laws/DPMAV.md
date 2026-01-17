@@ -72,7 +72,7 @@ sowie in Verbindung mit Artikel 28 des Gesetzes vom 16. Juli 1998 (BGBl. I S. 18
 
 (1) Der Präsident oder die Präsidentin leitet und beaufsichtigt den gesamten Geschäftsbetrieb des Deutschen Patent- und Markenamts und wirkt auf die gleichmäßige Behandlung der Geschäfte und auf die Beachtung gleicher Grundsätze hin.
 
-(2) Die Ermächtigungen in § 27 Abs. 5, § 29 Abs. 3, § 34 Abs. 6 und 8 sowie in § 63 Abs. 4 des Patentgesetzes, in § 4 Abs. 4 und 7 sowie § 10 Abs. 2 des Gebrauchsmustergesetzes, in § 3 Abs. 3 sowie in § 4 Abs. 4 des Halbleiterschutzgesetzes in Verbindung mit § 10 Abs. 2 des Gebrauchsmustergesetzes, in § 65 Abs. 1 Nr. 2 bis 13 sowie § 138 Abs. 1 des Markengesetzes, in § 26 Absatz 1 Nummer 2 bis 9 und Absatz 2 des Designgesetzes werden auf das Deutsche Patent- und Markenamt übertragen.
+(2) Die Ermächtigungen in § 27 Abs. 5, § 29 Abs. 3, § 34 Abs. 6 und 8 sowie in § 63 Abs. 4 des Patentgesetzes, in § 4 Abs. 4 und 7 sowie § 10 Abs. 2 des Gebrauchsmustergesetzes, in § 3 Abs. 3 sowie in § 4 Abs. 4 des Halbleiterschutzgesetzes in Verbindung mit § 10 Abs. 2 des Gebrauchsmustergesetzes, in § 65 Absatz 1 Nummer 2 bis 13 sowie § 138 Absatz 1 des Markengesetzes in der vor dem 16. Januar 2026 geltenden Fassung, in § 26 Absatz 1 Nummer 2 bis 9 und Absatz 2 des Designgesetzes werden auf das Deutsche Patent- und Markenamt übertragen.
 
 # § 2 – Prüfungsstellen und Patentabteilungen
 

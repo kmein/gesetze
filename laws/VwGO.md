@@ -740,7 +740,9 @@ Der Beigeladene kann innerhalb der Anträge eines Beteiligten selbständig Angri
 
 6. Vereinigungen, deren satzungsgemäße Aufgaben die gemeinschaftliche Interessenvertretung, die Beratung und Vertretung von Menschen mit Behinderungen wesentlich umfassen und die unter Berücksichtigung von Art und Umfang ihrer Tätigkeit sowie ihres Mitgliederkreises die Gewähr für eine sachkundige Prozessvertretung bieten, für ihre Mitglieder in Angelegenheiten des Schwerbehindertenrechts sowie der damit im Zusammenhang stehenden Angelegenheiten,
 
-7. juristische Personen, deren Anteile sämtlich im wirtschaftlichen Eigentum einer der in den Nummern 5 und 6 bezeichneten Organisationen stehen, wenn die juristische Person ausschließlich die Rechtsberatung und Prozessvertretung dieser Organisation und ihrer Mitglieder oder anderer Verbände oder Zusammenschlüsse mit vergleichbarer Ausrichtung und deren Mitglieder entsprechend deren Satzung durchführt, und wenn die Organisation für die Tätigkeit der Bevollmächtigten haftet.
+7. juristische Personen, deren Anteile sämtlich im wirtschaftlichen Eigentum einer der in den Nummern 5 und 6 bezeichneten Organisationen stehen, wenn die juristische Person ausschließlich die Rechtsberatung und Prozessvertretung dieser Organisation und ihrer Mitglieder oder anderer Verbände oder Zusammenschlüsse mit vergleichbarer Ausrichtung und deren Mitglieder entsprechend deren Satzung durchführt, und wenn die Organisation für die Tätigkeit der Bevollmächtigten haftet,
+
+8. Patentanwälte in den in § 39 Absatz 1 Satz 1 des Agrargeoschutz-Durchführungsgesetzes genannten Angelegenheiten.
 
 Bevollmächtigte, die keine natürlichen Personen sind, handeln durch ihre Organe und mit der Prozessvertretung beauftragten Vertreter.
 

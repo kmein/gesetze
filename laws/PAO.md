@@ -19,13 +19,17 @@ Der Patentanwalt ist in dem ihm durch dieses Gesetz zugewiesenen Aufgabenbereich
 
 (2) Der Patentanwalt hat die berufliche Aufgabe,
 
-1. in Angelegenheiten der Erlangung, Aufrechterhaltung, Verteidigung und Anfechtung eines Patents, eines ergänzenden Schutzzertifikats, eines Gebrauchsmusters, eines eingetragenen Designs, des Schutzes einer Topographie, einer Marke, eines anderen nach dem Markengesetz geschützten Kennzeichens oder eines Sortenschutzrechts (gewerbliche Schutzrechte) andere zu beraten und Dritten gegenüber zu vertreten;
+1. in Angelegenheiten der Erlangung, Aufrechterhaltung, Verteidigung und Anfechtung eines Patents, eines ergänzenden Schutzzertifikats, eines Gebrauchsmusters, eines eingetragenen Designs, des Schutzes einer Topographie, einer Marke, eines anderen nach dem Markengesetz geschützten Kennzeichens, eines Agrargeoschutzes im Sinne des § 1 Absatz 2 oder 5 des Agrargeoschutz-Durchführungsgesetzes oder eines Sortenschutzrechts (gewerbliche Schutzrechte) andere zu beraten und Dritten gegenüber zu vertreten;
 
 2. in Angelegenheiten, die zum Geschäftskreis des Deutschen Patent- und Markenamts oder des Bundespatentgerichts gehören, andere vor diesen Stellen zu vertreten;
 
 3. in Verfahren wegen Erklärung der Nichtigkeit oder Zurücknahme des Patents oder ergänzenden Schutzzertifikats oder wegen Erteilung einer Zwangslizenz andere vor dem Bundesgerichtshof zu vertreten;
 
-4. in Angelegenheiten des Sortenschutzes andere vor dem Bundessortenamt zu vertreten.
+4. in Angelegenheiten des Agrargeoschutzes, die Schutzbezeichnungen im Sinne des § 1 Absatz 2 oder 5 des Agrargeoschutz-Durchführungsgesetzes betreffen, andere vor der Bundesanstalt für Landwirtschaft und Ernährung zu vertreten;
+
+<!-- -->
+
+5. in Angelegenheiten des Sortenschutzes andere vor dem Bundessortenamt zu vertreten.
 
 (3) Der Patentanwalt ist ferner befugt, in Angelegenheiten, für die eine Frage von Bedeutung ist, die ein gewerbliches Schutzrecht, ein Datenverarbeitungsprogramm, eine nicht geschützte Erfindung oder eine sonstige die Technik bereichernde Leistung oder eine nicht geschützte, den Pflanzenbau bereichernde Leistung auf dem Gebiet der Pflanzenzüchtung betrifft oder für die eine mit einer solchen Frage zusammenhängende Rechtsfrage von Bedeutung ist,
 
@@ -39,11 +43,11 @@ Der Patentanwalt ist in dem ihm durch dieses Gesetz zugewiesenen Aufgabenbereich
 
 # § 4 – Auftreten vor den Gerichten
 
-(1) In Rechtsstreitigkeiten, in denen ein Anspruch aus einem der im Patentgesetz, im Gebrauchsmustergesetz, im Halbleiterschutzgesetz, im Markengesetz, im Gesetz über Arbeitnehmererfindungen, im Designgesetz oder im Sortenschutzgesetz geregelten Rechtsverhältnisse geltend gemacht wird, sowie in Rechtsbeschwerdeverfahren gegen Beschlüsse der Beschwerdesenate des Bundespatentgerichts ist auf Antrag einer Partei ihrem Patentanwalt das Wort zu gestatten.
+(1) In Rechtsstreitigkeiten, in denen ein Anspruch aus einem der im Patentgesetz, im Gebrauchsmustergesetz, im Halbleiterschutzgesetz, im Markengesetz, im Gesetz über Arbeitnehmererfindungen, im Designgesetz, im Agrargeoschutzrecht in Bezug auf Schutzbezeichnungen im Sinne des Agrargeoschutz-Durchführungsgesetzes oder im Sortenschutzgesetz geregelten Rechtsverhältnisse geltend gemacht wird, ist auf Antrag einer Partei ihrem Patentanwalt das Wort zu gestatten.
 
 (2) Das Gleiche gilt in sonstigen Rechtsstreitigkeiten, für deren Entscheidung eine der in § 3 Absatz 3 Nummer 1 genannten Fragen oder Rechtsfragen von Bedeutung ist.
 
-(3) Soweit eine Vertretung durch Rechtsanwälte nicht geboten ist, ist der Patentanwalt in den Fällen der Absätze 1 und 2 als Bevollmächtigter vertretungsbefugt.
+(3) Soweit eine Vertretung durch Rechtsanwälte nicht geboten ist, ist der Patentanwalt in den Fällen der Absätze 1 und 2 als Bevollmächtigter vertretungsbefugt. § 67 der Verwaltungsgerichtsordnung bleibt unberührt.
 
 # § 4a – Beiordnung von Patentanwälten bei Prozesskostenhilfe
 
@@ -605,7 +609,9 @@ Im Fall des Satzes 1 Nummer 1 ist der Anzeige eine Ausfertigung oder eine amtlic
 
 1. in Verfahren vor dem Deutschen Patent- und Markenamt, dem Bundespatentgericht und dem Bundesgerichtshof die Vertretung von Beteiligten übernehmen, wenn er ihnen auf Grund des § 133 des Patentgesetzes, des § 21 Absatz 2 des Gebrauchsmustergesetzes, des § 11 Absatz 2 des Halbleiterschutzgesetzes, des § 81a Absatz 2 des Markengesetzes, des § 24 des Designgesetzes oder des § 36 des Sortenschutzgesetzes zur vorläufig unentgeltlichen Wahrnehmung ihrer Rechte beigeordnet ist;
 
-2. in gerichtlichen Verfahren die Beratung einer Partei und die Unterstützung ihres Rechtsanwalts übernehmen, wenn er der Partei nach § 4a beigeordnet ist.
+2. in Verfahren vor dem Verwaltungsgericht die Vertretung von Beteiligten übernehmen, wenn er ihnen nach § 39 Absatz 1 Satz 2 des Agrargeoschutz-Durchführungsgesetzes beigeordnet worden ist;
+
+3. in gerichtlichen Verfahren die Beratung einer Partei und die Unterstützung ihres Rechtsanwalts übernehmen, wenn er der Partei nach § 4a beigeordnet ist.
 
 (2) Der Patentanwalt kann beantragen, die Beiordnung aufzuheben, wenn hierfür wichtige Gründe vorliegen.
 

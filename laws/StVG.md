@@ -741,7 +741,9 @@ c) zur Erforschung des Unfallgeschehens, des Verkehrsverhaltens, der Verkehrsabl
 
 17. die Einrichtung und Nutzung von fahrzeugführerlosen Parksystemen im niedrigen Geschwindigkeitsbereich auf Parkflächen,
 
-18. allgemeine Ausnahmen von den Verkehrsvorschriften nach Abschnitt I oder von auf Grund dieser Verkehrsvorschriften erlassener Rechtsverordnungen zur Durchführung von Versuchen, die eine Weiterentwicklung dieser Rechtsnormen zum Gegenstand haben.
+18. allgemeine Ausnahmen von den Verkehrsvorschriften nach Abschnitt I oder von auf Grund dieser Verkehrsvorschriften erlassener Rechtsverordnungen zur Durchführung von Versuchen, die eine Weiterentwicklung dieser Rechtsnormen zum Gegenstand haben,
+
+19. die Befugnis von Personal der Bundeswehr zur dringend gebotenen Verkehrsregelung bei Durchführung von militärisch notwendigen Verkehrsbewegungen zur Erfüllung von Aufgaben der Landes- und Bündnisverteidigung.
 
 Rechtsverordnungen nach Satz 1 Nummer 18 über allgemeine Ausnahmen von Verkehrsvorschriften nach diesem Gesetz sind für die Dauer von längstens fünf Jahren zu befristen; eine einmalige Verlängerung der Geltungsdauer um längstens fünf Jahre ist zulässig. Rechtsverordnungen können nicht nach Satz 1 erlassen werden über solche Regelungsgegenstände, über die Rechtsverordnungen nach Absatz 2 erlassen werden dürfen. Die Abwehr von Gefahren für die Sicherheit oder Leichtigkeit des Verkehrs auf öffentlichen Straßen nach Satz 1 umfasst auch den straßenverkehrsrechtlichen Schutz von Maßnahmen zur Rettung aus Gefahren für Leib und Leben von Menschen oder den Schutz zivilrechtlicher Schadensersatzansprüche Unfallbeteiligter.
 

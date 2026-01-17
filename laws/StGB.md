@@ -936,7 +936,7 @@ Das deutsche Strafrecht gilt weiter, unabhängig vom Recht des Tatorts, für fol
 
 1. (weggefallen)
 
-2. Kernenergie-, Sprengstoff- und Strahlungsverbrechen in den Fällen der §§ 307 und 308 Abs. 1 bis 4, des § 309 Abs. 2 und des § 310;
+2. Kernenergie-, Sprengstoff- und Strahlungsverbrechen in den Fällen der §§ 307 und 308 Absatz 1 bis 5, des § 309 Abs. 2 und des § 310;
 
 3. Angriffe auf den Luft- und Seeverkehr (§ 316c);
 
@@ -2755,7 +2755,7 @@ ganz oder zum Teil außer Tätigkeit gesetzt oder den bestimmungsmäßigen Zweck
 
 2. eines erpresserischen Menschenraubes (§ 239a) oder einer Geiselnahme (§ 239b),
 
-3. von Straftaten nach den §§ 303b, 305, 305a oder gemeingefährlicher Straftaten in den Fällen der §§ 306 bis 306c oder 307 Absatz 1 bis 3, des § 308 Absatz 1 bis 4, des § 309 Absatz 1 bis 5, der §§ 313, 314 oder 315 Absatz 1, 3 oder 4, des § 316b Absatz 1 oder 3 oder des § 316c Absatz 1 bis 3 oder des § 317 Absatz 1,
+3. von Straftaten nach den §§ 303b, 305, 305a oder gemeingefährlicher Straftaten in den Fällen der §§ 306 bis 306c oder 307 Absatz 1 bis 3, des § 308 Absatz 1 bis 5, des § 309 Absatz 1 bis 5, der §§ 313, 314 oder 315 Absatz 1, 3 oder 4, des § 316b Absatz 1 oder 3 oder des § 316c Absatz 1 bis 3 oder des § 317 Absatz 1,
 
 4. von Straftaten gegen die Umwelt in den Fällen des § 330a Absatz 1 bis 3,
 
@@ -3379,7 +3379,7 @@ In besonders schweren Fällen des § 125 Abs. 1 ist die Strafe Freiheitsstrafe v
 
 6. einen Raub oder eine räuberische Erpressung (§§ 249 bis 251 oder 255),
 
-7. ein gemeingefährliches Verbrechen in den Fällen der §§ 306 bis 306c oder 307 Abs. 1 bis 3, des § 308 Abs. 1 bis 3, des § 309 Abs. 1 bis 4, der §§ 313, 314 oder 315 Abs. 3, des § 315b Abs. 3, des § 316a Abs. 1 oder 3, des § 316c Abs. 1 oder 3 oder des § 318 Abs. 3 oder 4 oder
+7. ein gemeingefährliches Verbrechen in den Fällen der §§ 306 bis 306c oder 307 Abs. 1 bis 3, des § 308 Absatz 1 bis 4, des § 309 Abs. 1 bis 4, der §§ 313, 314 oder 315 Abs. 3, des § 315b Abs. 3, des § 316a Abs. 1 oder 3, des § 316c Abs. 1 oder 3 oder des § 318 Abs. 3 oder 4 oder
 
 8. ein gemeingefährliches Vergehen in den Fällen des § 309 Abs. 6, des § 311 Abs. 1, des § 316b Abs. 1, des § 317 Abs. 1 oder des § 318 Abs. 1
 
@@ -3487,7 +3487,7 @@ zu begehen, oder wer sich an einer solchen Vereinigung als Mitglied beteiligt, w
 
 1. einem anderen Menschen schwere körperliche oder seelische Schäden, insbesondere der in § 226 bezeichneten Art, zuzufügen,
 
-2. Straftaten nach den §§ 303b, 305, 305a oder gemeingefährliche Straftaten in den Fällen der §§ 306 bis 306c oder 307 Abs. 1 bis 3, des § 308 Abs. 1 bis 4, des § 309 Abs. 1 bis 5, der §§ 313, 314 oder 315 Abs. 1, 3 oder 4, des § 316b Abs. 1 oder 3 oder des § 316c Abs. 1 bis 3 oder des § 317 Abs. 1,
+2. Straftaten nach den §§ 303b, 305, 305a oder gemeingefährliche Straftaten in den Fällen der §§ 306 bis 306c oder 307 Abs. 1 bis 3, des § 308 Absatz 1 bis 5, des § 309 Abs. 1 bis 5, der §§ 313, 314 oder 315 Abs. 1, 3 oder 4, des § 316b Abs. 1 oder 3 oder des § 316c Abs. 1 bis 3 oder des § 317 Abs. 1,
 
 3. Straftaten gegen die Umwelt in den Fällen des § 330a Abs. 1 bis 3,
 
@@ -3655,7 +3655,7 @@ Wer wissentlich ein dienstliches Schriftstück, das zur Bekanntmachung öffentli
 
 7. eines Raubes oder einer räuberischen Erpressung (§§ 249 bis 251 oder 255) oder
 
-8. einer gemeingefährlichen Straftat in den Fällen der §§ 306 bis 306c oder 307 Abs. 1 bis 3, des § 308 Abs. 1 bis 4, des § 309 Abs. 1 bis 5, der §§ 310, 313, 314 oder 315 Abs. 3, des § 315b Abs. 3 oder der §§ 316a oder 316c
+8. einer gemeingefährlichen Straftat in den Fällen der §§ 306 bis 306c oder 307 Abs. 1 bis 3, des § 308 Absatz 1 bis 5, des § 309 Abs. 1 bis 5, der §§ 310, 313, 314 oder 315 Abs. 3, des § 315b Abs. 3 oder der §§ 316a oder 316c
 
 zu einer Zeit, zu der die Ausführung oder der Erfolg noch abgewendet werden kann, glaubhaft erfährt und es unterläßt, der Behörde oder dem Bedrohten rechtzeitig Anzeige zu machen, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
 
@@ -6547,13 +6547,15 @@ durch Rauchen, durch offenes Feuer oder Licht, durch Wegwerfen brennender oder g
 
 (2) Verursacht der Täter durch die Tat eine schwere Gesundheitsschädigung eines anderen Menschen oder eine Gesundheitsschädigung einer großen Zahl von Menschen, so ist auf Freiheitsstrafe nicht unter zwei Jahren zu erkennen.
 
-(3) Verursacht der Täter durch die Tat wenigstens leichtfertig den Tod eines anderen Menschen, so ist die Strafe lebenslange Freiheitsstrafe oder Freiheitsstrafe nicht unter zehn Jahren.
+(3) Wer die Sprengstoffexplosion zur Begehung eines Diebstahls (§ 242), eines Bandendiebstahls (§ 244 Absatz 1 Nummer 2) oder eines schweren Bandendiebstahls (§ 244a) herbeiführt, wird in den Fällen des Absatzes 1 mit Freiheitsstrafe nicht unter zwei Jahren, in den Fällen des Absatzes 2 mit Freiheitsstrafe nicht unter fünf Jahren bestraft.
 
-(4) In minder schweren Fällen des Absatzes 1 ist auf Freiheitsstrafe von sechs Monaten bis zu fünf Jahren, in minder schweren Fällen des Absatzes 2 auf Freiheitsstrafe von einem Jahr bis zu zehn Jahren zu erkennen.
+(4) Verursacht der Täter durch die Tat wenigstens leichtfertig den Tod eines anderen Menschen, so ist die Strafe lebenslange Freiheitsstrafe oder Freiheitsstrafe nicht unter zehn Jahren.
 
-(5) Wer in den Fällen des Absatzes 1 die Gefahr fahrlässig verursacht, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
+(5) In minder schweren Fällen des Absatzes 1 ist auf Freiheitsstrafe von sechs Monaten bis zu fünf Jahren, in minder schweren Fällen der Absätze 2 und 3 auf Freiheitsstrafe von einem Jahr bis zu zehn Jahren zu erkennen.
 
-(6) Wer in den Fällen des Absatzes 1 fahrlässig handelt und die Gefahr fahrlässig verursacht, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
+(6) Wer in den Fällen des Absatzes 1 die Gefahr fahrlässig verursacht, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
+
+(7) Wer in den Fällen des Absatzes 1 fahrlässig handelt und die Gefahr fahrlässig verursacht, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
 # § 309 – Mißbrauch ionisierender Strahlen
 
@@ -6639,7 +6641,7 @@ wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
 (1) Wer eine Überschwemmung herbeiführt und dadurch Leib oder Leben eines anderen Menschen oder fremde Sachen von bedeutendem Wert gefährdet, wird mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren bestraft.
 
-(2) § 308 Abs. 2 bis 6 gilt entsprechend.
+(2) § 308 Absatz 2 und 4 bis 7 gilt entsprechend.
 
 # § 314 – Gemeingefährliche Vergiftung
 
@@ -6651,7 +6653,7 @@ wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
 vergiftet oder ihnen gesundheitsschädliche Stoffe beimischt oder vergiftete oder mit gesundheitsschädlichen Stoffen vermischte Gegenstände im Sinne der Nummer 2 verkauft, feilhält oder sonst in den Verkehr bringt.
 
-(2) § 308 Abs. 2 bis 4 gilt entsprechend.
+(2) § 308 Absatz 2, 4 und 5 gilt entsprechend.
 
 # § 314a – Tätige Reue
 
@@ -6665,7 +6667,7 @@ vergiftet oder ihnen gesundheitsschädliche Stoffe beimischt oder vergiftete ode
 
 a) § 307 Abs. 2,
 
-b) § 308 Abs. 1 und 5,
+b) § 308 Absatz 1 und 6,
 
 c) § 309 Abs. 6,
 
@@ -6673,7 +6675,7 @@ d) § 311 Abs. 1,
 
 e) § 312 Abs. 1 und 6 Nr. 1,
 
-f) § 313, auch in Verbindung mit § 308 Abs. 5,
+f) § 313, auch in Verbindung mit § 308 Absatz 6,
 
 freiwillig die Gefahr abwendet, bevor ein erheblicher Schaden entsteht.
 
@@ -6683,13 +6685,13 @@ freiwillig die Gefahr abwendet, bevor ein erheblicher Schaden entsteht.
 
 a) § 307 Abs. 4,
 
-b) § 308 Abs. 6,
+b) § 308 Absatz 7,
 
 c) § 311 Abs. 3,
 
 d) § 312 Abs. 6 Nr. 2,
 
-e) § 313 Abs. 2 in Verbindung mit § 308 Abs. 6
+e) § 313 Abs. 2 in Verbindung mit § 308 Absatz 7
 
 freiwillig die Gefahr abwendet, bevor ein erheblicher Schaden entsteht, oder
 
@@ -6965,7 +6967,7 @@ freiwillig die Gefahr abwendet, bevor ein erheblicher Schaden entsteht, oder
 
 # § 321 – Führungsaufsicht
 
-In den Fällen der §§ 306 bis 306c und 307 Abs. 1 bis 3, des § 308 Abs. 1 bis 3, des § 309 Abs. 1 bis 4, des § 310 Abs. 1 und des § 316c Abs. 1 Nr. 2 kann das Gericht Führungsaufsicht anordnen (§ 68 Abs. 1).
+In den Fällen der §§ 306 bis 306c und 307 Abs. 1 bis 3, des § 308 Absatz 1 bis 4, des § 309 Abs. 1 bis 4, des § 310 Abs. 1 und des § 316c Abs. 1 Nr. 2 kann das Gericht Führungsaufsicht anordnen (§ 68 Abs. 1).
 
 # § 322 – Einziehung
 

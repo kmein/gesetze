@@ -1220,17 +1220,17 @@ in Euro</th>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">336 200</td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Zwischenstaatliches Einspruchsverfahren (§ 131 MarkenG) . . . . . . . . . .</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">120</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">(weggefallen)</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">336 250</td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Antrag auf Änderung der Spezifikation (§ 132 Abs. 1 MarkenG) . . . . . . . . . .</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Antrag auf Änderung der Produktspezifikation (§ 132 Abs. 1 und 2 MarkenG) . . . . . . . . . .</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">200</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">336 300</td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Löschungsverfahren (§ 132 Abs. 2 MarkenG) . . . . . . . . . .</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Löschungsverfahren (§ 132 Abs. 3 MarkenG) . . . . . . . . . .</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">120</td>
 </tr>
 <tr class="odd">
@@ -1538,38 +1538,6 @@ in Euro</th>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">362 100</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Löschungsverfahren (§ 8 HalblSchG) . . . . . . . . . .</td>
 <td style="text-align: right;" data-valign="top" data-charoff="50">300</td>
-</tr>
-<tr class="odd">
-<td colspan="3" style="text-align: left;" data-valign="top" data-charoff="50">VI. Topographieschutzsachen</td>
-</tr>
-<tr class="even">
-<td colspan="3" style="text-align: left;" data-valign="top" data-charoff="50">1. Anmeldeverfahren</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Anmeldeverfahren (§ 3 HalblSchG)</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="even">
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">361 000</td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">– bei elektronischer Anmeldung . . . . . . . . . .</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">290</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">361 100</td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">– bei Anmeldung in Papierform . . . . . . . . . .</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">300</td>
-</tr>
-<tr class="even">
-<td colspan="3" style="text-align: left;" data-valign="top" data-charoff="50">2. Sonstige Anträge</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">362 000<br />
-362 100</td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Weiterbehandlungsgebühr (§ 11 Abs. 1 HalblSchG i.V.m. § 123a PatG) . . . . . . . . . .<br />
-Löschungsverfahren (§ 8 HalblSchG) . . . . . . . . . .</td>
-<td style="text-align: right;" data-valign="top" data-charoff="50">100<br />
-300</td>
 </tr>
 </tbody>
 </table>

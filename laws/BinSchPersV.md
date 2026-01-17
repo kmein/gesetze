@@ -407,7 +407,7 @@ Anlage 1 führt,
 
 Satz 1 gilt nicht für Fahrgastboote.
 
-§ 12 Abs. 1 Satz 1 Nr. 2 (früher Nr. 3) Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Anlage 1²" durch das Wort "Anlage 1" ersetzt
+§ 12 (früher Abs. 1) Satz 1 Nr. 2 (früher Nr. 3) Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Anlage 1²" durch das Wort "Anlage 1" ersetzt
 
 # § 13 – Amtlicher Berechtigungsschein
 
@@ -462,8 +462,6 @@ Keine entgeltliche oder anderweitig geschäfts- oder erwerbsmäßige Beförderun
 6. Begleitfahrten bei Sportveranstaltungen.
 
 Die Fahrzeugart und das Fahrtgebiet, für die das jeweilige Kleinschifferzeugnis gilt, ist durch die zuständige Behörde bei seiner Erteilung festzulegen und auf dem Befähigungszeugnis zu vermerken. Zur Vermeidung unbilliger Härten kann die zuständige Behörde auf Antrag genehmigen, dass das Kleinschifferzeugnis vorübergehend auch zum Führen von Fahrzeugen berechtigt, die in den Anwendungsbereich der Richtlinie (EU) 2017/2397 fallen.
-
-(6) (weggefallen)
 
 # § 15a – Erweiterung des Geltungsbereichs der Befähigungszeugnisse auf Führungsebene
 
@@ -4107,7 +4105,8 @@ Insel Hiddensee und Insel Rügen (Bug) durch die Verbindungslinie von der Südos
 
 # Anlage 2 – (zu § 16 Absatz 1 Satz 1 Nummer 2)Binnenwasserstraßenabschnitte mit besonderen Risiken
 
-(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 2)
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 2;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
  
 
@@ -12903,7 +12902,8 @@ Fahrzeuge, die für praktische Prüfungen zur Beurteilung der Befähigung eines 
 
 # Anlage 15 – (zu § 42 Absatz 2)Kompetenzen für besondere Berechtigung für Risikostrecken
 
-(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 72 - 76)
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 72 - 76;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
  
 
@@ -14716,7 +14716,8 @@ Kann entfallen, wenn der Lehrgangsanbieter bestätigt, dass die Teilnehmenden se
 
 # Anlage 22 – (zu § 54)Zulassung von Lehrgängen für Maschinenkundige
 
-(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 94 - 95)
+(Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember 2021, S. 94 - 95;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
  
 

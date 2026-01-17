@@ -2524,6 +2524,8 @@ Versicherungsamt ist die untere Verwaltungsbehörde. Die Landesregierungen werde
 
 Die Aufteilung der Kosten innerhalb der gesetzlichen Krankenversicherung und der sozialen Pflegeversicherung, der gesetzlichen Rentenversicherung und der gesetzlichen Unfallversicherung regeln die Träger in ihrem jeweiligen Bereich im Rahmen ihrer Selbstverwaltung.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 355 +++)
+
 # § 95b – Systemprüfung
 
 (1) Meldepflichtige haben Meldungen und Beitragsnachweise durch Datenübertragung aus systemgeprüften Programmen oder systemgeprüften elektronischen Ausfüllhilfen zu erstatten. Dies gilt auch für Anträge und Bescheinigungen, soweit dies nach diesem Gesetzbuch oder dem Aufwendungsausgleichsgesetz geregelt ist. Die Daten der Datei nach § 98a sind dabei zu verwenden.
