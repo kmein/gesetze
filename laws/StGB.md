@@ -2169,7 +2169,8 @@ Verweist ein Gesetz auf diese Vorschrift, können Gegenstände abweichend von §
 
 (+++ § 74a: Zur Anwendung vgl. § 95 Satz 2 MPDG +++)  
 (+++ § 74a: Zur Anwendung vgl. §§ 184k u. 201a +++)  
-(+++ § 74a: Zur Anwendung vgl. §176e +++)
+(+++ § 74a: Zur Anwendung vgl. §176e +++)  
+(+++ § 74a: Zur Anwendung vgl. § 15 Satz 2 AusgStG +++)
 
 # § 74b – Sicherungseinziehung
 
