@@ -257,6 +257,8 @@
 | § 159   |                                                                                                                                         |              |                                                                                                                                                             | Schutzdauer und Verlängerung                                                                                                                                      |
 | § 160   |                                                                                                                                         |              |                                                                                                                                                             | Geändertes Unionsrecht                                                                                                                                            |
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
+
 # § 1 – Geschützte Marken und sonstige Kennzeichen
 
 Nach diesem Gesetz werden geschützt:
@@ -464,11 +466,15 @@ wenn die Gefahr besteht, daß die Aufmachungen oder Verpackungen zur Aufmachung 
 
 (7) Wird die Verletzungshandlung in einem geschäftlichen Betrieb von einem Angestellten oder Beauftragten begangen, so kann der Unterlassungsanspruch und, soweit der Angestellte oder Beauftragte vorsätzlich oder fahrlässig gehandelt hat, der Schadensersatzanspruch auch gegen den Inhaber des Betriebs geltend gemacht werden.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
+
 # § 14a – Waren unter zollamtlicher Überwachung
 
 (1) Der Inhaber einer Marke oder einer geschäftlichen Bezeichnung ist berechtigt, Dritten zu untersagen, im geschäftlichen Verkehr Waren in das Gebiet der Bundesrepublik Deutschland zu verbringen, ohne die Waren dort in den zollrechtlich freien Verkehr zu überführen, wenn die Waren, einschließlich ihrer Verpackung, aus Drittstaaten stammen und ohne Zustimmung eine Marke oder eine geschäftliche Bezeichnung aufweisen, die mit der für derartige Waren eingetragenen Marke oder geschäftlichen Bezeichnung identisch ist oder in ihren wesentlichen Aspekten nicht von dieser Marke oder dieser geschäftlichen Bezeichnung zu unterscheiden ist.
 
 (2) Die Berechtigung des Inhabers der Marke oder der geschäftlichen Bezeichnung nach Absatz 1 erlischt, wenn während eines Verfahrens, das der Feststellung dient, ob eine eingetragene Marke oder eine geschäftliche Bezeichnung verletzt wurde, und das gemäß der Verordnung (EU) Nr. 608/2013 in der Fassung vom 12. Juni 2013 eingeleitet wurde, der zollrechtliche Anmelder oder der Besitzer der Waren nachweist, dass der Inhaber der eingetragenen Marke oder der geschäftlichen Bezeichnung nicht berechtigt ist, das Inverkehrbringen der Waren im endgültigen Bestimmungsland zu untersagen.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
 
 # § 15 – Ausschließliches Recht des Inhabers einer geschäftlichen Bezeichnung, Unterlassungsanspruch, Schadensersatzanspruch
 
@@ -1054,6 +1060,8 @@ Der Beitritt kann innerhalb von drei Monaten ab Einleitung des Verfahrens nach S
 
 (5) Die Einsicht in das Register steht jeder Person frei.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
+
 # § 62a – Datenschutz
 
 Soweit personenbezogene Daten im Register oder in öffentlich zugänglichen elektronischen Informationsdiensten des Deutschen Patent- und Markenamtes enthalten sind, bestehen nicht
@@ -1308,7 +1316,7 @@ Bevollmächtigte, die keine natürlichen Personen sind, handeln durch ihre Organ
 
 # § 82 – Anwendung weiterer Vorschriften, Anfechtbarkeit, Akteneinsicht
 
-(1) Soweit dieses Gesetz keine Bestimmungen über das Verfahren vor dem Bundespatentgericht enthält, sind das Gerichtsverfassungsgesetz und die Zivilprozeßordnung entsprechend anzuwenden, wenn die Besonderheiten des Verfahrens vor dem Patentgericht dies nicht ausschließen. § 227 Abs. 3 Satz 1 der Zivilprozeßordnung ist nicht anzuwenden. Im Verfahren vor dem Bundespatentgericht gilt für die Gebühren das Patentkostengesetz, für die Auslagen gilt das Gerichtskostengesetz entsprechend.
+(1) Soweit dieses Gesetz keine Bestimmungen über das Verfahren vor dem Bundespatentgericht enthält, sind das Gerichtsverfassungsgesetz und die Zivilprozeßordnung entsprechend anzuwenden, wenn die Besonderheiten des Verfahrens vor dem Bundespatentgericht dies nicht ausschließen. § 227 Abs. 3 Satz 1 der Zivilprozeßordnung ist nicht anzuwenden. Im Verfahren vor dem Bundespatentgericht gilt für die Gebühren das Patentkostengesetz, für die Auslagen gilt das Gerichtskostengesetz entsprechend.
 
 (2) Eine Anfechtung der Entscheidungen des Bundespatentgerichts findet nur statt, soweit dieses Gesetz sie zuläßt.
 
@@ -1566,7 +1574,7 @@ Die ernsthafte Benutzung einer Kollektivmarke durch mindestens eine hierzu befug
 
 3. wenn die Art, in der die Marke von berechtigten Personen benutzt worden ist, bewirkt hat, dass die Gefahr besteht, dass das Publikum im Sinne von § 103 Absatz 2 irregeführt wird, oder
 
-4. wenn eine Änderung der Kollektivmarkensatzung entgegen § 104 Abs. 2 in das Register eingetragen worden ist, es sei denn, daß der Inhaber der Kollektivmarke die Markensatzung erneut so ändert, daß der Löschungsgrund nicht mehr besteht.
+4. wenn eine Änderung der Kollektivmarkensatzung entgegen § 104 Abs. 2 in das Register eingetragen worden ist, es sei denn, daß der Inhaber der Kollektivmarke die Kollektivmarkensatzung erneut so ändert, daß der Löschungsgrund nicht mehr besteht.
 
 (2) Als eine mißbräuchliche Benutzung im Sinne des Absatzes 1 Nr. 2 ist es insbesondere anzusehen, wenn die Benutzung der Kollektivmarke durch andere als die zur Benutzung befugten Personen geeignet ist, das Publikum zu täuschen.
 
@@ -1774,6 +1782,8 @@ b) sind § 53 Absatz 6 und § 55 Absatz 3 mit der Maßgabe entsprechend anzuwend
 
 6. Anträge auf Beschlagnahme bei der Einfuhr und Ausfuhr können von Inhabern eingetragener Unionsmarken in gleicher Weise gestellt werden wie von Inhabern von nach diesem Gesetz eingetragenen Marken; die §§ 146 bis 149 sind entsprechend anzuwenden.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
+
 # § 120 – Nachträgliche Feststellung der Ungültigkeit einer Marke
 
 (1) Ist für eine angemeldete oder eingetragene Unionsmarke der Zeitrang einer im Register des Deutschen Patent- und Markenamts eingetragenen Marke nach Artikel 39 oder Artikel 40 der Verordnung (EU) 2017/1001 in Anspruch genommen worden und ist die im Register des Deutschen Patent- und Markenamts eingetragene Marke wegen Nichtverlängerung der Schutzdauer nach § 47 Absatz 8 oder wegen Verzichts nach § 48 Absatz 1 gelöscht worden, so kann auf Antrag nachträglich die Ungültigkeit dieser Marke wegen Verfalls oder wegen Nichtigkeit festgestellt werden. In diesem Fall entfaltet der Zeitrang keine Wirkung.
@@ -1781,6 +1791,8 @@ b) sind § 53 Absatz 6 und § 55 Absatz 3 mit der Maßgabe entsprechend anzuwend
 (2) Die Feststellung der Ungültigkeit erfolgt unter den gleichen Voraussetzungen wie eine Erklärung des Verfalls oder der Nichtigkeit. Jedoch kann die Ungültigkeit einer Marke wegen Verfalls nach § 49 Abs. 1 nur festgestellt werden, wenn die Voraussetzungen für die Erklärung des Verfalls nach dieser Vorschrift in dem Zeitpunkt gegeben waren, in dem die Marke wegen Nichtverlängerung der Schutzdauer oder wegen Verzichts gelöscht worden ist.
 
 (3) Das Verfahren zur Feststellung der Ungültigkeit richtet sich nach den Vorschriften, die für das Verfalls- und Nichtigkeitsverfahren einer eingetragenen Marke gelten, mit der Maßgabe, daß an die Stelle der Erklärung des Verfalls oder der Nichtigkeit der Marke die Feststellung ihrer Ungültigkeit tritt.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
 
 # § 121 – Umwandlung von Unionsmarken
 
@@ -1791,6 +1803,8 @@ b) sind § 53 Absatz 6 und § 55 Absatz 3 mit der Maßgabe entsprechend anzuwend
 (3) Betrifft der Umwandlungsantrag einer Marke, die bereits als Unionsmarke eingetragen war, so trägt das Deutsche Patent- und Markenamt die Marke ohne weitere Prüfung unmittelbar nach § 41 Absatz 1 unter Wahrung ihres ursprünglichen Zeitrangs in das Register ein. Gegen die Eintragung kann Widerspruch nicht erhoben werden.
 
 (4) Im übrigen sind auf Umwandlungsanträge die Vorschriften dieses Gesetzes für die Anmeldung von Marken anzuwenden.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
 
 # § 122 – Unionsmarkenstreitsachen; Unionsmarkengerichte
 
@@ -1804,6 +1818,8 @@ b) sind § 53 Absatz 6 und § 55 Absatz 3 mit der Maßgabe entsprechend anzuwend
 
 (5) Auf Verfahren vor den Unionsmarkengerichten ist § 140 Absatz 4 und § 142 entsprechend anzuwenden.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
+
 # § 123 – Unterrichtung der Kommission
 
 Das Bundesministerium der Justiz und für Verbraucherschutz teilt der Kommission der Europäischen Gemeinschaften die Unionsmarkengerichte erster und zweiter Instanz sowie jede Änderung der Anzahl, der Bezeichnung oder der örtlichen Zuständigkeit der Unionsmarkengerichte erster und zweiter Instanz mit.
@@ -1811,6 +1827,8 @@ Das Bundesministerium der Justiz und für Verbraucherschutz teilt der Kommission
 # § 124 – Örtliche Zuständigkeit der Unionsmarkengerichte
 
 Sind nach Artikel 125 der Verordnung (EU) 2017/1001 deutsche Unionsmarkengerichte international zuständig, so gelten für die örtliche Zuständigkeit dieser Gerichte die Vorschriften entsprechend, die anzuwenden wären, wenn es sich um eine beim Deutschen Patent- und Markenamt eingereichte Anmeldung einer Marke oder um eine im Register des Deutschen Patent- und Markenamts eingetragene Marke handelte. Ist eine Zuständigkeit danach nicht begründet, so ist das Gericht örtlich zuständig, bei dem der Kläger seinen allgemeinen Gerichtsstand hat.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
 
 # § 125 – Insolvenzverfahren
 
@@ -1831,6 +1849,8 @@ in das Register für Unionsmarken oder, wenn es sich um eine Anmeldung handelt, 
 # § 125a – Erteilung der Vollstreckungsklausel
 
 Für die Erteilung der Vollstreckungsklausel nach Artikel 110 Absatz 2 Satz 3 der Verordnung (EU) 2017/1001 ist das Bundespatentgericht zuständig. Die vollstreckbare Ausfertigung wird vom Urkundsbeamten der Geschäftsstelle des Bundespatentgerichts erteilt.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
 
 # § 126 – Als geographische Herkunftsangaben geschützte Namen, Angaben oder Zeichen
 
@@ -1860,6 +1880,8 @@ Für die Erteilung der Vollstreckungsklausel nach Artikel 110 Absatz 2 Satz 3 de
 
 (6) Absatz 5 Nummer 1 findet keine Anwendung auf geografische Angaben, für die ein Antrag auf Eintragung nach Artikel 14 Absatz 1 bis 3 der Verordnung (EU) 2024/1143 bei der Europäischen Kommission eingereicht wurde, solange über diesen Antrag noch nicht entschieden oder das Eintragungsverfahren noch nicht auf andere Weise beendet wurde. Absatz 5 Nummer 2 findet keine Anwendung auf geografische Angaben, für die ein Antrag auf Eintragung nach Artikel 22 Absatz 1 der Verordnung (EU) 2023/2411 beim Amt der Europäischen Union für geistiges Eigentum eingereicht wurde, solange über diesen Antrag noch nicht entschieden oder das Eintragungsverfahren noch nicht auf andere Weise beendet wurde.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
+
 # § 128 – Ansprüche wegen Verletzung
 
 (1) Wer im geschäftlichen Verkehr Namen, Angaben oder Zeichen entgegen § 127 benutzt, kann von den nach § 8 Abs. 3 des Gesetzes gegen den unlauteren Wettbewerb zur Geltendmachung von Ansprüchen Berechtigten bei Wiederholungsgefahr auf Unterlassung in Anspruch genommen werden. Der Anspruch besteht auch dann, wenn eine Zuwiderhandlung droht. Die §§ 18, 19, 19a und 19c gelten entsprechend.
@@ -1875,6 +1897,8 @@ Ansprüche nach § 128 verjähren gemäß § 20.
 # § 129a – Geltungsbereich
 
 Die Vorschriften dieses Abschnitts gelten für geografische Angaben gemäß der Verordnung (EU) 2023/2411.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
 
 # § 130 – Verfahren vor dem Deutschen Patent- und Markenamt; nationales Einspruchsverfahren
 
@@ -1920,6 +1944,8 @@ Hierzu kann das Deutsche Patent- und Markenamt diesen Ministerien, Körperschaft
 
 (7) (weggefallen)
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
+
 # § 131 – Unionsphase
 
 (1) Fordert das Amt der Europäischen Union für geistiges Eigentum zusätzliche Informationen gemäß Artikel 23 Absatz 4 der Verordnung (EU) 2023/2411, kann das Deutsche Patent- und Markenamt den Antragsteller auffordern, entsprechende Informationen zu übermitteln. Das Deutsche Patent- und Markenamt leitet diese unverzüglich an das Amt der Europäischen Union für geistiges Eigentum weiter.
@@ -1927,6 +1953,8 @@ Hierzu kann das Deutsche Patent- und Markenamt diesen Ministerien, Körperschaft
 (2) Auf Ersuchen nach Artikel 23 Absatz 6 der Verordnung (EU) 2023/2411 fordert das Deutsche Patent- und Markenamt den Antragsteller unter Bestimmung einer angemessenen Frist zur Vervollständigung oder Berichtigung seines Antrags auf und übermittelt die Vervollständigung oder Berichtigung unverzüglich an das Amt der Europäischen Union für geistiges Eigentum.
 
 (3) Sofern die Produktspezifikation in der Unionsphase des Eintragungsverfahrens geändert worden ist, veröffentlicht das Deutsche Patent- und Markenamt die der Eintragung zugrunde liegende Fassung der Produktspezifikation und macht sie auf seiner Internetseite zugänglich.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
 
 # § 132 – Antrag auf Änderung der Produktspezifikation; Löschungsverfahren
 
@@ -1938,15 +1966,21 @@ Hierzu kann das Deutsche Patent- und Markenamt diesen Ministerien, Körperschaft
 
 (4) In den Verfahren nach dieser Vorschrift gibt das Deutsche Patent- und Markenamt demjenigen Antragsteller im Sinne des Artikels 37 Absatz 2 Buchstabe c der Verordnung (EU) 2023/2411 Gelegenheit zur Stellungnahme, in dessen Namen die jeweils betroffene geografische Angabe eingetragen wurde. Beschlüsse stellt das Deutsche Patent- und Markenamt dem Antragsteller zu.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
+
 # § 132a – Internationale Registrierung
 
 Für Anträge nach Artikel 2 Absatz 2 und für Anträge nach Artikel 3 Absatz 1 Buchstabe b der Verordnung (EU) 2019/1753 ist das Deutsche Patent- und Markenamt zuständig.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
 
 # § 133 – Rechtsmittel
 
 (1) Gegen Entscheidungen, die das Deutsche Patent- und Markenamt nach den Vorschriften dieses Abschnitts trifft, findet die Beschwerde zum Bundespatentgericht und die Rechtsbeschwerde zum Bundesgerichtshof statt. Gegen eine Entscheidung nach § 130 Absatz 5 Satz 1 steht die Beschwerde denjenigen Personen zu, die gegen den Antrag fristgerecht Einspruch eingelegt haben oder die durch den stattgebenden Beschluss aufgrund von Änderungen, die ihnen erst mit der Veröffentlichung nach Artikel 16 Absatz 2 der Verordnung (EU) 2023/2411 bekannt geworden sind, in ihrem legitimen Interesse betroffen sind. Im Übrigen sind die Vorschriften dieses Gesetzes über das Beschwerdeverfahren vor dem Bundespatentgericht (§§ 66 bis 82) und über das Rechtsbeschwerdeverfahren vor dem Bundesgerichtshof (§§ 83 bis 90) entsprechend anzuwenden. Personen, denen der Beschluss nicht zugestellt wurde, haben die Beschwerde innerhalb von zwei Monaten nach Veröffentlichung des Beschlusses einzulegen.
 
 (2) Das Deutsche Patent- und Markenamt kann Beschwerden, die Änderungen betreffen, die dem Beschwerdeführer erst mit der Veröffentlichung nach Artikel 16 Absatz 2 der Verordnung (EU) 2023/2411 bekannt geworden sind, als rechtzeitig eingelegte Einsprüche behandeln und erneut nach Artikel 15 Absatz 2 und 3 der Verordnung (EU) 2023/2411 und nach § 130 Absatz 5 verfahren. Wird gegen den in dem Verfahren nach Satz 1 ergehenden Beschluss erneut Beschwerde eingelegt, ist nicht erneut nach Satz 1 zu verfahren.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
 
 # § 134 – Kontrolle
 
@@ -1996,6 +2030,8 @@ Die Befugnisse erstrecken sich auch auf handwerkliche oder industrielle Erzeugni
 
 (8) Für Amtshandlungen, die für Kontrollen nach Absatz 1 vorzunehmen sind, werden kostendeckende Gebühren und Auslagen erhoben. Die kostenpflichtigen Tatbestände werden durch das Landesrecht bestimmt.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
+
 # § 134a – Datenverarbeitung im Zusammenhang mit Kontrollen
 
 (1) Die Kontrollbehörden dürfen Daten einschließlich personenbezogener Daten verarbeiten, soweit dies für die Durchführung der Kontrollen nach § 134 Absatz 1 erforderlich ist. Dazu dürfen die Kontrollbehörden Daten einschließlich personenbezogener Daten erheben
@@ -2030,11 +2066,15 @@ b) im Rahmen der nach Artikel 62 der Verordnung (EU) 2023/2411 vorgesehenen gege
 
 Die Behörden und Stellen dürfen die ihnen nach Satz 1 Nummer 2 und 3 übermittelten Daten im Rahmen der Wahrnehmung ihrer Befugnisse zu den jeweils genannten Zwecken erheben und weiterverarbeiten.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
+
 # § 134b – Amtshilfe für Behörden anderer Mitgliedstaaten
 
 (1) Im Rahmen der den zuständigen Behörden anderer Mitgliedstaaten nach Artikel 62 Absatz 1 Unterabsatz 1 und Absatz 3 der Verordnung (EU) 2023/2411 zu leistenden Unterstützung und Kooperation stellen die Kontrollbehörden die erforderlichen Informationen und Unterlagen bereit, führen geeignete Untersuchungen oder andere angemessene Maßnahmen durch und beteiligen sich an Untersuchungen, die in anderen Mitgliedstaaten der Europäischen Union eingeleitet wurden.
 
 (2) Die Kontrollbehörden können an die zuständigen Behörden anderer Mitgliedstaaten personenbezogene Daten übermitteln, soweit dies der Durchführung der Kontrollen im jeweiligen Mitgliedstaat dient und im Rahmen der Unterstützung und Kooperation gemäß Artikel 62 Absatz 1 Unterabsatz 1 und Absatz 3 der Verordnung (EU) 2023/2411 erforderlich ist. Die Kontrollbehörden teilen den Behörden der anderen Mitgliedstaaten im Sinne des Satzes 1 den Zweck der Datenübermittlung und den vorgesehenen Löschungszeitpunkt mit.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
 
 # § 135 – Ansprüche wegen Verletzung
 
@@ -2053,6 +2093,8 @@ Die Behörden und Stellen dürfen die ihnen nach Satz 1 Nummer 2 und 3 übermitt
 (2) § 128 Absatz 2 und 3 gilt für Zuwiderhandlungen gegen Artikel 40 der Verordnung (EU) 2023/2411 entsprechend. Die berechtigte Erzeugervereinigung nach Absatz 1 Satz 3 Nummer 1, in deren Namen die geografische Angabe eingetragen ist, kann die Ansprüche nach Satz 1 mit Zustimmung der berechtigten Erzeuger in deren Namen geltend machen.
 
 (3) Ansprüche nach dem Gesetz gegen den unlauteren Wettbewerb bleiben unberührt.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
 
 # § 136 – Verjährung
 
@@ -2097,6 +2139,8 @@ erlassen werden. Rechtsverordnungen nach Satz 1 können auch erlassen werden, we
 2. die Übertragung der Kontrollaufgaben auf eine oder mehrere Produktzertifizierungsstellen oder natürliche Personen nach Artikel 55 der Verordnung (EU) 2023/2411 sowie die Voraussetzungen und das Verfahren der Zulassung dieser Produktzertifizierungsstellen oder natürlichen Personen zu regeln.
 
 Sie sind befugt, die Ermächtigung nach Satz 1 durch Rechtsverordnung ganz oder teilweise auf andere Behörden zu übertragen. Sie teilen dem Deutschen Patent- und Markenamt aktuelle Namen und Kontaktdaten der Kontrollbehörden nach § 134 Absatz 1 und der Produktzertifizierungsstellen und natürlichen Personen nach Artikel 55 Absatz 1 der Verordnung (EU) 2023/2411 mit.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
 
 # § 140 – Kennzeichenstreitsachen
 
@@ -2168,6 +2212,8 @@ wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
 (2) § 143 Abs. 2 bis 6 gilt entsprechend.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
+
 # § 145 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer
@@ -2200,6 +2246,8 @@ wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
 (6) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 1 Nummer 1 das Bundesamt für Justiz.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
+
 # § 145a – Beseitigung von Kennzeichnungen und Vernichtung von Gegenständen im Bußgeldverfahren
 
 In den Fällen des § 145 Absatz 1 und 3 bestimmt die Verwaltungsbehörde, dass die widerrechtliche Kennzeichnung der Gegenstände beseitigt wird oder, wenn dies nicht möglich ist, die Gegenstände vernichtet werden.
@@ -2209,6 +2257,8 @@ In den Fällen des § 145 Absatz 1 und 3 bestimmt die Verwaltungsbehörde, dass
 (1) Waren, die widerrechtlich mit einer nach diesem Gesetz geschützten Marke oder geschäftlichen Bezeichnung versehen sind, unterliegen, soweit nicht die Verordnung (EU) Nr. 608/2013 anzuwenden ist, auf Antrag und gegen Sicherheitsleistung des Rechtsinhabers bei ihrer Einfuhr oder Ausfuhr der Beschlagnahme durch die Zollbehörde, sofern die Rechtsverletzung offensichtlich ist. Dies gilt für den Verkehr mit anderen Mitgliedstaaten der Europäischen Union sowie mit den anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum nur, soweit Kontrollen durch die Zollbehörden stattfinden.
 
 (2) Ordnet die Zollbehörde die Beschlagnahme an, unterrichtet sie unverzüglich den Verfügungsberechtigten sowie den Antragsteller. Dem Antragsteller sind Herkunft, Menge und Lagerort der Waren sowie Name und Anschrift des Verfügungsberechtigten mitzuteilen. Das Brief- und Postgeheimnis (Artikel 10 des Grundgesetzes) wird insoweit eingeschränkt. Dem Antragsteller wird Gelegenheit gegeben, die Waren zu besichtigen, soweit hierdurch nicht in Geschäfts- oder Betriebsgeheimnisse eingegriffen wird.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
 
 # § 147 – Einziehung, Widerspruch, Aufhebung der Beschlagnahme
 

@@ -9,15 +9,11 @@ Auf Grund des § 109 des Vierzehnten Buches Sozialgesetzbuch – Soziale Entsch�
 
 (1) Zum Einkommen nach Kapitel 16 des Vierzehnten Buches Sozialgesetzbuch gehören alle Einkünfte in Geld oder Geldeswert, soweit nicht diese Verordnung, das Elfte Kapitel des Zwölften Buches Sozialgesetzbuch und die Verordnung zur Durchführung des § 82 des Zwölften Buches Sozialgesetzbuch bestimmen, dass bestimmte Einkünfte nicht als Einkommen gelten.
 
-(2) Als Einkommen gelten nicht
+(2) Nicht als Einkommen gelten Weihnachts- und Neujahrsgratifikationen, die als solche ausgewiesen sind,
 
-1. eine Witwen- oder Witwerrente nach § 67 Nummer 5 und 6 des Sechsten Buches Sozialgesetzbuch, die auf Grund des Todes einer geschädigten Person gezahlt wird, soweit diese Rente bis zum Ende des dritten Kalendermonats nach Ablauf des Monats, in dem die geschädigte Person verstorben ist, die anschließende Hinterbliebenenrente überschreitet, sowie
+1. bis zu einem Zwölftel der jährlichen Einkünfte, mit dem diese Leistungen im Zusammenhang stehen, oder
 
-2. Weihnachts- und Neujahrsgratifikationen, die als solche ausgewiesen sind,
-
-a) bis zu einem Zwölftel der jährlichen Einkünfte, mit dem diese Leistungen im Zusammenhang stehen, oder
-
-b) bis zu dem Betrag, der den Einkünften für den Monat entspricht, der bei der Berechnung der Leistungen zugrunde gelegt wird.
+2. bis zu dem Betrag, der den Einkünften für den Monat entspricht, der bei der Berechnung der Leistungen zugrunde gelegt wird.
 
 # § 2 – Absetzbeträge
 
@@ -51,7 +47,7 @@ Liegen die Voraussetzungen für mehrere Absetzbeträge nach Satz 1 vor, wird nur
 
 3. 10 Prozent bei Geschädigten mit einem Grad der Schädigungsfolgen von 30 bis 40 sowie bei Hinterbliebenen, wobei zusammen mit dem Absetzungsbetrag nach Satz 1 das 1,25-Fache der Regelbedarfsstufe 1 nicht überschritten werden darf.
 
-Liegen die Voraussetzungen für mehrere Absetzbeträge nach Satz 2 vor, wird nur der höchste Absetzbetrag berücksichtigt.
+Liegen die Voraussetzungen für mehrere Absetzbeträge nach Satz 3 vor, wird nur der höchste Absetzbetrag berücksichtigt.
 
 (4) Bei einem Aufenthalt in einer stationären oder teilstationären Einrichtung sind Absetzbeträge nach den Absätzen 2 und 3 nur in besonders begründeten Fällen anzuerkennen.
 

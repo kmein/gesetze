@@ -2037,9 +2037,11 @@ d) einem Freiwilligendienst nach dem Bundesfreiwilligendienstgesetz oder dem Jug
 
 9. einmalige Einnahmen aus Erbschaften, Vermächtnissen und Pflichtteilszuwendungen,
 
-10. Überbrückungsgeld nach § 51 des Strafvollzugsgesetzes oder vergleichbare Leistungen nach landesrechtlichen Regelungen und
+10. Überbrückungsgeld nach § 51 des Strafvollzugsgesetzes oder vergleichbare Leistungen nach landesrechtlichen Regelungen,
 
-11. Einnahmen in Geldeswert, die nicht im Rahmen einer Erwerbstätigkeit, des Bundesfreiwilligendienstes oder eines Jugendfreiwilligendienstes zufließen.
+11. Einnahmen in Geldeswert, die nicht im Rahmen einer Erwerbstätigkeit, des Bundesfreiwilligendienstes oder eines Jugendfreiwilligendienstes zufließen, und
+
+12. Witwen- oder Witwerrente nach § 67 Nummer 5 und 6 des Sechsten Buches, nach § 23 Absatz 6 Nummer 4 des Gesetzes über die Alterssicherung der Landwirte und nach § 65 Absatz 2 Nummer 1 des Siebten Buches, soweit diese Rente bis zum Ende des dritten Kalendermonats nach Ablauf des Monats, in dem der Ehegatte verstorben ist, die anschließende Witwen- oder Witwerrente überschreitet.
 
 Satz 2 Nummer 7 Buchstabe c ist nach dem Besuch einer allgemeinbildenden Schule bis zum Ablauf des dritten auf das Ende der Schulausbildung folgenden Monats anzuwenden. Bei der Anwendung von Satz 2 Nummer 7 Buchstabe d gilt das Taschengeld nach § 2 Nummer 4 des Bundesfreiwilligendienstgesetzes und nach § 2 Absatz 1 Nummer 4 des Jugendfreiwilligendienstegesetzes als Einkommen aus Erwerbstätigkeit. Einkünfte aus Rückerstattungen, die auf Vorauszahlungen beruhen, die Leistungsberechtigte aus dem Regelsatz erbracht haben, sind kein Einkommen. Bei Minderjährigen ist das Kindergeld dem jeweiligen Kind als Einkommen zuzurechnen, soweit es bei diesem zur Deckung des notwendigen Lebensunterhaltes, mit Ausnahme der Bedarfe nach § 34, benötigt wird.
 

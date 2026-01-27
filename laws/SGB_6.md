@@ -2380,7 +2380,11 @@ Lebenspartner können gemeinsam bestimmen, dass die von ihnen in der Lebenspartn
 
 (1) Als erworbene Anrechte gleicher Art im Sinne des § 10 Abs. 2 des Versorgungsausgleichsgesetzes gelten die in der gesetzlichen Rentenversicherung erworbenen Anrechte.
 
-(2) Als Anrechte gleicher Art im Sinne des § 10 Absatz 2 des Versorgungsausgleichsgesetzes gelten nicht die in der allgemeinen Rentenversicherung und in der knappschaftlichen Rentenversicherung erworbenen Anrechte.
+(2) Als Anrechte gleicher Art im Sinne des § 10 Absatz 2 des Versorgungsausgleichsgesetzes gelten nicht
+
+1. die in der allgemeinen Rentenversicherung und in der knappschaftlichen Rentenversicherung erworbenen Anrechte,
+
+2. die in der Rentenversicherung als Zuschläge für langjährige Versicherung gewährten Entgeltpunkte und die übrigen Entgeltpunkte.
 
 # § 120g – Externe Teilung
 
@@ -3047,7 +3051,7 @@ Der Rentenversicherungsträger darf die Versicherungsnummer, den Familiennamen, 
 
 13. mit weiteren Zusatzversorgungseinrichtungen des öffentlichen Dienstes und öffentlich-rechtlichen Zusatzversorgungseinrichtungen, soweit diese Daten zur Feststellung von Leistungen erforderlich sind und
 
-14. mit den gemeinsamen Einrichtungen im Sinne von § 4 Absatz 2 des Tarifvertragsgesetzes, soweit dies für die Feststellung des Versicherungsfalles, für die Berechnung der Betriebsrente oder die Prüfung des Fortbestehens des Anspruchs auf die Betriebsrente dem Grund oder der Höhe nach, erforderlich ist.
+14. mit den gemeinsamen Einrichtungen im Sinne von § 4 Absatz 2 des Tarifvertragsgesetzes, soweit dies für die Ermittlung und Sicherstellung der Beiträge, für die Feststellung des Versicherungsfalles, für die Berechnung der Betriebsrente oder die Prüfung des Fortbestehens des Anspruchs auf die Betriebsrente dem Grund oder der Höhe nach, erforderlich ist.
 
 Sie ist mit Leistungsträgern außerhalb des Geltungsbereichs dieses Gesetzbuchs zulässig, soweit diese Daten zur Feststellung von Leistungen nach über- und zwischenstaatlichem Recht erforderlich sind und nicht Grund zur Annahme besteht, dass dadurch schutzwürdige Belange der davon betroffenen Personen beeinträchtigt werden. Die Übermittlung darf auch durch Abruf im automatisierten Verfahren erfolgen, ohne dass es einer Genehmigung nach § 79 Absatz 1 des Zehnten Buches bedarf.
 
@@ -3085,7 +3089,7 @@ Sie ist mit Leistungsträgern außerhalb des Geltungsbereichs dieses Gesetzbuchs
 
 7. das Zusammentreffen von Renten aus eigener Versicherung und Hinterbliebenenrenten und Arbeitsentgelt festzustellen, um die ordnungsgemäße Berechnung und Zahlung von Beiträgen der Rentner zur gesetzlichen Krankenversicherung überprüfen zu können,
 
-8. es den Trägern der Rentenversicherung zu ermöglichen, überlebende Ehegatten oder Lebenspartner auf das Bestehen eines Leistungsanspruchs hinzuweisen,
+8. es den Trägern der Rentenversicherung zu ermöglichen, einen Leistungsanspruch überlebender Ehegatten oder Lebenspartner festzustellen und auf das Bestehen eines solchen Leistungsanspruchs hinzuweisen.
 
 9. es den Trägern der Rentenversicherung und der landwirtschaftlichen Alterskasse zu ermöglichen, die unrechtmäßige Erbringung von Witwenrenten und Witwerrenten sowie Erziehungsrenten nach Eheschließung oder Begründung einer Lebenspartnerschaft zu vermeiden,
 
@@ -3131,7 +3135,19 @@ Das Identifikationsmerkmal des Arbeitnehmers oder der Arbeitnehmerin ist die Ver
 
 (4) Bei der Datenstelle darf zu den gesetzlich bestimmten Dateisystemen jeweils ein weiteres Dateisystem geführt werden, soweit dies erforderlich ist, um die Ausführung des Datenschutzes, insbesondere zur Feststellung der Benutzer der Dateisysteme, zu gewährleisten.
 
-(5) Die Einrichtung eines automatisierten Abrufverfahrens für ein Dateisystem der Datenstelle ist nur zulässig gegenüber den in § 148 Absatz 3 genannten Stellen, der Deutschen Rentenversicherung Bund, soweit sie als zentrale Stelle Aufgaben nach dem Einkommensteuergesetz durchführt, den Behörden der Zollverwaltung, soweit diese Aufgaben nach § 2 oder § 25 des Schwarzarbeitsbekämpfungsgesetzes durchführen oder Straftaten oder Ordnungswidrigkeiten verfolgen, die im Zusammenhang mit einem der in § 2 Absatz 1 des Schwarzarbeitsbekämpfungsgesetzes genannten Prüfgegenstände stehen, und den Unternehmen der privaten Krankenversicherung, der Postbeamtenkrankenkasse, der Krankenversorgung der Bundesbahnbeamten, der Bundespolizei, den Landespolizeien, der Bundeswehr sowie den Trägern der freien Heilfürsorge, soweit sie Krankenversichertennummern nach § 290 in Verbindung mit § 362 Absatz 2 des Fünften Buches vergeben. Die dort enthaltenen besonderen Voraussetzungen für die Deutsche Post AG, für die Versicherungsämter und Gemeindebehörden und für Leistungsträger im Ausland müssen auch bei Satz 1 erfüllt sein. Die Einrichtung eines automatisierten Abrufverfahrens für ein Dateisystem der Datenstelle ist ferner gegenüber dem Bundesamt für Logistik und Mobilität, soweit dieses Aufgaben nach § 11 Absatz 2 Nummer 3 Buchstabe a des Güterkraftverkehrsgesetzes wahrnimmt, zulässig.
+(5) Die Einrichtung eines automatisierten Verfahrens, das die Übermittlung von Sozialdaten aus Dateisystemen der Datenstelle der Rentenversicherung durch Abruf ermöglicht, ist nur zulässig
+
+1. gegenüber den in § 148 Absatz 3 genannten Stellen unter den dort genannten Voraussetzungen,
+
+2. gegenüber der Deutschen Rentenversicherung Bund, soweit diese als zentrale Stelle Aufgaben nach dem Einkommensteuergesetz durchführt,
+
+3. gegenüber den Behörden der Zollverwaltung, soweit diese Aufgaben nach § 2 oder § 25 des Schwarzarbeitsbekämpfungsgesetzes durchführen oder Straftaten oder Ordnungswidrigkeiten verfolgen, die in Zusammenhang mit einem der in § 2 Absatz 1 des Schwarzarbeitsbekämpfungsgesetzes genannten Prüfgegenstände stehen,
+
+4. gegenüber den Unternehmen der privaten Krankenversicherung, der Postbeamtenkrankenkasse, der Krankenversorgung der Bundesbahnbeamten, der Bundespolizei, den Landespolizeien, der Bundeswehr sowie den Trägern der freien Heilfürsorge, soweit diese Krankenversichertennummern nach § 290 in Verbindung mit § 362 Absatz 2 des Fünften Buches vergeben, und
+
+5. gegenüber dem Bundesamt für Logistik und Mobilität, soweit dieses Aufgaben nach § 11 Absatz 2 Nummer 3 Buchstabe a des Güterkraftverkehrsgesetzes wahrnimmt.
+
+Für die Einrichtung eines automatisierten Verfahrens auf Abruf gegenüber den von Satz 1 Nummer 1 erfassten Stellen ist eine Genehmigung nach § 79 Absatz 1 des Zehnten Buches nicht erforderlich.
 
 # § 151 – Auskünfte der Deutschen Post AG
 
@@ -3208,6 +3224,10 @@ Das Identifikationsmerkmal des Arbeitnehmers oder der Arbeitnehmerin ist die Ver
 1. die Einrichtung und
 
 2. das Verfahren des automatisierten Abrufs.
+
+# § 151c – Übermittlung von Sozialdaten an den Träger der Insolvenzsicherung
+
+Auf Anforderung des Trägers der Insolvenzsicherung nach § 11 Absatz 1 Satz 4 des Betriebsrentengesetzes haben die Träger der Rentenversicherung dem Träger der Insolvenzsicherung die angeforderten Sozialdaten zu übermitteln, die zur Feststellung von Leistungen beim Träger der Insolvenzsicherung erforderlich sind.
 
 # § 152 – Verordnungsermächtigung
 
@@ -3629,7 +3649,7 @@ tragen die Arbeitgeber die Hälfte des Beitrags, der zu zahlen wäre, wenn die B
 
 # § 172a – Beitragszuschüsse des Arbeitgebers für Mitglieder berufsständischer Versorgungseinrichtungen
 
-Für Beschäftigte, die nach § 6 Absatz 1 Satz 1 Nummer 1 von der Versicherungspflicht befreit sind, zahlen die Arbeitgeber einen Zuschuss in Höhe der Hälfte des Beitrags zu einer berufsständischen Versorgungseinrichtung, höchstens aber die Hälfte des Beitrags, der zu zahlen wäre, wenn die Beschäftigten nicht von der Versicherungspflicht in der gesetzlichen Rentenversicherung befreit worden wären.
+Für Beschäftigte, die nach § 6 Absatz 1 Satz 1 Nummer 1 von der Versicherungspflicht befreit sind, zahlen die Arbeitgeber einen Zuschuss zum Beitrag zu einer berufsständischen Versorgungseinrichtung in Höhe des Anteils, den sie zu tragen hätten, wenn die Beschäftigten nicht von der Versicherungspflicht in der gesetzlichen Rentenversicherung befreit worden wären.
 
 # § 173 – Grundsatz
 
@@ -3887,7 +3907,7 @@ Ist eine Verzinsung der Beiträge vereinbart worden, tritt an die Stelle der in 
 
 (1) Bis zum Erreichen der Regelaltersgrenze können Rentenminderungen, die durch die vorzeitige Inanspruchnahme einer Rente wegen Alters entstehen, durch Zahlung von Beiträgen ausgeglichen werden. Die Berechtigung zu dieser Ausgleichszahlung setzt voraus, dass Versicherte zuvor im Rahmen der Auskunft über die Höhe der Beitragszahlung zum Ausgleich einer Rentenminderung bei vorzeitiger Inanspruchnahme einer Rente wegen Alters (§ 109 Absatz 5 Satz 4) erklärt haben, eine solche Rente in Anspruch nehmen zu wollen. Eine Ausgleichszahlung auf Grundlage einer entsprechenden Auskunft ist ab dem Zeitpunkt nicht mehr zulässig, ab dem Versicherte die Rente wegen Alters, für die die Auskunft erteilt worden ist, nicht beansprucht haben oder ab dem eine Rente wegen Alters ohne Rentenminderungen bezogen werden kann.
 
-(1a) Grundlage für die Ausgleichszahlung ist die Auskunft nach § 109 Absatz 5 Satz 4. Ein berechtigtes Interesse im Sinne des § 109 Absatz 1 Satz 3 für diese Auskunft liegt nach Vollendung des 50. Lebensjahres vor.
+(1a) Grundlage für die Ausgleichszahlung ist die Auskunft nach § 109 Absatz 5 Satz 4. Ein hierfür berechtigtes Interesse im Sinne des § 109 Absatz 1 Satz 3 für diese Auskunft liegt nur nach Vollendung des 50. Lebensjahres vor.
 
 (2) Beiträge können bis zu der Höhe gezahlt werden, die sich nach der Auskunft über die Höhe der zum Ausgleich einer Rentenminderung bei vorzeitiger Inanspruchnahme einer Rente wegen Alters als erforderliche Beitragszahlung bei höchstmöglicher Minderung an persönlichen Entgeltpunkten durch eine vorzeitige Inanspruchnahme einer Rente wegen Alters ergibt. Diese Minderung wird auf der Grundlage der Summe aller Entgeltpunkte ermittelt, die mit einem Zugangsfaktor zu vervielfältigen ist und die sich bei Berechnung einer Altersrente unter Zugrundelegung des beabsichtigten Rentenbeginns ergeben würde. Dabei ist für jeden Kalendermonat an bisher nicht bescheinigten künftigen rentenrechtlichen Zeiten bis zum beabsichtigten Rentenbeginn von einer Beitragszahlung nach einem vom Arbeitgeber zu bescheinigenden Arbeitsentgelt auszugehen. Der Bescheinigung ist das gegenwärtige beitragspflichtige Arbeitsentgelt aufgrund der bisherigen Beschäftigung und der bisherigen Arbeitszeit zugrunde zu legen. Soweit eine Vorausbescheinigung nicht vorliegt, ist von den durchschnittlichen monatlichen Entgeltpunkten der Beitragszeiten des Kalenderjahres auszugehen, für das zuletzt Entgeltpunkte ermittelt werden können.
 
@@ -3895,7 +3915,7 @@ Ist eine Verzinsung der Beiträge vereinbart worden, tritt an die Stelle der in 
 
 # § 187b – Zahlung von Beiträgen bei Abfindungen von Anwartschaften auf betriebliche Altersversorgung oder von Anrechten bei der Versorgungsausgleichskasse
 
-(1) Versicherte, die bei Beendigung eines Arbeitsverhältnisses nach Maßgabe des Gesetzes zur Verbesserung der betrieblichen Altersversorgung eine Abfindung für eine unverfallbare Anwartschaft auf betriebliche Altersversorgung erhalten haben, können innerhalb eines Jahres nach Zahlung der Abfindung Beiträge zur allgemeinen Rentenversicherung bis zur Höhe der geleisteten Abfindung zahlen.
+(1) Bei Beendigung eines Arbeitsverhältnisses kann eine Abfindung für eine unverfallbare Anwartschaft auf betriebliche Altersversorgung nach Maßgabe des Betriebsrentengesetzes innerhalb eines Jahres nach Zahlung der Abfindung als Beitrag zur allgemeinen Rentenversicherung bis zur Höhe der geleisteten Abfindung gezahlt werden.
 
 (1a) Absatz 1 gilt entsprechend für die Abfindung von Anrechten, die bei der Versorgungsausgleichskasse begründet wurden.
 
@@ -3999,7 +4019,7 @@ Sie haben dem Träger der Rentenversicherung auf dessen Verlangen unverzüglich 
 
 (2a) Die zuständigen Meldebehörden haben der Datenstelle der Rentenversicherung zur Wahrnehmung ihrer Aufgaben
 
-1. nach § 150 Absatz 1 Satz 1 Nummer 8 zusätzlich zur Sterbefallmitteilung den Familiennamen oder den Lebenspartnerschaftsnamen, den Vornamen, den Tag, den Monat und das Jahr der Geburt und die Anschrift der alleinigen oder der Hauptwohnung oder bei Wegzug in das Ausland, soweit möglich, den Wohnsitzstaat und die Zuzugsanschrift des überlebenden Ehegatten oder Lebenspartners des Verstorbenen,
+1. nach § 150 Absatz 1 Satz 1 Nummer 8 zusätzlich zur Sterbefallmitteilung den Familiennamen oder den Lebenspartnerschaftsnamen, den Vornamen, den Tag, den Monat und das Jahr der Geburt und die Anschrift der alleinigen oder der Hauptwohnung oder bei Wegzug in das Ausland, soweit möglich, den Wohnsitzstaat und die Zuzugsanschrift des überlebenden Ehegatten oder Lebenspartners des Verstorbenen und das Datum der letzten Eheschließung oder der letzten Begründung der Lebenspartnerschaft,
 
 2. nach § 150 Absatz 1 Satz 1 Nummer 9 bei einer Eheschließung oder einer Begründung einer Lebenspartnerschaft eines Einwohners unverzüglich das Datum dieser Eheschließung oder dieser Begründung einer Lebenspartnerschaft
 

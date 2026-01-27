@@ -411,7 +411,7 @@ cc) sich verpflichtet, auch künftig zu jedem Bilanzstichtag einen derartigen Ja
 b) Anteilen und Aktien an inländischen geschlossenen Alternativen Investmentfonds (AIF) im Sinne des § 1 Absatz 3 des Kapitalanlagegesetzbuchs,
 
 aa)  
-die direkt oder indirekt in Vermögensgegenstände nach § 261 Absatz 1 Nummer 4 des Kapitalanlagegesetzbuchs, eigenkapitalähnliche Instrumente sowie andere Instrumente der Unternehmensfinanzierung investieren und
+die direkt oder indirekt in Vermögensgegenstände nach § 261 Absatz 1 Nummer 2 und 4 des Kapitalanlagegesetzbuchs, eigenkapitalähnliche Instrumente sowie andere Instrumente der Unternehmensfinanzierung investieren und
 
 bb)  
 die von einer Kapitalverwaltungsgesellschaft verwaltet werden, die über eine Erlaubnis nach § 20 Absatz 1 des Kapitalanlagegesetzbuchs verfügt oder nach § 44 des Kapitalanlagegesetzbuchs registriert ist, oder von einer Verwaltungsgesellschaft mit Sitz in einem Staat des EWR oder in einem Vollmitgliedstaat der OECD, die zum Schutz der Anleger einer öffentlichen Aufsicht unterliegt und über eine Erlaubnis oder Registrierung verfügt, die mit der Erlaubnis nach § 20 Absatz 1 des Kapitalanlagegesetzbuchs oder der Registrierung nach § 44 des Kapitalanlagegesetzbuchs vergleichbar ist,
@@ -735,6 +735,10 @@ Die Mindesthöhe der lebenslangen Zahlung ergibt sich durch Verrentung des bei R
 
 (3) Der Pensionsfonds hat zu gewährleisten, dass die Anforderung aus Absatz 1 Satz 1 jederzeit eingehalten wird. Mindestens einmal jährlich hat er die an die Rentenempfänger des Pensionsplans zu erbringenden Leistungen zu überprüfen und gegebenenfalls anzupassen.
 
+# § 31a – Kapitalzahlung in Raten
+
+Wird die Leistung als Kapitalzahlung in Raten erbracht, werden für die Ermittlung der Raten die §§ 29 bis 31 entsprechend angewendet. Dabei sind in den Barwerten die Zahlungsströme der Kapitalzahlung anzusetzen. Die Berechnung der Leistungen und ihrer Mindesthöhen wird getrennt für die Gruppe der Empfänger einer lebenslangen Zahlung und für die Gruppe der Empfänger von Raten einer Kapitalzahlung durchgeführt.
+
 # § 32 – Form, Inhalt und Nachweis der Zusage des Arbeitgebers für die Erbringung der Mindesthöhe
 
 (1) Der Nachweis der Zusage des Arbeitgebers, für die Erbringung der Mindesthöhe der lebenslangen Zahlung nach § 30 einzustehen, erfolgt gegenüber der Aufsichtsbehörde durch den Pensionsfonds. Zusage und Nachweis bedürfen der Schriftform.
@@ -744,6 +748,8 @@ Die Mindesthöhe der lebenslangen Zahlung ergibt sich durch Verrentung des bei R
 (3) Ergibt sich auf Grund der Pflichten nach § 31 Absatz 3, dass die an die Rentenempfänger durch den Pensionsfonds zu erbringenden lebenslangen Zahlungen unter die Mindesthöhe nach § 30 abgesenkt werden, ist der Arbeitgeber unverzüglich über seine Einstandspflicht unter Angabe des Beginns und der Höhe zu informieren.
 
 (4) Der Pensionsfonds ist berechtigt, gegen Erstattung der Kosten die Funktion einer Zahlstelle zur Erfüllung der Einstandsverpflichtung der Arbeitgeber zu übernehmen.
+
+(5) Die Absätze 1 bis 4 gelten entsprechend für die nach § 30 in Verbindung mit § 31a bestimmte Mindesthöhe der Rate einer Kapitalzahlung.
 
 # § 33 – Anwendungsbereich
 
@@ -760,6 +766,8 @@ Die Beiträge, die zur Finanzierung von Leistungen der betrieblichen Altersverso
 (2) In der Rentenbezugszeit ist die Deckungsrückstellung nach der retrospektiven Methode zu bilden, wobei die Deckungsrückstellung bei Rentenbeginn dem vorhandenen Versorgungskapital des Versorgungsanwärters entspricht.
 
 (3) Mit Zusatzbeiträgen nach § 23 Absatz 1 des Betriebsrentengesetzes und daraus erzielten Erträgen kann eine zusätzliche Deckungsrückstellung gebildet werden, die den Versorgungsberechtigten insgesamt zugeordnet ist.
+
+(4) Der zusätzlichen Deckungsrückstellung nach Absatz 3 können Nettokapitalerträge aus der Vermögensanlage nach § 34 zugeführt werden, wenn die Vermögensanlage der reinen Beitragszusage für die Versorgungsanwärter und Versorgungsempfänger zusammen erfolgt und der Tarifvertrag, der der reinen Beitragszusage zugrunde liegt, die Zuführung zur zusätzlichen Deckungsrückstellung vorsieht. Zugeführt werden dürfen Nettokapitalerträge, die einen in Prozent der Vermögensanlage festgelegten Schwellenwert übersteigen. Der Prozentsatz muss mindestens doppelt so hoch sein wie der Rechnungszins, mit dem der in § 36 Absatz 1 angegebene Barwert berechnet wird. Der Prozentsatz ist in Abhängigkeit von der erwarteten Volatilität dieses Rechnungszinses festzulegen. Dem nach diesem Absatz finanzierten Teil der zusätzlichen Deckungsrückstellung dürfen keine Nettokapitalerträge zugeführt werden, wenn sie über einer angemessen festgelegten Obergrenze liegt.
 
 # § 36 – Kapitaldeckungsgrad
 

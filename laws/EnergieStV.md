@@ -5215,3 +5215,5 @@ barkeit</th>
 </table>
 
 Tabelle 5: Robuster Mittelwert, Wiederhol- und Vergleichbarkeit – mit und ohne ISTD
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 340 +++)

@@ -43,6 +43,8 @@ Im Sinne dieses Gesetzes ist oder sind
 
 11. Netz der allgemeinen Versorgung mit Strom: ein Netz, das der Verteilung von Strom an Dritte dient und von seiner Dimensionierung nicht von vornherein nur auf die Versorgung bestimmter, schon bei der Netzerrichtung feststehender oder bestimmbarer Personen ausgelegt ist, sondern grundsätzlich jedermann für die Versorgung offensteht.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 340 +++)
+
 # § 2a – Staatliche Beihilfen
 
 (1) Die Inanspruchnahme oder die Gewährung einer Steuerbefreiung, Steuerermäßigung oder Steuerentlastung, die nach Absatz 3 als staatliche Beihilfe anzusehen ist, ist nicht zulässig, solange derjenige, der den Strom entnimmt, zu einer Rückzahlung von Beihilfen auf Grund eines früheren Beschlusses der Europäischen Kommission zur Feststellung der Unzulässigkeit einer Beihilfe und ihrer Unvereinbarkeit mit dem Binnenmarkt verpflichtet worden und dieser Rückforderungsanordnung nicht nachgekommen ist. Im Falle einer Steuerbefreiung oder der Inanspruchnahme einer Steuerermäßigung hat der Verwender dem zuständigen Hauptzollamt unverzüglich mitzuteilen, wenn er einer Rückforderungsanordnung im Sinn des Satzes 1 nicht nachkommt. Im Falle eines Antrages auf Steuerentlastung ist bei Antragstellung zu versichern, dass keine offenen Ansprüche nach Satz 1 bestehen.
@@ -56,6 +58,8 @@ Im Sinne dieses Gesetzes ist oder sind
 Im Falle einer Steuerbefreiung oder Inanspruchnahme einer Steuerermäßigung hat das betreffende Unternehmen dem zuständigen Hauptzollamt unverzüglich mitzuteilen, wenn es sich im Sinn des Satzes 1 in wirtschaftlichen Schwierigkeiten befindet. Im Falle eines Antrages auf Steuerentlastung ist bei Antragstellung zu versichern, dass kein Fall von Satz 1 vorliegt.
 
 (3) Staatliche Beihilfen im Sinn des Artikels 107 des Vertrags über die Arbeitsweise der Europäischen Union, die der Kommission anzuzeigen oder von ihr zu genehmigen sind, sind in diesem Gesetz § 9 Absatz 1 Nummer 1 und 3, Absatz 2 und 3 sowie die §§ 9b und 9c.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 340 +++)
 
 # § 3 – Steuertarif
 
@@ -202,6 +206,8 @@ Die Erlaubnis wird auf Antrag unter Widerrufsvorbehalt Personen erteilt, gegen d
 (8) Wird Strom steuerbegünstigt an einen Nichtberechtigten geleistet, entsteht die Steuer auch in der Person des Nichtberechtigten. Mehrere Steuerschuldner sind Gesamtschuldner.
 
 (9) Die Steuerbefreiungen nach Absatz 1 Nummer 1 und 3 und die Steuerermäßigungen nach den Absätzen 2 und 3 werden gewährt nach Maßgabe und bis zum Auslaufen der hierfür erforderlichen Freistellungsanzeigen bei der Europäischen Kommission nach der Verordnung (EU) Nr. 651/2014. Das Auslaufen der Freistellungsanzeigen ist vom Bundesministerium der Finanzen im Bundesgesetzblatt gesondert bekannt zu geben.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 340 +++)
 
 # § 9a – Steuerentlastung für bestimmte Prozesse und Verfahren
 

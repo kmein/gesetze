@@ -209,9 +209,9 @@ Für die Bearbeitung der Aufgabe ist ein Zeitraum von höchstens 20 Minuten einz
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
-# § 10 – Inkrafttreten, Außerkrafttreten
+# § 10 – Außerkrafttreten
 
-Diese Verordnung tritt am 1. August 1999 in Kraft.
+Diese Verordnung tritt mit Ablauf des 31. Juli 2026 außer Kraft.
 
 # Anlage 1 – (zu § 4)  Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann im Eisenbahn- und Straßenverkehr/zur Kauffrau im Eisenbahn- und Straßenverkehr
 

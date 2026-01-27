@@ -31,7 +31,7 @@
 
 11. steuerlich nicht belastete Zuwendungen des Beschäftigten zugunsten von durch Naturkatastrophen im Inland Geschädigten aus Arbeitsentgelt einschließlich Wertguthaben,
 
-12. Sonderzahlungen nach § 19 Absatz 1 Satz 1 Nummer 3 Satz 2 bis 4 des Einkommensteuergesetzes der Arbeitgeber zur Deckung eines finanziellen Fehlbetrages an die Einrichtungen, für die Satz 3 gilt,
+12. nach § 19 Absatz 1 Satz 1 Nummer 3 Satz 2 bis 4 des Einkommensteuergesetzes nicht zu den Einkünften aus nichtselbständiger Arbeit gehörende Sonderzahlungen des Arbeitgebers,
 
 13. Sachprämien nach § 37a des Einkommensteuergesetzes,
 

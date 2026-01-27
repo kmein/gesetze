@@ -180,9 +180,9 @@ In einem Prüfungsgespräch von höchstens 20 Minuten Dauer soll der Prüfling a
 
 (7) Zum Bestehen der Abschlußprüfung müssen im Gesamtergebnis, in mindestens drei der vier Prüfungsfächer sowie im Durchschnitt der Prüfungsfächer Verkehrs- und Sicherheitsleistungen sowie Praktische Übungen mindestens ausreichende Leistungen erbracht werden. Werden die Prüfungsleistungen in einem Prüfungsfach mit "ungenügend" bewertet, so ist die Prüfung nicht bestanden.
 
-# § 9 – Inkrafttreten
+# § 9 – Außerkrafttreten
 
-Diese Verordnung tritt am 1. August 1997 in Kraft.
+Diese Verordnung tritt mit Ablauf des 31. Juli 2026 außer Kraft.
 
 # Anlage I – (zu § 4)  Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Verkehrsservice/zur Kauffrau für Verkehrsservice  - Sachliche Gliederung -
 

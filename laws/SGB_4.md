@@ -125,7 +125,7 @@ Eine Wertguthabenvereinbarung liegt vor, wenn
 
 # § 7c – Verwendung von Wertguthaben
 
-(1) Das Wertguthaben auf Grund einer Vereinbarung nach § 7b kann in Anspruch genommen werden
+(1) Das Wertguthaben auf Grund einer Vereinbarung nach § 7b kann bis zum Ablauf des Kalendermonats des Erreichens der Regelaltersgrenze nach dem Sechsten Buch in Anspruch genommen werden
 
 1. für gesetzlich geregelte vollständige oder teilweise Freistellungen von der Arbeitsleistung oder gesetzlich geregelte Verringerungen der Arbeitszeit, insbesondere für Zeiten,
 
@@ -137,7 +137,7 @@ c) für die der Beschäftigte eine Verringerung seiner vertraglich vereinbarten 
 
 2. für vertraglich vereinbarte vollständige oder teilweise Freistellungen von der Arbeitsleistung oder vertraglich vereinbarte Verringerungen der Arbeitszeit, insbesondere für Zeiten,
 
-a) die unmittelbar vor dem Zeitpunkt liegen, zu dem der Beschäftigte eine Rente wegen Alters nach dem Sechsten Buch bezieht oder beziehen könnte oder
+a) die unmittelbar vor dem Zeitpunkt liegen, zu dem der Beschäftigte eine Rente wegen Alters nach dem Sechsten Buch bezieht oder beziehen könnte oder die darüber hinaus längstens bis zum Ablauf des Kalendermonats des Erreichens der Regelaltersgrenze nach dem Sechsten Buch reichen oder
 
 b) in denen der Beschäftigte an beruflichen Qualifizierungsmaßnahmen teilnimmt.
 
@@ -577,6 +577,8 @@ Betriebsstätten sind eindeutig einem Unternehmen nach Absatz 1 zugeordnet. Besc
 
 (1) Die Bundesagentur für Arbeit übermittelt die Betriebsnummern und die Angaben nach § 18i Absatz 2 und 4 aus dem Dateisystem der Beschäftigungsbetriebe den Leistungsträgern nach den §§ 12 und 18 bis 29 des Ersten Buches, der Künstlersozialkasse, der Datenstelle der Rentenversicherung, den berufsständischen Versorgungseinrichtungen und deren Datenannahmestelle und der Deutschen Gesetzlichen Unfallversicherung e. V. sowie den gemeinsamen Einrichtungen im Sinne von § 4 Absatz 2 des Tarifvertragsgesetzes zur weiteren Verarbeitung, soweit dies für die Erfüllung ihrer Aufgaben nach diesem Gesetzbuch erforderlich ist.
 
+(1a) In den Fällen des § 11 Absatz 1 Satz 3 des Betriebsrentengesetzes übermittelt die Bundesagentur für Arbeit die Betriebsnummer an den Träger der Insolvenzsicherung nach dem Betriebsrentengesetz.
+
 (2) Die Sozialversicherungsträger, ihre Verbände und ihre Arbeitsgemeinschaften, die Künstlersozialkasse, die Behörden der Zollverwaltung, soweit sie Aufgaben nach § 2 oder § 25 des Schwarzarbeitsbekämpfungsgesetzes oder nach § 66 des Zehnten Buches wahrnehmen, sowie die zuständigen Aufsichtsbehörden und die Arbeitgeber dürfen die Betriebsnummern speichern, verändern, nutzen, übermitteln und in der Verarbeitung einschränken, soweit dies für die Erfüllung einer Aufgabe nach diesem Gesetzbuch oder dem Künstlersozialversicherungsgesetz erforderlich ist. Andere Behörden, Gerichte oder Dritte dürfen die Betriebsnummern speichern, verändern, nutzen, übermitteln oder in der Verarbeitung einschränken, soweit dies für die Erfüllung einer gesetzlichen Aufgabe einer der in Satz 1 genannten Stellen erforderlich ist.
 
 # § 18n – Absendernummer
@@ -691,7 +693,7 @@ vom Arbeitgeber erbracht werden. Einmalig gezahltes Arbeitsentgelt ist dem Entge
 
 2. nicht mehr für solche Zeiten gezahlt werden kann, da das Beschäftigungsverhältnis vorzeitig beendet wurde,
 
-ist als Arbeitsentgelt im Sinne des § 23 Absatz 1 ohne Berücksichtigung einer Beitragsbemessungsgrenze die Summe der Arbeitsentgelte maßgebend, die zum Zeitpunkt der tatsächlichen Arbeitsleistung ohne Berücksichtigung der Vereinbarung nach § 7b beitragspflichtig gewesen wäre. Maßgebend ist jedoch höchstens der Betrag des Wertguthabens aus diesen Arbeitsentgelten zum Zeitpunkt der nicht zweckentsprechenden Verwendung des Arbeitsentgelts. Zugrunde zu legen ist der Zeitraum ab dem Abrechnungsmonat der ersten Gutschrift auf einem Wertguthaben bis zum Zeitpunkt der nicht zweckentsprechenden Verwendung des Arbeitsentgelts. Bei einem nach § 7f Absatz 1 Satz 1 Nummer 2 übertragenen Wertguthaben gelten die Sätze 1 bis 3 entsprechend, soweit das Wertguthaben wegen der Inanspruchnahme einer Rente wegen verminderter Erwerbsfähigkeit, einer Rente wegen Alters oder wegen des Todes des Versicherten nicht mehr in Anspruch genommen werden kann. Wird das Wertguthaben vereinbarungsgemäß an einen bestimmten Wertmaßstab gebunden, ist der im Zeitpunkt der nicht zweckentsprechenden Verwendung des Arbeitsentgelts maßgebende angepasste Betrag als Höchstbetrag der Berechnung zugrunde zu legen. Im Falle der Insolvenz des Arbeitgebers gilt auch als beitragspflichtiges Arbeitsentgelt höchstens der Betrag, der als Arbeitsentgelt den gezahlten Beiträgen zugrunde liegt. Für die Berechnung der Beiträge sind der für den Entgeltabrechnungszeitraum nach den Sätzen 8 und 9 für den einzelnen Versicherungszweig geltende Beitragssatz und die für diesen Zeitraum für den Einzug des Gesamtsozialversicherungsbeitrags zuständige Einzugsstelle maßgebend; für Beschäftigte, die bei keiner Krankenkasse versichert sind, gilt § 28i Satz 2 entsprechend. Die Beiträge sind mit den Beiträgen der Entgeltabrechnung für den Kalendermonat fällig, der dem Kalendermonat folgt, in dem
+ist als Arbeitsentgelt im Sinne des § 23 Absatz 1 ohne Berücksichtigung einer Beitragsbemessungsgrenze die Summe der Arbeitsentgelte maßgebend, die zum Zeitpunkt der tatsächlichen Arbeitsleistung ohne Berücksichtigung der Vereinbarung nach § 7b beitragspflichtig gewesen wäre. Maßgebend ist jedoch höchstens der Betrag des Wertguthabens aus diesen Arbeitsentgelten zum Zeitpunkt der nicht zweckentsprechenden Verwendung des Arbeitsentgelts. Zugrunde zu legen ist der Zeitraum ab dem Abrechnungsmonat der ersten Gutschrift auf einem Wertguthaben bis zum Zeitpunkt der nicht zweckentsprechenden Verwendung des Arbeitsentgelts. Bei einem nach § 7f Absatz 1 Satz 1 Nummer 2 übertragenen Wertguthaben gelten die Sätze 1 bis 3 entsprechend, soweit das Wertguthaben wegen der Inanspruchnahme einer Rente wegen verminderter Erwerbsfähigkeit, wegen Ablaufs des Kalendermonats des Erreichens der Regelaltersgrenze nach dem Sechsten Buch oder wegen des Todes des Versicherten nicht mehr in Anspruch genommen werden kann. Wird das Wertguthaben vereinbarungsgemäß an einen bestimmten Wertmaßstab gebunden, ist der im Zeitpunkt der nicht zweckentsprechenden Verwendung des Arbeitsentgelts maßgebende angepasste Betrag als Höchstbetrag der Berechnung zugrunde zu legen. Im Falle der Insolvenz des Arbeitgebers gilt auch als beitragspflichtiges Arbeitsentgelt höchstens der Betrag, der als Arbeitsentgelt den gezahlten Beiträgen zugrunde liegt. Für die Berechnung der Beiträge sind der für den Entgeltabrechnungszeitraum nach den Sätzen 8 und 9 für den einzelnen Versicherungszweig geltende Beitragssatz und die für diesen Zeitraum für den Einzug des Gesamtsozialversicherungsbeitrags zuständige Einzugsstelle maßgebend; für Beschäftigte, die bei keiner Krankenkasse versichert sind, gilt § 28i Satz 2 entsprechend. Die Beiträge sind mit den Beiträgen der Entgeltabrechnung für den Kalendermonat fällig, der dem Kalendermonat folgt, in dem
 
 1. im Fall der Insolvenz die Mittel für die Beitragszahlung verfügbar sind,
 
@@ -701,7 +703,7 @@ Wird durch einen Bescheid eines Trägers der Rentenversicherung der Eintritt von
 
 (2a) Als Arbeitsentgelt im Sinne des § 23 Absatz 1 gilt im Falle des Absatzes 2 auch der positive Betrag, der sich ergibt, wenn die Summe der ab dem Abrechnungsmonat der ersten Gutschrift auf einem Wertguthaben für die Zeit der Arbeitsleistung maßgebenden Beträge der jeweiligen Beitragsbemessungsgrenze um die Summe der in dieser Zeit der Arbeitsleistung abgerechneten beitragspflichtigen Arbeitsentgelte gemindert wird, höchstens der Betrag des Wertguthabens im Zeitpunkt der nicht zweckentsprechenden Verwendung des Arbeitsentgelts. Absatz 2 Satz 5 bis 11 findet Anwendung, Absatz 1 Satz 2 findet keine Anwendung.
 
-(3) Kann das Wertguthaben wegen Beendigung des Beschäftigungsverhältnisses nicht mehr nach § 7c oder § 7f Absatz 2 Satz 1 verwendet werden und ist der Versicherte unmittelbar anschließend wegen Arbeitslosigkeit bei einer deutschen Agentur für Arbeit als Arbeitsuchender gemeldet und bezieht eine öffentlich-rechtliche Leistung oder nur wegen des zu berücksichtigenden Einkommens oder Vermögens nicht, sind die Beiträge spätestens sieben Kalendermonate nach dem Kalendermonat, in dem das Arbeitsentgelt nicht zweckentsprechend verwendet worden ist, oder bei Aufnahme einer Beschäftigung in diesem Zeitraum zum Zeitpunkt des Beschäftigungsbeginns fällig, es sei denn, eine zweckentsprechende Verwendung wird vereinbart; beginnt in diesem Zeitraum eine Rente wegen Alters oder Todes oder tritt verminderte Erwerbsfähigkeit ein, gelten diese Zeitpunkte als Zeitpunkt der nicht zweckentsprechenden Verwendung.
+(3) Kann das Wertguthaben wegen Beendigung des Beschäftigungsverhältnisses nicht mehr nach § 7c oder § 7f Absatz 2 Satz 1 verwendet werden und ist der Versicherte unmittelbar anschließend wegen Arbeitslosigkeit bei einer deutschen Agentur für Arbeit als Arbeitsuchender gemeldet und bezieht eine öffentlich-rechtliche Leistung oder nur wegen des zu berücksichtigenden Einkommens oder Vermögens nicht, sind die Beiträge spätestens sieben Kalendermonate nach dem Kalendermonat, in dem das Arbeitsentgelt nicht zweckentsprechend verwendet worden ist, oder bei Aufnahme einer Beschäftigung in diesem Zeitraum zum Zeitpunkt des Beschäftigungsbeginns fällig, es sei denn, eine zweckentsprechende Verwendung wird vereinbart; erreicht der Versicherte in diesem Zeitraum die Regelaltersgrenze nach dem Sechsten Buch, tritt verminderte Erwerbsfähigkeit oder der Tod des Versicherten ein, gelten diese Zeitpunkte als Zeitpunkt der nicht zweckentsprechenden Verwendung.
 
 (3a) Sieht die Vereinbarung nach § 7b bereits bei ihrem Abschluss für den Fall, dass Wertguthaben wegen der Beendigung der Beschäftigung auf Grund verminderter Erwerbsfähigkeit, des Erreichens einer Altersgrenze, zu der eine Rente wegen Alters beansprucht werden kann, oder des Todes des Beschäftigten nicht mehr für Zeiten einer Freistellung von der Arbeitsleistung oder der Verringerung der vertraglich vereinbarten Arbeitszeit verwendet werden können, deren Verwendung für Zwecke der betrieblichen Altersversorgung vor, gilt das bei Eintritt dieser Fälle für Zwecke der betrieblichen Altersversorgung verwendete Wertguthaben nicht als beitragspflichtiges Arbeitsentgelt; dies gilt nicht,
 
@@ -1871,17 +1873,21 @@ tätig ist.
 
 (3) Der Bundeswahlbeauftragte kann für einzelne Zweige der Versicherung Richtlinien erlassen, um sicherzustellen, dass die Wahlen einheitlich durchgeführt werden.
 
-(4) Die Wahlbeauftragten und ihre Stellvertreter sind berechtigt, sich an Ort und Stelle davon zu überzeugen, dass die Wahlräume den Vorschriften der Wahlordnung entsprechend eingerichtet sind und dass bei der Wahlhandlung und bei der Ermittlung des Wahlergebnisses den Vorschriften dieses Gesetzes und der Wahlordnung entsprechend verfahren wird.
+(4) Die Wahlbeauftragten und ihre Stellvertreter sind berechtigt, sich an Ort und Stelle davon zu überzeugen, dass die Wahlräume den Vorschriften der Wahlordnung entsprechend eingerichtet sind und dass bei der Wahlhandlung und bei der Ermittlung des Wahlergebnisses den Vorschriften dieses Gesetzes und der Wahlordnung entsprechend verfahren wird. Bei der Online-Wahl sind die Wahlbeauftragten und ihre Stellvertreter berechtigt, die räumlichen und technischen Infrastrukturen, die von den Versicherungsträgern oder den von diesen beauftragten Dritten für die Durchführung der Wahl genutzt werden, in geeigneter Weise zu überprüfen. Die Wahlbeauftragten und ihre Stellvertreter sind befugt, Dritte mit der Überprüfung zu beauftragen.
 
 # § 54 – Durchführung der Wahl
 
-(1) Die Wahlberechtigten wählen durch briefliche Stimmabgabe.
+(1) Die Wahlberechtigten wählen durch briefliche Stimmabgabe. Sie können auch durch elektronische Stimmabgabe wählen, wenn die Satzung des Versicherungsträgers die Möglichkeit der Online-Wahl ergänzend vorsieht. Die Satzung kann ferner bestimmen, für welche Gruppen eine Online-Wahl durchgeführt werden kann. Bei doppelter Stimmabgabe durch einen Wahlberechtigten per Briefwahl und per Online-Wahl zählt nur die elektronisch abgegebene Stimme, die per Briefwahl abgegebene Stimme ist ohne weitere Prüfung ungültig.
 
 (2) Soweit Wahlunterlagen nicht übersandt, sondern ausgehändigt werden, hat der Arbeitgeber oder der sonst für die Aushändigung der Wahlunterlagen Zuständige Vorkehrungen zu treffen, dass die Wahlberechtigten ihre Stimmzettel unbeobachtet kennzeichnen und in den Umschlägen verschließen können. Sind mehr als 300 Wahlunterlagen an einem Ort auszuhändigen, sollen hierfür besondere Räume eingerichtet werden, in denen auch die Abgabe der Wahlbriefe zu ermöglichen ist. Der Arbeitgeber oder der sonst für die Ausgabe der Wahlunterlagen Zuständige hat dafür Sorge zu tragen, dass in den Räumen zur Stimmabgabe und im Bereich der nach Satz 1 zur Wahrung des Wahlgeheimnisses vorzusehenden Einrichtungen jede Beeinflussung der Wahlberechtigten durch Wort, Ton, Schrift oder Bild unterbleibt.
 
-(3) Der Tag, bis zu dem die Wahlbriefe bei den Versicherungsträgern eingegangen sein müssen (Wahltag), ist vom Bundeswahlbeauftragten für alle Versicherungsträger einheitlich zu bestimmen, soweit nicht Abweichungen geboten sind.
+(3) Der Tag, bis zu dem die Wahlbriefe bei den Versicherungsträgern eingegangen und bei einer Online-Wahl die elektronischen Stimmen abgegeben sein müssen (Wahltag), ist vom Bundeswahlbeauftragten für alle Versicherungsträger einheitlich zu bestimmen, soweit nicht Abweichungen geboten sind.
 
 (4) Wahlbriefe können von den Absendern bei einem vor der Wahl amtlich bekannt gemachten Postunternehmen als Briefsendungen ohne besondere Versendungsform unentgeltlich eingeliefert werden, wenn sie sich in amtlichen Wahlbriefumschlägen befinden.
+
+(5) Bei Online-Wahlen sind die für Sozialversicherungswahlen geltenden allgemeinen Wahlgrundsätze nach § 45 Absatz 2 unter Berücksichtigung der technischen Besonderheiten entsprechend zu wahren. Die Online-Wahl darf nur unter Verwendung von Online-Wahlprodukten durchgeführt werden, die nach dem Schutzprofil BSI-CC-PP-0121 des Bundesamtes für Sicherheit in der Informationstechnik in der jeweils geltenden Fassung zertifiziert sind. Bei der Vorbereitung und Durchführung der Online-Wahl sind mindestens die Anforderungen für hohen Schutzbedarf nach der Technischen Richtlinie TR-03169 des Bundesamtes für Sicherheit in der Informationstechnik in der jeweils geltenden Fassung zu beachten. Das Bundesamt für Sicherheit in der Informationstechnik veröffentlicht die jeweils geltende Fassung des Schutzprofils BSI-CC-PP-0121 und der Technischen Richtlinie TR-03169 auf seiner Internetseite und macht einen Verweis auf diese Internetseite im Bundesanzeiger bekannt. Im Übrigen gelten für die Online-Wahl die Vorschriften der Wahlordnung für die Sozialversicherung entsprechend, sofern nicht etwas Abweichendes bestimmt ist.
+
+(6) Versicherungsträger können die Online-Wahl mit anderen Versicherungsträgern gemeinsam vorbereiten und durchführen. Hierfür bilden sie Arbeitsgemeinschaften nach § 94 Absatz 1a Satz 1 des Zehnten Buches.
 
 # § 55 – Wahlunterlagen und Mitwirkung der Arbeitgeber
 
@@ -1896,21 +1902,23 @@ die Bundesagentur für Arbeit.
 
 (3) Ist in der Verordnung nach § 56 vorgesehen, dass an Stelle der Arbeitgeber die Unfallversicherungsträger die Wahlausweise ausstellen, haben die Arbeitgeber den Unfallversicherungsträgern die hierfür notwendigen Angaben zu machen.
 
-# § 56 – Wahlordnung
+# § 56 – Wahlordnung; Verordnungsermächtigung
 
-Das Bundesministerium für Arbeit und Soziales erlässt durch Rechtsverordnung mit Zustimmung des Bundesrates die zur Durchführung der Wahlen erforderliche Wahlordnung. Es trifft darin insbesondere Vorschriften über
+(1) Das Bundesministerium für Arbeit und Soziales erlässt durch Rechtsverordnung mit Zustimmung des Bundesrates die zur Durchführung der Wahlen erforderliche Wahlordnung.
+
+(2) Das Bundesministerium für Arbeit und Soziales trifft in der Wahlordnung insbesondere Vorschriften über
 
 1. die Bestellung der Wahlbeauftragten, die Bildung der Wahlausschüsse und der Wahlleitungen sowie über die Befugnisse, die Beschlussfähigkeit und das Verfahren der Wahlorgane,
 
 2. die Entschädigung der Wahlbeauftragten, der Mitglieder der Wahlausschüsse, der Mitglieder der Wahlleitungen und der Wahlhelfer,
 
-3. die Vorbereitung der Wahlen einschließlich der Unterrichtung der Wahlberechtigten über den Zweck und den Ablauf des Wahlverfahrens sowie über die zur Wahl zugelassenen Vorschlagslisten,
+3. die Vorbereitung der Wahlen einschließlich der Unterrichtung der Wahlberechtigten über den Zweck und den Ablauf des Wahlverfahrens sowie über die zur Wahl zugelassenen Vorschlaglisten,
 
 4. den Zeitpunkt für die Wahlen,
 
 5. die Feststellung der Vorschlagsberechtigung, die Angaben und Unterlagen, die zur Feststellung der Vorschlagsberechtigung zu machen oder vorzulegen sind, die Einreichung, den Inhalt und die Form der Vorschlagslisten sowie der dazugehörigen Unterlagen, über ihre Prüfung, die Beseitigung von Mängeln sowie über ihre Zulassung und Bekanntgabe und über Rechtsbehelfe gegen die Entscheidungen der Wahlorgane,
 
-6. die Listenzusammenlegung, die Listenverbindung und die Zurücknahme von Vorschlagslisten,
+6. die Listenzusammenlegung, die Listenverbindung und die Zurücknahme von Vorschlaglisten,
 
 7. die Wahlbezirke sowie die Wahlräume und ihre Einrichtung,
 
@@ -1929,6 +1937,12 @@ Das Bundesministerium für Arbeit und Soziales erlässt durch Rechtsverordnung m
 13. die Wahlen in besonderen Fällen,
 
 14. die Kosten der Wahlen und einen Kostenausgleich.
+
+(3) Das Bundesministerium für Arbeit und Soziales trifft im Benehmen mit dem Bundesamt für Sicherheit in der Informationstechnik in der Wahlordnung nähere Bestimmungen zur Vorbereitung, Durchführung, Auswertung und Nachbereitung der Online-Wahl, insbesondere
+
+1. ergänzende Anforderungen an das nach § 54 Absatz 5 Satz 2 zu verwendende Online-Wahlprodukt,
+
+2. technische und organisatorische Anforderungen, einschließlich Maßgaben zur Anwendung der nach § 54 Absatz 5 Satz 3 zu beachtenden Technischen Richtlinie des Bundesamtes für Sicherheit in der Informationstechnik.
 
 # § 57 – Rechtsbehelfe im Wahlverfahren
 
@@ -3042,9 +3056,9 @@ Dies gilt auch für Erziehungsrenten, wenn der geschiedene Ehegatte vor dem 1. J
 
 (1) <span id="FnR.f772675_18"></span><a href="#f772675_18" class="FnR">18)</a></sup> Wertguthaben für Beschäftigte, die am 1. Januar 2009 abweichend von § 7d Absatz 1 als Zeitguthaben geführt werden, können als Zeitguthaben oder als Entgeltguthaben geführt werden; dies gilt auch für neu vereinbarte Wertguthabenvereinbarungen auf der Grundlage früherer Vereinbarungen.
 
-(2) § 7c Absatz 1 findet nur auf Wertguthabenvereinbarungen Anwendung, die nach dem 1. Januar 2009 geschlossen worden sind.
+(2) § 7c Absatz 1 findet nur auf Wertguthabenvereinbarungen Anwendung, die nach dem 1. Januar 2009 geschlossen worden sind. Wertguthaben aufgrund einer vor dem 1. Januar 2009 geschlossenen Vereinbarung können neben einer Inanspruchnahme einer Rente wegen Alters bis zum Ablauf des Kalendermonats des Erreichens der Regelaltersgrenze nach dem Sechsten Buch in Anspruch genommen werden.
 
-(3) Für Wertguthabenvereinbarungen nach § 7b, die vor dem 31. Dezember 2008 geschlossen worden sind und in denen entgegen § 7e Absatz 1 und 2 keine Vorkehrungen für den Fall der Insolvenz des Arbeitgebers vereinbart sind, gilt § 7e Absatz 5 und 6 mit Wirkung ab dem 1. Juni 2009.
+(3) (weggefallen)
 
 # § 116a – (weggefallen)
 

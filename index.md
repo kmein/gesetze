@@ -4353,7 +4353,6 @@
 - [OlympiaMünz5Bek](laws/OlympiaMünz5Bek.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (5. Motiv der Olympiamünze)
 - [OlympiaMünzBek 1970](laws/OlympiaMünzBek_1970.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Olympiamünze)
 - [OlympSchG](laws/OlympSchG.md) Gesetz zum Schutz des olympischen Emblems und der olympischen Bezeichnungen
-- [OnlWahlV](laws/OnlWahlV.md) Verordnung über die technischen und organisatorischen Vorgaben für die Durchführung einer Online-Wahl im Rahmen des Modellprojekts nach § 194a des Fünften Buches Sozialgesetzbuch
 - [OpfBEinr/BArchG2017uaÄndG](laws/OpfBEinr_BArchG2017uaÄndG.md) Gesetz zur Änderung des Bundesarchivgesetzes, des Stasi-Unterlagen-Gesetzes und zur Einrichtung einer oder eines SED-Opferbeauftragten
 - [OpfBG](laws/OpfBG.md) Gesetz über die Bundesbeauftragte oder den Bundesbeauftragten für die Opfer der SED-Diktatur beim Deutschen Bundestag
 - [OPrAGebG](laws/OPrAGebG.md) Gesetz über die Gebühren des Oberprüfungsamtes für die höheren technischen Verwaltungsbeamten
@@ -5386,7 +5385,6 @@
 - [SozSichVoRV](laws/SozSichVoRV.md) Verordnung über die Gewährung diplomatischer Vorrechte und Immunitäten im Bereich der Sozialen Sicherheit an durch zwischenstaatliche Vereinbarungen geschaffene Organisationen
 - [SoZV](laws/SoZV.md) Verordnung über die Einführung der mitteleuropäischen Sommerzeit ab dem Jahr 2002
 - [SozVersGDV](laws/SozVersGDV.md) Verordnung zur Durchführung des Gesetzes über die Sozialversicherung
-- [SpaEfV](laws/SpaEfV.md) Verordnung über Systeme zur Verbesserung der Energieeffizienz im Zusammenhang mit der Entlastung von der Energie- und der Stromsteuer in Sonderfällen
 - [SparkGiroVerbG](laws/SparkGiroVerbG.md) Gesetz über den Deutschen Sparkassen- und Giroverband
 - [SparSichSaarG](laws/SparSichSaarG.md) Gesetz zur Sicherung von Ersparnissen im Saarland
 - [SparSichSaarGDV](laws/SparSichSaarGDV.md) Verordnung zur Durchführung des Gesetzes zur Sicherung von Ersparnissen im Saarland

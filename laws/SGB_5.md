@@ -155,7 +155,7 @@ Ersatzkassen.
 
 (4) Die Krankenkassen haben bei der Durchführung ihrer Aufgaben und in ihren Verwaltungsangelegenheiten sparsam und wirtschaftlich zu verfahren und dabei ihre Ausgaben so auszurichten, dass Beitragserhöhungen ausgeschlossen werden, es sei denn, die notwendige medizinische Versorgung ist auch nach Ausschöpfung von Wirtschaftlichkeitsreserven nicht zu gewährleisten.
 
-(5) Im Jahr 2023 dürfen sich die sächlichen Verwaltungsausgaben der einzelnen Krankenkasse nicht um mehr als 3 Prozent gegenüber dem Vorjahr erhöhen. Die Begrenzung nach Satz 1 gilt nicht für sächliche Verwaltungsausgaben, die wegen der Durchführung der Sozialversicherungswahlen einschließlich der Teilnahme am Modellprojekt zur Durchführung von Online-Wahlen und der Kostenumlage für dieses Modellprojekt nach § 194a Absatz 3 entstehen, sowie für Aufwendungen für Datentransparenz nach den §§ 303a bis 303e.
+(5) (weggefallen)
 
 (6) Im Jahr 2026 dürfen sich die sächlichen Verwaltungsausgaben einer Krankenkasse nicht um mehr als 8 Prozent gegenüber dem Jahr 2024 erhöhen. Die Begrenzung nach Satz 1 gilt nicht für Aufwendungen für Datentransparenz nach den §§ 303a bis 303e.
 
@@ -7805,104 +7805,6 @@ Die freiwillige Mitgliedschaft endet
 (1a) Die Satzung kann eine Bestimmung enthalten, nach der die Krankenkasse den Abschluss privater Zusatzversicherungsverträge zwischen ihren Versicherten und privaten Krankenversicherungsunternehmen vermitteln kann. Gegenstand dieser Verträge können alle Leistungen sein, die den gesetzlichen Krankenversicherungsschutz ergänzen, insbesondere Ergänzungstarife zur Kostenerstattung, Wahlarztbehandlung im Krankenhaus, Ein- oder Zweibettzuschlag im Krankenhaus sowie eine Auslandskrankenversicherung.
 
 (2) Die Satzung darf keine Bestimmungen enthalten, die den Aufgaben der gesetzlichen Krankenversicherung widersprechen. Sie darf Leistungen nur vorsehen, soweit dieses Buch sie zuläßt.
-
-# § 194a – Modellprojekt zur Durchführung von Online-Wahlen bei den Krankenkassen
-
-(1) Bei den Sozialversicherungswahlen im Jahr 2023 können im Rahmen eines Modellprojektes abweichend von § 54 Absatz 1 des Vierten Buches die Wahlen der Vertreter der Versicherten bei den in § 35a Absatz 1 Satz 1 des Vierten Buches genannten Krankenkassen auch in einem elektronischen Wahlverfahren über das Internet (Online-Wahl) durchgeführt werden. Eine Stimmabgabe per Online-Wahl ist nur möglich, wenn die jeweilige Krankenkasse in ihrer Satzung vorsieht, dass alternativ zu der brieflichen Stimmabgabe auch eine Stimmabgabe per Online-Wahl vorgenommen werden kann. Eine entsprechende Satzungsregelung muss spätestens bis zum 30. September 2020 in Kraft treten.
-
-(2) Die am Modellprojekt teilnehmenden Krankenkassen haben die Stimmabgabe per Online-Wahl gemeinsam und einheitlich vorzubereiten und durchzuführen. Nehmen mehrere Krankenkassen an dem Modellprojekt teil, bilden sie hierfür eine Arbeitsgemeinschaft nach § 94 Absatz 1a Satz 1 des Zehnten Buches.
-
-(3) Die nachgewiesenen Kosten der am Modellprojekt teilnehmenden Krankenkassen für die Vorbereitung und Durchführung der Stimmabgabe per Online-Wahl werden auf alle in § 35a Absatz 1 Satz 1 des Vierten Buches genannten Krankenkassen in entsprechender Anwendung von § 83 Absatz 1 Satz 2 der Wahlordnung für die Sozialversicherung umgelegt. Umgelegt werden dürfen insbesondere Aufwendungen für die Ausschreibung und Beauftragung externer Dienstleistungen einschließlich Kosten wissenschaftlicher und technischer Beratung sowie Sach- und Personalkosten der teilnehmenden Krankenkassen für Aufgaben, die in Abstimmung mit der Arbeitsgemeinschaft nach Absatz 2 Satz 2 auf der Grundlage einer von dieser aufgestellten Projektplanung zur Vorbereitung und Durchführung der Stimmabgabe per Online-Wahl wahrgenommen werden.
-
-(3a) Das Bundesamt für Soziale Sicherung setzt die auf die einzelnen Krankenkassen nach Absatz 3 Satz 1 entfallenden Umlagebeträge fest, zieht die festgesetzten Umlagebeträge von den Krankenkassen ein und erstattet den am Modellprojekt teilnehmenden Krankenkassen ihre Kosten. Hierfür teilt der Bundeswahlbeauftragte für die Sozialversicherungswahlen dem Bundesamt für Soziale Sicherung die von ihm nach § 83 Absatz 1 Satz 2 der Wahlordnung für die Sozialversicherung ermittelten Zahlen der wahlberechtigten Versicherten der einzelnen Krankenkassen mit. Die am Modellprojekt teilnehmenden Krankenkassen und die von ihnen gebildete Arbeitsgemeinschaft haben dem Bundesamt für Soziale Sicherung bis zum 31. Dezember 2023 die zur Durchführung der Aufgaben nach Satz 1 erforderlichen Angaben zu machen. Für die Nachweise der Kosten der am Modellprojekt teilnehmenden Krankenkassen gilt § 82 Absatz 4 der Wahlordnung für die Sozialversicherung entsprechend. Sach- und Personalkosten einer teilnehmenden Krankenkasse gelten in der Regel als nachgewiesen, soweit sie in Übereinstimmung mit der Projektplanung der Arbeitsgemeinschaft angefallen sind und die Arbeitsgemeinschaft die Plausibilität der Kosten bestätigt. Das Bundesamt für Soziale Sicherung kann nähere Bestimmungen zur Durchführung des Umlage- und Erstattungsverfahrens einschließlich Regelungen zur Verrechnung der Umlagebeträge mit Erstattungsforderungen sowie zu Abschlagszahlungen treffen; die Bestimmungen sind dem Bundesministerium für Gesundheit zur Genehmigung vorzulegen. Eine Erstattung an am Modellprojekt beteiligte Krankenkassen erfolgt nur, soweit Umlagebeträge beim Bundesamt für Soziale Sicherung bereits eingegangen sind. Im Falle einer Anfechtung der Online-Wahl sind die Umlage- und Erstattungsbeträge vorläufig festzusetzen.
-
-(4) Die für Sozialversicherungswahlen geltenden allgemeinen Wahlgrundsätze nach § 45 Absatz 2 des Vierten Buches sind unter Berücksichtigung der technischen Besonderheiten auch bei Online-Wahlen entsprechend zu wahren.
-
-# § 194b – Durchführung der Stimmabgabe per Online-Wahl
-
-(1) Für die Durchführung der Stimmabgabe per Online-Wahl gelten die Vorschriften des Zweiten Titels des Vierten Abschnitts des Vierten Buches sowie die Wahlordnung für die Sozialversicherung entsprechend, sofern in den Absätzen 2 bis 4 nichts Abweichendes bestimmt ist.
-
-(2) § 53 Absatz 4 des Vierten Buches gilt bei der Durchführung der Stimmabgabe per Online-Wahl mit der Maßgabe, dass die Wahlbeauftragten und ihre Stellvertreter berechtigt sind, die räumlichen und technischen Infrastrukturen, die von den in § 35a Absatz 1 Satz 1 des Vierten Buches genannten Krankenkassen oder den von diesen beauftragten Dritten für die Durchführung der Wahl genutzt werden, in geeigneter Weise zu überprüfen. Die Wahlbeauftragten sind befugt, Dritte mit der Prüfung zu beauftragen.
-
-(3) Für die Durchführung der Wahlen gelten im Übrigen folgende Vorgaben:
-
-1. ein Wahlberechtigter darf seine Stimme entweder per Briefwahl oder per Online-Wahl abgeben,
-
-2. bei doppelter Stimmabgabe durch einen Wahlberechtigten per Briefwahl und per Online-Wahl zählt die per Online-Wahl abgegebene Stimme, die per Briefwahl abgegebene Stimme ist ohne weitere Prüfung ungültig,
-
-3. die Krankenkassen, die eine Stimmabgabe per Online-Wahl ermöglichen, können die zugelassenen Vorschlagslisten und die Darstellung der Listenträger abweichend von § 26 Absatz 1 der Wahlordnung für die Sozialversicherung zusätzlich auch im Internet veröffentlichen,
-
-4. die Information der Wahlberechtigten nach § 27 Absatz 3 Satz 1 der Wahlordnung für die Sozialversicherung hat insbesondere Folgendes zu enthalten:
-
-a) eine Beschreibung des Verfahrens für die Stimmabgabe per Online-Wahl einschließlich der für die Authentisierung des Wahlberechtigten zu verwendenden Authentisierungsmittel und der technischen Mechanismen, mit Hilfe derer sich der Wahlberechtigte von der Authentizität der Wahlplattform überzeugen kann, sowie
-
-b) den Hinweis, dass eine Stimmabgabe nur einmal erfolgen kann und dass bei doppelt abgegebener Stimme sowohl per Briefwahl als auch per Online-Wahl die per Briefwahl abgegebene Stimme ungültig ist,
-
-5. die Wahlbekanntmachung hat ergänzend zu § 31 Absatz 2 der Wahlordnung für die Sozialversicherung den Tag zu bezeichnen, bis zu dem eine Stimme per Online-Wahl abgegeben sein muss,
-
-6. der Stimmzettel für die Stimmabgabe per Online-Wahl muss dem Stimmzettel nach § 41 Absatz 1 der Wahlordnung für die Sozialversicherung im Hinblick auf Darstellung und Inhalt entsprechen,
-
-7. die Wahlunterlagen müssen zusätzlich Folgendes enthalten:
-
-a) eine Beschreibung des Verfahrens für die Stimmabgabe per Online-Wahl einschließlich der für die Authentisierung des Wahlberechtigten zu verwendenden Authentisierungsmittel und der technischen Mechanismen, mit Hilfe derer sich der Wahlberechtigte von der Authentizität der Wahlplattform überzeugen kann, sowie
-
-b) den Hinweis, dass eine Stimmabgabe nur einmal erfolgen kann und dass bei doppelt abgegebener Stimme sowohl per Briefwahl als auch per Online-Wahl die per Briefwahl abgegebene Stimme ungültig ist,
-
-8. der Wahlberechtigte, der seine Stimme per Online-Wahl abgibt, hat
-
-a) die für den Zugang zur Wahlplattform erforderliche Authentisierung unter Verwendung der zur Verfügung gestellten Authentisierungsmittel durchzuführen,
-
-b) den elektronischen Stimmzettel persönlich zu kennzeichnen,
-
-c) den Wahlvorgang durch Versenden des elektronischen Stimmzettels innerhalb der Wahlplattform abzuschließen und
-
-d) keine weitere Stimme per Briefwahl abzugeben,
-
-9. die Krankenkassen haben sicherzustellen, dass eine Stimmabgabe per Online-Wahl barrierefrei durchgeführt werden kann,
-
-10. ergänzend zu der Prüfung nach § 45 Absatz 1 der Wahlordnung für die Sozialversicherung hat der Wahlausschuss zu ermitteln, ob durch Wahlberechtigte eine doppelte Stimmabgabe sowohl per Briefwahl als auch per Online-Wahl erfolgt ist,
-
-11. eine Stimmabgabe per Online-Wahl ist ungültig, wenn sie zu spät erfolgt, keine Kennzeichnung auf dem elektronischen Stimmzettel erfolgt ist oder die Kennzeichnung den Willen des Wählers nicht zweifelsfrei erkennen lässt.
-
-(4) Bei Krankenkassen, die eine Stimmabgabe per Online-Wahl ermöglichen, beginnt die Ermittlung des Wahlergebnisses erst nach dem Wahltag. Die Wahlleitungen ermitteln unverzüglich getrennt nach Wählergruppen sowie jeweils für die Stimmabgabe per Briefwahl und die Stimmabgabe per Online-Wahl, wie viele Stimmen für die einzelnen Vorschlagslisten abgegeben worden sind. Die Auswertung der per Online-Wahl abgegebenen Stimmen muss vor der Auswertung der per Briefwahl abgegebenen Stimmen vorgenommen werden. Bei der Ermittlung der abgegebenen Stimmen ist über deren Gültigkeit zu entscheiden. Auf den Stimmzetteln der ungültigen per Briefwahl abgegebenen Stimmen ist der Grund der Ungültigkeit zu vermerken. Ungültige per Online-Wahl abgegebene Stimmen sind im Wahlergebnis jeweils mit dem Grund der Ungültigkeit auszuweisen.
-
-# § 194c – Verordnungsermächtigung
-
-(1) Das Bundesministerium für Gesundheit wird ermächtigt, in einer Rechtsverordnung bis zum 30. September 2020 die technischen und organisatorischen Vorgaben für die Durchführung der Online-Wahl im Rahmen des Modellprojektes nach § 194a im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik zu regeln. In der Verordnung ist Folgendes festzulegen:
-
-1. die technischen Vorgaben einschließlich der Vorgaben für die Erstellung und Umsetzung eines angemessenen Informationssicherheitskonzeptes nach dem IT-Grundschutz des Bundesamtes für Sicherheit in der Informationstechnik,
-
-2. die Vorgaben für die Erstellung und Umsetzung eines gemäß dem IT-Grundschutz des Bundesamtes für Sicherheit in der Informationstechnik angemessenen Notfallkonzeptes, das sowohl die Notfallvorsorge als auch die Notfallbewältigung einschließt,
-
-3. die Vorgaben für die sichere Wahlvorbereitung und Wahldurchführung einschließlich Stimmauszählung, für die Überwachung der Wahlplattform und für die sichere Archivierung der Wahldurchführungs- und Ergebnisdaten,
-
-4. die notwendigen Dokumentations-, Test-, Übungs-, Freigabe- und Zertifizierungsmaßnahmen,
-
-5. geeignete Verfahren für die Authentisierung des Wahlberechtigten gegenüber der Wahlplattform mittels geeigneter Authentisierungsmittel und die Authentifizierung des Wahlberechtigten durch die Wahlplattform,
-
-6. informationstechnische Anforderungen an die Nachvollziehbarkeit der Stimmauswertung zur Herstellung einer im Rahmen der technischen Möglichkeiten möglichst weitgehenden Transparenz bei der Wahlauswertung und
-
-7. die Vorgaben für Kommunikations- und Meldewege, insbesondere bei Sicherheitsvorfällen.
-
-Das Bundesamt für Sicherheit in der Informationstechnik ist bei der Erstellung und Prüfung der Umsetzung der Vorgaben angemessen zu beteiligen.
-
-(2) Die Festlegung der Vorgaben, Maßnahmen und Verfahren nach Absatz 1 erfolgt auf der Grundlage der vom Bundesamt für Sicherheit in der Informationstechnik erstellten (Technischen) Richtlinien und sonstigen Sicherheitsanforderungen für Online-Wahlen und Online-Wahlprodukte. Darüber hinausgehende Sicherheitsanforderungen für Online-Wahlen im Rahmen der Sozialversicherungswahlen werden vom Bundesministerium für Gesundheit insbesondere unter Berücksichtigung des konkreten Sicherheitsrisikos und einer auf der Grundlage des BSI-Standards 200-3 erstellten Risikoanalyse im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik entwickelt und in der Rechtsverordnung festgelegt.
-
-# § 194d – Evaluierung
-
-(1) Das Modellprojekt nach § 194a wird durch das Bundesministerium für Gesundheit wissenschaftlich begleitet und im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales evaluiert. Dabei sind insbesondere folgende Aspekte zu berücksichtigen:
-
-1. die Zahl der bei der jeweiligen Krankenkasse per Online-Wahl und per Briefwahl abgegebenen Stimmen,
-
-2. die Anzahl von doppelten Stimmabgaben sowohl per Briefwahl als auch per Online-Wahl,
-
-3. die Zahl der Versuche von manipulativen Angriffen auf die Sicherheitsarchitektur und deren Manipulationsresistenz,
-
-4. die Möglichkeit, durch das gewählte Verfahren eine möglichst weitgehende Nachvollziehbarkeit und Überprüfbarkeit der Wahlauswertung und damit Transparenz in der Öffentlichkeit zu erreichen sowie
-
-5. die Systemverfügbarkeit im Wahlzeitraum.
-
-(2) Die für die Stimmabgabe per Online-Wahl eingesetzte Software hat eine wissenschaftliche Begleitung und Evaluierung zu ermöglichen. Dies schließt Sicherheits- und Datenschutzaspekte ein. Die Krankenkassen haben dem Bundesministerium für Gesundheit die für die wissenschaftliche Begleitung und Evaluierung notwendigen Informationen und Daten zur Verfügung zu stellen.
 
 # § 195 – Genehmigung der Satzung
 

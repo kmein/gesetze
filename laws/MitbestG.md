@@ -303,7 +303,7 @@ Die Anfechtung ist nur binnen einer Frist von zwei Wochen, vom Tag der Veröffen
 
 2. für Gesellschaften mit beschränkter Haftung nach § 90 Abs. 3, 4 und 5 Satz 1 und 2, den §§ 107 bis 116, 118 Abs. 3, § 125 Abs. 3 und 4 und den §§ 170, 171 und 268 Abs. 2 des Aktiengesetzes,
 
-3. für Genossenschaften nach dem Genossenschaftsgesetz..
+3. für Genossenschaften nach dem Genossenschaftsgesetz.
 
 § 4 Abs. 2 des Gesetzes über die Überführung der Anteilsrechte an der Volkswagenwerk Gesellschaft mit beschränkter Haftung in private Hand vom 21. Juli 1960 (Bundesgesetzbl. I S. 585), zuletzt geändert durch das Zweite Gesetz zur Änderung des Gesetzes über die Überführung der Anteilsrechte an der Volkswagenwerk Gesellschaft mit beschränkter Haftung in private Hand vom 31. Juli 1970 (Bundesgesetzbl. I S. 1149), bleibt unberührt.
 

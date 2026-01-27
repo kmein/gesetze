@@ -930,7 +930,7 @@ Ansprüche auf Dienst- und Sachleistungen erlöschen mit dem Tod des Berechtigte
 
 Satz 1 gilt entsprechend für denjenigen, der Leistungen zu erstatten hat.
 
-(2) Soweit für die in Absatz 1 Satz 1 Nr. 1 und 2 genannten Angaben Vordrucke vorgesehen sind, sollen diese benutzt werden.
+(2) Soweit für die in Absatz 1 Satz 1 Nummer 1 und 2 genannten Angaben Vordrucke vorgesehen sind, sollen diese benutzt werden. Soweit diese Vordrucke als elektronische Formulare über öffentlich zugängliche Netze oder in einem Eingabegerät zur Verfügung stehen, sollen diese vorrangig benutzt werden.
 
 (+++ § 60: Zur Anwendung vgl. § 42f Abs. 2 SGB 8 +++)
 
@@ -984,7 +984,7 @@ können abgelehnt werden.
 
 # § 66 – Folgen fehlender Mitwirkung
 
-(1) Kommt derjenige, der eine Sozialleistung beantragt oder erhält, seinen Mitwirkungspflichten nach den §§ 60 bis 62, 65 nicht nach und wird hierdurch die Aufklärung des Sachverhalts erheblich erschwert, kann der Leistungsträger ohne weitere Ermittlungen die Leistung bis zur Nachholung der Mitwirkung ganz oder teilweise versagen oder entziehen, soweit die Voraussetzungen der Leistung nicht nachgewiesen sind. Dies gilt entsprechend, wenn der Antragsteller oder Leistungsberechtigte in anderer Weise absichtlich die Aufklärung des Sachverhalts erheblich erschwert.
+(1) Kommt derjenige, der eine Sozialleistung beantragt oder erhält, seinen Mitwirkungspflichten nach § 60 Absatz 1, den §§ 61, 62 und 65 nicht nach und wird hierdurch die Aufklärung des Sachverhalts erheblich erschwert, kann der Leistungsträger ohne weitere Ermittlungen die Leistung bis zur Nachholung der Mitwirkung ganz oder teilweise versagen oder entziehen, soweit die Voraussetzungen der Leistung nicht nachgewiesen sind. Dies gilt entsprechend, wenn der Antragsteller oder Leistungsberechtigte in anderer Weise absichtlich die Aufklärung des Sachverhalts erheblich erschwert.
 
 (2) Kommt derjenige, der eine Sozialleistung wegen Pflegebedürftigkeit, wegen Arbeitsunfähigkeit, wegen Gefährdung oder Minderung der Erwerbsfähigkeit, anerkannten Schädigungsfolgen oder wegen Arbeitslosigkeit beantragt oder erhält, seinen Mitwirkungspflichten nach den §§ 62 bis 65 nicht nach und ist unter Würdigung aller Umstände mit Wahrscheinlichkeit anzunehmen, daß deshalb die Fähigkeit zur selbständigen Lebensführung, die Arbeits-, Erwerbs- oder Vermittlungsfähigkeit beeinträchtigt oder nicht verbessert wird, kann der Leistungsträger die Leistung bis zur Nachholung der Mitwirkung ganz oder teilweise versagen oder entziehen.
 

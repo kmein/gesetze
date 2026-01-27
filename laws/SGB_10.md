@@ -1337,7 +1337,7 @@ und schutzwürdige Interessen der betroffenen Person nicht beeinträchtigt werde
 
 (3) Soweit nach Absatz 1 oder 2 besondere Kategorien von Daten im Sinne von Artikel 9 Absatz 1 der Verordnung (EU) 2016/679 an einen Dritten übermittelt oder nach Absatz 4a von einem Dritten verarbeitet werden, sieht dieser bei der Verarbeitung angemessene und spezifische Maßnahmen zur Wahrung der Interessen der betroffenen Person gemäß § 22 Absatz 2 Satz 2 des Bundesdatenschutzgesetzes vor. Ergänzend zu den dort genannten Maßnahmen sind die besonderen Kategorien von Daten im Sinne des Artikels 9 Absatz 1 der Verordnung (EU) 2016/679 zu anonymisieren, sobald dies nach dem Forschungszweck möglich ist.
 
-(4) Die Übermittlung nach Absatz 1 und die weitere Verarbeitung, einschließlich einer Verarbeitung von Sozialdaten mit weiteren Daten, sowie die Übermittlung nach Absatz 2 bedürfen der vorherigen Genehmigung durch die oberste Bundes- oder Landesbehörde, die für den Bereich, aus dem die Daten herrühren, zuständig ist. Die oberste Bundesbehörde kann das Genehmigungsverfahren bei Anträgen von Versicherungsträgern nach § 1 Absatz 1 Satz 1 des Vierten Buches oder von deren Verbänden auf das Bundesversicherungsamt übertragen. Eine Übermittlung von Sozialdaten an eine nicht-öffentliche Stelle und eine weitere Verarbeitung durch diese nach Absatz 2 darf nur genehmigt werden, wenn sich die nicht-öffentliche Stelle gegenüber der Genehmigungsbehörde verpflichtet hat, die Daten nur für den vorgesehenen Zweck zu verarbeiten. Die Genehmigung darf im Hinblick auf die Wahrung des Sozialgeheimnisses nur versagt werden, wenn die Voraussetzungen des Absatzes 1, 2 oder 4a nicht vorliegen. Sie muss
+(4) Die Übermittlung nach Absatz 1 und die weitere Verarbeitung, einschließlich einer Verarbeitung von Sozialdaten mit weiteren Daten, sowie die Übermittlung nach Absatz 2 bedürfen der vorherigen Genehmigung durch die oberste Bundes- oder Landesbehörde, die für den Bereich, aus dem die Daten herrühren, zuständig ist. Die oberste Bundesbehörde kann das Genehmigungsverfahren bei Anträgen von Versicherungsträgern nach § 1 Absatz 1 Satz 1 des Vierten Buches oder von deren Verbänden auf das Bundesamt für Soziale Sicherung übertragen. Eine Übermittlung von Sozialdaten an eine nicht-öffentliche Stelle und eine weitere Verarbeitung durch diese nach Absatz 2 darf nur genehmigt werden, wenn sich die nicht-öffentliche Stelle gegenüber der Genehmigungsbehörde verpflichtet hat, die Daten nur für den vorgesehenen Zweck zu verarbeiten. Die Genehmigung darf im Hinblick auf die Wahrung des Sozialgeheimnisses nur versagt werden, wenn die Voraussetzungen des Absatzes 1, 2 oder 4a nicht vorliegen. Sie muss
 
 1. den Dritten, an den die Daten übermittelt werden,
 
@@ -1771,11 +1771,17 @@ Die Leistungsträger haben auf Verlangen eines behandelnden Arztes Untersuchungs
 
 # § 101a – Mitteilungen der Meldebehörden
 
-(1) Die Datenstelle der Rentenversicherung übermittelt die Mitteilungen aller Sterbefälle und Anschriftenänderungen und jede Änderung des Vor- und des Familiennamens unter den Voraussetzungen von § 196 Absatz 2 des Sechsten Buches und bei einer Eheschließung eines Einwohners das Datum dieser Eheschließung unter den Voraussetzungen von § 196 Absatz 2a des Sechsten Buches unverzüglich an die Deutsche Post AG.
+(1) Die Datenstelle der Rentenversicherung übermittelt unverzüglich an die Deutsche Post AG:
+
+1. die Mitteilungen aller Sterbefälle und Anschriftenänderungen und jede Änderung des Vor- und des Familiennamens unter den Voraussetzungen von § 196 Absatz 2 des Sechsten Buches;
+
+2. bei einem Sterbefall zusätzlich das Datum der letzten Eheschließung oder der Begründung der letzten Lebenspartnerschaft unter den Voraussetzungen von § 196 Absatz 2a des Sechsten Buches;
+
+3. bei einer Eheschließung oder einer Begründung einer Lebenspartnerschaft eines Einwohners das Datum dieser Eheschließung oder dieser Begründung einer Lebenspartnerschaft unter den Voraussetzungen von § 196 Absatz 2a des Sechsten Buches.
 
 (2) Die Mitteilungen, die von der Datenstelle der Rentenversicherung an die Deutsche Post AG übermittelt werden, dürfen von der Deutschen Post AG
 
-1. nur dazu verwendet werden, um laufende Geldleistungen der Leistungsträger, der in § 69 Abs. 2 genannten Stellen sowie ausländischer Leistungsträger mit laufenden Geldleistungen in die Bundesrepublik Deutschland einzustellen oder deren Einstellung zu veranlassen sowie um Anschriften von Empfängern laufender Geldleistungen der Leistungsträger und der in § 69 Abs. 2 genannten Stellen zu berichtigen oder deren Berichtigung zu veranlassen, und darüber hinaus
+1. nur dazu verwendet werden, um einen Sterbequartalsvorschuss auszuzahlen, um laufende Geldleistungen der Leistungsträger, der in § 69 Abs. 2 genannten Stellen sowie ausländischer Leistungsträger mit laufenden Geldleistungen in die Bundesrepublik Deutschland einzustellen oder deren Einstellung zu veranlassen sowie um Anschriften von Empfängern laufender Geldleistungen der Leistungsträger und der in § 69 Abs. 2 genannten Stellen zu berichtigen oder deren Berichtigung zu veranlassen, und darüber hinaus
 
 2. nur weiter übermittelt werden, um den Trägern der Unfallversicherung, der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau und den in § 69 Abs. 2 genannten Zusatzversorgungseinrichtungen eine Aktualisierung ihrer Versichertenbestände oder Mitgliederbestände zu ermöglichen; dies gilt auch für die Übermittlung der Mitteilungen an berufsständische Versorgungseinrichtungen, soweit diese nach Landesrecht oder Satzungsrecht zur Erhebung dieser Daten befugt sind.
 

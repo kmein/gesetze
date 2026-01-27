@@ -2679,7 +2679,15 @@ Abweichend von Kapitel 9 sind bei der Festsetzung von Leistungen für Leistungsb
 
 # § 153 – Verordnungsermächtigung
 
-(1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates nähere Vorschriften über die Gestaltung der Ausweise, ihre Gültigkeit und das Verwaltungsverfahren zu erlassen.
+(1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates nähere Vorschriften zu erlassen über
+
+1. das Format, die Gestaltung und die Gültigkeit der Ausweise nach § 152 Absatz 5,
+
+2. das Format, die Ausstellung, die Gestaltung und die Gültigkeit von Ausweisen für Menschen mit Behinderungen nach dem gemeinsamen einheitlichen Muster der Europäischen Union,
+
+3. das entsprechende Verwaltungsverfahren sowie
+
+4. die Anerkennung der Ausweise nach Nummer 2, die von einem anderen Mitgliedstaat ausgestellt worden sind.
 
 (2) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Grundsätze aufzustellen, die für die Bewertung des Grades der Behinderung, die Kriterien für die Bewertung der Hilflosigkeit und die Voraussetzungen für die Vergabe von Merkzeichen maßgebend sind, die nach Bundesrecht im Schwerbehindertenausweis einzutragen sind.
 

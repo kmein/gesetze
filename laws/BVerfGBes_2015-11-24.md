@@ -7,7 +7,7 @@ Das Plenum des Bundesverfassungsgerichts hat am 24. November 2015 gemäß § 14 
 
 # A.
 
-Mit Wirkung vom 1. Januar 2025 ist abweichend von § 14 Absatz 1 bis 3 des Gesetzes über das Bundesverfassungsgericht der Zweite Senat des Bundesverfassungsgerichts auch zuständig:
+Mit Wirkung vom 1. Januar 2026 ist abweichend von § 14 Absatz 1 bis 3 des Gesetzes über das Bundesverfassungsgericht der Zweite Senat des Bundesverfassungsgerichts auch zuständig:
 
 I. Für Normenkontrollverfahren (§ 13 Nummer 6 und Nummer 11 BVerfGG) und Verfassungsbeschwerden aus den Rechtsbereichen
 
@@ -39,11 +39,15 @@ b) Verfahren aus dem Rechtsbereich des Ersten Buchs, Achter Abschnitt der Strafp
 
 12. grundstücks- und unternehmensbezogene Vermögensfragen im Zusammenhang mit der Herstellung der Deutschen Einheit;
 
-13. des Kreditrechts einschließlich des Rechts der Sicherungen,
+13. des Kreditrechts einschließlich des Rechts der Sicherungen;
+
+14. Dienst- und Werkvertragsrecht;
+
+15. Kaufrecht,
 
 jeweils einschließlich der dazugehörigen Amtshaftungs-, Kostenrechts-, Prozesskostenhilfe-, Beratungshilfe- und Verzögerungsverfahren sowie Verfahren zu Befangenheitsanträgen.
 
-II. Für Normenkontrollverfahren und Verfassungsbeschwerden, die ab dem Geschäftsjahr 2025 eingehen, aus den Rechtsbereichen
+II. Für Normenkontrollverfahren und Verfassungsbeschwerden, die ab dem Geschäftsjahr 2026 eingehen, aus den Rechtsbereichen
 
 1. des Vertriebenenrechts;
 
@@ -61,7 +65,7 @@ II. Für Normenkontrollverfahren und Verfassungsbeschwerden, die ab dem Geschäf
 
 jeweils einschließlich der dazugehörigen Amtshaftungs-, Kostenrechts-, Prozesskostenhilfe-, Beratungshilfe- und Verzögerungsverfahren sowie Verfahren zu Befangenheitsanträgen.
 
-III. Für Verfassungsbeschwerden, die ab dem Geschäftsjahr 2025 eingehen, aus dem Bereich der Zivilgerichtsbarkeit mit Ausnahme der Rechtsbereiche
+III. Für Verfassungsbeschwerden, die ab dem Geschäftsjahr 2026 eingehen, aus dem Bereich der Zivilgerichtsbarkeit mit Ausnahme der Rechtsbereiche
 
 1. Allgemeines Persönlichkeitsrecht;
 
@@ -105,26 +109,16 @@ III. Für Verfassungsbeschwerden, die ab dem Geschäftsjahr 2025 eingehen, aus d
 
 21. Vollstreckung öffentlich-rechtlicher Forderungen;
 
-22. Wohnungseigentumsrecht;
-
-23. Dienst- und Werkvertragsrecht;
-
-24. Kaufrecht,
+22. Wohnungseigentumsrecht,
 
 jeweils einschließlich der dazugehörigen Amtshaftungs-, Kostenrechts-, Prozesskostenhilfe-, Beratungshilfe- und Verzögerungsverfahren sowie Verfahren zu Befangenheitsanträgen.
 
 IV. Im Übrigen für Normenkontrollverfahren und Verfassungsbeschwerden
 
-1. bei denen die Auslegung und Anwendung von Völkerrecht
-
-oder der Artikel 23, 24 und 59 GG, mit Ausnahme der einzelnen menschenrechtlichen Gewährleistungen, überwiegen;
+1. bei denen die Auslegung und Anwendung von Völkerrecht oder der Artikel 23, 24 und 59 GG, mit Ausnahme der einzelnen menschenrechtlichen Gewährleistungen, überwiegen;
 
 2. bei denen andere Fragen als solche der Auslegung und Anwendung der Artikel 1 bis 17, 19, 101 und 103 Absatz 1 GG (auch in Verbindung mit dem Rechtsstaatsprinzip) überwiegen.
 
 # B.
 
 Im Verfassungsbeschwerdeverfahren bestimmt sich der maßgebliche Rechtsbereich anhand des Verfahrensgegenstands des dem angegriffenen Hoheitsakt zugrundeliegenden Ausgangsverfahrens, es sei denn, der Schwerpunkt liegt erkennbar auf einem Rechtsgebiet, das dem anderen Senat zugewiesen ist.
-
-# C.
-
-Am 31. Dezember 2024 anhängige Verfahren aus dem Rechtsbereich des Rechts des Versicherungswesens (A. I. Ziffer 10), des Glücksspielrechts (A. I. Ziffer 11), der grundstücks- und unternehmensbezogenen Vermögensfragen im Zusammenhang mit der Herstellung der Deutschen Einheit (A. I. Ziffer 12) und des Kreditrechts einschließlich des Rechts der Sicherungen (A. I. Ziffer 13) gehen in die Zuständigkeit des Zweiten Senats über. Im Übrigen bleibt es für die bis zum 31. Dezember 2024 anhängigen Verfahren bei der bisherigen Senatszuständigkeit.
