@@ -41,7 +41,7 @@ soweit sie Beförderungen im Güter- oder Personenkraftverkehr auf öffentlichen
 
 2. Kraftfahrzeugen, die eingesetzt werden von
 
-a) der Bundeswehr, der Truppe, dem zivilen Gefolge der Europäischen Union und der anderen Vertragsstaaten des Nordatlantikpaktes,
+a) der Bundeswehr sowie den Truppen und der zivilen Gefolge der Mitgliedstaaten der Europäischen Union oder der Vertragsstaaten des Nordatlantikpaktes,
 
 b) den Polizeien des Bundes und der Länder,
 
@@ -67,13 +67,33 @@ c) neu oder umgebaut und noch nicht in Betrieb genommen worden sind,
 
 6. Ausbildungsfahrzeugen in einer Fahrschule und Kraftfahrzeugen, die zum Erwerb der Fahrerlaubnis oder einer Grundqualifikation nach § 2 Absatz 1 und 2 oder während der Weiterbildung nach § 5 eingesetzt werden,
 
-7. Kraftfahrzeugen zur nicht gewerblichen Beförderung von Gütern oder Personen,
+7. Kraftfahrzeugen zur nichtgewerblichen Beförderung von Gütern oder Personen,
 
-8. (weggefallen)
+8. Kraftfahrzeugen im ländlichen Raum, wenn
+
+a) die Beförderung zur Versorgung des eigenen Unternehmens des Fahrers erfolgt,
+
+b) das Führen von Kraftfahrzeugen nicht die Hauptbeschäftigung des Fahrers darstellt,
+
+c) die Beförderung gelegentlich erfolgt und
+
+d) die Beförderung unter Beachtung der sonstigen straßenverkehrsrechtlichen Vorschriften erfolgt oder
 
 9. Kraftfahrzeugen, die von Landwirtschafts-, Gartenbau-, Forstwirtschafts- oder Fischereiunternehmen zur Güterbeförderung im Rahmen ihrer eigenen unternehmerischen Tätigkeit in einem Umkreis von bis zu 100 Kilometern vom Standort des Unternehmens verwendet oder von diesem ohne Fahrer angemietet werden.
 
-(3) (weggefallen)
+(3) Im Sinne des Absatzes 2
+
+1. bezeichnet eine nichtgewerbliche Beförderung eine Beförderung, die keinen Zusammenhang mit einer beruflichen oder gewerblichen Tätigkeit aufweist, das heißt, die Beförderung wird nicht durchgeführt, um damit Einnahmen zu erzielen,
+
+2. bestimmt sich der ländliche Raum anhand der Liste über die Zuordnung der Stadt- und Landkreise zum städtischen oder ländlichen Raum, die diesem Gesetz als Anlage beigefügt ist,
+
+3. erfolgt eine Beförderung zur Versorgung des eigenen Unternehmens, wenn
+
+a) die beförderten Güter im Eigentum des Unternehmens stehen oder von diesem verkauft, gekauft, vermietet, gemietet, hergestellt, erzeugt, gewonnen, bearbeitet oder instand gesetzt worden sind und
+
+b) die Beförderung der Anlieferung dieser Güter zum Unternehmen, ihrem Versand vom Unternehmen, ihrer Verbringung innerhalb oder – zum Eigengebrauch – außerhalb des Unternehmens dient,
+
+4. erfolgt eine Beförderung gelegentlich, wenn sie häufiger als einmal, jedoch nicht regelmäßig oder dauerhaft erfolgt.
 
 # § 2 – Erwerb der Grundqualifikation und der beschleunigten Grundqualifikation
 
@@ -133,7 +153,7 @@ c) das 23. Lebensjahr vollendet und eine beschleunigte Grundqualifikation nach �
 
 (6) An die Stelle eines in Absatz 1 oder in Absatz 2 genannten Nachweises tritt der Nachweis der Weiterbildung nach § 5 Absatz 1 und 2.
 
-(7) Im Rahmen einer Berufsausbildung nach § 2 Absatz 1 Nummer 2 muss das Mindestalter nicht eingehalten werden; an die Stelle des Nachweises über das Vorliegen einer Grundqualifikation oder einer beschleunigten Grundqualifikation nach Absatz 1 oder nach Absatz 2 tritt eine Kopie des Ausbildungsvertrages. § 10 Absatz 1 Satz 1 Nummer 7 und 8 der Fahrerlaubnis-Verordnung bleibt unberührt.
+(7) Im Rahmen einer Berufsausbildung nach § 2 Absatz 1 Nummer 2 muss das Mindestalter nicht eingehalten werden; an die Stelle des Nachweises über das Vorliegen einer Grundqualifikation oder einer beschleunigten Grundqualifikation nach Absatz 1 oder nach Absatz 2 tritt eine Kopie des Ausbildungsvertrages. Nach Abschluss der Ausbildung dient eine Kopie des Ausbildungsvertrags zusammen mit dem Nachweis über die bestandene Prüfung für längstens zwei Monate ab dem Tag, an dem die Prüfung bestanden wurde, als Nachweis über das Vorliegen einer Grundqualifikation oder einer beschleunigten Grundqualifikation. § 10 Absatz 1 Satz 1 Nummer 7 und 8 der Fahrerlaubnis-Verordnung bleibt unberührt.
 
 # § 4 – Besitzstand
 
@@ -185,13 +205,13 @@ c) in der Schweiz, wenn sie dort beschäftigt sind.
 
 (2) Dem Fahrerqualifizierungsnachweis nach Absatz 1 gleichgestellt ist der von einem anderen Mitgliedstaat der Europäischen Union, einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz
 
-1. ausgestellte Fahrerqualifizierungsnachweis nach dem Muster des Anhangs II der Richtlinie 2003/59/EG des Europäischen Parlaments und des Rates vom 15. Juli 2003 über die Grundqualifikation und Weiterbildung der Fahrer bestimmter Kraftfahrzeuge für den Güter- oder Personenkraftverkehr und zur Änderung der Verordnung (EWG) Nr. 3820/85 des Rates und der Richtlinie 91/439/EWG des Rates sowie zur Aufhebung der Richtlinie 76/914/EWG des Rates, die zuletzt durch die Richtlinie (EU) 2018/645 (ABl. L 112 vom 2.5.2018, S. 29) geändert worden ist, oder
+1. ausgestellte Fahrerqualifizierungsnachweis nach dem Muster des Anhangs II der Richtlinie (EU) 2022/2561 in der Fassung vom 14. Dezember 2022 oder
 
 2. erfolgte Eintrag der harmonisierten Schlüsselzahl 95 der Europäischen Union in den Führerschein.
 
-(3) Fahrer im Sinne des § 1 Absatz 1 Satz 1 Nummer 3, die Fahrten im Güterkraftverkehr durchführen, können die Grundqualifikation und die Weiterbildung durch eine gültige Fahrerbescheinigung nach Artikel 5 Absatz 1 der Verordnung (EG) Nr. 1072/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 über gemeinsame Regeln für den Zugang zum Markt des grenzüberschreitenden Güterkraftverkehrs (ABl. L 300 vom 14.11.2009, S. 72) nachweisen. Auf der Fahrerbescheinigung muss die Schlüsselzahl 95 im Feld „Bemerkungen“ eingetragen sein.
+(3) Fahrer im Sinne des § 1 Absatz 1 Satz 1 Nummer 3, die Fahrten im Güterkraftverkehr durchführen, können die Grundqualifikation und die Weiterbildung durch eine gültige Fahrerbescheinigung nach Artikel 5 Absatz 1 der Verordnung (EG) Nr. 1072/2009 in der Fassung vom 15. Juli 2020 nachweisen. Auf der Fahrerbescheinigung muss die Schlüsselzahl 95 im Feld „Bemerkungen“ eingetragen sein.
 
-(4) Dem Fahrerqualifizierungsnachweis nach Absatz 1 gleichgestellt ist ein Nachweis, der auf Grundlage des Kapitels III Absatz 2.6 in Verbindung mit Anhang 5 der Qualitätscharta für Beförderungen im grenzüberschreitenden Güterkraftverkehr im Rahmen des multilateralen CEMT-Kontingentsystems vom 5. August 2020 (VkBl. S. 506) ausgestellt worden ist. Dies gilt nur für Beförderungen, die unter Verwendung einer multilateralen Genehmigung nach § 6 Satz 2 Nummer 2 oder 3 des Güterkraftverkehrsgesetzes durchgeführt werden.
+(4) Dem Fahrerqualifizierungsnachweis nach Absatz 1 gleichgestellt ist ein Nachweis, der auf Grundlage des Kapitels III Absatz 2.6 in Verbindung mit Anlage 5 Teil A der Qualitätscharta für Beförderungen im grenzüberschreitenden Güterkraftverkehr im Rahmen des multilateralen CEMT-Kontingentsystems vom 5. August 2020 (VkBl. S. 506) ausgestellt worden ist. Dies gilt nur für Beförderungen, die unter Verwendung einer multilateralen Genehmigung nach § 6 Satz 2 Nummer 2 oder 3 des Güterkraftverkehrsgesetzes durchgeführt werden.
 
 # § 8 – Pflicht zum Mitführen des Nachweises
 
@@ -211,7 +231,7 @@ Fahrer haben den Nachweis über den Erwerb der jeweiligen Qualifikation nach § 
 
 4. keine Tatsachen vorliegen, die gegen die persönliche Zuverlässigkeit des Antragstellers sprechen.
 
-(3) Der Unterricht darf nur in den in dem Anerkennungsbescheid aufgeführten Unterrichtsräumen durchgeführt werden.
+(3) Präsenzunterricht darf nur in den im Anerkennungsbescheid aufgeführten Unterrichtsräumen sowie durch das im Anerkennungsbescheid aufgeführte Lehrpersonal angeboten und durchgeführt werden. Digitaler Unterricht zur Weiterbildung darf nur in der im Anerkennungsbescheid aufgeführten Form sowie bei digitalem Unterricht in synchroner Form außerdem nur durch das im Anerkennungsbescheid aufgeführte Lehrpersonal angeboten und durchgeführt werden.
 
 (4) Ausbildungsstätten, die nicht anerkannt sind, dürfen Unterricht zur beschleunigten Grundqualifikation oder zur Weiterbildung weder anbieten noch durchführen.
 
@@ -241,17 +261,22 @@ Fahrer haben den Nachweis über den Erwerb der jeweiligen Qualifikation nach § 
 
 (4) Ausbildungsstätten haben bis spätestens fünf Werktage vor Durchführung eines Unterrichts zur beschleunigten Grundqualifikation oder zu einer Weiterbildung der nach Landesrecht zuständigen Behörde schriftlich oder elektronisch Folgendes anzuzeigen:
 
-1. die Anschrift des Ortes, an dem der Unterricht stattfinden soll,
+1. die Anschrift des Ortes, an dem der Präsenzunterricht stattfinden soll,
 
-2. das Datum,
+1a  
+wenn der Unterricht zur Weiterbildung als digitaler Unterricht in synchroner Form durchgeführt wird: die Zugangsdaten zum digitalen Unterricht in synchroner Form,
+
+2. das Datum des Unterrichts,
 
 3. den Beginn und das Ende der geplanten Unterrichtseinheiten,
 
-4. den Gegenstand des Unterrichts nach Anlage 1 der Berufskraftfahrerqualifikationsverordnung und
+4. den Gegenstand des Unterrichts nach Anlage 1 der Berufskraftfahrerqualifikationsverordnung,
 
-5. den verantwortlichen Unterrichtsleiter.
+5. die Art des Unterrichts als Präsenzunterricht oder als digitaler Unterricht in synchroner Form und
 
-Diese Angaben sind von der nach Landesrecht zuständigen Behörde und von den zur Durchführung der Überwachung beauftragten Personen oder Stellen spätestens sechs Jahre nach Abschluss des Unterrichts zu löschen.
+6. den verantwortlichen Unterrichtsleiter.
+
+Abweichungen von den angezeigten Angaben nach Satz 1 sowie ein Unterrichtsausfall sind von den Ausbildungsstätten der nach Landesrecht zuständigen Behörde bis spätestens einen Werktag vor Durchführung des Unterrichts schriftlich oder elektronisch anzuzeigen. Die Angaben der Ausbildungsstätte nach Satz 1 oder 2 sind von der nach Landesrecht zuständigen Behörde und von den zur Durchführung der Überwachung beauftragten Personen oder Stellen spätestens sechs Jahre nach Abschluss des Unterrichts zu löschen.
 
 # § 12 – Berufskraftfahrerqualifikationsregister
 
@@ -261,7 +286,7 @@ Das Berufskraftfahrerqualifikationsregister ist ein Register zur Speicherung von
 
 2. für welche Fahrerlaubnisklasse die Pflicht zur Grundqualifikation, beschleunigten Grundqualifikation und Weiterbildung erfüllt wurde,
 
-3. welche nach Anlage 1 der Berufskraftfahrerqualifikationsverordnung vorgeschriebenen Unterkenntnisbereiche dem Fahrer im Rahmen der beschleunigten Grundqualifikation und der Weiterbildung vermittelt wurden und in welchem Umfang und in welcher Ausbildungsstätte die Vermittlung erfolgte,
+3. welche nach Anlage 1 der Berufskraftfahrerqualifikationsverordnung vorgeschriebenen Unterkenntnisbereiche dem Fahrer im Rahmen der beschleunigten Grundqualifikation und der Weiterbildung vermittelt wurden sowie in welcher Unterrichtsart, in welchem Umfang und in welcher Ausbildungsstätte die Vermittlung erfolgte,
 
 4. ob eine Anrechnung anderer abgeschlossener spezieller Maßnahmen im Rahmen der beschleunigten Grundqualifikation oder im Rahmen der Weiterbildung stattgefunden hat,
 
@@ -331,7 +356,15 @@ b) Geburts- und Familienname, Vornamen, Tag und Ort der Geburt, akademischer Gra
 
 c) Zeitraum des Unterrichts und tatsächliche Dauer der Unterrichtsteilnahme,
 
-d) Angaben zu den vermittelten Unterkenntnisbereichen nach Anlage 1 der Berufskraftfahrerqualifikationsverordnung und zu anderen abgeschlossenen speziellen Maßnahmen im Sinne des § 12 Nummer 4,
+d) Angaben zu den vermittelten Unterkenntnisbereichen nach Anlage 1 der Berufskraftfahrerqualifikationsverordnung sowie zu anderen abgeschlossenen speziellen Maßnahmen im Sinne des § 12 Nummer 4, nämlich
+
+aa)  
+den Fachbereich der Maßnahme: Gefahrguttransport oder Tiertransport,
+
+bb)  
+die Geltungsdauer der durch die Maßnahme erworbenen Qualifikation und
+
+cc) die Stelle, die das Vorliegen der Maßnahme mitgeteilt hat,
 
 e) Name und Anschrift der prüfenden Stelle,
 
@@ -355,9 +388,17 @@ a) Name und Anschrift der Ausbildungsstätte sowie Angaben zur zuständigen Aner
 
 b) Geburts- und Familienname, Vornamen, Tag und Ort der Geburt, akademischer Grad und Geschlecht des Teilnehmers,
 
-c) Zeitraum des Unterrichts und tatsächliche Dauer der Unterrichtsteilnahme,
+c) Zeitraum und Art des Unterrichts sowie Dauer der tatsächlichen Teilnahme am Unterricht, aufgeschlüsselt nach Unterrichtsarten,
 
-d) Angaben zu den vermittelten Unterkenntnisbereichen nach Anlage 1 der Berufskraftfahrerqualifikationsverordnung und zum Vorliegen anderer abgeschlossener spezieller Maßnahmen im Sinne des § 12 Nummer 4,
+d) Angaben zu den vermittelten Unterkenntnisbereichen nach Anlage 1 der Berufskraftfahrerqualifikationsverordnung sowie zu anderen abgeschlossenen speziellen Maßnahmen im Sinne des § 12 Nummer 4, nämlich
+
+aa)  
+den Fachbereich der Maßnahme: Gefahrguttransport oder Tiertransport,
+
+bb)  
+die Geltungsdauer der durch die Maßnahme erworbenen Qualifikation und
+
+cc) die Stelle, die das Vorliegen der Maßnahme mitgeteilt hat,
 
 e) Seriennummer des aktuell gültigen Fahrerqualifizierungsnachweises, soweit ein solcher bereits ausgestellt wurde.
 
@@ -393,7 +434,11 @@ Der Hersteller übermittelt nach der Herstellung des Fahrerqualifizierungsnachwe
 
 (2) Im Fall einer Anrechnung anderer abgeschlossener Maßnahmen im Sinne des § 12 Nummer 4 übermitteln die nach Landesrecht zuständigen Behörden dem Kraftfahrt-Bundesamt im automatisierten Verfahren unverzüglich die von diesem nach § 14 Nummer 3 Buchstabe d und Nummer 4 Buchstabe d zu speichernden Daten.
 
-(3) Die nach Landesrecht zuständige Behörde für die Anerkennung von Ausbildungsstätten nach § 9 Absatz 1 teilt dem Kraftfahrt-Bundesamt unverzüglich alle in ihrem Zuständigkeitsbereich anerkannten Ausbildungsstätten mit, damit diese zur Übermittlung von Daten an das Kraftfahrt-Bundesamt zur Speicherung im Berufskraftfahrerqualifikationsregister zugelassen werden. Änderungen hinsichtlich der anerkannten Ausbildungsstätten teilt die nach Landesrecht zuständige Behörde dem Kraftfahrt-Bundesamt unverzüglich mit.
+(3) Die nach Landesrecht zuständige Behörde für die Anerkennung von Ausbildungsstätten nach § 9 Absatz 1 teilt dem Kraftfahrt-Bundesamt unverzüglich alle in ihrem Zuständigkeitsbereich anerkannten Ausbildungsstätten mit, damit diese zur Übermittlung von Daten an das Kraftfahrt-Bundesamt zur Speicherung im Berufskraftfahrerqualifikationsregister zugelassen werden. Änderungen hinsichtlich der anerkannten Ausbildungsstätten teilt die nach Landesrecht zuständige Behörde dem Kraftfahrt-Bundesamt unverzüglich mit. Im Berufskraftfahrerqualifikationsregister gespeicherte Daten nach § 14 Nummer 3 Buchstabe c oder d oder Nummer 4 Buchstabe c oder d, die unrichtig sind, sind durch die nach Landesrecht zuständige Behörde im automatisierten Verfahren unverzüglich zu stornieren, wenn
+
+1. die unrichtigen Daten von der anerkannten Ausbildungsstätte nicht in der ihr gesetzten Frist korrigiert worden sind oder
+
+2. die Anerkennung für die Ausbildungsstätte, die die Daten übermittelt hat, aufgehoben worden ist.
 
 (4) Die nach Landesrecht zuständige Behörde für die Aufsicht über die Industrie- und Handelskammern teilt dem Kraftfahrt-Bundesamt alle in ihrem Zuständigkeitsbereich tätigen Industrie- und Handelskammern mit, damit diese zur Übermittlung von Daten an das Kraftfahrt-Bundesamt zur Speicherung im Berufskraftfahrerqualifikationsregister zugelassen werden. Änderungen hinsichtlich der Industrie- und Handelskammern teilt die nach Landesrecht zuständige Behörde unverzüglich mit. Eine Mitteilung erfolgt nur, wenn die Industrie- und Handelskammer Prüfungen nach § 1 Absatz 3 und § 2 Absatz 7 der Berufskraftfahrerqualifikationsverordnung sowie nach § 71 Absatz 2 des Berufsbildungsgesetzes durchführt.
 
@@ -407,21 +452,39 @@ Das Kraftfahrt-Bundesamt ist befugt, außerhalb des Berufskraftfahrerqualifikati
 
 # § 21 – Datenübermittlung an inländische Behörden und Stellen
 
-Die im Berufskraftfahrerqualifikationsregister gespeicherten Daten dürfen durch Abruf im automatisierten Verfahren an die Behörden und Stellen übermittelt werden, die zuständig sind für
+(1) Die im Berufskraftfahrerqualifikationsregister gespeicherten Daten dürfen durch Abruf im automatisierten Verfahren an die Behörden und Stellen übermittelt werden, die zuständig sind für
 
 1. Verwaltungsmaßnahmen gegenüber Fahrern auf Grund dieses Gesetzes oder auf Grund der auf ihm beruhenden Rechtsvorschriften,
 
-2. die Durchführung der Aus- und Weiterbildung sowie für die Prüfung von Fahrern auf Grund dieses Gesetzes oder der auf ihm beruhenden Rechtsvorschriften,
+2. die Erteilung von Fahrerbescheinigungen nach § 7b Absatz 3 des Güterkraftverkehrsgesetzes,
 
-3. die Überwachung der anerkannten Ausbildungsstätten von Fahrern,
+3. die Durchführung der Aus- und Weiterbildung sowie für die Prüfung von Fahrern auf Grund dieses Gesetzes oder auf Grund der auf ihm beruhenden Rechtsvorschriften,
 
-4. Verkehrs-, Grenz- oder Straßenkontrollen gegenüber Fahrern,
+4. die Überwachung der anerkannten Ausbildungsstätten von Fahrern,
 
-5. die Verfolgung von Straftaten, die von Fahrern verübt worden sind, sowie die Vollstreckung oder den Vollzug von Strafen gegenüber Fahrern oder
+5. Verkehrs-, Grenz- oder Straßenkontrollen gegenüber Fahrern,
 
-6. die Verfolgung von Ordnungswidrigkeiten, die von Fahrern verübt worden sind, sowie die Vollstreckung von Bußgeldbescheiden gegen Fahrer und ihre Nebenfolgen nach diesem Gesetz.
+6. die Verfolgung von Straftaten, die von Fahrern verübt worden sind, sowie die Vollstreckung oder den Vollzug von Strafen gegenüber Fahrern oder
+
+7. die Verfolgung von Ordnungswidrigkeiten, die von Fahrern verübt worden sind, sowie die Vollstreckung von Bußgeldbescheiden gegen Fahrer und ihre Nebenfolgen nach diesem Gesetz.
 
 Die Daten dürfen übermittelt werden, soweit dies zur Erfüllung der in Satz 1 genannten Aufgaben erforderlich ist.
+
+(2) In den Fällen des Absatzes 1 Satz 1 Nummer 1, 2 oder 4 dürfen folgende Daten aus dem Berufskraftfahrerqualifikationsregister übermittelt werden:
+
+1. Geburts- und Familienname, Vornamen, Tag und Ort der Geburt, akademischer Grad und Geschlecht des Fahrers,
+
+2. die Daten zum Fahrerqualifizierungsnachweis nach § 14 Nummer 1 Buchstabe b bis i,
+
+3. die Daten zur Grundqualifikation nach § 14 Nummer 2 Buchstabe b bis e,
+
+4. die Daten zur beschleunigten Grundqualifikation nach § 14 Nummer 3 Buchstabe a und c bis h,
+
+5. die Daten zur Weiterbildung nach § 14 Nummer 4 Buchstabe a und c bis e.
+
+(3) In den Fällen des Absatzes 1 Satz 1 Nummer 3 dürfen die in Absatz 2 Nummer 1, 3, 4 und 5 genannten Daten aus dem Berufskraftfahrerqualifikationsregister übermittelt werden.
+
+(4) In den Fällen des Absatzes 1 Satz 1 Nummer 5, 6 oder 7 dürfen die in Absatz 2 Nummer 1 und 2 genannten Daten aus dem Berufskraftfahrerqualifikationsregister übermittelt werden.
 
 # § 22 – Datenübermittlung an Behörden in den anderen Mitgliedstaaten der Europäischen Union und an Behörden in den Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 
@@ -431,7 +494,7 @@ Die Daten dürfen übermittelt werden, soweit dies zur Erfüllung der in Satz 1 
 
 2. für Verwaltungsmaßnahmen auf Grund dieses Gesetzes sowie auf Grund der Berufskraftfahrerqualifikationsverordnung.
 
-(2) Zur Erfüllung ihrer Aufgaben dürfen die in § 21 Satz 1 Nummer 4 genannten Behörden die in Absatz 1 erster Halbsatz genannten Daten an die zuständigen Behörden in den anderen Mitgliedstaaten der Europäischen Union und an die zuständigen Behörden in den Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum übermitteln.
+(2) Zur Erfüllung ihrer Aufgaben dürfen die in § 21 Absatz 1 Satz 1 Nummer 5 genannten Behörden die in Absatz 1 erster Halbsatz genannten Daten an die zuständigen Behörden in den anderen Mitgliedstaaten der Europäischen Union und an die zuständigen Behörden in den Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum übermitteln.
 
 (3) Die zuständigen Behörden in den anderen Mitgliedstaaten der Europäischen Union und die zuständigen Behörden in den Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum sind darauf hinzuweisen, dass sie die übermittelten Daten nur zu dem Zweck erheben, speichern und verwenden dürfen, zu dessen Erfüllung sie ihnen übermittelt werden.
 
@@ -493,7 +556,7 @@ Die Aufzeichnungen dürfen nur zur Datenschutzkontrolle, zur Datensicherung oder
 
 # § 27 – Verordnungsermächtigung
 
-(1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates Regelungen zu treffen über
+(1) Das Bundesministerium für Verkehr wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und dem Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend durch Rechtsverordnung mit Zustimmung des Bundesrates Regelungen zu treffen über
 
 1. die näheren Einzelheiten des Erwerbs der Grundqualifikation, der beschleunigten Grundqualifikation und der Weiterbildung, insbesondere über
 
@@ -507,7 +570,13 @@ b) die Art und Weise des Unterrichts und der Prüfungen und die Ausstellung, Auf
 
 4. die Überwachung der anerkannten Ausbildungsstätten und das Überwachungsverfahren;
 
-5. die Fahrerqualifizierungsnachweise;
+5. die Fahrerqualifizierungsnachweise, insbesondere über
+
+a) die Voraussetzungen für die Ausstellung,
+
+b) die im Zusammenhang mit der Ausstellung erforderliche Erteilung von Auskünften aus dem Berufskraftfahrerqualifikationsregister und dem Zentralen Fahrerlaubnisregister an die nach Landesrecht zuständige Behörde und
+
+c) das Verwaltungsverfahren;
 
 6. Ausnahmen von diesem Gesetz oder den auf Grund der Nummern 1 bis 5 erlassenen Rechtsverordnungen, soweit die Ausnahmen zur Durchführung von Rechtsakten der Europäischen Union zur Bewältigung krisenhafter Situationen erforderlich sind.
 
@@ -525,11 +594,11 @@ b) die Art und Weise des Unterrichts und der Prüfungen und die Ausstellung, Auf
 
 2. entgegen § 8 oder § 30 Absatz 8 einen Nachweis nicht mitführt oder nicht, nicht richtig oder nicht rechtzeitig aushändigt,
 
-3. entgegen § 9 Absatz 4 Unterricht anbietet oder durchführt,
+3. entgegen § 9 Absatz 3 oder 4 Unterricht anbietet oder durchführt,
 
 4. einer vollziehbaren Anordnung nach § 10 Absatz 4 zuwiderhandelt,
 
-5. entgegen § 11 Absatz 4 Satz 1 eine Anzeige nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erstattet,
+5. entgegen § 11 Absatz 4 Satz 1 oder 2 eine Anzeige nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erstattet,
 
 6. entgegen § 19 Daten nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig übermittelt oder
 
@@ -549,23 +618,35 @@ oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwi
 
 # § 30 – Übergangsvorschriften
 
-(1) Die bis zum 2. Dezember 2020 nach § 7 Absatz 1 Nummer 1 bis 4 des Berufskraftfahrer-Qualifikations-Gesetzes vom 14. August 2006 (BGBl. I S. 1958), das zuletzt durch Artikel 3 des Gesetzes vom 30. Juni 2017 (BGBl. I S. 2162) geändert worden ist, gesetzlich anerkannten Ausbildungsstätten gelten bis zu ihrer Anerkennung durch die nach Landesrecht zuständige Behörde als anerkannt im Sinne des § 9 Absatz 1, längstens jedoch bis zum 2. Dezember 2022.
+(1) (weggefallen)
 
 (2) Der Eintrag der Schlüsselzahl 95 nach Anlage 9 der Fahrerlaubnis-Verordnung in einem deutschen Führerschein zum Nachweis der Grundqualifikation, der beschleunigten Grundqualifikation und der Weiterbildung behält bis zu seinem Ablauf seine Gültigkeit.
 
-(3) § 10 Absatz 2 Nummer 2 findet bis zur Inbetriebnahme der Schnittstelle für die anerkannten Ausbildungsstätten zum Berufskraftfahrerqualifikationsregister mit der Maßgabe Anwendung, dass an die Stelle der Einträge in das Berufskraftfahrerqualifikationsregister die Ausstellung von Teilnahmebescheinigungen tritt.
+(3) (weggefallen)
 
-(4) § 7 Absatz 1 findet bis zur Inbetriebnahme des Berufskraftfahrerqualifikationsregisters mit der Maßgabe Anwendung, dass durch die nach Landesrecht zuständige Behörde statt der Ausstellung des Fahrerqualifizierungsnachweises der Eintrag der Schlüsselzahl 95 nach Anlage 9 der Fahrerlaubnis-Verordnung in den Führerschein vorgenommen wird, sofern ein deutscher Führerschein erteilt werden kann.
+(4) (weggefallen)
 
 (5) Bescheinigungen zum Nachweis der Grundqualifikation, der beschleunigten Grundqualifikation und der Weiterbildung nach dem Muster der Anlage 3 der Berufskraftfahrer-Qualifikations-Verordnung vom 22. August 2006 (BGBl. I S. 2108), die zuletzt durch Artikel 7 der Verordnung vom 2. Oktober 2019 (BGBl. I S. 1416) geändert worden ist, für Fahrer im Sinne des § 1 Absatz 1 Satz 1 Nummer 3, die Fahrten im Personenkraftverkehr durchführen, behalten ihre Gültigkeit.
 
-(6) Fahrerbescheinigungen, auf denen die Schlüsselzahl 95 nicht eingetragen ist und die gemäß Artikel 5 der Verordnung (EG) Nr. 1072/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 über gemeinsame Regeln für den Zugang zum Markt des grenzüberschreitenden Güterkraftverkehrs (ABl. L 300 vom 14.11.2009, S. 72), insbesondere gemäß dessen Absatz 7, bis zum 2. Dezember 2020 zum Nachweis der Grundqualifikation und der Weiterbildung ausgestellt wurden, werden bis zum Ablauf ihrer Gültigkeit anerkannt.
+(6) Fahrerbescheinigungen, auf denen die Schlüsselzahl 95 nicht eingetragen ist und die gemäß Artikel 5 der Verordnung (EG) Nr. 1072/2009 in der Fassung vom 15. Juli 2020, insbesondere gemäß dessen Absatz 7, bis zum 2. Dezember 2020 zum Nachweis der Grundqualifikation und der Weiterbildung ausgestellt wurden, werden bis zum Ablauf ihrer Gültigkeit anerkannt.
 
 (7) Vor dem 2. Dezember 2020 ausgestellte Fahrerqualifizierungsnachweise gelten bis zum Ablauf ihrer Gültigkeit.
 
 (8) Fahrer haben die Nachweise nach den Absätzen 5 bis 7 bei der Durchführung von Fahrten mitzuführen und den Kontrollberechtigten auf Verlangen zur Prüfung auszuhändigen.
 
-(9) (weggefallen)
+(9) § 1 Absatz 2 Nummer 8 und Absatz 3 ist bis zum Ablauf des 31. Dezember 2027 anzuwenden.
+
+(10) Bis zum Ablauf des 1. August 2026
+
+1. ist § 11 Absatz 4 Satz 1 Nummer 1a und 5 nicht anzuwenden,
+
+2. sind § 12 Nummer 3 und § 14 Nummer 4 Buchstabe c in ihrer bis zum Ablauf des 5. Februar 2026 geltenden Fassung anzuwenden.
+
+(11) Bis zum Ablauf des 1. Mai 2026
+
+1. ist § 18 Absatz 3 Satz 3 nicht anzuwenden,
+
+2. ist § 21 Absatz 2 mit der Maßgabe anzuwenden, dass die in § 21 Absatz 2 genannten Daten an die nach § 21 Absatz 1 Satz 1 Nummer 4 zuständige Stelle nicht übermittelt werden dürfen.
 
 # Anlage – (zu § 1 Absatz 3 Nummer 2)Liste über die Zuordnung der Stadt- und Landkreise zum städtischen oder ländlichen Raum
 

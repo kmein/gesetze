@@ -3827,6 +3827,8 @@ Unternehmensrechtliche Verfahren sind die nach
 
 5. § 26 Abs. 1 und 4 sowie § 206 Satz 2 und 3 des Umwandlungsgesetzes,
 
+5a. § 6b Absatz 1 bis 4 sowie den §§ 6d und 6e des Außenwirtschaftsgesetzes,
+
 6. § 66 Abs. 2, 3 und 5, § 71 Abs. 3 sowie § 74 Abs. 2 und 3 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung,
 
 7. § 45 Abs. 3, den §§ 64b, 83 Abs. 3, 4 und 5 sowie § 93 des Genossenschaftsgesetzes,

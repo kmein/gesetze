@@ -415,7 +415,7 @@ In den Fällen des § 4 Absatz 4 des Implantateregistergesetzes übermittelt die
 
 (1) In den Fällen des § 35 Absatz 1 des Implantateregistergesetzes vermindert sich der Anspruch einer verantwortlichen Gesundheitseinrichtung auf Vergütung der meldepflichtigen implantatbezogenen Maßnahme um 100 Euro.
 
-(2) Die Vergütungsminderung nach Absatz 1 unterbleibt bei implantatbezogenen Maßnahmen in Bezug auf Endoprothesen an Hüfte und Knie sowie in Bezug auf Aortenklappen, die bis zum 31. Dezember 2025 durchgeführt werden, wenn die verantwortliche Gesundheitseinrichtung ausschließlich ihrer Verpflichtung nicht nachkommt, der Vertrauensstelle den unveränderbaren Teil der Krankenversichertennummer nach § 290 Absatz 1 Satz 2 des Fünften Buches Sozialgesetzbuch zu übermitteln, und die betroffene Patientin oder der betroffene Patient bei einem privaten Krankenversicherungsunternehmen oder einem sonstigen Kostenträger versichert ist.
+(2) Die Vergütungsminderung nach Absatz 1 unterbleibt bei implantatbezogenen Maßnahmen in Bezug auf Endoprothesen an Hüfte und Knie sowie in Bezug auf Aortenklappen, wenn die verantwortliche Gesundheitseinrichtung ausschließlich ihrer Verpflichtung nicht nachkommt, der Vertrauensstelle den unveränderbaren Teil der Krankenversichertennummer nach § 290 Absatz 1 Satz 2 des Fünften Buches Sozialgesetzbuch zu übermitteln, und die betroffene Patientin oder der betroffene Patient bei einem privaten Krankenversicherungsunternehmen oder einem sonstigen Kostenträger versichert ist.
 
 # § 24 – Inkrafttreten
 

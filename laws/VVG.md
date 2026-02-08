@@ -1279,6 +1279,8 @@ Eine Neufestsetzung der Prämie ist insoweit ausgeschlossen, als die Versicherun
 
 (4) Bei einer Lebensversicherung, die vom Arbeitgeber zugunsten seiner Arbeitnehmerinnen und Arbeitnehmer abgeschlossen worden ist, hat der Versicherer die versicherte Person über die Bestimmung der Zahlungsfrist nach § 38 Abs. 1 und die eintretende Umwandlung der Versicherung in Textform zu informieren und ihnen eine Zahlungsfrist von mindestens zwei Monaten einzuräumen.
 
+(+++ § 166 Abs. 4 in der bis 30.6.2026 geltenden Fassung: Zur Anwendung vgl. Art. 4a VVGEG +++)
+
 # § 167 – Umwandlung zur Erlangung eines Pfändungsschutzes
 
 Der Versicherungsnehmer einer Lebensversicherung kann jederzeit für den Schluss der laufenden Versicherungsperiode die Umwandlung der Versicherung in eine Versicherung verlangen, die den Anforderungen des § 851c Abs. 1 der Zivilprozessordnung entspricht. Die Kosten der Umwandlung hat der Versicherungsnehmer zu tragen.
@@ -1697,9 +1699,13 @@ Der Urkunde nach § 4 oder § 55 gleichgestellt ist eine elektronische Transport
 
 (3) Sind für Versicherungen mit kleineren Beträgen im Sinn von Absatz 1 Nr. 3 und 4 abweichende Bestimmungen getroffen, kann deren Wirksamkeit nicht unter Berufung darauf angefochten werden, dass es sich nicht um Versicherungen mit kleineren Beträgen handele.
 
+(+++ § 211 Abs. 1 in der bis 30.6.2026 geltenden Fassung: Zur Anwendung vgl. Art. 4a VVGEG +++)
+
 # § 212 – Fortsetzung der Lebensversicherung nach der Elternzeit
 
 Besteht während einer Elternzeit ein Arbeitsverhältnis ohne Entgelt gemäß § 1a Abs. 4 des Betriebsrentengesetzes fort und wird eine vom Arbeitgeber zugunsten der Arbeitnehmerin oder des Arbeitnehmers abgeschlossene Lebensversicherung wegen Nichtzahlung der während der Elternzeit fälligen Prämien in eine prämienfreie Versicherung umgewandelt, kann die Arbeitnehmerin oder der Arbeitnehmer innerhalb von drei Monaten nach der Beendigung der Elternzeit verlangen, dass die Versicherung zu den vor der Umwandlung vereinbarten Bedingungen fortgesetzt wird.
+
+(+++ § 212 in der bis 30.6.2026 geltenden Fassung: Zur Anwendung vgl. Art. 4a VVGEG +++)
 
 # § 213 – Erhebung personenbezogener Gesundheitsdaten bei Dritten
 

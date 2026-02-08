@@ -9591,8 +9591,6 @@ Das Revisionsgericht ist an die Zulassung durch das Berufungsgericht gebunden.
 
 (9) Hat das Berufungsgericht den Anspruch des Beschwerdeführers auf rechtliches Gehör in entscheidungserheblicher Weise verletzt, so kann das Revisionsgericht abweichend von Absatz 8 in dem der Beschwerde stattgebenden Beschluss das angefochtene Urteil aufheben und den Rechtsstreit zur neuen Verhandlung und Entscheidung an das Berufungsgericht zurückverweisen.
 
-(+++ § 544: Zur Anwendung vgl. § 26 Nr. 8 ZPOEG +++)
-
 # § 545 – Revisionsgründe
 
 (1) Die Revision kann nur darauf gestützt werden, dass die Entscheidung auf einer Verletzung des Rechts beruht.

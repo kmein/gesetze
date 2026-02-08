@@ -245,6 +245,14 @@ soweit das Bundesministerium der Finanzen die Aufgaben nach den Nummern 1 und 2 
 
 (12) Das Zollkriminalamt kann auf Ersuchen von Finanzbehörden, Staatsanwaltschaften und Gerichten kriminaltechnische Gutachten erstellen.
 
+(13) Dem Zollkriminalamt obliegt es, als nationale Zentralstelle auf dem Gebiet der strafrechtlichen Sanktionsdurchsetzung darauf hinzuwirken, dass sich Strafverfolgungsbehörden und die für die Durchsetzung der vom Rat der Europäischen Union im Bereich der Gemeinsamen Außen- und Sicherheitspolitik beschlossenen wirtschaftlichen Sanktionsmaßnahmen zuständigen Behörden im Rahmen ihrer jeweiligen Zuständigkeiten und Befugnisse in Bezug auf das Sanktionsstrafrecht koordinieren und zusammenarbeiten. Dies umfasst insbesondere, dass die nationale Zentralstelle
+
+1. auf die Verständigung über gemeinsame Prioritäten und auf ein gemeinsames Verständnis der Verbindung zwischen strafrechtlicher und verwaltungsrechtlicher Durchsetzung hinwirkt,
+
+2. für strategische Zwecke der Auswertung und Analyse von Erkenntnissen aus strafrechtlichen Ermittlungen den Informationsaustausch der ermittlungsführenden Behörden im Rahmen ihrer jeweiligen Befugnisse fördert und
+
+3. bei einzelnen strafrechtlichen Ermittlungen berät.
+
 # § 4 – Verhütung und Verfolgung von Straftaten und Ordnungswidrigkeiten durch das Zollkriminalamt
 
 (1) Das Zollkriminalamt kann die Aufgaben der Zollfahndungsämter auf dem Gebiet der Strafverfolgung wahrnehmen und die Ermittlungen selbst durchführen, wenn dies in Anbetracht der Bedeutung des Sachverhaltes geboten erscheint, ein zuständiges Zollfahndungsamt darum ersucht oder der Generalbundesanwalt beim Bundesgerichtshof einen Auftrag erteilt.
@@ -353,6 +361,8 @@ a) öffentlichen Stellen anderer Staaten, zwischenstaatlichen Stellen oder Stell
 
 b) den für den Staatsschutz zuständigen Stellen des Bundes und der Länder verkehrt (§ 3 Absatz 7 Satz 1 Nummer 3),
 
+4. auf dem Gebiet strafrechtlicher Sanktionsdurchsetzung auf die Koordinierung und Zusammenarbeit der Strafverfolgungsbehörden und der für die Durchsetzung der vom Rat der Europäischen Union im Bereich der Gemeinsamen Außen- und Sicherheitspolitik beschlossenen wirtschaftlichen Sanktionsmaßnahmen zuständigen Behörden im Rahmen ihrer jeweiligen Zuständigkeit und Befugnisse in Bezug auf das Sanktionsstrafrecht hinwirkt (§ 3 Absatz 13),
+
 Auskunft verlangen von demjenigen, der geschäftsmäßig Telekommunikationsdienste erbringt oder daran mitwirkt, über Bestandsdaten gemäß § 3 Nummer 6 des Telekommunikationsgesetzes und über die nach § 172 des Telekommunikationsgesetzes erhobenen Daten (§ 174 Absatz 1 Satz 1 des Telekommunikationsgesetzes), und von demjenigen, der geschäftsmäßig eigene oder fremde digitale Dienste nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes zur Nutzung bereithält oder den Zugang zur Nutzung vermittelt, über Bestandsdaten gemäß § 2 Absatz 2 Nummer 2 des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes (§ 22 Absatz 1 Satz 1 des Telekommunikation-Telemedien-Datenschutz-Gesetzes). Die Auskunft nach Satz 1 darf nur verlangt werden, sofern
 
 1. im Einzelfall zureichende tatsächliche Anhaltspunkte für eine Straftat vorliegen und die zu erhebenden Daten erforderlich sind,
@@ -397,7 +407,7 @@ Die Auskunft nach Absatz 1 anhand einer zu einem bestimmten Zeitpunkt zugewiesen
 
 # § 11 – Daten zu Verurteilten, Beschuldigten, Tatverdächtigen und sonstigen Anlasspersonen
 
-(1) Das Zollkriminalamt kann zur Erfüllung seiner Aufgaben nach § 3 Absatz 1, 2 und 4, jeweils auch in Verbindung mit § 3 Absatz 11, personenbezogene Daten weiterverarbeiten von
+(1) Das Zollkriminalamt kann zur Erfüllung seiner Aufgaben nach § 3 Absatz 1, 2, 4 und 13, jeweils auch in Verbindung mit § 3 Absatz 11, personenbezogene Daten weiterverarbeiten von
 
 1. Verurteilten,
 
@@ -451,7 +461,7 @@ und sich aus den Gründen der Entscheidung ergibt, dass die betroffene Person di
 
 # § 12 – Daten zu anderen Personen
 
-(1) Soweit dies zur Verhütung oder zur Vorsorge für die künftige Verfolgung einer Straftat mit erheblicher Bedeutung erforderlich ist, kann das Zollkriminalamt zur Erfüllung seiner Aufgaben nach § 3 Absatz 1, 2 und 4, jeweils auch in Verbindung mit § 3 Absatz 11, personenbezogene Daten von denjenigen Personen weiterverarbeiten, bei denen tatsächliche Anhaltspunkte dafür vorliegen, dass
+(1) Soweit dies zur Verhütung oder zur Vorsorge für die künftige Verfolgung einer Straftat mit erheblicher Bedeutung erforderlich ist, kann das Zollkriminalamt zur Erfüllung seiner Aufgaben nach § 3 Absatz 1, 2, 4 und 13, jeweils auch in Verbindung mit § 3 Absatz 11, personenbezogene Daten von denjenigen Personen weiterverarbeiten, bei denen tatsächliche Anhaltspunkte dafür vorliegen, dass
 
 1. sie bei einer künftigen Strafverfolgung als Zeugen in Betracht kommen,
 
@@ -467,7 +477,7 @@ und sich aus den Gründen der Entscheidung ergibt, dass die betroffene Person di
 
 # § 13 – Daten zur Beobachtung bestimmter Verkehre
 
-(1) Das Zollkriminalamt kann, soweit es zur Erfüllung seiner Aufgaben nach § 3 Absatz 1 und 2, jeweils auch in Verbindung mit § 3 Absatz 11, erforderlich ist, personenbezogene Daten von Personen, die am innerstaatlichen, grenzüberschreitenden und internationalen Waren-, Kapital- und Dienstleistungsverkehr teilnehmen, verarbeiten. Das Zollkriminalamt kann hierzu verarbeiten:
+(1) Das Zollkriminalamt kann, soweit es zur Erfüllung seiner Aufgaben nach § 3 Absatz 1, 2 und 13, jeweils auch in Verbindung mit § 3 Absatz 11, erforderlich ist, personenbezogene Daten von Personen, die am innerstaatlichen, grenzüberschreitenden und internationalen Waren-, Kapital- und Dienstleistungsverkehr teilnehmen, verarbeiten. Das Zollkriminalamt kann hierzu verarbeiten:
 
 1. Angaben zur betroffenen Person,
 

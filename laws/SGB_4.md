@@ -3058,8 +3058,6 @@ Dies gilt auch für Erziehungsrenten, wenn der geschiedene Ehegatte vor dem 1. J
 
 (2) § 7c Absatz 1 findet nur auf Wertguthabenvereinbarungen Anwendung, die nach dem 1. Januar 2009 geschlossen worden sind. Wertguthaben aufgrund einer vor dem 1. Januar 2009 geschlossenen Vereinbarung können neben einer Inanspruchnahme einer Rente wegen Alters bis zum Ablauf des Kalendermonats des Erreichens der Regelaltersgrenze nach dem Sechsten Buch in Anspruch genommen werden.
 
-(3) (weggefallen)
-
 # § 116a – (weggefallen)
 
 # § 117 – Verwaltungsausgaben der knappschaftlichen Krankenversicherung der Rentner

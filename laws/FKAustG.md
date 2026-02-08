@@ -19,6 +19,8 @@
 
 (2) Für die Durchführung der Melde- und Sorgfaltspflichten gelten die in § 19 angeführten Begriffsbestimmungen und die sonstigen Begriffsbestimmungen nach § 20.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 252 +++)
+
 # § 2 – Gemeinsamer Meldestandard
 
 Gemäß den geltenden Melde- und Sorgfaltspflichten und ergänzenden Melde- und Sorgfaltsvorschriften tauscht das Bundeszentralamt für Steuern innerhalb der festgelegten Frist nach § 5 Absatz 2 in Verbindung mit § 27 mit der zuständigen Behörde jedes anderen meldepflichtigen Staates die ihm hierzu von den Finanzinstituten nach diesem Gesetz übermittelten Daten aus; diese sind:
@@ -893,6 +895,8 @@ ee)
 nach dem geltenden Recht des Ansässigkeitsstaats oder den Gründungsunterlagen des NFE müssen bei seiner Abwicklung oder Auflösung alle seine Vermögenswerte an einen staatlichen Rechtsträger oder eine andere gemeinnützige Organisation verteilt werden oder fallen der Regierung des Ansässigkeitstaats des NFE oder einer seiner Gebietskörperschaften anheim;
 
 49. Informationsaustausch im Sinne dieses Gesetzes ist die systematische Übermittlung zuvor festgelegter Informationen über in anderen meldepflichtigen Staaten ansässige Personen an den entsprechenden Ansässigkeitsstaat ohne dessen vorheriges Ersuchen in regelmäßigen, im Voraus bestimmten Abständen.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 252 +++)
 
 # § 20 – Sonstige Begriffsbestimmungen
 

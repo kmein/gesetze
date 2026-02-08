@@ -3,6 +3,8 @@
  
 # Inhaltsübersicht
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 351 +++)
+
 # § 1 – Zweck und Ziel des Gesetzes
 
 (1) Zweck dieses Gesetzes ist es, insbesondere im Interesse des Klima- und Umweltschutzes die Nutzung der Windenergie auf See insbesondere unter Berücksichtigung des Naturschutzes, der Schifffahrt sowie der Offshore-Anbindungsleitungen auszubauen.
@@ -196,6 +198,8 @@ b) im Netzentwicklungsplan vorbehaltlos bestätigt sind,
 (5) Im Flächenentwicklungsplan werden die Gebiete sowie die Flächen und die zeitliche Reihenfolge nach Absatz 1 Nummer 3 und Absatz 4 so festgelegt, dass die Vorgaben des § 2a eingehalten werden, wobei Abweichungen zulässig sind, solange die Ausbauziele nach § 1 Absatz 2 erreicht werden. Die Festlegungen im Flächenentwicklungsplan stellen sicher, dass in den Gebotsterminen ab dem Jahr 2026 Flächen ausgeschrieben werden, die einen stetigen Zubau gewährleisten. Zwischen dem Kalenderjahr der Ausschreibung für eine Fläche und dem Kalenderjahr der Inbetriebnahme der bezuschlagten Windenergieanlagen auf See auf dieser Fläche müssen mindestens so viele Monate liegen, dass die Realisierungsfristen nach § 81 eingehalten werden können.
 
 (6) Eine Festlegung von Gebieten oder Flächen in einem nach § 57 des Bundesnaturschutzgesetzes ausgewiesenen Schutzgebiet darf erst erfolgen, wenn die Ziele nach § 1 Absatz 2 Satz 1 ohne diese Gebiete oder Flächen nicht erreicht werden können.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 351 +++)
 
 # § 6 – Zuständigkeit und Verfahren zur Erstellung des Flächenentwicklungsplans
 
@@ -1024,6 +1028,7 @@ b) auf sämtliche Rechte an den Untersuchungsergebnissen und Unterlagen nach Num
 
 (3) Für das Planfeststellungsverfahren sind die §§ 72 bis 78 des Verwaltungsverfahrensgesetzes anzuwenden, soweit dieses Gesetz nichts anderes bestimmt. § 36 Absatz 2 und 3 des Verwaltungsverfahrensgesetzes ist anzuwenden.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 351 +++)  
 (+++ Teil 4 (§§ 65 bis 92): Zur Anwendung vgl. § 65 Abs. 1 +++)  
 (+++ Teil 4 (§§ 65 bis 92 außer Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 95 Abs. 3 Satz 2 +++)  
 (+++ Teil 4 (§§ 65 bis 92 außer § 67 u. Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 102 Abs. 1 Satz 2 +++)
@@ -1073,7 +1078,8 @@ b) auf sämtliche Rechte an den Untersuchungsergebnissen und Unterlagen nach Num
 
 (+++ Teil 4 (§§ 65 bis 92): Zur Anwendung vgl. § 65 Abs. 1 +++)  
 (+++ Teil 4 (§§ 65 bis 92 außer Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 95 Abs. 3 Satz 2 +++)  
-(+++ Teil 4 (§§ 65 bis 92 außer § 67 u. Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 102 Abs. 1 Satz 2 +++)
+(+++ Teil 4 (§§ 65 bis 92 außer § 67 u. Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 102 Abs. 1 Satz 2 +++)  
+(+++ § 68 Abs. 2: Zur Anwendung vgl. § 70a Abs. 1 Satz 2 +++)
 
 # § 69 – Planfeststellungsbeschluss, Plangenehmigung
 
@@ -1160,7 +1166,9 @@ auf Vorschlag oder mit Zustimmung des Trägers des Vorhabens und auf dessen Kost
 (+++ Teil 4 (§§ 65 bis 92): Zur Anwendung vgl. § 65 Abs. 1 +++)  
 (+++ Teil 4 (§§ 65 bis 92 außer Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 95 Abs. 3 Satz 2 +++)  
 (+++ Teil 4 (§§ 65 bis 92 außer § 67 u. Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 102 Abs. 1 Satz 2 +++)  
+(+++ § 69 Abs. 3 Satz 1 Nr 1: Zur Anwendung vgl. § 70a Abs. 2 Satz 6 u. § 70b Abs. 1 Satz 4 +++)  
 (+++ § 69 Abs. 3 Satz 3 u. Abs. 6: zur Anwendung vgl. § 95 Abs. 3 Satz 1 +++)  
+(+++ § 69 Abs. 9: Zur Anwendung vgl. § 102 Abs. 7 Satz 1 +++)  
 (+++ § 69 Abs. 10: Zur Anwendung vgl. § 71 Satz 7 +++)
 
 # § 70 – Plangenehmigung
@@ -1174,7 +1182,8 @@ auf Vorschlag oder mit Zustimmung des Trägers des Vorhabens und auf dessen Kost
 (+++ Teil 4 (§§ 65 bis 92): Zur Anwendung vgl. § 65 Abs. 1 +++)  
 (+++ Teil 4 (§§ 65 bis 92 außer Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 95 Abs. 3 Satz 2 +++)  
 (+++ Teil 4 (§§ 65 bis 92 außer § 67 u. Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 102 Abs. 1 Satz 2 +++)  
-(+++ § 70 Abs. 4: Zur Anwendung vgl. § 69 Abs. 11 +++)
+(+++ § 70 Abs. 2: Zur Anwendung vgl. § 70a Abs. 1 Satz 3 +++)  
+(+++ § 70 Abs. 3: Zur Anwendung vgl. § 69 Abs. 11 +++)
 
 # § 70a – Plangenehmigung für die Errichtung und den Betrieb von Windenergieanlagen auf See auf Beschleunigungsflächen
 
@@ -1202,6 +1211,10 @@ Satz 1 Nummer 1 ist nicht für Windenergieanlagen auf See anzuwenden, deren Erri
 
 2. liegt keine Schädigung nach § 19 des Bundesnaturschutzgesetzes vor.
 
+(+++ § 70a: Zur Anwendung vgl. § 102 Abs. 6 Satz 3 +++)  
+(+++ § 70a Abs. 1 Satz 1 u. 2: Zur Anwendung vgl. § 70b Abs. 1 Satz 12 +++)  
+(+++ § 70a Abs. 3 Satz 1 u. 3 bis 5: Zur Anwendung vgl. § 70b Abs. 3 Satz 2 +++)
+
 # § 70b – Vorhaben in Infrastrukturgebieten
 
 (1) Bei der Zulassung und dem Betrieb von Offshore-Anbindungsleitungen, deren Trassen oder Trassenkorridore sowie Konverterplattformstandorte nach dem 19. November 2023 im Flächenentwicklungsplan festgelegt wurden und in Infrastrukturgebieten nach § 12j des Energiewirtschaftsgesetzes liegen, ist abweichend von § 44 Absatz 1 des Bundesnaturschutzgesetzes keine artenschutzrechtliche Prüfung durchzuführen und abweichend von § 34 des Bundesnaturschutzgesetzes von einer Verträglichkeitsprüfung abzusehen. Die Anforderungen nach sonstigen Vorschriften des Fachrechts bleiben unberührt. Absatz 3 bleibt unberührt. § 69 Absatz 3 Satz 1 Nummer 1 ist mit der Maßgabe anzuwenden, dass Auswirkungen auf die Erhaltungsziele nach § 7 Absatz 1 Nummer 9 des Bundesnaturschutzgesetzes und auf die besonders geschützten Arten nach § 7 Absatz 2 Nummer 13 des Bundesnaturschutzgesetzes nicht zu betrachten sind. Das Bundesamt für Seeschifffahrt und Hydrographie ordnet an, dass verhältnismäßige Minderungsmaßnahmen nach § 12j Absatz 7 des Energiewirtschaftsgesetzes und Maßnahmen, einschließlich Maßnahmen nach Regeln, aus dem Flächenentwicklungsplan nach § 5 Absatz 2c Satz 1 zeitnah durchzuführen sind, um die Einhaltung der Vorschriften der §§ 34 und 44 Absatz 1 des Bundesnaturschutzgesetzes zu gewährleisten. Falls durch Maßnahmen nach Satz 5 eine erhebliche Umweltauswirkung nicht angemessen vermindert werden kann, hat der Träger des Vorhabens einen finanziellen Ausgleich zu zahlen. Die Zahlung ist von der zuständigen Behörde zusammen mit der Zulassungsentscheidung als einmalig zu leistender Betrag festzusetzen. Die Höhe der Zahlung beträgt 5 000 bis 17 500 Euro je angefangenem Kilometer Trassenlänge. Sie ist von dem Träger des Vorhabens als zweckgebundene Abgabe an den Bund zu leisten. Die Mittel werden vom Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit bewirtschaftet. Sie sind für Maßnahmen nach § 45d Absatz 1 des Bundesnaturschutzgesetzes zu verwenden, für die nicht bereits nach anderen Vorschriften eine rechtliche Verpflichtung besteht. § 70a Absatz 1 Satz 1 und 2 ist entsprechend anzuwenden.
@@ -1221,6 +1234,8 @@ Satz 1 Nummer 1 ist nicht für Windenergieanlagen auf See anzuwenden, deren Erri
 2. liegt keine Schädigung nach § 19 des Bundesnaturschutzgesetzes vor.
 
 (7) Die Absätze 1 bis 6 sind nicht anzuwenden, wenn der Antrag auf Planfeststellung oder Plangenehmigung für Offshore-Anbindungsleitungen in der ausschließlichen Wirtschaftszone vor der Ausweisung der Infrastrukturgebiete im Infrastrukturgebieteplan nach § 12j des Energiewirtschaftsgesetzes gestellt wurde.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 351 +++)
 
 # § 71 – Vorläufige Anordnung
 
@@ -1259,6 +1274,8 @@ Ist das Planfeststellungsverfahren oder das Plangenehmigungsverfahren eingeleite
 # § 72b – Ausnahmeregelung nach Artikel 6 der Verordnung (EU) 2024/1991
 
 Vorhaben nach § 65 Absatz 1 sind nach Artikel 6 Absatz 1 Satz 2 der Verordnung (EU) 2024/1991 von der Anforderung ausgenommen, dass keine weniger schädlichen Alternativlösungen nach Artikel 5 Absatz 11 und 12 der Verordnung (EU) 2024/1991 zur Verfügung stehen, sofern eine der in Artikel 6 Absatz 1 Satz 2 der Verordnung (EU) 2024/1991 genannten Prüfungen durchgeführt wurde. Als Prüfung im Sinne von Artikel 6 Absatz 1 Satz 2 Buchstabe a der Verordnung (EU) 2024/1991 gilt die Strategische Umweltprüfung. Als Prüfung im Sinne von Artikel 6 Absatz 1 Satz 2 Buchstabe b der Verordnung (EU) 2024/1991 gilt die Umweltverträglichkeitsprüfung.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 351 +++)
 
 # § 73 – Veränderungssperre
 

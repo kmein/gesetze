@@ -723,9 +723,13 @@ kann den Eigenmitteln nur in den Grenzen des Satzes 2 zugerechnet werden. Die Zu
 
 (2) Der Rechnungszins zur Verrentung des bei Rentenbeginn vorhandenen Versorgungskapitals darf nur insoweit vorsichtiger gewählt werden, als sich für das Versorgungsverhältnis bei entsprechender Anwendung von § 31 Absatz 2 ein Kapitaldeckungsgrad ergibt, der 125 Prozent nicht übersteigt.
 
+(+++ § 29 bis 31: Zur Anwendung vgl. § 31a Satz 1 +++)
+
 # § 30 – Mindesthöhe der lebenslangen Zahlung
 
 Die Mindesthöhe der lebenslangen Zahlung ergibt sich durch Verrentung des bei Rentenbeginn vorhandenen Versorgungskapitals mit einem Rechnungszins von mindestens 0 Prozent. Bei der Verrentung sind die planmäßigen Verwaltungskosten zu berücksichtigen und die biometrischen Rechnungsgrundlagen nach § 31 Absatz 2 Satz 2 anzuwenden.
+
+(+++ § 29 bis 31: Zur Anwendung vgl. § 31a Satz 1 +++)
 
 # § 31 – Anpassung der lebenslangen Zahlungen
 
@@ -734,6 +738,8 @@ Die Mindesthöhe der lebenslangen Zahlung ergibt sich durch Verrentung des bei R
 (2) Der Kapitaldeckungsgrad ist das Verhältnis der Deckungsrückstellung, die nach § 24 Absatz 3 für die Rentenempfänger des Pensionsplans zu bilden ist, zum Barwert der durch den Pensionsfonds an diese Rentenempfänger zu erbringenden Leistungen einschließlich damit verbundener Anwartschaften auf Hinterbliebenenleistungen. Bei der Berechnung des Barwerts ist § 24 Absatz 2 Satz 2 bis 4 entsprechend anzuwenden.
 
 (3) Der Pensionsfonds hat zu gewährleisten, dass die Anforderung aus Absatz 1 Satz 1 jederzeit eingehalten wird. Mindestens einmal jährlich hat er die an die Rentenempfänger des Pensionsplans zu erbringenden Leistungen zu überprüfen und gegebenenfalls anzupassen.
+
+(+++ § 29 bis 31: Zur Anwendung vgl. § 31a Satz 1 +++)
 
 # § 31a – Kapitalzahlung in Raten
 

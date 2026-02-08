@@ -777,6 +777,7 @@
 - [BfkEG](laws/BfkEG.md) Gesetz über die Errichtung eines Bundesamtes für die Sicherheit der nuklearen Entsorgung
 - [BfNatSchG](laws/BfNatSchG.md) Gesetz über die Errichtung eines Bundesamtes für Naturschutz
 - [BFöV](laws/BFöV.md) Verordnung zur Durchführung der Berufsförderung von Soldatinnen und Soldaten
+- [BfRBeihilfeAnO](laws/BfRBeihilfeAnO.md) Anordnung des Bundesinstituts für Risikobewertung zur Übertragung von Zuständigkeiten in Angelegenheiten der Beihilfe auf die Postbeamtenkrankenkasse
 - [BfRG](laws/BfRG.md) Gesetz über die Errichtung eines Bundesinstitutes für Risikobewertung
 - [BFSG](laws/BFSG.md) Gesetz zur Umsetzung der Richtlinie (EU) 2019/882 des Europäischen Parlaments und des Rates über die Barrierefreiheitsanforderungen für Produkte und Dienstleistungen 1
 - [BFSGV](laws/BFSGV.md) Verordnung über die Barrierefreiheitsanforderungen für Produkte und Dienstleistungen nach dem Barrierefreiheitsstärkungsgesetz 1
@@ -3002,6 +3003,7 @@
 - [IntPatÜbkG](laws/IntPatÜbkG.md) Gesetz zu dem Übereinkommen vom 27. November 1963 zur Vereinheitlichung gewisser Begriffe des materiellen Rechts der Erfindungspatente, dem Vertrag vom 19. Juni 1970 über die internationale Zusammenarbeit auf dem Gebiet des Patentwesens und dem Übereinkommen vom 5. Oktober 1973 über die Erteilung europäischer Patente
 - [IntPatÜbkGArtII§2V](laws/IntPatÜbkGArtII§2V.md) Verordnung über die Übertragung der Ermächtigung nach Artikel II § 2 Abs. 2 des Gesetzes über internationale Patentübereinkommen
 - [IntRaumsÜbkG](laws/IntRaumsÜbkG.md) Gesetz zu dem Übereinkommen vom 29. Januar 1998 zwischen der Regierung Kanadas, Regierungen von Mitgliedstaaten der Europäischen Weltraumorganisation, der Regierung Japans, der Regierung der Russischen Föderation und der Regierung der Vereinigten Staaten von Amerika über Zusammenarbeit bei der zivilen internationalen Raumstation
+- [IntSchSiHerkStBestV](laws/IntSchSiHerkStBestV.md) Verordnung zur Bestimmung von sicheren Herkunftsstaaten für den internationalen Schutz
 - [IntSchVermÜbk](laws/IntSchVermÜbk.md) Internationales Schiffsvermessungs-Übereinkommen von 1969
 - [IntSchVermÜbkG](laws/IntSchVermÜbkG.md) Gesetz zu dem Internationalen Schiffsvermessungs-Übereinkommen vom 23. Juni 1969
 - [IntTestV](laws/IntTestV.md) Verordnung über die Prüfungs- und Nachweismodalitäten für die Abschlusstests des Integrationskurses
@@ -4419,7 +4421,6 @@
 - [PartG](laws/PartG.md) Gesetz über die politischen Parteien
 - [PartG DDR](laws/PartG_DDR.md) Gesetz über Parteien und andere politische Vereinigungen
 - [PartGG](laws/PartGG.md) Gesetz über Partnerschaftsgesellschaften Angehöriger Freier Berufe
-- [PassDEÜV](laws/PassDEÜV.md) Verordnung zur Erfassung und Qualitätssicherung des Lichtbildes und der Fingerabdrücke in den Passbehörden und der Übermittlung der Passantragsdaten an den Passhersteller
 - [PassG](laws/PassG.md) Passgesetz
 - [PassV](laws/PassV.md) Verordnung zur Durchführung des Passgesetzes
 - [PatAnwAPrV](laws/PatAnwAPrV.md) Verordnung über die Ausbildung und Prüfung der Patentanwälte

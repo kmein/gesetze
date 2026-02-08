@@ -875,7 +875,7 @@ e) nach dem Berufskraftfahrerqualifikationsgesetz und den darauf beruhenden Rech
 
 (3) Im Übrigen findet das Verwaltungskostengesetz in der bis zum 14. August 2013 geltenden Fassung Anwendung. In den Rechtsverordnungen nach Absatz 2 können jedoch die Kostenbefreiung, die Kostengläubigerschaft, die Kostenschuldnerschaft, der Umfang der zu erstattenden Auslagen und die Kostenerhebung abweichend von den Vorschriften des Verwaltungskostengesetzes geregelt werden.
 
-(4) In den Rechtsverordnungen nach Absatz 2 kann bestimmt werden, dass die für die einzelnen Amtshandlungen, einschließlich Prüfungen, Abnahmen, Begutachtungen und Untersuchungen, zulässigen Gebühren auch erhoben werden dürfen, wenn die Amtshandlungen aus Gründen, die nicht von der Stelle, die die Amtshandlungen hätte durchführen sollen, zu vertreten sind, und ohne ausreichende Entschuldigung des Bewerbers oder Antragstellers am festgesetzten Termin nicht stattfinden konnten oder abgebrochen werden mussten.
+(4) In den Rechtsverordnungen nach Absatz 2 kann bestimmt werden, dass die für die einzelnen Amtshandlungen, einschließlich Prüfungen, Abnahmen, Begutachtungen und Untersuchungen, zulässigen Gebühren auch erhoben werden dürfen, wenn die Amtshandlungen aus Gründen, die nicht von der Stelle, die die Amtshandlungen hätte durchführen sollen, zu vertreten sind, und ohne ausreichende Entschuldigung des Adressaten der Amtshandlung am festgesetzten Termin nicht stattfinden konnten oder abgebrochen werden mussten.
 
 (5) Rechtsverordnungen über Kosten, deren Gläubiger der Bund ist, bedürfen nicht der Zustimmung des Bundesrates.
 

@@ -1128,7 +1128,7 @@ soweit sie die Anforderungen nach Absatz 2 Satz 2 erfüllen.
 
 (4) Die Kassenärztlichen Vereinigungen und die Landeskrankenhausgesellschaften informieren inhaltlich abgestimmt über Leistungserbringer, die unter Berücksichtigung der vom Gemeinsamen Bundesausschuss nach Absatz 2 Satz 2 festgelegten Anforderungen zur Erbringung einer unabhängigen Zweitmeinung geeignet und bereit sind.
 
-(5) Der Arzt, der die Indikation für einen Eingriff nach Absatz 1 Satz 1 in Verbindung mit Absatz 2 Satz 1 stellt, muss den Versicherten über das Recht, eine unabhängige ärztliche Zweitmeinung einholen zu können, aufklären und ihn auf die Informationsangebote über geeignete Leistungserbringer nach Absatz 4 hinweisen. Die Aufklärung muss mündlich erfolgen; ergänzend kann auf Unterlagen Bezug genommen werden, die der Versicherte in Textform erhält. Der Arzt hat dafür Sorge zu tragen, dass die Aufklärung in der Regel mindestens zehn Tage vor dem geplanten Eingriff erfolgt. In jedem Fall hat die Aufklärung so rechtzeitig zu erfolgen, dass der Versicherte seine Entscheidung über die Einholung einer Zweitmeinung wohlüberlegt treffen kann. Der Arzt hat den Versicherten auf sein Recht auf Überlassung von Abschriften der Befundunterlagen aus der Patientenakte gemäß § 630g Absatz 2 des Bürgerlichen Gesetzbuchs, die für die Einholung der Zweitmeinung erforderlich sind, hinzuweisen. Die Kosten, die dem Arzt durch die Zusammenstellung und Überlassung von Befundunterlagen für die Zweitmeinung entstehen, trägt die Krankenkasse.
+(5) Der Arzt, der die Indikation für einen Eingriff nach Absatz 1 Satz 1 in Verbindung mit Absatz 2 Satz 1 stellt, muss den Versicherten über das Recht, eine unabhängige ärztliche Zweitmeinung einholen zu können, aufklären und ihn auf die Informationsangebote über geeignete Leistungserbringer nach Absatz 4 hinweisen. Die Aufklärung muss mündlich erfolgen; ergänzend kann auf Unterlagen Bezug genommen werden, die der Versicherte in Textform erhält. Der Arzt hat dafür Sorge zu tragen, dass die Aufklärung in der Regel mindestens zehn Tage vor dem geplanten Eingriff erfolgt. In jedem Fall hat die Aufklärung so rechtzeitig zu erfolgen, dass der Versicherte seine Entscheidung über die Einholung einer Zweitmeinung wohlüberlegt treffen kann. Der Arzt hat den Versicherten auf sein Recht auf Überlassung von Abschriften der Befundunterlagen aus der Behandlungsakte nach § 630g Absatz 1 Satz 3 des Bürgerlichen Gesetzbuchs, die für die Einholung der Zweitmeinung erforderlich sind, hinzuweisen. Die Kosten, die dem Arzt durch die Zusammenstellung und Überlassung von Befundunterlagen für die Zweitmeinung entstehen, trägt die Krankenkasse.
 
 (6) Die Krankenkasse kann in ihrer Satzung zusätzliche Leistungen zur Einholung einer unabhängigen ärztlichen Zweitmeinung vorsehen. Sofern diese zusätzlichen Leistungen die vom Gemeinsamen Bundesausschuss bestimmten Eingriffe nach Absatz 2 Satz 1 betreffen, müssen sie die Anforderungen nach Absatz 2 Satz 2 erfüllen, die der Gemeinsame Bundesausschuss festgelegt hat. Dies gilt auch, wenn die Krankenkasse ein Zweitmeinungsverfahren im Rahmen von Verträgen der besonderen Versorgung nach § 140a anbietet.
 
@@ -11581,7 +11581,7 @@ b) Vorsorgevollmachten oder Patientenverfügungen nach § 334 Absatz 1 Satz 2 Nu
 
 14. Daten der Heilbehandlung und Rehabilitation nach § 27 Absatz 1 des Siebten Buches,
 
-15. elektronische Abschriften der Patientenakte nach § 630g Absatz 2 Satz 1 des Bürgerlichen Gesetzbuchs und
+15. elektronische Abschriften der Behandlungsakte nach § 630g Absatz 1 Satz 3 des Bürgerlichen Gesetzbuchs und
 
 16. Daten zu Erklärungen zur Organ- und Gewebespende.
 
@@ -11855,7 +11855,7 @@ Die Verpflichtung nach Satz 1 gilt, soweit die Daten im Rahmen der konkreten akt
 
 (4) Über die Verpflichtung nach Absatz 1 Satz 1 und Absatz 2 Satz 1 hinaus haben die an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringer auf Verlangen der Versicherten Daten der Versicherten nach § 341 Absatz 2 Nummer 1 bis 5, 10 bis 14 und 16 in die elektronische Patientenakte zu übermitteln und dort zu speichern, soweit diese Daten in der konkreten aktuellen Behandlung durch die Leistungserbringer erhoben und elektronisch verarbeitet werden. Eine Übermittlung und Speicherung der Daten nach Satz 1 ist nur zulässig, soweit der Versicherte abweichend von § 339 Absatz 1 in die Übermittlung und Speicherung dieser Daten eingewilligt hat. Die Leistungserbringer haben nachprüfbar in ihrer Behandlungsdokumentation zu protokollieren, dass der Versicherte seine Einwilligung erteilt hat. Die an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringer haben die Versicherten über den Anspruch nach Satz 1 zu informieren. Die Verpflichtung nach Satz 1 gilt, soweit andere Rechtsvorschriften der Übermittlung und Speicherung nicht entgegenstehen.
 
-(5) Auf Verlangen des Versicherten haben die an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringer elektronische Abschriften der Patientenakte nach § 630g Absatz 2 Satz 1 des Bürgerlichen Gesetzbuchs in die elektronische Patientenakte zu übermitteln und dort gemäß § 341 Absatz 2 Nummer 15 zu speichern. Absatz 4 Satz 2, 3 und 5 gilt entsprechend.
+(5) Auf Verlangen des Versicherten haben die an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringer elektronische Abschriften der Behandlungsakte nach § 630g Absatz 1 Satz 3 des Bürgerlichen Gesetzbuchs in die elektronische Patientenakte zu übermitteln und dort gemäß § 341 Absatz 2 Nummer 15 zu speichern. Absatz 4 Satz 2, 3 und 5 gilt entsprechend.
 
 (6) Die Verpflichtungen nach Absatz 1 Satz 1, Absatz 2 Satz 1, Absatz 4 Satz 1 und Absatz 5 bestehen nicht, soweit der Übermittlung und Speicherung von Daten in die elektronische Patientenakte erhebliche therapeutische Gründe oder sonstige erhebliche Rechte Dritter entgegenstehen oder soweit gewichtige Anhaltspunkte für die Gefährdung des Wohles eines Kindes oder eines Jugendlichen bis zur Vollendung des 15. Lebensjahres vorliegen und die Befüllung der elektronischen Patientenakte den wirksamen Schutz des Kindes oder Jugendlichen in Frage stellen würde. Die Gründe für die Ablehnung der Übermittlung und Speicherung nach Satz 1 haben Leistungserbringer nachprüfbar in ihrer Behandlungsdokumentation zu protokollieren.
 
@@ -11881,7 +11881,7 @@ Darüber hinaus können die Leistungserbringer in zugelassenen Krankenhäusern D
 
 (4) Über die Verpflichtung nach den Absätzen 1 bis 3 hinaus haben die Leistungserbringer in zugelassenen Krankenhäusern auf Verlangen der Versicherten Daten der Versicherten nach § 341 Absatz 2 Nummer 1 bis 5, 10 bis 14 und 16 in die elektronische Patientenakte zu übermitteln und dort zu speichern, soweit diese Daten im Rahmen der Krankenhausbehandlung des Versicherten durch die Leistungserbringer in zugelassenen Krankenhäusern erhoben und elektronisch verarbeitet werden. Eine Übermittlung und Speicherung der Daten nach Satz 1 ist nur zulässig, soweit der Versicherte abweichend von § 339 Absatz 1 in die Übermittlung und Speicherung dieser Daten eingewilligt hat. Die Leistungserbringer in zugelassenen Krankenhäusern haben nachprüfbar in ihrer Behandlungsdokumentation zu protokollieren, dass der Versicherte seine Einwilligung erteilt hat. Die Leistungserbringer in zugelassenen Krankenhäusern haben die Versicherten über den Anspruch nach Satz 1 zu informieren. Die Verpflichtung nach Satz 1 gilt, soweit andere Rechtsvorschriften der Übermittlung und Speicherung nicht entgegenstehen.
 
-(5) Auf Verlangen des Versicherten haben die Leistungserbringer in zugelassenen Krankenhäusern elektronische Abschriften der Patientenakte nach § 630g Absatz 2 Satz 1 des Bürgerlichen Gesetzbuchs in die elektronische Patientenakte zu übermitteln und dort gemäß § 341 Absatz 2 Nummer 15 zu speichern.
+(5) Auf Verlangen des Versicherten haben die Leistungserbringer in zugelassenen Krankenhäusern elektronische Abschriften der Behandlungsakte nach § 630g Absatz 1 Satz 3 des Bürgerlichen Gesetzbuchs in die elektronische Patientenakte zu übermitteln und dort gemäß § 341 Absatz 2 Nummer 15 zu speichern.
 
 (6) Die Verpflichtungen nach den Absätzen 1, 3 Satz 1, nach Absatz 4 Satz 1 und Absatz 5 bestehen nicht, soweit der Übermittlung und Speicherung von Daten in die elektronische Patientenakte erhebliche therapeutische Gründe oder sonstige erhebliche Rechte Dritter entgegenstehen oder soweit gewichtige Anhaltspunkte für die Gefährdung des Wohles eines Kindes oder eines Jugendlichen bis zur Vollendung des 15. Lebensjahres vorliegen und die Befüllung der elektronischen Patientenakte den wirksamen Schutz des Kindes oder Jugendlichen in Frage stellen würde. Die Gründe für die Ablehnung der Übermittlung und Speicherung nach Satz 1 haben Leistungserbringer nachprüfbar in ihrer Behandlungsdokumentation zu protokollieren.
 
@@ -12639,11 +12639,17 @@ In der Rechtsverordnung nach Satz 1 können auch weitere Funktionalitäten des e
 
 Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates das Nähere zu regeln
 
-1. zu den Anforderungen an die für die Versorgung der Versicherten im Rahmen von strukturierten Behandlungsprammen mit digitalisierten Versorgungsprozessen erforderliche technische Ausstattung und an die Anwendungen der Leistungserbringer und Versicherten,
+1. zu den Anforderungen an die für die Versorgung der Versicherten im Rahmen von strukturierten
 
-2. zu dem Nachweis, dass die für die Versorgung im Rahmen von strukturierten Behandlungsprammen mit digitalisierten Versorgungsprozessen erforderliche technische Ausstattung und die Anwendungen der Leistungserbringer und Versicherten den Anforderungen an den Datenschutz entsprechen und die Datensicherheit nach dem Stand der Technik gewährleisten, und
+Behandlungsprammen mit digitalisierten Versorgungsprozessen erforderliche technische Ausstattung und an die Anwendungen der Leistungserbringer und Versicherten,
+
+2. zu dem Nachweis, dass die für die Versorgung im Rahmen von strukturierten
+
+Behandlungsprammen mit digitalisierten Versorgungsprozessen erforderliche technische Ausstattung und die Anwendungen der Leistungserbringer und Versicherten den Anforderungen an den Datenschutz entsprechen und die Datensicherheit nach dem Stand der Technik gewährleisten, und
 
 3. zu den zusätzlichen technischen Anforderungen an digitale Gesundheitsanwendungen, die im Rahmen von strukturierten Behandlungsprogrammen mit digitalisierten Versorgungsprozessen eingesetzt werden.
+
+§ 370b Kursivdruck: Eingef. durch Art. 1 Nr. 75 G v. 22.3.2024 I Nr. 101 mWv 26.3.2024 (amtlicher Wortlaut)
 
 # § 371 – Integration offener und standardisierter Schnittstellen in informationstechnische Systeme
 
@@ -12653,7 +12659,7 @@ Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung o
 
 2. Schnittstellen für elektronische Programme, die nach § 73 Absatz 9 Satz 1 für die Verordnung von Arzneimitteln zugelassen sind,
 
-3. Schnittstellen zum elektronischen Melde- und Informationssystem nach § 14 des Infektionsschutzgesetze, mit Ausnahme der informationstechnischen Systeme von Vertragszahnärzten,
+3. Schnittstellen zum elektronischen Melde- und Informationssystem nach § 14 des Infektionsschutzgesetzes, mit Ausnahme der informationstechnischen Systeme von Vertragszahnärzten,
 
 4. Schnittstellen für die Anbindung vergleichbarer versorgungsorientierter informationstechnischer Systeme, insbesondere ambulante und klinische Anwendungs- und Datenbanksysteme nach diesem Buch und
 
@@ -12906,7 +12912,7 @@ Im Sinne dieses Kapitels bezeichnet der Ausdruck
 
 5. Inverkehrbringen und -halten die entgeltliche oder unentgeltliche Bereitstellung oder Abgabe an Dritte mit dem Ziel des Vertriebs, des Verbrauchs oder der Verwendung sowie die gewerbsmäßige Einfuhr in den Geltungsbereich dieses Kapitels.
 
-# § 385 – Bedarfsidentifizierung und - priorisierung, Spezifikation, Entwicklung und Festlegung von Standards; Verordnungsermächtigung
+# § 385 – Bedarfsidentifizierung und -priorisierung, Spezifikation, Entwicklung und Festlegung von Standards; Verordnungsermächtigung
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Förderung der Interoperabilität und von offenen Standards und Schnittstellen die Einrichtung und Organisation eines bei der Gesellschaft für Telematik unterhaltenen Kompetenzzentrums für Interoperabilität im Gesundheitswesen sowie eines von dem Kompetenzzentrum eingesetzten Expertengremiums und deren jeweils notwendige Arbeitsstrukturen zu regeln sowie Regelungen zu treffen für die Erhebung von Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen, die durch das Kompetenzzentrum oder das Expertengremium erbracht werden. Das Kompetenzzentrum hat die Aufgabe, für informationstechnische Systeme, die im Gesundheitswesen eingesetzt werden,
 
@@ -12987,6 +12993,8 @@ Auf die Plattform nach Absatz 1 Satz 2 Nummer 5 können auch technische und sema
 (8) Bei dem Kompetenzzentrum kann von Konformitätsbewertungsstellen ein Antrag auf Akkreditierung nach Absatz 3 Nummer 15 gestellt werden. Voraussetzung für die Akkreditierung der Konformitätsbewertungsstelle ist, dass ihre Befähigung zur Wahrnehmung ihrer Aufgaben sowie die Einhaltung der Kriterien gemäß der Rechtsverordnung nach Absatz 1 Satz 1 für das Verfahren, für das die Stelle akkreditiert werden soll, durch das Kompetenzzentrum entsprechend dem in der Rechtsverordnung nach Absatz 1 Satz 1 niedergelegten Verfahren, festgestellt wurden. Die Akkreditierung kann unter Auflagen erteilt werden und ist zu befristen. Das Kompetenzzentrum nimmt die Akkreditierung zurück, wenn nachträglich bekannt wird, dass eine Stelle bei Antragstellung die Voraussetzungen nicht erfüllt hat. Sie widerruft die Akkreditierung, wenn die Voraussetzungen für eine Akkreditierung nachträglich weggefallen sind. An Stelle des Widerrufs kann das Ruhen der Akkreditierung angeordnet werden.
 
 (9) Das Kompetenzzentrum überwacht die Erfüllung der in Absatz 8 festgelegten Voraussetzungen an die akkreditierten Stellen. Das Kompetenzzentrum macht die akkreditierten Stellen im Sinne des Absatzes 8 mit einer Kennnummer auf der Plattform nach Absatz 1 Satz 2 Nummer 5 bekannt.
+
+§ 385 Abs. 3 Nr. 3 Kursivdruck: IdF d. Art. 1 Nr. 87 G v. 22.3.2024 I Nr. 101 mWv 26.3.2024 (amtlicher Wortlaut)
 
 # § 386 – Recht auf Interoperabilität
 

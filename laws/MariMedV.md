@@ -136,7 +136,7 @@ Regelmäßige Seediensttauglichkeitsuntersuchungen im Sinne des Satzes 1 Nummer 
 
 (1) Der zugelassene Arzt oder der Arzt des seeärztlichen Dienstes hat die für die Feststellung der Seediensttauglichkeit maßgeblichen Ergebnisse der Seediensttauglichkeitsuntersuchung aufzuzeichnen und die in § 19 Absatz 6 Satz 2 und 3 des Seearbeitsgesetzes vorgesehenen Daten unverzüglich in das Seediensttauglichkeitsverzeichnis zu übermitteln. Die Vorschrift des § 630f des Bürgerlichen Gesetzbuchs bleibt unberührt.
 
-(2) Auf Verlangen der untersuchten Person hat der zugelassene Arzt ihr nach Maßgabe des § 630g des Bürgerlichen Gesetzbuchs unverzüglich Einsicht in die sie betreffenden Untersuchungsunterlagen zu gewähren und Abschriften der Unterlagen gegen Erstattung der Kosten herauszugeben.
+(2) Auf Verlangen der untersuchten Person hat der zugelassene Arzt ihr nach Maßgabe des § 630g des Bürgerlichen Gesetzbuchs Einsicht in die sie betreffenden Untersuchungsunterlagen zu gewähren und Abschriften der Untersuchungsunterlagen herauszugeben.
 
 (3) Ärztliche Aufzeichnungen über Seediensttauglichkeitsuntersuchungen sind für die Dauer von zehn Jahren nach Abschluss der Untersuchungen aufzubewahren, soweit nicht nach anderen Vorschriften längere Aufbewahrungsfristen für Teile der Aufzeichnungen bestehen. Nach Beendigung der Zulassung hat der Arzt seine ärztlichen Aufzeichnungen und Untersuchungsbefunde aufzubewahren oder dafür Sorge zu tragen, dass sie in gehörige Obhut gegeben werden, sowie sicherzustellen, dass der seeärztliche Dienst zum Zwecke des § 13 Absatz 1 des Seearbeitsgesetzes Einsicht in die Unterlagen nehmen kann; Satz 1 gilt entsprechend.
 

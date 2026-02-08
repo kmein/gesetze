@@ -1474,7 +1474,7 @@ soweit dafür besondere Gründe vorliegen oder der Zweck der Meldevorschriften n
 
 (1) Verboten sind der Verkauf, die Ausfuhr und die Durchfuhr von in Teil I Abschnitt A der Ausfuhrliste erfassten Gütern vom Inland aus oder über das Inland oder deren Beförderung unter Benutzung eines Schiffes oder Luftfahrzeugs, das berechtigt ist, die Bundesflagge oder das Staatszugehörigkeitszeichen der Bundesrepublik Deutschland zu führen, in die folgenden Länder:
 
-1. Belarus,
+1. (weggefallen)
 
 2. Birma/Myanmar,
 
@@ -1494,9 +1494,9 @@ soweit dafür besondere Gründe vorliegen oder der Zweck der Meldevorschriften n
 
 10. (weggefallen)
 
-11. Libyen,
+11. (weggefallen)
 
-12. Russland,
+12. (weggefallen)
 
 13. Simbabwe,
 
@@ -1508,9 +1508,7 @@ soweit dafür besondere Gründe vorliegen oder der Zweck der Meldevorschriften n
 
 16. Syrien,
 
-16a. Venezuela,
-
-17. Zentralafrikanische Republik.
+16a. Venezuela.
 
 (2) Verboten sind auch der Verkauf, die Ausfuhr und die Durchfuhr von in Teil I Abschnitt A der Ausfuhrliste erfassten Gütern vom Inland aus oder über das Inland oder deren Beförderung unter Benutzung eines Schiffes oder Luftfahrzeugs, das berechtigt ist, die Bundesflagge oder das Staatszugehörigkeitszeichen der Bundesrepublik Deutschland zu führen, an natürliche oder juristische Personen, Gruppen, Organisationen oder Einrichtungen, die aufgeführt sind
 
@@ -1524,83 +1522,67 @@ soweit dafür besondere Gründe vorliegen oder der Zweck der Meldevorschriften n
 
 5. in der jeweils geltenden Fassung des Anhangs des Beschlusses 2014/932/GASP des Rates vom 18. Dezember 2014 über restriktive Maßnahmen angesichts der Lage in Jemen (ABl. L 365 vom 19.12.2014, S. 147), der zuletzt durch den Beschluss (GASP) 2015/882 des Rates vom 8. Juni 2015 (ABl. L 143 vom 9.6.2015, S. 11) geändert worden ist,
 
-6. in der jeweils geltenden Fassung des Anhangs des Beschlusses (GASP) 2016/1693 des Rates vom 20. September 2016 betreffend restriktive Maßnahmen gegen ISIL (Da´esh) und Al-Qaida und mit ihnen verbündete Personen, Gruppen, Unternehmen und Einrichtungen und zur Aufhebung des Gemeinsamen Standpunkts 2002/402/GASP (ABl. L 255 vom 21.9.2016, S. 25),
-
-7. in der jeweils geltenden Fassung der Anhänge I und II des Beschlusses (GASP) 2022/2319 des Rates vom 25. November 2022 über restriktive Maßnahmen angesichts der Lage in Haiti (ABl. L 307 vom 28.11.2022, S. 135), der zuletzt durch den Beschluss (GASP) 2023/1574 (ABl. L 192 vom 31.7.2923, S. 21) geändert worden ist.
+6. in der jeweils geltenden Fassung des Anhangs des Beschlusses (GASP) 2016/1693 des Rates vom 20. September 2016 betreffend restriktive Maßnahmen gegen ISIL (Da´esh) und Al-Qaida und mit ihnen verbündete Personen, Gruppen, Unternehmen und Einrichtungen und zur Aufhebung des Gemeinsamen Standpunkts 2002/402/GASP (ABl. L 255 vom 21.9.2016, S. 25).
 
 # § 75 – Verbote von Handels- und Vermittlungsgeschäften in Bezug auf in Teil I Abschnitt A der Ausfuhrliste erfasste Güter
 
 (1) Verboten sind Handels- und Vermittlungsgeschäfte in Bezug auf in Teil I Abschnitt A der Ausfuhrliste erfasste Güter, welche unmittelbar oder mittelbar für Personen, Organisationen oder Einrichtungen in folgenden Ländern bestimmt sind:
 
-1. Belarus,
+1. (weggefallen)
 
 2. Birma/Myanmar,
 
 3. (weggefallen)
 
-4. Demokratische Republik Kongo,
+4. (weggefallen)
 
-5. Demokratische Volksrepublik Korea,
+5. (weggefallen)
 
 6. Iran,
 
 7. Libanon,
 
-8. Libyen,
+8. (weggefallen)
 
-8a. Russland,
+8a. (weggefallen)
 
 9. Simbabwe,
 
-10. Sudan,
+10. (weggefallen)
 
-10a. Südsudan,
+10a. (weggefallen)
 
-11. Syrien,
-
-11a. Venezuela,
-
-12. Zentralafrikanische Republik.
+11. Syrien.
 
 (2) Das Verbot nach Absatz 1 gilt auch, wenn die Güter zur Verwendung in folgenden Ländern bestimmt sind:
 
-1. Belarus,
+1. (weggefallen)
 
-2. Demokratische Republik Kongo,
+2. (weggefallen)
 
-3. Demokratische Volksrepublik Korea,
+3. (weggefallen)
 
 4. Iran,
 
 5. Libanon,
 
-6. Libyen,
+6. (weggefallen)
 
-6a. Russland,
+6a. (weggefallen)
 
 7. Simbabwe,
 
-8. Sudan,
+8. (weggefallen)
 
-8a. Südsudan,
+8a. (weggefallen)
 
-9. Syrien,
-
-9a. Venezuela,
-
-10. Zentralafrikanische Republik.
+9. Syrien.
 
 # § 76 – Ausnahmen von § 74 Absatz 1 und § 75
 
 (1) Abweichend von § 74 Absatz 1 und § 75 können der Verkauf, die Ausfuhr, die Durchfuhr oder Handels- und Vermittlungsgeschäfte unter den Voraussetzungen der Absätze 2 bis 17 genehmigt werden.
 
-(2) Absatz 1 gilt in Bezug auf Belarus für
-
-1. nichtletale militärische Güter, die ausschließlich für humanitäre oder Schutzzwecke oder für Programme der Vereinten Nationen und der Europäischen Union zum Aufbau von Institutionen oder für Krisenbewältigungsoperationen der Europäischen Union und der Vereinten Nationen bestimmt sind,
-
-2. Fahrzeuge, die nicht für den Kampfeinsatz bestimmt sind, die bei der Herstellung oder nachträglich mit einer Kugelsicherung ausgerüstet wurden und nur zum Schutz des Personals der Europäischen Union und ihrer Mitgliedstaaten in Belarus bestimmt sind, und
-
-3. Schutzkleidung, die vom Personal der Vereinten Nationen, der Europäischen Union oder ihrer Mitgliedstaaten, von Medienvertretern, humanitären Helfern, Entwicklungshelfern oder von diesen Personen beigeordnetem Personal ausschließlich zur eigenen Verwendung vorübergehend nach Belarus ausgeführt wird.
+(2) (weggefallen)
 
 (3) Absatz 1 gilt in Bezug auf Birma/Myanmar für
 
@@ -1612,7 +1594,7 @@ soweit dafür besondere Gründe vorliegen oder der Zweck der Meldevorschriften n
 
 4. Schutzkleidung, die vom Personal der Vereinten Nationen, der Europäischen Union oder ihrer Mitgliedstaaten, von Medienvertretern, humanitären Helfern, Entwicklungshelfern oder von diesen Personen beigeordnetem Personal ausschließlich zur eigenen Verwendung vorübergehend nach Birma/Myanmar ausgeführt wird.
 
-(4) Absatz 1 gilt in Bezug auf die Demokratische Republik Kongo für
+(4) Absatz 1 gilt in Bezug auf den Verkauf, die Ausfuhr und die Durchfuhr in die Demokratische Republik Kongo für
 
 1. Güter für den ausschließlichen Zweck der Unterstützung der Mission der Organisation der Vereinten Nationen in der Demokratischen Republik Kongo (MONUSCO) oder der Verwendung durch diese,
 
@@ -1624,11 +1606,11 @@ soweit dafür besondere Gründe vorliegen oder der Zweck der Meldevorschriften n
 
 5. den sonstigen Verkauf oder die sonstige Lieferung von Rüstungsgütern und sonstigem Wehrmaterial.
 
-(5) Absatz 1 gilt in Bezug auf die Demokratische Volksrepublik Korea für Fahrzeuge, die nicht für den Kampfeinsatz bestimmt sind, die bei der Herstellung oder nachträglich mit einer Kugelsicherung ausgerüstet wurden und nur zum Schutz des Personals der Europäischen Union und ihrer Mitgliedstaaten in der Demokratischen Volksrepublik Korea bestimmt sind.
+(5) Absatz 1 gilt in Bezug auf den Verkauf, die Ausfuhr und die Durchfuhr in die Demokratische Volksrepublik Korea für Fahrzeuge, die nicht für den Kampfeinsatz bestimmt sind, die bei der Herstellung oder nachträglich mit einer Kugelsicherung ausgerüstet wurden und nur zum Schutz des Personals der Europäischen Union und ihrer Mitgliedstaaten in der Demokratischen Volksrepublik Korea bestimmt sind.
 
 (6) Absatz 1 gilt in Bezug auf Irak für Güter, die von der Regierung Iraks oder von der durch die Resolution 1511 (2003) des Sicherheitsrates der Vereinten Nationen eingesetzten multinationalen Truppe für die Zwecke der Resolution 1546 (2004) des Sicherheitsrates der Vereinten Nationen benötigt werden.
 
-(7) Absatz 1 gilt in Bezug auf Iran für Fahrzeuge, die nicht für den Kampfeinsatz bestimmt sind, die bei der Herstellung oder nachträglich mit einer Kugelsicherung ausgerüstet wurden und nur zum Schutz des Personals der Europäischen Union und ihrer Mitgliedstaaten in Iran bestimmt sind.
+(7) Absatz 1 gilt in Bezug auf den Verkauf, die Ausfuhr und die Durchfuhr nach Iran für Fahrzeuge, die nicht für den Kampfeinsatz bestimmt sind, die bei der Herstellung oder nachträglich mit einer Kugelsicherung ausgerüstet wurden und nur zum Schutz des Personals der Europäischen Union und ihrer Mitgliedstaaten in Iran bestimmt sind.
 
 (8) Absatz 1 gilt in Bezug auf Libanon für
 
@@ -1638,35 +1620,9 @@ soweit dafür besondere Gründe vorliegen oder der Zweck der Meldevorschriften n
 
 3. Schutzkleidung, die vom Personal der Vereinten Nationen, der Europäischen Union oder ihrer Mitgliedstaaten vorübergehend nach Libanon ausgeführt wird.
 
-(9) Absatz 1 gilt in Bezug auf Libyen für
+(9) (weggefallen)
 
-1. nichtletale militärische Güter, die ausschließlich für humanitäre oder Schutzzwecke bestimmt sind,
-
-2. die sonstige Lieferung, den sonstigen Verkauf oder die sonstige Weitergabe von Rüstungsgütern,
-
-3. Schutzkleidung, einschließlich Körperschutzwesten und Militärhelmen, die vom Personal der Vereinten Nationen, der Europäischen Union oder ihrer Mitgliedstaaten, von Medienvertretern, humanitären Helfern, Entwicklungshelfern oder von diesen Personen beigeordnetem Personal ausschließlich zur eigenen Verwendung vorübergehend nach Libyen ausgeführt wird,
-
-4. nichtletale militärische Güter, die ausschließlich für die Unterstützung der libyschen Regierung in den Bereichen Sicherheit und Entwaffnung bestimmt sind, und
-
-5. Kleinwaffen und leichte Waffen sowie dazugehörige Güter, die einzig für den Gebrauch durch Personal der Vereinten Nationen, Medienvertreter, humanitäre Helfer, Entwicklungshelfer oder durch von diesen Personen beigeordnetes Personal vorübergehend nach Libyen ausgeführt werden.
-
-(10) Absatz 1 gilt in Bezug auf Russland für:
-
-1. Hydrazin mit einer Mindestkonzentration von 70 Prozent und Monomethylhydrazin
-
-a) zur Verwendung für Trägersysteme, die von Startorganisationen der Mitgliedstaaten der Europäischen Union oder in einem Mitgliedstaat der Europäischen Union ansässigen Startorganisationen betrieben werden,
-
-b) zur Verwendung für Starts im Rahmen von Raumfahrtprogrammen der Europäischen Union, ihrer Mitgliedstaaten oder der Europäischen Weltraumorganisation oder
-
-c) zur Betankung von Satelliten durch in einem Mitgliedstaat ansässige Satellitenhersteller,
-
-2. Hydrazin mit einer Mindestkonzentration von 70 Prozent zur Verwendung im Rahmen der ExoMars-Mission 2020, das bestimmt ist
-
-a) zur Erprobung und für den Flugbetrieb des ExoMars-Abstiegsmoduls bis zu einer Gesamtmenge von 5 000 Kilogramm für die gesamte Dauer der Mission oder
-
-b) für den Flugbetrieb des ExoMars-Trägermoduls bis zu einer Gesamtmenge von 300 Kilogramm.
-
-In den Fällen des Satzes 1 Nummer 1 ist die genehmigungsfähige Menge an Hydrazin oder Monomethylhydrazin für den jeweiligen Start oder Satellit, für den sie bestimmt ist, zu berechnen, und darf im Fall des Hydrazins mit einer Mindestkonzentration von 70 Prozent 800 Kilogramm für jeden einzelnen Start oder Satellit nicht überschreiten.
+(10) (weggefallen)
 
 (11) Absatz 1 gilt in Bezug auf Simbabwe für
 
@@ -1690,7 +1646,7 @@ In den Fällen des Satzes 1 Nummer 1 ist die genehmigungsfähige Menge an Hydraz
 
 6. nichtletale militärische Güter, die ausschließlich für humanitäre oder Schutzzwecke bestimmt sind.
 
-(13) Absatz 1 gilt in Bezug auf Sudan für
+(13) Absatz 1 gilt in Bezug auf den Verkauf, die Ausfuhr und die Durchfuhr nach Sudan für
 
 1. nichtletale militärische Ausrüstung, die ausschließlich bestimmt ist für
 
@@ -1710,7 +1666,7 @@ d) (weggefallen)
 
 5. Schutzkleidung, einschließlich kugelsicherer Westen und Militärhelmen, die vom Personal der Vereinten Nationen, der Europäischen Union oder ihrer Mitgliedstaaten, von Medienvertretern, humanitären Helfern und Entwicklungshelfern sowie dem beigeordneten Personal ausschließlich zur eigenen Verwendung vorübergehend nach Sudan ausgeführt wird.
 
-(14) Absatz 1 gilt in Bezug auf Südsudan für
+(14) Absatz 1 gilt in Bezug auf den Verkauf, die Ausfuhr und die Durchfuhr nach Südsudan für
 
 1. Güter, die ausschließlich für die Unterstützung des Personals der Vereinten Nationen, einschließlich der Mission der vereinten Nationen in der Republik Südsudan (UNMISS) und der Interim-Sicherheitstruppe der Vereinten Nationen für Abyei (UNISFA) oder zur Nutzung durch sie bestimmt sind,
 
@@ -1746,7 +1702,7 @@ e) die nationale Koalition der Kräfte der syrischen Revolution und Opposition f
 
 4. Schutzkleidung, die vom Personal der Vereinten Nationen, der Europäischen Union oder ihrer Mitgliedstaaten, von Medienvertretern, humanitären Helfern, Entwicklungshelfern oder von diesen Personen beigeordnetem Personal ausschließlich zur eigenen Verwendung vorübergehend nach Syrien ausgeführt wird.
 
-(16) Absatz 1 gilt in Bezug auf Venezuela für
+(16) Absatz 1 gilt in Bezug auf den Verkauf, die Ausfuhr und die Durchfuhr nach Venezuela für
 
 1. Güter, deren Lieferung der Erfüllung von Verträgen oder Nebenverträgen dient, die vor dem 13. November 2017 geschlossen und dem Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) bis zum 21. November 2017 angezeigt worden sind,
 
@@ -1758,25 +1714,7 @@ e) die nationale Koalition der Kräfte der syrischen Revolution und Opposition f
 
 5. Schutzkleidung, einschließlich Körperschutzwesten und Militärhelme, die von Personal der Vereinten Nationen, Personal der Europäischen Union oder ihrer Mitgliedstaaten, von Medienvertretern, von humanitären Helfern und Entwicklungshelfern sowie zugehörigem Personal ausschließlich zur eigenen Verwendung vorübergehend nach Venezuela ausgeführt wird.
 
-(17) Absatz 1 gilt in Bezug auf die Zentralafrikanische Republik für
-
-1. Güter, die ausschließlich zur Unterstützung der Mehrdimensionalen integrierten Stabilisierungsmission der Vereinten Nationen in der Zentralafrikanischen Republik (MINUSCA), der Missionen der Europäischen Union und der in die Zentralafrikanische Republik entsandten französischen Truppen sowie der Truppen anderer Mitgliedstaaten der Vereinten Nationen oder zur Verwendung durch diese bestimmt sind,
-
-2. Schutzkleidung, einschließlich Körperschutzwesten und Militärhelme, die von Personal der Vereinten Nationen, Personal der Europäischen Union oder ihrer Mitgliedstaaten, Medienvertretern sowie humanitären Helfern und Entwicklungshelfern oder von diesen Personen beigeordnetem Personal ausschließlich zur eigenen Verwendung vorübergehend in die Zentralafrikanische Republik ausgeführt wird,
-
-3. Kleinwaffen und dazugehörige Güter, die ausschließlich zur Verwendung durch internationale Patrouillen bestimmt sind, die in dem Dreistaaten-Schutzgebiet Sangha-Fluss für Sicherheit sorgen, um gegen Wilderei, den Elfenbein- und Waffenschmuggel und andere Aktivitäten vorzugehen, die gegen das innerstaatliche Recht der Zentralafrikanischen Republik oder gegen ihre völkerrechtlichen Verpflichtungen verstoßen,
-
-4. Rüstungsgüter, einschließlich Waffen und Munition, Militärfahrzeuge und -ausrüstung, paramilitärische Ausrüstung und entsprechende Ersatzteile, die für die Sicherheitskräfte der Zentralafrikanischen Republik einschließlich der zivilen staatlichen Strafverfolgungsbehörden bestimmt sind,
-
-5. Rüstungsgüter und dazugehörige Güter im Einklang mit dem Verfahren nach Ziffer 54 f) der Resolution 2127 (2013) des Sicherheitsrates der Vereinten Nationen,
-
-6. Güter, die von tschadischen oder sudanesischen Streitkräften ausschließlich zur eigenen Verwendung bei internationalen Patrouillen der am 23. Mai 2011 in Khartum von der Zentralafrikanischen Republik, Tschad und Sudan zur Erhöhung der Sicherheit in den gemeinsamen Grenzgebieten in Zusammenarbeit mit der MINUSCA eingerichteten dreiseitigen Truppe in die Zentralafrikanische Republik verbracht wurden, und
-
-7. nichtletale militärische Güter, die ausschließlich bestimmt sind
-
-a) für humanitäre Zwecke, oder
-
-b) für Schutzzwecke, zur Unterstützung des Prozesses der Reform des Sicherheitssektors in der Zentralafrikanischen Republik oder zur Nutzung in diesem Prozess.
+(17) (weggefallen)
 
 # § 76a – Ausnahmen von § 74 Absatz 1 und § 75 in Einzelfällen
 
@@ -1802,9 +1740,7 @@ b) Büros internationaler zwischenstaatlicher Organisationen, deren Sonderorgani
 
 4. Libyen,
 
-5. Syrien,
-
-6. Russland.
+5. Syrien.
 
 (2) Dieses Verbot gilt auch für die Beförderung, auch unter Benutzung eines Schiffes oder Luftfahrzeuges, das berechtigt ist, die Bundesflagge oder das Staatszugehörigkeitszeichen der Bundesrepublik Deutschland zu führen.
 
@@ -1922,177 +1858,73 @@ b) eine Bescheinigung nicht oder nicht rechtzeitig zurückgibt und eine Mitteilu
 
 (1) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen
 
-1. Artikel 2 Absatz 1 der Verordnung (EWG) Nr. 3541/92 des Rates vom 7. Dezember 1992 zum Verbot der Erfüllung irakischer Ansprüche in Bezug auf Verträge und Geschäfte, deren Durchführung durch die Resolution 661 (1990) des Sicherheitsrates der Vereinten Nationen und mit ihr in Verbindung stehende Resolutionen berührt wurde (ABl. L 361 vom 10.12.1992, S. 1),
+1. Artikel 2 Absatz 1 der Verordnung (EWG) Nr. 3541/92 in der Fassung vom 7. Dezember 1992,
 
-2. Artikel 2 Absatz 1 der Verordnung (EG) Nr. 3275/93 des Rates vom 29. November 1993 zum Verbot der Erfüllung von Ansprüchen im Zusammenhang mit Verträgen und Geschäften, deren Durchführung durch die Resolution 883 (1993) des Sicherheitsrates der Vereinten Nationen und mit ihr in Verbindung stehende Resolutionen berührt wurde (ABl. L 295 vom 30.11.1993, S. 4
+2. Artikel 2 Absatz 1 der Verordnung (EG) Nr. 3275/93 in der Fassung vom 29. November 1993,
 
-),
+3. Artikel 2 Absatz 1 der Verordnung (EG) Nr. 1264/94 in der Fassung vom 30. Mai 1994,
 
-3. Artikel 2 Absatz 1 der Verordnung (EG) Nr. 1264/94 des Rates vom 30. Mai 1994 über das Verbot der Erfüllung von Ansprüchen der haitischen Behörden im Zusammenhang mit Verträgen und Geschäften, deren Durchführung durch die Maßnahmen auf Grund der Resolutionen 917 (1994), 841 (1993), 873 (1993) und 875 (1993) des Sicherheitsrates der Vereinten Nationen berührt wurde (ABl. L 139 vom 2.6.1994, S. 4),
+4. Artikel 2 Absatz 1 der Verordnung (EG) Nr. 1733/94 in der Fassung vom 11. Juli 1994,
 
-4. Artikel 2 Absatz 1 der Verordnung (EG) Nr. 1733/94 des Rates vom 11. Juli 1994 zum Verbot der Erfüllung von Ansprüchen im Zusammenhang mit Verträgen und Geschäften, deren Durchführung durch die Resolution 757 (1992) des Sicherheitsrates der Vereinten Nationen und mit ihr in Verbindung stehende Resolutionen berührt wurde (ABl. L 182 vom 16.7.1994, S. 1),
+5. Artikel 7a Absatz 1 der Verordnung (EG) Nr. 1183/2005 in der Fassung vom 17. März 2025,
 
-4a. Artikel 7a Absatz 1 der Verordnung (EG) Nr. 1183/2005 des Rates vom 18. Juli 2005 über restriktive Maßnahmen angesichts der Lage in der Demokratischen Republik Kongo (ABl. L 193 vom 23.7.2005, S. 1), die zuletzt durch die Durchführungsverordnung (EU) 2021/2177 (ABl. L 443 vom 10.12.2021, S.3) geändert worden ist,
+6. Artikel 8d Absatz 1 der Verordnung (EG) Nr. 765/2006 in der Fassung vom 18. Juli 2025,
 
-4b. Artikel 8d Absatz 1 der Verordnung (EG) Nr. 765/2006 in der Fassung vom 18. Juli 2025,
+7. Artikel 27 Absatz 1 der Verordnung (EU) Nr. 36/2012 in der Fassung vom 27. Mai 2025,
 
-4c. Artikel 27 Absatz 1 der Verordnung (EU) Nr. 36/2012 des Rates vom 18. Januar 2012 über restriktive Maßnahmen angesichts der Lage in Syrien und zur Aufhebung der Verordnung (EU) Nr. 442/2011 (ABl. L 16 vom 19.1.2012, S. 1, L 259 vom 27.9.2012, S. 7), die zuletzt durch die Verordnung (EU) Nr. 1323/2014 (ABl. L 358 vom 13.12.2014, S. 1) geändert worden ist,
+8. Artikel 38 Absatz 1 der Verordnung (EU) Nr. 267/2012 in der Fassung vom 10. September 2024,
 
-5. Artikel 38 Absatz 1 der Verordnung (EU) Nr. 267/2012 des Rates vom 23. März 2012 über restriktive Maßnahmen gegen Iran und zur Aufhebung der Verordnung (EU) Nr. 961/2010 (ABl. L 88 vom 24.3.2012, S. 1, L 332 vom 4.12.2012, S. 31), die zuletzt durch die Durchführungsverordnung (EU) 2016/74 (ABl. L 16 vom 23.1.2016, S. 6) geändert worden ist,
+9. Artikel 4h Absatz 1 der Verordnung (EU) Nr. 401/2013 in der Fassung vom 25. April 2025,
 
-5a. Artikel 4h Absatz 1 der Verordnung (EU) Nr. 401/2013 des Rates vom 2. Mai 2013 über restriktive Maßnahmen gegen Myanmar/Birma und zur Aufhebung der Verordnung (EG) Nr. 194/2008 (ABl. L 121 vom 3.5.2013, S. 1), die zuletzt durch die Durchführungsverordnung (EU) 2018/1117 (ABl. L 204 vom 13.8.2018, S. 9) geändert worden ist,
+10. Artikel 14 Absatz 1 der Verordnung (EU) Nr. 224/2014 in der Fassung vom 24. März 2025,
 
-6. Artikel 14 Absatz 1 der Verordnung (EU) Nr. 224/2014 des Rates vom 10. März 2014 über restriktive Maßnahmen angesichts der Lage in der Zentralafrikanischen Republik (ABl. L 70 vom 11.3.2014, S. 1),
+11. Artikel 6 Absatz 1 der Verordnung (EU) Nr. 692/2014 in der Fassung vom 24. Februar 2025,
 
-7. Artikel 6 Absatz 1 der Verordnung (EU) Nr. 692/2014 des Rates vom 23. Juni 2014 über restriktive Maßnahmen als Reaktion auf die rechtswidrige Eingliederung der Krim und Sewastopols durch Annexion (ABl. L 183 vom 24.6.2014, S. 9), die zuletzt durch die Verordnung (EU) Nr. 1351/2014 (ABl. L 365 vom 19.12.2014, S. 46, L 37 vom 13.2.2015, S. 24) geändert worden ist,
+12. Artikel 12 Absatz 1 der Verordnung (EU) Nr. 747/2014 in der Fassung vom 9. Dezember 2024,
 
-8. Artikel 12 Absatz 1 der Verordnung (EU) Nr. 747/2014 des Rates vom 10. Juli 2014 über restriktive Maßnahmen angesichts der Lage in Sudan und zur Aufhebung der Verordnungen (EG) Nr. 131/2004 und (EG) Nr. 1184/2005 (ABl. L 203 vom 11.7.2014, S. 1),
+13. Artikel 11 Absatz 1 der Verordnung (EU) Nr. 833/2014 in der Fassung vom 18. Juli 2025,
 
-9. (weggefallen)
+14. Artikel 12 Absatz 1 der Verordnung (EU) Nr. 1352/2014 in der Fassung vom 10. September 2024,
 
-10. Artikel 11 Absatz 1 der Verordnung (EU) Nr. 833/2014 in der Fassung vom 18. Juli 2025,
+15. Artikel 17 Absatz 1 der Verordnung (EU) 2015/735 in der Fassung vom 8. Juli 2025,
 
-11. Artikel 12 Absatz 1 der Verordnung (EU) Nr. 1352/2014 des Rates vom 18. Dezember 2014 über restriktive Maßnahmen angesichts der Lage in Jemen (ABl. L 365 vom 19.12.2014, S. 60), die zuletzt durch die Verordnung (EU) 2015/878 (ABl. L 143 vom 9.6.2014, S. 1) geändert worden ist,
+16. Artikel 53 Absatz 1 der Verordnung (EU) 2017/1509 in der Fassung vom 16. Dezember 2024,
 
-12. Artikel 17 Absatz 1 der Verordnung (EU) 2015/735 des Rates vom 7. Mai 2015 über restriktive Maßnahmen angesichts der Lage in Südsudan und zur Aufhebung der Verordnung (EU) Nr. 748/2014 (ABl. L 117 vom 8.5.2015, S. 13),
+17. Artikel 15 Absatz 1 der Verordnung (EU) 2017/2063 in der Fassung vom 9. Januar 2025,
 
-13. Artikel 53 Absatz 1 der Verordnung (EU) 2017/1509 des Rates vom 30. August 2017 über restriktive Maßnahmen gegen die Demokratische Volksrepublik Korea und zur Aufhebung der Verordnung (EG) Nr. 329/2007 (ABl. L 224 vom 31.8.2017, S. 1), die durch die Verordnung (EU) 2017/1858 (ABl. L 265 I vom 16.10.2017, S. 1) geändert worden ist,
+18. Artikel 10 Absatz 1 der Verordnung (EU) 2022/263 in der Fassung vom 24. Februar 2025,
 
-14. Artikel 15 Absatz 1 der Verordnung (EU) 2017/2063 des Rates vom 13. November 2017 über restriktive Maßnahmen angesichts der Lage in Venezuela (ABl. L 295 vom 14.11.2017, S. 21),
+19. Artikel 13 Absatz 1 der Verordnung (EU) 2022/2309 in der Fassung vom 15. Juli 2025 oder
 
-15. Artikel 10 Absatz 1 der Verordnung (EU) 2022/263 des Rates vom 23. Februar 2022 über restriktive Maßnahmen als Reaktion auf die Anerkennung der nicht von der Regierung kontrollierten Gebiete der ukrainischen Regionen Donezk und Luhansk und die Entsendung russischer Streitkräfte in diese Gebiete (ABl. L 42 I vom 23.2.2022, S. 77),
+20. Artikel 11 Absatz 1 der Verordnung (EU) 2023/1529 in der Fassung vom 25. Juli 2025
 
-16. Artikel 13 Absatz 1 der Verordnung (EU) 2022/2309 des Rates vom 25. November 2022 über restriktive Maßnahmen angesichts der Lage in Haiti (ABl. L 307 vom 28.11.2022, S. 17) oder
+einen dort genannten Anspruch erfüllt oder einer dort genannten Forderung oder einem dort genannten Anspruch stattgibt. Soweit die in Satz 1 Nummer 8 genannte Vorschrift auf die Anhänge VIII, IX, XIII und XIV der Verordnung (EU) Nr. 267/2012 verweist, finden diese Anhänge in der jeweils geltenden Fassung Anwendung.
 
-17. Artikel 11 Absatz 1 der Verordnung (EU) 2023/1529 in der Fassung vom 25. Juli 2025
+(2) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 5 Absatz 1 der Verordnung (EG) Nr. 2271/96 in der Fassung vom 6. Juni 2018 einer dort genannten Forderung oder einem dort genannten Verbot nachkommt. Soweit die in Satz 1 genannten Vorschriften auf den Anhang der Verordnung (EG) Nr. 2271/96 verweisen, findet dieser Anhang in der jeweils geltenden Fassung Anwendung.
 
-einen dort genannten Anspruch erfüllt oder einer dort genannten Forderung oder einem dort genannten Anspruch stattgibt. Soweit die in Satz 1 Nummer 5 genannte Vorschrift auf die Anhänge VIII, IX, XIII und XIV der Verordnung (EU) Nr. 267/2012 verweist, finden diese Anhänge in der jeweils geltenden Fassung Anwendung.
+(3) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 4 Absatz 1 der Verordnung (EG) Nr. 2368/2022 in der Fassung vom 23. Mai 2025 ein Behältnis oder ein dazu gehöriges Zertifikat nicht oder nicht rechtzeitig einer Gemeinschaftsbehörde zur Prüfung vorlegt.
 
-(2) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 5 Absatz 1 der Verordnung (EG) Nr. 2271/96 des Rates vom 22. November 1996 zum Schutz vor den Auswirkungen der extraterritorialen Anwendung von einem Drittland erlassener Rechtsakte sowie von darauf beruhenden oder sich daraus ergebenden Maßnahmen (ABl. L 309 vom 29.11.1996, S. 1, L 179 vom 8.7.1997, S. 10), die durch die Verordnung (EG) Nr. 807/2003 (ABl. L 122 vom 16.5.2003, S. 36) geändert worden ist, einer dort genannten Forderung oder einem dort genannten Verbot nachkommt. Soweit die in Satz 1 genannten Vorschriften auf den Anhang der Verordnung (EG) Nr. 2271/96 verweisen, findet dieser Anhang in der jeweils geltenden Fassung Anwendung.
+(4) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 267 Absatz 2 der Verordnung (EU) Nr. 952/2013 in der Fassung vom 23. November 2022 eine Ware nicht oder nicht rechtzeitig gestellt.
 
-(3) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 4 Absatz 1 der Verordnung (EG) Nr. 2368/2002 des Rates vom 20. Dezember 2002 zur Umsetzung des Zertifikationssystems des Kimberley-Prozesses für den internationalen Handel mit Rohdiamanten (ABl. L 358 vom 31.12.2002, S. 28), die zuletzt durch die Durchführungsverordnung (EU) 2022/1359 (ABl. L 205 vom 5.8.2022, S. 99) geändert worden ist, ein Behältnis oder ein dazu gehöriges Zertifikat nicht oder nicht rechtzeitig einer Gemeinschaftsbehörde zur Prüfung vorlegt.
+(5) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU) Nr. 833/2014 in der Fassung vom 18. Juli 2025 verstößt, indem er vorsätzlich oder fahrlässig
 
-(4) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EG) Nr. 765/2006 in der Fassung vom 18. Juli 2025 verstößt, indem er vorsätzlich oder fahrlässig
+1. entgegen Artikel 5a Absatz 8 Buchstabe a oder b nach dem 22. Juli 2024 einen dort genannten Barbestand oder eine dort genannte Einnahme nicht richtig verbucht,
 
-1. entgegen Artikel 1gb Absatz 1 Buchstabe a eine bestehende Beteiligung ausweitet,
+2. entgegen Artikel 5a Absatz 8 Buchstabe c Satzteil vor Satz 2 nach dem 22. Juli 2024 einen dort genannten Nettogewinn veräußert,
 
-2. entgegen Artikel 1gb Absatz 1 Buchstabe b sich an einem Darlehen, einem Kredit oder einem sonstigen Finanzmittel beteiligt,
+3. entgegen Artikel 5aa Absatz 1a oder 1b Unterabsatz 1 einen dort genannten Posten bekleidet,
 
-3. entgegen Artikel 1gb Absatz 1 Buchstabe c ein dort genanntes neues Gemeinschaftsunternehmen gründet,
+4. entgegen Artikel 5ac Absatz 1 sich nach dem 1. November 2025 mit einem dort genannten System oder Nachrichtenübermittlungsdienst verbindet,
 
-4. entgegen Artikel 1j ein dort genanntes Wertpapier oder ein dort genanntes Geldmarktinstrument kauft oder anderweitig damit handelt,
+5. entgegen Artikel 5b Absatz 2a nach dem 22. Juli 2024 ein dort genanntes Eigentum, eine dort genannte Kontrolle oder die Bekleidung eines dort genannten Postens gestattet oder
 
-5. entgegen Artikel 1ja Absatz 1 eine dort genannte Transaktion vornimmt,
+6. entgegen Artikel 5o Absatz 1 einer dort genannten Person ermöglicht, einen dort genannten Posten zu bekleiden.
 
-6. entgegen Artikel 1jb ein dort genanntes Wertpapier notiert,
+(6) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig ohne Genehmigung nach Artikel 3 Absatz 2 Satz 1 der Verordnung (EU) 2015/936 in der Fassung vom 29. November 2017 eine dort genannte Einfuhr in den freien Verkehr der Union überführt.
 
-7. entgegen Artikel 1k Absatz 1 eine dort genannte Vereinbarung trifft,
+(7) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des Außenwirtschaftsgesetzes handelt, wer gegen die Durchführungsverordnung (EU) 2015/2447 in der Fassung vom 28. April 2025 verstößt, indem er vorsätzlich oder fahrlässig
 
-8. entgegen Artikel 1u Absatz 1 eine dort genannte Einlage entgegennimmt,
-
-9. entgegen Artikel 1u Absatz 3 nach dem 31. Oktober 2025 ein dort genanntes Eigentum, eine dort genannte Kontrolle oder die Bekleidung eines dort genannten Postens gestattet oder
-
-10. entgegen Artikel 1zb Absatz 1 eine dort genannte Transaktion tätigt,
-
-11. entgegen Artikel 1zc Absatz 1 Güter befördert,
-
-12. entgegen Artikel 1zc Absatz 1c nach dem 31. Oktober 2025 Güter befördert,
-
-13. entgegen Artikel 1zc Absatz 1b Unterabsatz 2 eine dort genannte Änderung vornimmt.
-
-(5) (weggefallen)
-
-(6) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU) Nr. 267/2012 verstößt, indem er vorsätzlich oder fahrlässig
-
-1. ohne Genehmigung nach Artikel 2a Absatz 1 Buchstabe d Satzteil vor Satz 2 Ziffer i, auch in Verbindung mit Satz 2, oder Artikel 3a Absatz 1 Buchstabe d eine dort genannte Vereinbarung abschließt oder
-
-2. entgegen Artikel 4b Buchstabe c eine dort genannte Vereinbarung schließt.
-
-(7) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 267 Absatz 2 der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates vom 9. Oktober 2013 zur Festlegung des Zollkodex der Union (ABl. L 269 vom 10.10.2013, S. 1), die zuletzt durch die Verordnung (EU) 2019/632 (ABl. L 111 vom 25.4.2019, S. 54) geändert worden ist, eine Ware nicht oder nicht rechtzeitig gestellt.
-
-(8) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU) Nr. 692/2014 verstößt, indem er vorsätzlich oder fahrlässig
-
-1. entgegen Artikel 2a Absatz 1 Buchstabe a oder b eine Beteiligung ausweitet,
-
-2. entgegen Artikel 2a Absatz 1 Buchstabe c eine dort genannte Vereinbarung trifft,
-
-3. entgegen Artikel 2a Absatz 1 Buchstabe d ein Gemeinschaftsunternehmen gründet,
-
-4. entgegen Artikel 2a Absatz 1 Buchstabe e eine Wertpapierdienstleistung erbringt oder
-
-5. entgegen Artikel 2d Absatz 2 mit einem dort genannten Schiff einen dort genannten Hafen anläuft oder in einem dort genannten Hafen einen Zwischenstopp einlegt.
-
-(9) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU) Nr. 833/2014 in der Fassung vom 18. Juli 2025 verstößt, indem er vorsätzlich oder fahrlässig
-
-1. entgegen Artikel 2e Absatz 3 sich an einem dort genannten Projekt beteiligt oder zu einem solchen Projekt anderweitig beiträgt,
-
-2. entgegen Artikel 2f Absatz 3 für ein Produkt oder eine Dienstleistung wirbt,
-
-3. entgegen Artikel 3a Absatz 1 Buchstabe a oder Absatz 2 Buchstabe a eine bestehende Beteiligung ausweitet,
-
-4. entgegen Artikel 3a Absatz 1 Buchstabe b oder Absatz 2 Buchstabe b sich an einem Darlehen, einem Kredit oder einem sonstigen Finanzmittel beteiligt,
-
-5. entgegen Artikel 3a Absatz 1 Buchstabe c oder Absatz 2 Buchstabe c ein dort genanntes neues Gemeinschaftsunternehmen gründet,
-
-5a. entgegen Artikel 3ea Absatz 1 mit einem dort genannten Schiff in einen Hafen oder in eine Schleuse einläuft,
-
-5b. entgegen Artikel 3g Absatz 1 Buchstabe c ein Eisen- oder Stahlerzeugnis befördert,
-
-5c. entgegen Artikel 3l Absatz 1 Güter befördert,
-
-5d. entgegen Artikel 3l Absatz 1c nach dem 31. Oktober 2025 Güter befördert,
-
-5e. entgegen Artikel 3l Absatz 1b Unterabsatz 2 eine dort genannte Änderung vornimmt,
-
-5f. entgegen Artikel 3s Absatz 1 Buchstabe a mit einem dort genannten Schiff einen dort genannten Hafen, eine dort genannte Ankerzone oder eine dort genannte Schleuse anläuft,
-
-5g. entgegen Artikel 3s Absatz 1 Buchstabe d ein dort genanntes Schiff betreibt oder mit einer Besatzung ausstattet,
-
-6. entgegen Artikel 5 Absatz 1 bis 3 oder Absatz 4 oder Artikel 5a Absatz 1 ein dort genanntes Wertpapier oder ein dort genanntes Geldmarktinstrument kauft oder anderweitig damit handelt,
-
-7. entgegen Artikel 5 Absatz 5 ein dort genanntes Wertpapier notiert oder zum Handel zulässt,
-
-8. entgegen Artikel 5 Absatz 6 Satz 1 oder Artikel 5a Absatz 2 Satz 1 eine dort genannte Vereinbarung trifft,
-
-9. entgegen Artikel 5a Absatz 4 eine dort genannte Transaktion vornimmt,
-
-10. entgegen Artikel 5a Absatz 8 Buchstabe a oder Buchstabe b nach dem 22. Juli 2024 dort genannten Barbestand oder eine dort genannte Einnahme nicht richtig verbucht oder
-
-11. entgegen Artikel 5a Absatz 8 Buchstabe c Satzteil vor Satz 2 nach dem 22. Juli 2024 einen dort genannten Nettogewinn veräußert,
-
-12. entgegen Artikel 5aa Absatz 1 ein Geschäft mit einer dort genannten juristischen Person, Organisation oder Einrichtung tätigt,
-
-13. entgegen Artikel 5aa Absatz 1a oder Absatz 1b Unterabsatz 1 einen dort genannten Posten bekleidet,
-
-13a. entgegen Artikel 5ab Absatz 1, Artikel 5ac Absatz 2 Unterabsatz 1, Artikel 5ae Absatz 1 Satz 1 oder Absatz 2 Satz 1, Artikel 5af Absatz 1 oder Artikel 5ag Absatz 1 eine dort genannte Transaktion tätigt,
-
-13b. entgegen Artikel 5ac Absatz 1 sich nach dem 31. Oktober 2025 mit einem dort genannten System oder Nachrichtenübermittlungsdienst verbindet,
-
-14. entgegen Artikel 5b Absatz 1 eine dort genannte Einlage entgegennimmt,
-
-15. entgegen Artikel 5b Absatz 2a nach dem 22. Juli 2024 ein dort genanntes Eigentum, eine dort genannte Kontrolle oder die Bekleidung eines dort genannten Postens gestattet,
-
-15a. entgegen Artikel 5h Absatz 1 in Verbindung mit Absatz 2 nach dem 31. Oktober 2025 eine dort genannte Transaktion tätigt,
-
-16. entgegen Artikel 5j Absatz 2 den dort genannten Zugang gewährt,
-
-16a. entgegen Artikel 5k Absatz 1 einen dort genannten Vertrag erfüllt,
-
-17. entgegen Artikel 5l Absatz 1 eine dort genannte Person, Organisation oder Einrichtung unterstützt,
-
-18. entgegen Artikel 5m Absatz 1 einen dort genannten Trust oder eine dort genannte ähnliche Rechtsgestaltung registriert,
-
-18a. entgegen Artikel 5m Absatz 2 nach dem 31. Oktober 2025 für einen dort genannten Trust oder eine dort genannte ähnliche Rechtsgestaltung handelt oder dies einer anderen Person ermöglicht,
-
-19. entgegen Artikel 5o Absatz 1 einer dort genannten Person ermöglicht, einen dort genannten Posten zu bekleiden oder
-
-20. entgegen Artikel 5t Absatz 1 eine Zuwendung, einen wirtschaftlichen Vorteil oder eine wirtschaftliche Unterstützung entgegennimmt.
-
-(10) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig ohne Genehmigung nach Artikel 3 Absatz 2 Satz 1 der Verordnung (EU) 2015/936 des Europäischen Parlaments und des Rates vom 9. Juni 2015 über die gemeinsame Regelung der Einfuhren von Textilwaren aus bestimmten Drittländern, die nicht unter bilaterale Abkommen, Protokolle, andere Vereinbarungen oder eine spezifische Einfuhrregelung der Union fallen (ABl. L 160 vom 25.6.2015, S. 1), eine dort genannte Einfuhr in den freien Verkehr der Union überführt.
-
-(11) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des Außenwirtschaftsgesetzes handelt, wer gegen die Durchführungsverordnung (EU) 2015/2447 der Kommission vom 24. November 2015 mit Einzelheiten zur Umsetzung von Bestimmungen der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates zur Festlegung des Zollkodex der Union (ABl. L 343 vom 29.12.2015, S. 558) verstößt, indem er vorsätzlich oder fahrlässig
-
-1. als Inhaber einer Zulassung oder Bewilligung nach Artikel 166 der Verordnung (EU) Nr. 952/2013 im Ausfuhrverfahren entgegen Artikel 224 eine in der Zulassung oder Bewilligung genannte Unterlage oder eine Unterlage, die für die Erfüllung einer in Artikel 267 Absatz 3 Buchstabe a, b oder Buchstabe c der Verordnung (EU) Nr. 952/2013 genannten Pflicht erforderlich sind, nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig bereithält,
+1. als Inhaber einer Zulassung oder Bewilligung nach Artikel 166 der Verordnung (EU) Nr. 952/2013 in der Fassung vom 23. November 2022 im Ausfuhrverfahren entgegen Artikel 224 eine in der Zulassung oder Bewilligung genannte Unterlage oder eine Unterlage, die für die Erfüllung einer in Artikel 267 Absatz 3 Buchstabe a, b oder Buchstabe c der Verordnung (EU) Nr. 952/2013 in der Fassung vom 23. November 2022 genannten Pflicht erforderlich sind, nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig bereithält,
 
 2. im Ausfuhrverfahren einer mit einer Bewilligung nach Artikel 234 Absatz 1 Buchstabe b, c, e oder Buchstabe g verbundenen vollziehbaren Auflage zuwiderhandelt,
 
@@ -2104,73 +1936,13 @@ einen dort genannten Anspruch erfüllt oder einer dort genannten Forderung oder 
 
 6. ohne Zustimmung nach Artikel 340 Absatz 3 den geänderten Beförderungsvertrag erfüllt.
 
-(12) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU) 2017/1509 verstößt, indem er vorsätzlich oder fahrlässig
-
-1. entgegen Artikel 17 Absatz 1 eine dort genannte Investition zulässt,
-
-2. entgegen Artikel 17 Absatz 2 Buchstabe a ein Gemeinschaftsunternehmen oder eine Kooperativeinrichtung gründet, unterhält oder betreibt,
-
-3. (weggefallen)
-
-4. entgegen Artikel 17 Absatz 2 Buchstabe c eine Wertpapierdienstleistung erbringt,
-
-5. entgegen Artikel 17 Absatz 2 Buchstabe d sich an einem dort genannten Gemeinschaftsunternehmen oder einer anderen Geschäftsvereinbarung beteiligt,
-
-6. entgegen Artikel 20 Absatz 1 Buchstabe a eine Immobilie verpachtet, vermietet oder auf andere Weise zur Verfügung stellt,
-
-7. entgegen Artikel 20 Absatz 1 Buchstabe b eine Immobilie pachtet oder mietet,
-
-8. entgegen Artikel 21 Absatz 1 einen Geldtransfer durchführt,
-
-9. entgegen Artikel 21 Absatz 2 eine Transaktion eingeht oder sich daran beteiligt,
-
-10. entgegen Artikel 23 Absatz 1 Buchstabe c eine Transaktion nicht ablehnt,
-
-11. entgegen Artikel 24 Buchstabe a ein Bankkonto bei einem dort genannten Kredit- oder Finanzinstitut eröffnet,
-
-12. entgegen Artikel 24 Buchstabe b eine Korrespondenzbankbeziehung zu einem dort genannten Kredit- oder Finanzinstitut aufnimmt,
-
-13. entgegen Artikel 24 Buchstabe c eine Repräsentanz eröffnet oder eine neue Zweigniederlassung oder Tochtergesellschaft gründet,
-
-14. entgegen Artikel 24 Buchstabe d ein Gemeinschaftsunternehmen mit einem dort genannten Kredit- oder Finanzinstitut gründet,
-
-15. entgegen Artikel 26 Buchstabe a ein Bankkonto bei einem dort genannten Kredit- oder Finanzinstitut nicht oder nicht rechtzeitig schließt,
-
-16. entgegen Artikel 26 Buchstabe b eine Korrespondenzbankbeziehung zu einem dort genannten Kredit- oder Finanzinstitut nicht oder nicht rechtzeitig beendet,
-
-17. entgegen Artikel 26 Buchstabe c eine Repräsentanz, Zweigniederlassung oder Tochtergesellschaft nicht oder nicht rechtzeitig schließt,
-
-18. entgegen Artikel 26 Buchstabe d ein Gemeinschaftsunternehmen mit einem dort genannten Kredit- oder Finanzinstitut nicht oder nicht rechtzeitig beendet,
-
-19. entgegen Artikel 26 Buchstabe e ein Eigentumsrecht an einem dort genannten Kredit- oder Finanzinstitut nicht oder nicht rechtzeitig aufgibt,
-
-20. entgegen Artikel 28 Absatz 1 ein Konto eröffnet,
-
-21. entgegen Artikel 28 Absatz 2 ein Konto nicht oder nicht rechtzeitig schließt,
-
-22. entgegen Artikel 30 Buchstabe b eine dort genannte Vereinbarung für oder im Namen eines dort genannten Kredit- oder Finanzinstituts schließt,
-
-23. entgegen Artikel 30 Buchstabe e eine Repräsentanz, Zweigniederlassung oder Tochtergesellschaft eines dort genannten Kredit- oder Finanzinstituts betreibt oder
-
-24. entgegen Artikel 31 Buchstabe b einen dort genannten Vermittlungsdienst erbringt.
-
-(13) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU) 2021/821 des Europäischen Parlaments und des Rates vom 20. Mai 2021 über eine Unionsregelung für die Kontrolle der Ausfuhr, der Vermittlung, der technischen Unterstützung der Durchfuhr und der Verbringung betreffend Güter mit doppeltem Verwendungszweck (ABl. L 206 vom 11.6.2021, S. 1), verstößt, indem er vorsätzlich oder fahrlässig
+(8) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU) 2021/821 in der Fassung vom 5. September 2024 verstößt, indem er vorsätzlich oder fahrlässig
 
 1. einer vollziehbaren Anordnung nach Artikel 7 Absatz 1 oder 2 Satz 1 zuwiderhandelt oder
 
 2. ohne Genehmigung nach Artikel 11 Absatz 1 Satz 1 dort genannte Güter verbringt.
 
 Soweit die in Satz 1 genannten Vorschriften auf Anhang I oder Anhang IV der Verordnung (EU) 2021/821 verweisen, finden diese Anhänge in der jeweils geltenden Fassung Anwendung.
-
-(14) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU) 2022/263 verstößt, indem er vorsätzlich oder fahrlässig
-
-1. entgegen Artikel 3 Absatz 1 Buchstabe a oder Buchstabe b eine Beteiligung ausweitet,
-
-2. entgegen Artikel 3 Absatz 1 Buchstabe c eine dort genannte Vereinbarung trifft oder
-
-3. entgegen Artikel 3 Absatz 1 Buchstabe d ein Gemeinschaftsunternehmen gründet.
-
-(15) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 1a Absatz 1 oder Artikel 1b Absatz 1 der Verordnung (EU) 2024/2642 in der Fassung vom 15. Juli 2025 eine dort genannte Transaktion tätigt.
 
 (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 29.10.2025 I Nr. 261 +++)
 

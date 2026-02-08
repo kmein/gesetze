@@ -6017,6 +6017,8 @@ e) für Rückversicherungsunternehmen;
 
 (5) Die Aufsichtsbehörde unterrichtet die Europäische Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung über alle Verwaltungssanktionen und andere Maßnahmen nach Maßgabe von Artikel 32 Absatz 3 und Artikel 36 der Richtlinie (EU) 2016/97.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 16.1.2026 I Nr. 14 +++)
+
 # § 330 – Meldungen an die Europäische Kommission
 
 (1) Die Aufsichtsbehörde meldet der Europäischen Kommission

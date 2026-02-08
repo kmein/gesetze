@@ -285,6 +285,8 @@ Die Übermittlung erfolgt mit Ablauf des zweiten Monats des Kalenderjahres, das 
 
 (11) Das Bundeszentralamt für Steuern ergreift nach den §§ 26 und 27 Maßnahmen zur Durchsetzung der Pflichten nach diesem Gesetz.
 
+(+++ § 9: Zur Anwendung vgl. § 29 +++)
+
 # § 10 – Auskunft
 
 (1) Das Bundeszentralamt für Steuern kann auf Antrag auf Grundlage eines genau bestimmten Sachverhaltes eine Auskunft erteilen über
@@ -498,6 +500,8 @@ b) relevante Tätigkeiten nach § 5 Absatz 1 Satz 1 Nummer 1 in Bezug auf unbewe
 5. sofern vorhanden, die Anzahl der Tage, an denen jede inserierte Immobilieneinheit während des Meldezeitraums zur Nutzung nach § 5 Absatz 1 Satz 1 Nummer 1 überlassen wurde;
 
 6. sofern vorhanden, zu jeder inserierten Immobilieneinheit die Grundbuchnummer oder eine gleichwertige Angabe nach dem Recht des Mitgliedstaats der Europäischen Union, in dem das unbewegliche Vermögen belegen ist.
+
+(+++ § 14: Zur Anwendung vgl. § 29 +++)
 
 # § 15 – Meldeverfahren
 

@@ -341,8 +341,6 @@ Die Weiterreichung an mit dem Anbieter im Konzernverbund stehende Unternehmen (�
 
 5. Der Anbieter muss eine Quote für Fahrspuren von mindestens 99,000 % erreichen. Die Quote für Fahrspuren wird durch die Messung der Korrektheit und Rechtzeitigkeit der Übermittlung von Fahrspuren über die Schnittstelle 005 vom Anbieter an den Mauterhebungsdienst bestimmt.
 
-6. (weggefallen)
-
 Die Einzelheiten zur Messung und Bewertung der einzelnen Qualitätsparameter sind in den Qualitätsparametern für EETS-Anbieter (Anlage 5) geregelt.
 
 (2) Der Anbieter ermöglicht dem Mauterheber oder von ihm beauftragten Dritten Zugang zu den Räumlichkeiten und technischen Systemen, um Audits über die ordnungsgemäße Einhaltung der Gebietsvorgaben durchzuführen.   
@@ -1032,8 +1030,6 @@ QP\_NUTZERLISTE von mindestens
 99,900 % erreichen. Die Nutzerlistenquote wird für jeden Kalendermonat gemessen, durch den Mauterheber festgestellt und auf drei Stellen nach dem Komma kaufmännisch gerundet.
 
 Für jeden Schlechtfall gemäß Nummer 3.4.1 Absatz 2, der die 99,900 % im relevanten Betrachtungszeitraum unterschreitet, wird dem EETS-Anbieter eine Vertragsstrafe von 500 Euro verhängt. Der relevante Betrachtungszeitraum beträgt 1 Kalendermonat.
-
-(weggefallen)
 
 Die Quote der Lieferung der Fahrspuren (QP\_FS) misst, wie viele Fahrspuren rechtzeitig im System des nationalen Mautbetreibers empfangen wurden.
 

@@ -2350,7 +2350,28 @@ zu bestimmen.
 
 Der monatliche Beitrag für ein Kalenderjahr ergibt sich, indem der Beitragssatz in der allgemeinen Rentenversicherung dieses Jahres, das der Ermittlung dieses Beitragssatzes zugrunde gelegte voraussichtliche Durchschnittsentgelt in der allgemeinen Rentenversicherung und der Wert 0,0346 miteinander vervielfältigt werden. Der Beitrag wird auf volle Euro aufgerundet. Er wird vom Bundesministerium für Arbeit und Soziales im Bundesgesetzblatt bekannt gemacht. Für mitarbeitende Familienangehörige beträgt der Beitrag die Hälfte des Beitrags eines Landwirts.
 
-(+++ § 68 Satz 3: Zum Beitrag vgl. die jeweilige "Bekanntmachung der Beiträge und der Beitragszuschüsse in der Alterssicherung der Landwirte"; ab dem Kalenderjahr 2022 vgl. die jeweilige "Bekanntmachung der Beiträge in der Alterssicherung der Landwirte" +++)
+(+++ Hinweis: Zur Höhe des Betrages nach Satz 3  
+
+    für das Kalenderjahr 2020 vgl.
+    Bek. v. 17.12.2019 I 2869 (ALBeitrBek 2020)
+     
+    für das Kalenderjahr 2021 vgl.
+    Bek. v. 9.12.2020 I 2765 (ALBeitrBek 2021)
+     
+    für das Kalenderjahr 2022 vgl.
+    Bek. v. 2.12.2021 I 5202 (ALBeitrBek 2022)
+     
+    für das Kalenderjahr 2023 vgl.
+    Bek. v. 17.11.2022 I 2135 (ALBeitrBek 2023)
+     
+    für das Kalenderjahr 2024 vgl.
+    Bek. v. 23.11.2023 I Nr. 342 (ALBeitrBek 2024)
+     
+    für das Kalenderjahr 2025 vgl.
+    Bek. v. 5.12.2024 I Nr. 404 (ALBeitrBek 2025)
+     
+    für das Kalenderjahr 2026 vgl.
+    Bek. v. 5.12.2025 I Nr. 316 (ALBeitrBek 2026) +++) 
 
 # § 69 – (weggefallen)
 

@@ -6560,19 +6560,21 @@ Dem Patienten sind Abschriften von Unterlagen, die er im Zusammenhang mit der Au
 
 # § 630f – Dokumentation der Behandlung
 
-(1) Der Behandelnde ist verpflichtet, zum Zweck der Dokumentation in unmittelbarem zeitlichen Zusammenhang mit der Behandlung eine Patientenakte in Papierform oder elektronisch zu führen. Berichtigungen und Änderungen von Eintragungen in der Patientenakte sind nur zulässig, wenn neben dem ursprünglichen Inhalt erkennbar bleibt, wann sie vorgenommen worden sind. Dies ist auch für elektronisch geführte Patientenakten sicherzustellen.
+(1) Der Behandelnde ist verpflichtet, zum Zweck der Dokumentation in unmittelbarem zeitlichen Zusammenhang mit der Behandlung eine Behandlungsakte in Papierform oder elektronisch zu führen. Berichtigungen und Änderungen von Eintragungen in der Behandlungsakte sind nur zulässig, wenn neben dem ursprünglichen Inhalt erkennbar bleibt, wann sie vorgenommen worden sind. Dies ist auch für elektronisch geführte Behandlungsakten sicherzustellen.
 
-(2) Der Behandelnde ist verpflichtet, in der Patientenakte sämtliche aus fachlicher Sicht für die derzeitige und künftige Behandlung wesentlichen Maßnahmen und deren Ergebnisse aufzuzeichnen, insbesondere die Anamnese, Diagnosen, Untersuchungen, Untersuchungsergebnisse, Befunde, Therapien und ihre Wirkungen, Eingriffe und ihre Wirkungen, Einwilligungen und Aufklärungen. Arztbriefe sind in die Patientenakte aufzunehmen.
+(2) Der Behandelnde ist verpflichtet, in der Behandlungsakte sämtliche aus fachlicher Sicht für die derzeitige und künftige Behandlung wesentlichen Maßnahmen und deren Ergebnisse aufzuzeichnen, insbesondere die Anamnese, Diagnosen, Untersuchungen, Untersuchungsergebnisse, Befunde, Therapien und ihre Wirkungen, Eingriffe und ihre Wirkungen, Einwilligungen und Aufklärungen. Arztbriefe sind in die Behandlungsakte aufzunehmen.
 
-(3) Der Behandelnde hat die Patientenakte für die Dauer von zehn Jahren nach Abschluss der Behandlung aufzubewahren, soweit nicht nach anderen Vorschriften andere Aufbewahrungsfristen bestehen.
+(3) Der Behandelnde hat die Behandlungsakte für die Dauer von zehn Jahren nach Abschluss der Behandlung aufzubewahren, soweit nicht nach anderen Vorschriften andere Aufbewahrungsfristen bestehen.
 
-# § 630g – Einsichtnahme in die Patientenakte
+# § 630g – Einsichtnahme in die Behandlungsakte
 
-(1) Dem Patienten ist auf Verlangen unverzüglich Einsicht in die vollständige, ihn betreffende Patientenakte zu gewähren, soweit der Einsichtnahme nicht erhebliche therapeutische Gründe oder sonstige erhebliche Rechte Dritter entgegenstehen. Die Ablehnung der Einsichtnahme ist zu begründen. § 811 ist entsprechend anzuwenden.
+(1) Dem Patienten ist auf Verlangen unverzüglich Einsicht in die vollständige, ihn betreffende Behandlungsakte zu gewähren. § 811 ist entsprechend anzuwenden. Der Patient kann auch Abschriften von der Behandlungsakte, einschließlich elektronischer Abschriften, verlangen. Die erste Abschrift wird unentgeltlich zur Verfügung gestellt.
 
-(2) Der Patient kann auch elektronische Abschriften von der Patientenakte verlangen. Er hat dem Behandelnden die entstandenen Kosten zu erstatten.
+(2) Das Recht nach Absatz 1 besteht nicht, soweit erhebliche therapeutische Gründe oder sonstige erhebliche Rechte Dritter entgegenstehen. Die Ablehnung der Einsichtnahme ist zu begründen.
 
-(3) Im Fall des Todes des Patienten stehen die Rechte aus den Absätzen 1 und 2 zur Wahrnehmung der vermögensrechtlichen Interessen seinen Erben zu. Gleiches gilt für die nächsten Angehörigen des Patienten, soweit sie immaterielle Interessen geltend machen. Die Rechte sind ausgeschlossen, soweit der Einsichtnahme der ausdrückliche oder mutmaßliche Wille des Patienten entgegensteht.
+(3) Im Fall des Todes des Patienten stehen die Rechte nach Absatz 1 zur Wahrnehmung der vermögensrechtlichen Interessen seinen Erben mit der Maßgabe zu, dass die Erben die entstandenen Kosten zu erstatten haben. Gleiches gilt für die nächsten Angehörigen des Patienten, soweit sie immaterielle Interessen geltend machen. Die Rechte sind ausgeschlossen, soweit der Einsichtnahme der ausdrückliche oder mutmaßliche Wille des Patienten entgegensteht.
+
+(4) Datenschutzrechtliche Rechte des Betroffenen bleiben von den Absätzen 1 bis 3 unberührt, soweit in diesem Absatz nichts anderes geregelt ist. Soweit datenschutzrechtliche Auskunftsansprüche und Informationspflichten unentgeltlich zu erfüllen sind, steht dies Entgelten für Einsichtnahmen nach Absatz 1 entgegen. Der Ausschluss des Einsichtsrechts nach Absatz 2 steht im Verhältnis zwischen Behandelndem und Patienten auch datenschutzrechtlichen Auskunftsansprüchen und Informationspflichten entgegen.
 
 # § 630h – Beweislast bei Haftung für Behandlungs- und Aufklärungsfehler
 
@@ -6580,7 +6582,7 @@ Dem Patienten sind Abschriften von Unterlagen, die er im Zusammenhang mit der Au
 
 (2) Der Behandelnde hat zu beweisen, dass er eine Einwilligung gemäß § 630d eingeholt und entsprechend den Anforderungen des § 630e aufgeklärt hat. Genügt die Aufklärung nicht den Anforderungen des § 630e, kann der Behandelnde sich darauf berufen, dass der Patient auch im Fall einer ordnungsgemäßen Aufklärung in die Maßnahme eingewilligt hätte.
 
-(3) Hat der Behandelnde eine medizinisch gebotene wesentliche Maßnahme und ihr Ergebnis entgegen § 630f Absatz 1 oder Absatz 2 nicht in der Patientenakte aufgezeichnet oder hat er die Patientenakte entgegen § 630f Absatz 3 nicht aufbewahrt, wird vermutet, dass er diese Maßnahme nicht getroffen hat.
+(3) Hat der Behandelnde eine medizinisch gebotene wesentliche Maßnahme und ihr Ergebnis entgegen § 630f Absatz 1 oder Absatz 2 nicht in der Behandlungsakte aufgezeichnet oder hat er die Behandlungsakte entgegen § 630f Absatz 3 nicht aufbewahrt, wird vermutet, dass er diese Maßnahme nicht getroffen hat.
 
 (4) War ein Behandelnder für die von ihm vorgenommene Behandlung nicht befähigt, wird vermutet, dass die mangelnde Befähigung für den Eintritt der Verletzung des Lebens, des Körpers oder der Gesundheit ursächlich war.
 
@@ -13775,7 +13777,7 @@ Die ärztlichen Kommissionsmitglieder müssen unterschiedliche kinderheilkundlic
 
 Die Stellungnahme muss von allen Mitgliedern der interdisziplinären Kommission unterschrieben sein.
 
-(6) Der Behandelnde gemäß § 630a hat, wenn eine Behandlung an den inneren oder äußeren Geschlechtsmerkmalen erfolgt ist, die Patientenakte bis zu dem Tag aufzubewahren, an dem die behandelte Person ihr 48. Lebensjahr vollendet.
+(6) Der Behandelnde gemäß § 630a hat, wenn eine Behandlung an den inneren oder äußeren Geschlechtsmerkmalen erfolgt ist, die Behandlungsakte bis zu dem Tag aufzubewahren, an dem die behandelte Person ihr 48. Lebensjahr vollendet.
 
 # § 1632 – Herausgabe des Kindes; Bestimmung des Umgangs; Verbleibensanordnung bei Familienpflege
 

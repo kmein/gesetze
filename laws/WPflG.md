@@ -54,7 +54,7 @@
 |                                    § 22                                     |                                                (weggefallen)                                                 |
 |                                    § 23                                     |                                  Heranziehung von gedienten Wehrpflichtigen                                  |
 |                                    § 24                                     |                                           Wehrüberwachung; Haftung                                           |
-|                                    § 24a                                    |                                               Änderungsdienst                                                |
+|                                    § 24a                                    |                                                (weggefallen)                                                 |
 |                                    § 24b                                    |                                      Aufenthaltsfeststellungsverfahren                                       |
 |                                                                             |                                                                                                              |
 |                                 Abschnitt 3                                 |                                                                                                              |
@@ -94,7 +94,6 @@
 |                                    § 50                                     |                             Zuständigkeit für den Erlass von Rechtsverordnungen                              |
 |                                    § 51                                     |                                        Einschränkung von Grundrechten                                        |
 |                                    § 52                                     |                                             Übergangsvorschrift                                              |
-|                                    § 53                                     |                                                (weggefallen)                                                 |
 
 # § 1 – Allgemeine Wehrpflicht
 
@@ -932,5 +931,3 @@ Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Absatz 2 Satz 1 des 
 # § 52 – Übergangsvorschrift
 
 Auf Wehrpflichtige, die vor dem Inkrafttreten des Gesetzes vom 31. Juli 2008 (BGBl. I S. 1629) unabkömmlich gestellt worden sind, ist § 13 Absatz 1 Satz 1 in der bis dahin gültigen Fassung weiterhin anzuwenden.
-
-# § 53 – (weggefallen)

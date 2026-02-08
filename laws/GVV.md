@@ -1850,10 +1850,6 @@ Die Höhe der Vergütung für die Software der Fahrzeuggeräte und zugehörigen 
 
 Für die Fahrzeuggeräte-Kommunikationskosten wurden die durchschnittlichen Kosten des Hauptdiensteanbieters herangezogen, wobei im Sinne der Ermittlung von tatsächlich marktgerechten Kosten nur zwei der aktuell drei in Nutzung befindlichen Mobilfunkanbieter berücksichtigt wurden. Es wird davon ausgegangen, dass entsprechende Verträge für Kommunikationsdienstleistungen europaweit gelten und nur geringfügig in Bezug auf Datenmengen und Bandbreiten variieren. Aus diesem Grunde werden Synergieeffekte in Höhe von 25 % angesetzt. Die EETS-Anbieter erhalten einen Aufschlag auf die Vergütung für die Fahrzeuggeräte-Kommunikationskosten, da die Fahrzeuggeräte des Hauptdiensteanbieters nur in Ausnahmefällen im Ausland kommunizieren müssen, während davon ausgegangen wird, dass Fahrzeuggeräte der EETS-Anbieter regelmäßig im Ausland kommunizieren müssen.
 
-(weggefallen)
-
-(weggefallen)
-
 4\. Mautabrechnung und Auskehr an den Mauterheber
 
 Die Leistungen umfassen die Mautabrechnung gegenüber dem Nutzer und Mautauskehr gegenüber dem Mauterheber. Die Erbringung der Leistungen erfordert dabei IT-Systeme (z. B. SAP-System). Personalkosten für die Betreuung der Mautabrechnung wurden dem Nutzungs- und Zahlungsprovisionsentgelt zugeordnet. Die Höhe der Vergütung wurde auf Basis der Implementierungs- und Betriebskosten des Hauptdiensteanbieters abgeschätzt. Die für die Vergütung herangezogenen Kosten des Hauptdiensteanbieters beinhalten auch die notwendigen Testkosten für die IT-Systeme vor ihrer Produktivsetzung. Die Implementierungskosten wurden über die angenommene Nutzungsdauer abgeschrieben.

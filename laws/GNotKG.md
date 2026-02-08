@@ -1049,15 +1049,6 @@ Wird eine Schätzung des Geschäftswerts durch Sachverständige erforderlich, is
 
 (8) Die Verfahren sind gebührenfrei. Kosten werden nicht erstattet.
 
-(+++ § 81: Zur Anwendung vgl. § 82 Abs. 2 +++)  
-(+++ § 81 Abs. 3: Zur Anwendung vgl. § 82 Abs. 1 Satz 2 u. § 83 Abs. 1 Satz 5 +++)  
-(+++ § 81 Abs. 3 S 1 bis 3: Zur Anwendung vgl. § 83 Abs. 2 Satz 6 +++)  
-(+++ § 81 Abs. 4: Zur Anwendung vgl. § 82 Abs. 1 Satz 2 u. § 83 Abs. 1 Satz 5 +++)  
-(+++ § 81 Abs. 5 Satz 1 u. 4: Zur Anwendung vgl. § 82 Abs. 1 Satz 2 u. § 83 Abs. 1 Satz 5 +++)  
-(+++ § 81 Abs. 5 Satz 1, 2 u. 4: Zur Anwendung vgl. § 83 Abs. 2 Satz 6 +++)  
-(+++ § 81 Abs. 6: Zur Anwendung vgl. § 82 Abs. 1 Satz 2 u. § 83 Abs. 1 Satz 5 u. Abs. 2 Satz 6 +++)  
-(+++ § 81 Abs. 8: Zur Anwendung vgl. § 82 Abs. 1 Satz 2 +++)
-
 # § 82 – Beschwerde gegen die Anordnung einer Vorauszahlung
 
 (1) Gegen den Beschluss, durch den aufgrund dieses Gesetzes die Tätigkeit des Gerichts von der vorherigen Zahlung von Kosten abhängig gemacht wird, und wegen der Höhe des in diesem Fall im Voraus zu zahlenden Betrags ist stets die Beschwerde statthaft. § 81 Absatz 3 bis 5 Satz 1 und 4 und Absatz 6 und 8 ist entsprechend anzuwenden.

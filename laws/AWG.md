@@ -221,7 +221,7 @@ Satz 1 gilt insbesondere dann, wenn infolge des Erwerbs die sicherheitspolitisch
 
 # § 5a – Vorläufige Beschränkungen zur Umsetzung von Resolutionen des Sicherheitsrates der Vereinten Nationen
 
-(1) Werden vom Sicherheitsrat der Vereinten Nationen nach Kapitel VII der Charta der Vereinten Nationen auf Grund der Resolutionen 751 (1992), 1267 (1999), 1518 (2003), 1533 (2004), 1591 (2004), 1718 (2006), 1970 (2011), 1988 (2011), 2048 (2012), 2127 (2013), 2140 (2014), 2206 (2015), 2231 (2015), 2374 (2017) oder 2653 (2022) wirtschaftliche Sanktionsmaßnahmen gegen natürliche oder juristische Personen oder rechtsfähige Personengesellschaften beschlossen, die mit einer Aufnahme dieser natürlichen oder juristischen Personen oder rechtsfähigen Personengesellschaften in die vom Sicherheitsrat geführte und im Internet abrufbare konsolidierte Sanktionsliste des Sicherheitsrates der Vereinten Nationen<span id="FnR.f824634_01"></span><a href="#f824634_01" class="FnR">1</a></sup> einhergehen, gelten mit der Veröffentlichung dieser Aufnahme durch eine ebenfalls im Internet abrufbare Pressemitteilung des Sicherheitsrates der Vereinten Nationen<span id="FnR.f824634_02"></span><a href="#f824634_02" class="FnR">2</a></sup> die folgenden vorläufigen Beschränkungen:
+(1) Werden vom Sicherheitsrat der Vereinten Nationen nach Kapitel VII der Charta der Vereinten Nationen auf Grund der Resolutionen 751 (1992), 1267 (1999), 1518 (2003), 1533 (2004), 1591 (2004), 1696 (2006), 1718 (2006), 1737 (2006), 1747 (2007), 1803 (2008), 1835 (2008) und 1929 (2010), 1970 (2011), 1988 (2011), 2048 (2012), 2127 (2013), 2140 (2014), 2206 (2015), 2231 (2015), 2374 (2017) oder 2653 (2022) wirtschaftliche Sanktionsmaßnahmen gegen natürliche oder juristische Personen oder rechtsfähige Personengesellschaften beschlossen, die mit einer Aufnahme dieser natürlichen oder juristischen Personen oder rechtsfähigen Personengesellschaften in die vom Sicherheitsrat geführte und im Internet abrufbare konsolidierte Sanktionsliste des Sicherheitsrates der Vereinten Nationen¹ einhergehen, gelten mit der Veröffentlichung dieser Aufnahme durch eine ebenfalls im Internet abrufbare Pressemitteilung des Sicherheitsrates der Vereinten Nationen² die folgenden vorläufigen Beschränkungen:
 
 1. Verfügungen über Gelder oder wirtschaftliche Ressourcen, die im Eigentum oder unmittelbar oder mittelbar im Besitz oder unter der Kontrolle der betreffenden Personen oder rechtsfähigen Personengesellschaften stehen, sind untersagt und
 
@@ -248,6 +248,80 @@ beschränkt werden.
 (2) Die Anordnung tritt sechs Monate nach ihrem Erlass außer Kraft, sofern die Beschränkung oder Handlungspflicht nicht durch Rechtsverordnung vorgeschrieben wird. Satz 1 gilt nicht für einen Verwaltungsakt nach Absatz 1 Satz 2, soweit durch Nebenbestimmungen eine abweichende Geltungsdauer bestimmt ist.
 
 (3) § 4 Absatz 3 und 4 und § 5 Absatz 5 gelten entsprechend.
+
+# § 6a – Treuhandverwaltung von Unternehmen anlässlich der Durchführung von Sanktionsmaßnahmen
+
+(1) Ein inländisches Unternehmen, das einem Geschäftsverbot nach Artikel 5aa Absatz 1 Buchstabe c der Verordnung (EU) Nr. 833/2014 unterliegt und das selbst oder dessen verbundenes Unternehmen im Sinne von § 15 des Aktiengesetzes ein inländisches Unternehmen im Sinne des § 55a Absatz 1 der Außenwirtschaftsverordnung vom 2. August 2013 (BGBl. I S. 2865), die zuletzt durch Artikel 2 der Verordnung vom 11. Dezember 2024 (BGBl. I 2024 Nr. 411) geändert worden ist, ist, kann unter Treuhandverwaltung gestellt werden, wenn ohne eine Treuhandverwaltung eine konkrete Gefahr im Einzelfall für die in § 4 Absatz 1, auch in Verbindung mit Absatz 2, genannten Rechtsgüter besteht. Die Treuhandverwaltung kann bei Vorliegen der in Satz 1 genannten Voraussetzungen auch angeordnet werden, wenn das Unternehmen bereits auf der Grundlage anderer gesetzlicher Bestimmungen einer öffentlich-rechtlichen Treuhandverwaltung oder einer gesetzlich angeordneten oder behördlich genehmigten vergleichbaren Firewall-Maßnahme unterliegt und die Treuhandverwaltung nach Satz 1 diese Maßnahmen ersetzen soll. Der Anordnung einer Treuhandverwaltung steht es nicht entgegen, wenn das Unternehmen einen Antrag auf Bestellung eines Anteilspflegers nach § 6b Absatz 1 Satz 1 gestellt hat.
+
+(2) Die Anordnung der Treuhandverwaltung erfolgt durch Verwaltungsakt. Der Verwaltungsakt kann öffentlich bekannt gegeben werden. Eine öffentliche Bekanntgabe wird durch Veröffentlichung des Verwaltungsakts im Bundesanzeiger bewirkt. Der Verwaltungsakt wird mit dieser Veröffentlichung wirksam. Vor Anordnung der Treuhandverwaltung kann das Bundesministerium für Wirtschaft und Energie von einer Anhörung nach § 28 Absatz 1 des Verwaltungsverfahrensgesetzes absehen, soweit diese mit unverhältnismäßigem Aufwand verbunden wäre oder den Zweck der Anordnung der Treuhandverwaltung gefährden würde.
+
+(3) Das Bundesministerium für Wirtschaft und Energie überprüft das Fortbestehen der Voraussetzungen für die Anordnung der Treuhandverwaltung alle sechs Monate. Die Anordnung der Treuhandverwaltung ist durch Verwaltungsakt aufzuheben, wenn die Voraussetzungen für die Anordnung nach Absatz 1 entfallen sind. Die Anordnung der Treuhandverwaltung erlischt, wenn Artikel 5aa Absatz 1 Buchstabe c der Verordnung (EU) Nr. 833/2014 aufgehoben wird. Wurde die Anordnung der Treuhandverwaltung öffentlich bekannt gegeben nach Absatz 2 Satz 2, ist auch die Aufhebung oder das Erlöschen der Anordnung der Treuhandverwaltung von Amts wegen im Bundesanzeiger zu veröffentlichen.
+
+(4) Die Anordnung einer Treuhandverwaltung nach Absatz 2 Satz 1 kann insbesondere vorsehen, dass
+
+1. die Wahrnehmung der Stimmrechte einzelner oder sämtlicher sanktionierter Gesellschafter des Unternehmens ausgeschlossen ist,
+
+2. die Stimmrechte aus einzelnen oder sämtlichen Anteilen an dem Unternehmen auf eine Stelle des Bundes übergehen und diese Stelle berechtigt ist, Mitglieder der Geschäftsleitung abzuberufen, neu zu bestellen sowie der Geschäftsleitung Weisungen zu erteilen,
+
+3. die Verwaltungs- und Verfügungsbefugnis der Geschäftsleitung in Bezug auf das Vermögen des Unternehmens beschränkt ist und Verfügungen unter dem Vorbehalt der Zustimmung der nach Nummer 2 benannten Stelle des Bundes stehen.
+
+Die Übertragung von Anteilen an dem unter Treuhandverwaltung gestellten Unternehmen durch den Treuhänder ist nicht zulässig.
+
+(5) Eine Anfechtungsklage gegen einen Verwaltungsakt nach Absatz 2 Satz 1 hat keine aufschiebende Wirkung. Das Oberverwaltungsgericht entscheidet im ersten Rechtszug über eine Anfechtungsklage nach Satz 1 und über Anträge nach den §§ 80 und 80a der Verwaltungsgerichtsordnung. Abweichend von § 113 Absatz 1 Satz 1 der Verwaltungsgerichtsordnung entscheidet das Oberverwaltungsgericht auch darüber, dass Rechtshandlungen im Fall einer Aufhebung eines Verwaltungsakts nach Absatz 2 Satz 1 wirksam bleiben können.
+
+(6) Soweit die Rechtswirkungen eines Verwaltungsakts nach Absatz 2 Satz 1 über die Sozialbindung des Eigentums nach Artikel 14 Absatz 2 des Grundgesetzes hinausgehen, ist ein angemessener Ausgleich zu leisten. Der Ausgleich wird auf Antrag durch das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium der Finanzen durch Verwaltungsakt festgesetzt. Der Antrag setzt voraus, dass sich der Antragsteller auf das Grundrecht aus Artikel 14 Absatz 1 Satz 1 des Grundgesetzes berufen kann, und kann nur innerhalb eines Monats nach Beendigung der Treuhandverwaltung gestellt werden. Gegen den Verwaltungsakt des Bundesministeriums für Wirtschaft und Energie nach Satz 2 ist der Verwaltungsrechtsweg gegeben.
+
+(7) Die Kosten der Treuhandverwaltung hat das unter Treuhandverwaltung gestellte Unternehmen zu tragen, das auf Verlangen der nach Absatz 4 Satz 1 Nummer 2 benannten Stelle des Bundes hierauf Vorschüsse zu leisten hat.
+
+(8) § 4 Absatz 4 gilt entsprechend.
+
+# § 6b – Bestellung und Aufgaben eines Anteilspflegers
+
+(1) Auf Antrag einer Gesellschaft mit Sitz in der Bundesrepublik Deutschland bestellt das Gericht einen Anteilspfleger, der die Verwaltungsrechte aus der Gesellschafterstellung des im Antrag benannten Gesellschafters wahrnimmt. Die Bestellung des Antragspflegers setzt voraus, dass
+
+1. die Bestellung für die Handlungsfähigkeit der Gesellschafterversammlung oder der Gesellschaft erforderlich ist und
+
+2. der Gesellschafter, dessen Rechte der Anteilspfleger wahrnehmen soll, an der eigenen Wahrnehmung dieser Rechte und Pflichten auf Grund des Geschäftsverbots gemäß Artikel 5aa Absatz 1 in Verbindung mit Anhang XIX der Verordnung (EU) Nr. 833/2014 gehindert ist.
+
+Örtlich zuständig ist ausschließlich das Amtsgericht, in dessen Bezirk die Gesellschaft ihren Sitz hat.
+
+(2) Zum Anteilspfleger kann nur bestellt werden, wer keine der den Antrag stellenden Gesellschaft oder der mit dieser im Sinne des § 15 des Aktiengesetzes verbundenen Unternehmen oder ihrer Gesellschafter im Sinne des § 138 Absatz 2 der Insolvenzordnung vom 5. Oktober 1994 (BGBl. I S. 2866), die zuletzt durch Artikel 6 des Gesetzes vom 15. Juli 2024 (BGBl. 2024 I Nr. 236) geändert worden ist, nahestehende Person ist und die Voraussetzungen für die Bestellung als Geschäftsführer gemäß § 6 Absatz 2 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung und die Voraussetzungen für die Bestellung zum Aufsichtsrat gemäß § 100 des Aktiengesetzes erfüllt. Die Bestellung kann nicht gegen den Willen des Bestellten erfolgen.
+
+(3) Die Auswahl des Anteilspflegers erfolgt nach freiem Ermessen des Gerichts.
+
+(4) Der Anteilspfleger berichtet dem Gericht alle sechs Monate ab Bestellung über die Vorgänge, die er unter Ausübung der ihm zur Ausübung zugewiesenen Gesellschafterrechte behandelt hat.
+
+(5) Die Kosten der Anteilspflegschaft trägt die Gesellschaft. Der Anteilspfleger hat gegen die Gesellschaft Anspruch auf eine angemessene Vergütung und die Erstattung seiner angemessenen Auslagen. Die Festlegung der Vergütung erfolgt durch Vereinbarung zwischen dem Anteilspfleger und der Gesellschaft.
+
+# § 6c – Pflichten und Befugnisse des Anteilspflegers
+
+(1) Der Anteilspfleger ist unabhängig und nicht an Weisungen gebunden.
+
+(2) Der Anteilspfleger ist nicht zur Veräußerung des Gesellschaftsanteils des Gesellschafters berechtigt, dessen Rechte und Pflichten er wahrnimmt.
+
+# § 6d – Aufsicht über den Anteilspfleger
+
+(1) Der Anteilspfleger steht unter der Aufsicht des gemäß § 6b Absatz 1 zuständigen Gerichts. Das Gericht kann jederzeit Auskünfte über den Sachstand und die Wahrnehmung der Rechte von ihm verlangen.
+
+(2) Das Gericht kann gegen Pflichtwidrigkeiten des Anteilspflegers durch geeignete Gebote und Verbote einschreiten. Zur Befolgung seiner Anordnungen kann es den Anteilspfleger durch die Festsetzung von Zwangsgeld anhalten. In der Anordnung hat das Gericht auf die Folgen einer Zuwiderhandlung gegen die Anordnung hinzuweisen. Der Beschluss, durch den das Zwangsgeld festgesetzt wird, ist mit der sofortigen Beschwerde in entsprechender Anwendung der §§ 567 bis 572 der Zivilprozessordnung anfechtbar.
+
+(3) Absatz 2 gilt entsprechend für die Durchsetzung der Herausgabepflichten nach Beendigung des Amts als Anteilspfleger.
+
+# § 6e – Ende der Befugnisse des Anteilspflegers
+
+(1) Das Gericht hebt die Anteilspflegschaft auf, sobald die Voraussetzungen nach § 6b Absatz 1 Satz 2 entfallen sind.
+
+(2) Solange die Voraussetzungen nach § 6b Absatz 1 Satz 2 vorliegen, kann das Gericht die Bestellung des Anteilspflegers auf dessen Antrag hin widerrufen und eine andere Person zum Anteilspfleger bestellen. Darüber hinaus kann das Gericht die Bestellung des Anteilspflegers jederzeit aus wichtigem Grund widerrufen und eine andere Person zum Anteilspfleger bestellen.
+
+# § 6f – Haftung des Anteilspflegers
+
+(1) Der Anteilspfleger ist dem Gesellschafter, dessen Rechte und Pflichten er wahrnimmt, zum Schadensersatz nur verpflichtet, wenn er den Schaden grob fahrlässig oder vorsätzlich verursacht hat.
+
+(2) Soweit sich der Anteilspfleger zur Erfüllung der ihm obliegenden Pflichten Dritter bedient, hat der Anteilspfleger ein Verschulden dieser Personen nicht gemäß § 278 des Bürgerlichen Gesetzbuchs zu vertreten, sondern ist nur für deren Überwachung und für Entscheidungen von besonderer Bedeutung verantwortlich.
+
+# § 6g – Verjährung der Haftungsansprüche gegen den Anteilspfleger
+
+Die Verjährung des Anspruchs nach § 6f richtet sich nach den Vorschriften des Bürgerlichen Gesetzbuchs.
 
 # § 7 – Einzeleingriff im Seeverkehr außerhalb des deutschen Küstenmeeres
 
@@ -333,7 +407,7 @@ c) der Rechtsakte der Europäischen Union auf Grund der in den Buchstaben a und 
 
 (5) Absatz 4 ist nicht anzuwenden auf Rechtsverordnungen, durch welche die Bundesregierung oder das Bundesministerium für Wirtschaft und Energie gemäß § 4 Absatz 2 Beschränkungen des Güter-, Kapital- oder Zahlungsverkehrs mit dem Ausland angeordnet oder aufgehoben hat, und auf Rechtsverordnungen gemäß § 30 Absatz 2.
 
-# § 13 – Zuständigkeiten für den Erlass von Verwaltungsakten und für die Entgegennahme von Meldungen
+# § 13 – Zuständigkeiten für den Erlass von Verwaltungsakten und für die Entgegennahme von Meldungen; Vollzug von wirtschaftlichen Sanktionsmaßnahmen
 
 (1) Für den Erlass von Verwaltungsakten und die Entgegennahme von Meldungen auf Grund dieses Gesetzes und der nach diesem Gesetz erlassenen Rechtsverordnungen sowie auf Grund von Rechtsakten des Rates oder der Kommission der Europäischen Union im Bereich des Außenwirtschaftsrechts ist das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) zuständig, soweit in anderen Gesetzen, in diesem Gesetz oder auf Grund einer nach diesem Gesetz erlassenen Rechtsverordnung nichts anderes bestimmt ist.
 
@@ -351,7 +425,9 @@ c) im Fall des § 4 Absatz 1 Nummer 4 und 4a in Verbindung mit § 5 Absatz 2 und
 
 d) im Fall des § 4 Absatz 1 Nummer 1 in Verbindung mit § 5 Absatz 3 und einer auf Grund dieser Vorschriften erlassenen Rechtsverordnung,
 
-e) für die Wahrnehmung der Aufgaben und Befugnisse der Kontaktstelle im Sinne des Artikels 11 Absatz 1 der Verordnung (EU) 2019/425,
+e) im Fall des § 6a Absatz 1,
+
+f) für die Wahrnehmung der Aufgaben und Befugnisse der Kontaktstelle im Sinne des Artikels 11 Absatz 1 der Verordnung (EU) 2019/425,
 
 3. das Bundesministerium für Verkehr und digitale Infrastruktur für Anordnungen im Bereich des Dienstleistungsverkehrs auf dem Gebiet des Verkehrswesens nach § 4 Absatz 1 und 2 in Verbindung mit einer auf Grund dieser Vorschrift erlassenen Rechtsverordnung sowie auf Grund von Rechtsakten des Rates oder der Kommission der Europäischen Union im Bereich des Außenwirtschaftsrechts,
 
@@ -368,6 +444,8 @@ e) für die Wahrnehmung der Aufgaben und Befugnisse der Kontaktstelle im Sinne d
 (5) In den Fällen des Absatzes 2 Nummer 3 und 4 kann das zuständige Bundesministerium seine Zuständigkeit für die dort genannte Aufgabenwahrnehmung auf eine Bundesoberbehörde oder Bundesanstalt seines Geschäftsbereichs übertragen.
 
 (6) Bei Gefahr im Verzug hat das Bundesministerium für Wirtschaft und Energie abweichend von Absatz 2 Nummer 2 Buchstabe a lediglich das Benehmen mit dem Auswärtigen Amt, dem Bundesministerium der Finanzen und der Deutschen Bundesbank herzustellen.
+
+(7) Bei dem Vollzug von Beschränkungen und Handlungspflichten auf Grund einer vom Rat der Europäischen Union im Bereich der Gemeinsamen Außen- und Sicherheitspolitik beschlossenen wirtschaftlichen Sanktionsmaßnahme, einschließlich der Durchsetzung der in § 18 Absatz 1 Nummer 2 genannten Pflichten, können die Amtsträger der nach diesem Gesetz und dem Sanktionsdurchsetzungsgesetz zuständigen Behörden in Ausübung ihres pflichtgemäßen Ermessens einem priorisierenden Ansatz folgen. Bei der Priorisierung kann insbesondere auf die Art und Bedeutung der Gefahren für die in Beschlüssen des Rates der Europäischen Union über wirtschaftliche Sanktionsmaßnahmen im Bereich der Gemeinsamen Außen- und Sicherheitspolitik genannten Ziele abgestellt werden.
 
 (+++ § 13: Zur Anwendung vgl. § 31 Satz 1 +++)
 
@@ -487,45 +565,97 @@ soweit dies erforderlich ist, um die ordnungsgemäße Durchführung eines Prüfv
 
 beschlossenen wirtschaftlichen Sanktionsmaßnahme dient, oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung sich auf Güter des Teils I Abschnitt A der Ausfuhrliste bezieht und für einen bestimmten Tatbestand auf diese Strafvorschrift verweist.
 
-(2) Mit Freiheitsstrafe nicht unter einem Jahr wird bestraft, wer in den Fällen des Absatzes 1
+(1a) Ebenso wird bestraft, wer gegen eine unmittelbar geltende Vorschrift in einem Rechtsakt der Europäischen Union verstößt, der der Durchführung einer vom Rat der Europäischen Union im Bereich der Gemeinsamen Außen- und Sicherheitspolitik beschlossenen wirtschaftlichen Sanktionsmaßnahme dient, indem er einem dort genannten Verbot
+
+1. des Handels mit Gütern, der Einfuhr, Ausfuhr, Verbringung, Lieferung, Durchfuhr, Weitergabe oder Beförderung von Gütern oder des Verkaufs oder Kaufs von Gütern oder
+
+2. der Erbringung eines Vermittlungsdienstes
+
+zuwiderhandelt, wenn sich die Tat auf in der Gemeinsamen Militärgüterliste der Europäischen Union vom 19. Februar 2024 (ABl. C, C/2024/1945, 1.3.2024) aufgeführte Güter und Technologien mit oder ohne Ursprung in der Europäischen Union bezieht.
+
+(2) Mit Freiheitsstrafe nicht unter einem Jahr wird bestraft, wer in den Fällen der Absätze 1 und 1a
 
 1. für den Geheimdienst einer fremden Macht handelt oder
 
 2. gewerbsmäßig oder als Mitglied einer Bande handelt, die sich zur fortgesetzten Begehung solcher Taten verbunden hat.
 
-(3) Mit Freiheitsstrafe nicht unter zwei Jahren wird bestraft, wer in den Fällen des Absatzes 1 als Mitglied einer Bande, die sich zur fortgesetzten Begehung solcher Taten verbunden hat, gewerbsmäßig handelt.
+(3) Mit Freiheitsstrafe nicht unter zwei Jahren wird bestraft, wer in den Fällen der Absätze 1 und 1a als Mitglied einer Bande, die sich zur fortgesetzten Begehung solcher Taten verbunden hat, gewerbsmäßig handelt.
 
-(4) In minder schweren Fällen des Absatzes 1 ist die Strafe Freiheitsstrafe von drei Monaten bis zu fünf Jahren.
+(4) In minder schweren Fällen der Absätze 1 und 1a ist die Strafe Freiheitsstrafe von drei Monaten bis zu fünf Jahren.
 
-(5) Handelt der Täter in den Fällen des Absatzes 1 leichtfertig, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
+(5) Handelt der Täter in den Fällen der Absätze 1 und 1a leichtfertig, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
-(6) In den Fällen des Absatzes 1 steht einem Handeln ohne Genehmigung ein Handeln auf Grund einer durch Drohung, Bestechung oder Kollusion erwirkten oder durch unrichtige oder unvollständige Angaben erschlichenen Genehmigung gleich.
+(6) In den Fällen der Absätze 1 und 1a steht einem Handeln ohne Genehmigung ein Handeln auf Grund einer durch Drohung, Bestechung oder Kollusion erwirkten oder durch unrichtige oder unvollständige Angaben erschlichenen Genehmigung gleich.
 
 (7) Die Absätze 1 bis 6 gelten, unabhängig vom Recht des Tatorts, auch für Taten, die im Ausland begangen werden, wenn der Täter Deutscher ist.
 
 # § 18 – Strafvorschriften
 
-(1) Mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren wird bestraft, wer
+(1) Mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren wird bestraft, wer gegen eine unmittelbar geltende Vorschrift in einem Rechtsakt der Europäischen Union verstößt, der der Durchführung einer vom Rat der Europäischen Union im Bereich der Gemeinsamen Außen- und Sicherheitspolitik beschlossenen wirtschaftlichen Sanktionsmaßnahme dient, indem er
 
-1. einem
+1. einem dort genannten Verbot
 
-a) Ausfuhr-, Einfuhr-, Durchfuhr-, Verbringungs-, Verkaufs-, Erwerbs-, Liefer-, Bereitstellungs-, Weitergabe- oder Investitionsverbot oder
+a) des Handels mit Gütern, der Einfuhr, Ausfuhr, Verbringung, Lieferung, Durchfuhr, Weitergabe oder Beförderung von Gütern oder des Verkaufs oder Kaufs von Gütern,
 
-b) Sende-, Übertragungs-, Verbreitungs- oder sonstigen Dienstleistungsverbot oder
+b) der Erbringung technischer Hilfe, eines Vermittlungsdienstes, einer Versicherung oder einer sonstigen Dienstleistung für eine in Buchstabe a genannte Handlung oder dort genannte Güter,
 
-c) Verfügungsverbot über eingefrorene Gelder und wirtschaftliche Ressourcen
+c) der Bereitstellung eines Finanzmittels, einer Finanzhilfe oder eines Krypto-Wallets, der Erbringung eines Ratingdienstes, einer Investitionsdienstleistung, des Wertpapierhandels, des Handels mit Geldmarktinstrumenten oder einer sonstigen Wertpapier- oder Finanzdienstleistung, einer Transaktion mit einer Zentralbank oder juristischen Person, Organisation oder Einrichtung, die im Namen oder auf Anweisung einer Zentralbank handelt, oder der Ausübung einer sonstigen Finanztätigkeit,
 
-eines im Amtsblatt der Europäischen Gemeinschaften oder der Europäischen Union veröffentlichten unmittelbar geltenden Rechtsaktes der Europäischen Gemeinschaften oder der Europäischen Union zuwiderhandelt, der der Durchführung einer vom Rat der Europäischen Union im Bereich der Gemeinsamen Außen- und Sicherheitspolitik beschlossenen wirtschaftlichen Sanktionsmaßnahme dient oder
+d) der Erbringung einer Rechtsberatung, Public-Relations-Beratung, Wirtschaftsprüfung, Buchführung, Steuerberatung, Unternehmens- oder Managementberatung, IT-Beratung, eines Vertrauensdienstes, einer Sende-, Übertragungs-, Verbreitungs- oder sonstigen Rundfunkdienstleistung, einer Architektur- oder Ingenieursdienstleistung oder einer gleichartigen Dienstleistung,
 
-2. gegen eine Genehmigungspflicht für
+e) des Abschlusses oder der Fortführung eines Miet- oder Pachtvertrags oder einer sonstigen Transaktion mit einem Drittstaat, mit einer Einrichtung eines Drittstaats oder mit einer Organisation oder Einrichtung, die sich im unmittelbaren oder mittelbaren Eigentum oder unter der unmittelbaren oder mittelbaren Kontrolle eines Drittstaats oder einer Einrichtung eines Drittstaats befindet,
 
-a) die Ausfuhr, Einfuhr, Durchfuhr, Verbringung, einen Verkauf, einen Erwerb, eine Lieferung, Bereitstellung, Weitergabe oder Investition,
+f) der Vergabe eines öffentlichen Auftrags oder einer Konzession an einen Drittstaat, an eine Einrichtung eines Drittstaats oder an eine Organisation oder Einrichtung, die sich im unmittelbaren oder mittelbaren Eigentum oder unter der unmittelbaren oder mittelbaren Kontrolle eines Drittstaats oder einer Einrichtung eines Drittstaats befindet, oder der Fortführung eines solchen Auftrags oder einer solchen Konzession,
 
-b) eine Sendung, Übertragung, Verbreitung oder sonstige Dienstleistung oder
+g) der Gründung eines Gemeinschaftsunternehmens oder einer sonstigen Investition oder
 
-c) die Verfügung über eingefrorene Gelder oder wirtschaftliche Ressourcen
+h) der Bereitstellung von Geldern oder wirtschaftlichen Ressourcen
 
-eines im Amtsblatt der Europäischen Gemeinschaften oder der Europäischen Union veröffentlichten unmittelbar geltenden Rechtsaktes der Europäischen Gemeinschaften oder der Europäischen Union verstößt, der der Durchführung einer vom Rat der Europäischen Union im Bereich der Gemeinsamen Außen- und Sicherheitspolitik beschlossenen wirtschaftlichen Sanktionsmaßnahme dient.
+zuwiderhandelt,
+
+2. einer dort genannten Pflicht zur Verhinderung
+
+a) der Bewegung, des Transfers, der Veränderung oder der Verwendung von Geldern,
+
+b) des Zugangs zu Geldern,
+
+c) des Einsatzes von Geldern in einer Weise, die
+
+aa)  
+die Höhe, die Belegenheit, das Eigentum, den Besitz, eine Eigenschaft oder die Zweckbestimmung der Gelder verändert, oder
+
+bb)  
+eine Veränderung bewirkt, die eine Nutzung der Gelder ermöglicht, oder
+
+d) der Verwendung von wirtschaftlichen Ressourcen für den Erwerb von Geldern, Gütern oder Dienstleistungen
+
+zuwiderhandelt,
+
+3. einem dort genannten Verbot der Umgehung einer in Nummer 2 genannten Pflicht zuwiderhandelt, indem er
+
+a) Gelder oder wirtschaftliche Ressourcen, auf die sich eine in Nummer 2 genannte Pflicht bezieht, verwendet oder an einen Dritten transferiert oder über solche Gelder oder wirtschaftliche Ressourcen in sonstiger Weise verfügt, um diese Gelder oder wirtschaftlichen Ressourcen zu verschleiern, oder
+
+b) eine falsche oder irreführende Information zur Verschleierung des Eigentümers oder des Begünstigten von Geldern oder wirtschaftlichen Ressourcen, auf die sich eine in Nummer 2 genannte Pflicht bezieht, bereitstellt oder
+
+4. einer dort genannten Genehmigungspflicht für
+
+a) den Handel mit Gütern, die Einfuhr, Ausfuhr, Verbringung, Lieferung, Durchfuhr, Weitergabe oder Beförderung von Gütern oder den Verkauf oder Kauf von Gütern,
+
+b) die Erbringung technischer Hilfe, eines Vermittlungsdienstes, einer Versicherung oder einer sonstigen Dienstleistung in Bezug auf eine in Buchstabe a genannte Handlung oder dort genannte Güter,
+
+c) die Bereitstellung eines Finanzmittels, einer Finanzhilfe oder eines Krypto-Wallets, die Erbringung eines Ratingdienstes, einer Investitionsdienstleistung, des Wertpapierhandels, des Handels mit Geldmarktinstrumenten oder einer sonstigen Wertpapier- oder Finanzdienstleistung, eine Transaktion mit einer Zentralbank oder juristischen Person, Organisation oder Einrichtung, die im Namen oder auf Anweisung einer Zentralbank handelt, oder die Ausübung einer sonstigen Finanztätigkeit,
+
+d) die Erbringung einer Rechtsberatung, Public-Relations-Beratung, Wirtschaftsprüfung, Buchführung, Steuerberatung, Unternehmens- oder Managementberatung, IT-Beratung, eines Vertrauensdienstes, einer Sende-, Übertragungs-, Verbreitungs- oder sonstigen Rundfunkdienstleistung, einer Architektur- oder Ingenieursdienstleistung oder einer gleichartigen Dienstleistung,
+
+e) den Abschluss oder die Fortführung eines Miet- oder Pachtvertrags oder einer sonstigen Transaktion mit einem Drittstaat, mit einer Einrichtung eines Drittstaats oder mit einer Einrichtung oder einer Organisation, die sich im unmittelbaren oder mittelbaren Eigentum oder unter der unmittelbaren oder mittelbaren Kontrolle eines Drittstaats oder einer Einrichtung eines Drittstaats befindet,
+
+f) die Vergabe eines öffentlichen Auftrags oder einer Konzession an einen Drittstaat, an eine Einrichtung eines Drittstaats oder an eine Organisation oder Einrichtung, die sich im unmittelbaren oder mittelbaren Eigentum oder unter der unmittelbaren oder mittelbaren Kontrolle eines Drittstaats oder einer Einrichtung eines Drittstaats befindet, oder die Fortführung eines solchen Auftrags oder einer solchen Konzession,
+
+g) die Gründung eines Gemeinschaftsunternehmens oder eine sonstige Investition oder
+
+h) die Bereitstellung von Geldern oder wirtschaftlichen Ressourcen
+
+zuwiderhandelt.
 
 (1a) Ebenso wird bestraft, wer einer vollziehbaren Anordnung nach § 6 Absatz 1 Satz 2 zuwiderhandelt.
 
@@ -555,13 +685,13 @@ eines im Amtsblatt der Europäischen Gemeinschaften oder der Europäischen Union
 
 8. einer vollziehbaren Anordnung nach § 59 Absatz 1 Satz 1 oder Absatz 3 Nummer 1 oder § 62 Absatz 1 zuwiderhandelt.
 
-(3) Ebenso wird bestraft, wer gegen die Verordnung (EG) Nr. 2368/2002 des Rates vom 20. Dezember 2002 zur Umsetzung des Zertifikationssystems des Kimberley-Prozesses für den internationalen Handel mit Rohdiamanten (ABl. L 358 vom 31.12.2002, S. 28), die zuletzt durch die Durchführungsverordnung (EU) 2020/2149 vom 9. Dezember 2020 (ABl. L 428 vom 18.12.2020, S. 38) geändert worden ist, verstößt, indem er
+(3) Ebenso wird bestraft, wer gegen die Verordnung (EG) Nr. 2368/2002 in der Fassung vom 23. Mai 2025 verstößt, indem er
 
 1. entgegen Artikel 3 Rohdiamanten einführt oder
 
 2. entgegen Artikel 11 Rohdiamanten ausführt.
 
-(4) Ebenso wird bestraft, wer gegen die Verordnung (EU) 2019/125 des Europäischen Parlaments und des Rates vom 16. Januar 2019 über den Handel mit bestimmten Gütern, die zur Vollstreckung der Todesstrafe, zu Folter oder zu anderer grausamer, unmenschlicher oder erniedrigender Behandlung oder Strafe verwendet werden könnten (ABl. L 30 vom 31.1.2019, S. 1), die zuletzt durch die Delegierte Verordnung (EU) 2021/139 vom 4. Dezember 2020 (ABl. L 43 vom 8.2.2021, S. 5) geändert worden ist, verstößt, indem er
+(4) Ebenso wird bestraft, wer gegen die Verordnung (EU) 2019/125 in der Fassung vom 21. Mai 2025 verstößt, indem er
 
 1. entgegen Artikel 3 Absatz 1 Satz 1 dort genannte Güter ausführt,
 
@@ -585,7 +715,7 @@ eines im Amtsblatt der Europäischen Gemeinschaften oder der Europäischen Union
 
 Soweit die in Satz 1 genannten Vorschriften auf die Anhänge II, III oder IV zur Verordnung (EU) 2019/125 verweisen, finden diese Anhänge in der jeweils geltenden Fassung Anwendung.
 
-(5) Ebenso wird bestraft, wer gegen die Verordnung (EU) 2021/821 des Europäischen Parlaments und des Rates vom 20. Mai 2021 über eine Unionsregelung für die Kontrolle der Ausfuhr, der Vermittlung, der technischen Unterstützung der Durchfuhr und der Verbringung betreffend Güter mit doppeltem Verwendungszweck (ABl. L 206 vom 11.6.2021, S. 1) verstößt, indem er
+(5) Ebenso wird bestraft, wer gegen die Verordnung (EU) 2021/821 in der Fassung vom 5. September 2024 verstößt, indem er
 
 1. ohne Genehmigung nach Artikel 3 Absatz 1, Artikel 4 Absatz 1, Artikel 5 Absatz 1 oder Artikel 10 Absatz 1 Güter mit doppeltem Verwendungszweck oder Güter für digitale Überwachung ausführt,
 
@@ -597,15 +727,19 @@ Soweit die in Satz 1 genannten Vorschriften auf die Anhänge II, III oder IV zur
 
 Soweit die in Satz 1 genannten Vorschriften auf Anhang I der Verordnung (EU) 2021/821 verweisen, findet dieser Anhang in der jeweils geltenden Fassung Anwendung. In den Fällen des Satzes 1
 
-1. Nummer 2 steht dem Ausführer eine Person gleich, die die Ausfuhr durch einen anderen begeht, wenn der Person bekannt ist, dass die Güter mit doppeltem Verwendungszweck oder für digitale Überwachung ganz oder teilweise für eine Verwendung im Sinne des Artikels 4 Absatz 1 oder Artikel 5 Absatz 1 der Verordnung (EU) 2021/821;
+1. Nummer 2 steht dem Ausführer eine Person gleich, die die Ausfuhr durch einen anderen begeht, wenn der Person bekannt ist, dass die Güter mit doppeltem Verwendungszweck oder für digitale Überwachung ganz oder teilweise für eine Verwendung im Sinne des Artikels 4 Absatz 1 oder Artikel 5 Absatz 1 der Verordnung (EU) 2021/821 in der Fassung vom 5. September 2024;
 
-2. Nummer 4 steht dem Vermittler oder dem Erbringer technischer Unterstützung eine Person gleich, die die Vermittlung oder die Erbringung technischer Unterstützung durch einen anderen begeht, wenn der Person bekannt ist, dass die Güter ganz oder teilweise für eine Verwendung im Sinne des Artikels 4 Absatz 1 der Verordnung (EU) 2021/821
+2. Nummer 4 steht dem Vermittler oder dem Erbringer technischer Unterstützung eine Person gleich, die die Vermittlung oder die Erbringung technischer Unterstützung durch einen anderen begeht, wenn der Person bekannt ist, dass die Güter ganz oder teilweise für eine Verwendung im Sinne des Artikels 4 Absatz 1 der Verordnung (EU) 2021/821 in der Fassung vom 5. September 2024
 
 bestimmt sind.
 
-(5a) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer entgegen Artikel 9 Absatz 2 Buchstabe a der Verordnung (EU) Nr. 269/2014 des Rates vom 17. März 2014 über restriktive Maßnahmen angesichts von Handlungen, die die territoriale Unversehrtheit, Souveränität und Unabhängigkeit der Ukraine untergraben oder bedrohen (ABl. L 78 vom 17.3.2014, S. 6), die zuletzt durch die Durchführungsverordnung (EU) 2022/1529 (ABl. L 239 vom 15.9.2022, S. 1) geändert worden ist, eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
+(5a) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer gegen eine unmittelbar geltende Vorschrift in einem Rechtsakt der Europäischen Union verstößt, der der Durchführung einer vom Rat der Europäischen Union im Bereich der Gemeinsamen Außen- und Sicherheitspolitik beschlossenen wirtschaftlichen Sanktionsmaßnahme dient, indem er
 
-(5b) Ebenso wird bestraft, wer gegen die Verordnung (EU) 2019/125 verstößt, indem er
+1. eine Meldung von Geldern oder wirtschaftlichen Ressourcen, auf die sich eine in Absatz 1 Nummer 2 genannte Pflicht bezieht und die in seinem Eigentum oder Besitz stehen oder von ihm gehalten oder kontrolliert werden, der in dem Rechtsakt genannten zuständigen Verwaltungsbehörde nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht oder
+
+2. eine in Ausübung einer Berufspflicht erlangte Information über Gelder oder wirtschaftliche Ressourcen, auf die sich eine in Absatz 1 Nummer 2 genannte Pflicht bezieht, der in dem Rechtsakt genannten zuständigen Verwaltungsbehörde nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt.
+
+(5b) Ebenso wird bestraft, wer gegen die Verordnung (EU) 2019/125 in der Fassung vom 21. Mai 2025 verstößt, indem er
 
 1. entgegen Artikel 8 dort genannte Güter ausstellt oder zum Verkauf anbietet oder
 
@@ -613,7 +747,15 @@ bestimmt sind.
 
 Soweit die in Satz 1 genannten Vorschriften auf den Anhang II zur Verordnung (EU) 2019/125 verweisen, findet dieser Anhang in der jeweils geltenden Fassung Anwendung.
 
-(6) Der Versuch ist in den Fällen der Absätze 1 bis 5 oder 5b strafbar.
+(6) Der Versuch ist in den Fällen des Absatzes 1 Nummer 1, 3 oder 4, der Absätze 1a bis 5 oder des Absatzes 5b strafbar.
+
+(6a) In besonders schweren Fällen des Absatzes 1 Nummer 1 Buchstabe a oder Nummer 4 Buchstabe a ist die Strafe Freiheitsstrafe von sechs Monaten bis zu zehn Jahren. Ein besonders schwerer Fall liegt in der Regel vor, wenn der Täter
+
+1. gegenüber einer öffentlichen Stelle eine unvollständige oder unrichtige Angabe über die Endverwendung, die Beförderungsroute, den Empfänger, den Versender, den Ursprung, den Käufer, den Verkäufer, die Menge, den Wert oder die Beschaffenheit der Güter macht oder
+
+2. eine Drittstaat-Gesellschaft im Sinne des § 138 Absatz 3 der Abgabenordnung nutzt, auf die er unmittelbar oder mittelbar einen beherrschenden oder bestimmenden Einfluss ausübt,
+
+um einen Verstoß gegen eine in Absatz 1 genannte, unmittelbar geltende Vorschrift in einem Rechtsakt der Europäischen Union zu verschleiern.
 
 (7) Mit Freiheitsstrafe nicht unter einem Jahr wird bestraft, wer
 
@@ -625,15 +767,19 @@ Soweit die in Satz 1 genannten Vorschriften auf den Anhang II zur Verordnung (EU
 
 (8) Mit Freiheitsstrafe nicht unter zwei Jahren wird bestraft, wer in den Fällen der Absätze 1, 1a und 2 bis 4 oder des Absatzes 5 als Mitglied einer Bande, die sich zur fortgesetzten Begehung solcher Taten verbunden hat, gewerbsmäßig handelt.
 
-(9) In den Fällen des Absatzes 1 Nummer 2, des Absatzes 1a, des Absatzes 2 Nummer 1, 3, 4 oder Nummer 6, des Absatzes 4 Satz 1 Nummer 5 oder des Absatzes 5 Satz 1 steht einem Handeln ohne Genehmigung ein Handeln auf Grund einer durch Drohung, Bestechung oder Kollusion erwirkten oder durch unrichtige oder unvollständige Angaben erschlichenen Genehmigung gleich.
+(8a) Handelt der Täter in den Fällen des Absatzes 1 Nummer 1 Buchstabe a oder b oder Nummer 4 Buchstabe a oder b leichtfertig, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe, wenn sich die Tat auf Güter mit doppeltem Verwendungszweck bezieht, die in Anhang I oder Anhang IV der Verordnung (EU) 2021/821 aufgeführt sind.
+
+(9) In den Fällen des Absatzes 1 Nummer 4, des Absatzes 1a, des Absatzes 2 Nummer 1, 3, 4 oder Nummer 6, des Absatzes 4 Satz 1 Nummer 5 oder des Absatzes 5 Satz 1 steht einem Handeln ohne Genehmigung ein Handeln auf Grund einer durch Drohung, Bestechung oder Kollusion erwirkten oder durch unrichtige oder unvollständige Angaben erschlichenen Genehmigung gleich.
 
 (10) Die Absätze 1 bis 9 gelten, unabhängig vom Recht des Tatorts, auch für Taten, die im Ausland begangen werden, wenn der Täter Deutscher ist.
 
-(11) Nach Absatz 1, jeweils auch in Verbindung mit Absatz 6, 7, 8 oder Absatz 10, wird nicht bestraft, wer
+(11) Die Tat ist nicht nach Absatz 1, auch in Verbindung mit Absatz 6, strafbar, wenn die Tat als
 
-1. bis zum Ablauf des zweiten Werktages handelt, der auf die Veröffentlichung des Rechtsaktes im Amtsblatt der Europäischen Union folgt, und
+1. humanitäre Hilfe für eine bedürftige Person oder
 
-2. von einem Verbot oder von einem Genehmigungserfordernis, das in dem Rechtsakt nach Nummer 1 angeordnet wird, zum Zeitpunkt der Tat keine Kenntnis hat.
+2. Tätigkeit zur Unterstützung grundlegender menschlicher Bedürfnisse
+
+im Einklang mit den Grundsätzen der Unparteilichkeit, Menschlichkeit, Neutralität und Unabhängigkeit und mit dem humanitären Völkerrecht erbracht wird.
 
 (12) Nach Absatz 1a, jeweils auch in Verbindung mit den Absätzen 6, 7, 8, 9 oder 10, wird nicht bestraft, wer
 
@@ -641,13 +787,13 @@ Soweit die in Satz 1 genannten Vorschriften auf den Anhang II zur Verordnung (EU
 
 2. von einer dadurch angeordneten Beschränkung zum Zeitpunkt der Tat keine Kenntnis hat.
 
-(13) Nach Absatz 5a wird nicht bestraft, wer eine dort genannte Meldung freiwillig und vollständig nachholt, wenn nicht die Tat zu diesem Zeitpunkt bereits ganz oder zum Teil entdeckt war und der Täter dies wusste oder bei verständiger Würdigung der Sachlage damit rechnen musste.
+(13) Nach Absatz 5a Nummer 2 wird nicht bestraft, wer als Rechtsanwalt, Kammerrechtsbeistand, Patentanwalt, Notar, Wirtschaftsprüfer, vereidigter Buchprüfer, Steuerberater oder Steuerbevollmächtigter eine Information, die ihm in dieser Eigenschaft anvertraut wurde oder bekannt geworden ist, nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt.
 
 # § 19 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer eine in
 
-1. § 18 Absatz 1, 1a, 2 Nummer 1 bis 7, Absatz 3 bis 5 oder Absatz 5a oder
+1. § 18 Absatz 1 Nummer 1 Buchstabe a bis e, g oder h, Nummer 2 oder 4 Buchstabe a bis e, g oder h, Absatz 1a, 2 Nummer 1 bis 6 oder 7, Absatz 3 bis 5a oder 5b oder
 
 2. § 18 Absatz 1b oder 2 Nummer 8
 
@@ -675,15 +821,15 @@ einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderha
 
 5. entgegen § 27 Absatz 4 Satz 1 eine Sendung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig gestellt.
 
-(4) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union über die Beschränkung des Außenwirtschaftsverkehrs zuwiderhandelt, die inhaltlich einer Regelung entspricht, zu der die in
+(4) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Union über die Beschränkung des Außenwirtschaftsverkehrs zuwiderhandelt, die inhaltlich einer Regelung entspricht, zu der die in
 
 1. Absatz 3 Nummer 1 Buchstabe a oder
 
 2. Absatz 3 Nummer 1 Buchstabe b
 
-genannten Vorschriften ermächtigen, soweit eine Rechtsverordnung nach Satz 2 für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist und die Tat nicht in § 18 Absatz 1, 3 bis 5, 7 oder Absatz 8 mit Strafe bedroht ist. Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, soweit dies zur Durchführung der Rechtsakte der Europäischen Gemeinschaften oder der Europäischen Union erforderlich ist, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach Satz 1 geahndet werden können.
+genannten Vorschriften ermächtigen, soweit eine Rechtsverordnung nach Satz 2 für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist und die Tat nicht in § 18 Absatz 1, 3 bis 5, 7 oder Absatz 8 mit Strafe bedroht ist. Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, soweit dies zur Durchführung der Rechtsakte der Europäischen Union erforderlich ist, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach Satz 1 geahndet werden können.
 
-(5) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einem im Amtsblatt der Europäischen Gemeinschaften oder der Europäischen Union veröffentlichten unmittelbar geltenden Rechtsakt der Europäischen Gemeinschaften oder der Europäischen Union, der der Durchführung einer vom Rat der Europäischen Union im Bereich der Gemeinsamen Außen- und Sicherheitspolitik beschlossenen wirtschaftlichen Sanktionsmaßnahme dient, zuwiderhandelt, indem er
+(5) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einem im Amtsblatt der Europäischen Union veröffentlichten unmittelbar geltenden Rechtsakt der Europäischen Union, der der Durchführung einer vom Rat der Europäischen Union im Bereich der Gemeinsamen Außen- und Sicherheitspolitik beschlossenen wirtschaftlichen Sanktionsmaßnahme dient, zuwiderhandelt, indem er
 
 1. eine Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
 
@@ -694,6 +840,10 @@ genannten Vorschriften ermächtigen, soweit eine Rechtsverordnung nach Satz 2 f�
 4. eine zuständige Stelle oder Behörde nicht oder nicht rechtzeitig unterrichtet.
 
 (6) Die Ordnungswidrigkeit kann in den Fällen der Absätze 1, 3 Nummer 1 Buchstabe a und des Absatzes 4 Satz 1 Nummer 1 mit einer Geldbuße bis zu fünfhunderttausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu dreißigtausend Euro geahndet werden.
+
+(7) Abweichend von § 30 Absatz 2 Satz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten beträgt das Höchstmaß der Geldbuße im Falle einer vorsätzlichen Straftat nach § 18 Absatz 1 dieses Gesetzes vierzig Millionen Euro.
+
+(8) Abweichend von § 30 Absatz 2 Satz 2 des Gesetzes über Ordnungswidrigkeiten beträgt das Höchstmaß der Geldbuße im Falle einer Ordnungswidrigkeit nach § 130 Absatz 1 des Gesetzes über Ordnungswidrigkeiten in Verbindung mit § 18 Absatz 1 dieses Gesetzes vierzig Millionen Euro.
 
 # § 20 – Einziehung
 
@@ -738,6 +888,8 @@ genannten Vorschriften ermächtigen, soweit eine Rechtsverordnung nach Satz 2 f�
 (3) Die Bediensteten des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA) dürfen die Geschäftsräume der Auskunftspflichtigen betreten, um die Voraussetzungen für die Erteilung von Genehmigungen nach § 8 Absatz 2 oder für die Erteilung von Zertifikaten nach § 9 zu überprüfen. Das Grundrecht des Artikels 13 des Grundgesetzes wird insoweit eingeschränkt.
 
 (4) Sind die Unterlagen nach Absatz 1 unter Einsatz eines Datenverarbeitungssystems erstellt worden, so dürfen die Verwaltungsbehörde und die Deutsche Bundesbank im Rahmen einer Prüfung Einsicht in die gespeicherten Daten nehmen und das Datenverarbeitungssystem zur Prüfung dieser Unterlagen nutzen. Sie können im Rahmen einer Prüfung auch verlangen, dass die Daten nach ihren Vorgaben automatisiert ausgewertet oder ihnen die gespeicherten Unterlagen auf einem maschinell verwertbaren Datenträger zur Verfügung gestellt werden. Dazu ist sicherzustellen, dass die gespeicherten Daten während der Dauer der gesetzlichen Aufbewahrungsfristen verfügbar sind sowie dass sie unverzüglich lesbar gemacht und unverzüglich automatisiert ausgewertet werden können. Die Auskunftspflichtigen haben die Verwaltungsbehörde und die Deutsche Bundesbank bei der Ausübung der Befugnisse nach den Sätzen 1 und 2 zu unterstützen und die Kosten zu tragen.
+
+(4a) § 20 Absatz 2 Satz 2 und Satz 3 des Personalausweisgesetzes und § 18 Absatz 3 Satz 2 des Passgesetzes finden bei Maßnahmen nach den Absätzen 1, 2 und 4 keine Anwendung.
 
 (5) Auskunftspflichtig ist, wer unmittelbar oder mittelbar am Außenwirtschaftsverkehr teilnimmt; dies schließt Stellen ein, an die ein Auskunftspflichtiger Aufgaben auslagert oder derer er sich in sonstiger Weise in unmittelbarem oder mittelbarem Zusammenhang mit der Teilnahme am Außenwirtschaftsverkehr bedient.
 

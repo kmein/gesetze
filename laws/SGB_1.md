@@ -932,8 +932,6 @@ Satz 1 gilt entsprechend für denjenigen, der Leistungen zu erstatten hat.
 
 (2) Soweit für die in Absatz 1 Satz 1 Nummer 1 und 2 genannten Angaben Vordrucke vorgesehen sind, sollen diese benutzt werden. Soweit diese Vordrucke als elektronische Formulare über öffentlich zugängliche Netze oder in einem Eingabegerät zur Verfügung stehen, sollen diese vorrangig benutzt werden.
 
-(+++ § 60: Zur Anwendung vgl. § 42f Abs. 2 SGB 8 +++)
-
 # § 61 – Persönliches Erscheinen
 
 Wer Sozialleistungen beantragt oder erhält, soll auf Verlangen des zuständigen Leistungsträgers zur mündlichen Erörterung des Antrags oder zur Vornahme anderer für die Entscheidung über die Leistung notwendiger Maßnahmen persönlich erscheinen.
@@ -989,8 +987,6 @@ können abgelehnt werden.
 (2) Kommt derjenige, der eine Sozialleistung wegen Pflegebedürftigkeit, wegen Arbeitsunfähigkeit, wegen Gefährdung oder Minderung der Erwerbsfähigkeit, anerkannten Schädigungsfolgen oder wegen Arbeitslosigkeit beantragt oder erhält, seinen Mitwirkungspflichten nach den §§ 62 bis 65 nicht nach und ist unter Würdigung aller Umstände mit Wahrscheinlichkeit anzunehmen, daß deshalb die Fähigkeit zur selbständigen Lebensführung, die Arbeits-, Erwerbs- oder Vermittlungsfähigkeit beeinträchtigt oder nicht verbessert wird, kann der Leistungsträger die Leistung bis zur Nachholung der Mitwirkung ganz oder teilweise versagen oder entziehen.
 
 (3) Sozialleistungen dürfen wegen fehlender Mitwirkung nur versagt oder entzogen werden, nachdem der Leistungsberechtigte auf diese Folge schriftlich hingewiesen worden ist und seiner Mitwirkungspflicht nicht innerhalb einer ihm gesetzten angemessenen Frist nachgekommen ist.
-
-(+++ § 66: Zur Anwendung vgl. § 42f Abs. 2 SGB 8 +++)
 
 # § 67 – Nachholung der Mitwirkung
 

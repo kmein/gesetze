@@ -475,6 +475,10 @@ Fallen die Aufhebungsgründe nach Satz 1 Nummer 1 Buchstabe a innerhalb von drei
 
 (2) Die mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragten Behörden können Ausnahme-Visa und Passersatzpapiere ausstellen.
 
+(3) Es ist verboten, einem Ausländer, der in einem Beschluss des Rates der Europäischen Union über restriktive Maßnahmen aufgeführt ist, mit dem die Einreise von Personen in oder die Durchreise von Personen durch das Hoheitsgebiet eines Mitgliedstaats der Europäischen Union verhindert werden soll, die Einreise in oder die Durchreise durch das Bundesgebiet zu ermöglichen. Satz 1 dient der Umsetzung der Richtlinie (EU) 2024/1226 in der Fassung vom 24. April 2024.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 3.2.2026 I Nr. 27 +++)
+
 # § 15 – Zurückweisung
 
 (1) Ein Ausländer, der unerlaubt einreisen will, wird an der Grenze zurückgewiesen.
@@ -4425,6 +4429,14 @@ b) sich darin aufhält,
 
 (7) In Fällen des Absatzes 2 Nummer 1a wird die Tat nur auf Antrag einer dort genannten zuständigen Stelle verfolgt.
 
+# § 95a – Strafvorschriften
+
+(1) Mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren wird bestraft, wer entgegen § 14 Absatz 3 Satz 1 einem dort genannten Ausländer die Einreise in oder die Durchreise durch das Bundesgebiet ermöglicht.
+
+(2) Der Versuch ist strafbar.
+
+(3) Mit Freiheitsstrafe nicht unter einem Jahr wird bestraft, wer in den Fällen des Absatzes 1 gewerbsmäßig oder als Mitglied einer Bande handelt, die sich zur fortgesetzten Begehung solcher Taten verbunden hat.
+
 # § 96 – Einschleusen von Ausländern und Personen, auf die das Freizügigkeitsgesetz/EU Anwendung findet
 
 (1) Mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren, in minder schweren Fällen mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer einen anderen anstiftet oder ihm dazu Hilfe leistet,
@@ -4542,6 +4554,10 @@ Informationen zum konkreten Ablauf einer Abschiebung, insbesondere Informationen
 (5) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 2a Nummer 1 mit einer Geldbuße bis zu fünfhunderttausend Euro, in den Fällen des Absatzes 2a Nummer 2, 3 und 4 mit einer Geldbuße bis zu dreißigtausend Euro, in den Fällen des Absatzes 2 Nr. 2 und des Absatzes 3 Nr. 1 und 5b mit einer Geldbuße bis zu fünftausend Euro, in den Fällen der Absätze 1 und 2 Nr. 1, 2a und 3 und des Absatzes 3 Nr. 3 mit einer Geldbuße bis zu dreitausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu tausend Euro geahndet werden.
 
 (6) Artikel 31 Abs. 1 des Abkommens über die Rechtsstellung der Flüchtlinge bleibt unberührt.
+
+(7) Abweichend von § 30 Absatz 2 Satz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten beträgt das Höchstmaß der Geldbuße im Falle einer Straftat nach § 95a Absatz 1 dieses Gesetzes vierzig Millionen Euro.
+
+(8) Abweichend von § 30 Absatz 2 Satz 2 des Gesetzes über Ordnungswidrigkeiten beträgt das Höchstmaß der Geldbuße im Falle einer Ordnungswidrigkeit nach § 130 Absatz 1 des Gesetzes über Ordnungswidrigkeiten in Verbindung mit § 95a Absatz 1 dieses Gesetzes vierzig Millionen Euro.
 
 # § 98a – Vergütung
 
