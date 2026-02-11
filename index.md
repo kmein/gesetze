@@ -3678,7 +3678,6 @@
 - [MarketGestAusbV](laws/MarketGestAusbV.md) Verordnung über die Berufsausbildung zum Gestalter für visuelles Marketing/zur Gestalterin für visuelles Marketing
 - [MarketKfmAusbV](laws/MarketKfmAusbV.md) Verordnung über die Berufsausbildung zum Kaufmann für Marketingkommunikation/zur Kauffrau für Marketingkommunikation
 - [MarkschBergV](laws/MarkschBergV.md) Verordnung über markscheiderische Arbeiten und Beobachtungen der Oberfläche
-- [MarktAngV](laws/MarktAngV.md) Verordnung über die erforderlichen Angaben und vorzulegenden Unterlagen bei einem Erlaubnisantrag nach § 102 des Wertpapierhandelsgesetzes
 - [MarktFoFAngAusbV](laws/MarktFoFAngAusbV.md) Verordnung über die Berufsausbildung zum Fachangestellten für Markt- und Sozialforschung/zur Fachangestellten für Markt- und Sozialforschung
 - [MarktONOG](laws/MarktONOG.md) Gesetz über Meldungen über Marktordnungswaren
 - [MarktOWMeldV](laws/MarktOWMeldV.md) Verordnung über Meldepflichten über Marktordnungswaren
@@ -4261,6 +4260,7 @@
 - [NOK-LV](laws/NOK-LV.md) Verordnung über die Verwaltung und Ordnung der Seelotsreviere Nord-Ostsee-Kanal I und Nord-Ostsee-Kanal II/Kieler Förde/Trave/Flensburger Förde
 - [NOKBefAbgV](laws/NOKBefAbgV.md) Verordnung über die Befahrungsabgaben auf dem Nord-Ostsee-Kanal
 - [NOOTSNetzV](laws/NOOTSNetzV.md) Verordnung zur Bestimmung eines anderen Netzes des Bundes zum Datenaustausch über das nationale Once-only-technical-System im Anwendungsbereich des Onlinezugangsgesetzes
+- [NOOTSStVtr](laws/NOOTSStVtr.md) Vertrag über die Errichtung, den Betrieb und die Weiterentwicklung des Nationalen Once-Only-Technical-Systems (NOOTS) – Vertrag zur Ausführung von Artikel 91c Absatz 1, Absatz 2 GG – NOOTS-Staatsvertrag
 - [NOOTSStVtrG](laws/NOOTSStVtrG.md) Gesetz zum Vertrag über die Errichtung, den Betrieb und die Weiterentwicklung des Nationalen Once-Only-Technical-Systems (NOOTS) – Vertrag zur Ausführung von Artikel 91c Absatz 1, Absatz 2 GG – NOOTS-Staatsvertrag
 - [NordBinSchHfV](laws/NordBinSchHfV.md) Verordnung über die Schutz- und Sicherheitshäfen der Bundesrepublik Deutschland an Binnenschiffahrtsstraßen im Bereich der Wasser- und Schiffahrtsdirektion Nord
 - [NordSBefV](laws/NordSBefV.md) Verordnung über das Befahren der Bundeswasserstraßen in Nationalparken im Bereich der Nordsee
@@ -6366,7 +6366,6 @@
 - [WPflG](laws/WPflG.md) Wehrpflichtgesetz
 - [WPG](laws/WPG.md) Gesetz für die Wärmeplanung und zur Dekarbonisierung der Wärmenetze
 - [WpHG](laws/WpHG.md) Gesetz über den Wertpapierhandel
-- [WpHGMaAnzV](laws/WpHGMaAnzV.md) Verordnung über den Einsatz von Mitarbeitern in der Anlageberatung, als Vertriebsmitarbeiter, in der Finanzportfolioverwaltung, als Vertriebsbeauftragte oder als Compliance- Beauftragte und über die Anzeigepflichten nach § 87 des Wertpapierhandelsgesetzes
 - [WpI-AnzV](laws/WpI-AnzV.md) Verordnung über die Anzeigen und die Vorlage von Unterlagen nach dem Wertpapierinstitutsgesetz 1
 - [WpI-InhKontrollV](laws/WpI-InhKontrollV.md) Verordnung über Anzeigen nach § 24 des Wertpapierinstitutsgesetzes 1
 - [WpIG](laws/WpIG.md) Gesetz zur Beaufsichtigung von Wertpapierinstituten

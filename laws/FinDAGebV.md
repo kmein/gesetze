@@ -405,9 +405,8 @@ von Änderungen eines einheitlichen Registrierungsformulars, die nach Artikel 26
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3.8</td>
-<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Billigung eines Prospekts, der von einem Emittenten nach den für ihn geltenden Rechtsvorschriften eines Staates, der nicht Staat des Europäischen Wirtschaftsraums ist, erstellt worden ist, für ein öffentliches Angebot oder die Zulassung zum Handel an einem geregelten Markt und dessen Aufbewahrung<br />
-(Artikel 29 Absatz 1 und Artikel 28 Unterabsatz 2 i. V. m. Artikel 21 Absatz 5 Unterabsatz 1 der Verordnung (EU) 2017/1129)</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
+<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Verwaltung eines Dokuments im Sinne des Artikels 1 Absatz 4 Buchstabe da Ziffer iii, des Artikels 1 Absatz 4 Buchstabe db Ziffer iii oder des Artikels 1 Absatz 5 Buchstabe ba Ziffer iii der Verordnung (EU) 2017/1129</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">174</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3.9</td>
@@ -2027,19 +2026,11 @@ je Tatbestand</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15.1.6.2</td>
-<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Ausstellen einer Bescheinigung über die Bestellung einer Verwahrstelle<br />
-(§ 246 Absatz 2 KAGB;<br />
-§ 264 Absatz 2 KAGB;<br />
-§ 284 Absatz 1 in Verbindung mit § 246 Absatz 2 KAGB)</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">202</td>
-</tr>
-<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15.1.7</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Individuell zurechenbare öffentliche Leistungen in Bezug auf die Anzeige und die Untersagung des Vertriebs von Investmentvermögen</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15.1.7.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Prüfung der Anzeige und der geänderten Angaben und Unterlagen bei Einstellung oder Widerruf des Vertriebs
 <dl>
@@ -2055,46 +2046,46 @@ bei Umbrella-Konstruktionen je Teilinvestmentvermögen gesondert
 </dl></td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">284</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15.1.8</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Individuell zurechenbare öffentliche Leistungen in Bezug auf die Anzeige und die Untersagung des Vertriebs von OGAW</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15.1.8.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Jährliche Überwachung der Einhaltung der Vorschriften des § 165 Absatz 2 Nummer 4, des § 297 Absatz 1, 3 und 5 bis 10, des § 298 Absatz 1, der §§ 301, 302, 303, 304, 305 KAGB;<br />
 bei Umbrella-Konstruktionen je Teilinvestmentvermögen gesondert</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">80</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15.1.8.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Prüfung der Anzeige nach § 310 Absatz 1 KAGB;<br />
 bei Umbrella-Konstruktionen je Teilinvestmentvermögen gesondert</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">322</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15.1.8.3</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Untersagung des Vertriebs von EU-OGAW nach § 311 Absatz 1 und 3 Satz 1 Nummer 1 KAGB;<br />
 bei Umbrella-Konstruktionen je Teilinvestmentvermögen gesondert</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15.1.8.4</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Prüfung der geänderten Angaben und Unterlagen bei Widerruf des Vertriebs hinsichtlich einzelner Teilinvestmentvermögen nach § 295a Absatz 5 Satz 3 in Verbindung mit § 310 Absatz 4 Satz 1 KAGB</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">637</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15.1.8.5</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Ausstellen einer separaten Bescheinigung nach § 312 Absatz 6 KAGB in Verbindung mit Anhang II der Verordnung (EU) Nr. 584/2010;<br />
 bei Umbrella-Konstruktionen je Teilinvestmentvermögen gesondert</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">205</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15.1.9</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Individuell zurechenbare öffentliche Leistungen in Bezug auf die Anzeige und die Untersagung des Vertriebs von AIF</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15.1.9.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Untersagung<br />
 des Vertriebs
@@ -2142,7 +2133,7 @@ bei Umbrella-Konstruktionen je Teilinvestmentvermögen gesondert
 </dl></td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15.1.9.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Prüfung der Anzeige
 <dl>
@@ -2159,14 +2150,14 @@ bei Umbrella-Konstruktionen je Teilinvestmentvermögen gesondert
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2 526<br />
 je Tatbestand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15.1.9.3</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Prüfung der Änderungsanzeige nach § 316 Absatz 4 KAGB oder § 321 Absatz 4 KAGB;<br />
 bei Umbrella-Konstruktionen je Teilinvestmentvermögen gesondert</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">312<br />
 je Tatbestand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15.1.9.4</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Prüfung der Anzeige
 <dl>
@@ -2195,199 +2186,199 @@ bei Umbrella-Konstruktionen je Teilinvestmentvermögen gesondert
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1 641<br />
 je Tatbestand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15.1.9.5</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Prüfung der nach § 320 Absatz 1 Satz 2 Nummer 7, § 329 Absatz 2 Satz 3 Nummer 2 Buchstabe a und c oder § 330 Absatz 2 Satz 3 Nummer 2 Buchstabe a und c KAGB vorgeschriebenen Angaben und Unterlagen, die jährlich vorzulegen sind;<br />
 bei Umbrella-Konstruktionen je Teilinvestmentvermögen gesondert</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">113</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15.1.9.6</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Prüfung der Anzeige nach § 323 Absatz 1 KAGB einschließlich der Prüfung der in § 323 Absatz 2 Satz 3 KAGB genannten Vorkehrungen nach § 321 Absatz 1 Satz 2 Nummer 7 und § 323 Absatz 1 Satz 2 KAGB;<br />
 bei Umbrella-Konstruktionen je Teilinvestmentvermögen gesondert</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">466</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15.1.9.7</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Prüfung der in § 323 Absatz 3 in Verbindung mit § 321 Absatz 1 Satz 2 Nummer 7 KAGB genannten Vorkehrungen für den Fall einer Unterrichtung der Bundesanstalt über eine Änderung dieser Vorkehrungen;<br />
 bei Umbrella-Konstruktionen je Teilinvestmentvermögen gesondert</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">952</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15.1.9.8</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Ausstellen einer separaten Bescheinigung nach § 335 KAGB in den Fällen der §§ 331 bis 334 KAGB;<br />
 bei Umbrella-Konstruktionen je Teilinvestmentvermögen gesondert</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Feststellender Verwaltungsakt nach § 5 Absatz 3 Satz 1 KAGB</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15.3</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Einschreiten gegen ungesetzliche Geschäfte</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15.3.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Einstellungsanordnung, Abwicklungsanordnung, Weisungen für die Abwicklung oder Bestellung eines Abwicklers; für eine der aufgezählten Maßnahmen oder mehrere der aufgezählten Maßnahmen, soweit diese in einem Bescheid erlassen werden<br />
 (§ 15 Absatz 1 und 2 KAGB;<br />
 § 113 Absatz 2 Satz 2 in Verbindung mit § 15 Absatz 1 und 2 KAGB)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4 120</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15.3.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Verwaltungsakte im Sinne von Nummer 15.3.1 gegenüber Einbezogenen, die eine zurechenbare Ursache für die Einbeziehung gesetzt haben<br />
 (§ 15 Absatz 3 KAGB, auch in Verbindung mit § 15 Absatz 1 und 2 KAGB;<br />
 § 113 Absatz 2 Satz 2 in Verbindung mit § 15 Absatz 3 KAGB, auch in Verbindung mit § 15 Absatz 1 und 2 KAGB)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1 323</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">16</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Derivateverordnung (DerivateV) sowie der Verordnungen (EU)
 Nr. 345/2013,
 (EU) Nr. 346/2013 oder (EU) 2015/760</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">16.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Derivateverordnung (DerivateV)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">16.1.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Prüfung der Anzeige nach § 6 Satz 3 DerivateV</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">128</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">16.1.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Bestätigung der Geeignetheit von Risikomodellen<br />
 (§ 10 Absatz 2 Satz 2 DerivateV)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">16.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) Nr. 345/2013, (EU) Nr. 346/2013 oder (EU) 2015/760</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">16.2.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Prüfung von Anzeigen nach Artikel 15 Buchstabe a der Verordnung (EU) Nr. 345/2013, nach Artikel 16 Buchstabe a der Verordnung (EU)
 Nr. 346/2013 oder nach Artikel 31 der Verordnung (EU) 2015/760</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">16.2.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Untersagung des Vertriebs nach Artikel 18 Absatz 3 der Verordnung (EU) Nr. 345/2013, Artikel 19 Absatz 3 der Verordnung (EU) Nr. 346/2013 oder nach Artikel 31 Absatz 6 der Verordnung (EU) 2015/760</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">17</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Geldwäschegesetzes (GwG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">17.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Befreiung nach § 5 Absatz 4 GwG</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">17.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Anordnung zur Schaffung von internen Sicherungsmaßnahmen im Sinne des § 6 Absatz 2 Nummer 4 GwG<br />
 (§ 6 Absatz 8 GwG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">17.3</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Befreiung nach § 7 Absatz 2 GwG</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">17.4</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Anordnung der Bestellung eines Geldwäschebeauftragten<br />
 (§ 7 Absatz 3 Satz 1 GwG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">17.5</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Maßnahmen und Anordnungen nach § 51 Absatz 2 oder 5 GwG</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">17.5.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Maßnahmen und Anordnungen nach § 51 Absatz 2 GwG</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">17.5.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Untersagung der Ausübung des Geschäfts oder des Berufs nach § 51 Absatz 5 GwG nach vorangegangener Verwarnung</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">18</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Pfandbriefgesetzes (PfandBG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">18.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Treuhänder und Stellvertreter<br />
 (§ 7 Absatz 3 Satz 1 PfandBG, auch in Verbindung mit § 9 Absatz 5 Satz 3 DG Bank-UmwG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">18.1.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Bestellung</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">396</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">18.1.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Verlängerung der Bestellung</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">301</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">18.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Begrenzungen des § 19 Absatz 1 Nummer 2 und 3 PfandBG, Zulassung von Ausnahmen<br />
 (§ 19 Absatz 2 PfandBG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">18.3</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Begrenzungen des § 20 Absatz 2 PfandBG, Zulassung von Ausnahmen<br />
 (§ 20 Absatz 3 PfandBG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">18.4</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Vorschriften des § 22 Absatz 2 Satz 1 bis 3 PfandBG, Zulassung weiterer Ausnahmen<br />
 (§ 22 Absatz 2 Satz 4 PfandBG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">18.5</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Zulassung weiterer Ausnahmen<br />
 (§ 22 Absatz 4 Satz 2 PfandBG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">18.6</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Zulassung weiterer Ausnahmen von den Beleihungsvorschriften des § 22 Absatz 5 PfandBG<br />
 (§ 22 Absatz 5 Satz 4 in Verbindung mit § 22 Absatz 2 Satz 4 PfandBG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">18.7</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung zum Hinausschieben des Abzahlungsbeginns<br />
 (§ 25 Satz 1 PfandBG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">18.8</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Begrenzungen des § 26 Absatz 1 Nummer 3 und 4 PfandBG, Zulassung von Ausnahmen<br />
 (§ 26 Absatz 2 PfandBG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">18.9</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Zustimmung zur teilweisen oder vollständigen Übertragung der im Deckungsregister eingetragenen Werte<br />
 (§ 32 Absatz 1 PfandBG)<br />
@@ -2405,18 +2396,18 @@ Deckungsmassen<br />
 der Pfandbriefbank<br />
 maßgeblich ist</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Versicherungsaufsichtsgesetzes (VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Feststellung der Freistellung eines Versicherungsvereins auf Gegenseitigkeit<br />
 (§ 5 Absatz 1 Satz 1 und 2 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Erteilung der Ersterlaubnis zum Geschäftsbetrieb<br />
 (§ 8 Absatz 1 VAG;<br />
@@ -2424,12 +2415,12 @@ maßgeblich ist</td>
 § 236 Absatz 5 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32 259</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.3</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Änderungen des Geschäftsplans sowie Geschäftsbetriebserweiterungen</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.3.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung von Änderungen des Geschäftsplans, sofern die Satzung geändert wird, einschließlich der Satzungsänderungen, die sich auf die in der jeweiligen Satzung enthaltenen Versicherungsbedingungen beziehen, und einschließlich der Satzungsänderungen bei Sterbekassen im Hinblick auf die Verwendung des Überschusses<br />
 (§ 12 Absatz 1 Satz 1 VAG;<br />
@@ -2438,25 +2429,25 @@ maßgeblich ist</td>
 § 237 Absatz 1 Satz 1 und 2 in Verbindung mit § 12 Absatz 1 Satz 1 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1 011</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.3.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung von Änderungen des technischen Geschäftsplans von Lebensversicherungsunternehmen<br />
 (§ 12 Absatz 1 Satz 1 VAG in Verbindung mit § 336 Satz 2 VAG sowie Artikel 16 § 2 Satz 2 des Dritten Durchführungsgesetzes EWG zum VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2 226</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.3.3</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung von Änderungen des technischen Geschäftsplans von Sterbekassen<br />
 (§ 219 Absatz 3 Nummer 1 VAG in Verbindung mit § 9 Absatz 2 Nummer 2 und § 12 Absatz 1 Satz 1 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">562</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.3.4</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung von Änderungen des technischen Geschäftsplans von Versicherungsunternehmen mit Unfallversicherung mit Prämienrückgewähr<br />
 (§ 12 Absatz 1 Satz 1 VAG in Verbindung mit § 336 Satz 2 VAG und § 161 Absatz 1 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.3.5</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Erteilung der Erlaubnis zum Geschäftsbetrieb einer weiteren Sparte (entsprechend den Nummern 1 bis 25 der Anlage 1 zum VAG, wenn keine Untergliederung nach Risikoarten enthalten ist), nach § 12 Absatz 1 Satz 1 sowie Absatz 2 VAG;<br />
 § 1 Absatz 4 Satz 1, § 65 Absatz 2 und 3, § 67 Absatz 2, jeweils in Verbindung mit § 12 Absatz 1 Satz 1 VAG;<br />
@@ -2464,7 +2455,7 @@ maßgeblich ist</td>
 § 237 Absatz 1 Satz 1 und 2 in Verbindung mit § 12 Absatz 1 Satz 1 VAG</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2 119</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.3.6</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Erteilung der Erlaubnis zum Geschäftsbetrieb einer weiteren Risikoart einer Sparte, soweit die Sparte der Anlage 1 zum VAG Untergliederungen nach Buchstaben enthält<br />
 (§ 12 Absatz 1 Satz 1 sowie Absatz 2 VAG;<br />
@@ -2473,7 +2464,7 @@ maßgeblich ist</td>
 § 237 Absatz 1 Satz 1 und 2 in Verbindung mit § 12 Absatz 1 Satz 1 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">695</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.3.7</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung von Unternehmensverträgen der in den §§ 291 und 292 AktG bezeichneten Art und deren Änderung, Aufhebung, Kündigung oder Beendigung durch Rücktritt<br />
 (§ 12 Absatz 1 Satz 1 VAG;<br />
@@ -2481,7 +2472,7 @@ maßgeblich ist</td>
 § 237 Absatz 1 Satz 1 und 2 in Verbindung mit § 12 Absatz 1 Satz 1 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">559</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.3.8</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung der räumlichen Ausdehnung des Geschäftsbetriebs im Dienstleistungsverkehr oder durch eine Niederlassung je Gebiet (Drittstaat im Sinne des § 7 Nummer 6 VAG) in den Fällen des § 12 Absatz 3 VAG; sofern eine Genehmigung für das Teilgebiet eines Drittstaates erteilt wird, wird eine Gebühr je Teilgebietsgenehmigung erhoben<br />
 (§ 12 Absatz 1 Satz 1 VAG;<br />
@@ -2489,12 +2480,12 @@ maßgeblich ist</td>
 § 237 Absatz 1 Satz 1 und 2 in Verbindung mit § 12 Absatz 1 Satz 1 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">271</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.4</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung von Bestandsübertragungen und Umwandlungen</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.4.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung der vollständigen oder teilweisen Übertragung eines Bestandes<br />
 (§ 13 Absatz 1 Satz 1 VAG;<br />
@@ -2505,102 +2496,102 @@ maßgeblich ist</td>
 § 339 Satz 2 in Verbindung mit § 13 Absatz 1 Satz 1 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">16 423</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.4.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung der vollständigen oder teilweisen Übertragung eines Bestandes für jede Übertragung eines Bestandes je betroffener Art des Rückversicherungsgeschäfts nach § 10 Absatz 3 VAG</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.4.3</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung einer Umwandlung<br />
 (§ 14 Absatz 1 Satz 1 und 2 VAG;<br />
 § 237 Absatz 1 Satz 1 und 2 in Verbindung mit § 14 Absatz 1 Satz 1 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">10 316</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.5</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Individuell zurechenbare öffentliche Leistungen in Bezug auf den Erwerb bedeutender Beteiligungen<br />
 (§§ 16 bis 22 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.5.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Untersagung des beabsichtigten Erwerbs einer bedeutenden Beteiligung oder ihrer Erhöhung oder Erlass einer Anordnung<br />
 (§ 18 Absatz 1, 2 und 2a VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.5.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Untersagung der Ausübung von Stimmrechten; Anordnung, dass über die Anteile nur mit Zustimmung der Bundesanstalt verfügt werden darf<br />
 (§ 19 Absatz 1 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.5.3</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Beauftragung des Treuhänders mit der Veräußerung der Anteile, soweit die Anteile eine bedeutende Beteiligung begründen<br />
 (§ 19 Absatz 2 Satz 3 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.6</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Individuell zurechenbare öffentliche Leistungen in Bezug auf Matching-Anpassung, Volatilitätsanpassung, Eigenmittel, interne Modelle</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.6.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung der Verwendung der Matching-Anpassung für die maßgebliche risikofreie Zinskurve<br />
 (§§ 80 und 81 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.6.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung der Verwendung der Volatilitätsanpassung für die maßgebliche risikofreie Zinskurve<br />
 (§ 82 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1 220</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.6.3</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung ergänzender Eigenmittel eines Versicherungsunternehmens<br />
 (§ 90 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3 106</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.6.4</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung der Einstufung von Eigenmittelbestandteilen<br />
 (§ 91 Absatz 5 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.6.5</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung von unternehmensspezifischen Parametern<br />
 (§ 109 Absatz 2 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.6.6</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung eines internen Voll- oder Partialmodells<br />
 (§§ 111 und 112 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.6.7</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung der Änderung eines internen Voll- oder Partialmodells<br />
 (§ 111 Absatz 3, § 112 Absatz 1 bis 4 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.6.8</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung der Änderung der internen Leitlinien<br />
 (§ 111 Absatz 3 in Verbindung mit Absatz 2 VAG, auch in Verbindung mit § 261 Absatz 2, § 262 Absatz 1 bis 7 und § 265 Absatz 5 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.6.9</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung der Beendigung der Verwendung des internen Modells und der vollständigen oder teilweisen Rückkehr zur Standardformel<br />
 (§ 111 Absatz 3 VAG, auch in Verbindung mit § 261 Absatz 2 oder § 262 Absatz 1 bis 7 und § 265 Absatz 5 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.7</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Sicherungsvermögen<br />
 Festsetzung des Anrechnungswertes belasteter Grundstücke und grundstücksgleicher Rechte des Sicherungsvermögens<br />
@@ -2608,508 +2599,508 @@ Festsetzung des Anrechnungswertes belasteter Grundstücke und grundstücksgleich
 § 65 Absatz 2, § 67 Absatz 2 und § 237 Absatz 1 Satz 1 und 2, jeweils in Verbindung mit § 125 Absatz 3 Satz 4 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.8</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Prüfung der Qualifikation von Treuhändern und Verantwortlichen Aktuaren im Rahmen der laufenden Aufsicht</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.8.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Prüfung eines Treuhänders für das Sicherungsvermögen<br />
 (§ 128 Absatz 4 VAG;<br />
 § 65 Absatz 2, § 128 Absatz 1 Satz 1, § 128 Absatz 2 und § 237 Absatz 1 Satz 1 und 2, jeweils in Verbindung mit § 128 Absatz 4 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">604</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.8.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Prüfung eines Verantwortlichen Aktuars<br />
 (§ 141 Absatz 2 Satz 1 bis 4 VAG;<br />
 § 65 Absatz 2, § 67 Absatz 2, § 148 in Verbindung mit § 156 Absatz 1, § 156 Absatz 1, § 161 Absatz 1, § 162, § 237 Absatz 1 Satz 1 und 2, § 336 Satz 3, jeweils in Verbindung mit § 141 Absatz 2 Satz 1 bis 4 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">458</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.8.3</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Prüfung eines Treuhänders<br />
 (§ 157 Absatz 2 oder Absatz 3 Satz 1 VAG;<br />
 § 65 Absatz 2, § 67 Absatz 2, § 142 Satz 2, § 148 und § 237 Absatz 1 Satz 1 und 2, jeweils in Verbindung mit § 157 Absatz 2 oder Absatz 3 Satz 1 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">467</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.9</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Individuell zurechenbare öffentliche Leistungen in Bezug auf Pensionskassen und Pensionsfonds</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.9.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung eines technischen Geschäftsplans von Pensionskassen bei Einführung eines neuen technischen Geschäftsplans oder bei Änderung eines bestehenden technischen Geschäftsplans<br />
 (§ 233 Absatz 3 Satz 4 in Verbindung mit § 219 Absatz 3 Nummer 1 Buchstabe b in Verbindung mit § 9 Absatz 2 Nummer 2 und § 12 Absatz 1 Satz 1 VAG;<br />
 § 234 Absatz 6 Satz 1, auch in Verbindung mit § 233 Absatz 5 Satz 2, in Verbindung mit § 336 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1 153</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.9.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung der Versicherungsbedingungen von Pensionskassen, sofern Nummer 19.3.1 keine Anwendung findet, bei Einführung neuer Versicherungsbedingungen oder bei Änderung bestehender Versicherungsbedingungen<br />
 (§ 234 Absatz 2 Satz 1 in Verbindung mit § 233 Absatz 3 Satz 1 in Verbindung mit § 9 Absatz 2 Nummer 2 und § 12 Absatz 1 Satz 1 VAG;<br />
 § 234 Absatz 6 Satz 1, auch in Verbindung mit § 233 Absatz 5 Satz 2, in Verbindung mit § 336 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">998</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.9.3</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Feststellung der Unbedenklichkeit von Versicherungsbedingungen von Pensionskassen bei Einführung neuer Versicherungsbedingungen oder bei Änderung bestehender Versicherungsbedingungen<br />
 (§ 234 Absatz 2 Satz 3 VAG)<br />
 </td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.9.4</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Feststellung der Unbedenklichkeit eines Pensionsplans bei Einführung eines neuen Pensionsplans oder bei Änderung eines bestehenden Pensionsplans<br />
 (§ 237 Absatz 1 Satz 1 und 2 in Verbindung mit § 234 Absatz 2 Satz 3 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.9.5</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung eines zwischen Arbeitgeber und Pensionsfonds vereinbarten Bedeckungsplans<br />
 (§ 239 Absatz 3 Satz 2 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.10</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Individuell zurechenbare öffentliche Leistungen in Bezug auf Gruppen</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.10.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Ausschluss/Befreiung eines Unternehmens aus der Gruppenaufsicht<br />
 (§ 246 Absatz 2 Satz 1 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1 058</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.10.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Festlegung der anzuwendenden Berechnungsmethode<br />
 (§ 252 Absatz 2 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.10.3</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung ergänzender Eigenmittel einer zwischengeschalteten Versicherungs-Holdinggesellschaft oder einer zwischengeschalteten gemischten Finanzholding-Gesellschaft<br />
 (§ 257 Absatz 2 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.10.4</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung von gruppenspezifischen Parametern<br />
 (§ 261 Absatz 1 Satz 3 VAG in Verbindung mit § 109 Absatz 2 VAG in Verbindung mit Artikel 356 der Delegierten Verordnung (EU) 2015/35 der Kommission vom 10. Oktober 2014 zur Ergänzung der Richtlinie 2009/138/EG des Europäischen Parlaments und des Rates betreffend die Aufnahme und Ausübung der Versicherungs- und der Rückversicherungstätigkeit (Solvabilität II) (ABl. L 12 vom 17.1.2015, S. 1)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.10.5</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung eines internen Modells zur Berechnung</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.10.5.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">der konsolidierten Solvabilitätskapitalanforderung auf Gruppenebene sowie der Solvabilitätskapitalanforderung der Versicherungsunternehmen der Gruppe<br />
 (§ 262 VAG);<br />
 die Gebühr zur Genehmigung eines Folgeantrages zur Berechnung der Solvabilitätsanforderung eines weiteren Unternehmens der Gruppe anhand desselben internen Modells bestimmt sich nach Nummer 19.10.6.1</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.10.5.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">der Solvabilitätskapitalanforderung auf Gruppenebene unter Verwendung der Abzugs- und Aggregationsmethode sowie zur Berechnung der Solvabilitätskapitalanforderungen der Versicherungsunternehmen der Gruppe<br />
 (§ 265 Absatz 5 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.10.5.3</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">der konsolidierten Gruppensolvabilitätskapitalanforderung<br />
 (§ 261 Absatz 2 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.10.6</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung der Änderung eines internen Modells zur Berechnung</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.10.6.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">der konsolidierten Solvabilitätskapitalanforderung auf Gruppenebene sowie der Solvabilitätskapitalanforderung der Versicherungsunternehmen der Gruppe<br />
 (§ 262 in Verbindung mit § 111 Absatz 3 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.10.6.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">der Solvabilitätskapitalanforderung auf Gruppenebene unter Verwendung der Abzugs- und Aggregationsmethode sowie zur Berechnung der Solvabilitätskapitalanforderungen der Versicherungsunternehmen der Gruppe<br />
 (§ 265 Absatz 5 in Verbindung mit § 111 Absatz 3 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.10.6.3</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">der konsolidierten Gruppensolvabilitätskapitalanforderung<br />
 (§ 261 Absatz 2 in Verbindung mit § 111 Absatz 3 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.10.7</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung eines zentralisierten Risikomanagements<br />
 (§ 268 Absatz 1 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.11</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Maßnahmen gegen Personen mit Schlüsselaufgaben; Verlangen auf Abberufung und Untersagung ihrer Tätigkeit<br />
 (§ 303 Absatz 2 VAG;<br />
 § 65 Absatz 2, § 67 Absatz 2, § 237 Absatz 1 Satz 1 und 2, § 293 Absatz 1 jeweils in Verbindung mit § 303 Absatz 2 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.12</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Übergangsmaßnahmen bei risikofreien Zinssätzen und versicherungstechnischen Rückstellungen</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.12.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung der Anwendung der Übergangsmaßnahme bei risikofreien Zinssätzen<br />
 (§ 351 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.12.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung der Anwendung der Übergangsmaßnahme bei versicherungstechnischen Rückstellungen<br />
 (§ 352 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.13</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Feststellender Verwaltungsakt nach § 4 Satz 1 VAG</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.14</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Einschreiten gegen ungesetzliche Geschäfte</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.14.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Einstellungsanordnung, Abwicklungsanordnung, Weisungen für die Abwicklung oder Bestellung eines Abwicklers; für eine der aufgezählten Maßnahmen oder mehrere der aufgezählten Maßnahmen, soweit diese in einem Bescheid erlassen werden<br />
 (§ 308 Absatz 1 VAG;<br />
 § 308 Absatz 3 in Verbindung mit Absatz 1 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4 120</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.14.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Verwaltungsakte im Sinne von Nummer 19.14.1 gegenüber Einbezogenen, die eine zurechenbare Ursache für die Einbeziehung gesetzt haben<br />
 (§ 308 Absatz 4 in Verbindung mit Absatz 1 und 3 VAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1 323</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">20</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Bausparkassengesetzes (BauSparkG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">20.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung zur Gewährung von Darlehen nach § 4 Absatz 1 Nummer 1 und 2 des Bausparkassengesetzes aus Mitteln aus der Zuteilungsmasse, die vorübergehend nicht für die Zuteilung verwendet werden können<br />
 (§ 6 Absatz 1 Satz 2 Nummer 2 BauSparkG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">20.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung zur Verwendung des „Fonds zur bauspartechnischen Absicherung“ zur Beseitigung eines bausparspezifischen Risikos<br />
 (§ 6 Absatz 2 Satz 4 BauSparkG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">20.3</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Befreiung von der Pflicht zur Bildung einer einheitlichen Zuteilungsmasse<br />
 (§ 6a Absatz 1 Satz 2 BauSparkG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">20.4</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Befreiung von der Pflicht zur Bildung getrennter Zuteilungsmassen<br />
 (§ 6a Absatz 2 Satz 2 BauSparkG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">20.5</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Entscheidung über die Beleihung von Pfandobjekten<br />
 (§ 7 Absatz 6 BauSparkG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">20.6</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung von Änderungen und Ergänzungen der Allgemeinen Geschäftsgrundsätze und der Allgemeinen Bedingungen für Bausparverträge, welche die in § 5 Absatz 2 und 3 Nummer 1, 2, 4 bis 9 aufgeführten Bestimmungen des Bausparkassengesetzes betreffen<br />
 (§ 9 Absatz 1 Satz 1 BauSparkG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">20.6.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">im Regelfall</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">20.6.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">in den Fällen, in denen gleichartige Änderungen in mehreren Tarifen genehmigt werden</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4 648</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">20.7</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung der Allgemeinen Geschäftsgrundsätze und der Allgemeinen Bedingungen für Bausparverträge, die neuen Bauspartarifen zugrunde gelegt werden sollen<br />
 (§ 9 Absatz 1 Satz 1 BauSparkG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">5 468</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">20.8</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Bestellung eines Vertrauensmanns<br />
 (§ 12 Absatz 1 Satz 1 BauSparkG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">385</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">20.9</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung der Übertragung eines Bestandes an Bausparverträgen<br />
 (§ 14 Absatz 1 BauSparkG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">20.10</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung von Änderungen und Ergänzungen der Allgemeinen Geschäftsgrundsätze und der Allgemeinen Bedingungen zur Zusammenführung der Kollektive<br />
 (§ 14 Absatz 3 BauSparkG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">20.11</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Einstweiliges Zahlungsverbot, Zustimmung zur vereinfachten Abwicklung<br />
 (§ 15 Absatz 1 Satz 1 und 2 BauSparkG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">20.12</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung eines Plans für die Abwicklung<br />
 (§ 16 Absatz 3 Satz 1 BauSparkG)<br />
 </td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">21</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Bausparkassen-Verordnung (BausparkV)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">21.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung von Ausnahmen von der Laufzeitbeschränkung des § 5 Absatz 2 Satz 1 der Bausparkassen-Verordnung auf zwölf Jahre<br />
 (§ 5 Absatz 2 Satz 4 BausparkV)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">22</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) Nr. 648/2012, der Delegierten Verordnung (EU)
 2015/2205,
 der Delegierten Verordnung (EU) 2016/592, der Delegierten Verordnung (EU) 2016/1178 und der Delegierten Verordnung (EU) 2016/2251</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">22.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) Nr. 648/2012</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">22.1.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Zulassung zur Erbringung von Clearingdienstleistungen als zentrale Gegenpartei<br />
 (Artikel 14 der Verordnung (EU) Nr. 648/2012)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">22.1.1.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Erteilung einer Zulassung zur Erbringung von Clearingdienstleistungen als zentrale Gegenpartei<br />
 (Artikel 14 Absatz 1 bis 3 der Verordnung (EU) Nr. 648/2012)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">22.1.1.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Nachträgliche Erweiterung des Umfangs einer bestehenden Zulassung<br />
 (Artikel 15 der Verordnung (EU) Nr. 648/2012)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">22.1.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Gruppeninterne Freistellungen nach Artikel 4 Absatz 2 der Verordnung (EU) Nr. 648/2012</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">22.1.2.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Prüfung der Mitteilung über die Inanspruchnahme einer gruppeninternen Freistellung und Entscheidung über die Erhebung von Einwendungen<br />
 (Artikel 4 Absatz 2 Unterabsatz 2 Buchstabe a Satz 3 der Verordnung (EU) Nr. 648/2012)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1 858</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">22.1.2.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Gestattung der Inanspruchnahme einer gruppeninternen Freistellung bei Bezug zu einem Drittstaat<br />
 (Artikel 4 Absatz 2 Unterabsatz 2 Buchstabe b der Verordnung (EU)
 Nr. 648/2012)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">22.1.3</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Ausnahmen von der Pflicht zur Einrichtung eines Risikomanagementverfahrens nach Artikel 11 Absatz 3 der Verordnung (EU) Nr. 648/2012</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">22.1.3.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Befreiung von der Pflicht zur Einrichtung eines Risikomanagementverfahrens bei finanziellen Gegenparteien aus verschiedenen Mitgliedstaaten<br />
 (Artikel 11 Absatz 6 der Verordnung (EU) Nr. 648/2012)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6 859</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">22.1.3.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Prüfung der Benachrichtigung über die Inanspruchnahme einer Befreiung von der Pflicht zur Einrichtung eines Risikomanagementverfahrens bei nichtfinanziellen Gegenparteien aus verschiedenen Mitgliedstaaten und Entscheidung über die Erhebung von Einwendungen<br />
 (Artikel 11 Absatz 7 Satz 3 der Verordnung (EU) Nr. 648/2012)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">22.1.3.3</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Befreiung von der Pflicht zur Einrichtung eines Risikomanagementverfahrens bei finanziellen Gegenparteien bei Bezug zu einem Drittstaat<br />
 (Artikel 11 Absatz 8 der Verordnung (EU) Nr. 648/2012)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">22.1.3.4</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Prüfung der Benachrichtigung über die Inanspruchnahme einer Befreiung von der Pflicht zur Einrichtung eines Risikomanagementverfahrens bei nichtfinanzieller Gegenpartei bei Bezug zu einem Drittstaat und Entscheidung über die Erhebung von Einwendungen<br />
 (Artikel 11 Absatz 9 Satz 3 der Verordnung (EU) Nr. 648/2012)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">22.1.3.5</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Befreiung von der Pflicht zur Einrichtung eines Risikomanagementverfahrens bei Geschäften zwischen einer nichtfinanziellen und einer finanziellen Gegenpartei aus verschiedenen Mitgliedstaaten<br />
 (Artikel 11 Absatz 10 der Verordnung (EU) Nr. 648/2012)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">22.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Delegierten Verordnung (EU) 2015/2205, der Delegierten Verordnung (EU) 2016/592 und der Delegierten Verordnung (EU) 2016/1178</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">22.2.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Bestätigung nach dem jeweiligen Artikel 3 Absatz 2 Unterabsatz 2 Buchstabe e der Delegierten Verordnung (EU) 2015/2205, der Delegierten Verordnung (EU) 2016/592 und der Delegierten Verordnung (EU) 2016/1178</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">22.3</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Delegierten Verordnung (EU) 2016/2251</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">22.3.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Prüfung der Voraussetzungen des Artikels 36 Absatz 3 Buchstabe f in Verbindung mit Kapitel III der Delegierten Verordnung (EU) 2016/2251 bei einer finanziellen Gegenpartei</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">13 463</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">22.3.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Prüfung der Voraussetzungen des Artikels 36 Absatz 3 Buchstabe f in Verbindung mit Kapitel III der Delegierten Verordnung (EU) 2016/2251 bei einer nichtfinanziellen Gegenpartei</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">23</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) Nr. 909/2014</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">23.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Erteilung der Zulassung nach Artikel 17 Absatz 8 der Verordnung (EU) Nr. 909/2014</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">23.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung nach Artikel 55 Absatz 3 in Verbindung mit Artikel 17 Absatz 8 der Verordnung (EU) Nr. 909/2014</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">24</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) Nr. 600/2014</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">24.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Maßnahmen nach Artikel 42 Absatz 1 der Verordnung (EU) Nr. 600/2014</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">25</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) Nr. 1286/2014</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">25.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Maßnahmen nach Artikel 17 Absatz 1 der Verordnung (EU) Nr. 1286/2014</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">26</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) 2016/1011</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">26.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Anerkennung eines in einem Drittstaat angesiedelten Administrators<br />
 (Artikel 32 Absatz 5 in Verbindung mit Absatz 1 der Verordnung (EU)
 2016/1011)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">26.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Übernahme von Referenzwerten, die in einem Drittstaat bereitgestellt werden<br />
 (Artikel 33 Absatz 3 der Verordnung (EU) 2016/1011)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">26.3</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Zulassung eines Administrators, der mindestens einen kritischen Referenzwert bereitstellt<br />
 (Artikel 34 Absatz 6 Buchstabe a in Verbindung mit Absatz 1 Buchstabe a in Verbindung mit Artikel 20 der Verordnung (EU) 2016/1011)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">26.4</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Zulassung eines Administrators<br />
 (Artikel 34 Absatz 6 Buchstabe a in Verbindung mit Absatz 1 Buchstabe a der Verordnung (EU) 2016/1011)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">26.5</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Registrierung eines Administrators<br />
 (Artikel 34 Absatz 6 Buchstabe b in Verbindung mit Absatz 1 Buchstabe b oder c der Verordnung (EU) 2016/1011)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15 449</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">27</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) 2019/1238</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">27.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Registrierung eines Paneuropäischen Privaten Pensionsproduktes (PEPP) nach Artikel 6 der Verordnung (EU) 2019/1238</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">27.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Maßnahmen nach Artikel 63 der Verordnung (EU) 2019/1238</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">28</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) 2020/1503</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">28.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Erlaubnis zur Erbringung von Schwarmfinanzierungs-Dienstleistungen nach Artikel 2 Absatz 1 Buchstabe a Ziffer i oder ii der Verordnung (EU) 2020/1503</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">5 685</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">28.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Erweiterung einer Erlaubnis nach der Verordnung (EU) 2020/1503 um eine Schwarmfinanzierungs-Dienstleistung nach Artikel 2 Absatz 1 Buchstabe a Ziffer i oder ii der Verordnung (EU) 2020/1503</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2 256</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">28.3</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Erlaubnis zur Erbringung von Schwarmfinanzierungs-Dienstleistungen nach Artikel 2 Absatz 1 Buchstabe a Ziffer i oder ii der Verordnung (EU) 2020/1503 für eine Personenhandelsgesellschaft</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Erlaubnisgebühr nach<br />
@@ -3125,86 +3116,86 @@ tens jedoch 250 Euro<br />
 je persönlich haftendem<br />
 Gesellschafter</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">28.4</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">bei Eintritt eines neuen persönlich haftenden Gesellschafters</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">28.5</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Aussetzung und Untersagung von Schwarmfinanzierungs-Dienstleistungen, wenn diese dem Anlegerschutz abträglich sind</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Wertpapierinstitutsgesetzes (WpIG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Erlaubnis zur Erbringung von Wertpapierdienstleistungen<br />
 (§ 15 Absatz 1, 3 und 4 WpIG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.1.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Einzelne, mehrere oder sämtliche Wertpapierdienstleistungen im Sinne von § 2 Absatz 2 Nummer 3 bis 10 WpIG<br />
 Erteilung einer Erlaubnis zur Erbringung von einzelnen, mehreren oder sämtlichen Wertpapierdienstleistungen im Hinblick auf</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.1.1.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">§ 2 Absatz 2 Nummer 3 bis 9 WpIG, wenn dem Wertpapierinstitut nicht die Befugnis eingeräumt ist, sich Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen und es der Wertpapierfirma nicht erlaubt ist, auf eigene Rechnung zu handeln</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6 336</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.1.1.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">§ 2 Absatz 2 Nummer 3 bis 9 WpIG, wenn dem Wertpapierinstitut in diesen Fällen die Befugnis eingeräumt ist, sich Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen oder es der Wertpapierfirma erlaubt ist, auf eigene Rechnung zu handeln, sowie im Sinne von § 2 Absatz 2 Nummer 10 WpIG</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.1.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Eigengeschäft<br />
 Erteilung der Erlaubnis zum ausschließlichen Betreiben des Eigengeschäfts nach § 15 Absatz 4 WpIG</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.1.3</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Erteilung der Erlaubnis zur Erbringung einer einzelnen oder beider Wertpapierdienstleistungen im Sinne von § 2 Absatz 2 Nummer 1 und 2 WpIG</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.1.4</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Erteilung einer Erlaubnis zur Erbringung aller Wertpapierdienstleistungen im Sinne von § 2 Absatz 2 WpIG</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.1.5</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Erlaubniserweiterung<br />
 Nachträgliche Erweiterung des Umfangs einer bestehenden Erlaubnis</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.1.5.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Erlaubniserweiterung, sofern sie sich nur auf die Erbringung von Wertpapierdienstleistungen nach § 2 Absatz 2 Nummer 3 bis 10 WpIG bezieht</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3 262</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.1.5.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Erlaubniserweiterung, sofern sie sich nur auf die Erbringung von Wertpapierdienstleistungen nach § 2 Absatz 2 Nummer 1 bis 2 WpIG bezieht</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">10 114</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.1.5.3</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Erlaubniserweiterung, sofern sie sich auf die Erbringung von Wertpapierdienstleistungen sowohl im Sinne von § 2 Absatz 2 Nummer 3 bis 10 als auch von Wertpapierdienstleistungen im Sinne von § 2 Absatz 2 Nummer 1 bis 2 WpIG bezieht</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.1.6</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Erlaubnis zur Erbringung von Wertpapierdienstleistungen sowie Erlaubniserweiterung für eine Personenhandelsgesellschaft</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.1.6.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">bei erstmaliger Erteilung der Erlaubnis oder Erlaubniserweiterung</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Erlaubnisgebühr nach<br />
@@ -3220,563 +3211,563 @@ tens jedoch 250 Euro<br />
 je persönlich haftendem<br />
 Gesellschafter</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.1.6.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">bei Eintritt eines neuen persönlich haftenden Gesellschafters</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Maßnahmen gegen Geschäftsleiter und Mitglieder des Verwaltungs- oder Aufsichtsorgans<br />
 (§ 22 Absatz 1, 2, 4 und 5 WpIG; § 62 Absatz 2 WpIG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.2.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Verlangen auf Abberufung</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.2.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Untersagung der Ausübung ihrer Tätigkeit</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.3</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Individuell zurechenbare öffentliche Leistungen in Bezug auf den Erwerb bedeutender Beteiligungen<br />
 (§§ 26 und 27 WpIG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.3.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Untersagung des beabsichtigten Erwerbs einer bedeutenden Beteiligung oder ihrer Erhöhung<br />
 (§ 26 Absatz 1 oder Absatz 2 WpIG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.3.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Untersagung der Ausübung von Stimmrechten; Anordnung, dass über die Anteile nur mit Zustimmung der Bundesanstalt verfügt werden darf<br />
 (§ 27 Absatz 1 WpIG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.3.3</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Beauftragung des Treuhänders mit der Veräußerung der Anteile, soweit sie eine bedeutende Beteiligung begründen<br />
 (§ 27 Absatz 2 WpIG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.4</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Geschäftsorganisation<br />
 Anordnung nach § 40 Absatz 3 WpIG</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.5</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Besondere Aufsichtsbefugnisse</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.5.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Anordnung nach § 49 Nummer 1 WpIG</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.5.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Anordnung nach § 49 Nummer 2 WpIG</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.5.3</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Anordnung nach § 49 Nummer 5 WpIG</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.5.4</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Anordnung nach § 49 Nummer 6 WpIG</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.5.5</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Anordnung nach § 49 Nummer 7 WpIG</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.5.6</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Anordnung nach § 49 Nummer 10 WpIG</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.5.7</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Anordnung nach § 49 Nummer 11 WpIG</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.6</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Maßnahmen bei Gefahr</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.6.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Erlass von Anweisungen für die Geschäftsführung<br />
 (§ 79 Absatz 1 Satz 2 Nummer 1 WpIG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.6.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Verbot, von Kunden Gelder oder Wertpapiere anzunehmen und Wertpapierkredite zu gewähren<br />
 (§ 79 Absatz 1 Satz 2 Nummer 2 WpIG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.6.3</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Untersagung oder Beschränkung der Ausübung der Tätigkeit von Inhabern und Geschäftsleitern<br />
 (§ 79 Absatz 1 Satz 2 Nummer 3 WpIG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.6.4</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Erlass eines vorübergehenden Veräußerungs- und Zahlungsverbotes<br />
 (§ 79 Absatz 1 Satz 2 Nummer 4 WpIG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.6.5</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Schließung des Wertpapierinstituts für den Verkehr mit der Kundschaft<br />
 (§ 79 Absatz 1 Satz 2 Nummer 5 WpIG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.6.6</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Verbot der Entgegennahme von Zahlungen, die nicht zur Erfüllung von Verbindlichkeiten gegenüber dem
 Wertpapierinstitut bestimmt sind<br />
 (§ 79 Absatz 1 Satz 2 Nummer 6 WpIG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.6.7</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Untersagung oder Beschränkungen von Zahlungen an konzernangehörige Unternehmen<br />
 (§ 79 Absatz 2 WpIG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.7</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Anordnung der Erstattung von Zahlungen nach § 81 Absatz 2 Satz 2 WpIG</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">30</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) 2022/858</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">30.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Erteilung einer besonderen Genehmigung, einer Ausnahme oder einer Änderung einer Genehmigung oder Ausnahme nach Artikel 8, 9 oder 10 der Verordnung (EU) 2022/858</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">31</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Kreditzweitmarktgesetzes (KrZwMG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">31.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Erteilung der Erlaubnis zur Erbringung von Kreditdienstleistungen im Sinne von § 2 Absatz 3 Nummer 1 bis 4 KrZwMG<br />
 (§ 10 KrZwMG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">31.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Erlaubnis zur Erbringung von Kreditdienstleistungen für eine Personenhandelsgesellschaft</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">31.2.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Bei erstmaliger Erteilung der Erlaubnis</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Erlaubnisgebühr nach der Nummer 31.1,<br />
 die bei mehreren persönlich haftenden Gesellschaftern nach dem Anteil ihrer jeweiligen Kapitaleinlagen aufgeteilt wird, mindestens jedoch 250 Euro je persönlich haftendem Gesellschafter</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">31.2.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Bei Eintritt eines neuen persönlich haftenden Gesellschafters</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">31.3</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Maßnahmen nach Aufhebung und Erlöschen der Erlaubnis</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">31.3.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Anordnung der Abwicklung des Instituts, jeweils mit oder ohne Erlass von Weisungen für die Abwicklung oder Bestellung eines Abwicklers<br />
 (§ 13 Absatz 4 Satz 1 KrZwMG i. V. m. § 38 Absatz 1 Satz 1 und 2 KWG oder § 38 Absatz 2 Satz 1 und 3 KWG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">31.3.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Jeder Folgebescheid zu einem Verwaltungsakt im Sinne der Nummer 31.3.1, mit dem die Abwicklung des Instituts angeordnet wird oder Weisungen für die Abwicklung erlassen werden oder ein Abwickler bestellt wird<br />
 (§ 13 Absatz 4 Satz 1 KrZwMG i. V. m. § 38 Absatz 1 Satz 1 und 2 KWG oder § 38 Absatz 2 Satz 1 und 3 KWG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">31.4</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Individuell zurechenbare öffentliche Leistungen in Bezug auf den Erwerb bedeutender Beteiligungen<br />
 (§ 16 Absatz 1 Satz 3 KrZwMG i. V. m. § 2c KWG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">31.4.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Untersagung des beabsichtigten Erwerbs einer bedeutenden Beteiligung oder ihrer Erhöhung oder Erlass einer Anordnung<br />
 (§ 16 Absatz 1 Satz 3 KrZwMG i. V. m. § 2c Absatz 1b Satz 1, 2 oder Satz 3 KWG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">31.4.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Untersagung der Ausübung von Stimmrechten; Anordnung, dass über die Anteile nur mit Zustimmung der Bundesanstalt verfügt werden darf<br />
 (§ 16 Absatz 1 Satz 3 KrZwMG i. V. m. § 2c Absatz 2 Satz 1 KWG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">31.4.3</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Beauftragung des Treuhänders mit der Veräußerung der Anteile, soweit sie eine bedeutende Beteiligung begründen<br />
 (§ 16 Absatz 1 Satz 3 KrZwMG i. V. m. § 2c Absatz 2 Satz 4 KWG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">31.5</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Maßnahmen gegen Geschäftsleiter und Mitglieder des Verwaltungs- oder Aufsichtsorgans<br />
 (§ 37 Absatz 3, 5 und 6 KrZwMG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">31.5.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Verlangen nach Abberufung des Geschäftsleiters</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">31.5.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Untersagung der Ausübung der Tätigkeit als Geschäftsleiter bei Instituten oder anderen Verpflichteten im Sinne des § 2 Absatz 1 GwG gegenüber dem Geschäftsleiter</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">31.6</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Maßnahmen in besonderen Fällen<br />
 (§ 36 KrZwMG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">31.6.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Maßnahmen, wenn die Erfüllung der Verpflichtungen gegenüber anderen Gläubigern gefährdet ist<br />
 (§ 36 Absatz 1 KrZwMG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">31.6.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Maßnahmen zur Vermeidung eines Insolvenzverfahrens oder einer Erlaubnisaufhebung<br />
 (§ 36 Absatz 2 KrZwMG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">31.7</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Anordnung, um eine ordnungsgemäße Geschäftsorganisation zu gewährleisten<br />
 (§ 37 Absatz 1 KrZwMG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">31.8</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Feststellender Verwaltungsakt nach § 3 Absatz 3 Satz 1 KrZwMG</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">31.9</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Einschreiten gegen unerlaubte Geschäfte</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">31.9.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Einstellungsanordnung, Abwicklungsanordnung, Weisungen für die Abwicklung oder Bestellung eines Abwicklers; für eine der aufgezählten Maßnahmen oder mehrere der aufgezählten Maßnahmen, soweit diese in einem Bescheid erlassen werden<br />
 (§ 38 Absatz 1 Satz 1 und 2 KrZwMG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4 120</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">31.9.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Verwaltungsakte im Sinne der Nummer 31.9.1 gegenüber Einbezogenen, die eine zurechenbare Ursache für die Einbeziehung gesetzt haben<br />
 (§ 38 Absatz 1 Satz 4 i. V. m. Satz 1 und 2 KrZwMG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1 323</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Individuell zurechenbare öffentliche Leistung auf der Grundlage der Verordnung (EU) 2023/1114 und des Kryptomärkteaufsichtsgesetzes</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Erteilung einer Zulassung</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.1.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Erteilung einer Zulassung zum Emittieren vermögenswertreferenzierter Token<br />
 (Artikel 16 Absatz 1 Buchstabe a der Verordnung (EU) 2023/1114)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.1.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Erteilung einer Zulassung zum Anbieten von Kryptowerte-Dienstleistungen<br />
 (Artikel 59 Absatz 1 Buchstabe a der Verordnung (EU) 2023/1114)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Nachträgliche Erweiterung des Umfangs einer bestehenden Zulassung oder Erlaubnis</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.2.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Zulassungserweiterung bei bereits bestehender Zulassung im Sinne von Artikel 16 oder Artikel 59 der Verordnung (EU) 2023/1114</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.2.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Mitteilung der geplanten Emission vermögenswertreferenzierter Token durch ein CRR-Kreditinstitut und Genehmigung des Kryptowerte-Whitepapers<br />
 (Artikel 17 Absatz 1 der Verordnung (EU) 2023/1114)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.2.3</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Mitteilung der geplanten Emission von E-Geld-Token<br />
 (Artikel 48 der Verordnung (EU) 2023/1114)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.2.4</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Mitteilung des geplanten Anbietens von Kryptowerte-Dienstleistungen<br />
 (Artikel 59 Absatz 1 Buchstabe b in Verbindung mit Artikel 60 der Verordnung (EU) 2023/1114)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.3</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Zulassung nach Nummer 32 für eine Personenhandelsgesellschaft</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.3.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Bei erstmaliger Erteilung der Zulassung oder bei Zulassungserweiterung</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Erteilungsgebühr nach Nummer 32.1.1 oder Nummer 32.1.2, die bei mehreren persönlichen haftenden Gesellschaftern nach dem Verhältnis ihrer jeweiligen Kapitaleinlagen zueinander aufgeteilt wird, mindestens jedoch 250 Euro je persönlich haftendem Gesellschafter</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.3.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Bei Eintritt eines neuen persönlich haftenden Gesellschafters</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.4</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Maßnahmen nach Entzug der Zulassung</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.4.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Anordnung der Abwicklung des Instituts, jeweils mit oder ohne Erlass von Weisungen für die Abwicklung oder Bestellung eines Abwicklers, sowie jeder Folgebescheid zu einem vorbezeichneten Verwaltungsakt<br />
 (§ 13 Absatz 1 und 2 KMAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.4.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Anordnung der Übertragung der Vertragsverhältnisse auf einen zugelassenen Anbieter von Kryptowerte-Dienstleistungen<br />
 (§ 13 Absatz 5 KMAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.5</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Maßnahmen in Bezug auf das öffentliche Angebot und die Zulassung zum Handel</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.5.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Anordnung, dass ein öffentliches Angebot oder eine Zulassung zum Handel auszusetzen ist; Untersagung eines öffentlichen Angebots oder einer Zulassung zum Handel<br />
 (§ 15 KMAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.5.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Anordnung der Änderung eines Kryptowerte-Whitepapers und Anordnung der Aufnahme zusätzlicher Informationen in das Kryptowerte-Whitepaper<br />
 (§ 16 KMAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.5.3</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Anordnung der Änderung der Marketingmitteilungen; Anordnung der Aussetzung von Marketingmitteilungen; Untersagung von Marketingmitteilungen<br />
 (§ 17 KMAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.5.4</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Maßnahmen zur Produktintervention<br />
 (Artikel 105 der Verordnung (EU) 2023/1114)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">13 379</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.6</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Individuell zurechenbare öffentliche Leistungen in Bezug auf die Übernahme<br />
 (Titel III Kapitel 4 und Titel V Kapitel 4 der Verordnung (EU)
 2023/1114)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.6.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Einspruch gegen die Übernahme<br />
 (Artikel 42 Absatz 2, Artikel 82 Absatz 2 der Verordnung (EU) 2023/1114)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.6.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Untersagung der Ausübung von Stimmrechten; Anordnung, dass über die Anteile nur mit Zustimmung der Bundesanstalt verfügt werden darf<br />
 (§ 25 Absatz 7 Satz 1 KMAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.6.3</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Beauftragung eines Treuhänders mit der Veräußerung der Anteile, soweit sie eine bedeutende Beteiligung begründen<br />
 (§ 25 Absatz 7 Satz 4 KMAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.7</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Maßnahmen in Bezug auf die laufende Aufsicht von Instituten</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.7.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Anordnung der Berichterstattung durch Emittenten vermögenswertreferenzierter Token<br />
 (Artikel 22 Absatz 3 der Verordnung (EU) 2023/1114)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.7.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Maßnahmen zur Beschränkung der Ausgabe vermögenswertreferenzierter Token<br />
 (Artikel 23 der Verordnung (EU) 2023/1114) in Verbindung mit § 28 KMAG</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.7.3</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Maßnahmen zur korrekten Berechnung der Eigenmittel von Emittenten vermögenswertreferenzierter Token<br />
 (Artikel 35 Absatz 3 bis 5 der Verordnung (EU) 2023/1114 in Verbindung mit dem technischen Regulierungsstandard)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.7.4</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Aussetzung und Untersagung der Tätigkeit von Anbietern von Kryptowerte-Dienstleistungen; Einschreiten gegen die Erbringung von Kryptowerte-Dienstleistungen entgegen Artikel 60 der Verordnung (EU) 2023/1114<br />
 (§ 29 Absatz 1 und 2 KMAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.7.5</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Anordnung der Aussetzung des Handels oder des Ausschlusses eines Kryptowertes vom Handel; Maßnahmen in Bezug auf bestimmte Derivate, Untersagung des Handels auf einer Handelsplattform, Anordnung der Aussetzung des Handels<br />
 (§ 34 KMAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.8</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Maßnahmen gegen Mitglieder des Leitungsorgans</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.8.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Verlangen nach Abberufung eines Mitglieds des Leitungsorgans<br />
 (§ 23 Absatz 2 bis 4 KMAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.8.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Untersagung der Wahrnehmung von Leitungsaufgaben<br />
 (§ 24 KMAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.9</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Individuell zurechenbare öffentliche Leistungen in Bezug auf Sanierungs- und Rücktauschpläne</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.9.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Anordnungen in Bezug zur Erstellung und Änderung von Sanierungs- und Rücktauschplänen<br />
 (Artikel 46 Absatz 2 und 3, Artikel 47 Absatz 3 der Verordnung (EU) 2023/1114)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.9.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Aussetzung des Rücktausches<br />
 (Artikel 46 Absatz 4 der Verordnung (EU) 2023/1114)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.9.3</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Anordnung der Durchführung des Rücktauschplans<br />
 (Artikel 47 der Verordnung (EU) 2023/1114)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.10</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Maßnahmen in besonderen Fällen</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.10.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Maßnahmen zur Verbesserung der Eigenmittelausstattung<br />
 (§ 41 KMAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.10.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Maßnahmen bei organisatorischen Mängeln<br />
 (§ 42 KMAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.10.3</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Einstweilige Maßnahmen bei Gefahr<br />
 (§ 43 KMAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.11</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Einschreiten gegen ungesetzliche Geschäfte</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.11.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Einstellungsanordnung, Abwicklungsanordnung, Weisungen für die Abwicklung oder Bestellung eines Abwicklers; für eine der aufgezählten Maßnahmen oder mehrere der aufgezählten Maßnahmen, soweit diese in einem Bescheid erlassen werden<br />
 (§ 9 KMAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4 120</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.11.2</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Verwaltungsakte nach Nummer 32.11.1 gegenüber Einbezogenen, die eine zurechenbare Ursache für die Einbeziehung gesetzt haben</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1 323</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.12</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Übergangsvorschriften</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32.12.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Durchführung des vereinfachten Verfahrens<br />
 (§ 50 Absatz 3 KMAG)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">33</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) 2022/2554</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">33.1</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Maßnahmen infolge der Durchführung eines gebündelten Tests<br />
 (Artikel 26 Absatz 4 der Verordnung (EU) 2022/2554)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nach Zeitaufwand</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">33.2</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung des Einsatzes interner Tester<br />
 (Artikel 27 Absatz 2 der Verordnung (EU) 2022/2554)</td>

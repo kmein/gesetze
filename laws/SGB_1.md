@@ -784,13 +784,15 @@ Soweit die besonderen Teile dieses Gesetzbuchs keine Regelung enthalten, werden 
 
 # § 47 – Auszahlung von Geldleistungen
 
-(1) Soweit die besonderen Teile dieses Gesetzbuchs keine Regelung enthalten, werden Geldleistungen kostenfrei auf das angegebene Konto bei einem Geldinstitut, für das die Verordnung (EU) Nr. 260/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 zur Festlegung der technischen Vorschriften und der Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22) gilt, überwiesen. Abweichend von Satz 1 werden Geldleistungen kostenfrei an den Wohnsitz oder gewöhnlichen Aufenthalt des Empfängers innerhalb des Geltungsbereiches der in Satz 1 genannten Verordnung übermittelt, wenn
+(1) Soweit die besonderen Teile dieses Gesetzbuchs keine Regelung enthalten, werden Geldleistungen kostenfrei auf das angegebene Konto bei einem Geldinstitut, für das die Verordnung (EU) Nr. 260/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 zur Festlegung der technischen Vorschriften und der Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22), die zuletzt durch die Verordnung (EU) 2024/886 (ABl. L, 2024/886, 19.3.2024) geändert worden ist, gilt, überwiesen. Abweichend von Satz 1 werden Geldleistungen kostenfrei an den Wohnsitz oder gewöhnlichen Aufenthalt des Empfängers innerhalb des Geltungsbereiches der in Satz 1 genannten Verordnung übermittelt, wenn
 
 1. der Empfänger nachweist, dass ihm die Einrichtung eines Kontos bei einem Geldinstitut ohne eigenes Verschulden nicht möglich ist, oder
 
 2. die Auszahlung im Einzelfall keinen Aufschub duldet.
 
 (2) Bei Zahlungen außerhalb des Geltungsbereiches der in Absatz 1 genannten Verordnung trägt der Leistungsträger die Kosten bis zu dem von ihm mit der Zahlung beauftragten Geldinstitut.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 4.2.2026 I Nr. 33 +++)
 
 # § 48 – Auszahlung bei Verletzung der Unterhaltspflicht
 

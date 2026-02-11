@@ -729,7 +729,7 @@ eingezogen werden. § 23 des Gesetzes über Ordnungswidrigkeiten ist anzuwenden.
 
 (1) Abweichend von § 12 Absatz 1 sind Haltungseinrichtungen, in denen am 24. August 2023 Tiere gehalten werden, von denen nach § 3 Absatz 1 kennzeichnungspflichtige Lebensmittel gewonnen werden, der zuständigen Behörde durch den Inhaber des tierhaltenden Betriebes bis zum 1. August 2024 mitzuteilen. Auf die Mitteilung ist § 12 Absatz 2 bis 5 anzuwenden.
 
-(2) Nach Maßgabe dieses Gesetzes kennzeichnungspflichtige Lebensmittel, die vor dem 1. März 2026 in Verkehr gebracht oder gekennzeichnet werden und die den Anforderungen dieses Gesetzes nicht entsprechen, dürfen weiterhin in Verkehr gebracht werden, bis die jeweiligen Bestände aufgebraucht sind.
+(2) Nach Maßgabe dieses Gesetzes kennzeichnungspflichtige Lebensmittel, die vor dem 1. Januar 2027 in Verkehr gebracht oder gekennzeichnet werden und die den Anforderungen dieses Gesetzes nicht entsprechen, dürfen weiterhin in Verkehr gebracht werden, bis die jeweiligen Bestände aufgebraucht sind.
 
 # § 41 – Verweisungen auf Vorschriften des Rechts der Europäischen Gemeinschaft oder der Europäischen Union
 

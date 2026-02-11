@@ -2447,7 +2447,7 @@ Zur Führung der Aufzeichnungen im Sinne des Satzes 1 sind Zahlungsdienstleister
 
 6. „Zahlungskonto“ ein Konto gemäß der Definition in § 1 Absatz 17 des Zahlungsdiensteaufsichtsgesetzes;
 
-7. „IBAN“ eine internationale Nummer gemäß der Definition in Artikel 2 Nummer 15 der Verordnung (EU) Nr. 260/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 zur Festlegung der technischen Vorschriften und der Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22), geändert durch die Verordnung (EU) Nr. 248/2014 (ABl. L 84 vom 20.3.2014, S. 1);
+7. „IBAN“ eine internationale Nummer gemäß der Definition in Artikel 2 Nummer 15 der Verordnung (EU) Nr. 260/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 zur Festlegung der technischen Vorschriften und der Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22), die zuletzt durch die Verordnung (EU) 2024/886 (ABl. L, 2024/886, 19.3.2024) geändert worden ist;
 
 8. „BIC“ eine internationale Bankleitzahl gemäß der Definition in Artikel 2 Nummer 16 der Verordnung (EU) Nr. 260/2012.
 

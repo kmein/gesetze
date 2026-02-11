@@ -21,7 +21,7 @@ a) der Vorschriften dieses Gesetzes;
 
 b) der Verordnung (EU) 2017/1129.
 
-Es gilt nicht für ein öffentliches Angebot der in Artikel 1 Absatz 4 Buchstabe k der Verordnung (EU) 2017/1129 bezeichneten Artikel.
+Es gilt nicht für ein öffentliches Angebot der in Artikel 1 Absatz 4 Buchstabe k der Verordnung (EU) 2017/1129 bezeichneten Art.
 
 (2) Dieses Gesetz enthält ebenfalls ergänzende Regelungen zu den Vorschriften der Verordnung (EU) 2023/2631 des Europäischen Parlaments und des Rates vom 22. November 2023 über europäische grüne Anleihen sowie fakultative Offenlegungen zu als ökologisch nachhaltig vermarkteten Anleihen und zu an Nachhaltigkeitsziele geknüpften Anleihen (ABl. L, 2023/2631, 30.11.2023), die durch die Verordnung (EU) 2023/2869 (ABl. L, 2023/2869, 20.12.2023) geändert worden ist, in Bezug auf
 
@@ -89,7 +89,7 @@ Die Verpflichtung zur Veröffentlichung eines Prospekts gemäß Artikel 3 Absatz
 
 # § 4 – Wertpapier-Informationsblatt; Verordnungsermächtigung
 
-(1) Ein Anbieter, der die Ausnahme nach § 3 Nummer 2 in Anspruch nimmt, darf die Wertpapiere im Inland erst dann öffentlich anbieten, wenn er zuvor ein Wertpapier-Informationsblatt nach den Absätzen 3 bis 5 und 6 Satz 2 sowie Absatz 7 Satz 4 erstellt, bei der Bundesanstalt hinterlegt und veröffentlicht hat. Dies gilt entsprechend für ein öffentliches Angebot im Inland von Wertpapieren mit einem Gesamtgegenwert im Europäischen Wirtschaftsraum von 100 000 Euro bis weniger als 1 Million Euro, für die gemäß Artikel 1 Absatz 3 Unterabsatz 1 der Verordnung (EU) 2017/1129 kein Prospekt zu veröffentlichen ist. Die Untergrenze von 100 000 Euro gemäß Satz 2 ist über einen Zeitraum von zwölf Monaten zu berechnen. Die Verpflichtungen nach den Sätzen 1 und 2 gelten nicht, wenn für die Wertpapiere ein Basisinformationsblatt nach der Verordnung (EU) Nr. 1286/2014 des Europäischen Parlaments und des Rates vom 26. November 2014 über Basisinformationsblätter für verpackte Anlageprodukte für Kleinanleger und Versicherungsanlageprodukte (PRIIP) (ABl. L 352 vom 9.12.2014, S. 1; L 358 vom 13.12.2014, S. 50), die durch die Verordnung (EU) 2016/2340 (ABl. L 354 vom 23.12.2016, S. 35) geändert worden ist, veröffentlicht werden muss oder wesentliche Anlegerinformationen nach § 301 des Kapitalanlagegesetzbuches veröffentlicht werden müssen.
+(1) Ein Anbieter, der die Ausnahme nach § 3 Nummer 2 in Anspruch nimmt, darf die Wertpapiere im Inland erst dann öffentlich anbieten, wenn er zuvor ein Wertpapier-Informationsblatt nach den Absätzen 3 bis 5 und 6 Satz 2 sowie Absatz 7 Satz 4 erstellt, bei der Bundesanstalt hinterlegt und veröffentlicht hat. Dies gilt nicht für ein öffentliches Angebot im Inland von Wertpapieren mit einem Gesamtgegenwert im Europäischen Wirtschaftsraum von weniger als 100 000 Euro. Die Untergrenze von 100 000 Euro gemäß Satz 2 ist über einen Zeitraum von zwölf Monaten zu berechnen. Die Verpflichtung nach Satz 1 gilt nicht, wenn für die Wertpapiere ein Basisinformationsblatt nach der Verordnung (EU) Nr. 1286/2014 veröffentlicht werden muss.
 
 (2) Das Wertpapier-Informationsblatt darf erst veröffentlicht werden, wenn die Bundesanstalt die Veröffentlichung gestattet. Die Gestattung ist zu erteilen, wenn
 
@@ -153,7 +153,7 @@ einschätzen und bestmöglich mit den Merkmalen anderer Wertpapiere vergleichen 
 
 (1) Das Wertpapier-Informationsblatt ist der Bundesanstalt elektronisch und in elektronisch durchsuchbarem Format über ihr Melde- und Veröffentlichungssystem zu übermitteln.
 
-(2) Hinsichtlich der Aufbewahrung des Wertpapier-Informationsblatts und der aktualisierten Fassungen gilt § 22 Absatz 3 entsprechend.
+(2) Hinsichtlich der Aufbewahrung des Wertpapier-Informationsblatts und der aktualisierten Fassungen gilt § 22 Absatz 2 entsprechend.
 
 (3) Das hinterlegte Wertpapier-Informationsblatt muss mindestens einen Werktag vor dem öffentlichen Angebot entsprechend Artikel 21 Absatz 2 und 3 Unterabsatz 1 der Verordnung (EU) 2017/1129 veröffentlicht werden. Der Anbieter hat sicherzustellen, dass das Wertpapier-Informationsblatt ohne Zugangsbeschränkung für jedermann zugänglich ist; die Regelungen des Artikels 21 Absatz 4 der Verordnung (EU) 2017/1129 gelten entsprechend.
 
@@ -173,7 +173,7 @@ Die Einschränkungen nach Satz 1 gelten nicht für Wertpapiere, die den Aktionä
 
 # § 7 – Werbung für Angebote, für die ein Wertpapier-Informationsblatt zu veröffentlichen ist
 
-(1) Der Anbieter hat bei Angeboten gemäß § 4 Absatz 1 Satz 1 und 2 dafür zu sorgen, dass in der Werbung für diese Angebote darauf hingewiesen wird, dass ein Wertpapier-Informationsblatt veröffentlicht wurde oder zur Veröffentlichung ansteht und wo das Wertpapier-Informationsblatt zu erhalten ist.
+(1) Der Anbieter hat bei Angeboten gemäß § 4 Absatz 1 Satz 1 dafür zu sorgen, dass in der Werbung für diese Angebote darauf hingewiesen wird, dass ein Wertpapier-Informationsblatt veröffentlicht wurde oder zur Veröffentlichung ansteht und wo das Wertpapier-Informationsblatt zu erhalten ist.
 
 (2) Der Anbieter hat bei Angeboten nach Absatz 1 dafür zu sorgen, dass die Werbung für diese Angebote klar als solche erkennbar ist.
 
@@ -183,7 +183,7 @@ Die Einschränkungen nach Satz 1 gelten nicht für Wertpapiere, die den Aktionä
 
 (5) Falls bei Angeboten nach Absatz 1 wesentliche Informationen vom Anbieter oder vom Emittenten offengelegt und mündlich oder schriftlich an einen oder mehrere ausgewählte Anleger gerichtet werden, müssen diese vom Anbieter in das Wertpapier-Informationsblatt oder in eine Aktualisierung des Wertpapier-Informationsblatts gemäß § 4 Absatz 8 aufgenommen werden.
 
-(6) Die Vorgaben in Kapitel IV der Delegierten Verordnung (EU) 2019/979 der Kommission vom 14. März 2019 zur Ergänzung der Verordnung (EU) 2017/1129 des Europäischen Parlaments und des Rates durch technische Regulierungsstandards für wesentliche Finanzinformationen in der Zusammenfassung des Prospekts, die Veröffentlichung und Klassifizierung von Prospekten, die Werbung für Wertpapiere, Nachträge zum Prospekt und das Notifizierungsportal und zur Aufhebung der Delegierten Verordnung (EU) Nr. 382/2014 der Kommission und der Delegierten Verordnung (EU) 2016/301 der Kommission (ABl. L 166 vom 21.6.2019, S. 1) sind auch auf Werbung für Angebote anzuwenden, für die nach § 4 Absatz 1 Satz 1 und 2 ein Wertpapier-Informationsblatt zu veröffentlichen ist.
+(6) Die Vorgaben in Kapitel IV der Delegierten Verordnung (EU) 2019/979 der Kommission vom 14. März 2019 zur Ergänzung der Verordnung (EU) 2017/1129 des Europäischen Parlaments und des Rates durch technische Regulierungsstandards für wesentliche Finanzinformationen in der Zusammenfassung des Prospekts, die Veröffentlichung und Klassifizierung von Prospekten, die Werbung für Wertpapiere, Nachträge zum Prospekt und das Notifizierungsportal und zur Aufhebung der Delegierten Verordnung (EU) Nr. 382/2014 der Kommission und der Delegierten Verordnung (EU) 2016/301 der Kommission (ABl. L 166 vom 21.6.2019, S. 1) sind auch auf Werbung für Angebote anzuwenden, für die nach § 4 Absatz 1 Satz 1 ein Wertpapier-Informationsblatt zu veröffentlichen ist.
 
 # § 8 – Prospektverantwortliche
 
@@ -203,7 +203,7 @@ als Gesamtschuldnern die Übernahme der Wertpapiere gegen Erstattung des Erwerbs
 
 (3) Sind Wertpapiere eines Emittenten mit Sitz im Ausland auch im Ausland zum Börsenhandel zugelassen, besteht ein Anspruch nach Absatz 1 oder 2 nur, sofern die Wertpapiere auf Grund eines im Inland abgeschlossenen Geschäfts oder einer ganz oder teilweise im Inland erbrachten Wertpapierdienstleistung erworben wurden.
 
-(4) Einem Prospekt stehen Dokumente gleich, welche gemäß Artikel 1 Absatz 5 Buchstabe e, f, g, h oder j Ziffer v und vi der Verordnung (EU) 2017/1129 zur Verfügung gestellt wurden.
+(4) Einem Prospekt stehen Dokumente gleich, welche gemäß Artikel 1 Absatz 5 Unterabsatz 1 Buchstabe ba Ziffer iii, e, f, g, h oder j Ziffer v und vi der Verordnung (EU) 2017/1129 zur Verfügung gestellt wurden.
 
 # § 10 – Haftung bei sonstigem fehlerhaften Prospekt
 
@@ -263,7 +263,7 @@ Sind in einem nach Artikel 3 Absatz 1 der Verordnung (EU) 2017/1129 veröffentli
 
 # § 15 – Haftung bei fehlendem Wertpapier-Informationsblatt
 
-(1) Ist ein Wertpapier-Informationsblatt entgegen § 4 Absatz 1 Satz 1 oder Satz 2 nicht veröffentlicht worden, kann der Erwerber von Wertpapieren von dem Emittenten und dem Anbieter als Gesamtschuldnern die Übernahme der Wertpapiere gegen Erstattung des Erwerbspreises, soweit dieser den ersten Erwerbspreis nicht überschreitet, und der mit dem Erwerb verbundenen üblichen Kosten verlangen, sofern das Erwerbsgeschäft vor Veröffentlichung eines Wertpapier-Informationsblatts und während der Dauer des öffentlichen Angebots, spätestens jedoch innerhalb von sechs Monaten nach dem ersten öffentlichen Angebot der Wertpapiere im Inland abgeschlossen wurde.
+(1) Ist ein Wertpapier-Informationsblatt entgegen § 4 Absatz 1 Satz 1 nicht veröffentlicht worden, kann der Erwerber von Wertpapieren von dem Emittenten und dem Anbieter als Gesamtschuldnern die Übernahme der Wertpapiere gegen Erstattung des Erwerbspreises, soweit dieser den ersten Erwerbspreis nicht überschreitet, und der mit dem Erwerb verbundenen üblichen Kosten verlangen, sofern das Erwerbsgeschäft vor Veröffentlichung eines Wertpapier-Informationsblatts und während der Dauer des öffentlichen Angebots, spätestens jedoch innerhalb von sechs Monaten nach dem ersten öffentlichen Angebot der Wertpapiere im Inland abgeschlossen wurde.
 
 (2) Ist der Erwerber nicht mehr Inhaber der Wertpapiere, so kann er die Zahlung des Unterschiedsbetrags zwischen dem Erwerbspreis, soweit dieser den ersten Erwerbspreis nicht überschreitet, und dem Veräußerungspreis der Wertpapiere sowie der mit dem Erwerb und der Veräußerung verbundenen üblichen Kosten verlangen. Absatz 1 gilt entsprechend.
 
@@ -309,7 +309,7 @@ erforderlich ist. Diese sind auf ihr Verlangen elektronisch zu übermitteln. Ver
 
 7. das Wertpapier-Informationsblatt nicht nach § 4 Absatz 8 aktualisiert wurde.
 
-In einem Auskunfts- und Vorlegungsersuchen nach Absatz 2 ist auf die Befugnis nach Satz 1 hinzuweisen. Die Bekanntmachung darf nur diejenigen personenbezogenen Daten enthalten, die zur Identifizierung des Anbieters, Zulassungsantragstellers oder Emittenten erforderlich sind. Bei nicht bestandskräftigen Maßnahmen ist folgender Hinweis hinzuzufügen: „Diese Maßnahme ist noch nicht bestandskräftig. “ Wurde gegen die Maßnahme ein Rechtsmittel eingelegt, sind der Stand und der Ausgang des Rechtsmittelverfahrens bekannt zu machen. Die Bekanntmachung ist spätestens nach fünf Jahren zu löschen. Die Bundesanstalt sieht von einer Bekanntmachung ab, wenn die Bekanntmachung die Finanzmärkte der Bundesrepublik Deutschland oder eines oder mehrerer Staaten des Europäischen Wirtschaftsraums erheblich gefährden würde. Sie kann von einer Bekanntmachung außerdem absehen, wenn eine Bekanntmachung nachteilige Auswirkungen auf die Durchführung strafrechtlicher, bußgeldrechtlicher oder disziplinarischer Ermittlungen haben kann.
+In einem Auskunfts- und Vorlegungsersuchen nach Absatz 2 ist auf die Befugnis nach Satz 1 hinzuweisen. Die Bekanntmachung darf nur diejenigen personenbezogenen Daten enthalten, die zur Identifizierung des Anbieters, Zulassungsantragstellers oder Emittenten erforderlich sind. Bei nicht bestandskräftigen Maßnahmen ist folgender Hinweis hinzuzufügen: „Diese Maßnahme ist noch nicht bestandskräftig. “ Wurde gegen die Maßnahme ein Rechtsmittel eingelegt, sind der Stand und der Ausgang des Rechtsmittelverfahrens bekannt zu machen. Die Bekanntmachung ist nach fünf Jahren zu löschen. Die Bundesanstalt sieht von einer Bekanntmachung ab, wenn die Bekanntmachung die Finanzmärkte der Bundesrepublik Deutschland oder eines oder mehrerer Staaten des Europäischen Wirtschaftsraums erheblich gefährden würde. Sie kann von einer Bekanntmachung außerdem absehen, wenn eine Bekanntmachung nachteilige Auswirkungen auf die Durchführung strafrechtlicher, bußgeldrechtlicher oder disziplinarischer Ermittlungen haben kann.
 
 (4) Die Bundesanstalt hat ein öffentliches Angebot zu untersagen, wenn
 
@@ -433,21 +433,19 @@ Keine aufschiebende Wirkung haben
 
 # § 21 – Anerkannte Sprache
 
-(1) Anerkannte Sprache im Sinne des Artikels 27 der Verordnung (EU) 2017/1129 ist die deutsche Sprache.
+(1) Anerkannte Sprache im Sinne des Artikels 1 Absatz 4 Unterabsatz 2 und Absatz 5 Unterabsatz 3 der Verordnung (EU) 2017/1129 ist die englische Sprache.
 
-(2) Die englische Sprache wird im Falle des Artikels 27 Absatz 1 und 3 der Verordnung (EU) 2017/1129 anerkannt, sofern der Prospekt auch eine Übersetzung der in Artikel 7 dieser Verordnung genannten Zusammenfassung, oder, im Falle eines EU-Wachstumsprospekts, der speziellen Zusammenfassung gemäß Artikel 15 Absatz 2 dieser Verordnung in die deutsche Sprache enthält. Im Falle von Basisprospekten ist die Zusammenfassung für die einzelne Emission in die deutsche Sprache zu übersetzen. Die englische Sprache wird ohne Übersetzung der Zusammenfassung anerkannt, wenn gemäß Artikel 7 Absatz 1 Unterabsatz 2 der Verordnung (EU) 2017/1129 eine Zusammenfassung nicht erforderlich ist.
+(2) Anerkannte Sprachen im Sinne des Artikels 27 der Verordnung (EU) 2017/1129 sind die deutsche und die englische Sprache.
 
 (3) Anerkannte Sprache im Sinne des Artikels 15 Absatz 2 Buchstabe a der Verordnung (EU) 2023/2631 ist die deutsche Sprache.
 
 # § 22 – Elektronische Einreichung, Aufbewahrung
 
-(1) Der Prospekt einschließlich der Übersetzung der Zusammenfassung ist der Bundesanstalt ausschließlich elektronisch über das Melde- und Veröffentlichungssystem der Bundesanstalt zu übermitteln. Dies gilt entsprechend für die Übermittlung von Nachträgen und für die Hinterlegung von einheitlichen Registrierungsformularen einschließlich deren Änderungen.
+(1) Der Prospekt einschließlich der Übersetzung der Zusammenfassung sowie Nachträge sind der Bundesanstalt ausschließlich elektronisch über das Melde- und Veröffentlichungssystem der Bundesanstalt zu übermitteln. Dies gilt entsprechend für die Hinterlegung der endgültigen Bedingungen des Angebots, von einheitlichen Registrierungsformularen einschließlich deren Änderungen sowie Dokumenten nach Artikel 1 Absatz 4 Buchstabe da Ziffer iii und Buchstabe db Ziffer iii und Absatz 5 Unterabsatz 1 Buchstabe ba Ziffer iii der Verordnung (EU) 2017/1129.
 
-(2) Die endgültigen Bedingungen des Angebots sind ausschließlich elektronisch über das Melde- und Veröffentlichungssystem der Bundesanstalt zu hinterlegen.
+(2) Der gebilligte Prospekt sowie gebilligte Nachträge werden von der Bundesanstalt zehn Jahre aufbewahrt. Die Aufbewahrungsfrist beginnt mit dem Ablauf des 31. Dezembers des Kalenderjahres, in dem der Prospekt gebilligt wurde. Dies gilt entsprechend für die in Absatz 1 Satz 2 genannten Dokumente mit der Maßgabe, dass die Aufbewahrungsfrist mit dem Ablauf des 31. Dezembers des Kalenderjahres beginnt, in dem das Dokument hinterlegt wurde.
 
-(3) Der gebilligte Prospekt wird von der Bundesanstalt zehn Jahre aufbewahrt. Die Aufbewahrungsfrist beginnt mit dem Ablauf des 31. Dezembers des Kalenderjahres, in dem der Prospekt gebilligt wurde. Dies gilt entsprechend für gebilligte Nachträge und einheitliche Registrierungsformulare einschließlich deren Änderungen.
-
-(4) Die Unterrichtung der Bundesanstalt durch den Emittenten nach Artikel 15 Absatz 4 der Verordnung (EU) 2023/2631 erfolgt ausschließlich elektronisch über das Melde- und Veröffentlichungssystem der Bundesanstalt unter Mitteilung der den jeweiligen Emittenten und die entsprechende Emission betreffenden Angaben.
+(3) Die Unterrichtung der Bundesanstalt durch den Emittenten nach Artikel 15 Absatz 4 der Verordnung (EU) 2023/2631 erfolgt ausschließlich elektronisch über das Melde- und Veröffentlichungssystem der Bundesanstalt unter Mitteilung der den jeweiligen Emittenten und die entsprechende Emission betreffenden Angaben.
 
 # § 23 – (weggefallen)
 
@@ -489,7 +487,7 @@ b) eine aktualisierte Fassung des Wertpapier-Informationsblatts nicht oder nicht
 
 zuwiderhandelt.
 
-(3) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2017/1129 des Europäischen Parlaments und des Rates vom 14. Juni 2017 über den Prospekt, der beim öffentlichen Angebot von Wertpapieren oder bei deren Zulassung zum Handel an einem geregelten Markt zu veröffentlichen ist und zur Aufhebung der Richtlinie 2003/71/EG (ABl. L 168 vom 30.6.2017, S. 12) verstößt, indem er vorsätzlich oder leichtfertig
+(3) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 verstößt, indem er vorsätzlich oder leichtfertig
 
 1. entgegen Artikel 3 Absatz 1 ein Wertpapier öffentlich anbietet,
 
@@ -521,89 +519,91 @@ zuwiderhandelt.
 
 15. entgegen Artikel 21 Absatz 11 Satz 1 oder 2 eine kostenlose Version des Prospekts oder eine gedruckte Fassung nicht oder nicht rechtzeitig zur Verfügung stellt,
 
-16. entgegen Artikel 22 Absatz 5 eine Mitteilung nicht oder nicht rechtzeitig macht oder eine Information nicht oder nicht rechtzeitig aufnimmt oder
+16. entgegen Artikel 22 Absatz 5 eine Mitteilung nicht oder nicht rechtzeitig macht oder eine Information nicht oder nicht rechtzeitig aufnimmt,
 
-17. entgegen Artikel 23 Absatz 1, auch in Verbindung mit Artikel 8 Absatz 10, einen Nachtrag nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig veröffentlicht.
+17. entgegen Artikel 23 Absatz 1, auch in Verbindung mit Artikel 8 Absatz 10, einen Nachtrag nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig veröffentlicht oder
+
+18. entgegen Artikel 23 Absatz 4a einen Nachtrag verwendet.
 
 (4) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
-1. ohne Prospekt Wertpapiere später weiterveräußert oder als Finanzintermediär endgültig platziert, ohne dass die Voraussetzungen für eine prospektfreie Weiterveräußerung oder Platzierung nach Artikel 5 Absatz 1 Unterabsatz 1 Satz 2 oder Unterabsatz 2 der Verordnung (EU) 2017/1129 vorliegen,
+1. ohne Prospekt Wertpapiere später weiterveräußert oder als Finanzintermediär endgültig platziert, ohne dass die Voraussetzungen für eine prospektfreie Weiterveräußerung oder Platzierung nach Artikel 5 Absatz 1 Unterabsatz 1 Satz 2 oder Unterabsatz 2 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 vorliegen,
 
-2. einen Prospekt veröffentlicht, der die Informationen und Angaben nach Artikel 6 der Verordnung (EU) 2017/1129 nicht oder nicht in der vorgeschriebenen Weise enthält,
+2. einen Prospekt veröffentlicht, der die Informationen und Angaben nach Artikel 6 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 nicht oder nicht in der vorgeschriebenen Weise enthält,
 
-3. einen Prospekt veröffentlicht, dessen Zusammenfassung die Informationen und Warnhinweise nach Artikel 7 Absatz 1 bis 8, 10 und 11 der Verordnung (EU) 2017/1129 nicht oder nicht in der vorgeschriebenen Weise enthält,
+3. einen Prospekt veröffentlicht, dessen Zusammenfassung die Informationen und Warnhinweise nach Artikel 7 Absatz 1 bis 8, 10 und 11 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 nicht oder nicht in der vorgeschriebenen Weise enthält,
 
-4. endgültige Bedingungen, auch als Teil eines Basisprospekts oder Nachtrags, der Öffentlichkeit zur Verfügung stellt, die nicht oder nicht in der vorgeschriebenen Weise nach Artikel 8 Absatz 3 der Verordnung (EU) 2017/1129 festlegen, welche der in dem Basisprospekt enthaltenen Optionen in Bezug auf die Angaben, die nach der entsprechenden Wertpapierbeschreibung erforderlich sind, für die einzelne Emission gelten,
+4. endgültige Bedingungen, auch als Teil eines Basisprospekts oder Nachtrags, der Öffentlichkeit zur Verfügung stellt, die nicht oder nicht in der vorgeschriebenen Weise nach Artikel 8 Absatz 3 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 festlegen, welche der in dem Basisprospekt enthaltenen Optionen in Bezug auf die Angaben, die nach der entsprechenden Wertpapierbeschreibung erforderlich sind, für die einzelne Emission gelten,
 
-5. endgültige Bedingungen der Öffentlichkeit zur Verfügung stellt, die nicht den Anforderungen nach Artikel 8 Absatz 4 Unterabsatz 1 der Verordnung (EU) 2017/1129 an die Präsentationsform oder an die Darlegung entsprechen,
+5. endgültige Bedingungen der Öffentlichkeit zur Verfügung stellt, die nicht den Anforderungen nach Artikel 8 Absatz 4 Unterabsatz 1 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 an die Präsentationsform oder an die Darlegung entsprechen,
 
-6. endgültige Bedingungen, auch als Teil eines Basisprospekts oder Nachtrags, der Öffentlichkeit zur Verfügung stellt, die nicht den Anforderungen des Artikels 8 Absatz 4 Unterabsatz 2 der Verordnung (EU) 2017/1129 entsprechen, indem sie Angaben enthalten, die nicht die Wertpapierbeschreibung betreffen, oder als Nachtrag zum Basisprospekt dienen,
+6. endgültige Bedingungen, auch als Teil eines Basisprospekts oder Nachtrags, der Öffentlichkeit zur Verfügung stellt, die nicht den Anforderungen des Artikels 8 Absatz 4 Unterabsatz 2 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 entsprechen, indem sie Angaben enthalten, die nicht die Wertpapierbeschreibung betreffen, oder als Nachtrag zum Basisprospekt dienen,
 
-7. endgültige Bedingungen, auch als Teil eines Basisprospekts oder Nachtrags, der Öffentlichkeit zur Verfügung stellt, die eine eindeutige und deutlich sichtbare Erklärung nach Artikel 8 Absatz 5 Unterabsatz 2 der Verordnung (EU) 2017/1129 nicht oder nicht vollständig enthalten,
+7. endgültige Bedingungen, auch als Teil eines Basisprospekts oder Nachtrags, der Öffentlichkeit zur Verfügung stellt, die eine eindeutige und deutlich sichtbare Erklärung nach Artikel 8 Absatz 5 Unterabsatz 2 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 nicht oder nicht vollständig enthalten,
 
-8. eine Zusammenfassung für die einzelne Emission veröffentlicht, die nicht nach Artikel 8 Absatz 9 Unterabsatz 1 erster Teilsatz der Verordnung (EU) 2017/1129 den Anforderungen des Artikels 8 der Verordnung (EU) 2017/1129 an endgültige Bedingungen entspricht,
+8. eine Zusammenfassung für die einzelne Emission veröffentlicht, die nicht nach Artikel 8 Absatz 9 Unterabsatz 1 erster Teilsatz der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 den Anforderungen des Artikels 8 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 an endgültige Bedingungen entspricht,
 
-9. endgültige Bedingungen, auch als Teil eines Basisprospekts oder Nachtrags, der Öffentlichkeit zur Verfügung stellt, denen nicht nach Artikel 8 Absatz 9 Unterabsatz 1 zweiter Teilsatz der Verordnung (EU) 2017/1129 die Zusammenfassung für die einzelne Emission angefügt ist,
+9. endgültige Bedingungen, auch als Teil eines Basisprospekts oder Nachtrags, der Öffentlichkeit zur Verfügung stellt, denen nicht nach Artikel 8 Absatz 9 Unterabsatz 1 zweiter Teilsatz der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 die Zusammenfassung für die einzelne Emission angefügt ist,
 
-10. endgültige Bedingungen, auch als Teil eines Basisprospekts oder Nachtrags, der Öffentlichkeit zur Verfügung stellt, denen eine Zusammenfassung für die einzelne Emission angefügt ist, die nicht den in Artikel 8 Absatz 9 Unterabsatz 2 der Verordnung (EU) 2017/1129 genannten Anforderungen entspricht,
+10. endgültige Bedingungen, auch als Teil eines Basisprospekts oder Nachtrags, der Öffentlichkeit zur Verfügung stellt, denen eine Zusammenfassung für die einzelne Emission angefügt ist, die nicht den in Artikel 8 Absatz 9 Unterabsatz 2 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 genannten Anforderungen entspricht,
 
-11. endgültige Bedingungen, auch als Teil eines Basisprospekts oder Nachtrags, der Öffentlichkeit zur Verfügung stellt, die auf der ersten Seite nicht den in Artikel 8 Absatz 11 Satz 2 der Verordnung (EU) 2017/1129 genannten Warnhinweis enthalten,
+11. endgültige Bedingungen, auch als Teil eines Basisprospekts oder Nachtrags, der Öffentlichkeit zur Verfügung stellt, die auf der ersten Seite nicht den in Artikel 8 Absatz 11 Satz 2 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 genannten Warnhinweis enthalten,
 
-12. ein einheitliches Registrierungsformular ohne vorherige Billigung durch die Bundesanstalt veröffentlicht, ohne dass die Voraussetzungen nach Artikel 9 Absatz 2 der Verordnung (EU) 2017/1129 für die Möglichkeit einer Hinterlegung ohne vorherige Billigung vorliegen,
+12. ein einheitliches Registrierungsformular ohne vorherige Billigung durch die Bundesanstalt veröffentlicht, ohne dass die Voraussetzungen nach Artikel 9 Absatz 2 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 für die Möglichkeit einer Hinterlegung ohne vorherige Billigung vorliegen,
 
-13. einen Prospekt, auch unter Verwendung eines Registrierungsformulars oder eines einheitlichen Registrierungsformulars als Prospektbestandteil, veröffentlicht, der die nach Artikel 11 Absatz 1 der Verordnung (EU) 2017/1129 vorgeschriebenen Angaben und Erklärungen nicht oder nicht in der vorgeschriebenen Weise enthält,
+13. einen Prospekt, auch unter Verwendung eines Registrierungsformulars oder eines einheitlichen Registrierungsformulars als Prospektbestandteil, veröffentlicht, der die nach Artikel 11 Absatz 1 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 vorgeschriebenen Angaben und Erklärungen nicht oder nicht in der vorgeschriebenen Weise enthält,
 
-14. einen vereinfachten Prospekt nach Artikel 14 der Verordnung (EU) 2017/1129 veröffentlicht, ohne zu den in Artikel 14 Absatz 1 der Verordnung (EU) 2017/1129 genannten Personen zu gehören, oder einen vereinfachten Prospekt veröffentlicht, der nicht aus den in Artikel 14 Absatz 1 der Verordnung (EU) 2017/1129 genannten Bestandteilen besteht oder die verkürzten Angaben nach Artikel 14 Absatz 2 der Verordnung (EU) 2017/1129 nicht oder nicht in der vorgeschriebenen Weise enthält,
+14. einen vereinfachten Prospekt nach Artikel 14 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 veröffentlicht, ohne zu den in Artikel 14 Absatz 1 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 genannten Personen zu gehören, oder einen vereinfachten Prospekt veröffentlicht, der nicht aus den in Artikel 14 Absatz 1 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 genannten Bestandteilen besteht oder die verkürzten Angaben nach Artikel 14 Absatz 2 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 nicht oder nicht in der vorgeschriebenen Weise enthält,
 
-15. einen EU-Wachstumsprospekt veröffentlicht, ohne zu den in Artikel 15 Absatz 1 der Verordnung (EU) 2017/1129 genannten Personen zu gehören, oder einen EU-Wachstumsprospekt veröffentlicht, der die in Artikel 15 Absatz 1 der Verordnung (EU) 2017/1129 genannten Bestandteile und Informationen nicht oder nicht in der vorgeschriebenen Weise enthält,
+15. einen EU-Wachstumsprospekt veröffentlicht, ohne zu den in Artikel 15 Absatz 1 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 genannten Personen zu gehören, oder einen EU-Wachstumsprospekt veröffentlicht, der die in Artikel 15 Absatz 1 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 genannten Bestandteile und Informationen nicht oder nicht in der vorgeschriebenen Weise enthält,
 
-16. einen Prospekt veröffentlicht, der die Risikofaktoren nach Artikel 16 Absatz 1 bis 3 der Verordnung (EU) 2017/1129 nicht oder nicht in der vorgeschriebenen Weise darstellt,
+16. einen Prospekt veröffentlicht, der die Risikofaktoren nach Artikel 16 Absatz 1 bis 3 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 nicht oder nicht in der vorgeschriebenen Weise darstellt,
 
-17. einen Prospekt veröffentlicht, der die nach Artikel 17 Absatz 1 Buchstabe b der Verordnung (EU) 2017/1129 anzugebenden Informationen nicht enthält,
+17. einen Prospekt veröffentlicht, der die nach Artikel 17 Absatz 1 Buchstabe b der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 anzugebenden Informationen nicht enthält,
 
-18. als Anbieter oder Zulassungsantragsteller den endgültigen Emissionspreis oder das endgültige Emissionsvolumen nicht spätestens am Tag der Veröffentlichung bei der Bundesanstalt nach Artikel 17 Absatz 2 erste Alternative der Verordnung (EU) 2017/1129 hinterlegt,
+18. als Anbieter oder Zulassungsantragsteller den endgültigen Emissionspreis oder das endgültige Emissionsvolumen nicht spätestens am Tag der Veröffentlichung bei der Bundesanstalt nach Artikel 17 Absatz 2 erste Alternative der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 hinterlegt,
 
-19. als Anbieter den endgültigen Emissionspreis oder das endgültige Emissionsvolumen nicht, nicht richtig, nicht in der nach Artikel 17 Absatz 2 zweite Alternative in Verbindung mit Artikel 21 Absatz 2 der Verordnung (EU) 2017/1129 vorgeschriebenen Weise oder nicht unverzüglich nach der Festlegung des endgültigen Emissionspreises und Emissionsvolumens der Öffentlichkeit zur Verfügung stellt,
+19. als Anbieter den endgültigen Emissionspreis oder das endgültige Emissionsvolumen nicht, nicht richtig, nicht in der nach Artikel 17 Absatz 2 zweite Alternative in Verbindung mit Artikel 21 Absatz 2 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 vorgeschriebenen Weise oder nicht unverzüglich nach der Festlegung des endgültigen Emissionspreises und Emissionsvolumens der Öffentlichkeit zur Verfügung stellt,
 
-20. nach der Verordnung (EU) 2017/1129 für einen Prospekt oder seine Bestandteile vorgeschriebene Informationen und Angaben nicht in den Prospekt aufnimmt, ohne dass die Voraussetzungen nach Artikel 18 der Verordnung (EU) 2017/1129 für eine Nichtaufnahme vorliegen,
+20. nach der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 für einen Prospekt oder seine Bestandteile vorgeschriebene Informationen und Angaben nicht in den Prospekt aufnimmt, ohne dass die Voraussetzungen nach Artikel 18 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 für eine Nichtaufnahme vorliegen,
 
-21. eine Information mittels Verweis in den Prospekt aufnimmt, die einer der in Artikel 19 Absatz 1 der Verordnung (EU) 2017/1129 genannten Anforderungen nicht entspricht,
+21. eine Information mittels Verweis in den Prospekt aufnimmt, die einer der in Artikel 19 Absatz 1 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 genannten Anforderungen nicht entspricht,
 
-22. als Emittent, Anbieter oder Zulassungsantragsteller eine gesonderte Kopie der Zusammenfassung zur Verfügung stellt, die nicht nach Artikel 21 Absatz 3 Unterabsatz 3 der Verordnung (EU) 2017/1129 klar angibt, auf welchen Prospekt sie sich bezieht,
+22. als Emittent, Anbieter oder Zulassungsantragsteller eine gesonderte Kopie der Zusammenfassung zur Verfügung stellt, die nicht nach Artikel 21 Absatz 3 Unterabsatz 3 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 klar angibt, auf welchen Prospekt sie sich bezieht,
 
-23. als Emittent, Anbieter oder Zulassungsantragsteller für den Zugang zu einem gebilligten Prospekt eine Zugangsbeschränkung nach Artikel 21 Absatz 4 der Verordnung (EU) 2017/1129 vorsieht,
+23. als Emittent, Anbieter oder Zulassungsantragsteller für den Zugang zu einem gebilligten Prospekt eine Zugangsbeschränkung nach Artikel 21 Absatz 4 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 vorsieht,
 
-24. als Emittent, Anbieter oder Zulassungsantragsteller einen gebilligten Prospekt nach seiner Veröffentlichung gemäß Artikel 21 Absatz 7 Unterabsatz 1 der Verordnung (EU) 2017/1129 nicht mindestens zehn Jahre lang auf den in Artikel 21 Absatz 2 der Verordnung (EU) 2017/1129 genannten Websites in elektronischer Form öffentlich zugänglich macht,
+24. als Emittent, Anbieter oder Zulassungsantragsteller einen gebilligten Prospekt nach seiner Veröffentlichung gemäß Artikel 21 Absatz 7 Unterabsatz 1 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 nicht mindestens zehn Jahre lang auf den in Artikel 21 Absatz 2 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 genannten Websites in elektronischer Form öffentlich zugänglich macht,
 
-25. als Emittent, Anbieter oder Zulassungsantragsteller Hyperlinks für die mittels Verweis in den Prospekt aufgenommenen Informationen, Nachträge und/oder endgültigen Bedingungen für den Prospekt verwendet und diese nicht gemäß Artikel 21 Absatz 7 Unterabsatz 2 der Verordnung (EU) 2017/1129 funktionsfähig hält,
+25. als Emittent, Anbieter oder Zulassungsantragsteller Hyperlinks für die mittels Verweis in den Prospekt aufgenommenen Informationen, Nachträge und/oder endgültigen Bedingungen für den Prospekt verwendet und diese nicht gemäß Artikel 21 Absatz 7 Unterabsatz 2 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 funktionsfähig hält,
 
-26. einen gebilligten Prospekt der Öffentlichkeit zur Verfügung stellt, der den Warnhinweis dazu, ab wann der Prospekt nicht mehr gültig ist, nach Artikel 21 Absatz 8 der Verordnung (EU) 2017/1129 nicht, nicht vollständig oder nicht in der vorgeschriebenen Weise enthält,
+26. einen gebilligten Prospekt der Öffentlichkeit zur Verfügung stellt, der den Warnhinweis dazu, ab wann der Prospekt nicht mehr gültig ist, nach Artikel 21 Absatz 8 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 nicht, nicht vollständig oder nicht in der vorgeschriebenen Weise enthält,
 
-27. Einzeldokumente eines aus mehreren Einzeldokumenten bestehenden Prospekts im Sinne des Artikels 10 der Verordnung (EU) 2017/1129 veröffentlicht, die den Hinweis darauf, dass es sich bei jedem dieser Einzeldokumente lediglich um einen Teil des Prospekts handelt und wo die übrigen Einzeldokumente erhältlich sind, nach Artikel 21 Absatz 9 Satz 2 der Verordnung (EU) 2017/1129 nicht oder nicht vollständig enthalten,
+27. Einzeldokumente eines aus mehreren Einzeldokumenten bestehenden Prospekts im Sinne des Artikels 10 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 veröffentlicht, die den Hinweis darauf, dass es sich bei jedem dieser Einzeldokumente lediglich um einen Teil des Prospekts handelt und wo die übrigen Einzeldokumente erhältlich sind, nach Artikel 21 Absatz 9 Satz 2 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 nicht oder nicht vollständig enthalten,
 
-28. einen Prospekt oder einen Nachtrag der Öffentlichkeit zur Verfügung stellt, dessen Wortlaut und Aufmachung nicht mit der von der zuständigen Behörde gebilligten Fassung des Prospekts oder Nachtrags nach Artikel 21 Absatz 10 der Verordnung (EU) 2017/1129 identisch ist,
+28. einen Prospekt oder einen Nachtrag der Öffentlichkeit zur Verfügung stellt, dessen Wortlaut und Aufmachung nicht mit der von der zuständigen Behörde gebilligten Fassung des Prospekts oder Nachtrags nach Artikel 21 Absatz 10 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 identisch ist,
 
-29. sich in Werbung auf ein öffentliches Angebot von Wertpapieren oder auf eine Zulassung zum Handel an einem geregelten Markt bezieht, die den nach Artikel 22 Absatz 2 der Verordnung (EU) 2017/1129 vorzusehenden Hinweis nicht oder nicht vollständig enthält,
+29. sich in Werbung auf ein öffentliches Angebot von Wertpapieren oder auf eine Zulassung zum Handel an einem geregelten Markt bezieht, die den nach Artikel 22 Absatz 2 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 vorzusehenden Hinweis nicht oder nicht vollständig enthält,
 
-30. sich in Werbung auf ein öffentliches Angebot von Wertpapieren oder auf eine Zulassung zum Handel an einem geregelten Markt bezieht, ohne sie klar als Werbung erkennbar zu machen oder ohne dass die darin enthaltenen Informationen den Anforderungen nach Artikel 22 Absatz 3 der Verordnung (EU) 2017/1129 entsprechen,
+30. sich in Werbung auf ein öffentliches Angebot von Wertpapieren oder auf eine Zulassung zum Handel an einem geregelten Markt bezieht, ohne sie klar als Werbung erkennbar zu machen oder ohne dass die darin enthaltenen Informationen den Anforderungen nach Artikel 22 Absatz 3 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 entsprechen,
 
-31. nicht nach Artikel 22 Absatz 4 der Verordnung (EU) 2017/1129 sicherstellt, dass mündlich oder schriftlich verbreitete Informationen über das öffentliche Angebot von Wertpapieren oder die Zulassung zum Handel an einem geregelten Markt mit den im Prospekt enthaltenen Informationen übereinstimmen,
+31. nicht nach Artikel 22 Absatz 4 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 sicherstellt, dass mündlich oder schriftlich verbreitete Informationen über das öffentliche Angebot von Wertpapieren oder die Zulassung zum Handel an einem geregelten Markt mit den im Prospekt enthaltenen Informationen übereinstimmen,
 
-32. einen Nachtrag veröffentlicht, in dem die Frist für das Widerrufsrecht des Anlegers und die Erklärung nach Artikel 23 Absatz 2 der Verordnung (EU) 2017/1129, auch in Verbindung mit Artikel 8 Absatz 10 der Verordnung (EU) 2017/1129, nicht oder nicht in der vorgeschriebenen Weise angegeben ist,
+32. einen Nachtrag veröffentlicht, in dem die Frist für das Widerrufsrecht des Anlegers und die Erklärung nach Artikel 23 Absatz 2 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024, auch in Verbindung mit Artikel 8 Absatz 10 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024, nicht oder nicht in der vorgeschriebenen Weise angegeben ist,
 
-33. als Finanzintermediär, über den die Wertpapiere erworben oder gezeichnet werden, oder als Emittent, über den die Wertpapiere unmittelbar erworben oder gezeichnet werden, die Anleger nicht oder nicht rechtzeitig nach Artikel 23 Absatz 3 der Verordnung (EU) 2017/1129 informiert,
+33. als Finanzintermediär, über den die Wertpapiere erworben oder gezeichnet werden, oder als Emittent, über den die Wertpapiere unmittelbar erworben oder gezeichnet werden, die Anleger nicht oder nicht rechtzeitig nach Artikel 23 Absatz 3 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 informiert,
 
-34. als Emittent, Anbieter oder Zulassungsantragsteller einen Nachtrag zu einem Registrierungsformular oder zu einem einheitlichen Registrierungsformular, das gleichzeitig als Bestandteil mehrerer Prospekte verwendet wird, veröffentlicht, ohne nach Artikel 23 Absatz 5 der Verordnung (EU) 2017/1129, auch in Verbindung mit Artikel 8 Absatz 10 der Verordnung (EU) 2017/1129, im Nachtrag alle Prospekte zu nennen, auf die er sich bezieht,
+34. als Emittent, Anbieter oder Zulassungsantragsteller einen Nachtrag zu einem Registrierungsformular oder zu einem einheitlichen Registrierungsformular, das gleichzeitig als Bestandteil mehrerer Prospekte verwendet wird, veröffentlicht, ohne nach Artikel 23 Absatz 5 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024, auch in Verbindung mit Artikel 8 Absatz 10 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024, im Nachtrag alle Prospekte zu nennen, auf die er sich bezieht,
 
-35. Wertpapiere nur in seinem Herkunftsmitgliedstaat öffentlich anbietet oder nur dort die Zulassung zum Handel an einem geregelten Markt beantragt und zu diesem Zweck einen Prospekt veröffentlicht, der nicht in einer nach § 21 in Verbindung mit Artikel 27 der Verordnung (EU) 2017/1129 anerkannten Sprache erstellt wurde,
+35. Wertpapiere nur in seinem Herkunftsmitgliedstaat öffentlich anbietet oder nur dort die Zulassung zum Handel an einem geregelten Markt beantragt und zu diesem Zweck einen Prospekt veröffentlicht, der nicht in einer nach § 21 in Verbindung mit Artikel 27 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 anerkannten Sprache erstellt wurde,
 
-36. Wertpapiere in einem oder mehreren anderen Mitgliedstaaten als seinem Herkunftsmitgliedstaat öffentlich anbietet oder dort die Zulassung zum Handel an einem geregelten Markt beantragt und zu diesem Zweck einen Prospekt veröffentlicht, der nicht in einer nach § 21 in Verbindung mit Artikel 27 Absatz 2 Unterabsatz 1 der Verordnung (EU) 2017/1129 anerkannten oder in einer in internationalen Finanzkreisen gebräuchlichen Sprache erstellt wurde,
+36. Wertpapiere in einem oder mehreren anderen Mitgliedstaaten als seinem Herkunftsmitgliedstaat öffentlich anbietet oder dort die Zulassung zum Handel an einem geregelten Markt beantragt und zu diesem Zweck einen Prospekt veröffentlicht, der nicht in einer nach § 21 in Verbindung mit Artikel 27 Absatz 2 Unterabsatz 1 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 anerkannten oder in einer in internationalen Finanzkreisen gebräuchlichen Sprache erstellt wurde,
 
-37. Wertpapiere in mehr als einem Mitgliedstaat einschließlich des Herkunftsmitgliedstaats öffentlich anbietet oder dort die Zulassung zum Handel an einem geregelten Markt beantragt und zu diesem Zweck einen Prospekt veröffentlicht, der nicht in einer nach § 21 in Verbindung mit Artikel 27 Absatz 3 Unterabsatz 1 der Verordnung (EU) 2017/1129 anerkannten Sprache oder in einer von den zuständigen Behörden der einzelnen Aufnahmemitgliedstaaten anerkannten Sprache oder in einer in internationalen Finanzkreisen gebräuchlichen Sprache erstellt wurde,
+37. Wertpapiere in mehr als einem Mitgliedstaat einschließlich des Herkunftsmitgliedstaats öffentlich anbietet oder dort die Zulassung zum Handel an einem geregelten Markt beantragt und zu diesem Zweck einen Prospekt veröffentlicht, der nicht in einer nach § 21 in Verbindung mit Artikel 27 Absatz 3 Unterabsatz 1 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 anerkannten Sprache oder in einer von den zuständigen Behörden der einzelnen Aufnahmemitgliedstaaten anerkannten Sprache oder in einer in internationalen Finanzkreisen gebräuchlichen Sprache erstellt wurde,
 
-38. einen in englischer Sprache erstellten Prospekt veröffentlicht, der keine Übersetzung der in Artikel 7 der Verordnung (EU) 2017/1129 genannten Zusammenfassung oder im Falle eines EU-Wachstumsprospekts der speziellen Zusammenfassung gemäß Artikel 15 Absatz 2 der Verordnung (EU) 2017/1129 oder im Falle eines Basisprospekts der Zusammenfassung für die einzelne Emission in die deutsche Sprache enthält, oder
+38. einen in englischer Sprache erstellten Prospekt veröffentlicht, der keine Übersetzung der in Artikel 7 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 genannten Zusammenfassung oder im Falle eines EU-Wachstumsprospekts der speziellen Zusammenfassung gemäß Artikel 15 Absatz 2 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 oder im Falle eines Basisprospekts der Zusammenfassung für die einzelne Emission in die deutsche Sprache enthält, oder
 
-39. endgültige Bedingungen oder die Zusammenfassung für die einzelne Emission veröffentlicht, ohne dabei der für die endgültigen Bedingungen und die ihnen angefügte Zusammenfassung nach Artikel 27 Absatz 4 Unterabsatz 1 der Verordnung (EU) 2017/1129 geltenden Sprachregelung zu entsprechen.
+39. endgültige Bedingungen oder die Zusammenfassung für die einzelne Emission veröffentlicht, ohne dabei der für die endgültigen Bedingungen und die ihnen angefügte Zusammenfassung nach Artikel 27 Absatz 4 Unterabsatz 1 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 geltenden Sprachregelung zu entsprechen.
 
 (5) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1 und 2 mit einer Geldbuße bis zu siebenhunderttausend Euro, in den Fällen des Absatzes 1 Nummer 3 Buchstabe a und Nummer 4 bis 6 und des Absatzes 2 Nummer 1 mit einer Geldbuße bis zu zweihunderttausend Euro und in den übrigen Fällen des Absatzes 1 mit einer Geldbuße bis zu hunderttausend Euro geahndet werden.
 

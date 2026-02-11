@@ -2246,9 +2246,9 @@ Eine Veränderung des Lichtbilds ist nur nach Maßgabe des Aufenthaltsgesetzes o
 
 (2a) Die zuständige Ausländerbehörde trägt in den Fällen des Absatzes 2 Satz 2 in der Ausländerdatei A (§ 63) als lichtbildaufnehmende Stelle gemäß § 65 Nummer 7 ein
 
-1. das übermittelte Pseudonym, wenn ein Lichtbild entsprechend den Vorgaben nach § 6 Absatz 2 Satz 3 Nummer 1 des Passgesetzes und § 1a Absatz 2 Nummer 1 der Passdatenerfassungs- und Übermittlungsverordnung gefertigt wurde,
+1. das übermittelte Pseudonym, wenn ein Lichtbild entsprechend den Vorgaben nach § 6 Absatz 2 Satz 3 Nummer 1 des Passgesetzes und § 4 Absatz 2 Nummer 1 der Passverordnung gefertigt wurde,
 
-2. den Namen des Dienstleisters, der das Lichtbildaufnahmegerät zur Verfügung gestellt hat, sowie die Kennung des verwendeten Lichtbildaufnahmegeräts, wenn ein Lichtbild entsprechend den Vorgaben nach § 6 Absatz 2 Satz 3 Nummer 1 des Passgesetzes und § 1a Absatz 2 Nummer 2 der Passdatenerfassungs- und Übermittlungsverordnung gefertigt wurde, oder
+2. den Namen des Dienstleisters, der das Lichtbildaufnahmegerät zur Verfügung gestellt hat, sowie die Kennung des verwendeten Lichtbildaufnahmegeräts, wenn ein Lichtbild entsprechend den Vorgaben nach § 6 Absatz 2 Satz 3 Nummer 1 des Passgesetzes und § 4 Absatz 2 Nummer 2 der Passverordnung gefertigt wurde, oder
 
 3. die jeweilige Ausländerbehörde, wenn ein Lichtbild entsprechend den Vorgaben nach § 6 Absatz 2 Satz 3 Nummer 2 des Passgesetzes gefertigt wurde.
 
@@ -2824,7 +2824,9 @@ Die Mitteilung nach Satz 1 Nr. 2 entfällt bei Personen, die mit einem Aufnahmeb
 
 2. die Verlegung in eine andere Justizvollzugsanstalt,
 
-3. die vorgesehenen und festgesetzten Termine für die Entlassung aus der Haft und das Ende der Unterbringung in einem psychiatrischen Krankenhaus nach § 63 des Strafgesetzbuches, der Unterbringung in einer Entziehungsanstalt nach § 64 des Strafgesetzbuches und der Unterbringung in der Sicherungsverwahrung nach § 66 des Strafgesetzbuches.
+3. den Zeitpunkt der hälftigen Vollstreckung einer Freiheitsstrafe,
+
+4. die vorgesehenen und festgesetzten Termine für die Entlassung aus der Haft und das Ende der Unterbringung in einem psychiatrischen Krankenhaus nach § 63 des Strafgesetzbuches, der Unterbringung in einer Entziehungsanstalt nach § 64 des Strafgesetzbuches und der Unterbringung in der Sicherungsverwahrung nach § 66 des Strafgesetzbuches.
 
 # § 75 – (weggefallen)
 

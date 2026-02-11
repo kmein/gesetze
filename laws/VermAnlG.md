@@ -83,7 +83,7 @@ e) von einer Gesellschaft oder juristischen Person mit Sitz in einem Mitgliedsta
 
 # § 2a – Befreiungen für Schwarmfinanzierungen
 
-(1) Die §§ 5a, 6 bis 11a, 12 Absatz 1, § 14 Absatz 1 Satz 1 und Absatz 3 Satz 1, die §§ 15a, 17 Absatz 1 und 2, § 18 Absatz 1 Nummer 2 bis 6, § 19 Absatz 1 Nummer 2, die §§ 20, 21, 23 Absatz 2 Nummer 2 und 4, § 24 Absatz 5 bis 8 und § 25 sind nicht anzuwenden auf Vermögensanlagen im Sinne von § 1 Absatz 2 Nummer 3 bis 5 und 7, wenn der Verkaufspreis sämtlicher in einem Zeitraum von zwölf Monaten angebotenen Vermögensanlagen desselben Emittenten 6 Millionen Euro nicht übersteigt; nicht verkaufte oder vollständig getilgte Vermögensanlagen werden nicht angerechnet.
+(1) Die §§ 5a, 6 bis 11a, 12 Absatz 1, § 14 Absatz 1 Satz 1 und Absatz 3 Satz 1, die §§ 15a, 17 Absatz 1 und 2, § 18 Absatz 1 Nummer 2 bis 6, § 19 Absatz 1 Nummer 2, die §§ 20, 21, 23 Absatz 2 Nummer 2 und 4, § 24 Absatz 5 bis 8 und § 25 sind nicht anzuwenden auf Vermögensanlagen im Sinne von § 1 Absatz 2 Nummer 3 bis 5 und 7 und auf Anteile an einer Genossenschaft im Sinne des § 1 des Genossenschaftsgesetzes, wenn der Verkaufspreis sämtlicher in einem Zeitraum von zwölf Monaten angebotenen Vermögensanlagen desselben Emittenten 6 Millionen Euro nicht übersteigt; nicht verkaufte oder vollständig getilgte Vermögensanlagen werden nicht angerechnet.
 
 (2) § 23 Absatz 2 Nummer 1 ist im Fall des Absatzes 1 mit der Maßgabe anzuwenden, dass der Jahresabschluss nicht von einem Abschlussprüfer geprüft werden muss. § 24 Absatz 1 bis 4 ist im Fall des Absatzes 1 mit der Maßgabe anzuwenden, dass nach diesem Gesetz kein Lagebericht erstellt werden muss.
 

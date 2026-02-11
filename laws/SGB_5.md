@@ -1873,8 +1873,6 @@ Der Anspruch auf Krankengeld bleibt jeweils bis zu dem Tag bestehen, an dem die 
 
 (6) Das Regelentgelt wird bis zur Höhe des Betrages der kalendertäglichen Beitragsbemessungsgrenze berücksichtigt.
 
-(+++ § 47 Abs. 1 u. 2: Zur Anwendung vgl. SGB 6 § 301a und SGB 7 § 47 Abs 1a F. 21.12.2000 +++)
-
 # § 47a – Beitragszahlungen der Krankenkassen an berufsständische Versorgungseinrichtungen
 
 (1) Für Bezieher von Krankengeld, die wegen einer Pflichtmitgliedschaft in einer berufsständischen Versorgungseinrichtung von der Versicherungspflicht in der gesetzlichen Rentenversicherung befreit sind, zahlen die Krankenkassen auf Antrag des Mitglieds diejenigen Beiträge an die zuständige berufsständische Versorgungseinrichtung, wie sie bei Eintritt von Versicherungspflicht nach § 3 Satz 1 Nummer 3 des Sechsten Buches an die gesetzliche Rentenversicherung zu entrichten wären. Die von der Krankenkasse zu zahlenden Beiträge sind auf die Höhe der Beiträge begrenzt, die die Krankenkasse ohne die Befreiung von der Versicherungspflicht in der gesetzlichen Rentenversicherung für die Dauer des Leistungsbezugs zu tragen hätte; sie dürfen die Hälfte der in der Zeit des Leistungsbezugs vom Mitglied an die berufsständische Versorgungseinrichtung zu zahlenden Beiträge nicht übersteigen.

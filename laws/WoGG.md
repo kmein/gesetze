@@ -777,7 +777,9 @@ Der Ablehnung einer Leistung nach § 7 Absatz 1 im Sinne des § 25 Absatz 4 Satz
 
 (1) Das Wohngeld ist an die wohngeldberechtigte Person zu zahlen. Es kann mit schriftlicher Einwilligung der wohngeldberechtigten Person oder, wenn dies im Einzelfall geboten ist, auch ohne deren Einwilligung, an ein anderes Haushaltsmitglied, an den Empfänger oder die Empfängerin der Miete oder in den Fällen des § 3 Abs. 1 Satz 2 Nr. 3 an den Leistungsträger im Sinne des § 12 des Ersten Buches Sozialgesetzbuch gezahlt werden. Wird das Wohngeld nach Satz 2 gezahlt, ist die wohngeldberechtigte Person hiervon zu unterrichten.
 
-(2) Das Wohngeld ist monatlich im Voraus auf ein Konto eines Haushaltsmitgliedes bei einem Geldinstitut, für das die Verordnung (EU) Nr. 260/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 zur Festlegung der technischen Vorschriften und der Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22) gilt (Geldinstitut), zu zahlen. Ist ein solches Konto nicht vorhanden, kann das Wohngeld an den Wohnsitz der wohngeldberechtigten Person übermittelt werden; die dadurch veranlassten Kosten sollen vom Wohngeld abgezogen werden.
+(2) Das Wohngeld ist monatlich im Voraus auf ein Konto eines Haushaltsmitgliedes bei einem Geldinstitut, für das die Verordnung (EU) Nr. 260/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 zur Festlegung der technischen Vorschriften und der Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22), die zuletzt durch die Verordnung (EU) 2024/886 (ABl. L, 2024/886, 19.3.2024) geändert worden ist, gilt (Geldinstitut), zu zahlen. Ist ein solches Konto nicht vorhanden, kann das Wohngeld an den Wohnsitz der wohngeldberechtigten Person übermittelt werden; die dadurch veranlassten Kosten sollen vom Wohngeld abgezogen werden.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 4.2.2026 I Nr. 33 +++)
 
 # § 26a – Vorläufige Zahlung des Wohngeldes
 

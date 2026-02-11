@@ -33,7 +33,7 @@
 
 2. ein Schadensersatzanspruch wegen Verwendung einer falschen oder irreführenden öffentlichen Kapitalmarktinformation oder wegen Unterlassung der gebotenen Aufklärung darüber, dass eine öffentliche Kapitalmarktinformation falsch oder irreführend ist,
 
-3. ein Erfüllungsanspruch aus einem Vertrag, der auf einem Angebot nach dem Wertpapiererwerbs- und Übernahmegesetz, einschließlich eines Anspruchs nach § 39 Absatz 3 Satz 3 und 4 des Börsengesetzes, beruht, oder
+3. ein Erfüllungsanspruch aus einem Vertrag, der auf einem Angebot nach dem Wertpapiererwerbs- und Übernahmegesetz beruht, oder
 
 4. ein Schadensersatzanspruch nach Artikel 75 Absatz 8 der Verordnung (EU) 2023/1114 des Europäischen Parlaments und des Rates vom 31. Mai 2023 über Märkte für Kryptowerte und zur Änderung der Verordnungen (EU) Nr. 1093/2010 und (EU) Nr. 1095/2010 sowie der Richtlinien 2013/36/EU und (EU)
 

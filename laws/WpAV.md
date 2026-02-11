@@ -83,7 +83,7 @@ g) hinsichtlich der sonstigen am Geschäft beteiligten Personen die Art ihrer Be
 
 (1) Die Anzeige ist schriftlich zu übersenden. Im Fall der Übersendung einer Anzeige mittels Telefax ist auf Verlangen der Bundesanstalt die eigenhändig unterschriebene Anzeige auf dem Postweg nachzureichen.
 
-(2) Die Bundesanstalt kann die Möglichkeit eröffnen, die Anzeige nach Absatz 1 im Wege der Datenfernübertragung zu übersenden, sofern dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit getroffen werden, die insbesondere die Vertraulichkeit und Unversehrtheit der Daten gewährleisten, und sofern im Fall der Nutzung allgemein zugänglicher Netze dem jeweiligen Stand der Technik entsprechende Verschlüsselungsverfahren angewendet werden.
+(2) DAuf Verlangen der Bundesanstalt ist die Anzeige nach Absatz 1 im Wege der Datenfernübertragung zu übersenden, sofern dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit getroffen werden, die insbesondere die Vertraulichkeit und Unversehrtheit der Daten gewährleisten, und sofern im Fall der Nutzung allgemein zugänglicher Netze dem jeweiligen Stand der Technik entsprechende Verschlüsselungsverfahren angewendet werden.
 
 # § 3a – Art der Veröffentlichung von Informationen
 
@@ -213,13 +213,7 @@ b) ein Schlagwort im Sinn des Absatzes 1 Satz 1 Nr. 1 Buchstabe b,
 
 # § 5 – (weggefallen)
 
-# § 6 – Berechtigte Interessen für eine verzögerte Veröffentlichung
-
-Berechtigte Interessen, die nach Artikel 17 Absatz 4 der Verordnung (EU) Nr. 596/2014 von der Pflicht zur sofortigen Veröffentlichung nach Artikel 17 Absatz 1 und 2 der Verordnung (EU) Nr. 596/2014 befreien können, liegen vor, wenn die Interessen des Emittenten an der Geheimhaltung der Information die Interessen des Kapitalmarktes an einer vollständigen und zeitnahen Veröffentlichung überwiegen. Dies kann insbesondere dann der Fall sein, wenn
-
-1. das Ergebnis oder der Gang laufender Verhandlungen über Geschäftsinhalte, die geeignet wären, im Fall ihres öffentlichen Bekanntwerdens den Börsen- oder Marktpreis erheblich zu beeinflussen, von der Veröffentlichung wahrscheinlich beeinträchtigt würden und eine Veröffentlichung die Interessen der Anleger erheblich gefährden würde, oder
-
-2. durch das Geschäftsführungsorgan des Emittenten abgeschlossene Verträge oder andere getroffene Entscheidungen zusammen mit der Ankündigung bekannt gegeben werden müssten, dass die für die Wirksamkeit der Maßnahme erforderliche Zustimmung eines anderen Organs des Emittenten noch aussteht, und dies die sachgerechte Bewertung der Information durch das Publikum gefährden würde, wenn der Emittent dafür gesorgt hat, dass die endgültige Entscheidung so schnell wie möglich getroffen wird.
+# § 6 – (weggefallen)
 
 # § 7 – Mitteilung nach Artikel 17 Absatz 4 Unterabsatz 3 der Verordnung (EU) Nr. 596/2014
 
@@ -233,9 +227,9 @@ Die Mitteilung nach Artikel 17 Absatz 4 Unterabsatz 3 der Verordnung (EU) Nr. 59
 
 (1) In der Mitteilung nach § 26 Absatz 1 des Wertpapierhandelsgesetzes sind anzugeben:
 
-1. der Wortlaut der vorgesehenen Veröffentlichung,
+1. der Wortlaut der Veröffentlichung,
 
-2. der vorgesehene Zeitpunkt der Veröffentlichung und
+2. der Zeitpunkt der Veröffentlichung und
 
 3. ein Ansprechpartner des Emittenten mit Rufnummer.
 

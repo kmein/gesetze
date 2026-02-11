@@ -399,8 +399,6 @@ Zu den schutzwürdigen Interessen der betroffenen Person oder der mitbetroffenen
 
 (3) Bei der Sicherheitsüberprüfung nach § 10 befragt die mitwirkende Behörde zusätzlich mindestens eine der von der betroffenen Person in ihrer Sicherheitserklärung angegebenen Referenzpersonen und weitere geeignete Auskunftspersonen, um zu prüfen, ob die Angaben der betroffenen Person zutreffen und ob tatsächliche Anhaltspunkte vorliegen, die auf ein Sicherheitsrisiko schließen lassen. In den Fällen des § 10 Nummer 3 sind diese Maßnahmen in der Regel auch im Hinblick auf die mitbetroffene Person durchzuführen. Die in § 3 Absatz 3 Satz 1 Nummer 1 und 2 genannten Personen können auch selbst befragt werden.
 
-(3a) (weggefallen)
-
 (4) Die zuständige Stelle fragt zur Feststellung einer hauptamtlichen oder inoffiziellen Tätigkeit der betroffenen Person oder der mitbetroffenen Person für den Staatssicherheitsdienst der Deutschen Demokratischen Republik beim Stasi-Unterlagen-Archiv an, wenn die betroffene Person oder die mitbetroffene Person vor dem 1. Januar 1970 geboren wurde und in dem Gebiet der Deutschen Demokratischen Republik wohnhaft war oder Anhaltspunkte für eine Tätigkeit für den Staatssicherheitsdienst der Deutschen Demokratischen Republik vorliegen. Die Anfrage bezieht sich auch auf Hinweise über frühere Verbindungen zu einem ausländischen Nachrichtendienst. Ergibt die Anfrage sicherheitserhebliche Erkenntnisse, übermittelt sie die zuständige Stelle zur Bewertung an die mitwirkende Behörde.
 
 (5) Soweit es eine sicherheitserhebliche Erkenntnis erfordert, können die betroffene und die mitbetroffene Person selbst befragt werden. Reicht diese Befragung nicht aus, stehen ihr schutzwürdige Interessen entgegen oder erfordert es die Prüfung der Identität, kann die mitwirkende Behörde neben den Maßnahmen nach den Absätzen 1 bis 3 weitere geeignete Auskunftspersonen oder andere geeignete Stellen befragen oder Einzelmaßnahmen der nächsthöheren Art der Sicherheitsüberprüfung durchführen. Ferner kann die betroffene Person aufgefordert werden, für die Aufklärung der sicherheitserheblichen Erkenntnis geeignete Unterlagen beizubringen. Zusätzlich können von öffentlichen Stellen Akten beigezogen werden, von Gerichten, Staatsanwaltschaften oder Finanzbehörden auch über Strafverfahren wegen einer Steuerstraftat im Sinne des § 369 der Abgabenordnung.
@@ -460,8 +458,6 @@ Zu den schutzwürdigen Interessen der betroffenen Person oder der mitbetroffenen
 Der Sicherheitserklärung sind jeweils ein aktuelles Lichtbild der betroffenen Person und der mitbetroffenen Person mit der Angabe des Jahres der jeweiligen Aufnahme beizufügen. Es können elektronische Lichtbilder verlangt werden. Die Lichtbilder dürfen für einen automatisierten Abgleich mit Datenbanken genutzt werden.
 
 (2) Bei der Sicherheitsüberprüfung nach § 8 entfallen die Angaben zu Absatz 1 Nummer 11 und 12; Angaben zu Absatz 1 Nummer 12 dürfen nachträglich erhoben werden, soweit Maßnahmen nach § 12 Absatz 1 Nummer 4 zu treffen sind. Angaben zu Absatz 1 Nummer 10 entfallen, soweit die dort genannten Personen nicht in einem Haushalt mit der betroffenen Person leben. Zur Person der Ehegattin, des Ehegatten, der Lebenspartnerin, des Lebenspartners, der Lebensgefährtin oder des Lebensgefährten sind mit deren Einverständnis die in Absatz 1 Nummer 1 bis 4, 8, 14, 14a, 15 und 17 genannten Daten anzugeben.
-
-(2a) (weggefallen)
 
 (3) Zur mitbetroffenen Person sind zusätzlich die in Absatz 1 Nummer 5 bis 7, 12, 13, 16, 16a und 20 genannten Daten anzugeben.
 

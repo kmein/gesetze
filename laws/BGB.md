@@ -2072,7 +2072,9 @@ Auch ohne Einhaltung der in § 305 Abs. 2 Nr. 1 und 2 bezeichneten Erfordernisse
 
 a) in Beförderungsverträge, die außerhalb von Geschäftsräumen durch den Einwurf von Postsendungen in Briefkästen abgeschlossen werden,
 
-b) in Verträge über Telekommunikations-, Informations- und andere Dienstleistungen, die unmittelbar durch Einsatz von Fernkommunikationsmitteln und während der Erbringung einer Telekommunikationsdienstleistung in einem Mal erbracht werden, wenn die Allgemeinen Geschäftsbedingungen der anderen Vertragspartei nur unter unverhältnismäßigen Schwierigkeiten vor dem Vertragsschluss zugänglich gemacht werden können.
+b) in Verträge über Telekommunikations-, Informations- und andere Dienstleistungen, die unmittelbar durch Einsatz von Fernkommunikationsmitteln und während der Erbringung einer Telekommunikationsdienstleistung in einem Mal erbracht werden, wenn die Allgemeinen Geschäftsbedingungen der anderen Vertragspartei nur unter unverhältnismäßigen Schwierigkeiten vor dem Vertragsschluss zugänglich gemacht werden können,
+
+3. die genehmigten Anlagebedingungen von Kapitalverwaltungsgesellschaften.
 
 # § 305b – Vorrang der Individualabrede
 

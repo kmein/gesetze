@@ -159,7 +159,7 @@ Diese Verordnung gilt für die Prüfung
 
 12. die Erfüllung der Anforderungen nach § 77 des Wertpapierhandelsgesetzes beim Anbieten eines direkten elektronischen Zugangs einschließlich der nach § 77 Absatz 1 des Wertpapierhandelsgesetzes erforderlichen Vorkehrungen im Hinblick auf die Systeme und Kontrollen, über die Wertpapierdienstleistungsunternehmen verfügen müssen und die Beurteilung dieser Systeme und Kontrollen durch den Prüfer;
 
-13. die Erfüllung der Mitteilungspflicht nach § 79 des Wertpapierhandelsgesetzes und die Erfüllung der Anforderungen nach den Artikeln 14, 15, 17 und 18 der Verordnung (EU) Nr. 600/2014 durch systematische Internalisierer im Sinne des § 2 Absatz 8 Satz 1 Nummer 2 Buchstabe b in Verbindung mit § 2 Absatz 8 Satz 3 bis 5 des Wertpapierhandelsgesetzes;
+13. die Erfüllung der Mitteilungspflicht nach § 79 des Wertpapierhandelsgesetzes und die Erfüllung der Anforderungen nach den Artikeln 14, 15 und 17 der Verordnung (EU) Nr. 600/2014 durch systematische Internalisierer im Sinne des § 2 Absatz 8 Satz 1 Nummer 2 Buchstabe b in Verbindung mit § 2 Absatz 8 Satz 3 und 4 des Wertpapierhandelsgesetzes;
 
 14. die Erfüllung der Veröffentlichungspflichten nach den Artikeln 20 und 21 der Verordnung (EU) Nr. 600/2014;
 
@@ -197,13 +197,7 @@ e) die Erfüllung der Anforderungen an eine Auslagerung nach § 80 Absatz 6 des 
 
 26. die Einhaltung der Anforderungen des Artikels 37 der Delegierten Verordnung (EU) 2017/565 sowie die Beurteilung der in Artikel 37 Absatz 2 der Delegierten Verordnung (EU) 2017/565 genannten Vorkehrungen durch den Prüfer und die Einhaltung der Anforderungen des Artikels 20 Absatz 1 der Verordnung (EU) Nr. 596/2014 in Verbindung mit der Delegierten Verordnung (EU) 2016/958 der Kommission vom 9. März 2016 zur Ergänzung der Verordnung (EU) Nr. 596/2014 des Europäischen Parlaments und des Rates im Hinblick auf die technischen Regulierungsstandards für die technischen Modalitäten für die objektive Darstellung von Anlageempfehlungen oder anderen Informationen mit Empfehlungen oder Vorschlägen zu Anlagestrategien sowie für die Offenlegung bestimmter Interessen oder Anzeichen für Interessenkonflikte (ABl. L 160 vom 17.6.2016, S. 5) in der jeweils geltenden Fassung;
 
-27. die Einhaltung der Anforderungen nach § 87 des Wertpapierhandelsgesetzes, insbesondere im Hinblick darauf, dass
-
-a) die mit der Anlageberatung betrauten Mitarbeiter, die Vertriebsmitarbeiter, die mit der Finanzportfolioverwaltung betrauten Mitarbeiter, die Vertriebsbeauftragten und die Compliance-Beauftragten gemäß § 87 Absatz 1 Satz 1, Absatz 2, 3, 4 Satz 1 und Absatz 5 Satz 1 des Wertpapierhandelsgesetzes sachkundig sind und über die für die Tätigkeit erforderliche Zuverlässigkeit verfügen,
-
-b) die mit der Anlageberatung betrauten Mitarbeiter, die Vertriebsbeauftragten und die Compliance-Beauftragten gegenüber der Bundesanstalt gemäß § 87 Absatz 1 Satz 2 und 3, Absatz 4 Satz 2 und 3 sowie Absatz 5 Satz 2 und 3 des Wertpapierhandelsgesetzes angezeigt werden und
-
-c) Beschwerden nach § 87 Absatz 1 Satz 4 des Wertpapierhandelsgesetzes gegenüber der Bundesanstalt angezeigt werden;
+27. die Einhaltung der Anforderungen nach § 87 des Wertpapierhandelsgesetzes, insbesondere im Hinblick darauf, dass die mit der Anlageberatung betrauten Mitarbeiter, die Vertriebsmitarbeiter, die mit der Finanzportfolioverwaltung betrauten Mitarbeiter, die Vertriebsbeauftragten und die Compliance-Beauftragten nach § 87 Absatz 1 bis 5 des Wertpapierhandelsgesetzes sachkundig sind und über die für die Tätigkeit erforderliche Zuverlässigkeit verfügen;
 
 28. die Erfüllung der sich aus Artikel 4 Absatz 1 Unterabsatz 1 sowie Artikel 5a Absatz 1 der Verordnung (EG) Nr. 1060/2009 ergebenden Pflichten, soweit die Wertpapierdienstleistungsunternehmen bei der Erbringung von Wertpapierdienstleistungen oder Wertpapiernebendienstleistungen Ratings verwenden;
 

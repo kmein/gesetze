@@ -17,7 +17,9 @@ Dieses Gesetz ist anzuwenden auf das gerichtliche Verfahren für die Bestimmung
 
 6. der Zuzahlung oder der zusätzlich zu gewährenden Aktien an Anteilsinhaber oder der Barabfindung von Anteilsinhabern bei der Gründung oder Sitzverlegung einer SE (§§ 6, 7, 9, 11 und 12 des SE-Ausführungsgesetzes);
 
-7. der Zuzahlung an Mitglieder bei der Gründung einer Europäischen Genossenschaft (§ 7 des SCE-Ausführungsgesetzes).
+7. der Zuzahlung an Mitglieder bei der Gründung einer Europäischen Genossenschaft (§ 7 des SCE-Ausführungsgesetzes);
+
+8. der Höhe der Gegenleistung aus einem Vertrag, der auf einem Angebot beim Widerruf der Zulassung von Wertpapieren zum Handel auf Antrag des Emittenten nach § 39 Absatz 2 Satz 2 Nummer 1 des Börsengesetzes beruht.
 
 # § 2 – Zuständigkeit
 
@@ -63,7 +65,9 @@ Antragsberechtigt für Verfahren nach § 1 ist in den Fällen
 
 5. der Nummer 6 jeder in den dort angeführten Vorschriften des SE-Ausführungsgesetzes bezeichnete Anteilsinhaber;
 
-6. der Nummer 7 jedes in der dort angeführten Vorschrift des SCE-Ausführungsgesetzes bezeichnete Mitglied.
+6. der Nummer 7 jedes in der dort angeführten Vorschrift des SCE-Ausführungsgesetzes bezeichnete Mitglied;
+
+7. der Nummer 8 jeder, der ein Angebot beim Widerruf der Zulassung von Wertpapieren zum Handel auf Antrag des Emittenten nach § 39 Absatz 2 Satz 2 Nummer 1 des Börsengesetzes angenommen hat.
 
 In den Fällen der Nummern 1, 2, 4, 5 und 6 ist die Antragsberechtigung nur gegeben, wenn der Antragsteller zum Zeitpunkt der Antragstellung Anteilsinhaber ist; dies gilt nicht für die Bestimmung der Barabfindung bei grenzüberschreitenden Umwandlungen (§§ 313, 327 und 340 des Umwandlungsgesetzes) gemäß § 1 Nummer 4. Die Stellung als Aktionär ist dem Gericht ausschließlich durch Urkunden nachzuweisen.
 
@@ -81,9 +85,11 @@ In den Fällen der Nummern 1, 2, 4, 5 und 6 ist die Antragsberechtigung nur gege
 
 5. der Nummer 5 die Umwandlung;
 
-6. der Nummer 6 die Gründung oder Sitzverlegung der SE oder
+6. der Nummer 6 die Gründung oder Sitzverlegung der SE;
 
-7. der Nummer 7 die Gründung der Europäischen Genossenschaft
+7. der Nummer 7 die Gründung der Europäischen Genossenschaft oder
+
+8. der Nummer 8 der Antrag auf Widerruf der Zulassung
 
 wirksam geworden ist. Die Frist wird in den Fällen des § 2 Absatz 2 durch Einreichung bei jedem zunächst zuständigen Gericht gewahrt. Die Frist wird auch dann gewahrt, wenn der Antrag bei einem sachlich oder örtlich unzuständigen Gericht eingereicht wird.
 
@@ -115,7 +121,9 @@ Der Antrag auf gerichtliche Entscheidung in einem Verfahren nach § 1 ist in den
 
 6. der Nummer 6 gegen die SE, aber im Fall des § 9 des SE-Ausführungsgesetzes gegen die die Gründung anstrebende Gesellschaft;
 
-7. der Nummer 7 gegen die Europäische Genossenschaft
+7. der Nummer 7 gegen die Europäische Genossenschaft;
+
+8. der Nummer 8 gegen den Bieter
 
 zu richten. In den Fällen des § 1 Nummer 1 ist auf Antrag der Gesellschaft der neue Aktionär als Beteiligter hinzuzuziehen. In den Fällen des Satzes 1 Nummer 5 kann bei einer Abspaltung ein Antrag auf Bestimmung der Barabfindung wahlweise auch gegen den übertragenden Rechtsträger gerichtet werden.
 
@@ -257,9 +265,11 @@ Die rechtskräftige Entscheidung in einem Verfahren nach § 1 ist ohne Gründe n
 
 5. der Nummer 5 durch die gesetzlichen Vertreter jedes übernehmenden oder neuen Rechtsträgers oder des Rechtsträgers neuer Rechtsform;
 
-6. der Nummer 6 durch die gesetzlichen Vertreter der SE, aber im Fall des § 9 des SE-Ausführungsgesetzes durch die gesetzlichen Vertreter der die Gründung anstrebenden Gesellschaft, und
+6. der Nummer 6 durch die gesetzlichen Vertreter der SE, aber im Fall des § 9 des SE-Ausführungsgesetzes durch die gesetzlichen Vertreter der die Gründung anstrebenden Gesellschaft;
 
-7. der Nummer 7 durch die gesetzlichen Vertreter der Europäischen Genossenschaft
+7. der Nummer 7 durch die gesetzlichen Vertreter der Europäischen Genossenschaft und
+
+8. der Nummer 8 durch die gesetzlichen Vertreter des Emittenten
 
 bekannt zu machen.
 

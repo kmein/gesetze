@@ -9,9 +9,9 @@ Auf Grund des § 34 Nummer 8 des Personalausweisgesetzes vom 18. Juni 2009 (BGBl
 
 (1) Für die Ausstellung eines Personalausweises sind folgende Gebühren zu erheben:
 
-1. 22,80 Euro für einen Personalausweis, dessen Inhaber im Zeitpunkt der Antragstellung noch nicht 24 Jahre alt ist,
+1. 27,60 Euro Euro für einen Personalausweis, dessen Inhaber im Zeitpunkt der Antragstellung noch nicht 24 Jahre alt ist,
 
-2. 37 Euro in allen anderen Fällen.
+2. 46 Euro in allen anderen Fällen.
 
 (2) Für die Ausstellung eines vorläufigen Personalausweises oder eines Ersatz-Personalausweises ist eine Gebühr von 10 Euro zu erheben. Wird neben dem Personalausweis auch ein vorläufiger Personalausweis beantragt, ist zusätzlich eine Gebühr nach Satz 1 zu erheben.
 
@@ -25,7 +25,7 @@ Auf Grund des § 34 Nummer 8 des Personalausweisgesetzes vom 18. Juni 2009 (BGBl
 
 1. um 30 Euro, wenn die Amtshandlung von einer nicht zuständigen Behörde auf Veranlassung einer Person, die ihren gewöhnlichen Aufenthaltsort im Ausland hat, vorgenommen wird,
 
-2. um 41 Euro, wenn die Amtshandlung von einer konsularischen oder diplomatischen Vertretung der Bundesrepublik Deutschland im Ausland vorgenommen wird,
+2. um 43 Euro, wenn die Amtshandlung von einer konsularischen oder diplomatischen Vertretung der Bundesrepublik Deutschland im Ausland vorgenommen wird,
 
 3. um 15 Euro, wenn eine Übergabe nach § 18 Absatz 2 der Personalausweisverordnung erfolgt,
 
@@ -33,7 +33,7 @@ Auf Grund des § 34 Nummer 8 des Personalausweisgesetzes vom 18. Juni 2009 (BGBl
 
 (5) Gebührenfrei ist die Änderung der Anschrift auf dem Personalausweis nach § 19 Absatz 1 der Personalausweisverordnung.
 
-(6) Die Gebühr kann ermäßigt oder von ihrer Erhebung abgesehen werden, wenn die Person, die die Gebühr schuldet, bedürftig ist.
+(6) Die Gebühr kann ermäßigt oder von ihrer Erhebung abgesehen werden, wenn die Person, die die Gebühr schuldet, bedürftig ist. Eine Bedürftigkeit im Sinne von Satz 1 liegt nicht schon dann vor, wenn Leistungen nach dem Zweiten Buch Sozialgesetzbuch oder nach dem Zwölften Buch Sozialgesetzbuch bezogen werden.
 
 # § 2 – Gebühr für die eID-Karte
 

@@ -223,23 +223,7 @@ Die registerführende Stelle darf die nach Satz 1 erhobenen personenbezogenen Da
 
 (2) Die registerführende Stelle eines Kryptowertpapierregisters hat jedermann die Möglichkeit zu eröffnen, die Integrität der gemäß § 4 Absatz 1 zur Niederlegung gespeicherten Informationen nachzuvollziehen. Im Falle einer Beschränkung des Zugangs zu den Emissionsbedingungen gemäß § 4 Absatz 5 genügt es, die Möglichkeit nach Satz 1 nur den Personen mit Zugang zu den Emissionsbedingungen zu gewähren.
 
-# § 17 – Liste der Kryptowertpapiere bei der Bundesanstalt
-
-(1) Für die Führung der öffentlichen Liste nach § 20 Absatz 3 des Gesetzes über elektronische Wertpapiere übermittelt der Emittent der Bundesanstalt folgende Angaben:
-
-1. die Firma, die Anschrift und die Rechtsträgerkennung der registerführenden Stelle,
-
-2. die Firma, die Anschrift und die Rechtsträgerkennung des Emittenten,
-
-3. die Bezeichnung und die Internationale Wertpapierkennnummer des Kryptowertpapiers,
-
-4. das Datum der Eintragung des Kryptowertpapiers im Kryptowertpapierregister sowie
-
-5. das Datum und den wesentlichen Inhalt einer Änderung der Angaben nach § 20 Absatz 2 des Gesetzes über elektronische Wertpapiere.
-
-(2) Die Angaben sind der Bundesanstalt in elektronischer Form auf einem von ihr hierzu auf ihrer Internetseite bekanntgegebenen Weg zu übermitteln. Die Bundesanstalt kann für die Übermittlung auch die Nutzung ihrer Melde- und Veröffentlichungsplattform vorsehen. Ist durch die Bundesanstalt kein Weg zur Übermittlung in elektronischer Form bekanntgegeben oder macht eine technische Störung die elektronische Übermittlung unmöglich, so hat die Übermittlung schriftlich zu erfolgen. In gleicher Weise und unter den gleichen Voraussetzungen ist ein Nachweis über die Veröffentlichung im Bundesanzeiger nach § 20 Absatz 1 des Gesetzes über elektronische Wertpapiere zu übermitteln.
-
-(3) Liegen Tatsachen vor, die die Annahme rechtfertigen, dass die der Bundesanstalt übermittelten Angaben nicht zutreffend sind, so kann die Bundesanstalt die Aufnahme der Angaben in die Liste der Kryptowertpapiere ablehnen oder bereits aufgenommene Angaben löschen. Die Bundesanstalt setzt die registerführende Stelle und den Emittenten von ihrer Ablehnung oder der Löschung bereits aufgenommener Angaben in Kenntnis und gibt der registerführenden Stelle und dem Emittenten Gelegenheit, die Angaben innerhalb einer angemessenen Frist und unter Einreichung geeigneter Nachweise zu korrigieren oder die Annahme unzutreffender Angaben zu widerlegen.
+# § 17 – (weggefallen)
 
 # § 18 – Teilnahme an einem Kryptowertpapierregister; Beschwerde
 

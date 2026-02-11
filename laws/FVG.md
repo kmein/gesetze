@@ -310,7 +310,7 @@ die zentrale Sammlung der von den Finanzbehörden der Länder übermittelten bra
 
 33\.
 
-die Registrierung eines Vor-REIT nach § 2 des REIT-Gesetzes;
+(weggefallen)
 
 34\.
 

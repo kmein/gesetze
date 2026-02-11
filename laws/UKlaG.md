@@ -493,7 +493,7 @@ a) den §§ 675c bis 676c des Bürgerlichen Gesetzbuchs,
 
 b) die Verordnung (EU) 2021/1230 des Europäischen Parlaments und des Rates vom 14. Juli 2021 über grenzüberschreitende Zahlungen in der Union (kodifizierter Text) (ABl. L 274 vom 30.7.2021, S. 20)
 
-c) der Verordnung (EU) Nr. 260/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 zur Festlegung der technischen Vorschriften und der Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22), die durch die Verordnung (EU) Nr. 248/2014 (ABl. L 84 vom 20.3.2014, S. 1) geändert worden ist,
+c) der Verordnung (EU) Nr. 260/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 zur Festlegung der technischen Vorschriften und der Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22), die zuletzt durch die Verordnung (EU) Nr. 2024/886 (ABl. L, 2024/886, 19.3.2024) geändert worden ist,
 
 d) der Verordnung (EU) 2015/751 des Europäischen Parlaments und des Rates vom 29. April 2015 über Interbankenentgelte für kartengebundene Zahlungsvorgänge (ABl. L 123 vom 19.5.2015, S. 1),
 

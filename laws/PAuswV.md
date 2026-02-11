@@ -47,7 +47,7 @@ d) die Geheimnummer, die Sperrung und Entsperrung des elektronischen Identitäts
 
 e) das Zurücksetzen und Neusetzen der Geheimnummer durch den Ausweishersteller nach elektronisch gestelltem Antrag und
 
-f) das Ändern der Anschrift auf dem Personalausweis unter Verwendung eines Aufklebers nach Anhang 1 sowie auf dem Chip des Personalausweises nach einer elektronischen Anmeldung nach § 23a des Bundesmeldegesetzes,
+f) das Ändern der Anschrift auf dem Personalausweis unter Verwendung eines Aufklebers nach Anlage 1 sowie auf dem Chip des Personalausweises nach einer elektronischen Anmeldung nach § 23a des Bundesmeldegesetzes,
 
 g) die Übermittlung der Daten nach § 10a Absatz 1 Satz 1 des Personalausweisgesetzes,
 
@@ -55,27 +55,29 @@ h) den elektronischen Identitätsnachweis mit einem mobilen Endgerät und
 
 i) das sichere Verfahren der Übermittlung von Lichtbildern von einem Dienstleister an eine Personalausweisbehörde.
 
-Der Stand der Technik ist als niedergelegt zu vermuten in den Technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik. Die Übersicht über die Technischen Richtlinien wird im Bundesanzeiger veröffentlicht; die jeweils geltende Fassung der Technischen Richtlinien wird im Bundesanzeiger durch Verweis auf die Internetseite des Bundesamtes für Sicherheit in der Informationstechnik bekannt gemacht.
+Die Einhaltung des Standes der Technik wird vermutet, wenn die Technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik eingehalten worden sind. Die Übersicht über die Technischen Richtlinien wird vom Bundesamt für Sicherheit in der Informationstechnik im Bundesanzeiger veröffentlicht. Die jeweils geltende Fassung der Technischen Richtlinien wird vom Bundesamt für Sicherheit in der Informationstechnik im Bundesanzeiger durch Verweis auf die Internetseite des Bundesamtes für Sicherheit in der Informationstechnik bekannt gemacht.
 
 # § 3 – Zertifizierung von Systemkomponenten
 
-(1) Aus Anhang 4 ergeben sich die Systemkomponenten
+(1) Aus Anlage 4 ergeben sich die Systemkomponenten
 
 1. der Personalausweisbehörden,
 
 2. des Ausweisherstellers,
 
-3. der Cloudanbieter,
+3. der Hersteller von Hardware und Software im Sinne des § 2 Satz 1 Nummer 2 Buchstabe a,
 
-4. der Dienstleister, die Lichtbildaufnahmegeräte im Sinne des § 5a Absatz 2 Nummer 2 verwenden,
+4. der Cloudanbieter,
 
-5. der Diensteanbieter und ihrer Auftragsverarbeiter nach Artikel 4 Nummer 8 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2; L 74 vom 4.3.2021, S. 35), deren jeweilige Zertifizierung verpflichtend oder optional ist.
+5. der Dienstleister, die Lichtbildaufnahmegeräte im Sinne des § 5a Absatz 2 Nummer 2 verwenden,
+
+6. der Diensteanbieter und ihrer Auftragsverarbeiter nach Artikel 4 Nummer 8 der Verordnung (EU) 2016/679, deren jeweilige Zertifizierung verpflichtend oder optional ist.
 
 Die Art und die Einzelheiten der Zertifizierung sind den Technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik zu entnehmen.
 
-(2) Für die Zertifizierung gelten § 52 des BSI-Gesetzes vom 2. Dezember 2025 (BGBl. 2025 I Nr. 301, S. 2), sowie die BSI-Zertifizierungs- und Anerkennungsverordnung vom 17. Dezember 2014 (BGBl. I S. 2231), die durch Artikel 40 des Gesetzes vom 29. März 2017 (BGBl. I S. 626) geändert worden ist, in der jeweils geltenden Fassung.
+(2) Für die Zertifizierung gelten § 9 des BSI-Gesetzes sowie die BSI-Zertifizierungs- und -Anerkennungsverordnung.
 
-(3) Die Kosten der Zertifizierung trägt der Antragsteller.
+(3) Die Kosten der Zertifizierung hat der Antragsteller zu tragen.
 
 # § 4 – Dokumentationspflichten
 
@@ -83,15 +85,11 @@ Die Art und die Einzelheiten der Zertifizierung sind den Technischen Richtlinien
 
 1. Erklärungen des Ausweisinhabers, die im Rahmen der Antragstellung und Ausweisverwaltung erfolgt sind;
 
-2. das Datum und die Uhrzeit der Ausgabe des Personalausweises;
+2. das Datum und die Uhrzeit der Übergabe des Briefes mit der Geheimnummer und der Entsperrnummer, falls die Personalausweisbehörde den Brief übergibt;
 
-3. das Datum und die Uhrzeit der Übergabe des Briefes mit der Geheimnummer, der Entsperrnummer und dem Sperrkennwort, falls die Personalausweisbehörde den Brief übergibt;
+3. das Datum und die Uhrzeit der Ausgabe des Personalausweises und des Sperrkennworts, falls die Personalausweisbehörde dieses übergibt;
 
-4. die Einschaltung des elektronischen Identitätsnachweises mit Datum und Uhrzeit der Einschaltung sowie die Personalausweisbehörde, die den elektronischen Identitätsnachweis eingeschaltet hat;
-
-5. den Sperrantrag durch den Ausweisinhaber, die Übermittlung der Sperrsumme an den Sperrlistenbetreiber sowie das Datum und die Uhrzeit von Antrag und Übermittlung;
-
-6. den Entsperrantrag des Ausweisinhabers, die Übermittlung der Sperrsumme an den Sperrlistenbetreiber sowie das Datum und die Uhrzeit von Antrag und Übermittlung.
+4. den Entsperrantrag des Ausweisinhabers, die Übermittlung der Sperrsumme an den Sperrlistenbetreiber sowie das Datum und die Uhrzeit von Antrag und Übermittlung.
 
 (2) Der Sperrnotruf dokumentiert für die Zwecke des elektronischen Identitätsnachweises den Sperrantrag durch den Ausweisinhaber, die Übermittlung der Sperrsumme an den Sperrlistenbetreiber sowie das Datum und die Uhrzeit von Antrag und Übermittlung.
 
@@ -135,7 +133,7 @@ d) den tatsächlichen Abruf sowie das Datum und die Uhrzeit des tatsächlichen A
 
 # § 5 – Speicherung und Löschung
 
-(1) Für die Speicherung personenbezogener Daten nach dieser Verordnung bei den Personalausweisbehörden gilt § 23 Absatz 4 des Personalausweisgesetzes entsprechend. Lichtbilder, die nach § 6a durch Lichtbildaufnahmegeräte der Personalausweisbehörde gefertigt wurden, sind unverzüglich nach Abruf durch die Personalausweisbehörde von dem Lichtbildaufnahmegerät zu löschen.
+(1) Für die Speicherung personenbezogener Daten nach dieser Verordnung bei den Personalausweisbehörden gilt § 23 Absatz 4 des Personalausweisgesetzes entsprechend.
 
 (2) Personenbezogene Daten beim Sperrnotruf sind ein Jahr nach ihrer Erhebung zu löschen.
 
@@ -167,7 +165,7 @@ d) den tatsächlichen Abruf sowie das Datum und die Uhrzeit des tatsächlichen A
 
 # § 5a – Fertigung und Übermittlung des Lichtbilds durch ein sicheres Verfahren
 
-(1) In Fällen, in denen ein Personalausweis bei einer Personalausweisbehörde nach § 8 Absatz 1 des Personalausweisgesetzes beantragt wird, kann die antragstellende Person einen Dienstleister mit der Fertigung des Lichtbilds beauftragen. Der Dienstleister hat das Lichtbild elektronisch zu fertigen und im Anschluss durch ein sicheres Verfahren an die Personalausweisbehörde zu übermitteln. Dienstleister ist jede natürliche oder juristische Person, die gewerbsmäßig Lichtbilder von anderen Personen anfertigt, die zur Vorlage bei einer Personalausweisbehörde bestimmt sind.
+(1) In Fällen, in denen ein Personalausweis bei einer Personalausweisbehörde nach § 8 Absatz 1 des Personalausweisgesetzes beantragt wird, kann die antragstellende Person einen Dienstleister mit der Fertigung des Lichtbilds beauftragen. Der Dienstleister hat das Lichtbild elektronisch zu fertigen und im Anschluss durch ein sicheres Verfahren an die Personalausweisbehörde zu übermitteln. Dienstleister ist jede natürliche oder juristische Person, die gewerbsmäßig Lichtbilder von anderen Personen anfertigt, die zur Vorlage bei einer Personalausweisbehörde bestimmt sind. Dienstleister im Sinne von Satz 3 ist ferner jede Justizvollzugsanstalt.
 
 (2) Ein sicheres Verfahren im Sinne des Absatzes 1 Satz 2 ist:
 
@@ -189,21 +187,23 @@ d) den tatsächlichen Abruf sowie das Datum und die Uhrzeit des tatsächlichen A
 
 (1) Dienstleister haben sich bei einem Cloudanbieter mit einem Nutzerkonto zu registrieren. Bei der Registrierung ist ein Nachweis über die Dienstleistereigenschaft sowie ein Nachweis über die Identität des Dienstleisters zu erbringen.
 
-(2) Der Nachweis über die Dienstleistereigenschaft ist zu erbringen durch Übermittlung:
+(2) Der nach Absatz 1 Satz 2 erforderliche Nachweis über die Dienstleistereigenschaft ist zu erbringen durch Übermittlung:
 
-1. eines Nachweises über die Gewerbeanmeldung;
+1. eines Nachweises über die Gewerbeanmeldung,
 
-2. durch einen Auszug aus dem Unternehmensregister;
+2. durch einen Auszug aus dem Unternehmensregister,
 
 3. durch eine Bescheinigung der Mitgliedschaft in der Handwerkskammer oder
 
 4. einer Bestätigung eines Finanzamtes über die Anmeldung einer freiberuflichen Tätigkeit als Fotografin oder Fotograf.
 
+Die Dienstleistereigenschaft nach § 5a Absatz 1 Satz 4 ist durch die Übermittlung eines von der Anstaltsleitung unterschriebenen und gesiegelten Schreibens oder durch die Übermittlung eines mit einem qualifizierten elektronischen Siegel der Anstalt versehenen Schreibens zu erbringen.
+
 (3) Bei der Registrierung erfolgt der Nachweis der Identität des Dienstleisters durch
 
 1. einen elektronischen Identitätsnachweis gemäß § 18 des Personalausweisgesetzes, gemäß § 12 des eID-Karte-Gesetzes oder gemäß § 78 Absatz 5 des Aufenthaltsgesetzes oder
 
-2. ein anderes elektronisches Identifizierungsmittel, das nach Artikel 6 der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73; L 23 vom 29.1.2015, S. 19; L 155 vom 14.6.2016, S. 44) auf dem Sicherheitsniveau „hoch“ im Sinne des Artikels 8 Absatz 2 Buchstabe c der Verordnung (EU) Nr. 910/2014 notifiziert worden ist.
+2. ein anderes elektronisches Identifizierungsmittel, das nach Artikel 6 der Verordnung (EU) Nr. 910/2014 auf dem Sicherheitsniveau „hoch“ im Sinne des Artikel 8 Absatz 2 Buchstabe c der Verordnung (EU) Nr. 910/2014 notifiziert worden ist.
 
 Einem Nutzerkonto können mehrere Personen zugeordnet werden, wenn diese vom Dienstleister auf Dauer angelegt beschäftigt werden. Personen nach Satz 2 müssen sich bei der Registrierung in einem Nutzerkonto ebenfalls mittels eines der in Satz 1 genannten Identifizierungsmittel in dem Nutzerkonto registrieren.
 
@@ -227,17 +227,19 @@ Der Wohnort in der Anschrift nach § 5 Absatz 2 Nummer 9 Alternative 1 des Perso
 
 # § 6a – Fertigung des Lichtbilds durch die Personalausweisbehörde
 
-(1) Wird das Lichtbild von der Personalausweisbehörde mit einem eigenen Lichtbildaufnahmegerät gefertigt, trägt die Personalausweisbehörde im Personalausweisregister als lichtbildaufnehmende Stelle gemäß § 23 Absatz 3 Nummer 20 des Personalausweisgesetzes die Personalausweisbehörde ein. Die Anfertigung des Lichtbilds mit einem eigenen Lichtbildaufnahmegerät ist nur zulässig, wenn das Lichtbildaufnahmegerät als Systemkomponente im Sinne des § 3 Absatz 1 Satz 1 zertifiziert worden ist.
+(1) Wird das Lichtbild von der Personalausweisbehörde mit einem eigenen Lichtbildaufnahmegerät gefertigt, trägt die Personalausweisbehörde im Personalausweisregister als lichtbildaufnehmende Stelle nach § 23 Absatz 3 Nummer 20 des Personalausweisgesetzes die Personalausweisbehörde ein.
 
-(2) Das nach Absatz 1 gefertigte Lichtbild ist unverzüglich durch die Personalausweisbehörde vom Lichtbildaufnahmegerät zu löschen, wenn es durch die Personalausweisbehörde abgerufen wurde. Wird das gefertigte Lichtbild nicht sofort durch die Personalausweisbehörde abgerufen, so ist dieses bis zum Abruf zu speichern, längstens jedoch für 96 Stunden nach dessen Anfertigung.
+(2) Die Anfertigung des Lichtbilds mit einem eigenen Lichtbildaufnahmegerät ist nur zulässig, wenn das Lichtbildaufnahmegerät als Systemkomponente zertifiziert worden ist.
+
+(3) Das nach Absatz 1 gefertigte Lichtbild ist unverzüglich durch die Personalausweisbehörde vom Lichtbildaufnahmegerät zu löschen, wenn es durch die Personalausweisbehörde abgerufen wurde. Wird das gefertigte Lichtbild nicht sofort durch die Personalausweisbehörde abgerufen, so ist dieses bis zum Abruf zu speichern, längstens jedoch für 96 Stunden nach dessen Anfertigung.
 
 # § 7 – Qualitätssicherung des Lichtbildes und der Fingerabdrücke
 
 (1) Ein Lichtbild, das nach § 9 Absatz 3 Satz 3 des Personalausweisgesetzes gefertigt wird, muss aktuell sein und den Vorgaben der Technischen Richtlinie TR-03121 des Bundesamtes für Sicherheit in der Informationstechnik in der jeweils geltenden Fassung entsprechen.
 
-(2) Abweichend von Absatz 1 kann für einen Personalausweis, der im Ausland bei der Personalausweisbehörde nach § 8 Absatz 2 Personalausweisgesetz beantragt wird, auch ein aktuelles Lichtbild in der Größe von 45 Millimeter x 35 Millimeter im Hochformat und ohne Rand vorgelegt werden, sofern die elektronische Fertigung mittels Geräten der Behörde zur Lichtbildaufnahme nicht möglich ist.
+(2) Abweichend von Absatz 1 kann für einen Personalausweis, der im Ausland bei der Personalausweisbehörde nach § 8 Absatz 2 Personalausweisgesetz beantragt wird, auch ein aktuelles Lichtbild in der Größe von 45 Millimeter x 35 Millimeter im Hochformat und ohne Rand vorgelegt werden, sofern die elektronische Fertigung mittels Geräten der Behörde zur Lichtbildaufnahme nicht möglich ist. In diesem Fall trägt die Personalausweisbehörde in ihr Personalausweisregister als lichtbildaufnehmende Stelle gemäß § 23 Absatz 3 Nummer 20 des Personalausweisgesetzes „nicht verifizierbar“ ein.
 
-(3) Das Lichtbild muss die Person in einer Frontalaufnahme, ohne Kopfbedeckung und ohne Bedeckung der Augen zeigen. Im Übrigen muss das Lichtbild den Vorgaben des Anhangs 3 Abschnitt 2 entsprechen. Die Personalausweisbehörde kann von diesen Vorgaben aus medizinischen Gründen, die nicht nur vorübergehender Art sind, Ausnahmen zulassen. Vom Verbot der Kopfbedeckung kann sie auch aus religiösen Gründen Ausnahmen zulassen.
+(3) Das Lichtbild muss die Person in einer Frontalaufnahme, ohne Kopfbedeckung, ohne Bedeckung der Augen sowie ohne Uniformteile zeigen. Im Übrigen muss das Lichtbild den Vorgaben der Anlage 3 Abschnitt 2 entsprechen. Die Personalausweisbehörde kann von diesen Vorgaben aus medizinischen Gründen, die nicht nur vorübergehender Art sind, Ausnahmen zulassen. Vom Verbot der Kopfbedeckung kann sie auch aus religiösen Gründen Ausnahmen zulassen.
 
 # § 8 – Übermittlung
 
@@ -249,19 +251,19 @@ Der Wohnort in der Anschrift nach § 5 Absatz 2 Nummer 9 Alternative 1 des Perso
 
 3. anonymisierte Protokolldaten zur Erfassung und Qualitätssicherung des Lichtbildes und der Fingerabdrücke.
 
-Die Datenübermittlung erfolgt entweder durch Datenübertragung über die informationstechnischen Netze von Bund und Ländern oder über allgemein zugängliche Netze. Soweit die Datenübermittlung zwischen informationstechnischen Netzen von Bund und Ländern stattfindet, ist dafür spätestens ab dem 1. Januar 2015 nach § 3 des Gesetzes über die Verbindung der informationstechnischen Netze des Bundes und der Länder vom 10. August 2009 (BGBl. I S. 2706) das Verbindungsnetz zu nutzen. Die zu übermittelnden Daten sind nach dem Stand der Technik elektronisch zu signieren und zu verschlüsseln.
+Die Datenübermittlung erfolgt entweder durch Datenübertragung über die informationstechnischen Netze von Bund und Ländern oder über allgemein zugängliche Netze. Soweit die Datenübermittlung zwischen informationstechnischen Netzen von Bund und Ländern stattfindet, ist dafür nach § 3 des Gesetzes über die Verbindung der informationstechnischen Netze des Bundes und der Länder – Gesetz zur Ausführung von Artikel 91c Absatz 4 des Grundgesetzes – vom 10. August 2009 (BGBl. I S. 2706), das zuletzt durch Artikel 3 des Gesetzes vom 19. Juli 2024 (BGBl. 2024 I Nr. 245) geändert worden ist, das Verbindungsnetz zu nutzen. Die zu übermittelnden Daten sind nach dem Stand der Technik elektronisch zu signieren und zu verschlüsseln.
 
 (2) Zum Signieren und Verschlüsseln der nach Absatz 1 zu übermittelnden Daten sind geeignete gültige Zertifikate aus der untergeordneten Zertifizierungsinstanz „Hoheitliche Dokumente“ der DeutschlandOnline-Infrastruktur zu verwenden.
 
 (3) Für die Übermittlung der Daten an den Ausweishersteller nach Absatz 1 Satz 3 wird das Datenformat XhD auf der Basis des Datenübermittlungsprotokolls OSCI-Transport verwendet. Die Datenübermittlung kann auch über Vermittlungsstellen erfolgen. Die beteiligten Stellen haben dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit zu treffen, die insbesondere die Vertraulichkeit und Unversehrtheit der Daten sowie die Feststellbarkeit der übermittelnden Stelle gewährleisten; insofern sind dem jeweiligen Stand der Technik entsprechende Verschlüsselungsverfahren – auch im Fall der Nutzung allgemein zugänglicher Netze – anzuwenden. Das Auswärtige Amt kann für die Datenübermittlung an den Ausweishersteller ein abweichendes Übermittlungsprotokoll verwenden. Die Datenübermittlung zwischen dem Auswärtigen Amt und seinen Auslandsvertretungen muss hinsichtlich Datensicherheit und Datenschutz ein den Anforderungen dieser Verordnung entsprechendes Niveau aufweisen.
 
-(4) Vor der Übermittlung der Ausweisdaten hinterlegen Personalausweisbehörden, Ausweishersteller und Vermittlungsstellen alle für eine elektronische und automatisierte Kommunikation benötigten technischen Verbindungsparameter im Deutschen Verwaltungsdiensteverzeichnis (DVDV), insbesondere die dafür erforderlichen Zertifikate. Der Ausweishersteller nutzt eine Funktionalität des DVDV, um die Personalausweisbehörde als eine solche zu verifizieren. Das Auswärtige Amt kann die benötigten technischen Verbindungsparameter und die damit verbundenen erforderlichen Zertifikate technisch unabhängig vom Deutschen Verwaltungsdiensteverzeichnis (DVDV) lösen. Die Lösung muss hinsichtlich Datensicherheit und Datenschutz ein den Anforderungen dieser Verordnung entsprechendes Niveau aufweisen.
+(4) Vor der Übermittlung der Ausweisdaten hinterlegen Personalausweisbehörden, Ausweishersteller und Vermittlungsstellen alle für eine elektronische und automatisierte Kommunikation benötigten technischen Verbindungsparameter im Deutschen Verwaltungsdiensteverzeichnis, insbesondere die dafür erforderlichen Zertifikate. Der Ausweishersteller nutzt eine Funktionalität des Deutschen Verwaltungsdiensteverzeichnisses, um die Personalausweisbehörde als eine solche zu verifizieren. Das Auswärtige Amt kann die benötigten technischen Verbindungsparameter und die damit verbundenen erforderlichen Zertifikate technisch unabhängig vom Deutschen Verwaltungsdiensteverzeichnis lösen. Die Lösung muss hinsichtlich Datensicherheit und Datenschutz ein den Anforderungen dieser Verordnung entsprechendes Niveau aufweisen.
 
 # § 9 – Qualitätsstatistik
 
 (1) Der Ausweishersteller erstellt eine Qualitätsstatistik. Sie enthält anonymisierte Qualitätswerte zu Lichtbildern und Fingerabdrücken, die sowohl in der Personalausweisbehörde als auch beim Ausweishersteller ermittelt und vom Ausweishersteller in der Qualitätsstatistik ausgewertet und zusammengefasst werden.
 
-(2) Der Ausweishersteller stellt die Ergebnisse der Auswertung und auf Verlangen die in der Statistik erfassten anonymisierten Einzeldaten dem Bundesministerium des Innern, für Bau und Heimat, dem Bundesamt für Sicherheit in der Informationstechnik und dem Bundeskriminalamt zur Verfügung.
+(2) Der Ausweishersteller stellt die Ergebnisse der Auswertung und auf Verlangen die in der Statistik erfassten anonymisierten Einzeldaten dem Bundesministerium des Innern, dem Bundesamt für Sicherheit in der Informationstechnik und dem Bundeskriminalamt zur Verfügung.
 
 # § 10 – Eingang der Antragsdaten
 
@@ -269,15 +271,15 @@ Der Ausweishersteller prüft, ob die Antragsdaten vollständig und unversehrt ei
 
 # § 11 – Muster für den Personalausweis
 
-Der Personalausweis ist nach dem in Anhang 1 abgedruckten Muster herzustellen. Für die einzutragenden Daten gelten die formalen Anforderungen des Anhangs 3 Abschnitt 1.
+Der Personalausweis ist nach dem in Anlage 1 abgedruckten Muster herzustellen. Für die einzutragenden Daten gelten die formalen Anforderungen der Anlage 3 Abschnitt 1.
 
 # § 12 – Muster für den vorläufigen Personalausweis
 
-Der vorläufige Personalausweis ist nach dem in Anhang 2 abgedruckten Muster herzustellen. Für die einzutragenden Daten gelten die formalen Anforderungen des Anhangs 3 Abschnitt 1.
+Der vorläufige Personalausweis ist nach dem in Anlage 2 abgedruckten Muster herzustellen. Für die einzutragenden Daten gelten die formalen Anforderungen der Anlage 3 Abschnitt 1.
 
 # § 12a – Muster für den Ersatz-Personalausweis
 
-Der Ersatz-Personalausweis ist nach dem in Anhang 2a abgedruckten Muster herzustellen. Für die einzutragenden Daten gelten die formalen Anforderungen des Anhangs 3 Abschnitt 1.
+Der Ersatz-Personalausweis ist nach dem in Anlage 2a abgedruckten Muster herzustellen. Für die einzutragenden Daten gelten die formalen Anforderungen der Anlage 3 Abschnitt 1.
 
 # § 13 – Schnittstelle des Chips
 
@@ -319,29 +321,35 @@ Der Ausweishersteller übermittelt dem Sperrlistenbetreiber auf sicherem elektro
 
 (3) Bis die antragstellende Person die Geheimnummer und die Entsperrnummer erhalten hat, gewährleistet die Personalausweisbehörde, dass Dritte keine Kenntnisnahme der Geheimnummer und der Entsperrnummer erhalten können.
 
+(4) Die Absätze 1 bis 3 sind nicht anzuwenden, wenn die Person, für die der Personalausweis ausgestellt werden soll, bis zum Ablauf der Gültigkeitsdauer des auszustellenden Personalausweises ihr 16. Lebensjahr nicht vollenden wird.
+
 # § 18 – Ausgabe und Versand des Personalausweises und des Sperrkennworts
 
-(1) Der Personalausweis wird gemeinsam mit dem Sperrkennwort von der Personalausweisbehörde an die antragstellende Person, an eine andere nach § 9 Absatz 1 oder 2 des Personalausweisgesetzes berechtigte Person oder an eine von der antragstellenden Person bevollmächtigte Person ausgegeben.
+(1) Der Personalausweis wird gemeinsam mit dem Sperrkennwort von der Personalausweisbehörde an die antragstellende Person, an eine andere nach § 9 Absatz 1 oder 2 des Personalausweisgesetzes berechtigte Person oder an eine von der antragstellenden Person bevollmächtigte Person ausgegeben. Hat die antragstellende Person aufgrund von § 17 Absatz 4 kein Kuvert mit einer Geheimnummer und einer Entsperrnummer von der Personalausweisbehörde erhalten, wird nur der Personalausweis ausgegeben.
 
-(2) Der Personalausweis wird gemeinsam mit dem Sperrkennwort durch den Ausweishersteller an die zustellfähige inländische Meldeadresse der antragstellenden Person versendet, wenn sie einen gültigen Lichtbildausweis einer Behörde oder einer öffentlich-rechtlichen Körperschaft besitzt, der eine einwandfreie Feststellung ihrer Identität zulässt, und sie gegenüber der Personalausweisbehörde im Inland in dieses Verfahren eingewilligt hat. Ein Versand nach Satz 1 ist ausgeschlossen, wenn keine zustellfähige inländische Meldeadresse vorhanden ist. Der bisherige Personalausweis ist bei der Beantragung zu entwerten. Der Zusteller hat vor der Übergabe die Identität der antragstellenden Person durch Vorlage eines in Satz 1 genannten Lichtbildausweises zu überprüfen. Der Ausweishersteller informiert die Personalausweisbehörde über die erfolgte Übergabe des Personalausweises und des Sperrkennworts an die antragstellende Person.
+(2) Der Personalausweis wird gemeinsam mit dem Sperrkennwort durch den Ausweishersteller an die zustellfähige inländische Meldeadresse der antragstellenden Person versendet, wenn sie einen gültigen Lichtbildausweis einer Behörde oder einer öffentlich-rechtlichen Körperschaft besitzt, der eine einwandfreie Feststellung ihrer Identität zulässt, und sie gegenüber der Personalausweisbehörde im Inland in dieses Verfahren eingewilligt hat. Ein Versand nach Satz 1 ist ausgeschlossen, wenn keine zustellfähige inländische Meldeadresse vorhanden ist. Der bisherige Personalausweis ist bei der Beantragung von der Personalausweisbehörde zu entwerten. Der Zusteller hat vor der Übergabe die Identität der antragstellenden Person durch Vorlage eines in Satz 1 genannten Lichtbildausweises zu überprüfen. Der Ausweishersteller informiert die Personalausweisbehörde über die erfolgte Übergabe des Personalausweises und des Sperrkennworts an die antragstellende Person.
 
-(3) Die antragstellende Person soll bei einem Verfahren nach Absatz 2 der Personalausweisbehörde eine E-Mail-Adresse mitteilen, sofern eine solche der Personalausweisbehörde noch nicht vorliegt. Die Personalausweisbehörde übermittelt diese E-Mail-Adresse an den Ausweishersteller, damit dieser die E-Mail-Adresse dem Zusteller übermittelt. Der Zusteller kündigt in diesem Fall der antragstellenden Person den Zeitraum der Übergabe per E-Mail an die hinterlegte E-Mail-Adresse an. Die Ankündigung darf ausschließlich die Anrede, den Hinweis auf die bevorstehende Zustellung des Personalausweises, den voraussichtlichen Zustellzeitpunkt sowie die Modalitäten der Zustellung nach Absatz 2 Satz 4 enthalten. Die E-Mail-Adresse darf nur für die Zwecke verwendet werden, für die sie gespeichert wurde, und ist bei der Personalausweisbehörde, beim Ausweishersteller und beim Zusteller unverzüglich nach der Übergabe des Personalausweises an die antragstellende Person zu löschen, sofern sie ausschließlich für das Verfahren nach Absatz 2 gespeichert wurde. Erfolgt eine Übergabe nicht, so findet Satz 5 mit der Maßgabe Anwendung, dass der Ausweishersteller und der Zusteller die E-Mail-Adresse unverzüglich nach der Hinterlegung des Personalausweises bei der zuständigen Personalausweisbehörde, die Personalausweisbehörde diese unverzüglich nach der Ausgabe des Personalausweises an die antragstellende Person zu löschen haben.
+(3) Die antragstellende Person soll bei einem Verfahren nach Absatz 2 der Personalausweisbehörde eine
 
-(4) Der Ausweisinhaber kann sich die auslesbaren personenbezogenen Daten, die auf seinem Personalausweis gespeichert sind, jederzeit bei einer Personalausweisbehörde anzeigen lassen.
+E-Mail-Adresse mitteilen, sofern eine solche der Personalausweisbehörde noch nicht vorliegt. Die Personalausweisbehörde übermittelt diese E-Mail-Adresse an den Ausweishersteller, damit dieser die E-Mail-Adresse dem Zusteller übermittelt. Der Zusteller kündigt in diesem Fall der antragstellenden Person den Zeitraum der Übergabe per E-Mail an die hinterlegte E-Mail-Adresse an. Die Ankündigung darf ausschließlich die Anrede, den Hinweis auf die bevorstehende Zustellung des Personalausweises, den voraussichtlichen Zustellzeitpunkt sowie die Modalitäten der Zustellung nach Absatz 2 Satz 4 enthalten. Die E-Mail-Adresse darf nur für die Zwecke verwendet werden, für die sie gespeichert wurde, und ist bei der Personalausweisbehörde, beim Ausweishersteller und beim Zusteller unverzüglich nach der Übergabe des Personalausweises an die antragstellende Person zu löschen, sofern sie ausschließlich für das Verfahren nach Absatz 2 gespeichert wurde. Erfolgt eine Übergabe nicht, so findet Satz 5 mit der Maßgabe Anwendung, dass der Ausweishersteller und der Zusteller die E-Mail-Adresse unverzüglich nach der Hinterlegung des Personalausweises bei der zuständigen Personalausweisbehörde oder die Personalausweisbehörde diese unverzüglich nach der Ausgabe des Personalausweises an die antragstellende Person zu löschen haben.
 
-(5) Für das Lesen der Daten nach Absatz 4 sind zertifizierte Lesegeräte mit hoheitlichem Berechtigungszertifikat zu verwenden.
+(4) Abweichend von Absatz 2 darf die Personalausweisbehörde im Ausland Personalausweise gemeinsam mit dem Sperrkennwort auch auf dem Postweg versenden, ohne dass der Zusteller die antragstellende Person identifiziert, sofern die Abholung des Personalausweises für die antragstellende Person nur unter unzumutbaren Umständen möglich wäre und der Wohnort in einem Staat liegt, in dem eine hinreichende Gewähr für eine ordnungsgemäße Übergabe besteht. Als unzustellbar zurückgesandte Personalausweise und Sperrkennwörter gibt die Personalausweisbehörde nach Maßgabe von Absatz 1 an die antragstellende Person aus.
 
-(6) Abweichend von Absatz 2 darf die Personalausweisbehörde im Ausland Personalausweise gemeinsam mit dem Sperrkennwort auch auf dem Postweg versenden, ohne dass der Zusteller die antragstellende Person identifiziert, sofern die Abholung des Personalausweises für die antragstellende Person nur unter unzumutbaren Umständen möglich wäre und der Wohnort in einem Staat liegt, in dem eine hinreichende Gewähr für eine ordnungsgemäße Übergabe besteht. Als unzustellbar zurückgesandte Personalausweise und Sperrkennwörter gibt die Personalausweisbehörde nach Maßgabe von Absatz 1 an die antragstellende Person aus.
+(5) Wurde gegenüber der antragstellenden Person, die keine Wohnung in der Bundesrepublik Deutschland hat, eine Anordnung nach § 6 Absatz 7 des Personalausweisgesetzes getroffen, soll die Ausgabe des Personalausweises durch die Personalausweisbehörde in Deutschland erfolgen, in deren Bezirk die antragstellende Person für ihre Wohnung, bei mehreren Wohnungen für ihre Hauptwohnung, zuletzt meldepflichtig war. War die antragstellende Person noch nie in der Bundesrepublik Deutschland meldepflichtig, soll die Ausgabe durch eine von der antragstellenden Person zu benennende Personalausweisbehörde in der Bundesrepublik Deutschland erfolgen. Die Ausgabe des Personalausweises an eine andere nach § 9 Absatz 1 oder 2 des Personalausweisgesetzes berechtigte Person oder an eine von der antragstellenden Person bevollmächtigte Person ist in diesen Fällen ausgeschlossen.
 
-(7) Wurde gegenüber der antragstellenden Person, die keine Wohnung in der Bundesrepublik Deutschland hat, eine Anordnung nach § 6 Absatz 7 des Personalausweisgesetzes getroffen, soll die Ausgabe des Personalausweises durch die Personalausweisbehörde in Deutschland erfolgen, in deren Bezirk die antragstellende Person für ihre Wohnung, bei mehreren Wohnungen für ihre Hauptwohnung, zuletzt meldepflichtig war. War die antragstellende Person noch nie in der Bundesrepublik Deutschland meldepflichtig, soll die Ausgabe durch eine von der antragstellenden Person zu benennende Personalausweisbehörde in der Bundesrepublik Deutschland erfolgen. Die Ausgabe des Personalausweises an eine andere nach § 9 Absatz 1 oder 2 des Personalausweisgesetzes berechtigte Person oder an eine von der antragstellenden Person bevollmächtigte Person ist in diesen Fällen ausgeschlossen.
+# § 18a – Einsicht in die auslesbaren personenbezogenen Daten des Personalausweises
 
-# § 18a – Aufkleber mit Brailleschrift
+(1) Der Ausweisinhaber kann sich die auslesbaren personenbezogenen Daten, die auf seinem Personalausweis gespeichert sind, jederzeit bei einer Personalausweisbehörde anzeigen lassen.
 
-Auf Antrag des Ausweisinhabers wird durch die Personalausweisbehörde entweder bei Ausgabe des Personalausweises oder zu einem späteren Zeitpunkt ein Aufkleber mit Brailleschrift nach Anhang 1a auf dem Personalausweis angebracht.
+(2) Für das Lesen der Daten nach Absatz 1 sind zertifizierte Lesegeräte mit hoheitlichem Berechtigungszertifikat zu verwenden.
+
+# § 18b – Aufkleber mit Brailleschrift
+
+Auf Antrag des Ausweisinhabers wird durch die Personalausweisbehörde entweder bei der Ausgabe des Personalausweises oder zu einem späteren Zeitpunkt ein Aufkleber mit Brailleschrift nach Anlage 1c auf dem Personalausweis angebracht.
 
 # § 19 – Änderung der Anschrift
 
-(1) Die Personalausweisbehörde ändert die Anschrift auf dem Personalausweis, indem sie einen Aufkleber mit der neuen Anschrift und der Personalausweisnummer nach dem Muster in Anhang 1 anfertigt. Hat der Ausweisinhaber eine elektronische Anmeldung nach § 23a des Bundesmeldegesetzes durchgeführt, wird nach erfolgter Änderung der Anschrift nach Absatz 2 Satz 4 ein Aufkleber nach Anhang 1b mit der neuen Anschrift durch die Personalausweisbehörde auf dem Postweg an die Zuzugsanschrift der antragstellenden Person versendet. Der Ausweisinhaber hat den Aufkleber unverzüglich auf dem Ausweis auf dem für die Anschrift vorgesehenen Feld anzubringen.
+(1) Die Personalausweisbehörde ändert die Anschrift auf dem Personalausweis, indem sie einen Aufkleber mit der neuen Anschrift und der Personalausweisnummer nach dem Muster in Anlage 1a anfertigt. Hat der Ausweisinhaber eine elektronische Anmeldung nach § 23a des Bundesmeldegesetzes durchgeführt, wird nach erfolgter Änderung der Anschrift nach Absatz 2 Satz 5 ein Aufkleber nach Anlage 1b mit der neuen Anschrift durch die Personalausweisbehörde auf dem Postweg an die Zuzugsanschrift der antragstellenden Person versendet. Der Ausweisinhaber hat den Aufkleber unverzüglich auf dem Ausweis auf dem für die Anschrift vorgesehenen Feld anzubringen.
 
 (2) Die Personalausweisbehörde ändert die auf dem Chip gespeicherte Anschrift. Hat der Ausweisinhaber eine elektronische Anmeldung nach § 23a des Bundesmeldegesetzes durchgeführt, hat er die Änderung der Anschrift auf dem Chip einzuleiten. Hierzu wird durch die Personalausweisbehörde ein elektronisches Formular bereitgestellt. Der Ausweisinhaber weist seine Identität gegenüber der Personalausweisbehörde mit einem elektronischen Identitätsnachweis nach § 18 Absatz 2 Satz 1 Nummer 1 des Personalausweisgesetzes nach. Die zuständige Personalausweisbehörde ändert die Anschrift auf dem Chip des Personalausweises und trägt diese in das Personalausweisregister ein. Ist die zuständige Personalausweisbehörde nicht die ausstellende Personalausweisbehörde, informiert die zuständige Personalausweisbehörde die ausstellende Personalausweisbehörde über die neue Anschrift und letztere ändert das Personalausweisregister.
 
@@ -353,19 +361,21 @@ Auf Antrag des Ausweisinhabers wird durch die Personalausweisbehörde entweder b
 
 (1) Kennt der Ausweisinhaber die ursprüngliche Geheimnummer nicht, kann die Personalausweisbehörde die Neusetzung der Geheimnummer durch den Ausweisinhaber einleiten. Die Personalausweisbehörde hat zuvor die Identität des Ausweisinhabers zu überprüfen. Durch technische und organisatorische Maßnahmen hat die Personalausweisbehörde sicherzustellen, dass niemand außer dem Ausweisinhaber Kenntnis von der Geheimnummer erlangt.
 
-(2) Ein Ausweisinhaber, der eine Meldeadresse im Inland hat, kann das Neusetzen der Geheimnummer auch durch Verwendung der Zugangsnummer und eines hierfür vom Ausweishersteller zur Verfügung gestellten elektronischen Formulars beantragen. Der Ausweishersteller schaltet die Funktion zum elektronischen Identitätsnachweis ab und versendet eine neue, zufällig generierte Geheimnummer in einem Brief an die im Chip gespeicherte Anschrift des Ausweisinhabers. Bei der Übergabe ist die Identität des Ausweisinhabers durch den Zusteller durch Vorlage des Personalausweises zu überprüfen. Nach Erhalt der neuen Geheimnummer meldet sich der Ausweisinhaber erneut beim Ausweishersteller unter Verwendung der Zugangsnummer an. Der Ausweishersteller schaltet die Funktion zum elektronischen Identitätsnachweis wieder ein und schreibt die neue, zufällig generierte Geheimnummer in den Chip. Der Ausweisinhaber ändert die neue, zufällig generierte Geheimnummer in eine selbst gewählte Geheimnummer.
+(2) Ein Ausweisinhaber, der eine Meldeadresse im Inland hat, kann das Neusetzen der Geheimnummer auch durch Verwendung der Zugangsnummer und eines hierfür vom Ausweishersteller zur Verfügung gestellten elektronischen Formulars beantragen. Der Ausweishersteller schaltet die Funktion zum elektronischen Identitätsnachweis ab und versendet eine neue, zufällig generierte Geheimnummer in einem Brief an die im Chip gespeicherte Anschrift des Ausweisinhabers. Bei der Übergabe ist die Identität des Ausweisinhabers durch den Zusteller durch Vorlage des gültigen Personalausweises oder eines gültigen Reisepasses zu überprüfen. Nach Erhalt der neuen Geheimnummer meldet sich der Ausweisinhaber erneut beim Ausweishersteller unter Verwendung der Zugangsnummer an. Der Ausweishersteller schaltet die Funktion zum elektronischen Identitätsnachweis wieder ein und schreibt die neue, zufällig generierte Geheimnummer in den Chip. Der Ausweisinhaber ändert die neue, zufällig generierte Geheimnummer in eine selbst gewählte Geheimnummer. Der Ausweishersteller kann dem Ausweisinhaber auch die Möglichkeit eröffnen, eine neue Geheimnummer über ein sicheres elektronisches Verfahren festzulegen, wenn sich der Ausweisinhaber zuvor mit einem elektronischen Identifizierungsmittel, das auf dem Sicherheitsniveau „hoch“ im Sinne des Artikels 8 Absatz 2 Buchstabe c der Verordnung (EU) Nr. 910/2014 notifiziert oder zertifiziert worden ist, elektronisch identifiziert hat. Der Ausweishersteller ist berechtigt, die zur Durchführung des Verfahrens benötigten Daten zu verarbeiten, soweit dies zum Zweck der Neusetzung und Änderung der Geheimnummer erforderlich ist. Die Maßnahmen in den Sätzen 1 und 2 sowie 5, 7 bis 8 können vollständig durch automatische Einrichtungen vorgenommen werden.
 
-(3) Der Ausweisinhaber kann die Geheimnummer durch Eingabe der bisherigen Geheimnummer und zweimalige Eingabe der neuen Geheimnummer ändern.
+(3) Die antragstellende Person kann bei der Nutzung des elektronischen Formulars des Ausweisherstellers eine gültige E-Mail-Adresse mitteilen. Der Ausweishersteller ist berechtigt, diese E-Mail-Adresse zum Zwecke der Information über den Status des Antrages sowie über den Status des Versands des Briefes zu verarbeiten und dem Zusteller zu übermitteln. Der Zusteller kündigt in diesem Fall der antragstellenden Person den Zeitraum der voraussichtlichen Übergabe des PIN-Rücksetzbriefes per E-Mail an die hinterlegte E-Mail-Adresse an. Die Ankündigung darf ausschließlich die Anrede, den Hinweis auf die bevorstehende Zustellung des PIN-Rücksetzbriefes, den voraussichtlichen Zustellzeitpunkt sowie die Modalitäten der Zustellung nach Absatz 2 Satz 3 enthalten. Die E-Mail-Adresse darf nur für die Zwecke verwendet werden, für die sie gespeichert wurde, und ist beim Ausweishersteller und beim Zusteller unverzüglich nach der Übergabe des Briefes an die antragstellende Person zu löschen. Erfolgt eine Übergabe nicht, so ist zu gewährleisten, dass der Ausweishersteller und der Zusteller die E-Mail-Adresse unverzüglich zu löschen haben.
 
-(4) Für die Änderung der Daten nach Absatz 1 Satz 1 sind zertifizierte Geräte mit hoheitlichem Berechtigungszertifikat zu verwenden. Für das Ändern der Daten nach Absatz 2 Satz 2 sowie für das Einschalten nach Absatz 2 Satz 5 verwendet der Ausweishersteller ein hoheitliches Berechtigungszertifikat.
+(4) Der Ausweisinhaber kann die Geheimnummer durch Eingabe der bisherigen Geheimnummer und zweimalige Eingabe der neuen Geheimnummer ändern.
+
+(5) Für die Änderung der Daten nach Absatz 1 Satz 1 sind zertifizierte Geräte mit hoheitlichem Berechtigungszertifikat zu verwenden. Für das Ändern der Daten nach Absatz 2 Satz 2 sowie für das Einschalten nach Absatz 2 Satz 5 verwendet der Ausweishersteller ein hoheitliches Berechtigungszertifikat.
 
 # § 21 – Nachträgliches Einschalten
 
-(1) Bevor die ausstellende oder zuständige Personalausweisbehörde einen ausgeschalteten elektronischen Identitätsnachweis nach § 10 Absatz 3 des Personalausweisgesetzes einschaltet, prüft sie die Identität des Ausweisinhabers. Die Personalausweisbehörde löscht die Tatsache der Ausschaltung im Personalausweisregister. Handelt die zuständige Personalausweisbehörde, informiert sie die ausstellende Personalausweisbehörde über die Einschaltung; in diesem Fall löscht die ausstellende Personalausweisbehörde die Tatsache der Ausschaltung im Personalausweisregister. Die Personalausweisbehörde initiiert bei jeder nachträglichen Einschaltung die Neusetzung der Geheimnummer durch den Ausweisinhaber und teilt ihm auf Wunsch das Sperrkennwort aus dem Personalausweisregister mit.
+(1) Bevor die ausstellende oder zuständige Personalausweisbehörde einen ausgeschalteten elektronischen Identitätsnachweis nach § 10 Absatz 3 des Personalausweisgesetzes einschaltet, prüft sie die Identität des Ausweisinhabers. Die Personalausweisbehörde initiiert bei jeder nachträglichen Einschaltung die Neusetzung der Geheimnummer durch den Ausweisinhaber und teilt ihm auf Wunsch das Sperrkennwort aus dem Personalausweisregister mit.
 
-(2) Der Antrag nach § 10 Absatz 3 des Personalausweisgesetzes kann durch den Ausweisinhaber, der eine Meldeadresse im Inland hat, auch durch Verwendung der Zugangsnummer und eines hierfür vom Ausweishersteller zur Verfügung gestellten elektronischen Formulars gestellt werden. Der Ausweishersteller versendet eine neue, zufällig generierte Geheimnummer in einem Brief an die im Chip gespeicherte Anschrift des Ausweisinhabers. Bei der Übergabe ist die Identität des Ausweisinhabers durch den Zusteller durch Vorlage des Personalausweises zu überprüfen. Nach Erhalt der neuen Geheimnummer meldet sich der Ausweisinhaber erneut beim Ausweishersteller unter Verwendung der Zugangsnummer an. Der Ausweishersteller schaltet die Funktion zum elektronischen Identitätsnachweis ein und schreibt die neue, zufällig generierte Geheimnummer in den Chip. Der Ausweisinhaber ändert die neue, zufällig generierte Geheimnummer in eine selbst gewählte Geheimnummer.
+(2) Der Antrag nach § 10 Absatz 3 des Personalausweisgesetzes kann durch den Ausweisinhaber, der eine Meldeadresse im Inland hat, auch durch Verwendung der Zugangsnummer und eines hierfür vom Ausweishersteller zur Verfügung gestellten elektronischen Formulars gestellt werden. Der Ausweishersteller versendet eine neue, zufällig generierte Geheimnummer in einem Brief an die im Chip gespeicherte Anschrift des Ausweisinhabers. Bei der Übergabe ist die Identität des Ausweisinhabers durch den Zusteller durch Vorlage des gültigen Personalausweises oder eines gültigen Reisepasses zu überprüfen. Nach Erhalt der neuen Geheimnummer meldet sich der Ausweisinhaber erneut beim Ausweishersteller unter Verwendung der Zugangsnummer an. Der Ausweishersteller schaltet die Funktion zum elektronischen Identitätsnachweis ein und schreibt die neue, zufällig generierte Geheimnummer in den Chip. Der Ausweisinhaber ändert die neue, zufällig generierte Geheimnummer in eine selbst gewählte Geheimnummer. Die Maßnahmen in den Sätzen 1, 2 und 5 können vollständig durch automatische Einrichtungen vorgenommen werden, § 20 Absatz 2 Satz 7 bis 9 sowie Absatz 3 gilt entsprechend.
 
-(3) Für das nachträgliche Einschalten des elektronischen Identitätsnachweises nach Absatz 1 sind zertifizierte Geräte mit hoheitlichem Berechtigungszertifikat zu verwenden. Für das Ändern der Daten nach Absatz 2 Satz 2 sowie für das Einschalten nach Absatz 2 Satz 5 verwendet der Ausweishersteller ein hoheitliches Berechtigungszertifikat.
+(3) Für das nachträgliche Einschalten des elektronischen Identitätsnachweises nach Absatz 1 Satz 2 sind zertifizierte Geräte mit hoheitlichem Berechtigungszertifikat zu verwenden. Für das Ändern der Daten nach Absatz 2 Satz 2 sowie für das Einschalten nach Absatz 2 Satz 5 verwendet der Ausweishersteller ein hoheitliches Berechtigungszertifikat.
 
 # § 22 – Einrichtung
 
@@ -389,7 +399,7 @@ Auf Antrag des Ausweisinhabers wird durch die Personalausweisbehörde entweder b
 
 4. versendet einen einfachen Brief an die im Chip des Personalausweises gespeicherte Anschrift des Ausweisinhabers, in dem das Datum und die Uhrzeit der Einrichtung des elektronischen Identitätsnachweises, der letzte Tag der Gültigkeitsdauer, das Sperrkennwort und der Hersteller und die Modellbezeichnung des mobilen Endgeräts mitgeteilt wird; der Brief enthält ferner Angaben zur Erreichbarkeit des Sperrdienstes.
 
-(7) Der Hersteller eines nach Absatz 1 zu verwendenden elektronischen Formulars hat den Ausweisinhaber darauf hinzuweisen, dass das mobile Endgerät hinsichtlich der auf seinem Chip nach Absatz 1 gespeicherten Daten mit besonderer Sorgfalt zu behandeln ist. Der Inhalt des Hinweistextes ist von dem Hersteller einer nach Absatz 1 verwendeten Software mit dem Bundesministerium des Innern, für Bau und Heimat abzustimmen.
+(7) Der Hersteller eines nach Absatz 1 zu verwendenden elektronischen Formulars hat den Ausweisinhaber darauf hinzuweisen, dass das mobile Endgerät hinsichtlich der auf seinem Chip nach Absatz 1 gespeicherten Daten mit besonderer Sorgfalt zu behandeln ist. Der Inhalt des Hinweistextes ist von dem Hersteller einer nach Absatz 1 verwendeten Software mit dem Bundesministerium des Innern abzustimmen.
 
 # § 23 – Speicherung von personenbezogenen Daten; Zugriffsschutz
 
@@ -471,7 +481,7 @@ im Rahmen der behördlichen Aufgabenwahrnehmung oder der vorgesehenen Geschäfts
 
 7. die Erklärung, dass der Diensteanbieter den betrieblichen Datenschutz einhält;
 
-8. die Angabe, ob die antragstellende Person sich zur Durchführung des elektronischen Identitätsnachweises eines Auftragnehmers nach den Artikeln 28 bis 31 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72) bedienen wird und in diesem Fall die Angaben nach Nummer 1 für diesen Auftragnehmer; ist diese Angabe zum Zeitpunkt des Antrages noch nicht bekannt, so ist sie, sobald bekannt, unverzüglich nachzuliefern.
+8. die Angabe, ob die antragstellende Person sich zur Durchführung des elektronischen Identitätsnachweises eines Auftragnehmers nach den Artikeln 28 bis 31 der Verordnung (EU) 2016/679 bedienen wird und in diesem Fall die Angaben nach Nummer 1 für diesen Auftragnehmer; wobei eine zum Zeitpunkt des Antrags noch nicht bekannte Angabe unverzüglich nach ihrem Bekanntwerden nachzuliefern ist.
 
 (2) Der Antrag bedarf der Schriftform.
 
@@ -529,7 +539,7 @@ Die Vergabestelle für Berechtigungszertifikate legt mit Erteilung der Berechtig
 
 (1) Hoheitliche Berechtigungszertifikate nach § 20a Absatz 1 des Personalausweisgesetzes dürfen vorbehaltlich von Satz 2 ausschließlich an die zur Identitätsfeststellung berechtigten Behörden ausgegeben werden. Zum Zwecke der Qualitätssicherung anhand von Testausweisen dürfen hoheitliche Berechtigungszertifikate auch an das Bundesamt für Sicherheit in der Informationstechnik ausgegeben werden.
 
-(2) Das Bundesministerium des Innern, für Bau und Heimat bestimmt, welche Stellen hoheitliche Berechtigungszertifikate an welche zur Identitätsfeststellung berechtigten Behörden ausgeben dürfen, und veröffentlicht dies im Bundesanzeiger.
+(2) Das Bundesministerium des Innern bestimmt, welche Stellen hoheitliche Berechtigungszertifikate an welche zur Identitätsfeststellung berechtigten Behörden ausgeben dürfen, und veröffentlicht dies im Bundesanzeiger.
 
 (3) Die Gültigkeitsdauer hoheitlicher Berechtigungszertifikate wird nach den Vorgaben des § 34 Satz 3 vom Bundesamt für Sicherheit in der Informationstechnik festgelegt.
 
@@ -537,11 +547,11 @@ Die Vergabestelle für Berechtigungszertifikate legt mit Erteilung der Berechtig
 
 # § 36a – Ausgabe von Berechtigungszertifikaten für öffentliche Stellen anderer Mitgliedstaaten
 
-Der Bund stellt Berechtigungszertifikate für öffentliche Stellen anderer Mitgliedstaaten zur Verfügung. Die Kommunikation und die Identifizierung der öffentlichen Stellen erfolgt über die einheitlichen Ansprechpartner nach dem Durchführungsbeschluss (EU) 2015/296 der Kommission vom 24. Februar 2015 zur Festlegung von Verfahrensmodalitäten für die Zusammenarbeit zwischen den Mitgliedstaaten auf dem Gebiet der elektronischen Identifizierung gemäß Artikel 12 Absatz 7 der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt (ABl. L 53 vom 25.2.2015, S. 14).
+Der Bund stellt Berechtigungszertifikate für öffentliche Stellen anderer Mitgliedstaaten zur Verfügung. Die Kommunikation und die Identifizierung der öffentlichen Stellen erfolgt über die einheitlichen Ansprechpartner nach dem Durchführungsbeschluss (EU) 2015/296.
 
 # § 36b – Entsprechende Anwendung der Vorschriften über den Personalausweis
 
-(1) Soweit dieses Kapitel keine besonderen Regelungen enthält, gelten für die die eID-Karte betreffenden Angelegenheiten die Vorschriften des Kapitels 1 sowie der Kapitel 3 bis 10 entsprechend.
+(1) Soweit dieser Abschnitt keine besonderen Regelungen enthält, gelten für die die eID-Karte betreffenden Angelegenheiten die Vorschriften des Abschnitts 1 sowie der Abschnitte 3 bis 10 entsprechend.
 
 (2) An die Stelle von Ausweis und Ausweisinhaber treten die eID-Karte und ihr Inhaber, an die Stelle der Personalausweisbehörden treten die eID-Karte-Behörden, an die Stelle des Personalausweisregisters tritt das eID-Kartenregister.
 
@@ -551,23 +561,21 @@ Auf die eID-Karte finden keine Anwendung:
 
 1. § 2 Satz 1 Nummer 1 Buchstabe a und Nummer 2 Buchstabe a,
 
-2. § 4 Absatz 1 Nummer 4,
+2. § 7,
 
-3. § 7,
+3. § 8 Absatz 1 Satz 2 Nummer 3,
 
-4. § 8 Absatz 1 Satz 2 Nummer 3,
+4. § 9,
 
-5. § 9,
+5. § 11,
 
-6. § 11,
+6. § 12,
 
-7. § 12,
+7. § 12a,
 
-8. § 12a,
+8. § 19 Absatz 1 und 4 sowie
 
-9. § 19 Absatz 1 und 4 sowie
-
-10. § 21.
+9. § 21.
 
 # § 36d – Abweichende Regelung für die eID-Karte
 
@@ -575,17 +583,15 @@ Auf die eID-Karte finden keine Anwendung:
 
 # § 36e – Muster der eID-Karte
 
-Die eID-Karte ist nach dem in Anhang 3a abgedruckten Muster herzustellen. Für die einzutragenden Daten gelten die formalen Anforderungen des Anhangs 3 Abschnitt 1 entsprechend.
+Die eID-Karte ist nach dem in Anlage 3a abgedruckten Muster herzustellen. Für die einzutragenden Daten gelten die formalen Anforderungen der Anlage 3 Abschnitt 1 entsprechend.
 
 # § 37 – Übergangsregelungen
 
-(1) Vordrucke für vorläufige Personalausweise, die der Anlage 2 der bis zum 31. Oktober 2010 geltenden Verordnung zur Bestimmung der Muster der Personalausweise der Bundesrepublik Deutschland entsprechen, können bis zum 31. Oktober 2011 weiterverwendet werden.
+(1) Signaturkarten, die der Ausweishersteller zur Absicherung des elektronischen Antragsprozesses der Ausweisbehörde vor dem 1. November 2010 ausgestellt hat, behalten bis zum Ablauf der Gültigkeitsdauer ihre Geltung.
 
-(2) Signaturkarten, die der Ausweishersteller zur Absicherung des elektronischen Antragsprozesses der Ausweisbehörde vor dem 1. November 2010 ausgestellt hat, behalten bis zum Ablauf der Gültigkeitsdauer ihre Geltung.
+(2) Abweichend von § 19 Absatz 1 Satz 1 können die Personalausweisbehörden der Länder, die nach § 23a des Bundesmeldegesetzes ein Verfahren zur elektronischen Anmeldung erproben, bis zum 30. April 2022 auch Änderungsaufkleber nach dem in Anlage 1a abgedruckten Muster verwenden.
 
-(3) Abweichend von § 19 Absatz 1 Satz 1 können die Personalausweisbehörden der Länder, die nach § 23a des Bundesmeldegesetzes ein Verfahren zur elektronischen Anmeldung erproben, bis zum 30. April 2022 auch Änderungsaufkleber nach dem in Anhang 1a abgedruckten Muster verwenden.
-
-(4) Bis zum Ablauf des 31. Dezember 2032 gilt § 5 Absatz 3 Nummer 1, 3 und 4 sowie Absatz 4 Satz 4 mit den Maßgaben, dass die Frist zehn Jahre und drei Monate beträgt und wie folgt zu laufen beginnt:
+(3) Bis zum Ablauf des 31. Dezember 2032 gilt § 5 Absatz 3 Nummer 1, 3 und 4 sowie Absatz 4 Satz 4 mit den Maßgaben, dass die Frist zehn Jahre und drei Monate beträgt und wie folgt zu laufen beginnt:
 
 1. im Fall von § 5 Absatz 3 Nummer 1 mit der Eintragung in die Referenzliste,
 
@@ -595,8 +601,6 @@ Die eID-Karte ist nach dem in Anhang 3a abgedruckten Muster herzustellen. Für d
 
 4. im Fall von § 5 Absatz 4 Satz 4 mit der Eintragung der Sperrsummen oder des jeweils letzten Tages der Gültigkeitsdauer von hergestellten Personalausweisen in dieser Liste.
 
-(5) Bis zum 31. Oktober 2024 findet § 17 Absatz 1 und 2 mit der Maßgabe Anwendung, dass das Kuvert neben der Geheimnummer und der Entsperrnummer das Sperrkennwort enthalten kann, wenn dieses der antragstellenden Person von dem Ausweishersteller übersandt wird. Als Absenderanschrift ist die postalische Anschrift der ausstellenden Personalausweisbehörde anzugeben. Der Erhalt des Kuverts ist in diesem Fall unmittelbar vor der Aushändigung des Personalausweises und in der Form nach § 17 Absatz 1 Satz 2 durch die antragstellende Person zu bestätigen.
-
 # § 38 – Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. November 2010 in Kraft.
@@ -605,9 +609,10 @@ Diese Verordnung tritt mit Wirkung vom 1. November 2010 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-# Anhang 1 – Muster des Personalausweises
+# Anlage 1 – Muster des Personalausweises
 
-(Fundstelle: BGBl. 2024 I Nr. 125)
+(Fundstelle: BGBl. 2024 I Nr. 125;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Vorderseite
 
@@ -619,27 +624,31 @@ Rückseite
 
  
 
-# Anhang 1a – Muster des Aufklebers zur Anschriftenänderung des Personalausweises
+# Anlage 1a – Muster des Aufklebers zur Anschriftenänderung des Personalausweises
 
-(Fundstelle: BGBl. I 2021, 3691)
+(Fundstelle: BGBl. I 2021, 3691;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j3682-1_0070.jpg)
 
-# Anhang 1b – Muster des Aufklebers zur Anschriftenänderung des Personalausweises nach elektronischer Anmeldung nach § 23a des Bundesmeldegesetzes
+# Anlage 1b – Muster des Aufklebers zur Anschriftenänderung des Personalausweises nach elektronischer Anmeldung nach § 23a des Bundesmeldegesetzes
 
-(Fundstelle: BGBl. I 2021, 3691)
+(Fundstelle: BGBl. I 2021, 3691;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j3682-1_0080.jpg)
 
-# Anhang 1c – Muster des Aufklebers mit Brailleschrift für den Personalausweis und die eID-Karte
+# Anlage 1c – Muster des Aufklebers mit Brailleschrift für den Personalausweis und die eID-Karte
 
-(Fundstelle: BGBl. I 2021, 3692)
+(Fundstelle: BGBl. I 2021, 3692;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j3682-1_0090.jpg)
 
-# Anhang 2 – Muster des vorläufigen Personalausweises
+# Anlage 2 – Muster des vorläufigen Personalausweises
 
-(Fundstelle: BGBl. I 2020, 2754)
+(Fundstelle: BGBl. I 2020, 2754;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Vorderseite
 
@@ -653,9 +662,10 @@ Muster des Aufklebers zur Anschriftenänderung des vorläufigen Personalausweise
 
 ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j2744-1_0060.jpg)
 
-# Anhang 2a – Muster des Ersatz-Personalausweises
+# Anlage 2a – Muster des Ersatz-Personalausweises
 
-(Fundstelle: BGBl. I 2015, 1102)
+(Fundstelle: BGBl. I 2015, 1102;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Vorderseite
 
@@ -665,7 +675,7 @@ Rückseite
 
 ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2015/j1101-1_0020.jpg)
 
-# Anhang 3
+# Anlage 3
 
 (Fundstelle: BGBl. I 2010, 1471 - 1474;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1052,9 +1062,10 @@ Es handelt sich um eine Frontalaufnahme. Bis zum vollendeten 6. Lebensjahr sind 
 </tbody>
 </table>
 
-# Anhang 3a – Muster der eID-Karte
+# Anlage 3a – Muster der eID-Karte
 
-(Fundstelle: BGBl. I 2020, 2200)
+(Fundstelle: BGBl. I 2020, 2200;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Vorderseite
 
@@ -1066,7 +1077,7 @@ Rückseite
 
  
 
-# Anhang 4 – Übersicht über die zu zertifizierenden Systemkomponenten
+# Anlage 4 – Übersicht über die zu zertifizierenden Systemkomponenten
 
 (Fundstelle: BGBl. I 2010, 1476;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

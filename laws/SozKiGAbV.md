@@ -98,3 +98,7 @@ Zur Wahrung des Steuergeheimnisses und zur Sicherstellung von Datenschutz und Da
 # § 5 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2026 in Kraft.
+
+# Schlussformel
+
+Der Bundesrat hat zugestimmt.

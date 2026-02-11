@@ -431,7 +431,219 @@ Die vorstehenden Pflichten gelten sowohl für Produkte, die auf dem Primärmarkt
 
 Die §§ 11 und 12 dieser Verordnung gelten entsprechend für den Verkauf von und die Beratung zu strukturierten Einlagen durch Wertpapierdienstleistungsunternehmen und Kreditinstitute, die strukturierte Einlagen ausgeben.
 
-# § 14 – Inkrafttreten, Außerkrafttreten
+# § 14 – Sachkunde des Mitarbeiters in der Anlageberatung
+
+(1) Mitarbeiter in der Anlageberatung im Sinne des § 87 Absatz 1 des Wertpapierhandelsgesetzes müssen die für die Erbringung der Anlageberatung erforderliche Sachkunde haben. Sie ist kontinuierlich zu wahren und regelmäßig auf den neuesten Stand zu bringen. Das Wertpapierdienstleistungsunternehmen überprüft die Sachkunde jedes Mitarbeiters mindestens einmal jährlich unter Berücksichtigung von Veränderungen der gesetzlichen Anforderungen und seines Angebots an Wertpapierdienstleistungen, Wertpapiernebendienstleistungen, Finanzinstrumenten und strukturierten Einlagen.
+
+(2) Die Sachkunde umfasst insbesondere Kenntnisse in folgenden Sachgebieten und ihre praktische Anwendung:
+
+1. Kundenberatung:
+
+a) Bedarfsermittlung,
+
+b) Lösungsmöglichkeiten,
+
+c) Produkterstellung und -information und
+
+d) Serviceerwartungen des Kunden, Besuchsvorbereitung, Kundenkontakte, Kundengespräch, Kundenbetreuung;
+
+2. rechtliche Grundlagen:
+
+a) Vertragsrecht,
+
+b) Vorschriften des Wertpapierhandelsgesetzes und des Kapitalanlagegesetzbuchs, die bei der Anlageberatung oder der Anbahnung einer Anlageberatung zu beachten sind, und
+
+c) Verwaltungsvorschriften, die von der Bundesanstalt zur Konkretisierung von § 64 Absatz 3 und 4 des Wertpapierhandelsgesetzes erlassen worden sind;
+
+3. fachliche Grundlagen:
+
+a) Funktionsweise des Finanzmarktes einschließlich der Auswirkungen des Finanzmarktes auf den Wert und die Preisbildung von Finanzinstrumenten sowie des Einflusses von wirtschaftlichen Kennzahlen oder von regionalen, nationalen oder globalen Ereignissen auf die Märkte und auf den Wert von Finanzinstrumenten,
+
+b) Merkmale, Risiken und Funktionsweise der Finanzinstrumente einschließlich allgemeiner steuerlicher Auswirkungen für Kunden im Zusammenhang mit den Geschäften, der Bewertung von für die Finanzinstrumente relevanten Daten sowie der spezifischen Marktstrukturen, Handelsplätze und der Existenz von Sekundärmärkten,
+
+c) Wertentwicklung von Finanzinstrumenten einschließlich der Unterschiede zwischen vergangenen und zukünftigen Wertentwicklungsszenarien und die Grenzen vorausschauender Prognosen,
+
+d) Grundzüge der Bewertungsgrundsätze für Finanzinstrumente,
+
+e) Kosten und Gebühren, die für den Kunden im Zusammenhang mit Finanzinstrumenten insgesamt anfallen und die in Bezug auf die Anlageberatung und andere damit zusammenhängende Dienstleistungen entstehen,
+
+f) Grundzüge des Portfoliomanagements einschließlich der Auswirkungen der Diversifikation bezogen auf individuelle Anlagealternativen und
+
+g) Aspekte des Marktmissbrauchs und der Bekämpfung der Geldwäsche.
+
+(3) Die Sachkunde umfasst darüber hinaus die Kenntnis der internen Anweisungen des Wertpapierdienstleistungsunternehmens, die der Einhaltung der in Absatz 2 Nummer 2 Buchstabe b und c genannten Vorschriften dienen.
+
+(4) Die nach Absatz 2 Nummer 3 erforderlichen Kenntnisse müssen sich auf die Arten von Finanzinstrumenten beziehen, die das Wertpapierdienstleistungsunternehmen anbietet oder die Gegenstand der Anlageberatung durch den Mitarbeiter sein können.
+
+(5) Die nach Absatz 2 erforderliche praktische Anwendung bedeutet, dass der Mitarbeiter durch seine vorherige Tätigkeit erfolgreich nachgewiesen hat, dass er in der Lage ist, die Anlageberatung zu erbringen. Der Mitarbeiter muss diese vorherige Tätigkeit mindestens über einen Zeitraum von sechs Monaten, gerechnet auf der Basis von Vollzeitäquivalenten, ausgeübt haben. Die vorherige Tätigkeit kann auch in einer Tätigkeit in der Anlageberatung unter der Aufsicht eines anderen Mitarbeiters bestehen, wenn Intensität und Reichweite der Aufsicht im angemessenen Verhältnis zu den Kenntnissen und praktischen Anwendungen des beaufsichtigten Mitarbeiters stehen und der beaufsichtigende Mitarbeiter
+
+1. mit der Anlageberatung betraut ist,
+
+2. die dafür und für eine Aufsicht notwendige Sachkunde hat,
+
+3. die notwendigen Mittel für eine Aufsicht zur Verfügung hat und
+
+4. die Anlageberatung gegenüber dem Kunden verantwortlich erbringt.
+
+Die Tätigkeit unter Aufsicht nach Satz 3 darf nicht länger als über einen Zeitraum von vier Jahren ausgeübt werden.
+
+(6) Die nach den Absätzen 1 bis 5 erforderliche Sachkunde muss durch Abschluss- oder Arbeitszeugnisse, gegebenenfalls in Verbindung mit Stellenbeschreibungen, durch Schulungs- oder Weiterbildungsnachweise oder in anderer geeigneter Weise nachgewiesen sein.
+
+(7) Die Absätze 1 bis 6 gelten für die Sachkunde von Mitarbeitern von Wertpapierdienstleistungsunternehmen entsprechend, wenn diese Mitarbeiter strukturierte Einlagen an Kunden verkaufen oder Kunden über solche beraten.
+
+# § 15 – Sachkunde des Vertriebsmitarbeiters
+
+(1) Vertriebsmitarbeiter im Sinne des § 87 Absatz 2 des Wertpapierhandelsgesetzes müssen die für ihre Tätigkeit erforderliche Sachkunde haben. Sie ist kontinuierlich zu wahren und regelmäßig auf den neuesten Stand zu bringen. Das Wertpapierdienstleistungsunternehmen überprüft die Sachkunde jedes Mitarbeiters mindestens einmal jährlich unter Berücksichtigung von Veränderungen der gesetzlichen Anforderungen und seines Angebots an Wertpapierdienstleistungen, Wertpapiernebendienstleistungen, Finanzinstrumenten und strukturierten Einlagen.
+
+(2) Die Sachkunde umfasst insbesondere Kenntnisse in folgenden Sachgebieten und ihre praktische Anwendung:
+
+1. rechtliche Grundlagen:
+
+a) Vorschriften des Wertpapierhandelsgesetzes über Merkmale und Umfang von Wertpapierdienstleistungen und Wertpapiernebendienstleistungen und
+
+b) Vorschriften des Wertpapierhandelsgesetzes und des Kapitalanlagegesetzbuchs, die bei der Erteilung von Informationen über Finanzinstrumente, strukturierte Einlagen sowie der Erbringung von Wertpapierdienstleistungen und Wertpapiernebendienstleistungen an Kunden von Wertpapierdienstleistungsunternehmen zu beachten sind;
+
+2. fachliche Grundlagen:
+
+a) Kenntnisse und ihre praktische Anwendung nach § 14 Absatz 2 Nummer 3 Buchstabe a bis d und g, jeweils auch in Bezug auf strukturierte Einlagen, und
+
+b) Kenntnisse über die Summe der Kosten und Gebühren, die für den Kunden im Zusammenhang mit den Geschäften anfallen und die im Zusammenhang mit der Erbringung von Wertpapierdienstleistungen und Wertpapiernebendienstleistungen entstehen.
+
+(3) Die Sachkunde umfasst darüber hinaus die Kenntnis der internen Anweisungen des Wertpapierdienstleistungsunternehmens, die der Einhaltung der in Absatz 2 Nummer 1 genannten Vorschriften dienen.
+
+(4) Die nach Absatz 2 Nummer 2 erforderlichen Kenntnisse müssen sich auf diejenigen Arten von Finanzinstrumenten, strukturierten Einlagen, Wertpapierdienstleistungen und Wertpapiernebendienstleistungen beziehen, die Gegenstand der Erteilung von Informationen durch den Mitarbeiter sein können.
+
+(5) Die nach Absatz 2 erforderliche praktische Anwendung bedeutet, dass der Mitarbeiter durch seine vorherige Tätigkeit erfolgreich nachgewiesen hat, dass er in der Lage ist, Informationen über Finanzinstrumente, strukturierte Einlagen, Wertpapierdienstleistungen und Wertpapiernebendienstleistungen zu erteilen. Der Mitarbeiter muss diese vorherige Tätigkeit mindestens über einen Zeitraum von sechs Monaten, gerechnet auf der Basis von Vollzeitäquivalenten, ausgeübt haben. Die vorherige Tätigkeit kann auch in einer Tätigkeit der Erteilung von Informationen über Finanzinstrumente, strukturierte Einlagen, Wertpapierdienstleistungen und Wertpapiernebendienstleistungen unter der Aufsicht eines anderen Mitarbeiters bestehen, wenn Intensität und Reichweite der Aufsicht im angemessenen Verhältnis zu den Kenntnissen und praktischen Anwendungen des beaufsichtigten Mitarbeiters stehen und der beaufsichtigende Mitarbeiter
+
+1. mit der Erteilung von Informationen über Finanzinstrumente, strukturierte Einlagen, Wertpapierdienstleistungen und Wertpapiernebendienstleistungen betraut ist,
+
+2. die dafür und für eine Aufsicht notwendige Sachkunde hat,
+
+3. die notwendigen Mittel für eine Aufsicht zur Verfügung hat und
+
+4. die Erteilung von Informationen über Finanzinstrumente, strukturierte Einlagen, Wertpapierdienstleistungen und Wertpapiernebendienstleistungen gegenüber dem Kunden verantwortlich erbringt.
+
+Die Tätigkeit unter Aufsicht nach Satz 3 darf nicht länger als über einen Zeitraum von vier Jahren ausgeübt werden.
+
+(6) Die nach den Absätzen 1 bis 5 erforderliche Sachkunde muss durch Abschluss- oder Arbeitszeugnisse, gegebenenfalls in Verbindung mit Stellenbeschreibungen, durch Schulungs- oder Weiterbildungsnachweise oder in anderer geeigneter Weise nachgewiesen sein.
+
+# § 16 – Sachkunde des Mitarbeiters in der Finanzportfolioverwaltung
+
+(1) Mitarbeiter in der Finanzportfolioverwaltung im Sinne des § 87 Absatz 3 des Wertpapierhandelsgesetzes müssen die für ihre Tätigkeit erforderliche Sachkunde haben. Sie ist kontinuierlich zu wahren und regelmäßig auf den neuesten Stand zu bringen. Das Wertpapierdienstleistungsunternehmen überprüft die Sachkunde jedes Mitarbeiters mindestens einmal jährlich unter Berücksichtigung von Veränderungen der gesetzlichen Anforderungen und seines Angebots an Wertpapierdienstleistungen, Wertpapiernebendienstleistungen, Finanzinstrumenten und strukturierten Einlagen.
+
+(2) Die Sachkunde umfasst insbesondere Kenntnisse und ihre praktische Anwendung nach § 14 Absatz 2 Nummer 2 Buchstabe a und, soweit es § 64 Absatz 3 des Wertpapierhandelsgesetzes betrifft, Buchstabe c sowie Nummer 3, jeweils auch in Bezug auf strukturierte Einlagen, mit der Maßgabe, dass auf diejenigen Finanzinstrumente, strukturierten Einlagen und Geschäfte abzustellen ist, die Gegenstand der Finanzportfolioverwaltung des Mitarbeiters sein können.
+
+(3) Die Sachkunde umfasst darüber hinaus insbesondere Kenntnisse in den folgenden Sachgebieten und ihre praktische Anwendung:
+
+1. rechtliche Grundlagen: Vorschriften des Wertpapierhandelsgesetzes und des Kapitalanlagegesetzbuchs, die bei der Finanzportfolioverwaltung oder bei der Anbahnung einer Finanzportfolioverwaltung zu beachten sind;
+
+2. fachliche Grundlagen:
+
+a) Portfoliomanagement und
+
+b) Portfolioanalyse.
+
+(4) Die Sachkunde umfasst darüber hinaus die Kenntnis der internen Anweisungen des Wertpapierdienstleistungsunternehmens, die der Einhaltung der in Absatz 3 Nummer 1 genannten Vorschriften sowie der Verwaltungsvorschriften dienen, die von der Bundesanstalt zur Konkretisierung von § 64 Absatz 3 des Wertpapierhandelsgesetzes erlassen worden sind.
+
+(5) Die nach den Absätzen 2 und 3 erforderliche praktische Anwendung bedeutet, dass der Mitarbeiter durch seine vorherige Tätigkeit erfolgreich nachgewiesen hat, dass er in der Lage ist, die Finanzportfolioverwaltung zu erbringen. Der Mitarbeiter muss diese vorherige Tätigkeit mindestens über einen Zeitraum von sechs Monaten, gerechnet auf der Basis von Vollzeitäquivalenten, ausgeübt haben. Die vorherige Tätigkeit kann auch in einer Tätigkeit in der Finanzportfolioverwaltung unter der Aufsicht eines anderen Mitarbeiters bestehen, wenn Intensität und Reichweite der Aufsicht im angemessenen Verhältnis zu den Kenntnissen und praktischen Anwendungen des beaufsichtigten Mitarbeiters stehen und der beaufsichtigende Mitarbeiter
+
+1. mit der Finanzportfolioverwaltung betraut ist,
+
+2. die dafür und für eine Aufsicht notwendige Sachkunde hat,
+
+3. die notwendigen Mittel für eine Aufsicht zur Verfügung hat und
+
+4. die Finanzportfolioverwaltung gegenüber dem Kunden verantwortlich erbringt.
+
+Die Tätigkeit unter Aufsicht nach Satz 3 darf nicht länger als über einen Zeitraum von vier Jahren ausgeübt werden.
+
+(6) Die nach den Absätzen 1 bis 5 erforderliche Sachkunde muss durch Abschluss- oder Arbeitszeugnisse, gegebenenfalls in Verbindung mit Stellenbeschreibungen, durch Schulungs- oder Weiterbildungsnachweise oder in anderer geeigneter Weise nachgewiesen sein.
+
+# § 17 – Sachkunde des Vertriebsbeauftragten
+
+(1) Vertriebsbeauftragte im Sinne des § 87 Absatz 4 des Wertpapierhandelsgesetzes müssen die für ihre Tätigkeit erforderliche Sachkunde haben. Sie ist kontinuierlich zu wahren und regelmäßig auf den neuesten Stand zu bringen. Das Wertpapierdienstleistungsunternehmen überprüft die Sachkunde jedes Mitarbeiters mindestens einmal jährlich unter Berücksichtigung von Veränderungen der gesetzlichen Anforderungen und seines Angebots an Wertpapierdienstleistungen, Wertpapiernebendienstleistungen, Finanzinstrumenten und strukturierten Einlagen.
+
+(2) Für die Anforderungen an die Sachkunde gilt § 14 Absatz 2, 3 und 5, jeweils auch in Bezug auf strukturierte Einlagen, entsprechend mit der Maßgabe, dass auf diejenigen Wertpapierdienstleistungen, Wertpapiernebendienstleistungen, Finanzinstrumente, strukturierten Einlagen und Geschäfte abzustellen ist, für die der Mitarbeiter Vertriebsvorgaben ausgestaltet, umsetzt oder überwacht.
+
+(3) Die Sachkunde umfasst darüber hinaus insbesondere die Kenntnis der gesetzlichen Anforderungen an Vertriebsvorgaben sowie deren Ausgestaltung, Umsetzung und Überwachung.
+
+(4) Die nach den Absätzen 1 bis 3 erforderliche Sachkunde muss durch Abschluss- oder Arbeitszeugnisse, gegebenenfalls in Verbindung mit Stellenbeschreibungen, durch Schulungs- oder Weiterbildungsnachweise oder in anderer geeigneter Weise nachgewiesen sein.
+
+# § 18 – Sachkunde des Compliance-Beauftragten
+
+(1) Der Compliance-Beauftragte im Sinne des § 87 Absatz 5 des Wertpapierhandelsgesetzes muss die für seine Tätigkeit erforderliche Sachkunde haben. Er hat die erforderliche Sachkunde nach Satz 1 kontinuierlich zu wahren und anhand geeigneter Fortbildungsmaßnahmen regelmäßig auf den neuesten Stand zu bringen. Die Sachkunde umfasst insbesondere Kenntnisse in folgenden Sachgebieten und ihre praktische Anwendung:
+
+1. rechtliche Kenntnisse:
+
+a) Kenntnisse der Rechtsvorschriften, die vom Wertpapierdienstleistungsunternehmen bei der Erbringung von Wertpapierdienstleistungen und Wertpapiernebendienstleistungen einzuhalten sind,
+
+b) Kenntnisse der Verwaltungsvorschriften, die von der Bundesanstalt zur Konkretisierung des Wertpapierhandelsgesetzes erlassen worden sind,
+
+c) Kenntnisse der Anforderungen und Ausgestaltung angemessener Prozesse von Wertpapierdienstleistungsunternehmen zur Verhinderung und zur Aufdeckung von Verstößen gegen aufsichtsrechtliche Bestimmungen,
+
+d) Kenntnisse der Aufgaben und Verantwortlichkeiten und Befugnisse der Compliance-Funktion und des Compliance-Beauftragten,
+
+e) soweit Mitarbeiter des Wertpapierdienstleistungsunternehmens auf Grund ihrer Tätigkeit Kenntnis von Insiderinformationen im Sinne des Artikels 7 der Verordnung (EU) Nr. 596/2014 erlangen können, Kenntnisse der Handelsüberwachung und der Vorschriften des Abschnitts 3 des Wertpapierhandelsgesetzes und
+
+f) soweit von dem Wertpapierdienstleistungsunternehmen Wertpapierdienstleistungen mit Auslandsbezug erbracht werden, Kenntnisse der hierbei zu beachtenden besonderen rechtlichen Anforderungen;
+
+2. fachliche Kenntnisse:
+
+a) Kenntnisse der Grundzüge der Organisation und Zuständigkeiten der Bundesanstalt,
+
+b) Kenntnisse sämtlicher Arten von Wertpapierdienstleistungen und Wertpapiernebendienstleistungen, die durch das Wertpapierdienstleistungsunternehmen erbracht werden, sowie der von ihnen ausgehenden Risiken,
+
+c) Kenntnisse der Funktionsweisen und Risiken der Arten von Finanzinstrumenten, in denen das Wertpapierdienstleistungsunternehmen Wertpapierdienstleistungen oder Wertpapiernebendienstleistungen erbringt,
+
+d) Erkennen möglicher Interessenkonflikte und ihrer Ursachen und
+
+e) Kenntnisse verschiedener Ausgestaltungsmöglichkeiten von Vertriebsvorgaben sowie der Aufbau- und Ablauforganisation des Wertpapierdienstleistungsunternehmens und von Wertpapierdienstleistungsunternehmen im Allgemeinen.
+
+(2) Die nach Absatz 1 erforderliche Sachkunde muss durch Abschluss- oder Arbeitszeugnisse, gegebenenfalls in Verbindung mit Stellenbeschreibungen, durch Schulungs- oder Weiterbildungsnachweise oder in anderer geeigneter Weise nachgewiesen sein.
+
+# § 19 – Berufsqualifikation als Sachkundenachweis
+
+Die erforderliche Sachkunde gilt insbesondere durch die folgenden Berufsqualifikationen und deren Vorläufer- oder Nachfolgeberufe als nachgewiesen:
+
+1. für die Sachkunde im Sinne des § 14 Absatz 2, auch in Verbindung mit § 14 Absatz 7, des § 15 Absatz 2, § 16 Absatz 2 und § 17 Absatz 2 ein Abschlusszeugnis eines wirtschaftswissenschaftlichen Studiengangs der Fachrichtung Banken, Finanzdienstleistungen oder Kapitalmarkt (Hochschul- oder Fachhochschulabschluss oder gleichwertiger Abschluss), wenn darüber hinaus eine fachspezifische Berufspraxis nachgewiesen werden kann, die gewährleistet, dass der Mitarbeiter den an die Sachkunde zu stellenden Anforderungen genügt;
+
+2. für die Sachkunde im Sinne des § 14 Absatz 2, auch in Verbindung mit § 14 Absatz 7, § 16 Absatz 2 und § 17 Absatz 2 über Nummer 1 hinaus:
+
+a) Abschlusszeugnis als Bank- oder Sparkassenbetriebswirt oder -wirtin einer Bank- oder Sparkassenakademie,
+
+b) Abschlusszeugnis als Sparkassenfachwirt oder -wirtin (Sparkassenakademie) oder Bankfachwirt oder -wirtin (Sparkassenakademie),
+
+c) Abschlusszeugnis als Geprüfter Bankfachwirt oder Geprüfte Bankfachwirtin, Fachwirt oder -wirtin für Finanzberatung (IHK), Investment-Fachwirt oder -wirtin (IHK), Fachberater oder -beraterin für Finanzdienstleistungen (IHK) oder als Geprüfter Fachwirt oder Geprüfte Fachwirtin für Versicherungen und Finanzen oder
+
+d) Abschlusszeugnis als Bank- oder Sparkassenkaufmann oder -frau, Investmentfondskaufmann oder -frau oder als Kaufmann oder -frau für Versicherungen und Finanzen Fachrichtung Finanzdienstleistungen,
+
+sofern bei diesen Ausbildungen die in § 14 Absatz 2, auch in Verbindung mit § 14 Absatz 7, genannten Kenntnisse vermittelt werden;
+
+3. über Nummer 1 hinaus für die Sachkunde im Sinne des § 15 Absatz 2 die Abschlusszeugnisse nach Nummer 2 Buchstabe a bis d, sofern bei diesen Ausbildungen die in § 15 Absatz 2 genannten Kenntnisse vermittelt werden;
+
+4. für die Sachkunde im Sinne des § 18 Absatz 1 Satz 2:
+
+a) ein Abschlusszeugnis eines Studiums der Rechtswissenschaft, wenn darüber hinaus eine fachspezifische Berufspraxis nachgewiesen werden kann, die gewährleistet, dass der Mitarbeiter den an die Sachkunde zu stellenden Anforderungen genügt,
+
+b) ein Abschlusszeugnis nach Nummer 1, wenn darüber hinaus eine fachspezifische Berufspraxis nachgewiesen werden kann, die gewährleistet, dass der Mitarbeiter den an die Sachkunde zu stellenden Anforderungen genügt, oder
+
+c) ein Abschlusszeugnis nach Nummer 2 Buchstabe a.
+
+# § 20 – Anerkennung ausländischer Berufsbefähigungsnachweise im Rahmen der Niederlassungsfreiheit
+
+(1) Als Nachweis der erforderlichen Sachkunde nach § 14 Absatz 2, auch in Verbindung mit § 14 Absatz 7, nach § 15 Absatz 2, § 16 Absatz 2, § 17 Absatz 2 oder § 18 Absatz 1 Satz 2 werden auch Befähigungs- und Ausbildungsnachweise anerkannt, die
+
+1. von einer zuständigen Stelle eines anderen Mitgliedstaats der Europäischen Union oder eines anderen Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum ausgestellt oder anerkannt worden sind und
+
+2. in dem Staat, in dem sie ausgestellt wurden, erforderlich sind, um als Mitarbeiter einer Wertpapierfirma im Sinne des Artikels 4 Absatz 1 Nummer 1 der Richtlinie 2014/65/EU mit einer vergleichbaren Tätigkeit betraut zu werden.
+
+(2) Ist die Ausübung der Tätigkeit in dem anderen Mitglied- oder Vertragsstaat nicht durch Rechts- oder Verwaltungsvorschrift an eine bestimmte Berufsqualifikation gebunden, kann die Sachkunde durch jedes andere geeignete Dokument, insbesondere durch Abschluss- oder Arbeitszeugnisse, gegebenenfalls in Verbindung mit Stellenbeschreibungen, nachgewiesen werden.
+
+# § 21 – Zuverlässigkeit
+
+Die erforderliche Zuverlässigkeit nach § 87 Absatz 1 bis 4, jeweils auch in Verbindung mit § 96, oder nach § 87 Absatz 5 des Wertpapierhandelsgesetzes hat in der Regel nicht, wer in den letzten fünf Jahren vor Beginn der Tätigkeit wegen eines Verbrechens oder wegen Diebstahls, Unterschlagung, Erpressung, Betruges, Untreue, Geldwäsche, Urkundenfälschung, Hehlerei, Wuchers, einer Insolvenzstraftat, einer Steuerhinterziehung oder auf Grund des § 119 des Wertpapierhandelsgesetzes oder des § 38 des Wertpapierhandelsgesetzes in der bis zum 2. Januar 2018 geltenden Fassung rechtskräftig verurteilt worden ist.
+
+# § 22 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 3. Januar 2018 in Kraft. Gleichzeitig tritt die Wertpapierdienstleistungs-Verhaltens- und Organisationsverordnung vom 20. Juli 2007 (BGBl. I S. 1432), die zuletzt durch Artikel 16 Absatz 4 des Gesetzes vom 30. Juni 2016 (BGBl. I S. 1514) geändert worden ist, außer Kraft.
 
