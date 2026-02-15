@@ -213,8 +213,7 @@ je Zertifikat und Anzeige</td>
 <td style="text-align: right; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6,80</td>
 </tr>
 <tr class="even">
-<td colspan="3" style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Berücksichtigungs-
-und Anrechnungsentscheidung<br />
+<td colspan="3" style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Berücksichtigungs- und Anrechnungsentscheidung<br />
 
 (§ 38 Absatz 4 ElektroG)</td>
 </tr>
@@ -335,4 +334,5 @@ bis 320,20</td>
 </tbody>
 </table>
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 4.8.2025 I Nr. 187 +++)
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 4.8.2025 I Nr. 187 +++)  
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)

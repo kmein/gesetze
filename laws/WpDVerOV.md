@@ -601,6 +601,8 @@ e) Kenntnisse verschiedener Ausgestaltungsmöglichkeiten von Vertriebsvorgaben s
 
 (2) Die nach Absatz 1 erforderliche Sachkunde muss durch Abschluss- oder Arbeitszeugnisse, gegebenenfalls in Verbindung mit Stellenbeschreibungen, durch Schulungs- oder Weiterbildungsnachweise oder in anderer geeigneter Weise nachgewiesen sein.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 4.2.2026 I Nr. 33 +++)
+
 # § 19 – Berufsqualifikation als Sachkundenachweis
 
 Die erforderliche Sachkunde gilt insbesondere durch die folgenden Berufsqualifikationen und deren Vorläufer- oder Nachfolgeberufe als nachgewiesen:
@@ -638,6 +640,8 @@ c) ein Abschlusszeugnis nach Nummer 2 Buchstabe a.
 2. in dem Staat, in dem sie ausgestellt wurden, erforderlich sind, um als Mitarbeiter einer Wertpapierfirma im Sinne des Artikels 4 Absatz 1 Nummer 1 der Richtlinie 2014/65/EU mit einer vergleichbaren Tätigkeit betraut zu werden.
 
 (2) Ist die Ausübung der Tätigkeit in dem anderen Mitglied- oder Vertragsstaat nicht durch Rechts- oder Verwaltungsvorschrift an eine bestimmte Berufsqualifikation gebunden, kann die Sachkunde durch jedes andere geeignete Dokument, insbesondere durch Abschluss- oder Arbeitszeugnisse, gegebenenfalls in Verbindung mit Stellenbeschreibungen, nachgewiesen werden.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 4.2.2026 I Nr. 33 +++)
 
 # § 21 – Zuverlässigkeit
 

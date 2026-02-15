@@ -1,11 +1,11 @@
-% Verordnung über die Vergabe von öffentlichen Aufträgen im Bereich des Verkehrs, der Trinkwasserversorgung und der Energieversorgung  (Sektorenverordnung - SektVO)
+% Verordnung über die Vergabe von öffentlichen Aufträgen im Bereich des Verkehrs, der Trinkwasserversorgung, der Postdienste und der Energieversorgung
 % Ausfertigungsdatum: 12.04.2016
  
 # Inhaltsübersicht
 
 # § 1 – Anwendungsbereich
 
-(1) Diese Verordnung trifft nähere Bestimmungen über das einzuhaltende Verfahren bei der dem Teil 4 des Gesetzes gegen Wettbewerbsbeschränkungen unterliegenden Vergabe von Aufträgen und die Ausrichtung von Wettbewerben zum Zwecke von Tätigkeiten auf dem Gebiet der Trinkwasser- oder Energieversorgung oder des Verkehrs (Sektorentätigkeiten) durch Sektorenauftraggeber.
+(1) Diese Verordnung trifft nähere Bestimmungen über das einzuhaltende Verfahren bei der dem Teil 4 des Gesetzes gegen Wettbewerbsbeschränkungen unterliegenden Vergabe von Aufträgen und die Ausrichtung von Wettbewerben zum Zwecke von Tätigkeiten auf dem Gebiet der Trinkwasser- oder Energieversorgung, der Postdienste oder des Verkehrs (Sektorentätigkeiten) durch Sektorenauftraggeber.
 
 (2) Diese Verordnung ist nicht anzuwenden auf die Vergabe von verteidigungs- oder sicherheitsspezifischen öffentlichen Aufträgen.
 

@@ -298,7 +298,7 @@
 
 (2) Die in der Anlage 1 Nummer 22 bis 24 genannten Geschäfte fallen nur dann in den Anwendungsbereich dieses Gesetzes, wenn sie von Versicherungsunternehmen betrieben werden, denen die Erlaubnis für eine der in der Anlage 1 Nummer 19 bis 21 genannten Versicherungssparten erteilt wurde; in diesem Fall werden diese Geschäfte Lebensversicherungsgeschäften gleichgestellt. Als Kapitalisierungsgeschäfte (Anlage 1 Nummer 23) gelten Geschäfte, bei denen unter Anwendung eines mathematischen Verfahrens die im Voraus festgesetzten einmaligen oder wiederkehrenden Prämien und die übernommenen Verpflichtungen nach Dauer und Höhe festgelegt sind. Geschäfte nach der Anlage 1 Nummer 24 bestehen in der Verwaltung von Versorgungseinrichtungen, die Leistungen im Todes- oder Erlebensfall oder bei Arbeitseinstellung oder bei Minderung der Erwerbsfähigkeit vorsehen; dazu gehören auch die Anlage und Verwaltung der Vermögenswerte. Bei Geschäften nach Satz 3 dürfen die Versicherungsunternehmen im Zusammenhang mit der Verwaltung auch Garantiezusagen für die Erhaltung des verwalteten Kapitals und das Erreichen einer Mindestverzinsung abgeben.
 
-(3) Für öffentlich-rechtliche Versicherungsunternehmen des öffentlichen Dienstes oder der Kirchen, die ausschließlich die Alters-, Invaliditäts- oder Hinterbliebenenversorgung zum Gegenstand haben, gelten nur § 12 Absatz 1, die §§ 13, 37 Absatz 1, § 38 Absatz 1, die §§ 39, 47 Nummer 12 sowie die §§ 294 bis 298, 300, 302, 305 bis 307, §§ 310 bis 312 und 314. Für die nach Landesrecht errichteten und der Landesaufsicht unterliegenden Versicherungsunternehmen kann das Landesrecht Abweichendes bestimmen.
+(3) Für öffentlich-rechtliche Versicherungsunternehmen des öffentlichen Dienstes oder der Kirchen, die ausschließlich die Alters-, Invaliditäts- oder Hinterbliebenenversorgung zum Gegenstand haben, gelten nur § 12 Absatz 1, die §§ 13, 37 Absatz 1, § 38 Absatz 1, § 39 sowie die §§ 294 bis 298, 300, 302, 305 bis 307, §§ 310 bis 312 und 314. Für die nach Landesrecht errichteten und der Landesaufsicht unterliegenden Versicherungsunternehmen kann das Landesrecht Abweichendes bestimmen.
 
 (4) Für Einrichtungen der in § 140 Absatz 1 des Siebten Buches Sozialgesetzbuch bezeichneten Art gelten § 12 Absatz 1, die §§ 13, 37 Absatz 1, § 38 Absatz 1, § 39 sowie die §§ 294 bis 298, 300, 302, 305 bis 307, 310, 312 und 314 entsprechend. Beschlüsse der Vertreterversammlung über diese Einrichtungen sowie über deren Satzungen und Geschäftspläne bedürfen der Genehmigung der Aufsichtsbehörde; § 8 Absatz 1, § 9 Absatz 1 bis 4 und § 11 gelten hierfür entsprechend.
 
@@ -567,7 +567,7 @@ d) sofern diese Inhaber einem Konzern angehören: die Angabe der Konzernstruktur
 
 3. Angaben zu den Tatsachen, die auf eine enge Verbindung zwischen dem Versicherungsunternehmen und anderen natürlichen Personen oder Unternehmen hinweisen;
 
-4. für Pflichtversicherungen die allgemeinen Versicherungsbedingungen;
+4. (weggefallen)
 
 5. für die Krankenversicherung im Sinne des § 146 Absatz 1
 
@@ -1297,15 +1297,9 @@ Versicherungsunternehmen haben der Aufsichtsbehörde unverzüglich Folgendes anz
 
 8. die Absicht, wichtige Funktionen oder Versicherungstätigkeiten auszugliedern, unter Vorlage des Vertragsentwurfs,
 
-9. nach Vertragsschluss eingetretene wesentliche Umstände in Bezug auf wichtige ausgegliederte Funktionen und Versicherungstätigkeiten,
+9. nach Vertragsschluss eingetretene wesentliche Umstände in Bezug auf wichtige ausgegliederte Funktionen und Versicherungstätigkeiten und
 
-10. die mittelbare oder unmittelbare Absicherung von Schadenrisiken oder sonstigen Risiken, sofern dies durch die Emission von Schuldtiteln oder anderer Finanzierungsmechanismen und unter Beteiligung einer ausschließlich für diese Zwecke bestehenden Gesellschaft erfolgt; dabei sind der Emissionsprospekt, die dem Risikotransfer zugrunde liegenden vertraglichen Regelungen sowie eine Aufstellung der identifizierten Risiken der Transaktion für das Versicherungsunternehmen beizufügen,
-
-11. wenn es sich um ein Erstversicherungsunternehmen handelt, den Erwerb von Beteiligungen, bei Beteiligungen in Aktien oder sonstigen Anteilen jedoch nur, wenn die Beteiligung 10 Prozent des Nennkapitals der fremden Gesellschaft übersteigt; dabei werden Beteiligungen mehrerer zu einem Konzern im Sinne des § 18 des Aktiengesetzes gehörender Versicherungsunternehmen und des herrschenden Unternehmens an einer Gesellschaft zusammengerechnet,
-
-12. wenn es sich um ein Erstversicherungsunternehmen handelt, Anlagen bei einem im Sinne des § 15 des Aktiengesetzes verbundenen Unternehmen und
-
-13. bei Pflichtversicherungen die beabsichtigte Verwendung neuer oder geänderter allgemeiner Versicherungsbedingungen unter deren Beifügung.
+10. die mittelbare oder unmittelbare Absicherung von Schadenrisiken oder sonstigen Risiken, sofern dies durch die Emission von Schuldtiteln oder anderer Finanzierungsmechanismen und unter Beteiligung einer ausschließlich für diese Zwecke bestehenden Gesellschaft erfolgt; dabei sind der Emissionsprospekt, die dem Risikotransfer zugrunde liegenden vertraglichen Regelungen sowie eine Aufstellung der identifizierten Risiken der Transaktion für das Versicherungsunternehmen beizufügen.
 
 # § 48 – Anforderungen an den Versicherungsvertrieb
 
@@ -1564,7 +1558,7 @@ ohne Abzug der Rückversicherung sowie nach Mitgliedstaaten aufgeschlüsselt mit
 
 (3) Die Aufnahme oder Änderung der Tätigkeit des Unternehmens im Dienstleistungsverkehr ist erst zulässig, wenn die Aufsichtsbehörde des Herkunftsstaats der Bundesanstalt die in Artikel 148 Absatz 1 und 2 der Richtlinie 2009/138/EG bezeichneten Angaben übermittelt und das Unternehmen hiervon in Kenntnis gesetzt hat.
 
-(4) Der Betrieb der Krankenversicherung im Sinne des § 146 Absatz 1 sowie von Pflichtversicherungen in den in den Absätzen 2 und 3 bezeichneten Fällen ist erst zulässig, wenn das Unternehmen der Bundesanstalt die allgemeinen Versicherungsbedingungen eingereicht hat.
+(4) Der Betrieb der Krankenversicherung im Sinne des § 146 Absatz 1 in den in den Absätzen 2 und 3 bezeichneten Fällen ist erst zulässig, wenn das Unternehmen der Bundesanstalt die allgemeinen Versicherungsbedingungen eingereicht hat.
 
 (5) Die Bundesanstalt unterrichtet die Aufsichtsbehörden der anderen Mitglied- oder Vertragsstaaten fortlaufend über solche Rechtsvorschriften, die Versicherungsunternehmen mit Sitz in diesen Staaten bei Ausübung einer Geschäftstätigkeit nach Absatz 1 zu beachten haben und deren Befolgung in Wahrnehmung der Aufsicht mit Ausnahme der Finanzaufsicht überwacht wird. Vorschriften, die nicht gemäß Satz 1 bekannt gegeben wurden, teilt die Bundesanstalt innerhalb von zwei Monaten nach Zugang der in Absatz 2 oder 3 bezeichneten Angaben den Aufsichtsbehörden der Herkunftsstaaten mit.
 
@@ -2947,7 +2941,7 @@ Die Ermächtigung kann durch Rechtsverordnung auf die Bundesanstalt übertragen 
 
 # § 162 – Deckungsrückstellung für Haftpflicht- und Unfall-Renten
 
-Für die Berechnung der Deckungsrückstellung von Renten in der Allgemeinen Haftpflichtversicherung, der Kraftfahrzeug-Haftpflichtversicherung, der Kraftfahrt-Unfallversicherung sowie der Allgemeinen Unfallversicherung ohne Rückgewähr der Prämie sind § 141 Absatz 1 bis 3, 5 und 6 sowie § 145 Absatz 4 entsprechend anzuwenden.
+Für die Berechnung der Deckungsrückstellung von Renten in der Allgemeinen Haftpflichtversicherung, der Kraftfahrzeug-Haftpflichtversicherung, der Kraftfahrt-Unfallversicherung sowie der Allgemeinen Unfallversicherung ohne Rückgewähr der Prämie sind § 141 Absatz 1 bis 3, 5 und 6 Nummer 1 sowie § 145 Absatz 4 entsprechend anzuwenden.
 
 # § 163 – Schadenregulierungsbeauftragte in der Kraftfahrzeug-Haftpflichtversicherung
 
@@ -3692,7 +3686,7 @@ Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung Vors
 
 (3) Die Rechte und Pflichten des übertragenden Unternehmens aus den Versicherungsverträgen gehen mit der Bestandsübertragung auch im Verhältnis zu den Versicherungsnehmern auf den Sicherungsfonds über; § 415 des Bürgerlichen Gesetzbuchs ist nicht anzuwenden.
 
-(4) Der Sicherungsfonds verwaltet die übernommenen Verträge, die nach einzelnen übernommenen Versicherungsbeständen getrennt zu führen sind, gesondert von seinem restlichen Vermögen und legt über sie im Rahmen des nach § 227 Absatz 1 aufzustellenden Geschäftsberichts gesondert Rechnung. Er ermittelt unverzüglich den für die vollständige Bedeckung der Verpflichtungen aus den Versicherungsverträgen erforderlichen Betrag und stellt geeignete qualifizierte Vermögensgegenstände bereit. § 15 Absatz 1, § 23 Absatz 1 und 2 bis 6, § 26 Absatz 2, 5 und 6, § 28 Absatz 2 sowie die §§ 30, 32, 47 Nummer 8 bis 11, § 88 Absatz 3, die §§ 124, 138, 139, 141, 142, 143 zweiter Halbsatz, die §§ 146 bis 160 und 336 sowie die auf Grundlage des § 39 Absatz 1 Satz 1 Nummer 1 bis 4, 6 und 7 erlassenen Rechtsverordnungen gelten insoweit entsprechend. § 26 Absatz 1 gilt mit der Maßgabe, dass die Risiken, denen das Unternehmen tatsächlich oder möglicherweise ausgesetzt ist, regelmäßig angemessen zu dokumentieren sind. § 29 Absatz 1 gilt mit der Maßgabe, dass keine Compliance-Funktion vorzuhalten ist. § 140 Absatz 2 und 3 findet auf die von den Sicherungsfonds verwalteten Versicherungsverträge Anwendung, sobald die Aufsichtsbehörde festgestellt hat, dass die Sanierung eines übernommenen Versicherungsbestandes abgeschlossen ist und das dem Sicherungsfonds hierfür zur Verfügung gestellte Kapital an die einzahlenden Versicherungsunternehmen zurückgewährt wurde.
+(4) Der Sicherungsfonds verwaltet die übernommenen Verträge, die nach einzelnen übernommenen Versicherungsbeständen getrennt zu führen sind, gesondert von seinem restlichen Vermögen und legt über sie im Rahmen des nach § 227 Absatz 1 aufzustellenden Geschäftsberichts gesondert Rechnung. Er ermittelt unverzüglich den für die vollständige Bedeckung der Verpflichtungen aus den Versicherungsverträgen erforderlichen Betrag und stellt geeignete qualifizierte Vermögensgegenstände bereit. § 15 Absatz 1, § 23 Absatz 1 und 2 bis 6, § 26 Absatz 2, 5 und 6, § 28 Absatz 2 sowie die §§ 30, 32, 47 Nummer 8 bis 10, § 88 Absatz 3, die §§ 124, 138, 139, 141, 142, 143 zweiter Halbsatz, die §§ 146 bis 160 und 336 sowie die auf Grundlage des § 39 Absatz 1 Satz 1 Nummer 1 bis 4, 6 und 7 erlassenen Rechtsverordnungen gelten insoweit entsprechend. § 26 Absatz 1 gilt mit der Maßgabe, dass die Risiken, denen das Unternehmen tatsächlich oder möglicherweise ausgesetzt ist, regelmäßig angemessen zu dokumentieren sind. § 29 Absatz 1 gilt mit der Maßgabe, dass keine Compliance-Funktion vorzuhalten ist. § 140 Absatz 2 und 3 findet auf die von den Sicherungsfonds verwalteten Versicherungsverträge Anwendung, sobald die Aufsichtsbehörde festgestellt hat, dass die Sanierung eines übernommenen Versicherungsbestandes abgeschlossen ist und das dem Sicherungsfonds hierfür zur Verfügung gestellte Kapital an die einzahlenden Versicherungsunternehmen zurückgewährt wurde.
 
 (5) Ergibt die Prüfung nach Absatz 4, dass das vorhandene Sicherungsvermögen nach § 226 Absatz 3 zusammen mit dem nach § 226 Absatz 5 Satz 5 zu erhebenden Sonderbeitrag oder der nach § 226 Absatz 6 Satz 2 zu erhebende Sonderbeitrag nicht ausreicht, um die Fortführung der Verträge zu gewährleisten, setzt die Aufsichtsbehörde bei Lebensversicherungsverträgen die Verpflichtungen aus den Verträgen um maximal 5 Prozent der vertraglich garantierten Leistungen herab. Die Aufsichtsbehörde kann außerdem Anordnungen treffen, um einen außergewöhnlichen Anstieg der Zahl vorzeitiger Vertragsbeendigungen zu verhindern.
 
@@ -3746,7 +3740,7 @@ Auch ein nach § 8 zugelassenes Unternehmen kann beliehen werden. Durch die Rech
 
 9. § 47 Nummer 1 und 2 mit der Maßgabe, dass sich die Regelung nur auf die in Absatz 1 Satz 2 Nummer 1 genannten Personen sowie auf die Bestellung eines Mitglieds des Aufsichtsrats oder der Person, die die Funktion der internen Revision wahrnimmt, und das Ausscheiden einer dieser Personen bezieht, und
 
-10. § 47 Nummer 5 bis 7 und 12.
+10. § 47 Nummer 5 bis 7.
 
 # § 225 – Aufsicht
 
@@ -5234,7 +5228,7 @@ Haben ein oder mehrere Versicherungsunternehmen eine gemischte Versicherungs-Hol
 
 # § 293 – Aufsicht
 
-(1) Für Versicherungs-Holdinggesellschaften und gemischte Finanzholding-Gesellschaften gelten neben dem Absatz 3 die §§ 4, 16 bis 26, 29, 30, 32, 47 Nummer 1, 2 und 5 bis 7, die §§ 303, 305, 306, 310 und 333 sowie die Vorschriften einer Rechtsverordnung nach § 310a entsprechend; § 299 bleibt unberührt. Für Unternehmen, die auch das Erst- oder Rückversicherungsgeschäft betreiben, gelten neben Absatz 2 nur die Vorschriften über die Beaufsichtigung von Erst- oder Rückversicherungsunternehmen.
+(1) Für Versicherungs-Holdinggesellschaften und gemischte Finanzholding-Gesellschaften gelten neben dem Absatz 3 die §§ 4, 16 bis 26, 29, 30, 32, 47 Nummer 1, 2 und 5 bis 7, die §§ 303, 305, 306, 310 und 333 sowie die Vorschriften einer Rechtsverordnung nach § 310a entsprechend; § 299 bleibt unberührt. Die §§ 17 und 18 sind nicht anzuwenden, sofern zugleich die Absicht des Erwerbs, der Erhöhung, der Aufgabe oder der Verringerung einer bedeutenden Beteiligung an einem Versicherungsunternehmen besteht oder unabsichtlich eine bedeutende Beteiligung an einem Versicherungsunternehmen erworben, erhöht, aufgegeben oder verringert wurde. Für Unternehmen, die auch das Erst- oder Rückversicherungsgeschäft betreiben, gelten neben Absatz 2 nur die Vorschriften über die Beaufsichtigung von Erst- oder Rückversicherungsunternehmen.
 
 (2) In den Fällen des § 287 kann die Aufsichtsbehörde die erforderlichen Maßnahmen auch gegenüber der jeweiligen Versicherungs-Holdinggesellschaft oder gemischten Finanzholding-Gesellschaft anordnen.
 
@@ -5242,9 +5236,7 @@ Haben ein oder mehrere Versicherungsunternehmen eine gemischte Versicherungs-Hol
 
 (4) Für Unternehmen mit Sitz im Inland, deren Haupttätigkeit der Erwerb und das Halten unmittelbarer oder mittelbarer Beteiligungen an Erst- oder Rückversicherungsunternehmen oder Pensionsfonds ist und die nicht bereits der Aufsicht nach diesem Gesetz unterliegen, gelten die Absätze 1 bis 3 entsprechend.
 
-(5) Für Versicherungs-Holdinggesellschaften nach § 7 Nummer 31 und für Unternehmen nach Absatz 4 gelten die Vorgaben der Verordnung (EU) 2022/2554, die Vorgaben der auf Grundlage der Verordnung (EU) 2022/2554 erlassenen Rechtsakte sowie die Bestimmungen dieses Gesetzes, die auf Vorgaben der Verordnung (EU) 2022/2554 verweisen. Anstelle der Artikel 5 bis 15 der Verordnung (EU) 2022/2554 gilt
-
-der vereinfachte Informations- und Kommunikationstechnologien-Risikomanagementrahmen (IKT-Risikomanagementrahmen) nach Artikel 16 der Verordnung (EU) 2022/2554.
+(5) Für Versicherungs-Holdinggesellschaften nach § 7 Nummer 31 und für Unternehmen nach Absatz 4 gelten die Vorgaben der Verordnung (EU) 2022/2554, die Vorgaben der auf Grundlage der Verordnung (EU) 2022/2554 erlassenen Rechtsakte sowie die Bestimmungen dieses Gesetzes, die auf Vorgaben der Verordnung (EU) 2022/2554 verweisen. Anstelle der Artikel 5 bis 15 der Verordnung (EU) 2022/2554 gilt der vereinfachte Informations- und Kommunikationstechnologien-Risikomanagementrahmen (IKT-Risikomanagementrahmen) nach Artikel 16 der Verordnung (EU) 2022/2554.
 
 (+++ § 293 Abs. 1: Zur Anwendung vgl. § 247 Abs. 1, § 248 Abs. 1 Satz 4 u. § 292 Satz 2 +++)
 
@@ -6059,7 +6051,7 @@ e) für Rückversicherungsunternehmen;
 
 1. ohne Erlaubnis nach § 8 Absatz 1, § 65 Absatz 1 Satz 1, § 67 Absatz 1 Satz 1, § 168 Absatz 1 Satz 3 oder § 236 Absatz 4 ein Erst- oder Rückversicherungsgeschäft oder einen Pensionsfonds betreibt oder einen dort genannten Geschäftsbetrieb aufnimmt oder
 
-2. entgegen § 61 Absatz 2 Satz 2 oder Satz 5, Absatz 3 oder Absatz 4 eine dort genannte Geschäftstätigkeit aufnimmt, erweitert oder ändert oder eine Krankenversicherung oder eine Pflichtversicherung betreibt.
+2. entgegen § 61 Absatz 2 Satz 2 oder Satz 5, Absatz 3 oder Absatz 4 eine dort genannte Geschäftstätigkeit aufnimmt, erweitert oder ändert oder eine Krankenversicherung betreibt.
 
 (2) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer
 
@@ -6323,7 +6315,7 @@ eine Information nicht, nicht richtig, nicht vollständig, nicht in der vorgesch
 
 (4l) Zuwiderhandlungen gegen die Verordnung (EU) 2019/1238 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über ein Paneuropäisches Privates Pensionsprodukt (PEPP) (ABl. L 198 vom 25.7.2019, S. 1) durch Personen im Anwendungsbereich dieses Gesetzes können nach § 120a des Wertpapierhandelsgesetzes geahndet werden.
 
-(4m) Zuwiderhandlungen gegen die Verordnung (EU) 2022/2554 des Europäischen Parlaments und des Rates vom 14. Dezember 2022 über die digitale operationale Resilienz im Finanzsektor und zur Änderung der Verordnungen (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014, (EU) Nr. 909/2014 und (EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1) durch Personen im Anwendungsbereich dieses Gesetzes können nach § 56 Absatz 5e und 6 Nummer 1 und 3 des Kreditwesengesetzes geahndet werden.
+(4m) Zuwiderhandlungen gegen die Verordnung (EU) 2022/2554 des Europäischen Parlaments und des Rates vom 14. Dezember 2022 über die digitale operationale Resilienz im Finanzsektor und zur Änderung der Verordnungen (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014, (EU) Nr. 909/2014 und (EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1) durch Personen im Anwendungsbereich dieses Gesetzes können nach § 56 Absatz 5e und 6 Nummer 1 und 2 des Kreditwesengesetzes geahndet werden.
 
 (5) Die Ordnungswidrigkeit kann in den Fällen der Absätze 4e und 4h bis 4k mit einer Geldbuße bis zu fünf Millionen Euro, in den Fällen des Absatzes 4d mit einer Geldbuße bis zu siebenhunderttausend Euro, in den Fällen des Absatzes 1 Nummer 2 Buchstabe b, des Absatzes 2 Nummer 3, des Absatzes 3 Nummer 3, 3a, 3b und 3c, der Absätze 4a und 4b sowie 4g mit einer Geldbuße bis zu fünfhunderttausend Euro, in den Fällen des Absatzes 2 Nummer 2, des Absatzes 3 Nummer 2 Buchstabe a, der Absätze 4 und 4f mit einer Geldbuße bis zu zweihunderttausend Euro, in den Fällen des Absatzes 3 Nummer 7 mit einer Geldbuße bis zu hunderttausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden. In den Fällen des Absatzes 3 Nummer 3 kann gegenüber einer juristischen Person oder Personenvereinigung über Satz 1 hinaus eine höhere Geldbuße von bis zu fünf Millionen Euro verhängt werden.
 

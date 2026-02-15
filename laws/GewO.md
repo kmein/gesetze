@@ -2722,7 +2722,7 @@ Von der Eintragung sind Entscheidungen und Verzichte ausgenommen, die nach § 28
 
 (4) Die Übersendung der Auskunft an eine andere Person als die betroffene Person ist nicht zulässig.
 
-(5) Für die Vorbereitung der Entscheidung über einen Antrag auf Zulassung zu einem Gewerbe oder einer sonstigen wirtschaftlichen Unternehmung, auf öffentliche Bestellung und Vereidigung nach § 36, auf Erteilung eines Befähigungsscheins nach § 20 des Sprengstoffgesetzes oder zur Überprüfung der Zuverlässigkeit nach § 38 Abs. 1 kann die Auskunft auch zur Vorlage bei einer Behörde beantragt werden. Wird die Auskunft zur Vorlage bei einer Behörde beantragt, ist sie der Behörde unmittelbar zu übersenden.
+(5) Für die Vorbereitung der Entscheidung über einen Antrag auf Zulassung zu einem Gewerbe oder einer sonstigen wirtschaftlichen Unternehmung, auf öffentliche Bestellung und Vereidigung nach § 36, auf Erteilung eines Befähigungsscheins nach § 20 des Sprengstoffgesetzes oder zur Überprüfung der Zuverlässigkeit nach § 38 Abs. 1 kann die Auskunft auch zur Vorlage bei einer Behörde beantragt werden. Dies gilt auch für Zwecke einer Zuverlässigkeitsüberprüfung durch die Bundesanstalt für Finanzdienstleistungsaufsicht. Wird die Auskunft zur Vorlage bei einer Behörde beantragt, ist sie der Behörde unmittelbar zu übersenden.
 
 # § 150a – Auskunft an Behörden oder öffentliche Auftraggeber
 

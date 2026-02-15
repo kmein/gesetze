@@ -91,6 +91,8 @@ b) Anteile oder Aktien an einem AIF vertreibt.
 
 6. Eine bedeutende Beteiligung besteht, wenn unmittelbar oder mittelbar oder im Zusammenwirken mit anderen Personen oder Unternehmen mindestens 10 Prozent des Kapitals oder der Stimmrechte einer Verwaltungsgesellschaft im Eigen- oder Fremdinteresse gehalten werden oder wenn auf die Geschäftsführung einer Verwaltungsgesellschaft ein maßgeblicher Einfluss ausgeübt werden kann. Für die Berechnung des Anteils der Stimmrechte gelten § 34 Absatz 1 und 2, § 35 Absatz 1 und 2 in Verbindung mit der Rechtsverordnung nach Absatz 6 und § 36 des Wertpapierhandelsgesetzes entsprechend. Die mittelbar gehaltenen Beteiligungen sind den mittelbar beteiligten Personen und Unternehmen in vollem Umfang zuzurechnen.
 
+6a. Die Bewirtschaftung von erneuerbaren Energien im Sinne dieses Gesetzes umfasst die Erzeugung, die Umwandlung, den Transport oder die Speicherung von erneuerbaren Energien nach § 3 Nummer 21 des Erneuerbare-Energien-Gesetzes vom 21. Juli 2014 (BGBl. I S. 1066), das zuletzt durch Artikel 23 des Gesetzes vom 18. Dezember 2025 (BGBl. 2025 I Nr. 347) geändert worden ist, in der jeweils geltenden Fassung, oder Wärme aus erneuerbaren Energien nach § 3 Absatz 1 Nummer 15 des Wärmeplanungsgesetzes vom 20. Dezember 2023 (BGBl. 2023 I Nr. 394), das zuletzt durch Artikel 9 des Gesetzes vom 22. Dezember 2025 (BGBl. 2025 I Nr. 348) geändert worden ist, in der jeweils geltenden Fassung, sowie den Transport oder die Speicherung von technisch unvermeidbarer Abwärme nach § 3 Nummer 27 des Energieeffizienzgesetzes vom 13. November 2023 (BGBl. 2023 I Nr. 209), in der jeweils geltenden Fassung.
+
 7. Carried interest ist der Anteil an den Gewinnen des AIF, den eine AIF-Verwaltungsgesellschaft als Vergütung für die Verwaltung des AIF erhält; der carried interest umfasst nicht den Anteil der AIF-Verwaltungsgesellschaft an den Gewinnen des AIF, den die AIF-Verwaltungsgesellschaft als Gewinn für Anlagen der AIF-Verwaltungsgesellschaft in den AIF bezieht.
 
 8. Dauerhafter Datenträger ist jedes Medium, das den Anlegern gestattet, Informationen für eine den Zwecken der Informationen angemessene Dauer zu speichern, einzusehen und unverändert wiederzugeben.
@@ -145,7 +147,7 @@ b) im Fall einer ausländischen AIF-Verwaltungsgesellschaft der Referenzmitglied
 
 21. Immobilien sind Grundstücke, grundstücksgleiche Rechte und vergleichbare Rechte nach dem Recht anderer Staaten. Als grundstücksgleiche Rechte im Sinne von Satz 1 gelten auch Nießbrauchrechte im Sinne des § 231 Absatz 1 Satz 1 Nummer 6.
 
-22. Immobilien-Gesellschaften sind Gesellschaften, die nach dem Gesellschaftsvertrag oder der Satzung nur Immobilien sowie die zur Bewirtschaftung der Immobilien erforderlichen Gegenstände erwerben dürfen.
+22. Immobilien-Gesellschaften sind Gesellschaften, die nach dem Gesellschaftsvertrag oder der Satzung nur Immobilien sowie die in § 231 Absatz 3 genannten Gegenstände erwerben dürfen.
 
 23. Immobilien-Sondervermögen sind Sondervermögen, die nach den Anlagebedingungen das bei ihnen eingelegte Geld in Immobilien anlegen.
 
@@ -5416,7 +5418,9 @@ c) die Aufwendungen für die Grundstücke insgesamt 20 Prozent des Wertes des So
 
 6. Nießbrauchrechte an Mietwohngrundstücken, Geschäftsgrundstücken und gemischt genutzten Grundstücken, die der Erfüllung öffentlicher Aufgaben dienen, wenn zur Zeit der Bestellung die Aufwendungen für das Nießbrauchrecht zusammen mit dem Wert der Nießbrauchrechte, die sich bereits im Sondervermögen befinden, 10 Prozent des Wertes des Sondervermögens nicht übersteigen;
 
-7. die in den §§ 234 und 253 genannten Vermögensgegenstände.
+7. die in den §§ 234 und 253 genannten Vermögensgegenstände;
+
+8. Beteiligungen an Infrastruktur-Projektgesellschaften, deren Unternehmensgegenstand im Gesellschaftsvertrag oder in der Satzung darauf beschränkt ist, Anlagen zu errichten, zu erwerben, zu betreiben, zu bewirtschaften oder zu halten, die zur Bewirtschaftung von erneuerbaren Energien im Sinne von § 1 Absatz 19 Nummer 6a bestimmt und geeignet sind, wenn zur Zeit des Erwerbs der Beteiligung ihr Wert zusammen mit dem Wert weiterer solcher Beteiligungen, die sich bereits in dem Sondervermögen befinden, 15 Prozent des Wertes des Sondervermögens nicht übersteigt.
 
 Weitere Voraussetzung für den Erwerb der in den Nummern 5 und 6 genannten Vermögensgegenstände ist, dass deren Erwerb in den Anlagebedingungen vorgesehen sein muss und dass die Vermögensgegenstände einen dauernden Ertrag erwarten lassen müssen.
 
@@ -5438,11 +5442,19 @@ bewertet wurde,
 
 § 250 Absatz 2 gilt entsprechend. Entsprechendes gilt für Vereinbarungen über die Bemessung des Erbbauzinses und über dessen etwaige spätere Änderung.
 
-(3) Für ein Immobilien-Sondervermögen dürfen auch Gegenstände erworben werden, die zur Bewirtschaftung der Vermögensgegenstände des Immobilien-Sondervermögens erforderlich sind.
+(3) Für ein Immobilien-Sondervermögen dürfen auch Gegenstände erworben werden, die
 
-(4) Bei der Berechnung des Wertes des Sondervermögens gemäß Absatz 1 Satz 1 Nummer 2, 3, 5 und 6, § 232 Absatz 4 sowie bei der Angabe des Anteils des Sondervermögens gemäß § 233 Absatz 1 Nummer 3 werden die aufgenommenen Darlehen nicht abgezogen.
+1. zur Bewirtschaftung der Vermögensgegenstände des Immobilien-Sondervermögens erforderlich sind,
+
+2. der Bewirtschaftung von erneuerbaren Energien im Sinne von § 1 Absatz 19 Nummer 6a dienen, oder
+
+3. für den Betrieb von Ladestationen für Elektromobilität erforderlich sind.
+
+(4) Bei der Berechnung des Wertes des Sondervermögens gemäß Absatz 1 Satz 1 Nummer 2, 3, 5, 6 und 8, § 232 Absatz 4 sowie bei der Angabe des Anteils des Sondervermögens gemäß § 233 Absatz 1 Nummer 3 werden die aufgenommenen Darlehen nicht abgezogen.
 
 (5) Im Fall des § 234 sind die von der Immobilien-Gesellschaft gehaltenen Vermögensgegenstände bei dem Immobilien-Sondervermögen bei der Anwendung der in den Absätzen 1 und 2, §§ 232 und 233 genannten Anlagebeschränkungen und der Berechnung der dort genannten Grenzen entsprechend der Beteiligungshöhe zu berücksichtigen.
+
+(6) Gegenstände nach Absatz 3 dürfen auch von der Kapitalverwaltungsgesellschaft für das Immobilien-Sondervermögen betrieben werden.
 
 (+++ § 231: Zur Anwendung vgl. § 260a +++)
 
@@ -6004,7 +6016,7 @@ Auf die Verwaltung von Infrastruktur-Sondervermögen nach Maßgabe der §§ 260b
 
 3. Luftfahrzeuge, Luftfahrzeugbestand- und -ersatzteile,
 
-4. Anlagen zur Erzeugung, zum Transport und zur Speicherung von Strom, Gas oder Wärme aus erneuerbaren Energien,
+4. Anlagen zur Bewirtschaftung von erneuerbaren Energien im Sinne von § 1 Absatz 19 Nummer 6a,
 
 5. Schienenfahrzeuge, Schienenfahrzeugbestand- und -ersatzteile,
 
@@ -6536,7 +6548,7 @@ e) Immobilien,
 
 f) Beteiligungen an Immobilien-Gesellschaften,
 
-g) Anteile oder Aktien an inländischen offenen Investmentvermögen sowie an entsprechenden offenen EU- oder ausländischen Investmentvermögen,
+g) Anteile oder Aktien an Investmentvermögen,
 
 h) Beteiligungen an ÖPP-Projektgesellschaften und Infrastruktur-Projektgesellschaften, wenn der Verkehrswert dieser Beteiligungen ermittelt werden kann,
 
@@ -8558,7 +8570,7 @@ ein Basisinformationsblatt nicht, nicht richtig, nicht vollständig, nicht recht
 
 3. als für die Verwendung einer Marketing-Anzeige im Sinne von Artikel 4 verantwortliche Person nicht sicherstellt, dass die in Artikel 4 Absatz 3 genannten Angaben enthalten sind.
 
-(6h) Zuwiderhandlungen gegen die Verordnung (EU) 2022/2554 des Europäischen Parlaments und des Rates vom 14. Dezember 2022 über die digitale operationale Resilienz im Finanzsektor und zur Änderung der Verordnung (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014, (EU) Nr. 909/2014 und (EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1) durch Personen im Anwendungsbereich dieses Gesetzes können nach § 56 Absatz 5e und 6 Nummer 1 und 3 des Kreditwesengesetzes geahndet werden.
+(6h) Zuwiderhandlungen gegen die Verordnung (EU) 2022/2554 des Europäischen Parlaments und des Rates vom 14. Dezember 2022 über die digitale operationale Resilienz im Finanzsektor und zur Änderung der Verordnungen (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014, (EU) Nr. 909/2014 und (EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1) durch Personen im Anwendungsbereich dieses Gesetzes können nach § 56 Absatz 5e und 6 Nummer 1 und 2 des Kreditwesengesetzes geahndet werden.
 
 (7) Die Ordnungswidrigkeit kann wie folgt geahndet werden:
 

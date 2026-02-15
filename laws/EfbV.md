@@ -573,7 +573,8 @@ Die bezeichneten DIN-Normen können bei der Beuth Verlag GmbH, Berlin bezogen we
 
 # Anlage 1 – (zu § 9 Absatz 1 Satz 2 Nummer 3 und Absatz 3 Satz 2,§ 19 Absatz 2 Nummer 2 Buchstabe b Halbsatz 2 sowie § 31 Absatz 1 und 2)Lehrgangsinhalte
 
-(Fundstelle: BGBl. I 2016, 2782 - 2783)
+(Fundstelle: BGBl. I 2016, 2782 - 2783;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Die Lehrgänge sollen Kenntnisse insbesondere über folgende Bereiche vermitteln:
 
@@ -668,6 +669,8 @@ f) Seuchen- und Hygienerecht,
 15. die betrieblichen Risiken und die einschlägigen Versicherungen sowie
 
 16. die Bezüge zum Güterkraftverkehrs- und Gefahrgutrecht.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
 
 # Anlage 2 – (zu § 23 Satz 2)Mindestinhalt von Überwachungsberichten
 

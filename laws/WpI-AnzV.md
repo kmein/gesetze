@@ -139,9 +139,7 @@ Mit Einreichung der nach den §§ 5 und 6 der Anzeige beizufügenden Unterlagen 
 
 # § 9 – Auszug aus dem Gewerbezentralregister der nach Artikel 4 Buchstabe a der Delegierten Verordnung (EU) 2017/1943, Artikel 5 der Durchführungsverordnung (EU) 2017/1945, § 64 Absatz 1 Nummer 1, § 65 Absatz 1 Nummer 1, § 67 Absatz 2 Satz 1 Nummer 1 oder Nummer 4 des Wertpapierinstitutsgesetzes anzuzeigenden Personen
 
-(1) Die in den Anzeigen nach Artikel 4 Buchstabe a der Delegierten Verordnung (EU) 2017/1943, Artikel 5 der Durchführungsverordnung (EU) 2017/1945, § 64 Absatz 1 Nummer 1, § 65 Absatz 1 Nummer 1, § 67 Absatz 2 Satz 1 Nummer 1 oder Nummer 4 des Wertpapierinstitutsgesetzes genannten Personen haben bei der Bundesanstalt einen Auszug aus dem Gewerbezentralregister nach § 150 der Gewerbeordnung einzureichen. Satz 1 gilt nicht, wenn die Person innerhalb der letzten zehn Jahre keinen Wohnsitz in Deutschland hatte oder hat oder keine berufliche Tätigkeit in Deutschland ausübt oder ausgeübt hat.
-
-(2) Der Registerauszug darf zum Zeitpunkt der Erstattung der in Absatz 1 genannten Anzeige nicht älter als drei Monate sein. Maßgeblich ist das Datum der Ausstellung des Registerauszuges.
+Die in den Anzeigen nach Artikel 4 Buchstabe a der Delegierten Verordnung (EU) 2017/1943, Artikel 5 der Durchführungsverordnung (EU) 2017/1945, § 64 Absatz 1 Nummer 1, § 65 Absatz 1 Nummer 1, § 67 Absatz 2 Satz 1 Nummer 1 oder Nummer 4 des Wertpapierinstitutsgesetzes genannten Personen haben beim Bundesamt für Justiz einen Auszug aus dem Gewerbezentralregister nach § 150 Absatz 5 der Gewerbeordnung zur Vorlage bei der Bundesanstalt zu beantragen. Satz 1 gilt nicht, wenn die Person weder in den letzten zehn Jahren in der Bundesrepublik Deutschland einen Wohnsitz hatte noch in den letzten zehn Jahren in der Bundesrepublik Deutschland eine berufliche Tätigkeit ausgeübt hat. Sofern der Bundesanstalt bereits ein Auszug aus dem Gewerbezentralregister nach § 150 Absatz 5 der Gewerbeordnung vorliegt, dessen Beantragung nicht mehr als zwölf Monate zurückliegt, ist keine erneute Beantragung beim Bundesamt für Justiz erforderlich.
 
 # § 10 – Ersatzperson im Verhinderungsfall
 

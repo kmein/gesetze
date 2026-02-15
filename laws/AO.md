@@ -2358,59 +2358,7 @@ Soweit die zwischenstaatliche Rechts- und Amtshilfe Steuern betrifft, die von de
 
 (6) § 2a Absatz 5 Nummer 2 gilt nicht, soweit seine Anwendung der Inanspruchnahme oder der Leistung der zwischenstaatlichen Amtshilfe entgegensteht; die Pflicht zur Wahrung des Steuergeheimnisses bleibt unberührt.
 
-# § 117a – Übermittlung personenbezogener Daten an Mitgliedstaaten der Europäischen Union
-
-(1) Auf ein Ersuchen einer für die Verhütung und Verfolgung von Straftaten zuständigen öffentlichen Stelle eines Mitgliedstaates der Europäischen Union können die mit der Steuerfahndung betrauten Dienststellen der Finanzbehörden personenbezogene Daten, die in Zusammenhang mit dem in § 208 bestimmten Aufgabenbereich stehen, zum Zweck der Verhütung von Straftaten übermitteln. Für die Übermittlung dieser Daten gelten die Vorschriften über die Datenübermittlung im innerstaatlichen Bereich entsprechend.
-
-(2) Die Übermittlung personenbezogener Daten nach Absatz 1 ist nur zulässig, wenn das Ersuchen mindestens folgende Angaben enthält:
-
-1. die Bezeichnung und die Anschrift der ersuchenden Behörde,
-
-2. die Bezeichnung der Straftat, zu deren Verhütung die Daten benötigt werden,
-
-3. die Beschreibung des Sachverhalts, der dem Ersuchen zugrunde liegt,
-
-4. die Benennung des Zwecks, zu dem die Daten erbeten werden,
-
-5. den Zusammenhang zwischen dem Zweck, zu dem die Informationen oder Erkenntnisse erbeten werden, und der Person, auf die sich diese Informationen beziehen,
-
-6. Einzelheiten zur Identität der betroffenen Person, sofern sich das Ersuchen auf eine bekannte Person bezieht, und
-
-7. Gründe für die Annahme, dass sachdienliche Informationen und Erkenntnisse im Inland vorliegen.
-
-(3) Die mit der Steuerfahndung betrauten Dienststellen der Finanzbehörden können auch ohne Ersuchen personenbezogene Daten im Sinne von Absatz 1 an eine für die Verhütung und Verfolgung von Straftaten zuständige öffentliche Stelle eines Mitgliedstaates der Europäischen Union übermitteln, wenn im Einzelfall die Gefahr der Begehung einer Straftat im Sinne des Artikels 2 Absatz 2 des Rahmenbeschlusses 2002/584/JI des Rates vom 13. Juni 2002 über den Europäischen Haftbefehl und die Übergabeverfahren zwischen den Mitgliedstaaten (ABl. L 190 vom 18.7.2002, S. 1), der zuletzt durch den Rahmenbeschluss 2009/299/JI (ABl. L 81 vom 27.3.2009, S. 24) geändert worden ist, besteht und konkrete Anhaltspunkte dafür vorliegen, dass die Übermittlung dieser personenbezogenen Daten dazu beitragen könnte, eine solche Straftat zu verhindern.
-
-(4) Für die Übermittlung der Daten nach Absatz 3 gelten die Vorschriften über die Datenübermittlung im innerstaatlichen Bereich entsprechend. Die Datenübermittlung unterbleibt, soweit, auch unter Berücksichtigung des besonderen öffentlichen Interesses an der Datenübermittlung, im Einzelfall schutzwürdige Interessen der betroffenen Person überwiegen. Zu den schutzwürdigen Interessen gehört auch das Vorhandensein eines angemessenen Datenschutzniveaus im Empfängerstaat. Die schutzwürdigen Interessen der betroffenen Personen können auch dadurch gewahrt werden, dass der Empfängerstaat oder die empfangende zwischen- oder überstaatliche Stelle im Einzelfall einen Schutz der übermittelten Daten garantiert.
-
-(5) Die Datenübermittlung nach den Absätzen 1 und 3 unterbleibt, wenn
-
-1. hierdurch wesentliche Sicherheitsinteressen des Bundes oder der Länder beeinträchtigt würden,
-
-2. die Übermittlung der Daten zu den in Artikel 6 des Vertrages über die Europäische Union enthaltenen Grundsätzen in Widerspruch stünde,
-
-3. die zu übermittelnden Daten bei der ersuchten Behörde nicht vorhanden sind und nur durch das Ergreifen von Zwangsmaßnahmen erlangt werden können oder
-
-4. die Übermittlung der Daten unverhältnismäßig wäre oder die Daten für die Zwecke, für die sie übermittelt werden sollen, nicht erforderlich sind.
-
-(6) Die Datenübermittlung nach den Absätzen 1 und 3 kann unterbleiben, wenn
-
-1. die zu übermittelnden Daten bei den mit der Steuerfahndung betrauten Dienststellen der Finanzbehörden nicht vorhanden sind, jedoch ohne das Ergreifen von Zwangsmaßnahmen erlangt werden können,
-
-2. hierdurch der Erfolg laufender Ermittlungen oder Leib, Leben oder Freiheit einer Person gefährdet würde oder
-
-3. die Tat, zu deren Verhütung die Daten übermittelt werden sollen, nach deutschem Recht mit einer Freiheitsstrafe von im Höchstmaß einem Jahr oder weniger bedroht ist.
-
-(7) Als für die Verhütung und Verfolgung von Straftaten zuständige öffentliche Stelle eines Mitgliedstaates der Europäischen Union im Sinne der Absätze 1 und 3 gilt jede Stelle, die von diesem Staat gemäß Artikel 2 Buchstabe a des Rahmenbeschlusses 2006/960/JI des Rates vom 18. Dezember 2006 über die Vereinfachung des Austauschs von Informationen und Erkenntnissen zwischen den Strafverfolgungsbehörden der Mitgliedstaaten der Europäischen Union (ABl. L 386 vom 29.12.2006, S. 89, L 75 vom 15.3.2007, S. 26) benannt wurde.
-
-(8) Die Absätze 1 bis 7 sind auch anzuwenden auf die Übermittlung von personenbezogenen Daten an für die Verhütung und Verfolgung von Straftaten zuständige öffentliche Stellen eines Schengen-assoziierten Staates im Sinne von § 91 Absatz 3 des Gesetzes über die internationale Rechtshilfe in Strafsachen.
-
-# § 117b – Verwendung von den nach dem Rahmenbeschluss 2006/960/JI des Rates übermittelten Daten
-
-(1) Daten, die nach dem Rahmenbeschluss 2006/960/JI an die mit der Steuerfahndung betrauten Dienststellen der Finanzbehörden übermittelt worden sind, dürfen nur für die Zwecke, für die sie übermittelt wurden, oder zur Abwehr einer gegenwärtigen und erheblichen Gefahr für die öffentliche Sicherheit verwendet werden. Für einen anderen Zweck oder als Beweismittel in einem gerichtlichen Verfahren dürfen sie nur verwendet werden, wenn der übermittelnde Staat zugestimmt hat. Von dem übermittelnden Staat für die Verwendung der Daten gestellte Bedingungen sind zu beachten.
-
-(2) Die mit der Steuerfahndung betrauten Dienststellen der Finanzbehörden erteilen dem übermittelnden Staat auf dessen Ersuchen zu Zwecken der Datenschutzkontrolle Auskunft darüber, wie die übermittelten Daten verwendet wurden.
-
-# § 117c – Umsetzung innerstaatlich anwendbarer völkerrechtlicher Vereinbarungen zur Förderung der Steuerehrlichkeit bei internationalen Sachverhalten
+# § 117a – Umsetzung innerstaatlich anwendbarer völkerrechtlicher Vereinbarungen zur Förderung der Steuerehrlichkeit bei internationalen Sachverhalten; Verordnungsermächtigung
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, zur Erfüllung der Verpflichtungen aus innerstaatlich anwendbaren völkerrechtlichen Vereinbarungen, die der Förderung der Steuerehrlichkeit durch systematische Erhebung und Übermittlung steuerlich relevanter Daten dienen, durch Rechtsverordnungen mit Zustimmung des Bundesrates Regelungen zu treffen über
 
@@ -2418,11 +2366,9 @@ Soweit die zwischenstaatliche Rechts- und Amtshilfe Steuern betrifft, die von de
 
 2. die Übermittlung dieser Daten nach amtlich vorgeschriebenem Datensatz im Wege der Datenfernübertragung an das Bundeszentralamt für Steuern,
 
-3. die Weiterleitung dieser Daten an die zuständige Behörde des anderen Vertragsstaates,
+3. die Weiterleitung dieser Daten an die zuständige Behörde des anderen Vertragsstaates sowie
 
-4. die Entgegennahme entsprechender Daten von dem anderen Vertragsstaat und deren Weiterleitung nach Maßgabe des § 88 Absatz 3 und 4 an die zuständige Landesfinanzbehörde sowie
-
-5. die Ahndung von vorsätzlichen und leichtfertigen Verstößen durch die in diesen Vereinbarungen dem Grunde nach bestimmten Dritten gegen Pflichten zur Erhebung und zur Meldung von Daten im Sinne der Nummern 1 und 2 als Ordnungswidrigkeiten und die Bestimmung eines Bußgeldes für solche Verstöße bis zu 50 000 Euro; hierfür ist das Bundeszentralamt für Steuern Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten.
+4. die Entgegennahme entsprechender Daten von dem anderen Vertragsstaat und deren Weiterleitung nach Maßgabe des § 88 Absatz 3 und 4 an die zuständige Landesfinanzbehörde.
 
 In einer Rechtsverordnung nach Satz 1 kann dem Bundeszentralamt für Steuern das Recht eingeräumt werden, die Daten und Meldungen nach § 9 Absatz 1 und 2 der FATCA-USA-Umsetzungsverordnung zur Erfüllung der dem Bundeszentralamt für Steuern gesetzlich übertragenen Aufgaben auszuwerten. Auswertungen der Meldungen nach § 9 Absatz 2 der FATCA-USA-Umsetzungsverordnung durch die jeweils zuständige Landesfinanzbehörde bleiben hiervon unberührt.
 
@@ -2430,35 +2376,161 @@ In einer Rechtsverordnung nach Satz 1 kann dem Bundeszentralamt für Steuern das
 
 (3) Das Bundeszentralamt für Steuern ist berechtigt, Verhältnisse, die für die Erfüllung der Pflichten zur Erhebung und Übermittlung von Daten nach einer auf Grund des Absatzes 1 erlassenen Rechtsverordnung von Bedeutung sind oder der Aufklärung bedürfen, bei den zur Erhebung dieser Daten und deren Übermittlung an das Bundeszentralamt für Steuern Verpflichteten zu prüfen. Die §§ 193 bis 203 gelten sinngemäß.
 
-(4) Die auf Grund einer Rechtsverordnung nach Absatz 1 oder im Rahmen einer Prüfung nach Absatz 3 vom Bundeszentralamt für Steuern erhobenen Daten dürfen nur für die in den zugrunde liegenden völkerrechtlichen Vereinbarungen festgelegten Zwecke verwendet werden. Bei der Übermittlung der länderbezogenen Berichte durch das Bundeszentralamt für Steuern gemäß § 138a Absatz 7 Satz 1 bis 3 findet keine Anhörung der Beteiligten statt.
+(4) Die auf Grund einer Rechtsverordnung nach Absatz 1 oder im Rahmen einer Prüfung nach Absatz 3 vom Bundeszentralamt für Steuern erhobenen Daten dürfen nur für die in den zugrunde liegenden völkerrechtlichen Vereinbarungen festgelegten Zwecke verwendet werden. Bei der Übermittlung der länderbezogenen Berichte durch das Bundeszentralamt für Steuern gemäß § 138a Absatz 7 Satz 1 bis 3 findet keine Anhörung der Beteiligten statt.
 
-(+++ § 109: Zur Anwendung vgl. Art. 97 § 1 AOEG 1977 +++)
-
-# § 117d – Statistiken über die zwischenstaatliche Amts- und Rechtshilfe
-
-Informationen, die im Zuge der zwischenstaatlichen Amts- und Rechtshilfe verarbeitet werden, dürfen statistisch pseudonymisiert oder anonymisiert aufbereitet werden. Diese statistischen Daten dürfen öffentlich zugänglich gemacht werden.
-
-(+++ § 117d: Zur Anwendung vgl. Art. 97 § 1 AOEG 1977 +++)
-
-# § 117e – Besondere Formen der Amtshilfe mit Drittstaaten
+# § 117b – Besondere Formen der Amtshilfe mit Drittstaaten
 
 (1) Die Finanzbehörden können im Verhältnis zu Staaten und Hoheitsgebieten, die nicht Mitgliedstaaten der Europäischen Union sind (Drittstaaten), in entsprechender Anwendung von § 2 Absatz 1 und 13, § 3 Absatz 2 Satz 3 und 4 und Absatz 3a sowie der §§ 10 bis 12a des EU-Amtshilfegesetzes nach Maßgabe des Absatzes 2 besondere Formen der zwischenstaatlichen Amtshilfe in Anspruch nehmen und unter der Voraussetzung der Gegenseitigkeit leisten. § 117 bleibt unberührt, soweit diese Vorschrift nichts anderes bestimmt.
 
 (2) Abweichend von
 
-1. § 10 Absatz 1 Satz 2 erster Halbsatz des EU-Amtshilfegesetzes kann die Teilnahme an behördlichen Ermittlungen mittels elektronischer Kommunikation gestattet werden;
+1. § 10 Absatz 1 Satz 2 erster Halbsatz des EU-Amtshilfegesetzes kann die Teilnahme an behördlichen Ermittlungen mittels elektronischer Kommunikation gestattet werden,
 
-2. § 10 Absatz 1 Satz 3 und § 12 Absatz 5 Satz 2 des EU-Amtshilfegesetzes soll die Bestätigung oder die Ablehnung innerhalb von 60 Tagen nach Erhalt des Ersuchens übermittelt werden;
+2. § 10 Absatz 1 Satz 3 und § 12 Absatz 5 Satz 2 des EU-Amtshilfegesetzes soll die Bestätigung oder die Ablehnung innerhalb von 60 Tagen nach Erhalt des Ersuchens übermittelt werden,
 
-3. § 10 Absatz 2 Satz 1 und § 12 Absatz 2 Satz 2 bis 5 des EU-Amtshilfegesetzes bestimmt sich die Zulässigkeit des Austausches von Informationen nach den im Einzelfall innerstaatlich anwendbaren völkerrechtlichen Vereinbarungen oder, in Ermangelung solcher, nach § 117 Absatz 3;
+3. § 10 Absatz 2 Satz 1 und § 12 Absatz 2 Satz 2 bis 5 des EU-Amtshilfegesetzes bestimmt sich die Zulässigkeit des Austausches von Informationen nach den im Einzelfall innerstaatlich anwendbaren völkerrechtlichen Vereinbarungen oder, in Ermangelung solcher, nach § 117 Absatz 3,
 
-4. § 12a Absatz 4 Satz 2 erster Halbsatz des EU-Amtshilfegesetzes sollen die Feststellungen in einem gemeinsamen Prüfbericht festgehalten werden;
+4. § 12a Absatz 4 Satz 2 erster Halbsatz des EU-Amtshilfegesetzes sollen die Feststellungen in einem gemeinsamen Prüfbericht festgehalten werden,
 
 5. § 12a Absatz 4 Satz 4 des EU-Amtshilfegesetzes können die beteiligten Behörden, sofern die Gegenseitigkeit verbürgt ist, mit der zuständigen Behörde des Drittstaates vereinbaren, die Beweisführung der entsprechenden Behörde des Drittstaates zu unterstützen.
 
 An die Stelle des zentralen Verbindungsbüros treten im Inland das Bundeszentralamt für Steuern und im Drittstaat die jeweils zuständige Behörde. § 12 Absatz 7 des EU-Amtshilfegesetzes gilt nicht; zielen die behördlichen Ermittlungen im Inland auf ein Verfahren nach den §§ 193 bis 207, kann auf die Anhörung des inländischen Beteiligten bis zur Bekanntgabe der Prüfungsanordnung verzichtet werden, sofern andernfalls der Erfolg der gleichzeitigen oder gemeinsamen Prüfung gefährdet würde.
 
-(3) Hinsichtlich der Einfuhr- und Ausfuhrabgaben nach Artikel 5 Nummer 20 und 21 des Zollkodex der Union sowie den Verbrauch- und Verkehrssteuern kann das Zollkriminalamt als Zentralstelle gemäß § 3 Absatz 7 Satz 1 Nummer 1 des Zollfahndungsdienstgesetzes entsprechend den Absätzen 1 bis 2 zwischenstaatliche Amtshilfe für den Zuständigkeitsbereich der Zollverwaltung bewilligen und ersuchen, soweit das Bundesministerium der Finanzen die Aufgabe nicht selbst wahrnimmt oder eine abweichende Zuweisung vorsieht.
+(3) Hinsichtlich der Einfuhr- und Ausfuhrabgaben nach Artikel 5 Nummer 20 und 21 des Zollkodex der Union sowie hinsichtlich der Verbrauch- und Verkehrsteuern kann das Zollkriminalamt als Zentralstelle gemäß § 3 Absatz 7 Satz 1 Nummer 1 des Zollfahndungsdienstgesetzes entsprechend den Absätzen 1 und 2 zwischenstaatliche Amtshilfe für den Zuständigkeitsbereich der Zollverwaltung bewilligen und ersuchen, soweit das Bundesministerium der Finanzen die Aufgabe nicht selbst wahrnimmt oder eine abweichende Zuweisung vorsieht.
+
+# § 117c – Übermittlung von Informationen einschließlich personenbezogener Daten auf Ersuchen an einen anderen Mitgliedstaat der Europäischen Union zur Verhütung von Straftaten
+
+(1) Auf ein Ersuchen einer Strafverfolgungsbehörde eines Mitgliedstaates der Europäischen Union, das nach Maßgabe der Richtlinie (EU) 2023/977 gestellt worden ist, oder auf Ersuchen einer nach Artikel 14 dieser Richtlinie benannten zentralen Kontaktstelle eines anderen Mitgliedstaates der Europäischen Union dürfen die mit der Steuerfahndung betrauten Dienststellen der Finanzbehörden dem ersuchenden Mitgliedstaat der Europäischen Union verfügbare Informationen einschließlich personenbezogener Daten zum Zweck der Verhütung von Straftaten übermitteln.
+
+(2) Eine Information ist im Sinne des Absatzes 1 verfügbar,
+
+1. wenn sie in einer Datenbank verfügbar ist, auf die die ersuchte mit der Steuerfahndung betraute Dienststelle der Finanzbehörde unmittelbar zugreifen kann, oder
+
+2. wenn die ersuchte mit der Steuerfahndung betraute Dienststelle der Finanzbehörde nach Maßgabe von Bundes- und Landesrecht von anderen Behörden oder privaten Parteien, die in der Bundesrepublik Deutschland ansässig sind, diese ohne Zwangsmaßnahmen einholen kann.
+
+(3) Die Übermittlung nach Absatz 1 erfolgt unter den gleichen gesetzlichen Voraussetzungen, unter denen die Übermittlung auch ohne Ersuchen an deutsche Polizei-, Finanz- oder Zollbehörden, ein deutsches Gericht oder eine deutsche Staatsanwaltschaft zulässig wäre. Eine Anhörung des inländischen Beteiligten erfolgt nicht. Die Regelungen des § 3 des Bundeskriminalamtgesetzes über den internationalen Dienstverkehr der Polizeien des Bundes und der Länder bleiben unberührt.
+
+(4) Bei der Übermittlung von Daten ist mitzuteilen, dass die Verwendung als Beweismittel in einem Gerichtsverfahren unzulässig ist, es sei denn,
+
+1. die nach § 92 Absatz 4 des Gesetzes über die internationale Rechtshilfe in Strafsachen zuständige Stelle hat ihre Zustimmung zur Verwendung als Beweismittel erteilt oder
+
+2. die Verwendung als Beweismittel ist durch eine anwendbare völkerrechtliche Vereinbarung oder einen unmittelbar anwendbaren Rechtsakt der Europäischen Union zugelassen.
+
+Die Zuständigkeit für die Zustimmung zu einer Verwendung als Beweismittel nach Satz 1 Nummer 1 richtet sich nach den Vorschriften des Gesetzes über die internationale Rechtshilfe in Strafsachen.
+
+(5) Die ersuchten Informationen werden in der Sprache übermittelt, in der das Ersuchen übermittelt wurde, wenn es in einer der Bundesrepublik Deutschland nach Artikel 11 der Richtlinie (EU) 2023/977 benannten Sprache übermittelt wurde. Die Informationen können in einer der Sprachen übermittelt werden, die der ersuchende Mitgliedstaat der Europäischen Union nach Artikel 11 der Richtlinie (EU) 2023/977 benannt hat. Satz 1 gilt entsprechend für andere Mitteilungen der Europäischen Union, einschließlich der begründeten Ablehnung von Ersuchen, Bitten um ergänzende Informationen und Mitteilungen.
+
+(+++ § 109: Zur Anwendung vgl. Art. 97 § 1 AOEG 1977 +++)
+
+# § 117d – Inhalt des Ersuchens
+
+Ein Ersuchen nach § 117c Absatz 1 soll Angaben zu Folgendem enthalten:
+
+1. eine Präzisierung der angeforderten Informationen, die so detailliert ist, wie dies unter den gegebenen Umständen in angemessener Weise möglich ist,
+
+2. die Beschreibung des Sachverhalts und der dem Ersuchen zugrunde liegenden Straftat,
+
+3. die Benennung des Zwecks, zu dem die Informationen erbeten werden,
+
+4. Einzelheiten zur Identität der betroffenen Person, sofern sich das Ersuchen auf eine bekannte Person bezieht,
+
+5. soweit angemessen, eine Erläuterung des Zusammenhangs zwischen dem Zweck, zu dem die Informationen angefordert werden, und allen natürlichen oder juristischen Personen oder Organisationen, auf die sich die Informationen beziehen,
+
+6. etwaige Beschränkungen einer Verwendung der in dem Ersuchen enthaltenen Informationen zu anderen Zwecken als denen, für die sie übermittelt wurden.
+
+(+++ § 117d: Zur Anwendung vgl. Art. 97 § 1 AOEG 1977 +++)
+
+# § 117e – Ablehnungsgründe
+
+(1) Die Übermittlung von Informationen einschließlich personenbezogener Daten nach § 117c ist unzulässig, soweit
+
+1. eine nach deutschem Recht erforderliche Genehmigung durch die zuständige Staatsanwaltschaft oder das zuständige Gericht verweigert wurde,
+
+2. die angeforderten Informationen bei der ersuchten mit der Steuerfahndung betrauten Dienststelle der Finanzbehörde nicht nach § 117c Absatz 2 verfügbar sind und nur durch Ergreifen von Zwangsmaßnahmen erlangt werden können,
+
+3. die Übermittlung der Informationen unverhältnismäßig wäre oder die Informationen für die Zwecke, für die sie übermittelt werden sollen, nicht erforderlich sind,
+
+4. es sich bei den ersuchten Informationen um andere personenbezogene Daten handelt als jene, die unter die in Anhang II Abschnitt B zu der Verordnung (EU) 2016/794 genannten Kategorien personenbezogener Daten fallen,
+
+5. die ersuchten Informationen sich als unrichtig, unvollständig oder nicht mehr aktuell erwiesen haben,
+
+6. objektive Anhaltspunkte dafür vorliegen, dass die Bereitstellung der ersuchten Informationen
+
+a) den grundlegenden Sicherheitsinteressen des Bundes oder der Länder zuwiderlaufen oder sie schädigen würde,
+
+b) den Erfolg eines laufenden strafrechtlichen Ermittlungsverfahrens oder die Sicherheit einer Person gefährden würde,
+
+7. die ersuchten Informationen ursprünglich von einem anderen Mitgliedstaat der Europäischen Union oder einem Drittstaat erlangt wurden und dieser Staat der Übermittlung der Informationen nicht zugestimmt hat.
+
+(2) Die Übermittlung von Informationen einschließlich personenbezogener Daten kann unterbleiben, soweit
+
+1. die angeforderten Informationen bei der ersuchten mit der Steuerfahndung betrauten Dienststelle der Finanzbehörde nicht nach § 117c Absatz 2 Nummer 1 verfügbar sind, jedoch ohne das Ergreifen von Zwangsmaßnahmen nach § 117c Absatz 2 Nummer 2 eingeholt werden können,
+
+2. das Ersuchen
+
+a) eine Straftat betrifft, die nach deutschem Recht mit Freiheitsstrafe von höchstens einem Jahr oder weniger geahndet werden kann, oder
+
+b) eine Angelegenheit betrifft, die nach deutschem Recht keine Straftat darstellt,
+
+3. das Ersuchen nicht den Anforderungen des § 117d entspricht.
+
+(3) Ein Ersuchen, das in einer anderen Sprache als den Sprachen, die von der Bundesrepublik Deutschland nach Artikel 11 der Richtlinie (EU) 2023/977 benannt werden, abgefasst ist, kann abgelehnt werden.
+
+(4) Vor Ablehnung eines Ersuchens soll den ersuchenden Behörden die Möglichkeit gegeben werden, ergänzende Klarstellungen oder Präzisierungen beizubringen.
+
+(5) Soweit die Übermittlung von Informationen die Genehmigung der Staatsanwaltschaft oder eines Gerichtes voraussetzt, unternimmt die zuständige mit der Steuerfahndung betraute Dienststelle der Finanzbehörde unverzüglich alle erforderlichen Schritte, um diese Genehmigung so schnell wie möglich einzuholen.
+
+# § 117f – Zusammenarbeit mit zentralen Kontaktstellen
+
+(1) Auf ein Ersuchen hin, das bei der nach Artikel 14 der Richtlinie (EU) 2023/977 für die Bundesrepublik Deutschland benannten nationalen zentralen Kontaktstelle eingegangen ist, haben die mit der Steuerfahndung betrauten Dienststellen der Finanzbehörden der zentralen Kontaktstelle verfügbare Informationen im Sinne des § 117c Absatz 2 nach § 117c Absatz 3 zu übermitteln.
+
+(2) Nach § 117c übermittelte Informationen werden in Kopie auch der für die Bundesrepublik Deutschland benannten nationalen zentralen Kontaktstelle übermittelt. Wenn die nach § 117c ersuchten Informationen zur Beantwortung nicht der nach Artikel 14 der Richtlinie (EU) 2023/977 benannten zentralen Kontaktstelle des ersuchenden Mitgliedstaates der Europäischen Union übermittelt wurden, wird auch dieser zentralen Kontaktstelle eine Kopie der Informationen übermittelt.
+
+(3) Die Übermittlung an die zentrale Kontaktstelle des ersuchenden Mitgliedstaates nach Absatz 2 Satz 2 unterbleibt, wenn dadurch Folgendes gefährdet wird:
+
+1. eine laufende hochsensible Ermittlung, bei der die Verarbeitung von Informationen ein angemessenes Maß an Vertraulichkeit erfordert,
+
+2. Terrorismusfälle, bei denen es sich nicht um Not- oder Krisenmanagementsituationen handelt, oder
+
+3. die Sicherheit einer oder mehrerer Personen.
+
+# § 117g – Informationsübermittlung ohne Ersuchen
+
+(1) Nach Maßgabe der Richtlinie (EU) 2023/977 dürfen die mit der Steuerfahndung betrauten Dienststellen der Finanzbehörden gemäß § 117c Absatz 2 verfügbare Informationen einschließlich personenbezogener Daten, ohne Ersuchen an die zuständigen Strafverfolgungsbehörden anderer Mitgliedstaaten der Europäischen Union aus eigener Initiative übermitteln, wenn objektive Anhaltspunkte dafür vorliegen, dass die Informationen für den anderen Mitgliedstaat der Europäischen Union zum Zweck der Verhütung von Straftaten relevant sein könnten. Satz 1 gilt auch für die Übermittlung an nach Artikel 14 der Richtlinie (EU) 2023/977 benannte zentrale Kontaktstellen anderer Mitgliedstaaten der Europäischen Union.
+
+(2) Die Übermittlung nach Absatz 1 erfolgt unter den gleichen gesetzlichen Voraussetzungen, unter denen die Übermittlung auch ohne Ersuchen an deutsche Polizei-, Finanz- oder Zollbehörden, ein deutsches Gericht oder eine deutsche Staatsanwaltschaft zulässig wäre. § 117e Absatz 1 und 2 ist entsprechend anzuwenden.
+
+(3) Die Regelungen des § 3 des Bundeskriminalamtgesetzes über den internationalen Dienstverkehr der Polizeien des Bundes und der Länder bleiben unberührt. Wenn die Übermittlung an die zentrale Kontaktstelle eines anderen Mitgliedstaates der Europäischen Union erfolgt, sind die Informationen in einer der Sprachen zu übermitteln, die von diesem Mitgliedstaat der Europäischen Union nach Artikel 11 der Richtlinie (EU) 2023/977 benannt wurden.
+
+(4) § 117c Absatz 3 Satz 2 und § 117f sind entsprechend anzuwenden.
+
+# § 117h – Verpflichtung zur Übermittlung von Informationen ohne Ersuchen
+
+(1) Nach Maßgabe der Richtlinie (EU) 2023/977 sind die mit der Steuerfahndung betrauten Dienststellen der Finanzbehörden verpflichtet, ohne Ersuchen von ihnen selbst erhobene Informationen einschließlich personenbezogener Daten an die zentrale Kontaktstelle nach Artikel 14 der Richtlinie (EU) 2023/977 oder die zuständigen Strafverfolgungsbehörden anderer Mitgliedstaaten der Europäischen Union aus eigener Initiative zu übermitteln, wenn objektive Anhaltspunkte dafür vorliegen, dass die Informationen für den anderen Mitgliedstaat der Europäischen Union zum Zweck der Verhütung von schweren Straftaten im Sinne von Artikel 2 Absatz 3 der Richtlinie (EU) 2023/977 relevant sein könnten.
+
+(2) Die Übermittlung nach Absatz 1 erfolgt unter den gleichen gesetzlichen Voraussetzungen, unter denen die Übermittlung auch ohne Ersuchen an deutsche Polizei-, Finanz- oder Zollbehörden, ein deutsches Gericht oder eine deutsche Staatsanwaltschaft zulässig wäre. § 117c Absatz 3 Satz 2 ist entsprechend anzuwenden.
+
+(3) § 117e Absatz 1, die §§ 117f und 117g Absatz 3 finden entsprechende Anwendung.
+
+# § 117i – Informationsübermittlung an Schengen-assoziierte Staaten
+
+Die §§ 117c bis 117h gelten für die Übermittlung von Informationen an Strafverfolgungsbehörden von Staaten, die die Bestimmungen des Schengen-Besitzstandes aufgrund eines Assoziierungsabkommens mit der Europäischen Union über die Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstandes anwenden, entsprechend.
+
+# § 117j – Ausgehende Ersuchen um Übermittlung von Informationen einschließlich personenbezogener Daten an Strafverfolgungsbehörden eines anderen Mitgliedstaates der Europäischen Union
+
+(1) Die mit der Steuerfahndung betrauten Dienststellen der Finanzbehörden dürfen Ersuchen um Übermittlung von Informationen einschließlich personenbezogener Daten an die Strafverfolgungsbehörden eines anderen Mitgliedstaates der Europäischen Union zum Zweck der Verhütung von Straftaten richten. Die Regelungen des § 3 des Bundeskriminalamtgesetzes über den internationalen Dienstverkehr der Polizeien des Bundes und der Länder bleiben unberührt.
+
+(2) Eine Kopie eines Ersuchens nach Absatz 1 wird der für die Bundesrepublik Deutschland nach Artikel 14 der Richtlinie (EU) 2023/977 benannten nationalen zentrale Kontaktstelle sowie der nach Artikel 14 der Richtlinie (EU) 2023/977 benannten zentralen Kontaktstelle des ersuchten Mitgliedstaates der Europäischen Union übermittelt. Für die Übermittlung nach Satz 1 gilt § 117f Absatz 3 entsprechend.
+
+(3) Bei Ersuchen nach Absatz 1 sollen die Anforderungen des § 117d eingehalten werden.
+
+# § 117k – Verwendung von nach der Richtlinie (EU) 2023/977 übermittelten Informationen
+
+Informationen einschließlich personenbezogener Daten, die nach der Richtlinie (EU) 2023/977 an eine mit der Steuerfahndung betraute Dienststelle der Finanzbehörden übermittelt worden sind, dürfen nur für die Zwecke, für die sie übermittelt wurden, oder zur Abwehr einer gegenwärtigen und erheblichen Gefahr für die öffentliche Sicherheit verwendet werden. Für einen anderen Zweck oder als Beweismittel in einem gerichtlichen Verfahren dürfen sie nur verwendet werden, wenn der übermittelnde Staat zugestimmt hat oder diese auf Ersuchen nachträglich genehmigt. Von dem übermittelnden Staat für die Verwendung der Informationen gestellte Bedingungen sind zu beachten.
+
+# § 117l – Statistiken über die zwischenstaatliche Amts- und Rechtshilfe
+
+Informationen, die im Zuge der zwischenstaatlichen Amts- und Rechtshilfe verarbeitet werden, dürfen statistisch pseudonymisiert oder anonymisiert aufbereitet werden. Diese statistischen Daten dürfen öffentlich zugänglich gemacht werden.
 
 # § 118 – Begriff des Verwaltungsakts
 
@@ -6492,7 +6564,7 @@ und dadurch ermöglicht, Steuern zu verkürzen oder nicht gerechtfertigte Steuer
 
 1a. entgegen § 144 Absatz 1 oder Absatz 2 Satz 1, jeweils auch in Verbindung mit Absatz 5, eine Aufzeichnung nicht, nicht richtig oder nicht vollständig erstellt,
 
-1b. einer Rechtsverordnung nach § 117c Absatz 1 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,<span id="FnR.F832391_6"></span><a href="#F832391_6" class="FnR">*</a></sup>
+1b. (weggefallen)
 
 1c. entgegen § 138a Absatz 1, 3 oder 4 eine Übermittlung des länderbezogenen Berichts oder entgegen § 138a Absatz 4 Satz 3 eine Mitteilung nicht, nicht vollständig oder nicht rechtzeitig (§ 138a Absatz 6) macht,
 
@@ -6520,7 +6592,7 @@ und dadurch ermöglicht, Steuern zu verkürzen oder nicht gerechtfertigte Steuer
 
 (7) Die Ordnungswidrigkeit nach Absatz 2 Nummer 1, 1d, 1e und 1g kann mit einer Geldbuße bis zu 25 000 Euro geahndet werden, wenn die Handlung nicht nach § 378 geahndet werden kann.
 
-(8) Die Ordnungswidrigkeit nach Absatz 2 Nummer 1b kann mit einer Geldbuße bis zu 30 000 Euro geahndet werden, wenn die Handlung nicht nach § 378 geahndet werden kann.<span id="FnR.F832391_7"></span><a href="#F832391_7" class="FnR">**</a></sup>
+(8) (weggefallen)
 
 (+++ § 379: Zur Anwendung vgl. Art. 97 §§ 30, 32, 33 u. 37 AOEG 1977 +++)
 
@@ -6574,6 +6646,12 @@ gelten, soweit die Zollvorschriften, die dazu oder die auf Grund von Absatz 4 er
 
 # § 383a – (weggefallen)
 
+# § 383a – Verstöße gegen innerstaatlich anwendbare völkerrechtliche Vereinbarungen zur Förderung der Steuerehrlichkeit
+
+(1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig einer Rechtsverordnung nach § 117a Absatz 1 Satz 1 Nummer 1 oder 2 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
+
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
+
 # § 383b – Pflichtverletzung bei Übermittlung von Vollmachtsdaten
 
 (1) Ordnungswidrig handelt, wer den Finanzbehörden vorsätzlich oder leichtfertig
@@ -6588,7 +6666,7 @@ gelten, soweit die Zollvorschriften, die dazu oder die auf Grund von Absatz 4 er
 
 # § 384 – Verfolgungsverjährung
 
-Die Verfolgung von Steuerordnungswidrigkeiten nach den §§ 378 bis 380 verjährt in fünf Jahren.
+Die Verfolgung von Steuerordnungswidrigkeiten nach den §§ 378 bis 380 und § 383a verjährt in fünf Jahren.
 
 # § 384a – Verstöße nach Artikel 83 Absatz 4 bis 6 der Verordnung (EU) 2016/679
 

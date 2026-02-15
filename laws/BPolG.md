@@ -60,6 +60,7 @@
 |             |                                  | § 32a            |                                                   |        |                                          | Übermittlung personenbezogener Daten an Mitgliedstaaten der Europäischen Union                                                                                        |
 |             |                                  | § 33             |                                                   |        |                                          | Ergänzende Regelungen für die Übermittlung                                                                                                                            |
 |             |                                  | § 33a            |                                                   |        |                                          | Verwendung von nach dem Rahmenbeschluss 2006/960/JI des Rates übermittelten Daten                                                                                     |
+|             |                                  | § 33b            |                                                   |        |                                          | Datenübermittlung und -bereitstellung an Mitgliedstaaten der Europäischen Union und Schengen-assoziierte Staaten gemäß der Richtlinie (EU) 2023/977                   |
 |             |                                  | § 34             |                                                   |        |                                          | Abgleich personenbezogener Daten                                                                                                                                      |
 |             |                                  | § 35             |                                                   |        |                                          | Berichtigung, Löschung und Sperrung personenbezogener Daten                                                                                                           |
 |             |                                  | § 36             |                                                   |        |                                          | Errichtungsanordnung                                                                                                                                                  |
@@ -880,6 +881,36 @@ und die grenzpolizeiliche Beobachtung zur Verhütung dieser Straftaten erforderl
 (1) Daten, die nach dem Rahmenbeschluss 2006/960/JI an die Bundespolizei übermittelt worden sind, dürfen nur für die Zwecke, für die sie übermittelt wurden, oder zur Abwehr einer gegenwärtigen und erheblichen Gefahr für die öffentliche Sicherheit verwendet werden. Für einen anderen Zweck oder als Beweismittel in einem gerichtlichen Verfahren dürfen sie nur verwendet werden, wenn der übermittelnde Staat zugestimmt hat. Von dem übermittelnden Staat für die Verwendung der Daten gestellte Bedingungen sind zu beachten.
 
 (2) Die Bundespolizei erteilt dem übermittelnden Staat auf dessen Ersuchen zu Zwecken der Datenschutzkontrolle Auskunft darüber, wie die übermittelten Daten verwendet wurden.
+
+# § 33b – Datenübermittlung und -bereitstellung an Mitgliedstaaten der Europäischen Union und Schengen-assoziierte Staaten gemäß der Richtlinie (EU) 2023/977
+
+(1) Für die Übermittlung von Daten an Polizeibehörden oder sonstige für die Verhütung oder Verfolgung von Straftaten zuständige öffentliche Stellen in den Mitgliedstaaten der Europäischen Union und der in § 32a Absatz 6 genannten Staaten gelten im Anwendungsbereich der Richtlinie (EU) 2023/977 ergänzend zu den §§ 32, 32a, 33, 33a die nachstehenden Regelungen. Im Rahmen der Wahrnehmung der Aufgabe nach § 12 bleiben die Vorschriften über die internationale Rechtshilfe in strafrechtlichen Angelegenheiten unberührt. § 3 des Bundeskriminalamtgesetzes bleibt unberührt.
+
+(2) Eine für die Übermittlung von Daten nach deutschem Recht erforderliche Erlaubnis durch eine Justizbehörde ist unverzüglich einzuholen.
+
+(3) Bei der Übermittlung oder Bereitstellung von Daten ist mitzuteilen, dass die Verwendung als Beweismittel in einem Gerichtsverfahren unzulässig ist, es sei denn,
+
+1. es liegt eine Zustimmung derjenigen Stelle vor, die für eine Zustimmung der Verwendung als Beweismittel zuständig ist, oder
+
+2. die Verwendung als Beweismittel ist durch eine anwendbare völkerrechtliche Vereinbarung oder einen unmittelbar anwendbaren Rechtsakt der Europäischen Union zugelassen.
+
+Die Zuständigkeit für die Zustimmung einer Verwendung als Beweismittel nach Satz 1 Nummer 1 richtet sich nach den Vorschriften über die internationale Rechtshilfe in Strafsachen.
+
+(4) Ersucht die Bundespolizei als benannte Stelle im Sinne von Artikel 4 Absatz 1 der Richtlinie (EU) 2023/977 Daten bei einer zentralen Kontaktstelle eines anderen Mitgliedstaates der Europäischen Union oder eines der in § 32a Absatz 6 genannten Staaten, erfolgt dies in einer Sprache, die der Staat für diese Zwecke zugelassen hat. Dem Bundeskriminalamt als zentrale Kontaktstelle ist eine Kopie zu übermitteln.
+
+(5) Ein an eine zentrale Kontaktstelle gerichtetes Ersuchen muss mindestens die folgenden Angaben enthalten:
+
+1. die Angabe, ob das Ersuchen dringend ist und, wenn dies der Fall ist, Angabe der Gründe für die Dringlichkeit,
+
+2. eine Präzisierung der angeforderten Informationen, die so detailliert ist, wie dies unter den gegebenen Umständen in angemessener Weise möglich ist,
+
+3. die Beschreibung des Zwecks, zu dem die Informationen angefordert werden, einschließlich einer Beschreibung des Sachverhalts und der zugrunde liegenden Straftat, und
+
+4. etwaige Beschränkungen einer Verwendung der in dem Ersuchen enthaltenen Informationen zu anderen Zwecken als denen, für die sie übermittelt wurden.
+
+(6) Bei der Übermittlung von Daten an Polizeibehörden oder sonstige für die Verhütung oder Verfolgung von Straftaten zuständige öffentliche Stellen, die nicht zugleich zentrale Kontaktstellen sind, ist dem Bundeskriminalamt sowie der zentralen Kontaktstelle des jeweiligen Staats gleichzeitig eine Kopie der Daten zu übermitteln.
+
+(7) Daten, welche die Bundespolizei selbst erhoben hat, sind unter den Voraussetzungen von § 32 in Verbindung mit § 32a aus eigener Initiative den Mitgliedstaaten oder zuständigen Strafverfolgungsbehörden zu übermitteln oder bereitzustellen, wenn tatsächliche Anhaltspunkte dafür vorliegen, dass diese Daten für einen anderen Mitgliedstaat der Europäischen Union oder einen der in § 32a Absatz 6 genannten Staaten zum Zwecke der Verhütung von Straftaten nach Artikel 2 Absatz 3 der Richtlinie (EU) 2023/977 relevant sein können und diese Daten dem Mitgliedstaat nicht bereits anderweitig übermittelt oder bereitgestellt wurden.
 
 # § 34 – Abgleich personenbezogener Daten
 

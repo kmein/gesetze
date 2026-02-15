@@ -275,9 +275,7 @@ b) einem Mitglied des Verwaltungs- oder Aufsichtsorgans des anzeigenden Unterneh
 
 # § 5d – Auszug aus dem Gewerbezentralregister der nach § 24 Absatz 1 Nummer 1 und 15 des Kreditwesengesetzes anzuzeigenden Person
 
-(1) Die in den Anzeigen der Absicht einer Bestellung oder Ermächtigung nach § 24 Absatz 1 Nummer 1 und den Anzeigen nach § 24 Absatz 1 Nummer 15 des Kreditwesengesetzes genannten Personen haben bei der Bundesanstalt einen Auszug aus dem Gewerbezentralregister nach § 150 der Gewerbeordnung einzureichen. Satz 1 gilt nicht, wenn die Person weder in den letzten zehn Jahren in der Bundesrepublik Deutschland einen Wohnsitz hatte noch in den letzten zehn Jahren in der Bundesrepublik Deutschland eine berufliche Tätigkeit ausgeübt hat.
-
-(2) Der Registerauszug darf zum Zeitpunkt der Erstattung der Anzeige nach § 24 Absatz 1 Nummer 1 oder zum Zeitpunkt der Bestellung nach § 24 Absatz 1 Nummer 15 des Kreditwesengesetzes nicht älter als drei Monate sein. Maßgeblich ist das Datum der Ausstellung des Registerauszuges.
+Die in den Anzeigen der Absicht einer Bestellung oder Ermächtigung nach § 24 Absatz 1 Nummer 1 und den Anzeigen nach § 24 Absatz 1 Nummer 15 des Kreditwesengesetzes genannten Personen haben beim Bundesamt für Justiz einen Auszug aus dem Gewerbezentralregister nach § 150 Absatz 5 der Gewerbeordnung zur Vorlage bei der Bundesanstalt zu beantragen. Satz 1 gilt nicht, wenn die Person weder in den letzten zehn Jahren in der Bundesrepublik Deutschland einen Wohnsitz hatte noch in den letzten zehn Jahren in der Bundesrepublik Deutschland eine berufliche Tätigkeit ausgeübt hat. Sofern der Bundesanstalt bereits ein Auszug aus dem Gewerbezentralregister nach § 150 Absatz 5 der Gewerbeordnung vorliegt, dessen Beantragung nicht mehr als zwölf Monate zurückliegt, ist keine erneute Beantragung beim Bundesamt für Justiz erforderlich.
 
 # § 5e – Anzeigen nach § 24 Absatz 1 Nummer 2 und 15a des Kreditwesengesetzes (Ausscheiden von Personen)
 

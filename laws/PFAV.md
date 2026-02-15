@@ -427,7 +427,7 @@ b) Aktien einer REIT-Aktiengesellschaft oder von Anteilen an einer vergleichbare
 c) Anteilen und Aktien an inländischen Spezial-AIF im Sinne des § 1 Absatz 6 des Kapitalanlagegesetzbuchs oder von Anteilen und Aktien an inländischen geschlossenen Publikums-AIF im Sinne des § 1 Absatz 3 in Verbindung mit Absatz 6 Satz 2 des Kapitalanlagegesetzbuchs,
 
 aa)  
-die direkt oder indirekt in Vermögensgegenstände nach § 231 Absatz 1 Nummer 1 bis 6 sowie § 235 Absatz 1 des Kapitalanlagegesetzbuchs investieren und
+die direkt oder indirekt investieren in Vermögensgegenstände nach § 231 Absatz 1 Satz 1 Nummer 1 bis 6, 8 und Absatz 3 sowie § 235 Absatz 1 des Kapitalanlagegesetzbuchs und in Liquiditätsanlagen, die näherungsweise den Anforderungen des § 253 Absatz 1 Satz 1 des Kapitalanlagegesetzbuchs entsprechen, und
 
 bb)  
 die von einer Kapitalverwaltungsgesellschaft verwaltet werden, die über eine Erlaubnis nach § 20 Absatz 1 des Kapitalanlagegesetzbuchs verfügt, oder von einer Verwaltungsgesellschaft mit Sitz in einem Staat des EWR, die zum Schutz der Anleger einer öffentlichen Aufsicht unterliegt und über eine Erlaubnis verfügt, die mit der Erlaubnis nach § 20 Absatz 1 des Kapitalanlagegesetzbuchs vergleichbar ist,

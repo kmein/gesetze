@@ -25,6 +25,8 @@ Auf Grund des § 145 Absatz 4 in Verbindung mit Absatz 5 Satz 2, auch in Verbind
 
 (3) Für Unternehmen gemäß Absatz 1 Nummer 3 und 4 gelten nur die §§ 2, 3 und 7.
 
+(4) Für Unternehmen nach Absatz 1 Nummer 6 gilt nicht § 6 Absatz 2.
+
 # § 2 – Versicherungsmathematische Bestätigung
 
 (1) Bei Lebensversicherungsunternehmen gemäß § 1 Absatz 1 Nummer 1 hat die versicherungsmathematische Bestätigung

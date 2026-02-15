@@ -3086,8 +3086,6 @@ Unterscheidungszeichen des Präsidenten des Deutschen Bundestages
 </tbody>
 </table>
 
-Anlage 2 Nr. 3 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde eine schließende Klammer ergänzt
-
 # Anlage 3 – (zu § 11 Absatz 4)Plakettenmuster für elektrisch betriebene Fahrzeuge
 
 (Fundstelle: BGBl. 2023 I Nr. 199, S. 70)
@@ -5549,8 +5547,6 @@ Ich willige zu diesem Zweck ein, dass dem/der Bevollmächtigten meine dem Steuer
 
 □  
 \[optional\] Ich bitte darum, dass die Zulassungsbehörde dem/der Bevollmächtigten die in der Zulassungsbescheinigung Teil I und Zulassungsbescheinigung Teil II enthaltenen Daten jeweils einschließlich meiner hierin enthaltenen personenbezogenen Daten auf elektronischem Weg nach der wirksamen Zulassung zur Verfügung stellt. Hierfür habe ich hinsichtlich der in der Zulassungsbescheinigung Teil I und Zulassungsbescheinigung Teil II enthaltenen Daten eine separate Einwilligungserklärung unterzeichnet und wurde diesbezüglich von dem/der Bevollmächtigten nach der Datenschutz-Grundverordnung belehrt.
-
-Abschnitt A Nr. 2 Option 2 Kursivdruck: Wegen offensichtlicher Unrichtigkeit wurde das Wort "Kreditistitut" durch das Wort "Kreditinstitut" ersetzt Abschnitt B Nr. 2 Option 2 Kursivdruck: Wegen offensichtlicher Unrichtigkeit wurde das Wort "Kreditistitut" durch das Wort "Kreditinstitut" ersetzt
 
 # Anlage 13 – (zu § 41 Absatz 2 Satz 1)Fahrzeugscheinheft für Fahrzeuge mit rotem Kennzeichen
 

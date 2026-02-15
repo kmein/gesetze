@@ -133,6 +133,8 @@ Auf Grund des § 24 Nummer 2 des Elektro- und Elektronikgerätegesetzes vom 20. 
 
 (2) Wenn eine Behandlung nach Absatz 1 nicht möglich oder zulässig ist, sind die entfernten Bauteile, Gemische oder Stoffe in sonstiger Weise zu verwerten oder zu beseitigen, sofern diese Verordnung, Kapitel VIII der Verordnung (EU) 2023/1542 in der Fassung vom 12. Juli 2023, das Batterierecht-Durchführungsgesetz vom 30. September 2025 (BGBl. 2025 I Nr. 233) in der jeweils geltenden Fassung oder andere Rechtsvorschriften keine anderslautenden Anforderungen an die selektive Behandlung von diesen Bauteilen, Gemischen oder Stoffen stellen.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
+
 # § 5 – Anforderungen an die Behandlung von radioaktiven Bauteilen
 
 (1) Bauteile aus Konsumgütern, die radioaktive Stoffe enthalten und

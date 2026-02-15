@@ -521,7 +521,7 @@ b) über Geschäftsbeziehungen und Transaktionen, insbesondere Transaktionsbeleg
 
 Die Aufzeichnungen nach Satz 1 Nummer 1 Buchstabe a schließen Aufzeichnungen über die getroffenen Maßnahmen zur Ermittlung des wirtschaftlich Berechtigten sowie die Dokumentation der Eigentums- und Kontrollstruktur nach § 12 Absatz 4 Satz 1 ein. Bei Personen, die nach § 3 Absatz 2 Satz 5 als wirtschaftlich Berechtigte gelten, sind zudem die Maßnahmen zur Überprüfung der Identität nach § 11 Absatz 5 und etwaige Schwierigkeiten, die während des Überprüfungsvorgangs aufgetreten sind, aufzuzeichnen.
 
-(2) Zur Erfüllung der Pflicht nach Absatz 1 Satz 1 Nummer 1 Buchstabe a sind in den Fällen des § 12 Absatz 1 Satz 1 Nummer 1 auch die Art, die Nummer und die Behörde, die das zur Überprüfung der Identität vorgelegte Dokument ausgestellt hat, aufzuzeichnen. Soweit zur Überprüfung der Identität einer natürlichen Person Dokumente nach § 12 Absatz 1 Satz 1 Nummer 1, 4 oder 5 oder zur Überprüfung der Identität einer juristischen Person Unterlagen nach § 12 Absatz 2 vorgelegt werden oder soweit Dokumente, die aufgrund einer Rechtsverordnung nach § 12 Absatz 3 bestimmt sind, vorgelegt oder herangezogen werden, haben die Verpflichteten das Recht und die Pflicht, Kopien dieser Dokumente oder Unterlagen anzufertigen oder sie optisch digitalisiert zu erfassen oder, bei einem Vor-Ort-Auslesen nach § 18a des Personalausweisgesetzes, nach § 78 Absatz 5 Satz 2 des Aufenthaltsgesetzes oder nach § 13 des eID-Karte-Gesetzes, das dienste- und kartenspezifische Kennzeichen sowie die Tatsache aufzuzeichnen, dass die Daten im Wege des Vor-Ort-Auslesens übernommen wurden. Diese gelten als Aufzeichnung im Sinne des Satzes 1. Die Aufzeichnungs- und Aufbewahrungspflicht nach Absatz 1 Satz 1 Nummer 1 Buchstabe a umfasst auch die zur Erfüllung geldwäscherechtlicher Sorgfaltspflichten angefertigten Aufzeichnungen von Video- und Tonaufnahmen. Wird nach § 11 Absatz 3 Satz 1 von einer erneuten Identifizierung abgesehen, so sind der Name des zu Identifizierenden und der Umstand, dass er bei früherer Gelegenheit identifiziert worden ist, aufzuzeichnen. Im Fall des § 12 Absatz 1 Satz 1 Nummer 2 ist anstelle der Art, der Nummer und der Behörde, die das zur Überprüfung der Identität vorgelegte Dokument ausgestellt hat, das dienste- und kartenspezifische Kennzeichen und die Tatsache, dass die Prüfung anhand eines elektronischen Identitätsnachweises erfolgt ist, aufzuzeichnen. Bei der Überprüfung der Identität anhand einer qualifizierten Signatur nach § 12 Absatz 1 Satz 1 Nummer 3 ist auch deren Validierung aufzuzeichnen. Bei Einholung von Angaben und Informationen durch Einsichtnahme in elektronisch geführte Register oder Verzeichnisse gemäß § 12 Absatz 2 gilt die Anfertigung eines Ausdrucks als Aufzeichnung der darin enthaltenen Angaben oder Informationen.
+(2) Zur Erfüllung der Pflicht nach Absatz 1 Satz 1 Nummer 1 Buchstabe a sind in den Fällen des § 12 Absatz 1 Satz 1 Nummer 1 auch die Art, die Nummer und die Behörde, die das zur Überprüfung der Identität vorgelegte Dokument ausgestellt hat, oder, wenn diese nicht erkennbar ist, der ausstellende Staat aufzuzeichnen. Soweit zur Überprüfung der Identität einer natürlichen Person Dokumente nach § 12 Absatz 1 Satz 1 Nummer 1, 4 oder 5 oder zur Überprüfung der Identität einer juristischen Person Unterlagen nach § 12 Absatz 2 vorgelegt werden oder soweit Dokumente, die aufgrund einer Rechtsverordnung nach § 12 Absatz 3 bestimmt sind, vorgelegt oder herangezogen werden, haben die Verpflichteten das Recht und die Pflicht, Kopien dieser Dokumente oder Unterlagen anzufertigen oder sie optisch digitalisiert zu erfassen oder, bei einem Vor-Ort-Auslesen nach § 18a des Personalausweisgesetzes, nach § 78 Absatz 5 Satz 2 des Aufenthaltsgesetzes oder nach § 13 des eID-Karte-Gesetzes, das dienste- und kartenspezifische Kennzeichen sowie die Tatsache aufzuzeichnen, dass die Daten im Wege des Vor-Ort-Auslesens übernommen wurden. Diese gelten als Aufzeichnung im Sinne des Satzes 1. Die Aufzeichnungs- und Aufbewahrungspflicht nach Absatz 1 Satz 1 Nummer 1 Buchstabe a umfasst auch die zur Erfüllung geldwäscherechtlicher Sorgfaltspflichten angefertigten Aufzeichnungen von Video- und Tonaufnahmen. Wird nach § 11 Absatz 3 Satz 1 von einer erneuten Identifizierung abgesehen, so sind der Name des zu Identifizierenden und der Umstand, dass er bei früherer Gelegenheit identifiziert worden ist, aufzuzeichnen. Im Fall des § 12 Absatz 1 Satz 1 Nummer 2 ist anstelle der Art, der Nummer und der Behörde, die das zur Überprüfung der Identität vorgelegte Dokument ausgestellt hat, das dienste- und kartenspezifische Kennzeichen und die Tatsache, dass die Prüfung anhand eines elektronischen Identitätsnachweises erfolgt ist, aufzuzeichnen. Bei der Überprüfung der Identität anhand einer qualifizierten Signatur nach § 12 Absatz 1 Satz 1 Nummer 3 ist auch deren Validierung aufzuzeichnen. Bei Einholung von Angaben und Informationen durch Einsichtnahme in elektronisch geführte Register oder Verzeichnisse gemäß § 12 Absatz 2 gilt die Anfertigung eines Ausdrucks als Aufzeichnung der darin enthaltenen Angaben oder Informationen.
 
 (3) Die Aufzeichnungen können auch digital auf einem Datenträger gespeichert werden. Die Verpflichteten müssen sicherstellen, dass die gespeicherten Daten
 
@@ -605,7 +605,7 @@ Verpflichtete müssen gegenüber den Aufsichtsbehörden auf deren Verlangen darl
 
 2. bei Transaktionen, die außerhalb einer Geschäftsbeziehung durchgeführt werden, wenn es sich handelt um
 
-a) Geldtransfers nach Artikel 3 Nummer 9 der Verordnung (EU) 2015/847 des Europäischen Parlaments und des Rates vom 20. Mai 2015 über die Übermittlung von Angaben bei Geldtransfers und zur Aufhebung der Verordnung (EU) Nr. 1781/2006 (ABl. L 141 vom 5.6.2015, S. 1) und dieser Geldtransfer einen Betrag von 1 000 Euro oder mehr ausmacht,
+a) Geldtransfers nach Artikel 3 Nummer 9 der Verordnung (EU) 2023/1113 des Europäischen Parlaments und des Rates vom 20. Mai 2015 über die Übermittlung von Angaben bei Geldtransfers und zur Aufhebung der Verordnung (EU) Nr. 1781/2006 (ABl. L 141 vom 5.6.2015, S. 1) und dieser Geldtransfer einen Betrag von 1 000 Euro oder mehr ausmacht,
 
 b) die Durchführung einer sonstigen Transaktion im Wert von 15 000 Euro oder mehr,
 
@@ -723,7 +723,7 @@ e) die Namen der Mitglieder des Vertretungsorgans oder die Namen der gesetzliche
 
 4. eines nach Artikel 8 Absatz 2 Buchstabe c in Verbindung mit Artikel 9 der Verordnung (EU) Nr. 910/2014 notifizierten elektronischen Identifizierungssystems oder
 
-5. von Dokumenten nach § 1 Absatz 1 der Verordnung über die Bestimmung von Dokumenten, die zur Identifizierung einer nach dem Geldwäschegesetz zu identifizierenden Person zum Zwecke des Abschlusses eines Zahlungskontovertrags zugelassen werden.
+5. von Dokumenten nach § 1 Absatz 1 der Zahlungskonto-Identitätsprüfungsverordnung, wobei im Falle des § 1 Absatz 1 Nummer 1 der Zahlungskonto-Identitätsprüfungsverordnung zur Identifizierung der minderjährigen Person eine elektronisch oder auf dem Postweg übersandte Kopie der Geburtsurkunde dieser Person ausreicht, sofern der Verpflichtete die Steueridentifikationsnummer der zu identifizierenden Person zu erheben hat und die Identitätsüberprüfung des gesetzlichen Vertreters anhand eines Dokuments oder Verfahrens gemäß § 12 Absatz 1 Satz 1 Nummer 1 bis 4 erfolgt ist.
 
 Im Fall der Identitätsüberprüfung anhand einer qualifizierten elektronischen Signatur gemäß Satz 1 Nummer 3 hat der Verpflichtete eine Validierung der qualifizierten elektronischen Signatur nach Artikel 32 Absatz 1 der Verordnung (EU) Nr. 910/2014 vorzunehmen. Er hat in diesem Falle auch sicherzustellen, dass eine Transaktion unmittelbar von einem Zahlungskonto im Sinne des § 1 Absatz 17 des Zahlungsdiensteaufsichtsgesetzes erfolgt, das auf den Namen des Vertragspartners lautet, bei einem Verpflichteten nach § 2 Absatz 1 Satz 1 Nummer 1 oder Nummer 3 oder bei einem Kreditinstitut, das ansässig ist in einem
 
@@ -783,7 +783,7 @@ Die Verpflichteten müssen in jedem Fall die Überprüfung von Transaktionen und
 
 (4) Das Bundesministerium der Finanzen kann im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat durch Rechtsverordnung ohne Zustimmung des Bundesrates Fallkonstellationen festlegen, in denen insbesondere im Hinblick auf Kunden, Produkte, Dienstleistungen, Transaktionen oder Vertriebskanäle ein geringeres Risiko der Geldwäsche oder der Terrorismusfinanzierung bestehen kann und die Verpflichteten unter den Voraussetzungen von Absatz 1 nur vereinfachte Sorgfaltspflichten in Bezug auf Kunden erfüllen müssen. Bei der Festlegung sind die in den Anlagen 1 und 2 genannten Risikofaktoren zu berücksichtigen.
 
-(5) Die Verordnung (EU) 2015/847 findet keine Anwendung auf Inlandsgeldtransfers auf ein Zahlungskonto eines Begünstigten, auf das ausschließlich Zahlungen für die Lieferung von Gütern oder Dienstleistungen vorgenommen werden können, wenn
+(5) Die Verordnung (EU) 2023/1113 findet keine Anwendung auf Inlandsgeldtransfers auf ein Zahlungskonto eines Begünstigten, auf das ausschließlich Zahlungen für die Lieferung von Gütern oder Dienstleistungen vorgenommen werden können, wenn
 
 1. der Zahlungsdienstleister des Begünstigten den Verpflichtungen dieses Gesetzes unterliegt,
 
@@ -1261,7 +1261,7 @@ Zugänglich in dem nach den besonderen registerrechtlichen Vorschriften für die
 
 2. den Verpflichteten, sofern sie der registerführenden Stelle darlegen, dass die Einsichtnahme zur Erfüllung ihrer Sorgfaltspflichten in einem der in § 10 Absatz 3 und 3a genannten Fälle erfolgt, und
 
-3. allen Mitgliedern der Öffentlichkeit.
+3. jedem, der der registerführenden Stelle ein berechtigtes Interesse nachweisen kann.
 
 In diesen Fällen ist die registerführende Stelle befugt, die zugänglichen Daten an den Einsichtnehmenden zu übermitteln. In den Fällen des Satzes 1 Nummer 1 und 2 übermittelt die registerführende Stelle neben den Angaben nach § 19 Absatz 1 auch die Eigentums- und Kontrollstrukturübersichten nach § 23a Absatz 3a, soweit diese zu den übermittelten Angaben nach § 19 Absatz 1 aufgrund einer abgeschlossenen Unstimmigkeitsmeldung vorhanden sind. Im Fall des Satzes 1 Nummer 3 sind neben den Angaben nach § 19 Absatz 1 Nummer 1 und 4 nur Monat und Jahr der Geburt des wirtschaftlich Berechtigten, sein Wohnsitzland und alle Staatsangehörigkeiten der Einsichtnahme zugänglich und dürfen übermittelt werden. Gegenüber den Behörden, Gerichten, den in § 2 Absatz 4 genannten Stellen und gegenüber Verpflichteten nach § 2 Absatz 1 Nummer 1 bis 3 und 7 sowie gegenüber Notaren sind zusätzlich die Angaben nach § 19a zu allen im Transparenzregister erfassten Immobilien der Einsichtnahme zugänglich und dürfen übermittelt werden.
 
@@ -2114,13 +2114,13 @@ b) im Fall des § 92 Absatz 3 der Bundesnotarordnung der jeweilige Präsident de
 
 9. im Übrigen die jeweils nach Bundes- oder Landesrecht zuständige Stelle.
 
-# § 51 – Aufsicht
+# § 51 – Aufsicht, Verordnungsermächtigung
 
 (1) Die Aufsichtsbehörden üben die Aufsicht über die Verpflichteten aus.
 
 (2) Die Aufsichtsbehörden können im Rahmen der ihnen gesetzlich zugewiesenen Aufgaben die geeigneten und erforderlichen Maßnahmen und Anordnungen treffen, um die Einhaltung der in diesem Gesetz und der in aufgrund dieses Gesetzes ergangenen Rechtsverordnungen festgelegten Anforderungen sicherzustellen. Insbesondere können die Aufsichtsbehörden in diesem Rahmen durch erforderliche Maßnahmen und Anordnungen sicherstellen, dass die Verpflichteten diese Anforderungen auch im Einzelfall einhalten und nicht entgegen diesen Anforderungen Geschäftsbeziehungen begründen oder fortsetzen und Transaktionen durchführen. Sie können hierzu auch die ihnen für sonstige Aufsichtsaufgaben eingeräumten Befugnisse ausüben. Widerspruch und Anfechtungsklage gegen diese Maßnahmen haben keine aufschiebende Wirkung.
 
-(2a) Die Aufsichtsbehörde nach § 50 Nummer 1 übt, unbeschadet der Aufsicht nach Absatz 1, die Aufsicht über die Einhaltung der Verordnung (EU) 2023/1113 durch Anbieter von Kryptowerte-Dienstleistungen aus. Sie kann die erforderlichen Anordnungen treffen, um die Einhaltung der Verordnung (EU) 2023/1113 durch Anbieter von Kryptowerte-Dienstleistungen sicherzustellen.
+(2a) Die Aufsichtsbehörde nach § 50 Nummer 1 übt, unbeschadet der Aufsicht nach Absatz 1, die Aufsicht über die Einhaltung der Verordnung (EU) 2023/1113 aus. Sie kann die erforderlichen Anordnungen treffen, um die Einhaltung der Verordnung (EU) 2023/1113 sicherzustellen.
 
 (3) Die Aufsichtsbehörde nach § 50 Nummer 1, soweit sich die Aufsichtstätigkeit auf die in § 50 Nummer 1 Buchstabe g und h genannten Verpflichteten oder die in § 50 Nummer 1 Buchstabe b genannten Verpflichteten, soweit sie die Voraussetzungen des § 2 Absatz 6 Nummer 16 des Kreditwesengesetzes erfüllen, bezieht, und die Aufsichtsbehörden nach § 50 Nummer 3 bis 9 können bei den Verpflichteten Prüfungen zur Einhaltung der in diesem Gesetz festgelegten Anforderungen durchführen. Die Prüfungen können ohne besonderen Anlass vor Ort und anderswo erfolgen. Die Aufsichtsbehörden können die Durchführung der Prüfungen vertraglich auf sonstige Personen und Einrichtungen übertragen. Häufigkeit und Intensität der Prüfungen haben sich am Risikoprofil der Verpflichteten im Hinblick auf Geldwäsche und Terrorismusfinanzierung zu orientieren, das in regelmäßigen Abständen und bei Eintritt wichtiger Ereignisse oder Entwicklungen in deren Geschäftsleitung und Geschäftstätigkeit neu zu bewerten ist.
 
@@ -2184,6 +2184,22 @@ Die Aufsichtsbehörden haben dem Bundesministerium der Finanzen und der Zentrals
 
 (10) Die zuständigen Aufsichtsbehörden unterrichten das Bundesministerium der Finanzen vor der Anordnung oder der Anwendung der in § 15 Absatz 5a genannten Maßnahmen. Das Bundesministerium der Finanzen unterrichtet die Europäische Kommission vor der Anordnung oder der Anwendung der in § 15 Absatz 5a genannten Maßnahmen durch die zuständigen Aufsichtsbehörden sowie über den Erlass einer Rechtsverordnung nach § 15 Absatz 10 Satz 1 Nummer 2.
 
+(11) Die Aufsichtsbehörden sind jeweils befugt, im Wege einer Allgemeinverfügung festzulegen,
+
+1. welche Meldungen, Anzeigen, Berichte, Anträge und sonstigen Informationen mit den hierzu notwendigen Unterlagen, die den Aufsichtsbehörden nach diesem Gesetz oder nach anderen Gesetzen, nach den aufgrund dieses Gesetzes erlassenen Rechtsverordnungen und nach den aufgrund dieses Gesetzes ergangenen Auskunftsersuchen vorzulegen sind, elektronisch eingereicht werden müssen und
+
+2. welches elektronische Kommunikationsverfahren für die jeweilige Vorlagepflicht bei den Aufsichtsbehörden zu nutzen ist und welche Bestimmungen für die Nutzung des jeweiligen elektronischen Kommunikationsverfahrens gelten.
+
+Die Allgemeinverfügung kann nähere Bestimmungen über Art, Umfang, Zeitpunkt, Form und Datenformat der Einreichung gemäß Satz 1 Nummer 1 treffen.
+
+(12) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates festzulegen,
+
+1. welche Meldungen, Anzeigen, Berichte, Anträge und sonstigen Informationen mit den hierzu notwendigen Unterlagen, die der Aufsichtsbehörde nach § 50 Nummer 1 und 2, soweit die Bundesanstalt für Finanzdienstleistungsaufsicht zuständige Aufsichtsbehörde ist, nach diesem Gesetz oder nach anderen Gesetzen, nach den aufgrund dieses Gesetzes erlassenen Rechtsverordnungen und nach den aufgrund dieses Gesetzes ergangenen Auskunftsersuchen vorzulegen sind, elektronisch eingereicht werden müssen und
+
+2. welches elektronische Kommunikationsverfahren für die jeweilige Vorlagepflicht bei der Aufsichtsbehörde nach § 50 Nummer 1 und 2, soweit die Bundesanstalt für Finanzdienstleistungsaufsicht zuständige Aufsichtsbehörde ist, zu nutzen ist und welche Bestimmungen für die Nutzung des jeweiligen elektronischen Kommunikationsverfahrens gelten, einschließlich der Verpflichtung zu einem Zugang zu einem elektronischen Kommunikationsverfahren im Sinne der §§ 4f und 4g des Finanzdienstleistungsaufsichtsgesetzes.
+
+Absatz 11 Satz 2 gilt entsprechend. Das Bundesministerium der Finanzen kann die Ermächtigung nach Satz 1 durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, auf die Bundesanstalt für Finanzdienstleistungsaufsicht übertragen.
+
 # § 51a – Verarbeitung personenbezogener Daten durch Aufsichtsbehörden
 
 (1) Die nach diesem Gesetz zuständigen Aufsichtsbehörden sind befugt, personenbezogene Daten zu verarbeiten, soweit dies zur Erfüllung ihrer gesetzlichen Aufgaben erforderlich ist.
@@ -2204,7 +2220,7 @@ Unter diesen Voraussetzungen ist die zuständige Aufsichtsbehörde auch von den 
 
 (4) Wird der betroffenen Person in den Fällen des Absatzes 2 Satz 1 bis 3 keine Auskunft erteilt, so ist auf ihr Verlangen je nach Zuständigkeit dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit oder der nach Landesrecht für den Datenschutz zuständigen Aufsichtsbehörde die Auskunft zu erteilen, soweit nicht im Einzelfall festgestellt wird, dass dadurch die öffentliche Sicherheit des Bundes oder eines Landes oder die Stabilität und Integrität der Finanzmärkte gefährdet würde. Die Mitteilung des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit oder der nach Landesrecht für den Datenschutz zuständigen Aufsichtsbehörde an die betroffene Person über das Ergebnis der datenschutzrechtlichen Prüfung darf keine Rückschlüsse auf den Erkenntnisstand der zuständigen Aufsichtsbehörde und der Personen und Einrichtungen, derer sich die zuständige Aufsichtsbehörde bei der Durchführung ihrer Aufgaben bedient, zulassen, sofern diese nicht einer weitergehenden Auskunft zustimmt.
 
-# § 52 – Mitwirkungspflichten
+# § 52 – Mitwirkungspflichten; Verordnungsermächtigung
 
 (1) Ein Verpflichteter, die Mitglieder seiner Organe und seine Beschäftigten haben der nach § 50 Nummer 1 zuständigen Aufsichtsbehörde, soweit sich die Aufsichtstätigkeit auf die in § 50 Nummer 1 Buchstabe g und h genannten Verpflichteten bezieht, der nach § 50 Nummer 3 bis 9 zuständigen Aufsichtsbehörde sowie den Personen und Einrichtungen, derer sich diese Aufsichtsbehörden zur Durchführung ihrer Aufgaben bedienen, auf Verlangen unentgeltlich
 
@@ -2223,6 +2239,8 @@ die für die Einhaltung der in diesem Gesetz festgelegten Anforderungen von Bede
 (5) Verpflichtete nach § 2 Absatz 1 Nummer 10 und 12 können die Auskunft auch auf Fragen verweigern, wenn sich diese Fragen auf Informationen beziehen, die sie im Rahmen der Rechtsberatung oder der Prozessvertretung des Vertragspartners erhalten haben. Die Pflicht zur Auskunft bleibt bestehen, wenn der Verpflichtete weiß, dass sein Mandant seine Rechtsberatung für den Zweck der Geldwäsche oder der Terrorismusfinanzierung in Anspruch genommen hat oder nimmt.
 
 (6) Personen, bei denen aufgrund ihrer Geschäftstätigkeit Tatsachen die Annahme rechtfertigen, dass sie Verpflichtete nach § 2 Absatz 1 sind, haben der nach § 50 zuständigen Aufsichtsbehörde auf Verlangen unentgeltlich Auskunft über alle Geschäftsangelegenheiten zu erteilen und Unterlagen vorzulegen, soweit dies für die Feststellung der Verpflichteteneigenschaft erforderlich ist. Absatz 1 Satz 2 sowie die Absätze 4 und 5 gelten entsprechend.
+
+(7) Verpflichtete haben der Bundesanstalt für Finanzdienstleistungsaufsicht, soweit diese zuständige Aufsichtsbehörde im Sinne des § 50 ist, jährlich die für die Zwecke des Artikels 40 Absatz 1 Unterabsatz 2 Buchstabe a und b der Richtlinie (EU) 2024/1640 und des Artikels 12 Absatz 2 in Verbindung mit Artikel 15 der Verordnung (EU) 2024/1620 erforderlichen Informationen zu melden. Nähere Bestimmungen zu den im Einzelnen zu übermittelnden Informationen ergeben sich insbesondere aus den von der Kommission nach Artikel 40 Absatz 2 der Richtlinie (EU) 2024/1640 sowie Artikel 12 Absatz 7 und Artikel 15 Absatz 3 der Verordnung (EU) 2024/1620 zu erlassenden technischen Regulierungs- und Durchführungsstandards in der jeweils geltenden Fassung. Das Bundesministerium der Finanzen kann durch Rechtsverordnung bestimmen, dass ergänzend zu den Informationen nach den Sätzen 1 und 2 von den Verpflichteten Informationen, die für die risikobasierte Wahrnehmung der Aufsicht durch die Bundesanstalt für Finanzdienstleistungsaufsicht erforderlich sind, zu melden sind sowie Form, Umfang und Zeitpunkt der Meldung bestimmen. Das Bundesministerium der Finanzen kann die Ermächtigung nach Satz 3 durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, auf die Bundesanstalt für Finanzdienstleistungsaufsicht übertragen.
 
 # § 53 – Hinweise auf Verstöße
 
@@ -2276,7 +2294,7 @@ a) an die Strafverfolgungsbehörden, an die für Straf- und Bußgeldsachen zust�
 
 b) an andere Stellen, die kraft Gesetzes oder im öffentlichen Auftrag mit der Aufklärung und Verhinderung von Geldwäsche oder von Terrorismusfinanzierung oder mit der Aufsicht über Kredit- und Finanzinstitute im Sinne von Artikel 3 der Richtlinie (EU) 2015/849 betraut sind, sowie an Personen, die von diesen Stellen beauftragt werden,
 
-c) an die Europäische Zentralbank, soweit sie im Einklang mit der Verordnung (EU) Nr. 1024/2013 des Rates vom 15. Oktober 2013 zur Übertragung besonderer Aufgaben im Zusammenhang mit der Aufsicht über Kreditinstitute auf die Europäische Zentralbank tätig wird,
+c) an die Europäische Zentralbank, soweit sie im Einklang mit der Verordnung (EU) Nr. 1024/2013 des Rates vom 15. Oktober 2013 zur Übertragung besonderer Aufgaben im Zusammenhang mit der Aufsicht über Kreditinstitute auf die Europäische Zentralbank tätig wird, sowie an die Europäische Bankenaufsichtsbehörde,
 
 d) an die zentralen Meldestellen im Sinne von Artikel 32 Absatz 1 der Richtlinie (EU) 2015/849 und
 
@@ -2492,9 +2510,11 @@ d) nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig der registerf
 
 73. entgegen § 52 Absatz 1 und 6
 
-a) Auskünfte nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt oder
+a) Auskünfte nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt,
 
-b) Unterlagen nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt oder
+b) Unterlagen nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
+
+73a. entgegen § 52 Absatz 7 Satz 1 und 2 oder nach einer Rechtsverordnung nach Satz 3 und 4 Informationen nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt oder
 
 74. entgegen § 52 Absatz 3 eine Prüfung nicht duldet.
 
@@ -2520,7 +2540,21 @@ Die Ordnungswidrigkeit kann bei vorsätzlicher Begehung mit einer Geldbuße bis 
 
 Die Ordnungswidrigkeit kann bei vorsätzlicher Begehung mit einer Geldbuße bis zu einhundertfünfzigtausend Euro, bei leichtfertiger Begehung mit einer Geldbuße bis zu einhunderttausend Euro, im Übrigen mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
-(3) Die Ordnungswidrigkeit nach Absatz 1 und bei vorsätzlicher oder leichtfertiger Begehung nach Absatz 2 kann geahndet werden mit einer
+(2a) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2023/1113 in der Fassung vom 31. Mai 2023 verstößt, indem er vorsätzlich oder fahrlässig
+
+1. entgegen Artikel 14 Absatz 1, 2 oder 3 nicht sicherstellt, dass eine dort genannte Angabe übermittelt wird,
+
+2. entgegen Artikel 17 Absatz 1 Unterabsatz 1, Artikel 20 oder 21 Absatz 1 Unterabsatz 1 ein dort genanntes Verfahren nicht oder nicht vor Durchführung eines Kryptowertetransfers einrichtet,
+
+3. entgegen Artikel 17 Absatz 1 Unterabsatz 2 oder Artikel 21 Absatz 1 Unterabsatz 2 einen Transfer nicht oder nicht rechtzeitig zurückweist, einen Kryptowert nicht oder nicht rechtzeitig zurücküberweist und eine dort genannte Angabe nicht oder nicht rechtzeitig anfordert,
+
+4. entgegen Artikel 19 nicht dafür sorgt, dass eine dort genannte Übermittlung erfolgt oder dass eine dort genannte Angabe zur Verfügung gestellt wird, oder
+
+5. entgegen Artikel 26 Absatz 1 Satz 2 eine dort genannte Aufzeichnung nicht oder nicht mindestens fünf Jahre nach Durchführung des Kryptowertetransfers aufbewahrt.
+
+Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zweihunderttausend Euro geahndet werden.
+
+(3) Die Ordnungswidrigkeit nach Absatz 1 und bei vorsätzlicher oder leichtfertiger Begehung nach Absatz 2 oder 2a kann geahndet werden mit einer
 
 1. Geldbuße bis zu einer Million Euro oder
 
@@ -2562,7 +2596,7 @@ Handelt es sich bei der juristischen Person oder Personenvereinigung um ein Mutt
 
 # § 57 – Bekanntmachung von bestandskräftigen Maßnahmen und von unanfechtbaren Bußgeldentscheidungen
 
-(1) Die zuständigen Aufsichts- und Verwaltungsbehörden und die Behörde nach § 56 Absatz 5 Satz 2 haben bestandskräftige Maßnahmen und unanfechtbare Bußgeldentscheidungen, die sie wegen eines Verstoßes gegen dieses Gesetz oder die auf seiner Grundlage erlassenen Rechtsverordnungen verhängt haben, nach Unterrichtung des Adressaten der Maßnahme oder Bußgeldentscheidung auf ihrer Internetseite oder auf einer gemeinsamen Internetseite bekannt zu machen. Dies gilt auch für gerichtliche Entscheidungen, soweit diese unanfechtbar geworden sind und die Verhängung eines Bußgeldes zum Gegenstand haben. In der Bekanntmachung sind Art und Charakter des Verstoßes und die für den Verstoß verantwortlichen natürlichen Personen und juristischen Personen oder Personenvereinigungen zu benennen.
+(1) Die zuständigen Aufsichts- und Verwaltungsbehörden und die Behörde nach § 56 Absatz 5 Satz 2 haben bestandskräftige Maßnahmen und unanfechtbare Bußgeldentscheidungen, die sie wegen eines Verstoßes gegen dieses Gesetz, die auf seiner Grundlage erlassenen Rechtsverordnungen oder die Bestimmungen der Verordnung (EU) 2023/1113 verhängt haben, nach Unterrichtung des Adressaten der Maßnahme oder Bußgeldentscheidung auf ihrer Internetseite oder auf einer gemeinsamen Internetseite bekannt zu machen. Dies gilt auch für gerichtliche Entscheidungen, soweit diese unanfechtbar geworden sind und die Verhängung eines Bußgeldes zum Gegenstand haben. In der Bekanntmachung sind Art und Charakter des Verstoßes und die für den Verstoß verantwortlichen natürlichen Personen und juristischen Personen oder Personenvereinigungen zu benennen.
 
 (2) Die Bekanntmachung nach Absatz 1 ist aufzuschieben, solange die Bekanntmachung
 

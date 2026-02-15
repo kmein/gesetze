@@ -132,6 +132,7 @@ Erfolgt die Ermittlung der Erben von Amts wegen, so ist das Ergebnis mit einem V
 (5) Die vorstehenden Vorschriften gelten entsprechend für Notare und sonstige Urkundspersonen, soweit ihnen Geschäfte des Nachlassgerichts übertragen sind.
 
 (+++ § 7 Abs. 2 Nr. 1 F. 2014-12-22: Zur Anwendung vgl. § 12 Abs. 3 +++)  
+(+++ § 7 Abs. 3 Nr. 2 F. 2014-07-18: Zur Anwendung vgl. § 12 Abs. 2 +++)  
 (+++ § 7 Abs. 3 Nr. 3 F. 2014-12-22: Zur Anwendung vgl. § 12 Abs. 3 +++)
 
 # § 8 – Anzeigepflicht der Gerichte, Notare und sonstigen Urkundspersonen bei Schenkungen und Zweckzuwendungen unter Lebenden

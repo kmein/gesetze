@@ -730,7 +730,7 @@ Die Bestellung durch das Gericht ist endgültig. § 318 Absatz 5 des Handelsgese
 
 5. nach den Artikeln 5 bis 14, 16 bis 19, 23 bis 25, 28 bis 30 und 45 Absatz 3 der Verordnung (EU)
 
-2022/2554, auch in Verbindung mit einer Delegierten Verordnung nach den Artikeln 15 und 20 der Verordnung (EU) 2022/2554, nachgekommen ist.
+2022/2554, auch in Verbindung mit einer Delegierten Verordnung nach den Artikeln 15, 16, 20, 28 oder Artikel 30 der Verordnung (EU) 2022/2554, nachgekommen ist.
 
 (2) Der Prüfer hat es unverzüglich der Bundesanstalt und der Deutschen Bundesbank anzuzeigen, wenn ihm bei der Prüfung Tatsachen bekannt werden,
 
@@ -796,7 +796,7 @@ Die Bundesanstalt teilt dem Institut binnen zwei Monaten nach vollständiger Üb
 
 (1) Ein Institut muss über eine ordnungsgemäße Geschäftsorganisation verfügen; die Geschäftsleiter sind für die ordnungsgemäße Geschäftsorganisation des Instituts verantwortlich. Eine ordnungsgemäße Geschäftsorganisation umfasst insbesondere:
 
-1. angemessene Maßnahmen der Unternehmenssteuerung, Kontrollmechanismen und Verfahren, die gewährleisten, dass das Institut seine Verpflichtungen erfüllt;
+1. angemessene Maßnahmen der Unternehmenssteuerung, Kontrollmechanismen und Verfahren, die gewährleisten, dass das Institut seine Verpflichtungen erfüllt, einschließlich eines angemessenen und wirksamen Risikomanagements, dessen Ausgestaltung von Art, Umfang, Komplexität und Risikogehalt der Geschäftsaktivitäten abhängt und dessen Angemessenheit und Wirksamkeit vom Institut regelmäßig zu überprüfen ist, sowie einer Internen Revision;
 
 2. das Führen und Pflegen einer Verlustdatenbank sowie eine vollständige Dokumentation der Geschäftstätigkeit, die eine lückenlose Überwachung durch die Bundesanstalt für ihren Zuständigkeitsbereich gewährleistet;
 
@@ -818,9 +818,13 @@ Die Bundesanstalt teilt dem Institut binnen zwei Monaten nach vollständiger Üb
 
 (1) Ein Institut hat der Bundesanstalt und der Deutschen Bundesbank unverzüglich anzuzeigen:
 
-1. die Absicht der Bestellung eines Geschäftsleiters und der Ermächtigung einer Person zur Einzelvertretung des Instituts in dessen gesamten Geschäftsbereich unter Angabe der Tatsachen, die für die Beurteilung der Zuverlässigkeit und der fachlichen Eignung, einschließlich der Leitungserfahrung, wesentlich sind, und den Vollzug einer solchen Absicht;
+1. die Absicht der Bestellung eines Geschäftsleiters und die Absicht der Ermächtigung einer Person zur Einzelvertretung des Instituts in dessen gesamtem Geschäftsbereich, jeweils unter Angabe der Tatsachen, die für die Beurteilung der Zuverlässigkeit, der fachlichen Eignung, einschließlich der Leitungserfahrung, und der ausreichenden zeitlichen Verfügbarkeit für die Wahrnehmung der jeweiligen Aufgaben wesentlich sind, und des Ergebnisses der Beurteilung dieser Kriterien durch das anzeigende Institut, sowie den Vollzug, die Aufgabe oder die Änderung einer solchen Absicht; neue Tatsachen, die sich auf die ursprüngliche Beurteilung der Zuverlässigkeit, der fachlichen Eignung und der ausreichenden zeitlichen Verfügbarkeit erheblich auswirken, sind ebenfalls unverzüglich nach Kenntniserlangung anzuzeigen;
+
+1a. die Bestellung eines Mitglieds und stellvertretender Mitglieder des Verwaltungs- oder Aufsichtsorgans unter Angabe der Tatsachen, die zur Beurteilung ihrer Zuverlässigkeit und Sachkunde für die Wahrnehmung ihrer Aufgaben notwendig sind; neue Tatsachen, die sich auf die ursprüngliche Beurteilung der Zuverlässigkeit, der Sachkunde und der ausreichenden zeitlichen Verfügbarkeit erheblich auswirken, sind ebenfalls unverzüglich nach Kenntniserlangung anzuzeigen;
 
 2. das Ausscheiden eines Geschäftsleiters sowie die Entziehung der Befugnis zur Einzelvertretung des Instituts in dessen gesamten Geschäftsbereich;
+
+2a. das Ausscheiden eines Mitglieds und stellvertretender Mitglieder des Verwaltungs- oder Aufsichtsorgans;
 
 3. die Änderung der Rechtsform, soweit nicht bereits eine neue Erlaubnis nach § 10 Absatz 1 oder § 11 Absatz 1 oder neue Registrierung nach § 34 Absatz 1 erforderlich ist, und die Änderung der Firma;
 
@@ -1396,31 +1400,39 @@ E-Geld-Geschäft betreibt oder
 
 (1) Ordnungswidrig handelt, wer einer vollziehbaren Anordnung nach § 7 Absatz 1 Satz 2 Nummer 1, auch in Verbindung mit Satz 4, oder nach § 20 Absatz 1, 3 oder 4 zuwiderhandelt.
 
-(2) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
-
-1. entgegen § 2 Absatz 2 Satz 1 oder Absatz 3, § 28 Absatz 1 Nummer 4 bis 10 oder Absatz 2 oder § 38 Absatz 1 Satz 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet oder
-
-2. entgegen
-
-a) § 22 Absatz 1 Satz 1 oder 3 oder Absatz 2 Satz 1 oder 2 einen Jahresabschluss, einen Lagebericht, einen Prüfungsbericht, einen Konzernabschluss oder einen Konzernlagebericht oder
-
-b) § 29 Absatz 1 Satz 1, auch in Verbindung mit Absatz 2, jeweils in Verbindung mit einer Rechtsverordnung nach Absatz 3 Satz 1 oder 2, einen Monatsausweis
-
-nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig einreicht.
+(2) (weggefallen)
 
 (3) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
 1. entgegen § 8 Absatz 1 oder § 19 Absatz 1 Satz 1 eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt oder eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
 
-2. entgegen § 8 Absatz 5 Satz 1, auch in Verbindung mit Absatz 6, oder § 19 Absatz 1 Satz 4 eine Maßnahme nicht duldet,
+2. entgegen § 8 Absatz 5 Satz 1, auch in Verbindung mit Absatz 6, oder § 19 Absatz 1 Satz 5 eine Maßnahme nicht duldet,
 
 3. einer vollziehbaren Auflage nach § 10 Absatz 4 Satz 1 oder § 11 Absatz 3 Satz 1 zuwiderhandelt,
 
+3a. entgegen
+
+a) § 14 Absatz 1 Satz 2 in Verbindung mit § 2c Absatz 1 Satz 1, 5, 6 oder 7 oder Absatz 3 Satz 1 oder 5 des Kreditwesengesetzes oder
+
+b) § 28 Absatz 1 Nummer 1 bis 2a, 4 bis 9 oder 10, Absatz 2 oder 3 oder § 38 Absatz 1 Satz 1
+
+eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
+
+3b. entgegen
+
+a) § 15 Absatz 2 Satz 1 in Verbindung mit einer Rechtsverordnung nach § 15 Absatz 3 Satz 1 Nummer 2 oder Satz 2 eine dort genannte Angabe,
+
+b) § 22 Absatz 1 Satz 1 oder Satz 3 oder Absatz 2 Satz 1 oder 2 einen Jahresabschluss, einen Lagebericht, einen Prüfungsbericht, einen Konzernabschluss oder einen Konzernlagebericht oder
+
+c) § 29 Absatz 1 Satz 1, auch in Verbindung mit § 29 Absatz 2, jeweils in Verbindung mit einer Rechtsverordnung nach § 29 Absatz 3 Satz 1 oder 2, einen Monatsausweis
+
+nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig einreicht,
+
 4. entgegen § 19 Absatz 3 Satz 1 eine dort genannte Maßnahme nicht oder nicht rechtzeitig vornimmt,
 
-5. einer vollziehbaren Anordnung nach § 21 Absatz 3 Satz 1 oder § 27 Absatz 3 Satz 1 zuwiderhandelt,
+5. einer vollziehbaren Anordnung nach § 21 Absatz 3 Satz 1 oder § 27 Absatz 3 Satz 1, auch in Verbindung mit Satz 3, zuwiderhandelt,
 
-5a. entgegen § 27 Absatz 1 Satz 1 und 2 Nummer 5 über keine angemessenen Maßnahmen, einschließlich Datenverarbeitungssysteme, zur Gewährleistung der Einhaltung der Anforderungen des Geldwäschegesetzes und der Verordnung (EU) 2015/847 verfügt,
+5a. entgegen § 27 Absatz 1 Satz 1 und 2 Nummer 5 über keine angemessenen Maßnahmen, einschließlich Datenverarbeitungssysteme, zur Gewährleistung der Einhaltung der Anforderungen des Geldwäschegesetzes und der Verordnung (EU) 2023/1113 in der Fassung vom 31. Mai 2023 verfügt,
 
 6. einer vollziehbaren Anordnung nach § 27 Absatz 2 Satz 1 in Verbindung mit § 6a Absatz 1 oder § 25i Absatz 4 des Kreditwesengesetzes zuwiderhandelt,
 
@@ -1436,13 +1448,13 @@ nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig einreicht.
 
 12. entgegen § 27 Absatz 2 Satz 1 in Verbindung mit § 8 Absatz 1 des Geldwäschegesetzes erhobene Angaben oder eingeholte Informationen nicht, nicht richtig oder nicht vollständig aufzeichnet,
 
-13. einer vollziehbaren Anordnung nach § 27 Absatz 3 zur Verhinderung und Unterbindung von Verstößen gegen die Verordnung (EU) 2015/847 zuwider handelt,
+13. (weggefallen)
 
 14. entgegen § 52 Absatz 1 und 3 einem Zahlungsauslösedienstleister oder einem Kontoinformationsdienstleister den Zugang zu einem Zahlungskonto nicht gewährt,
 
 15. entgegen § 54 Absatz 1 Satz 1 die Bundesanstalt nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig unterrichtet.
 
-(3a) Zuwiderhandlungen gegen die Verordnung (EU) 2022/2554 des Europäischen Parlaments und des Rates vom 14. Dezember 2022 über die digitale operationale Resilienz im Finanzsektor und zur Änderung der Verordnung (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014, (EU) Nr. 909/2014 und (EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1) durch Personen im Anwendungsbereich dieses Gesetzes können nach § 56 Absatz 5e und 6 Nummer 1 und 3 des Kreditwesengesetzes geahndet werden.
+(3a) Zuwiderhandlungen gegen die Verordnung (EU) 2022/2554 des Europäischen Parlaments und des Rates vom 14. Dezember 2022 über die digitale operationale Resilienz im Finanzsektor und zur Änderung der Verordnungen (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014, (EU) Nr. 909/2014 und (EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1) durch Personen im Anwendungsbereich dieses Gesetzes können nach § 56 Absatz 5e und 6 Nummer 1 und 2 des Kreditwesengesetzes geahndet werden.
 
 (4) Die Ordnungswidrigkeit kann in Fällen des Absatzes 1 mit einer Geldbuße bis zu einer Million Euro, in Fällen des Absatzes 3 Nummer 1 und 2 mit einer Geldbuße bis dreihunderttausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu hunderttausend Euro geahndet werden.
 

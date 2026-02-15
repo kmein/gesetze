@@ -505,6 +505,8 @@ Die Vorschriften der Lohnsteuer-Durchführungsverordnung über die Steuerpflicht
 
 Eigenbetrieblich genutzte Grundstücksteile brauchen nicht als Betriebsvermögen behandelt zu werden, wenn ihre Größe nicht mehr als 30 Quadratmeter oder ihr Wert nicht mehr als 40 000 Euro beträgt. In diesem Fall dürfen Aufwendungen, die mit dem Grundstücksteil im Zusammenhang stehen, nicht abgezogen werden.
 
+(+++ § 8: Zur Anwendung vgl. § 84 +++)
+
 # § 8a – (weggefallen)
 
 # § 8b – Wirtschaftsjahr
@@ -795,7 +797,7 @@ b) wenn in dem Gesamtbetrag der Einkünfte Einkünfte aus nichtselbständiger Ar
 
 (4) ¹Wird der Gewinn nach § 4 Abs. 3 des Gesetzes durch den Überschuss der Betriebseinnahmen über die Betriebsausgaben ermittelt, ist die Einnahmenüberschussrechnung nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu übermitteln. ²Auf Antrag kann die Finanzbehörde zur Vermeidung unbilliger Härten auf eine elektronische Übermittlung verzichten; in diesem Fall ist der Steuererklärung eine Gewinnermittlung nach amtlich vorgeschriebenem Vordruck beizufügen. ³§ 150 Absatz 8 der Abgabenordnung gilt entsprechend.
 
-(+++ § 60 Abs. 1 u. 4: Zur erstmaligen Anwendung vgl. § 84 +++)
+(+++ § 60: Zur Anwendung vgl. § 84 +++)
 
 # § 61 – Antrag auf hälftige Verteilung von Abzugsbeträgen im Fall des § 26a des Gesetzes
 

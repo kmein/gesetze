@@ -2868,7 +2868,9 @@ Das Bundesministerium für Wirtschaft und Energie berichtet den gesetzgebenden K
 
 (3) Die Bediensteten der Wettbewerbsbehörde eines Mitgliedstaates der Europäischen Union und andere von dieser Wettbewerbsbehörde ermächtigte oder benannte Begleitpersonen sind befugt, an Durchsuchungen und Vernehmungen mitzuwirken, die das Bundeskartellamt im Namen und für Rechnung dieser Wettbewerbsbehörde nach Artikel 22 Absatz 1 der Verordnung (EG) Nr. 1/2003 durchführt.
 
-(4) In anderen als in den Absätzen 1 bis 3 bezeichneten Fällen nimmt das Bundeskartellamt die Aufgaben wahr, die den Behörden der Mitgliedstaaten der Europäischen Union in den Artikeln 104 und 105 des Vertrages über die Arbeitsweise der Europäischen Union sowie in Verordnungen nach Artikel 103 des Vertrages über die Arbeitsweise der Europäischen Union, auch in Verbindung mit Artikel 43 Absatz 2, Artikel 100 Absatz 2, Artikel 105 Absatz 3 und Artikel 352 Absatz 1 des Vertrages über die Arbeitsweise der Europäischen Union, übertragen sind. Im Beratenden Ausschuss für die Kontrolle von Unternehmenszusammenschlüssen nach Artikel 19 der Verordnung (EG) Nr. 139/2004 wird die Bundesrepublik Deutschland durch das Bundesministerium für Wirtschaft und Energie oder das Bundeskartellamt vertreten. Absatz 2 Satz 2 gilt entsprechend.
+(4) Das Bundeskartellamt nimmt die Aufgaben und Befugnisse nach Artikel 14 Absatz 5 bis 7 der Verordnung (EU) 2022/2560 wahr. Die bei der Anwendung dieses Gesetzes maßgeblichen Verfahrensvorschriften gelten entsprechend. Die erhobenen Informationen dürfen in entsprechender Anwendung des § 50d mit der Europäischen Kommission und den Wettbewerbsbehörden der anderen Mitgliedstaaten der Europäischen Union ausgetauscht und verwendet werden.
+
+(5) In anderen als in den Absätzen 1 bis 4 bezeichneten Fällen nimmt das Bundeskartellamt die Aufgaben wahr, die den Behörden der Mitgliedstaaten der Europäischen Union in den Artikeln 104 und 105 des Vertrages über die Arbeitsweise der Europäischen Union sowie in Verordnungen nach Artikel 103 des Vertrages über die Arbeitsweise der Europäischen Union, auch in Verbindung mit Artikel 43 Absatz 2, Artikel 100 Absatz 2, Artikel 105 Absatz 3 und Artikel 352 Absatz 1 des Vertrages über die Arbeitsweise der Europäischen Union, übertragen sind. Im Beratenden Ausschuss für die Kontrolle von Unternehmenszusammenschlüssen nach Artikel 19 der Verordnung (EG) Nr. 139/2004 wird die Bundesrepublik Deutschland durch das Bundesministerium für Wirtschaft und Energie oder das Bundeskartellamt vertreten. Absatz 2 Satz 2 gilt entsprechend.
 
 # § 50a – Ermittlungen im Netzwerk der europäischen Wettbewerbsbehörden
 
@@ -2980,7 +2982,7 @@ Vertrauliche Angaben, einschließlich Betriebs- und Geschäftsgeheimnisse, aus V
 
 1. für vertrauliche Informationen, insbesondere Betriebs- und Geschäftsgeheimnisse, sowie
 
-2. für Informationen, die nach § 50d dieses Gesetzes, nach der Verordnung (EU) 2022/1925 oder nach Artikel 12 der Verordnung (EG) Nr. 1/2003 erlangt worden sind.
+2. für Informationen, die nach § 50d dieses Gesetzes, nach der Verordnung (EU) 2022/1925 nach der Verordnung (EU) 2022/2560 oder nach Artikel 12 der Verordnung (EG) Nr. 1/2003 erlangt worden sind.
 
 Die Sätze 2 und 3 Nummer 1 lassen die Regelungen des Wertpapiererwerbs- und Übernahmegesetzes sowie des Gesetzes über den Wertpapierhandel über die Zusammenarbeit mit anderen Behörden unberührt.
 
@@ -4026,7 +4028,7 @@ a) diese Tätigkeit auf der Grundlage von besonderen oder ausschließlichen Rech
 
 b) öffentliche Auftraggeber gemäß § 99 Nummer 1 bis 3 auf diese Personen einzeln oder gemeinsam einen beherrschenden Einfluss ausüben können.
 
-(2) Besondere oder ausschließliche Rechte im Sinne von Absatz 1 Nummer 2 Buchstabe a sind Rechte, die dazu führen, dass die Ausübung dieser Tätigkeit einem oder mehreren Unternehmen vorbehalten wird und dass die Möglichkeit anderer Unternehmen, diese Tätigkeit auszuüben, erheblich beeinträchtigt wird. Keine besonderen oder ausschließlichen Rechte in diesem Sinne sind Rechte, die aufgrund eines Verfahrens nach den Vorschriften dieses Teils oder aufgrund eines sonstigen Verfahrens gewährt wurden, das angemessen bekannt gemacht wurde und auf objektiven Kriterien beruht.
+(2) Besondere oder ausschließliche Rechte im Sinne von Absatz 1 Nummer 2 Buchstabe a sind Rechte, die dazu führen, dass die Ausübung dieser Tätigkeit einem oder mehreren Unternehmen vorbehalten wird und dass die Möglichkeit anderer Unternehmen, diese Tätigkeit auszuüben, erheblich beeinträchtigt wird. Keine besonderen oder ausschließlichen Rechte in diesem Sinne sind Rechte, die aufgrund eines Verfahrens nach den Vorschriften dieses Teils oder aufgrund eines sonstigen Verfahrens gewährt wurden, das angemessen bekannt gemacht wurde und auf objektiven Kriterien beruht. Zu den in Satz 2 genannten Verfahren zählen dabei insbesondere solche, die in Anhang II der Richtlinie 2014/25/EU genannt sind.
 
 (3) Die Ausübung eines beherrschenden Einflusses im Sinne von Absatz 1 Nummer 2 Buchstabe b wird vermutet, wenn ein öffentlicher Auftraggeber gemäß § 99 Nummer 1 bis 3
 
@@ -4044,11 +4046,11 @@ b) öffentliche Auftraggeber gemäß § 99 Nummer 1 bis 3 auf diese Personen ein
 
 1. öffentliche Auftraggeber gemäß § 99 Nummer 1 bis 3, die eine Konzession vergeben,
 
-2. Sektorenauftraggeber gemäß § 100 Absatz 1 Nummer 1, die eine Sektorentätigkeit gemäß § 102 Absatz 2 bis 6 ausüben und eine Konzession zum Zweck der Ausübung dieser Tätigkeit vergeben,
+2. Sektorenauftraggeber gemäß § 100 Absatz 1 Nummer 1, die eine Sektorentätigkeit gemäß § 102 Absatz 2 bis 7 ausüben und eine Konzession zum Zweck der Ausübung dieser Tätigkeit vergeben,
 
-3. Sektorenauftraggeber gemäß § 100 Absatz 1 Nummer 2, die eine Sektorentätigkeit gemäß § 102 Absatz 2 bis 6 ausüben und eine Konzession zum Zweck der Ausübung dieser Tätigkeit vergeben.
+3. Sektorenauftraggeber gemäß § 100 Absatz 1 Nummer 2, die eine Sektorentätigkeit gemäß § 102 Absatz 2 bis 7 ausüben und eine Konzession zum Zweck der Ausübung dieser Tätigkeit vergeben.
 
-(2) § 100 Absatz 2 und 3 gilt entsprechend.
+(2) § 100 Absatz 2 und 3 gilt entsprechend. Zu den in § 100 Absatz 2 Satz 2 genannten Verfahren zählen dabei insbesondere solche, die in Anhang III der Richtlinie 2014/23/EU genannt sind.
 
 (+++ § 101: Zur Anwendung vgl. § 41 Abs. 2 MessbG +++)
 
@@ -4092,7 +4094,19 @@ b) die Einspeisung zielt nur darauf ab, diese Erzeugung wirtschaftlich zu nutzen
 
 2. der Exploration oder Förderung von Kohle oder anderen festen Brennstoffen.
 
-(7) Für die Zwecke der Absätze 1 bis 3 umfasst der Begriff „Einspeisung“ die Erzeugung und Produktion sowie den Groß- und Einzelhandel. Die Erzeugung von Gas fällt unter Absatz 6.
+(7) Sektorentätigkeiten im Bereich Postdienstleistungen sind
+
+1. Postdienste,
+
+2. andere Dienste als Postdienste, vorausgesetzt, dass diese Dienstleistungen von einer Stelle erbracht werden, die auch Postdienste im Sinne der Sätze 2 und 3 erbringt, und dass die in § 140 Absatz 1 genannten Bedingungen hinsichtlich der Dienstleistungen nach den Sätzen 2 und 3 nicht erfüllt sind.
+
+Postdienste im Sinne dieses Gesetzes sind Dienste, die die Abholung, das Sortieren, den Transport und die Zustellung von Postsendungen betreffen. Dies umfasst sowohl Dienstleistungen, die Universaldienstleistungen im Sinne der Richtlinie 97/67/EG darstellen, als auch andere Dienstleistungen. Postsendungen im Sinne dieses Gesetzes sind adressierte Sendungen in der endgültigen Form, in der sie befördert werden, ungeachtet ihres Gewichts. Neben Briefsendungen handelt es sich dabei beispielsweise um Bücher, Kataloge, Zeitungen und Zeitschriften sowie um Postpakete, die Waren mit oder ohne Handelswert enthalten, ungeachtet ihres Gewichts. Andere Dienste als Postdienste im Sinne dieses Gesetzes sind
+
+1. Managementdienste für Postversandstellen (Dienste vor dem Versand und nach dem Versand wie beispielsweise Mailroom Management) sowie
+
+2. Dienste, die nicht unter Satz 4 erfasste Sendungen wie etwa nicht adressierte Postwurfsendungen betreffen.
+
+(8) Für die Zwecke der Absätze 1 bis 3 umfasst der Begriff „Einspeisung“ die Erzeugung und Produktion sowie den Groß- und Einzelhandel. Die Erzeugung von Gas fällt unter Absatz 6.
 
 (+++ § 102: Zur Anwendung vgl. § 41 Abs. 2 MessbG +++)
 
@@ -4304,7 +4318,7 @@ wird danach bestimmt, welcher geschätzte Wert der jeweiligen Liefer- oder Diens
 
 1. wird der Auftrag nach den Vorschriften vergeben, denen der Hauptgegenstand des Auftrags zuzuordnen ist; enthält der Auftrag Elemente einer Dienstleistungskonzession und eines Lieferauftrags, wird der Hauptgegenstand danach bestimmt, welcher geschätzte Wert der jeweiligen Dienst- oder Lieferleistungen höher ist,
 
-2. kann der Auftrag ohne Anwendung der Vorschriften dieses Teils oder gemäß den Vorschriften über die Vergabe von verteidigungs- oder sicherheitsspezifischen öffentlichen Aufträgen vergeben werden, wenn der Auftrag Elemente enthält, auf die § 107 Absatz 2 Nummer 1 oder 2 anzuwenden ist.
+2. kann der Auftrag oder die Konzession ohne Anwendung der Vorschriften dieses Teils vergeben werden, wenn darin Elemente enthalten sind, auf die § 107 Absatz 2 Nummer 1 oder 2 anzuwenden ist; der Auftrag oder die Konzession kann auch gemäß den Vorschriften über die Vergabe von verteidigungs- oder sicherheitsspezifischen öffentlichen Aufträgen oder gemäß den Vorschriften über die Vergabe von Konzessionen vergeben werden.
 
 (5) Die Entscheidung, einen Gesamtauftrag oder getrennte Aufträge zu vergeben, darf nicht zu dem Zweck getroffen werden, die Auftragsvergabe von den Vorschriften zur Vergabe öffentlicher Aufträge und Konzessionen auszunehmen.
 
@@ -4415,6 +4429,16 @@ b) die Dienstleistung vollständig durch den Auftraggeber vergütet wird,
 6. Dienstleistungen, die an einen öffentlichen Auftraggeber nach § 99 Nummer 1 bis 3 vergeben werden, der ein auf Gesetz oder Verordnung beruhendes ausschließliches Recht hat, die Leistungen zu erbringen.
 
 (2) Dieser Teil ist ferner nicht auf öffentliche Aufträge und Wettbewerbe anzuwenden, die hauptsächlich den Zweck haben, dem öffentlichen Auftraggeber die Bereitstellung oder den Betrieb öffentlicher Kommunikationsnetze oder die Bereitstellung eines oder mehrerer elektronischer Kommunikationsdienste für die Öffentlichkeit zu ermöglichen.
+
+(3) Dieser Teil ist darüber hinaus ebenfalls nicht anzuwenden auf die Vergabe von öffentlichen Aufträgen, wenn sie von einem öffentlichen Auftraggeber vergeben werden, der Postdienste im Sinne des § 102 Absatz 7 erbringt, die der Durchführung einer der folgenden Tätigkeiten dienen:
+
+1. Mehrwertdienste, die mit elektronischen Mitteln verknüpft sind und gänzlich mit diesen Mitteln erbracht werden (einschließlich der abgesicherten Übermittlung von verschlüsselten Dokumenten mit elektronischen Mitteln, Adressenverwaltungsdiensten und der Übermittlung von registrierten E-Mail-Sendungen),
+
+2. Finanzdienstleistungen im Zusammenhang mit der Ausgabe, dem Verkauf, dem Kauf oder der Übertragung von Wertpapieren oder anderen Finanzinstrumenten, sowie gemäß den CPV-Codes 6610 00 00-1 bis 66720000-3, insbesondere Postanweisungen und -überweisungen,
+
+3. philatelistische Dienstleistungen oder
+
+4. logistische Dienstleistungen, bei denen die materielle Auslieferung, Lagerung oder eine Kombination des Vorgenannten mit anderen nicht postalischen Aufgaben kombiniert wird.
 
 (+++ § 116: Zur Anwendung vgl. § 41 Abs. 2 MessbG +++)
 
@@ -4741,7 +4765,7 @@ Bei mehreren aufeinander folgenden Änderungen ist der Gesamtwert der Änderunge
 
 und dieser Verstoß in einem Nachprüfungsverfahren festgestellt worden ist.
 
-(2) Die Unwirksamkeit nach Absatz 1 kann nur festgestellt werden, wenn sie im Nachprüfungsverfahren innerhalb von 30 Kalendertagen nach der Information der betroffenen Bieter und Bewerber durch den öffentlichen Auftraggeber über den Abschluss des Vertrags, jedoch nicht später als sechs Monate nach Vertragsschluss geltend gemacht worden ist. Hat der Auftraggeber die Auftragsvergabe im Amtsblatt der Europäischen Union bekannt gemacht, endet die Frist zur Geltendmachung der Unwirksamkeit 30 Kalendertage nach Veröffentlichung der Bekanntmachung der Auftragsvergabe im Amtsblatt der Europäischen Union.
+(2) Die Unwirksamkeit nach Absatz 1 kann nur festgestellt werden, wenn sie im Nachprüfungsverfahren innerhalb von 30 Kalendertagen nach der Information der betroffenen Bieter und Bewerber durch den öffentlichen Auftraggeber über den Abschluss des Vertrags einschließlich einer Zusammenfassung der einschlägigen Gründe entsprechend § 134 Absatz 1 Satz 1 unter Berücksichtigung von Absatz 3 Satz 2, jedoch nicht später als sechs Monate nach Vertragsschluss geltend gemacht worden ist. Hat der Auftraggeber die Auftragsvergabe im Amtsblatt der Europäischen Union bekannt gemacht, endet die Frist zur Geltendmachung der Unwirksamkeit 30 Kalendertage nach Veröffentlichung der Bekanntmachung der Auftragsvergabe im Amtsblatt der Europäischen Union, sofern in der Bekanntmachung die Angaben entsprechend Absatz 3 Satz 2 enthalten sind.
 
 (3) Die Unwirksamkeit nach Absatz 1 Nummer 2 tritt nicht ein, wenn
 

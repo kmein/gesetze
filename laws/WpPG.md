@@ -159,17 +159,7 @@ einschätzen und bestmöglich mit den Merkmalen anderer Wertpapiere vergleichen 
 
 (4) Die Bundesanstalt veröffentlicht auf ihrer Webseite die nach § 4 gestatteten Wertpapier-Informationsblätter. Diese bleiben zehn Jahre lang auf der Webseite öffentlich zugänglich. Die Bundesanstalt veröffentlicht auf ihrer Webseite auch die nach § 4 Absatz 8 Satz 1 übermittelten aktualisierten Fassungen der Wertpapier-Informationsblätter; Satz 2 gilt entsprechend.
 
-# § 6 – Einzelanlageschwellen für nicht qualifizierte Anleger
-
-Unbeschadet der Vorgaben in den §§ 4 und 5 ist die Befreiung von der Pflicht zur Veröffentlichung eines Prospekts nach § 3 Nummer 2 auf ein Angebot von Wertpapieren nur anwendbar, wenn die angebotenen Wertpapiere ausschließlich im Wege der Anlageberatung oder Anlagevermittlung über ein Wertpapierdienstleistungsunternehmen vermittelt werden, das rechtlich verpflichtet ist, zu prüfen, ob der Gesamtbetrag der Wertpapiere, die von einem nicht qualifizierten Anleger erworben werden können, folgende Beträge nicht übersteigt:
-
-1. 1 000 Euro,
-
-2. 10 000 Euro, sofern der jeweilige nicht qualifizierte Anleger nach einer von ihm zu erteilenden Selbstauskunft über ein frei verfügbares Vermögen in Form von Bankguthaben und Finanzinstrumenten von mindestens 100 000 Euro verfügt, oder
-
-3. den zweifachen Betrag des durchschnittlichen monatlichen Nettoeinkommens des jeweiligen nicht qualifizierten Anlegers nach einer von ihm zu erteilenden Selbstauskunft, höchstens jedoch 25 000 Euro Euro.
-
-Die Einschränkungen nach Satz 1 gelten nicht für Wertpapiere, die den Aktionären im Rahmen einer Bezugsrechtsemission angeboten werden.
+# § 6 – (weggefallen)
 
 # § 7 – Werbung für Angebote, für die ein Wertpapier-Informationsblatt zu veröffentlichen ist
 

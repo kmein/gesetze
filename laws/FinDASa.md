@@ -119,43 +119,7 @@ Der Verwaltungsrat wird durch den Vorsitzenden und bei dessen Verhinderung durch
 
 Eine Beschlussfassung des Verwaltungsrats im schriftlichen Verfahren oder in Verfahren der Telekommunikation ist zulässig. Das Nähere regelt die Geschäftsordnung.
 
-# § 8 – Fachbeirat
-
-(1) Der Fachbeirat wählt aus dem Kreis seiner Mitglieder einen Vorsitzenden und gibt sich zur Durchführung seiner Sitzungen eine Geschäftsordnung. Der Fachbeirat wird nach Bedarf, mindestens einmal jährlich, vom Vorsitzenden oder von der Vorsitzenden oder bei Verhinderung von einem Stellvertreter einberufen. Falls beide verhindert oder noch nicht gewählt sind, wird der Fachbeirat vom Präsidenten oder von der Präsidentin einberufen. Der Fachbeirat ist einzuberufen, wenn das Bundesministerium oder der Präsident oder die Präsidentin dies beantragen. Er ist ferner auf Verlangen eines Viertels seiner Mitglieder einzuberufen. Jedes Mitglied des Fachbeirats hat das Recht, Beratungsvorschläge einzubringen. Diese sind den Fachbeiratsmitgliedern vor der Entscheidung über die Tagesordnung zur Kenntnis zu geben und zu beraten, wenn vier Beiratsmitglieder dies unterstützen. Der Präsident oder die Präsidentin, die Exekutivdirektoren und Exekutivdirektorinnen, der oder die Beauftragte für den Anleger- und Verbraucherschutz und ein Vertreter des Bundesministeriums nehmen an den Sitzungen des Fachbeirats teil. Für die Vertretung des Präsidenten oder der Präsidentin und der Exekutivdirektoren und Exekutivdirektorinnen gilt § 6 Absatz 3 Satz 2 entsprechend. Die Sitzungen sind nicht öffentlich. Der Vorsitzende des Fachbeirats kann externe Berater zu den Sitzungen hinzuziehen.
-
-(2) Die Mitglieder werden von der Bundesanstalt im Einvernehmen mit dem Bundesministerium auf die Dauer von fünf Jahren bestellt; ihre Wiederbestellung ist möglich. Für die Mitglieder des Fachbeirats gelten die Vorschriften des § 3 Absatz 3, Absatz 4 Satz 7 und Absatz 5 entsprechend. Im Fall der Verhinderung können Mitglieder unter Beachtung des Vorschlagrechts nach Absatz 4 Stellvertreter benennen. Dies ist der Bundesanstalt und dem bzw. der Beiratsvorsitzenden vor der Sitzung anzuzeigen.
-
-(3) Der Präsident oder die Präsidentin oder bei Verhinderung der Stellvertreter verpflichtet die Beiratsmitglieder und deren Vertreter sowie externe Berater mündlich zu gewissenhafter Durchführung ihrer Aufgaben und zu Verschwiegenheit. Über die Verpflichtung ist eine Niederschrift aufzunehmen. Bei Wiederberufung genügt die Verweisung auf die frühere Verpflichtung.
-
-(4) Für die Bestellung der Mitglieder aus den in § 8 Absatz 2 Satz 3 des Finanzdienstleistungsaufsichtsgesetzes genannten Unternehmensgruppen besitzen die nachfolgenden Verbände ein namentliches Vorschlagsrecht:
-
-1. für einen Vertreter der Kreditwirtschaft der Bundesverband deutscher Banken e. V.,
-
-2. für einen Vertreter der Kreditwirtschaft der Deutsche Sparkassen- und Giroverband e. V.,
-
-3. für einen Vertreter der Kreditwirtschaft der Bundesverband der Volks- und Raiffeisenbanken e. V.,
-
-4. für einen Vertreter der Kreditwirtschaft der Verband der Auslandsbanken e. V.,
-
-5. für einen Vertreter der Kreditwirtschaft der Bundesverband Öffentlicher Banken Deutschlands e. V.,
-
-6. für einen Vertreter der Kreditwirtschaft der Verband deutscher Pfandbriefbanken e. V. in Abstimmung mit dem Verband der Privaten Bausparkassen e. V. und der Bundesgeschäftsstelle der Landesbausparkassen,
-
-7. für einen Vertreter der Kapitalverwaltungsgesellschaften und der Finanzdienstleistungsinstitute der Bundesverband Investment und Asset Management e. V.,
-
-8. für vier Vertreter der Versicherungswirtschaft der Gesamtverband der Deutschen Versicherungswirtschaft e.V.,
-
-9. für einen Vertreter der Verband der privaten Krankenversicherung e. V.,
-
-10. für einen Vertreter die Arbeitsgemeinschaft für betriebliche Altersversorgung e. V..
-
-Darüber hinaus soll sich der Fachbeirat aus drei Mitgliedern der Wissenschaft, insbesondere der Bankbetriebs- und Versicherungsbetriebslehre, sowie fachwissenschaftlicher Vereinigungen, drei Vertretern von Verbraucherschutzorganisationen, einem Vertreter der Deutschen Bundesbank sowie je einem Vertreter der freien Berufe, der mittelständischen Vereinigungen, der Gewerkschaften und einem Vertreter der Industrie zusammensetzen. Eine gleichzeitige Mitgliedschaft in anderen Beiräten der Bundesanstalt ist möglich.
-
-(5) Der Präsident oder die Präsidentin der Bundesanstalt unterrichtet den Fachbeirat regelmäßig, mindestens einmal jährlich, in einem Bericht über aktuelle Themen der Aufsicht.
-
-(6) Der Fachbeirat kann auf Antrag eines Mitglieds des Direktoriums, des oder der Beauftragten für den Anleger- und Verbraucherschutz, des Bundesministeriums oder mindestens eines Viertels seiner Mitglieder in fachlichen Angelegenheiten Empfehlungen an die Bundesanstalt aussprechen. Hierzu ist erforderlich, dass mehr als die Hälfte der Mitglieder des Beirats diese Empfehlung unterstützt. Bei Beratungen über Aspekte der Zusammenarbeit der Bundesanstalt mit der Deutschen Bundesbank ist der Vertreter der Deutschen Bundesbank nicht stimmberechtigt.
-
-(7) Über das Ergebnis der Sitzung und über den Verlauf der Beratungen ist ein Protokoll anzufertigen, das von dem oder der Vorsitzenden oder vom Stellvertreter zu unterzeichnen ist. Das Nähere regelt die Geschäftsordnung.
+# § 8 – (weggefallen)
 
 (+++ § 8 Abs. 1 bis 3 u. 7: Zur Anwendung vgl. § 8a Abs. 4 +++)  
 (+++ § 8 Abs. 1 Satz 1 u. 3 bis 11, Abs. 2, 3 u. 7: Zur Anwendung vgl. § 8a Abs. 5 +++)
@@ -168,9 +132,15 @@ Darüber hinaus soll sich der Fachbeirat aus drei Mitgliedern der Wissenschaft, 
 
 (3) Der Verbraucherbeirat kann auf Antrag des oder der Beauftragten für den Anleger- und Verbraucherschutz, eines Mitglieds des Direktoriums, des Bundesministeriums der Finanzen oder mindestens eines Viertels seiner Mitglieder in Angelegenheiten des Verbraucher- oder Anlegerschutzes Empfehlungen an die Bundesanstalt aussprechen. Hierzu ist es erforderlich, dass mehr als die Hälfte der Mitglieder des Verbraucherbeirats diese Empfehlung unterstützt.
 
-(4) Der Verbraucherbeirat bringt seine Expertise zu Grundsatzfragen des Verbraucherschutzes ebenso ein wie zu neuen Entwicklungen mit absehbaren Auswirkungen auf Verbraucherinnen und Verbraucher. Dazu informiert die Bundesanstalt den Beirat regelmäßig und möglichst frühzeitig unter anderem auch über Marktuntersuchungen und Maßnahmen mit Verbraucherbezug. Der Verbraucherbeirat wird nach Bedarf, im Regelfall mindestens jedoch dreimal jährlich, von seiner oder seinem Vorsitzenden oder bei Verhinderung von einem Stellvertreter oder einer Stellvertreterin einberufen. Bei der Vorbereitung dieser Sitzungen und der Erarbeitung gegebenenfalls erforderlicher Unterlagen, zum Beispiel von Empfehlungen oder Stellungnahmen an die Bundesanstalt, wird der Verbraucherbeirat durch ein von der Bundesanstalt zu stellendes Sekretariat unterstützt.
+(4) Der Verbraucherbeirat bringt seine Expertise zu Grundsatzfragen des Verbraucherschutzes ebenso ein wie zu neuen Entwicklungen mit absehbaren Auswirkungen auf Verbraucherinnen und Verbraucher. Dazu informiert die Bundesanstalt den Beirat regelmäßig und möglichst frühzeitig unter anderem auch über Marktuntersuchungen und Maßnahmen mit Verbraucherbezug. Der Verbraucherbeirat wird nach Bedarf, im Regelfall mindestens jedoch dreimal jährlich, von seiner oder seinem Vorsitzenden oder bei Verhinderung von einem Stellvertreter oder einer Stellvertreterin einberufen. Falls beide verhindert oder noch nicht gewählt sind, wird der Verbraucherbeirat vom Präsidenten oder von der Präsidentin einberufen. Der Verbraucherbeirat ist einzuberufen, wenn das Bundesministerium oder der Präsident oder die Präsidentin dies beantragen. Er ist ferner auf Verlangen eines Viertels seiner Mitglieder einzuberufen. Bei der Vorbereitung dieser Sitzungen und der Erarbeitung gegebenenfalls erforderlicher Unterlagen, zum Beispiel von Empfehlungen oder Stellungnahmen an die Bundesanstalt, wird der Verbraucherbeirat durch ein von der Bundesanstalt zu stellendes Sekretariat unterstützt.
 
-(5) Die Vorschriften des § 8 Absatz 1 Satz 1 und 3 bis 11, Absatz 2, 3 und 7 sind entsprechend anzuwenden.
+(5) Der Verbraucherbeirat wählt aus dem Kreis seiner Mitglieder einen Vorsitzenden und gibt sich zur Durchführung seiner Sitzungen eine Geschäftsordnung. Jedes Mitglied des Verbraucherbeirats hat das Recht, Beratungsvorschläge einzubringen. Diese sind den Verbraucherbeiratsmitgliedern vor der Entscheidung über die Tagesordnung zur Kenntnis zu geben und zu beraten, wenn vier Beiratsmitglieder dies unterstützen. Der Präsident oder die Präsidentin, die Exekutivdirektoren und Exekutivdirektorinnen, der oder die Beauftragte für den Anleger- und Verbraucherschutz und ein Vertreter des Bundesministeriums nehmen an den Sitzungen des Verbraucherbeirats teil. Für die Vertretung des Präsidenten oder der Präsidentin und der Exekutivdirektoren und Exekutivdirektorinnen gilt § 6 Absatz 3 Satz 2 entsprechend. Die Sitzungen sind nicht öffentlich. Der Vorsitzende des Verbraucherbeirats kann externe Berater zu den Sitzungen hinzuziehen.
+
+(6) Die Mitglieder des Verbraucherbeirates werden auf die Dauer von fünf Jahren bestellt; ihre Wiederbestellung ist möglich. Für die Mitglieder des Verbraucherbeirats gelten die Vorschriften des § 3 Absatz 3, Absatz 4 Satz 7 und Absatz 5 entsprechend. Im Fall der Verhinderung können Mitglieder Stellvertreter benennen. Dies ist der Bundesanstalt und dem Beiratsvorsitzenden vor der Sitzung anzuzeigen.
+
+(7) Der Präsident oder die Präsidentin oder bei Verhinderung der Stellvertreter verpflichtet die Beiratsmitglieder und deren Vertreter sowie externe Berater mündlich zu gewissenhafter Durchführung ihrer Aufgaben und zu Verschwiegenheit. Über die Verpflichtung ist eine Niederschrift aufzunehmen. Bei Wiederberufung genügt die Verweisung auf die frühere Verpflichtung.
+
+(8) Über das Ergebnis der Sitzung und über den Verlauf der Beratungen ist ein Protokoll anzufertigen, das von dem oder der Vorsitzenden oder vom Stellvertreter zu unterzeichnen ist. Das Nähere regelt die Geschäftsordnung.
 
 # § 9 – Haushaltsplan
 

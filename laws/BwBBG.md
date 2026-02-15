@@ -1,100 +1,228 @@
-% Gesetz zur Beschleunigung von Beschaffungsmaßnahmen für die Bundeswehr*  (Bundeswehrbeschaffungsbeschleunigungsgesetz - BwBBG)
-% Ausfertigungsdatum: 11.07.2022
+% Gesetz zur Beschleunigung von Beschaffungsmaßnahmen für die Bundeswehr  (Bundeswehrbeschaffungsbeschleunigungsgesetz - BwBBG)
+% Ausfertigungsdatum: 10.02.2026
  
-# § 1 – Zweck
+# Inhaltsübersicht
 
-(1) Dieses Gesetz dient dem zeitnahen Erreichen eines breiten, modernen und innovationsorientierten Fähigkeitsspektrums der Bundeswehr und damit der Stärkung der Bündnis- und Verteidigungsfähigkeit.
+# § 1 – Anwendungsbereich
 
-(2) Mit den Vorschriften dieses Gesetzes soll die Durchführung von Verfahren für die Vergabe öffentlicher Aufträge, die diesem Zweck dienen, beschleunigt werden. Zudem sollen Sicherheitsinteressen im Vergabeverfahren vereinfacht berücksichtigt werden können.
+(1) Dieses Gesetz gilt für öffentliche Aufträge, deren geschätzter Auftrags- oder Vertragswert ohne Umsatzsteuer die Schwellenwerte nach § 106 Absatz 2 des Gesetzes gegen Wettbewerbsbeschränkungen erreicht oder überschreitet, zur Deckung
 
-# § 2 – Anwendungsbereich
+1. der Bedarfe der Bundeswehr, die vergeben werden durch
 
-Dieses Gesetz gilt für öffentliche Aufträge, deren geschätzter Auftrags- oder Vertragswert ohne Umsatzsteuer die Schwellenwerte gemäß § 106 Absatz 2 Nummer 3 des Gesetzes gegen Wettbewerbsbeschränkungen erreicht oder überschreitet und deren Auftragsgegenstand mindestens eine der folgenden Leistungen umfasst:
+a) das Bundesministerium der Verteidigung und die Behörden in seinem Geschäftsbereich,
 
-1. die Lieferung von Militärausrüstung zur unmittelbaren Stärkung der Einsatzfähigkeit der Bundeswehr, einschließlich dazugehöriger Teile, Bauteile oder Bausätze im Sinne des § 104 Absatz 2 des Gesetzes gegen Wettbewerbsbeschränkungen, die durch das Bundesministerium der Verteidigung, die Behörden in seinem Geschäftsbereich oder die bundeseigenen Gesellschaften vergeben wird oder
+b) Gesellschaften mit Mehrheitsbeteiligung des Bundes,
 
-2. Bau- und Instandhaltungsleistungen in unmittelbarem Zusammenhang mit der in Nummer 1 genannten Ausrüstung, die vergeben werden durch
+c) die Einrichtungen der Länder, denen nach § 5b des Finanzverwaltungsgesetzes die Erledigung von Bauaufgaben im Geschäftsbereich des Bundesministeriums der Verteidigung übertragen wurde,
 
-a) das Bundesministerium der Verteidigung oder die Behörden in seinem Geschäftsbereich,
+d) das Bundesamt für Bauwesen und Raumordnung und
 
-b) die bundeseigenen Gesellschaften oder
+e) die Bundesanstalt für Immobilienaufgaben, sowie
 
-c) die Einrichtungen der Länder, denen nach § 5b des Finanzverwaltungsgesetzes die Erledigung von Bauaufgaben im Geschäftsbereich des Bundesministeriums der Verteidigung übertragen wurde.
+2. von Bedarfen der Streitkräfte anderer Mitgliedstaaten der Europäischen Union oder von Vertragsparteien des Abkommens über den Europäischen Wirtschaftsraum, soweit diese jeweils durch Auftraggeber im Sinne des § 98 des Gesetzes gegen Wettbewerbsbeschränkungen vergeben werden.
 
-# § 3 – Beschleunigte Vergabeverfahren
+(2) Abweichend von § 106 Absatz 2 Nummer 1 des Gesetzes gegen Wettbewerbsbeschränkungen haben obere Bundesbehörden oder vergleichbare Bundeseinrichtungen im Geschäftsbereich des Bundesministeriums der Verteidigung nicht den Schwellenwert für zentrale Regierungsbehörden anzuwenden.
 
-(1) Abweichend von § 97 Absatz 4 Satz 3 des Gesetzes gegen Wettbewerbsbeschränkungen dürfen mehrere Teil- oder Fachlose zusammen vergeben werden, wenn wirtschaftliche, technische oder zeitliche Gründe dies rechtfertigen. § 97 Absatz 4 des Gesetzes gegen Wettbewerbsbeschränkungen ist mit der Maßgabe anzuwenden, dass das Unternehmen, das nicht öffentlicher Auftraggeber ist und mit der Wahrnehmung oder Durchführung einer öffentlichen Aufgabe betraut ist, bei der Vergabe von Unteraufträgen auch nach Satz 1 dieses Absatzes zu verfahren hat.
+(3) Für die Vergabe von öffentlichen Liefer-, Bau- und Dienstleistungsaufträgen und Rahmenvereinbarungen zur Deckung der Bedarfe nach Absatz 1, deren geschätzter Auftrags- oder Vertragswert ohne Umsatzsteuer die Schwellenwerte nach § 106 Absatz 2 des Gesetzes gegen Wettbewerbsbeschränkungen nicht erreicht, gelten die §§ 6 und 8 dieses Gesetzes.
 
-(2) § 10 Absatz 1 der Vergabeverordnung Verteidigung und Sicherheit vom 12. Juli 2012 (BGBl. I S. 1509), die zuletzt durch Artikel 5 des Gesetzes vom 12. November 2020 (BGBl. I S. 2392) geändert worden ist, ist mit der Maßgabe anzuwenden, dass mehrere Teil- oder Fachlose zusammen vergeben werden dürfen, wenn wirtschaftliche, technische oder zeitliche Gründe dies rechtfertigen, insbesondere weil die Leistungsbeschreibung die Systemfähigkeit der Leistung verlangt und dies durch den Auftragsgegenstand gerechtfertigt ist.
+# § 2 – Ausnahmen auf Basis des Vertrages über die Arbeitsweise der Europäischen Union
 
-(3) Bei der Vergabe öffentlicher Bauaufträge dürfen mehrere Teil- oder Fachlose zusammen vergeben werden, wenn wirtschaftliche, technische oder zeitliche Gründe dies rechtfertigen. Wird ein Unternehmen, das nicht öffentlicher Auftraggeber ist, mit der Wahrnehmung oder Durchführung einer öffentlichen Aufgabe betraut, verpflichtet der Auftraggeber das Unternehmen, sofern es Unteraufträge öffentlicher Bauaufträge an Dritte vergibt, auch nach Absatz 1 Satz 1 zu verfahren.
+(1) § 107 Absatz 2 des Gesetzes gegen Wettbewerbsbeschränkungen in Verbindung mit Artikel 346 des Vertrages über die Arbeitsweise der Europäischen Union ist mit der Maßgabe anzuwenden, dass
 
-(4) Abweichend von § 135 Absatz 1 des Gesetzes gegen Wettbewerbsbeschränkungen kann in einem Nachprüfungsverfahren bei Feststellung eines Verstoßes des Auftraggebers im Sinne des § 135 Absatz 1 des Gesetzes gegen Wettbewerbsbeschränkungen auf Antrag des Auftraggebers ein Vertrag nicht als unwirksam erachtet werden, wenn nach Prüfung aller maßgeblichen Gesichtspunkte unter Berücksichtigung des Zweckes im Sinne des § 1, der besonderen Verteidigungs- und Sicherheitsinteressen sowie der unmittelbaren Stärkung der Einsatzfähigkeit der Bundeswehr zwingende Gründe eines Allgemeininteresses es ausnahmsweise rechtfertigen, die Wirkung des Vertrages zu erhalten. In Fällen des Satzes 1 hat die Vergabekammer oder das Beschwerdegericht alternative Sanktionen zur Feststellung der Unwirksamkeit nach Maßgabe des Absatzes 5 zu erlassen. § 156 Absatz 3, § 179 Absatz 1 und § 181 des Gesetzes gegen Wettbewerbsbeschränkungen bleiben unberührt.
+1. Beschaffungen zum Erreichen der europäischen Verteidigungsbereitschaft oder der des nordatlantischen Bündnisses die wesentlichen Sicherheitsinteressen der Bundesrepublik Deutschland grundsätzlich berühren,
 
-(5) Durch die Vergabekammer oder das Beschwerdegericht im Nachprüfungsverfahren zu erlassende alternative Sanktionen nach Absatz 4 Satz 2 müssen wirksam, verhältnismäßig und abschreckend sein. Sie umfassen die Verhängung einer Geldsanktion gegen den Auftraggeber oder die Verkürzung der Laufzeit des Vertrages. Eine Geldsanktion darf höchstens 15 Prozent des Auftragswertes betragen.
+2. Versorgungssicherheit durch die Erzeugung von Waffen, Munition und Kriegsmaterial einschließlich der Schaffung der erforderlichen Infrastruktur und Produktionskapazitäten
 
-(6) Zwecke im Sinne des § 145 Nummer 7 Buchstabe c des Gesetzes gegen Wettbewerbsbeschränkungen umfassen die satzungsgemäßen Zwecke der internationalen Organisation.
+a) auf dem Bundesgebiet in der Regel ein wesentliches Sicherheitsinteresse der Bundesrepublik Deutschland ist und
 
-(7) Zur Beschleunigung der Beschaffungsvorhaben sind grundsätzlich im Rahmen der Markterkundung am Markt verfügbare Leistungen und Produkte zur Erfüllung der Fähigkeitsanforderungen zu identifizieren. Wird eine nicht bereits am Markt verfügbare Leistung beschafft, soll die Wirtschaftlichkeitsuntersuchung auch umfassen, aus welchen Gründen eine nicht auf dem Markt verfügbare Leistung beschafft wird und inwieweit welcher zusätzliche Nutzen damit im Zusammenhang stehende Zusatzkosten rechtfertigt.
+b) auf dem Gebiet der Europäischen Union oder des nordatlantischen Bündnisses ein wesentliches Sicherheitsinteresse der Bundesrepublik Deutschland sein kann,
 
-# § 4 – Gemeinsame europäische Beschaffung
+3. wesentliche Sicherheitsinteressen der Bundesrepublik Deutschland auch berührt sein können, wenn die gemeinsame Durchführung eines öffentlichen Auftrags wesentliche Sicherheitsinteressen eines anderen beteiligten Mitgliedstaates, der Europäischen Union oder einer Vertragspartei des nordatlantischen Bündnisses betrifft,
 
-(1) Abweichend von § 97 Absatz 2 des Gesetzes gegen Wettbewerbsbeschränkungen dürfen Auftraggeber die Teilnahme an einem Vergabeverfahren auf Bewerber oder Bieter beschränken, die in einem Mitgliedstaat der Europäischen Union ansässig sind, wenn der öffentliche Auftrag im Rahmen eines Kooperationsprogramms vergeben wird, welches mit mindestens einem anderen Mitgliedstaat der Europäischen Union durchgeführt wird. Von der Beschränkung nach Satz 1 sind Bewerber und Bieter auszunehmen, die in einem Staat ansässig sind, der Vertragspartei des Abkommens über den Europäischen Wirtschaftsraum ist oder der dem Übereinkommen über das öffentliche Beschaffungswesen von 1994 (ABl. C 256 vom 3.9.1996, S. 1), geändert durch das Protokoll zur Änderung des Übereinkommens über das öffentliche Beschaffungswesen (ABl. L 68 vom 7.3.2014, S. 2) oder anderen, für die Europäische Union bindenden internationalen Übereinkommen beigetreten ist, wenn der öffentliche Auftrag in den Anwendungsbereich des jeweiligen Übereinkommens fällt. Die Beschränkung nach Satz 1 muss mit Hinweis auf diese Vorschrift in der Auftragsbekanntmachung und den Vergabeunterlagen aufgeführt werden.
+4. wesentliche Sicherheitsinteressen der Bundesrepublik Deutschland insbesondere berührt sein können, wenn der öffentliche Auftrag verteidigungsindustrielle Schlüsseltechnologien auf dem Bundesgebiet betrifft oder auf sonstige Weise zur Stärkung der technologischen Souveränität im Bereich der Sicherheits- und Verteidigungsindustrie auf dem Bundesgebiet beiträgt.
 
-(2) Wird ein öffentlicher Auftrag gemäß § 104 des Gesetzes gegen Wettbewerbsbeschränkungen im Rahmen eines Kooperationsprogramms, welches mit mindestens einem anderen Mitgliedstaat der Europäischen Union durchgeführt wird, oder auf andere Weise gemeinsam mit einem anderen Mitgliedstaat der Europäischen Union oder mit der Europäischen Union vergeben, und fällt dieser öffentliche Auftrag in den Anwendungsbereich des Teils 4 des Gesetzes gegen Wettbewerbsbeschränkungen,
+(2) § 107 Absatz 2 Satz 3 Nummer 2 Buchstabe a des Gesetzes gegen Wettbewerbsbeschränkungen ist überdies mit der Maßgabe anzuwenden, dass wesentliche Sicherheitsinteressen im Sinne des Artikels 346 Absatz 1 Buchstabe a des Vertrages über die Arbeitsweise der Europäischen Union auch berührt sein können, wenn der öffentliche Auftrag Leistungen für die Bundeswehr oder für Zwecke nachrichtendienstlicher Tätigkeiten betrifft.
 
-1. ist ferner § 97 Absatz 4 Satz 2 bis 4 des Gesetzes gegen Wettbewerbsbeschränkungen nicht anzuwenden;
+(3) Der Vierte Teil des Gesetzes gegen Wettbewerbsbeschränkungen ist in den von Artikel 347 des Vertrages über die Arbeitsweise der Europäischen Union benannten Ausnahmesituationen nicht anzuwenden.
 
-2. müssen Leistungen auch bei der Vergabe öffentlicher Bauaufträge nicht in der Menge aufgeteilt und nach Art oder Fachgebiet vergeben oder Auftragnehmer entsprechend für Unteraufträge verpflichtet werden;
+(4) § 107 Absatz 2 des Gesetzes gegen Wettbewerbsbeschränkungen bleibt im Übrigen unberührt.
 
-3. können wesentliche Sicherheitsinteressen der Bundesrepublik Deutschland im Sinne des § 107 Absatz 2 des Gesetzes gegen Wettbewerbsbeschränkungen insbesondere auch berührt sein, wenn die gemeinsame Durchführung des öffentlichen Auftrags wesentliche Sicherheitsinteressen eines anderen beteiligten Mitgliedstaates oder der Europäischen Union betrifft;
+# § 3 – Ausnahmen von den Voraussetzungen des Gesetzes gegen Wettbewerbsbeschränkungen
 
-4. ergänzend zu § 5 dieses Gesetzes und § 169 Absatz 2, § 173 Absatz 2 und § 176 Absatz 1 des Gesetzes gegen Wettbewerbsbeschränkungen überwiegen die besonderen Verteidigungs- und Sicherheitsinteressen in der Regel, sofern die gemeinsame Durchführung sonst von einem anderen teilnehmenden Mitgliedstaat abgebrochen würde;
+(1) § 145 Nummer 1 des Gesetzes gegen Wettbewerbsbeschränkungen ist mit der Maßgabe anzuwenden, dass auch Aufträge, die den Zwecken der Tätigkeiten des militärischen Nachrichtenwesens dienen, erfasst sind.
 
-5. kann ein technisches Alleinstellungsmerkmal im Sinne des § 12 Absatz 1 Nummer 1 Buchstabe c der Vergabeverordnung Verteidigung und Sicherheit auch dann vorliegen, wenn die Beschaffung von Ausrüstung, die bereits bei einem Mitgliedstaat im Einsatz ist, die einzige ist, die die gemeinsame Durchführung des öffentlichen Auftrags ermöglicht.
+(2) § 145 Nummer 7 Buchstabe c des Gesetzes gegen Wettbewerbsbeschränkungen ist mit der Maßgabe anzuwenden, dass die dort genannten Zwecke auch die satzungsgemäßen Zwecke der internationalen Organisation umfassen.
 
-Die Verfahrenserleichterungen nach Satz 1 gelten auch für die gemeinsame Durchführung mit mindestens einer Vertragspartei des Abkommens über den Europäischen Wirtschaftsraum. Sie gelten ferner, wenn die gemeinsame Durchführung mit mindestens einem Drittstaat erfolgt, der dem Übereinkommen über das öffentliche Beschaffungswesen von 1994 (ABl. C 256 vom 3.9.1996, S. 1), geändert durch das Protokoll zur Änderung des Übereinkommens über das öffentliche Beschaffungswesen (ABl. L 68 vom 7.3.2014, S. 2) oder anderen für die Europäische Union bindenden internationalen Übereinkommen beigetreten ist, und der öffentliche Auftrag in den Anwendungsbereich des jeweiligen Übereinkommens fällt.
+(3) Der Vierte Teil des Gesetzes gegen Wettbewerbsbeschränkungen ist auf die Vergabe von verteidigungs- oder sicherheitsspezifischen öffentlichen Aufträgen auch in den Fällen des Artikels 13 der Richtlinie 2009/81/EG nicht anzuwenden. § 145 des Gesetzes gegen Wettbewerbsbeschränkungen bleibt unberührt.
 
-# § 5 – Beschleunigte Verfahren vor der Vergabekammer
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 2.10.2026 I Nr. 40 +++)
 
-(1) Ergänzend zu § 166 Absatz 1 Satz 3 des Gesetzes gegen Wettbewerbsbeschränkungen kann auch nach Lage der Akten entschieden werden, soweit dies der Beschleunigung dient. Die mündliche Verhandlung kann im Wege der Bild- und Tonübertragung nach § 128a der Zivilprozessordnung durchgeführt werden.
+# § 4 – Ausnahmen von den Voraussetzungen der Vergabeverordnungen
 
-(2) Bei der Auswahl der geeigneten Maßnahmen nach § 168 Absatz 1 Satz 1 des Gesetzes gegen Wettbewerbsbeschränkungen hat die Vergabekammer auch den Zweck nach § 1, die besonderen Verteidigungs- und Sicherheitsinteressen sowie die unmittelbare Stärkung der Einsatzfähigkeit der Bundeswehr zu berücksichtigen.
+(1) Ein Verhandlungsverfahren ohne Teilnahmewettbewerb ist auch zulässig, wenn die Fristen, die für das nicht offene Verfahren und das Verhandlungsverfahren mit Teilnahmewettbewerb vorgeschrieben sind, nicht eingehalten werden können, weil dringliche zwingende Gründe dies nicht zulassen und eine kontinuierliche Leistungserbringung aus Verteidigungs- und Sicherheitsinteressen sichergestellt werden muss. Der Auftrag ist in diesem Fall auf den Umfang zu beschränken, der unabdingbar ist, um die Leistungserbringung bis zu einer wettbewerblichen Auftragsvergabe sicherzustellen. Satz 1 gilt in den Fällen des § 20 Absatz 2 Satz 2 und Absatz 3 Satz 2 der Vergabeverordnung Verteidigung und Sicherheit entsprechend. Die Sätze 1 und 2 gelten für verteidigungs- und sicherheitsspezifische öffentliche Bauaufträge entsprechend. § 12 Absatz 1 Nummer 1 Buchstabe b der Vergabeverordnung Verteidigung und Sicherheit bleibt unberührt.
 
-(3) Bei der Abwägung nach § 169 Absatz 2 Satz 1 des Gesetzes gegen Wettbewerbsbeschränkungen über die vorzeitige Gestattung des Zuschlags ist auch der Zweck des § 1 zu berücksichtigen. Die besonderen Verteidigungs- und Sicherheitsinteressen überwiegen in der Regel, wenn der öffentliche Auftrag im unmittelbaren Zusammenhang mit der unmittelbaren Stärkung der Einsatzfähigkeit der Bundeswehr steht. Bei Entscheidungen nach § 169 Absatz 2 Satz 6 und 7 und Absatz 3 des Gesetzes gegen Wettbewerbsbeschränkungen ist auch der Zweck des § 1 zu berücksichtigen. Die besonderen Verteidigungs- und Sicherheitsinteressen überwiegen in der Regel, wenn der öffentliche Auftrag im unmittelbaren Zusammenhang mit der unmittelbaren Stärkung der Einsatzfähigkeit der Bundeswehr steht.
+(2) Eine technische Besonderheit im Sinne des § 12 Absatz 1 Nummer 1 Buchstabe c der Vergabeverordnung Verteidigung und Sicherheit kann auch bei Anforderungen an die Interoperabilität der Ausrüstung vorliegen. Dies gilt insbesondere auch dann, wenn nur die Beschaffung von Ausrüstung, über die bereits von einem Mitgliedstaat der Europäischen Union ein Auftrag vergeben wurde, eine militärische Zusammenarbeit mit diesem Mitgliedstaat ermöglicht.
 
-(4) Stellt die Vergabekammer im Nachprüfungsverfahren einen Verstoß des Auftraggebers im Sinne des § 135 Absatz 1 Nummer 1 oder 2 des Gesetzes gegen Wettbewerbsbeschränkungen fest, hat sie § 3 Absatz 4 und 5 zu beachten.
+(3) § 12 Absatz 1 Nummer 1 Buchstabe c der Vergabeverordnung Verteidigung und Sicherheit und § 14 Absatz 4 Nummer 2 der Vergabeverordnung sind mit der Maßgabe anzuwenden, dass bei der Betrachtung, ob ein Auftrag nur von einem bestimmten Unternehmen erbracht oder durchgeführt werden kann, Unternehmen, die in einem Staat außerhalb der Europäischen Union ansässig sind, unberücksichtigt bleiben können. Satz 1 gilt für öffentliche Bauaufträge entsprechend. In den Fällen der Sätze 1 und 2 gilt § 11 Absatz 5 entsprechend.
 
-# § 6 – Beschleunigte sofortige Beschwerde
+(4) Ein Verhandlungsverfahren ohne Teilnahmewettbewerb ist auch in den Fällen des Artikels 28 der Richtlinie 2009/81/EG zulässig. § 12 Absatz 1 der Vergabeverordnung Verteidigung und Sicherheit bleibt unberührt.
 
-(1) Bei der Abwägung nach § 173 Absatz 2 Satz 1 des Gesetzes gegen Wettbewerbsbeschränkungen ist auch der Zweck des § 1 zu berücksichtigen. Die besonderen Verteidigungs- und Sicherheitsinteressen überwiegen in der Regel, wenn der öffentliche Auftrag im unmittelbaren Zusammenhang mit der unmittelbaren Stärkung der Einsatzfähigkeit der Bundeswehr steht.
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 2.10.2026 I Nr. 40 +++)
 
-(2) Ergänzend zu § 175 Absatz 2 in Verbindung mit § 166 Absatz 1 des Gesetzes gegen Wettbewerbsbeschränkungen kann das Gericht im Ausnahmefall nach Lage der Akten entscheiden, insbesondere, wenn dies der Beschleunigung dient und kein unmittelbarer Eindruck der Parteien oder direkter Austausch des tatsächlichen und rechtlichen Vortrags erforderlich ist. Die mündliche Verhandlung kann im Wege der Bild- und Tonübertragung nach § 128a der Zivilprozessordnung durchgeführt werden.
+# § 5 – Ausnahmen vom Haushaltsrecht
 
-(3) Bei der Abwägung nach § 176 Absatz 1 Satz 1 des Gesetzes gegen Wettbewerbsbeschränkungen ist auch der Zweck des § 1 zu berücksichtigen. Die besonderen Verteidigungs- und Sicherheitsinteressen überwiegen in der Regel, wenn der öffentliche Auftrag im unmittelbaren Zusammenhang mit der unmittelbaren Stärkung der Einsatzfähigkeit der Bundeswehr steht.
+§ 56 Absatz 1 der Bundeshaushaltsordnung ist mit der Maßgabe anzuwenden, dass Vorleistungen insbesondere auch dann vereinbart werden dürfen, wenn das Vorsehen einer Vorleistung in den Vertragsbedingungen in einem wettbewerblichen Verfahren aus Sicht des Auftraggebers auf Basis einer durchgeführten Markterkundung
 
-(4) § 177 des Gesetzes gegen Wettbewerbsbeschränkungen ist nicht anzuwenden.
+1. eine höhere Anzahl an Bewerbern oder Bietern,
 
-(5) § 178 des Gesetzes gegen Wettbewerbsbeschränkungen ist mit der Maßgabe anzuwenden, dass die Beschwerdeentscheidung innerhalb einer Frist von sechs Monaten ab Eingang der sofortigen Beschwerde zu treffen und zu begründen ist. Bei besonderen tatsächlichen oder rechtlichen Schwierigkeiten kann der Vorsitzende die Frist durch Mitteilung an die Beteiligten einmalig um den erforderlichen Zeitraum verlängern, wobei dieser Zeitraum vier Wochen nicht überschreiten soll. Abweichend von § 178 Satz 2 des Gesetzes gegen Wettbewerbsbeschränkungen entscheidet das Gericht stets in der Sache selbst.
+2. eine höhere Qualität der Leistung oder
 
-(6) Für das Beschwerdegericht gilt § 5 Absatz 4 entsprechend.
+3. eine beschleunigte Erweiterung verteidigungsindustrieller Kapazitäten
 
-# § 7 – Verstärkte Berücksichtigung von Sicherheitsinteressen im Vergabeverfahren
+erwarten lässt.
 
-(1) § 145 Nummer 1 des Gesetzes gegen Wettbewerbsbeschränkungen umfasst auch Aufträge, die den Zwecken der Tätigkeiten des militärischen Nachrichtenwesens dienen.
+# § 6 – Ausnahme von der Allgemeinen Verwaltungsvorschrift zur Beschaffung klimafreundlicher Leistungen; Prüfung weiterer Ausnahmen
 
-(2) Abweichend von § 97 Absatz 2 des Gesetzes gegen Wettbewerbsbeschränkungen dürfen Auftraggeber Bewerber oder Bieter von der Teilnahme an einem Vergabeverfahren ausschließen, wenn der Bewerber oder Bieter in einem Staat außerhalb der Europäischen Union ansässig ist, der nicht die notwendige Gewähr für die Wahrung der Sicherheitsinteressen der Bundesrepublik Deutschland bietet.
+(1) Die Allgemeine Verwaltungsvorschrift zur Beschaffung klimafreundlicher Leistungen ist im Anwendungsbereich dieses Gesetzes nicht anzuwenden. Satz 1 gilt entsprechend hinsichtlich der Vergabe von öffentlichen Liefer-, Bau- und Dienstleistungsaufträgen und Rahmenvereinbarungen, auf die der Vierte Teil des Gesetzes gegen Wettbewerbsbeschränkungen nicht anzuwenden ist, weil ihr geschätzter Auftrags- oder Vertragswert ohne Umsatzsteuer die Schwellenwerte gemäß § 106 Absatz 2 des Gesetzes gegen Wettbewerbsbeschränkungen nicht erreicht.
 
-(3) § 9 Absatz 1 der Vergabeverordnung Verteidigung und Sicherheit ist mit der Maßgabe anzuwenden, dass Auftraggeber von Bietern verlangen können, in ihrem Angebot keine Unterauftragnehmer vorzusehen, die in einem Staat außerhalb der Europäischen Union ansässig sind, der nicht die notwendige Gewähr für die Wahrung der Sicherheitsinteressen der Bundesrepublik Deutschland bietet.
+(2) Die Bundesregierung prüft und berichtet dem Bundestag bis zum 31. Dezember 2026, ob und inwieweit in Gesetze und Verordnungen Ausnahmen aufgenommen werden sollen, um den Belangen der Bundeswehr gerecht zu werden. Sie legt bis spätestens 30. Juni 2027 entsprechende Gesetzes- und Verordnungsvorschläge vor.
 
-(4) § 9 Absatz 2 der Vergabeverordnung Verteidigung und Sicherheit ist mit der Maßgabe anzuwenden, dass Auftraggeber dem Auftragnehmer vorgeben können, keine Unterauftragnehmer zu beauftragen, die in einem Staat außerhalb der Europäischen Union ansässig sind, der nicht die notwendige Gewähr für die Wahrung der Sicherheitsinteressen der Bundesrepublik Deutschland bietet.
+# § 7 – Marktverfügbarkeit; Vergabereife
 
-(5) Die Absätze 2 bis 4 gelten nicht in Bezug auf Auftragnehmer und Unterauftragnehmer, die in einem Staat ansässig sind, der Vertragspartei des Abkommens über den Europäischen Wirtschaftsraum ist. Sie gelten ferner nicht in Bezug auf Auftragnehmer und Unterauftragnehmer, die in einem Drittstaat ansässig sind, der dem Übereinkommen über das öffentliche Beschaffungswesen von 1994 (ABl. C 256 vom 3.9.1996, S. 1), geändert durch das Protokoll zur Änderung des Übereinkommens über das öffentliche Beschaffungswesen (ABl. L 68 vom 7.3.2014, S. 2) oder anderen, für die Europäische Union bindenden internationalen Übereinkommen beigetreten ist, wenn der öffentliche Auftrag in den Anwendungsbereich des jeweiligen Übereinkommens fällt.
+(1) Zur Beschleunigung der Beschaffungsvorhaben sind grundsätzlich im Rahmen der Markterkundung am Markt verfügbare Leistungen und Produkte zu identifizieren. Bei der Erkundung sind auch zivile Märkte zu berücksichtigen.
 
-# § 8 – Übergangsregelungen
+(2) Bei Vorliegen von Verteidigungs- und Sicherheitsinteressen kann der Auftraggeber ein Vergabeverfahren einleiten, ohne dass dessen Finanzierung bereits gesichert ist. Die nicht gesicherte Finanzierung ist in der Auftragsbekanntmachung oder den Vergabeunterlagen darzulegen.
 
-Die Regelungen dieses Gesetzes sind auf vor dem Inkrafttreten dieses Gesetzes begonnene, aber noch nicht abgeschlossene Vergabeverfahren anzuwenden, die die Vergabe öffentlicher Aufträge nach § 2 zum Gegenstand haben.
+# § 8 – Abweichungen vom Losgrundsatz
 
-# § 9 – Inkrafttreten, Außerkrafttreten
+(1) § 97 Absatz 4 Satz 2 bis 4 des Gesetzes gegen Wettbewerbsbeschränkungen und § 10 Absatz 1 der Vergabeverordnung Verteidigung und Sicherheit finden keine Anwendung.
 
-Dieses Gesetz tritt am Tag nach der Verkündung in Kraft. Es tritt mit Ablauf des 31. Dezember 2026 außer Kraft.
+(2) Leistungen öffentlicher Bauaufträge müssen nicht in der Menge aufgeteilt und getrennt nach Art oder Fachgebiet vergeben werden. Wird ein Unternehmen, das nicht öffentlicher Auftraggeber ist, mit der Wahrnehmung oder Durchführung einer öffentlichen Aufgabe betraut, muss der Auftraggeber das Unternehmen nicht verpflichten, sofern es Unteraufträge öffentlicher Bauaufträge an Dritte vergibt, Leistungen in der Menge aufgeteilt und getrennt nach Art oder Fachgebiet zu vergeben.
+
+(3) Die Absätze 1 und 2 gelten entsprechend für öffentliche Aufträge, deren geschätzter Auftrags- oder Vertragswert ohne Umsatzsteuer die Schwellenwerte nach § 106 Absatz 2 des Gesetzes gegen Wettbewerbsbeschränkungen nicht erreicht.
+
+# § 9 – Anpassungen des Vergabeverfahrens
+
+(1) § 104 Absatz 3 des Gesetzes gegen Wettbewerbsbeschränkungen ist mit der Maßgabe anzuwenden, dass er auch Verschlusssachenaufträge im Bereich der militärischen Sicherheit umfasst.
+
+(2) Bei der Prüfung eines Ausschlusses nach § 124 Absatz 1 Nummer 6 des Gesetzes gegen Wettbewerbsbeschränkungen sind auch die Auswirkungen auf Verteidigungs- und Sicherheitsinteressen durch die Beteiligung oder Nichtbeteiligung des Unternehmens an der Ausschreibung in die Abwägung einzubeziehen.
+
+(3) Erklärungen oder sonstige Unterlagen zum Nachweis der Eignung und des Nichtvorliegens von Ausschlussgründen können unter Einhaltung der Grundsätze der Transparenz und der Gleichbehandlung ergänzt, erläutert, vervollständigt oder korrigiert werden. Der Auftraggeber ist berechtigt, von der Nachforderung von Unterlagen abzusehen. Soweit der Auftraggeber plant, von der Möglichkeit nach Satz 2 Gebrauch zu machen, legt er dies in der Auftragsbekanntmachung oder den Vergabeunterlagen fest. Die Unterlagen sind vom Bewerber oder Bieter nach Aufforderung durch den Auftraggeber innerhalb einer von diesem festzulegenden angemessenen, nach dem Kalender bestimmten Frist vorzulegen. Die Entscheidung über und das Ergebnis der Nachforderung sind zu dokumentieren. § 22 Absatz 6 der Vergabeverordnung Verteidigung und Sicherheit bleibt unberührt.
+
+(4) In Fällen, in denen weniger als drei wertungsfähige Angebote vorliegen, kann der Auftraggeber abweichend von § 31 Absatz 2 Nummer 2 bis 4 der Vergabeverordnung Verteidigung und Sicherheit Bieter unter Einhaltung der Grundsätze der Transparenz und der Gleichberechtigung auffordern, im Angebot fehlende Unterlagen zu übermitteln oder unvollständige oder fehlerhafte Unterlagen zu ergänzen, zu erläutern, zu vervollständigen oder zu korrigieren. Die Nachforderung von leistungsbezogenen Unterlagen, die die Wirtschaftlichkeitsbewertung der Angebote anhand der Zuschlagskriterien betreffen, ist ausgeschlossen. Absatz 3 Satz 2 bis 4 gilt entsprechend. Die Sätze 1 bis 3 dieses Absatzes gelten für verteidigungs- und sicherheitsspezifische öffentliche Bauaufträge entsprechend.
+
+(5) Ein Vergabeverfahren kann auch dann aufgehoben werden, wenn dieses nach § 7 Absatz 2 ohne bereits gesicherte Finanzierung eingeleitet wurde und die Finanzierung des öffentlichen Auftrags endgültig nicht gesichert ist, ohne dass dies dem Auftraggeber zuzurechnen ist. § 37 Absatz 1 der Vergabeverordnung Verteidigung und Sicherheit bleibt unberührt.
+
+(6) § 8 Absatz 2 Nummer 3 der Vergabeverordnung Verteidigung und Sicherheit ist mit der Maßgabe anzuwenden, dass Auftraggeber insbesondere auch Bescheinigungen oder Unterlagen hinsichtlich der Erfüllung von Anforderungen an die Versorgungssicherheit in Bezug auf die Verfügbarkeit von Schlüsselressourcen verlangen können.
+
+(7) Auftraggeber prüfen in geeigneten Fällen die Aufnahme anreizorientierter Regelungen in die Vertragsunterlagen.
+
+# § 10 – Unwirksamkeit des Vertrages und alternative Sanktionen
+
+(1) Abweichend von § 135 Absatz 1 des Gesetzes gegen Wettbewerbsbeschränkungen kann in einem Nachprüfungsverfahren bei Feststellung eines Verstoßes des Auftraggebers im Sinne des § 135 Absatz 1 des Gesetzes gegen Wettbewerbsbeschränkungen auf Antrag des Auftraggebers ein Vertrag nicht als unwirksam erachtet werden, wenn nach Prüfung aller maßgeblichen Gesichtspunkte und unter Berücksichtigung von Verteidigungs- und Sicherheitsinteressen zwingende Gründe des Allgemeininteresses dies rechtfertigen. In den Fällen des Satzes 1 hat die Vergabekammer oder das Beschwerdegericht alternative Sanktionen zur Feststellung der Unwirksamkeit nach Maßgabe des Absatzes 2 zu erlassen.
+
+(2) Alternative Sanktionen nach Absatz 1 Satz 2 müssen wirksam, verhältnismäßig und abschreckend sein. Sie umfassen die Verhängung einer Geldsanktion gegen den Auftraggeber oder die Verkürzung der Laufzeit des Vertrages. Eine Geldsanktion darf höchstens 10 Prozent des Auftragswertes betragen.
+
+(3) § 156 Absatz 3, § 179 Absatz 1 und § 181 des Gesetzes gegen Wettbewerbsbeschränkungen bleiben unberührt.
+
+# § 11 – Angebote aus Drittstaaten
+
+(1) Abweichend von § 97 Absatz 2 des Gesetzes gegen Wettbewerbsbeschränkungen dürfen Auftraggeber die Teilnahme an einem Vergabeverfahren zu jedem Zeitpunkt des Verfahrens auf Bewerber oder Bieter beschränken, die in einem Mitgliedstaat der Europäischen Union ansässig sind. Nur diese sind abweichend von § 160 Absatz 2 des Gesetzes gegen Wettbewerbsbeschränkungen in einem Nachprüfungsverfahren antragsbefugt.
+
+(2) Auftraggeber können festlegen, dass ein bestimmter wertmäßiger Anteil der in Ausführung des Vertrages gelieferten oder sonst zum Einsatz gebrachten Waren oder erbrachten Dienstleistungen aus Mitgliedstaaten der Europäischen Union stammen muss. § 128 Absatz 2 des Gesetzes gegen Wettbewerbsbeschränkungen bleibt unberührt.
+
+(3) § 9 Absatz 1 der Vergabeverordnung Verteidigung und Sicherheit ist mit der Maßgabe anzuwenden, dass Auftraggeber von Bietern verlangen können, in ihrem Angebot keine Unterauftragnehmer vorzusehen, die in einem Staat außerhalb der Europäischen Union ansässig sind.
+
+(4) § 9 Absatz 2 der Vergabeverordnung Verteidigung und Sicherheit ist mit der Maßgabe anzuwenden, dass Auftraggeber dem Auftragnehmer vorgeben können, keine Unterauftragnehmer zu beauftragen, die in einem Staat außerhalb der Europäischen Union ansässig sind.
+
+(5) Als Bewerber, Bieter und Unterauftragnehmer im Sinne der Absätze 1, 3 und 4, die in der Europäischen Union ansässig sind, gelten auch Unternehmen, die in einem Staat ansässig sind, der Vertragspartei über den Europäischen Wirtschaftsraum ist. Gleiches gilt für Bewerber, Bieter und Unterauftragnehmer, die in einem Drittstaat ansässig sind, der dem Übereinkommen über das öffentliche Beschaffungswesen von 1994 (ABl. C 256 vom 3.9.1996, S. 1), geändert durch das Protokoll zur Änderung des Übereinkommens über das öffentliche Beschaffungswesen (ABl. L 68 vom 7.3.2014, S. 2) oder anderen, für die Europäische Union bindenden internationalen Übereinkommen beigetreten ist, wenn der öffentliche Auftrag in den Anwendungsbereich des jeweiligen Übereinkommens fällt. In den Fällen des Absatzes 2 gelten die Sätze 1 und 2 dieses Absatzes für Waren und Dienstleistungen aus diesen Staaten entsprechend.
+
+(6) Bei der Anwendung der Absätze 1 bis 5 auf den Kauf von Waffen, Munition und Kriegsmaterial sind die Auswirkungen auf die europäische technologische Souveränität und die Produktionskapazitäten auf dem Bundesgebiet und dem Gebiet der Europäischen Union zu beachten. Eine Dokumentation der Prüfung nach Satz 1 ist nicht erforderlich.
+
+(7) Die Bundesregierung erarbeitet bis zum 30. September 2026 Leitlinien, wie im Zusammenhang mit Rüstungskäufen, die außerhalb des EU-Vergaberechts durchgeführt werden, die Vereinbarung von Kompensationsgeschäften verstärkt geprüft und gefördert werden kann.
+
+# § 12 – Gemeinsame europäische Beschaffung
+
+Wird ein öffentlicher Auftrag im Rahmen eines Kooperationsprogramms, welches mit mindestens einem anderen Mitgliedstaat der Europäischen Union durchgeführt wird, oder auf andere Weise gemeinsam mit einem anderen Mitgliedstaat der Europäischen Union, mit einer Vertragspartei des Abkommens über den Europäischen Wirtschaftsraum oder mit der Europäischen Union vergeben, überwiegen bei den Entscheidungen in einem Nachprüfungsverfahren oder in einem Beschwerdeverfahren bei der Abwägung der Interessen in der Regel die Verteidigungs- und Sicherheitsinteressen als Interesse der Allgemeinheit an einem raschen Abschluss des Vergabeverfahrens die mit einer Verzögerung der Vergabe für den Antragsteller verbundenen Vorteile, sofern die gemeinsame Durchführung sonst von einem anderen teilnehmenden Mitgliedstaat abgebrochen werden würde. Die §§ 15 und 16 dieses Gesetzes sowie § 169 Absatz 2 und § 176 Absatz 1 des Gesetzes gegen Wettbewerbsbeschränkungen bleiben unberührt.
+
+# § 13 – Zentrale Beschaffungsstellen
+
+(1) Bei öffentlichen Aufträgen im Sinne des § 104 des Gesetzes gegen Wettbewerbsbeschränkungen ist eine zentrale Beschaffungsstelle, abweichend von § 120 Absatz 4 Satz 1 des Gesetzes gegen Wettbewerbsbeschränkungen, ein öffentlicher Auftraggeber oder eine europäische öffentliche Einrichtung, die für Auftraggeber
+
+1. bestimmte Waren oder Dienstleistungen erwirbt oder
+
+2. Aufträge vergibt oder Rahmenvereinbarungen über Bau-, Liefer- oder Dienstleistungen schließt.
+
+(2) Auftraggeber dürfen als zentrale Beschaffungsstellen tätig werden. Sie dürfen Leistungen durch zentrale Beschaffungsstellen erwerben, auch durch solche anderer Mitgliedstaaten der Europäischen Union.
+
+(3) Bei Auftraggebern, die Leistungen durch eine zentrale Beschaffungsstelle erwerben, wird widerleglich vermutet, dass sie die Vorschriften des Kapitels 1 des Vierten Teils des Gesetzes gegen Wettbewerbsbeschränkungen, die Vorschriften dieses Gesetzes und die Vorschriften der Vergabeverordnung Verteidigung und Sicherheit eingehalten haben, sofern die zentrale Beschaffungsstelle diese Vorschriften eingehalten hat. Soweit es sich bei der zentralen Beschaffungsstelle nicht um einen Auftraggeber in der Bundesrepublik Deutschland handelt, gilt Satz 1 entsprechend.
+
+(4) Soweit ein öffentlicher Auftraggeber für einen Auftraggeber aus einem Mitgliedstaat der Europäischen Union oder einem Staat, der Vertragspartei des Abkommens über den Europäischen Wirtschaftsraum ist, als zentrale Beschaffungsstelle tätig wird, kommt es für das Vorliegen von vergaberechtlichen Ausnahmetatbeständen auf die Umstände an, die bei dem anderen Mitgliedstaat oder Staat vorliegen.
+
+# § 14 – Stärkung innovativer Beschaffungen
+
+(1) Öffentliche Auftraggeber können bei der Vergabe von Aufträgen nach § 104 des Gesetzes gegen Wettbewerbsbeschränkungen das Verhandlungsverfahren auch als Innovationspartnerschaft entsprechend § 19 der Vergabeverordnung ausgestalten. § 146 des Gesetzes gegen Wettbewerbsbeschränkungen und § 11 Absatz 1 der Vergabeverordnung Verteidigung und Sicherheit bleiben unberührt.
+
+(2) Öffentliche Auftraggeber dürfen vor der Einleitung eines Vergabeverfahrens Markterkundungen zur Vorbereitung der Auftragsvergabe und zur Unterrichtung der Unternehmen über seine Auftragsvergabepläne und -anforderungen durchführen. Ebenso dürfen öffentliche Auftraggeber im Rahmen der Markterkundung den Rat von Marktteilnehmern einholen oder annehmen und diesen Rat für die Planung und Durchführung des Vergabeverfahrens nutzen. Die Sätze 1 und 2 gelten entsprechend für verteidigungs- und sicherheitsspezifische öffentliche Bauaufträge. Satz 2 gilt entsprechend für öffentliche Bauaufträge. § 10 Absatz 2 der Vergabeverordnung Verteidigung und Sicherheit sowie die §§ 7 und 28 Absatz 1 der Vergabeverordnung bleiben unberührt.
+
+(3) Sofern keine marktverfügbaren Leistungen vorliegen oder zur Entwicklung innovativer Konzepte, soll der Auftraggeber prüfen, ob die Leistungsanforderungen in Form funktionaler Leistungsbeschreibungen innovationsoffen ausgeschrieben werden können. Eine Dokumentation der Prüfung nach Satz 1 ist nicht erforderlich.
+
+(4) Zur Entwicklung innovativer Konzepte können Auftraggeber Wettbewerbe entsprechend § 103 Absatz 6 des Gesetzes gegen Wettbewerbsbeschränkungen durchführen. Die §§ 69 bis 72 der Vergabeverordnung sind entsprechend anzuwenden.
+
+(5) Bei der Vergabe von IT-Leistungen und der Vergabe von Aufträgen, die auch IT-Leistungen umfassen, sollen angemessene Updates und Upgrades vereinbart werden.
+
+# § 15 – Beschleunigte Verfahren vor der Vergabekammer
+
+(1) Abweichend von § 159 des Gesetzes gegen Wettbewerbsbeschränkungen ist die Vergabekammer des Bundes für die Nachprüfung aller Vergabeverfahren im Anwendungsbereich dieses Gesetzes zuständig.
+
+(2) Abweichend von § 160 Absatz 3 Satz 2 des Gesetzes gegen Wettbewerbsbeschränkungen gilt § 160 Absatz 3 Satz 1 Nummer 1 des Gesetzes gegen Wettbewerbsbeschränkungen auch in Fällen, in denen der Antragsteller Kenntnis von der beabsichtigten Vergabe hatte und ein Verstoß gegen Vergabevorschriften erkennbar war, bevor der Zuschlag in einem Vergabeverfahren ohne vorherige Bekanntmachung erteilt worden ist.
+
+(3) Auf Antrag des Auftraggebers kann nach Lage der Akten entschieden werden. Die mündliche Verhandlung kann im Wege der Videoverhandlung nach § 128a der Zivilprozessordnung durchgeführt werden. § 166 Absatz 1 Satz 3 des Gesetzes gegen Wettbewerbsbeschränkungen bleibt unberührt.
+
+(4) Bei der Auswahl der geeigneten Maßnahmen nach § 168 Absatz 1 Satz 1 des Gesetzes gegen Wettbewerbsbeschränkungen hat die Vergabekammer insbesondere Verteidigungs- und Sicherheitsinteressen zu berücksichtigen.
+
+(5) § 169 Absatz 1 des Gesetzes gegen Wettbewerbsbeschränkungen ist mit der Maßgabe anzuwenden, dass das Zuschlagsverbot im Falle des Obsiegens des Auftraggebers mit der Bekanntgabe der Entscheidung der Vergabekammer über den Antrag auf Nachprüfung endet.
+
+(6) Bei der Abwägung nach § 169 Absatz 2 Satz 1 sowie den Entscheidungen nach § 169 Absatz 2 Satz 6 und 7 und Absatz 3 des Gesetzes gegen Wettbewerbsbeschränkungen überwiegen in der Regel die Verteidigungs- und Sicherheitsinteressen als Interesse der Allgemeinheit an einem raschen Abschluss des Vergabeverfahrens die mit einer Verzögerung der Vergabe für den Antragsteller verbundenen Vorteile.
+
+(7) Stellt die Vergabekammer im Nachprüfungsverfahren einen Verstoß des Auftraggebers im Sinne des § 135 Absatz 1 Nummer 1 oder 2 des Gesetzes gegen Wettbewerbsbeschränkungen fest, hat sie § 10 dieses Gesetzes zu beachten.
+
+(8) Mitglieder der Vergabekammern haften gegenüber dem Dienstherrn im Falle der Verletzung einer Amtspflicht nur bei Vorsatz.
+
+# § 16 – Beschleunigte sofortige Beschwerde
+
+(1) Abweichend von § 173 Absatz 1 Satz 1 des Gesetzes gegen Wettbewerbsbeschränkungen hat die sofortige Beschwerde keine aufschiebende Wirkung, wenn die Vergabekammer den Antrag auf Nachprüfung abgelehnt hat. § 173 Absatz 1 Satz 2 und 3 sowie Absatz 2 des Gesetzes gegen Wettbewerbsbeschränkungen finden in diesem Fall keine Anwendung.
+
+(2) Das Gericht kann im Ausnahmefall nach Lage der Akten entscheiden, insbesondere, wenn dies der Beschleunigung dient und kein unmittelbarer Eindruck der Parteien oder direkter Austausch des tatsächlichen und rechtlichen Vortrags erforderlich ist. Die mündliche Verhandlung kann im Wege der Videoverhandlung nach § 128a der Zivilprozessordnung durchgeführt werden. § 175 Absatz 2 in Verbindung mit § 166 Absatz 1 des Gesetzes gegen Wettbewerbsbeschränkungen bleibt unberührt.
+
+(3) Bei der Abwägung nach § 176 Absatz 1 Satz 1 des Gesetzes gegen Wettbewerbsbeschränkungen überwiegen in der Regel Verteidigungs- und Sicherheitsinteressen als Interesse der Allgemeinheit an einem raschen Abschluss des Vergabeverfahrens die mit einer Verzögerung der Vergabe für den Antragsteller verbundenen Vorteile.
+
+(4) § 177 des Gesetzes gegen Wettbewerbsbeschränkungen findet keine Anwendung.
+
+(5) § 178 Satz 2 des Gesetzes gegen Wettbewerbsbeschränkungen ist mit der Maßgabe anzuwenden, dass das Gericht stets in der Sache selbst entscheidet.
+
+(6) Für das Beschwerdegericht gilt § 15 Absatz 7 entsprechend.
+
+# § 17 – Auftragsänderungen
+
+(1) Die Änderung eines öffentlichen Auftrags im Sinne von § 132 des Gesetzes gegen Wettbewerbsbeschränkungen ist nicht wesentlich, soweit ein Anspruch auf Anpassung des Vertrags aufgrund einer Störung der Geschäftsgrundlage nach § 313 des Bürgerlichen Gesetzbuches besteht.
+
+(2) Umstände für die Änderung eines öffentlichen Auftrags, die im unmittelbaren Zusammenhang mit einer Krise im Sinne des § 4 Absatz 1 der Vergabeverordnung Verteidigung und Sicherheit stehen, sind regelmäßig unvorhersehbar im Sinne des § 132 Absatz 2 Nummer 3 des Gesetzes gegen Wettbewerbsbeschränkungen, auch wenn der öffentliche Auftrag erst nach Eintritt der Krise erteilt wurde.
+
+# § 18 – Erweiterungen von Rahmenvereinbarungen
+
+(1) Abweichend von § 14 der Vergabeverordnung Verteidigung und Sicherheit können die Möglichkeiten zur Erweiterung von Rahmenvereinbarungen nach den Vorgaben europäischer Verordnungen zum Verteidigungsvergaberecht im Anwendungsbereich dieses Gesetzes ohne Einschränkung genutzt werden, insbesondere bezüglich des Beitritts von weiteren Vertragsparteien zu einer Rahmenvereinbarung nach deren Abschluss nach Artikel 18 der Verordnung (EU) 2025/1106 zur Festlegung des Instruments „Sicherheitsmaßnahmen für Europa (SAFE) durch die Stärkung der europäischen Verteidigungsindustrie“.
+
+(2) § 14 Absatz 6 der Vergabeverordnung Verteidigung und Sicherheit ist mit der Maßgabe anzuwenden, dass sich die zulässige Laufzeit von Rahmenvereinbarungen aus Artikel 29 Absatz 2 der Richtlinie 2009/81/EG ergibt.
+
+(3) Die Absätze 1 und 2 gelten entsprechend für verteidigungs- und sicherheitsspezifische öffentliche Bauaufträge.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 2.10.2026 I Nr. 40 +++)
+
+# § 19 – Übergangsregelungen
+
+Die Regelungen dieses Gesetzes sind auch auf vor dem Inkrafttreten dieses Gesetzes begonnene, aber noch nicht abgeschlossene Vergabeverfahren anzuwenden, die die Vergabe öffentlicher Aufträge nach § 1 zum Gegenstand haben.
+
+# § 20 – Außerkrafttreten
+
+Dieses Gesetz tritt mit Ablauf des 31. Dezember 2035 außer Kraft.

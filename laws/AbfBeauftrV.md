@@ -157,7 +157,8 @@ Der zur Bestellung Verpflichtete hat die Unterlagen der zuständigen Behörde au
 
 # Anlage 1 – (zu § 9 Absatz 1 Nummer 3 und Absatz 2 Satz 2)Lehrgangsinhalte
 
-(Fundstelle: BGBl. I 2016, 2792 - 2793)
+(Fundstelle: BGBl. I 2016, 2792 - 2793;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Die Lehrgänge sollen Kenntnisse vermitteln, die für die Erfüllung der Aufgaben eines Abfallbeauftragten bei dem Anlagenbetreiber oder Besitzer nach § 27 des Kreislaufwirtschaftsgesetzes, den der Abfallbeauftragte in für die Abfallvermeidung und Abfallbewirtschaftung bedeutsamen Angelegenheiten beraten soll, erforderlich sind. In diesem Rahmen sollen Grundkenntnisse in folgenden Bereichen vermittelt werden:
 
@@ -205,7 +206,7 @@ q) die Bußgeldvorschriften,
 
 a) das Elektro- und Elektronikgerätegesetz,
 
-b) Kapitel VIII der Verordnung (EU) 2023/1542 und das Batterierecht-Durchführungsgesetz vom 30. September 2025 (BGBl. 2025 I Nr. 233)
+b) Kapitel VIII der Verordnung (EU) 2023/1542 und das Batterierecht-Durchführungsgesetz vom 30. September 2025 (BGBl. 2025 I Nr. 233),
 
 c) das Verpackungsgesetz,
 
@@ -270,3 +271,5 @@ a) das Vortragsrecht,
 b) das Benachteiligungsverbot und den Kündigungsschutz,
 
 3. das Verfahren zur Bestellung von Abfallbeauftragten.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)

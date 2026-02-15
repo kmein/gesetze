@@ -47,6 +47,8 @@ verordnet die Bundesregierung:
 
 (5) Die Vorgaben der Altholzverordnung vom 15. August 2002 (BGBl. I S. 3302), die zuletzt durch Artikel 6 der Verordnung vom 2. Dezember 2016 (BGBl. I S. 2770) geändert worden ist, in der jeweils geltenden Fassung bleiben unberührt.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
+
 # § 2 – Begriffsbestimmungen
 
 Für diese Verordnung gelten die folgenden Begriffsbestimmungen:

@@ -71,7 +71,7 @@
 
 (4) In den Fällen des § 38 Abs. 3a des Einkommensteuergesetzes ist ein Lohnkonto vom Dritten zu führen. In den Fällen des § 38 Abs. 3a Satz 2 ist der Arbeitgeber anzugeben und auch der Arbeitslohn einzutragen, der nicht vom Dritten, sondern vom Arbeitgeber selbst gezahlt wird. In den Fällen des § 38 Abs. 3a Satz 7 ist der Arbeitslohn für jedes Dienstverhältnis gesondert aufzuzeichnen.
 
-(+++ § 4 Abs. 2a: Zur Anwendung vgl. § 8 Abs. 3 +++)
+(+++ § 4: Zur Anwendung vgl. § 8 +++)
 
 # § 5 – Besondere Aufzeichnungs- und Mitteilungspflichten im Rahmen der betrieblichen Altersversorgung
 

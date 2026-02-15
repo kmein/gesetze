@@ -167,7 +167,7 @@ b) die Gesamtbruttoerlöse aus der Veräußerung oder dem Rückkauf von Vermöge
 
 # § 10 – Erhebungs- und Übermittlungspflichten in Bezug auf Zahlungen an nicht teilnehmende Finanzinstitute in den Kalenderjahren 2015 und 2016
 
-(1) Meldende deutsche Finanzinstitute haben zu den nach § 5 identifizierten Konten nicht teilnehmender Finanzinstitute im Sinne des Abkommens für die Kalenderjahre 2015 und 2016 folgende Daten zu erheben und an das Bundeszentralamt für Steuern zu übermitteln:
+(1) Meldende deutsche Finanzinstitute haben zu den nach § 5 identifizierten Konten nicht teilnehmender Finanzinstitute im Sinne des Abkommens für die Kalenderjahre 2015 und 2016 folgende Daten zu erheben und an das Bundeszentralamt für Steuern nach Maßgabe des Absatzes 2 zu übermitteln:
 
 1. Name des nicht teilnehmenden Finanzinstituts, an das das meldende deutsche Finanzinstitut in dem jeweiligen Kalenderjahr eine oder mehrere Zahlungen geleistet hat,
 
@@ -177,7 +177,7 @@ b) die Gesamtbruttoerlöse aus der Veräußerung oder dem Rückkauf von Vermöge
 
 # § 11 – Ordnungswidrigkeiten
 
-Ordnungswidrig im Sinne des § 379 Absatz 2 Nummer 1b der Abgabenordnung handelt, wer vorsätzlich oder leichtfertig entgegen § 8 Absatz 3 oder entgegen § 10 Absatz 1 oder Absatz 2 Satz 1 Daten nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt.
+Ordnungswidrig im Sinne des § 383a Absatz 1 der Abgabenordnung handelt, wer vorsätzlich oder leichtfertig entgegen § 8 Absatz 3 oder § 10 Absatz 1 Daten nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig übermittelt.
 
 # § 12 – Inkrafttreten
 

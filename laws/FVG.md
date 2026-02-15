@@ -112,7 +112,7 @@ soweit das zuständige Bundesministerium seine Befugnisse in diesem Bereich dele
 
 5a.
 
-die Entgegennahme und Weiterleitung von Meldungen nach auf der Grundlage von § 117c der Abgabenordnung ergangenen Rechtsverordnungen und die Durchführung von Bußgeldverfahren in den Fällen des § 379 Absatz 2 Nummer 1b der Abgabenordnung und in den Fällen der auf Grundlage von § 117c Absatz 1 Satz 1 Nummer 5 der Abgabenordnung ergangenen Rechtsverordnung sowie die Auswertung dieser Meldungen im Rahmen der dem Bundeszentralamt für Steuern gesetzlich übertragenen Aufgaben;
+die Entgegennahme und Weiterleitung von Meldungen nach auf der Grundlage von § 117a der Abgabenordnung ergangenen Rechtsverordnungen und die Durchführung von Bußgeldverfahren in den Fällen des § 379 Absatz 2 Nummer 1b und des § 383a der Abgabenordnung sowie die Auswertung dieser Meldungen im Rahmen der dem Bundeszentralamt für Steuern gesetzlich übertragenen Aufgaben;
 
 5b.
 

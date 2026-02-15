@@ -1342,7 +1342,7 @@
 - [BWahlGV](laws/BWahlGV.md) Verordnung über den Einsatz von Wahlgeräten bei Wahlen zum Deutschen Bundestag und der Abgeordneten des Europäischen Parlaments aus der Bundesrepublik Deutschland
 - [BWaldG](laws/BWaldG.md) Gesetz zur Erhaltung des Waldes und zur Förderung der Forstwirtschaft
 - [BWappenBek](laws/BWappenBek.md) Bekanntmachung betreffend das Bundeswappen und den Bundesadler
-- [BwBBG](laws/BwBBG.md) Gesetz zur Beschleunigung von Beschaffungsmaßnahmen für die Bundeswehr *
+- [BwBBG](laws/BwBBG.md) Gesetz zur Beschleunigung von Beschaffungsmaßnahmen für die Bundeswehr
 - [BwBDSGOWiZustV](laws/BwBDSGOWiZustV.md) Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Bundesdatenschutzgesetz im Bereich der Bundeswehr
 - [BwBeamtAusglG](laws/BwBeamtAusglG.md) Gesetz zur Ausgliederung von Beamtinnen und Beamten der Bundeswehr
 - [BwEhrZErlÄndErl](laws/BwEhrZErlÄndErl.md) Erlaß über die Genehmigung einer Änderung des Erlasses über die Stiftung des Ehrenzeichens der Bundeswehr
@@ -3259,8 +3259,6 @@
 - [KonsVerCHEV](laws/KonsVerCHEV.md) Verordnung zur Umsetzung von Konsultationsvereinbarungen zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft
 - [KonsVerFRAV](laws/KonsVerFRAV.md) Verordnung zur Umsetzung von Konsultationsvereinbarungen zwischen der Bundesrepublik Deutschland und der Französischen Republik
 - [KonsVerGBRV](laws/KonsVerGBRV.md) Verordnung zur Umsetzung von Konsultationsvereinbarungen zwischen der Bundesrepublik Deutschland und dem Vereinigten Königreich Großbritannien und Nordirland
-- [KonsVerLUXV](laws/KonsVerLUXV.md) Verordnung zur Umsetzung von Konsultationsvereinbarungen zwischen der Bundesrepublik Deutschland und dem Großherzogtum Luxemburg
-- [KonsVerNLDV](laws/KonsVerNLDV.md) Verordnung zur Umsetzung von Konsultationsvereinbarungen zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande
 - [KonsVerRUSV](laws/KonsVerRUSV.md) Verordnung zur Umsetzung der Konsultationsvereinbarung zwischen der Bundesrepublik Deutschland und der Russischen Föderation vom 3. März 2021
 - [KonsVerUSAV](laws/KonsVerUSAV.md) Verordnung zur Umsetzung von Konsultationsvereinbarungen zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika
 - [KontrGerätBeglG](laws/KontrGerätBeglG.md) Gesetz über Begleitregelungen zur Einführung des digitalen Kontrollgeräts zur Kontrolle der Lenk- und Ruhezeiten
@@ -4515,6 +4513,7 @@
 - [PflanzTechnAusbV](laws/PflanzTechnAusbV.md) Verordnung über die Berufsausbildung zum Pflanzentechnologen und zur Pflanzentechnologin*
 - [PflAPrV](laws/PflAPrV.md) Ausbildungs- und Prüfungsverordnung für die Pflegeberufe*
 - [PflAV](laws/PflAV.md) Verordnung über die Pflichtablieferung von Medienwerken an die Deutsche Nationalbibliothek
+- [PflBBetV](laws/PflBBetV.md) Verordnung über die Beteiligung der maßgeblichen Organisationen der Pflegeberufe auf Bundesebene
 - [PflBeschV](laws/PflBeschV.md) Pflanzenbeschauverordnung
 - [PflBestSchV](laws/PflBestSchV.md) Verordnung zum Schutz von Beständen zur Erzeugung oder zum Erhalt von Obstanbaumaterial sowie Erwerbsobstbeständen vor besonderen unionsgeregelten Nicht-Quarantäneschadorganismen
 - [PflBG](laws/PflBG.md) Gesetz über die Pflegeberufe 1
@@ -5161,7 +5160,7 @@
 - [SeilMstrV](laws/SeilMstrV.md) Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Seiler-Handwerk
 - [SEIVerfMAusbV 2004](laws/SEIVerfMAusbV_2004.md) Verordnung über die Berufsausbildung zum Verfahrensmechaniker/zur Verfahrensmechanikerin in der Steine- und Erdenindustrie
 - [SekG](laws/SekG.md) Gesetz zur Regelung von Sekundierungen im Rahmen von Einsätzen der zivilen Krisenprävention
-- [SektVO](laws/SektVO.md) Verordnung über die Vergabe von öffentlichen Aufträgen im Bereich des Verkehrs, der Trinkwasserversorgung und der Energieversorgung
+- [SektVO 2016](laws/SektVO_2016.md) Verordnung über die Vergabe von öffentlichen Aufträgen im Bereich des Verkehrs, der Trinkwasserversorgung, der Postdienste und der Energieversorgung
 - [ServicefahrerAusbV](laws/ServicefahrerAusbV.md) Verordnung über die Berufsausbildung zum Servicefahrer/zur Servicefahrerin
 - [ServKflLuftvAusbV](laws/ServKflLuftvAusbV.md) Verordnung über die Berufsausbildung zum Servicekaufmann im Luftverkehr und zur Servicekauffrau im Luftverkehr*
 - [SEuSCEVVorschl](laws/SEuSCEVVorschl.md) Vorschlag für eine Verordnung des Rates über befristete Maßnahmen in Bezug auf die Hauptversammlungen Europäischer Gesellschaften (SE) und die Generalversammlungen Europäischer Genossenschaften (SCE)
