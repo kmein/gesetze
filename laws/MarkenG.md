@@ -2104,6 +2104,8 @@ Die Ansprüche nach § 135 verjähren nach § 20.
 
 Die §§ 134 bis 136 und 139 sind auf geografische Angaben für handwerkliche und industrielle Erzeugnisse, die auf der Grundlage von internationalen Übereinkünften im Sinne des § 8 Absatz 2 Nummer 9 in der Europäischen Union einen Schutzstatus besitzen, entsprechend anzuwenden. Soweit nach der jeweils zugrunde liegenden internationalen Übereinkunft nicht bestimmt ist, gegen welche Handlungen sich der Schutz der geografischen Angabe richtet, sind die Artikel 40 und 41 der Verordnung (EU) 2023/2411 entsprechend anzuwenden.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
+
 # § 138 – Sonstige Vorschriften für das Verfahren bei Anträgen und Einsprüchen nach der Verordnung (EU) 2023/2411; Verordnungsermächtigung
 
 (1) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die genauen Verfahrensmodalitäten des Antrags-, des Einspruchs-, des Änderungs- und des Löschungsverfahrens einschließlich der Behandlung von Anträgen auf internationale Registrierung und des Tragens der damit verbundenen Gebühren (§§ 130 bis 132a) festzulegen.

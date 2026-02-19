@@ -193,7 +193,7 @@ Die Dokumente sind unverzüglich zu übermitteln.
 
 # § 9 – Allgemeine Regelungen der Datenübermittlung durch die Registerbehörde
 
-(1) Der Umfang der Daten, die die Registerbehörde nach dem AZR-Gesetz an die jeweils ersuchende Stelle übermitteln und weitergeben darf, ergibt sich aus den Spalten A und D der Abschnitte I und II der Anlage zu dieser Verordnung.
+(1) Der Umfang der Daten, die die Registerbehörde nach dem AZR-Gesetz an die jeweils ersuchende Stelle übermitteln und weitergeben darf, ergibt sich aus den Spalten A und D der Abschnitte I bis III der Anlage zu dieser Verordnung.
 
 (2) Die Registerbehörde hat vor der Übermittlung festzustellen, ob die ersuchende Stelle generell berechtigt ist, Daten aus dem Register zu erhalten, ob der im Ersuchen angegebene Zweck in die sachliche Zuständigkeit der ersuchenden Stelle fällt, in welchem Umfang dieser Stelle Daten übermittelt werden dürfen und ob die Nutzung maschinell verwertbarer Datenträger ordnungsgemäß angemeldet worden ist.
 
@@ -307,7 +307,7 @@ c) eine Zurückweisung,
 
 d) Daten nach § 3 Absatz 1 Nummer 6a in Verbindung mit § 2 Absatz 2 Nummer 3a des AZR-Gesetzes,
 
-e) Daten nach § 3 Absatz 1 Nummer 7 in Verbindung mit § 2 Absatz 2c des AZR-Gesetzes, sofern nicht Nummer 5 einschlägig ist,
+e) Daten nach § 3 Absatz 1 Nummer 7 in Verbindung mit § 2 Absatz 2c des AZR-Gesetzes, sofern nicht Nummer 6 einschlägig ist,
 
 2. nach zehn Jahren
 

@@ -153,7 +153,7 @@ b) eine nicht akutstationäre Versorgungseinrichtung, insbesondere in eine Einri
 
 4. die Beschaffung, Errichtung, Erweiterung oder Entwicklung informationstechnischer oder kommunikationstechnischer Anlagen, Systeme oder Verfahren oder bauliche Maßnahmen erforderlich sind, um
 
-a) die Informationstechnik der Krankenhäuser, die die Voraussetzungen des Anhangs 5 Teil 3 der BSI-Kritisverordnung erfüllen, an die Vorgaben von § 8a des BSI-Gesetzes anzupassen oder
+a) die Informationstechnik der Krankenhäuser, die die Voraussetzungen des Anhangs 5 Teil 3 der BSI-Kritisverordnung vom 22. April 2016 (BGBl. I S. 958), die zuletzt durch Artikel 1 der Verordnung vom 29. November 2023 (BGBl. 2023 I Nr. 339) geändert worden ist, erfüllen, an die Anforderungen der §§ 30, 31 und 39 des BSI-Gesetzes anzupassen oder
 
 b) telemedizinische Netzwerkstrukturen insbesondere zwischen Krankenhäusern der Schwerpunkt- und Maximalversorgung einschließlich der Hochschulkliniken einerseits und Krankenhäusern der Grund- und Regelversorgung andererseits zu schaffen; im Rahmen der geförderten telemedizinischen Netzwerkstrukturen sind Dienste und Anwendungen der Telematikinfrastruktur nach dem Fünften Buch Sozialgesetzbuch zu nutzen, sobald diese zur Verfügung stehen,
 
@@ -237,7 +237,7 @@ b) der betroffene Krankenhausträger gegenüber dem antragstellenden Land auf Gr
 
 7. bei Vorhaben nach § 11 Absatz 1 Nummer 3 Buchstabe b die Erklärung, dass die mit der Umwandlung beabsichtigte Nachfolgenutzung in Übereinstimmung mit den maßgeblichen rechtlichen Vorgaben steht,
 
-8. bei Vorhaben nach § 11 Absatz 1 Nummer 4 Buchstabe a die Bestätigung, dass die vorgesehenen Maßnahmen erforderlich sind, um die Informationstechnik des Krankenhauses an die Vorgaben von § 8a des BSI-Gesetzes anzupassen,
+8. bei Vorhaben nach § 11 Absatz 1 Nummer 4 Buchstabe a die Bestätigung, dass die vorgesehenen Maßnahmen erforderlich sind, um die Informationstechnik des Krankenhauses an die Anforderungen der §§ 30, 31 und 39 des BSI-Gesetzes anzupassen,
 
 9. bei Vorhaben nach § 11 Absatz 1 Nummer 4 Buchstabe b die Bestätigung, dass die vorhandenen Dienste und Anwendungen der Telematikinfrastruktur nach dem Fünften Buch Sozialgesetzbuch genutzt werden, sobald diese zur Verfügung stehen,
 

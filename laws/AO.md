@@ -6644,8 +6644,6 @@ gelten, soweit die Zollvorschriften, die dazu oder die auf Grund von Absatz 4 er
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
-# § 383a – (weggefallen)
-
 # § 383a – Verstöße gegen innerstaatlich anwendbare völkerrechtliche Vereinbarungen zur Förderung der Steuerehrlichkeit
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig einer Rechtsverordnung nach § 117a Absatz 1 Satz 1 Nummer 1 oder 2 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.

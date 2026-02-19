@@ -1102,6 +1102,8 @@ Die Möglichkeit des Börsenträgers, zusätzliche Anforderungen festzulegen, bl
 
 (3) Ein Finanzinstrument, das zum Handel in den Freiverkehr einbezogen ist, kann nur dann in einem anderen KMU-Wachstumsmarkt gehandelt werden, wenn der Emittent des Finanzinstruments hierüber unterrichtet wurde und dem nicht widersprochen hat. In einem solchen Fall entstehen dem Emittenten im Hinblick auf diesen anderen KMU-Wachstumsmarkt keine Verpflichtungen in Bezug auf die Unternehmensführung und -kontrolle oder erstmalige, laufende oder punktuelle Veröffentlichungspflichten.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 4.2.2026 I Nr. 33 +++)
+
 # § 48b – Organisiertes Handelssystem an einer Börse
 
 (1) Der Betrieb eines organisierten Handelssystems an einer Börse bedarf der schriftlichen Erlaubnis der Börsenaufsichtsbehörde. Der Börsenträger legt der Börsenaufsichtsbehörde eine ausführliche Beschreibung der Funktionsweise des organisierten Handelssystems vor, einschließlich etwaiger Verbindungen zu einem anderen organisierten oder multilateralen Handelssystem oder einem systematischen Internalisierer in seinem Eigentum, sowie eine Liste der Handelsteilnehmer. Die Börsenaufsichtsbehörde stellt diese Informationen der Bundesanstalt und auf deren Verlangen der Europäischen Wertpapier- und Marktaufsichtsbehörde zur Verfügung und teilt diesen jede Zulassung eines organisierten Handelssystems mit. Soweit die Absätze 2 bis 9 keine abweichende Regelung treffen, sind die für den Freiverkehr geltenden Vorschriften dieses Gesetzes entsprechend anzuwenden.

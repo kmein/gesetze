@@ -7,9 +7,9 @@ Durch dieses Gesetz erhalten Verbraucherinnen und Verbraucher freien Zugang zu d
 
 1. Erzeugnisse im Sinne des Lebensmittel- und Futtermittelgesetzbuches (Erzeugnisse) sowie
 
-2. Verbraucherprodukte, die dem § 2 Nummer 25 des Produktsicherheitsgesetzes unterfallen (Verbraucherprodukte),
+2. Produkte, die dem Artikel 3 Nummer 1 der Verordnung (EU) 2023/988 unterfallen (Produkte).
 
-damit der Markt transparenter gestaltet und hierdurch der Schutz der Verbraucherinnen und Verbraucher vor gesundheitsschädlichen oder sonst unsicheren Erzeugnissen und Verbraucherprodukten sowie vor Täuschung beim Verkehr mit Erzeugnissen und Verbraucherprodukten verbessert wird.
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 3.2.2026 I Nr. 29 +++)
 
 # § 2 – Anspruch auf Zugang zu Informationen
 
@@ -17,7 +17,7 @@ damit der Markt transparenter gestaltet und hierdurch der Schutz der Verbraucher
 
 1. von den nach Bundes- oder Landesrecht zuständigen Stellen festgestellte nicht zulässige Abweichungen von Anforderungen
 
-a) des Lebensmittel- und Futtermittelgesetzbuches und des Produktsicherheitsgesetzes,
+a) des Lebensmittel- und Futtermittelgesetzbuches, des Produktsicherheitsgesetzes und der Verordnung (EU) 2023/988,
 
 b) der auf Grund dieser Gesetze erlassenen Rechtsverordnungen,
 
@@ -25,43 +25,33 @@ c) unmittelbar geltender Rechtsakte der Europäischen Gemeinschaft oder der Euro
 
 sowie Maßnahmen und Entscheidungen, die im Zusammenhang mit den in den Buchstaben a bis c genannten Abweichungen getroffen worden sind,
 
-2. von einem Erzeugnis oder einem Verbraucherprodukt ausgehende Gefahren oder Risiken für Gesundheit und Sicherheit von Verbraucherinnen und Verbrauchern,
+2. von einem Erzeugnis oder einem Produkt ausgehende Gefahren oder Risiken für Gesundheit und Sicherheit von Verbraucherinnen und Verbrauchern,
 
-3. die Zusammensetzung von Erzeugnissen und Verbraucherprodukten, ihre Beschaffenheit, die physikalischen, chemischen und biologischen Eigenschaften einschließlich ihres Zusammenwirkens und ihrer Einwirkung auf den Körper, auch unter Berücksichtigung der bestimmungsgemäßen Verwendung oder vorhersehbaren Fehlanwendung,
+3. die Zusammensetzung von Erzeugnissen und Produkten, ihre Beschaffenheit, die physikalischen, chemischen und biologischen Eigenschaften einschließlich ihres Zusammenwirkens und ihrer Einwirkung auf den Körper, auch unter Berücksichtigung der bestimmungsgemäßen Verwendung oder vorhersehbaren Fehlanwendung,
 
-4. die Kennzeichnung, die Herkunft, die Verwendung, das Herstellen und das Behandeln von Erzeugnissen und Verbraucherprodukten,
+4. die Kennzeichnung, die Herkunft, die Verwendung, das Herstellen und das Behandeln von Erzeugnissen und Produkten,
 
 5. zugelassene Abweichungen von den in Nummer 1 genannten Rechtsvorschriften über die in den Nummern 3 und 4 genannten Merkmale oder Tätigkeiten,
 
 6. die Ausgangsstoffe und die bei der Gewinnung der Ausgangsstoffe angewendeten Verfahren,
 
-7. Überwachungsmaßnahmen oder andere behördliche Tätigkeiten oder Maßnahmen zum Schutz von Verbraucherinnen und Verbrauchern, einschließlich der Auswertung dieser Tätigkeiten und Maßnahmen, sowie Statistiken über Verstöße gegen in § 39 Absatz 1 Satz 1 des Lebensmittel- und Futtermittelgesetzbuches und § 8 des Marktüberwachungsgesetzes genannte Rechtsvorschriften, soweit sich die Verstöße auf Erzeugnisse oder Verbraucherprodukte beziehen,
+7. Überwachungsmaßnahmen oder andere behördliche Tätigkeiten oder Maßnahmen zum Schutz von Verbraucherinnen und Verbrauchern, einschließlich der Auswertung dieser Tätigkeiten und Maßnahmen, sowie Statistiken über Verstöße gegen in § 39 Absatz 1 Satz 1 des Lebensmittel- und Futtermittelgesetzbuches und § 8 des Marktüberwachungsgesetzes genannte Rechtsvorschriften, soweit sich die Verstöße auf Erzeugnisse oder Produkte beziehen,
 
 (Informationen), die bei einer Stelle im Sinne des Absatzes 2 unabhängig von der Art ihrer Speicherung vorhanden sind. Der Anspruch nach Satz 1 besteht insoweit, als kein Ausschluss- oder Beschränkungsgrund nach § 3 vorliegt.
 
 (2) Stelle im Sinne des Absatzes 1 Satz 1 ist
 
-1. jede Behörde im Sinne des § 1 Absatz 4 des Verwaltungsverfahrensgesetzes, die auf Grund
+1. jede Behörde im Sinne des § 1 Absatz 4 des Verwaltungsverfahrensgesetzes, die auf Grund anderer bundesrechtlicher oder landesrechtlicher Vorschriften öffentlich-rechtliche Aufgaben oder Tätigkeiten wahrnimmt, die der Erfüllung der in § 1 des Lebensmittel- und Futtermittelgesetzbuches genannten Zwecke oder bei Produkten der Gewährleistung von Sicherheit und Gesundheit nach den Vorschriften der Verordnung (EU) 2023/988, des Produktsicherheitsgesetzes sowie der auf Grund des Produktsicherheitsgesetzes erlassenen Rechtsverordnungen dienen, und
 
-a) anderer bundesrechtlicher oder
-
-b) landesrechtlicher
-
-Vorschriften öffentlich-rechtliche Aufgaben oder Tätigkeiten wahrnimmt, die der Erfüllung der in § 1 des Lebensmittel- und Futtermittelgesetzbuches genannten Zwecke oder bei Verbraucherprodukten der Gewährleistung von Sicherheit und Gesundheit nach den Vorschriften des Produktsicherheitsgesetzes sowie der auf Grund des Produktsicherheitsgesetzes erlassenen Rechtsverordnungen dienen,
-
-2. jede natürliche oder juristische Person des Privatrechts, die auf Grund
-
-a) anderer bundesrechtlicher oder
-
-b) landesrechtlicher
-
-Vorschriften öffentlich-rechtliche Aufgaben oder Tätigkeiten wahrnimmt, die der Erfüllung der in § 1 des Lebensmittel- und Futtermittelgesetzbuches genannten Zwecke oder bei Verbraucherprodukten der Gewährleistung von Sicherheit und Gesundheit nach den Vorschriften des Produktsicherheitsgesetzes sowie der auf Grund des Produktsicherheitsgesetzes erlassenen Rechtsverordnungen dienen und der Aufsicht einer Behörde unterstellt ist.
+2. jede natürliche oder juristische Person des Privatrechts, die auf Grund anderer bundesrechtlicher oder landesrechtlicher Vorschriften öffentlich-rechtliche Aufgaben oder Tätigkeiten wahrnimmt, die der Erfüllung der in § 1 des Lebensmittel- und Futtermittelgesetzbuches genannten Zwecke oder bei Produkten der Gewährleistung von Sicherheit und Gesundheit nach den Vorschriften der Verordnung (EU) 2023/988, des Produktsicherheitsgesetzes sowie der auf Grund des Produktsicherheitsgesetzes erlassenen Rechtsverordnungen dienen und der Aufsicht einer Behörde unterstellt ist.
 
 Satz 1 gilt im Fall einer Gemeinde oder eines Gemeindeverbandes nur, wenn der Gemeinde oder dem Gemeindeverband die Aufgaben nach diesem Gesetz durch Landesrecht übertragen worden sind.
 
 (3) Zu den Stellen im Sinne des Absatzes 2 Satz 1 gehören nicht die obersten Bundes- und Landesbehörden, soweit sie im Rahmen der Gesetzgebung oder beim Erlass von Rechtsverordnungen tätig werden, unabhängige Organe der Finanzkontrolle sowie Gerichte, Justizvollzugsbehörden, Strafverfolgungs- und Disziplinarbehörden und diesen vorgesetzte Dienststellen.
 
 (4) Die Vorschriften dieses Gesetzes gelten nicht, soweit in anderen Rechtsvorschriften entsprechende oder weitergehende Vorschriften vorgesehen sind.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 3.2.2026 I Nr. 29 +++)
 
 # § 3 – Ausschluss- und Beschränkungsgründe
 
@@ -105,11 +95,11 @@ herausgegeben werden. Im Fall des Satzes 1 Nummer 2 Buchstabe a gilt § 5 Absatz
 
 1. Informationen nach § 2 Absatz 1 Satz 1 Nummer 1 und 2,
 
-2. Informationen nach § 2 Absatz 1 Satz 1 Nummer 3 und 4, soweit im Einzelfall hinreichende Anhaltspunkte dafür vorliegen, dass von dem jeweiligen Erzeugnis oder Verbraucherprodukt eine Gefährdung oder ein Risiko für Sicherheit und Gesundheit ausgeht und auf Grund unzureichender wissenschaftlicher Erkenntnis oder aus sonstigen Gründen die Ungewissheit nicht innerhalb der gebotenen Zeit behoben werden kann, und
+2. Informationen nach § 2 Absatz 1 Satz 1 Nummer 3 und 4, soweit im Einzelfall hinreichende Anhaltspunkte dafür vorliegen, dass von dem jeweiligen Erzeugnis oder Produkt eine Gefährdung oder ein Risiko für Sicherheit und Gesundheit ausgeht und auf Grund unzureichender wissenschaftlicher Erkenntnis oder aus sonstigen Gründen die Ungewissheit nicht innerhalb der gebotenen Zeit behoben werden kann, und
 
 3. Informationen nach § 2 Absatz 1 Satz 1 Nummer 3 bis 6, soweit sie im Rahmen der amtlichen Überwachungstätigkeit nach den in § 2 Absatz 1 Satz 1 Nummer 1 genannten Vorschriften gewonnen wurden und die Einhaltung der Grenzwerte, Höchstgehalte oder Höchstmengen betreffen, die in den in § 2 Absatz 1 Satz 1 Nummer 1 genannten Vorschriften enthalten sind.
 
-Gleiches gilt für den Namen des Händlers, der das Erzeugnis oder Verbraucherprodukt an Verbraucher abgibt, sowie für die Handelsbezeichnung, eine aussagekräftige Beschreibung und bildliche Darstellung des Erzeugnisses oder Verbraucherproduktes und in den Fällen des § 2 Absatz 1 Satz 1 Nummer 1 zusätzlich für den Namen und die Anschrift des Herstellers, Bevollmächtigten, Einführers, Händlers sowie jedes Gliedes der Liefer- und Vertriebskette; Satz 1 Nummer 2 Buchstabe a ist nicht anzuwenden.
+Gleiches gilt für den Namen des Händlers, der das Erzeugnis oder Produkt an Verbraucher abgibt, sowie für die Handelsbezeichnung, eine aussagekräftige Beschreibung und bildliche Darstellung des Erzeugnisses oder Produktes und in den Fällen des § 2 Absatz 1 Satz 1 Nummer 1 zusätzlich für den Namen und die Anschrift des Herstellers, Bevollmächtigten, Einführers, Händlers sowie jedes Gliedes der Liefer- und Vertriebskette; Satz 1 Nummer 2 Buchstabe a ist nicht anzuwenden.
 
 # § 4 – Antrag
 

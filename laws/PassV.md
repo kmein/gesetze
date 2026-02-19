@@ -362,7 +362,7 @@ Die in anderen Rechtsvorschriften oder in zwischenstaatlichen Vereinbarungen fes
 <td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">g)</td>
 <td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">eines Ausweises, der von den Behörden und Dienststellen ausgestellt wird, die für die polizeiliche Kontrolle des grenzüberschreitenden Verkehrs zuständig sind (§ 19 Absatz 1 Nummer 7)</td>
-<td style="text-align: right; border-bottom: 0.5pt solid;" data-valign="bottom" data-charoff="50">8 Euro,</td>
+<td style="text-align: right; border-bottom: 0.5pt solid;" data-valign="bottom" data-charoff="50">32 Euro,</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>

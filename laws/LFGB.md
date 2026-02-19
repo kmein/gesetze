@@ -109,7 +109,7 @@ c) nach Artikel 3 Absatz 1 Buchstabe a der Verordnung (EU) Nr. 528/2012 des Euro
 
 4. Auslösewert: Grenzwert für den Gehalt an einem gesundheitlich nicht erwünschten Stoff, der in oder auf einem Lebensmittel enthalten ist, bei dessen Überschreitung Untersuchungen vorgenommen werden müssen, um die Ursachen für das Vorhandensein des jeweiligen Stoffs mit dem Ziel zu ermitteln, Maßnahmen zu seiner Verringerung oder Beseitigung einzuleiten,
 
-5. mit Lebensmitteln verwechselbare Produkte: Produkte, die zwar keine Lebensmittel sind, bei denen jedoch aufgrund ihrer Form, ihres Geruchs, ihrer Farbe, ihres Aussehens, ihrer Aufmachung, ihrer Kennzeichnung, ihres Volumens oder ihrer Größe vorhersehbar ist, dass sie von den Endverbrauchern, insbesondere von Kindern, mit Lebensmitteln verwechselt werden und deshalb zum Mund geführt, gelutscht oder geschluckt werden, wodurch insbesondere die Gefahr des Erstickens, der Vergiftung, der Perforation oder des Verschlusses des Verdauungskanals entstehen kann; ausgenommen sind Arzneimittel, die einem Zulassungs- oder Registrierungsverfahren unterliegen,
+5. (weggefallen)
 
 6. unerwünschte Stoffe: Stoffe – außer Tierseuchenerregern –, die in oder auf Futtermitteln enthalten sind und
 
@@ -139,11 +139,13 @@ können,
 
 2. Futtermittelunternehmer im Sinne des Artikels 3 Nummer 6 der Verordnung (EG) Nr. 178/2002 auch derjenige ist, dessen Verantwortung sich auf Futtermittel bezieht, die zur oralen Tierfütterung von nicht der Lebensmittelgewinnung dienenden Tieren bestimmt sind,
 
-3. für das Inverkehrbringen von Mitteln zum Tätowieren, Bedarfsgegenständen und mit Lebensmitteln verwechselbaren Produkten Artikel 3 Nummer 8 der Verordnung (EG) Nr. 178/2002 entsprechend gilt,
+3. für das Inverkehrbringen von Mitteln zum Tätowieren und Bedarfsgegenständen Artikel 3 Nummer 8 der Verordnung (EG) Nr. 178/2002 entsprechend gilt,
 
 4. Endverbraucher im Sinne von Artikel 3 Nummer 18 der Verordnung (EG) Nr. 178/2002 auch eine Person ist, an die ein Mittel zum Tätowieren oder ein Bedarfsgegenstand zur persönlichen Verwendung oder zur Verwendung im eigenen Haushalt abgegeben wird, wobei Gewerbetreibende, soweit sie ein Mittel zum Tätowieren oder einen Bedarfsgegenstand zum Verbrauch innerhalb ihrer Betriebsstätte beziehen, dem Endverbraucher gleichstehen.
 
 (4) Im Anwendungsbereich dieses Gesetzes gelten Verpflegungseinrichtungen der Bundeswehr auch dann, wenn sie nicht gewerblich tätig sind, als Anbieter von Gemeinschaftsverpflegung im Sinne des Artikels 2 Absatz 2 Buchstabe d der Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des Rates vom 25. Oktober 2011 betreffend die Information der Verbraucher über Lebensmittel und zur Änderung der Verordnungen (EG) Nr. 1924/2006 und (EG) Nr. 1925/2006 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 87/250/EWG der Kommission, der Richtlinie 90/496/EWG des Rates, der Richtlinie 1999/10/EG der Kommission, der Richtlinie 2000/13/EG des Europäischen Parlaments und des Rates, der Richtlinien 2002/67/EG und 2008/5/EG der Kommission und der Verordnung (EG) Nr. 608/2004 der Kommission (ABl. L 304 vom 22.11.2011, S. 18; L 331 vom 18.11.2014, S. 41; L 50 vom 21.2.2015, S. 48; L 266 vom 30.9.2016, S. 7), die zuletzt durch die Verordnung (EU) 2015/2283 (ABl. L 327 vom 11.12.2015, S. 1) geändert worden ist.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 3.2.2026 I Nr. 29 +++)
 
 # § 4 – Vorschriften und Ermächtigungen zum Geltungsbereich
 
@@ -173,11 +175,9 @@ können,
 
 2. Regelungen in Rechtsverordnungen aufgrund des § 13 Absatz 1 Nummer 3 und 4, soweit sie für den privaten häuslichen Bereich gelten.
 
-(2) Es ist ferner verboten,
+(2) Es ist ferner verboten, Stoffe, die keine Lebensmittel sind und deren Verzehr gesundheitsschädlich im Sinne des Artikels 14 Absatz 2 Buchstabe a der Verordnung (EG) Nr. 178/2002 in der Fassung vom 17. Januar 2024 ist, als Lebensmittel in den Verkehr zu bringen.
 
-1. Stoffe, die keine Lebensmittel sind und deren Verzehr gesundheitsschädlich im Sinne des Artikels 14 Absatz 2 Buchstabe a der Verordnung (EG) Nr. 178/2002 ist, als Lebensmittel in den Verkehr zu bringen,
-
-2. mit Lebensmitteln verwechselbare Produkte für andere herzustellen, zu behandeln oder in den Verkehr zu bringen.
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 3.2.2026 I Nr. 29 +++)
 
 # § 6 – (weggefallen)
 
@@ -951,11 +951,11 @@ festgelegt werden.
 
 (6) Die für die Überwachung von Mitteln zum Tätowieren, kosmetischen Mitteln und Bedarfsgegenständen im Sinne von § 2 Absatz 6 Satz 1 Nummer 2 bis 9 zuständigen Behörden
 
-1. erteilen der zuständigen Behörde eines anderen Mitgliedstaates auf begründetes Ersuchen Auskünfte und übermitteln die erforderlichen Urkunden und Schriftstücke, damit die zuständige Behörde des anderen Mitgliedstaates überwachen kann, ob die Vorschriften, die für diese Erzeugnisse und für mit Lebensmitteln verwechselbare Produkte gelten, eingehalten werden,
+1. erteilen der zuständigen Behörde eines anderen Mitgliedstaates auf begründetes Ersuchen Auskünfte und übermitteln die erforderlichen Urkunden und Schriftstücke, damit die zuständige Behörde des anderen Mitgliedstaates überwachen kann, ob die Vorschriften, die für diese Erzeugnisse gelten, eingehalten werden,
 
 2. überprüfen alle von der ersuchenden Behörde eines anderen Mitgliedstaates mitgeteilten Sachverhalte, teilen ihr das Ergebnis der Prüfung mit und unterrichten das Bundesministerium darüber,
 
-3. teilen den zuständigen Behörden eines anderen Mitgliedstaates alle Tatsachen und Sachverhalte mit, die für die Überwachung der Einhaltung der für diese Erzeugnisse und für mit Lebensmitteln verwechselbare Produkte geltenden Vorschriften in diesem Mitgliedstaat erforderlich sind, insbesondere bei Zuwiderhandlungen und bei Verdacht auf Zuwiderhandlungen gegen für diese Erzeugnisse und für mit Lebensmitteln verwechselbare Produkte geltende Vorschriften.
+3. teilen den zuständigen Behörden eines anderen Mitgliedstaates alle Tatsachen und Sachverhalte mit, die für die Überwachung der Einhaltung der für diese Erzeugnisse geltenden Vorschriften in diesem Mitgliedstaat erforderlich sind, insbesondere bei Zuwiderhandlungen und bei Verdacht auf Zuwiderhandlungen gegen für diese Erzeugnisse geltende Vorschriften.
 
 (7) Die zuständigen Behörden können, soweit dies zur Einhaltung der Anforderungen dieses Gesetzes oder der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen erforderlich oder durch Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union vorgeschrieben ist, Daten, die sie im Rahmen der Überwachung gewonnen haben, anderen zuständigen Behörden desselben Landes, den zuständigen Behörden anderer Länder, des Bundes oder anderer Mitgliedstaaten oder der Europäischen Kommission mitteilen.
 
@@ -973,7 +973,7 @@ festgelegt werden.
 
 3. der unmittelbar geltenden Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes
 
-den zuständigen Behörden der Länder auf deren Anforderung die ihm aus der Beobachtung elektronisch angebotener Dienstleistungen nach § 5 Absatz 1 Nummer 17 des Finanzverwaltungsgesetzes vorliegenden Daten über Unternehmen, die diesem Gesetz unterliegende Erzeugnisse oder mit Lebensmitteln verwechselbare Produkte im Internet anbieten. Die Anforderungen sind über das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit an das Bundeszentralamt für Steuern zu richten; das Bundeszentralamt für Steuern übermittelt die Daten an das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit, das die Daten den anfordernden Behörden weiterleitet. Soweit die Länder für den Zweck des Satzes 1 eine gemeinsame Stelle einrichten, ergeht die Anforderung durch diese Stelle und sind die in Satz 1 bezeichneten Daten dieser Stelle zu übermitteln; diese Stelle leitet die übermittelten Daten den zuständigen Behörden weiter.
+den zuständigen Behörden der Länder auf deren Anforderung die ihm aus der Beobachtung elektronisch angebotener Dienstleistungen nach § 5 Absatz 1 Nummer 17 des Finanzverwaltungsgesetzes vorliegenden Daten über Unternehmen, die diesem Gesetz unterliegende Erzeugnisse im Internet anbieten. Die Anforderungen sind über das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit an das Bundeszentralamt für Steuern zu richten; das Bundeszentralamt für Steuern übermittelt die Daten an das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit, das die Daten den anfordernden Behörden weiterleitet. Soweit die Länder für den Zweck des Satzes 1 eine gemeinsame Stelle einrichten, ergeht die Anforderung durch diese Stelle und sind die in Satz 1 bezeichneten Daten dieser Stelle zu übermitteln; diese Stelle leitet die übermittelten Daten den zuständigen Behörden weiter.
 
 (2) Daten im Sinne des Absatzes 1 Satz 1 sind
 
@@ -981,7 +981,7 @@ den zuständigen Behörden der Länder auf deren Anforderung die ihm aus der Beo
 
 2. das eindeutige Ordnungsmerkmal, die Domaininformationen und die Landzuordnung,
 
-3. die betroffenen Erzeugnisse oder mit Lebensmitteln verwechselbare Produkte.
+3. die betroffenen Erzeugnisse.
 
 (3) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit hat die ihm übermittelten Daten unverzüglich nach der Weiterleitung an die zuständigen Behörden zu löschen. Die zuständigen Behörden und die Stelle im Sinne des Absatzes 1 Satz 3 haben die Daten zu löschen, soweit sie nicht mehr erforderlich sind, spätestens jedoch mit Ablauf des dritten Jahres nach der Übermittlung an sie. Die Frist des Satzes 2 gilt nicht, wenn wegen eines anhängigen Bußgeldverfahrens, staatsanwaltlichen Ermittlungsverfahrens oder gerichtlichen Verfahrens eine längere Aufbewahrung erforderlich ist; in diesem Falle sind die Daten mit rechtskräftigem Abschluss des Verfahrens zu löschen.
 
@@ -1087,7 +1087,7 @@ b) Tatsachen vorliegen, die darauf schließen lassen, dass diese Erzeugnisse ein
 
 Die Artikel 25 bis 27 der Verordnung (EU) Nr. 1223/2009 des Europäischen Parlaments und des Rates vom 30. November 2009 über kosmetische Mittel (ABl. L 342 vom 22.12.2009, S. 59; L 318 vom 15.11.2012, S. 74; L 72 vom 15.3.2013, S. 16; L 142 vom 29.5.2013, S. 10; L 254 vom 28.8.2014, S. 39; L 17 vom 21.1.2017, S. 52; L 326 vom 9.12.2017, S. 55; L 183 vom 19.7.2018, S. 27; L 324 vom 13.12.2019, S. 80; L 76 vom 12.3.2020, S. 36), die zuletzt durch die Verordnung (EU) 2019/1966 (ABl. L 307 vom 28.11.2019, S. 15) geändert worden ist, bleiben unberührt.
 
-(2) Absatz 1 und § 40 gelten für mit Lebensmitteln verwechselbare Produkte entsprechend.
+(2) (weggefallen)
 
 (3) Widerspruch und Anfechtungsklage gegen Anordnungen, die der Durchführung von Verboten nach § 26 Satz 1 oder § 30 oder Geboten nach Artikel 5 Absatz 1 in Verbindung mit Artikel 3 Satz 1 Buchstabe a, b oder c der Verordnung (EU) Nr. 1223/2009 dienen, haben keine aufschiebende Wirkung.
 
@@ -1385,7 +1385,7 @@ b) über die Art und Weise der Probenahme, auch im Falle des Fernabsatzes von Er
 
 4. Vorrichtungen für die amtliche Entnahme von Proben in Herstellungsbetrieben und an Behältnissen vorzuschreiben,
 
-5. vorzuschreiben, dass, zu welchem Zeitpunkt, in welcher Art und Weise und von wem der Hersteller eines Erzeugnisses oder eines mit einem Lebensmittel verwechselbaren Produkts oder ein anderer für ein Erzeugnis oder für ein mit einem Lebensmittel verwechselbaren Produkt nach diesem Gesetz, den aufgrund dieses Gesetzes erlassenen Rechtsverordnungen oder den unmittelbar geltenden Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes Verantwortlicher über eine zurückgelassene Probe, die zum Zweck der Untersuchung entnommen wurde, oder eine Probenahme zu unterrichten ist.
+5. vorzuschreiben, dass, zu welchem Zeitpunkt, in welcher Art und Weise und von wem der Hersteller eines Erzeugnisses oder ein anderer für ein Erzeugnis nach diesem Gesetz, den aufgrund dieses Gesetzes erlassenen Rechtsverordnungen oder den unmittelbar geltenden Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes Verantwortlicher über eine zurückgelassene Probe, die zum Zweck der Untersuchung entnommen wurde, oder eine Probenahme zu unterrichten ist.
 
 Soweit in den Fällen des Satzes 1 Nummer 1 bis 4 Rechtsverordnungen nach § 13 Absatz 5 Satz 1 betroffen sind, tritt an die Stelle des Bundesministeriums das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit im Einvernehmen mit dem Bundesministerium.
 
@@ -1523,9 +1523,9 @@ Die zur Durchführung des Monitorings erforderlichen Vorschriften, insbesondere 
 
 # § 53 – Verbringungsverbote
 
-(1) Erzeugnisse und mit Lebensmitteln verwechselbare Produkte, die nicht den im Inland geltenden Bestimmungen dieses Gesetzes, der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen und der unmittelbar geltenden Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes entsprechen, dürfen nicht in das Inland verbracht werden. Dies gilt nicht für die Durchfuhr unter zollamtlicher Überwachung. Das Verbot nach Satz 1 steht der zollamtlichen Abfertigung nicht entgegen, soweit sich aus den auf § 56 gestützten Rechtsverordnungen über das Verbringen der in Satz 1 genannten Erzeugnisse oder der mit Lebensmitteln verwechselbaren Produkte nichts anderes ergibt.
+(1) Erzeugnisse, die nicht den im Inland geltenden Bestimmungen dieses Gesetzes, der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen und der unmittelbar geltenden Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes entsprechen, dürfen nicht in das Inland verbracht werden. Dies gilt nicht für die Durchfuhr unter zollamtlicher Überwachung. Das Verbot nach Satz 1 steht der zollamtlichen Abfertigung nicht entgegen, soweit sich aus den auf § 56 gestützten Rechtsverordnungen über das Verbringen der in Satz 1 genannten Erzeugnisse nichts anderes ergibt.
 
-(2) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es zur Erfüllung der in § 1 genannten Zwecke erforderlich oder mit diesen Zwecken vereinbar ist, abweichend von Absatz 1 Satz 1 das Verbringen von bestimmten Erzeugnissen oder von mit Lebensmitteln verwechselbaren Produkten in das Inland zuzulassen sowie die Voraussetzungen und das Verfahren hierfür einschließlich der Festlegung mengenmäßiger Beschränkungen zu regeln und dabei Vorschriften nach § 56 Absatz 1 Satz 1 Nummer 2 und Satz 2 zu erlassen; § 56 Absatz 1 Satz 3 gilt entsprechend.
+(2) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es zur Erfüllung der in § 1 genannten Zwecke erforderlich oder mit diesen Zwecken vereinbar ist, abweichend von Absatz 1 Satz 1 das Verbringen von bestimmten Erzeugnissen in das Inland zuzulassen sowie die Voraussetzungen und das Verfahren hierfür einschließlich der Festlegung mengenmäßiger Beschränkungen zu regeln und dabei Vorschriften nach § 56 Absatz 1 Satz 1 Nummer 2 und Satz 2 zu erlassen; § 56 Absatz 1 Satz 3 gilt entsprechend.
 
 # § 54 – Bestimmte Erzeugnisse aus anderen Mitgliedstaaten oder anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 
@@ -1559,7 +1559,7 @@ in das Inland verbracht und hier in den Verkehr gebracht werden, auch wenn sie d
 
 (2) Bei Sendungen von Lebensmitteln, Futtermitteln oder Bedarfsgegenständen im Sinne des § 2 Absatz 6 Satz 1 Nummer 1, die keinen besonderen Grenzkontrollen unterliegen, wirken die Zollbehörden gemäß Artikel 76 der Verordnung (EU) 2017/625 mit.
 
-(3) Bei Mitteln zum Tätowieren, kosmetischen Mitteln, Bedarfsgegenständen im Sinne von § 2 Absatz 6 Satz 1 Nummer 2 bis 9 dieses Gesetzes oder mit Lebensmitteln verwechselbaren Produkten wirken die Zollbehörden gemäß Artikel 2 Absatz 2 in Verbindung mit den Artikeln 25 bis 28 der Verordnung (EU) Nr. 2019/1020 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über Marktüberwachung und die Konformität von Produkten sowie zur Änderung der Richtlinie 2004/42/EG und der Verordnungen (EG) Nr. 765/2008 und (EU) Nr. 305/2011 (ABl. L 169 vom 25.6.2019, S. 1) mit. Die Zollbehörden melden die Aussetzung der Überlassung nach Artikel 26 der Verordnung (EU) 2019/1020 unverzüglich der zuständigen Behörde, in deren Zuständigkeitsbereich die Zollbehörde gelegen ist.
+(3) Bei Mitteln zum Tätowieren, kosmetischen Mitteln oder Bedarfsgegenständen im Sinne von § 2 Absatz 6 Satz 1 Nummer 2 bis 9 dieses Gesetzes wirken die Zollbehörden gemäß Artikel 2 Absatz 2 in Verbindung mit den Artikeln 25 bis 28 der Verordnung (EU) Nr. 2019/1020 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über Marktüberwachung und die Konformität von Produkten sowie zur Änderung der Richtlinie 2004/42/EG und der Verordnungen (EG) Nr. 765/2008 und (EU) Nr. 305/2011 (ABl. L 169 vom 25.6.2019, S. 1) mit. Die Zollbehörden melden die Aussetzung der Überlassung nach Artikel 26 der Verordnung (EU) 2019/1020 unverzüglich der zuständigen Behörde, in deren Zuständigkeitsbereich die Zollbehörde gelegen ist.
 
 (4) Das Bundesministerium der Finanzen regelt im Einvernehmen mit dem Bundesministerium durch Rechtsverordnung ohne Zustimmung des Bundesrates die Einzelheiten des Verfahrens nach Absatz 1. Es kann dabei insbesondere Pflichten zu Anzeigen, Anmeldungen, Auskünften und zur Leistung von Hilfsdiensten bei der Durchführung von Überwachungsmaßnahmen sowie zur Duldung der Einsichtnahme in Geschäftspapiere und sonstige Unterlagen und zur Duldung von Besichtigungen und von Entnahmen unentgeltlicher Muster und Proben vorsehen. Soweit Rechtsverordnungen nach § 13 Absatz 5 Satz 1 betroffen sind, bedürfen die Rechtsverordnungen nach Satz 1 auch des Einvernehmens mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit.
 
@@ -1635,7 +1635,7 @@ von Räumen, Anlagen, Einrichtungen oder Beförderungsmitteln, in denen Erzeugni
 
 (4) Das Bundesministerium wird ferner ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es zur Erfüllung der in § 1 Absatz 1 Nummer 1 oder 4, jeweils auch in Verbindung mit § 1 Absatz 3, genannten Zwecke erforderlich ist,
 
-1. die Durchfuhr von Erzeugnissen, einschließlich lebender Tiere im Sinne des § 4 Absatz 1 Nummer 1, oder von mit Lebensmitteln verwechselbaren Produkten sowie deren Lagerung in Lagerhäusern abhängig zu machen von
+1. die Durchfuhr von Erzeugnissen, einschließlich lebender Tiere im Sinne des § 4 Absatz 1 Nummer 1, sowie deren Lagerung in Lagerhäusern abhängig zu machen von
 
 a) einer Erlaubnis der zuständigen Behörde und dabei das Nähere über Art, Form und Inhalt der Erlaubnis, über das Verfahren ihrer Erteilung oder die Dauer ihrer Geltung und Aufbewahrung zu regeln,
 
@@ -1653,7 +1653,7 @@ f) einer Anerkennung der Lagerhäuser durch die zuständige Behörde und dabei d
 
 # § 57 – Ausfuhr; sonstiges Verbringen aus dem Inland
 
-(1) Für die Ausfuhr und Wiederausfuhr von Mitteln zum Tätowieren, kosmetischen Mitteln, Bedarfsgegenständen und mit Lebensmitteln verwechselbaren Produkten gilt Artikel 12 der Verordnung (EG) Nr. 178/2002 mit der Maßgabe, dass an die Stelle der dort genannten Anforderungen des Lebensmittelrechts die für diese Erzeugnisse und die für mit Lebensmitteln verwechselbaren Produkte geltenden Vorschriften dieses Gesetzes, der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen und der unmittelbar geltenden Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes treten.
+(1) Für die Ausfuhr und Wiederausfuhr von Mitteln zum Tätowieren, kosmetischen Mitteln und Bedarfsgegenständen gilt Artikel 12 der Verordnung (EG) Nr. 178/2002 mit der Maßgabe, dass an die Stelle der dort genannten Anforderungen des Lebensmittelrechts die für diese Erzeugnisse geltenden Vorschriften dieses Gesetzes, der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen und der unmittelbar geltenden Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes treten.
 
 (2) Es ist verboten, Futtermittel auszuführen, die
 
@@ -1675,9 +1675,9 @@ Nach Maßgabe des Artikels 12 der Verordnung (EG) Nr. 178/2002 dürfen
 
 2. die Behandlung notwendig ist, um die Erzeugnisse während des Transports nach dem Bestimmungsland und der Lagerung in diesem Land vor Schadorganismen zu schützen.
 
-(4) Erzeugnisse und mit Lebensmitteln verwechselbare Produkte, die nach Maßgabe des Absatzes 1 oder 2 den Vorschriften dieses Gesetzes, der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen oder der unmittelbar geltenden Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes nicht entsprechen, müssen von Erzeugnissen, die für das Inverkehrbringen im Inland oder in anderen Mitgliedstaaten bestimmt sind, getrennt gehalten und kenntlich gemacht werden.
+(4) Erzeugnisse, die nach Maßgabe des Absatzes 1 oder 2 den Vorschriften dieses Gesetzes, der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen oder der unmittelbar geltenden Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes nicht entsprechen, müssen von Erzeugnissen, die für das Inverkehrbringen im Inland oder in anderen Mitgliedstaaten bestimmt sind, getrennt gehalten und kenntlich gemacht werden.
 
-(5) Für Erzeugnisse und für mit Lebensmitteln verwechselbare Produkte, die zur Lieferung in einen anderen Mitgliedstaat bestimmt sind, gilt Artikel 12 der Verordnung (EG) Nr. 178/2002 mit der Maßgabe, dass an die Stelle der dort genannten Anforderungen des Lebensmittelrechts die für diese Erzeugnisse und die für mit Lebensmitteln verwechselbaren Produkte geltenden Vorschriften dieses Gesetzes, der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen und der unmittelbar geltenden Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes treten.
+(5) Für Erzeugnisse, die zur Lieferung in einen anderen Mitgliedstaat bestimmt sind, gilt Artikel 12 der Verordnung (EG) Nr. 178/2002 mit der Maßgabe, dass an die Stelle der dort genannten Anforderungen des Lebensmittelrechts die für diese Erzeugnisse geltenden Vorschriften dieses Gesetzes, der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen und der unmittelbar geltenden Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes treten.
 
 (6) Die Vorschriften dieses Gesetzes und der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen finden mit Ausnahme der §§ 5 und 17 Absatz 1 Satz 1 Nummer 1 und der §§ 26 und 30 auf Erzeugnisse, die für die Ausrüstung von Schiffen bestimmt sind, die das Gebiet der Europäischen Union verlassen, keine Anwendung.
 
@@ -1716,15 +1716,15 @@ Soweit Rechtsverordnungen nach § 13 Absatz 5 Satz 1 betroffen sind, tritt an di
 
 1. soweit es zur Erfüllung der in § 1 genannten Zwecke erforderlich ist, das Verbringen von
 
-a) lebenden Tieren im Sinne des § 4 Absatz 1 Nummer 1,
+a) lebenden Tieren im Sinne des § 4 Absatz 1 Nummer 1 oder
 
-b) Erzeugnissen oder
-
-c) mit Lebensmitteln verwechselbaren Produkten
+b) Erzeugnissen
 
 aus dem Inland zu verbieten oder zu beschränken,
 
 2. soweit es zur Erleichterung des Handelsverkehrs beiträgt und die in § 1 genannten Zwecke nicht entgegenstehen, bei der Ausfuhr von Erzeugnissen bestimmten Betrieben auf Antrag eine besondere Kontrollnummer zu erteilen, wenn die Einfuhr vom Bestimmungsland von der Erteilung einer solchen Kontrollnummer abhängig gemacht wird und die zuständige Behörde den Betrieb für die Ausfuhr in dieses Land zugelassen hat, sowie die Voraussetzungen und das Verfahren für die Erteilung der besonderen Kontrollnummer zu regeln.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 3.2.2026 I Nr. 29 +++)
 
 # § 57a – Ermächtigungen zum Schutz der Gesundheit vor ionisierender Strahlung
 
@@ -1760,9 +1760,9 @@ Die aufgrund des § 57a oder nach § 57b erlassenen Rechtsverordnungen sowie d
 
 1. entgegen § 5 Absatz 1 Satz 1 ein Lebensmittel herstellt oder behandelt,
 
-2. entgegen § 5 Absatz 2 Nummer 1 einen Stoff als Lebensmittel in den Verkehr bringt,
+2. entgegen § 5 Absatz 2 einen Stoff als Lebensmittel in den Verkehr bringt,
 
-3. entgegen § 5 Absatz 2 Nummer 2 ein mit Lebensmitteln verwechselbares Produkt herstellt, behandelt oder in den Verkehr bringt,
+3. (weggefallen)
 
 4. entgegen § 10 Absatz 1 Satz 1, auch in Verbindung mit einer Rechtsverordnung nach § 10 Absatz 4 Nummer 2, oder entgegen § 10 Absatz 3 Nummer 3 ein Lebensmittel in den Verkehr bringt,
 
@@ -1796,7 +1796,7 @@ b) § 26 Satz 1 Nummer 2 einen Stoff oder ein Gemisch aus Stoffen als Mittel zum
 
 16. entgegen § 32 Absatz 2 in Verbindung mit einer Rechtsverordnung nach Absatz 1 Nummer 1, 2 oder 3 einen Bedarfsgegenstand in den Verkehr bringt,
 
-17. einer vollziehbaren Anordnung nach § 39a Absatz 1 Satz 1, auch in Verbindung mit Absatz 2, die der Durchführung eines in § 39a Absatz 3 bezeichneten Verbots oder Gebots dient, zuwiderhandelt oder
+17. einer vollziehbaren Anordnung nach § 39a Absatz 1 Satz 1, die der Durchführung eines in § 39a Absatz 3 bezeichneten Verbots oder Gebots dient, zuwiderhandelt oder
 
 18. einer Rechtsverordnung nach § 10 Absatz 4 Nummer 1 Buchstabe b, d oder Buchstabe e, § 13 Absatz 1 Nummer 1 oder 2, § 22, § 32 Absatz 1 Nummer 1, 2 oder 3, jeweils auch in Verbindung mit § 28 Absatz 1 Nummer 2, oder § 34 Satz 1 Nummer 1 oder 2 oder einer vollziehbaren Anordnung aufgrund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Strafvorschrift verweist.
 
@@ -2193,7 +2193,7 @@ geahndet werden können.
 
 # § 64 – Amtliche Sammlung von Untersuchungsverfahren; Bekanntmachungen
 
-(1) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit veröffentlicht eine amtliche Sammlung von Verfahren zur Probenahme und Untersuchung von den in § 2 Absatz 1 genannten Erzeugnissen mit Ausnahme von Futtermitteln sowie von mit Lebensmitteln verwechselbaren Produkten. Die Verfahren werden unter Mitwirkung von Sachkennern aus den Bereichen der Überwachung, der Wissenschaft und der beteiligten Wirtschaft festgelegt. Die Sammlung ist laufend auf dem neuesten Stand zu halten.
+(1) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit veröffentlicht eine amtliche Sammlung von Verfahren zur Probenahme und Untersuchung von den in § 2 Absatz 1 genannten Erzeugnissen mit Ausnahme von Futtermitteln. Die Verfahren werden unter Mitwirkung von Sachkennern aus den Bereichen der Überwachung, der Wissenschaft und der beteiligten Wirtschaft festgelegt. Die Sammlung ist laufend auf dem neuesten Stand zu halten.
 
 (2) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit veröffentlicht eine amtliche Sammlung von Verfahren zur Probenahme und von Analysemethoden für die Untersuchung von Futtermitteln. Vor deren Veröffentlichung soll ein jeweils auszuwählender Kreis von Vertretern der Wissenschaft, der Fütterungsberatung, der Futtermitteluntersuchung, der Futtermittelüberwachung, der Landwirtschaft und der sonst beteiligten Wirtschaft angehört werden.
 
