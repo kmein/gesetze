@@ -2872,6 +2872,8 @@ Das Bundesministerium für Wirtschaft und Energie berichtet den gesetzgebenden K
 
 (5) In anderen als in den Absätzen 1 bis 4 bezeichneten Fällen nimmt das Bundeskartellamt die Aufgaben wahr, die den Behörden der Mitgliedstaaten der Europäischen Union in den Artikeln 104 und 105 des Vertrages über die Arbeitsweise der Europäischen Union sowie in Verordnungen nach Artikel 103 des Vertrages über die Arbeitsweise der Europäischen Union, auch in Verbindung mit Artikel 43 Absatz 2, Artikel 100 Absatz 2, Artikel 105 Absatz 3 und Artikel 352 Absatz 1 des Vertrages über die Arbeitsweise der Europäischen Union, übertragen sind. Im Beratenden Ausschuss für die Kontrolle von Unternehmenszusammenschlüssen nach Artikel 19 der Verordnung (EG) Nr. 139/2004 wird die Bundesrepublik Deutschland durch das Bundesministerium für Wirtschaft und Energie oder das Bundeskartellamt vertreten. Absatz 2 Satz 2 gilt entsprechend.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 10.2.2026 I Nr. 40 +++)
+
 # § 50a – Ermittlungen im Netzwerk der europäischen Wettbewerbsbehörden
 
 (1) Das Bundeskartellamt darf im Namen und für Rechnung der Wettbewerbsbehörde eines anderen Mitgliedstaates der Europäischen Union und nach Maßgabe des innerstaatlichen Rechts Durchsuchungen und sonstige Maßnahmen zur Sachverhaltsaufklärung durchführen, um festzustellen, ob Unternehmen oder Unternehmensvereinigungen im Rahmen von Verfahren zur Durchsetzung von Artikel 101 oder 102 des Vertrages über die Arbeitsweise der Europäischen Union die ihnen bei Ermittlungsmaßnahmen obliegenden Pflichten verletzt oder Entscheidungen der ersuchenden Behörde nicht befolgt haben. Das Bundeskartellamt kann von der ersuchenden Behörde die Erstattung aller im Zusammenhang mit diesen Ermittlungsmaßnahmen entstandenen vertretbaren Kosten, einschließlich Übersetzungs-, Personal- und Verwaltungskosten, verlangen, sofern nicht im Rahmen der Gegenseitigkeit auf eine Erstattung verzichtet wurde.
@@ -2987,6 +2989,8 @@ Vertrauliche Angaben, einschließlich Betriebs- und Geschäftsgeheimnisse, aus V
 Die Sätze 2 und 3 Nummer 1 lassen die Regelungen des Wertpapiererwerbs- und Übernahmegesetzes sowie des Gesetzes über den Wertpapierhandel über die Zusammenarbeit mit anderen Behörden unberührt.
 
 (3) Das Bundeskartellamt kann Angaben der an einem Zusammenschluss beteiligten Unternehmen, die ihm nach § 39 Absatz 3 gemacht worden sind, an andere Behörden übermitteln, soweit dies zur Verfolgung der in § 4 Absatz 1 Nummer 1 bzw. Nummern 4, 4a und § 5 Absatz 2, 3 des Außenwirtschaftsgesetzes genannten Zwecke erforderlich ist. Bei Zusammenschlüssen mit gemeinschaftsweiter Bedeutung im Sinne des Artikels 1 Absatz 1 der Verordnung (EG) Nr. 139/2004 des Rates vom 20. Januar 2004 über die Kontrolle von Unternehmenszusammenschlüssen in ihrer jeweils geltenden Fassung steht dem Bundeskartellamt die Befugnis nach Satz 1 nur hinsichtlich solcher Angaben zu, welche von der Europäischen Kommission nach Artikel 4 Absatz 3 dieser Verordnung veröffentlicht worden sind.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 10.2.2026 I Nr. 40 +++)
 
 # § 51 – Sitz, Organisation
 
@@ -4038,6 +4042,7 @@ b) öffentliche Auftraggeber gemäß § 99 Nummer 1 bis 3 auf diese Personen ein
 
 3. mehr als die Hälfte der Mitglieder des Verwaltungs-, Leitungs- oder Aufsichtsorgans des Unternehmens bestellen kann.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 10.2.2026 I Nr. 40 +++)  
 (+++ § 100: Zur Anwendung vgl. § 41 Abs. 2 MessbG +++)
 
 # § 101 – Konzessionsgeber
@@ -4052,6 +4057,7 @@ b) öffentliche Auftraggeber gemäß § 99 Nummer 1 bis 3 auf diese Personen ein
 
 (2) § 100 Absatz 2 und 3 gilt entsprechend. Zu den in § 100 Absatz 2 Satz 2 genannten Verfahren zählen dabei insbesondere solche, die in Anhang III der Richtlinie 2014/23/EU genannt sind.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 10.2.2026 I Nr. 40 +++)  
 (+++ § 101: Zur Anwendung vgl. § 41 Abs. 2 MessbG +++)
 
 # § 102 – Sektorentätigkeiten
@@ -4108,6 +4114,7 @@ Postdienste im Sinne dieses Gesetzes sind Dienste, die die Abholung, das Sortier
 
 (8) Für die Zwecke der Absätze 1 bis 3 umfasst der Begriff „Einspeisung“ die Erzeugung und Produktion sowie den Groß- und Einzelhandel. Die Erzeugung von Gas fällt unter Absatz 6.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 10.2.2026 I Nr. 40 +++)  
 (+++ § 102: Zur Anwendung vgl. § 41 Abs. 2 MessbG +++)
 
 # § 103 – Öffentliche Aufträge, Rahmenvereinbarungen und Wettbewerbe

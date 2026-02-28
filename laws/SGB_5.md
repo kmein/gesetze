@@ -101,7 +101,7 @@
 | Zwölftes Kapitel      | Interoperabilität und Cybersicherheit im Gesundheitswesen; Nationales Gesundheitsportal .......                                                                    | §§ 384 bis 395   |
 | Dreizehntes Kapitel   | Straf- und Bußgeldvorschriften .......                                                                                                                             | §§ 396 bis 399   |
 | Vierzehntes Kapitel   | Überleitungsregelungen aus Anlass der Herstellung der Einheit Deutschlands .......                                                                                 | §§ 400 bis 402   |
-| Fünfzehntes Kapitel   | Weitere Übergangsvorschriften .......                                                                                                                              | §§ 403 bis 426   |
+| Fünfzehntes Kapitel   | Weitere Übergangsvorschriften .......                                                                                                                              | §§ 403 bis 428   |
 
   
   
@@ -1202,7 +1202,6 @@ Die Vertragsärztin oder der Vertragsarzt, die oder der die Leistung nach Satz 1
 
 (7) Der Gemeinsame Bundesausschuss regelt bis zum 1. Oktober 2023 in den Richtlinien nach § 92 Absatz 1 Nummer 6 das Nähere zu einzelnen Facharztgruppen und den erforderlichen ärztlichen Qualifikationen, bei denen der Genehmigungsvorbehalt nach Absatz 6 Satz 2 entfällt.
 
-(+++ § 31 Abs. 3: Zur Anwendung vgl. § 24e +++)  
 § 31 Abs. 6 Satz 6 Kursivdruck: Früher Abs. 6 Satz 5, jetzt Abs. 6 Satz 6 gem. Art. 12 Nr. 1 Buchst. c DBuchst. bb G v. 9.8.2019 I 1202 mWv 16.8.2019; Änderungsanweisung durch Art. 123 Nr. 4 G v. 20.11.2019 I 1626 mWv 26.11.2019 wegen textlicher Unstimmigkeit nicht ausführbar
 
 # § 31a – Medikationsplan

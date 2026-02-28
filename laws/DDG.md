@@ -754,6 +754,8 @@ mit einer Geldbuße bis zu hunderttausend Euro und
 
 4. des Absatzes 5 Nummer 23 und 26 der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 3.2.2026 I Nr. 29 +++)
+
 # § 34 – Evaluierung
 
 Die Bundesregierung wird fünf Jahre nach Inkrafttreten dieses Gesetzes die in den §§ 18 und 19 enthaltenen Regelungen über die Zusammenarbeit der Koordinierungsstelle für digitale Dienste mit den zuständigen Behörden sowie die Zusammenarbeit mit anderen Behörden evaluieren und dabei insbesondere prüfen, ob die Ausgestaltung der Verfahren zwischen den zuständigen Behörden geeignet ist, die Verordnung (EU) 2022/2065 effektiv durchzusetzen. Über das Ergebnis wird sie dem Bundestag Bericht erstatten.

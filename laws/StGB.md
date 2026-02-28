@@ -3430,7 +3430,7 @@ i) § 13 des Ausgangsstoffgesetzes,
 
 j) § 83 Absatz 1 Nummer 4 und 5 sowie Absatz 4 des Kulturgutschutzgesetzes,
 
-k) den §§ 143, 143a und 144 des Markengesetzes sowie
+k) den §§ 143 und 144 des Markengesetzes sowie
 
 l) den §§ 51 und 65 des Designgesetzes.
 

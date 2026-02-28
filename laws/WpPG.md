@@ -149,6 +149,8 @@ einschätzen und bestmöglich mit den Merkmalen anderer Wertpapiere vergleichen 
 
 (9) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz nähere Bestimmungen zu Inhalt und Aufbau der Wertpapier-Informationsblätter erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 4.2.2026 I Nr. 33 +++)
+
 # § 5 – Übermittlung des Wertpapier-Informationsblatts an die Bundesanstalt; Frist und Form der Veröffentlichung; Veröffentlichung durch die Bundesanstalt
 
 (1) Das Wertpapier-Informationsblatt ist der Bundesanstalt elektronisch und in elektronisch durchsuchbarem Format über ihr Melde- und Veröffentlichungssystem zu übermitteln.
@@ -429,6 +431,8 @@ Keine aufschiebende Wirkung haben
 
 (3) Anerkannte Sprache im Sinne des Artikels 15 Absatz 2 Buchstabe a der Verordnung (EU) 2023/2631 ist die deutsche Sprache.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 4.2.2026 I Nr. 33 +++)
+
 # § 22 – Elektronische Einreichung, Aufbewahrung
 
 (1) Der Prospekt einschließlich der Übersetzung der Zusammenfassung sowie Nachträge sind der Bundesanstalt ausschließlich elektronisch über das Melde- und Veröffentlichungssystem der Bundesanstalt zu übermitteln. Dies gilt entsprechend für die Hinterlegung der endgültigen Bedingungen des Angebots, von einheitlichen Registrierungsformularen einschließlich deren Änderungen sowie Dokumenten nach Artikel 1 Absatz 4 Buchstabe da Ziffer iii und Buchstabe db Ziffer iii und Absatz 5 Unterabsatz 1 Buchstabe ba Ziffer iii der Verordnung (EU) 2017/1129.
@@ -436,6 +440,8 @@ Keine aufschiebende Wirkung haben
 (2) Der gebilligte Prospekt sowie gebilligte Nachträge werden von der Bundesanstalt zehn Jahre aufbewahrt. Die Aufbewahrungsfrist beginnt mit dem Ablauf des 31. Dezembers des Kalenderjahres, in dem der Prospekt gebilligt wurde. Dies gilt entsprechend für die in Absatz 1 Satz 2 genannten Dokumente mit der Maßgabe, dass die Aufbewahrungsfrist mit dem Ablauf des 31. Dezembers des Kalenderjahres beginnt, in dem das Dokument hinterlegt wurde.
 
 (3) Die Unterrichtung der Bundesanstalt durch den Emittenten nach Artikel 15 Absatz 4 der Verordnung (EU) 2023/2631 erfolgt ausschließlich elektronisch über das Melde- und Veröffentlichungssystem der Bundesanstalt unter Mitteilung der den jeweiligen Emittenten und die entsprechende Emission betreffenden Angaben.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 4.2.2026 I Nr. 33 +++)
 
 # § 23 – (weggefallen)
 
@@ -604,6 +610,8 @@ zuwiderhandelt.
 (8) § 17 Absatz 2 des Gesetzes über Ordnungswidrigkeiten ist nicht anzuwenden bei Sanktionstatbeständen, die in Absatz 6 in Bezug genommen werden.
 
 (9) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 4.2.2026 I Nr. 33 +++)
 
 # § 24a – Bußgeldvorschriften zur Verordnung (EU) 2023/2631
 

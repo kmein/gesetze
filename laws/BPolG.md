@@ -110,6 +110,8 @@
 |             |                                  | § 69a            |                                                   |        |                                          | Bußgeldvorschriften                                                                                                                                                   |
 |             |                                  | § 70             |                                                   |        |                                          | Einschränkung von Grundrechten                                                                                                                                        |
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 10.2.2026 I Nr. 39 +++)
+
 # § 1 – Allgemeines
 
 (1) Die Bundespolizei wird in bundeseigener Verwaltung geführt. Sie ist eine Polizei des Bundes im Geschäftsbereich des Bundesministeriums des Innern, für Bau und Heimat.
@@ -911,6 +913,8 @@ Die Zuständigkeit für die Zustimmung einer Verwendung als Beweismittel nach Sa
 (6) Bei der Übermittlung von Daten an Polizeibehörden oder sonstige für die Verhütung oder Verfolgung von Straftaten zuständige öffentliche Stellen, die nicht zugleich zentrale Kontaktstellen sind, ist dem Bundeskriminalamt sowie der zentralen Kontaktstelle des jeweiligen Staats gleichzeitig eine Kopie der Daten zu übermitteln.
 
 (7) Daten, welche die Bundespolizei selbst erhoben hat, sind unter den Voraussetzungen von § 32 in Verbindung mit § 32a aus eigener Initiative den Mitgliedstaaten oder zuständigen Strafverfolgungsbehörden zu übermitteln oder bereitzustellen, wenn tatsächliche Anhaltspunkte dafür vorliegen, dass diese Daten für einen anderen Mitgliedstaat der Europäischen Union oder einen der in § 32a Absatz 6 genannten Staaten zum Zwecke der Verhütung von Straftaten nach Artikel 2 Absatz 3 der Richtlinie (EU) 2023/977 relevant sein können und diese Daten dem Mitgliedstaat nicht bereits anderweitig übermittelt oder bereitgestellt wurden.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 10.2.2026 I Nr. 39 +++)
 
 # § 34 – Abgleich personenbezogener Daten
 

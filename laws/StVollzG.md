@@ -1231,10 +1231,6 @@ Um die Flucht aus einer offenen Anstalt zu vereiteln, dürfen keine Schußwaffen
 
 (1b) Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035 in Papierform erstellt, geführt und übermittelt werden. Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035 in Papierform übermittelt werden. Die für die Handhabung von Verschlusssachen geltenden Geheimschutzvorschriften bleiben unberührt.
 
-(1c) (weggefallen)
-
-(1d) (weggefallen)
-
 (2) Die Landesregierungen bestimmen durch Rechtsverordnung die für die elektronische Aktenführung geltenden organisatorischen und dem Stand der Technik entsprechenden technischen Rahmenbedingungen einschließlich der einzuhaltenden Anforderungen des Datenschutzes, der Datensicherheit und der Barrierefreiheit. Sie können die Ermächtigung durch Rechtsverordnung auf die zuständigen Landesministerien übertragen.
 
 (3) Die Bundesregierung bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates die für die Übermittlung elektronischer Akten zwischen Behörden und Gerichten geltenden Standards. Sie kann die Ermächtigung durch Rechtsverordnung ohne Zustimmung des Bundesrates auf die zuständigen Bundesministerien übertragen.

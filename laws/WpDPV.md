@@ -249,6 +249,8 @@ Die Darstellung nach Nummer 28 zu Artikel 5a Absatz 1 der Verordnung (EU) Nr. 10
 
 21. Delegierten Verordnung (EU) 2017/590 der Kommission vom 28. Juli 2016 zur Ergänzung der Verordnung (EU) Nr. 600/2014 des Europäischen Parlaments und des Rates durch technische Regulierungsstandards für die Meldung von Geschäften an die zuständigen Behörden (ABl. L 87 vom 31.3.2017, S. 449) in der jeweils geltenden Fassung.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 4.2.2026 I Nr. 33 +++)
+
 # § 12 – Depotgeschäft
 
 Bei der Prüfung des Depotgeschäfts nach § 89 Absatz 1 Satz 2 des Wertpapierhandelsgesetzes hat der Prüfungsbericht zudem Angaben zu enthalten, ob Folgendes beachtet wird:
@@ -354,3 +356,5 @@ Prüfungszeitraum:
 Prüfungsstichtag:
 
 Prüfungsfeststellungen:
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 4.2.2026 I Nr. 33 +++)

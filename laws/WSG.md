@@ -239,6 +239,3 @@ Pionier, Panzerpionier, Funker, Schütze, Flieger, Sanitätssoldat, Matrose</td>
 </tr>
 </tbody>
 </table>
-
-(+++ Hinweis: Zur Bekanntmachung der nach § 7 Satz 2 geltenden Beträge nach der Tabelle dieser Anlage  
-ab 1.4.2021 u. 1.4.2022 vgl. Bek. v. 31.8.2021 I 4188 (WSG2020§7Satz2Bek 2021) u. ab 1.3.2024 vgl. Bek. v. 19.1.2024 I Nr. 20 (WSG2020§7Satz2Bek 2024) +++)

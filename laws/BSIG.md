@@ -265,6 +265,8 @@ die Unterstützung darf nur gewährt werden, soweit sie erforderlich ist, um Tä
 
 (6) Das Bundesamt veröffentlicht am 6. Dezember 2026 eine Verfahrensbeschreibung zur Durchführung der Absätze 1 bis 3.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 2.12.2025 I Nr. 301 +++)
+
 # § 6 – Informationsaustausch
 
 (1) Das Bundesamt betreibt eine Online-Plattform zum Informationsaustausch mit wichtigen Einrichtungen, besonders wichtigen Einrichtungen und Einrichtungen der Bundesverwaltung. Es kann die beteiligten Hersteller, Lieferanten oder Dienstleister zum Austausch über Cyberbedrohungen, Schwachstellen, Beinahevorfälle und IT-Sicherheitsmaßnahmen sowie zur Aufdeckung und Abwehr von Cyberangriffen hinzuziehen. Das Bundesamt kann weiteren Stellen die Teilnahme ermöglichen.
@@ -727,6 +729,8 @@ Satz 1 gilt nicht für die dort aufgeführten besonders wichtigen und wichtigen 
 
 (3) Die Geschäftsbereiche des Auswärtigen Amts und des Bundesministeriums der Verteidigung sowie der Bundesnachrichtendienst und das Bundesamt für Verfassungsschutz sind zusätzlich zu den Regelungen gemäß Absatz 2 von den Regelungen des § 7 Absatz 5 Satz 4, der §§ 10, 13 Absatz 1 Satz 1 Nummer 1 Buchstabe e sowie der §§ 30, 33 und 35 ausgenommen. Das Auswärtige Amt erlässt im Einvernehmen mit dem Bundesministerium für Digitales und Staatsmodernisierung eine allgemeine Verwaltungsvorschrift, um die Ziele der NIS-2-Richtlinie im Geschäftsbereich des Auswärtigen Amts durch ergebnisäquivalente Maßnahmen umzusetzen.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 2.12.2025 I Nr. 301 +++)
+
 # § 30 – Risikomanagementmaßnahmen besonders wichtiger Einrichtungen und wichtiger Einrichtungen
 
 (1) Besonders wichtige Einrichtungen und wichtige Einrichtungen sind verpflichtet, geeignete, verhältnismäßige und wirksame technische und organisatorische Maßnahmen, die in Absatz 2 konkretisiert werden, zu ergreifen, um Störungen der Verfügbarkeit, Integrität und Vertraulichkeit der informationstechnischen Systeme, Komponenten und Prozesse, die sie für die Erbringung ihrer Dienste nutzen, zu vermeiden und Auswirkungen von Sicherheitsvorfällen möglichst gering zu halten. Bei der Bewertung der Verhältnismäßigkeit der Maßnahmen nach Satz 1 sind das Ausmaß der Risikoexposition, die Größe der Einrichtung, die Umsetzungskosten und die Eintrittswahrscheinlichkeit und Schwere von Sicherheitsvorfällen sowie ihre gesellschaftlichen und wirtschaftlichen Auswirkungen zu berücksichtigen. Die Einhaltung der Verpflichtung nach Satz 1 ist durch die Einrichtungen zu dokumentieren.
@@ -953,6 +957,8 @@ d) im Rahmen vorab zwischen dem Bundesamt und den Empfängern abgestimmter Proze
 
 (6) Soweit im Rahmen dieser Vorschrift personenbezogene Daten verarbeitet werden, ist eine über die vorstehenden Absätze hinausgehende Verarbeitung zu anderen Zwecken unzulässig. § 8 Absatz 8 Satz 3 bis 9 ist entsprechend anzuwenden.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 2.12.2025 I Nr. 301 +++)
+
 # § 41 – Untersagung des Einsatzes kritischer Komponenten
 
 (1) Das Bundesministerium des Innern kann gegenüber dem Betreiber kritischer Anlagen den Einsatz von kritischen Komponenten eines Herstellers im Benehmen mit dem Bundesministerium für Wirtschaft und Energie im Sektor Energie, dem Bundesministerium für Wirtschaft und Energie sowie dem Bundesministerium für Forschung, Technologie und Raumfahrt im Sektor Weltraum, dem Bundesministerium für Digitales und Staatsmodernisierung in den Sektoren Informationstechnik und Telekommunikation, dem Bundesministerium für Verkehr in den Sektoren Transport und Verkehr, dem Bundesministerium für Gesundheit im Sektor Gesundheit, dem Bundesministerium für Ernährung und Landwirtschaft im Sektor Ernährung, dem Bundesministerium der Finanzen im Sektor Finanzwesen, dem Bundesministerium für Arbeit und Soziales in den Sektoren Sozialversicherungsträger sowie Grundsicherung für Arbeitsuchende und dem Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit in den Sektoren Wasser sowie Siedlungsabfallentsorgung sowie dem Auswärtigen Amt untersagen oder Anordnungen dazu erlassen, wenn der Einsatz die öffentliche Ordnung oder Sicherheit der Bundesrepublik Deutschland voraussichtlich beeinträchtigt.
@@ -1006,6 +1012,8 @@ Zugang zu den Informationen und Akten in Angelegenheiten nach Teil 2 §§ 4 bis 
 (4) Das Bundesamt stellt im Rahmen seiner Aufgaben nach § 3 Absatz 1 Satz 2 Nummer 10 technische Richtlinien und Referenzarchitekturen bereit, die von den Einrichtungen der Bundesverwaltung als Rahmen für die Entwicklung sachgerechter Anforderungen an Auftragnehmer – im Sinne einer Eignung – und IT-Produkte – im Sinne einer Spezifikation – für die Durchführung von Vergabeverfahren berücksichtigt werden. Die Vorschriften des Vergaberechts und des Geheimschutzes bleiben unberührt.
 
 (5) Für die Einrichtungen der Bundesverwaltung kann das Bundesministerium des Innern im Einvernehmen mit den anderen Ressorts festlegen, dass sie verpflichtet sind, nach § 19 bereitgestellte IT-Sicherheitsprodukte beim Bundesamt abzurufen. Eigenbeschaffungen der Einrichtungen der Bundesverwaltung sind in diesem Fall nur zulässig, wenn das spezifische Anforderungsprofil den Einsatz abweichender Produkte erfordert. Dies gilt nicht für die in § 2 Nummer 21 genannten Gerichte und Verfassungsorgane sowie die Auslandsinformations- und -kommunikationstechnik gemäß § 7 Absatz 6.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 2.12.2025 I Nr. 301 +++)
 
 # § 45 – Informationssicherheitsbeauftragte der Einrichtungen der Bundesverwaltung
 
@@ -1251,6 +1259,8 @@ Absatz 7 Satz 2 gilt entsprechend.
 
 (8) Die in § 41 Absatz 1 genannten Bundesministerien können dem Bundesministerium des Innern einen Vorschlag für den Erlass einer Rechtsverordnung im Sinne des Absatzes 7 vorlegen. Das Vorschlagsrecht betrifft nur den Sektor im Sinne des § 2 Nummer 24, für den das jeweilige Bundesministerium in § 41 Absatz 1 genannt wird.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 2.12.2025 I Nr. 301 +++)
+
 # § 57 – Einschränkung von Grundrechten
 
 Das Fernmeldegeheimnis (Artikel 10 des Grundgesetzes) wird durch die §§ 7, 8, 9, 11, 12, 15 und 16 eingeschränkt.
@@ -1270,6 +1280,8 @@ Das Fernmeldegeheimnis (Artikel 10 des Grundgesetzes) wird durch die §§ 7, 8, 
 1. der Europäischen Kommission und der Kooperationsgruppe nach Artikel 14 der NIS-2-Richtlinie für jeden Sektor und Teilsektor gemäß Anhang I oder II der NIS-2-Richtlinie die Anzahl der besonders wichtigen Einrichtungen und wichtigen Einrichtungen, die gemäß § 33 Absatz 1 registriert wurden, und
 
 2. der Europäischen Kommission sachdienliche Informationen über die Anzahl der kritischen Anlagen, über den Sektor und den Teilsektor gemäß Anhang I oder II der NIS-2-Richtlinie, zu dem sie gehören, über die Art der von ihnen erbrachten Dienste und über die Bestimmungen, auf deren Grundlage sie ermittelt wurden.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 2.12.2025 I Nr. 301 +++)
 
 # § 59 – Zuständigkeit des Bundesamtes
 

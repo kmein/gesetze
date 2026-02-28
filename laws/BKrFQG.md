@@ -211,7 +211,7 @@ c) in der Schweiz, wenn sie dort beschäftigt sind.
 
 (3) Fahrer im Sinne des § 1 Absatz 1 Satz 1 Nummer 3, die Fahrten im Güterkraftverkehr durchführen, können die Grundqualifikation und die Weiterbildung durch eine gültige Fahrerbescheinigung nach Artikel 5 Absatz 1 der Verordnung (EG) Nr. 1072/2009 in der Fassung vom 15. Juli 2020 nachweisen. Auf der Fahrerbescheinigung muss die Schlüsselzahl 95 im Feld „Bemerkungen“ eingetragen sein.
 
-(4) Dem Fahrerqualifizierungsnachweis nach Absatz 1 gleichgestellt ist ein Nachweis, der auf Grundlage des Kapitels III Absatz 2.6 in Verbindung mit Anlage 5 Teil A der Qualitätscharta für Beförderungen im grenzüberschreitenden Güterkraftverkehr im Rahmen des multilateralen CEMT-Kontingentsystems vom 5. August 2020 (VkBl. S. 506) ausgestellt worden ist. Dies gilt nur für Beförderungen, die unter Verwendung einer multilateralen Genehmigung nach § 6 Satz 2 Nummer 2 oder 3 des Güterkraftverkehrsgesetzes durchgeführt werden.
+(4) Dem Fahrerqualifizierungsnachweis nach Absatz 1 gleichgestellt ist ein Nachweis, der auf Grundlage des Kapitels III Absatz 2.6 in Verbindung mit Anlage 5 Teil A der Qualitätscharta für Beförderungen im grenzüberschreitenden Güterkraftverkehr im Rahmen des multilateralen CEMT-Kontingentsystems vom 5. August 2020 (VkBl. S. 506) ausgestellt worden ist. Dies gilt nur für Beförderungen, die unter Verwendung einer multilateralen Genehmigung nach § 1 Absatz 5 Nummer 2 oder 3 des Güterkraftverkehrsgesetzes durchgeführt werden.
 
 # § 8 – Pflicht zum Mitführen des Nachweises
 

@@ -179,11 +179,11 @@ Das Führungszeugnis und die Auskunft aus dem Gewerbezentralregister dürfen zum
 
 (2) Die Behörde teilt dem Unternehmen das Ergebnis der Überprüfung nach Absatz 1 schriftlich mit.
 
-(3) Die Verfahren auf Erneuerung der Gemeinschaftslizenz nach Artikel 4 der Verordnung (EG) Nr. 1072/2009 oder der Erlaubnis nach dem Güterkraftverkehrsgesetz ersetzen die Kontrolle nach Absatz 1, soweit dabei zugleich der Nachweis geführt wird, dass die Berufszulassungsvoraussetzungen insgesamt erfüllt sind.
+(3) Die Verfahren auf Erneuerung der Gemeinschaftslizenz nach Artikel 4 der Verordnung (EG) Nr. 1072/2009 oder der Erlaubnis nach § 3 in der am 26. Februar 2026 geltenden Fassung nach dem Güterkraftverkehrsgesetz ersetzen die Kontrolle nach Absatz 1, soweit dabei zugleich der Nachweis geführt wird, dass die Berufszulassungsvoraussetzungen insgesamt erfüllt sind.
 
 # § 12 – Ordnungswidrigkeiten
 
-Ordnungswidrig im Sinne des § 19 Absatz 1 Nummer 2 des Güterkraftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
+Ordnungswidrig im Sinne des § 19 Absatz 1 Nummer 2 Buchstabe a des Güterkraftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1. entgegen § 10 Absatz 5 Satz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht oder einen Nachweis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erbringt,
 

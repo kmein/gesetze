@@ -121,8 +121,6 @@ Reservistendienst Leistende erhalten für jeden Tag Reservistendienst eine Präm
 
 Reservistendienst Leistende erhalten einen Zuschlag von 70 Euro pro Tag ab dem 15. Tag Reservistendienst im Kalenderjahr, höchstens jedoch 700 Euro im Kalenderjahr. Die Leistung ist ausgeschlossen, soweit eine Verpflichtungsvereinbarung nach § 13 abgeschlossen ist.
 
-(+++ §§ 12 bis 17: Zur Nichtanwendung vgl. § 1 Abs. 4 +++)
-
 # § 13 – Zuschlag für die Verpflichtung zu längerem Dienst
 
 Reservistendienst Leistende, die sich vor dem ersten Tag eines Reservistendienstes auf Grund eines entsprechenden Angebots verpflichtet haben, in einem Kalenderjahr mindestens 33 Tage Reservistendienst zu leisten, erhalten nach Erfüllung der Verpflichtung einen Zuschlag von 35 Euro je Tag, höchstens jedoch
@@ -133,13 +131,9 @@ Reservistendienst Leistende, die sich vor dem ersten Tag eines Reservistendienst
 
 2. im Kalenderjahr nicht bereits Leistungen nach § 12 gewährt worden sind.
 
-(+++ §§ 12 bis 17: Zur Nichtanwendung vgl. § 1 Abs. 4 +++)
-
 # § 14 – Dienstgeld
 
 Reservistendienst Leistende erhalten für Dienstleistungen an einem Samstag, einem Sonntag oder einem gesetzlichen Feiertag sowie für eine eintägige Dienstleistung an einem Freitag eine zweite Prämie nach Spalte 3 der Tabelle in Anlage 2. Für Tage, an denen kein Dienst geleistet wird, wird die zweite Prämie nicht gewährt. Satz 1 gilt nicht bei Anspruch auf den Auslandsverwendungszuschlag nach § 18.
-
-(+++ §§ 12 bis 17: Zur Nichtanwendung vgl. § 1 Abs. 4 +++)
 
 # § 15 – Zuschlag für herausgehobene Funktionen
 
@@ -147,15 +141,13 @@ Reservistendienst Leistende erhalten für Dienstleistungen an einem Samstag, ein
 
 (2) Der Zuschlag beträgt 70 Prozent der entsprechenden Stellenzulage nach Anlage IX des Bundesbesoldungsgesetzes.
 
-(+++ §§ 12 bis 17: Zur Nichtanwendung vgl. § 1 Abs. 4 +++)
-
 # § 16 – Zuschlag für besondere Erschwernisse
 
 (1) Reservistendienst Leistende erhalten einen widerruflichen Zuschlag zur Abgeltung besonderer Erschwernisse, sofern sie Aufgaben unter den gleichen Voraussetzungen wahrnehmen, unter denen Besoldungsempfängerinnen und Besoldungsempfängern eine Erschwerniszulage nach § 47 des Bundesbesoldungsgesetzes zusteht.
 
 (2) Der Zuschlag beträgt 70 Prozent der entsprechenden Zulage nach der auf Grund des § 47 des Bundesbesoldungsgesetzes erlassenen Rechtsverordnung. Abweichend von Satz 1 beträgt der Zuschlag 100 Prozent, wenn dieser für Soldatinnen und Soldaten nicht steuerpflichtig ist.
 
-(+++ §§ 12 bis 17: Zur Nichtanwendung vgl. § 1 Abs. 4 +++)
+(+++ §§ 12 bis 17a: Zur Nichtanwendung vgl. § 1 Abs. 4 +++)
 
 # § 17 – Zuschlag für besondere zeitliche Belastungen
 
@@ -163,11 +155,11 @@ Reservistendienst Leistende erhalten für Dienstleistungen an einem Samstag, ein
 
 (2) Der Zuschlag beträgt 70 Prozent der Leistungen, die dienstgradgleichen Besoldungsempfängerinnen und Besoldungsempfängern gewährt werden.
 
-(+++ §§ 12 bis 17: Zur Nichtanwendung vgl. § 1 Abs. 4 +++)
-
 # § 17a – Zuschlag für Fahrtkosten
 
 Reservistendienst Leistende, die aus persönlichen oder dienstlichen Gründen von der Pflicht zum Wohnen in einer Gemeinschaftsunterkunft befreit sind und täglich von der Dienststätte zu ihrer Wohnung zurückkehren, erhalten pro Tag der Dienstleistung einen Zuschlag in Höhe von 20 Cent je Kilometer der mit einem privaten Kraftfahrzeug zurückgelegten Strecke der einfachen Entfernung zwischen Dienststätte und Wohnung. Der Zuschlag ist je Tag der Dienstleistung an der Dienststätte auf höchstens 20 Euro begrenzt. Entstandene Kosten für Fahrten auf dem Land- oder Wasserweg mit regelmäßig verkehrenden Beförderungsmitteln werden bis zur Höhe der niedrigsten Beförderungsklasse entsprechend Satz 2 erstattet. Ist die Wohnung auf einer üblicherweise befahrenen Strecke weniger als 30 Kilometer von der Dienststätte entfernt oder liegt sie im Dienstort, wird der Zuschlag nicht gewährt.
+
+(+++ §§ 12 bis 17a: Zur Nichtanwendung vgl. § 1 Abs. 4 +++)
 
 # § 18 – Auslandsverwendungszuschlag
 
@@ -275,7 +267,7 @@ Die Bundesministerin der Verteidigung oder der Bundesminister der Verteidigung k
 |:---:|:----------------------|:---------:|:---------:|:---------:|:---------:|
 |     | 1                                                                                                                                                                                           |                               2                               |                   3                   |                    4                    |                                                             5                                                              |
 |     |                                                                                                                                                                                             | Reservistendienst Leistende oder Reservistendienst Leistender |                                       |                                         |                                                                                                                            |
-|     |                                                                                                                                                                                             |               ohne unterhaltsberechtigtes Kind                | mit einem unterhaltsberechtigten Kind | mit zwei unterhaltsberechtigten Kindern | mit drei unterhaltsberechtigten Kindern<span id="FnR.F835163_01"></span><a href="#F835163_01" class="FnR">1</a></sup> |
+|     |                                                                                                                                                                                             |               ohne unterhaltsberechtigtes Kind                | mit einem unterhaltsberechtigten Kind | mit zwei unterhaltsberechtigten Kindern | mit drei unterhaltsberechtigten Kindern<span id="FnR.F835163_01"></span><a href="#F835163_01" class="FnR">*</a></sup> |
 |  1  | Jäger, Panzerschütze, Panzergrenadier, Kanonier, Pionier, Panzerpionier, Funker, Schütze, Flieger, Sanitätssoldat, Matrose, Gefreiter, Grenadier, Panzerjäger, Panzerkanonier, Panzerfunker |                            76,85 €                            |                89,52 €                |                 93,90 €                 |                                                          105,34 €                                                          |
 |  2  | Obergefreiter, Hauptgefreiter                                                                                                                                                               |                            78,04 €                            |                90,88 €                |                 95,10 €                 |                                                          106,29 €                                                          |
 |  3  | Stabsgefreiter, Oberstabsgefreiter, Unteroffizier, Maat, Fahnenjunker, Seekadett                                                                                                            |                            78,48 €                            |                91,39 €                |                 95,40 €                 |                                                          106,44 €                                                          |

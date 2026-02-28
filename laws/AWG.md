@@ -193,7 +193,8 @@ Inländische Wertpapiere sind Wertpapiere, die ein Inländer oder, vor dem 9. Ma
 
 (4) Beschränkungen und Handlungspflichten sind nach Art und Umfang auf das Maß zu begrenzen, das notwendig ist, um den in der Ermächtigung angegebenen Zweck zu erreichen. Sie sind so zu gestalten, dass in die Freiheit der wirtschaftlichen Betätigung so wenig wie möglich eingegriffen wird. Beschränkungen und Handlungspflichten dürfen abgeschlossene Verträge nur berühren, wenn der in der Ermächtigung angegebene Zweck erheblich gefährdet wird. Sie sind aufzuheben, sobald und soweit die Gründe, die ihre Anordnung rechtfertigten, nicht mehr vorliegen.
 
-(+++ § 4: Zur Anwendung vgl. § 31 Satz 1 +++)
+(+++ § 4: Zur Anwendung vgl. § 31 Satz 1 +++)  
+(+++ § 4 Abs. 4: Zur Geltung vgl. § 6a Abs. 8 AWG 2013 +++)
 
 # § 5 – Gegenstand von Beschränkungen
 
