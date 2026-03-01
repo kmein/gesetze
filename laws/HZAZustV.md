@@ -61,6 +61,8 @@ Auf Grund des § 12 Absatz 3 des Finanzverwaltungsgesetzes, der durch Artikel 1 
 
 2. die Anforderung von Säumniszuschlägen durch die Vollstreckungsbehörden, einschließlich der Verwertung beweglicher Sachen.
 
+(12) Unabhängig von der in § 14 Nummer 4 und 5 geregelten Zuständigkeitsübertragung gelten im Bereich der Luftverkehrsteuer im Übrigen die in Abschnitt 2 getroffenen Zuständigkeitsübertragungen unverändert fort.
+
 # § 2 – Hauptzollamt Aachen
 
 Dem Hauptzollamt Aachen werden die Zuständigkeiten übertragen für
@@ -205,9 +207,13 @@ Dem Hauptzollamt Frankfurt am Main werden die Zuständigkeiten übertragen für
 
 1. die Bewilligung von Versandvereinfachungen im Luftverkehr gemäß Artikel 233 Absatz 4 Buchstabe e der Verordnung (EU) Nr. 952/2013 in Verbindung mit Artikel 199 der Delegierten Verordnung (EU) 2015/2446 für in Deutschland ansässige Luftverkehrsgesellschaften und zur Durchführung des Konsultationsverfahrens und des weiteren Schriftwechsels zwischen der deutschen Zollverwaltung und den Verwaltungen der übrigen Mitgliedstaaten der Europäischen Union im Zusammenhang mit Anträgen zu Versandvereinfachung im Luftverkehr aller Hauptzollämter bundesweit,
 
-2. die Straf- und Bußgeldsachen des Hauptzollamts Gießen sowie
+2. die Straf- und Bußgeldsachen des Hauptzollamts Gießen,
 
-3. die Durchführung von Ermittlungsverfahren der Finanzkontrolle Schwarzarbeit im Zusammenhang mit Organisierter Kriminalität und Schwerer struktureller Kriminalität der Hauptzollämter Darmstadt und Gießen.
+3. die Durchführung von Ermittlungsverfahren der Finanzkontrolle Schwarzarbeit im Zusammenhang mit Organisierter Kriminalität und Schwerer struktureller Kriminalität der Hauptzollämter Darmstadt und Gießen,
+
+4. die Festsetzung und Erhebung der Luftverkehrsteuer einschließlich der Anordnung und Auswertung der betreffenden Außenprüfungen sowie der Auswertung der betreffenden Steueraufsichtsmaßnahmen aller Hauptzollämter bundesweit sowie
+
+5. die Erteilung einer Erlaubnis nach § 8 Absatz 2 Luftverkehrsteuergesetz aller Hauptzollämter bundesweit.
 
 (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 1.12.2025 I Nr. 300 +++)
 
