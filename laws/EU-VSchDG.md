@@ -13,8 +13,6 @@
 
 (3) Die Befugnisse nach diesem Gesetz gelten nicht, soweit in anderen Rechtsvorschriften entsprechende oder weitergehende Regelungen vorgesehen sind.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
-
 # § 2 – Zuständige Behörde
 
 Für die Durchführung der Verordnung (EU) 2017/2394 sind bei Verstößen innerhalb der Union, weitverbreiteten Verstößen und weitverbreiteten Verstößen mit Unions-Dimension zuständig
@@ -145,8 +143,6 @@ Die zuständige Behörde kann ihre Anordnungen nach den für die Vollstreckung v
 1. Verweisungen auf Vorschriften der Verordnung (EU) 2017/2394 in diesem Gesetz zu ändern, soweit es zur Anpassung an Änderungen dieser Vorschriften erforderlich ist,
 
 2. Vorschriften dieses Gesetzes zu streichen oder in ihrem Wortlaut einem verbleibenden Anwendungsbereich anzupassen, soweit sie durch den Erlass entsprechender Vorschriften in Verordnungen der Europäischen Gemeinschaft oder der Europäischen Union unanwendbar geworden sind.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
 
 # § 13 – Zulässigkeit, Zuständigkeit
 

@@ -953,8 +953,6 @@ e) die Association of Issuing Bodies.
 
 (3) Die Registerverwaltung kann im Herkunftsnachweisregister oder im Regionalnachweisregister gespeicherte Daten ferner der Bundesnetzagentur übermitteln, soweit dies im Einzelfall erforderlich ist zum Abgleich der Daten des Herkunftsnachweisregisters oder des Regionalnachweisregisters mit den Daten, die im Marktstammdatenregister nach § 1 der Marktstammdatenregisterverordnung gespeichert sind.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 6.8.2025 I Nr. 186 +++)
-
 # § 47 – Löschung von Daten
 
 Im Herkunftsnachweisregister oder im Regionalnachweisregister gespeicherte Daten sind unverzüglich zu löschen, wenn sie für das Führen des jeweiligen Registers nicht mehr erforderlich sind.

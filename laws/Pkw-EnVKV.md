@@ -415,7 +415,8 @@ Der Bundesrat hat zugestimmt.
 
 # Anlage 1 – Hinweis über den Energieverbrauch und die CO2-Emissionen neuer Personenkraftwagen
 
-(Fundstelle: BGBl. I 2024 I Nr. 50, S. 9 - 17)  
+(Fundstelle: BGBl. I 2024 I Nr. 50, S. 9 - 17;  
+bezüglich der einzelnen Änderungen vgl. Fußnote)  
   
 
 1. Die Größe des Hinweises hat 297 mm x 210 mm (DIN A4) zu betragen.
@@ -551,11 +552,13 @@ Die folgenden Muster 1 bis 5 visualisieren die Anforderungen an die vorgeschrieb
 
 4. Muster 4 für Personenkraftwagen mit rein elektrischem Antrieb:
 
-![Muster 4 detailliert beschrieben in Anlage 1](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j00500_0040.jpg)
+![Muster 4](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2026/j00550_0010.jpg)
 
 5. Muster 5 für ein Brennstoffzellenfahrzeug:
 
-![Muster 5 detailliert beschrieben in Anlage 1](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2024/j00500_0050.jpg)
+![Muster 5](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2026/j00550_0020.jpg)
+
+ 
 
 # Anlage 2 – (zu § 3 Abs. 1 Nr. 2)Aushang am Verkaufsort über den Energieverbrauch und die CO2-Emissionen neuer Personenkraftwagen
 
@@ -666,7 +669,7 @@ Sofern es sich um eine freiwillige Kennzeichnung bei einem neuen Personenkraftwa
 
 3. Die unter Teil I Nummer 2 bis 8 für den Aushang gestellten Anforderungen gelten bei Verwendung eines Bildschirms entsprechend mit der Maßgabe, dass sicherzustellen ist, dass die in Anlage 1 Teil I Nummer 9 aufgeführten Hinweise ständig sichtbar sind.
 
-4. Die Angaben sind mindestens alle drei Monate zu aktualisieren. Die Angaben sind mindestens alle drei Monate zu aktualisieren. Das Datum der letzten Aktualisierung ist anzugeben.
+4. Die Angaben sind mindestens alle drei Monate zu aktualisieren. Das Datum der letzten Aktualisierung ist anzugeben.
 
 # Anlage 3 – (zu § 4 Abs. 2 Satz 1)Leitfaden über den Energieverbrauch und die CO2-Emissionen neuer Personenkraftwagen
 

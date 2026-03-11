@@ -1316,7 +1316,6 @@
 - [BVerfGGOBek15](laws/BVerfGGOBek15.md) Bekanntmachung der Geschäftsordnung des Bundesverfassungsgerichts
 - [BVerfSchG](laws/BVerfSchG.md) Gesetz über die Zusammenarbeit des Bundes und der Länder in Angelegenheiten des Verfassungsschutzes und über das Bundesamt für Verfassungsschutz
 - [BVerkEhrZÄndErl](laws/BVerkEhrZÄndErl.md) Erlaß über die Genehmigung einer Änderung der Benennung und der Form des "Ehrenzeichens der Bundesverkehrswacht"
-- [BVers17ZBek](laws/BVers17ZBek.md) Bekanntmachung über die Zahl der von den Volksvertretungen der Länder zu wählenden Mitglieder der 17. Bundesversammlung
 - [BVers18AnO](laws/BVers18AnO.md) Anordnung über Ort und Zeit der 18. Bundesversammlung
 - [BVersTG](laws/BVersTG.md) Gesetz über die interne Teilung beamtenversorgungsrechtlicher Ansprüche von Bundesbeamtinnen und Bundesbeamten im Versorgungsausgleich
 - [BVertrBMBAnO](laws/BVertrBMBAnO.md) Anordnung über die Vertretung des Bundes im Geschäftsbereich des Bundesministers für innerdeutsche Beziehungen
@@ -2713,6 +2712,7 @@
 - [GWB](laws/GWB.md) Gesetz gegen Wettbewerbsbeschränkungen
 - [GWDAPrV](laws/GWDAPrV.md) Verordnung über die Ausbildung und Prüfung für den gehobenen Wetterdienst des Bundes
 - [GwG](laws/GwG.md) Gesetz über das Aufspüren von Gewinnen aus schweren Straftaten
+- [GwGMeldV](laws/GwGMeldV.md) Verordnung über die Form von und die erforderlichen Angaben in Meldungen an die Zentralstelle für Finanztransaktionsuntersuchungen nach § 43 Absatz 1 und § 44 des Geldwäschegesetzes
 - [GwGMeldV-Immobilien](laws/GwGMeldV-Immobilien.md) Verordnung zu den nach dem Geldwäschegesetz meldepflichtigen Sachverhalten im Immobilienbereich
 - [GWKHV](laws/GWKHV.md) Verordnung über das Herkunftsnachweisregister für Gas und das Herkunftsnachweisregister für Wärme oder Kälte 1
 - [GWStatG](laws/GWStatG.md) Gesetz über die Statistik zu globalen Wertschöpfungsketten
@@ -2768,7 +2768,6 @@
 - [HeuerVtrÜbkG](laws/HeuerVtrÜbkG.md) Gesetz betreffend das Internationale Übereinkommen über den Heuervertrag der Schiffsleute
 - [HfreqBetrGen](laws/HfreqBetrGen.md) Allgemeine Genehmigung nach dem Gesetz über den Betrieb von Hochfrequenzgeräten
 - [HfzHvzVStG](laws/HfzHvzVStG.md) Gesetz zur Änderung des Hauptfeststellungszeitraums für die wirtschaftlichen Einheiten des Betriebsvermögens sowie des Hauptveranlagungszeitraums für die Vermögensteuer
-- [HG 2025](laws/HG_2025.md) Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025
 - [HG 2026](laws/HG_2026.md) Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2026
 - [HGB](laws/HGB.md) Handelsgesetzbuch
 - [HGBEG](laws/HGBEG.md) Einführungsgesetz zum Handelsgesetzbuch
@@ -6604,7 +6603,7 @@
 - [ZahntechMstrV](laws/ZahntechMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Zahntechniker-Handwerk
 - [ZApprO](laws/ZApprO.md) Approbationsordnung für Zahnärzte und Zahnärztinnen
 - [ZDG](laws/ZDG.md) Gesetz über den Zivildienst der Kriegsdienstverweigerer
-- [ZDPersAV](laws/ZDPersAV.md) Verordnung über die Führung der Personalakten durch das Bundesamt für den Zivildienst
+- [ZDPersAV](laws/ZDPersAV.md) Verordnung über die Führung der Personalakten durch das Bundesamt für Familie und zivilgesellschaftliche Aufgaben
 - [ZDVG](laws/ZDVG.md) Gesetz über den Vertrauensmann der Zivildienstleistenden
 - [ZDVÜV](laws/ZDVÜV.md) Verordnung über versorgungsrechtliche Übergangsregelungen für Zivildienstleistende nach Herstellung der Einheit Deutschlands
 - [ZDVWahlV 2](laws/ZDVWahlV_2.md) Zweite Verordnung über die Wahl der Vertrauensmänner der Zivildienstleistenden
@@ -6871,6 +6870,6 @@
 - [9. AnpG-KOV](laws/9._AnpG-KOV.md) Neuntes Gesetz über die Anpassung der Leistungen des Bundesversorgungsgesetzes
 - [9. BImSchV](laws/9._BImSchV.md) Neunte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 - [9. GerüstbauerArbbV](laws/9._GerüstbauerArbbV.md) Neunte Verordnung über zwingende Arbeitsbedingungen im Gerüstbauerhandwerk
-- [9. ProdSV](laws/9._ProdSV.md) Neunte Verordnung zum Produktsicherheitsgesetz (Maschinenverordnung) *)
+- [9. ProdSV](laws/9._ProdSV.md) Neunte Verordnung zum Produktsicherheitsgesetz (Maschinenverordnung) 1) 2)
 - [9. RAG](laws/9._RAG.md) Neuntes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
 - [9. RAV](laws/9._RAV.md) Verordnung zur neunten Anpassung der Renten in dem in Artikel 3 des Einigungsvertrages genannten Gebiet

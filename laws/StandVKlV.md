@@ -11,8 +11,6 @@ Nr. 536/2014 in der Fassung vom 6. September 2022 werden die in den Anlagen 1 un
 
 (3) Die Vorgaben des Gesetzes über Arbeitnehmererfindungen bleiben unberührt.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 16.9.2025 I Nr. 215 +++)
-
 # § 2 – Nutzung der Standardvertragsklauseln
 
 (1) Sofern in den in den Anlagen 1 und 2 genannten Standardvertragsklauseln durch „
@@ -269,8 +267,6 @@ Nach Zugang der Kündigung beim Prüfzentrum oder nach Abgabe einer Kündigungse
 10.6  
 Im Fall eines vorzeitigen Endes der klinischen Prüfung, insbesondere im Fall einer Kündigung des Vertrages, informiert das Prüfzentrum bereits eingeschlossene Prüfungsteilnehmer unverzüglich über das Ende der klinischen Prüfung und behandelt sie soweit möglich und sinnvoll nach den anerkannten medizinischen Standards weiter.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 16.9.2025 I Nr. 215 +++)
-
 # Anlage 2 – (zu § 1 Absatz 1)Regelungen des Datenschutzes bei gemeinsamer Verantwortlichkeit
 
 (Fundstelle: BGBl. 2025 I Nr. 215, S. 9 - 11)
@@ -396,5 +392,3 @@ Artikel 82 der Datenschutz-Grundverordnung bleibt unberührt. Die vertraglichen 
 
 11.2  
 Im Innenverhältnis haftet jede Vertragspartei gegenüber der anderen Vertragspartei für den Schaden, der durch Verarbeitungen in ihrem jeweiligen Zuständigkeitsbereich entstanden ist.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 16.9.2025 I Nr. 215 +++)

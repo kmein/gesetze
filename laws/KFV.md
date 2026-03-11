@@ -25,8 +25,6 @@ b) mindestens 120 Tagen nachweisen, sofern zusätzlich eine als Mitglied einer D
 
 Die Voraussetzungen nach § 39 Absatz 1 Nummer 1 bis 3 der Binnenschiffspersonalverordnung sind zu erfüllen.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 22.7.2025 I Nr. 178 +++)
-
 # § 3 – Abweichende Regelungen zur behördlichen Befähigungsprüfung zum Erwerb des Kleinschifferzeugnisses
 
 (1) Abweichend von § 38 Absatz 1 Satz 1 in Verbindung mit § 40 Absatz 5 Satz 3 der Binnenschiffspersonalverordnung sind Gegenstand der Prüfung zum Erwerb des Kleinschifferzeugnisses für kleine Fahrgastschiffe die Kenntnisse und Fertigkeiten nach Anlage 9 zur Binnenschiffspersonalverordnung mit Ausnahme der Fragen zu den Themenbereichen 3.1 und 3.2.

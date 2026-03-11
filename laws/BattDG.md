@@ -127,13 +127,9 @@
 
  
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
-
 # § 1 – Zweck des Gesetzes
 
 Dieses Gesetz dient der Durchführung und Ergänzung der Verordnung (EU) 2023/1542. Um diese Ziele zu erreichen, soll das Gesetz das Marktverhalten der Verpflichteten regeln.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
 
 # § 2 – Anwendungsbereich des Gesetzes
 
@@ -144,8 +140,6 @@ Dieses Gesetz dient der Durchführung und Ergänzung der Verordnung (EU) 2023/15
 (2) Soweit die Verordnung (EU) 2023/1542, dieses Gesetz und die auf Grundlage dieses Gesetzes erlassenen Rechtsverordnungen keine abweichenden Vorschriften enthalten, sind das Kreislaufwirtschaftsgesetz vom 24. Februar 2012 (BGBl. I S. 212), das zuletzt durch Artikel 5 des Gesetzes vom 2. März 2023 (BGBl. 2023 I Nr. 56) geändert worden ist, mit Ausnahme von § 17 Absatz 4 und § 54 des Kreislaufwirtschaftsgesetzes und die aufgrund des Kreislaufwirtschaftsgesetzes oder des bis zum Ablauf des 31. Mai 2012 geltenden Kreislaufwirtschafts- und Abfallgesetzes erlassenen Rechtsverordnungen in der jeweils geltenden Fassung anzuwenden. Die §§ 27, 50 Absatz 3, § 59 Absatz 1 Satz 1 und Absatz 2 des Kreislaufwirtschaftsgesetzes sowie die §§ 60 und 66 des Kreislaufwirtschaftsgesetzes gelten entsprechend.
 
 (3) Soweit dieses Gesetz keine abweichenden Vorschriften enthält, ist das Marktüberwachungsgesetz vom 9. Juni 2021 (BGBl. I S. 1723) anzuwenden.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
 
 # § 3 – Ergänzende Begriffsbestimmungen
 
@@ -169,8 +163,6 @@ c) in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen 
 
 6. „regelmäßige Prüfung“ eine unabhängige Überprüfung nach Artikel 48 Absatz 2 der Verordnung (EU) 2023/1542, die in einem Zeitabstand von mindestens drei Jahren wiederholt wird.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
-
 # § 4 – Verkehrsverbote
 
 (1) Hersteller dürfen Batterien nur bereitstellen, wenn sie oder im Fall der Bevollmächtigung nach § 40 Absatz 2 Satz 1 der Bevollmächtigte für die erweiterte Herstellerverantwortung nach Artikel 55 Absatz 2 Unterabsatz 1 Satz 1 der Verordnung (EU) 2023/1542 in der Fassung vom 13. Juni 2024 und § 5 Absatz 1 Satz 1 oder Satz 2 ordnungsgemäß registriert sind.
@@ -183,8 +175,6 @@ c) in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen 
 
 2. Fulfilment-Dienstleister die Lagerhaltung, Verpackung, Adressierung oder den Versand von Batterien dieses Herstellers nicht vornehmen.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
-
 # § 5 – Registrierung der Hersteller
 
 (1) Bevor ein Hersteller Batterien im Geltungsbereich dieses Gesetzes erstmals auf dem Markt bereitstellt, ist er oder im Fall der Bevollmächtigung nach § 40 Absatz 2 Satz 1 sein Bevollmächtigter für die erweiterte Herstellerverantwortung verpflichtet, sich nach Artikel 55 Absatz 2 Unterabsatz 1 Satz 1 der Verordnung (EU) 2023/1542 bei der zuständigen Behörde mit der Marke und der jeweiligen Batteriekategorie nach Artikel 3 Absatz 1 Nummer 9 und 11 bis 14 der Verordnung (EU) 2023/1542 registrieren zu lassen. Die Verpflichtung nach Satz 1 ist abweichend von Artikel 55 Absatz 6 der Verordnung (EU) 2023/1542 auch dann vom Hersteller oder im Fall der Bevollmächtigung nach § 40 Absatz 2 Satz 1 von seinem Bevollmächtigten für die erweiterte Herstellerverantwortung zu erfüllen, wenn eine Organisation für Herstellerverantwortung benannt ist. Die Registrierung ist auf Antrag bei Vorliegen aller Voraussetzungen nach Artikel 55 Absatz 3 bis 5 und 7 der Verordnung (EU) 2023/1542 und nach Absatz 2 zu erteilen. Die Registrierung gilt nach Ablauf von zwölf Wochen ab dem Zeitpunkt, zu dem alle gemäß Artikel 55 Absatz 2 und 3 der Verordnung (EU) 2023/1542 erforderlichen Informationen vorgelegt worden sind, als erteilt, sofern kein Fall des Satzes 6 vorliegt. Auf Verlangen des Antragstellers ist diesem der Eintritt der Registrierungsfiktion nach Satz 4 schriftlich zu bescheinigen und eine Registrierungsnummer zu erteilen. Die Frist nach Artikel 55 Absatz 9 Buchstabe b der Verordnung (EU)
@@ -192,8 +182,6 @@ c) in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen 
 2023/1542 kann mit Zustimmung des Antragstellers verlängert werden.
 
 (2) Der Antrag auf Registrierung nach Absatz 1 Satz 3 und die Übermittlung der Angaben nach Artikel 55 Absatz 3 bis 5 und 7 der Verordnung (EU) 2023/1542 erfolgen über das auf der Internetseite der zuständigen Behörde zur Verfügung gestellte elektronische Datenverarbeitungssystem nach Maßgabe der jeweils geltenden Verfahrensanweisung für das elektronische Datenverarbeitungssystem. Die zuständige Behörde kann Ausnahmen von Satz 1 zulassen. Sie kann für die sonstige Kommunikation mit den Herstellern oder mit deren Bevollmächtigten für die erweiterte Herstellerverantwortung die elektronische Übermittlung, eine bestimmte Verschlüsselung sowie die Eröffnung eines Zugangs für die Übermittlung elektronischer Dokumente verlangen. Die Verfahrensanweisung nach Satz 1 und die Anforderungen nach Satz 3 sind auf der Internetseite der zuständigen Behörde zu veröffentlichen.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
 
 # § 6 – Pflichten des Endnutzers
 
@@ -205,8 +193,6 @@ c) in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen 
 
 (4) Elektrofahrzeugaltbatterien sind ausschließlich über Händler nach § 18 und über im Rahmen eines Auswahlverfahrens nach Artikel 57 Absatz 8 der Verordnung (EU) 2023/1542 ausgewählte Abfallbewirtschafter zu erfassen.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
-
 # § 7 – Pflichten der Hersteller
 
 (1) Hersteller von Batterien haben sich mit diesen Batterien zur Gewährleistung der flächendeckenden Rücknahme von Altbatterien je Batteriekategorie an einer Organisation für Herstellerverantwortung zu beteiligen oder ihre erweiterte Herstellerverantwortung individuell wahrzunehmen. Auf Hersteller, die die Pflichten der erweiterten Herstellerverantwortung individuell wahrnehmen, sind mit Ausnahme von § 10 die Bestimmungen über Organisationen für Herstellerverantwortung entsprechend anzuwenden.
@@ -214,8 +200,6 @@ c) in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen 
 (2) Die Hersteller haben gegenüber der Organisation für Herstellerverantwortung die Batteriekategorie und die Masse an Batterien, die jeweils von ihnen in den drei vorangegangenen Kalenderjahren auf dem Markt im Geltungsbereich dieses Gesetzes bereitgestellt wurden, anzugeben und diese Angabe kalenderjährlich zu aktualisieren. Die Organisationen für Herstellerverantwortung haben den Herstellern eine erfolgte Beteiligung unter Angabe der Batteriekategorie und kalenderjährlichen Beteiligungsmenge unverzüglich schriftlich oder elektronisch zu bestätigen. Die Hersteller und die Organisationen für Herstellerverantwortung haben die Angaben nach den Sätzen 1 und 2 jedes Jahr zeitgleich der zuständigen Behörde anzuzeigen.
 
 (3) Wird die Zulassung einer Organisation für Herstellerverantwortung vor Ablauf des Zeitraums, für den sich ein Hersteller an dieser beteiligt hat, nach Artikel 58 Absatz 6 der Verordnung (EU) 2023/1542 oder nach § 33 Absatz 2 oder 3 widerrufen oder in sonstiger Weise unwirksam, so gilt die Beteiligung ab dem Zeitpunkt der Wirksamkeit des Widerrufs oder des Eintritts der sonstigen Unwirksamkeit als nicht vorgenommen.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
 
 # § 8 – Zulassung von Organisationen für Herstellerverantwortung
 
@@ -267,8 +251,6 @@ Die zuständige Behörde kann von der Organisation für Herstellerverantwortung 
 
 (9) Der Zulassungsantrag nach Absatz 1 Satz 2 und die Übermittlung der Angaben nach Artikel 58 Absatz 2 der Verordnung (EU) 2023/1542 sowie nach den Absätzen 2 und 3 erfolgen über das auf der Internetseite der zuständigen Behörde zur Verfügung gestellte elektronische Datenverarbeitungssystem nach Maßgabe der jeweils geltenden Verfahrensanweisung für das elektronische Datenverarbeitungssystem. Die zuständige Behörde kann Ausnahmen von Satz 1 zulassen. Sie kann für die sonstige Kommunikation mit den Organisationen für Herstellerverantwortung die elektronische Übermittlung, eine bestimmte Verschlüsselung sowie die Eröffnung eines Zugangs für die Übermittlung elektronischer Dokumente verlangen. Die Verfahrensanweisung nach Satz 1 und die Anforderungen nach Satz 3 sind auf der Internetseite der zuständigen Behörde zu veröffentlichen.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
-
 # § 9 – Sicherheitsleistung
 
 (1) Jede Organisation für Herstellerverantwortung ist verpflichtet, der zuständigen Behörde kalenderjährlich eine angemessene und insolvenzsichere Sicherheit für die Rücknahme und Entsorgung der Altbatterien zu leisten, die die beteiligten Hersteller im Geltungsbereich dieses Gesetzes erstmals auf dem Markt bereitstellen oder bereitgestellt haben.
@@ -289,8 +271,6 @@ Die zuständige Behörde kann von der Organisation für Herstellerverantwortung 
 
 (4) Die Höhe der erbrachten Sicherheitsleistung ist regelmäßig von der zuständigen Behörde zu überprüfen. Die zuständige Behörde hat anzuordnen, dass die Sicherheitsleistung zu erhöhen ist, wenn die erbrachte Sicherheitsleistung im Hinblick auf die zugelassene Pflichtenwahrnehmungsgrenze gemäß § 8 Absatz 6, die geltenden Ausgleichssätze gemäß § 31 Absatz 7 Satz 1 bis 4 oder die durchschnittlichen Kosten für die Abholung und Behandlung von Altbatterien nach § 31 Absatz 7 Satz 5 nicht mehr angemessen ist. Die zuständige Behörde kann die Zulassung von Organisationen für Herstellerverantwortung widerrufen, wenn die erhöhte Sicherheit nicht innerhalb von einem Monat nach Erlass der Anordnung nach Satz 2 geleistet ist.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
-
 # § 10 – Berücksichtigung ökologischer Kriterien bei der Beitragsbemessung
 
 (1) Die Organisationen für Herstellerverantwortung sind verpflichtet, im Rahmen der Bemessung der finanziellen Beiträge der Hersteller oder im Fall der Bevollmächtigung nach § 40 Absatz 2 Satz 1 der Bevollmächtigten für die erweiterte Herstellerverantwortung Anreize dafür zu schaffen, dass bei der Herstellung von Batterien die Verwendung von gefährlichen Stoffen minimiert oder ganz vermieden wird. Bei der Bemessung der Beiträge sind die Langlebigkeit, die Wiederverwendbarkeit und die Recyclingfähigkeit der Batterie zu berücksichtigen. Bei der Bemessung der Beiträge sollen insbesondere auch folgende Kriterien berücksichtigt werden:
@@ -306,8 +286,6 @@ Die zuständige Behörde kann von der Organisation für Herstellerverantwortung 
 Der jeweilige Beitrag hat sich dabei an den einzelnen chemischen Zusammensetzungen der Batterien sowie der Batteriekategorie zu bemessen.
 
 (2) Jede Organisation für Herstellerverantwortung hat dem Umweltbundesamt alle zwei Jahre bis zum 1. Juni zu berichten, wie sie die Vorgaben nach Absatz 1 bei der Bemessung der Beiträge im vorangegangenen Kalenderjahr umgesetzt hat. Der erste Bericht ist für das Kalenderjahr 2026 vorzulegen. Das Umweltbundesamt prüft die Berichte auf Plausibilität. Es kann verbindliche Vorgaben hinsichtlich der Form der Berichte beschließen und auf ihren Internetseiten veröffentlichen.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
 
 # § 11 – Pflichten der Organisationen für Herstellerverantwortung
 
@@ -357,8 +335,6 @@ Eine Information nach Satz 1 muss nicht veröffentlicht werden, wenn es sich um 
 
 (9) Die Organisationen für Herstellerverantwortung für Gerätebatterien und für LV-Batterien erstatten dem Umweltbundesamt die im Rahmen der Erhebung über die Zusammensetzung der gesammelten gemischten Siedlungsabfälle gemäß Artikel 69 Absatz 5 Satz 1 der Verordnung (EU) 2023/1542 entstandenen Kosten. Sie tragen die Kosten entsprechend dem Marktanteil der in Verkehr gebrachten Masse an Batterien der jeweils bei ihnen selbst beteiligten Hersteller oder über einen Bevollmächtigten für die erweiterte Herstellerverantwortung beteiligten Hersteller.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
-
 # § 12 – Wegfall einer Organisation für Herstellerverantwortung
 
 (1) Wird die Zulassung einer Organisation für Herstellerverantwortung für eine bestimmte Kategorie von Batterien nach Artikel 58 Absatz 6 der Verordnung (EU) 2023/1542 oder § 33 Absatz 2 oder 3 widerrufen oder in sonstiger Weise unwirksam, so hat die Organisation für Herstellerverantwortung der zuständigen Behörde unverzüglich die in Artikel 75 Absatz 1 und Absatz 2 auch in Verbindung mit Absatz 4 der Verordnung (EU)
@@ -368,8 +344,6 @@ Eine Information nach Satz 1 muss nicht veröffentlicht werden, wenn es sich um 
 (2) Im Fall des Widerrufs oder der sonstigen Unwirksamkeit der Zulassung einer Organisation für Herstellerverantwortung für Geräte- oder LV-Batterien besteht für die anderen weiterhin zugelassenen Organisationen für Herstellerverantwortung für dieselbe Kategorie von Batterien die Auffangsammelpflicht. Nach der Auffangsammelpflicht müssen die weiterhin zugelassenen Organisationen für Herstellerverantwortung im Verhältnis ihrer Pflichtenwahrnehmungsgrenze in der jeweiligen Kategorie zueinander noch nicht erfüllte Verpflichtungen der weggefallenen Organisation für Herstellerverantwortung entsprechend der Zuweisung der zuständigen Behörde nach § 31 Absatz 6 Satz 1 erfüllen.
 
 (3) Im Umfang ihrer erfüllten Auffangsammelpflicht nach Absatz 2 steht den Organisationen für Herstellerverantwortung ein Ausgleichsanspruch gegen die Organisation für Herstellerverantwortung zu, deren Zulassung widerrufen worden oder in sonstiger Weise unwirksam geworden ist. Für die Berechnung des Ausgleichsanspruchs wird das zur Erfüllung der Auffangsammelpflicht nachgewiesene Gewicht an gesammelten Altbatterien mit den Ausgleichssätzen nach § 31 Absatz 7 multipliziert. Maßgeblich sind die Ausgleichssätze im Zeitpunkt des Widerrufs oder der sonstigen Unwirksamkeit der Zulassung einer Organisation für Herstellerverantwortung, aufgrund derer die Auffangsammelpflicht zugewiesen wurde.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
 
 # § 13 – Sammelziele
 
@@ -395,8 +369,6 @@ Eine Information nach Satz 1 muss nicht veröffentlicht werden, wenn es sich um 
 
 (3) Die Händler sind verpflichtet, zurückgenommene Gerätealtbatterien und LV-Altbatterien einer für die jeweilige Batteriekategorie zugelassenen Organisation für Herstellerverantwortung zu überlassen. Die Bindung des Händlers an eine Organisation für Herstellerverantwortung erfolgt für mindestens zwölf Monate. Eine Kündigung ist nur zulässig bis drei Monate vor Ablauf der vereinbarten Laufzeit oder, falls keine Laufzeit vereinbart ist, bis drei Monate vor Ablauf der zwölf Monate. Wird die Kündigungsfrist nicht eingehalten oder keine Kündigung erklärt, verlängert sich die Laufzeit um mindestens zwölf weitere Monate. Die Sätze 2 und 3 gelten nicht, sofern die Zulassung der Organisation für Herstellerverantwortung für die betreffende Batteriekategorie während der Laufzeit widerrufen oder unwirksam wird.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
-
 # § 15 – Annahmepflicht der öffentlich-rechtlichen Entsorgungsträger
 
 (1) Die öffentlich-rechtlichen Entsorgungsträger sind verpflichtet, Gerätealtbatterien und LV-Altbatterien aus privaten Haushaltungen unabhängig von deren chemischer Zusammensetzung, Marke, Herkunft, Baugröße und Beschaffenheit unentgeltlich anzunehmen. Die angenommenen Gerätealtbatterien und LV-Altbatterien sind einer für die jeweilige Batteriekategorie zugelassenen Organisation für Herstellerverantwortung zu überlassen.
@@ -417,8 +389,6 @@ Eine Information nach Satz 1 muss nicht veröffentlicht werden, wenn es sich um 
 
 (3) Die Bindung eines Betreibers von Behandlungsanlagen an eine Organisation für Herstellerverantwortung erfolgt für mindestens zwölf Monate. Eine Kündigung ist nur zulässig bis drei Monate vor Ablauf der vereinbarten Laufzeit oder, falls keine Laufzeit vereinbart ist, bis drei Monate vor Ablauf der zwölf Monate. Wird die Kündigungsfrist nicht eingehalten oder keine Kündigung erklärt, verlängert sich die Laufzeit um mindestens zwölf weitere Monate. Die Sätze 1 und 2 gelten nicht, sofern die Zulassung der Organisation für Herstellerverantwortung für die betreffende Batteriekategorie während der Laufzeit widerrufen oder unwirksam wird.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
-
 # § 18 – Rücknahmepflichten der Händler
 
 (1) Ergänzend zu Artikel 62 Absatz 1 und 2 der Verordnung (EU) 2023/1542 ist jeder Händler verpflichtet, vom Endnutzer Starter-, Industrie- und Elektrofahrzeugaltbatterien nach Satz 2 unabhängig von deren chemischer Zusammensetzung, Marke, Herkunft, Baugröße und Beschaffenheit im Handelsgeschäft oder in dessen Nähe unentgeltlich zurückzunehmen. Die Rücknahmeverpflichtung nach Satz 1 beschränkt sich auf Altbatterien der Batteriekategorie nach Artikel 3 Absatz 1 Nummer 12 bis 14 der Verordnung (EU) 2023/1542, die der Händler als Neubatterie in seinem Sortiment führt oder geführt hat. Satz 1 erstreckt sich nicht auf Produkte mit eingebauten Altbatterien; das Elektro- und Elektronikgerätegesetz und die Altfahrzeug-Verordnung bleiben unberührt.
@@ -426,8 +396,6 @@ Eine Information nach Satz 1 muss nicht veröffentlicht werden, wenn es sich um 
 (2) Händler, die Starter-, Industrie- oder Elektrofahrzeugbatterien im Wege von Fernabsatzverträgen an Endnutzer abgeben, haben zur Erfüllung ihrer Pflicht aus Absatz 1 geeignete Rückgabemöglichkeiten in zumutbarer Entfernung zum jeweiligen Endnutzer einzurichten. Artikel 62 Absatz 4 und 5 der Verordnung (EU) 2023/1542 bleibt unberührt.
 
 (3) Händler haben die zurückgenommenen Starter-, Industrie- und Elektrofahrzeugaltbatterien nach Artikel 62 Absatz 3 der Verordnung (EU) 2023/1542 einer für die jeweilige Batteriekategorie zugelassenen Organisation für Herstellerverantwortung oder einem im Rahmen eines Auswahlverfahrens nach Artikel 57 Absatz 8 der Verordnung (EU) 2023/1542 ausgewählten Abfallbewirtschafter zu überlassen. Übergibt der Händler die zurückgenommenen Starter-, Industrie- oder Elektrofahrzeugaltbatterien einem ausgewählten Abfallbewirtschafter, so gelten die Anforderungen der Artikel 70 und 71 der Verordnung (EU) 2023/1542 zugunsten des Händlers als erfüllt.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
 
 # § 19 – Pfandpflicht für Starterbatterien
 
@@ -445,8 +413,6 @@ Eine Information nach Satz 1 muss nicht veröffentlicht werden, wenn es sich um 
 
 (3) Die Absicht, von der Möglichkeit nach Absatz 2 Gebrauch zu machen, hat der öffentlich-rechtliche Entsorgungsträger drei Monate vor Beginn der eigenverantwortlichen Entsorgung der zuständigen Behörde anzuzeigen.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
-
 # § 21 – Überlassungspflichten Dritter
 
 (1) Die Betreiber von Behandlungsanlagen, für die die Richtlinie 2012/19/EU in der Fassung vom 4. Juli 2012 gilt, haben bei der Behandlung von Altgeräten anfallende Starter-, Industrie- oder Elektrofahrzeugaltbatterien einer für die jeweilige Batteriekategorie zugelassenen Organisation für Herstellerverantwortung nach § 8 Absatz 1 und 3 oder einem im Rahmen eines Auswahlverfahrens nach Artikel 57 Absatz 8 der Verordnung (EU) 2023/1542 ausgewählten Abfallbewirtschafter zu überlassen. § 18 Absatz 3 Satz 2 gilt entsprechend.
@@ -454,8 +420,6 @@ Eine Information nach Satz 1 muss nicht veröffentlicht werden, wenn es sich um 
 (2) Die Betreiber von Behandlungsanlagen, für die die Richtlinie 2000/53/EG in der Fassung vom 18. September 2020 gilt, haben bei der Behandlung von Altfahrzeugen anfallende Starter-, Industrie- oder Elektrofahrzeugaltbatterien einer für die jeweilige Batteriekategorie zugelassenen Organisation für Herstellerverantwortung oder einem im Rahmen eines Auswahlverfahrens nach Artikel 57 Absatz 8 der Verordnung (EU) 2023/1542 ausgewählten Abfallbewirtschafter zu überlassen. § 18 Absatz 3 Satz 2 gilt entsprechend.
 
 (3) Wirtschaftsakteure nach Artikel 61 Absatz 1 Satz 2 Buchstabe b der Verordnung (EU) 2023/1542 sind verpflichtet, die bei der Wiederaufarbeitung oder Umnutzung anfallenden Starter-, Industrie- oder Elektrofahrzeugaltbatterien einer für die jeweilige Batteriekategorie zugelassenen Organisation für Herstellerverantwortung oder einem nach Artikel 57 Absatz 8 der Verordnung (EU) 2023/1542 ausgewählten Abfallbewirtschafter zu überlassen. § 18 Absatz 3 Satz 2 gilt entsprechend.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
 
 # § 22 – Meldung zur Zuweisung an Organisationen für Herstellerverantwortung
 
@@ -485,8 +449,6 @@ Sofern bei der Abholung besondere Sicherheitsanforderungen zu berücksichtigen s
 
 (2) Ergänzend zu Artikel 70 der Verordnung (EU) 2023/1542 können Rückstände von zuvor ordnungsgemäß behandelten und recycelten Altbatterien nach dem Stand der Technik gemeinwohlverträglich beseitigt werden.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
-
 # § 24 – Informationspflichten der Händler
 
 (1) Ergänzend zu Artikel 74 Absatz 4 und 5 der Verordnung (EU) 2023/1542 haben Händler, die zur Rücknahme von Altbatterien nach Artikel 62 Absatz 1 der Verordnung (EU) 2023/1542 in der Fassung vom 13. Juni 2024 verpflichtet sind, ihre Kunden durch gut sicht- und lesbare, im unmittelbaren Sichtbereich des Hauptkundenstroms platzierte Schrift- oder Bildtafeln mindestens in deutscher Sprache darauf hinzuweisen, dass
@@ -498,8 +460,6 @@ Sofern bei der Abholung besondere Sicherheitsanforderungen zu berücksichtigen s
 (2) Händler, die zur Rücknahme von Altbatterien nach Artikel 62 Absatz 1 der Verordnung (EU) 2023/1542 in der Fassung vom 13. Juni 2024 verpflichtet sind, haben ihre Kunden im Eingangsbereich der Verkaufsstelle durch gut sicht- und lesbare Bildtafeln mindestens im Format DIN A4 im unmittelbaren Sichtbereich des Hauptkundenstroms mit der Kennzeichnung nach § 25 Absatz 4 Satz 1 darauf hinzuweisen, dass Altbatterien in der jeweiligen Verkaufsstelle zurückgegeben werden können.
 
 (3) Händler, die Batterien im Wege von Fernabsatzverträgen an Endnutzer abgeben, haben die Informationen nach Artikel 74 Absatz 4 und 5 in Verbindung mit Artikel 74 Absatz 1 und 2 der Verordnung (EU) 2023/1542 in der Fassung vom 13. Juni 2024 und die Hinweise nach den Absätzen 1 und 2 gut sichtbar durch schriftliche und bildliche Hinweise in den von ihnen verwendeten Darstellungsmedien sowie leicht auffindbar auf der Internetseite zu geben oder der Warensendung schriftlich beizufügen.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
 
 # § 25 – Informationspflichten der Organisationen für Herstellerverantwortung
 
@@ -536,8 +496,6 @@ Sofern bei der Abholung besondere Sicherheitsanforderungen zu berücksichtigen s
 Der Beirat gibt sich eine Geschäftsordnung. Die Organisationen für Herstellerverantwortung tragen die Kosten entsprechend dem Marktanteil der in Verkehr gebrachten Masse an Batterien der jeweils bei ihnen selbst beteiligten Hersteller oder über einen Bevollmächtigten für die erweiterte Herstellerverantwortung beteiligten Hersteller.
 
 (4) Die Organisationen für Herstellerverantwortung haben eine gemeinsame einheitliche Kennzeichnung für Rücknahme- und Sammelstellen zu entwerfen, diese den Rücknahme- und Sammelstellen unentgeltlich zur Verfügung zu stellen und bei den Rücknahme- und Sammelstellen dauerhaft für die Nutzung der Kennzeichnung zu werben. Die Organisationen für Herstellerverantwortung können auch gemeinschaftlich einen Dritten mit der Wahrnehmung der Pflicht aus Satz 1 beauftragen. Absatz 3 Satz 3 gilt entsprechend.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
 
 # § 26 – Mitteilungspflichten der Organisationen für Herstellerverantwortung
 
@@ -587,8 +545,6 @@ Jeder nach Artikel 57 Absatz 8 der Verordnung (EU) 2023/1542 in der Fassung vom 
 
 Die Dokumentation nach Satz 1 ist zu untergliedern nach Starter-, Industrie- und Elektrofahrzeugbatterien sowie nach chemischen Systemen. Bei den Angaben zu Satz 1 Nummer 2 bis 5 sind in Staaten außerhalb der Europäischen Union ausgeführte und behandelte Altbatterien gesondert auszuweisen. Im Fall der Beleihung nach § 37 übermittelt das Umweltbundesamt der Beliehenen nach Erhalt die Dokumentationen der ausgewählten Abfallbewirtschafter.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
-
 # § 28 – Mitteilungspflichten öffentlich-rechtlicher Entsorgungsträger
 
 Jeder öffentlich-rechtliche Entsorgungsträger hat dem Umweltbundesamt im Fall des § 20 Absatz 2 jährlich bis zum 30. Juni eine Dokumentation vorzulegen, die Auskunft gibt über
@@ -629,13 +585,9 @@ Werden Recyclingverfahren in mehreren Anlagen durchgeführt, so ist der erste Re
 
 (3) Im Fall der Beleihung nach § 37 übermittelt das Umweltbundesamt der Beliehenen nach Erhalt die Dokumentationen der Abfallbewirtschafter, die Altbatterien behandeln, und der Recyclingbetreiber.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
-
 # § 30 – Zuständige Behörde nach Kapitel VIII der Verordnung (EU) 2023/1542
 
 Zuständige Behörde gemäß Kapitel VIII der Verordnung (EU) 2023/1542 und gemäß Teil 2 dieses Gesetzes ist das Umweltbundesamt.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
 
 # § 31 – Aufgaben der zuständigen Behörde im Zusammenhang mit der Registrierung und Zulassung
 
@@ -666,8 +618,6 @@ Die Veröffentlichung ist zu untergliedern nach Herstellern von Gerätebatterien
 (7) Die zuständige Behörde legt je Kategorie von Batterien Ausgleichssätze für die Berechnung des Ausgleichsanspruchs nach § 12 Absatz 3 durch Allgemeinverfügung fest. Die Festlegung ist öffentlich bekannt zu geben. Die Ausgleichssätze sollen die Kosten decken, die der Organisation für Herstellerverantwortung für die Erfüllung der Verpflichtungen in Wahrnehmung der Herstellerverantwortung je Gewichtseinheit in Verbindung mit Abfallbewirtschaftungstätigkeiten entstehen, und einen angemessenen Risikoaufschlag enthalten. Die Ausgleichssätze sind regelmäßig, mindestens alle fünf Jahre, zu aktualisieren; dabei sind die Organisationen für Herstellerverantwortung anzuhören. Die Sätze 1 und 2 gelten für die Festlegung der durchschnittlichen Kosten für die Abholung und Behandlung von Altbatterien nach § 9 Absatz 3 Satz 1 Nummer 2 entsprechend.
 
 (8) Die zuständige Behörde stellt auf Antrag der Organisationen für Herstellerverantwortung, denen eine Auffangsammelpflicht zugewiesen wurde, den jeweiligen Anteil ihrer erfüllten Auffangsammelpflicht an der gesamten Auffangsammelpflicht und die Höhe ihres jeweiligen Ausgleichsanspruchs nach § 12 Absatz 3 gegen die Organisation für Herstellerverantwortung fest, deren Zulassung nach Artikel 58 Absatz 6 der Verordnung (EU) 2023/1542 oder § 33 Absatz 2 oder 3 widerrufen worden oder in sonstiger Weise unwirksam geworden ist.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
 
 # § 32 – Weitere Aufgaben der zuständigen Behörde
 
@@ -709,8 +659,6 @@ In den Fällen des Satzes 1 Nummer 2 ist bei Eröffnung des Insolvenzverfahrens 
 
 (4) Die zuständige Behörde ist im Fall der Hinterlegung von Geld als Sicherheitsleistung nach § 9 befugt, die Hinterlegungsstelle um Herausgabe des hinterlegten Geldes in Höhe nicht erfüllter Kostenerstattungsansprüche aus behördlichen Ersatzvornahmen an sich selbst und im Übrigen in Höhe des festgestellten Ausgleichsanspruchs nach § 31 Absatz 8 an die ausgleichsberechtigten Organisationen für Herstellerverantwortung zu ersuchen.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
-
 # § 34 – Vollständig automatisierter Erlass von Verwaltungsakten
 
 Verwaltungsakte der zuständigen Behörde nach den §§ 31 bis 33 und 41 Absatz 1 können unbeschadet des § 24 Absatz 1 Satz 3 des Verwaltungsverfahrensgesetzes vollständig durch automatische Einrichtungen erlassen werden, sofern kein Anlass besteht, den Einzelfall durch Amtsträger zu bearbeiten.
@@ -736,8 +684,6 @@ Die zuständige Behörde unterstützt die Altbatteriekommission bei der Wahrnehm
 (3) Die zuständige Behörde kann die Altbatteriekommission auffordern, innerhalb einer angemessenen Frist eine Empfehlung abzugeben. Wird innerhalb dieser Frist keine Empfehlung abgegeben, werden die Verfahren nach Absatz 1 Satz 2 ohne Mitwirkung der Altbatteriekommission fortgesetzt.
 
 (4) Die Altbatteriekommission gibt sich eine Geschäftsordnung und nimmt diese mit der Mehrheit der abgegebenen Stimmen an. Die Geschäftsordnung bedarf der Zustimmung der zuständigen Behörde. Mit der Zustimmung der zuständigen Behörde ist die Altbatteriekommission eingerichtet. Die zuständige Behörde kann die Altbatteriekommission auffordern, innerhalb einer angemessenen Frist eine Geschäftsordnung zur Zustimmung vorzulegen. Wird innerhalb dieser Frist keine Geschäftsordnung vorgelegt, werden die Verfahren nach Absatz 1 Satz 2 ohne Mitwirkung der Altbatteriekommission fortgesetzt.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
 
 # § 36 – Besetzung und Benennung
 
@@ -775,8 +721,6 @@ Die Tätigkeit der Mitglieder ist ehrenamtlich. Eine Vergütung oder Erstattung 
 
 (3) Die Beleihung ist durch die zuständige Behörde im Bundesanzeiger bekannt zu machen.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
-
 # § 38 – Aufsicht über die Beliehene
 
 (1) Die Beliehene untersteht der Rechts- und Fachaufsicht der zuständigen Behörde.
@@ -799,8 +743,6 @@ Die Tätigkeit der Mitglieder ist ehrenamtlich. Eine Vergütung oder Erstattung 
 
 (2) Hersteller, die keine Niederlassung im Geltungsbereich dieses Gesetzes haben, haben einen Bevollmächtigten für die erweiterte Herstellerverantwortung mit der Wahrnehmung ihrer Verpflichtungen nach Kapitel VIII der Verordnung (EU) 2023/1542 und Teil 2 dieses Gesetzes zu beauftragen. Die Aufgabenerfüllung durch den Bevollmächtigten für die erweiterte Herstellerverantwortung erfolgt im eigenen Namen. Jeder Hersteller darf nur einen Bevollmächtigten für die erweiterte Herstellerverantwortung beauftragen. Die Beauftragung nach Satz 1 hat schriftlich und in deutscher Sprache zu erfolgen.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
-
 # § 41 – Vollzug
 
 (1) Die zuständige Behörde soll gegenüber den Organisationen für Herstellerverantwortung die Anordnungen treffen, die erforderlich sind, um die Einhaltung der Vorgaben nach Artikel 58 Absatz 2 der Verordnung (EU)
@@ -808,8 +750,6 @@ Die Tätigkeit der Mitglieder ist ehrenamtlich. Eine Vergütung oder Erstattung 
 2023/1542 in Verbindung mit § 8 Absatz 1 bis 3 und § 13 sowie die Einhaltung der Verwertungsanforderungen nach Artikel 70 bis 72 der Verordnung (EU) 2023/1542 und § 23 dauerhaft sicherzustellen.
 
 (2) Für den Vollzug dieses Gesetzes sind die § 47 Absatz 1 bis 6 und § 62 des Kreislaufwirtschaftsgesetzes entsprechend anzuwenden. Das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) wird insoweit eingeschränkt.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
 
 # § 42 – Beteiligung der Bundesbehörden an Beschränkungsverfahren für Stoffe
 
@@ -843,13 +783,9 @@ Die Tätigkeit der Mitglieder ist ehrenamtlich. Eine Vergütung oder Erstattung 
 
 2023/1542 vorhanden sind und die betreffende Fragestellung von den in Absatz 1 genannten Behörden nicht abschließend beurteilt werden kann.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
-
 # § 43 – Notifizierende Behörde
 
 Die Länder haben in ihrer Zuständigkeit eine Behörde einzurichten, die die Aufgaben der notifizierenden Behörde nach Artikel 22 Absatz 1 der Verordnung (EU) 2023/1542 wahrnimmt und den Anforderungen des Artikels 23 der Verordnung (EU) 2023/1542 entspricht.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
 
 # § 44 – Aufgaben der notifizierenden Behörde
 
@@ -877,8 +813,6 @@ ISO/IEC 17021-1 einschließen und für Modul G die Anforderungen der DIN EN ISO/
 
 (4) Die Akkreditierungsstelle trifft die Anordnungen, die zur Beseitigung festgestellter Mängel oder zur Verhinderung künftiger Verstöße notwendig sind.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
-
 # § 46 – Anträge auf Notifizierung, Erteilung der Befugnis
 
 (1) Eine Konformitätsbewertungsstelle kann bei der notifizierenden Behörde die Befugnis beantragen, als notifizierte Stelle tätig werden zu dürfen. Dem Antrag sind die Unterlagen nach Artikel 28 Absatz 2 der Verordnung (EU) 2023/1542 beizufügen. Artikel 28 Absatz 2 der Verordnung (EU) 2023/1542 gilt mit der Maßgabe, dass zwingend eine Akkreditierungsurkunde vorzulegen ist.
@@ -889,13 +823,9 @@ ISO/IEC 17021-1 einschließen und für Modul G die Anforderungen der DIN EN ISO/
 
 (4) Stellen, die der Europäischen Kommission und den anderen Mitgliedstaaten der Europäischen Union aufgrund von Artikel 29 Absatz 2 und 3 der Verordnung (EU) 2023/1542 mitgeteilt worden sind, stehen in dem mitgeteilten Umfang einer notifizierten Stelle gleich.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
-
 # § 47 – Einspruch gegen Entscheidungen notifizierter Stellen
 
 Die notifizierten Stellen haben sicherzustellen, dass Wirtschaftsakteuren ein transparentes und zugängliches Einspruchsverfahren nach Artikel 34 der Verordnung (EU) 2023/1542 gegen ihre Entscheidungen zur Verfügung steht. Die Funktionsweise des Einspruchsverfahrens wird durch die Akkreditierungsstelle überwacht. Die notifizierten Stellen informieren die notifizierende Behörde und die Akkreditierungsstelle über das vorgesehene Verfahren bei der Antragsstellung auf Notifizierung sowie auf Nachfrage über jeden Einspruch und die Entscheidung hierüber.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
 
 # § 48 – Sprache der Anleitungen, der Informationen und der EU-Konformitätserklärungen
 
@@ -909,13 +839,9 @@ Die notifizierten Stellen haben sicherzustellen, dass Wirtschaftsakteuren ein tr
 
 (3) Die Händler müssen nach Artikel 42 Absatz 2 Buchstabe c der Verordnung (EU) 2023/1542 überprüfen, ob die Anleitung und die Informationen, die der Batterie beigefügt sind, in deutscher Sprache abgefasst sind.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
-
 # § 49 – Unterrichtung bei Nichtkonformität einer Batterie
 
 Die Unterrichtung bei Nichtkonformität einer Batterie nach Artikel 79 Absatz 2 und 4 Unterabsatz 2 der Verordnung (EU) 2023/1542 hat die Marktüberwachungsbehörde unverzüglich über die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin vorzunehmen.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
 
 # § 50 – Maßnahmen bei Nichtkonformität einer Batterie in einem anderen Mitgliedstaat der Europäischen Union
 
@@ -931,23 +857,17 @@ Die Unterrichtung bei Nichtkonformität einer Batterie nach Artikel 79 Absatz 2 
 
 (3) Hält die Europäische Kommission die Einwände der Marktüberwachungsbehörde nach Absatz 2 für nicht gerechtfertigt, so hat die Marktüberwachungsbehörde die erforderlichen Maßnahmen zu treffen und über die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin die Europäische Kommission über die getroffenen Maßnahmen zu unterrichten.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
-
 # § 51 – Unterrichtung bei Risiken trotz Konformität einer Batterie
 
 Die Unterrichtung bei Risiken trotz Konformität einer Batterie nach Artikel 81 Absatz 3 der Verordnung (EU)
 
 2023/1542 hat die Marktüberwachungsbehörde unverzüglich über die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin an die Europäische Kommission und an die übrigen Mitgliedstaaten der Europäischen Union vorzunehmen.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
-
 # § 52 – Zuständige Behörde für die Durchführung von Kapitel VII der Verordnung (EU) 2023/1542
 
 (1) Zuständige Behörde zur Durchführung von Kapitel VII der Verordnung (EU) 2023/1542 ist das Bundesamt für Wirtschaft und Ausfuhrkontrolle.
 
 (2) Für die Aufgaben nach diesem Gesetz obliegt die Rechts- und Fachaufsicht über das Bundesamt für Wirtschaft und Ausfuhrkontrolle dem Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
 
 # § 53 – Aufgaben der zuständigen Behörde und Eingriffsbefugnisse
 
@@ -987,8 +907,6 @@ b) dem Bundesamt für Wirtschaft und Ausfuhrkontrolle den Prüfbericht der notif
 
 (4) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle kann die Zollbehörden um Informationen einschließlich personenbezogener Daten, die die Zollbehörden bei der Überlassung von Batterien zum zollrechtlich freien Verkehr erlangt haben, ersuchen und diese Daten verarbeiten, soweit dies zur Erfüllung ihrer Aufgabe nach Teil 5 dieses Gesetzes erforderlich ist.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
-
 # § 54 – Tätigwerden der zuständigen Behörde
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle wird von Amts wegen nach pflichtgemäßem Ermessen tätig, um
@@ -999,15 +917,11 @@ b) dem Bundesamt für Wirtschaft und Ausfuhrkontrolle den Prüfbericht der notif
 
 (2) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle hat einmal jährlich über die Umsetzung der Vorgaben aus Kapitel VII der Verordnung (EU) 2023/1542 im jeweils vorausgegangenen Kalenderjahr zu berichten. Der Bericht soll auf festgestellte Verstöße und angeordnete Abhilfemaßnahmen hinweisen und diese erläutern, ohne die von den konkret genannten Abhilfemaßnahmen betroffenen Wirtschaftsakteure zu benennen. Der Bericht nach Satz 1 ist erstmals in dem Jahr vorzulegen, das auf das in Artikel 48 Absatz 1 der Verordnung (EU) 2023/1542 genannte Datum folgt, und auf der Webseite des Bundesamtes für Wirtschaft und Ausfuhrkontrolle zu veröffentlichen.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
-
 # § 55 – Datenübermittlung an das Bundesamt für Wirtschaft und Ausfuhrkontrolle
 
 (1) Die Zollbehörden übermitteln dem Bundesamt für Wirtschaft und Ausfuhrkontrolle auf deren Ersuchen die für die Erfüllung ihrer Aufgaben nach Teil 5 dieses Gesetzes erforderlichen Informationen einschließlich personenbezogener Daten, die sie bei der Überlassung von Batterien zum zollrechtlich freien Verkehr erlangt haben. Das Steuergeheimnis nach § 30 der Abgabenordnung steht einer Weitergabe der Daten nicht entgegen.
 
 (2) Für den Datenaustausch und die Datenerfassung, die zur Durchführung der Verordnung (EU) 2023/1542 notwendig sind, kann das Bundesamt für Wirtschaft und Ausfuhrkontrolle elektronische Systeme einsetzen.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
 
 # § 56 – Auskunftspflichten
 
@@ -1039,8 +953,6 @@ b) dem Bundesamt für Wirtschaft und Ausfuhrkontrolle den Prüfbericht der notif
 
 (3) Wer zur Auskunft nach Absatz 1 verpflichtet ist, kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde. Die auskunftspflichtige Person ist über ihr Recht zur Verweigerung der Auskunft zu belehren. Sonstige gesetzliche Auskunfts- oder Aussageverweigerungsrechte sowie gesetzliche Verschwiegenheitspflichten bleiben unberührt.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
-
 # § 57 – Betretensrechte, Mitwirkungs- und Duldungspflichten
 
 (1) Zur Erfüllung der ihr nach § 53 übertragenen Aufgaben dürfen die mit der Überwachung beauftragten Personen des Bundesamtes für Wirtschaft und Ausfuhrkontrolle sowie Personen und Einrichtungen, derer sich das Bundesamt für Wirtschaft und Ausfuhrkontrolle zur Durchführung ihrer Aufgaben bedient, während der Geschäfts- oder Betriebszeiten
@@ -1050,8 +962,6 @@ b) dem Bundesamt für Wirtschaft und Ausfuhrkontrolle den Prüfbericht der notif
 2. geschäftliche Unterlagen und Aufzeichnungen der Wirtschaftsakteure einsehen, aus denen sich die Einhaltung der Sorgfaltspflichten nach den Artikeln 48 bis 50 sowie 52 der Verordnung (EU) 2023/1542 ergibt oder ableiten lässt.
 
 (2) Die Wirtschaftsakteure haben die Maßnahmen zu dulden und die nach Absatz 1 bei der Durchführung der Maßnahmen zu unterstützen. Satz 1 gilt auch für die Inhaber der Unternehmen und ihre Vertretung, bei juristischen Personen für die nach Gesetz oder Satzung zur Vertretung berufenen Personen.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
 
 # § 58 – Zwangsgeld
 
@@ -1248,5 +1158,3 @@ Von der Ermächtigung nach Satz 1 darf nur zur Anpassung an redaktionelle Änder
 (12) § 11 Absatz 7, § 18 Absatz 3, § 20 Absatz 1 Satz 2, die §§ 21 und 22 gelten erst ab dem 1. Januar 2026.
 
 (13) § 15 Absatz 1 gilt hinsichtlich LV-Altbatterien erst ab dem 1. Januar 2026.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)

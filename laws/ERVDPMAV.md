@@ -1,102 +1,100 @@
 % Verordnung über den elektronischen Rechtsverkehr beim Deutschen Patent- und Markenamt  (ERVDPMAV)
-% Ausfertigungsdatum: 01.11.2013
+% Ausfertigungsdatum: 25.02.2026
  
-# § 1 – Signaturgebundene elektronische Kommunikation
+# § 1 – Einreichung elektronischer Dokumente
 
-(1) Beim Deutschen Patent- und Markenamt können elektronische Dokumente in folgenden Verfahren signaturgebunden eingereicht werden:
+(1) Beim Deutschen Patent- und Markenamt können elektronische Dokumente in folgenden Verfahren eingereicht werden:
 
 1. in Verfahren nach dem Patentgesetz und dem Gesetz über internationale Patentübereinkommen,
 
 2. in Verfahren nach dem Gebrauchsmustergesetz,
 
-3. in Verfahren nach dem Markengesetz,
+3. in Verfahren nach dem Markengesetz und der Verordnung (EU) 2023/2411,
 
 4. in Verfahren nach dem Designgesetz.
 
-(2) Materiell-rechtliche Formerfordernisse bleiben unberührt.
+(2) Elektronische Dokumente, die ein Staatsgeheimnis (§ 93 des Strafgesetzbuches) enthalten können, dürfen abweichend von Absatz 1 nicht eingereicht werden.
 
-(+++ § 1 Abs. 2: Zur Anwendung vgl. § 2 Abs. 3 +++)
+(3) Materiell-rechtliche Formerfordernisse bleiben unberührt.
 
-# § 2 – Signaturfreie elektronische Kommunikation
+# § 2 – Einreichung über digitale Dienste
 
-(1) In folgenden Verfahren können elektronische Dokumente beim Deutschen Patent- und Markenamt auch signaturfrei eingereicht werden:
+(1) Elektronische Dokumente können beim Deutschen Patent- und Markenamt über diejenigen digitalen Dienste eingereicht werden, die hierfür vom Deutschen Patent- und Markenamt
 
-1. in Markenverfahren für
+1. auf der Internetseite des Deutschen Patent- und Markenamts zur Verfügung gestellt werden oder
 
-a) Anmeldungen,
+2. auf der Internetseite des Deutschen Patent- und Markenamts benannt werden.
 
-b) Anträge auf internationale Registrierung nach Artikel 3 des Protokolls vom 27. Juni 1989 zum Madrider Abkommen über die internationale Registrierung von Marken (BGBl. 1995 II S. 1016, 1017), unbeschadet abweichender Bestimmungen der Gemeinsamen Ausführungsordnung zum Madrider Abkommen über die internationale Registrierung von Marken und zum Protokoll zu diesem Abkommen (BGBl. 2003 II S. 828),
+(2) Elektronische Dokumente können auch durch Zugänglichmachung in einer vom Deutschen Patent- und Markenamt hierfür anerkannten Datenbank eingereicht werden, wenn der Anmelder den Abruf aus der Datenbank unter Angabe der erforderlichen Informationen beantragt. Das Deutsche Patent- und Markenamt gibt auf seiner Internetseite die anerkannten Datenbanken bekannt.
 
-2. in Designverfahren für
+(3) Die Nutzung der digitalen Dienste nach Absatz 1 setzt eine Registrierung voraus. Die Registrierung erfolgt
 
-a) Anmeldungen,
+1. durch Identitätsnachweis über ein Nutzerkonto nach § 2 Absatz 5 des Onlinezugangsgesetzes in einem Verfahren nach § 3 Absatz 4 des Onlinezugangsgesetzes oder
 
-b) Anträge auf Feststellung oder Erklärung der Nichtigkeit,
+2. in einem anderen vom Deutschen Patent- und Markenamt angebotenen Registrierungsverfahren.
 
-3. für internationale Anmeldungen in Verfahren nach Artikel III des Gesetzes über internationale Patentübereinkommen vom 21. Juni 1976 (BGBl. 1976 II S. 649), das zuletzt durch Artikel 2 des Gesetzes vom 10. August 2021 (BGBl. I S. 3490) geändert worden ist.
+Nach erfolgreicher Registrierung erfolgt die Authentisierung für die Einreichung elektronischer Dokumente durch die vom Deutschen Patent- und Markenamt anerkannten Authentisierungsmittel. Das Deutsche Patent- und Markenamt gibt auf seiner Internetseite die angebotenen Registrierungsverfahren und die Einzelheiten hierzu sowie die anerkannten Authentisierungsmittel bekannt.
 
-(2) Das Bundesministerium der Justiz und für Verbraucherschutz bestimmt entsprechend dem technischen Fortschritt weitere Verfahrenshandlungen, bei denen elektronische Dokumente signaturfrei eingereicht werden können. Das Deutsche Patent- und Markenamt gibt diese Verfahrenshandlungen über die Internetseite www.dpma.de bekannt.
+(4) Elektronische Dokumente können auch ohne die Einhaltung der Anforderungen nach Absatz 3 über digitale Dienste nach Absatz 1 eingereicht werden:
 
-(3) § 1 Absatz 2 ist anzuwenden.
+1. in Markenverfahren
 
-# § 2a – Elektronische Kommunikation über das Amt der Europäischen Union für geistiges Eigentum
+a) für Anmeldungen,
 
-In Verfahren nach dem Markengesetz, die den Schutz geografischer Angaben für handwerkliche und industrielle Erzeugnisse betreffen, können elektronische Dokumente über das Portal des Amtes der Europäischen Union für geistiges Eigentum beim Deutschen Patent- und Markenamt signaturfrei eingereicht werden. Die weiteren Anforderungen dieser Verordnung an die Form der Einreichung finden für die elektronische Kommunikation über dieses Portal keine Anwendung.
+b) für Anträge auf internationale Registrierung nach Artikel 3 des Protokolls vom 27. Juni 1989 zum Madrider Abkommen über die internationale Registrierung von Marken, angenommen in Madrid am 27. Juni 1989 (BGBl. 1995 II S. 1016, 1017),
 
-# § 3 – Form der Einreichung
+2. in Designverfahren
 
-(1) Zur Einreichung elektronisch übermittelter Dokumente ist ausschließlich die elektronische Annahmestelle des Deutschen Patent- und Markenamts bestimmt. Für die signaturgebundene Einreichung ist die elektronische Annahmestelle über die vom Deutschen Patent- und Markenamt zur Verfügung gestellte Zugangs- und Übertragungssoftware erreichbar. Die Software kann über die Internetseite www.dpma.de unentgeltlich heruntergeladen werden. Für die signaturfreie Einreichung sind Onlineformulare zu verwenden, die auf der in Satz 3 genannten Internetseite bereitgestellt werden.
+a) für Anmeldungen,
 
-(2) Ein elektronisches Dokument kann auch auf einem Datenträger eingereicht werden; die zulässigen Datenträgertypen und Formatierungen werden über die Internetseite www.dpma.de bekannt gemacht.
+b) für Anträge auf Feststellung oder Erklärung der Nichtigkeit.
 
-(3) Für die signaturgebundene Einreichung sind die Dokumente zu versehen
+Das Bundesministerium der Justiz und für Verbraucherschutz kann weitere Verfahrenshandlungen bestimmen, bei denen elektronische Dokumente ohne die Einhaltung der Anforderungen nach Absatz 3 eingereicht werden können. Das Deutsche Patent- und Markenamt gibt diese Verfahrenshandlungen auf seiner Internetseite bekannt.
 
-1. mit einer qualifizierten elektronischen Signatur gemäß Artikel 3 Nummer 12 der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73) oder
+(5) Werden nach Absatz 1 Nummer 2 digitale Dienste einer europäischen oder internationalen, auf dem Gebiet des gewerblichen Rechtsschutzes tätigen Organisation benannt, so gelten für die Einreichung elektronischer Dokumente über diese digitalen Dienste abweichend von den Absätzen 3 und 4 ausschließlich die für die Nutzung dieser elektronischen Systeme geltenden Anforderungen an die Registrierung und Authentisierung.
 
-2. mit einer fortgeschrittenen elektronischen Signatur gemäß Artikel 3 Nummer 11 der Verordnung (EU) Nr. 910/2014, die
+# § 3 – Einreichung während einer Anhörung oder mündlichen Verhandlung
 
-a) von einer internationalen, auf dem Gebiet des gewerblichen Rechtsschutzes tätigen Organisation herausgegeben wird und
+(1) Während einer Anhörung oder einer mündlichen Verhandlung können elektronische Dokumente über eine vom Deutschen Patent- und Markenamt hierfür zur Verfügung gestellte digitale Austauschplattform eingereicht und den Verfahrensbeteiligten zugänglich gemacht werden.
 
-b) sich zur Bearbeitung durch das Deutsche Patent- und Markenamt eignet.
+(2) Der Zugang zur digitalen Austauschplattform erfordert einen Identitätsnachweis der Verfahrensbeteiligten.
 
-Die elektronische Signatur muss durch das Deutsche Patent- und Markenamt oder durch eine von ihm beauftragte Stelle überprüfbar sein.
+# § 4 – Einreichung auf einem Datenträger
 
-(4) Abweichend von den Absätzen 1 bis 3 können Anmeldungen nach dem Patentgesetz und internationale Anmeldungen nach Artikel III des Gesetzes über internationale Patentübereinkommen beim Deutschen Patent- und Markenamt auch unter Verwendung der für diese Anmeldungen bestimmten Module des elektronischen Anmeldesystems des Europäischen Patentamts eingereicht werden. Das Deutsche Patent- und Markenamt macht über die Internetseite www.dpma.de bekannt, wann diese Anmeldewege eröffnet und welche technischen Bedingungen für die Einreichung maßgeblich sind.
+(1) Elektronische Dokumente können auch auf einem physischen Datenträger eingereicht werden.
 
-(5) Abweichend von den Absätzen 1 bis 4 können internationale Anmeldungen nach Artikel III des Gesetzes über internationale Patentübereinkommen beim Deutschen Patent- und Markenamt auch unter Verwendung der für diese Anmeldungen bestimmten elektronischen Anmeldesysteme der Weltorganisation für geistiges Eigentum eingereicht werden. Das Deutsche Patent- und Markenamt macht über die Internetseite www.dpma.de bekannt, wann diese Anmeldewege eröffnet und welche technischen Bedingungen für die Einreichung maßgeblich sind.
+(2) Zusammen mit der Einreichung eines Datenträgers ist zu erklären, wer die darauf gespeicherten elektronischen Dokumente verantwortet. Die Erklärung ist im Original einzureichen und von der verantwortenden Person zu unterschreiben.
 
-# § 4 – Bekanntgabe der Bearbeitungsvoraussetzungen
-
-Das Deutsche Patent- und Markenamt gibt über die Internetseite www.dpma.de bekannt:
-
-1. die Einzelheiten des Verfahrens der Anmeldung zur Teilnahme am elektronischen Rechtsverkehr sowie der Authentifizierung bei der jeweiligen Nutzung der elektronischen Annahmestelle einschließlich der für die datenschutzgerechte Verwaltung der elektronischen Annahmestelle zu verarbeitenden personenbezogenen Daten,
-
-2. die Einzelheiten des Verfahrens der signaturfreien Einreichung nach § 2,
-
-3. die Zertifikate, Anbieter und Versionen elektronischer Signaturen, die dem in § 3 Absatz 3 und § 5 Absatz 4 festgelegten Standard entsprechen und für die Bearbeitung durch das Deutsche Patent- und Markenamt geeignet sind,
-
-4. die zulässigen Dateiformate für und weitere technische Anforderungen an die nach den §§ 1 und 2 eingereichten Dokumente einschließlich der Anlagen,
-
-5. weitere Angaben, die für die Übermittlung oder Einreichung erforderlich sind, um die Zuordnung und Weiterverarbeitung der Dokumente einschließlich der Anlagen zu gewährleisten.
+(3) Das Deutsche Patent- und Markenamt gibt auf seiner Internetseite die zulässigen Datenträgertypen und deren Formatierungen bekannt.
 
 # § 5 – Zustellung elektronischer Dokumente
 
-(1) Im Rahmen einer elektronischen Zustellung sind elektronische Dokumente für die Übermittlung mit einer fortgeschrittenen oder qualifizierten elektronischen Signatur nach Artikel 3 Nummer 11 und 12 der Verordnung (EU) Nr. 910/2014 zu versehen. Dabei kann die gesamte elektronische Nachricht mit einer Signatur versehen werden.
+(1) Die Zustellung eines elektronischen Dokuments kann mit Einwilligung des Beteiligten durch Bereitstellung zum Datenabruf über die hierfür vom Deutschen Patent- und Markenamt auf seiner Internetseite zur Verfügung gestellten oder dort benannten digitalen Dienste nach § 2 Absatz 1 erfolgen. Der Beteiligte ist vor der Einwilligung über die Rechtsfolgen der Zustellung zu informieren. Für den Abruf elektronischer Dokumente gilt § 2 Absatz 3 entsprechend. Die abrufberechtigte Person wird spätestens am Tag der Bereitstellung zum Abruf über die Möglichkeit des Abrufs benachrichtigt.
 
-(2) Die elektronische Zustellung kann durch Übermittlung der elektronischen Dokumente mittels der Zugangs- und Übertragungssoftware nach § 3 Absatz 1 Satz 2 erfolgen. Ebenso kann sie durch Übermittlung der elektronischen Dokumente mittels De-Mail-Nachricht nach § 5 Absatz 5 des De-Mail-Gesetzes, bei der die Signatur des Dienstanbieters das Deutsche Patent- und Markenamt als Nutzer des De-Mail-Kontos erkennen lässt, erfolgen.
+(2) Das elektronische Dokument gilt am vierten Tag nach der Bereitstellung zum Abruf als zugestellt. Im Zweifel hat das Deutsche Patent- und Markenamt für den Eintritt der in Satz 1 bestimmten Fiktionswirkung den Zeitpunkt der Bereitstellung nachzuweisen.
 
-(3) Elektronische Zustellungen, die mittels der Zugangs- und Übertragungssoftware nach § 3 Absatz 1 Satz 2 erfolgen, sind mit dem Hinweis „Zustellung gegen Empfangsbekenntnis“ zu kennzeichnen. Die Nachricht muss das Deutsche Patent- und Markenamt als absendende Behörde sowie den Namen und die Anschrift des Zustellungsadressaten erkennen lassen.
+(3) Für die Zustellung elektronischer Dokumente finden § 5 Absatz 5 Satz 3, Absatz 6 und 7 sowie § 7 Absatz 2 des Verwaltungszustellungsgesetzes keine Anwendung.
 
-(4) Für den Nachweis der Zustellung nach Absatz 2 gilt § 5 Absatz 7 des Verwaltungszustellungsgesetzes mit der Maßgabe, dass das Empfangsbekenntnis bei einer elektronischen Rücksendung zu versehen ist
+# § 6 – Bekanntgabe der Bearbeitungsvoraussetzungen
 
-1. mit einer qualifizierten elektronischen Signatur oder
+Das Deutsche Patent- und Markenamt gibt auf seiner Internetseite bekannt:
 
-2. mit einer fortgeschrittenen elektronischen Signatur, die
+1. die zulässigen Dateiformate für und weitere technische Anforderungen an die nach den §§ 2 bis 4 eingereichten elektronischen Dokumente einschließlich der Anlagen,
 
-a) von einer internationalen, auf dem Gebiet des gewerblichen Rechtsschutzes tätigen Organisation herausgegeben wird und
+2. die Einzelheiten der Anbringung einer qualifizierten elektronischen Signatur am elektronischen Dokument sowie
 
-b) sich zur Bearbeitung durch das Deutsche Patent- und Markenamt eignet.
+3. weitere Angaben, die für die Übermittlung oder Einreichung nach den §§ 2 bis 4 erforderlich sind, um die Zuordnung und Weiterverarbeitung der elektronischen Dokumente einschließlich der Anlagen zu gewährleisten.
 
-§ 3 Absatz 3 Satz 2 gilt entsprechend.
+# § 7 – Einreichung in Beschwerdeverfahren
 
-(5) Für die Zustellung elektronischer Dokumente findet § 7 Absatz 2 des Verwaltungszustellungsgesetzes keine Anwendung.
+Für die Einreichung elektronischer Dokumente in Beschwerdeverfahren gemäß § 73 des Patentgesetzes, gemäß § 18 des Gebrauchsmustergesetzes, gemäß den §§ 66 und 133 des Markengesetzes und gemäß § 23 Absatz 4 des Designgesetzes sind diese zusätzlich mit einer qualifizierten elektronischen Signatur zu versehen.
+
+# § 8 – Sonderregelungen für die Verwendung des digitalen Dienstes DPMAdirektPro
+
+(1) § 2 Absatz 3 gilt nicht für die Einreichung elektronischer Dokumente über den digitalen Dienst DPMAdirektPro.
+
+(2) Für die Einreichung elektronischer Dokumente über den digitalen Dienst DPMAdirektPro sind diese mit einer qualifizierten elektronischen Signatur zu versehen.
+
+(3) § 5 Absatz 1 Satz 3 gilt nicht für die Zustellung elektronischer Dokumente über den digitalen Dienst DPMAdirektPro.
+
+(4) Für den Abruf elektronischer Dokumente über den digitalen Dienst DPMAdirektPro sind die hierfür vom Deutschen Patent- und Markenamt angebotenen Authentisierungsmittel zu verwenden. Das Deutsche Patent- und Markenamt gibt auf seiner Internetseite die angebotenen Authentisierungsmittel und die Einzelheiten hierzu bekannt.

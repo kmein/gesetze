@@ -1540,8 +1540,6 @@ Entsprechen bei Bauprodukten nach Satz 1 Nummer 1 die erklärten Leistungen nich
 
 (5) Bei serienmäßig hergestellten Bauprodukten, die nicht unter Absatz 4 Satz 1 Nummer 1 fallen, sowie bei Anlagenteilen, die aus Bauprodukten zusammengefügt werden, stehen den Verwendbarkeitsnachweisen nach Absatz 4 Satz 1 Nummer 2 sowie den Bauartgenehmigungen oder allgemeinen bauaufsichtlichen Zulassungen nach Absatz 4 Satz 1 Nummer 3 Zulassungen aus einem anderen Mitgliedstaat der Europäischen Union, einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Türkei gleich, wenn mit den Zulassungen dauerhaft das gleiche Schutzniveau erreicht wird. Das Ergebnis von Prüfungen von Anlagenteilen nach Satz 1, die bereits in einem anderen Mitgliedstaat der Europäischen Union, einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Türkei vorgenommen worden sind, ist bei der Eignungsfeststellung zu berücksichtigen.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 9.1.2026 I Nr. 4 +++)
-
 # § 64 – Bestellung von Gewässerschutzbeauftragten
 
 (1) Gewässerbenutzer, die an einem Tag mehr als 750 Kubikmeter Abwasser einleiten dürfen, haben unverzüglich einen oder mehrere Betriebsbeauftragte für Gewässerschutz (Gewässerschutzbeauftragte) zu bestellen.

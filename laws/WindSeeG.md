@@ -3,8 +3,6 @@
  
 # Inhaltsübersicht
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 351 +++)
-
 # § 1 – Zweck und Ziel des Gesetzes
 
 (1) Zweck dieses Gesetzes ist es, insbesondere im Interesse des Klima- und Umweltschutzes die Nutzung der Windenergie auf See insbesondere unter Berücksichtigung des Naturschutzes, der Schifffahrt sowie der Offshore-Anbindungsleitungen auszubauen.
@@ -198,8 +196,6 @@ b) im Netzentwicklungsplan vorbehaltlos bestätigt sind,
 (5) Im Flächenentwicklungsplan werden die Gebiete sowie die Flächen und die zeitliche Reihenfolge nach Absatz 1 Nummer 3 und Absatz 4 so festgelegt, dass die Vorgaben des § 2a eingehalten werden, wobei Abweichungen zulässig sind, solange die Ausbauziele nach § 1 Absatz 2 erreicht werden. Die Festlegungen im Flächenentwicklungsplan stellen sicher, dass in den Gebotsterminen ab dem Jahr 2026 Flächen ausgeschrieben werden, die einen stetigen Zubau gewährleisten. Zwischen dem Kalenderjahr der Ausschreibung für eine Fläche und dem Kalenderjahr der Inbetriebnahme der bezuschlagten Windenergieanlagen auf See auf dieser Fläche müssen mindestens so viele Monate liegen, dass die Realisierungsfristen nach § 81 eingehalten werden können.
 
 (6) Eine Festlegung von Gebieten oder Flächen in einem nach § 57 des Bundesnaturschutzgesetzes ausgewiesenen Schutzgebiet darf erst erfolgen, wenn die Ziele nach § 1 Absatz 2 Satz 1 ohne diese Gebiete oder Flächen nicht erreicht werden können.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 351 +++)
 
 # § 6 – Zuständigkeit und Verfahren zur Erstellung des Flächenentwicklungsplans
 
@@ -1028,7 +1024,6 @@ b) auf sämtliche Rechte an den Untersuchungsergebnissen und Unterlagen nach Num
 
 (3) Für das Planfeststellungsverfahren sind die §§ 72 bis 78 des Verwaltungsverfahrensgesetzes anzuwenden, soweit dieses Gesetz nichts anderes bestimmt. § 36 Absatz 2 und 3 des Verwaltungsverfahrensgesetzes ist anzuwenden.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 351 +++)  
 (+++ Teil 4 (§§ 65 bis 92): Zur Anwendung vgl. § 65 Abs. 1 +++)  
 (+++ Teil 4 (§§ 65 bis 92 außer Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 95 Abs. 3 Satz 2 +++)  
 (+++ Teil 4 (§§ 65 bis 92 außer § 67 u. Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 102 Abs. 1 Satz 2 +++)
@@ -1235,8 +1230,6 @@ Satz 1 Nummer 1 ist nicht für Windenergieanlagen auf See anzuwenden, deren Erri
 
 (7) Die Absätze 1 bis 6 sind nicht anzuwenden, wenn der Antrag auf Planfeststellung oder Plangenehmigung für Offshore-Anbindungsleitungen in der ausschließlichen Wirtschaftszone vor der Ausweisung der Infrastrukturgebiete im Infrastrukturgebieteplan nach § 12j des Energiewirtschaftsgesetzes gestellt wurde.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 351 +++)
-
 # § 71 – Vorläufige Anordnung
 
 Ist das Planfeststellungsverfahren oder das Plangenehmigungsverfahren eingeleitet, kann das Bundesamt für Seeschifffahrt und Hydrographie nach Zustimmung des Bundesministeriums für Wirtschaft und Energie eine vorläufige Anordnung erlassen, in der Teilmaßnahmen zur Vorbereitung der Errichtung festgesetzt werden, wenn Gründe des Wohls der Allgemeinheit, insbesondere der effizienten Netznutzung, den alsbaldigen Beginn der Arbeiten erfordern und die nach § 74 Absatz 2 des Verwaltungsverfahrensgesetzes und nach § 69 Absatz 3 zu berücksichtigenden Belange gewahrt werden. In der vorläufigen Anordnung sind die Auflagen zur Sicherung dieser Belange und der Umfang der vorläufig zulässigen Bauarbeiten festzulegen. Sie ist nach § 98 Nummer 1 bekannt zu machen. Die vorläufige Anordnung tritt außer Kraft, wenn nicht binnen sechs Monaten nach ihrem Erlass mit den Arbeiten begonnen wird. Sie ersetzt nicht die Planfeststellung. Soweit die Teilmaßnahmen durch die Planfeststellung für unzulässig erklärt sind, ist der frühere Zustand wiederherzustellen. § 69 Absatz 10 ist auf vorläufige Anordnungen entsprechend anzuwenden.
@@ -1274,8 +1267,6 @@ Ist das Planfeststellungsverfahren oder das Plangenehmigungsverfahren eingeleite
 # § 72b – Ausnahmeregelung nach Artikel 6 der Verordnung (EU) 2024/1991
 
 Vorhaben nach § 65 Absatz 1 sind nach Artikel 6 Absatz 1 Satz 2 der Verordnung (EU) 2024/1991 von der Anforderung ausgenommen, dass keine weniger schädlichen Alternativlösungen nach Artikel 5 Absatz 11 und 12 der Verordnung (EU) 2024/1991 zur Verfügung stehen, sofern eine der in Artikel 6 Absatz 1 Satz 2 der Verordnung (EU) 2024/1991 genannten Prüfungen durchgeführt wurde. Als Prüfung im Sinne von Artikel 6 Absatz 1 Satz 2 Buchstabe a der Verordnung (EU) 2024/1991 gilt die Strategische Umweltprüfung. Als Prüfung im Sinne von Artikel 6 Absatz 1 Satz 2 Buchstabe b der Verordnung (EU) 2024/1991 gilt die Umweltverträglichkeitsprüfung.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 351 +++)
 
 # § 73 – Veränderungssperre
 

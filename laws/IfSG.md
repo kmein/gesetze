@@ -1828,17 +1828,17 @@ Das Gesundheitsamt stellt folgende Angaben zur Verfügung, soweit sie ihm vorlie
 
 6. von Personen entgegen § 42 ausgeübte Tätigkeit sowie Ort der Ausübung.
 
-(3) Das Gesundheitsamt unterrichtet unverzüglich die nach § 4 Absatz 1 des Tiergesundheitsgesetzes zuständige Behörde, wenn
+(3) Das Gesundheitsamt unterrichtet unverzüglich die für Maßnahmen nach § 5 des Tiergesundheitsgesetzes zuständige Behörde, wenn
 
-1. auf Grund von Tatsachen feststeht oder der Verdacht besteht, dass
+1. aufgrund von Tatsachen feststeht oder der Verdacht besteht, dass
 
 a) Erreger einer übertragbaren Krankheit unmittelbar oder mittelbar von Tieren auf eine betroffene Person übertragen wurden oder
 
 b) Erreger von einer betroffenen Person auf Tiere übertragen wurden, und
 
-2. es sich um Erreger einer nach einer auf Grund des Tiergesundheitsgesetzes erlassenen Rechtsverordnung anzeigepflichtigen Tierseuche oder meldepflichtigen Tierkrankheit handelt.
+2. es sich um Erreger einer nach einer aufgrund des Tiergesundheitsgesetzes erlassenen Rechtsverordnung mitteilungspflichtigen oder meldepflichtigen Seuche handelt.
 
-Das Gesundheitsamt übermittelt der nach § 4 Absatz 1 des Tiergesundheitsgesetzes zuständigen Behörde Angaben zum festgestellten Erreger, zur Tierart und zum Standort der Tiere, sofern ihm die Angaben vorliegen.
+Das Gesundheitsamt übermittelt der für Maßnahmen nach § 5 des Tiergesundheitsgesetzes zuständigen Behörde Angaben zum festgestellten Erreger, zur Tierart und zum Standort der Tiere, sofern ihm die Angaben vorliegen.
 
 (4) Das Gesundheitsamt unterrichtet unverzüglich die für den Immissionsschutz zuständige Behörde, wenn im Fall einer örtlichen oder zeitlichen Häufung von Infektionen mit Legionella sp. der Verdacht besteht, dass Krankheitserreger durch Aerosole in der Außenluft auf den Menschen übertragen wurden. Das Gesundheitsamt übermittelt der für den Immissionsschutz zuständigen Behörde Angaben zu den wahrscheinlichen Orten und Zeitpunkten der Infektionen, sofern ihm die Angaben vorliegen.
 
@@ -3000,9 +3000,7 @@ Gegenstände, auf die sich eine Straftat nach § 75 Abs. 1 oder 3 bezieht, könn
 
 (5) Auf Streitigkeiten über Ansprüche nach § 65 gegen das nach § 66 Absatz 1 Satz 2 zur Zahlung verpflichtete Land, die nach dem 30. März 2021 rechtshängig werden, sind § 58 Absatz 2 Satz 1, § 70 Absatz 1 Satz 1 und § 75 Satz 2 der Verwaltungsgerichtsordnung mit der Maßgabe anzuwenden, dass die Fristen frühestens am 31. März 2021 zu laufen beginnen.
 
-(6) (weggefallen)
-
-(7) (weggefallen)
+(6) Bis zum Inkrafttreten einer Rechtsverordnung nach § 4 des Tiergesundheitsgesetzes gilt § 27 Absatz 3 Satz 1 Nummer 2 in der bis zum Ablauf des 9. März 2026 geltenden Fassung.
 
 # Anlage – (zu § 5b Absatz 4) Maskentypen nach § 5b Absatz 4
 

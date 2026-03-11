@@ -156,9 +156,9 @@ Andere Begriffe
 
 55. „Flüssigerdgas (LNG)“ Erdgas, das durch Abkühlung auf eine Temperatur von –161 °C verflüssigt wurde;
 
-56. „ES-TRIN“ der Europäische Standard der technischen Vorschriften für Binnenschiffe Ausgabe 2023/1<span id="FnR.BJNR0690Q0023BJNE000300000_2"></span><a href="#BJNR0690Q0023BJNE000300000_2" class="FnR">2</a></sup> . Bei der Anwendung des ES-TRIN ist unter Mitgliedstaat ein Rheinuferstaat oder Belgien zu verstehen;
+56. „ES-TRIN“ der Europäische Standard der technischen Vorschriften für Binnenschiffe Ausgabe 2025/1<span id="FnR.BJNR0690Q0023BJNE000303119_4"></span><a href="#BJNR0690Q0023BJNE000303119_4" class="FnR">4</a></sup> . Bei der Anwendung des ES-TRIN ist unter Mitgliedstaat ein Rheinuferstaat oder Belgien zu verstehen;
 
-57. „ES-QIN“ der Europäische Standard für Qualifikationen in der Binnenschifffahrt, Ausgabe 2019/1<span id="FnR.BJNR0690Q0023BJNE000300000_3"></span><a href="#BJNR0690Q0023BJNE000300000_3" class="FnR">3</a></sup> ;
+57. „ES-QIN“ der Europäische Standard für Qualifikationen in der Binnenschifffahrt, Ausgabe 2024/1<span id="FnR.BJNR0690Q0023BJNE000303119_3"></span><a href="#BJNR0690Q0023BJNE000303119_3" class="FnR">3</a></sup> .
 
 58. „STCW-Übereinkommen“ das Übereinkommen der Internationalen Maritimen Organisation (IMO) über die Normen für die Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten (1978) in der jeweils anwendbaren Fassung, einschließlich den Übergangsbestimmungen des Artikels VII und Regel 1/15 des Übereinkommens und einschließlich der im jeweiligen Fall anwendbaren Bestimmungen des STCW-Codes, jeweils in der anwendbaren Fassung.
 
@@ -178,7 +178,7 @@ b) um Versuche, durch die die Sicherheit und Leichtigkeit des Schiffsverkehrs ni
 
 # § 1.04 – Dienstanweisungen
 
-Zur Erleichterung und Vereinheitlichung der Anwendung dieser Verordnung kann die ZKR Dienstanweisungen für die zuständigen Behörden beschließen. Die zuständigen Behörden sind daran gebunden.
+Zur Erleichterung und Vereinheitlichung der Anwendung dieser Verordnung kann die ZKR Dienstanweisungen für die zuständigen Behörden beschließen. Die zuständigen Behörden sind daran gebunden. Ergänzend dazu werden von der ZKR Listen und Tabellen zur Ausführung der RheinSchPersV in elektronischer Form veröffentlicht.
 
 # § 1.05 – Überwachung
 
@@ -225,7 +225,7 @@ Die Befähigung für eine Funktion an Bord muss jederzeit nachgewiesen werden k�
 
 a) vom Schiffsführer durch ein Befähigungszeugnis als Schiffsführer für die jeweilige Fahrzeugart und -größe oder ein Unionsbefähigungszeugnis als Schiffsführer mit den gegebenenfalls erforderlichen besonderen Berechtigungen;
 
-b) von den übrigen Mitgliedern der Besatzung durch ein gültiges, auf ihre Person ausgestelltes Schifferdienstbuch, das ein Befähigungszeugnis oder ein Unionsbefähigungszeugnis enthält;
+b) von den übrigen Mitgliedern der Besatzung durch ein auf ihre Person ausgestelltes Schifferdienstbuch, das ein Befähigungszeugnis oder ein Unionsbefähigungszeugnis enthält;
 
 c) von Sachkundigen für die Fahrgastschifffahrt und Sachkundigen für Flüssigerdgas durch ein Befähigungszeugnis oder ein Unionsbefähigungszeugnis, sowie von Ersthelfern, Atemschutzgeräteträgern und dem Sicherheitspersonal auf Schiffen, die gefährliche Güter befördern, durch ein Zeugnis für die besondere Tätigkeit.
 
@@ -253,7 +253,7 @@ Die Prüfung oder die Erteilung eines Befähigungszeugnisses, Schifferdienstbuch
 
 # § 4.02 – Regelmäßige Überprüfung der Tauglichkeit
 
-1. Der Nachweis der Tauglichkeit ist für alle Inhaber eines Befähigungszeugnisses unter den in § 4.01 Nummer 1 und 2 genannten Voraussetzungen zu erneuern:
+1. Der Inhaber eines Befähigungszeugnisses hat unter den in § 4.01 Nummer 1 und 2 genannten Voraussetzungen seine Tauglichkeit nachzuweisen:
 
 a) mit Vollendung des 60. Lebensjahres alle fünf Jahre;
 
@@ -261,7 +261,7 @@ b) mit Vollendung des 70. Lebensjahres alle zwei Jahre.
 
 2. Um eine Versagung oder eine Einschränkung der Tauglichkeit in dem Befähigungszeugnis gemäß § 4.01 Nummer 3 beseitigen zu lassen, muss der Inhaber des Befähigungszeugnisses einen Tauglichkeitsnachweis gemäß den Bestimmungen des § 4.01 Nummer 2 vorlegen.
 
-3. Der Inhaber des Befähigungszeugnisses hat den entsprechenden Tauglichkeitsnachweis der Behörde vorzulegen, die das Befähigungszeugnis ausgestellt hat. Er kann den Tauglichkeitsnachweis bei der Erneuerung eines nach dieser Verordnung ausgestellten Befähigungszeugnisses auch einer anderen zuständigen Behörde vorlegen. Diese leitet die Unterlagen an die ausstellende Behörde weiter. Im Falle der Erneuerung eines Patentes kann die zuständige Behörde für den Zeitraum bis zu einer Entscheidung der ausstellenden Behörde ein vorläufiges Rheinpatent oder Sportpatent ausstellen, sofern die entsprechende Tauglichkeit nachgewiesen ist.
+3. Der Inhaber des Befähigungszeugnisses hat den entsprechenden Tauglichkeitsnachweis der Behörde vorzulegen, die das Befähigungszeugnis ausgestellt hat. Er kann den Tauglichkeitsnachweis bei der Erneuerung eines nach dieser Verordnung ausgestellten Befähigungszeugnisses auch einer anderen zuständigen Behörde vorlegen. Diese leitet die Unterlagen an die ausstellende Behörde weiter. Im Falle der Erneuerung eines Patentes kann die zuständige Behörde für den Zeitraum bis zu einer Entscheidung der ausstellenden Behörde ein vorläufiges Rheinpatent oder Sportpatent ausstellen, sofern die Tauglichkeit nachgewiesen ist.
 
 # § 4.03 – Tauglichkeit des Maschinisten
 
@@ -281,19 +281,21 @@ Die im STCW-Code in der Tabelle A-I/9: „Mindestwerte für die dienstlich erfor
 
 5. Der Inhaber hat das Schifferdienstbuch bei erstmaliger Dienstaufnahme an Bord dem Schiffsführer auszuhändigen.
 
-6. Der Schiffsführer ist für die Erfassung der spezifischen Daten über die durchgeführten Fahrten verantwortlich. Der Schiffsführer hat
+6. Der Schiffsführer ist dafür verantwortlich, regelmäßig die spezifischen Daten über die durchgeführten Fahrten im Schifferdienstbuch zu erfassen. Der Schiffsführer hat
 
-a) im Schifferdienstbuch regelmäßig alle Eintragungen nach Maßgabe der in den Schifferdienstbüchern enthaltenen Anweisungen zur Führung des Schifferdienstbuches vorzunehmen;
+a) es bis zur Beendigung des Dienst-, Arbeits- oder sonstigen Verhältnisses sicher im Steuerhaus zu verwahren;
 
-b) es bis zur Beendigung des Dienst-, Arbeits- oder sonstigen Verhältnisses sicher im Steuerhaus zu verwahren;
-
-c) dem Inhaber auf dessen Wunsch das Schifferdienstbuch jederzeit und unverzüglich auszuhändigen.
+b) dem Inhaber auf dessen Wunsch das Schifferdienstbuch jederzeit und unverzüglich auszuhändigen.
 
 # § 5.02 – Nachweis von Fahrzeiten und Streckenfahrten
 
-1. Die erforderlichen Streckenfahrten und die Fahrzeit sind anhand eines ordnungsgemäß ausgefüllten und geprüften Schifferdienstbuches nachzuweisen.
+1. Die erforderlichen Streckenfahrten und die Fahrzeit sind anhand eines ordnungsgemäß ausgefüllten und geprüften Schifferdienstbuches nachzuweisen. Fahrzeiten können erworben werden
 
-2. Soweit ein Schifferdienstbuch nach nationalen Vorschriften der Rheinuferstaaten und Belgiens für Binnenwasserstraßen, die nicht dem Wasserstraßennetz eines anderen Staates – einschließlich der Wasserstraßen, die als Binnenwasserstraßen mit maritimem Charakter klassifiziert wurden – verbunden sind, oder nach der Richtlinie (EU) 2017/2397 nicht vorhanden sein muss, kann die Fahrzeit auch durch eine amtliche und gültige Urkunde nachgewiesen werden. Diese Urkunde enthält die folgenden Angaben:
+a) auf dem Rhein sowie
+
+b) auf Binnenwasserstraßen, auf denen Fahrzeiten für Unionsbefähigungszeugnisse erworben werden können.
+
+2. Soweit ein Schifferdienstbuch nach nationalen Vorschriften der Rheinuferstaaten und Belgiens für Binnenwasserstraßen, die nicht dem Wasserstraßennetz eines anderen Staates – einschließlich der Wasserstraßen, die als Binnenwasserstraßen mit maritimem Charakter klassifiziert wurden – verbunden sind, oder nach der Richtlinie (EU) 2017/2397 nicht vorhanden sein muss, kann die Fahrzeit auch durch eine amtliche Urkunde nachgewiesen werden. Diese Urkunde enthält die folgenden Angaben:
 
 a) Art, Größe, Anzahl der Fahrgäste, Name der Fahrzeuge, auf denen die Person gefahren ist;
 
@@ -309,7 +311,7 @@ Für die Behördenpatente werden die vorgeschriebenen Fahrten und Fahrzeiten anh
 
 3. Die Fahrzeit kann auch durch ein Befähigungszeugnis als Schiffsführer nach § 12.01 oder § 12.03 in dem Umfang nachgewiesen werden, wie sie für die Erteilung dieses Zeugnisses bereits nachgewiesen worden ist.
 
-4. Die Fahrzeit auf See ist durch ein Seefahrtbuch nachzuweisen. Die Fahrzeit in der Küsten- oder Fischereischifffahrt ist durch eine gültige amtliche Urkunde nachzuweisen.
+4. Die Fahrzeit auf See ist durch ein Seefahrtbuch nachzuweisen. Die Fahrzeit in der Küsten- oder Fischereischifffahrt ist durch eine amtliche Urkunde nachzuweisen.
 
 5. Die Zeit des Besuches einer Schifferberufsschule ist durch das Zeugnis dieser Schule nachzuweisen.
 
@@ -498,7 +500,7 @@ b) ein Mindestalter von 19 Jahren und eine Fahrzeit von mindestens 360 Tagen auf
 
 1. Wer auf dem Rhein ein Fahrzeug führen will, bedarf eines Unionsbefähigungszeugnisses als Schiffsführer, das gemäß der Richtlinie (EU) 2017/2397 ausgestellt wurde, oder eines Befähigungszeugnisses als Schiffsführer, das gemäß dieser Verordnung ausgestellt wurde.
 
-2. Zum Führen eines Fahrzeugs unterhalb der Spyck'schen Fähre (km 857,40) und auf der Strecke zwischen Basel (Mittlere Rheinbrücke, km 166,53) und den Schleusen Iffezheim (km 335,92) genügt anstelle der Patente nach den §§ 12.02 und 12.03 ein anderes, von der zuständigen Behörde als gleichwertig anerkanntes Patent.
+2. Zum Führen eines Sportfahrzeuges, eines Behördenfahrzeuges oder eines Feuerlöschbootes genügt anstelle eines Patentes nach den §§ 12.02 und 12.03 ein anderes, von der zuständigen Behörde als gleichwertig anerkanntes Patent.
 
 3. Für Fahrzeuge – ausgenommen Fahrgastschiffe, Schub- und Schleppboote – mit einer Länge von weniger als 20 m genügt ein Befähigungszeugnis als Schiffsführer, das den nationalen Vorschriften der Rheinuferstaaten und Belgiens für Binnenwasserstraßen entspricht.
 
@@ -665,7 +667,7 @@ d) eine Kopie des Sprechfunkzeugnisses.
 
 2. Die Behörde prüft sodann, ob die Voraussetzungen nach § 12.01 vorliegen. Eine vorherige gesonderte Zulassung zur Prüfung nach § 7.01 ist nicht erforderlich.
 
-3. Liegen die jeweiligen Voraussetzungen nach § 12.01 vor, stellt die zuständige Behörde das Rheinpatent nach den Vorgaben des § 12.08 Nummer 1 aus.
+3. Liegen die jeweiligen Voraussetzungen nach § 12.01 vor, stellt die zuständige Behörde das Rheinpatent nach den Vorgaben des § 12.07 Nummer 1 aus.
 
 # § 12.07 – Gültigkeit und Ausstellung der Befähigungszeugnisse als Schiffsführer
 
@@ -699,7 +701,7 @@ e) Großverbände führt.
 
 4. Dem Antrag auf Zulassung zur Prüfung für eine besondere Berechtigung sind beizufügen:
 
-a) eine Kopie des gültigen Befähigungszeugnisses als Schiffsführer oder einen Nachweis, dass die Mindestanforderungen für Befähigungszeugnisse als Schiffsführer erfüllt sind;
+a) eine Kopie des Befähigungszeugnisses als Schiffsführer oder einen Nachweis, dass die Mindestanforderungen für Befähigungszeugnisse als Schiffsführer erfüllt sind;
 
 b) eine Kopie der maßgeblichen Seiten des Schifferdienstbuches, sofern erforderlich.
 
@@ -775,7 +777,7 @@ Unbeschadet der Bestimmungen der Richtlinie 2008/68/EG muss auf Schiffen, die ge
 
 # § 15.01 – Sachkunde und Einweisung
 
-Der Schiffsführer und die Besatzungsmitglieder, die Inhaber eines Befähigungszeugnisses sind und am Bunkervorgang von Fahrzeugen beteiligt sind, die mit LNG betrieben werden, müssen als Sachkundige für Flüssigerdgas qualifiziert sein.
+Der Schiffsführer und Personen, die am Bunkervorgang von Fahrzeugen beteiligt sind, die mit LNG betrieben werden, müssen als Sachkundige für Flüssigerdgas qualifiziert sein.
 
 # § 15.02 – Befähigungszeugnis
 
@@ -851,34 +853,29 @@ b) dass er im Rahmen eines zugelassenen Ausbildungsprogramms eine neue Prüfung 
 
 2. Die Mitglieder des Sicherheitspersonals können zur Besatzung oder zum Bordpersonal gehören.
 
-# § 16.02 – Sachkundiger für die Fahrgastschifffahrt
+# § 16.02 – Erwerb des Befähigungszeugnisses für Sachkundige für die Fahrgastschifffahrt
 
-Um das Befähigungszeugnis als Sachkundiger für die Fahrgastschifffahrt zu erhalten, muss der Bewerber mindestens 18 Jahre alt sein und die erforderliche Befähigung besitzen. Diese gilt als vorhanden, wenn die betreffende Person
+1. Um erstmals ein Befähigungszeugnis als Sachkundiger für die Fahrgastschifffahrt zu erhalten, muss der Bewerber mindestens 18 Jahre alt sein und über die im ES-QIN (Teil I, Kapitel 5) aufgeführten Befähigungen verfügen. Diese gelten als vorhanden, wenn die betreffende Person eine Prüfung gemäß § 16.03 bestanden hat, die organisiert wurde
 
-a) an einem von der zuständigen Behörde zugelassenen Basislehrgang, der mindestens die Anforderungen nach § 16.03 erfüllt, teilgenommen und die Abschlussprüfung bestanden hat und
+a) als Teil eines zugelassenen Lehrgangs gemäß § 16.04 oder
 
-b) regelmäßig an den Auffrischungslehrgängen nach § 16.04 Nummer 2 teilgenommen hat.
+b) unter der Verantwortung einer zuständigen Behörde.
 
-# § 16.03 – Basislehrgang für Sachkundige
+2. Das Befähigungszeugnis für Sachkundige für die Fahrgastschifffahrt besteht für fünf Jahre.
 
-1. Personen, die die Aufgabe des Sachkundigen nach § 16.02 wahrnehmen sollen, müssen zur Erlangung der im ES-QIN (Teil I, Kapitel 5) aufgeführten besonderen Befähigungen an einem Basislehrgang teilnehmen. Der Basislehrgang muss im Rahmen eines von der zuständigen Behörde organisierten oder zugelassenen Lehrgangs durchgeführt werden, der den Bedingungen des § 16.05 entspricht und muss enthalten:
+3. Wer die Erneuerung eines Befähigungszeugnisses für Sachkundige für die Fahrgastschifffahrt beantragt, muss die in Nummer 1 genannte Prüfung erneut erfolgreich ablegen.
 
-a) eine theoretische Ausbildung, die die Erlangung der im ES-QIN (Teil I, Kapitel 5) aufgeführten Kenntnisse ermöglicht;
+# § 16.03 – Prüfung für Sachkundige für die Fahrgastschifffahrt
 
-b) eine praktische Ausbildung, die die Erlangung der im ES-QIN (Teil II, Kapitel 2) aufgeführten Fertigkeiten ermöglicht.
+Die Prüfung besteht aus einem theoretischen und einem praktischen Teil. Der theoretische Teil der Prüfung ist bestanden, wenn der Bewerber den Erwerb der im ES-QIN (Teil I, Kapitel 5) aufgeführten Kenntnisse unter Beweis gestellt hat. Der praktische Teil der Prüfung ist bestanden, wenn der Bewerber die praktische Prüfung gemäß dem ES-QIN (Teil II, Kapitel 2) erfolgreich abgelegt hat. Der praktische Teil der Prüfung wird an Bord eines Fahrzeugs oder an einer Landanlage abgenommen, die den technischen Anforderungen des ES-QIN (Teil II, Kapitel 2) entsprechen.
 
-2. Am Ende dieser Ausbildung wird eine Prüfung durchgeführt, die einen theoretischen und einen praktischen Teil umfasst.   
-Der theoretische Teil der Prüfung ist bestanden, wenn der Kandidat den Erwerb der bei der Ausbildung nach Buchstabe a vermittelten Kenntnisse unter Beweis gestellt hat.   
-Der praktische Teil der Prüfung ist bestanden, wenn der Kandidat die praktische Prüfung gemäß ES-QIN (Teil II, Kapitel 2) erfolgreich abgelegt hat. Der praktische Teil der Prüfung wird in einem Schiff oder einer Landanlage abgenommen, das bzw. die dem ES-QIN (Teil II, Kapitel 2) aufgeführten technischen Anforderungen entspricht.
+# § 16.04 – Lehrgang für Sachkundige für die Fahrgastschifffahrt
 
-(+++ Zur Geltung vgl. § 16.04 Nr. 2 +++)
+Der in § 16.02 Satz 2 Nummer 1 Buchstabe a genannte Lehrgang muss von der zuständigen Behörde gemäß den in § 16.05 festgelegten Bedingungen zugelassen werden und besteht aus
 
-# § 16.04 – Auffrischungslehrgang für Sachkundige
+a) einer theoretischen Ausbildung zum Erwerb der im ES-QIN (Teil I, Kapitel 5) aufgeführten Kenntnisse und
 
-1. Vor Ablauf von fünf Jahren nach der erfolgreichen Teilnahme an dem Basislehrgang muss der Inhaber eines Befähigungszeugnisses als Sachkundiger für die Fahrgastschifffahrt an einem von der zuständigen Behörde anerkannten Auffrischungslehrgang teilnehmen.
-
-2. Der Auffrischungslehrgang muss Schwerpunkte (wie z. B. Panikverhütung, Brandbekämpfung) zu typischen Gefahrensituationen enthalten und – gegebenenfalls – Informationen über neue Erkenntnisse zur Fahrgastsicherheit vermitteln. Am Ende dieses Auffrischungslehrgangs wird eine Prüfung durchgeführt, die einen theoretischen und einen praktischen Teil umfasst. § 16.03 Nummer 2 gilt entsprechend.   
-Der Auffrischungslehrgang muss im Rahmen eines von der zuständigen Behörde organisierten oder zugelassenen Lehrgangs durchgeführt werden, der den Bedingungen des § 16.05 entspricht.
+b) einer praktischen Ausbildung zum Erwerb der im ES-QIN (Teil II, Kapitel 2) aufgeführten Fertigkeiten.
 
 # § 16.05 – Zulassung von Lehrgängen für Sachkundige
 
@@ -927,11 +924,9 @@ Der Atemschutzgeräteträger muss mindestens 18 Jahre alt sein und die erforderl
 
 Die Lehrgänge und Auffrischungslehrgänge für Ersthelfer und Atemschutzgeräteträger müssen nach den Vorschriften eines der Rheinuferstaaten oder Belgiens durchgeführt werden.
 
-# § 16.10 – Art des Nachweises der Befähigung
+# § 16.10 – Nachweise der Befähigung
 
-1. Nach bestandener Abschlussprüfung gemäß § 16.03 Nummer 2 und auf Vorlage der Schulungsnachweise stellt die zuständige Behörde ein Befähigungszeugnis als Sachkundiger für die Fahrgastschifffahrt nach dem Muster des ES-QIN (Teil V, Kapitel 1) aus.   
-Das Befähigungszeugnis nach Nummer 1 muss alle fünf Jahre erneuert werden. Jeder Antragsteller auf Erneuerung dieses Zeugnisses muss vor Ablauf von fünf Jahren nach der Teilnahme an dem Basislehrgang oder dem Auffrischungslehrgang an einem Auffrischungslehrgang nach § 16.04 teilnehmen.   
-Nach Teilnahme am Auffrischungslehrgang verlängert die zuständige Behörde das Befähigungszeugnis als Sachkundiger für die Fahrgastschifffahrt um fünf Jahre oder stellt eine neue Bescheinigung aus.
+1. Nach bestandener Abschlussprüfung gemäß § 16.03 stellt die zuständige Behörde ein Befähigungszeugnis als Sachkundiger für die Fahrgastschifffahrt nach dem Muster des ES-QIN (Teil V, Kapitel 1) aus.
 
 2. Auf Vorlage der Schulungsnachweise gemäß §§ 16.07 und 16.09 stellt die zuständige Behörde eine Bescheinigung über die Befähigung zum Ersthelfer nach dem Muster der Anlage 6 aus oder verlängert diese. Als Bescheinigungen gelten auch die Dokumente der nationalen oder regionalen Organisationen des Roten Kreuzes und vergleichbarer nationaler oder regionaler Rettungsorganisationen, die von der ZKR bekannt gemacht werden.
 
@@ -1059,7 +1054,7 @@ Solange sich Fahrgäste an Bord befinden, muss nachts stündlich ein Kontrollgan
 
 1. Die Besatzung und das Sicherheitspersonal, die sich nach der Rheinschifffahrtspolizeiverordnung an Bord der auf dem Rhein fahrenden Fahrzeuge zu befinden haben, müssen den Vorschriften dieser Verordnung entsprechen.   
 Die Besatzung, die für die jeweilige Betriebsform und Einsatzzeit des Fahrzeuges vorgeschrieben ist, und das Sicherheitspersonal müssen während der Fahrt ständig an Bord sein. Der Antritt einer Fahrt ohne die vorgeschriebene Besatzung oder ohne das Sicherheitspersonal ist unzulässig.   
-Fahrzeuge, auf denen durch unvorhergesehene Umstände (z. B. Krankheit, Unfall, behördliche Anordnung) höchstens ein Mitglied der vorgeschriebenen Besatzung während der Fahrt ausfällt, können ihre Fahrt bis zum nächsten erreichbaren geeigneten Liegeplatz in Fahrtrichtung – Fahrgastschiffe bis zur Tagesendstation – fortsetzen, wenn an Bord neben einem Inhaber eines für die betreffende Strecke gültigen Befähigungszeugnisses als Schiffsführer noch ein weiteres Mitglied der vorgeschriebenen Besatzung vorhanden ist.   
+Fahrzeuge, auf denen durch unvorhergesehene Umstände (z. B. Krankheit, Unfall, behördliche Anordnung) höchstens ein Mitglied der vorgeschriebenen Besatzung während der Fahrt ausfällt, können ihre Fahrt bis zum nächsten erreichbaren geeigneten Liegeplatz in Fahrtrichtung – Fahrgastschiffe bis zur Tagesendstation – fortsetzen, wenn an Bord neben einem Inhaber eines für die betreffende Strecke geltenden Befähigungszeugnisses als Schiffsführer noch ein weiteres Mitglied der vorgeschriebenen Besatzung vorhanden ist.   
 Die Person, der die Betreuung an Bord lebender Kinder unter sechs Jahren obliegt, darf nicht Mitglied der Mindestbesatzung sein, es sei denn, es werden Maßnahmen getroffen, um die Sicherheit der Kinder ohne ständige Aufsicht zu gewährleisten.
 
 2. Jeder Rheinuferstaat oder Belgien kann bestimmen, dass seine Arbeitsschutzvorschriften auf die Rheinschiffe anwendbar sind, die in seinem Staat registriert sind. Nicht in einem Register eingetragene Schiffe unterstehen den Vorschriften des Rheinuferstaates oder Belgiens, in dem das Unternehmen oder der Eigner seinen Hauptsitz oder gesetzlichen Wohnsitz hat.   
@@ -1164,7 +1159,7 @@ b) die für die Betriebsform B bestimmten Besatzungsmitglieder unmittelbar vor d
 
 # § 18.04 – Bordbuch – Fahrtenschreiber
 
-1. Auf jedem Fahrzeug ist im Steuerhaus ein aktives Bordbuch nach dem im ES-QIN enthaltenen Muster (Teil V, Kapitel 5) mitzuführen, ausgenommen auf Schlepp- und Schubbooten, die nur in Häfen verkehren, auf unbemannten Schubleichtern, Behördenfahrzeugen und Sportfahrzeugen. Dieses Bordbuch ist entsprechend der darin enthaltenen Anleitung auszufüllen. Verantwortlich für das Mitführen des Bordbuches und für die Einträge ist der Schiffsführer. Das erste Bordbuch muss von einer zuständigen Behörde aufgrund der Vorlage eines gültigen Binnenschiffszeugnisses ausgestellt sein.
+1. Auf jedem Fahrzeug ist im Steuerhaus ein aktives Bordbuch nach dem im ES-QIN enthaltenen Muster (Teil V, Kapitel 5) mitzuführen, ausgenommen auf Schlepp- und Schubbooten, die nur in Häfen verkehren, auf unbemannten Schubleichtern, Behördenfahrzeugen und Sportfahrzeugen. Dieses Bordbuch ist entsprechend der darin enthaltenen Anleitung auszufüllen. Verantwortlich für das Mitführen des Bordbuches und für die Einträge ist der Schiffsführer. Das erste Bordbuch muss von einer zuständigen Behörde aufgrund der Vorlage eines Binnenschiffszeugnisses ausgestellt sein.
 
 2. Alle nachfolgenden Bordbücher können von allen zuständigen Behörden mit der Folgenummer nummeriert ausgegeben werden, dürfen jedoch nur gegen Vorlage des vorangegangenen Bordbuches ausgehändigt werden. Das vorangegangene Bordbuch muss unaustilgbar „ungültig“ gekennzeichnet und dem Schiffsführer zurückgegeben werden.   
 Die Aushändigung des neuen Bordbuches kann bei Vorlage der Bescheinigung nach Nummer 4 erfolgen. Der Schiffseigner hat jedoch dafür zu sorgen, dass das vorangegangene Bordbuch binnen 30 Tagen nach dem Ausstellungsdatum des neuen Bordbuches, das auf der Bescheinigung nach Nummer 4 von der zuständigen Behörde eingetragen worden ist, von derselben zuständigen Behörde unaustilgbar „ungültig“ gekennzeichnet wird. Der Schiffseigner hat außerdem dafür zu sorgen, dass dann das Bordbuch wieder an Bord gebracht wird.
@@ -2707,7 +2702,7 @@ Im Fall des Satz 1 können die Bootsmänner durch Matrosen ersetzt werden, sofer
 1. Für die Festlegung der Mindestbesatzung von Seeschiffen ist Teil III dieser Verordnung anzuwenden.
 
 2. Abweichend von Nummer 1 können für Seeschiffe die Besatzungsregelungen, die den Grundsätzen der IMO-Resolution A. 481 (XII) und des STCW-Übereinkommens entsprechen, angewendet werden unter der Voraussetzung, dass die Besatzung zahlenmäßig mindestens mit der Mindestbesatzung der Betriebsform B des Teils III übereinstimmt, insbesondere unter Berücksichtigung der §§ 19.02 und 19.06.   
-In diesem Fall müssen die entsprechenden Dokumente, aus denen die Befähigung der Besatzungsmitglieder und deren Anzahl hervorgehen, an Bord mitgeführt werden. Außerdem muss sich ein Inhaber des für die zu befahrende Strecke gültigen Befähigungszeugnisses als Schiffsführer an Bord befinden. Nach höchstens 14 Stunden Fahrt innerhalb eines Zeitraumes von 24 Stunden ist dieser Inhaber des Befähigungszeugnisses als Schiffsführer durch einen anderen Inhaber eines Befähigungszeugnisses als Schiffsführer zu ersetzen.   
+In diesem Fall müssen die entsprechenden Dokumente, aus denen die Befähigung der Besatzungsmitglieder und deren Anzahl hervorgehen, an Bord mitgeführt werden. Außerdem muss sich ein Inhaber des für die zu befahrende Strecke geltenden Befähigungszeugnisses als Schiffsführer an Bord befinden. Nach höchstens 14 Stunden Fahrt innerhalb eines Zeitraumes von 24 Stunden ist dieser Inhaber des Befähigungszeugnisses als Schiffsführer durch einen anderen Inhaber eines Befähigungszeugnisses als Schiffsführer zu ersetzen.   
 Im Logbuch sind folgende Eintragungen zu machen:
 
 a) Namen der Inhaber der Befähigungszeugnisse als Schiffsführer, die sich an Bord befinden sowie Anfang und Ende ihrer Wache;
@@ -2741,10 +2736,9 @@ Für die Fahrt unterhalb der Spyck’schen Fähre (km 857,40) genügen, sofern d
 
 # § 20.01 – Gültigkeit der Schifferdienstbücher
 
-1. Schifferdienstbücher, die nach den bis zum Inkrafttreten dieser Verordnung geltenden Vorschriften ausgestellt worden sind oder weitergelten, bleiben nach Maßgabe der bisherigen Vorschriften bis zu ihrem Ablaufdatum, längstens bis zum 17. Januar 2032 gültig. Satz 1 gilt auch für von der ZKR als gleichwertig anerkannte Schifferdienstbücher.
+1. Schifferdienstbücher, die nach den bis zum Inkrafttreten dieser Verordnung geltenden Vorschriften ausgestellt worden sind oder weitergelten, bleiben nach Maßgabe der bisherigen Vorschriften bis zu ihrem Ablaufdatum, längstens bis zum Ablauf des 17. Januar 2032 gültig. Satz 1 gilt auch für von der ZKR als gleichwertig anerkannte Schifferdienstbücher.
 
-2. Der Inhaber eines Schifferdienstbuches nach Nummer 1 kann bis zum 17. Januar 2032 ein neues, nach dieser Verordnung ausgestelltes Schifferdienstbuch mit seiner jeweiligen Qualifikation beantragen. Die Ausstellung dieses Dokuments bemisst sich nach den Bestimmungen des § 5.01 dieser Verordnung.   
-Beantragt der Inhaber eine neue Qualifikation oder eine Ersatzausfertigung gemäß § 3.03 dieser Verordnung, stellt die zuständige Behörde ein neues Schifferdienstbuch gemäß ES-QIN aus (Teil V, Kapitel 2).
+2. Der Inhaber eines Schifferdienstbuches nach Nummer 1 kann bis zum Ablauf des 17. Januar 2032 ein neues, nach dieser Verordnung ausgestelltes Schifferdienstbuch mit seiner jeweiligen Qualifikation beantragen. Die Ausstellung dieses Dokuments bemisst sich nach den Bestimmungen des § 5.01 dieser Verordnung.
 
 3. Der Inhaber eines Schifferdienstbuches nach Nummer 1 kann bis zum 17. Januar 2032 ein neues Schifferdienstbuch mit einem Befähigungszeugnis, für dessen Erwerb die Anforderungen höher sind, beantragen, wenn die folgenden Bedingungen erfüllt sind:
 
@@ -2768,17 +2762,17 @@ ein in Tabelle b des Anhangs 1 zur Dienstanweisung Nummer 1 aufgeführtes Ausbil
 
 # § 20.02 – Gültigkeit der Bordbücher
 
-1. Bordbücher, die nach den bis zum Inkrafttreten dieser Verordnung geltenden Vorschriften ausgestellt worden sind oder weitergelten, bleiben nach Maßgabe der bisherigen Vorschriften bis zu ihrem bisherigen Ablaufdatum, längstens bis zum 17. Januar 2032, gültig. Satz 1 gilt auch für von der ZKR als gleichwertig anerkannte Bordbücher.
+1. Bordbücher, die nach den bis zum Inkrafttreten dieser Verordnung geltenden Vorschriften ausgestellt worden sind oder weitergelten, bleiben nach Maßgabe der bisherigen Vorschriften bis zu ihrem bisherigen Ablaufdatum, längstens bis zum Ablauf des 17. Januar 2032, gültig. Satz 1 gilt auch für von der ZKR als gleichwertig anerkannte Bordbücher.
 
-2. Ein Bordbuch nach Nummer 1 kann bis zum 17. Januar 2032 gegen ein neues, nach dieser Verordnung ausgestelltes Bordbuch ausgetauscht werden.
+2. Ein Bordbuch nach Nummer 1 kann bis zum Ablauf des 17. Januar 2032 gegen ein neues, nach dieser Verordnung ausgestelltes Bordbuch ausgetauscht werden.
 
 # § 20.03 – Gültigkeit der bisherigen Rheinpatente
 
-1. Große oder Kleine Rheinpatente, die nach den bis zum Inkrafttreten dieser Verordnung geltenden Vorschriften ausgestellt worden sind oder weitergelten, bleiben nach Maßgabe der bisherigen Vorschriften bis zu ihrem Ablaufdatum, längstens bis zum 17. Januar 2032, gültig.
+1. Große oder Kleine Rheinpatente, die nach den bis zum Inkrafttreten dieser Verordnung geltenden Vorschriften ausgestellt worden sind oder weitergelten, bleiben nach Maßgabe der bisherigen Vorschriften bis zu ihrem Ablaufdatum, längstens bis zum Ablauf des 17. Januar 2032, gültig.
 
 2. Die in Nummer 1 genannten Rheinpatente können bis zu ihrem dort genannten Ablaufdatum in ein Rheinpatent nach dieser Verordnung umgetauscht werden. Der Umtausch Kleiner Rheinpatente erfordert den Nachweis einer zusätzlichen Fahrzeit von einem Jahr als Inhaber des Kleinen Rheinpatentes. Der Umtausch kann bei jeder zuständigen Behörde eines Mitgliedsstaates der ZKR erfolgen. Die zuständige Behörde stellt das Rheinpatent nach dieser Verordnung aus, wenn der Antragssteller sein altes Rheinpatent nach Nummer 1 und eine Kopie seines Ausweisdokumentes vorlegt. Hat der Antragssteller bereits das 60. Lebensjahr überschritten, hat er zudem den Nachweis seiner Tauglichkeit gemäß § 4.02 vorzulegen, der nicht älter als drei Monate sein darf.
 
-3. Die von der ZKR als gleichwertig anerkannten Schiffsführerzeugnisse gelten auf dem Rhein bis zu ihrem Ablaufdatum, längstens bis zum 17. Januar 2032. Diese Zeugnisse können in dem in Nummer 2 genannten Verfahren bei einer zuständigen Behörde gegen ein Rheinpatent eingetauscht werden.
+3. Die von der ZKR als gleichwertig anerkannten Schiffsführerzeugnisse gelten auf dem Rhein bis zu ihrem Ablaufdatum, längstens bis zum Ablauf des 17. Januar 2032. Diese Zeugnisse können in dem in Nummer 2 genannten Verfahren bei einer zuständigen Behörde gegen ein Rheinpatent eingetauscht werden.
 
 # § 20.04 – Gültigkeit der Behörden- und Sportpatente
 
@@ -2790,19 +2784,19 @@ Der Inhaber eines Großen oder Kleinen Rheinpatentes, eines Behördenpatentes od
 
 # § 20.06 – Gültigkeit der bisherigen Streckenzeugnisse
 
-1. Hat der Inhaber eines auf dem Rhein als gleichwertig anerkannten Schiffsführerzeugnisses ein Streckenzeugnis für die in Anlage 5 dieser Verordnung genannten Strecken, so darf er den entsprechenden Streckenabschnitt weiterhin bis zum 17. Januar 2032 befahren.
+1. Hat der Inhaber eines auf dem Rhein als gleichwertig anerkannten Schiffsführerzeugnisses ein Streckenzeugnis für die in Anlage 5 dieser Verordnung genannten Strecken, so darf er den entsprechenden Streckenabschnitt weiterhin bis zum Ablauf des 17. Januar 2032 befahren.
 
 2. Das Streckenzeugnis nach Nummer 1 weist die besondere Berechtigung zum Befahren der entsprechenden Streckenabschnitte mit besonderen Risiken nach § 13.03 nach.
 
 # § 20.07 – Gültigkeit der besonderen Berechtigung für Binnenwasserstraßen mit maritimem Charakter
 
-1. Ein Großes oder Kleines Rheinpatent nach § 20.03 Nummer 1 berechtigt bis zu seinem Ablaufdatum, längstens bis zum 17. Januar 2032, auch zum Befahren von Binnenwasserstraßen mit maritimem Charakter nach § 13.04.
+1. Ein Großes oder Kleines Rheinpatent nach § 20.03 Nummer 1 berechtigt bis zu seinem Ablaufdatum, längstens bis zum Ablauf des 17. Januar 2032, auch zum Befahren von Binnenwasserstraßen mit maritimem Charakter nach § 13.04.
 
 2. Mit dem Umtausch eines Großen oder Kleinen Rheinpatentes nach § 20.03 wird das neue Rheinpatent zugleich mit der besonderen Berechtigung zum Befahren von Binnenwasserstraßen mit maritimem Charakter nach § 13.04 ausgestellt.
 
 # § 20.08 – Gültigkeit von Zeugnissen nach dem STCW-Übereinkommen
 
-Mitglieder der Besatzung von Seeschiffen, die auf dem Rhein fahren, können ihre Befähigung durch ein Zeugnis nachweisen, das nach dem STCW-Übereinkommen ausgestellt oder anerkannt wurde. Das gilt für den Schiffsführer nur bis zum 17. Januar 2038 und unter der Voraussetzung, dass dieses Befahren einer Binnenwasserstraße zu Beginn oder am Ende einer Seefahrt erfolgt.
+Mitglieder der Besatzung von Seeschiffen, die auf dem Rhein fahren, können ihre Befähigung durch ein Zeugnis nachweisen, das nach dem STCW-Übereinkommen ausgestellt oder anerkannt wurde. Das gilt für den Schiffsführer nur bis zum Ablauf des 17. Januar 2038 und unter der Voraussetzung, dass dieses Befahren einer Binnenwasserstraße zu Beginn oder am Ende einer Seefahrt erfolgt.
 
 # § 20.09 – Gültigkeit der Radarpatente
 
@@ -2810,7 +2804,7 @@ Mitglieder der Besatzung von Seeschiffen, die auf dem Rhein fahren, können ihre
 
 2. Mit dem Umtausch eines Großen oder Kleinen Rheinpatentes nach § 20.03 wird das neue Rheinpatent zugleich mit der besonderen Berechtigung, unter Radar zu fahren nach § 13.02, ausgestellt.
 
-3. Der Inhaber eines als gleichwertig anerkannten Radarzeugnisses auf dem Rhein darf weiterhin bis zum 17. Januar 2032 auf dem Rhein Radarfahrten durchführen.
+3. Der Inhaber eines als gleichwertig anerkannten Radarzeugnisses auf dem Rhein darf weiterhin bis zum Ablauf des 17. Januar 2032 auf dem Rhein Radarfahrten durchführen.
 
 # § 20.10 – Gültigkeit der Qualifikation als Sicherheitspersonal auf Fahrgastschiffen oder als Sachkundiger für LNG
 
@@ -2824,7 +2818,8 @@ Nach dieser Verordnung erforderliche Fahrzeiten können auch berücksichtigt wer
 
 # Anlage 1 – Tauglichkeitsnachweis in der Binnenschifffahrt (Muster)
 
-(Anlageband zum BGBl. 2023 II Nr. 105, S. 37)
+(Anlageband zum BGBl. 2023 II Nr. 105, S. 37;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
 <colgroup>
@@ -2949,18 +2944,14 @@ ______________________</td>
 _________________________</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Stempel</td>
+<td colspan="5" style="text-align: left;" data-valign="top" data-charoff="50">□   Tauglich, sofern das Schifferpatent nach Richtlinie 96/50/EG vor dem 1. April 2004 ausgestellt wurde</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Stempel</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
@@ -2970,6 +2961,13 @@ _________________________</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">___________________________________________<br />
 Datum und Unterschrift des Arztes</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
@@ -3091,11 +3089,12 @@ www.ccr-zkr.org bekannt gemacht.
 
 # Anlage 5 – Besonderheiten für das Befahren von Abschnitten des Rheins, die als Binnenwasserstraßenabschnitte mit besonderen Risiken ausgewiesen wurden
 
-(Anlageband zum BGBl. 2023 II Nr. 105, S. 41 – 43)
+(Anlageband zum BGBl. 2023 II Nr. 105, S. 41 – 43;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Teil A: Anforderungen für Rheinabschnitte mit besonderem Risiko
 
-1. Wer ein Fahrzeug auf den Abschnitten zwischen km 335,92 (Schleusen Iffezheim) und km 857,40 (Spyck’sche Fähre) führt, benötigt hierfür eine besondere Berechtigung für das Befahren von Binnenwasserstraßen mit besonderen Risiken.
+1. Wer ein Fahrzeug auf den Abschnitten zwischen km 335,66 (Straßenbrücke Wintersdorf) und km 425,00 (Mannheim) oder zwischen km 498,45 (Straßenbrücke Mainz/Mainz-Kastel) und km 592,00 (Koblenz, Moselmündung) führt, benötigt hierfür eine besondere Berechtigung für das Befahren von Binnenwasserstraßen mit besonderen Risiken.
 
 2. Die erforderliche Prüfung wird von der zuständigen Behörde als behördliche Befähigungsprüfung (Kapitel 7) abgenommen. Die Prüfung kann als Multiple-Choice- oder mündliche Prüfung durchgeführt werden. Es werden folgende Kenntnisse des Kandidaten geprüft:
 
@@ -3121,7 +3120,7 @@ Teil B: Teile des Rheins, für die zusätzliche Befähigungen des Schiffsführer
 
 I.
 
-Rhein von Rhein-km 335,92 (Schleuse Iffezheim) bis Rhein-km 352,07 (deutsch-französische Grenze)
+Rhein von Rhein-km 335,66 (Straßenbrücke Wintersdorf) bis Rhein-km 352,07 (deutsch-französische Grenze)
 
 Zusätzliche Befähigung  
   
@@ -3179,70 +3178,9 @@ II\.
 
 Rhein von Rhein-km 352,07 (deutsch-französische Grenze) bis Rhein-km 425,00 (Mannheim)
 
-Die zusätzliche Befähigung entspricht der zusätzlichen Befähigung der Nummer I (Rhein von Rhein-km 335,92 (Schleuse Iffezheim) bis Rhein-km 352,07 (deutsch-französische Grenze)).
-
-Zusätzliche Befähigung
+Die zusätzliche Befähigung entspricht der zusätzlichen Befähigung der Nummer I (Rhein von Rhein-km 335,66 (Straßenbrücke Wintersdorf) bis Rhein-km 352,07 (deutsch-französische Grenze)).
 
 III\.
-
-Rhein von Rhein-km 425,00 (Mannheim) bis Rhein-km 498 (Mainz, Mainspitze)
-
-Zusätzliche Befähigung  
-  
-Der Schiffsführer, der diesen Rheinabschnitt mit besonderen Risiken befährt, benötigt zum sicheren Befahren Kenntnisse über die Eigenschaften und Örtlichkeiten dieses Rheinabschnitts.
-
-1\.
-
-Er muss den Fahrweg in der Berg- und in der Talfahrt beschreiben können.
-
-2\.
-
-Er muss zusätzlich verfügen über
-
-a. detaillierte Kenntnisse der Streckencharakteristika,
-
-b. detaillierte Kenntnisse der Abmessungen der Schifffahrtsstraße,
-
-c. Kenntnis der Polizeivorschriften für diesen Streckenabschnitt.
-
-3\.
-
-Zusätzlich muss der Schiffsführer
-
-a) Kenntnisse haben über die Strömungsmuster und -geschwindigkeiten auf diesem Rheinabschnitt und er muss wissen, wie er sein Fahrverhalten vor Ort darauf einstellen muss. Hierzu zählen Kenntnisse über
-
-•  
-schwankende Wasserstände um mehr als 6 m an einigen Streckenabschnitten
-
-•  
-Verlauf der Fahrrinne im Strom bei Hochwasser
-
-•  
-Lage aller Fehltiefen und -breiten bei Niedrigwasser
-
-•  
-Veränderung des Fluss- und Landschaftsbildes durch stark schwankende Wasserstände
-
-•  
-Veränderungen der Abflussmengen und -geschwindigkeiten bei Hoch- und Niedrigwasser
-
-•  
-Querströmungen,
-
-b) die hydromorphologischen Eigenschaften dieses Rheinabschnittes kennen und wissen, wie er darauf zu reagieren hat. Hierzu zählen Kenntnisse über
-
-•  
-Fehltiefen,
-
-•  
-Geschiebebewirtschaftung,
-
-•  
-nautisch anspruchsvolle Streckenabschnitte,
-
-c) Kenntnisse haben über die speziellen örtlichen Verkehrsregelungen.
-
-IV\.
 
 Rhein von Rhein-km 498,00 (Mainz, Mainspitze) bis Rhein-km 592,00 (Koblenz, Moselmündung)
 
@@ -3250,13 +3188,9 @@ Zusätzliche Befähigung
   
 Der Schiffsführer, der diesen Rheinabschnitt mit besonderen Risiken befährt, benötigt zum sicheren Befahren Kenntnisse über die Eigenschaften und Örtlichkeiten dieses Rheinabschnitts.
 
-1\.
+1. Er muss den Fahrweg in der Berg- und in der Talfahrt beschreiben können.
 
-Er muss den Fahrweg in der Berg- und in der Talfahrt beschreiben können.
-
-2\.
-
-Er muss zusätzlich verfügen über
+2. Er muss zusätzlich verfügen über
 
 a. detaillierte Kenntnisse der Streckencharakteristika,
 
@@ -3264,9 +3198,7 @@ b. detaillierte Kenntnisse der Abmessungen der Schifffahrtsstraße;
 
 c. Kenntnis der Polizeivorschriften für diesen Streckenabschnitt.
 
-3\.
-
-Zusätzlich muss der Schiffsführer
+3. Zusätzlich muss der Schiffsführer
 
 a) Kenntnisse haben über die Strömungsmuster und -geschwindigkeiten auf diesem Rheinabschnitt und er muss wissen, wie er sein Fahrverhalten vor Ort darauf einstellen muss. Hierzu zählen insbesondere Kenntnisse über
 
@@ -3295,96 +3227,6 @@ Wartepositionen
 
 •  
 Überholverbote.
-
-V.
-
-Rhein von Rhein-km 592,00 (Koblenz, Moselmündung) bis Rhein-km 769,00 (Krefeld)
-
-Zusätzliche Befähigung  
-  
-Der Schiffsführer, der diesen Rheinabschnitt mit besonderen Risiken befährt, benötigt zum sicheren Befahren Kenntnisse über die Eigenschaften und Örtlichkeiten dieses Rheinabschnitts.
-
-1\.
-
-Er muss den Fahrweg in der Berg- und in der Talfahrt beschreiben können.
-
-2\.
-
-Er muss zusätzlich verfügen über
-
-a. detaillierte Kenntnisse der Streckencharakteristika,
-
-b. detaillierte Kenntnisse der Abmessungen der Schifffahrtsstraße.
-
-3\.
-
-Zusätzlich muss der Schiffsführer
-
-a) Kenntnisse haben über die Strömungsmuster und -geschwindigkeiten auf diesem Rheinabschnitt und er muss wissen, wie er sein Fahrverhalten vor Ort darauf einstellen muss. Hierzu zählen Kenntnisse über
-
-•  
-schwankende Wasserstände um teils mehr als 7 m
-
-•  
-Verlauf der Fahrrinne im Strom bei Hochwasser
-
-•  
-Lage aller Fehltiefen und -breiten bei Niedrigwasser
-
-•  
-Veränderung des Fluss- und Landschaftsbildes durch stark schwankende Wasserstände
-
-•  
-Veränderungen der Abflussmengen und -geschwindigkeiten bei Hoch- und Niedrigwasser
-
-•  
-Querströmungen,
-
-b) die hydromorphologischen Eigenschaften dieses Rheinabschnittes kennen und wissen, wie er darauf zu reagieren hat. Hierzu zählen Kenntnisse über die örtlichen Gegebenheiten bezüglich Geschiebebewirtschaftung und nicht gekennzeichnete Fehltiefen und -breiten.
-
-VI\.
-
-Rhein von Rhein-km 769,00 (Krefeld) bis Rhein-km 857,40 (Spyck’sche Fähre/Grenze zu den Niederlanden)
-
-Zusätzliche Befähigung  
-  
-Der Schiffsführer, der diesen Rheinabschnitt mit besonderen Risiken befährt, benötigt zum sicheren Befahren Kenntnisse über die Eigenschaften und Örtlichkeiten dieses Rheinabschnitts.
-
-1. Er muss den Fahrweg in der Berg- und in der Talfahrt beschreiben können.
-
-2. Er muss zusätzlich verfügen über
-
-a. detaillierte Kenntnisse der Streckencharakteristika,
-
-b. detaillierte Kenntnisse der Abmessungen der Schifffahrtsstraße,
-
-c. Kenntnis der Polizeivorschriften für diesen Streckenabschnitt.
-
-3. Zusätzlich muss der Schiffsführer
-
-a) Kenntnisse haben über die Strömungsmuster und -geschwindigkeiten auf diesem Rheinabschnitt und er muss wissen, wie er sein Fahrverhalten vor Ort darauf einstellen muss. Hierzu zählen Kenntnisse über:
-
-•  
-Verlauf der Fahrrinne im Strom
-
-•  
-Auswirkungen von Hoch- und Niedrigwasser auf das Fluss- und Landschaftsbild und die Abflussmengen und -geschwindigkeiten
-
-•  
-Querströmungen,
-
-b) die hydromorphologischen Eigenschaften dieses Rheinabschnittes kennen und wissen, wie er darauf zu reagieren hat. Hierzu zählen Kenntnisse über:
-
-•  
-den Verlauf der Fahrrinne: Sie verlagert sich in dem deutlich breiteren Fluss nach jeder Kurve auf eine andere Seite. Für Begegnungsverkehre und Überholvorgänge sind ausreichende Erfahrung und rechtzeitige Absprachen über Rheinfunk Kanal 10 nötig
-
-•  
-Lage aller Fehltiefen und -breiten, insbesondere der nicht gekennzeichnete Fehlbreiten sowie Geschiebebewirtschaftung
-
-•  
-schwierige Streckenabschnitte.
-
-c) Kenntnisse haben über die speziellen örtlichen Verkehrsregelungen.
 
 # Anlage 6 – Bescheinigung Ersthelfer in der Fahrgastschifffahrt (Muster)
 

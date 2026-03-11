@@ -89,8 +89,6 @@ f) die Höhe des ausgezahlten Kindergeldes, soweit der Datenabruf durch eine abr
 
 (4) Es sind dem jeweiligen Stand der Technik gemäß der Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik entsprechende technische und organisatorische Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit zu treffen, die insbesondere die Verfügbarkeit, die Vertraulichkeit und die Integrität der Daten sowie die Authentisierung der abrufenden Stelle gewährleisten. Bei der Nutzung allgemein zugänglicher Netze sind angemessene und wirksame Verschlüsselungsverfahren zu verwenden. Die datenliefernde Stelle bestimmt das einzusetzende Verschlüsselungsverfahren, das dem jeweiligen Stand der Technik entsprechen muss.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 19.12.2025 I Nr. 374 +++)
-
 # § 4 – Prüfungs- und Dokumentationspflichten
 
 Zur Wahrung des Steuergeheimnisses und zur Sicherstellung von Datenschutz und Datensicherheit beim Abrufverfahren sind § 2 Absatz 1 und die §§ 5 bis 8 der Steuerdaten-Abrufverordnung entsprechend anzuwenden.

@@ -5,8 +5,7 @@
 
 Dieses Gesetz gilt für Maschinen, dazugehörige Produkte und unvollständige Maschinen nach Artikel 2 der Verordnung (EU) 2023/1230.
 
-(+++ § 1: Zur Anwendung vgl. § 12 +++)  
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 2.12.2025 I Nr. 302 +++)
+(+++ § 1: Zur Anwendung vgl. § 12 +++)
 
 # § 2 – Sprache der Anleitungen, der Informationen, der EU-Konformitätserklärung und der EU-Einbauerklärung
 
@@ -28,14 +27,11 @@ Sofern die Betriebsanleitung nach § 2 Absatz 1 Nummer 1 in digitaler Form berei
 
 Sofern die Montageanleitung nach Satz 1 Nummer 1 in digitaler Form bereitgestellt wird, ist der Hinweis nach Artikel 11 Absatz 7 Unterabsatz 3 Buchstabe a der Verordnung (EU) 2023/1230 in der Fassung vom 9. Oktober 2024, wie auf die digitale Montageanleitung zugegriffen werden kann, ebenfalls in deutscher Sprache abzufassen.
 
-(+++ § 2: Zur Anwendung vgl. § 12 +++)  
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 2.12.2025 I Nr. 302 +++)
+(+++ § 2: Zur Anwendung vgl. § 12 +++)
 
 # § 3 – Notifizierung von Konformitätsbewertungsstellen
 
 Die Notifizierung von Konformitätsbewertungsstellen nach Kapitel V der Verordnung (EU) 2023/1230 ist von der Befugnis erteilenden Behörde nach § 10 Absatz 1 erster Halbsatz des Produktsicherheitsgesetzes vom 27. Juli 2021 (BGBl. I S. 3146, 3147), das durch Artikel 2 des Gesetzes vom 27. Juli 2021 (BGBl. I S. 3146) geändert worden ist, durchzuführen. Soweit die Verordnung (EU) 2023/1230 keine Regelungen trifft, sind die Abschnitte 3 und 4 des Produktsicherheitsgesetzes anwendbar.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 2.12.2025 I Nr. 302 +++)
 
 # § 4 – Stichproben bei der Marktüberwachung
 
@@ -43,14 +39,11 @@ Die Notifizierung von Konformitätsbewertungsstellen nach Kapitel V der Verordnu
 
 (2) Die Stichproben nach Absatz 1 bilden eine Teilmenge des Richtwerts nach § 25 Absatz 2 des Produktsicherheitsgesetzes.
 
-(+++ § 4: Zur Anwendung vgl. § 12 +++)  
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 2.12.2025 I Nr. 302 +++)
+(+++ § 4: Zur Anwendung vgl. § 12 +++)
 
 # § 5 – Unterrichtung bei Nichtkonformität einer Maschine, eines dazugehörigen Produktes oder einer unvollständigen Maschine
 
 Die Unterrichtung bei Nichtkonformität nach Artikel 43 Absatz 2 und 4 Satz 2 der Verordnung (EU) 2023/1230 hinsichtlich einer Maschine, eines dazugehörigen Produktes oder einer unvollständigen Maschine hat die Marktüberwachungsbehörde unverzüglich über die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin vorzunehmen.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 2.12.2025 I Nr. 302 +++)
 
 # § 6 – Maßnahmen bei Nichtkonformität einer Maschine, eines dazugehörigen Produktes oder einer unvollständigen Maschine in einem anderen Mitgliedstaat der Europäischen Union
 
@@ -64,13 +57,9 @@ Die Unterrichtung bei Nichtkonformität nach Artikel 43 Absatz 2 und 4 Satz 2 de
 
 (3) Hält die Europäische Kommission die Einwände der Marktüberwachungsbehörde nach Absatz 2 nicht für gerechtfertigt, so hat die Marktüberwachungsbehörde die erforderlichen Maßnahmen zu treffen und über die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin die Europäische Kommission über die getroffenen Maßnahmen zu unterrichten.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 2.12.2025 I Nr. 302 +++)
-
 # § 7 – Unterrichtung bei Risiken trotz Konformität einer Maschine, eines dazugehörigen Produktes oder einer unvollständigen Maschine
 
 Die Unterrichtung bei Risiken trotz Konformität nach Artikel 45 Absatz 3 der Verordnung (EU) 2023/1230 hinsichtlich einer Maschine, eines dazugehörigen Produktes oder einer unvollständigen Maschine hat die Marktüberwachungsbehörde unverzüglich über die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin vorzunehmen.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 2.12.2025 I Nr. 302 +++)
 
 # § 8 – Notfallverfahren
 
@@ -82,8 +71,7 @@ Die Unterrichtung bei Risiken trotz Konformität nach Artikel 45 Absatz 3 der Ve
 
 (4) Die Marktüberwachungsbehörde hat die Europäische Kommission und die übrigen Mitgliedstaaten der Europäischen Union unverzüglich über die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin über alle ergriffenen Abhilfemaßnahmen und beschränkenden Maßnahmen in Bezug auf solche Maschinen und dazugehörigen Produkte zu unterrichten, für die eine Genehmigung nach Artikel 25c Absatz 1, 2 und 4 der Verordnung (EU) 2023/1230 gültig ist.
 
-(+++ § 8: Zur Anwendung vgl. § 12 +++)  
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 2.12.2025 I Nr. 302 +++)
+(+++ § 8: Zur Anwendung vgl. § 12 +++)
 
 # § 9 – Bußgeldvorschriften
 
@@ -143,8 +131,7 @@ Die Unterrichtung bei Risiken trotz Konformität nach Artikel 45 Absatz 3 der Ve
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 7, 16 und 17 mit einer Geldbuße bis zu hunderttausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
-(+++ § 9: Zur Anwendung vgl. § 12 +++)  
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 2.12.2025 I Nr. 302 +++)
+(+++ § 9: Zur Anwendung vgl. § 12 +++)
 
 # § 10 – Strafvorschriften
 

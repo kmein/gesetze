@@ -227,9 +227,6 @@ Als interoperable Formate nach § 5 Absatz 1 gelten Festlegungen für die seman
 
 (8) Im Rahmen der Studien sind durch den Hersteller begleitende Erhebungen zur Dauer und Häufigkeit der Nutzung entsprechend den Regelungen nach § 23c Absatz 1 durchzuführen.
 
-(+++ § 10 Abs. 3 bis 7: Zur Geltung vgl. § 11 Abs. 2  
-§ 10 Abs. 3 bis 7: Zur Geltung vgl. § 12 Abs. 2 +++)
-
 # § 11 – Studien zum Nachweis positiver Versorgungseffekte in besonderen Fällen
 
 (1) Abweichend von § 10 Absatz 1 legt der Hersteller zum Nachweis der nach § 9 Absatz 1 angegebenen positiven Versorgungseffekte eine prospektive Vergleichsstudie vor, wenn keine geeigneten Daten vorliegen, die einen aussagekräftigen retrospektiven Vergleich ermöglichen und insbesondere keine ausreichende Vergleichbarkeit der Populationen erreicht werden kann.
@@ -701,8 +698,6 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 (Fundstelle: BGBl. I 2020, 779 - 792)
 
 Im nachfolgend aufgeführten Fragenbogen ist durch den Hersteller die Erfüllung der Anforderungen nach § 4 zu erklären. Der Hersteller bestätigt die Erfüllung der Anforderungen durch Kennzeichnung in der Spalte „zutreffend“. Die Vorschriften des Datenschutzes und die Anforderungen an die Datensicherheit – Basisanforderungen sind von allen digitalen Gesundheitsanwendungen zu erfüllen. Die Anforderungen Datensicherheit – Zusatzanforderungen bei digitalen Gesundheitsanwendungen mit sehr hohem Schutzbedarf sind von digitalen Gesundheitsanwendungen zu erfüllen, für die im Rahmen der geforderten Schutzbedarfsanalyse ein sehr hoher Schutzbedarf festgestellt wurde.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 2.12.2025 I Nr. 301 +++)
 
 # Anlage 2 – Fragebogen gemäß den §§ 5 und 6
 

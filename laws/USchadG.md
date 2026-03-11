@@ -153,7 +153,8 @@ Für Verbringungen von Abfällen, die Artikel 62 Absatz 1 der Verordnung (EG) Nr
 
 # Anlage 1 – (zu § 3 Absatz 1)Berufliche Tätigkeiten
 
-(Fundstelle: BGBl. I 2021, 350)
+(Fundstelle: BGBl. I 2021, 350;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1. Betrieb von Anlagen, für den eine Genehmigung gemäß der Richtlinie 2010/75/EU des Europäischen Parlaments und des Rates vom 24. November 2010 über Industrieemissionen (integrierte Vermeidung und Verminderung der Umweltverschmutzung) (Neufassung) (ABl. L 334 vom 17.12.2010, S. 17) erforderlich ist. Dies umfasst alle in Anhang I der Richtlinie 2010/75/EU aufgeführten Tätigkeiten, mit Ausnahme von Anlagen oder Anlagenteilen, die für Zwecke der Forschung, Entwicklung und Prüfung neuer Erzeugnisse und Verfahren genutzt werden.
 

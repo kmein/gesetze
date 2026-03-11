@@ -779,8 +779,6 @@ Der Ablehnung einer Leistung nach § 7 Absatz 1 im Sinne des § 25 Absatz 4 Satz
 
 (2) Das Wohngeld ist monatlich im Voraus auf ein Konto eines Haushaltsmitgliedes bei einem Geldinstitut, für das die Verordnung (EU) Nr. 260/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 zur Festlegung der technischen Vorschriften und der Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22), die zuletzt durch die Verordnung (EU) 2024/886 (ABl. L, 2024/886, 19.3.2024) geändert worden ist, gilt (Geldinstitut), zu zahlen. Ist ein solches Konto nicht vorhanden, kann das Wohngeld an den Wohnsitz der wohngeldberechtigten Person übermittelt werden; die dadurch veranlassten Kosten sollen vom Wohngeld abgezogen werden.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 4.2.2026 I Nr. 33 +++)
-
 # § 26a – Vorläufige Zahlung des Wohngeldes
 
 (1) Eine vorläufige Zahlung des Wohngeldes kann erfolgen, wenn zur Feststellung des Wohngeldanspruchs voraussichtlich längere Zeit erforderlich ist und mit hinreichender Wahrscheinlichkeit ein Anspruch auf Wohngeld besteht. Grundlage der vorläufigen Zahlung sind ausschließlich die für das Wohngeld maßgeblichen Berechnungsgrößen nach § 4.

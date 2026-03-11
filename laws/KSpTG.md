@@ -143,7 +143,7 @@ eine Veränderung von Kohlendioxidspeichern oder eine Veränderung des Betriebs 
 
 7. § 43i des Energiewirtschaftsgesetzes über die Überwachung eines Vorhabens,
 
-8. 43j des Energiewirtschaftsgesetzes über die Verlegung von Leerrohren,
+8. § 43j des Energiewirtschaftsgesetzes über die Verlegung von Leerrohren,
 
 9. § 43k des Energiewirtschaftsgesetzes über die Zurverfügungstellung von Geodaten,
 
@@ -156,6 +156,8 @@ eine Veränderung von Kohlendioxidspeichern oder eine Veränderung des Betriebs 
 (4) Der Planfeststellungsbeschluss und die Plangenehmigung können mit Auflagen verbunden werden, soweit dies erforderlich ist, um das Wohl der Allgemeinheit zu wahren oder öffentlich-rechtliche Vorschriften zu erfüllen. Auflagen über Anforderungen an das Vorhaben können auch nach der Planfeststellung oder Plangenehmigung aufgenommen, geändert oder ergänzt werden.
 
 (5) Für Vorhaben der Errichtung, des Betriebs sowie der Änderung von Kohlendioxidleitungen sollen die beteiligten Behörden den Planfeststellungsverfahren und Plangenehmigungsverfahren Vorrang bei der Bearbeitung einräumen. Dabei ist das Beschleunigungsinteresse anderer Vorhaben, die im überragenden öffentlichen Interesse liegen, zu beachten.
+
+§ 4a Abs. 1 Satz 2 Nr. 8 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde "43j des Energiewirtschaftsgesetzes" durch "§ 43j des Energiewirtschaftsgesetzes" ersetzt
 
 # § 4b – Enteignung
 
@@ -1041,7 +1043,8 @@ Soweit in § 4 Absatz 2 Satz 3 und § 11 Absatz 1a Satz 3 nichts anderes bestimm
 
 # Anlage 1 – (zu § 5 Absatz 3 Satz 2, § 7 Absatz 1 Satz 2 Nummer 2, Absatz 3 Satz 1, § 22 Absatz 2 Nummer 1)Kriterien für die Charakterisierung und Bewertung der potenziellen Kohlendioxidspeicher und der potenziellen Speicherkomplexe sowie ihrer Umgebung
 
-(Fundstelle: BGBl. I 2012, 1746 - 1748)
+(Fundstelle: BGBl. I 2012, 1746 - 1748;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Die Charakterisierung und Bewertung von potenziellen Kohlendioxidspeichern und potenziellen Speicherkomplexen wird in drei Stufen nach zum Zeitpunkt der Bewertung bewährten Verfahren und nach den folgenden Kriterien vorgenommen. Abweichungen von einem oder mehreren dieser Kriterien können von der zuständigen Behörde genehmigt werden, sofern der Betreiber nachgewiesen hat, dass dadurch die Aussagekraft der Charakterisierung und Bewertung in Bezug auf die Auswahlentscheidungen nach § 7 Absatz 3 nicht beeinträchtigt wird.
 

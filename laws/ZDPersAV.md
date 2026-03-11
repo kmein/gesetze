@@ -1,4 +1,4 @@
-% Verordnung über die Führung der Personalakten durch das Bundesamt für den Zivildienst  (Zivildienst-Personalaktenverordnung - ZDPersAV)
+% Verordnung über die Führung der Personalakten durch das Bundesamt für Familie und zivilgesellschaftliche Aufgaben  (Zivildienst-Personalaktenverordnung - ZDPersAV)
 % Ausfertigungsdatum: 10.10.2002
  
 # Eingangsformel

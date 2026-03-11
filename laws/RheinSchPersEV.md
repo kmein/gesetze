@@ -25,9 +25,11 @@
 
 Soweit die Rheinschiffspersonalverordnung und die Dienstanweisungen zur Rheinschiffspersonalverordnung sowie diese Verordnung keine eigenen Regeln enthalten, gelten die Vorschriften der Binnenschiffspersonalverordnung vom 26. November 2021 (BGBl. I S. 4982, 5204), die zuletzt durch Artikel 3 der Verordnung vom 5. April 2023 (BGBl. 2023 II Nr. 105) geändert worden ist, und der aufgrund der genannten Verordnung ergangenen Rechtsverordnungen entsprechend.
 
-# § 3 – Ausnahmen von der Patentpflicht
+# § 3 – Ausnahmen von der Patentpflicht; Befreiungen
 
-Zur Führung von Fahrzeugen im Sinne des § 11.01 Nummer 4 der Rheinschiffspersonalverordnung ist ein Befähigungszeugnis für Schiffsführer nach der Rheinschiffspersonalverordnung nicht erforderlich. Das erforderliche Befähigungszeugnis bestimmt sich nach der Binnenschiffspersonalverordnung oder der Sportbootführerscheinverordnung vom 3. Mai 2017 (BGBl. I S. 1016, 4043), die zuletzt durch Artikel 7 der Verordnung vom 5. April 2023 (BGBl. 2023 II Nr. 105) geändert worden ist.
+(1) Zur Führung von Fahrzeugen im Sinne des § 11.01 Nummer 4 der Rheinschiffspersonalverordnung ist ein Befähigungszeugnis für Schiffsführer nach der Rheinschiffspersonalverordnung nicht erforderlich. Das erforderliche Befähigungszeugnis bestimmt sich nach der Binnenschiffspersonalverordnung oder der Sportbootführerscheinverordnung vom 3. Mai 2017 (BGBl. I S. 1016, 4043), die zuletzt durch Artikel 7 der Verordnung vom 5. April 2023 (BGBl. 2023 II Nr. 105) geändert worden ist.
+
+(2) Von der Pflicht aus § 18.01 Nummer 3 Satz 1 Buchstabe a der Rheinschiffspersonalverordnung befreit sind Fahrzeuge der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, der Wasserschutzpolizei, der Bereitschaftspolizei, der Bundespolizei, des Bundeskriminalamtes, der Streitkräfte, der Zollverwaltung, der Feuerwehr, des Zivil- und Katastrophenschutzes, der Wasserwirtschaftsverwaltungen und der Fischereiaufsicht der Länder, soweit dies zur Erfüllung hoheitlicher Aufgaben unter Berücksichtigung der öffentlichen Sicherheit und Ordnung erforderlich ist.
 
 # § 4 – Zuständige Behörden
 

@@ -363,7 +363,7 @@ Satz 1 gilt für Soldatinnen auf Zeit und Soldaten auf Zeit mit einer Gesamtdien
 
 2. ohne den Widerruf die Erfüllung der dienstlichen Aufgaben erheblich gefährdet wäre.
 
-(+++ § 16: Zur Weiteranwendung in der bis zum 27.8.2015 geltenden Fassung vgl. § 38 F. 4.8.2019 +++)
+(+++ § 16: Zur Weiteranwendung in der bis zum 27.8.2015 geltenden Fassung vgl. § 38 F. 20.8.2021 +++)
 
 # § 17 – Antragstellung
 
@@ -498,7 +498,7 @@ Der Höchstbetrag erhöht sich bei einer Gesamtdienstzeit von mindestens 15 Jahr
 
 (4) Nach § 5 Absatz 2 gewährte Leistungen werden auf Leistungen nach § 7 Absatz 2 in Verbindung mit Absatz 1 Satz 1 des Soldatenversorgungsgesetzes nicht angerechnet.
 
-(+++ § 19 Abs. 2: Zur Weiteranwendung in der bis zum 27.8.2015 geltenden Fassung vgl. § 38 F. 4.8.2019 +++)
+(+++ § 19 Abs. 2: Zur Weiteranwendung in der bis zum 27.8.2015 geltenden Fassung vgl. § 38 F. 20.8.2021 +++)
 
 # § 20 – Lehrgangs- und Studiengebühren
 
@@ -764,7 +764,7 @@ Ein Lohnkostenzuschuss wird nicht neben einem Einarbeitungszuschuss gewährt.
 
 (3) § 4 Abs. 3 und § 15 Abs. 1 Satz 3 gelten entsprechend.
 
-(+++ § 34 Abs. 1 u. 2: Zur Weiteranwendung in der bis zum 27.8.2015 geltenden Fassung vgl. § 38 F. 4.8.2019 +++)
+(+++ § 34 Abs. 1 u. 2: Zur Weiteranwendung in der bis zum 27.8.2015 geltenden Fassung vgl. § 38 F. 20.8.2021 +++)
 
 # § 35 – Berufsorientierungspraktikum nach § 9 Absatz 3 des Soldatenversorgungsgesetzes
 
@@ -776,7 +776,7 @@ Ein Lohnkostenzuschuss wird nicht neben einem Einarbeitungszuschuss gewährt.
 
 (4) § 4 Abs. 3 und § 15 Abs. 1 Satz 3 gelten entsprechend.
 
-(+++ § 35 Abs. 1: Zur Weiteranwendung in der bis zum 27.8.2015 geltenden Fassung vgl. § 38 F. 4.8.2019 +++)
+(+++ § 35 Abs. 1: Zur Weiteranwendung in der bis zum 27.8.2015 geltenden Fassung vgl. § 38 F. 20.8.2021 +++)
 
 # § 36 – Erstattung von Kosten für fachberufliche Prüfungen und für Umschreibungen militärischer Erlaubnisse und Berechtigungen
 

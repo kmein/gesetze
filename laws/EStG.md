@@ -819,8 +819,6 @@ c) der Betrieb zu einem Konzern gehört und seine Eigenkapitalquote am Schluss d
 
 # § 4j – (weggefallen)
 
-(+++ § 4j: Zur Anwendung vgl. §§ 9, 52 +++)
-
 # § 4k – Betriebsausgabenabzug bei Besteuerungsinkongruenzen
 
 (1) ¹Aufwendungen für die Nutzung oder im Zusammenhang mit der Übertragung von Kapitalvermögen sind insoweit nicht als Betriebsausgaben abziehbar, als die den Aufwendungen entsprechenden Erträge auf Grund einer vom deutschen Recht abweichenden steuerlichen Qualifikation oder Zurechnung des Kapitalvermögens nicht oder niedriger als bei dem deutschen Recht entsprechender Qualifikation oder Zurechnung besteuert werden. ²Satz 1 gilt nicht, soweit die Besteuerungsinkongruenz voraussichtlich in einem künftigen Besteuerungszeitraum beseitigt wird und die Zahlungsbedingungen einem Fremdvergleich standhalten.

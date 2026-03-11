@@ -399,8 +399,6 @@ c) die nach den in Buchstabe a genannten Vorschriften zulässigen Klassen und Le
 
 (5) Das Bundesministerium für Wirtschaft und Klimaschutz und das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen werden dem Deutschen Bundestag bis zum 31. Dezember 2022 gemeinsam einen Bericht über die Ergebnisse von Forschungsprojekten zu Methodiken zur ökobilanziellen Bewertung von Wohn- und Nichtwohngebäuden vorlegen.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 9.1.2026 I Nr. 4 +++)
-
 # § 8 – Verantwortliche
 
 (1) Für die Einhaltung der Vorschriften dieses Gesetzes ist der Bauherr oder Eigentümer verantwortlich, soweit in diesem Gesetz nicht ausdrücklich ein anderer Verantwortlicher bezeichnet ist.

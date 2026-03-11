@@ -13,8 +13,6 @@ Diese Verordnung ist anzuwenden auf:
 
 2. die Art und Weise der Übermittlung nach Artikel 3 Absatz 1 Unterabsatz 3 der Durchführungsverordnung (EU) 2024/2861 sowie den Mindestinhalt der Information über den Aufschub der Offenlegung von Insiderinformationen (Aufschubmitteilung) nach Artikel 88 Absatz 3 der Verordnung (EU) 2023/1114.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 25.8.2025 I Nr. 197 +++)
-
 # § 2 – Inhalt der Mitteilung nach § 36 Absatz 1 des Kryptomärkteaufsichtsgesetzes
 
 In der Mitteilung nach § 36 Absatz 1 des Kryptomärkteaufsichtsgesetzes sind anzugeben:
@@ -22,8 +20,6 @@ In der Mitteilung nach § 36 Absatz 1 des Kryptomärkteaufsichtsgesetzes sind an
 1. der Wortlaut, der Zeitpunkt und die konkreten Medienkanäle der Veröffentlichung nach Artikel 88 Absatz 1 der Verordnung (EU) 2023/1114 sowie
 
 2. ein Ansprechpartner beim Emittenten, Anbieter oder bei der Person, die die Zulassung zum Handel beantragt, mit Telefonnummer und E-Mail-Adresse.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 25.8.2025 I Nr. 197 +++)
 
 # § 3 – Art und Weise der Übermittlung nach § 36 Absatz 1 des Kryptomärkteaufsichtsgesetzes
 
@@ -40,8 +36,6 @@ Die Mitteilungen nach § 2 sind der Bundesanstalt für Finanzdienstleistungsauf
 3. die Geschäftsanschriften und geschäftlichen Telefonnummern und E-Mail-Adressen aller Personen, die an der Entscheidung über den Aufschub beteiligt waren.
 
 (2) § 3 gilt für die Art und Weise der Übermittlung von Aufschubmitteilungen nach Absatz 1 an die Bundesanstalt entsprechend.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 25.8.2025 I Nr. 197 +++)
 
 # § 5 – Inkrafttreten
 

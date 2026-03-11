@@ -1869,11 +1869,15 @@ Absatz 1 Satz 3 gilt entsprechend.
 
 (4) Enthält ein Mindeststeuer-Bericht Angaben im Sinne des § 76 für ein anderes Steuerhoheitsgebiet, übermittelt das Bundeszentralamt für Steuern der zuständigen Behörde dieses Steuerhoheitsgebiets Angaben nach dem in einer Rechtsverordnung nach § 99 Absatz 3 festgelegten Verteilungsansatz, wenn die Bundesrepublik Deutschland und dieses Steuerhoheitsgebiet aufgrund von Artikel 8ae Absatz 2 der Richtlinie 2011/16/EU oder einer innerstaatlich anwendbaren völkerrechtlichen Vereinbarung zum gegenseitigen automatischen Austausch von Informationen zu Mindeststeuer-Berichten zwischen ihren zuständigen Behörden verpflichtet sind. Die Übermittlung nach Satz 1 erfolgt spätestens mit Ablauf des dritten Monats nach Ablauf der Frist nach Absatz 3 Satz 1 oder 2. Für nach Ablauf der Frist nach Absatz 3 Satz 1 oder Satz 2 erhaltene Mindeststeuer-Berichte erfolgt die Übermittlung spätestens drei Monate nach deren Erhalt. Abweichend von den Sätzen 2 und 3 hat die Übermittlung nach Satz 1 für das Geschäftsjahr, für das erstmals für die Unternehmensgruppe ein Mindeststeuer-Bericht zu erstellen ist, spätestens sechs Monate nach Ablauf der Frist nach Absatz 3 Satz 2 zu erfolgen, frühestens jedoch am 1. Dezember 2026. Die Übermittlung nach Satz 1 erfolgt unter Verwendung des in Artikel 20 Absatz 4 der Richtlinie 2011/16/EU genannten elektronischen Standardformats. Das Bundeszentralamt für Steuern nimmt die Mindeststeuer-Berichte entgegen, die ihm von der zuständigen Behörde eines anderen Steuerhoheitsgebiets übermittelt worden sind. Das Bundeszentralamt für Steuern übermittelt die Mindeststeuer-Berichte zur Durchführung des Besteuerungsverfahrens an die zuständige Landesfinanzbehörde. Das Bundeszentralamt für Steuern kann die Mindeststeuer-Berichte im Rahmen der ihm gesetzlich übertragenen Aufgaben auswerten. Das Bundeszentralamt für Steuern speichert die Mindeststeuer-Berichte und löscht sie mit Ablauf des 15. Jahres, das dem Jahr der Übermittlung folgt. § 88a der Abgabenordnung ist zu beachten.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 353 +++)
+
 # § 75a – Berichtigung des Mindeststeuer-Berichts
 
 (1) Hat das Bundeszentralamt für Steuern Grund zu der Annahme, dass ein von einer obersten Muttergesellschaft oder einer als berichtspflichtig benannten Geschäftseinheit, die im Steuerhoheitsgebiet eines anderen Mitgliedstaats der Europäischen Union oder eines Drittstaats belegen ist, nach Artikel 8ae der Richtlinie 2011/16/EU oder nach einer wirksamen völkerrechtlichen Vereinbarung übermittelter Mindeststeuer-Bericht offensichtlich fehlerhafte Informationen enthält, die berichtigt werden müssen, so unterrichtet es unverzüglich die zuständige Behörde des anderen Mitgliedstaats oder des Drittstaats. Wenn das Bundeszentralamt für Steuern nach einer Berichtigungsunterrichtung aus einem anderen Steuerhoheitsgebiet den dort genannten Mindeststeuer-Bericht für fehlerhaft hält, fordert es die betreffende oberste Muttergesellschaft oder die berichtspflichtige Geschäftseinheit unverzüglich auf, einen berichtigten Mindeststeuer-Bericht einzureichen. Das Bundeszentralamt für Steuern übermittelt den berichtigten Mindeststeuer-Bericht unverzüglich allen zuständigen Behörden, mit denen solche Informationen gemäß der Richtlinie 2011/16/EU oder einer innerstaatlich anwendbaren völkerrechtlichen Vereinbarung zum gegenseitigen automatischen Austausch von Informationen zu Mindeststeuer-Berichten zwischen ihren zuständigen Behörden auszutauschen sind.
 
 (2) Wurde das Bundeszentralamt für Steuern von einer Geschäftseinheit oder mehreren Geschäftseinheiten darüber unterrichtet, dass der Mindeststeuer-Bericht für diese Geschäftseinheiten von der obersten Muttergesellschaft oder der berichtspflichtigen Geschäftseinheit, die in einem anderen Steuerhoheitsgebiet belegen ist, einzureichen war, und wurden die im Mindeststeuer-Bericht enthaltenen Deutschland betreffenden Informationen nicht innerhalb der in § 75 Absatz 3 genannten Fristen übermittelt, so unterrichtet es die zuständige Behörde des anderen Steuerhoheitsgebiets unverzüglich darüber, dass die Informationen nicht bei ihr eingegangen sind. Wird das Bundeszentralamt für Steuern von einer Behörde in einem anderen Steuerhoheitsgebiet darüber unterrichtet, dass Informationen nicht bei ihr eingegangen sind, ermittelt es unverzüglich den Grund für die ausgebliebene Übermittlung des betreffenden Mindeststeuer-Berichts und teilt der zuständigen Behörde des anderen Steuerhoheitsgebiets diesen innerhalb eines Monats nach Eingang der Mitteilung mit, sofern möglich mit Angabe eines voraussichtlichen Datums für die Übermittlung des Mindeststeuer-Berichts. Dieses Datum soll höchstens drei Monate nach Eingang der Mitteilung über den ausgebliebenen Austausch liegen.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 353 +++)
 
 # § 76 – Inhalt des Mindeststeuer-Berichts
 
@@ -2065,6 +2069,8 @@ sind abweichend von Absatz 1 innerhalb der Schonfrist nach Absatz 4 insgesamt bi
 
 Übergangsjahr ist, bezogen auf ein Steuerhoheitsgebiet, das erste Geschäftsjahr, in dem die Unternehmensgruppe in diesem Steuerhoheitsgebiet einer Besteuerung nach dem zweiten Teil dieses Gesetzes oder einer damit ähnlichen ausländischen Vorschrift unterliegt, die den Vorschriften der Richtlinie (EU) 2022/2523 entspricht. Sofern die Voraussetzungen des § 83 oder der §§ 84 bis 87 erfüllt sind und die Unternehmensgruppe einen Antrag nach § 84 Absatz 1 stellt, verschiebt sich das Übergangsjahr entsprechend.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 353 +++)
+
 # § 83 – Übergangsregelung bei untergeordneter internationaler Tätigkeit
 
 (1) Unternehmensgruppen werden in den ersten fünf Jahren bei untergeordneter internationaler Tätigkeit von der Mindeststeuer (§ 2) befreit. Satz 1 gilt nicht für einen Primärergänzungssteuerbetrag, soweit dieser auf einem von einer ausländischen niedrig besteuerten Geschäftseinheit zuzurechnenden Steuererhöhungsbetrag beruht.
@@ -2198,6 +2204,8 @@ Aufwendungen oder Verluste im Jahresabschluss einer steuertransparenten Einheit 
 
 (5) Die vorstehenden Absätze gelten für Vereinbarungen, die nach dem 15. Dezember 2022 abgeschlossen, geändert oder übertragen wurden oder werden. Dies gilt auch, wenn sich nach dem 15. Dezember 2022 die Erfüllung der sich aus einer Vereinbarung ergebenden Rechte oder Pflichten einschließlich der Zahlungsmodalitäten oder die bilanzielle Behandlung in Bezug auf die Vereinbarung wesentlich geändert hat oder ändert. Geschäftseinheiten im Sinne der vorstehenden Absätze sind sowohl inländische als auch ausländische Geschäftseinheiten, Betriebsstätten, Joint Ventures und Joint-Venture-Tochtergesellschaften.
 
+(+++ § 87b: Zur Anwendung vgl. § 101 Abs. 4 +++)
+
 # § 88 – Übergangsregelungen bei gemischter Hinzurechnungsbesteuerung
 
 (1) Für Geschäftsjahre, die am oder vor dem 31. Dezember 2025 beginnen, nicht mehr aber für Geschäftsjahre, die nach dem 30. Juni 2027 enden, ist die Zurechnung des im Jahresabschluss eines gruppenzugehörigen Gesellschafters berücksichtigten Betrags an erfassten Steuern zu den jeweiligen Geschäftseinheiten, deren Einkommen beim gruppenzugehörigen Gesellschafter einer gemischten Hinzurechnungsbesteuerung unterliegt, abweichend von § 49 Absatz 1 Nummer 3 und Absatz 2 nach folgender Formel vorzunehmen:  
@@ -2257,6 +2265,8 @@ Für Zwecke der nationalen Ergänzungssteuerregelung sind staatenlose Geschäfts
 # § 93a – Neubestimmung des Übergangsjahrs
 
 Abweichend von § 82c ist für Zwecke der nationalen Ergänzungssteuer das Übergangsjahr das Geschäftsjahr, in dem eine Unternehmensgruppe in einem Steuerhoheitsgebiet erstmals einer Besteuerung nach dem zweiten Teil dieses Gesetz oder einer ähnlichen ausländischen Vorschrift unterliegt, die der Richtlinie (EU) 2022/2523 entspricht, wenn sie bereits der nationalen Ergänzungssteuerpflicht unterlag.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 353 +++)
 
 # § 94 – Entstehung der Mindeststeuer und Besteuerungszeitraum
 

@@ -792,8 +792,6 @@ Soweit die besonderen Teile dieses Gesetzbuchs keine Regelung enthalten, werden 
 
 (2) Bei Zahlungen außerhalb des Geltungsbereiches der in Absatz 1 genannten Verordnung trägt der Leistungsträger die Kosten bis zu dem von ihm mit der Zahlung beauftragten Geldinstitut.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 4.2.2026 I Nr. 33 +++)
-
 # § 48 – Auszahlung bei Verletzung der Unterhaltspflicht
 
 (1) Laufende Geldleistungen, die der Sicherung des Lebensunterhalts zu dienen bestimmt sind, können in angemessener Höhe an den Ehegatten, den Lebenspartner oder die Kinder des Leistungsberechtigten ausgezahlt werden, wenn er ihnen gegenüber seiner gesetzlichen Unterhaltspflicht nicht nachkommt. Kindergeld, Kinderzuschläge und vergleichbare Rentenbestandteile (Geldleistungen für Kinder) können an Kinder, die bei der Festsetzung der Geldleistungen berücksichtigt werden, bis zur Höhe des Betrages, der sich bei entsprechender Anwendung des § 54 Abs. 5 Satz 2 ergibt, ausgezahlt werden. Für das Kindergeld gilt dies auch dann, wenn der Kindergeldberechtigte mangels Leistungsfähigkeit nicht unterhaltspflichtig ist oder nur Unterhalt in Höhe eines Betrages zu leisten braucht, der geringer ist als das für die Auszahlung in Betracht kommende Kindergeld. Die Auszahlung kann auch an die Person oder Stelle erfolgen, die dem Ehegatten, dem Lebenspartner oder den Kindern Unterhalt gewährt.

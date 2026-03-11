@@ -109,7 +109,9 @@ Für den Zeitaufwand von Verwaltungsbeschäftigten in der Bundesverwaltung gelte
 
 # § 4 – Übergangsvorschrift
 
-Für die Erhebung von Gebühren für eine gebührenpflichtige Leistung, die vor dem 1. Oktober 2021 beantragt oder begonnen, aber noch nicht vollständig erbracht worden ist, ist das bis einschließlich 30. September 2021 geltende Recht weiter anzuwenden.
+(1) Für die Erhebung von Gebühren für eine gebührenpflichtige Leistung, die vor dem 1. Oktober 2021 beantragt oder begonnen, aber noch nicht vollständig erbracht worden ist, ist das bis einschließlich 30. September 2021 geltende Recht weiter anzuwenden.
+
+(2) Für die Erhebung von Gebühren für eine gebührenpflichtige Leistung nach den Nummern 3.1, 3.3 oder Nummer 3.4 der Anlage (zu § 2 Absatz 1) Gebührenverzeichnis, die vor dem 5. März 2026 erbracht worden ist, ist das bis einschließlich 4. März 2026 geltende Recht weiter anzuwenden.
 
 # § 5 – Inkrafttreten
 
@@ -276,20 +278,15 @@ Eintragung in das Register Unabhängiger Honorar-Anlageberater<br />
 <dl>
 <dt>–</dt>
 <dd>
-eines Prospekts oder eines Basisprospekts, der als einziges Dokument im Sinne des Artikels 6 Absatz 3 Unterabsatz 1 erste Alternative oder des Artikels 8 Absatz 6 Unterabsatz 1 erste Alternative der Verordnung (EU) 2017/1129 erstellt worden ist oder
+eines Prospekts oder eines Basisprospekts, der als einziges Dokument im Sinne des Artikels 6 Absatz 3 Unterabsatz 1 erste Alternative oder des Artikels 8 Absatz 6 Unterabsatz 1 erste Alternative der Verordnung (EU) 2017/1129 erstellt worden ist, oder
 </dd>
 <dt>–</dt>
 <dd>
-eines vereinfachten Prospekts oder eines Basisprospekts, der als einziges Dokument im Sinne des Artikels 14 Absatz 1 und des Artikels 6 Absatz 3 Unterabsatz 1 erste Alternative oder des Artikels 8 Absatz 6 Unterabsatz 1 erste Alternative der Verordnung (EU) 2017/1129 erstellt worden ist oder
+eines EU-Folgeprospekts oder eines Basisprospekts, der als einziges Dokument im Sinne der Artikel 14a und 6 Absatz 3 Unterabsatz 1 erste Alternative oder des Artikels 8 Absatz 6 Unterabsatz 1 erste Alternative der Verordnung (EU) 2017/1129 erstellt worden ist, oder
 </dd>
 <dt>–</dt>
 <dd>
-eines EU-Wiederaufbauprospekts im Sinne des Artikels 14a Absatz 1 der Verordnung (EU) 2017/1129
-</dd>
-<dt>–</dt>
-<dd>
-eines EU-Wachstumsprospekts oder eines Basisprospekts, der als einziges Dokument im Sinne des Artikels 15 Absatz 1 und des Artikels 6 Absatz 3 Unterabsatz 1 erste Alternative oder des Artikels 8 Absatz 6 Unterabsatz 1 erste Alternative der Verordnung (EU) 2017/1129 erstellt worden ist<br />
-(Artikel 20 Absatz 1 der Verordnung (EU) 2017/1129)
+eines EU-Wachstumsemissionsprospekts oder eines Basisprospekts, der als einziges Dokument im Sinne der Artikel 15a und 6 Absatz 3 Unterabsatz 1 erste Alternative oder des Artikels 8 Absatz 6 Unterabsatz 1 erste Alternative der Verordnung (EU) 2017/1129 erstellt worden ist
 </dd>
 </dl></td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">16 915</td>
@@ -314,17 +311,7 @@ eines einheitlichen Registrierungsformulars im Sinne des Artikels 9 Absatz 1 der
 </dd>
 <dt>–</dt>
 <dd>
-eines speziellen Registrierungsformulars
-<dl>
-<dt>–</dt>
-<dd>
-für einen vereinfachten Prospekt auf der Grundlage der vereinfachten Offenlegungsregelung für Sekundäremissionen im Sinne des Artikels 6 Absatz 3 Unterabsatz 2 Satz 1 und 2 und des Artikels 14 Absatz 1 Unterabsatz 2 der Verordnung (EU) 2017/1129 oder
-</dd>
-<dt>–</dt>
-<dd>
-für einen EU-Wachstumsprospekt im Sinne des Artikels 6 Absatz 3 Unterabsatz 2 Satz 1 und 2 und des Artikels 15 Absatz 1 Unterabsatz 2 der Verordnung (EU) 2017/1129
-</dd>
-</dl>
+eines Registrierungsformulars für einen EU-Folgeprospekt im Sinne des Artikels 6 Absatz 3 Unterabsatz 2 Satz 1 und 2 und des Artikels 14a der Verordnung (EU) 2017/1129
 </dd>
 </dl></td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">5 577</td>
@@ -339,12 +326,7 @@ einer Wertpapierbeschreibung und Zusammenfassung im Sinne des Artikels 6 Absatz 
 </dd>
 <dt>–</dt>
 <dd>
-einer Wertpapierbeschreibung und Zusammenfassung für einen vereinfachten Prospekt auf der Grundlage der vereinfachten Offenlegungsregelung für Sekundäremissionen im Sinne des Artikels 14 Absatz 1 und des Artikels 6 Absatz 3 Unterabsatz 2 Satz 1 und 3 der Verordnung (EU) 2017/1129 oder
-</dd>
-<dt>–</dt>
-<dd>
-einer speziellen Wertpapierbeschreibung und speziellen Zusammenfassung im Sinne des Artikels 15 Absatz 1 Unterabsatz 2 und des Artikels 6 Absatz 3 Unterabsatz 2 Satz 1 und 3 der Verordnung (EU) 2017/1129<br />
-(Artikel 20 Absatz 1 der Verordnung (EU) 2017/1129)
+einer Wertpapierbeschreibung und Zusammenfassung im Sinne des Artikels 7 Absatz 12a der Verordnung (EU) 2017/1129 für einen EU-Folgeprospekt im Sinne der Artikel 14a und 6 Absatz 3 Unterabsatz 2 Satz 1 und 3 der Verordnung (EU) 2017/1129
 </dd>
 </dl></td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">5 851</td>

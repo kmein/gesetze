@@ -733,16 +733,6 @@ Der Entscheidung kann eine prognostizierte Bewerberlage zugrunde gelegt werden.
 
 4. fünfzehn Jahren und länger 13 000 Euro.
 
-(5) (weggefallen)
-
-(6) (weggefallen)
-
-(7) (weggefallen)
-
-(8) (weggefallen)
-
-(9) (weggefallen)
-
 # § 44 – Verpflichtungsprämie für Soldaten auf Zeit
 
 (1) Einem Soldaten auf Zeit kann zur Sicherstellung der personellen Einsatzbereitschaft der Bundeswehr, unter Berücksichtigung militärischer Personalplanung oder militärfachlicher Erfordernisse, eine Verpflichtungsprämie gewährt werden

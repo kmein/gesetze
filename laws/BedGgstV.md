@@ -87,6 +87,7 @@ c) bei denen mindestens 50 Prozent der Partikel bezogen auf die Anzahlgrößenve
 
 Zubereitungen zum Einfärben von Lebensmittelbedarfsgegenständen sowie Dekorfarben für Lebensmittelbedarfsgegenstände aus Keramik oder Glas, die in einem Brennverfahren aufgebracht werden, sind keine Druckfarben im Sinne des Satzes 1 Nummer 7. Als Nanomaterialien im Sinne des Satzes 1 Nummer 9 gelten auch Fullerene, Graphenflocken und einwandige Kohlenstoff-Nanoröhren mit einem oder mehreren Außenmaßen kleiner als ein Nanometer.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 19.12.2025 I Nr. 379 +++)  
 (+++ § 2 Satzt 1 Nr. 7 bis 13, Satz 2 u. 3: Zur Anwendung vgl. § 16 Abs. 16 +++)
 
 # § 2a – Anzeige
@@ -104,6 +105,8 @@ Zubereitungen zum Einfärben von Lebensmittelbedarfsgegenständen sowie Dekorfar
 4. die Gruppe der Materialien und Gegenstände nach Anhang I der Verordnung (EG) Nr. 1935/2004 in der Fassung vom 20. Juni 2019, die den Hauptbestandteil der hergestellten, behandelten oder in den Verkehr gebrachten Lebensmittelbedarfsgegenstände darstellt.
 
 (3) Der Unternehmer hat Änderungen der Angaben nach Absatz 2 der zuständigen Behörde spätestens sechs Monate nach Eintritt der Änderung mitzuteilen, wenn die Änderung zu diesem Zeitpunkt noch besteht.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 19.12.2025 I Nr. 379 +++)
 
 # § 3 – Verbotene Stoffe
 
@@ -165,6 +168,7 @@ Absatz 5 Satz 5 gilt entsprechend.
 
 (11) Sind in Druckfarben unbeabsichtigt eingebrachte Stoffe vorhanden, die nicht in Anlage 14 Tabelle 1 Spalte 8 oder Tabelle 2 Spalte 8 aufgeführt sind, unterliegen sie den Vorschriften des Artikels 3 Absatz 1 der Verordnung (EG)Nr. 1935/2004. Ob diese Stoffe im bedruckten Lebensmittelbedarfsgegenstand Artikel 3 Absatz 1 Buchstabe a der Verordnung (EG) Nr. 1935/2004 entsprechen, ist vom verantwortlichen Unternehmer gemäß international anerkannten wissenschaftlichen Grundsätzen der Risikobewertung zu prüfen.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 19.12.2025 I Nr. 379 +++)  
 (+++ § 4 Abs. 5 bis 11: Zur Anwendung vgl. § 16 Abs. 16 +++)  
 (+++ § 4 Abs. 9: Zur letztmaligen Anwendung vgl. § 16 Abs. 18 +++)
 
@@ -187,6 +191,8 @@ sie hinsichtlich der Beschichtung die in Anhang I Nummer 1 Tabelle 1 der Verordn
 4. in Anlage 5a aufgeführte Bedarfsgegenstände, wenn sie die in Spalte 3 dieser Anlage aufgeführten Stoffe über die in Spalte 4 festgesetzten Höchstmengen nach den dort genannten Maßgaben freisetzen.
 
 Satz 1 Nr. 1 gilt nicht, soweit die Beschichtung aus Kunststoff im Sinne des § 2 Nr. 2 Buchstabe c besteht.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 19.12.2025 I Nr. 379 +++)
 
 # § 7 – Verwendungsverbote
 
@@ -218,6 +224,7 @@ Satz 1 Nr. 1 gilt nicht, soweit die Beschichtung aus Kunststoff im Sinne des § 
 
 (7) Bei bedruckten Lebensmittelbedarfsgegenständen darf aus Druckfarben ein Übergang von Stoffen, die nach § 4 Absatz 7 verwendet werden, auf Lebensmittel nicht nachweisbar sein. Für andere Stoffe als solche in Form von Nanomaterialien gilt als nicht nachweisbar ein Übergang bis zu 0,01 Milligramm pro Kilogramm des Lebensmittels.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 19.12.2025 I Nr. 379 +++)  
 (+++ § 8 Abs. 5 bis 7: Zur Anwendung vgl. § 16 Abs. 16 +++)
 
 # § 9 – Warnhinweise
@@ -249,6 +256,8 @@ Darüber hinaus müssen der Hersteller oder der Einführer für Zwecke der Über
 (5) Die in Artikel 1 Absatz 2 der Verordnung (EU) 2024/3190 in der Fassung vom 19. Dezember 2024 bezeichneten Materialien und Gegenstände dürfen nur in den Verkehr gebracht werden, wenn ihnen die in Artikel 8 Absatz 1 der Verordnung (EU) 2024/3190 in der Fassung vom 19. Dezember 2024 genannte schriftliche Konformitätserklärung beigefügt ist und diese den Anforderungen des Anhangs III der Verordnung (EU) 2024/3190 in der Fassung vom 19. Dezember 2024 entspricht.
 
 (6) Der in Artikel 2 Absatz 3 Nummer 4 der Verordnung (EU) 2022/1616 in der Fassung vom 21. Februar 2025 bezeichnete recycelte Kunststoff darf nur in den Verkehr gebracht werden, wenn ihm die in Artikel 5 Absatz 2 in Verbindung mit Artikel 29 der Verordnung (EU) 2022/1616 in der Fassung vom 21. Februar 2025 genannte schriftliche Konformitätserklärung beigefügt ist und diese den Anforderungen des Anhangs III der Verordnung (EU) 2022/1616 in der Fassung vom 21. Februar 2025 entspricht.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 19.12.2025 I Nr. 379 +++)
 
 # § 10a – Kennzeichnung von Schuherzeugnissen
 
@@ -305,6 +314,8 @@ Die in Anlage 10 genannten Untersuchungen sind nach den dort aufgeführten Unter
 11. Bedarfsgegenstände, die auf Seeschiffen zum Verbrauch auf hoher See bestimmt sind und an Bord des Schiffes verbraucht werden.
 
 (2) Sendungen von Lebensmittelbedarfsgegenständen nach Artikel 1 in Verbindung mit Artikel 2 Buchstabe a der Verordnung (EU) Nr. 284/2011 dürfen aus Drittländern nur über einen der benannten spezifischen Orte der ersten Einführung im Sinne des Artikels 5 der Verordnung (EU) Nr. 284/2011 eingeführt werden. Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit macht die Liste der benannten spezifischen Orte der ersten Einführung im Sinne des Artikels 5 der Verordnung (EU) Nr. 284/2011 im Bundesanzeiger und nachrichtlich auf seiner Internetseite bekannt.
+
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 19.12.2025 I Nr. 379 +++)
 
 # § 12 – Straftaten und Ordnungswidrigkeiten
 
@@ -412,6 +423,7 @@ d) entgegen Artikel 25 Absatz 1 Buchstabe a eine Meldung nicht, nicht richtig, n
 
 5. als Unternehmer entgegen Artikel 8 Absatz 3 Satz 2 der Verordnung (EU) 2024/3190 in der Fassung vom 19. Dezember 2024 eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 19.12.2025 I Nr. 379 +++)  
 (+++ § 12 Abs. 2 Nr. 3: Zur Anwendung vgl. § 16 Abs. 16 +++)
 
 # § 13 – Unberührtheitsklausel
@@ -2012,6 +2024,8 @@ Zu beziehen durch Beuth-Verlag GmbH, Berlin und Köln.
 
 (weggefallen)
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 19.12.2025 I Nr. 379 +++)
+
 # Anlage 11 – (zu § 10a)
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 35 - 36;  
@@ -2135,4 +2149,5 @@ Spalte 3 (SMG (T) \[mg/kg\]): Spezifischer Migrationsgrenzwert ausgedrückt in M
 
 Spalte 4 (Gruppengrenzwert-Spezifikation): Bezeichnung des Stoffes, dessen Molekulargewicht für die Angabe des Ergebnisses zu Grunde gelegt wird.
 
+(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 19.12.2025 I Nr. 379 +++)  
 (+++ Anlage 14 Tabelle 2: Zur letztmaligen Anwendung vgl. § 16 Abs. 18 +++)

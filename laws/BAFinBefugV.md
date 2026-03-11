@@ -179,6 +179,14 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt, Rechtsver
 
 4. im Einvernehmen mit dem Bundesministerium der Justiz und der Deutschen Bundesbank nach Maßgabe des § 40 Absatz 4 Satz 1, 2 und 3.
 
+# § 1h
+
+Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt, Rechtsverordnungen auf Grundlage des Geldwäschegesetzes zu erlassen
+
+1. nach Maßgabe des § 51 Absatz 12 Satz 1,
+
+2. nach Maßgabe des § 52 Absatz 7 Satz 3.
+
 # § 2
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.

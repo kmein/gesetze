@@ -149,8 +149,6 @@ einschätzen und bestmöglich mit den Merkmalen anderer Wertpapiere vergleichen 
 
 (9) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz nähere Bestimmungen zu Inhalt und Aufbau der Wertpapier-Informationsblätter erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 4.2.2026 I Nr. 33 +++)
-
 # § 5 – Übermittlung des Wertpapier-Informationsblatts an die Bundesanstalt; Frist und Form der Veröffentlichung; Veröffentlichung durch die Bundesanstalt
 
 (1) Das Wertpapier-Informationsblatt ist der Bundesanstalt elektronisch und in elektronisch durchsuchbarem Format über ihr Melde- und Veröffentlichungssystem zu übermitteln.
@@ -227,7 +225,13 @@ Sind in einem nach Artikel 3 Absatz 1 der Verordnung (EU) 2017/1129 veröffentli
 
 4. vor dem Abschluss des Erwerbsgeschäfts im Rahmen des Jahresabschlusses oder Zwischenberichts des Emittenten, einer Veröffentlichung nach Artikel 17 der Verordnung (EU) Nr. 596/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über Marktmissbrauch (Marktmissbrauchsverordnung) und zur Aufhebung der Richtlinie 2003/6/EG des Europäischen Parlaments und des Rates und der Richtlinien 2003/124/EG, 2003/125/EG und 2004/72/EG der Kommission (ABl. L 173 vom 12.6.2014, S. 1) in der jeweils geltenden Fassung oder einer vergleichbaren Bekanntmachung eine deutlich gestaltete Berichtigung der unrichtigen oder unvollständigen Angaben im Inland veröffentlicht wurde oder
 
-5. er sich ausschließlich auf Grund von Angaben in der Zusammenfassung nach Artikel 7 der Verordnung (EU) 2017/1129 oder in der speziellen Zusammenfassung eines EU-Wachstumsprospekts im Sinne des Artikels 15 Absatz 1 Unterabsatz 2 Satz 2 der Verordnung (EU) 2017/1129 samt etwaiger Übersetzungen ergibt, es sei denn, die Zusammenfassung ist irreführend, unrichtig oder widersprüchlich, wenn sie zusammen mit den anderen Teilen des Prospekts gelesen wird, oder sie enthält, wenn sie zusammen mit den anderen Teilen des Prospekts gelesen wird, nicht alle gemäß Artikel 7 Absatz 1 Unterabsatz 1 in Verbindung mit den Absätzen 5 bis 7 Buchstabe a bis d und Absatz 8 der Verordnung (EU) 2017/1129 erforderlichen Basisinformationen; im Falle der speziellen Zusammenfassung eines EU-Wachstumsprospekts richtet sich die Vollständigkeit der relevanten Informationen nach den Vorgaben in Artikel 33 der Delegierten Verordnung (EU) 2019/980 der Kommission vom 14. März 2019 zur Ergänzung der Verordnung (EU) 2017/1129 des Europäischen Parlaments und des Rates hinsichtlich der Aufmachung, des Inhalts, der Prüfung und der Billigung des Prospekts, der beim öffentlichen Angebot von Wertpapieren oder bei deren Zulassung zum Handel an einem geregelten Markt zu veröffentlichen ist, und zur Aufhebung der Verordnung (EG) Nr. 809/2004 der Kommission (ABl. L 166 vom 21.6.2019, S. 26).
+5. er sich ausschließlich auf Grund von Angaben in der Zusammenfassung nach Artikel 7 der Verordnung (EU) 2017/1129 samt etwaiger Übersetzungen ergibt, es sei denn,
+
+a) die Zusammenfassung ist irreführend, unrichtig oder widersprüchlich, wenn sie zusammen mit den anderen Teilen des Prospekts gelesen wird, oder
+
+b) die Zusammenfassung enthält, wenn sie zusammen mit den anderen Teilen des Prospekts gelesen wird, nicht alle nach Artikel 7 Absatz 1 Unterabsatz 1 in Verbindung mit den Absätzen 5 bis 7 Buchstabe a bis d und Absatz 8 der Verordnung (EU) 2017/1129 erforderlichen Basisinformationen;
+
+c) im Fall der Zusammenfassung eines EU-Folgeprospekts und eines EU-Wachstumsemissionsprospekts richtet sich die Vollständigkeit der relevanten Informationen nach Artikel 7 Absatz 1 Unterabsatz 1 in Verbindung mit Absatz 12a Unterabsatz 3 Buchstabe c der Verordnung (EU) 2017/1129.
 
 # § 13 – Haftungsausschluss bei fehlerhaftem Wertpapier-Informationsblatt
 
@@ -431,8 +435,6 @@ Keine aufschiebende Wirkung haben
 
 (3) Anerkannte Sprache im Sinne des Artikels 15 Absatz 2 Buchstabe a der Verordnung (EU) 2023/2631 ist die deutsche Sprache.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 4.2.2026 I Nr. 33 +++)
-
 # § 22 – Elektronische Einreichung, Aufbewahrung
 
 (1) Der Prospekt einschließlich der Übersetzung der Zusammenfassung sowie Nachträge sind der Bundesanstalt ausschließlich elektronisch über das Melde- und Veröffentlichungssystem der Bundesanstalt zu übermitteln. Dies gilt entsprechend für die Hinterlegung der endgültigen Bedingungen des Angebots, von einheitlichen Registrierungsformularen einschließlich deren Änderungen sowie Dokumenten nach Artikel 1 Absatz 4 Buchstabe da Ziffer iii und Buchstabe db Ziffer iii und Absatz 5 Unterabsatz 1 Buchstabe ba Ziffer iii der Verordnung (EU) 2017/1129.
@@ -440,8 +442,6 @@ Keine aufschiebende Wirkung haben
 (2) Der gebilligte Prospekt sowie gebilligte Nachträge werden von der Bundesanstalt zehn Jahre aufbewahrt. Die Aufbewahrungsfrist beginnt mit dem Ablauf des 31. Dezembers des Kalenderjahres, in dem der Prospekt gebilligt wurde. Dies gilt entsprechend für die in Absatz 1 Satz 2 genannten Dokumente mit der Maßgabe, dass die Aufbewahrungsfrist mit dem Ablauf des 31. Dezembers des Kalenderjahres beginnt, in dem das Dokument hinterlegt wurde.
 
 (3) Die Unterrichtung der Bundesanstalt durch den Emittenten nach Artikel 15 Absatz 4 der Verordnung (EU) 2023/2631 erfolgt ausschließlich elektronisch über das Melde- und Veröffentlichungssystem der Bundesanstalt unter Mitteilung der den jeweiligen Emittenten und die entsprechende Emission betreffenden Angaben.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 4.2.2026 I Nr. 33 +++)
 
 # § 23 – (weggefallen)
 
@@ -527,7 +527,7 @@ zuwiderhandelt.
 
 2. einen Prospekt veröffentlicht, der die Informationen und Angaben nach Artikel 6 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 nicht oder nicht in der vorgeschriebenen Weise enthält,
 
-3. einen Prospekt veröffentlicht, dessen Zusammenfassung die Informationen und Warnhinweise nach Artikel 7 Absatz 1 bis 8, 10 und 11 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 nicht oder nicht in der vorgeschriebenen Weise enthält,
+3. einen Prospekt veröffentlicht, dessen Zusammenfassung die Informationen und Warnhinweise nach Artikel 7 Absatz 1 bis 8, 10, 11 und 12a Unterabsatz 1 bis 3 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 nicht oder nicht in der vorgeschriebenen Weise enthält,
 
 4. endgültige Bedingungen, auch als Teil eines Basisprospekts oder Nachtrags, der Öffentlichkeit zur Verfügung stellt, die nicht oder nicht in der vorgeschriebenen Weise nach Artikel 8 Absatz 3 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 festlegen, welche der in dem Basisprospekt enthaltenen Optionen in Bezug auf die Angaben, die nach der entsprechenden Wertpapierbeschreibung erforderlich sind, für die einzelne Emission gelten,
 
@@ -549,9 +549,9 @@ zuwiderhandelt.
 
 13. einen Prospekt, auch unter Verwendung eines Registrierungsformulars oder eines einheitlichen Registrierungsformulars als Prospektbestandteil, veröffentlicht, der die nach Artikel 11 Absatz 1 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 vorgeschriebenen Angaben und Erklärungen nicht oder nicht in der vorgeschriebenen Weise enthält,
 
-14. einen vereinfachten Prospekt nach Artikel 14 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 veröffentlicht, ohne zu den in Artikel 14 Absatz 1 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 genannten Personen zu gehören, oder einen vereinfachten Prospekt veröffentlicht, der nicht aus den in Artikel 14 Absatz 1 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 genannten Bestandteilen besteht oder die verkürzten Angaben nach Artikel 14 Absatz 2 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 nicht oder nicht in der vorgeschriebenen Weise enthält,
+14. einen EU-Folgeprospekt veröffentlicht, ohne zu den in Artikel 14a Absatz 1 Unterabsatz 1 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 genannten Personen zu gehören, oder einen EU-Folgeprospekt veröffentlicht, der die nach Artikel 14a Absatz 2 oder 3 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 vorgeschriebenen Angaben nicht oder nicht in der vorgeschriebenen Weise enthält,
 
-15. einen EU-Wachstumsprospekt veröffentlicht, ohne zu den in Artikel 15 Absatz 1 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 genannten Personen zu gehören, oder einen EU-Wachstumsprospekt veröffentlicht, der die in Artikel 15 Absatz 1 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 genannten Bestandteile und Informationen nicht oder nicht in der vorgeschriebenen Weise enthält,
+15. einen EU-Wachstumsemissionsprospekt veröffentlicht, ohne zu den in Artikel 15a Absatz 1 Unterabsatz 1 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 genannten Personen zu gehören, oder einen EU-Wachstumsemissionsprospekt veröffentlicht, der die nach Artikel 15a Absatz 2 oder 3 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 vorgeschriebenen Angaben nicht oder nicht in der vorgeschriebenen Weise enthält,
 
 16. einen Prospekt veröffentlicht, der die Risikofaktoren nach Artikel 16 Absatz 1 bis 3 der Verordnung (EU) 2017/1129 in der Fassung vom 23. Oktober 2024 nicht oder nicht in der vorgeschriebenen Weise darstellt,
 
@@ -610,8 +610,6 @@ zuwiderhandelt.
 (8) § 17 Absatz 2 des Gesetzes über Ordnungswidrigkeiten ist nicht anzuwenden bei Sanktionstatbeständen, die in Absatz 6 in Bezug genommen werden.
 
 (9) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 4.2.2026 I Nr. 33 +++)
 
 # § 24a – Bußgeldvorschriften zur Verordnung (EU) 2023/2631
 

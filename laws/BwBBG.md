@@ -55,8 +55,6 @@ b) auf dem Gebiet der Europäischen Union oder des nordatlantischen Bündnisses 
 
 (3) Der Vierte Teil des Gesetzes gegen Wettbewerbsbeschränkungen ist auf die Vergabe von verteidigungs- oder sicherheitsspezifischen öffentlichen Aufträgen auch in den Fällen des Artikels 13 der Richtlinie 2009/81/EG nicht anzuwenden. § 145 des Gesetzes gegen Wettbewerbsbeschränkungen bleibt unberührt.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 2.10.2026 I Nr. 40 +++)
-
 # § 4 – Ausnahmen von den Voraussetzungen der Vergabeverordnungen
 
 (1) Ein Verhandlungsverfahren ohne Teilnahmewettbewerb ist auch zulässig, wenn die Fristen, die für das nicht offene Verfahren und das Verhandlungsverfahren mit Teilnahmewettbewerb vorgeschrieben sind, nicht eingehalten werden können, weil dringliche zwingende Gründe dies nicht zulassen und eine kontinuierliche Leistungserbringung aus Verteidigungs- und Sicherheitsinteressen sichergestellt werden muss. Der Auftrag ist in diesem Fall auf den Umfang zu beschränken, der unabdingbar ist, um die Leistungserbringung bis zu einer wettbewerblichen Auftragsvergabe sicherzustellen. Satz 1 gilt in den Fällen des § 20 Absatz 2 Satz 2 und Absatz 3 Satz 2 der Vergabeverordnung Verteidigung und Sicherheit entsprechend. Die Sätze 1 und 2 gelten für verteidigungs- und sicherheitsspezifische öffentliche Bauaufträge entsprechend. § 12 Absatz 1 Nummer 1 Buchstabe b der Vergabeverordnung Verteidigung und Sicherheit bleibt unberührt.
@@ -66,8 +64,6 @@ b) auf dem Gebiet der Europäischen Union oder des nordatlantischen Bündnisses 
 (3) § 12 Absatz 1 Nummer 1 Buchstabe c der Vergabeverordnung Verteidigung und Sicherheit und § 14 Absatz 4 Nummer 2 der Vergabeverordnung sind mit der Maßgabe anzuwenden, dass bei der Betrachtung, ob ein Auftrag nur von einem bestimmten Unternehmen erbracht oder durchgeführt werden kann, Unternehmen, die in einem Staat außerhalb der Europäischen Union ansässig sind, unberücksichtigt bleiben können. Satz 1 gilt für öffentliche Bauaufträge entsprechend. In den Fällen der Sätze 1 und 2 gilt § 11 Absatz 5 entsprechend.
 
 (4) Ein Verhandlungsverfahren ohne Teilnahmewettbewerb ist auch in den Fällen des Artikels 28 der Richtlinie 2009/81/EG zulässig. § 12 Absatz 1 der Vergabeverordnung Verteidigung und Sicherheit bleibt unberührt.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 2.10.2026 I Nr. 40 +++)
 
 # § 5 – Ausnahmen vom Haushaltsrecht
 
@@ -216,8 +212,6 @@ Wird ein öffentlicher Auftrag im Rahmen eines Kooperationsprogramms, welches mi
 (2) § 14 Absatz 6 der Vergabeverordnung Verteidigung und Sicherheit ist mit der Maßgabe anzuwenden, dass sich die zulässige Laufzeit von Rahmenvereinbarungen aus Artikel 29 Absatz 2 der Richtlinie 2009/81/EG ergibt.
 
 (3) Die Absätze 1 und 2 gelten entsprechend für verteidigungs- und sicherheitsspezifische öffentliche Bauaufträge.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 2.10.2026 I Nr. 40 +++)
 
 # § 19 – Übergangsregelungen
 

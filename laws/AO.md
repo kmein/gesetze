@@ -1229,8 +1229,7 @@ Die Frist ist taggenau zu berechnen.
 
 3. Zweite Fraktionierungsstufe der Blutspendedienste.
 
-(+++ § 64: Zur erstmaligen Anwendung ab 1.1.2007 vgl. Art. 97 § 1d AOEG 1977 +++)  
-(+++ § 64 Abs. 6: Anzuwenden ab 1.1.2000 gem. Art. 97 § 1b AOEG 1977 +++)
+(+++ § 64: Zur Anwendung Art. 97 §§ 1b u. 1d AOEG 1977 +++)
 
 # § 65 – Zweckbetrieb
 

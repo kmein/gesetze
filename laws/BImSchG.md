@@ -984,8 +984,6 @@ Der Referenzwert, gegenüber dem die Treibhausgasminderung zu erfolgen hat, bere
 
 Satz 7 erster Halbsatz gilt entsprechend für die in § 37b Absatz 2 bis 6 genannten Energieerzeugnisse, wenn diese keine Biokraftstoffe im Sinne dieses Gesetzes sind. Bei der Berechnung des Referenzwertes nach den Sätzen 3 und 4 sowie der Treibhausgasemissionen nach den Sätzen 5 und 6 sind Kraftstoffmengen, für die dem Verpflichteten eine Steuerentlastung nach § 8 Absatz 7, nach § 46 Absatz 1 Satz 1 Nummer 1 oder Nummer 3 oder nach § 47 Absatz 1 Nummer 1, 2 oder Nummer 6 des Energiesteuergesetzes gewährt wurde oder wird, nicht zu berücksichtigen. In den Fällen des Absatzes 5 Satz 1 Nummer 2 und 3 gilt Satz 9 unabhängig von der Person des Entlastungsberechtigten.
 
-(4a) (weggefallen)
-
 (5) Die Verpflichtungen nach Absatz 1 Satz 1 und 2 in Verbindung mit dem Absatz 4 können von Verpflichteten erfüllt werden durch folgende Optionen (Erfüllungsoptionen):
 
 1. Inverkehrbringen von Biokraftstoff, der fossilem Otto- oder fossilem Dieselkraftstoff, welcher nach § 2 Absatz 1 Nummer 1 und 4 des Energiesteuergesetzes zu versteuern ist, beigemischt wurde,

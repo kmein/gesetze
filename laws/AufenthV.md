@@ -676,8 +676,6 @@ Anlagen</td>
 
 (9) EU-Rückkehrausweise sind Reisedokumente im Sinne des Artikels 3 Absatz 1 der Richtlinie (EU) 2019/997 in der Fassung vom 6. Mai 2024.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V. v. 29.10.2025 I Nr. 260 +++)
-
 # § 2 – Erfüllung der Passpflicht durch Eintragung in den Pass eines gesetzlichen Vertreters
 
 Minderjährige Ausländer, die das 16. Lebensjahr noch nicht vollendet haben, erfüllen die Passpflicht auch durch Eintragung in einem anerkannten und gültigen Pass oder Passersatz eines gesetzlichen Vertreters. Für einen minderjährigen Ausländer, der das zehnte Lebensjahr vollendet hat, gilt dies nur, wenn im Pass oder Passersatz sein eigenes Lichtbild angebracht ist.

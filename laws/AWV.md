@@ -1944,8 +1944,6 @@ einen dort genannten Anspruch erfüllt oder einer dort genannten Forderung oder 
 
 Soweit die in Satz 1 genannten Vorschriften auf Anhang I oder Anhang IV der Verordnung (EU) 2021/821 verweisen, finden diese Anhänge in der jeweils geltenden Fassung Anwendung.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 29.10.2025 I Nr. 261 +++)
-
 # § 82a – Übergangsbestimmungen
 
 Die §§ 55 bis 62a in der ab dem 1. Mai 2021 geltenden Fassung sind erstmals auf schuldrechtliche Rechtsgeschäfte über den Erwerb eines inländischen Unternehmens anzuwenden, die ab dem 1. Mai 2021 abgeschlossen werden. Im Fall eines Angebots im Sinne des Wertpapiererwerbs- und Übernahmegesetzes ist der Zeitpunkt der Veröffentlichung der Entscheidung zur Abgabe des Angebots maßgeblich.
@@ -5226,8 +5224,6 @@ Wenn ein Bestandteil auf Grund technischer Prüfung „weltraumgeeignet“ ist, 
 Anmerkung:
 
 Siehe auch „Luftfahrzeug“.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 29.10.2025 I Nr. 261 +++)
 
 # Anlage 2 – (zu § 64)DIREKA1 Meldung von Vermögen von Inländern im Ausland
 

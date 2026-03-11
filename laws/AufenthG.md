@@ -477,8 +477,6 @@ Fallen die Aufhebungsgründe nach Satz 1 Nummer 1 Buchstabe a innerhalb von drei
 
 (3) Es ist verboten, einem Ausländer, der in einem Beschluss des Rates der Europäischen Union über restriktive Maßnahmen aufgeführt ist, mit dem die Einreise von Personen in oder die Durchreise von Personen durch das Hoheitsgebiet eines Mitgliedstaats der Europäischen Union verhindert werden soll, die Einreise in oder die Durchreise durch das Bundesgebiet zu ermöglichen. Satz 1 dient der Umsetzung der Richtlinie (EU) 2024/1226 in der Fassung vom 24. April 2024.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 3.2.2026 I Nr. 27 +++)
-
 # § 15 – Zurückweisung
 
 (1) Ein Ausländer, der unerlaubt einreisen will, wird an der Grenze zurückgewiesen.

@@ -145,8 +145,6 @@ b) für die in der Zulassung festgelegt wurde, dass eine Messung oder Überwachu
 
 3. der geschulte berufsmäßige Verwender.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 17.12.2025 I Nr. 337 +++)
-
 # § 3 – (weggefallen)
 
 # § 4 – Einstufung, Kennzeichnung, Verpackung

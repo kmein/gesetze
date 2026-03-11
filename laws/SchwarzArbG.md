@@ -554,8 +554,6 @@ erbracht werden. Als nicht nachhaltig auf Gewinn gerichtet gilt insbesondere ein
 
 (2) In besonders schweren Fällen des Absatzes 1 ist die Strafe Freiheitsstrafe von sechs Monaten bis zu fünf Jahren. Ein besonders schwerer Fall liegt in der Regel vor, wenn der Täter gewerbsmäßig oder aus grobem Eigennutz handelt.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 369 +++)
-
 # § 10a – Beschäftigung von Ausländern ohne Aufenthaltstitel, die Opfer von Menschenhandel sind
 
 Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer entgegen § 4a Absatz 5 Satz 1 oder 2 des Aufenthaltsgesetzes einen Ausländer beschäftigt und hierbei eine Lage ausnutzt, in der sich der Ausländer durch eine gegen ihn gerichtete Tat eines Dritten nach § 232a Absatz 1 bis 5 oder § 232b des Strafgesetzbuchs befindet.

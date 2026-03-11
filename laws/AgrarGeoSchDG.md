@@ -61,8 +61,6 @@ g) die Beschlüsse des Rates der Europäischen Union über die Unterzeichnung vo
 
 2. besonderer Bestimmungen, die auf dem Gebiet des Agrargeoschutzes im Weingesetz oder im Lebensmittel- und Futtermittelgesetzbuch oder in auf das Weingesetz oder das Lebensmittel- und Futtermittelgesetzbuch gestützten Rechtsverordnungen enthalten sind, insbesondere weinrechtlicher Bestimmungen zu traditionellen Begriffen im Sinne des Artikels 112 der Verordnung (EU) Nr. 1308/2013.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
-
 # § 2 – Begriffsbestimmungen
 
 (1) Für dieses Gesetz gelten die folgenden Begriffsbestimmungen:
@@ -133,8 +131,6 @@ c) eine anerkannte Erzeugervereinigung;
 
 (2) Im Übrigen gelten die im Unionsrecht auf dem Gebiet des Agrargeoschutzes enthaltenen Begriffsbestimmungen. Enthält das betreffende Unionsrecht für denselben Begriff verschiedene Begriffsbestimmungen, gelten für die Zwecke dieses Gesetzes und der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen die Begriffsbestimmungen der Verordnung (EU) 2024/1143 und der auf sie gestützten Rechtsakte der Europäischen Kommission.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
-
 # § 3 – Zuständigkeiten; Verordnungsermächtigung
 
 (1) Die Durchführung der von Teil 2 Abschnitt 2 dieses Gesetzes erfassten Verfahren obliegt der Bundesanstalt.
@@ -178,8 +174,6 @@ g) die finanziellen und sonstigen Beiträge zur Funktionsfähigkeit der Erzeuger
 6. das Verfahren der Übermittlung von Nachhaltigkeitsberichten im Sinne des Artikels 8 Absatz 1 der Verordnung (EU) 2024/1143 an die Europäische Kommission.
 
 (3) Die Bestimmungen nach Absatz 1 können jeweils alle antragstellenden oder allgemeinen Erzeugervereinigungen oder nur solche eines bestimmten Erzeugnisbereichs oder eines Teils eines bestimmten Erzeugnisbereichs betreffen.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
 
 # § 5 – Anerkannte Erzeugervereinigungen; Verordnungsermächtigung
 
@@ -249,8 +243,6 @@ c) die im Unionsrecht vorgesehenen Unterrichtungen;
 
 (5) Eine Erzeugervereinigung darf sich erst ab dem Zeitpunkt ihrer Anerkennung und nur während des Zeitraums der Anerkennung als anerkannte Erzeugervereinigung bezeichnen.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
-
 # § 6 – Anerkannte Erzeugervereinigungen in einzelnen Ländern; Verordnungsermächtigung
 
 (1) In einer Rechtsverordnung nach § 5 Absatz 1 kann die Ermächtigung des § 5 Absatz 1 in Bezug auf alle Erzeugnisbereiche oder einzelne Erzeugnisbereiche oder einen Teil eines Erzeugnisbereichs auf die Landesregierungen übertragen werden. Satz 1 gilt nicht für § 5 Absatz 4 Nummer 10. Sieht ein Land ein Anerkennungssystem vor, ist es nur auf Erzeugervereinigungen anzuwenden, die eine Schutzbezeichnung betreuen, deren geografisches Gebiet sich ganz oder teilweise in dem betreffenden Land befindet, und die ihren Hauptsitz in dem betreffenden Land nehmen. Erstreckt sich ein geografisches Gebiet auf mehr als ein Land, bedarf die Anerkennung einer Erzeugervereinigung der Zustimmung aller anderen betroffenen Länder. Die Zustimmung darf nur aus Sachgründen verweigert werden.
@@ -269,8 +261,6 @@ c) die im Unionsrecht vorgesehenen Unterrichtungen;
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, das Unionsrecht ergänzende oder konkretisierende Bestimmungen über Zusammenschlüsse von Erzeugervereinigungen zu treffen, soweit dies zur Wahrnehmung von Aufgaben eines Zusammenschlusses von Erzeugervereinigungen, insbesondere der in Artikel 34 Absatz 2 der Verordnung (EU) 2024/1143 genannten Aufgaben, erforderlich oder zweckmäßig ist. In einer Rechtsverordnung nach Satz 1 können insbesondere Vorgaben nach § 4 Absatz 2 Nummer 4 und 5 geregelt werden.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
-
 # § 8 – Einzelerzeuger und Behörden an Stelle von Erzeugervereinigungen; Unterstützung durch öffentliche Stellen; Verordnungsermächtigung
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, das Unionsrecht konkretisierende und ergänzende Bestimmungen zur Geltung von Einzelerzeugern als Erzeugervereinigung zu treffen, soweit dies zur Durchführung des Agrargeoschutzrechts, insbesondere des Artikels 9 Absatz 3, des Artikels 33 Absatz 1 Satz 4 und des Artikels 56 Absatz 1 Satz 2 der Verordnung (EU) 2024/1143, erforderlich oder zweckmäßig ist. In einer Rechtsverordnung nach Satz 1 können insbesondere geregelt werden:
@@ -286,8 +276,6 @@ Ein Einzelerzeuger, der nicht als Erzeugervereinigung gilt, darf sich nicht als 
 (3) Für Fälle, in denen sich das geografische Gebiet von Schutzbezeichnungen auf das gesamte Hoheitsgebiet der Bundesrepublik Deutschland erstreckt, kann in einer Rechtsverordnung nach Absatz 2 Satz 2 die Entscheidung über die Betrauung abweichend von Absatz 2 Satz 1 dem Bundesministerium übertragen werden. Erfolgt eine Übertragung nach Satz 1, benennt das Bundesministerium eine Behörde des Bundes. Soweit die benannte Behörde nicht im Verantwortungsbereich des Bundesministeriums liegt, bedarf die Rechtsverordnung nach Absatz 2 Satz 2 des Einvernehmens des betreffenden Bundesministeriums. War vor der Benennung der Behörde des Bundes die Behörde eines Landes benannt, erlischt die Betrauung dieser Behörde. Für die Fälle des Satzes 4 können in einer Rechtsverordnung nach Absatz 2 Satz 2 Übergangsbestimmungen getroffen werden.
 
 (4) Erzeugervereinigungen dürfen bei der Vorbereitung von Anträgen und in sonstiger Weise von öffentlichen Stellen unterstützt werden. Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Art und Weise der Unterstützung zu regeln, soweit dies für die Durchführung des Agrargeoschutzrechts, insbesondere im Sinne des Artikels 32 Absatz 5, erforderlich oder zweckmäßig ist. Soweit für die Unterstützung öffentliche Stellen der Länder zuständig sind, bedarf die Rechtsverordnung nach Satz 2 der Zustimmung des Bundesrates. Im Falle einer Zuständigkeit der Länder im Sinne des Satzes 3 kann in einer Rechtsverordnung nach Satz 2, die der Zustimmung des Bundesrates bedarf, die Ermächtigung des Satzes 2 auf die Landesregierungen übertragen werden. Landesrechtliche Regelungen nach Satz 4 gehen vorhandenen bundesrechtlichen Bestimmungen vor.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
 
 # § 9 – Öffentliches Register; Verordnungsermächtigung
 
@@ -353,8 +341,6 @@ b) an der Veröffentlichung der Daten ein öffentliches Interesse besteht.
 
 (9) Soweit öffentliche Stellen den in Absatz 1 Satz 2 genannten Personenkreis über tatsächliche oder rechtliche Entwicklungen im Bereich des Agrargeoschutzes in allgemeiner Weise informieren, dürfen sie dabei den informierten Personenkreis auf in das Register Eingetragene beschränken.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
-
 # § 10 – Eröffnung der nationalen Phase des Eintragungsverfahrens; Verordnungsermächtigung
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Eröffnung der nationalen Phase des Eintragungsverfahrens gemäß der Verordnung (EU) 2024/1143 nach den Absätzen 2 und 3 zu regeln.
@@ -372,8 +358,6 @@ b) an der Veröffentlichung der Daten ein öffentliches Interesse besteht.
 4. das Recht auf Akteneinsicht;
 
 5. die Konkretisierung der KN-Nummer für das betroffene Erzeugnis.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
 
 # § 11 – Prüfung des Eintragungsantrags in der nationalen Phase; Verordnungsermächtigung
 
@@ -420,8 +404,6 @@ wissenschaftliche Einrichtungen;
 
 7. die Einholung von Stellungnahmen, insbesondere bei den in Nummer 6 Buchstabe d genannten Stellen.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
-
 # § 12 – Abschluss der nationalen Phase des Eintragungsverfahrens; Verordnungsermächtigung
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Einzelheiten über den Abschluss der nationalen Phase des Eintragungsverfahrens zu regeln, soweit dies für die Durchführung des Agrargeoschutzrechts, insbesondere im Sinne des Artikels 10 Absatz 6 und 7, der Artikel 11, 16 und 56 Absatz 3 Satz 4 und Absatz 4 sowie des Artikels 60 der Verordnung (EU) 2024/1143, erforderlich ist.
@@ -462,8 +444,6 @@ b) von Erkenntnissen aus der Anhörung von Fachausschüssen oder eingegangenen S
 
 (4) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Einzelheiten des Verfahrens im Falle eines Einspruchs auf Unionsebene gegen den Eintragungsantrag zu regeln, soweit dies zur Durchführung des Agrargeoschutzrechts, insbesondere des Artikels 17 Absatz 4 bis 7 und des Artikels 61 Absatz 4 bis 7 der Verordnung (EU) 2024/1143, erforderlich ist. Insbesondere können in einer Rechtsverordnung nach Satz 1 die Durchführung des Konsultationsverfahrens, das Verfahren der Änderung des Eintragungsantrages sowie die Veröffentlichung des geänderten Eintragungsantrages und ein darauf bezogenes Einspruchsverfahren geregelt werden.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
-
 # § 13 – Nationale Phase des Antrags auf Änderung einer Produktspezifikation; Verordnungsermächtigung
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Einzelheiten über Anträge auf eine Unionsänderung der Produktspezifikation einer g.U., einer g.g.A. oder einer geografischen Angabe für Erzeugnisse des Spirituosenbereichs sowie Anträge auf Genehmigung einer Änderung der Produktspezifikation einer g.t.S. zu regeln, jeweils soweit dies für die Durchführung des Agrargeoschutzrechts, insbesondere der Artikel 24 und 66 der Verordnung (EU) 2024/1143, erforderlich ist. Für eine Rechtsverordnung nach Satz 1 gelten folgende Vorschriften entsprechend:
@@ -476,8 +456,6 @@ Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne Zustimmung d
 
 4. § 12 Absatz 2 und 3.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
-
 # § 14 – Standardänderung einer Produktspezifikation; Verordnungsermächtigung
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Einzelheiten über die Genehmigung der Standardänderung einer Produktspezifikation einschließlich der vorübergehenden Änderung einer Produktspezifikation zu regeln, soweit dies für die Durchführung des Agrargeoschutzrechts, insbesondere des Artikels 24 der Verordnung (EU) 2024/1143, erforderlich ist. Für eine Rechtsverordnung nach Satz 1 gelten folgende Vorschriften mit der Maßgabe entsprechend, dass eine abschließende Genehmigung auf nationaler Ebene erfolgt:
@@ -489,8 +467,6 @@ Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne Zustimmung d
 3. § 11 Absatz 2 und 3 sowie
 
 4. § 12 Absatz 2 und 3.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
 
 # § 15 – Löschung einer Schutzbezeichnung; Verordnungsermächtigung
 
@@ -505,8 +481,6 @@ Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne Zustimmung d
 3. § 11 Absatz 2 und 3 sowie
 
 4. § 12 Absatz 2 und 3.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
 
 # § 16 – Einspruch und Mitteilung von Bemerkungen bezüglich Anträgen aus anderen Mitgliedstaaten sowie Drittstaaten; mitgliedstaatenübergreifender Antrag oder Einspruch; Verordnungsermächtigung
 
@@ -532,8 +506,6 @@ d) die Verfahrensvorgaben bezüglich der Entscheidung über den Einspruch;
 
 (3) In Rechtsverordnungen nach den §§ 10 bis 15 sowie nach Absatz 1 kann auch der Fall eines Antrags oder Einspruchs, der ein die Grenzen der Bundesrepublik Deutschland überschreitendes geografisches Gebiet betrifft, geregelt werden.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
-
 # § 17 – Verbot der Zuwiderhandlung gegen Schutzvorschriften
 
 Niemand darf
@@ -541,8 +513,6 @@ Niemand darf
 1. eine Handlung vornehmen, die gegen eine Bestimmung zum Schutz einer Schutzbezeichnung, insbesondere gegen Artikel 20 Absatz 5, gegen Artikel 26 Absatz 1, auch in Verbindung mit Absatz 2, 4 oder 7, gegen Artikel 37 Absatz 1, 3, 5, 7, 8 oder 10, gegen Artikel 68 Absatz 1, 2 oder 3 oder gegen Artikel 70 Absatz 1 oder 2 der Verordnung (EU) 2024/1143, verstößt, oder
 
 2. ein Erzeugnis oder sonstiges Produkt in den Verkehr bringen, dessen Kennzeichnung dem Agrargeoschutzrecht widerspricht.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
 
 # § 18 – Weitere Schutzvorschriften; Verordnungsermächtigung
 
@@ -565,8 +535,6 @@ Niemand darf
 (3) Macht das Bundesministerium von der Ermächtigung nach Absatz 1 in Verbindung mit Absatz 2 Gebrauch, übermitteln die Länder für ihr Hoheitsgebiet der zuständigen Stelle des Bundes die jeweils erforderlichen Informationen und teilen im Falle des Absatzes 2 Nummer 1 in angemessenen zeitlichen Abständen Änderungen mit, die sich auf Informationen nach Artikel 4 Absatz 4 Unterabsatz 1 Buchstabe a und d der Verordnung (EU)
 
 2017/625 beziehen. In der Rechtsverordnung nach Absatz 1 Satz 1 können Art und Weise der Übermittlung, insbesondere Zeitpunkte und Datenformate, festgelegt werden.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
 
 # § 20 – Amtliche Herstellungskontrolle; Verordnungsermächtigung
 
@@ -610,8 +578,6 @@ b) erforderlichen Verfahrens- und Überwachungsbestimmungen.
 
 (9) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung anstelle der Form, die auf der Grundlage des Absatzes 8 Satz 1 und 2 festgelegt worden ist, die nach Absatz 8 Satz 1 und 2 alternativ festlegbare Form vorzusehen. Landesrechtliche Regelungen nach Satz 1 gehen vorhandenen bundesrechtlichen Regelungen vor und gelten nur für die in die Zuständigkeit des betreffenden Landes fallenden Wirtschaftsbeteiligten.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
-
 # § 21 – Bündlerkontrolle; Verordnungsermächtigung
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, eine Bündlerkontrolle im Sinne des Absatzes 2 vorzusehen, um im Falle einer Klein- oder Kleinsterzeugung zur Verringerung der mit der amtlichen Herstellungskontrolle verbundenen Kosten für die Wirtschaftsbeteiligten oder Herstellungskontrollstellen beizutragen.
@@ -632,15 +598,11 @@ b) erforderlichen Verfahrens- und Überwachungsbestimmungen.
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, die Art und Weise der amtlichen Marktkontrolle, einschließlich ihrer Häufigkeit, zu regeln, soweit dies für die Durchführung des Agrargeoschutzrechts, insbesondere der Artikel 42 und 43 der Verordnung (EU) 2024/1143, erforderlich ist.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
-
 # § 23 – Zollamtliche Überwachung; Verordnungsermächtigung
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates und im Einvernehmen mit dem Bundesministerium der Finanzen Bestimmungen zu erlassen, die die Prüfung der Einhaltung des Agrargeoschutzrechts im Rahmen der zollamtlichen Überwachung betreffen. Dabei können insbesondere die Voraussetzungen und das Verfahren für die Kontrolle von dem Agrargeoschutz unterfallenden Erzeugnissen, die innerhalb der Europäischen Union verbracht oder in diese eingeführt oder aus dieser ausgeführt werden, geregelt werden.
 
 (2) Für den Bereich des Agrargeoschutzes sind auf Anträge nach der Verordnung (EU) Nr. 608/2013 und auf Beschlagnahmen im Zusammenhang mit der Verbringung sowie der Einfuhr und der Ausfuhr die §§ 150 und 151 des Markengesetzes anzuwenden.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
 
 # § 24 – Mitgliedstaatenübergreifende Kontrolle
 
@@ -649,8 +611,6 @@ Erstreckt sich das geografische Gebiet einer g.U., einer g.g.A. oder einer geogr
 # § 25 – Erlass von Durchführungsbestimmungen; Verordnungsermächtigung
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates konkretisierende oder ergänzende Bestimmungen zu erlassen, die zur Durchführung des Unionsrechts zu fakultativen Qualitätsangaben, insbesondere des Artikels 83 Absatz 1, auch in Verbindung mit Artikel 82 Absatz 1 der Verordnung (EU) 2024/1143, erforderlich sind.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
 
 # § 26 – Verbot der Zuwiderhandlung gegen Schutzvorschriften
 
@@ -664,15 +624,11 @@ Niemand darf
 
 4. eine Praktik anwenden, die geeignet ist, Unternehmen oder Endverbraucher in Bezug auf eine fakultative Qualitätsangabe in die Irre zu führen.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
-
 # § 27 – Amtliche Kontrolle; Verordnungsermächtigung
 
 (1) Die nach Artikel 83 Absatz 4 der Verordnung (EU) 2024/1143 erforderlichen Kontrollen erfolgen als Bestandteil der amtlichen Kontrolle derjenigen Lebensmittel, die mit einer fakultativen Qualitätsangabe gekennzeichnet sind. Die Kontrollvorschriften für diese Lebensmittel finden auf fakultative Qualitätsangaben entsprechende Anwendung.
 
 (2) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, Vorschriften zu Verfahren und Häufigkeit der Kontrollen nach Absatz 1 Satz 1 zu erlassen, soweit die Vorschriften nach Absatz 1 Satz 2 nicht ausreichend sind, um die Einhaltung der Bestimmungen zu fakultativen Qualitätsangaben zu kontrollieren.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
 
 # § 28 – Behördliche Anordnungen und Maßnahmen zur Überwachung und Durchsetzung; Verordnungsermächtigung
 
@@ -705,8 +661,6 @@ Niemand darf
 6. Einsichtnahme, Prüfung und Vervielfältigung von Geschäftsunterlagen.
 
 (7) Bei einem Erwerb nach Absatz 6 Satz 2 Nummer 2 unterrichtet die Kontrollbehörde den Verkäufer nach Erhalt der Ware hierüber. Sie kann vom Verkäufer die Erstattung des Kaufpreises sowie die Versandkosten verlangen, sofern dadurch nicht eine unbillige Härte eintreten würde. Im Falle von Stichproben nach Absatz 6 Satz 2 Nummer 5 ist im Einzelfall eine Entschädigung bis zur Höhe des Verkaufspreises zu leisten, sofern anderenfalls eine unbillige Härte eintreten würde.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
 
 # § 29 – Privatrechtliche Ansprüche bei Verstößen
 
@@ -744,8 +698,6 @@ Der Anspruch auf Unterlassung besteht auch dann, wenn eine Zuwiderhandlung erstm
 
 (6) Ansprüche nach dem Gesetz gegen den unlauteren Wettbewerb bleiben unberührt.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
-
 # § 30 – Übermittlung und Veröffentlichung von Daten
 
 (1) Die zuständigen Stellen können Daten einschließlich personenbezogener Daten, die sie im Rahmen der Durchführung des Agrargeoschutzrechts erhoben haben, den folgenden Stellen übermitteln, soweit dies zur Durchführung des Agrargeoschutzrechts erforderlich ist:
@@ -769,8 +721,6 @@ Die in Satz 1 genannten Stellen sind jeweils befugt, die ihnen nach Satz 1 über
 (3) Zur Durchsetzung und Überwachung der Verordnung (EU) 2022/2065 in Bezug auf rechtswidrige Online-Inhalte im Sinne des Artikels 43 Absatz 1 der Verordnung (EU) 2024/1143 übermitteln die zuständigen Stellen im Rahmen ihrer Befugnisse rechtswidrige Online-Inhalte einschließlich personenbezogener Daten an die Bundesnetzagentur, soweit diese in ihrer Funktion als Koordinierungsstelle für digitale Dienste im Sinne des § 14 des Digitale-Dienste-Gesetzes tätig wird. Die Bundesnetzagentur darf die ihr nach Satz 1 übermittelten Daten im Rahmen der Wahrnehmung ihrer Befugnisse zu den genannten Zwecken erheben und weiterverarbeiten.
 
 (4) Nichtpersonenbezogene Daten dürfen durch die zuständigen Stellen zu statistischen oder wissenschaftlichen Zwecken veröffentlicht werden. Dabei sind die Anforderungen des Schutzes von Betriebs- und Geschäftsgeheimnissen sowie eines funktionierenden Wettbewerbs einzuhalten.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
 
 # § 31 – Mitteilungen zur Erfüllung von Berichtspflichten; Verordnungsermächtigung
 
@@ -804,8 +754,6 @@ Die in Satz 1 genannten Stellen sind jeweils befugt, die ihnen nach Satz 1 über
 
 (6) Die nach den Absätzen 4 und 5 übermittelten Daten dürfen von den zuständigen Stellen im Rahmen der Wahrnehmung ihrer Befugnisse zu den in den Absätzen 4 und 5 jeweils genannten Zwecken verarbeitet werden.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
-
 # § 34 – Verhältnis des Agrargeoschutzrechts zu anderweitigem Produktrecht
 
 (1) Soweit das Agrargeoschutzrecht keine besonderen Regelungen enthält, bleibt für Erzeugnisse im Sinne dieses Gesetzes geltendes anderweitiges Produktrecht, insbesondere Bestimmungen über die Herstellung, die Zusammensetzung, die Kennzeichnung, das Verbot irreführender Informationen, die Kontrolle sowie die Durchsetzung, unberührt.
@@ -838,8 +786,6 @@ Die in Satz 1 genannten Stellen sind jeweils befugt, die ihnen nach Satz 1 über
 
 (3) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Einzelheiten der Verfahren nach den Absätzen 1 und 2 zu regeln, insbesondere die Einholung von Stellungnahmen bei den in § 11 Absatz 3 Nummer 6 Buchstabe d genannten Stellen und die Befassung eines nach § 11 Absatz 3 Nummer 6 eingerichteten Fachausschusses.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
-
 # § 37 – Auf vergleichbare Schutzbezeichnungen anwendbare Bestimmungen; Verordnungsermächtigung
 
 (1) Auf vergleichbare Schutzbezeichnungen sind die Bestimmungen der §§ 2 und 3 Absatz 2 bis 4, des Teils 2 Abschnitt 3, der §§ 19, 22, 23, 28 Absatz 1 bis 3, 6 und 7 sowie der §§ 29 bis 33 und 35 entsprechend anzuwenden. Soweit nach der jeweils zugrunde liegenden internationalen Übereinkunft nicht bestimmt ist, gegen welche Handlungen sich der Schutz der vergleichbaren Schutzbezeichnung richtet, ist Artikel 26 Absatz 1 bis 4 der Verordnung (EU) 2024/1143 entsprechend anzuwenden.
@@ -847,8 +793,6 @@ Die in Satz 1 genannten Stellen sind jeweils befugt, die ihnen nach Satz 1 über
 (2) Rechtsverordnungen nach § 10 und den §§ 13 bis 15 können hinsichtlich der dort genannten Gegenstände auch für vergleichbare Schutzbezeichnungen erlassen werden.
 
 (3) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, Abweichungen oder Ergänzungen zu den in Absatz 1 genannten Bestimmungen zu regeln, soweit dies im Hinblick auf die Besonderheiten vergleichbarer Schutzbezeichnungen erforderlich oder zweckmäßig ist.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
 
 # § 38 – Kennzeichenstreitsachen
 
@@ -936,8 +880,6 @@ genannten Vorschriften ermächtigen, soweit eine Rechtsverordnung nach Absatz 7 
 
 (7) Das Bundesministerium wird ermächtigt, soweit dies zur Durchsetzung der Rechtsakte der Europäischen Union erforderlich ist, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach Absatz 5 geahndet werden können.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
-
 # § 41 – Einziehung
 
 Ist eine Ordnungswidrigkeit nach § 40 Absatz 1 oder 3 bis 5 begangen worden, so können
@@ -1013,5 +955,3 @@ Im Agrarbereich treten an die Stelle der einschlägigen Bestimmungen der DPMA-Ve
 (8) Die auf der Grundlage des § 22g Absatz 1 Satz 1 des Weingesetzes in seiner bis zum 16. Januar 2026 geltenden Fassung bestehenden Anerkennungssysteme der Länder im Weinbereich gelten als Anerkennungssysteme im Sinne des § 6 Absatz 1 Satz 3. Für diese Anerkennungssysteme gilt die Ermächtigung des § 5 Absatz 1 als im Sinne des § 6 Absatz 1 Satz 1 übertragen. Die unionsrechtlichen Vorgaben für Anerkennungssysteme von Erzeugervereinigungen werden hierdurch nicht berührt.
 
 (9) § 9 Absatz 1 bis 5 und 8 Satz 1 sowie Absatz 9 ist erst ab dem 1. Januar 2027 anzuwenden.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)

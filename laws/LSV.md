@@ -7,8 +7,6 @@
 
 (2) Diese Verordnung dient auch der Durchführung der Verordnung (EU) 2023/1804 in der jeweils geltenden Fassung sowie der Rechtsakte der Europäischen Union, die zur Durchführung der Verordnung (EU) 2023/1804 ergangen sind.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 23.12.2025 I Nr. 367 +++)
-
 # § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung ist
@@ -20,8 +18,6 @@ Im Sinne dieser Verordnung ist
 3. „Betreiber“ ein solcher gemäß Artikel 2 Nummer 39 der Verordnung (EU) 2023/1804;
 
 4. „Regulierungsbehörde“ die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 23.12.2025 I Nr. 367 +++)
 
 # § 3 – Technische Anforderungen
 
@@ -48,8 +44,6 @@ Jeder Ladepunkt muss die geltenden technischen Anforderungen, insbesondere die A
 (2) Die Regulierungsbehörde kann verlangen, dass ein Ladepunkt nachgerüstet wird, um eine technische Anforderung nach § 3 oder eine Anforderung nach Artikel 5 Absatz 1, 2, 7, 8 oder 10 oder Anhang II der Verordnung (EU) 2023/1804 zu erfüllen.
 
 (3) Die Regulierungsbehörde kann den Betrieb eines Ladepunkts untersagen, wenn eine technische Anforderung nach § 3 oder eine Anforderung nach Artikel 5 Absatz 1, 2, 7, 8 oder 10 oder Anhang II der Verordnung (EU) 2023/1804 nicht eingehalten oder nicht nach § 4 Absatz 2 nachgewiesen wird oder der Anzeigepflicht nach § 4 Absatz 1 nicht nachgekommen worden ist.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 23.12.2025 I Nr. 367 +++)
 
 # § 6 – Datenübermittlung
 

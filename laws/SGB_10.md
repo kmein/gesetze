@@ -1087,8 +1087,6 @@ und keine Anhaltspunkte dafür bestehen, dass überwiegende schutzwürdige Inter
 
 (7) Die Speicherung und Nutzung der Identifikationsnummer nach dem Identifikationsnummerngesetz ist ausschließlich zum Zweck der eindeutigen Zuordnung der betroffenen Person bei der Erbringung von Verwaltungsleistungen nach dem Onlinezugangsgesetz zulässig sowie zur Qualitätssicherung nach § 10 des Identifikationsnummerngesetzes und zur Erfüllung der Aufgaben nach § 2 des Identifikationsnummerngesetzes.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 355 +++)
-
 # § 67d – Übermittlungsgrundsätze
 
 (1) Die Verantwortung für die Zulässigkeit der Bekanntgabe von Sozialdaten durch ihre Weitergabe an einen Dritten oder durch die Einsichtnahme oder den Abruf eines Dritten von zur Einsicht oder zum Abruf bereitgehaltenen Daten trägt die übermittelnde Stelle. Erfolgt die Übermittlung auf Ersuchen des Dritten, an den die Daten übermittelt werden, trägt dieser die Verantwortung für die Richtigkeit der Angaben in seinem Ersuchen.

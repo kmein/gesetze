@@ -1816,8 +1816,6 @@ des Höchstjahresarbeitsverdienstes nicht überschreiten.
 
 (6) Sind laufende Geldleistungen, die nach Absatz 1 auszuzahlen und in dem Monat fällig geworden sind, in dem der Berechtigte verstorben ist, auf das bisherige Empfängerkonto bei einem Geldinstitut überwiesen worden, ist der Anspruch der Erben gegenüber dem Träger der Unfallversicherung erfüllt.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 4.2.2026 I Nr. 33 +++)
-
 # § 97 – Leistungen ins Ausland
 
 Berechtigte, die ihren gewöhnlichen Aufenthalt im Ausland haben, erhalten nach diesem Buch
@@ -2388,7 +2386,7 @@ Die Unfallversicherungsträger sind für sich und ihre eigenen Unternehmen zust�
 
 (2) Bei Änderungen, die die nach Absatz 1 zum Unternehmer oder zum Unternehmen gespeicherten Daten betreffen, gilt § 192 Absatz 2 entsprechend.
 
-(3) Der Unternehmer hat für die Vergabe der Unternehmernummer einschließlich des Anhangs nach Absatz 1 Satz 4 die dazu notwendigen Angaben, insbesondere den Namen, den Geburtsnamen, das Geburtsdatum und die aktuelle Wohnanschrift, elektronisch zu übermitteln. Das Nähere zum Verfahren, zu den erforderlichen Angaben und zu den Datensätzen regelt die Deutsche Gesetzliche Unfallversicherung e. V., in Abstimmung mit der landwirtschaftlichen Berufsgenossenschaft, in Grundsätzen, die durch das Bundesministerium für Arbeit und Soziales zu genehmigen sind.
+(3) Der Unternehmer hat für die Vergabe der Unternehmernummer einschließlich des Anhangs nach Absatz 1 Satz 4 die dazu notwendigen Angaben, insbesondere den Namen, den Geburtsnamen, das Geburtsdatum, die Identifikationsnummer nach dem Identifikationsnummerngesetz und die aktuelle Wohnanschrift, elektronisch zu übermitteln. Das Nähere zum Verfahren, zu den erforderlichen Angaben und zu den Datensätzen regelt die Deutsche Gesetzliche Unfallversicherung e. V., in Abstimmung mit der landwirtschaftlichen Berufsgenossenschaft, in Grundsätzen, die durch das Bundesministerium für Arbeit und Soziales zu genehmigen sind.
 
 # § 136b – Verarbeitung zu Zwecken des Unternehmensbasisdatenregisters
 

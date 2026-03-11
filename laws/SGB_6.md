@@ -2246,8 +2246,6 @@ können für einen angemessenen Zeitraum im Voraus ausgezahlt werden.
 
 (5) Sind laufende Geldleistungen, die nach Absatz 1 auszuzahlen und in dem Monat fällig geworden sind, in dem der Berechtigte verstorben ist, auf das bisherige Empfängerkonto bei einem Geldinstitut überwiesen worden, ist der Anspruch der Erben gegenüber dem Träger der Rentenversicherung erfüllt.
 
-(+++ § 118 Abs. 3 bis 5: Zur Anwendung vgl. § 26 Abs. 3 HZvG 2002 ab F. 2016-11-11 +++)
-
 # § 118a – Anpassungsmitteilung
 
 Rentenbezieher erhalten eine Anpassungsmitteilung, wenn sich die Höhe des aktuellen Rentenwerts verändert.
@@ -3113,7 +3111,11 @@ Weitere Sozialdaten dürfen in der Stammsatzdatei der Datenstelle nur gespeicher
 
 7. Betriebsnummer des Arbeitgebers,
 
-8. Tag der Beschäftigungsaufnahme.
+8. Tag der Beschäftigungsaufnahme,
+
+9. Geburtsdatum,
+
+10. die Identifikationsnummer nach dem Identifikationsnummerngesetz.
 
 (3) Für die Prüfung, ob eine Beschäftigung oder selbstständige Erwerbstätigkeit innerhalb des Geltungsbereichs dieses Buches die Voraussetzungen erfüllt, nach denen die deutschen Rechtsvorschriften über die soziale Sicherheit nach den Vorschriften des Titels II der Verordnung (EG) Nr. 883/2004 keine Anwendung finden, speichert die Datenstelle der Rentenversicherung folgende Daten:
 
@@ -4055,8 +4057,6 @@ Die Meldungen haben durch elektronische Datenübermittlung im eXTra-Standard dur
 
 (4) (weggefallen)
 
-# § 196a – (weggefallen)
-
 # § 197 – Wirksamkeit von Beiträgen
 
 (1) Pflichtbeiträge sind wirksam, wenn sie gezahlt werden, solange der Anspruch auf ihre Zahlung noch nicht verjährt ist.
@@ -4422,10 +4422,6 @@ Als Versicherte der knappschaftlichen Rentenversicherung gelten auch sonstige Ve
 # § 228 – Grundsatz
 
 Die Vorschriften dieses Abschnitts ergänzen die Vorschriften der vorangehenden Kapitel für Sachverhalte, die von dem Zeitpunkt des Inkrafttretens der Vorschriften der vorangehenden Kapitel an nicht mehr oder nur noch übergangsweise eintreten können.
-
-# § 228a – (weggefallen)
-
-# § 228b – (weggefallen)
 
 # § 229 – Versicherungspflicht
 
@@ -6632,8 +6628,6 @@ für dieses Kalenderjahr ergeben. § 256b Abs. 1 Satz 4 bis 8 ist anzuwenden. F�
 
 (5) Die Absätze 1 bis 4 sind für selbständig Tätige entsprechend anzuwenden.
 
-# § 256d – (weggefallen)
-
 # § 257 – Entgeltpunkte für Berliner Beitragszeiten
 
 (1) Für Zeiten, für die Beiträge zur
@@ -6683,10 +6677,6 @@ werden für Pflichtbeitragszeiten vor dem 19. Mai 1990 anstelle der nach den §�
 (1) Für Zeiten der Zugehörigkeit zu einem Zusatz- oder Sonderversorgungssystem im Sinne des Anspruchs- und Anwartschaftsüberführungsgesetzes (AAÜG) vom 25. Juli 1991 (BGBl. I S. 1677) wird bei der Ermittlung der Entgeltpunkte der Verdienst nach dem AAÜG zugrunde gelegt. § 259a ist nicht anzuwenden.
 
 (2) Als Zeiten der Zugehörigkeit zu einem Versorgungssystem gelten auch Zeiten, die vor Einführung eines Versorgungssystems in der Sozialpflichtversicherung oder in der freiwilligen Zusatzrentenversicherung zurückgelegt worden sind, wenn diese Zeiten, hätte das Versorgungssystem bereits bestanden, im Versorgungssystem zurückgelegt worden wären.
-
-# § 259c
-
-(weggefallen)
 
 # § 260 – Beitragsbemessungsgrenzen
 
@@ -7042,8 +7032,6 @@ Entgeltpunkte</td>
 
 (7) Für glaubhaft gemachte Zeiten beruflicher Ausbildung sind höchstens fünf Sechstel der im Rahmen der Gesamtleistungsbewertung ermittelten Entgeltpunkte zu berücksichtigen. Dies gilt auch für die in den Absätzen 5 und 6 genannten Zeiten.
 
-# § 263a – (weggefallen)
-
 # § 264 – Zuschläge oder Abschläge beim Versorgungsausgleich
 
 Sind für Rentenanwartschaften Werteinheiten ermittelt worden, ergeben je 100 Werteinheiten einen Entgeltpunkt. Werteinheiten der knappschaftlichen Rentenversicherung sind zuvor mit der allgemeinen Bemessungsgrundlage der knappschaftlichen Rentenversicherung für das Jahr 1991 zu vervielfältigen und durch die allgemeine Bemessungsgrundlage der Rentenversicherung der Arbeiter und der Angestellten für dasselbe Jahr zu teilen.
@@ -7257,10 +7245,6 @@ in der knappschaftlichen Rentenversicherung Gebrauch gemacht haben, ist die Deut
 
 Ob im Beitrittsgebiet ein Betrieb knappschaftlich ist, einem knappschaftlichen Betrieb gleichgestellt ist oder die Zuständigkeit der Deutschen Rentenversicherung Knappschaft-Bahn-See als Träger der knappschaftlichen Rentenversicherung für Arbeitnehmer außerhalb von knappschaftlichen Betrieben, die denen in knappschaftlichen Betrieben gleichgestellt sind, gegeben ist, entscheidet in Zweifelsfällen das Bundesamt für Soziale Sicherung.
 
-# § 273b
-
-(weggefallen)
-
 # § 274 – Dateisysteme bei der Datenstelle hinsichtlich der Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971
 
 (1) § 150 Absatz 3 Satz 1 ist nicht im Verhältnis zu Staaten und Personengruppen anzuwenden, auf welche die Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern (ABl. L 149 vom 5.7.1971, S. 2), die zuletzt durch die Verordnung (EG) Nr. 592/2008 (ABl. L 177 vom 4.7.2008, S. 1) geändert worden ist, weiter Anwendung findet.
@@ -7323,17 +7307,9 @@ Ob im Beitrittsgebiet ein Betrieb knappschaftlich ist, einem knappschaftlichen B
 
 (6) Bis zum Abschluss des Ausgleichsverfahrens veröffentlicht die Deutsche Rentenversicherung Bund jährlich, erstmals im Jahr 2006, einen Bericht über die tatsächliche Arbeitsmengenverteilung zwischen den Bundes- und den Regionalträgern im Berichtsjahr sowie eine Prognose über die künftige Entwicklung auf beiden Ebenen. Auf dieser Grundlage entscheidet das Erweiterte Direktorium, ob weiterer Bedarf zur Stabilisierung der Arbeitsmengen zwischen den Trägern der Rentenversicherung besteht und beschließt die erforderlichen Maßnahmen.
 
-# § 274d – (weggefallen)
-
 # § 275
 
 (weggefallen)
-
-# § 275a – (weggefallen)
-
-# § 275b – (weggefallen)
-
-# § 275c – (weggefallen)
 
 # § 276 – Übergangsregelung für Auszubildende in einer außerbetrieblichen Einrichtung
 
@@ -7350,10 +7326,6 @@ Ob im Beitrittsgebiet ein Betrieb knappschaftlich ist, einem knappschaftlichen B
 # § 276b – Übergangsregelung für Beschäftigte in Privathaushalten im Übergangsbereich
 
 § 134 des Vierten Buches findet nur Anwendung auf Beschäftigte in Privathaushalten (§ 8a des Vierten Buches in Verbindung mit § 8 Absatz 1 Nummer 1 des Vierten Buches), die sich nicht von der Versicherungspflicht nach § 6 Absatz 1b befreien lassen. Die Beiträge werden von den Arbeitgebern in Höhe der Hälfte des Betrages getragen, der sich ergibt, wenn der Beitragssatz auf das der Beschäftigung zugrundeliegende Arbeitsentgelt angewendet wird, im Übrigen von den Beschäftigten.
-
-# § 276c – (weggefallen)
-
-\-
 
 # § 277 – Beitragsrecht bei Nachversicherung
 
@@ -7490,10 +7462,6 @@ Personen im Sinne der §§ 1 bis 4 des Bundesvertriebenengesetzes und des § 1 d
 2. binnen drei Jahren nach der Vertreibung, der Flucht oder der Evakuierung oder nach Beendigung einer Ersatzzeit wegen Vertreibung, Umsiedlung, Aussiedlung oder Flucht einen Pflichtbeitrag gezahlt haben,
 
 können auf Antrag freiwillige Beiträge für Zeiten vor Erreichen der Regelaltersgrenze bis zur Vollendung des 16. Lebensjahres, längstens aber bis zum 1. Januar 1924 zurück, nachzahlen, sofern diese Zeiten nicht bereits mit Beiträgen belegt sind. Nach bindender Bewilligung einer Vollrente wegen Alters ist eine Nachzahlung nicht zulässig, wenn der Monat abgelaufen ist, in dem die Regelaltersgrenze erreicht wurde.
-
-# § 284a
-
-(weggefallen)
 
 # § 285 – Nachzahlung bei Nachversicherung
 
@@ -7843,8 +7811,6 @@ Hatte eine Mutter am 18. Mai 1990 ihren gewöhnlichen Aufenthalt im Beitrittsgeb
 
 Monatliche Höhe der Leistung für Kindererziehung ist das 2,5-Fache des für die Berechnung von Renten jeweils maßgebenden aktuellen Rentenwerts.
 
-# § 295a – (weggefallen)
-
 # § 296 – Beginn und Ende
 
 (1) Eine Leistung für Kindererziehung wird von dem Kalendermonat an gezahlt, zu dessen Beginn die Anspruchsvoraussetzungen erfüllt sind.
@@ -7854,10 +7820,6 @@ Monatliche Höhe der Leistung für Kindererziehung ist das 2,5-Fache des für di
 (3) Fallen aus tatsächlichen oder rechtlichen Gründen die Anspruchsvoraussetzungen für die Leistung weg, endet sie mit dem Kalendermonat, zu dessen Beginn der Wegfall wirksam ist.
 
 (4) Die Leistung wird bis zum Ende des Kalendermonats gezahlt, in dem die Berechtigte gestorben ist.
-
-# § 296a
-
-(weggefallen)
 
 # § 297 – Zuständigkeit
 
@@ -7910,8 +7872,6 @@ Die Leistung für Kindererziehung bleibt als Einkommen unberücksichtigt, wenn b
 (3) Für Leistungen zur Teilhabe haben auch Versicherte die persönlichen Voraussetzungen erfüllt, die erwerbsunfähig oder berufsunfähig sind und bei denen voraussichtlich durch die Leistungen die Erwerbsfähigkeit wesentlich gebessert oder wiederhergestellt werden kann.
 
 (4) Mit Rehabilitationseinrichtungen, die vor dem 1. Juli 2023 Leistungen zur medizinischen Rehabilitation aufgrund von Vereinbarungen mit einem Träger der Rentenversicherung erbracht haben, gilt eine Zulassungsentscheidung als erteilt, sofern die Anforderungen nach § 15 Absatz 3 erfüllt sind.
-
-# § 301a – (weggefallen)
 
 # § 302 – Anspruch auf Altersrente in Sonderfällen
 
@@ -8460,8 +8420,6 @@ wird diese in Höhe des um 6,84 vom Hundert erhöhten bisherigen Betrages weiter
 
 (4) Berechtigte erhalten eine Rente wegen Berufsunfähigkeit nur, wenn sie auf diese Rente bereits für die Zeit, in der sie ihren gewöhnlichen Aufenthalt noch im Inland gehabt haben, einen Anspruch hatten.
 
-# § 317a – (weggefallen)
-
 # § 318 – (weggefallen)
 
 # § 319 – Zusatzleistungen
@@ -8519,8 +8477,6 @@ Zur Verfolgung und Ahndung von Ordnungswidrigkeiten arbeiten die Rentenversicher
 10. Verstöße gegen das Arbeitnehmer-Entsendegesetz
 
 ergeben. Sie unterrichten die für die Verfolgung und Ahndung zuständigen Behörden, die Träger der Sozialhilfe sowie die Behörden nach § 71 des Aufenthaltsgesetzes. Die Unterrichtung kann auch Angaben über die Tatsachen enthalten, die für die Abgabe der Meldungen des Arbeitgebers und die Einziehung der Beiträge zur Sozialversicherung erforderlich sind.
-
-# § 322 – (weggefallen)
 
 # Anlage 1 – Durchschnittsentgelt in Euro/DM/RM
 

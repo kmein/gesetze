@@ -807,8 +807,6 @@ Die Dienstzeitversorgung der Berufssoldatinnen und Berufssoldaten umfasst:
 
 Das Ruhegehalt wird auf der Grundlage der ruhegehaltfähigen Dienstbezüge und der ruhegehaltfähigen Dienstzeit berechnet.
 
-(+++ § 28: Zur Anwendung vgl. § 6 Abs. 2 SKPersStruktAnpG +++)
-
 # § 29 – Ruhegehaltfähige Dienstbezüge
 
 (1) Ruhegehaltfähige Dienstbezüge sind
@@ -959,8 +957,6 @@ Zeiten nach § 30 des Bundesbesoldungsgesetzes sind nicht ruhegehaltfähig.
 
 (8) Das Ruhegehalt vermindert sich um 3,6 Prozent für jedes Jahr, um das die Berufssoldatin oder der Berufssoldat vor Erreichen der für sie oder ihn geltenden besonderen oder allgemeinen Altersgrenze wegen Dienstunfähigkeit, die nicht auf einer Wehrdienstbeschädigung beruht, in den Ruhestand versetzt wird. Die Minderung des Ruhegehalts darf 10,8 Prozent nicht übersteigen. Absatz 1 Satz 2 und 4 gilt entsprechend.
 
-(+++ § 40 Abs. 2 u. 3: Zur Anwendung vgl. § 7 Abs. 2 SKPersStruktAnpG +++)
-
 # § 41 – Vorübergehende Erhöhung des Ruhegehaltssatzes
 
 (1) Der nach § 40 Absatz 1 bis 4, § 42 Absatz 1 Satz 1 dieses Gesetzes in Verbindung mit § 36 Absatz 3 Satz 1 des Beamtenversorgungsgesetzes und § 115 Absatz 3 berechnete Ruhegehaltssatz erhöht sich vorübergehend, wenn die Soldatin im Ruhestand oder der Soldat im Ruhestand
@@ -994,8 +990,6 @@ Die Erhöhung ist kaufmännisch auf zwei Dezimalstellen zu runden; der erhöhte 
 § 35 Absatz 3 Satz 2 des Beamtenversorgungsgesetzes gilt sinngemäß.
 
 (4) Die Erhöhung des Ruhegehaltssatzes wird auf Antrag vorgenommen. Anträge, die innerhalb von drei Monaten nach Eintritt der Berufssoldatin oder des Berufssoldaten in den Ruhestand gestellt werden, gelten als zum Zeitpunkt des Ruhestandseintritts gestellt. Wird der Antrag zu einem späteren Zeitpunkt gestellt, tritt die Erhöhung vom Beginn des Antragsmonats an ein.
-
-(+++ § 41: Zur Anwendung vgl. § 6 Abs. 2 u. § 7 Abs. 2 SKPersStruktAnpG +++)
 
 # § 42 – Unfallruhegehalt
 
@@ -1131,8 +1125,6 @@ entlassen worden ist, erhält ein Übergangsgeld. Das Übergangsgeld wird auch d
 
 (4) Der Ausgleich nach Absatz 1 erhöht sich um 528 Euro für jedes Jahr, um das die Zurruhesetzung vor dem Ende des Monats liegt, in dem die Regelaltersgrenze für Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte nach § 5 des Bundespolizeibeamtengesetzes vollendet wird; für restliche Kalendermonate wird jeweils ein Zwölftel dieses Betrages gewährt. Für Offizierinnen und Offiziere im Sinne des § 40 Absatz 4 gilt Satz 1 mit der Maßgabe, dass sie für die Berechnung des Erhöhungsbetrages so zu behandeln sind, als wären sie zum frühestmöglichen Zeitpunkt wegen Überschreitens der für ihren Dienstgrad jeweils geltenden Altersgrenze in den Ruhestand versetzt worden. Die Absätze 2 und 3 gelten entsprechend.
 
-(+++ § 53: Zur Anwendung vgl. § 7 Abs. 2 SKPersStruktAnpG +++)
-
 # § 54 – Berufsförderung der Berufssoldatinnen und Berufssoldaten
 
 (1) Einer Berufssoldatin oder einem Berufssoldaten, deren oder dessen Dienstverhältnis vor Vollendung des 45. Lebensjahres wegen Dienstunfähigkeit infolge einer Wehrdienstbeschädigung endet, wird auf Antrag die Förderung der schulischen oder beruflichen Bildung in dem Umfang gewährt, wie sie einer Soldatin auf Zeit oder einem Soldaten auf Zeit mit einer Wehrdienstzeit von acht Jahren zusteht.
@@ -1259,8 +1251,6 @@ Satz 1 Nummer 3 gilt auch bei Weiterzahlung an die Hinterbliebenen (§ 16 Absatz
 
 (2) Ansprüche auf Übergangsbeihilfe, Sterbegeld, einmalige Unfallentschädigung, einmalige Entschädigung und auf Schadensausgleich in besonderen Fällen können weder gepfändet noch abgetreten noch verpfändet werden. Ansprüche auf einen Ausbildungszuschuss, auf Übergangsgebührnisse und auf Grund einer Bewilligung einer Unterstützung nach § 57 können weder abgetreten noch verpfändet werden. Forderungen des Dienstherrn gegen die Verstorbene oder den Verstorbenen aus Vorschuss- oder Darlehensgewährungen sowie aus Überzahlungen von Dienst- oder Versorgungsbezügen können auf das Sterbegeld angerechnet werden.
 
-(+++ § 65: Zur Anwendung vgl. § 145 Abs. 1 WDO 2025 +++)
-
 # § 66 – Rückforderung
 
 (1) Wird eine Versorgungsberechtigte oder ein Versorgungsberechtigter durch eine gesetzliche Änderung ihrer oder seiner Versorgungsbezüge mit rückwirkender Kraft schlechter gestellt, so sind die Unterschiedsbeträge nicht zu erstatten.
@@ -1302,8 +1292,6 @@ Ein Aufrechnungs- oder Zurückbehaltungsrecht gegenüber Ansprüchen auf Versorg
 Erwerbsersatzeinkommen sind Leistungen, die auf Grund oder in entsprechender Anwendung öffentlich-rechtlicher Vorschriften kurzfristig erbracht werden, um Erwerbseinkommen zu ersetzen. Erwerbs- und Erwerbsersatzeinkommen werden in den Monaten des Zusammentreffens mit Versorgungsbezügen mit einem Zwölftel des im Kalenderjahr erzielten Einkommens angerechnet.
 
 (4) Verwendungseinkommen ist Erwerbseinkommen aus einer Verwendung im öffentlichen Dienst. Dies ist jede Beschäftigung im Dienst von Körperschaften, Anstalten und Stiftungen des deutschen öffentlichen Rechts oder ihrer Verbände. Ausgenommen ist die Beschäftigung bei öffentlich-rechtlichen Religionsgesellschaften oder ihren Verbänden. Der Verwendung im öffentlichen Dienst steht die Verwendung im öffentlichen Dienst einer zwischenstaatlichen oder überstaatlichen Einrichtung gleich, an der eine Körperschaft oder ein Verband im Sinne des Satzes 2 durch Zahlung von Beiträgen oder Zuschüssen oder in anderer Weise beteiligt ist. Ob die Voraussetzungen vorliegen, entscheidet auf Antrag der zuständigen Stelle oder der oder des Versorgungsberechtigten das Bundesministerium der Verteidigung im Einvernehmen mit dem Bundesministerium des Innern und für Heimat.
-
-(+++ § 68: Zur Anwendung vgl. § 6 Abs. 2 u. § 7 Abs. 2 SKPersStruktAnpG +++)
 
 # § 69 – Zusammentreffen von Versorgungsbezügen mit Altersgeld, Witwenaltersgeld oder Waisenaltersgeld
 

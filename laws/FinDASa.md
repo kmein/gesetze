@@ -121,9 +121,6 @@ Eine Beschlussfassung des Verwaltungsrats im schriftlichen Verfahren oder in Ver
 
 # § 8 – (weggefallen)
 
-(+++ § 8 Abs. 1 bis 3 u. 7: Zur Anwendung vgl. § 8a Abs. 4 +++)  
-(+++ § 8 Abs. 1 Satz 1 u. 3 bis 11, Abs. 2, 3 u. 7: Zur Anwendung vgl. § 8a Abs. 5 +++)
-
 # § 8a – Verbraucherbeirat
 
 (1) Die zwölf Mitglieder des Verbraucherbeirats werden von der Bundesanstalt im Einvernehmen mit dem Bundesministerium und im Benehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz aus den in § 8a Absatz 2 Satz 3 des Finanzdienstleistungsaufsichtsgesetzes genannten Gruppen bestellt. Die Mitglieder sollen über besondere berufliche Erfahrung und Kenntnisse auf dem Gebiet des finanziellen Verbraucherschutzes verfügen, jedoch nicht der Bundesanstalt angehören. Eine gleichzeitige Mitgliedschaft in anderen Beiräten der Bundesanstalt ist möglich.

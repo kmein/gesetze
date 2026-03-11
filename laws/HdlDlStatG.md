@@ -29,8 +29,6 @@ Im Sinne dieses Gesetzes sind
 
 6. „Geschäftsfelder” fachliche Einheiten entsprechend Abschnitt III Buchstabe D des Anhangs zur Verordnung (EWG) Nr. 696/93, in der jeweils geltenden Fassung, jedoch innerhalb rechtlicher Einheiten.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 354 +++)
-
 # § 3 – Erhebungseinheiten, Erhebungsbereiche
 
 (1) Erhebungseinheiten sind rechtliche Einheiten, sofern es sich um Marktproduzenten handelt.

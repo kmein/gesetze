@@ -2531,6 +2531,8 @@ Dem Unternehmer stehen Personen gleich, die in seinem Namen oder Auftrag handeln
 
 (2) Fernkommunikationsmittel im Sinne dieses Gesetzes sind alle Kommunikationsmittel, die zur Anbahnung oder zum Abschluss eines Vertrags eingesetzt werden können, ohne dass die Vertragsparteien gleichzeitig körperlich anwesend sind, wie Briefe, Kataloge, Telefonanrufe, Telekopien, E-Mails, über den Mobilfunkdienst versendete Nachrichten (SMS) sowie Rundfunk und digitale Dienste nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes.
 
+(+++ § 312c BGB in der am 19.6.2026 geltenden Fassung: Zur Nichtanwendung vgl. § 8 Abs. 5 VVG 2008 +++)
+
 # § 312d – Informationspflichten
 
 (1) Bei außerhalb von Geschäftsräumen geschlossenen Verträgen und bei Fernabsatzverträgen ist der Unternehmer verpflichtet, den Verbraucher nach Maßgabe des Artikels 246a des Einführungsgesetzes zum Bürgerlichen Gesetzbuche zu informieren. Die in Erfüllung dieser Pflicht gemachten Angaben des Unternehmers werden Inhalt des Vertrags, es sei denn, die Vertragsparteien haben ausdrücklich etwas anderes vereinbart.

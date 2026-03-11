@@ -9,8 +9,6 @@ Das Bundesministerium der Finanzen verordnet aufgrund des § 99 Absatz 3 des Min
 
 Diese Verordnung gilt für den automatischen Austausch von Informationen zu den Berichtspflichten nach dem Mindeststeuergesetz mit den Vertragsstaaten gemäß § 75 Absatz 4 des Mindeststeuergesetzes aufgrund der Richtlinie 2011/16/EU. Die Verordnung regelt zugleich die Besonderheiten beim Erstellen des Mindeststeuer-Berichts für berichtspflichtige Geschäftseinheiten.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 19.12.2025 I Nr. 373 +++)
-
 # § 2 – Begriffsbestimmungen
 
 (1) Für diese Verordnung gelten die Begriffsbestimmungen des Mindeststeuergesetzes und die in den nachstehenden Absätzen aufgeführten Definitionen.
@@ -36,8 +34,6 @@ Zuständige Behörde für die Annahme und die Weiterleitung von Informationen na
 (3) Der staatsbezogene Abschnitt enthält genaue Angaben zur Anwendung der GloBE-Mustervorschriften und gegebenenfalls der nationalen Ergänzungssteuer bezogen auf ein jeweiliges Steuerhoheitsgebiet, in dem die Unternehmensgruppe tätig ist. Zum staatsbezogenen Abschnitt zählen die Abschnitte 2 und 3 des Mindeststeuer-Berichts.
 
 (4) Der SES-Abschnitt, Abschnitt 3.4.3 des Mindeststeuer-Berichts, enthält Informationen über die Zurechnung der Sekundärergänzungssteuer in Bezug auf ein Steuerhoheitsgebiet.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 19.12.2025 I Nr. 373 +++)
 
 # § 5 – Informationsaustausch; Verteilungsansatz
 
