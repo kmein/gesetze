@@ -343,7 +343,7 @@ Ordnungswidrig handelt, wer gegen die Durchführungsverordnung (EU) 2021/520 ver
 
 # § 13 – Höhe der Geldbuße
 
-Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu vierzigtausend Euro geahndet werden.
+Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
 # § 14 – Verweisungen auf Vorschriften in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union
 

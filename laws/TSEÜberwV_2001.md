@@ -73,6 +73,8 @@ Malta
 
 Niederlande
 
+Nordirland
+
 Österreich
 
 Polen
@@ -90,7 +92,5 @@ Spanien
 Tschechische Republik
 
 Ungarn
-
-Vereinigtes Königreich sowie die Kanalinseln und die Insel Man
 
 Zypern

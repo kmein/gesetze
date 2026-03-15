@@ -1596,8 +1596,6 @@ zusätzliche Entgeltpunkte. Dies gilt nicht für Zeiten, in denen eine Rente weg
 
 # § 86 – (weggefallen)
 
-\-
-
 # § 86a – Zugangsfaktor
 
 Bei Renten für Bergleute ist als niedrigstes Lebensalter für die Bestimmung des Zugangsfaktors (§ 77) die Vollendung des 64. Lebensjahres zugrunde zu legen. § 77 Abs. 3 Satz 2 ist bei Renten für Bergleute mit der Maßgabe anzuwenden, dass an die Stelle der Hälfte der Entgeltpunkte drei Fünftel der Entgeltpunkte treten. § 77 Abs. 4 ist bei Renten für Bergleute mit der Maßgabe anzuwenden, dass als niedrigstes Lebensalter für die Bestimmung des Zugangsfaktors die Vollendung des 62. Lebensjahres zugrunde zu legen ist.
@@ -1765,8 +1763,6 @@ Die Abfindung tritt für den Zeitraum, für den sie bestimmt ist, an die Stelle 
 Als Zeitpunkt des Versicherungsfalls gilt bei Berufskrankheiten der letzte Tag, an dem der Versicherte versicherte Tätigkeiten verrichtet hat, die ihrer Art nach geeignet waren, die Berufskrankheit zu verursachen. Satz 1 Nr. 1 gilt nicht für Hinterbliebenenrenten.
 
 # § 94 – (weggefallen)
-
-\-
 
 # § 95 – (weggefallen)
 
@@ -2961,9 +2957,7 @@ Die Mitglieder der Arbeitsgruppe Personalvertretung beteiligen ihre jeweiligen H
 
 (5) (weggefallen)
 
-# § 146
-
-(weggefallen)
+# § 146 – (weggefallen)
 
 # § 147 – Versicherungsnummer
 
@@ -4315,9 +4309,7 @@ In der knappschaftlichen Rentenversicherung trägt der Bund den Unterschiedsbetr
 
 (3) Abweichend von den Absätzen 1 und 2 darf die Nachhaltigkeitsrücklage ganz oder teilweise längstens bis zum nächsten gesetzlich vorgegebenen Zahlungstermin festgelegt werden, wenn gemäß der Liquiditätserfassung nach § 214a erkennbar ist, dass der allgemeinen Rentenversicherung die liquiden Mittel der Nachhaltigkeitsrücklage nicht ausreichen, die Zahlungsverpflichtungen zu erfüllen.
 
-# § 218
-
-(weggefallen)
+# § 218 – (weggefallen)
 
 # § 219 – Finanzverbund in der allgemeinen Rentenversicherung
 
@@ -7122,12 +7114,6 @@ Beginnt eine Rente wegen verminderter Erwerbsfähigkeit vor dem 1. Januar 2024 o
   
 § 86a ist mit der Maßgabe anzuwenden, dass an die Stelle von 40 Jahren 35 Jahre treten.
 
-# § 265a – (weggefallen)
-
-# § 265b
-
-(weggefallen)
-
 # § 266 – Erhöhung des Grenzbetrags
 
 Bestand am 31. Dezember 1991 Anspruch auf eine Rente nach den Vorschriften im Gebiet der Bundesrepublik Deutschland ohne das Beitrittsgebiet und auf eine Rente aus der Unfallversicherung, ist Grenzbetrag für diese und eine sich unmittelbar anschließende Rente mindestens der sich nach den §§ 311 und 312 ergebende, um die Beträge nach § 93 Abs. 2 Nr. 1 Buchstabe b und Nr. 2 Buchstabe a geminderte Betrag.
@@ -8404,9 +8390,7 @@ Bestand am 31. Dezember 1991 Anspruch auf eine
 
 wird diese in Höhe des um 6,84 vom Hundert erhöhten bisherigen Betrages weitergeleistet.
 
-# § 316
-
-(weggefallen)
+# § 316 – (weggefallen)
 
 # § 317 – Grundsatz
 
@@ -12537,9 +12521,7 @@ Fundstelle des Originaltextes: BGBl. I 2002, 915
 
 (weggefallen)
 
-# Anlage 18
-
-(weggefallen)
+# Anlage 18 – (weggefallen)
 
 # Anlage 19
 
@@ -14005,18 +13987,6 @@ um ... Monat</td>
 Geburtsjahr Geburtsmonat
 
 um ... Monat
-
-# Anlage 21 – (weggefallen)
-
-\-
-
-# Anlage 22 – (weggefallen)
-
-\-
-
-# Anlage 23 – (weggefallen)
-
-\-
 
 # Anhang EV – Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet H Abschnitt III  (BGBl. II 1990, 889, 1060)  - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

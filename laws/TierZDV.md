@@ -319,7 +319,7 @@ Der Betreiber einer nationalen Besamungsstation hat sicherzustellen, dass
 
 3. die in den §§ 14 und 15 vorgesehenen Aufzeichnungen durchgeführt und übermittelt werden;
 
-4. unbeschadet der sonstigen Pflichten des Tierhalters die auf der Station gehaltenen Tiere durch den Tierarzt oder die Tierärztin, der oder die nach § 18 Absatz 2 Nummer 1 des Tierzuchtgesetzes benannt ist, wöchentlich auf klinische Anzeichen aller meldepflichtigen Krankheiten und anzeigepflichtigen Tierseuchen, die durch den gewonnenen Samen übertragen werden können, untersucht werden und Tiere, bei denen sich Anzeichen von meldepflichtigen Krankheiten und anzeigepflichtigen Tierseuchen zeigen oder bei denen aus anderen Gründen der Verdacht auf Ausbruch einer meldepflichtigen Krankheit und anzeigepflichtigen Tierseuche besteht, unverzüglich von der Gewinnung von Samen ausgeschlossen werden;
+4. unbeschadet der sonstigen Pflichten des Tierhalters die auf der Station gehaltenen Tiere durch den Tierarzt oder die Tierärztin, der oder die nach § 18 Absatz 2 Nummer 1 des Tierzuchtgesetzes benannt ist, wöchentlich auf klinische Anzeichen aller meldepflichtigen Seuchen, die durch den gewonnenen Samen übertragen werden können, untersucht werden und Tiere, bei denen sich Anzeichen von meldepflichtigen Seuchen zeigen oder bei denen aus anderen Gründen der Verdacht auf Ausbruch einer meldepflichtigen Seuche besteht, unverzüglich von der Gewinnung von Samen ausgeschlossen werden;
 
 5. die in Anlage 2 Spalte 1 genannten Tiere vor der Aufnahme in den Quarantänebereich der Besamungsstation die jeweiligen Voraussetzungen nach Anlage 2 Spalte 2 erfüllen und dass diese Tiere mindestens 28 Tage im Quarantänebereich verbleiben;
 
@@ -337,9 +337,7 @@ Der Betreiber einer nationalen Besamungsstation hat sicherzustellen, dass
 
 11. bei Samenspendern, die nach dieser Verordnung zur Samengewinnung und zusätzlich im Natursprung oder zum Abprobieren verwendet werden,
 
-a) zwischen dem Natursprung oder dem Abprobieren und der Samengewinnung eine
-
-30-tägige Karenzzeit eingehalten wird und
+a) zwischen dem Natursprung oder dem Abprobieren und der Samengewinnung eine 30-tägige Karenzzeit eingehalten wird und
 
 b) 14 Tage vor der nächsten Samengewinnung, die auf einen Natursprung oder Abprobieren folgt, die erforderlichen Untersuchungen nach Anlage 2 Spalte 4 erneut durchgeführt werden;
 
@@ -369,7 +367,7 @@ c) festgestellte Mängel schriftlich oder elektronisch aufzeichnet und unverzüg
 
 16. die nach Nummer 15 Buchstabe c festgestellten Mängel behoben werden.
 
-§ 4 des Tiergesundheitsgesetzes bleibt unberührt.
+Die Regelungen einer aufgrund des § 4 des Tiergesundheitsgesetzes erlassenen Rechtsverordnung bleiben unberührt soweit diese Rechtsverordnung nichts anderes bestimmt.
 
 # § 12 – Kennzeichnungsnummer der nationalen Besamungsstation
 
@@ -579,15 +577,15 @@ Eine nationale Embryo-Entnahmeeinheit verfügt über die nach § 18 Absatz 2 Num
 
 (1) Der Betreiber einer nationalen Embryo-Entnahmeeinheit hat sicherzustellen, dass
 
-1. Tiere, die zur Gewinnung von Embryonen vorgesehen sind, vor der Gewinnung von Embryonen frei von meldepflichtigen Krankheiten und anzeigepflichtigen Tierseuchen sind, die durch Eizellen oder Embryonen übertragen werden können;
+1. Tiere, die zur Gewinnung von Embryonen vorgesehen sind, vor der Gewinnung von Embryonen frei von meldepflichtigen Seuchen sind, die durch Eizellen oder Embryonen übertragen werden können;
 
-2. Tiere, bei denen sich Anzeichen von meldepflichtigen Krankheiten und anzeigepflichtigen Tierseuchen zeigen, die durch Embryonen übertragen werden können, oder bei denen aus anderen Gründen der Verdacht auf Ausbruch einer meldepflichtigen Krankheit und anzeigepflichtigen Tierseuche besteht, die durch Embryonen übertragen werden können, unverzüglich von der Gewinnung von Embryonen ausgeschlossen werden sowie ihre Embryonen, mit Ausnahme derjenigen, die vor der letzten Untersuchung der Tiere mit negativem Befund gewonnen worden sind, unverzüglich untersucht, bis zum Vorliegen des Ergebnisses der Untersuchung nicht verwendet und bei Nachweis der Krankheit unverzüglich vernichtet werden;
+2. Tiere, bei denen sich Anzeichen von meldepflichtigen Seuchen zeigen, die durch Embryonen übertragen werden können, oder bei denen aus anderen Gründen der Verdacht auf Ausbruch einer meldepflichtigen Seuche besteht, die durch Embryonen übertragen werden kann, unverzüglich von der Gewinnung von Embryonen ausgeschlossen werden sowie ihre Embryonen, mit Ausnahme derjenigen, die vor der letzten Untersuchung der Tiere mit negativem Befund gewonnen worden sind, unverzüglich untersucht, bis zum Vorliegen des Ergebnisses der Untersuchung nicht verwendet und bei Nachweis der Krankheit unverzüglich vernichtet werden;
 
 3. Aufzeichnungen über Untersuchungen und Befunde zu Nummer 2 erstellt werden;
 
 4. Embryonen nicht an eine EU-Embryo-Entnahmeeinheit oder eine EU-Embryo-Erzeugungseinheit abgegeben werden;
 
-5. der Tierarzt oder die Tierärztin, der oder die in § 18 Absatz 2 Nummer 1 des Tierzuchtgesetzes benannt ist,
+5. der Tierarzt oder die Tierärztin, der oder die nach § 18 Absatz 2 Nummer 1 des Tierzuchtgesetzes benannt ist,
 
 a) die Einhaltung der nach den Nummern 1 bis 3 vorgeschriebenen Tätigkeiten überwacht und
 
@@ -909,7 +907,7 @@ Ordnungswidrig im Sinne des § 23 Absatz 1 Nummer 6 des Tierzuchtgesetzes handel
 
 9. entgegen § 11 Satz 1 Nummer 14 oder § 18 Absatz 1 Nummer 4 nicht sicherstellt, dass Samen oder Embryonen nicht an eine dort genannte Einrichtung abgegeben werden,
 
-10. entgegen § 18 Absatz 1 Nummer 1 nicht sicherstellt, dass ein dort genanntes Tier frei von meldepflichtigen Krankheiten oder anzeigepflichtigen Tierseuchen ist,
+10. entgegen § 18 Absatz 1 Nummer 1 nicht sicherstellt, dass ein dort genanntes Tier frei von meldepflichtigen Seuchen ist,
 
 11. entgegen § 18 Absatz 1 Nummer 2 nicht sicherstellt, dass ein dort genanntes Tier von der Gewinnung von Embryonen ausgeschlossen wird oder seine Embryonen untersucht, nicht verwendet oder vernichtet werden oder
 

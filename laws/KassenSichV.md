@@ -143,7 +143,7 @@ Die Daten nach Satz 2 Nummer 2 bis 4 werden manipulationssicher durch das Sicher
 
 (4) Verfügt ein EU-Taxameter nicht über einen Belegdrucker, so besteht keine Belegausgabepflicht. In diesen Fällen kann der Beleg außerhalb des EU-Taxameters in Papierform oder mit Zustimmung des Belegempfängers elektronisch in einem standardisierten Datenformat ausgegeben werden; andere gesetzliche Vorgaben bleiben unberührt. Die umsatzsteuerlichen Anforderungen an eine Rechnung bleiben unberührt.
 
-(+++ § 7: Zur Anwendung vgl. § 9 Abs. 1 +++)
+(+++ § 7: Zur Anwendung vgl. § 9 +++)
 
 # § 8 – Anforderungen an Wegstreckenzähler
 

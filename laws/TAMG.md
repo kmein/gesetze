@@ -181,7 +181,7 @@
 
  
 
-Inhaltsübersicht Kursivdruck: Müsste richtig "über" lauten
+Inhaltsübersicht (zu § 94) Kursivdruck: Die Wörter "zu antibiotisch wirksamen Arzneimitteln" müssten richtig "über antibiotisch wirksame Arzneimittel" lauten
 
 # § 1 – Zweck des Gesetzes
 

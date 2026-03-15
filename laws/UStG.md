@@ -545,7 +545,7 @@ Von den unter § 1 Abs. 1 Nr. 1 fallenden Umsätzen sind steuerfrei:
 
 b) die innergemeinschaftlichen Lieferungen (§ 6a); dies gilt nicht, wenn der Unternehmer seiner Pflicht zur Abgabe der Zusammenfassenden Meldung (§ 18a) nicht nachgekommen ist oder soweit er diese im Hinblick auf die jeweilige Lieferung unrichtig oder unvollständig abgegeben hat;
 
-2. die Umsätze für die Seeschiffahrt und für die Luftfahrt (§ 8);
+2. die Umsätze für die Seeschifffahrt und für die Luftfahrt (§ 8);
 
 3. die folgenden sonstigen Leistungen:
 
@@ -591,7 +591,7 @@ c) die Lieferungen von eingeführten Gegenständen an im Drittlandsgebiet, ausge
 
 d) Personenbeförderungen im Passagier- und Fährverkehr mit Wasserfahrzeugen für die Seeschifffahrt, wenn die Personenbeförderungen zwischen inländischen Seehäfen und der Insel Helgoland durchgeführt werden,
 
-e) die Abgabe von Speisen und Getränken zum Verzehr an Ort und Stelle im Verkehr mit Wasserfahrzeugen für die Seeschiffahrt zwischen einem inländischen und ausländischen Seehafen und zwischen zwei ausländischen Seehäfen. Inländische Seehäfen im Sinne des Satzes 1 sind auch die Freihäfen und Häfen auf der Insel Helgoland;
+e) die Abgabe von Speisen und Getränken zum Verzehr an Ort und Stelle im Verkehr mit Wasserfahrzeugen für die Seeschifffahrt zwischen einem inländischen und ausländischen Seehafen und zwischen zwei ausländischen Seehäfen. Inländische Seehäfen im Sinne des Satzes 1 sind auch die Freihäfen und Häfen auf der Insel Helgoland;
 
 7. die Lieferungen, ausgenommen Lieferungen neuer Fahrzeuge im Sinne des § 1b Abs. 2 und 3, und die sonstigen Leistungen
 
@@ -1119,11 +1119,11 @@ Der bearbeitete oder verarbeitete Gegenstand kann durch weitere Beauftragte vor 
 
 (5) Die Absätze 1 bis 4 gelten nicht für die sonstigen Leistungen im Sinne des § 3 Abs. 9a Nr. 2.
 
-# § 8 – Umsätze für die Seeschiffahrt und für die Luftfahrt
+# § 8 – Umsätze für die Seeschifffahrt und für die Luftfahrt
 
-(1) Umsätze für die Seeschiffahrt (§ 4 Nr. 2) sind:
+(1) Umsätze für die Seeschifffahrt (§ 4 Nr. 2) sind:
 
-1. die Lieferungen, Umbauten, Instandsetzungen, Wartungen, Vercharterungen und Vermietungen von Wasserfahrzeugen für die Seeschiffahrt, die dem Erwerb durch die Seeschiffahrt oder der Rettung Schiffbrüchiger zu dienen bestimmt sind (aus Positionen 8901 und 8902 00, aus Unterposition 8903 92 10, aus Position 8904 00 und aus Unterposition 8906 90 10 des Zolltarifs);
+1. die Lieferungen, Umbauten, Instandsetzungen, Wartungen, Vercharterungen und Vermietungen von Wasserfahrzeugen für die Seeschifffahrt, die dem Erwerb durch die Seeschifffahrt oder der Rettung Schiffbrüchiger zu dienen bestimmt sind (aus Positionen 8901 und 8902 00, aus Unterposition 8903 92 10, aus Position 8904 00 und aus Unterposition 8906 90 10 des Zolltarifs);
 
 2. die Lieferungen, Instandsetzungen, Wartungen und Vermietungen von Gegenständen, die zur Ausrüstung der in Nummer 1 bezeichneten Wasserfahrzeuge bestimmt sind;
 

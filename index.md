@@ -1643,6 +1643,7 @@
 - [EbertStiftG](laws/EbertStiftG.md) Gesetz über die Errichtung einer Stiftung Reichspräsident-Friedrich-Ebert-Gedenkstätte
 - [EBeV 2022](laws/EBeV_2022.md) Verordnung über die Emissionsberichterstattung nach dem Brennstoffemissionshandelsgesetz für die Jahre 2021 und 2022
 - [EBeV 2030](laws/EBeV_2030.md) Verordnung über die Emissionsberichterstattung nach dem Brennstoffemissionshandelsgesetz für die Jahre 2023 bis 2030
+- [EBewMG](laws/EBewMG.md) Gesetz über Europäische Herausgabe- und Sicherungsanordnungen zu elektronischen Beweismitteln
 - [EBIG](laws/EBIG.md) Gesetz zur Europäischen Bürgerinitiative
 - [EBKrG](laws/EBKrG.md) Gesetz über Kreuzungen von Eisenbahnen und Straßen
 - [EBO](laws/EBO.md) Eisenbahn-Bau- und Betriebsordnung
@@ -4841,7 +4842,6 @@
 - [RiFlEtikettV](laws/RiFlEtikettV.md) Verordnung über die Etikettierung von Rindfleisch und über die Verkehrsbezeichnung und Kennzeichnung von Fleisch von weniger als zwölf Monate alten Rindern
 - [RindFlSoErstV 1994](laws/RindFlSoErstV_1994.md) Verordnung über das Verfahren für die Gewährung von Sondererstattungen bei der Ausfuhr von Rindfleisch nach Drittländern
 - [RindHKlV](laws/RindHKlV.md) Verordnung über gesetzliche Handelsklassen und Kategorien für Rinderschlachtkörper
-- [RindSalmV](laws/RindSalmV.md) Verordnung zum Schutz gegen die Salmonellose der Rinder
 - [RindTbV](laws/RindTbV.md) Verordnung zum Schutz gegen die Tuberkulose des Rindes
 - [RIP](laws/RIP.md) Ordnung für die internationale Eisenbahnbeförderung von Privatwagen (Anlage II zum Anhang B zum Übereinkommen über den internationalen Eisenbahnverkehr (COTIF)
 - [RiRegDG](laws/RiRegDG.md) Gesetz über die Verwendung der zur Durchführung der Rechtsakte der Europäischen Gemeinschaft über die Kennzeichnung und Registrierung von Rindern erhobenen Daten
@@ -5725,8 +5725,8 @@
 - [TierErzHaVerbG](laws/TierErzHaVerbG.md) Gesetz zur Durchführung unionsrechtlicher Vorschriften über Verbote und Beschränkungen hinsichtlich des Handels mit bestimmten tierischen Erzeugnissen sowie zu Haltungs- und Abgabeverboten in bestimmten Fällen
 - [TierGesBußG](laws/TierGesBußG.md) Gesetz zur Durchsetzung tiergesundheitsrechtlicher und bestimmter kontrollrechtlicher Vorschriften der Europäischen Union
 - [TierGesG](laws/TierGesG.md) Gesetz zur Vorbeugung vor und Bekämpfung von Tierseuchen
+- [TierGesIVDV](laws/TierGesIVDV.md) Verordnung über In-vitro-Diagnostika nach dem Tiergesundheitsgesetz
 - [TierHaltKennzG](laws/TierHaltKennzG.md) Gesetz zur Kennzeichnung von Lebensmitteln mit der Haltungsform der Tiere, von denen die Lebensmittel gewonnen wurden*,**
-- [TierImpfStV 2006](laws/TierImpfStV_2006.md) Verordnung über Sera, Impfstoffe und Antigene nach dem Tiergesundheitsgesetz
 - [TiermedFAngAusbV](laws/TiermedFAngAusbV.md) Verordnung über die Berufsausbildung zum Tiermedizinischen Fachangestellten/zur Tiermedizinischen Fachangestellten
 - [TierNebBußV](laws/TierNebBußV.md) Verordnung zur Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1774/2002
 - [TierNebG](laws/TierNebG.md) Tierische Nebenprodukte-Beseitigungsgesetz
@@ -5742,9 +5742,9 @@
 - [TierSchTÜbk](laws/TierSchTÜbk.md) Europäisches Übereinkommen über den Schutz von Tieren beim internationalen Transport
 - [TierSchTÜbkG](laws/TierSchTÜbkG.md) Gesetz zu dem Europäischen Übereinkommen vom 13. Dezember 1968 über den Schutz von Tieren beim internationalen Transport
 - [TierSchVersV](laws/TierSchVersV.md) Verordnung zum Schutz von zu Versuchszwecken oder zu anderen wissenschaftlichen Zwecken verwendeten Tieren
-- [TierSeuchAnzV](laws/TierSeuchAnzV.md) Verordnung über anzeigepflichtige Tierseuchen
 - [TierSeuchErEinfV](laws/TierSeuchErEinfV.md) Verordnung über das innergemeinschaftliche Verbringen und die Einfuhr von Tierseuchenerregern
 - [TierSeuchErV](laws/TierSeuchErV.md) Verordnung über das Arbeiten mit Tierseuchenerregern
+- [TierSeuchMeldV](laws/TierSeuchMeldV.md) Verordnung über die Meldung von Seuchen bei Tieren
 - [TierSeuchSchNOKanV](laws/TierSeuchSchNOKanV.md) Verordnung über die Beförderung von Tieren, Teilen, Erzeugnissen und Rohstoffen von Tieren sowie von sonstigen Gegenständen, die Träger von Ansteckungsstoff sein können, durch den Nord-Ostsee-Kanal
 - [TierwMeistPrV](laws/TierwMeistPrV.md) Verordnung über die Meisterprüfung zum anerkannten Fortbildungsabschluss Tierwirtschaftsmeister und Tierwirtschaftsmeisterin
 - [TierZDV](laws/TierZDV.md) Verordnung zur Durchführung des Tierzuchtgesetzes 1 , 2
@@ -5759,7 +5759,6 @@
 - [TKModG](laws/TKModG.md) Gesetz zur Umsetzung der Richtlinie (EU) 2018/1972 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 über den europäischen Kodex für die elektronische Kommunikation (Neufassung) und zur Modernisierung des Telekommunikationsrechts *
 - [TKMV](laws/TKMV.md) Verordnung über die Mindestanforderungen für das Recht auf Versorgung mit Telekommunikationsdiensten *
 - [TKonfAusbV 2010](laws/TKonfAusbV_2010.md) Verordnung über die Berufsausbildung zum Technischen Konfektionär/zur Technischen Konfektionärin*)
-- [TKrMeldpflV 1983](laws/TKrMeldpflV_1983.md) Verordnung über meldepflichtige Tierkrankheiten
 - [TKTransparenzV](laws/TKTransparenzV.md) Verordnung zur Förderung der Transparenz auf dem Telekommunikationsmarkt
 - [TKÜV](laws/TKÜV.md) Verordnung über die technische und organisatorische Umsetzung von Maßnahmen zur Überwachung der Telekommunikation
 - [TLMV](laws/TLMV.md) Verordnung über tiefgefrorene Lebensmittel

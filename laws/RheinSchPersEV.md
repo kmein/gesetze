@@ -93,7 +93,7 @@ Soweit die Rheinschiffspersonalverordnung und die Dienstanweisungen zur Rheinsch
 
 2. für das Behördenpatent: ein Behördenschifferzeugnis nach § 15 Absatz 4 der Binnenschiffspersonalverordnung.
 
-# § 7 – Ausbildungsprogramme, Lehrgänge, Prüfungen
+# § 7 – Ausbildungsprogramme, Lehrgänge, Prüfungen, Sicherheitsausbildung
 
 (1) Ausbildungsprogramme im Sinne des
 
@@ -114,6 +114,12 @@ Soweit die Rheinschiffspersonalverordnung und die Dienstanweisungen zur Rheinsch
 (7) Basislehrgang für Sachkundige für die Fahrgastschifffahrt im Sinne des § 16.02 Satz 2 Buchstabe a der Rheinschiffspersonalverordnung ist auch das durch § 55 Absatz 1 Nummer 1 der Binnenschiffspersonalverordnung zugelassene Ausbildungsprogramm mit dem Schwerpunkt Personenschifffahrt.
 
 (8) Die Prüfung für die besondere Berechtigung für das Befahren der Abschnitte des Rheins mit besonderen Risiken im Sinne des § 13.03 Nummer 5 in Verbindung mit der Anlage 5 der Rheinschiffspersonalverordnung besteht aus Antwort-Wahl-Aufgaben, sofern sich aus der Prüfungsordnung nach § 76 der Binnenschiffspersonalverordnung nichts anderes ergibt.
+
+(9) Grundlegende Sicherheitsausbildung im Sinne des § 10.01 Nummer 1 Buchstabe b der Rheinschiffspersonalverordnung ist eine grundlegende Sicherheitsausbildung, die zugelassen wurde
+
+1. nach § 53 der Binnenschiffspersonalverordnung oder
+
+2. von der zuständigen Behörde eines anderen Mitgliedstaates der Zentralkommission für die Rheinschifffahrt.
 
 # § 8 – Pflichten der Eigentümer, Ausrüster, Schiffsführer und Besatzungsmitglieder
 

@@ -3707,6 +3707,8 @@ c) bei welchen Telekommunikationsanlagen und damit erbrachten Telekommunikations
 
 (11) Betreiber von öffentlichen Mobilfunknetzen, die Nutzer eines Betreibers von öffentlichen Mobilfunknetzen in der Europäischen Union nach Absprache anschließen und zu dessen Telekommunikationsanlage vermitteln, haben bei der durch sie bereitzustellenden Überwachungskopie sicherzustellen, dass eine durch den ausländischen Betreiber netzseitig aufgebrachte Verschlüsselung zu dessen Nutzern aufgehoben wird, soweit hierfür internationale technische Standards zur Verfügung stehen, die in der Technischen Richtlinie nach Absatz 6 beschrieben werden.
 
+(12) Die Regelungen des Absatzes 1 Nummer 3 Buchstabe b und des Absatzes 2 Nummer 2 Buchstabe c gelten nicht im Anwendungsbereich der Richtlinie (EU) 2023/1544 in der Fassung vom 12. Juli 2023.
+
 # § 171 – Mitwirkung bei technischen Ermittlungsmaßnahmen bei Mobilfunkendgeräten
 
 Jeder Betreiber eines öffentlichen Mobilfunknetzes hat den berechtigten Stellen nach § 100i Absatz 1 der Strafprozessordnung, § 53 des Bundekriminalamtsgesetzes, § 12 Absatz 1 des MAD-Gesetzes, § 9 Absatz 4 des Bundesverfassungsschutzgesetzes, auch in Verbindung mit § 5 des BND-Gesetzes, oder nach Landesrecht nach Maßgabe der Rechtsverordnung nach § 170 Absatz 5 und der Technischen Richtlinie nach § 170 Absatz 6 ohne dass dies dem Endnutzer bekannt wird,

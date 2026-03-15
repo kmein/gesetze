@@ -122,7 +122,9 @@ Personal
 
 39. „Befähigungszeugnis“ ein gemäß dieser Verordnung ausgestelltes Zeugnis;
 
-40. „Unionsbefähigungszeugnis“ ein von einer hierfür benannten Behörde eines Mitgliedstaats der Europäischen Union ausgestelltes Zeugnis, das bescheinigt, dass eine Person die Anforderungen der Richtlinie (EU) 2017/2397<span id="FnR.BJNR0690Q0023BJNE000300000_1"></span><a href="#BJNR0690Q0023BJNE000300000_1" class="FnR">1</a></sup> erfüllt;
+40. „Unionsbefähigungszeugnis“ ein von einer hierfür benannten Behörde eines Mitgliedstaats der Europäischen Union oder von einem Drittstaat, dessen Zeugnisse von der Europäischen Kommission als gültig anerkannt wurden, ausgestelltes Zeugnis, das bescheinigt, dass eine Person die Anforderungen der Richtlinie (EU)
+
+2017/2397 erfüllt;
 
 41. „Sprechfunkzeugnis“ ein gemäß der Vollzugsordnung für den Funkdienst, die dem Internationalen Fernmeldevertrag beigefügt ist, ausgestelltes nationales Zeugnis, mit dem die Erlaubnis zum Bedienen einer Funkstelle auf einem Binnenwasserstraßenfahrzeug erteilt wird;
 
