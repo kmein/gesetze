@@ -799,7 +799,7 @@ Das Nähere regelt das System in seiner Satzung. Es setzt sich mit der Bundesans
 
 (2) Die Bundesanstalt hat Missständen entgegenzuwirken, welche die ordnungsgemäße Durchführung der Entschädigung beeinträchtigen oder die zur Durchführung der Entschädigung verfügbaren Finanzmittel gefährden können. Die Bundesanstalt kann Anordnungen treffen, die geeignet und erforderlich sind, diese Missstände zu beseitigen oder zu verhindern. Verstoßen Personen, die nach Gesetz oder Satzung die Geschäftsführung und Vertretung des Einlagensicherungssystems ausüben, vorsätzlich oder leichtfertig gegen die Bestimmungen dieses Gesetzes, gegen die zur Durchführung dieses Gesetzes erlassenen Verordnungen oder gegen Anordnungen der Aufsichtsbehörde, und setzen sie trotz Verwarnung durch die Bundesanstalt dieses Verhalten fort, kann die Bundesanstalt ihre Abberufung verlangen und ihnen die Ausübung ihrer Tätigkeit untersagen.
 
-(3) Der Bundesanstalt stehen gegenüber den Einlagensicherungssystemen die Auskunfts- und Prüfungsrechte nach § 44 Absatz 1, 4 und 5 des Kreditwesengesetzes zu.
+(3) Der Bundesanstalt stehen gegenüber den Einlagensicherungssystemen die Auskunfts- und Prüfungsrechte nach § 44 Absatz 1, 4 und 7 des Kreditwesengesetzes zu.
 
 (4) Sofern die Bundesanstalt Kenntnis von Umständen bei einem CRR-Kreditinstitut erlangt, welche voraussichtlich den Eintritt eines Entschädigungsfalls nach sich ziehen, hat sie das Einlagensicherungssystem, dem das CRR-Kreditinstitut zugeordnet ist, hiervon zu unterrichten.
 

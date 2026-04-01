@@ -50,8 +50,6 @@ München,
 
 (4) Über Einzelfragen der zweckdienlichen Auslegung und Anwendung der Vorschriften über den Vorrang bei der Zuweisung von Start- und Landezeiten (Slots) sowie der Vorschriften über die Durchführung der Flughafenkoordination entscheidet das Bundesministerium für Verkehr im Rahmen seiner Rechts- und Fachaufsicht.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 24.2.2026 I Nr. 48 +++)
-
 # § 2 – Koordinierungsausschuss
 
 (1) Für jeden koordinierten Verkehrsflughafen wird ein Koordinierungsausschuss eingesetzt. Er besteht aus je einem Vertreter der Flugsicherungsorganisation, der betroffenen Flughafenunternehmer, der Spitzenverbände des gewerblichen Luftverkehrs sowie des Geschäftsluftverkehrs. Soweit Luftfahrtunternehmen es für erforderlich halten, können sie je einen Vertreter für den Koordinierungsausschuss entsenden.

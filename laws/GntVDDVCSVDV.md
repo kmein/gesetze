@@ -101,7 +101,7 @@ Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis die wisse
 
 # § 3 – Dienstbehörde
 
-(1) Dienstbehörde ist die Hochschule. Für die zur Verwendung beim Bundesnachrichtendienst vorgesehenen Studierenden ist der Bundesnachrichtendienst die Dienstbehörde. Für Studierende, die den Vorbereitungsdienst im Rahmen eines Aufstiegs absolvieren (§ 37 Absatz 1 der Bundeslaufbahnverordnung), verbleibt es bei der Zuständigkeit ihrer bisherigen Dienstbehörde.
+(1) Dienstbehörde ist die Hochschule. Für die zur Verwendung beim Bundesnachrichtendienst vorgesehenen Studierenden ist der Bundesnachrichtendienst die Dienstbehörde. Für Studierende, die den Vorbereitungsdienst im Rahmen eines Aufstiegs absolvieren (§ 45 Absatz 1 der Bundeslaufbahnverordnung), verbleibt es bei der Zuständigkeit ihrer bisherigen Dienstbehörde.
 
 (2) Die Dienstbehörde ist für alle beamtenrechtlichen Entscheidungen zuständig, soweit diese Entscheidungen durch diese Verordnung nicht anderen Behörden übertragen werden.
 
@@ -318,7 +318,7 @@ Rangpunktzahl</th>
 
 (1) Die Dienstbehörde lässt zum Auswahlverfahren zu, wer nach den eingereichten Unterlagen die in der Ausschreibung bestimmten Voraussetzungen erfüllt.
 
-(2) Übersteigt die Zahl der geeigneten Bewerberinnen und Bewerber das Dreifache der Zahl der angebotenen Studienplätze, so kann die Zahl derjenigen, die zum Auswahlverfahren zugelassen werden, beschränkt werden. In diesem Fall sind jedoch mindestens dreimal so viele Bewerberinnen und Bewerber zuzulassen, wie Studienplätze angeboten werden. Zugelassen wird, wer nach den eingereichten Unterlagen am besten geeignet ist. § 36 Absatz 5 der Bundeslaufbahnverordnung bleibt unberührt.
+(2) Übersteigt die Zahl der geeigneten Bewerberinnen und Bewerber das Dreifache der Zahl der angebotenen Studienplätze, so kann die Zahl derjenigen, die zum Auswahlverfahren zugelassen werden, beschränkt werden. In diesem Fall sind jedoch mindestens dreimal so viele Bewerberinnen und Bewerber zuzulassen, wie Studienplätze angeboten werden. Zugelassen wird, wer nach den eingereichten Unterlagen am besten geeignet ist. § 44 Absatz 5 der Bundeslaufbahnverordnung bleibt unberührt.
 
 (3) Schwerbehinderte Bewerberinnen und Bewerber und gleichgestellte behinderte Bewerberinnen und Bewerber sind zum Auswahlverfahren zuzulassen, es sei denn, sie sind offensichtlich fachlich ungeeignet. Vor dem Ausschluss schwerbehinderter Bewerberinnen und Bewerber und gleichgestellter behinderter Bewerberinnen und Bewerber ist die Schwerbehindertenvertretung anzuhören.
 

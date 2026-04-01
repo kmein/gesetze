@@ -189,6 +189,8 @@ Für inländische Unternehmen, die gemäß Artikel 14 der Verordnung (EU) Nr. 64
 
 (5) Soweit die Vorschriften dieses Gesetzes neben der Verordnung (EU) Nr. 806/2014 anwendbar sind, gelten Verweise auf Vorschriften als Verweise auf die entsprechenden Vorschriften und Begriffe der Verordnung (EU) Nr. 806/2014, und werden Begriffe in dem Sinne der Verordnung (EU) Nr. 806/2014 definiert.
 
+(6) Die Aufsichtsbehörde und die Abwicklungsbehörde arbeiten für die Zwecke dieses Gesetzes gemäß der Verordnung (EU) Nr. 1093/2010 in der Fassung vom 8. Oktober 2025 mit der Europäischen Bankenaufsichtsbehörde und gegebenenfalls mit der EFTA-Überwachungsbehörde zusammen. Verweise in diesem Gesetz auf die Befugnisse der Europäischen Bankenaufsichtsbehörde nach Artikel 19 der Verordnung (EU) Nr. 1093/2010 gelten für die Aufsichts- oder Abwicklungsbehörden der EFTA-Staaten nach Artikel 2 Buchstabe b des Abkommens über den Europäischen Wirtschaftsraum als Verweise auf die Befugnisse der EFTA-Überwachungsbehörde.
+
 # § 2 – Begriffsbestimmungen
 
 (1) Institute im Sinne dieses Gesetzes sind CRR-Kreditinstitute und Wertpapierinstitute, die vom Anwendungsbereich dieses Gesetzes gemäß § 1 erfasst sind.
@@ -205,7 +207,7 @@ Für inländische Unternehmen, die gemäß Artikel 14 der Verordnung (EU) Nr. 64
 
 3a. Abwicklungseinheit ist
 
-a) eine in der Union niedergelassene juristische Person, die von der Abwicklungsbehörde gemäß § 46 als ein Unternehmen bestimmt wurde, für das im Abwicklungsplan Abwicklungsmaßnahmen vorgesehen sind, oder
+a) eine im Europäischen Wirtschaftsraum niedergelassene juristische Person, die von der Abwicklungsbehörde gemäß § 46 als ein Unternehmen bestimmt wurde, für das im Abwicklungsplan Abwicklungsmaßnahmen vorgesehen sind, oder
 
 b) ein Institut,
 
@@ -231,7 +233,7 @@ b) CRR-Kreditinstitute, die einer Zentralorganisation ständig zugeordnet sind, 
 
 8. Aufsichtskollegium ist ein Aufsichtskollegium im Sinne des § 8e des Kreditwesengesetzes.
 
-9. Außerordentliche finanzielle Unterstützung aus öffentlichen Mitteln ist eine staatliche Beihilfe gemäß Artikel 107 Absatz 1 des Vertrages über die Arbeitsweise der Europäischen Union oder eine vergleichbare finanzielle Unterstützung aus öffentlichen Mitteln auf supranationaler Ebene, die jeweils zur Erhaltung oder Wiederherstellung der Existenzfähigkeit, Liquidität oder Solvenz eines Instituts oder einer Gruppe gewährt wird.
+9. Außerordentliche finanzielle Unterstützung aus öffentlichen Mitteln ist eine staatliche Beihilfe gemäß Artikel 107 Absatz 1 des Vertrages über die Arbeitsweise der Europäischen Union oder Artikel 61 Absatz 1 des Abkommens über den Europäischen Wirtschaftsraum oder eine vergleichbare finanzielle Unterstützung aus öffentlichen Mitteln auf supranationaler Ebene, die jeweils zur Erhaltung oder Wiederherstellung der Existenzfähigkeit, Liquidität oder Solvenz eines Instituts oder einer Gruppe gewährt wird.
 
 9a. Ausschuss ist der Ausschuss nach Artikel 42 Absatz 1 der Verordnung (EU) Nr. 806/2014.
 
@@ -249,6 +251,8 @@ b) CRR-Kreditinstitute, die einer Zentralorganisation ständig zugeordnet sind, 
 
 13. Drittstaatsinstitut ist ein Unternehmen, dessen Hauptsitz sich in einem Drittstaat befindet und das, wäre es in der Union niedergelassen, entweder als ein CRR-Kreditinstitut anzusehen wäre oder als ein Wertpapierinstitut, das eine Dienstleistung nach Nummer 3 oder 6 des Anhangs 1 Abschnitt A zur Richtlinie 2014/65/EU des Europäischen Parlaments und des Rates vom 15. Mai 2014 über Märkte für Finanzinstrumente sowie zur Änderung der Richtlinien 2002/92/EG und 2011/61/EU (ABl. L 173 vom 12.6.2014, S. 349; L 74 vom 18.3.2015, S. 38; L 188 vom 13.7.2016, S. 28; L 273 vom 8.10.2016, S. 35; L 64 vom 10.3.2017, S. 116; L 278 vom 27.10.2017, S. 56), die zuletzt durch die Verordnung (EU) 2022/858 (ABl. L 151 vom 2.6.2022, S. 1) geändert worden ist, betreibt.
 
+13a. EFTA-Überwachungsbehörde ist das unabhängige Überwachungsorgan nach Artikel 108 Absatz 1 des Abkommens über den Europäischen Wirtschaftsraum, das von den EFTA-Staaten nach Artikel 2 Buchstabe b des Abkommens über den Europäischen Wirtschaftsraum eingesetzt wurde.
+
 14. Eigenmittelanforderungen sind die Anforderungen der Artikel 92 bis 98 der Verordnung (EU) Nr. 575/2013.
 
 14a. Einheitlicher Abwicklungsfonds ist der einheitliche Abwicklungsfonds nach Artikel 67 Absatz 1 der Verordnung (EU) Nr. 806/2014.
@@ -262,6 +266,10 @@ b) CRR-Kreditinstitute, die einer Zentralorganisation ständig zugeordnet sind, 
 18. Entschädigungsfähige Einlagen sind Einlagen im Sinne des § 2 Absatz 4 des Einlagensicherungsgesetzes.
 
 19. EU-Mutterunternehmen ist ein EU-Mutterinstitut, eine EU-Mutterfinanzholdinggesellschaft oder eine gemischte EU-Mutterfinanzholdinggesellschaft.
+
+19a. Europäische Union oder Union ist die Europäische Union im Sinne des Vertrags über die Europäische Union; für die Zwecke dieses Gesetzes gelten Bezugnahmen auf die Europäische Union oder die Union als Bezugnahmen auf den Europäischen Wirtschaftsraum, soweit sich aus dem Abkommen über den Europäischen Wirtschaftsraum nichts Abweichendes ergibt.
+
+19b. Der Europäische Wirtschaftsraum im Sinne dieses Gesetzes umfasst die Mitgliedstaaten der Europäischen Union sowie die EFTA-Staaten nach Artikel 2 Buchstabe b des Abkommens über den Europäischen Wirtschaftsraum.
 
 20. Finanzierungsmechanismen sind die von den Mitgliedstaaten im Wege eines Fonds oder auf Grundlage von Pflichtbeiträgen der in ihrem Hoheitsgebiet zugelassenen Institute in Umsetzung von Artikel 100 der Richtlinie 2014/59/EU des Europäischen Parlaments und des Rates vom 15. Mai 2014 zur Festlegung eines Rahmens für die Sanierung und Abwicklung von Kreditinstituten und Wertpapierfirmen und zur Änderung der Richtlinie 82/891/EWG des Rates, der Richtlinien 2001/24/EG, 2002/47/EG, 2004/25/EG, 2005/56/EG, 2007/36/EG, 2011/35/EU, 2012/30/EU und 2013/36/EU sowie der Verordnungen (EU) Nr. 1093/2010 und (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates (ABl. L 173 vom 12.6.2014, S. 190), die zuletzt durch die Verordnung (EU) 2022/2036 (ABl. L 275 vom 25.10.2022, S. 1; L 277 vom 27.10.2022, S. 316) geändert worden ist, eingerichteten Mechanismen.
 
@@ -321,7 +329,7 @@ g) den in den Buchstaben a bis f genannten Kontrakten und Vereinbarungen verglei
 
 26a. Global systemrelevantes Institut ist ein Institut im Sinne von Artikel 4 Absatz 1 Nummer 133 der Verordnung (EU) Nr. 575/2013.
 
-27. Grenzüberschreitende Gruppe ist eine Gruppe, deren gruppenangehörige Unternehmen ihren Sitz in mehr als in einem Staat der Europäischen Union haben.
+27. Grenzüberschreitende Gruppe ist eine Gruppe, deren gruppenangehörige Unternehmen ihren Sitz in mehr als einem Staat des Europäischen Wirtschaftsraums haben.
 
 28. Eine Gruppe besteht aus dem übergeordneten Unternehmen und seinen nachgeordneten Unternehmen.
 
@@ -367,7 +375,7 @@ b) im Fall des § 107 Absatz 1 Nummer 2 die in § 132 Absatz 1 Nummer 1 bis 3 ge
 
 39a. Mitarbeiterinnen und Mitarbeiter der nachgelagerten Führungsebene sind die Geschäftsleitung im Sinne des Artikels 4 Absatz 1 Nummer 10 der Verordnung (EU) Nr. 575/2013, wobei die Geschäftsleiter im Sinne von Nummer 25 nicht erfasst sind.
 
-40. Mitgliedstaat ist ein Mitgliedstaat der Europäischen Union.
+40. Mitgliedstaat ist ein Mitgliedstaat der Europäischen Union oder ein EFTA-Staat nach Artikel 2 Buchstabe b des Abkommens über den Europäischen Wirtschaftsraum.
 
 40a. Nachrangige berücksichtigungsfähige Instrumente sind Instrumente, die die Bedingungen gemäß Artikel 72a der Verordnung (EU) Nr. 575/2013 erfüllen und nicht gemäß Artikel 72b Absatz 3 bis 5 der Verordnung (EU) Nr. 575/2013 zugelassen worden sind.
 
@@ -487,7 +495,7 @@ Nr. 575/2013;
 
 1. im Rahmen von Abwicklungskollegien deren Mitgliedern, den Abwicklungsbehörden sowie den zuständigen Stellen in anderen Staaten, mit denen die Aufsichtsbehörde im Rahmen von Aufsichtskollegien nach § 8e des Kreditwesengesetzes zusammenarbeitet, unter entsprechender Anwendung des § 8e des Kreditwesengesetzes,
 
-2. der Europäischen Bankenaufsichtsbehörde,
+2. der Europäischen Bankenaufsichtsbehörde oder der EFTA-Überwachungsbehörde,
 
 2a. dem Bundesministerium der Finanzen,
 
@@ -535,13 +543,13 @@ b) mit der Geldwäscheprävention,
 
 3. personenbezogene Daten werden nur unter den Voraussetzungen des Kapitels V der Verordnung (EU) 2016/679 übermittelt.
 
-(2) Aus einem anderen EU-Mitgliedstaat stammende vertrauliche Informationen dürfen die Abwicklungsbehörden und die sonstigen nationalen Behörden nur dann den jeweiligen Drittstaatsbehörden offenlegen, wenn folgende Voraussetzungen erfüllt sind:
+(2) Aus einem anderen Mitgliedstaat stammende vertrauliche Informationen dürfen die Abwicklungsbehörden und die sonstigen nationalen Behörden nur dann den jeweiligen Drittstaatsbehörden offenlegen, wenn folgende Voraussetzungen erfüllt sind:
 
 1. die Aufsichtsbehörde des Mitgliedstaats, aus dem die Information stammt (Ursprungsbehörde), willigt in die Offenlegung ein;
 
 2. die Information wird nur für die von der Ursprungsbehörde genehmigten Zwecke offengelegt.
 
-Eine aus einem anderen EU-Mitgliedstaat stammende Information ist dann als vertraulich zu betrachten, wenn sie Geheimhaltungsvorschriften gemäß Unionsrecht unterfällt oder nach dem Recht des jeweiligen Mitgliedstaates der Verschwiegenheitspflicht unterliegt.
+Eine aus einem anderen Mitgliedstaat stammende Information ist dann als vertraulich zu betrachten, wenn sie Geheimhaltungsvorschriften gemäß Unionsrecht unterfällt oder nach dem Recht des jeweiligen Mitgliedstaates der Verschwiegenheitspflicht unterliegt.
 
 # § 9 – Vorabprüfung auf Vertraulichkeit bei sonstiger Weitergabe von Informationen
 
@@ -699,7 +707,7 @@ Eine Übermittlung an eine Behörde in einem Mitgliedstaat erfolgt nur, soweit s
 
 3. die Anwendung der Maßnahmen nach § 16.
 
-Die Aufsichtsbehörde kann die Europäische Bankenaufsichtsbehörde gemäß Artikel 31 der Verordnung (EU) Nr. 1093/2010 des Europäischen Parlaments und des Rates vom 24. November 2010 zur Errichtung einer Europäischen Aufsichtsbehörde (Europäische Bankenaufsichtsbehörde), zur Änderung des Beschlusses Nr. 716/2009/EG und zur Aufhebung des Beschlusses 2009/78/EG der Kommission (ABl. L 331 vom 15.12.2010, S. 12) um Unterstützung bei der Erzielung einer Einigung ersuchen. Soweit einzelne betroffene Aufsichtsbehörden einer gemeinsamen Entscheidung nach Satz 1 nicht zustimmen, kann die Aufsichtsbehörde mit den übrigen betroffenen Aufsichtsbehörden eine gemeinsame Entscheidung treffen.
+Die Aufsichtsbehörde kann die Europäische Bankenaufsichtsbehörde gemäß Artikel 31 der Verordnung (EU) Nr. 1093/2010 in der Fassung vom 8. Oktober 2025 um Unterstützung bei der Erzielung einer Einigung ersuchen. Soweit einzelne betroffene Aufsichtsbehörden einer gemeinsamen Entscheidung nach Satz 1 nicht zustimmen, kann die Aufsichtsbehörde mit den übrigen betroffenen Aufsichtsbehörden eine gemeinsame Entscheidung treffen.
 
 (3) Soweit die Aufsichtsbehörde und die anderen betroffenen Aufsichtsbehörden innerhalb von vier Monaten keine gemeinsame Entscheidung gemäß Absatz 2 erreichen, trifft die Aufsichtsbehörde die Entscheidung nach Absatz 2 allein. Die Aufsichtsbehörde trägt bei ihrer Entscheidung den von den anderen betroffenen Aufsichtsbehörden innerhalb der Viermonatsfrist geäußerten Standpunkten und Vorbehalten Rechnung. Sie teilt die Entscheidung dem übergeordneten Unternehmen und den anderen betroffenen Aufsichtsbehörden mit.
 
@@ -1133,7 +1141,7 @@ Sofern möglich und angezeigt, sollen die Angaben im Abwicklungsplan mengen- und
 
 18. sofern einschlägig, Einschätzungen des Instituts in Bezug auf den Abwicklungsplan.
 
-(4) Nach seiner erstmaligen Erstellung wird der Abwicklungsplan mindestens einmal im Kalenderjahr geprüft und gegebenenfalls aktualisiert. Dasselbe gilt nach wesentlichen Änderungen der Rechts- oder Organisationsstruktur des Instituts, seiner Geschäftstätigkeit oder seiner Finanzlage, die sich nicht unwesentlich auf die Wirkungsweise des Abwicklungsplans auswirken oder in sonstiger Weise dessen Änderung erforderlich machen können. Die Aufsichtsbehörde unterrichtet die Abwicklungsbehörde über jede der Aufsichtsbehörde bekannte Änderung, die im Rahmen einer turnusmäßigen Aktualisierung nach Satz 1 oder einer sonstigen Anpassung nach Satz 2 relevant ist oder eine solche Aktualisierung oder Anpassung erforderlich macht. Die Überprüfung erfolgt auch nach der Durchführung der Abwicklungsmaßnahmen oder nach der Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente und berücksichtigungsfähiger Verbindlichkeiten gemäß § 65 Absatz 1 und § 89. Bei Festlegung der Frist nach Absatz 3 Nummer 16 unter den in Satz 4 genannten Umständen berücksichtigt die Abwicklungsbehörde die Frist für die Erfüllung der Anforderung nach § 6d des Kreditwesengesetzes.
+(4) Nach seiner erstmaligen Erstellung wird der Abwicklungsplan mindestens einmal im Kalenderjahr geprüft und gegebenenfalls aktualisiert. Dasselbe gilt nach wesentlichen Änderungen der Rechts- oder Organisationsstruktur des Instituts, seiner Geschäftstätigkeit oder seiner Finanzlage, die sich nicht unwesentlich auf die Wirkungsweise des Abwicklungsplans auswirken oder in sonstiger Weise dessen Änderung erforderlich machen können. Die Aufsichtsbehörde unterrichtet die Abwicklungsbehörde über jede der Aufsichtsbehörde bekannte Änderung, die im Rahmen einer turnusmäßigen Aktualisierung nach Satz 1 oder einer sonstigen Anpassung nach Satz 2 relevant ist oder eine solche Aktualisierung oder Anpassung erforderlich macht. Die Überprüfung erfolgt auch nach der Durchführung der Abwicklungsmaßnahmen oder nach der Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente und berücksichtigungsfähiger Verbindlichkeiten gemäß § 65 Absatz 1 und § 89. Bei Festlegung der Frist nach Absatz 3 Nummer 16 oder Nummer 16a unter den in Satz 4 genannten Umständen berücksichtigt die Abwicklungsbehörde die Frist für die Erfüllung der Anforderung nach § 6d des Kreditwesengesetzes.
 
 (5) Die Abwicklungsbehörde übermittelt den Abwicklungsplan und eventuelle Änderungen an die Aufsichtsbehörde. Die zusammenfassende Darstellung der Hauptbestandteile des Plans nach Absatz 3 Nummer 1 soll dem Institut offengelegt werden.
 
@@ -1494,7 +1502,7 @@ Für die Zwecke des § 49 Absatz 2 Nummer 1 wird die in § 49 Absatz 1 genannte 
 
 2. sie passt nach Anhörung der Aufsichtsbehörde den Betrag, der den nach § 6c Absatz 1 des Kreditwesengesetzes bestehenden Anforderungen entspricht, nach unten oder oben an, um die nach Durchführung der bevorzugten Abwicklungsstrategie für die Abwicklungseinheit anzuwendende Anforderung zu bestimmen.
 
-(4a) Die Abwicklungsbehörde kann die Anforderung nach Absatz 3 Satz 1 Nummer 1 Buchstabe b um einen Betrag erhöhen, der notwendig ist, um sicherzustellen, dass das Unternehmen nach der Abwicklung für einen angemessenen Zeitraum, der maximal ein Jahr beträgt, in der Lage ist, ausreichendes Marktvertrauen in das Unternehmen aufrechtzuerhalten. Erhöht die Abwicklungsbehörde die Anforderung nach Absatz 4, so wird dieser Betrag der nach Anwendung der Abwicklungsinstrumente anzuwendenden kombinierten Kapitalpufferanforderung abzüglich der Anforderung nach § 10i Absatz 1 Nummer 2 des Kreditwesengesetzes gleichgesetzt. Der Betrag gemäß Absatz 4 wird nach unten angepasst, wenn die Abwicklungsbehörde nach Anhörung der Aufsichtsbehörde feststellt, dass es umsetzbar und glaubhaft ist, dass ein geringerer Betrag ausreicht, um das Marktvertrauen aufrechtzuerhalten und sowohl die Fortführung kritischer Funktionen des Instituts oder des gruppenangehörigen Unternehmens als auch seinen Zugang zu Finanzmitteln sicherzustellen, ohne dass nach Durchführung der Abwicklungsstrategie eine außerordentliche finanzielle Unterstützung aus öffentlichen Mitteln erforderlich wäre, die über die Beiträge aus den Abwicklungsfinanzierungsmechanismen nach § 3a Absatz 4 und § 7a Absatz 3 und 4 des Restrukturierungsfondsgesetzes hinausgeht. Dieser Betrag wird erhöht, wenn die Abwicklungsbehörde nach Anhörung der Aufsichtsbehörde feststellt, dass ein höherer Betrag notwendig ist, um für einen angemessenen Zeitraum, der nicht länger als ein Jahr ist, ein ausreichendes Marktvertrauen aufrechtzuerhalten und sowohl die Fortführung kritischer Funktionen des Instituts oder des gruppenangehörigen Unternehmens als auch seinen Zugang zu Finanzmitteln sicherzustellen, ohne dass über die Beiträge aus den Abwicklungsfinanzierungsmechanismen nach § 3a Absatz 4 und § 7a Absatz 3 und 4 des Restrukturierungsfondsgesetzes hinaus eine außerordentliche finanzielle Unterstützung aus öffentlichen Mitteln erforderlich wäre.
+(4a) Die Abwicklungsbehörde kann die Anforderung nach Absatz 3 Satz 1 Nummer 1 Buchstabe b um einen Betrag erhöhen, der notwendig ist, um sicherzustellen, dass das Unternehmen nach der Abwicklung für einen angemessenen Zeitraum, der maximal ein Jahr beträgt, in der Lage ist, ausreichendes Marktvertrauen in das Unternehmen aufrechtzuerhalten. Erhöht die Abwicklungsbehörde die Anforderung nach Satz 1, so wird dieser Betrag der nach Anwendung der Abwicklungsinstrumente anzuwendenden kombinierten Kapitalpufferanforderung abzüglich der Anforderung nach § 10i Absatz 1 Nummer 2 des Kreditwesengesetzes gleichgesetzt. Der Betrag gemäß Satz 1 wird nach unten angepasst, wenn die Abwicklungsbehörde nach Anhörung der Aufsichtsbehörde feststellt, dass es umsetzbar und glaubhaft ist, dass ein geringerer Betrag ausreicht, um das Marktvertrauen aufrechtzuerhalten und sowohl die Fortführung kritischer Funktionen des Instituts oder des gruppenangehörigen Unternehmens als auch seinen Zugang zu Finanzmitteln sicherzustellen, ohne dass nach Durchführung der Abwicklungsstrategie eine außerordentliche finanzielle Unterstützung aus öffentlichen Mitteln erforderlich wäre, die über die Beiträge aus den Abwicklungsfinanzierungsmechanismen nach § 3a Absatz 4 und § 7a Absatz 3 und 4 des Restrukturierungsfondsgesetzes hinausgeht. Dieser Betrag wird erhöht, wenn die Abwicklungsbehörde nach Anhörung der Aufsichtsbehörde feststellt, dass ein höherer Betrag notwendig ist, um für einen angemessenen Zeitraum, der nicht länger als ein Jahr ist, ein ausreichendes Marktvertrauen aufrechtzuerhalten und sowohl die Fortführung kritischer Funktionen des Instituts oder des gruppenangehörigen Unternehmens als auch seinen Zugang zu Finanzmitteln sicherzustellen, ohne dass über die Beiträge aus den Abwicklungsfinanzierungsmechanismen nach § 3a Absatz 4 und § 7a Absatz 3 und 4 des Restrukturierungsfondsgesetzes hinaus eine außerordentliche finanzielle Unterstützung aus öffentlichen Mitteln erforderlich wäre.
 
 (5) Für Abwicklungseinheiten, die nicht den Anforderungen gemäß Artikel 92a der Verordnung (EU) Nr. 575/2013 unterliegen und die Teil einer Abwicklungsgruppe sind, bei der der Gesamtwert der Vermögenswerte über 100 Milliarden Euro liegt, entspricht die Höhe der in Absatz 3 genannten Anforderung mindestens
 
@@ -1544,7 +1552,7 @@ Für die Zwecke des § 49 Absatz 2 Nummer 1 wird die in § 49 Absatz 1 genannte 
 
 2. die Erfüllung der in Absatz 2 genannten Voraussetzungen zu gewährleisten.
 
-(11) Eine Entscheidung der Abwicklungsbehörde, eine Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten vorzuschreiben, umfasst eine entsprechende Begründung samt einer vollständigen Bewertung der in den Absätzen 2 bis 8 genannten Elemente und wird unverzüglich durch die Abwicklungsbehörde überprüft, um allen Änderungen der Höhe einer nach § 6c Absatz 1 des Kreditwesengesetzes festgesetzten Anforderung Rechnung zu tragen.
+(11) Eine Entscheidung der Abwicklungsbehörde, eine Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten vorzuschreiben, umfasst eine entsprechende Begründung samt einer vollständigen Bewertung der in den Absätzen 2 bis 10 genannten Elemente und wird unverzüglich durch die Abwicklungsbehörde überprüft, um allen Änderungen der Höhe einer nach § 6c Absatz 1 des Kreditwesengesetzes festgesetzten Anforderung Rechnung zu tragen.
 
 (12) Für die Zwecke der Absätze 3 und 7 sind für die Kapitalanforderungen die Übergangsbestimmungen maßgeblich, die in Teil 10 Titel I Kapitel 1, 2 und 4 der Verordnung (EU) Nr. 575/2013 und in den nationalen Rechtsvorschriften zur Ausübung der Optionen, die den Aufsichtsbehörden im Rahmen dieser Verordnung zur Verfügung stehen, festgelegt sind.
 
@@ -1578,21 +1586,17 @@ Für die Zwecke des § 49 Absatz 2 Nummer 1 wird die in § 49 Absatz 1 genannte 
 
 (2) Die Abwicklungsbehörde legt die in § 49 Absatz 1 genannte Anforderung an eine Abwicklungseinheit auf konsolidierter Basis auf Ebene der Abwicklungsgruppe gemäß § 50 auf der Grundlage der Anforderungen nach den §§ 49b bis 49d und abhängig davon fest, ob die Tochterunternehmen der Gruppe in Drittstaaten dem Abwicklungsplan zufolge getrennt abzuwickeln sind.
 
-(3) Im Fall von Abwicklungsgruppen, die gemäß § 2 Absatz 3 Nummer 3b bestimmt wurden, entscheidet die Abwicklungsbehörde nach Maßgabe wechselseitiger Sicherungs- und Einstandsvereinbarungen und der bevorzugten Abwicklungsstrategie, welche Unternehmen der Abwicklungsgruppe § 49c Absatz 3 und 5 sowie § 49d Absatz 1 nachkommen müssen, um zu gewährleisten, dass die Abwicklungsgruppe als Ganzes den Anforderungen nach den Absätzen 1 und 2 nachkommt und wie diese Unternehmen dies im Einklang mit dem Abwicklungsplan erfüllen sollen.
+(3) Im Fall von Abwicklungsgruppen, die gemäß § 2 Absatz 3 Nummer 3b Buchstabe b bestimmt wurden, entscheidet die Abwicklungsbehörde nach Maßgabe wechselseitiger Sicherungs- und Einstandsvereinbarungen und der bevorzugten Abwicklungsstrategie, welche Unternehmen der Abwicklungsgruppe den Anforderungen nach § 49c Absatz 3 bis 5 sowie § 49d Absatz 1 nachkommen müssen, um zu gewährleisten, dass die Abwicklungsgruppe als Ganzes den Anforderungen nach den Absätzen 1 und 2 nachkommt und wie diese Unternehmen dies im Einklang mit dem Abwicklungsplan erfüllen sollen.
 
 # § 49f – Anwendung der Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten auf Unternehmen, die selbst keine Abwicklungseinheit sind
 
-(1) Institute, die Tochterunternehmen einer Abwicklungseinheit oder eines Mutterunternehmens mit Sitz in einem Drittstaat aber selbst keine Abwicklungseinheiten sind, kommen den Anforderungen gemäß § 49c auf Einzelbasis nach. Nach Anhörung der Aufsichtsbehörde kann die Abwicklungsbehörde entscheiden, die Anforderung an ein gruppenangehöriges Unternehmen zu stellen, das ein Tochterunternehmen einer Abwicklungseinheit aber selbst keine Abwicklungseinheit ist. Abweichend von Satz 1 kommen EU-Mutterunternehmen, die selbst keine Abwicklungseinheiten, aber Tochterunternehmen von Mutterunternehmen mit Sitz in einem Drittstaat sind, den Anforderungen gemäß den §§ 49c und 49d auf konsolidierter Basis nach. Den Anforderungen nach § 49c Absatz 7 bis 9 kommen auf Einzelbasis nach:
+(1) Institute, die Tochterunternehmen einer Abwicklungseinheit oder eines Mutterunternehmens mit Sitz in einem Drittstaat aber selbst keine Abwicklungseinheiten sind, kommen den Anforderungen gemäß § 49c auf Einzelbasis nach. Nach Anhörung der Aufsichtsbehörde kann die Abwicklungsbehörde entscheiden, die Anforderung an ein gruppenangehöriges Unternehmen zu stellen, das ein Tochterunternehmen einer Abwicklungseinheit aber selbst keine Abwicklungseinheit ist. Abweichend von Satz 1 kommen EU-Mutterunternehmen, die selbst keine Abwicklungseinheiten, aber Tochterunternehmen von Mutterunternehmen mit Sitz in einem Drittstaat sind, den Anforderungen gemäß den §§ 49c und 49d auf konsolidierter Basis nach. In Abwicklungsgruppen, die nach § 2 Absatz 3 Nummer 3b Buchstabe b bestimmt wurden, kommen folgende Unternehmen den Anforderungen nach § 49c Absatz 7 bis 9 auf Einzelbasis nach:
 
-1. Abwicklungsgruppen, die gemäß § 2 Absatz 3 Nummer 3b bestimmt wurden,
+1. CRR-Kreditinstitute, die einer Zentralorganisation ständig zugeordnet, aber selbst keine Abwicklungseinheiten sind,
 
-2. CRR-Kreditinstitute, die einer Zentralorganisation ständig zugeordnet aber selbst keine Abwicklungseinheiten sind,
+2. eine Zentralorganisation, die keine Abwicklungseinheit ist, sowie
 
-3. eine Zentralorganisation, die keine Abwicklungseinheit ist, sowie
-
-4. alle Abwicklungseinheiten, die nicht den Anforderungen nach § 49e Absatz 3 unterliegen.
-
-Für die Unternehmen des Satzes 4 gelten für die Bestimmung der Anforderung nach § 49 Absatz 1 die §§ 49c, 50 und 159.
+3. alle Abwicklungseinheiten, die nicht den Anforderungen nach § 49e Absatz 3 unterliegen.
 
 (1a) Abweichend von Absatz 1 Satz 1 und 2 kann die Abwicklungsbehörde beschließen, die in § 49c festgelegte Anforderung für in Absatz 1 genannte Tochterunternehmen auf konsolidierter Basis festzulegen, wenn die Abwicklungsbehörde zu dem Schluss kommt, dass alle folgenden Bedingungen erfüllt sind:
 
@@ -1620,6 +1624,8 @@ a) die Glaubwürdigkeit und Durchführbarkeit der Gruppenabwicklungsstrategie,
 b) die Fähigkeit des Tochterunternehmens, seine Eigenmittelanforderung nach der Ausübung von Herabschreibungs- und Umwandlungsbefugnissen zu erfüllen und
 
 c) die Angemessenheit des internen Verlustübertragungs- und Rekapitalisierungsmechanismus, einschließlich der Herabschreibung oder Umwandlung von relevanten Kapitalinstrumenten und berücksichtigungsfähigen Verbindlichkeiten des betreffenden Tochterunternehmens oder anderer Unternehmen der Abwicklungsgruppe nach den §§ 65 und 89.
+
+(1b) Für ein in Absatz 1 oder Absatz 1a genanntes Unternehmen gelten für die Bestimmungen der Anforderung nach § 49 Absatz 1 die §§ 49c, 49d, 50 und 159.
 
 (2) Die in § 49 Absatz 1 genannte Anforderung an Unternehmen im Sinne von Absatz 1 wird mit einer oder mehreren der folgenden Positionen erfüllt:
 
@@ -1707,8 +1713,6 @@ b) an Unternehmen begeben und von diesen erworben werden, die nicht derselben Ab
 
 Für die Zwecke des Satzes 1 Nummer 7 stellt die Abwicklungseinheit auf Verlangen der Abwicklungsbehörde ein unabhängiges, schriftliches und mit einer Begründung versehenes Rechtsgutachten bereit oder weist auf andere Weise glaubhaft nach, dass keinerlei rechtliche, regulatorische oder operative Hindernisse für die Übertragung der Sicherheit von der Abwicklungseinheit an das betreffende Tochterunternehmen bestehen.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 344 +++)
-
 # § 49g – Ausnahmen für eine Zentralorganisation und CRR-Kreditinstitute, die einer Zentralorganisation ständig zugeordnet sind
 
 Die Abwicklungsbehörde kann die Zentralorganisation oder ein CRR-Kreditinstitut, das einer Zentralorganisation ständig zugeordnet ist, von der Anwendung des § 49f teilweise oder ganz ausnehmen, wenn
@@ -1748,8 +1752,6 @@ c) Teil derselben Abwicklungsgruppe sind,
 (4) Positionen in Eigenmittelinstrumenten und Instrumenten berücksichtigungsfähiger Verbindlichkeiten, die von Tochterinstituten begeben werden, die Liquidationseinheiten sind, für die die Abwicklungsbehörde die in § 49 Absatz 1 genannte Anforderung nicht festgelegt hat, werden nicht nach Artikel 72e Absatz 5 der Verordnung (EU) Nr. 575/2013 in Abzug gebracht.
 
 (5) Abweichend von Absatz 4 bringt ein Institut oder gruppenangehöriges Unternehmen, das selbst keine Abwicklungseinheit, sondern Tochterunternehmen einer Abwicklungseinheit oder eines Drittlandunternehmens ist, das eine Abwicklungseinheit wäre, wenn es in der Union niedergelassen wäre, seine Positionen in Eigenmittelinstrumenten in Tochterinstituten, die derselben Abwicklungsgruppe angehören und bei denen es sich um Liquidationseinheiten handelt, für die die Abwicklungsbehörde die Anforderung nach § 49 Absatz 1 nicht festgelegt hat, in Abzug, wenn der Gesamtbetrag dieser Positionen 7 Prozent des Gesamtbetrags seiner Eigenmittel und Verbindlichkeiten, die die in § 49f Absatz 2 festgelegten Kriterien für die Berücksichtigungsfähigkeit erfüllen, entspricht oder übersteigt. Die Bestimmung der Beträge erfolgt jährlich zum 31. Dezember als Durchschnitt der letzten zwölf Monate.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 344 +++)
 
 # § 50 – Gemeinsame Entscheidung über die Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten
 
@@ -1807,7 +1809,7 @@ Die Abwicklungsbehörde der Abwicklungseinheit oder die für die Gruppenabwicklu
 
 (1) Die Unternehmen, die der Anforderung nach § 49 Absatz 1 unterliegen, melden der Abwicklungsbehörde und der Aufsichtsbehörde
 
-1. die Beträge an Eigenmitteln, die die Bedingungen des § 49f Absatz 2 Nummer 2 erfüllen, und die Beträge der berücksichtigungsfähigen Verbindlichkeiten, einschließlich einer Angabe dieser Beträge als prozentuale Anteile gemäß § 49 Absatz 2 unter Berücksichtigung der berechneten Abzüge gemäß den Artikeln 72e bis 72j der Verordnung (EU) Nr. 575/2013,
+1. die Beträge an Eigenmitteln, die die Bedingungen des § 49f Absatz 2 Nummer 2 und 3 erfüllen, und die Beträge der berücksichtigungsfähigen Verbindlichkeiten, einschließlich einer Angabe dieser Beträge als prozentuale Anteile gemäß § 49 Absatz 2 unter Berücksichtigung der berechneten Abzüge gemäß den Artikeln 72e bis 72j der Verordnung (EU) Nr. 575/2013,
 
 2. die Beträge der übrigen bail-in-fähigen Verbindlichkeiten und
 
@@ -1831,7 +1833,7 @@ Die Meldepflicht für Beträge der übrigen bail-in-fähigen Verbindlichkeiten i
 
 3. die anzuwendende Anforderung nach § 49e oder § 49f als Beträge gemäß § 49 Absatz 2.
 
-Die Angaben nach Satz 1 sind erstmalig zum 1. Januar 2024 offenzulegen. Abweichend von Satz 2 sind die Angaben in den Fällen des § 54 Absatz 1 erstmalig zum für die Erfüllung der Anforderungen festgesetzten Termin offenzulegen.
+Die Angaben nach Satz 1 sind erstmalig zum 1. Januar 2024 offenzulegen. Abweichend von Satz 2 sind die Angaben in den Fällen des § 54 Absatz 2a erstmals zum für die Erfüllung der Anforderungen festgesetzten Termin offenzulegen.
 
 (4) Die Absätze 1 und 3 gelten nicht für eine Liquidationseinheit, es sei denn, die Abwicklungsbehörde hat für ein solches Unternehmen nach § 49h Absatz 2 die in § 49 Absatz 1 genannte Anforderung festgelegt. In diesem Fall legt die Abwicklungsbehörde Inhalt und Häufigkeit der in den Absätzen 1 bis 3 genannten Melde- und Offenlegungspflichten für dieses Unternehmen fest. Die Abwicklungsbehörde teilt der betreffenden Liquidationseinheit diese Melde- und Offenlegungspflichten mit. Diese Melde- und Offenlegungspflichten gehen nicht über das zur Überwachung der Einhaltung der nach § 49h Absatz 2 festgelegten Anforderungen erforderliche Maß hinaus.
 
@@ -1875,7 +1877,7 @@ Wenn die Bedingung nach Satz 1 Nummer 3 nicht erfüllt ist, hat die Abwicklungsb
 
 (6) Die Abwicklungsbehörde legt abweichend von § 49 Absatz 1 für ein Institut oder gruppenangehöriges Unternehmen, auf das Abwicklungsinstrumente oder die Befugnis zur Herabschreibung oder Umwandlung gemäß den §§ 65, 77 Absatz 2 und § 89 angewandt wurden, einen angemessenen Übergangszeitraum fest, um die Anforderungen nach § 49e oder § 49f oder eine Anforderung, die sich auf Grund der Anwendung von § 49b Absatz 4, 5 oder 7 ergibt, zu erfüllen.
 
-(7) Für die Zwecke der Absätze 1 bis 5 teilt die Abwicklungsbehörde dem Institut oder gruppenangehörigen Unternehmen während des Übergangszeitraums für einen Zeitraum von jeweils zwölf Monaten eine geplante Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten mit, um ihm einen schrittweisen Aufbau seiner Verlustabsorptions- und Rekapitalisierungskapazität zu erleichtern. Am Ende des Übergangszeitraums entspricht die Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten jeweils dem gemäß § 49b Absatz 4, 5 oder 7, § 49c Absatz 5 oder 6, § 49e oder § 49f festgesetzten Betrag.
+(7) Für die Zwecke der Absätze 1 bis 6 teilt die Abwicklungsbehörde dem Institut oder gruppenangehörigen Unternehmen während des Übergangszeitraums für einen Zeitraum von jeweils zwölf Monaten eine geplante Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten mit, um ihm einen schrittweisen Aufbau seiner Verlustabsorptions- und Rekapitalisierungskapazität zu erleichtern. Am Ende des Übergangszeitraums entspricht die Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten jeweils dem gemäß § 49b Absatz 4, 5 oder 7, § 49c Absatz 5 oder 6, § 49e oder § 49f festgesetzten Betrag.
 
 (8) Bei der Festlegung des Übergangszeitraums berücksichtigt die Abwicklungsbehörde, ob beim Institut oder gruppenangehörigen Unternehmen die vorhandenen Einlagen überwiegen und Schuldtitel in dem Refinanzierungsmodell fehlen. Weiterhin ist der Zugang des Instituts oder gruppenangehörigen Unternehmens zu den Kapitalmärkten für berücksichtigungsfähige Verbindlichkeiten zu berücksichtigen und inwieweit die Abwicklungseinheit auf den Rückgriff auf hartes Kernkapital angewiesen ist, um die Anforderung nach § 49e einzuhalten.
 
@@ -2001,7 +2003,19 @@ so bewertet die Abwicklungsbehörde umgehend die Auswirkungen auf die Abwicklung
 
 Erfüllt ein Unternehmen die kombinierten Kapitalpufferanforderungen im Sinne des Satzes 1 nicht, teilt es dies der Abwicklungsbehörde unverzüglich mit.
 
-(2) Die für das Unternehmen zuständige Abwicklungsbehörde entscheidet nach Anhörung der zuständigen Aufsichtsbehörden unter Beachtung insbesondere der folgenden Kriterien unverzüglich, ob sie von der Befugnis nach Absatz 1 Satz 1 Gebrauch macht, sobald die dort genannten Voraussetzungen der Untersagung vorliegen. Die Abwicklungsbehörde überprüft innerhalb des Zeitraums, in dem das Unternehmen die Anforderung nach Absatz 1 Satz 1 nicht erfüllt, mindestens monatlich, ob die Untersagung der Ausschüttungen erforderlich ist.
+(2) Die für das Unternehmen zuständige Abwicklungsbehörde entscheidet nach Anhörung der zuständigen Aufsichtsbehörden unverzüglich, ob sie von der Befugnis nach Absatz 1 Satz 1 Gebrauch macht, sobald die dort genannten Voraussetzungen der Untersagung vorliegen. Bei der Entscheidung nach Satz 1 berücksichtigt die Abwicklungsbehörde insbesondere folgende Kriterien:
+
+1. die Ursache und Dauer sowie das Ausmaß der Nichterfüllung und deren Auswirkungen auf die Abwicklungsfähigkeit;
+
+2. die Entwicklung der Finanzlage des Unternehmens und die Wahrscheinlichkeit, dass es in absehbarer Zukunft die Voraussetzungen nach § 62 Absatz 1 Nummer 1 erfüllt;
+
+3. die Aussicht, dass das Unternehmen in der Lage sein wird sicherzustellen, dass die Anforderungen nach Absatz 1 innerhalb einer angemessenen Frist erfüllt werden;
+
+4. die Frage, ob das Unternehmen in der Lage ist, Verbindlichkeiten zu ersetzen, die die in den Artikeln 72b und 72c der Verordnung (EU) Nr. 575/2013, in § 49b oder in § 49f Absatz 2 festgelegten Kriterien für die Berücksichtigungsfähigkeit oder Laufzeit nicht mehr erfüllen, die Frage, ob dieses Unvermögen idiosynkratischer Natur oder auf generelle Marktstörungen zurückzuführen ist, und
+
+5. die Frage, ob die Ausübung der in Absatz 1 genannten Befugnis die geeignetste und angemessenste Vorgehensweise ist, um die Situation des Unternehmens anzugehen, unter Berücksichtigung ihrer möglichen Auswirkungen sowohl auf die Finanzierungsbedingungen als auch auf die Abwicklungsfähigkeit des betreffenden Unternehmens.
+
+Die Abwicklungsbehörde überprüft innerhalb des Zeitraums, in dem das Unternehmen die Anforderung nach Absatz 1 Satz 1 nicht erfüllt, mindestens monatlich, ob die Untersagung der Ausschüttungen erforderlich ist.
 
 (3) Stellt die Abwicklungsbehörde fest, dass die Anforderungen nach Absatz 1 Satz 1 neun Monate nach der Mitteilung des Unternehmens nach Absatz 1 Satz 3 weiterhin nicht erfüllt werden, untersagt die zuständige Abwicklungsbehörde nach Anhörung der Aufsichtsbehörde die Ausschüttung nach Absatz 1, es sei denn, sie stellt nach einer Beurteilung fest, dass mindestens zwei der folgenden Voraussetzungen erfüllt sind:
 
@@ -2265,7 +2279,7 @@ b) zwecks Schließung von Kapitallücken, die in Stresstests auf nationaler Eben
 
 c) wenn im Zeitpunkt der Kapitalzuführung die Voraussetzungen des § 65 Absatz 2 nicht erfüllt sind.
 
-Die Regelungen gemäß den Nummern 1, 2 und 3 gelten nur für präventive, zeitlich befristete und verhältnismäßige Maßnahmen, die nicht dem Ausgleich von Verlusten dienen, die das Institut bereits erlitten hat oder in naher Zukunft voraussichtlich erleiden wird. Kapitalmaßnahmen öffentlicher Eigentümer, die keine Beihilfe im Sinne des Artikels 107 Absatz 1 des Vertrags über die Arbeitsweise der Europäischen Union sind, bleiben unbenommen.
+Die Regelungen gemäß den Nummern 1, 2 und 3 gelten nur für präventive, zeitlich befristete und verhältnismäßige Maßnahmen, die nicht dem Ausgleich von Verlusten dienen, die das Institut bereits erlitten hat oder in naher Zukunft voraussichtlich erleiden wird. Kapitalmaßnahmen öffentlicher Eigentümer, die keine Beihilfe im Sinne des Artikels 107 Absatz 1 des Vertrags über die Arbeitsweise der Europäischen Union oder des Artikels 61 Absatz 1 des Abkommens über den Europäischen Wirtschaftsraum sind, bleiben unbenommen.
 
 (3) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen bezüglich der Umstände zu treffen, unter denen eine Bestandsgefährdung nach den Absätzen 1 und 2 vorliegt. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Abwicklungsbehörde mit der Maßgabe übertragen, dass die Rechtsverordnung im Einvernehmen mit der Bundesanstalt für Finanzdienstleistungsaufsicht und der Deutschen Bundesbank ergeht.
 
@@ -2943,7 +2957,17 @@ Dabei wird eine der in Satz 1 Nummer 2 bis 4 genannten Kategorien erst herangezo
 
 (4) Wenn die Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente oder des Instruments der Gläubigerbeteiligung zum Erwerb oder zur Erhöhung einer qualifizierten Beteiligung an dem Institut oder gruppenangehörigen Unternehmen im Sinne des § 1 Absatz 9 des Kreditwesengesetzes führen würde, soll die Aufsichtsbehörde abweichend von den §§ 2a, 2c, 24 Absatz 1 Nummer 10 und Absatz 1a Nummer 3 des Kreditwesengesetzes und von den Vorschriften der Inhaberkontrollverordnung die danach erforderliche Beurteilung so rechtzeitig vornehmen, dass dies die Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente und des Instruments der Gläubigerbeteiligung nicht verzögert und das Erreichen der mit der Maßnahme jeweils angestrebten Abwicklungsziele nicht beeinträchtigt wird.
 
-(5) Hat die Aufsichtsbehörde die Beurteilung nach Maßgabe des Absatzes 4 bis zum Zeitpunkt der Anwendung des Instruments der Beteiligung der relevanten Kapitalinstrumente oder des Instruments der Gläubigerbeteiligung nicht abgeschlossen, so ist § 120 Absatz 2 bis 4 auf jeden Erwerb und jede Erhöhung einer qualifizierten Beteiligung durch einen Erwerber anzuwenden, die sich auf Grund der Anwendung des Instruments der Beteiligung von relevanten Kapitalinstrumenten oder des Instruments der Gläubigerbeteiligung ergeben.
+(5) Hat die Aufsichtsbehörde die Beurteilung nach Maßgabe des Absatzes 4 bis zum Zeitpunkt der Anwendung des Instruments der Beteiligung der relevanten Kapitalinstrumente oder des Instruments der Gläubigerbeteiligung nicht abgeschlossen, so
+
+1. wird der Erwerb und jede Erhöhung einer qualifizierten Beteiligung durch einen Erwerber wirksam, ohne dass ein Vollzugshindernis besteht;
+
+2. wird das Stimmrecht des Erwerbers während des Beurteilungszeitraums ausgesetzt und geht auf die Abwicklungsbehörde über; die Abwicklungsbehörde ist nicht verpflichtet, solche Stimmrechte wahrzunehmen, und sie haftet nicht für die Wahrnehmung oder Nichtwahrnehmung solcher Stimmrechte, und
+
+3. gelten während des Beurteilungszeitraums die in den §§ 2c, 44b, 56 Absatz 2 Nummer 1 Buchstabe a und b, Nummer 2 Buchstabe a und Nummer 3 Buchstabe a des Kreditwesengesetzes geregelten Sanktionen und Maßnahmen bei Verstößen gegen die Anforderungen beim Erwerb oder bei der Veräußerung bedeutender Beteiligungen nicht für einen Erwerb aufgrund der Anwendung des Instruments der Beteiligung der relevanten Kapitalinstrumente oder des Instruments der Gläubigerbeteiligung.
+
+(6) Nach Abschluss ihrer Beurteilung teilt die Aufsichtsbehörde der Abwicklungsbehörde und dem Erwerber unverzüglich schriftlich mit, ob sie nach § 2c des Kreditwesengesetzes den Erwerb untersagt. Untersagt die Aufsichtsbehörde den Erwerb, so kann die Abwicklungsbehörde von dem Erwerber verlangen, die aufgrund der Anwendung des Instruments der Beteiligung der relevanten Kapitalinstrumente oder des Instruments der Gläubigerbeteiligung erworbene Beteiligung innerhalb einer von der Abwicklungsbehörde festgelegten Veräußerungsfrist unter Berücksichtigung der herrschenden Marktbedingungen zu veräußern. Bis zum Ende der Veräußerungsfrist nach Satz 2 gilt Absatz 5 Nummer 2 und 3 entsprechend.
+
+(7) Nach Absatz 5 Nummer 2 auf die Abwicklungsbehörde übergegangene Stimmrechte gehen mit Ablauf der Untersagungsfrist oder mit Zustimmung der Aufsichtsbehörde vollständig auf den Erwerber über.
 
 # § 101 – Abwicklungsbefugnisse bei Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente und des Instruments der Gläubigerbeteiligung
 
@@ -2969,7 +2993,7 @@ Bei Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinst
 
 (1) Wird das Instrument der Gläubigerbeteiligung zur Rekapitalisierung eines Instituts oder gruppenangehörigen Unternehmens gemäß § 95 Nummer 1 angewandt, so hat die Geschäftsleitung des betroffenen Instituts oder gruppenangehörigen Unternehmens innerhalb eines Monats, nachdem das Instrument der Gläubigerbeteiligung durch die Abwicklungsbehörde angewandt geworden ist, einen Restrukturierungsplan zu erstellen, der die in § 103 festgelegten Anforderungen erfüllt, und ihn der Abwicklungsbehörde zur Genehmigung vorzulegen.
 
-(2) In Ausnahmefällen kann die Abwicklungsbehörde die in Absatz 1 genannte Frist um bis zu einen Monat verlängern, sofern dies erforderlich ist, um die Abwicklungsziele zu erreichen. Besteht nach den Vorschriften des Unionsrechts für staatliche Beihilfen eine Pflicht zur Notifizierung des Restrukturierungsplans, kann die Frist nach Absatz 1 entsprechend der im Beihilfeverfahren bestehenden Frist verlängert werden, höchstens jedoch um einen Monat.
+(2) In Ausnahmefällen kann die Abwicklungsbehörde die in Absatz 1 genannte Frist um bis zu einen Monat verlängern, sofern dies erforderlich ist, um die Abwicklungsziele zu erreichen. Besteht nach den Vorschriften des Unionsrechts oder des Abkommens über den Europäischen Wirtschaftsraum für staatliche Beihilfen eine Pflicht zur Notifizierung des Restrukturierungsplans, kann die Frist nach Absatz 1 entsprechend der im Beihilfeverfahren bestehenden Frist verlängert werden, höchstens jedoch um einen Monat.
 
 (3) Die Abwicklungsbehörde kann zum Zweck der Erstellung und Umsetzung eines Restrukturierungsplans einen oder mehrere Sonderverwalter gemäß § 87 bestellen.
 
@@ -2999,7 +3023,7 @@ Bei Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinst
 
 5. die Veräußerung von Vermögenswerten oder Geschäftsbereichen.
 
-(4) Sind die Vorschriften der Europäischen Union für staatliche Beihilfen anwendbar, so muss der Restrukturierungsplan mit dem Umstrukturierungsplan, den das Institut oder gruppenangehörige Unternehmen der Kommission gemäß den Vorschriften des Unionsrechts für staatliche Beihilfen vorlegen muss, vereinbar sein.
+(4) Sind die Vorschriften der Europäischen Union oder des Abkommens über den Europäischen Wirtschaftsraum für staatliche Beihilfen anwendbar, so muss der Restrukturierungsplan mit dem Umstrukturierungsplan, den das Institut oder gruppenangehörige Unternehmen der Kommission oder gegebenenfalls der EFTA-Überwachungsbehörde gemäß den Vorschriften des Unionsrechts oder des Abkommens über den Europäischen Wirtschaftsraum für staatliche Beihilfen vorlegen muss, vereinbar sein.
 
 # § 104 – Bewertung und Genehmigung des Restrukturierungsplans
 
@@ -3097,7 +3121,7 @@ Liegen die Abwicklungsvoraussetzungen gemäß § 62 oder § 64 vor, können das 
 
 1. die Umstände des Einzelfalls vor und bei Vorliegen der Abwicklungsvoraussetzungen und vor und bei dem Erlass der Abwicklungsanordnung,
 
-2. die Vorschriften des Unionsrechts für staatliche Beihilfen und
+2. die Vorschriften des Unionsrechts oder des Abkommens über den Europäischen Wirtschaftsraum für staatliche Beihilfen und
 
 3. die Bewertung nach Maßgabe von § 69.
 
@@ -3189,19 +3213,11 @@ c) ist die Einhaltung außerhalb dieses Gesetzes geregelter oder vertraglich ver
 
 # § 120 – Besondere Vorschriften für das Verfahren nach § 2c des Kreditwesengesetzes
 
-(1) Wenn eine Übertragung von Anteilen nach § 107 zum Erwerb oder zur Erhöhung einer bedeutenden Beteiligung führt, nimmt die Aufsichtsbehörde abweichend von § 2c des Kreditwesengesetzes die danach erforderliche Beurteilung so rechtzeitig vor, dass die Anwendung des entsprechenden Abwicklungsinstruments nicht verzögert wird und das Erreichen der mit der Abwicklungsmaßnahme angestrebten Abwicklungsziele nicht verhindert wird.
+(1) Wenn eine Übertragung von Anteilen nach § 107 zum Erwerb oder zur Erhöhung einer bedeutenden Beteiligung führt, nimmt die Aufsichtsbehörde abweichend von § 2c des Kreditwesengesetzes die danach erforderliche Beurteilung so rechtzeitig vor, dass die Anwendung des entsprechenden Abwicklungsinstruments nicht verzögert wird und das Erreichen der mit der Abwicklungsmaßnahme angestrebten Abwicklungsziele nicht verhindert wird. Die Aufsichtsbehörde erhält von der Abwicklungsbehörde alle vorhandenen Unterlagen und Bewertungen zur Beurteilung und kann auf die Vorlage weiterer Unterlagen durch den Erwerber verzichten. Sie kommt zu einer positiven Beurteilung, wenn keine offensichtlichen Gründe vorliegen, die Übertragung zu untersagen.
 
-(2) Wenn die Aufsichtsbehörde ihre Beurteilung nach Absatz 1 ausnahmsweise nicht bis zum Zeitpunkt des Wirksamwerdens der Übertragung nach § 114 abgeschlossen hat, so
+(2) Der Beurteilungszeitraum der Aufsichtsbehörde nach § 2c des Kreditwesengesetzes beginnt mit Erhalt der Unterlagen und Bewertungen von der Abwicklungsbehörde und endet zum Zeitpunkt des Wirksamwerdens der Übertragung nach § 114.
 
-1. wird die Übertragung wirksam, ohne dass ein Vollzugshindernis besteht;
-
-2. wird das Stimmrecht des übernehmenden Rechtsträgers während des Beurteilungszeitraums ausgesetzt und geht auf die Abwicklungsbehörde über; die Abwicklungsbehörde ist nicht verpflichtet, solche Stimmrechte wahrzunehmen; sie haftet nicht für die Wahrnehmung oder Nichtwahrnehmung solcher Stimmrechte;
-
-3. gelten während des Beurteilungszeitraums die in den §§ 2c, 44b, 56 Absatz 2 Nummer 1 Buchstabe a und b, Nummer 2 Buchstabe a und Nummer 3 Buchstabe a des Kreditwesengesetzes geregelten Sanktionen und Maßnahmen bei Verstößen gegen die Anforderungen beim Erwerb oder bei der Veräußerung bedeutender Beteiligungen nicht für eine Übertragung nach § 107.
-
-(3) Nach Abschluss ihrer Beurteilung teilt die Aufsichtsbehörde der Abwicklungsbehörde und dem übernehmenden Rechtsträger unverzüglich schriftlich mit, ob sie gemäß § 2c des Kreditwesengesetzes die Übertragung nach § 107 untersagt. Untersagt die Aufsichtsbehörde eine Übertragung nach § 107, so kann die Abwicklungsbehörde von dem übernehmenden Rechtsträger verlangen, die nach § 107 übertragene Beteiligung innerhalb einer von der Abwicklungsbehörde festgelegten Veräußerungsfrist unter Berücksichtigung der herrschenden Marktbedingungen zu veräußern. Bis zum Ende der Veräußerungsfrist nach Satz 2 gilt Absatz 2 Nummer 2 und 3 entsprechend.
-
-(4) Nach Absatz 2 Nummer 2 auf die Abwicklungsbehörde übergegangene Stimmrechte gehen mit Ablauf der Untersagungsfrist oder mit Zustimmung der Aufsichtsbehörde vollständig auf den übernehmenden Rechtsträger über.
+(3) Die Befugnisse der Aufsichtsbehörde nach § 2c Absatz 2 des Kreditwesengesetzes bleiben unberührt. Untersagt die Aufsichtsbehörde die Ausübung der Stimmrechte, so kann die Abwicklungsbehörde von dem übernehmenden Rechtsträger verlangen, die nach § 107 übertragene Beteiligung innerhalb einer von der Abwicklungsbehörde festgelegten Veräußerungsfrist unter Berücksichtigung der herrschenden Marktbedingungen zu veräußern.
 
 (+++ § 120 Abs. 3: Zur Anwendung vgl. § 121 Abs. 3 Satz 2 +++)
 
@@ -3217,7 +3233,7 @@ c) ist die Einhaltung außerhalb dieses Gesetzes geregelter oder vertraglich ver
 
 (2) Ist die Abwicklungsbehörde in dem betreffenden Verfahren nicht antragsbefugt oder auf sonstige Weise gehindert, die erforderlichen Rechtshandlungen vorzunehmen, sind der übertragende Rechtsträger und der übernehmende Rechtsträger verpflichtet, die Abwicklungsbehörde zu unterstützen.
 
-(3) Ergeht vor dem beabsichtigten Erlass der Abwicklungsanordnung ein ablehnender Bescheid, soll die Abwicklungsanordnung nicht erlassen werden. Ergeht der ablehnende Bescheid nach Erlass der Abwicklungsanordnung, ist § 120 Absatz 3 entsprechend anzuwenden.
+(3) Ergeht vor dem beabsichtigten Erlass der Abwicklungsanordnung ein ablehnender Bescheid, soll die Abwicklungsanordnung nicht erlassen werden. Ergeht der ablehnende Bescheid nach Erlass der Abwicklungsanordnung, ist § 100 Absatz 6 entsprechend anzuwenden.
 
 # § 122 – Mitwirkung der Abwicklungsbehörde bei Erlaubnis-, Zulassungs- oder Genehmigungsverfahren einer ausländischen Behörde
 
@@ -3858,6 +3874,8 @@ Die Abwicklungsbehörde ist für die Gruppenabwicklung eines Instituts oder eine
 8. der Koordinierung der Inanspruchnahme der jeweiligen Finanzierungsmechanismen;
 
 9. der Festlegung von Mindestanforderungen auf Gruppenebene und Einzelinstitutsebene gemäß den §§ 49 bis 50.
+
+Das Abwicklungskollegium berücksichtigt die Anpassungen der Übergangsregelungen von Artikel 45m der Richtlinie 2014/59/EU in der Fassung vom 27. November 2024, die gemäß Anhang IX Nummer 19b Buchstabe g des Abkommens über den Europäischen Wirtschaftsraum für die EFTA-Staaten nach Artikel 2 Buchstabe b des Abkommens über den Europäischen Wirtschaftsraum gelten.
 
 (2) Das Abwicklungskollegium kann auch als Diskussionsforum für alle Fragen im Zusammenhang mit der grenzüberschreitenden Gruppenabwicklung genutzt werden. Die Abwicklungsbehörde kann sich mit den anderen Mitgliedern eines Abwicklungskollegiums über die Sprache verständigen, in der die Zusammenarbeit erfolgen soll.
 

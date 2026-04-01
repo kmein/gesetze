@@ -432,8 +432,6 @@ Abluftbehandlungsanlagen im Sinn des Satzes 2 Nummer 3 sind insbesondere Rauchga
 
 (6) Die gemäß § 2 Absatz 3 Satz 1 festgelegten Steuersätze für die Verwendung von Energieerzeugnissen als Kraftstoff in begünstigten Anlagen werden angewendet nach Maßgabe und bis zum Auslaufen der erforderlichen Freistellungsanzeige bei der Europäischen Kommission nach der Verordnung (EU) Nr. 651/2014. Das Auslaufen der Freistellungsanzeige ist vom Bundesministerium der Finanzen im Bundesgesetzblatt gesondert bekannt zu geben.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 340 +++)
-
 # § 3a – Sonstige begünstigte Anlagen
 
 (1) Sonstige begünstigte Anlagen sind Arbeitsmaschinen und Fahrzeuge, die ausschließlich dem Güterumschlag in Seehäfen dienen.
@@ -1210,7 +1208,6 @@ soweit der erzeugte Strom nicht nach § 9 Absatz 1 Nummer 4, 5 oder 6 des Stroms
 
 (4) Die Steuerbefreiung nach Absatz 2 wird gewährt nach Maßgabe und bis zum Auslaufen der hierfür erforderlichen Freistellungsanzeige bei der Europäischen Kommission nach der Verordnung (EU) Nr. 651/2014. Das Auslaufen der Freistellungsanzeige ist vom Bundesministerium der Finanzen im Bundesgesetzblatt Teil I gesondert bekannt zu geben.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 340 +++)  
 (+++ § 28 Abs. 2: Genehmigung läuft mit Ablauf des 30.9.2023 aus, vgl. Bek. v. 6.9.2023 I Nr. 262 +++)
 
 # § 29 – (weggefallen)
@@ -1559,7 +1556,6 @@ Eine weitere Steuerentlastung kann für diese Energieerzeugnisse nicht gewährt 
 
 (4) Die Steuerentlastung wird gewährt nach Maßgabe und bis zum Auslaufen der hierfür erforderlichen Freistellungsanzeige bei der Europäischen Kommission nach der Verordnung (EU) Nr. 651/2014. Das Auslaufen der Freistellungsanzeige wird vom Bundesministerium der Finanzen im Bundesgesetzblatt gesondert bekannt gegeben.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 340 +++)  
 (+++ § 47a Abs. 2 Satz 1 Nr. 1: Zur Anwendung vgl. § 68 Abs. 3 +++)
 
 # § 48 – Steuerentlastung bei Vermischungen von gekennzeichnetem mit anderem Gasöl
@@ -1780,8 +1776,6 @@ Eine weitere Steuerentlastung kann für diese Energieerzeugnisse nicht gewährt 
 (11) Die teilweise Steuerentlastung nach den Absätzen 1 und 4 wird gewährt nach Maßgabe und bis zum Auslaufen der hierfür erforderlichen Freistellungsanzeige bei der Europäischen Kommission nach der Verordnung (EU) Nr. 651/2014. Das Auslaufen der Freistellungsanzeige ist vom Bundesministerium der Finanzen im Bundesgesetzblatt gesondert bekannt zu geben.
 
 (12) (weggefallen)
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 340 +++)
 
 # § 53b – (weggefallen)
 

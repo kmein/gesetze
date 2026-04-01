@@ -103,8 +103,6 @@ e) dessen Vermögenswerte nach dem geltenden Recht des Sitzstaats oder den Grün
 
 (25) Zweigniederlassung im Sinne dieses Gesetzes ist eine Einheit, ein Geschäft oder ein Büro eines Anbieters in einem Staat, die oder das nach den Regeln dieses Staates als Zweigniederlassung gilt oder anderweitig nach dem Recht dieses Staates als getrennt von anderen Einheiten, Geschäften oder Büros des Anbieters behandelt wird. Alle sich im selben Staat befindenden Einheiten, Geschäfte oder Büros eines Anbieters gelten als eine einzige Zweigniederlassung.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 352 +++)
-
 # § 2 – Anwendungsbereich
 
 (1) Den Pflichten dieses Gesetzes unterliegen, wenn es sich um Anbieter handelt,
@@ -130,8 +128,6 @@ d) ihre reguläre Geschäftstätigkeit im Inland ausüben.
 (5) Ein Kryptowerte-Betreiber, der die Voraussetzungen des Absatzes 1 Nummer 2 erfüllt, unterliegt nicht den Pflichten dieses Gesetzes, wenn er in einem anderen Mitgliedstaat der Europäischen Union oder einem qualifizierten Drittstaat aufgrund im Wesentlichen vergleichbarer Voraussetzungen solche Pflichten erfüllt. Die Erfüllung solcher Pflichten in einem anderen Mitgliedstaat der Europäischen Union oder einem qualifizierten Drittstaat aufgrund eines im Wesentlichen vergleichbaren Kriteriums hat der Anbieter dem Bundeszentralamt für Steuern in einer nach amtlichen Vorgaben erstellten Meldung zu bestätigen.
 
 (6) Ein Anbieter unterliegt den Pflichten dieses Gesetzes auch in Bezug auf zu meldende Transaktionen, die über eine Zweigniederlassung im Inland durchgeführt werden. Ein Anbieter unterliegt den Pflichten dieses Gesetzes nicht, soweit er in Bezug auf zu meldende Transaktionen, die er über eine Zweigniederlassung in einem anderen Mitgliedstaat der Europäischen Union oder einem qualifizierten Drittstaat durchführt, solche Pflichten in diesem Staat erfüllt.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 352 +++)
 
 # § 3 – Identifizierung zu meldender Nutzer und zu meldender beherrschender Personen
 
@@ -324,8 +320,6 @@ Zuständige Behörde im Sinne dieses Gesetzes ist das Bundesministerium der Fina
 
 (8) Das Bundeszentralamt für Steuern kann einen Anbieter auffordern, als unrichtig erachtete Informationen durch den betreffenden zu meldenden Nutzer berichtigen oder bestätigen zu lassen, wenn dem Bundeszentralamt für Steuern aufgrund eigener Ermittlungen, der Mitteilung einer Landesfinanzbehörde oder der Mitteilung eines Mitgliedstaates der Europäischen Union oder eines Drittstaates, mit dem eine qualifizierende Vereinbarung besteht, Informationen bekannt werden, denen zufolge begründete Zweifel an der Richtigkeit der nach § 6 erhobenen Informationen in Bezug auf einen zu meldenden Nutzer bestehen.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 352 +++)
-
 # § 17 – Registrierung von Kryptowerte-Betreibern
 
 (1) Ein Kryptowerte-Betreiber, der nach § 2 Absatz 1 Nummer 2 und Absatz 6 Satz 1 den Pflichten dieses Gesetzes unterliegt und der nicht nach § 2 Absatz 2 bis 5 oder Absatz 6 Satz 2 von diesen Pflichten befreit ist, weil er solche Pflichten in einem anderen Mitgliedstaat der Europäischen Union erfüllt, hat beim Bundeszentralamt für Steuern einmalig vor dem erstmaligen Ablauf der Frist nach § 9 Absatz 1 Satz 1 seine Registrierung zu beantragen.
@@ -365,8 +359,6 @@ Der Kryptowerte-Betreiber hat dem Bundeszentralamt für Steuern jede Änderung d
 (7) Kommt ein Kryptowerte-Betreiber seiner Meldepflicht nach § 9 Absatz 1 Satz 1, Absatz 2 oder 3 auch nach zweimaliger Aufforderung durch das Bundeszentralamt für Steuern nicht nach, widerruft das Bundeszentralamt für Steuern die erteilte Registrierung. Der Widerruf der Registrierung ist dem Kryptowerte-Betreiber anzukündigen und erfolgt frühestens nach Ablauf von 30 Tagen nach der zweiten erfolglosen Aufforderung. Der Widerruf soll spätestens nach Ablauf von 90 Tagen nach der zweiten erfolglosen Aufforderung erfolgen. § 18 Absatz 1 Nummer 7 und 8 bleibt unberührt.
 
 (8) Hat das Bundeszentralamt für Steuern die Registrierung eines Kryptowerte-Betreibers nach Absatz 7 widerrufen, so soll eine erneute Registrierung nur gegen Gewährung einer angemessenen Sicherheitsleistung gestattet werden. Die Sicherheitsleistung muss erwarten lassen, dass der Kryptowerte-Betreiber seiner Meldepflicht, gegebenenfalls einschließlich noch unerfüllter Meldepflichten für zurückliegende Meldezeiträume, nachkommen wird. Die §§ 241 bis 248 der Abgabenordnung gelten entsprechend. Die Sicherheitsleistung ist dem Kryptowerte-Betreiber zurückzugewähren, sobald dieser der Meldepflicht für gegebenenfalls zurückliegende Meldezeiträume und für den unmittelbar nächsten Meldezeitraum vollständig und richtig nachgekommen ist.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 352 +++)
 
 # § 18 – Bußgeldvorschriften
 

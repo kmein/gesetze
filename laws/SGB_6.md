@@ -3279,8 +3279,6 @@ Die Entwicklung in der allgemeinen Rentenversicherung und in der knappschaftlich
 
 (3) Die Bundesregierung hat den gesetzgebenden Körperschaften geeignete Maßnahmen vorzuschlagen, wenn in der allgemeinen Rentenversicherung in der mittleren Variante der 15-jährigen Vorausberechnungen des Rentenversicherungsberichts der Beitragssatz bis zum Jahr 2030 22 Prozent überschreitet. Die Bundesregierung hat den gesetzgebenden Körperschaften im Jahr 2029 einen Bericht über die tatsächliche Entwicklung des Beitragssatzes und des Bundeszuschusses vorzulegen, um gegebenenfalls weitere Maßnahmen zu ergreifen. Ziel dieses Berichts ist es, das Mindestsicherungsniveau von 48 Prozent sowie die daraus entstehenden Mehrausgaben zu prüfen. Nur eine wachstumsorientierte Wirtschaftspolitik, eine hohe Beschäftigungsquote und eine angemessene Lohnentwicklung ermöglichen es, dies dauerhaft zu finanzieren. Die Bundesregierung soll den gesetzgebenden Körperschaften geeignete Maßnahmen vorschlagen, wenn sich zeigt, dass durch die Förderung der freiwilligen zusätzlichen Altersvorsorge eine ausreichende Verbreitung nicht erreicht werden kann.
 
-(3a) (weggefallen)
-
 (4) Die Bundesregierung hat den gesetzgebenden Körperschaften vom Jahre 2010 an alle vier Jahre über die Entwicklung der Beschäftigung älterer Arbeitnehmer zu berichten und eine Einschätzung darüber abzugeben, ob die Anhebung der Regelaltersgrenze unter Berücksichtigung der Entwicklung der Arbeitsmarktlage sowie der wirtschaftlichen und sozialen Situation älterer Arbeitnehmer weiterhin vertretbar erscheint und die getroffenen gesetzlichen Regelungen bestehen bleiben können. Die Bundesregierung berichtet zudem vom Jahre 2018 an über die Auswirkungen der Altersrente für besonders langjährig Versicherte in der Fassung des RV-Leistungsverbesserungsgesetzes, insbesondere über den Umfang der Inanspruchnahme und die Erfüllung der Zugangsvoraussetzungen vor dem Hintergrund der Berücksichtigung von Zeiten des Arbeitslosengeldbezugs und macht Vorschläge für eine Weiterentwicklung dieser Rentenart.
 
 # § 154a – Sicherungsniveau vor Steuern
@@ -3346,6 +3344,8 @@ voraussichtlich entsprechen. Der Beitragssatz ist auf eine Dezimalstelle aufzuru
 (3) Der Beitragssatz in der knappschaftlichen Rentenversicherung wird jeweils in dem Verhältnis verändert, in dem er sich in der allgemeinen Rentenversicherung ändert; der Beitragssatz ist nur für das jeweilige Kalenderjahr auf eine Dezimalstelle aufzurunden.
 
 (4) Wird der Beitragssatz in der allgemeinen Rentenversicherung vom 1. Januar des Jahres an nicht verändert, macht das Bundesministerium für Arbeit und Soziales im Bundesgesetzblatt das Weitergelten der Beitragssätze bekannt.
+
+(+++ § 158 Abs. 4: Jeweilige Bekanntmachung vgl. unter FNA 8232-58-1, FNA 8232-58-2, FNA 8232-58-3 usw. +++)
 
 # § 159 – Beitragsbemessungsgrenzen
 
@@ -4276,8 +4276,6 @@ Die Träger der Rentenversicherung sind berechtigt, Prüfungen bei den versicher
 (4) Der zusätzliche Bundeszuschuss nach Absatz 3 wird um einen Erhöhungsbetrag ergänzt. Ausgehend von dem Betrag von 17 586 056 949,39 Euro im Jahr 2025 wird dieser für das jeweils folgende Kalenderjahr neu bestimmt, indem der für das laufende Kalenderjahr ermittelte Erhöhungsbetrag mit dem Faktor für die Veränderung der Bruttolöhne und -gehälter des vergangenen Jahres gegenüber dem vorvergangenen Jahr multipliziert wird. § 68 Absatz 2 Satz 1 gilt entsprechend.
 
 (5) Die Festsetzung und Auszahlung der Monatsraten sowie die Abrechnung der Bundeszuschüsse führt das Bundesamt für Soziale Sicherung durch.
-
-(+++ § 213 Abs. 6: zur Anwendung vgl. § 287a +++)
 
 # § 214 – Liquiditätssicherung
 

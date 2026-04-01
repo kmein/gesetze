@@ -9,7 +9,7 @@ Auf Grund des § 25a Absatz 6 des Kreditwesengesetzes, der durch Artikel 1 Numme
 
 # § 1 – Anwendungsbereich
 
-(1) Diese Verordnung gilt vorbehaltlich des Absatzes 3 für alle Institute gemäß § 1 Absatz 1b und § 53 Absatz 1 des Kreditwesengesetzes, auf die § 25a des Kreditwesengesetzes anzuwenden ist, und für die Vergütung sämtlicher Mitarbeiter und Mitarbeiterinnen dieser Institute gemäß § 2 Absatz 7. Auf Zweigniederlassungen von Unternehmen mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums gemäß § 53b Absatz 1 und 7 des Kreditwesengesetzes und auf Unternehmen, die ausschließlich Finanzdienstleistungen gemäß § 1 Absatz 1a Satz 2 Nummer 9 oder Nummer 10 des Kreditwesengesetzes erbringen, ist sie nicht anzuwenden.
+(1) Diese Verordnung gilt vorbehaltlich des Absatzes 3 für alle Institute gemäß § 1 Absatz 1b und § 53 Absatz 1 des Kreditwesengesetzes, auf die § 25a des Kreditwesengesetzes anzuwenden ist, und für die Vergütung sämtlicher Mitarbeiter und Mitarbeiterinnen dieser Institute gemäß § 2 Absatz 7. Auf Zweigniederlassungen von Unternehmen mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums gemäß § 53b Absatz 1 und 7 des Kreditwesengesetzes und auf Unternehmen, die ausschließlich Finanzdienstleistungen gemäß § 1 Absatz 1a Satz 2 Nummer 9 oder Nummer 10 des Kreditwesengesetzes erbringen, ist sie nicht anzuwenden. § 27 Absatz 1 bis 5 ist zudem von übergeordneten Unternehmen, bei denen es sich um eine Mutterfinanzholding-Gesellschaft, gemischte Mutterfinanzholding-Gesellschaft, EU-Mutterfinanzholding-Gesellschaft oder eine gemischte EU-Mutterfinanzholding-Gesellschaft handelt, anzuwenden.
 
 (2) § 5 Absatz 6 und § 16 sind nicht anzuwenden auf Institute, die weder ein CRR-Kreditinstitut gemäß § 1 Absatz 3d Satz 1 des Kreditwesengesetzes noch bedeutend gemäß § 1 Absatz 3c des Kreditwesengesetzes sind.
 
@@ -23,7 +23,7 @@ a) sie fallen weder unter die Befreiung des § 20 Absatz 1 des Sanierungs- und A
 
 b) ihre Handelsbuchtätigkeiten zum Abschluss des letzten Geschäftsjahres gehen über einen geringen Umfang im Sinne des Artikels 94 Absatz 1 der Verordnung (EU) Nr. 575/2013 hinaus oder
 
-c) ihr Gesamtwert an Derivatepositionen, die mit Handelsabsicht gehalten werden, übersteigt zum Abschluss des letzten Geschäftsjahres 2 Prozent der gesamten bilanziellen und außerbilanziellen Vermögenswerte und ihr Gesamtwert an allen Derivatepositionen übersteigt 5 Prozent, wobei beide Werte gemäß Artikel 273a Absatz 3 der Verordnung (EU) Nr. 575/2013 berechnet werden.
+c) ihr Gesamtwert an Derivatepositionen, die mit Handelsabsicht gehalten werden, übersteigt zum Abschluss des letzten Geschäftsjahres 2 Prozent der gesamten bilanziellen und außerbilanziellen Vermögenswerte oder ihr Gesamtwert an allen Derivatepositionen übersteigt 5 Prozent, wobei beide Werte gemäß Artikel 273a Absatz 3 der Verordnung (EU) Nr. 575/2013 berechnet werden.
 
 (4) Diese Verordnung ist mit Ausnahme von § 16 Absatz 1 Satz 1 Nummer 1 und 3 nicht anzuwenden auf Vergütungen, die
 
@@ -155,7 +155,7 @@ In bedeutenden Instituten gemäß § 1 Absatz 3c des Kreditwesengesetzes sind di
 
 a) auf die ein gesetzlicher Anspruch besteht,
 
-b) die aufgrund eines Sozialplans gemäß § 112 Absatz 1 des Betriebsverfassungsgesetzes oder gemäß § 75 Absatz 3 Nummer 13 des Bundespersonalvertretungsgesetzes oder gemäß den entsprechenden landesrechtlichen Regelungen geleistet werden,
+b) die aufgrund eines Sozialplans gemäß § 112 Absatz 1 des Betriebsverfassungsgesetzes oder gemäß § 79 Absatz 1 Nummer 5 des Bundespersonalvertretungsgesetzes oder gemäß den entsprechenden landesrechtlichen Regelungen geleistet werden,
 
 c) die aufgrund eines rechtskräftigen Urteils oder Prozessvergleichs zu leisten sind, oder
 
@@ -258,7 +258,7 @@ dauerhaft aufrechtzuerhalten oder wiederherzustellen.
 
 # § 12 – Überprüfung und Anpassung der Vergütungssysteme
 
-(1) Die Vergütungssysteme und die zugrunde gelegten Vergütungsparameter sind von dem Institut zumindest einmal jährlich auf ihre Angemessenheit, insbesondere auch ihre Vereinbarkeit mit den Geschäfts- und Risikostrategien, zu überprüfen. Dabei sind zumindest die diesbezüglichen Berichte der Internen Revision, der Prüfungsbericht des Abschlussprüfers gemäß § 26 Absatz 1 des Kreditwesengesetzes sowie in bedeutenden Instituten gemäß § 1 Absatz 3c des Kreditwesengesetzes dieser Verordnung der Vergütungskontrollbericht gemäß § 24 Absatz 3 heranzuziehen. Die Überprüfung ist schriftlich oder elektronisch zu dokumentieren und das Überprüfungsergebnis dem Verwaltungs- oder Aufsichtsorgan vorzulegen.
+(1) Die Vergütungssysteme und die zugrunde gelegten Vergütungsparameter sind von dem Institut zumindest einmal jährlich auf ihre Angemessenheit, insbesondere auch ihre Vereinbarkeit mit den Geschäfts- und Risikostrategien, zu überprüfen. Dabei sind zumindest die diesbezüglichen Berichte der Internen Revision, der Prüfungsbericht des Abschlussprüfers gemäß § 26 Absatz 1 des Kreditwesengesetzes sowie in bedeutenden Instituten gemäß § 1 Absatz 3c des Kreditwesengesetzes der Vergütungskontrollbericht gemäß § 24 Absatz 3 heranzuziehen. Die Überprüfung ist schriftlich oder elektronisch zu dokumentieren und das Überprüfungsergebnis dem Verwaltungs- oder Aufsichtsorgan vorzulegen.
 
 (2) Werden bei der Überprüfung Mängel festgestellt, ist zeitnah ein Maßnahmenplan zu erstellen und umzusetzen. Die ergriffenen Maßnahmen zur Behebung der festgestellten Mängel sind zu dokumentieren.
 

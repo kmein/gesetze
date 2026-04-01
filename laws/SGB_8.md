@@ -1461,7 +1461,7 @@ Das Jugendamt hat der Mutter ein persönliches Gespräch anzubieten. Das Gesprä
 
 (1) Die Urkundsperson beim Jugendamt ist befugt,
 
-1. die Erklärung, durch die die Vaterschaft anerkannt oder die Anerkennung widerrufen wird, die Zustimmungserklärung der Mutter sowie die etwa erforderliche Zustimmung des Mannes, der im Zeitpunkt der Geburt mit der Mutter verheiratet ist, des Kindes, des Jugendlichen oder eines gesetzlichen Vertreters zu einer solchen Erklärung (Erklärungen über die Anerkennung der Vaterschaft) zu beurkunden,
+1. die Erklärung, durch die die Vaterschaft anerkannt wird, die Zustimmungserklärung der Mutter sowie die etwa erforderliche Zustimmungserklärung des Mannes, der dem Kind bislang als Vater zugeordnet war, des Kindes, des Jugendlichen oder eines gesetzlichen Vertreters zu einer solchen Erklärung (Erklärungen über die Anerkennung der Vaterschaft) zu beurkunden,
 
 2. die Erklärung, durch die die Mutterschaft anerkannt wird, sowie die etwa erforderliche Zustimmung des gesetzlichen Vertreters der Mutter zu beurkunden (§ 44 Absatz 2 des Personenstandsgesetzes),
 

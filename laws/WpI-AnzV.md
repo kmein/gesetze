@@ -141,6 +141,18 @@ Mit Einreichung der nach den §§ 5 und 6 der Anzeige beizufügenden Unterlagen 
 
 Die in den Anzeigen nach Artikel 4 Buchstabe a der Delegierten Verordnung (EU) 2017/1943, Artikel 5 der Durchführungsverordnung (EU) 2017/1945, § 64 Absatz 1 Nummer 1, § 65 Absatz 1 Nummer 1, § 67 Absatz 2 Satz 1 Nummer 1 oder Nummer 4 des Wertpapierinstitutsgesetzes genannten Personen haben beim Bundesamt für Justiz einen Auszug aus dem Gewerbezentralregister nach § 150 Absatz 5 der Gewerbeordnung zur Vorlage bei der Bundesanstalt zu beantragen. Satz 1 gilt nicht, wenn die Person weder in den letzten zehn Jahren in der Bundesrepublik Deutschland einen Wohnsitz hatte noch in den letzten zehn Jahren in der Bundesrepublik Deutschland eine berufliche Tätigkeit ausgeübt hat. Sofern der Bundesanstalt bereits ein Auszug aus dem Gewerbezentralregister nach § 150 Absatz 5 der Gewerbeordnung vorliegt, dessen Beantragung nicht mehr als zwölf Monate zurückliegt, ist keine erneute Beantragung beim Bundesamt für Justiz erforderlich.
 
+# § 9a – Anzeigen nach § 66 Absatz 3 und 4 des Wertpapierinstitutsgesetzes
+
+(1) Anzeigen nach § 66 Absatz 3 Nummer 1 des Wertpapierinstitutsgesetzes sind von Mittleren Wertpapierinstituten, deren bilanzielle und außerbilanzielle Vermögenswerte, gemessen am Durchschnitt der letzten vier vorangegangenen Geschäftsjahre, mehr als 300 Millionen Euro betragen oder die von der Bundesanstalt oder der Deutschen Bundesbank dazu aufgefordert wurden, jährlich bis zum 15. Juni nach dem Stand zu dem bis zum 31. Dezember des Vorjahres abgeschlossenen Geschäftsjahr mit den Formularen „R 01.01“, „R 02.01“, „R 02.02“ und „R 05.01“ nach den Anlagen 11 bis 14 einzureichen. Satz 1 gilt für Wertpapierinstitutsgruppen im Sinne von § 2 Absatz 25 des Wertpapierinstitutsgesetzes mit der Maßgabe entsprechend, dass das EU-Mutterwertpapierinstitut, die EU-Mutterinvestmentholdinggesellschaft oder die gemischte EU-Mutterfinanzholdinggesellschaft die Angaben für alle Unternehmen der Gruppe, die der aufsichtlichen Konsolidierung nach Artikel 7 der Verordnung (EU) 2019/2033 unterliegen, auf zusammengefasster Basis einzureichen hat, sofern der Gruppe mindestens ein Wertpapierinstitut angehört, das nach § 66 Absatz 3 Nummer 1 des Wertpapierinstitutsgesetzes zur Abgabe der Anzeige verpflichtet ist.
+
+(2) Anzeigen nach § 66 Absatz 3 Nummer 2 des Wertpapierinstitutsgesetzes über Geschäftsleiter, Mitglieder des Verwaltungs- oder Aufsichtsorgans und Mitarbeiter mit jeweils einer Gesamtvergütung von jährlich mindestens 1 Million Euro (Einkommensmillionäre) sind von Mittleren Wertpapierinstituten jährlich bis zum 15. Juni nach dem Stand zu dem bis zum 31. Dezember des Vorjahres abgeschlossenen Geschäftsjahr mit den Formularen „R 04.01.a“, „R 04.01.b“ und „R 04.01.c“ nach den Anlagen 15 bis 17 einzureichen. Mittlere Wertpapierinstitute, deren EU-Mutterwertpapierinstitut, EU-Mutterinvestmentholdinggesellschaft oder gemischte EU-Mutterfinanzholdinggesellschaft in einem anderen Staat innerhalb des Europäischen Wirtschaftsraums ansässig ist, haben die Anzeige nicht einzureichen. Satz 1 gilt für Wertpapierinstitutsgruppen im Sinne von § 2 Absatz 25 des Wertpapierinstitutsgesetzes mit der Maßgabe entsprechend, dass das EU-Mutterwertpapierinstitut, die EU-Mutterinvestmentholdinggesellschaft oder die gemischte EU-Mutterfinanzholdinggesellschaft die Angaben für alle Unternehmen der Gruppe, die der aufsichtlichen Konsolidierung nach Artikel 7 der Verordnung (EU) 2019/2033 unterliegen, auf zusammengefasster Basis einzureichen hat. Für Institutsgruppen, Finanzholding-Gruppen oder gemischte Finanzholding-Gruppen im Sinne von § 10a des Kreditwesengesetzes, denen ein Mittleres Wertpapierinstitut im Sinne von § 2 Absatz 17 des Wertpapierinstitutsgesetzes angehört, gilt Satz 3 entsprechend. Die Anzeige der Informationen über die Einkommensmillionäre erfolgt aggregiert für Vergütungsstufen von jeweils 1 Million Euro separat für jeden Vertragsstaat des Europäischen Wirtschaftsraums, in dem mindestens ein Einkommensmillionär tätig ist. Einkommensmillionäre, die eine berufliche Tätigkeit in unterschiedlichen Vertragsstaaten des Europäischen Wirtschaftsraums ausüben, sind dem Vertragsstaat zuzuordnen, in dem sie ihre berufliche Tätigkeit hauptsächlich ausüben. Einkommensmillionäre, die eine berufliche Tätigkeit sowohl innerhalb als auch außerhalb des Europäischen Wirtschaftsraums ausüben, sind einem Vertragsstaat nach Satz 6 zuzuordnen, sofern sie ihre berufliche Tätigkeit hauptsächlich innerhalb des Europäischen Wirtschaftsraums ausüben.
+
+(3) Anzeigen nach § 66 Absatz 4 Nummer 1 des Wertpapierinstitutsgesetzes zum geschlechtsspezifischen Lohngefälle sind von Mittleren Wertpapierinstituten, deren bilanzielle und außerbilanzielle Vermögenswerte, gemessen am Durchschnitt der letzten vier vorangegangenen Geschäftsjahre, mehr als 300 Millionen Euro betragen, oder die von der Bundesanstalt oder der Deutschen Bundesbank dazu aufgefordert wurden, der Aufsichtsbehörde und der Deutschen Bundesbank dreijährlich bis zum 15. Juni nach dem Stand zu dem bis zum 31. Dezember des Vorjahres abgeschlossenen Geschäftsjahr mit den Formularen „R 06.01.a“ und „R 06.01.b“ nach den Anlagen 18 und 19 einzureichen. Die Anzeige erfolgt auf Einzelbasis für die im Inland tätigen Mitarbeiter und Geschäftsleiter. Die Sätze 1 und 2 gelten nicht für Mittlere Wertpapierinstitute mit weniger als 50 Mitarbeitern nach dem Stand zu dem bis zum 31. Dezember des Vorjahres abgeschlossenen Geschäftsjahr, unter Einbeziehung der Mitglieder der Geschäftsleitung. Abweichend von Satz 1 müssen Mittlere Wertpapierinstitute, die Tochterunternehmen eines EU-Mutterwertpapierinstituts sind, keine Anzeige einreichen. In Wertpapierinstitutsgruppen im Sinne des § 2 Absatz 25 des Wertpapierinstitutsgesetzes, deren Mutterunternehmen eine EU-Mutterinvestmentholdinggesellschaft oder eine gemischte EU-Mutterfinanzholdinggesellschaft ist, ist die Anzeige nur von dem gruppenangehörigen Mittleren Wertpapierinstitut mit der zum Meldestichtag höchsten Anzahl an Mitarbeitern, gemessen als Vollzeitäquivalent, einzureichen.
+
+(4) Anzeigen nach § 66 Absatz 4 Nummer 2 des Wertpapierinstitutsgesetzes für einen Vergleich der Diversität in den Instituten sind von Mittleren Wertpapierinstituten, deren bilanzielle und außerbilanzielle Vermögenswerte, gemessen am Durchschnitt der letzten vier vorangegangenen Geschäftsjahre, mehr als 300 Millionen Euro betragen oder die von der Bundesanstalt oder der Deutschen Bundesbank dazu aufgefordert wurden, der Aufsichtsbehörde und der Deutschen Bundesbank dreijährlich bis zum 30. April nach dem Stand zu dem bis zum 31. Dezember des Vorjahres abgeschlossenen Geschäftsjahr mit den Formularen „R 13.00.a“, „R 13.00.b“, „R 14.00“, „R 15.00“, „R 16.00“, „R 17.00“, „R 18.00“, „R 19.00“, „R 20.00“, „R 21.00“, „R 22.01“, „R 22.02“, „R 22.03“ und „R 23.00“ nach den Anlagen 20 bis 33 einzureichen. Die Anzeige ist auf Einzelinstitutsebene einzureichen.
+
+(5) Die Anzeigen nach den Absätzen 1 bis 4 sind im elektronischen Verfahren bei der Deutschen Bundesbank einzureichen. Die Deutsche Bundesbank veröffentlicht im Internet die für die Einreichung zu verwendenden Datenformate und den Einreichungsweg. Sie leitet die Anzeigen an die Aufsichtsbehörden weiter. Den Angaben nach den Absätzen 1 bis 4 sind die Begriffsbestimmungen und Regelungen des Wertpapierinstitutsgesetzes und der Wertpapierinstituts-Vergütungsverordnung zugrunde zu legen. Die Angaben nach den Absätzen 1, 2 und 4 müssen sich jeweils auf die fixe und die variable Vergütung beziehen, die den Geschäftsleitern, Mitgliedern des Verwaltungs- oder Aufsichtsorgans oder den Mitarbeitern für deren Leistung während des bis zum 31. Dezember des Vorjahres abgeschlossenen Geschäftsjahres vor der Einreichung der Anzeige gewährt worden ist oder die nach § 8 Absatz 4 Satz 4 der Wertpapierinstituts-Vergütungsverordnung ermittelt worden ist. Die Angaben nach Absatz 3 müssen sich auf die Gesamtjahresvergütung beziehen, die den Geschäftsleitern und Mitarbeitern für deren Leistung während des bis zum 31. Dezember des Vorjahres abgeschlossenen Geschäftsjahres vor der Einreichung der Anzeige gewährt worden ist. Bei den Angaben gemäß den Absätzen 3 und 4 sind reguläre Beiträge des Arbeitgebers zur Sozialversicherung und zur Arbeitsförderung, garantierte variable Vergütungen und Abfindungen außen vor zu lassen. Bei Fremdwährungen ist der Umrechnungskurs der Europäischen Kommission für Finanzplanung und Haushalt im Dezember des Jahres zugrunde zu legen, für das die Anzeige erfolgt.
+
 # § 10 – Ersatzperson im Verhinderungsfall
 
 Die Bestimmungen nach den §§ 4 bis 9 gelten auch für die Ermächtigung einer Ersatzperson nach Artikel 8 Absatz 1 Buchstabe c und d der Delegierten Verordnung (EU) 2017/1943, die im Fall der Verhinderung eines Geschäftsleiters dessen Funktion ersetzen soll, sowie für deren Wegfall. Bei Wegfall dieser Ersatzperson hat das Wertpapierinstitut eine neue Ersatzperson, die diese Funktion ausübt, anzuzeigen.
@@ -275,7 +287,7 @@ Zeigt das Wertpapierinstitut die wesentliche Änderung einer wesentlichen Auslag
 
 (5) Die Anzeigepflicht nach den Absätzen 1, 2 und 4 umfasst für Kleine Wertpapierinstitute nur Auslagerungen von Cloud- oder anderen Informationstechnologie-Dienstleistungen.
 
-# § 14 – Anzeigen nach § 64 Absatz 1 Nummer 11, § 65 Absatz 2 Nummer 1 oder nach § 67 Absatz 2 Satz 2 des Wertpapierinstitutsgesetzes
+# § 14 – Anzeigen nach § 64 Absatz 1 Nummer 11, § 65 Absatz 2 Nummer 1 oder nach § 67 Absatz 3 des Wertpapierinstitutsgesetzes
 
 (1) Einzelanzeigen von Wertpapierinstituten über aktivische Beteiligungsverhältnisse nach § 64 Absatz 1 Nummer 11 des Wertpapierinstitutsgesetzes sind mit dem Formular „Aktivische Beteiligungsanzeige“ nach Anlage 6 einzureichen. Bei Änderungen des Beteiligungsverhältnisses sind Einzelanzeigen einzureichen, wenn
 
@@ -289,7 +301,7 @@ Zeigt das Wertpapierinstitut die wesentliche Änderung einer wesentlichen Auslag
 
 5. sich bei ganz oder teilweise mittelbar gehaltenen Anteilen die Anzahl oder die Identität der zwischengeschalteten Unternehmen verändert oder die Anteile nunmehr ganz oder teilweise vom Wertpapierinstitut selbst gehalten oder unter den Beteiligten umverteilt werden.
 
-(2) Sammelanzeigen von Großen Wertpapierinstituten über aktivische Beteiligungsverhältnisse nach § 65 Absatz 2 Nummer 1 des Wertpapierinstitutsgesetzes oder von Investmentholdinggesellschaften nach § 67 Absatz 2 Satz 2 des Wertpapierinstitutsgesetzes sind nach dem Stand vom 31. Dezember des Vorjahres bis zum 15. Juni des Folgejahres als Sammlung fortlaufend nummerierter Teilanzeigen mit dem Formular „Aktivische Beteiligungsanzeige“ nach Anlage 6 einzureichen.
+(2) Sammelanzeigen von Großen Wertpapierinstituten über aktivische Beteiligungsverhältnisse nach § 65 Absatz 2 Nummer 1 des Wertpapierinstitutsgesetzes oder von Investmentholdinggesellschaften nach § 67 Absatz 3 des Wertpapierinstitutsgesetzes sind nach dem Stand vom 31. Dezember des Vorjahres bis zum 15. Juni des Folgejahres als Sammlung fortlaufend nummerierter Teilanzeigen mit dem Formular „Aktivische Beteiligungsanzeige“ nach Anlage 6 einzureichen.
 
 (3) Für die Berechnung der Stimmrechtsanteile nach den Absätzen 1 und 2 gelten § 33 Absatz 1 des Wertpapierhandelsgesetzes in Verbindung mit der Wertpapierhandelsanzeigeverordnung, § 34 Absatz 1 und 2, § 35 Absatz 1 bis 3 des Wertpapierhandelsgesetzes in Verbindung mit der Transparenzrichtlinie-Durchführungsverordnung und § 36 des Wertpapierhandelsgesetzes entsprechend. Unberücksichtigt bleiben die Stimmrechte oder Kapitalanteile, die Wertpapierinstitute im Rahmen des Emissionsgeschäfts nach § 2 Absatz 2 Nummer 2 des Wertpapierinstitutsgesetzes halten, vorausgesetzt, diese Rechte werden nicht ausgeübt oder anderweitig benutzt, um in die Geschäftsführung des Emittenten einzugreifen, und sie werden innerhalb eines Jahres nach dem Zeitpunkt des Erwerbs veräußert.
 
@@ -922,3 +934,141 @@ Nur anzukreuzen, wenn sich die Tochtereigenschaft eines zwischengeschalteten Bet
  
 
  
+
+# Anlage 11
+
+(Fundstelle: BGBl. 2026 I Nr. 81, S. 109)
+
+<a href="../normengrafiken/bgbl1_2026/j00810_0010.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+# Anlage 12
+
+(Fundstelle: BGBl. 2026 I Nr. 81, S. 110)
+
+<a href="../normengrafiken/bgbl1_2026/j00810_0020.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+# Anlage 13
+
+(Fundstelle: BGBl. 2026 I Nr. 81, S. 111)
+
+<a href="../normengrafiken/bgbl1_2026/j00810_0030.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+# Anlage 14
+
+(Fundstelle: BGBl. 2026 I Nr. 81, S. 112)
+
+<a href="../normengrafiken/bgbl1_2026/j00810_0040.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+# Anlage 15
+
+(Fundstelle: BGBl. 2026 I Nr. 81, S. 113)
+
+<a href="../normengrafiken/bgbl1_2026/j00810_0050.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+# Anlage 16
+
+(Fundstelle: BGBl. 2026 I Nr. 81, S. 114)
+
+<a href="../normengrafiken/bgbl1_2026/j00810_0060.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+# Anlage 17
+
+(Fundstelle: BGBl. 2026 I Nr. 81, S. 115)
+
+<a href="../normengrafiken/bgbl1_2026/j00810_0070.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+# Anlage 18
+
+(Fundstelle: BGBl. 2026 I Nr. 81, S. 116)
+
+<a href="../normengrafiken/bgbl1_2026/j00810_0080.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+# Anlage 19
+
+(Fundstelle: BGBl. 2026 I Nr. 81, S. 117)
+
+<a href="../normengrafiken/bgbl1_2026/j00810_0090.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+# Anlage 20
+
+(Fundstelle: BGBl. 2026 I Nr. 81, S. 118)
+
+<a href="../normengrafiken/bgbl1_2026/j00810_0100.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+# Anlage 21
+
+(Fundstelle: BGBl. 2026 I Nr. 81, S. 119)
+
+<a href="../normengrafiken/bgbl1_2026/j00810_0110.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+# Anlage 22
+
+(Fundstelle: BGBl. 2026 I Nr. 81, S. 120)
+
+<a href="../normengrafiken/bgbl1_2026/j00810_0120.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+# Anlage 23
+
+(Fundstelle: BGBl. 2026 I Nr. 81, S. 121)
+
+<a href="../normengrafiken/bgbl1_2026/j00810_0130.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+# Anlage 24
+
+(Fundstelle: BGBl. 2026 I Nr. 81, S. 122)
+
+<a href="../normengrafiken/bgbl1_2026/j00810_0140.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+# Anlage 25
+
+(Fundstelle: BGBl. 2026 I Nr. 81, S. 123)
+
+<a href="../normengrafiken/bgbl1_2026/j00810_0150.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+# Anlage 26
+
+(Fundstelle: BGBl. 2026 I Nr. 81, S. 124)
+
+<a href="../normengrafiken/bgbl1_2026/j00810_0160.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+# Anlage 27
+
+(Fundstelle: BGBl. 2026 I Nr. 81, S. 125)
+
+<a href="../normengrafiken/bgbl1_2026/j00810_0170.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+# Anlage 28
+
+(Fundstelle: BGBl. 2026 I Nr. 81, S. 126)
+
+<a href="../normengrafiken/bgbl1_2026/j00810_0180.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+# Anlage 29
+
+(Fundstelle: BGBl. 2026 I Nr. 81, S. 127)
+
+<a href="../normengrafiken/bgbl1_2026/j00810_0190.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+# Anlage 30
+
+(Fundstelle: BGBl. 2026 I Nr. 81, S. 128)
+
+<a href="../normengrafiken/bgbl1_2026/j00810_0200.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+# Anlage 31
+
+(Fundstelle: BGBl. 2026 I Nr. 81, S. 129)
+
+<a href="../normengrafiken/bgbl1_2026/j00810_0210.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+# Anlage 32
+
+(Fundstelle: BGBl. 2026 I Nr. 81, S. 130)
+
+<a href="../normengrafiken/bgbl1_2026/j00810_0220.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+
+# Anlage 33
+
+(Fundstelle: BGBl. 2026 I Nr. 81, S. 131)
+
+<a href="../normengrafiken/bgbl1_2026/j00810_0230.pdf" class="jurextern" target="_blank" type="pdf" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>

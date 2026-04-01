@@ -738,6 +738,8 @@ c) 2013/36/EU des Europäischen Parlaments und des Rates vom 26. Juni 2013 über
 
 d) 2009/138/EG.
 
+(+++ §§ 17 u. 18: Zur Nichtanwendung vgl. § 293 Abs. 1 Satz 2 +++)
+
 # § 18 – Untersagung oder Beschränkung einer bedeutenden Beteiligung
 
 (1) Die Aufsichtsbehörde kann in den Fällen des § 17 Absatz 1 Satz 1 Nummer 1 oder 2 innerhalb des Beurteilungszeitraums den beabsichtigten Erwerb der bedeutenden Beteiligung oder deren Erhöhung untersagen, wenn Tatsachen die Annahme rechtfertigen, dass
@@ -759,6 +761,8 @@ d) 2009/138/EG.
 (2a) Die Aufsichtsbehörde kann in den Fällen des Absatzes 1, statt den beabsichtigten Erwerb der bedeutenden Beteiligung oder ihre beabsichtigte Erhöhung zu untersagen, sowie in den Fällen des § 17 Absatz 1 Satz 2 Nummer 1 innerhalb des Beurteilungszeitraums auch Anordnungen gegenüber dem Anzeigepflichtigen treffen, die geeignet und erforderlich sind, um Tatsachen zu schaffen, die die Annahme der in Absatz 1 genannten Untersagungsgründe nicht mehr rechtfertigen.
 
 (3) Entscheidet die Aufsichtsbehörde nach Abschluss der Beurteilung, den Erwerb oder die Erhöhung der Beteiligung zu untersagen oder eine Anordnung nach Absatz 2a zu erlassen, teilt sie dem Anzeigepflichtigen die Entscheidung innerhalb von zwei Arbeitstagen und unter Einhaltung des Beurteilungszeitraums schriftlich oder elektronisch unter Angabe der Gründe mit. Bemerkungen und Vorbehalte der für den Anzeigepflichtigen zuständigen Behörde sind in der Entscheidung wiederzugeben; eine Untersagung darf nur aus den in den Absätzen 1 und 2 genannten Gründen erfolgen; eine Anordnung nach Absatz 2a darf nur aus den in Absatz 1 aufgezählten Gründen erfolgen. Wird der Erwerb oder die Erhöhung der Beteiligung nicht innerhalb des Beurteilungszeitraums schriftlich oder elektronisch untersagt, kann der Erwerb oder die Erhöhung vollzogen werden; die Rechte der Aufsichtsbehörde nach § 20 bleiben davon unberührt. Wird der Erwerb oder die Erhöhung der Beteiligung nicht untersagt, kann die Aufsichtsbehörde eine Frist festsetzen, nach deren Ablauf der Anzeigepflichtige ihr den Vollzug oder den Nichtvollzug des beabsichtigten Erwerbs oder der Erhöhung unverzüglich anzuzeigen hat.
+
+(+++ §§ 17 u. 18: Zur Nichtanwendung vgl. § 293 Abs. 1 Satz 2 +++)
 
 # § 19 – Untersagung der Ausübung der Stimmrechte
 
@@ -1576,7 +1580,7 @@ ohne Abzug der Rückversicherung sowie nach Mitgliedstaaten aufgeschlüsselt mit
 
 5. von den Vorschriften für einzelne Zweige die §§ 142, 144, 146, 147, 149 und 150 Absatz 1 bis 3, § 152 Absatz 1 bis 4, die §§ 155 und 156 Absatz 1, § 157 Absatz 1, § 159 mit Ausnahme der Verweisung auf § 160;
 
-6. von den Vorschriften über die Aufsicht § 294 Absatz 2 Satz 2 bis 4, die §§ 298 und 299 Nummer 1, die §§ 303, 305 Absatz 1, 2 Nummer 1 und 2, Absatz 3 bis 5, § 306 Absatz 1 Satz 1 Nummer 1 bis 3, Absatz 2 Satz 1 Nummer 1 und 2, Absatz 4 bis 8, die §§ 308 und 310 sowie die Vorschriften einer Rechtsverordnung nach § 310a sowie
+6. von den Vorschriften über die Aufsicht § 294 Absatz 2 Satz 2 bis 4, die §§ 298 und 299 Nummer 1, die §§ 303, 305 Absatz 1, 2 Nummer 1 und 2, Absatz 3, § 306 Absatz 1 Satz 1 Nummer 1 bis 3, Absatz 2 Satz 1 Nummer 1 und 2, Absatz 4 bis 7, die §§ 306a, 308 und 310 sowie die Vorschriften einer Rechtsverordnung nach § 310a sowie
 
 7. § 17 des Finanzdienstleistungsaufsichtsgesetzes.
 
@@ -3011,7 +3015,7 @@ Die Vorschriften dieses Gesetzes, die an das Bestehen einer Rückversicherung an
 
 (1) Eine Versicherungs-Zweckgesellschaft ist eine Kapitalgesellschaft oder eine rechtsfähige Personengesellschaft, die kein bestehendes Versicherungsunternehmen ist und Risiken von Versicherungsunternehmen übernimmt, wobei sie die Schadenrisiken vollständig über die Emission von Schuldtiteln oder einen anderen Finanzierungsmechanismus absichert, bei dem die Rückzahlungsansprüche der Darlehensgeber oder der Finanzierungsmechanismus den Rückversicherungsverpflichtungen der Gesellschaft nachgeordnet sind. Die Laufzeit der Schuldtitel oder des anderen Finanzierungsmechanismus muss derjenigen des Rückversicherungsvertrags mindestens entsprechen. Versicherungs-Zweckgesellschaften mit Sitz oder Hauptverwaltung im Inland bedürfen zur Aufnahme des Geschäftsbetriebs der Erlaubnis der Aufsichtsbehörde.
 
-(2) Für Versicherungs-Zweckgesellschaften gelten die §§ 4, 8 Absatz 3, § 9 Absatz 1, § 10 Absatz 1, die §§ 11, 16, 24, 25, 47 Nummer 1, 2, 5, § 294 Absatz 2 Satz 1, 3 und 4 und Absatz 3, 6 und 7, die §§ 305, 306, 307 und 310 bis 315 mit Ausnahme des § 312 Absatz 1 entsprechend.
+(2) Für Versicherungs-Zweckgesellschaften gelten die §§ 4, 8 Absatz 3, § 9 Absatz 1, § 10 Absatz 1, die §§ 11, 16, 24, 25, 47 Nummer 1, 2, 5, § 294 Absatz 2 Satz 1, 3 und 4 und Absatz 3, 6 und 7, die §§ 305, 306 bis 307 und 310 bis 315 mit Ausnahme des § 312 Absatz 1 entsprechend.
 
 (3) Sind die Mittel einer Versicherungs-Zweckgesellschaft nicht ausreichend im Sinne der nach Artikel 211 Absatz 2 der Richtlinie 2009/138/EG erlassenen Durchführungsmaßnahme der Europäischen Kommission, hat die Versicherungs-Zweckgesellschaft auf Verlangen der Aufsichtsbehörde dieser einen Plan zur Wiederherstellung gesunder Finanzverhältnisse zur Genehmigung vorzulegen. Die Aufsichtsbehörde kann die Erlaubnis zum Geschäftsbetrieb widerrufen, wenn die Versicherungs-Zweckgesellschaft außerstande ist, innerhalb einer angemessenen, von der Aufsichtsbehörde gesetzten Frist wieder ausreichende Mittel vorzuweisen.
 
@@ -3023,7 +3027,7 @@ Die Vorschriften dieses Gesetzes, die an das Bestehen einer Rückversicherung an
 
 (3) Verstößt das Rückversicherungsunternehmen trotz der eingeleiteten Maßnahmen nach Absatz 2 auch weiterhin gegen die zu beachtenden Rechtsvorschriften, so kann die Bundesanstalt nach erneuter Unterrichtung der zuständigen Behörde des Herkunftsstaats selbst alle erforderlichen Maßnahmen zur Beseitigung früherer und zur Verhütung künftiger Verstöße ergreifen. Sind hierbei Versuche, Anordnungen mit Zwangsmitteln durchzusetzen oder wegen Zwangsgelds zu vollstrecken, aussichtslos oder erfolglos, kann die Bundesanstalt, wenn andere Maßnahmen nicht zum Ziel führen oder nicht angebracht sind, die weitere Geschäftstätigkeit im Inland ganz oder teilweise untersagen. Darüber hinaus kann die Bundesanstalt gemäß Artikel 19 der Verordnung (EU) Nr. 1094/2010 die Europäische Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung mit der Angelegenheit befassen und um Unterstützung bitten.
 
-(4) Für die Aufsicht der Bundesanstalt nach Absatz 1 gelten neben den Absätzen 2 und 3 die §§ 4, 68 Absatz 2 Satz 4, die §§ 298, 299 Nummer 1, die §§ 303, 305 Absatz 1 Nummer 2, Absatz 3 und 5, § 306 Absatz 1 Satz 1 Nummer 1 bis 3, Absatz 2 Satz 1 Nummer 2, Absatz 5 bis 8, § 310 und § 17 des Finanzdienstleistungsaufsichtsgesetzes entsprechend. § 305 Absatz 1 Nummer 1 findet mit der Maßgabe entsprechende Anwendung, dass an die Stelle der Versicherungsnehmer die Vorversicherer treten.
+(4) Für die Aufsicht der Bundesanstalt nach Absatz 1 gelten neben den Absätzen 2 und 3 die §§ 4, 68 Absatz 2 Satz 4, die §§ 298, 299 Nummer 1, die §§ 303, 305 Absatz 1 Nummer 2, Absatz 3, § 306 Absatz 1 Satz 1 Nummer 1 bis 3, Absatz 2 Satz 1 Nummer 2, Absatz 4 bis 7, die §§ 306a und 310 dieses Gesetzes sowie § 17 des Finanzdienstleistungsaufsichtsgesetzes entsprechend. § 305 Absatz 1 Nummer 1 findet mit der Maßgabe entsprechende Anwendung, dass an die Stelle der Versicherungsnehmer die Vorversicherer treten.
 
 # § 170 – Verordnungsermächtigung
 
@@ -3744,7 +3748,7 @@ Auch ein nach § 8 zugelassenes Unternehmen kann beliehen werden. Durch die Rech
 
 # § 225 – Aufsicht
 
-Die Bundesanstalt hat Missständen entgegenzuwirken, welche die ordnungsgemäße Erfüllung der Aufgaben der Sicherungsfonds gefährden können. Die Bundesanstalt kann Anordnungen treffen, die geeignet und erforderlich sind, diese Missstände zu beseitigen oder zu verhindern. Der Bundesanstalt stehen gegenüber den Sicherungsfonds die Auskunfts- und Prüfungsrechte nach den §§ 305 und 306 zu. Im Übrigen gelten für die Sicherungsfonds nur die Vorschriften dieses Kapitels, § 332 sowie die Vorschriften einer Rechtsverordnung nach § 310a.
+Die Bundesanstalt hat Missständen entgegenzuwirken, welche die ordnungsgemäße Erfüllung der Aufgaben der Sicherungsfonds gefährden können. Die Bundesanstalt kann Anordnungen treffen, die geeignet und erforderlich sind, diese Missstände zu beseitigen oder zu verhindern. Der Bundesanstalt stehen gegenüber den Sicherungsfonds die Rechte nach den §§ 305 und 306 zu. Im Übrigen gelten für die Sicherungsfonds nur die Vorschriften dieses Kapitels, § 332 sowie die Vorschriften einer Rechtsverordnung nach § 310a.
 
 # § 226 – Finanzierung
 
@@ -4392,7 +4396,7 @@ Verein Versicherungsverein auf Gegenseitigkeit.
 
 (5) Die Bundesanstalt überwacht laufend, ob die Einrichtung die in Absatz 2 Satz 1 Nummer 1 und 2 genannten Vorschriften einhält. Bei Verstößen gegen diese Vorschriften unterrichtet sie unverzüglich die zuständigen Behörden des Herkunftsstaats. Verstößt die Einrichtung weiterhin gegen die Vorschriften, kann die Bundesanstalt nach Unterrichtung der zuständigen Behörden des Herkunftsstaats selbst geeignete Maßnahmen ergreifen, um die Verstöße zu beenden oder zu ahnden. Kommt eine andere Lösung nicht in Betracht, kann sie der Einrichtung untersagen, weiter im Inland für das Trägerunternehmen tätig zu sein.
 
-(6) Für die Zwecke des Absatzes 5 Satz 1 ist § 305 Absatz 1 Nummer 1, Absatz 2 Nummer 1 und 2 sowie Absatz 5 entsprechend anwendbar.
+(6) Für die Zwecke des Absatzes 5 Satz 1 ist § 305 Absatz 1 Nummer 1, Absatz 2 Nummer 1 und 2 sowie Absatz 3 entsprechend anwendbar.
 
 (7) Auf Antrag der Aufsichtsbehörde des Herkunftsstaats kann die Bundesanstalt die freie Verfügung über Vermögenswerte untersagen, die sich im Besitz eines Verwahrers oder einer Verwahrstelle mit Standort im Inland befinden.
 
@@ -5228,7 +5232,7 @@ Haben ein oder mehrere Versicherungsunternehmen eine gemischte Versicherungs-Hol
 
 # § 293 – Aufsicht
 
-(1) Für Versicherungs-Holdinggesellschaften und gemischte Finanzholding-Gesellschaften gelten neben dem Absatz 3 die §§ 4, 16 bis 26, 29, 30, 32, 47 Nummer 1, 2 und 5 bis 7, die §§ 303, 305, 306, 310 und 333 sowie die Vorschriften einer Rechtsverordnung nach § 310a entsprechend; § 299 bleibt unberührt. Die §§ 17 und 18 sind nicht anzuwenden, sofern zugleich die Absicht des Erwerbs, der Erhöhung, der Aufgabe oder der Verringerung einer bedeutenden Beteiligung an einem Versicherungsunternehmen besteht oder unabsichtlich eine bedeutende Beteiligung an einem Versicherungsunternehmen erworben, erhöht, aufgegeben oder verringert wurde. Für Unternehmen, die auch das Erst- oder Rückversicherungsgeschäft betreiben, gelten neben Absatz 2 nur die Vorschriften über die Beaufsichtigung von Erst- oder Rückversicherungsunternehmen.
+(1) Für Versicherungs-Holdinggesellschaften und gemischte Finanzholding-Gesellschaften gelten neben dem Absatz 3 die §§ 4, 16 bis 26, 29, 30, 32, 47 Nummer 1, 2 und 5 bis 7, die §§ 303, 305, 306 bis 306b, 310 und 333 sowie die Vorschriften einer Rechtsverordnung nach § 310a entsprechend; § 299 bleibt unberührt. Die §§ 17 und 18 sind nicht anzuwenden, sofern zugleich die Absicht des Erwerbs, der Erhöhung, der Aufgabe oder der Verringerung einer bedeutenden Beteiligung an einem Versicherungsunternehmen besteht oder unabsichtlich eine bedeutende Beteiligung an einem Versicherungsunternehmen erworben, erhöht, aufgegeben oder verringert wurde. Für Unternehmen, die auch das Erst- oder Rückversicherungsgeschäft betreiben, gelten neben Absatz 2 nur die Vorschriften über die Beaufsichtigung von Erst- oder Rückversicherungsunternehmen.
 
 (2) In den Fällen des § 287 kann die Aufsichtsbehörde die erforderlichen Maßnahmen auch gegenüber der jeweiligen Versicherungs-Holdinggesellschaft oder gemischten Finanzholding-Gesellschaft anordnen.
 
@@ -5438,9 +5442,9 @@ Der Widerruf der Erlaubnis steht den im Rahmen des Insolvenzverfahrens erforderl
 
 (1) Die Aufsichtsbehörde ist befugt,
 
-1. von den Versicherungsunternehmen, den Mitgliedern ihrer Organe, ihren Beschäftigten sowie den die Unternehmen kontrollierenden Personen Auskünfte über alle Geschäftsangelegenheiten sowie Vorlage oder Übersendung aller Geschäftsunterlagen, im Einzelfall insbesondere der allgemeinen Versicherungsbedingungen, der Tarife, der Formblätter und sonstigen Druckstücke, die das Versicherungsunternehmen im Verkehr mit den Versicherungsnehmern oder den abgebenden Versicherungsunternehmen (Vorversicherern) verwendet, sowie der Unternehmensverträge und der Verträge über Ausgliederungen zu verlangen und
+1. von den Versicherungsunternehmen, den Mitgliedern ihrer Organe, ihren Beschäftigten sowie den die Unternehmen kontrollierenden Personen, auch nach deren Ausscheiden aus dem Organ oder Unternehmen, Auskünfte über alle Geschäftsangelegenheiten sowie Vorlage oder Übersendung aller Geschäftsunterlagen, im Einzelfall insbesondere der allgemeinen Versicherungsbedingungen, der Tarife, der Formblätter und sonstigen Druckstücke, die das Versicherungsunternehmen im Verkehr mit den Versicherungsnehmern oder den abgebenden Versicherungsunternehmen (Vorversicherern) verwendet, sowie der Unternehmensverträge und der Verträge über Ausgliederungen zu verlangen und
 
-2. von einem in die Gruppenaufsicht nach Teil 5 einbezogenen Versicherungsunternehmen und den in Nummer 1 genannten Personen Auskünfte und die Vorlage von Unterlagen über die Geschäftsangelegenheiten zu verlangen, die der Gruppenaufsicht dienlich sind; übermittelt das Versicherungsunternehmen diese Informationen trotz Aufforderung nicht innerhalb einer angemessenen Frist, so kann die Aufsichtsbehörde auch von allen anderen der Gruppe angehörigen Unternehmen die Auskünfte sowie Übersendung oder Vorlage der Unterlagen verlangen.
+2. von einem in die Gruppenaufsicht nach Teil 5 einbezogenen Versicherungsunternehmen und den in Nummer 1 genannten Personen, auch nach deren Ausscheiden aus dem Organ oder Unternehmen, Auskünfte und die Vorlage von Unterlagen über die Geschäftsangelegenheiten zu verlangen, die der Gruppenaufsicht dienlich sind; übermittelt das Versicherungsunternehmen diese Informationen trotz Aufforderung nicht innerhalb einer angemessenen Frist, so kann die Aufsichtsbehörde auch von allen anderen der Gruppe angehörigen Unternehmen die Auskünfte sowie Übersendung oder Vorlage der Unterlagen verlangen.
 
 (2) Die Aufsichtsbehörde hat die Rechte nach Absatz 1 Nummer 1 auch gegenüber
 
@@ -5456,21 +5460,11 @@ Der Widerruf der Erlaubnis steht den im Rahmen des Insolvenzverfahrens erforderl
 
 6. Personen und Unternehmen, die mit einer Person oder einem Unternehmen im Sinne der Nummern 3 bis 5 nach § 15 des Aktiengesetzes verbunden sind.
 
-(3) Ein Unternehmen, bei dem feststeht oder Tatsachen die Annahme rechtfertigen, dass es unerlaubte Versicherungsgeschäfte nach § 308 Absatz 1 Satz 1 betreibt oder dass es in die Anbahnung, den Abschluss oder die Abwicklung unerlaubter Versicherungsgeschäfte einbezogen ist oder war, sowie die Mitglieder der Organe und die Gesellschafter und Beschäftigten eines solchen Unternehmens haben der Aufsichtsbehörde auf Verlangen Auskünfte über alle Geschäftsangelegenheiten zu erteilen und Unterlagen vorzulegen. Mitglieder eines Organs, Gesellschafter sowie Beschäftigte haben auf Verlangen auch nach Ausscheiden aus dem Organ oder dem Unternehmen Auskunft zu erteilen und Unterlagen vorzulegen. Die Bundesanstalt kann den in Satz 1 genannten Unternehmen und Personen Weisungen zur Sicherung von Kundengeldern, Daten und Vermögenswerten erteilen.
+(3) Wer nach den Absätzen 1 und 2 zur Erteilung einer Auskunft verpflichtet ist, kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafrechtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-(4) Absatz 3 ist entsprechend anzuwenden, soweit
+(4) Soweit es zur Erteilung von Auskünften und zur Vorlage von Unterlagen erforderlich ist, dürfen die nach den Absätzen 1 und 2 auskunfts- und vorlagepflichtigen Personen und Unternehmen Gesundheitsdaten im Sinne des Artikels 4 Nummer 15 der Verordnung (EU) 2016/679 verarbeiten. Die allgemeinen datenschutzrechtlichen Vorschriften bleiben unberührt. § 22 Absatz 2 des Bundesdatenschutzgesetzes gilt entsprechend.
 
-1. feststeht oder Tatsachen die Annahme rechtfertigen, dass Unternehmen oder Personen in die Anbahnung, den Abschluss oder die Abwicklung von Versicherungsgeschäften einbezogen sind, die in einem anderen Mitglied- oder Vertragsstaat oder in einem Drittstaat entgegen einem entsprechenden Verbot in diesem Staat erbracht werden, und
-
-2. die zuständige Behörde des anderen Staats ein entsprechendes Ersuchen an die Aufsichtsbehörde stellt.
-
-(5) Wer nach den Absätzen 1 bis 3 zur Erteilung einer Auskunft verpflichtet ist, kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafrechtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
-
-(6) Die Aufsichtsbehörde darf einzelne Daten aus der Datei nach § 24c Absatz 1 Satz 1 des Kreditwesengesetzes abrufen, soweit dies zur Erfüllung ihrer aufsichtlichen Aufgaben nach diesem Gesetz, insbesondere im Hinblick auf unerlaubt betriebene Versicherungsgeschäfte, erforderlich ist und besondere Eilbedürftigkeit im Einzelfall vorliegt. § 24c Absatz 4 des Kreditwesengesetzes ist entsprechend anzuwenden.
-
-(7) Soweit es zur Erteilung von Auskünften und zur Vorlage von Unterlagen erforderlich ist, dürfen die gemäß den Absätzen 1 bis 3 auskunfts- und vorlagepflichtigen Personen und Unternehmen Gesundheitsdaten im Sinne des Artikels 4 Nummer 15 der Verordnung (EU) 2016/679 verarbeiten. Die allgemeinen datenschutzrechtlichen Vorschriften bleiben unberührt. § 22 Absatz 2 des Bundesdatenschutzgesetzes gilt entsprechend.
-
-(8) Die Aufsichtsbehörde kann bei Auskunfts- und Vorlageersuchen nach dieser Vorschrift eine elektronische Einreichung verlangen und nähere Bestimmungen über die Art und Weise der Übermittlung festlegen.
+(5) Die Aufsichtsbehörde kann bei Auskunfts- und Vorlageersuchen nach dieser Vorschrift eine elektronische Einreichung verlangen und nähere Bestimmungen über die Art und Weise der Übermittlung festlegen.
 
 (+++ § 305 Abs. 1 Nr. 1: Zur Anwendung vgl. § 169 Abs. 4 Satz 2, § 247 Abs. 1, § 248 Abs. 1 Satz 4 u. § 292 Satz 2 +++)  
 (+++ § 305 Abs. 1, 2 Nr. 1 u. 2, Abs. 3 bis 5: Zur Anwendung vgl. § 62 Abs. 1 Satz 2 Nr. 6 +++)  
@@ -5507,7 +5501,7 @@ b) bezüglich eines beaufsichtigten Unternehmens im Sinne des Artikels 3 Absatz 
 
 c) einer Person für einen Zeitraum von bis zu zwei Jahren die Wahrnehmung von Führungsaufgaben bei einem Administrator oder beaufsichtigten Kontributor untersagen, wenn diese den Verstoß vorsätzlich begangen hat und das Verhalten trotz Verwarnung durch die Aufsichtsbehörde fortsetzt.
 
-# § 306 – Betreten und Durchsuchen von Räumen; Beschlagnahme
+# § 306 – Betreten und Durchsuchung von Räumen; Sicherstellung
 
 (1) Die Aufsichtsbehörde ist befugt,
 
@@ -5541,25 +5535,47 @@ Für die Fälle des Satzes 1 Nummer 1 gilt dies nur insoweit, als es für die Be
 
 (3) Beabsichtigt die Aufsichtsbehörde in Wahrnehmung der Finanzaufsicht in den Geschäftsräumen einer Niederlassung nach § 58, einer Niederlassung eines Rückversicherungsunternehmens oder in den Geschäftsräumen eines Dienstleisters, auf den ein Versicherungsunternehmen Tätigkeiten ausgegliedert hat, durch eigenes Personal oder durch Beauftragte Prüfungen vorzunehmen, so unterrichtet sie hiervon die Aufsichtsbehörde des anderen Mitglied- oder Vertragsstaats. Wird der Aufsichtsbehörde untersagt, ihr Recht auf Durchführung dieser Prüfungen vor Ort wahrzunehmen oder ist es ihr tatsächlich nicht möglich, an der Prüfung teilzunehmen, kann sie gemäß Artikel 19 der Verordnung (EU) Nr. 1094/2010 die Europäische Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung mit der Angelegenheit befassen und um Unterstützung bitten. Die Aufsichtsbehörde kann die Prüfung eines Dienstleisters an die Aufsichtsbehörde des Mitglied- oder Vertragsstaats delegieren, in dem der Dienstleister ansässig ist.
 
-(4) Soweit es zur Feststellung der Art oder des Umfangs der Geschäfte oder Tätigkeiten erforderlich ist, darf die Aufsichtsbehörde Prüfungen in den Räumen der gemäß § 305 Absatz 3 und 4 auskunfts- und vorlagepflichtigen Personen und Unternehmen vornehmen.
+(4) Die Bediensteten der Aufsichtsbehörde und die nach Absatz 1 Satz 1 Nummer 3 beteiligten oder beauftragten Personen dürfen für Prüfungen nach Absatz 1 Satz 1 Nummer 1 und 2 in den Fällen des Absatzes 1 Satz 1 Nummer 4 die Geschäftsräume des geprüften Unternehmens innerhalb der üblichen Betriebs- und Geschäftszeiten betreten und besichtigen. Zur Verhütung dringender Gefahren für die öffentliche Sicherheit und Ordnung dürfen sie diese Räume auch außerhalb der üblichen Betriebs- und Geschäftszeiten betreten und besichtigen; unter dieser Voraussetzung dürfen sie auch Räume betreten und besichtigen, die zugleich als Wohnung dienen.
 
-(5) Die Bediensteten der Aufsichtsbehörde und die nach Absatz 1 Satz 1 Nummer 3 beteiligten oder beauftragten Personen dürfen für Prüfungen nach Absatz 1 Satz 1 Nummer 1 und 2 in den Fällen des Absatzes 1 Satz 1 Nummer 4 und des Absatzes 4 die Geschäftsräume des geprüften Unternehmens innerhalb der üblichen Betriebs- und Geschäftszeiten betreten und besichtigen, im Fall des Absatzes 4 auch durchsuchen. Zur Verhütung dringender Gefahren für die öffentliche Sicherheit und Ordnung dürfen sie diese Räume auch außerhalb der üblichen Betriebs- und Geschäftszeiten betreten und besichtigen; unter dieser Voraussetzung dürfen sie auch Räume betreten und besichtigen, die zugleich als Wohnung dienen.
+(5) Die Bediensteten der Bundesanstalt dürfen die Räume der nach § 305 Absatz 1 auskunfts- und vorlegungspflichtigen Unternehmen sowie von deren Organmitgliedern auch nach ihrem Ausscheiden durchsuchen, wenn Tatsachen die Annahme rechtfertigen, dass das Unternehmen oder das Organmitglied entgegen einer Bestimmung dieses Gesetzes oder einer vollziehbaren Einzelfallregelung auf Grundlage dieses Gesetzes die Aufklärung eines für die Aufsicht nach Maßgabe dieses Gesetzes entscheidungsrelevanten Sachverhalts beeinträchtigt, gefährdet oder verzögert, dadurch dass es
 
-(6) Durchsuchungen
+1. Angaben nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht oder
 
-1. von Geschäftsräumen, außer bei Gefahr im Verzug, und
+2. Unterlagen nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt.
 
-2. von Räumen, die zugleich als Wohnung dienen,
+Die Durchsuchungen sind, außer bei Gefahr im Verzug, durch den Richter anzuordnen. Bei Gefahr im Verzug kann die Einsatzleitung der Bundesanstalt die Anordnung treffen, soweit nicht lediglich mit einer nur unerheblichen Verzögerung zu rechnen ist. Durchsuchungen von Räumen, die als Wohnung dienen, sind immer durch den Richter anzuordnen. Das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) wird insoweit eingeschränkt. Zuständig ist das Amtsgericht, in dessen Bezirk sich die Räume befinden. Gegen die richterliche Entscheidung ist die Beschwerde zulässig; die §§ 306 bis 310 und 311a der Strafprozessordnung gelten entsprechend. Über die Durchsuchung ist eine Niederschrift zu fertigen. Sie muss die verantwortliche Dienststelle, Grund, Zeit und Ort der Durchsuchung und ihr Ergebnis und, falls keine richterliche Anordnung ergangen ist, auch die Tatsachen, welche die Annahme einer Gefahr im Verzug begründet haben, enthalten.
 
-sind durch den Richter anzuordnen. Zuständig ist das Amtsgericht, in dessen Bezirk sich die Räume befinden. Gegen die richterliche Entscheidung ist die Beschwerde zulässig; die §§ 306 bis 310 und 311a der Strafprozessordnung sind entsprechend anzuwenden. Über die Durchsuchung ist eine Niederschrift zu fertigen. Sie muss die verantwortliche Dienststelle, den Grund, die Zeit und den Ort der Durchsuchung und ihr Ergebnis sowie, falls keine richterliche Anordnung ergangen ist, auch die Tatsachen enthalten, welche die Annahme einer Gefahr im Verzug begründet haben.
+(6) Die Bediensteten der Aufsichtsbehörde können Gegenstände sicherstellen, die als Beweismittel für die Ermittlung des Sachverhalts von Bedeutung sein können. Werden die Gegenstände für das Verwaltungsverfahren nicht mehr benötigt, so werden diese an den letzten Gewahrsamsinhaber herausgegeben.
 
-(7) Die Bediensteten der Aufsichtsbehörde können Gegenstände beschlagnahmen, die als Beweismittel für die Ermittlung des Sachverhalts von Bedeutung sein können.
-
-(8) Die Betroffenen haben Maßnahmen nach Absatz 1 Satz 1 Nummer 1 bis 3, Satz 2 sowie nach den Absätzen 2, 4, 5 und 7 zu dulden. Das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) wird insoweit eingeschränkt.
+(7) Die Betroffenen haben Maßnahmen nach Absatz 1 Satz 1 Nummer 1 bis 3, Satz 2 sowie nach den Absätzen 2, 4, 5 und 6 zu dulden. Das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) wird insoweit eingeschränkt.
 
 (+++ § 306 Abs. 1 Satz 1 Nr. 1 bis 3, Abs. 2 Satz 1 Nr. 1 u. 2, Abs. 4 bis 8: Zur Anwendung vgl. § 62 Abs. 1 Satz 2 Nr. 6 +++)  
 (+++ § 306 Abs. 1 Nr. 1: Zur Anwendung vgl. § 247 Abs. 1 u. § 248 Abs. 1 Satz 4 +++)  
 (+++ § 306 Abs. 5: Zur Anwendung vgl. § 327 Abs. 1 Satz 1 Halbsatz 2, Abs. 3 Satz 3 +++)
+
+# § 306a – Verfolgung unerlaubter Versicherungsgeschäfte
+
+(1) Ein Unternehmen, die Mitglieder seiner Organe, seine Beschäftigten sowie andere Unternehmen, die in die Abwicklung seiner Geschäfte einbezogen sind oder einbezogen waren, haben der Bundesanstalt auf Verlangen Auskünfte über alle Geschäftsangelegenheiten zu erteilen und Unterlagen vorzulegen, wenn Tatsachen die Annahme rechtfertigen oder feststeht, dass
+
+1. das Unternehmen Geschäfte betreibt, für die es nicht die nach § 8 erforderliche Erlaubnis hat, oder
+
+2. entgegen § 61, § 67 oder § 169 den Geschäftsbetrieb aufnimmt oder fortführt.
+
+Mitglieder eines Organs sowie Beschäftigte haben auf Verlangen auch nach dem Ausscheiden aus dem Organ oder dem Unternehmen Auskunft zu erteilen und Unterlagen vorzulegen. Die Bundesanstalt kann den in Satz 1 genannten Unternehmen und Personen Weisungen zur Sicherung von Kundengeldern, Daten und Vermögenswerten erteilen.
+
+(2) Die Bundesanstalt kann Prüfungen in Räumen des Unternehmens sowie in den Räumen der nach Absatz 1 auskunfts- und vorlegungspflichtigen Personen und Unternehmen vornehmen, soweit dies zur Feststellung der Art oder des Umfangs der Geschäfte oder Tätigkeiten erforderlich ist. Die Bediensteten der Bundesanstalt dürfen hierzu diese Räume innerhalb der üblichen Betriebs- und Geschäftszeiten betreten und besichtigen. Zur Verhütung dringender Gefahren für die öffentliche Sicherheit sind sie befugt, diese Räume auch außerhalb der üblichen Betriebs- und Geschäftszeiten zu betreten und zu besichtigen sowie auch Räume, die als Wohnung dienen, zu betreten und zu besichtigen; das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) wird insoweit eingeschränkt.
+
+(3) Die Bediensteten der Bundesanstalt dürfen die Räume der nach Absatz 1 auskunfts- und vorlegungspflichtigen Personen und Unternehmen durchsuchen. Im Rahmen der Durchsuchung dürfen die Bediensteten auch die auskunfts- und vorlegungspflichtigen Personen zum Zwecke der Sicherstellung von Gegenständen im Sinne des Absatzes 4 durchsuchen. Durchsuchungen von Geschäftsräumen und Personen sind, außer bei Gefahr im Verzug, durch den Richter anzuordnen. Durchsuchungen von Räumen, die als Wohnung dienen, sind immer durch den Richter anzuordnen. Das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) wird insoweit eingeschränkt. Zuständig ist das Amtsgericht, in dessen Bezirk sich die Räume befinden. Gegen die richterliche Entscheidung ist die Beschwerde zulässig; die §§ 306 bis 310 und 311a der Strafprozessordnung geltend entsprechend. Über die Durchsuchung ist eine Niederschrift zu fertigen. Sie muss die verantwortliche Dienststelle, Grund, Zeit und Ort der Durchsuchung und ihr Ergebnis und, falls keine richterliche Anordnung ergangen ist, auch die Tatsachen, welche die Annahme einer Gefahr im Verzug begründet haben, enthalten.
+
+(4) Die Bediensteten der Bundesanstalt dürfen Gegenstände sicherstellen, die als Beweismittel für die Ermittlung des Sachverhalts von Bedeutung sein können.
+
+(5) Die Betroffenen haben Maßnahmen nach den Absätzen 2, 3 Satz 1 und 2 und Absatz 4 zu dulden.
+
+(6) Die Rechte der Bundesanstalt sowie die Mitwirkungs- und Duldungspflichten der Betroffenen bestehen auch hinsichtlich der Unternehmen und Personen, bei denen Tatsachen die Annahme rechtfertigen, dass sie in die Anbahnung, den Abschluss oder die Abwicklung unerlaubter Versicherungsgeschäfte einbezogen sind. Auf der Grundlage eines entsprechenden Ersuchens der zuständigen Behörde eines anderen Staats an die Bundesanstalt bestehen sie auch hinsichtlich der Unternehmen und Personen, bei denen Tatsachen die Annahme rechtfertigen, dass die Unternehmen oder Personen in die Anbahnung, den Abschluss oder die Abwicklung von Versicherungsgeschäften einbezogen sind, die in dem anderen Staat entgegen einem dort bestehenden Verbot betrieben werden.
+
+# § 306b – Kontenevidenz
+
+Die Aufsichtsbehörde darf einzelne Daten aus der Datei nach § 24c Absatz 1 Satz 1 des Kreditwesengesetzes abrufen, soweit dies zur Erfüllung ihrer aufsichtlichen Aufgaben nach diesem Gesetz, insbesondere im Hinblick auf unerlaubt betriebene Versicherungsgeschäfte, erforderlich ist und besondere Eilbedürftigkeit im Einzelfall vorliegt. § 24c Absatz 4 des Kreditwesengesetzes ist entsprechend anzuwenden.
 
 # § 307 – Sonderbeauftragter
 
@@ -5609,7 +5625,7 @@ sind durch den Richter anzuordnen. Zuständig ist das Amtsgericht, in dessen Bez
 
 2. Unternehmen, die für ein solches Unternehmen Funktionen oder Tätigkeiten wahrnehmen.
 
-(5) Der Abwickler ist zum Antrag auf Eröffnung eines Insolvenzverfahrens über das Vermögen des Unternehmens berechtigt.
+(5) Der Abwickler ist zum Antrag auf Eröffnung eines Insolvenzverfahrens über das Vermögen des Unternehmens berechtigt. Die vorangehende Tätigkeit als Abwickler und die Stellung des Insolvenzantrags durch den Abwickler stellen keine die Unabhängigkeit des Insolvenzverwalters ausschließende Vorbefassung dar. Soll der Abwickler nicht als Insolvenzverwalter bestellt werden, hat das zuständige Insolvenzgericht der Bundesanstalt Gelegenheit zur Stellungnahme zu geben.
 
 (6) Der Abwickler, den die Bundesanstalt bestellt, erhält von dieser eine angemessene Vergütung und Ersatz seiner Aufwendungen. Die gezahlten Beträge sind der Bundesanstalt von dem betroffenen Unternehmen gesondert zu erstatten und auf Verlangen der Bundesanstalt vorzuschießen. Die Bundesanstalt kann das betroffene Unternehmen anweisen, den von der Bundesanstalt festgesetzten Betrag im Namen der Bundesanstalt unmittelbar an den Abwickler zu leisten, wenn dadurch keine Beeinflussung der Unabhängigkeit des Abwicklers zu besorgen ist.
 
@@ -5723,7 +5739,7 @@ soweit diese Stellen die Informationen zur Erfüllung ihrer Aufgaben benötigen.
 
 (1) Verwaltungsakte nach diesem Gesetz oder nach einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung können mit Nebenbestimmungen versehen werden.
 
-(2) Widerspruch und Anfechtungsklage gegen Maßnahmen und Entscheidungen der Aufsichtsbehörde einschließlich der Androhung und Festsetzung von Zwangsmitteln nach § 18 Absatz 1 und 2, den §§ 19, 20, 25 Absatz 4 Satz 1 und 2, den §§ 36, 66a, 127 Absatz 2, § 133 Absatz 1 und 2, § 134 Absatz 7, § 135 Absatz 3, § 137 Absatz 2, § 264 sowie nach § 298 Absatz 1 und 2 und § 299 Nummer 1, diese in Verbindung mit § 8 Absatz 1 oder § 15 Absatz 1 und 2 oder § 23 oder § 294 Absatz 6 oder § 295, nach § 298 Absatz 3, den §§ 301, 303 Absatz 2, § 304 Absatz 3 Nummer 2 und Absatz 4 Satz 2, § 305 Absatz 1 bis 4 und 6, den §§ 306, 307 Absatz 1 sowie den §§ 308, 308b, 308d, 312 und 314 haben keine aufschiebende Wirkung. Widerspruch und Anfechtungsklage gegen Maßnahmen und Entscheidungen der Aufsichtsbehörde nach Artikel 6 Absatz 4, Artikel 8 Absatz 1 oder Artikel 63 der Verordnung (EU) 2019/1238 sowie gegen die Androhung und Festsetzung von Zwangsmitteln gegen diese Maßnahmen und Entscheidungen haben keine aufschiebende Wirkung.
+(2) Widerspruch und Anfechtungsklage gegen Maßnahmen und Entscheidungen der Aufsichtsbehörde einschließlich der Androhung und Festsetzung von Zwangsmitteln nach § 18 Absatz 1 und 2, den §§ 19, 20, 25 Absatz 4 Satz 1 und 2, den §§ 36, 66a, 127 Absatz 2, § 133 Absatz 1 und 2, § 134 Absatz 7, § 135 Absatz 3, § 137 Absatz 2, § 264 sowie nach § 298 Absatz 1 und 2 und § 299 Nummer 1, diese in Verbindung mit § 8 Absatz 1 oder § 15 Absatz 1 und 2 oder § 23 oder § 294 Absatz 6 oder § 295, nach § 298 Absatz 3, den §§ 301, 303 Absatz 2, § 304 Absatz 3 Nummer 2 und Absatz 4 Satz 2, § 305 Absatz 1 und 2, den §§ 306, 306a, 307 Absatz 1 sowie den §§ 308, 308b, 308d, 312 und 314 haben keine aufschiebende Wirkung. Widerspruch und Anfechtungsklage gegen Maßnahmen und Entscheidungen der Aufsichtsbehörde nach Artikel 6 Absatz 4, Artikel 8 Absatz 1 oder Artikel 63 der Verordnung (EU) 2019/1238 sowie gegen die Androhung und Festsetzung von Zwangsmitteln gegen diese Maßnahmen und Entscheidungen haben keine aufschiebende Wirkung.
 
 (+++ § 310: Zur Anwendung vgl. § 62 Abs. 1 Satz 2 Nr. 6 +++)
 
@@ -5865,9 +5881,11 @@ Die Angaben müssen ausreichend sein, um einen Vergleich der von den Aufsichtsbe
 
 # § 319 – Bekanntmachung von Maßnahmen
 
-(1) Die Bundesanstalt soll jede gegen ein ihrer Aufsicht unterstehendes Unternehmen oder gegen einen Geschäftsleiter eines Unternehmens verhängte und bestandskräftig gewordene Maßnahme, die sie wegen eines Verstoßes gegen dieses Gesetz oder den dazu erlassenen Rechtsverordnungen verhängt hat, und jede unanfechtbar gewordene Bußgeldentscheidung nach Maßgabe der Absätze 2 und 3 unverzüglich auf ihren Internetseiten öffentlich bekannt machen und dabei auch Informationen zu Art und Charakter des Verstoßes mitteilen, soweit dies unter Abwägung der betroffenen Interessen zur Beseitigung oder Verhinderung von Missständen geboten ist. Die Rechte der Bundesanstalt nach § 308 Absatz 2 bleiben unberührt.
+(1) Die Bundesanstalt soll jede gegen ein ihrer Aufsicht unterstehendes Unternehmen oder gegen einen Geschäftsleiter eines Unternehmens verhängte und bestandskräftig gewordene Maßnahme, die sie wegen eines Verstoßes gegen dieses Gesetz oder die dazu erlassenen Rechtsverordnungen verhängt hat, und jede unanfechtbar gewordene Bußgeldentscheidung nach Maßgabe der Absätze 2 und 3 unverzüglich auf ihren Internetseiten öffentlich bekannt machen und dabei auch Informationen zu Art und Charakter des Verstoßes mitteilen. Die Rechte der Bundesanstalt nach § 308 Absatz 2 bleiben unberührt.
 
-(2) Die Bundesanstalt hat eine bestandskräftig gewordene Maßnahme oder eine unanfechtbar gewordene Bußgeldentscheidung auf anonymer Basis bekannt zu machen, wenn eine Bekanntmachung nach Absatz 1
+(1a) Abweichend von Absatz 1 hat die Bundesanstalt jede gegen ein ihrer Aufsicht unterstehendes Unternehmen oder gegen einen Geschäftsleiter eines solchen Unternehmens verhängte und bestandskräftig gewordene Maßnahme sowie jede unanfechtbar gewordene Bußgeldentscheidung, sofern die Maßnahme oder Bußgeldentscheidung aufgrund eines Verstoßes gegen eine der Umsetzung der Richtlinie (EU) 2016/97 in der Fassung vom 5. Dezember 2023 dienende Vorschrift dieses Gesetzes, eines anderen Gesetzes oder den jeweils dazu erlassenen Rechtsverordnungen ergeht, unverzüglich auf ihren Internetseiten öffentlich bekannt zu machen und dabei auch Informationen zu Art und Charakter des Verstoßes und zu den für den Verstoß verantwortlichen Personen mitzuteilen.
+
+(2) Die Bundesanstalt hat eine bestandskräftig gewordene Maßnahme oder eine unanfechtbar gewordene Bußgeldentscheidung auf anonymer Basis bekannt zu machen, wenn eine Bekanntmachung nach den Absätzen 1 oder 1a
 
 1. das Persönlichkeitsrecht natürlicher Personen verletzt oder eine Bekanntmachung personenbezogener Daten aus sonstigen Gründen unverhältnismäßig wäre,
 
@@ -5875,9 +5893,9 @@ Die Angaben müssen ausreichend sein, um einen Vergleich der von den Aufsichtsbe
 
 3. den beteiligten Unternehmen oder natürlichen Personen einen unverhältnismäßig großen Schaden zufügen würde.
 
-Abweichend von Satz 1 kann die Bundesanstalt in den Fällen von Satz 1 Nummer 2 und 3 so lange von der Bekanntmachung nach Absatz 1 absehen, bis die Gründe für eine Bekanntmachung auf anonymer Basis weggefallen sind. Eine Bekanntmachung darf nicht erfolgen, wenn die Maßnahmen nach Satz 1 nicht ausreichend sind, um eine Gefährdung der Finanzmarktstabilität auszuschließen oder um die Verhältnismäßigkeit der Bekanntmachung sicherzustellen.
+Abweichend von Satz 1 kann die Bundesanstalt in den Fällen von Satz 1 Nummer 2 und 3 so lange von der Bekanntmachung nach den Absätzen 1 oder 1a absehen, bis die Gründe für eine Bekanntmachung auf anonymer Basis weggefallen sind. Eine Bekanntmachung darf nicht erfolgen, wenn die Maßnahmen nach Satz 1 nicht ausreichend sind, um eine Gefährdung der Finanzmarktstabilität auszuschließen, oder den Beteiligten nach Satz 1 Nummer 3 einen unverhältnismäßig großen Schaden zufügen würden.
 
-(3) Eine Bekanntmachung soll fünf Jahre auf der Internetseite der Bundesanstalt veröffentlicht bleiben. Abweichend von Satz 1 sind personenbezogene Daten zu löschen, sobald die Bekanntmachung nicht mehr erforderlich ist.
+(3) Eine Bekanntmachung soll mindestens fünf Jahre auf der Internetseite der Bundesanstalt veröffentlicht bleiben. Abweichend von Satz 1 sind personenbezogene Daten zu löschen, sobald die Bekanntmachung nicht mehr erforderlich ist.
 
 # § 319a – Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) 2015/2365, die Verordnung (EU) 2016/1011, die Verordnung (EU) 2017/2402 oder die Verordnung (EU) 2022/2554
 
@@ -5957,7 +5975,7 @@ b) die Verhältnismäßigkeit der Bekanntmachung gewahrt bleibt.
 
 (1) Die Aufsichtsbehörde arbeitet mit der Europäischen Kommission und den Aufsichtsbehörden der Mitglied- oder Vertragsstaaten eng zusammen, um die Aufsicht auf Gemeinschaftsebene zu erleichtern.
 
-(2) Ersucht die Aufsichtsbehörde eines anderen Mitglied- oder Vertragsstaats um Zusammenarbeit bei der Ausübung der Aufsicht, so trifft die Bundesanstalt die zweckdienlichen Maßnahmen unter Anwendung der §§ 298, 305, 306 und 309 und unterrichtet davon die ersuchende Behörde.
+(2) Ersucht die Aufsichtsbehörde eines anderen Mitglied- oder Vertragsstaats um Zusammenarbeit bei der Ausübung der Aufsicht, so trifft die Bundesanstalt die zweckdienlichen Maßnahmen unter Anwendung der §§ 298, 305, 306 bis 306b und 309 und unterrichtet davon die ersuchende Behörde.
 
 (3) Erlässt die Aufsichtsbehörde des Herkunftsstaats gegenüber einem Unternehmen Verfügungsbeschränkungen gemäß Artikel 137 oder 138 Absatz 5, Artikel 139 Absatz 3 oder Artikel 144 Absatz 2 Unterabsatz 2 der Richtlinie 2009/138/EG, so trifft die Bundesanstalt auf Ersuchen dieser Behörde hinsichtlich der im Inland belegenen und in dem Ersuchen bezeichneten Vermögenswerte des Unternehmens in dem Umfang, wie es in dem Ersuchen bezeichnet ist, die gleichen Maßnahmen.
 
@@ -5967,7 +5985,7 @@ b) die Verhältnismäßigkeit der Bekanntmachung gewahrt bleibt.
 
 # § 327 – Zusammenarbeit bei örtlichen Prüfungen
 
-(1) Soweit es zur Ausübung der Finanzaufsicht nach § 62 Absatz 1 oder § 169 Absatz 1 oder zur Prüfung eines im Inland ansässigen Dienstleisters erforderlich ist, ist die Aufsichtsbehörde des Herkunftsstaats in Begleitung der mit der Aufsicht beauftragten Bediensteten der Aufsichtsbehörde befugt, in den Geschäftsräumen der Niederlassung durch eigenes Personal oder durch Beauftragte Prüfungen des Geschäftsbetriebs vorzunehmen; § 305 Absatz 5 und § 306 Absatz 5 sind entsprechend anzuwenden. Die Bundesanstalt leistet auf Verlangen Amtshilfe. Die Bediensteten der Aufsichtsbehörde und von ihr entsprechend § 306 Absatz 1 Satz 1 Nummer 3 an der Prüfung beteiligte Personen dürfen die Geschäftsräume des Versicherungsunternehmens betreten. Das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) wird insoweit eingeschränkt.
+(1) Soweit es zur Ausübung der Finanzaufsicht nach § 62 Absatz 1 oder § 169 Absatz 1 oder zur Prüfung eines im Inland ansässigen Dienstleisters erforderlich ist, ist die Aufsichtsbehörde des Herkunftsstaats in Begleitung der mit der Aufsicht beauftragten Bediensteten der Aufsichtsbehörde befugt, in den Geschäftsräumen der Niederlassung durch eigenes Personal oder durch Beauftragte Prüfungen des Geschäftsbetriebs vorzunehmen; § 305 Absatz 3, § 306 Absatz 4 und § 306a Absatz 2 und 3 sind entsprechend anzuwenden. Die Bundesanstalt leistet auf Verlangen Amtshilfe. Die Bediensteten der Aufsichtsbehörde und von ihr entsprechend § 306 Absatz 1 Satz 1 Nummer 3 an der Prüfung beteiligte Personen dürfen die Geschäftsräume des Versicherungsunternehmens betreten. Das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) wird insoweit eingeschränkt.
 
 (2) Die Aufsichtsbehörde kann die Aufsichtsbehörden eines anderen Mitgliedstaats der Europäischen Union ersuchen, Informationen über ein beaufsichtigtes Gruppenunternehmen oder ein nicht der Aufsicht unterliegendes Unternehmen aus dem anderen Mitgliedstaat zu überprüfen.
 
@@ -6141,7 +6159,7 @@ ein Sicherungsvermögen anlegt,
 
 2. einer vollziehbaren Anordnung nach
 
-a) § 18 Absatz 1, 2 erster Halbsatz, Absatz 2a oder Absatz 3 Satz 4, § 19 Absatz 1, § 133 Absatz 1, § 134 Absatz 7 erster Halbsatz, § 135 Absatz 3 erster Halbsatz oder § 305 Absatz 3, auch in Verbindung mit Absatz 4, oder
+a) § 18 Absatz 1, 2 erster Halbsatz, Absatz 2a oder Absatz 3 Satz 4, § 19 Absatz 1, § 133 Absatz 1, § 134 Absatz 7 erster Halbsatz, § 135 Absatz 3 erster Halbsatz oder § 306a Absatz 1, auch in Verbindung mit § 306a Absatz 6, oder
 
 b) § 305 Absatz 1, auch in Verbindung mit Absatz 2, § 308 Absatz 4 Nummer 1, auch in Verbindung mit § 62 Absatz 1 Nummer 6, oder § 314 Absatz 1 Satz 1 oder Satz 2
 
@@ -6167,7 +6185,7 @@ d) entgegen § 7c Absatz 5 Satz 3 des Versicherungsvertragsgesetzes eine Erklär
 
 5. einer Rechtsverordnung nach § 160 Satz 1 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
-6. entgegen § 306 Absatz 8 Satz 1 eine Maßnahme nicht duldet oder
+6. entgegen § 306 Absatz 7 Satz 1 oder § 306a Absatz 5 eine Maßnahme nicht duldet oder
 
 7. einer vollziehbaren Anordnung nach § 308b Satz 1 zuwiderhandelt.
 

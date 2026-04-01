@@ -51,7 +51,7 @@ Diese Verordnung regelt den Aufstieg
 
 2. die Zugangsvoraussetzungen für den Masterstudiengang „Verwaltungsinformatik“ gemäß der Prüfungsordnung für den Masterstudiengang „Verwaltungsinformatik“ der Universität der Bundeswehr München erfüllt und
 
-3. an einem Auswahlverfahren nach § 36 der Bundeslaufbahnverordnung erfolgreich teilgenommen hat.
+3. an einem Auswahlverfahren nach § 44 der Bundeslaufbahnverordnung erfolgreich teilgenommen hat.
 
 (2) Zum Aufstieg in den höheren nichttechnischen Verwaltungsdienst des Bundes – Fachrichtung Allgemeine und Digitale Verwaltung – über den Masterstudiengang „Verwaltungsinformatik“ der Universität der Bundeswehr München kann eine Beamtin oder ein Beamter zugelassen werden, wenn sie oder er
 
@@ -59,7 +59,7 @@ Diese Verordnung regelt den Aufstieg
 
 2. die Zugangsvoraussetzungen für den Masterstudiengang „Verwaltungsinformatik“ gemäß der Prüfungsordnung für den Masterstudiengang „Verwaltungsinformatik“ der Universität der Bundeswehr München erfüllt und
 
-3. an einem Auswahlverfahren nach § 36 der Bundeslaufbahnverordnung erfolgreich teilgenommen hat.
+3. an einem Auswahlverfahren nach § 44 der Bundeslaufbahnverordnung erfolgreich teilgenommen hat.
 
 # § 3 – Ziel des Masterstudiums
 
@@ -245,7 +245,7 @@ Prüfungsrechtliche Widerspruchsverfahren werden von der Universität der Bundes
 
 # § 17 – Verlängerung des Aufstiegsverfahrens
 
-(1) Das Aufstiegsverfahren kann wegen Unterbrechungen verlängert werden, höchstens jedoch insgesamt um drei Jahre. § 15 Absatz 1 und 2 der Bundeslaufbahnverordnung gilt entsprechend.
+(1) Das Aufstiegsverfahren kann wegen Unterbrechungen verlängert werden, höchstens jedoch insgesamt um drei Jahre. § 18 Absatz 1 und 2 der Bundeslaufbahnverordnung gilt entsprechend.
 
 (2) Die Entscheidung über die Verlängerung trifft die zuständige Dienstbehörde. Betrifft die Verlängerung das Masterstudium, so entscheidet die zuständige Dienstbehörde im Einvernehmen mit der Universität der Bundeswehr München.
 

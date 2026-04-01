@@ -171,7 +171,7 @@ Die Kosten des Gesundheitszeugnisses tragen die Wehrbereichsverwaltungen. Anstel
 
 (1) Der Vorbereitungsdienst dauert 18 Monate.
 
-(2) Eine Verkürzung des Vorbereitungsdienstes nach § 16 Absatz 1 der Bundeslaufbahnverordnung ist nur zulässig, wenn das Erreichen des Ausbildungsziels nicht gefährdet erscheint. Dabei können der zielgerechten Gestaltung des Vorbereitungsdienstes entsprechende Abweichungen vom Ausbildungsplan zugelassen werden. Die Anwärterinnen und Anwärter sollen der Ausbildung jedoch nicht innerhalb zusammenhängender Ausbildungsabschnitte entzogen werden.
+(2) Eine Verkürzung des Vorbereitungsdienstes nach § 19 Absatz 1 der Bundeslaufbahnverordnung ist nur zulässig, wenn das Erreichen des Ausbildungsziels nicht gefährdet erscheint. Dabei können der zielgerechten Gestaltung des Vorbereitungsdienstes entsprechende Abweichungen vom Ausbildungsplan zugelassen werden. Die Anwärterinnen und Anwärter sollen der Ausbildung jedoch nicht innerhalb zusammenhängender Ausbildungsabschnitte entzogen werden.
 
 (3) Wird die Ausbildung wegen einer Erkrankung oder aus anderen zwingenden Gründen unterbrochen, können Ausbildungsabschnitte verkürzt oder verlängert und Abweichungen vom Ausbildungsplan zugelassen werden, um eine zielgerechte Fortsetzung des Vorbereitungsdienstes zu ermöglichen.
 
@@ -550,7 +550,7 @@ Soweit die abschließend errechnete Durchschnittsrangpunktzahl 5 oder mehr betr�
 
 # § 37 – Anderweitige Zuerkennung der Laufbahnbefähigung
 
-Die anderweitige Zuerkennung der Laufbahnbefähigung nach § 19 Absatz 1 der Bundeslaufbahnverordnung durch die oberste Dienstbehörde setzt voraus, dass der verwaltungsexterne berufliche Bildungsgang die Inhalte des Vorbereitungsdienstes vermittelt hat und die abgelegte Prüfung mit der Laufbahnprüfung gleichwertig ist.
+Die anderweitige Zuerkennung der Laufbahnbefähigung nach § 23 Absatz 1 der Bundeslaufbahnverordnung durch die oberste Dienstbehörde setzt voraus, dass der verwaltungsexterne berufliche Bildungsgang die Inhalte des Vorbereitungsdienstes vermittelt hat und die abgelegte Prüfung mit der Laufbahnprüfung gleichwertig ist.
 
 # § 38 – Übergangsregelung
 

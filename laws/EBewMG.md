@@ -117,7 +117,7 @@ b) (zukünftig in Kraft)
 
 mit einer Geldbuße bis zu fünfhunderttausend Euro und
 
-2. (zukünftig in Kraft)
+2. (zukünftig in Kraft).
 
 (4) (zukünftig in Kraft)
 
@@ -131,7 +131,7 @@ mit einer Geldbuße bis zu fünfhunderttausend Euro und
 
 1. in den Fällen des Absatzes 1 das Bundesamt für Justiz,
 
-2. (zukünftig in Kraft)
+2. (zukünftig in Kraft).
 
 (+++ § 8 Abs. 2, 3 Nr. 1 Buchst. b u. Nr. 2, Abs. 4 bis 7 sowie 8 Nr. 2: Treten gem. Art. 4 Abs. 2 Nr. 1 G v. 10.03.2026 I Nr. 64 am 18.08.2026 in Kraft +++)
 

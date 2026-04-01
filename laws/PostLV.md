@@ -33,35 +33,35 @@ Auf Grund des § 3 Absatz 3 Satz 1 Nummer 1 des Postpersonalrechtsgesetzes, der 
 
 # § 3 – Qualifizierung bei Laufbahnwechsel
 
-Die nach § 42 Absatz 2 der Bundeslaufbahnverordnung erforderliche Qualifizierung kann auch durch Wahrnehmung entsprechender beruflicher Tätigkeiten während einer Beurlaubung oder Zuweisung nach § 1 Absatz 5 erworben werden.
+Die nach § 50 Absatz 2 der Bundeslaufbahnverordnung erforderliche Qualifizierung kann auch durch Wahrnehmung entsprechender beruflicher Tätigkeiten während einer Beurlaubung oder Zuweisung nach § 1 Absatz 5 erworben werden.
 
 # § 4 – Zulassung zu einer höheren Laufbahn bei Besitz der erforderlichen Hochschulausbildung
 
-(1) Beamtinnen und Beamte, die die für eine höhere Laufbahn erforderliche Hochschulausbildung besitzen, können abweichend von § 24 der Bundeslaufbahnverordnung für die höhere Laufbahn zugelassen werden, wenn sie bei einem Postnachfolgeunternehmen erfolgreich an einem allgemeinen Auswahlverfahren für Nachwuchskräfte mit Hochschulabschluss teilgenommen und ein Traineeprogramm absolviert haben.
+(1) Beamtinnen und Beamte, die die für eine höhere Laufbahn erforderliche Hochschulausbildung besitzen, können abweichend von § 33 der Bundeslaufbahnverordnung für die höhere Laufbahn zugelassen werden, wenn sie bei einem Postnachfolgeunternehmen erfolgreich an einem allgemeinen Auswahlverfahren für Nachwuchskräfte mit Hochschulabschluss teilgenommen und ein Traineeprogramm absolviert haben.
 
 (2) Die Teilnahme an einem Traineeprogramm bei einem Postnachfolgeunternehmen gilt als hauptberufliche Tätigkeit im Sinne des § 17 Absatz 4 und 5 des Bundesbeamtengesetzes, die geeignet ist, die Befähigung für die Laufbahnen des gehobenen und höheren Dienstes zu vermitteln.
 
 # § 5 – Ausnahmen für besonders leistungsstarke Beamtinnen und Beamte
 
-(1) § 27 der Bundeslaufbahnverordnung ist mit der Maßgabe anzuwenden, dass die oberste Dienstbehörde auch Arbeitsplätze bei inländischen Konzernunternehmen als geeignete Arbeitsposten zulassen kann.
+(1) § 36 der Bundeslaufbahnverordnung ist mit der Maßgabe anzuwenden, dass die oberste Dienstbehörde auch Arbeitsplätze bei inländischen Konzernunternehmen als geeignete Arbeitsposten zulassen kann.
 
-(2) Soweit betriebliche oder personalwirtschaftliche Gründe es erfordern, kann die oberste Dienstbehörde von § 27 Absatz 1 der Bundeslaufbahnverordnung abweichende, geringere persönliche Voraussetzungen festlegen. Als Mindestvoraussetzungen sind eine Dienstzeit von 20 Jahren sowie die erfolgreiche Teilnahme an einem Auswahlverfahren zu fordern.
+(2) Soweit betriebliche oder personalwirtschaftliche Gründe es erfordern, kann die oberste Dienstbehörde von § 36 Absatz 1 der Bundeslaufbahnverordnung abweichende, geringere persönliche Voraussetzungen festlegen. Als Mindestvoraussetzungen sind eine Dienstzeit von 20 Jahren sowie die erfolgreiche Teilnahme an einem Auswahlverfahren zu fordern.
 
 # § 6 – Beurteilung und Beförderung
 
 (1) In den Fällen des § 1 Absatz 5 ist Maßstab für die regelmäßige Laufbahnentwicklung das Fortkommen der Beamtinnen und Beamten derselben Laufbahn und Laufbahngruppe mit der gleichen Eignung, Befähigung und fachlichen Leistung, die bei dem jeweiligen Postnachfolgeunternehmen hauptamtlich beschäftigt sind.
 
-(2) Kann in den Fällen des Absatzes 1 eine zur Vorbereitung der Beurteilung geeignete Stellungnahme des Unternehmens, bei dem die Beamtin oder der Beamte tätig ist, nicht innerhalb eines angemessenen Zeitraums erlangt werden, so ist die letzte regelmäßige dienstliche Beurteilung unter Berücksichtigung der Entwicklung vergleichbarer Beamtinnen und Beamten im Sinne des Absatzes 1 fiktiv fortzuschreiben. Sind vergleichbare Beamtinnen und Beamte nicht in der erforderlichen Anzahl vorhanden, tritt an ihre Stelle die Entwicklung vergleichbarer Arbeitnehmerinnen und Arbeitnehmer. Gleiches gilt in den Fällen des § 33 Absatz 3 der Bundeslaufbahnverordnung.
+(2) Kann in den Fällen des Absatzes 1 eine zur Vorbereitung der Beurteilung geeignete Stellungnahme des Unternehmens, bei dem die Beamtin oder der Beamte tätig ist, nicht innerhalb eines angemessenen Zeitraums erlangt werden, so ist die letzte regelmäßige dienstliche Beurteilung unter Berücksichtigung der Entwicklung vergleichbarer Beamtinnen und Beamten im Sinne des Absatzes 1 fiktiv fortzuschreiben. Sind vergleichbare Beamtinnen und Beamte nicht in der erforderlichen Anzahl vorhanden, tritt an ihre Stelle die Entwicklung vergleichbarer Arbeitnehmerinnen und Arbeitnehmer. Gleiches gilt in den Fällen des § 41 Absatz 4 der Bundeslaufbahnverordnung.
 
-(3) Hauptberufliche Zeiten einer Verwendung nach Absatz 1 gelten als Erprobungszeit auf einem anderen Dienstposten gleicher Bewertung im Sinne von § 34 Absatz 2 der Bundeslaufbahnverordnung, wenn die Tätigkeit nach Art und Schwierigkeit sowie nach dem erforderlichen Qualifikationsniveau mindestens der Tätigkeit auf einem vergleichbaren Arbeitsposten bei den Postnachfolgeunternehmen entspricht.
+(3) Hauptberufliche Zeiten einer Verwendung nach Absatz 1 gelten als Erprobungszeit auf einem anderen Dienstposten gleicher Bewertung im Sinne von § 42 Absatz 2 der Bundeslaufbahnverordnung, wenn die Tätigkeit nach Art und Schwierigkeit sowie nach dem erforderlichen Qualifikationsniveau mindestens der Tätigkeit auf einem vergleichbaren Arbeitsposten bei den Postnachfolgeunternehmen entspricht.
 
-(4) Von der Bekanntgabe eines Notenspiegels nach § 50 Absatz 4 der Bundeslaufbahnverordnung kann mit Zustimmung der obersten Dienstbehörde abgesehen werden.
+(4) Von der Bekanntgabe eines Notenspiegels nach § 59 Absatz 4 der Bundeslaufbahnverordnung kann mit Zustimmung der obersten Dienstbehörde abgesehen werden.
 
 # § 7 – Fachspezifische Qualifizierungen für den Aufstieg
 
 Wenn die Anforderungen der Laufbahnen es rechtfertigen, kann die oberste Dienstbehörde im Einvernehmen mit dem Bundesministerium der Finanzen
 
-1. die Dauer der fachtheoretischen Ausbildung abweichend von § 38 Absatz 2 Satz 1 der Bundeslaufbahnverordnung festlegen,
+1. die Dauer der fachtheoretischen Ausbildung abweichend von § 46 Absatz 3 Satz 1 der Bundeslaufbahnverordnung festlegen,
 
 2. abweichend von § 38 Absatz 2 Satz 2 der Bundeslaufbahnverordnung festlegen, dass die fachtheoretische Ausbildung auch für den Aufstieg in den mittleren Dienst zum Teil berufsbegleitend durchgeführt werden kann, und
 
@@ -73,7 +73,7 @@ Wenn die Anforderungen der Laufbahnen es rechtfertigen, kann die oberste Dienstb
 
 (2) Die Laufbahnen des Post- und Fernmeldedienstes sind aufgehoben. Amtsbezeichnungen, die bei Inkrafttreten dieser Verordnung geführt werden, können bis zur Übertragung eines anderen Amtes weitergeführt werden.
 
-(3) Beamtinnen und Beamte, die sich bei Inkrafttreten der Bundeslaufbahnverordnung vom 12. Februar 2009 (BGBl. I S. 284) in Laufbahnen des Post- und Fernmeldedienstes befunden haben, besitzen nach § 51 Absatz 2 der Bundeslaufbahnverordnung auch die Befähigung für eine der in § 6 der Bundeslaufbahnverordnung aufgeführten Laufbahnen, die ihrer Fachrichtung entspricht. Welche Laufbahnen einander entsprechen, ist in Anlage 2 festgelegt.
+(3) Beamtinnen und Beamte, die sich bei Inkrafttreten der Bundeslaufbahnverordnung vom 12. Februar 2009 (BGBl. I S. 284) in Laufbahnen des Post- und Fernmeldedienstes befunden haben, besitzen nach § 60 Absatz 2 der Bundeslaufbahnverordnung auch die Befähigung für eine der in § 6 der Bundeslaufbahnverordnung aufgeführten Laufbahnen, die ihrer Fachrichtung entspricht. Welche Laufbahnen einander entsprechen, ist in Anlage 2 festgelegt.
 
 (4) Für Beamtinnen und Beamte, die bei Inkrafttreten dieser Verordnung zum Aufstieg zugelassen sind oder erfolgreich an einer Vorauswahl für die Teilnahme an einem Auswahlverfahren zum Aufstieg teilgenommen haben, richtet sich das weitere Auswahl- und Aufstiegsverfahren nach den §§ 9 bis 11 der Postlaufbahnverordnung vom 22. Juni 1995 (BGBl. I S. 868), die zuletzt durch § 56 Absatz 41 der Verordnung vom 12. Februar 2009 (BGBl. I S. 284) geändert worden ist, in Verbindung mit den §§ 33 bis 33b der Bundeslaufbahnverordnung in der Fassung der Bekanntmachung vom 2. Juli 2002 (BGBl. I S. 2459, 2671), die zuletzt durch Artikel 15 Absatz 28 des Gesetzes vom 5. Februar 2009 (BGBl. I S. 160) geändert worden ist.
 

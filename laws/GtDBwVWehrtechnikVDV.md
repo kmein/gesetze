@@ -1,4 +1,4 @@
-% Verordnung über die Ausbildung und Prüfung für den gehobenen technischen Dienst in der Bundeswehrverwaltung – Fachrichtung Wehrtechnik –  (GtDBWVAPrV)
+% Verordnung über den Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst in der Bundeswehrverwaltung im Verwendungsbereich Wehrtechnik  (GtDBwVWehrtechnikVDV)
 % Ausfertigungsdatum: 02.10.2009
  
 # Eingangsformel
@@ -9,7 +9,7 @@ Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des Bundesbeamtengesetzes in 
 
 # § 1 – Ziel, Bestandteile und Schwerpunkte des Vorbereitungsdienstes
 
-(1) Ziel des Vorbereitungsdienstes ist es, die für eine vielseitige Verwendung in der Fachrichtung Wehrtechnik des gehobenen technischen Verwaltungsdienstes der Bundeswehr erforderlichen allgemeinen und wehrtechnischen Kenntnisse und Fähigkeiten zu vermitteln.
+(1) Ziel des Vorbereitungsdienstes ist es, die für eine vielseitige Verwendung im Verwendungsbereich Wehrtechnik des gehobenen technischen Verwaltungsdienstes der Bundeswehr erforderlichen allgemeinen und wehrtechnischen Kenntnisse und Fähigkeiten zu vermitteln.
 
 (2) Die Anwärterinnen und Anwärter werden mit der Wehrtechnik und dem technischen Projektmanagement vertraut gemacht. Sie lernen, ihr Hochschulwissen entsprechend den wehrtechnischen und wirtschaftlichen Erfordernissen anzuwenden. Darüber hinaus werden sie mit den einschlägigen rechtlichen Grundlagen vertraut gemacht. Ihr Verständnis für technische, wirtschaftliche und administrative Zusammenhänge wird gefördert. Allgemeine berufliche Fähigkeiten, insbesondere zur Kommunikation und Teamarbeit, zum kritischen Überprüfen des eigenen Handelns und zum selbständigen und wirtschaftlichen Handeln, sowie die soziale Kompetenz sind zu fördern.
 
@@ -79,7 +79,7 @@ Beschäftigungsdienststelle der Anwärterinnen und Anwärter ist das Bundesamt f
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet die Einstellungsbehörde auf der Grundlage eines Auswahlverfahrens. In dem Auswahlverfahren wird festgestellt, ob die Bewerberinnen und Bewerber aufgrund ihrer Kenntnisse, Fähigkeiten und persönlichen Eigenschaften für den Vorbereitungsdienst geeignet und befähigt sind.
 
-(2) Wird nach § 10a Absatz 3 der Bundeslaufbahnverordnung die Zahl der am Auswahlverfahren Teilnehmenden beschränkt, so werden schwerbehinderte Menschen und gleichgestellte behinderte Menschen sowie frühere Soldatinnen auf Zeit und frühere Soldaten auf Zeit mit Eingliederungs- oder Zulassungsschein zusätzlich und ohne Beschränkung zum Auswahlverfahren zugelassen, wenn sie die in der Ausschreibung genannten Voraussetzungen erfüllen.
+(2) Wird nach § 11 Absatz 4 der Bundeslaufbahnverordnung die Zahl der am Auswahlverfahren Teilnehmenden beschränkt, so werden schwerbehinderte Menschen und gleichgestellte behinderte Menschen sowie frühere Soldatinnen auf Zeit und frühere Soldaten auf Zeit mit Eingliederungs- oder Zulassungsschein zusätzlich und ohne Beschränkung zum Auswahlverfahren zugelassen, wenn sie die in der Ausschreibung genannten Voraussetzungen erfüllen.
 
 (3) Wer nicht zum Auswahlverfahren zugelassen wird, erhält eine schriftliche oder elektronische Ablehnung. Elektronisch eingereichte Bewerbungsunterlagen werden spätestens sechs Monate nach der Ablehnung endgültig gelöscht. Nicht elektronisch eingereichte Bewerbungsunterlagen sowie Ausdrucke elektronisch eingereichter Bewerbungsunterlagen werden spätestens nach Ablauf dieser Frist vernichtet. Originaldokumente werden auf Wunsch zurückgesandt.
 
@@ -207,16 +207,16 @@ Das Auswahlverfahren besteht aus
 
 # § 9h – Einstellung in den Vorbereitungsdienst
 
-(1) In den Vorbereitungsdienst für den gehobenen technischen Dienst in der Bundeswehrverwaltung – Fachrichtung Wehrtechnik – kann eingestellt werden, wer
+(1) In den Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst in der Bundeswehrverwaltung im Verwendungsbereich Wehrtechnik kann eingestellt werden, wer
 
 1. bei einem Vorbereitungsdienst
 
 a) nach § 2 Nummer 1 einen Bachelor- oder einen gleichwertigen Abschluss in einem Studienfach besitzt, das einem der Fachgebiete nach § 1 Absatz 3 zugeordnet werden kann, oder
 
-b) nach § 2 Nummer 2
+b) nach § 2 Nummer 3
 
 aa)  
-die Zugangsberechtigung für eine mit der Einstellungsbehörde kooperierende Hochschuleinrichtung nachweist und
+die Zugangsberechtigung für eine mit der Einstellungsbehörde kooperierende Hochschule nachweist und
 
 bb)  
 ein Vorpraktikum absolviert hat, das in der Studien- und Prüfungsordnung der mit der Einstellungsbehörde kooperierenden Hochschule vorgeschrieben ist,
@@ -237,7 +237,9 @@ ein Vorpraktikum absolviert hat, das in der Studien- und Prüfungsordnung der mi
 
 1. Lehrgang „Aufgaben und Organisation der Bundeswehr und Statusfragen“,
 
-2. Vorstellung der Verwendungsmöglichkeiten in der Fachrichtung Wehrtechnik des gehobenen technischen Verwaltungsdienstes,
+2. Vorstellung der Verwendungsmöglichkeiten
+
+im Verwendungsbereich Wehrtechnik des gehobenen technischen Verwaltungsdienstes,
 
 3. Lehrgang „Allgemeine Wehrtechnik“,
 
@@ -255,6 +257,8 @@ ein Vorpraktikum absolviert hat, das in der Studien- und Prüfungsordnung der mi
 
 (3) Die Reihenfolge und die Dauer der einzelnen Ausbildungsabschnitte ergeben sich aus dem Ausbildungsplan nach § 17 Absatz 2 Satz 3. Die Ausbildungsabschnitte können durch Exkursionen ergänzt werden.
 
+§ 10 Abs. 1 Satz 2 Nr. 2 Kursivdruck: IdF d. Art. 2 Abs. 12 Nr. 6 V v. 11.3.2026 I Nr. 67 mWv 17.3.2026, Änderungsanweisung müsste richtig lauten: "In § 10 Absatz 1 Satz 2 Nummer 2..."
+
 # § 11 – Lehrgang „Aufgaben und Organisation der Bundeswehr und Statusfragen“
 
 Im Lehrgang „Aufgaben und Organisation der Bundeswehr und Statusfragen“ werden die Anwärterinnen und Anwärter mit den Rechten und Pflichten der Beamtinnen und Beamten vertraut gemacht. Ihnen wird ein Überblick vermittelt über
@@ -271,7 +275,7 @@ Im Lehrgang „Aufgaben und Organisation der Bundeswehr und Statusfragen“ werd
 
 Zudem wird ihnen ihr Arbeitsumfeld in der Bundeswehr mit den zugehörigen Organisationsbereichen und Arbeitsabläufen vorgestellt. Einzelheiten regelt der Lehrplan.
 
-# § 12 – Vorstellung der Verwendungsmöglichkeiten der Fachrichtung Wehrtechnik des gehobenen technischen Verwaltungsdienstes
+# § 12 – Vorstellung der Verwendungsmöglichkeiten im Verwendungsbereich Wehrtechnik des gehobenen technischen Verwaltungsdienstes
 
 Die Anwärterinnen und Anwärter werden bei Dienststellen des Rüstungsbereichs in deren Organisation, Aufgaben und Ausstattung eingeführt. Der Ausbildungsabschnitt zeigt die zukünftigen Einsatzmöglichkeiten im Rüstungsbereich auf. Einzelheiten regelt der Ausbildungsplan.
 
@@ -407,7 +411,7 @@ Werden mehrere Prüfungskommissionen für die schriftlichen Aufsichtsarbeiten od
 
 (3) Beim Vorbereitungsdienst nach § 2 Nummer 2 umfasst die Laufbahnprüfung zusätzlich zu den Prüfungsteilen nach Absatz 2 noch den Erwerb der erforderlichen Gesamtzahl von Credit Points und die Prüfungen, die die Studien- und Prüfungsordnung der kooperierenden Hochschuleinrichtung vorschreibt. Die Laufbahnprüfung ist bestanden, wenn die erforderlichen Credit Points erreicht worden sind und die Prüfungen nach Satz 1 bestanden sind.
 
-(4) Die Prüfung nach Absatz 2 ist nichtöffentlich. Angehörige des Prüfungsamtes können teilnehmen. Das Prüfungsamt kann gestatten, dass andere mit der Ausbildung von Anwärterinnen und Anwärtern für den gehobenen technischen Dienst in der Bundeswehrverwaltung befasste Personen während der mündlichen Prüfung anwesend sind. Auf Wunsch von schwerbehinderten und diesen gleichgestellten behinderten Anwärterinnen und Anwärtern kann während ihrer mündlichen Prüfung die Schwerbehindertenvertretung anwesend sein. Bei der Beratung über die Bewertung der Prüfungsleistungen dürfen nur die Mitglieder der Prüfungskommission anwesend sein. Die Aufsichtsbefugnisse des Prüfungsamtes bleiben hiervon unberührt.
+(4) Die Prüfung nach Absatz 2 ist nichtöffentlich. Angehörige des Prüfungsamtes können teilnehmen. Das Prüfungsamt kann gestatten, dass andere mit der Ausbildung von Anwärterinnen und Anwärtern für den gehobenen technischen Verwaltungsdienst in der Bundeswehrverwaltung befasste Personen während der mündlichen Prüfung anwesend sind. Auf Wunsch von schwerbehinderten und diesen gleichgestellten behinderten Anwärterinnen und Anwärtern kann während ihrer mündlichen Prüfung die Schwerbehindertenvertretung anwesend sein. Bei der Beratung über die Bewertung der Prüfungsleistungen dürfen nur die Mitglieder der Prüfungskommission anwesend sein. Die Aufsichtsbefugnisse des Prüfungsamtes bleiben hiervon unberührt.
 
 (5) Die kooperierenden Hochschuleinrichtungen regeln durch eigene Studien- und Prüfungsordnungen die Einzelheiten über Zeitpunkt, Dauer, Inhalt, Ablauf und Bewertung der Prüfungen und der Bachelorarbeit und führen diese in eigener Zuständigkeit durch.
 
@@ -584,9 +588,9 @@ Soweit die abschließend errechnete Durchschnittsrangpunktzahl 5 oder mehr betr�
 
 # § 37 – Aufstiegsverfahren
 
-(1) Die Einstellungsbehörde gibt in einer Ausschreibung die Auswahlverfahren für den Aufstieg bekannt. Es können Auswahlverfahren für die Teilnahme am Vorbereitungsdienst nach § 2 Nummer 2, für die Teilnahme an einer fachspezifischen Qualifizierung nach § 38 der Bundeslaufbahnverordnung und für die Teilnahme an Hochschulausbildungen nach § 39 der Bundeslaufbahnverordnung durchgeführt werden. Auf die Durchführung des an einem zentralen Lehrinstitut stattfindenden Auswahlverfahrens ist sind die §§ 7 bis 9g entsprechend anzuwenden. Über die Zulassung zum Aufstieg entscheidet die personalbearbeitende Dienststelle. Dabei ist das Ergebnis des Auswahlverfahrens zu berücksichtigen.
+(1) Die Einstellungsbehörde gibt in einer Ausschreibung die Auswahlverfahren für den Aufstieg bekannt. Es können Auswahlverfahren für die Teilnahme am Vorbereitungsdienst nach § 2 Nummer 2, für die Teilnahme an einer fachspezifischen Qualifizierung nach § 46 der Bundeslaufbahnverordnung und für die Teilnahme an Hochschulausbildungen nach § 47 der Bundeslaufbahnverordnung durchgeführt werden. Auf die Durchführung des an einem zentralen Lehrinstitut stattfindenden Auswahlverfahrens ist sind die §§ 7 bis 9g entsprechend anzuwenden. Über die Zulassung zum Aufstieg entscheidet die personalbearbeitende Dienststelle. Dabei ist das Ergebnis des Auswahlverfahrens zu berücksichtigen.
 
-(2) Die Einstellungsbehörde gestaltet die berufspraktische Einführung nach § 39 Absatz 2 der Bundeslaufbahnverordnung.
+(2) Die Einstellungsbehörde gestaltet die berufspraktische Einführung nach § 48 Absatz 1 der Bundeslaufbahnverordnung.
 
 # § 38 – Übergangsvorschrift
 

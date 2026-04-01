@@ -753,7 +753,7 @@ als zugeflossen.
 
 (4) Die Absätze 1 bis 3 gelten entsprechend für sonstige inländische Einkünfte, die bei Vereinnahmung keinem Steuerabzug unterliegen. Die sonstigen inländischen Einkünfte gelten bei beschränkt steuerpflichtigen Anlegern als unmittelbar bezogene Einkünfte nach dem Tatbestand des § 49 Absatz 1 des Einkommensteuergesetzes, der der Vereinnahmung durch den Spezial-Investmentfonds zugrunde lag. Die Sätze 1 und 2 sind nicht anzuwenden auf sonstige inländische Einkünfte nach § 6 Absatz 5 Satz 1 Nummer 2 und 3.
 
-(+++ § 33: Zur Anwendung vgl. § 57 Abs. 7 +++)
+(+++ § 33: Zur Anwendung vgl. § 57 +++)
 
 # § 34 – Spezial-Investmenterträge
 

@@ -160,8 +160,6 @@ Die Übertragungsnetzbetreiber müssen die Kapazitätsreserve in einem wettbewer
 
 (3) Für das Verfahren nach Absatz 2 ermittelt die Bundesnetzagentur auf der Grundlage der Zahlen, welche den in Absatz 2 genannten Berichten zugrunde liegen, die fehlende Kapazität, die notwendig ist, um die in den Berichten identifizierten Angemessenheitsbedenken für die Kalenderjahre 2029 und 2030 jeweils zu adressieren. Wird eines der beiden Kalenderjahre in diesen Berichten nicht abgebildet, so sind die nächstliegenden Kalenderjahre heranzuziehen, um den Umfang an fehlender Kapazität für das entsprechende Jahr mittels Interpolation abzuleiten. Ermittelt die Bundesnetzagentur anhand der den beiden Berichten zugrunde liegenden Zahlen einen unterschiedlich hohen Umfang an fehlender Kapazität oder fällt die fehlende Kapazität für die Kalenderjahre 2029 und 2030 unterschiedlich hoch aus, so ist der niedrigste der ermittelten Werte für die Bestimmung des Ausschreibungsvolumens zugrunde zu legen. Die Bundesnetzagentur übermittelt dem Bundesministerium für Wirtschaft und Energie den ermittelten Wert für die Bestimmung des Ausschreibungsvolumens sowie dessen Herleitung aus den Zahlen, welche den in Absatz 2 genannten Berichten zugrunde liegen, spätestens am 1. Juni 2027. Das Bundesministerium für Wirtschaft und Energie veröffentlicht das Ausschreibungsvolumen spätestens am 1. Juli 2027 auf seiner Internetseite.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 3.11.2025 I Nr. 264 +++)
-
 # § 8 – Ausschreibungs- und Erbringungszeitraum
 
 (1) Gebotstermin ist

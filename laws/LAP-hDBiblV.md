@@ -329,7 +329,7 @@ Referendarinnen und Referendare, die die Prüfung im Sinne des § 19 Abs. 1 nich
 
 # § 22 – Aufstieg, Auswahlverfahren
 
-(1) Beamtinnen und Beamte der Laufbahn des gehobenen Dienstes an wissenschaftlichen Bibliotheken und Dokumentationsstellen können gemäß § 36 der Bundeslaufbahnverordnung zum Aufstieg in die Laufbahn des höheren Dienstes an wissenschaftlichen Bibliotheken des Bundes zugelassen werden.
+(1) Beamtinnen und Beamte der Laufbahn des gehobenen Dienstes an wissenschaftlichen Bibliotheken und Dokumentationsstellen können gemäß § 44 der Bundeslaufbahnverordnung zum Aufstieg in die Laufbahn des höheren Dienstes an wissenschaftlichen Bibliotheken des Bundes zugelassen werden.
 
 (2) In einem Auswahlverfahren wird von einer Auswahlkommission die Eignung für die künftige Laufbahn festgestellt. § 6 Abs. 4 bis 7 gilt entsprechend.
 

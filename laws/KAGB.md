@@ -864,9 +864,21 @@ zur Verfügung zu stellen.
 
 (+++ § 13: Zur Anwendung vgl. § 5 Abs. 5a u. § 353 Abs. 5 +++)
 
-# § 14 – Auskünfte und Prüfungen
+# § 14 – Auskunfts- und Vorlegungsersuchen, Prüfungen, Durchsuchungen und Sicherstelllungen
 
-Kapitalverwaltungsgesellschaften, extern verwaltete Investmentgesellschaften, Gesellschaften in den sonstigen nach diesem Gesetz zulässigen Rechtsformen für Investmentvermögen, die an ihnen jeweils bedeutend beteiligten Inhaber und Verwahrstellen sowie Auslagerungsunternehmen haben der Bundesanstalt Auskünfte entsprechend § 44 Absatz 1 und 6 und § 44b des Kreditwesengesetzes zu erteilen. Der Bundesanstalt stehen die in § 44 Absatz 1 und § 44b des Kreditwesengesetzes genannten Prüfungsbefugnisse entsprechend zu.
+(1) Kapitalverwaltungsgesellschaften, extern verwaltete Investmentgesellschaften, Gesellschaften in den sonstigen nach diesem Gesetz zulässigen Rechtsformen für Investmentvermögen, die an ihnen jeweils bedeutend beteiligten Inhaber und Verwahrstellen sowie Auslagerungsunternehmen haben der Bundesanstalt Auskünfte entsprechend § 44 Absatz 1 und 9 und § 44b des Kreditwesengesetzes zu erteilen und Unterlagen vorzulegen.
+
+(2) Die Pflichten nach Absatz 1 bestehen auch für Mitglieder der Organe und für Beschäftigte einer solchen Gesellschaft oder eines solchen Unternehmens sowie für ihre ehemaligen Mitglieder der Organe und ehemaligen Beschäftigten. Die Bundesanstalt kann für Zwecke dieses Gesetzes in den Räumen der nach Absatz 1 auskunfts- und vorlegungspflichtigen Personen und Unternehmen Prüfungen vornehmen. Die Bediensteten der Bundesanstalt dürfen hierzu diese Räume innerhalb der üblichen Betriebs- und Geschäftszeiten betreten und besichtigen. Zur Verhütung dringender Gefahren für die öffentliche Sicherheit sind sie befugt, diese Räume auch außerhalb der üblichen Betriebs- und Geschäftszeiten sowie Räume, die auch als Wohnung dienen, zu betreten und zu besichtigen; das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) wird insoweit eingeschränkt. Die Betroffenen haben Maßnahmen nach den Sätzen 2 bis 4 zu dulden.
+
+(3) Die Bediensteten der Bundesanstalt dürfen die Räume der nach Absatz 1 auskunfts- und vorlegungspflichtigen Unternehmen sowie von deren Organmitgliedern auch nach ihrem Ausscheiden durchsuchen, wenn Tatsachen die Annahme rechtfertigen, dass das Unternehmen oder das Organmitglied entgegen einer Bestimmung dieses Gesetzes oder einer vollziehbaren Einzelfallregelung auf Grundlage dieses Gesetzes die Aufklärung eines für die Aufsicht nach Maßgabe dieses Gesetzes entscheidungsrelevanten Sachverhalts beeinträchtigt, gefährdet oder verzögert, dadurch dass es
+
+1. Angaben nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht oder
+
+2. Unterlagen nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt.
+
+Die Durchsuchungen sind, außer bei Gefahr im Verzug, durch den Richter anzuordnen. Bei Gefahr im Verzug kann die Einsatzleitung der Bundesanstalt die Anordnung treffen, soweit nicht lediglich mit einer nur unerheblichen Verzögerung zu rechnen ist. Durchsuchungen von Räumen, die als Wohnung dienen, sind immer durch den Richter anzuordnen. Das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) wird insoweit eingeschränkt. Zuständig ist das Amtsgericht, in dessen Bezirk sich die Räume befinden. Gegen die richterliche Entscheidung ist die Beschwerde zulässig; die §§ 306 bis 310 und 311a der Strafprozessordnung gelten entsprechend. Über die Durchsuchung ist eine Niederschrift zu fertigen. Sie muss die verantwortliche Dienststelle, Grund, Zeit und Ort der Durchsuchung und ihr Ergebnis und, falls keine richterliche Anordnung ergangen ist, auch die Tatsachen, welche die Annahme einer Gefahr im Verzug begründet haben, enthalten. Die Betroffenen haben Maßnahmen nach Satz 1 zu dulden.
+
+(4) Die Bediensteten der Bundesanstalt dürfen Gegenstände sicherstellen, die als Beweismittel für die Ermittlung des Sachverhalts von Bedeutung sein können. Werden die Gegenstände für das Verwaltungsverfahren nicht mehr benötigt, so werden diese an den letzten Gewahrsamsinhaber herausgegeben. Die Betroffenen haben Maßnahmen nach Satz 1 zu dulden.
 
 (+++ § 14: Zur Anwendung vgl. § 5 Abs. 5a, § 51 Abs. 4 Satz 1, § 54 Abs. 4 Satz 1 u. 2, § 66 Abs. 4 Satz 1 u. § 353 Abs. 5 +++)
 
@@ -886,7 +898,7 @@ Die Bundesanstalt kann ihre Maßnahmen nach den Nummern 1 bis 3 bekannt machen; 
 
 (3) Die Befugnisse der Bundesanstalt nach den Absätzen 1 und 2 bestehen auch gegenüber einem Unternehmen, das in die Anbahnung, den Abschluss oder die Abwicklung dieser Geschäfte einbezogen ist, sowie gegenüber seinen Gesellschaftern und den Mitgliedern seiner Organe.
 
-(4) Der Abwickler ist zum Antrag auf Eröffnung eines Insolvenzverfahrens über das Vermögen des Unternehmens berechtigt.
+(4) Der Abwickler ist zum Antrag auf Eröffnung eines Insolvenzverfahrens über das Vermögen des Unternehmens berechtigt. Die vorangehende Tätigkeit als Abwickler und die Stellung des Insolvenzantrags durch den Abwickler stellen keine die Unabhängigkeit des Insolvenzverwalters ausschließende Vorbefassung dar. Soll der Abwickler nicht als Insolvenzverwalter bestellt werden, hat das zuständige Insolvenzgericht der Bundesanstalt Gelegenheit zur Stellungnahme zu geben.
 
 (5) Der Abwickler erhält von der Bundesanstalt eine angemessene Vergütung sowie Ersatz seiner Aufwendungen. Das betroffene Unternehmen hat der Bundesanstalt die gezahlten Beträge gesondert zu erstatten; auf Verlangen der Bundesanstalt hat es für die nach Satz 1 erforderlichen Beträge einen Vorschuss zu leisten. Die Bundesanstalt kann das betroffene Unternehmen anweisen, den von der Bundesanstalt festgesetzten Betrag im Namen der Bundesanstalt unmittelbar an den Abwickler zu leisten, wenn dadurch keine Beeinflussung der Unabhängigkeit des Abwicklers zu besorgen ist.
 
@@ -2654,7 +2666,7 @@ Das Bundesministerium der Finanzen kann diese Ermächtigung durch Rechtsverordnu
 
 (2) Die Verwahrstelle ist
 
-1. ein Kreditinstitut im Sinne des Artikels 4 Absatz 1 Nummer 1 der Verordnung (EU) Nr. 575/2013 mit satzungsmäßigem Sitz in der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum, das gemäß § 32 des Kreditwesengesetzes oder den im Herkunftsmitgliedstaat des EU-AIF anzuwendenden Vorschriften, die die Richtlinie 2013/36/EU umsetzen, zugelassen ist;
+1. ein Kreditinstitut im Sinne des Artikels 4 Absatz 1 Nummer 1 der Verordnung (EU) Nr. 575/2013 mit satzungsmäßigem Sitz in der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum, das gemäß § 32 des Kreditwesengesetzes oder den im Herkunftsmitgliedstaat des EU-AIF anzuwendenden Vorschriften, die die Richtlinie 2013/36/EU umsetzen, zugelassen ist; als Verwahrstelle für inländische AIF kann auch eine Zweigniederlassung eines CRR-Kreditinstituts im Sinne des § 53b Absatz 1 Satz 1 des Kreditwesengesetzes im Geltungsbereich dieses Gesetzes beauftragt werden;
 
 2. eine Wertpapierfirma im Sinne des Artikels 4 Absatz 1 Nummer 2 der Verordnung (EU) Nr. 575/2013 mit satzungsmäßigem Sitz in der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum, für die die Eigenkapitalanforderungen gemäß Artikel 92 der Verordnung (EU) Nr. 575/2013, einschließlich der Kapitalanforderungen für operationelle Risiken, gelten, die gemäß den Vorschriften, die die Richtlinie 2014/65/EU umsetzen, zugelassen ist und die auch die Nebendienstleistungen wie Verwahrung und Verwaltung von Finanzinstrumenten für Rechnung von Kunden gemäß Anhang I Abschnitt B Nummer 1 der Richtlinie 2014/65/EU erbringt; solche Wertpapierfirmen müssen in jedem Fall über Eigenmittel verfügen, die den in Artikel 28 Absatz 2 der Richtlinie 2013/36/EU genannten Betrag des Anfangskapitals nicht unterschreiten oder
 
@@ -2868,9 +2880,11 @@ Die Verwahrstelle stellt der Bundesanstalt auf Anfrage alle Informationen zur Ve
 
 (+++ § 86: Zur Anwendung vgl. § 54 Abs. 5, § 66 Abs. 5 u. § 353 Abs. 5+++)
 
-# § 87 – Anwendbare Vorschriften für Publikums-AIF
+# § 87 – Anwendbare Vorschriften für Publikums-AIF und bestimmte Spezial-AIF
 
-Für Verwahrstellen, die mit der Verwahrung von Publikums-AIF beauftragt sind, gelten zusätzlich zu den Vorschriften dieses Unterabschnitts die Regelungen des § 68 Absatz 7, 7a und 8 sowie des § 69 Absatz 1, 2 und 4 entsprechend. Die Bundesanstalt kann auf Antrag von der Prüfung nach § 68 Absatz 7 und 7a eines Treuhänders gemäß § 80 Absatz 3 ganz oder teilweise absehen, soweit dies aus besonderen Gründen, insbesondere wegen der Art und des Umfangs der betriebenen Geschäfte, und wenn in der letzten Prüfung des Treuhänders keine wesentlichen Feststellungen getroffen wurden, angezeigt ist.
+(1) Für Verwahrstellen, die mit der Verwahrung von Publikums-AIF beauftragt sind, gelten zusätzlich zu den Vorschriften dieses Unterabschnitts die Regelungen des § 68 Absatz 7 bis 8 sowie des § 69 Absatz 1, 2 und 4 entsprechend. Die Bundesanstalt kann auf Antrag von der Prüfung nach § 68 Absatz 7 und 7a eines Treuhänders gemäß § 80 Absatz 3 ganz oder teilweise absehen, soweit dies aus besonderen Gründen angezeigt ist, insbesondere wegen der Art und des Umfangs der betriebenen Geschäfte, und wenn in der letzten Prüfung des Treuhänders keine wesentlichen Feststellungen getroffen wurden.
+
+(2) Für Verwahrstellen, die mit der Verwahrung von Spezial-AIF beauftragt sind und für deren Anteile oder Aktien das Kryptowertpapierregister führen, gelten hinsichtlich der Kryptowertpapierregisterführung zusätzlich zu den Vorschriften dieses Unterabschnitts die Regelungen des § 68 Absatz 7 bis 8 entsprechend. Die Bundesanstalt kann auf Antrag von der Prüfung absehen, soweit dies aus besonderen Gründen, insbesondere wegen der Art der verwahrten Vermögensgegenstände und des Umfangs der betriebenen Geschäfte, angezeigt ist.
 
 (+++ § 87: Zur Anwendung vgl. § 54 Abs. 5, § 66 Abs. 5 u. § 353 Abs. 5 +++)
 
@@ -8194,9 +8208,9 @@ zuwiderhandelt,
 
 1a. einer vollziehbaren Anordnung nach § 5 Absatz 8a zuwiderhandelt,
 
-2. entgegen § 14 Satz 1 in Verbindung mit § 44 Absatz 1 Satz 1 des Kreditwesengesetzes, auch in Verbindung mit § 44b Absatz 1 Satz 1 des Kreditwesengesetzes, eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt oder eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
+2. entgegen § 14 Absatz 1 in Verbindung mit § 44 Absatz 1 Satz 1 des Kreditwesengesetzes, auch in Verbindung mit § 44b Absatz 1 Satz 1 des Kreditwesengesetzes, auch in Verbindung mit § 44b Absatz 1 Satz 3 des Kreditwesengesetzes, eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt oder eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
 
-3. entgegen § 14 Satz 2 in Verbindung mit § 44 Absatz 1 Satz 4 oder § 44b Absatz 2 Satz 2 des Kreditwesengesetzes eine Maßnahme nicht duldet,
+3. entgegen § 14 Absatz 2 Satz 5, Absatz 3 Satz 10 oder Absatz 4 Satz 3 eine Maßnahme nicht duldet,
 
 4. entgegen § 19 Absatz 1 Satz 1 und 2 oder Absatz 5 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
 

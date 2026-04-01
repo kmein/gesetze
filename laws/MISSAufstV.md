@@ -29,7 +29,7 @@ Auf Grund des § 26 Absatz 1 Nummer 2 des Bundesbeamtengesetzes, der durch Artik
 
 2. einen Abschluss erreicht haben, der mit einem an einer Hochschule erworbenen Bachelor- oder einem gleichwertigen Abschluss, der Kompetenzen in einem Umfang von mindestens 180 Leistungspunkten entspricht, gleichwertig ist.
 
-(2) Im Übrigen bleibt § 36 der Bundeslaufbahnverordnung unberührt.
+(2) Im Übrigen bleibt § 44 der Bundeslaufbahnverordnung unberührt.
 
 # § 2 – Ziele
 
@@ -45,7 +45,7 @@ Das Studium ist ein Vollzeitstudium.
 
 (1) Die Regelstudienzeit beträgt zwei Jahre.
 
-(2) Für Verlängerungen und Verkürzungen der Regelstudienzeit gelten § 15 Absatz 1 und § 16 Absatz 1 der Bundeslaufbahnverordnung entsprechend. Die Entscheidung trifft die Dienstbehörde im Einvernehmen mit der Universität der Bundeswehr München und der Hochschule des Bundes für öffentliche Verwaltung.
+(2) Für Verlängerungen und Verkürzungen der Regelstudienzeit gelten § 18 Absatz 1 und § 19 Absatz 1 der Bundeslaufbahnverordnung entsprechend. Die Entscheidung trifft die Dienstbehörde im Einvernehmen mit der Universität der Bundeswehr München und der Hochschule des Bundes für öffentliche Verwaltung.
 
 # § 5 – Prüfungsordnung
 
@@ -171,7 +171,7 @@ Die Universität der Bundeswehr München richtet ein Prüfungsamt ein. Dieses is
 
 # § 14 – Zeitpunkt, Dauer und Ziel
 
-(1) An den erfolgreichen Abschluss des Masterstudiengangs „Intelligence and Security Studies“ schließt sich eine einjährige berufspraktische Einführung an. Für Verlängerungen der berufspraktischen Einführung gilt § 15 Absatz 1 und 2 der Bundeslaufbahnverordnung entsprechend. Über die Verlängerung entscheidet die Dienstbehörde.
+(1) An den erfolgreichen Abschluss des Masterstudiengangs „Intelligence and Security Studies“ schließt sich eine einjährige berufspraktische Einführung an. Für Verlängerungen der berufspraktischen Einführung gilt § 18 Absatz 1 und 2 der Bundeslaufbahnverordnung entsprechend. Über die Verlängerung entscheidet die Dienstbehörde.
 
 (2) In der berufspraktischen Einführung sollen sich die Beamtinnen und Beamten im höheren nichttechnischen Verwaltungsdienst des Bundes bewähren.
 

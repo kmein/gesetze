@@ -427,7 +427,7 @@ Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn im halbstrukturier
 
 # § 22 – Dauer und Gliederung des Studiums
 
-(1) Das Studium dauert in der Regel drei Jahre. Eine Entscheidung über die Verlängerung oder Verkürzung nach den §§ 15 und 16 der Bundeslaufbahnverordnung trifft die Dienstbehörde im Benehmen mit der Hochschule.
+(1) Das Studium dauert in der Regel drei Jahre. Eine Entscheidung über die Verlängerung oder Verkürzung nach den §§ 18 und 19 der Bundeslaufbahnverordnung trifft die Dienstbehörde im Benehmen mit der Hochschule.
 
 (2) Das Studium umfasst Fachstudien an der Hochschule und berufspraktische Studienzeiten.
 
@@ -730,7 +730,7 @@ Wer die Zwischenprüfung nicht bestanden hat, erhält vom Prüfungsamt einen Bes
 
 # § 48 – Wiederholung der Zwischenprüfung
 
-(1) Wird die Zwischenprüfung wiederholt (§ 17 Absatz 3 Nummer 2 und Absatz 5 Satz 1 Nummer 2 der Bundeslaufbahnverordnung), so ist sie vollständig zu wiederholen.
+(1) Wird die Zwischenprüfung wiederholt (§ 20 Absatz 3 Nummer 2 und Absatz 5 Satz 1 Nummer 2 der Bundeslaufbahnverordnung), so ist sie vollständig zu wiederholen.
 
 (2) Die Wiederholung findet frühestens einen Monat nach Bekanntgabe des Ergebnisses und spätestens fünf Monate nach Ende des Grundstudiums statt.
 

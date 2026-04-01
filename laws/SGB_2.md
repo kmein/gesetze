@@ -1470,8 +1470,6 @@ Dies gilt nicht, wenn erwerbsfähige Leistungsberechtigte einen wichtigen Grund 
 
 (6) Erwerbsfähige Leistungsberechtigte, die das 25. Lebensjahr noch nicht vollendet haben, sollen innerhalb von vier Wochen nach Feststellung einer Leistungsminderung ein Beratungsangebot erhalten, in dem die Inhalte des Kooperationsplans überprüft und bei Bedarf fortgeschrieben werden.
 
-(7) Abweichend von Absatz 4 Satz 1 entfällt der Leistungsanspruch in Höhe des Regelbedarfes, wenn erwerbsfähige Leistungsberechtigte, deren Bürgergeld wegen einer Pflichtverletzung nach § 31 Absatz 1 Satz 1 Nummer 2, Absatz 2 Nummer 3 oder Absatz 2 Nummer 4 innerhalb des letzten Jahres gemindert war, eine zumutbare Arbeit nicht aufnehmen. Die Möglichkeit der Arbeitsaufnahme muss tatsächlich und unmittelbar bestehen und willentlich verweigert werden. Absatz 1 Satz 6, die Absätze 2 und 3 sowie § 31 Absatz 1 Satz 2 finden Anwendung.
-
 # § 31b – Beginn und Dauer der Minderung
 
 (1) Der Auszahlungsanspruch mindert sich mit Beginn des Kalendermonats, der auf das Wirksamwerden des Verwaltungsaktes folgt, der die Pflichtverletzung und den Umfang der Minderung der Leistung feststellt. In den Fällen des § 31 Absatz 2 Nummer 3 tritt die Minderung mit Beginn der Sperrzeit oder mit dem Erlöschen des Anspruchs nach dem Dritten Buch ein. Die Feststellung der Minderung ist nur innerhalb von sechs Monaten ab dem Zeitpunkt der Pflichtverletzung zulässig.
@@ -1486,7 +1484,7 @@ Dies gilt nicht, wenn erwerbsfähige Leistungsberechtigte einen wichtigen Grund 
 
 In den Fällen des § 31a Absatz 1 Satz 6 ist die Minderung ab dem Zeitpunkt der Pflichterfüllung oder der Erklärung der Bereitschaft zur Pflichterfüllung aufzuheben, soweit der Minderungszeitraum mindestens einen Monat betragen hat, andernfalls nach Ablauf dieses Monats.
 
-(3) In den Fällen des § 31a Absatz 7 wird die Minderung aufgehoben, wenn die Möglichkeit der Arbeitsaufnahme nicht mehr besteht, spätestens aber mit dem Ablauf eines Zeitraums von zwei Monaten. Absatz 1 Satz 1 und 3 sowie Absatz 2 Satz 2 sind entsprechend anzuwenden.
+(3) (weggefallen)
 
 (4) Während der Minderung des Auszahlungsanspruchs besteht kein Anspruch auf ergänzende Hilfe zum Lebensunterhalt nach den Vorschriften des Zwölften Buches.
 

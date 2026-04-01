@@ -61,7 +61,7 @@ Zur Wahrnehmung von Aufgaben der Entwicklungszusammenarbeit sind bis zu fünf Ja
 
 # § 8 – Sonderurlaub im Rahmen des Aufstiegs in eine Laufbahn des gehobenen oder höheren Dienstes
 
-Mit Zustimmung des Bundesministeriums des Innern und für Heimat ist Sonderurlaub unter Fortzahlung der Besoldung zu gewähren, wenn Beamtinnen oder Beamte im Rahmen eines Aufstiegs in eine Laufbahn des gehobenen oder des höheren Dienstes nach § 39 Absatz 1 der Bundeslaufbahnverordnung an Studiengängen außerhalb der Hochschulen des Bundes teilnehmen.
+Mit Zustimmung des Bundesministeriums des Innern und für Heimat ist Sonderurlaub unter Fortzahlung der Besoldung zu gewähren, wenn Beamtinnen oder Beamte im Rahmen eines Aufstiegs in eine Laufbahn des gehobenen oder des höheren Dienstes nach § 47 der Bundeslaufbahnverordnung an Studiengängen außerhalb der Hochschulen des Bundes teilnehmen.
 
 # § 9 – Sonderurlaub für Aus- oder Fortbildung
 

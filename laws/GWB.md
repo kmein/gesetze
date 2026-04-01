@@ -145,1325 +145,1329 @@ Wettbewerbsbeschränkungen</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Energiewirtschaft</td>
 </tr>
 <tr class="odd">
+<td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 29a</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Kraftstoffmärkte</td>
+</tr>
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 30</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Presse</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 31</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verträge der Wasserwirtschaft</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 31a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Wasserwirtschaft, Meldepflicht</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 31b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Wasserwirtschaft, Aufgaben und Befugnisse der Kartellbehörde, Sanktionen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50"> Kapitel 6</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Befugnisse der Kartellbehörden, Schadensersatz und Vorteilsabschöpfung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 1</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Befugnisse der Kartellbehörden</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 32</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Abstellung und nachträgliche Feststellung von Zuwiderhandlungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 32a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Einstweilige Maßnahmen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 32b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verpflichtungszusagen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 32c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Kein Anlass zum Tätigwerden</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 32d</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Entzug der Freistellung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 32e</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Untersuchungen einzelner Wirtschaftszweige und einzelner Arten von Vereinbarungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 32f</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Maßnahmen nach einer Sektoruntersuchung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 32g</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Untersuchung von möglichen Verstößen gegen die Verordnung (EU) 2022/1925 (Digital Markets Act)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 2</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Schadensersatz und Vorteilsabschöpfung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 33</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Unterlassungsanspruch, Schadensersatzpflicht</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 33a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Schadensersatzpflicht</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 33b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Bindungswirkung von Entscheidungen einer Wettbewerbsbehörde</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 33c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Schadensabwälzung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 33d</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gesamtschuldnerische Haftung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 33e</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Kronzeuge</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 33f</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Wirkungen des Vergleichs</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 33g</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anspruch auf Herausgabe von Beweismitteln und Erteilung von Auskünften</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 33h</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verjährung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 34</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vorteilsabschöpfung durch die Kartellbehörde</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 34a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vorteilsabschöpfung durch Verbände</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Kapitel 7</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50"> Zusammenschlusskontrolle</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 35</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Geltungsbereich der Zusammenschlusskontrolle</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 36</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Grundsätze für die Beurteilung von Zusammenschlüssen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 37</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zusammenschluss</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 38</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Berechnung der Umsatzerlöse und der Marktanteile und des Wertes der Gegenleistung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 39</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anmelde- und Anzeigepflicht</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 39a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 40</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verfahren der Zusammenschlusskontrolle</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 41</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vollzugsverbot, Entflechtung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 42</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ministererlaubnis</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 43</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Bekanntmachungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 43a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Evaluierung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Kapitel 8</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Monopolkommission</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 44</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Aufgaben</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 45</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Mitglieder</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 46</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beschlüsse, Organisation, Rechte und Pflichten der Mitglieder</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 47</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übermittlung statistischer Daten</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Kapitel 9</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Markttransparenzstellen für den Großhandel mit Strom und Gas und für Kraftstoffe</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 1</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Markttransparenzstelle für den Großhandel im Bereich Strom und Gas</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 47a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Einrichtung, Zuständigkeit, Organisation</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 47b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Aufgaben</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 47c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Datenverwendung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 47d</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befugnisse</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 47e</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Mitteilungspflichten</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 47f</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verordnungsermächtigung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 47g</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Festlegungsbereiche</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 47h</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Berichtspflichten, Veröffentlichungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 47i</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zusammenarbeit mit anderen Behörden und Aufsichtsstellen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 47j</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vertrauliche Informationen, operationelle Zuverlässigkeit, Datenschutz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 2</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Markttransparenzstelle für Kraftstoffe</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 47k</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Marktbeobachtung im Bereich Kraftstoffe</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 3</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Evaluierung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 47l</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Evaluierung der Markttransparenzstellen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Teil 2</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Kartellbehörden</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Kapitel 1</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Allgemeine Vorschriften</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 48</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zuständigkeit</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 49</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Bundeskartellamt und oberste Landesbehörde</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 50</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vollzug des europäischen Rechts</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Kapitel 2</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Behördenzusammenarbeit</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 50a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ermittlungen im Netzwerk der europäischen Wettbewerbsbehörden</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 50b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zustellung im Netzwerk der europäischen Wettbewerbsbehörden</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 50c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vollstreckung im Netzwerk der europäischen Wettbewerbsbehörden</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 50d</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Informationsaustausch im Netzwerk der europäischen Wettbewerbsbehörden</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 50e</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Sonstige Zusammenarbeit mit ausländischen Wettbewerbsbehörden</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 50f</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zusammenarbeit mit anderen Behörden</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Kapitel 3</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Bundeskartellamt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 51</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Sitz, Organisation</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 52</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Veröffentlichung allgemeiner Weisungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 53</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Tätigkeitsbericht und Monitoringberichte</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Teil 3</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Verfahren</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Kapitel 1</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50"> 
 Verwaltungssachen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 1</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Verfahren vor den Kartellbehörden</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 54</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Einleitung des Verfahrens, Beteiligte, Beteiligtenfähigkeit</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 55</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vorabentscheidung über Zuständigkeit</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 56</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anhörung, Akteneinsicht, mündliche Verhandlung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 57</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ermittlungen, Beweiserhebung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 58</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beschlagnahme</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 59</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Auskunftsverlangen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 59a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Prüfung von geschäftlichen Unterlagen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 59b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Durchsuchungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 60</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Einstweilige Anordnungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 61</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verfahrensabschluss, Begründung der Verfügung, Zustellung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 62</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gebührenpflichtige Handlungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 2</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Gemeinsame Bestimmungen für Rechtsbehelfsverfahren</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 63</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beteiligte am Rechtsbehelfsverfahren, Beteiligtenfähigkeit</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 64</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anwaltszwang</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 65</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Mündliche Verhandlung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 66</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Aufschiebende Wirkung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 67</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anordnung der sofortigen Vollziehung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 68</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Einstweilige Anordnungen im Rechtsbehelfsverfahren</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 69</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 70</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Akteneinsicht</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 71</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Kostentragung und -festsetzung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 72</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Geltung von Vorschriften des Gerichtsverfassungsgesetzes und der Zivilprozessordnung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 3</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Beschwerde</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 73</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zulässigkeit, Zuständigkeit</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 74</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Frist und Form</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 75</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Untersuchungsgrundsatz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 76</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beschwerdeentscheidung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 4</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Rechtsbeschwerde und Nichtzulassungsbeschwerde</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 77</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zulassung, absolute Rechtsbeschwerdegründe</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 78</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Nichtzulassungsbeschwerde</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 79</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Rechtsbeschwerdeberechtigte, Form und Frist</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 80</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Rechtsbeschwerdeentscheidung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Kapitel 2</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Bußgeldsachen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 1</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Bußgeldvorschriften</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 81</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Bußgeldtatbestände</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 81a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Geldbußen gegen Unternehmen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 81b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Geldbußen gegen Unternehmensvereinigungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 81c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Höhe der Geldbuße</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 81d</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zumessung der Geldbuße</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 81e</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ausfallhaftung im Übergangszeitraum</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 81f</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verzinsung der Geldbuße</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 81g</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verjährung der Geldbuße</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 2</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Kronzeugenprogramm</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 81h</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ziel und Anwendungsbereich</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 81i</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Antrag auf Kronzeugenbehandlung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 81j</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Allgemeine Voraussetzungen für die Kronzeugenbehandlung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 81k</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Erlass der Geldbuße</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 81l</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ermäßigung der Geldbuße</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 81m</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Marker</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 81n</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Kurzantrag</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 3</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Bußgeldverfahren</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 82</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zuständigkeiten in Kartellbußgeldsachen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 82a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befugnisse und Zuständigkeiten im Verfahren nach Einspruchseinlegung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 82b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Besondere Ermittlungsbefugnisse</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 83</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zuständigkeit des Oberlandesgerichts im gerichtlichen Verfahren</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 84</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Rechtsbeschwerde zum Bundesgerichtshof</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 85</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Wiederaufnahmeverfahren gegen Bußgeldbescheid</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 86</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gerichtliche Entscheidung bei der Vollstreckung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Kapitel 3</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Vollstreckung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 86a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vollstreckung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Kapitel 4</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50"> Bürgerliche Rechtsstreitigkeiten</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 87</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ausschließliche Zuständigkeit der Landgerichte</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 88</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Klageverbindung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 89</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zuständigkeit eines Landgerichts für mehrere Gerichtsbezirke</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 89a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Streitwertanpassung, Kostenerstattung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 89b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verfahren</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 89c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Offenlegung aus der Behördenakte</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 89d</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beweisregeln</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 89e</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gemeinsame Vorschriften für die §§ 33g und 89b bis 89d</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50"> Kapitel 5</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50"> Gemeinsame Bestimmungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 90</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Benachrichtigung und Beteiligung der Kartellbehörden</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 90a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zusammenarbeit der Gerichte mit der Europäischen Kommission und den Kartellbehörden</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 91</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Kartellsenat beim Oberlandesgericht</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 92</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zuständigkeit eines Oberlandesgerichts oder des Obersten Landesgerichts für mehrere Gerichtsbezirke in Verwaltungs- und Bußgeldsachen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 93</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zuständigkeit für Berufung und Beschwerde</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 94</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Kartellsenat beim Bundesgerichtshof</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 95</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ausschließliche Zuständigkeit</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 96</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Teil 4</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Vergabe von öffentlichen Aufträgen und Konzessionen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Kapitel 1</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Vergabeverfahren</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 1</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Grundsätze, Definitionen und Anwendungsbereich</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 97</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Grundsätze der Vergabe</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 98</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Auftraggeber</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 99</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Öffentliche Auftraggeber</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 100</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Sektorenauftraggeber</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 101</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Konzessionsgeber</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 102</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Sektorentätigkeiten</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 103</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Öffentliche Aufträge, Rahmenvereinbarungen und Wettbewerbe</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 104</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verteidigungs- oder sicherheitsspezifische öffentliche Aufträge</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 105</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Konzessionen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 106</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Schwellenwerte</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 107</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Allgemeine Ausnahmen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 108</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ausnahmen bei öffentlich-öffentlicher Zusammenarbeit</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 109</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ausnahmen für Vergaben auf der Grundlage internationaler Verfahrensregeln</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 110</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vergabe von öffentlichen Aufträgen und Konzessionen, die verschiedene Leistungen zum Gegenstand haben</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 111</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vergabe von öffentlichen Aufträgen und Konzessionen, deren Teile unterschiedlichen rechtlichen Regelungen unterliegen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 112</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vergabe von öffentlichen Aufträgen und Konzessionen, die verschiedene Tätigkeiten umfassen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 113</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verordnungsermächtigung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 114</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Monitoring und Vergabestatistik</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 2</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Vergabe von öffentlichen Aufträgen durch öffentliche Auftraggeber</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Unterabschnitt 1</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Anwendungsbereich</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 115</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anwendungsbereich</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 116</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Besondere Ausnahmen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 117</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Besondere Ausnahmen für Vergaben, die Verteidigungs- oder Sicherheitsaspekte umfassen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 118</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Bestimmten Auftragnehmern vorbehaltene öffentliche Aufträge</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Unterabschnitt 2</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Vergabeverfahren und Auftragsausführung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 119</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verfahrensarten</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 120</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Besondere Methoden und Instrumente in Vergabeverfahren</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 121</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Leistungsbeschreibung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 122</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Eignung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 123</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zwingende Ausschlussgründe</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 124</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Fakultative Ausschlussgründe</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 125</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Selbstreinigung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 126</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zulässiger Zeitraum für Ausschlüsse</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 127</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zuschlag</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 128</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Auftragsausführung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 129</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zwingend zu berücksichtigende Ausführungsbedingungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 130</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vergabe von öffentlichen Aufträgen über soziale und andere besondere Dienstleistungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 131</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vergabe von öffentlichen Aufträgen über Personenverkehrsleistungen im Eisenbahnverkehr</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 132</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Auftragsänderungen während der Vertragslaufzeit</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 133</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Kündigung von öffentlichen Aufträgen in besonderen Fällen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 134</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Informations- und Wartepflicht</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 135</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Unwirksamkeit</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 3</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Vergabe von öffentlichen Aufträgen in besonderen Bereichen und von Konzessionen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Unterabschnitt 1</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Vergabe von öffentlichen Aufträgen durch Sektorenauftraggeber</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 136</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anwendungsbereich</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 137</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Besondere Ausnahmen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 138</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Besondere Ausnahme für die Vergabe an verbundene Unternehmen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 139</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Besondere Ausnahme für die Vergabe durch oder an ein Gemeinschaftsunternehmen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 140</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Besondere Ausnahme für unmittelbar dem Wettbewerb ausgesetzte Tätigkeiten</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 141</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verfahrensarten</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 142</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Sonstige anwendbare Vorschriften</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 143</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Regelung für Auftraggeber nach dem Bundesberggesetz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Unterabschnitt 2</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Vergabe von verteidigungs- oder sicherheitsspezifischen öffentlichen Aufträgen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 144</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anwendungsbereich</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 145</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Besondere Ausnahmen für die Vergabe von verteidigungs- oder sicherheitsspezifischen öffentlichen Aufträgen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 146</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verfahrensarten</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 147</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Sonstige anwendbare Vorschriften</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Unterabschnitt 3</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Vergabe von Konzessionen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 148</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anwendungsbereich</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 149</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Besondere Ausnahmen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 150</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Besondere Ausnahmen für die Vergabe von Konzessionen in den Bereichen Verteidigung und Sicherheit</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 151</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verfahren</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 152</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anforderungen im Konzessionsvergabeverfahren</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 153</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vergabe von Konzessionen über soziale und andere besondere Dienstleistungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 154</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Sonstige anwendbare Vorschriften</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Kapitel 2</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Nachprüfungsverfahren</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 1</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Nachprüfungsbehörden</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 155</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Grundsatz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 156</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vergabekammern</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 157</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Besetzung, Unabhängigkeit</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 158</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Einrichtung, Organisation</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 159</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Abgrenzung der Zuständigkeit der Vergabekammern</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 2</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Verfahren vor der Vergabekammer</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 160</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Einleitung, Antrag</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 161</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Form, Inhalt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 162</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verfahrensbeteiligte, Beiladung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 163</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Untersuchungsgrundsatz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 164</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Aufbewahrung vertraulicher Unterlagen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 165</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Akteneinsicht</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 166</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Mündliche Verhandlung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 167</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beschleunigung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 168</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Entscheidung der Vergabekammer</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 169</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Aussetzung des Vergabeverfahrens</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 170</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ausschluss von abweichendem Landesrecht</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Abschnitt 3</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Sofortige Beschwerde</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 171</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zulässigkeit, Zuständigkeit</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 172</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Frist, Form, Inhalt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 173</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Wirkung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 174</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beteiligte am Beschwerdeverfahren</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 175</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verfahrensvorschriften</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 176</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vorabentscheidung über den Zuschlag</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 177</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ende des Vergabeverfahrens nach Entscheidung des Beschwerdegerichts</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 178</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beschwerdeentscheidung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 179</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Bindungswirkung und Vorlagepflicht</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 180</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Schadensersatz bei Rechtsmissbrauch</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 181</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anspruch auf Ersatz des Vertrauensschadens</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 182</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Kosten des Verfahrens vor der Vergabekammer</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 183</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Korrekturmechanismus der Kommission</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 184</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Unterrichtungspflichten der Nachprüfungsinstanzen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Teil 5</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Anwendungsbereich der Teile 1 bis 3</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 185</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Unternehmen der öffentlichen Hand, Geltungsbereich</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Teil 6</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50">Übergangs- und Schlussbestimmungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="5" style="text-align: center;" data-valign="top" data-charoff="50"> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 186</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anwendungsbestimmung zu § 47k</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="4" style="text-align: left;" data-valign="top" data-charoff="50">§ 187</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übergangs- und Schlussbestimmungen</td>
 </tr>
@@ -1794,6 +1798,16 @@ Einem Unternehmen ist es verboten, als Anbieter von Elektrizität, Fernwärme od
 
 Kosten, die sich ihrem Umfang nach im Wettbewerb nicht einstellen würden, dürfen bei der Feststellung eines Missbrauchs im Sinne des Satzes 1 nicht berücksichtigt werden. Die §§ 19 und 20 bleiben unberührt.
 
+# § 29a – Kraftstoffmärkte
+
+(1) Einem Anbieter von Kraftstoffen ist es verboten, auf einem der Abgabe von Kraftstoffen an Letztverbraucher vorgelagerten Markt, auf dem er allein oder zusammen mit anderen Anbietern von Kraftstoffen eine marktbeherrschende Stellung innehat oder über relative Marktmacht verfügt, diese missbräuchlich auszunutzen, indem er Kraftstoffpreise fordert, die die Kosten in unangemessener Weise überschreiten. Dabei trägt der Anbieter in Verfahren vor der Kartellbehörde die Darlegungs- und Beweislast für die Zuordnung und Höhe der Kosten und, soweit die Höhe der Kosten das Marktübliche erheblich überschreitet, auch die Angemessenheit der Kosten.
+
+(2) Kraftstoffe im Sinne dieser Vorschrift sind Ottokraftstoffe und Dieselkraftstoffe.
+
+(3) Kosten, die sich ihrem Umfang nach im Wettbewerb nicht einstellen würden, dürfen bei der Feststellung eines Missbrauchs im Sinne des Absatzes 1 nicht berücksichtigt werden. Die §§ 19 und 20 bleiben unberührt.
+
+(4) Das Bundesministerium für Wirtschaft und Energie berichtet den gesetzgebenden Körperschaften nach Ablauf von fünf Jahren nach dem 1. April 2026 über die Erfahrung mit dieser Regelung.
+
 # § 30 – Presse
 
 (1) § 1 gilt nicht für vertikale Preisbindungen, durch die ein Unternehmen, das Zeitungen oder Zeitschriften herstellt, die Abnehmer dieser Erzeugnisse rechtlich oder wirtschaftlich bindet, bei der Weiterveräußerung bestimmte Preise zu vereinbaren oder ihren Abnehmern die gleiche Bindung bis zur Weiterveräußerung an den letzten Verbraucher aufzuerlegen. Zu Zeitungen und Zeitschriften zählen auch Produkte, die Zeitungen oder Zeitschriften reproduzieren oder substituieren und bei Würdigung der Gesamtumstände als überwiegend verlagstypisch anzusehen sind, sowie kombinierte Produkte, bei denen eine Zeitung oder eine Zeitschrift im Vordergrund steht.
@@ -1948,7 +1962,7 @@ Haben Vereinbarungen, Beschlüsse von Unternehmensvereinigungen oder aufeinander
 
 (2) Wenn objektiv nachvollziehbare Anhaltspunkte dafür bestehen, dass durch künftige Zusammenschlüsse der wirksame Wettbewerb im Inland in einem oder mehreren der in dem Bericht nach § 32e Absatz 4 untersuchten Wirtschaftszweige im Sinne von § 36 Absatz 1 erheblich behindert werden könnte, kann das Bundeskartellamt Unternehmen durch Verfügung verpflichten, innerhalb eines Zeitraums von drei Jahren ab Zustellung der Verfügung jeden Zusammenschluss im Sinne von § 37 in einem oder mehreren dieser Wirtschaftszweige nach § 39 anzumelden. Die Anmeldepflicht nach Satz 1 gilt nur für Zusammenschlüsse, bei denen der Erwerber im letzten Geschäftsjahr Umsatzerlöse im Inland von mehr als 50 Millionen Euro und das zu erwerbende Unternehmen im letzten Geschäftsjahr Umsatzerlöse im Inland von mehr als 1 Million Euro erzielt hat. § 36 Absatz 1 Satz 2 Nummer 2 ist auf von dem Unternehmen in den untersuchten Wirtschaftszweigen angemeldete Zusammenschlüsse nicht anzuwenden. Im Übrigen gelten die auf Zusammenschlüsse im Sinne des Kapitels 7 anwendbaren Vorschriften dieses Gesetzes. Sofern die Voraussetzungen nach Satz 1 nach Ablauf des Zeitraums von drei Jahren fortbestehen, kann das Bundeskartellamt die Anmeldeverpflichtung um drei Jahre verlängern; wiederholte Verlängerungen um jeweils drei Jahre sind bis zu dreimal zulässig.
 
-(3) Das Bundeskartellamt kann durch Verfügung feststellen, dass eine erhebliche und fortwährende Störung des Wettbewerbs auf mindestens einem mindestens bundesweiten Markt, mehreren einzelnen Märkten oder marktübergreifend vorliegt, soweit die Anwendung der sonstigen Befugnisse nach Teil 1 nach den im Zeitpunkt der Entscheidung beim Bundeskartellamt vorliegenden Erkenntnissen voraussichtlich nicht ausreichend erscheint, um die Störung des Wettbewerbs wirksam und dauerhaft zu beseitigen. Die Verfügung nach Satz 1 ergeht gegenüber einem oder mehreren Unternehmen, die als Adressaten von Maßnahmen nach Satz 6 oder Absatz 4 in Betracht kommen. Adressaten von Maßnahmen können Unternehmen sein, die durch ihr Verhalten und ihre Bedeutung für die Marktstruktur zur Störung des Wettbewerbs wesentlich beitragen. Bei der Auswahl der Adressaten und der Abhilfemaßnahmen ist insbesondere auch die Marktstellung des Unternehmens zu berücksichtigen. Das Bundeskartellamt kann die Verfügung nach Satz 1 durch Beschluss zu einem späteren Zeitpunkt auf weitere Unternehmen im Sinne der Sätze 2 und 3 ausdehnen. Das Bundeskartellamt kann im Falle einer Feststellung nach Satz 1 den betroffenen Unternehmen alle Abhilfemaßnahmen verhaltensorientierter oder struktureller Art vorschreiben, die zur Beseitigung oder Verringerung der Störung des Wettbewerbs erforderlich sind. Die Abhilfemaßnahmen können insbesondere Folgendes zum Gegenstand haben:
+(3) Wenn eine erhebliche und fortwährende Störung des Wettbewerbs auf mindestens einem mindestens bundesweiten Markt, mehreren einzelnen Märkten oder marktübergreifend vorliegt, kann das Bundeskartellamt, soweit die Anwendung der sonstigen Befugnisse nach Teil 1 nach den im Zeitpunkt der Entscheidung beim Bundeskartellamt vorliegenden Erkenntnissen voraussichtlich nicht ausreichend erscheint, gegenüber Unternehmen alle Abhilfemaßnahmen verhaltensorientierter oder struktureller Art vorschreiben, die zur Beseitigung oder Verringerung der Störung des Wettbewerbs erforderlich sind. Die Abhilfemaßnahmen können insbesondere Folgendes zum Gegenstand haben:
 
 1. die Gewährung des Zugangs zu Daten, Schnittstellen, Netzen oder sonstigen Einrichtungen,
 
@@ -1964,7 +1978,7 @@ Haben Vereinbarungen, Beschlüsse von Unternehmensvereinigungen oder aufeinander
 
 § 32 Absatz 2 gilt entsprechend.
 
-(4) Das Bundeskartellamt kann unter den Voraussetzungen des Absatzes 3 marktbeherrschende Unternehmen sowie Unternehmen mit einer überragenden marktübergreifenden Bedeutung für den Wettbewerb nach § 19a Absatz 1 durch Verfügung dazu verpflichten, Unternehmensanteile oder Vermögen zu veräußern, wenn zu erwarten ist, dass durch diese Maßnahme die erhebliche und fortwährende Störung des Wettbewerbs beseitigt oder erheblich verringert wird. Abhilfemaßnahmen nach Satz 1 dürfen nur angeordnet werden, wenn Abhilfemaßnahmen nach Absatz 3 Satz 6 nicht möglich sind, nicht von gleicher Wirksamkeit oder im Vergleich zu Abhilfemaßnahmen nach Satz 1 mit einer größeren Belastung für das Unternehmen verbunden wären. Vor Erlass der Verfügung ist der Monopolkommission und den nach § 48 Absatz 1 zuständigen obersten Landesbehörden, in deren Gebiet das Unternehmen seinen Sitz hat, Gelegenheit zur Stellungnahme zu geben. Die Verfügung nach Satz 1 ist im Bundesanzeiger bekannt zu machen. § 43 Absatz 3 ist entsprechend anzuwenden mit der Maßgabe, dass nur die Angaben nach § 39 Absatz 3 Satz 2 Nummer 1 und 2 bekannt zu machen sind. Die Verfügung kann mit Nebenbestimmungen verbunden werden. § 41 Absatz 3 Satz 2 und Absatz 4 gilt entsprechend. Der Vermögensteil muss nur veräußert werden, wenn der Erlös mindestens 50 Prozent desjenigen Wertes beträgt, den ein vom Bundeskartellamt beauftragter Wirtschaftsprüfer für den Zeitpunkt des der Entflechtungsanordnung nach Satz 1 vorangegangenen Jahresabschlusses festgestellt hat. Soweit der tatsächliche Verkaufserlös den vom beauftragten Wirtschaftsprüfer festgestellten Wert unterschreitet, erhält das veräußernde Unternehmen eine zusätzliche Zahlung in Höhe der Hälfte der Differenz zwischen dem festgestellten Wert und dem tatsächlichen Verkaufserlös. Erstreckt sich die Verfügung auf Vermögensteile, die vor der Einleitung eines Verfahrens nach diesem Absatz Gegenstand einer bestandskräftigen Freigabe eines Zusammenschlusses durch das Bundeskartellamt oder die Europäische Kommission waren oder nach der Erteilung einer bestandskräftigen Ministererlaubnis erworben wurden, so ist die Verfügung nur zulässig, wenn der Zeitraum zwischen ihrer Zustellung und der Zustellung der fusionskontrollrechtlichen Verfügung größer als zehn Jahre ist. Ist kein Hauptprüfverfahren eingeleitet worden, so tritt an die Stelle der Zustellung der Verfügung der Ablauf der Frist nach § 40 Absatz 1 Satz 1. Teile des Vermögens, die ein Unternehmen aufgrund einer Verpflichtung nach diesem Absatz oder aufgrund einer Verpflichtungszusage nach Absatz 6 veräußert hat, darf das Unternehmen innerhalb von fünf Jahren nach der Veräußerung nicht zurückerwerben, es sei denn, es weist nach, dass sich die Marktverhältnisse so geändert haben, dass eine erhebliche und fortwährende Störung des Wettbewerbs nicht mehr vorliegt.
+(4) Das Bundeskartellamt kann unter den Voraussetzungen des Absatzes 3 marktbeherrschende Unternehmen sowie Unternehmen mit einer überragenden marktübergreifenden Bedeutung für den Wettbewerb nach § 19a Absatz 1 durch Verfügung dazu verpflichten, Unternehmensanteile oder Vermögen zu veräußern, wenn zu erwarten ist, dass durch diese Maßnahme die erhebliche und fortwährende Störung des Wettbewerbs beseitigt oder erheblich verringert wird. Abhilfemaßnahmen nach Satz 1 dürfen nur angeordnet werden, wenn Abhilfemaßnahmen nach Absatz 3 Satz 1 nicht möglich sind, nicht von gleicher Wirksamkeit oder im Vergleich zu Abhilfemaßnahmen nach Satz 1 mit einer größeren Belastung für das Unternehmen verbunden wären. Vor Erlass der Verfügung ist der Monopolkommission und den nach § 48 Absatz 1 zuständigen obersten Landesbehörden, in deren Gebiet das Unternehmen seinen Sitz hat, Gelegenheit zur Stellungnahme zu geben. Die Verfügung nach Satz 1 ist im Bundesanzeiger bekannt zu machen. § 43 Absatz 3 ist entsprechend anzuwenden mit der Maßgabe, dass nur die Angaben nach § 39 Absatz 3 Satz 2 Nummer 1 und 2 bekannt zu machen sind. Die Verfügung kann mit Nebenbestimmungen verbunden werden. § 41 Absatz 3 Satz 2 und Absatz 4 gilt entsprechend. Der Vermögensteil muss nur veräußert werden, wenn der Erlös mindestens 50 Prozent desjenigen Wertes beträgt, den ein vom Bundeskartellamt beauftragter Wirtschaftsprüfer für den Zeitpunkt des der Entflechtungsanordnung nach Satz 1 vorangegangenen Jahresabschlusses festgestellt hat. Soweit der tatsächliche Verkaufserlös den vom beauftragten Wirtschaftsprüfer festgestellten Wert unterschreitet, erhält das veräußernde Unternehmen eine zusätzliche Zahlung in Höhe der Hälfte der Differenz zwischen dem festgestellten Wert und dem tatsächlichen Verkaufserlös. Erstreckt sich die Verfügung auf Vermögensteile, die vor der Einleitung eines Verfahrens nach diesem Absatz Gegenstand einer bestandskräftigen Freigabe eines Zusammenschlusses durch das Bundeskartellamt oder die Europäische Kommission waren oder nach der Erteilung einer bestandskräftigen Ministererlaubnis erworben wurden, so ist die Verfügung nur zulässig, wenn der Zeitraum zwischen ihrer Zustellung und der Zustellung der fusionskontrollrechtlichen Verfügung größer als zehn Jahre ist. Ist kein Hauptprüfverfahren eingeleitet worden, so tritt an die Stelle der Zustellung der Verfügung der Ablauf der Frist nach § 40 Absatz 1 Satz 1. Teile des Vermögens, die ein Unternehmen aufgrund einer Verpflichtung nach diesem Absatz oder aufgrund einer Verpflichtungszusage nach Absatz 6 veräußert hat, darf das Unternehmen innerhalb von fünf Jahren nach der Veräußerung nicht zurückerwerben, es sei denn, es weist nach, dass sich die Marktverhältnisse so geändert haben, dass eine erhebliche und fortwährende Störung des Wettbewerbs nicht mehr vorliegt.
 
 (5) Eine Störung des Wettbewerbs kann insbesondere in folgenden Fällen vorliegen:
 
@@ -2001,6 +2015,8 @@ Eine Störung des Wettbewerbs ist fortwährend, wenn diese über einen Zeitraum 
 (8) Auf Märkten in den von der Bundesnetzagentur regulierten Sektoren Eisenbahn, Post und Telekommunikation, für die sektorspezifisches Wettbewerbsrecht gilt, sowie den regulierten Elektrizitäts- und Gasversorgungsnetzen gemäß dem Energiewirtschaftsgesetz bedarf das Bundeskartellamt zur Ergreifung von Abhilfemaßnahmen nach den Absätzen 3 und 4 des Einvernehmens der Bundesnetzagentur; die Bundesnetzagentur veröffentlicht hierzu jeweils eine Stellungnahme. Mögliche Abhilfemaßnahmen nach den Absätzen 3 und 4 sind bei der Prüfung im Rahmen der Marktanalyse nach § 37 Absatz 2 Nummer 3 des Postgesetzes und § 11 Absatz 2 Nummer 3 des Telekommunikationsgesetzes nicht zu berücksichtigen.
 
 (9) Das Bundesministerium für Wirtschaft und Klimaschutz berichtet den gesetzgebenden Körperschaften nach Ablauf von zehn Jahren nach Inkrafttreten der Regelungen in den Absätzen 1 bis 8 über die Erfahrungen mit der Vorschrift.
+
+(10) Das Bundesministerium für Wirtschaft und Energie berichtet den gesetzgebenden Körperschaften nach Ablauf von fünf Jahren nach dem 1. April 2026 über die Erfahrung mit dem neuen Absatz 3 Satz 1.
 
 # § 32g – Untersuchung von möglichen Verstößen gegen die Verordnung (EU) 2022/1925 (Digital Markets Act)
 
@@ -2806,7 +2822,7 @@ an die Markttransparenzstelle für Kraftstoffe zu übermitteln. Werden dem Betre
 
 (3) Kraftstoffe im Sinne dieser Vorschrift sind Ottokraftstoffe und Dieselkraftstoffe. Öffentliche Tankstellen sind Tankstellen, die sich an öffentlich zugänglichen Orten befinden und die ohne Beschränkung des Personenkreises aufgesucht werden können.
 
-(4) Bestehen Anhaltspunkte dafür, dass ein Unternehmen gegen die in Absatz 1 genannten gesetzlichen Bestimmungen verstößt, muss die Markttransparenzstelle für Kraftstoffe umgehend die zuständige Kartellbehörde informieren und den Vorgang an sie abgeben. Hierzu oder auf Anfrage einer Kartellbehörde leitet sie alle von dieser für deren Aufgaben nach diesem Gesetz benötigten oder angeforderten Informationen und Daten unverzüglich an diese weiter. Die Markttransparenzstelle für Kraftstoffe stellt die von ihr nach Absatz 2 erhobenen Daten ferner den folgenden Behörden und Stellen zur Verfügung:
+(4) Bestehen Anhaltspunkte dafür, dass ein Unternehmen gegen die in Absatz 1 genannten gesetzlichen Bestimmungen oder gegen § 2 Absatz 1 des Kraftstoffpreisanpassungsgesetzes verstößt, muss die Markttransparenzstelle für Kraftstoffe in den Fällen eines Verstoßes gegen die in Absatz 1 genannten Bestimmungen umgehend die zuständige Kartellbehörde und in den Fällen eines Verstoßes gegen § 2 Absatz 1 des Kraftstoffpreisanpassungsgesetzes umgehend die Landesbehörde, die für die Verfolgung und Ahndung einer Ordnungswidrigkeit nach § 3 Absatz 1 des Kraftstoffpreisanpassungsgesetzes zuständig ist, informieren und den Vorgang an sie abgeben. In den Fällen des Satzes 1 leitet die Markttransparenzstelle für Kraftstoffe alle bei ihr vorhandenen und von der jeweils zuständigen Behörde für deren Aufgaben nach diesem Gesetz oder nach dem Kraftstoffpreisanpassungsgesetz benötigten Informationen und Daten unverzüglich an diese weiter. Die Markttransparenzstelle für Kraftstoffe stellt die von ihr nach Absatz 2 erhobenen Daten ferner den folgenden Behörden und Stellen zur Verfügung:
 
 1. dem Bundesministerium für Wirtschaft und Energie für statistische Zwecke und zu Evaluierungszwecken sowie
 
@@ -3066,7 +3082,7 @@ Soweit das Bundesministerium für Wirtschaft und Energie dem Bundeskartellamt al
 
 (6) Die Kartellbehörde kann von den Beteiligten sowie von Dritten verlangen, mit der Übersendung von Anmeldungen, Stellungnahmen, Unterlagen oder sonstigen Auskünften oder im Anschluss an die Übersendung auf die in Absatz 4 genannten Geheimnisse hinzuweisen und diese in den Unterlagen entsprechend kenntlich zu machen. Erfolgt dies trotz entsprechenden Verlangens nicht, darf die Kartellbehörde von der Zustimmung zur Offenlegung im Rahmen der Gewährung von Akteneinsicht ausgehen.
 
-(7) Auf Antrag eines Beteiligten oder von Amts wegen kann die Kartellbehörde eine öffentliche mündliche Verhandlung durchführen. Für die Verhandlung oder für einen Teil davon ist die Öffentlichkeit auszuschließen, wenn sie eine Gefährdung der öffentlichen Ordnung, insbesondere des Wohls des Bundes oder eines Landes, oder eine Gefährdung eines wichtigen Betriebs- oder Geschäftsgeheimnisses besorgen lässt. In den Fällen des § 32f Absatz 3 Satz 6 und Absatz 4 hat das Bundeskartellamt nach Einleitung des Verfahrens eine öffentliche mündliche Verhandlung durchzuführen. In den Fällen des § 42 hat das Bundesministerium für Wirtschaft und Klimaschutz eine öffentliche mündliche Verhandlung durchzuführen. Mit Einverständnis der Beteiligten kann in den Fällen des § 32f Absatz 3 Satz 6 und Absatz 4 sowie des § 42 ohne mündliche Verhandlung entschieden werden. In der öffentlichen mündlichen Verhandlung hat die Monopolkommission in den Fällen des § 32f Absatz 3 Satz 6 und Absatz 4 sowie des § 42 das Recht, gehört zu werden; in den Fällen des § 42 hat sie das Recht, die Stellungnahme, die sie nach § 42 Absatz 5 erstellt hat, zu erläutern.
+(7) Auf Antrag eines Beteiligten oder von Amts wegen kann die Kartellbehörde eine öffentliche mündliche Verhandlung durchführen. Für die Verhandlung oder für einen Teil davon ist die Öffentlichkeit auszuschließen, wenn sie eine Gefährdung der öffentlichen Ordnung, insbesondere des Wohls des Bundes oder eines Landes, oder eine Gefährdung eines wichtigen Betriebs- oder Geschäftsgeheimnisses besorgen lässt. In den Fällen des § 32f Absatz 3 Satz 1 und Absatz 4 hat das Bundeskartellamt nach Einleitung des Verfahrens eine öffentliche mündliche Verhandlung durchzuführen. In den Fällen des § 42 hat das Bundesministerium für Wirtschaft und Klimaschutz eine öffentliche mündliche Verhandlung durchzuführen. Mit Einverständnis der Beteiligten kann in den Fällen des § 32f Absatz 3 Satz 1 und Absatz 4 sowie des § 42 ohne mündliche Verhandlung entschieden werden. In der öffentlichen mündlichen Verhandlung hat die Monopolkommission in den Fällen des § 32f Absatz 3 Satz 1 und Absatz 4 sowie des § 42 das Recht, gehört zu werden; in den Fällen des § 42 hat sie das Recht, die Stellungnahme, die sie nach § 42 Absatz 5 erstellt hat, zu erläutern.
 
 (8) Die §§ 45 und 46 des Verwaltungsverfahrensgesetzes sind anzuwenden.
 
@@ -3260,7 +3276,7 @@ Die Beteiligten müssen sich durch einen Rechtsanwalt als Bevollmächtigten vert
 
 (1) Rechtsbehelfe haben aufschiebende Wirkung, soweit durch die angefochtene Verfügung
 
-1. eine Verfügung nach § 26 Absatz 4, § 30 Absatz 3, § 31b Absatz 3, § 32 Absatz 2a Satz 1, § 32f Absatz 3 Satz 6 und Absatz 4 oder § 34 Absatz 1 getroffen wird oder
+1. eine Verfügung nach § 26 Absatz 4, § 30 Absatz 3, § 31b Absatz 3, § 32 Absatz 2a Satz 1, § 32f Absatz 3 Satz 1 und Absatz 4 oder § 34 Absatz 1 getroffen wird oder
 
 2. eine Erlaubnis nach § 42 Absatz 2 Satz 2 in Verbindung mit § 40 Absatz 3a widerrufen oder geändert wird,
 
@@ -3478,11 +3494,11 @@ Der Bundesgerichtshof verweist den Rechtsstreit zurück, wenn der im Rechtsbesch
 
 (2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1. einer Vorschrift der §§ 1, 19, 20 Absatz 1 bis 3 Satz 1, Absatz 3a oder Absatz 5, des § 21 Absatz 3 oder 4, des § 29 Satz 1 oder des § 41 Absatz 1 Satz 1 über das Verbot einer dort genannten Vereinbarung, eines dort genannten Beschlusses, einer aufeinander abgestimmten Verhaltensweise, des Missbrauchs einer marktbeherrschenden Stellung, des Missbrauchs einer Marktstellung oder einer überlegenen Marktmacht, einer unbilligen Behinderung oder unterschiedlichen Behandlung, der Ablehnung der Aufnahme eines Unternehmens, der Ausübung eines Zwangs, der Zufügung eines wirtschaftlichen Nachteils oder des Vollzugs eines Zusammenschlusses zuwiderhandelt,
+1. einer Vorschrift der §§ 1, 19, 20 Absatz 1 bis 3 Satz 1, Absatz 3a oder Absatz 5, des § 21 Absatz 3 oder 4, des § 29 Satz 1, des § 29a Absatz 1 Satz 1 oder des § 41 Absatz 1 Satz 1 über das Verbot einer dort genannten Vereinbarung, eines dort genannten Beschlusses, einer aufeinander abgestimmten Verhaltensweise, des Missbrauchs einer marktbeherrschenden Stellung, des Missbrauchs einer Marktstellung oder einer überlegenen Marktmacht, einer unbilligen Behinderung oder unterschiedlichen Behandlung, der Ablehnung der Aufnahme eines Unternehmens, der Ausübung eines Zwangs, der Zufügung eines wirtschaftlichen Nachteils, der missbräuchlichen Ausnutzung einer marktbeherrschenden Stellung oder relativer Marktmacht oder des Vollzugs eines Zusammenschlusses zuwiderhandelt,
 
 2. einer vollziehbaren Anordnung nach
 
-a) § 19a Absatz 2, § 30 Absatz 3, § 31b Absatz 3 Nummer 1 und 3, § 32 Absatz 1, § 32a Absatz 1, § 32b Absatz 1 Satz 1, § 32f Absatz 3 Satz 6 oder Absatz 4 Satz 1, § 41 Absatz 4 Nummer 2, auch in Verbindung mit § 40 Absatz 3a Satz 2, auch in Verbindung mit § 41 Absatz 2 Satz 3 oder § 42 Absatz 2 Satz 2, oder § 60 oder
+a) § 19a Absatz 2, § 30 Absatz 3, § 31b Absatz 3 Nummer 1 und 3, § 32 Absatz 1, § 32a Absatz 1, § 32b Absatz 1 Satz 1, § 32f Absatz 3 Satz 1 oder Absatz 4 Satz 1, § 41 Absatz 4 Nummer 2, auch in Verbindung mit § 40 Absatz 3a Satz 2, auch in Verbindung mit § 41 Absatz 2 Satz 3 oder § 42 Absatz 2 Satz 2, oder § 60 oder
 
 b) § 39 Absatz 5 oder
 
@@ -3723,6 +3739,8 @@ b) weder die beabsichtigte Stellung des Antrags auf Kronzeugenbehandlung noch de
 2. das Bundeskartellamt als Markttransparenzstelle für Kraftstoffe bei Ordnungswidrigkeiten nach § 81 Absatz 2 Nummer 5b, 6, soweit ein Verstoß gegen § 47k Absatz 7 in Verbindung mit § 59 Absatz 2 oder Absatz 4 vorliegt, und Nummer 8, soweit ein Verstoß gegen § 47k Absatz 7 in Verbindung mit § 59a Absatz 2 vorliegt, und
 
 3. in den übrigen Fällen von § 81 das Bundeskartellamt und die nach Landesrecht zuständige oberste Landesbehörde jeweils für ihren Geschäftsbereich.
+
+(1a) Abweichend von Absatz 1 Nummer 2 ist Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten in den Fällen des § 81 Absatz 2 Nummer 5b dieses Gesetzes, soweit die Ordnungswidrigkeit im Zusammenhang mit einer Ordnungswidrigkeit nach § 3 Absatz 1 des Kraftstoffpreisanpassungsgesetzes steht, die Landesbehörde, die für die Verfolgung und Ahndung einer Ordnungswidrigkeit nach § 3 Absatz 1 des Kraftstoffpreisanpassungsgesetzes zuständig ist.
 
 (2) Die Kartellbehörde ist für Verfahren wegen der Festsetzung einer Geldbuße gegen eine juristische Person oder Personenvereinigung nach § 30 des Gesetzes über Ordnungswidrigkeiten in Fällen ausschließlich zuständig, denen
 
@@ -5492,3 +5510,5 @@ Anträge auf schriftliche Bestätigung nach Satz 1 Nummer 2 sind unverzüglich d
 soweit sich die in dem Abkommen von der Bundesrepublik Deutschland übernommenen Verpflichtungen und gewährten Rechte im Rahmen der nach den §§ 50a bis 50f zulässigen zwischenbehördlichen Zusammenarbeit halten. Bestimmungen einer Rechtsverordnung nach Satz 1 sind erst ab dem Tag anzuwenden, ab dem das in Satz 1 bezeichnete Abkommen wirksam geworden ist. Das Bundesministerium für Wirtschaft und Klimaschutz gibt den Tag unter Angabe der Bezeichnung des Abkommens zwischen dem Bundesministerium für Wirtschaft und Klimaschutz der Bundesrepublik Deutschland und dem Eidgenössischen Departement für Wirtschaft, Bildung und Forschung der Schweizerischen Eidgenossenschaft über Zusammenarbeit und Koordinierung der Wettbewerbsbehörden und dessen Fundstelle im Bundesgesetzblatt bekannt.
 
 (12) Das Bundeskartellamt kann eine Verfügung nach § 32f Absatz 2 auch auf der Grundlage einer Sektoruntersuchung nach § 32e erlassen, die am 7. November 2023 bereits abgeschlossen war, wenn die Veröffentlichung des Abschlussberichts nach § 32e Absatz 4 zu diesem Zeitpunkt weniger als ein Jahr zurücklag. In den Fällen des Satzes 1 ist § 32f Absatz 7 mit der Maßgabe anzuwenden, dass die Frist am 7. November 2023 zu laufen beginnt.
+
+(13) Verfahren nach § 32f Absatz 3, die vor dem 1. April 2026 eingeleitet wurden, werden nach dem Recht zu Ende geführt, das zum Zeitpunkt des Erlasses der Verfügung nach § 32f Absatz 3 gilt.

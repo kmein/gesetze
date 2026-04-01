@@ -75,7 +75,7 @@ Auch wenn Zeiten nach Satz 1 zu berücksichtigen sind, darf
 
 (3) Die Polizeivollzugsbeamtin oder der Polizeivollzugsbeamte hat eine Unterweisungszeit von in der Regel sechs, mindestens aber drei Monaten zu durchlaufen.
 
-(4) Im Übrigen gilt § 44 der Bundeslaufbahnverordnung.
+(4) Im Übrigen gilt § 53 der Bundeslaufbahnverordnung.
 
 # § 9 – Erhaltung der körperlichen Leistungsfähigkeit
 
@@ -95,15 +95,15 @@ a) bei Beginn des Aufstiegs in den gehobenen Polizeivollzugsdienst beim Deutsche
 
 b) bei der Zulassung zum Aufstieg in den höheren Polizeivollzugsdienst beim Deutschen Bundestag noch nicht 45 Jahre alt sind.
 
-Im Übrigen gilt § 19 Absatz 4 der Bundeslaufbahnverordnung.
+Im Übrigen gilt § 21 Absatz 3 der Bundeslaufbahnverordnung.
 
-(2) Für das Auswahlverfahren gilt § 36 Absatz 1, 5 und 6 der Bundeslaufbahnverordnung. § 36 Absatz 3 und 4 der Bundeslaufbahnverordnung gilt mit der Maßgabe, dass das Auswahlverfahren auch in Zusammenarbeit mit einer Behörde der Bundespolizei oder einer Polizeibehörde eines Landes durchgeführt werden kann.
+(2) Für das Auswahlverfahren gilt § 44 Absatz 1, 5 und 6 der Bundeslaufbahnverordnung. § 44 Absatz 3 und 4 der Bundeslaufbahnverordnung gilt mit der Maßgabe, dass das Auswahlverfahren auch in Zusammenarbeit mit einer Behörde der Bundespolizei oder einer Polizeibehörde eines Landes durchgeführt werden kann.
 
 (3) Die für den Aufstieg in den gehobenen Polizeivollzugsdienst beim Deutschen Bundestag zugelassenen Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten nehmen an einem Vorbereitungsdienst des Bundes oder eines Landes für eine Laufbahn des gehobenen Polizeivollzugsdienstes teil. Das Aufstiegsverfahren richtet sich nach den Vorschriften, die für den Vorbereitungsdienst gelten, an dem die zum Aufstieg zugelassene Beamtin oder der zum Aufstieg zugelassene Beamte teilnimmt.
 
 (4) Die Ausbildung für den Aufstieg in den höheren Polizeivollzugsdienst beim Deutschen Bundestag dauert zwei Jahre. Die Bewerberinnen und Bewerber absolvieren den Masterstudiengang „Öffentliche Verwaltung – Polizeimanagement (Public Administration – Police Management)“ an der Deutschen Hochschule der Polizei. Das Aufstiegsverfahren richtet sich nach der Prüfungsordnung für diesen Studiengang.
 
-(5) Im Übrigen gilt § 41 der Bundeslaufbahnverordnung.
+(5) Im Übrigen gilt § 49 der Bundeslaufbahnverordnung.
 
 # § 11 – Fachspezifische Qualifizierung
 
@@ -119,7 +119,7 @@ Im Übrigen gilt § 19 Absatz 4 der Bundeslaufbahnverordnung.
 
 5. erfolgreich an einem Auswahlverfahren teilgenommen haben.
 
-(2) Für das Auswahlverfahren gilt § 36 Absatz 1 und 6 der Bundeslaufbahnverordnung. § 36 Absatz 3 und 4 der Bundeslaufbahnverordnung gilt mit der Maßgabe, dass das Auswahlverfahren auch in Zusammenarbeit mit einer Behörde der Bundespolizei oder einer Polizeibehörde eines Landes durchgeführt werden kann. § 36 Absatz 5 der Bundeslaufbahnverordnung gilt mit der Maßgabe, dass zu den sonstigen Anforderungen insbesondere die erfolgreiche Wahrnehmung von Führungsaufgaben gehört.
+(2) Für das Auswahlverfahren gilt § 44 Absatz 1 und 6 der Bundeslaufbahnverordnung. § 44 Absatz 3 und 4 der Bundeslaufbahnverordnung gilt mit der Maßgabe, dass das Auswahlverfahren auch in Zusammenarbeit mit einer Behörde der Bundespolizei oder einer Polizeibehörde eines Landes durchgeführt werden kann. § 44 Absatz 5 der Bundeslaufbahnverordnung gilt mit der Maßgabe, dass zu den sonstigen Anforderungen insbesondere die erfolgreiche Wahrnehmung von Führungsaufgaben gehört.
 
 (3) Die fachspezifische Qualifizierung dauert 20 Monate. Sie umfasst eine fachtheoretische Ausbildung und eine berufspraktische Einführung.
 
@@ -127,13 +127,13 @@ Im Übrigen gilt § 19 Absatz 4 der Bundeslaufbahnverordnung.
 
 (5) Während der berufspraktischen Einführung werden die Aufgaben der Laufbahn des gehobenen Polizeivollzugsdienstes beim Deutschen Bundestag wahrgenommen. Zeiten, in denen Tätigkeiten des gehobenen Polizeivollzugsdienstes ausgeübt wurden, können bis zu einer Dauer von 14 Monaten auf die berufspraktische Einführung angerechnet werden. Nach Abschluss der berufspraktischen Einführung erhält die Polizeivollzugsbeamtin oder der Polizeivollzugsbeamte eine dienstliche Beurteilung, aus der hervorgeht, ob sie oder er sich in der Laufbahn des gehobenen Polizeivollzugsdienstes beim Deutschen Bundestag bewährt hat.
 
-(6) Für die Feststellung, ob die fachspezifische Qualifizierung erfolgreich abgeschlossen ist, gilt § 38 Absatz 4 der Bundeslaufbahnverordnung entsprechend.
+(6) Für die Feststellung, ob die fachspezifische Qualifizierung erfolgreich abgeschlossen ist, gilt § 46 Absatz 5 der Bundeslaufbahnverordnung entsprechend.
 
-(7) Für die Kostenerstattung gilt § 41 der Bundeslaufbahnverordnung.
+(7) Für die Kostenerstattung gilt § 49 der Bundeslaufbahnverordnung.
 
 # § 12 – Übertragung eines Amtes der neuen Laufbahn
 
-§ 40 der Bundeslaufbahnverordnung gilt mit der Maßgabe, dass Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten das Amt einer Polizeioberkommissarin beim Deutschen Bundestag oder eines Polizeioberkommissars beim Deutschen Bundestag übertragen werden kann, wenn sie mindestens ein Jahr das Amt einer Polizeihauptmeisterin oder eines Polizeihauptmeisters mit Amtszulage innehaben.
+§ 48 der Bundeslaufbahnverordnung gilt mit der Maßgabe, dass Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten das Amt einer Polizeioberkommissarin beim Deutschen Bundestag oder eines Polizeioberkommissars beim Deutschen Bundestag übertragen werden kann, wenn sie mindestens ein Jahr das Amt einer Polizeihauptmeisterin oder eines Polizeihauptmeisters mit Amtszulage innehaben.
 
 # § 13 – Übergangsregelungen für den Aufstieg
 

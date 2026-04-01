@@ -913,7 +913,7 @@ Wer die Laufbahnprüfung bestanden hat, hat die Befähigung für die Laufbahn de
 
 (2) Das Prüfungsamt bestimmt auf Vorschlag der Prüfungskommission, innerhalb welcher Frist die Prüfung wiederholt werden muss. Die Wiederholungsphase soll mindestens drei Monate betragen und ein Jahr nicht überschreiten.
 
-(3) Die Wiederholung der Zwischenprüfung soll unverzüglich, frühestens jedoch einen Monat nach Bekanntgabe des Zwischenprüfungsergebnisses erfolgen. Der weitere Ausbildungsverlauf wird wegen der Wiederholung der Zwischenprüfung nicht ausgesetzt. Bei Auszubildenden, die die schriftliche oder mündliche Abschlussprüfung wiederholen, wird der Vorbereitungsdienst bis zum Ablauf der vom Prüfungsamt angesetzten Wiederholungsfrist verlängert, sofern die nach § 15 Absatz 3 der Bundeslaufbahnverordnung zulässige Höchstdauer des Vorbereitungsdienstes nicht überschritten wird.
+(3) Die Wiederholung der Zwischenprüfung soll unverzüglich, frühestens jedoch einen Monat nach Bekanntgabe des Zwischenprüfungsergebnisses erfolgen. Der weitere Ausbildungsverlauf wird wegen der Wiederholung der Zwischenprüfung nicht ausgesetzt. Bei Auszubildenden, die die schriftliche oder mündliche Abschlussprüfung wiederholen, wird der Vorbereitungsdienst bis zum Ablauf der vom Prüfungsamt angesetzten Wiederholungsfrist verlängert, sofern die nach § 18 Absatz 3 der Bundeslaufbahnverordnung zulässige Höchstdauer des Vorbereitungsdienstes nicht überschritten wird.
 
 (4) Die Rangpunkte, die bei der Wiederholung erreicht werden, ersetzen die zuvor erreichten.
 

@@ -123,8 +123,6 @@ e) alle gekoppelten Einkommensstützungen,
 
 5. des GAP-Konditionalitäten-Gesetzes und der zu seiner Durchführung erlassenen Rechtsverordnung.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 30.4.2025 I Nr. 128 +++)
-
 # § 2 – Zuständigkeit
 
 (1) Soweit in dieser Verordnung oder den in § 1 Nummer 4 und 5 genannten Vorschriften nichts anderes bestimmt ist, sind für die Durchführung dieser Verordnung und der in § 1 genannten Vorschriften die nach Landesrecht zuständigen Behörden des Landes (zuständige Behörde) örtlich zuständig, in dem der Betriebsinhaber seinen Betriebssitz hat.
@@ -144,8 +142,6 @@ e) alle gekoppelten Einkommensstützungen,
 3. die Bekanntmachung der Hanfsorten, deren Anbau dazu führt, dass für eine Fläche, auf der sie angebaut werden, Direktzahlungen gewährt werden dürfen oder nicht gewährt werden dürfen,
 
 4. die in § 1 Nummer 2 genannten Beihilfezahlungen an anerkannte Erzeugerorganisationen im Hopfensektor.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 30.4.2025 I Nr. 128 +++)
 
 # § 3 – Landwirtschaftliche Parzelle
 
@@ -261,8 +257,6 @@ Der Betriebsinhaber hat im Sammelantrag anzugeben:
 
 In den Fällen nach § 8 Nummer 1 bis 5 und Nummer 7 der GAP-Direktzahlungen-Verordnung ist ein geeigneter Nachweis über das Vorliegen des jeweiligen Falls zum Zeitpunkt der Antragstellung vorzulegen, sofern dieser Nachweis der zuständigen Behörde nicht bereits vorliegt. Ein geeigneter Nachweis ist in den Fällen nach § 8 Nummer 1 bis 3 der GAP-Direktzahlungen-Verordnung der Beleg über die Beitragszahlung oder, soweit dieser noch nicht vorliegt, ein Beleg über den Beginn der Zuständigkeit der jeweiligen Unfallversicherung.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 30.4.2025 I Nr. 128 +++)
-
 # § 11 – Flächenbezogene Angaben
 
 (1) Der Betriebsinhaber hat unter Angabe der von der zuständigen Behörde vorgesehenen Nutzungscodes folgende Informationen im Sammelantrag anzugeben:
@@ -316,8 +310,6 @@ Ausgenommen von der Pflicht zur Angabe nach Absatz 2 ist ferner
 (4) Im Falle der Nutzung einer landwirtschaftlichen Fläche, für die ein Antrag auf Direktzahlungen gestellt wird, mit einer Anlage zur Nutzung solarer Strahlungsenergie, ist ein geeigneter Nachweis vorzulegen, sofern geltend gemacht wird, dass es sich bei dieser Anlage um eine Agri-Photovoltaik-Anlage nach § 12 Absatz 5 der GAP-Direktzahlungen-Verordnung handelt. Von dem Nachweis nach Satz 1 ist abzusehen, sofern ein weiterhin zutreffender Nachweis bereits früher vorgelegt wurde.
 
 (5) Sofern Landschaftselemente, die nach § 11 Absatz 1 Nummer 2 der GAP-Direktzahlungen-Verordnung zur förderfähigen Fläche gehören und über die ein Betriebsinhaber verfügt, oder Teile dieser Landschaftselemente sowohl an eine Dauergrünlandfläche oder Dauerkulturfläche, als auch an eine Ackerfläche desselben Betriebsinhabers angrenzen, hat der Betriebsinhaber bei der Angabe im Sammelantrag diese Landschaftselemente oder Teile der Landschaftselemente der Dauergrünlandfläche, der Dauerkulturfläche oder der Ackerfläche zuzuordnen. Satz 1 gilt entsprechend für Landschaftselemente, die zwischen Dauerkulturflächen und Dauergrünland liegen.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 30.4.2025 I Nr. 128 +++)
 
 # § 12 – Besondere Angaben zu Agroforstsystemen
 
@@ -463,8 +455,6 @@ d) zu erklären, dass diese nicht als natürliche Person für einen anderen Betr
 
 6. die Erklärungen und Darlegungen nach Nummer 2 und 4 durch geeignete Nachweise zu belegen, im Fall der Nummer 4 insbesondere durch eine Kopie des Gesellschaftsvertrags, der Satzung oder einer mit dieser vergleichbaren Urkunde, die dem Betriebsinhaber zugrunde liegt, sowie sonstiger Beschlüsse oder Auszüge aus amtlichen Registern.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 30.4.2025 I Nr. 128 +++)
-
 # § 20 – Angaben bei einem Antrag auf Junglandwirte-Einkommensstützung im Fall des § 16 Absatz 4 Satz 1 des GAP-Direktzahlungen-Gesetzes
 
 (1) Sofern der Betriebsinhaber die Junglandwirte-Einkommensstützung nach Artikel 50 der Verordnung (EU) Nr.1307/2013 in der Fassung vom 31. Dezember 2022 erhalten hat, hat er dies bei Beantragung der Junglandwirte-Einkommensstützung für den verbleibenden Teil des Zeitraums nach Artikel 50 Absatz 5 der Verordnung (EU) Nr.1307/2013 in der Fassung vom 31. Dezember 2022 anzugeben. Er hat zusätzlich zu bestätigen, dass er nicht als natürliche Person für einen anderen Betriebsinhaber für die Gewährung der Junglandwirte-Einkommensstützung berücksichtigt wird oder in früheren Jahren berücksichtigt worden ist.
@@ -478,8 +468,6 @@ a) anzugeben, welche natürliche Person oder natürliche Personen, für die die 
 b) zu bestätigen, dass keine Personen nach Buchstabe a als natürliche Person für einen anderen Betriebsinhaber für die Gewährung der Junglandwirte-Einkommensstützung berücksichtigt wird oder in früheren Jahren berücksichtigt worden ist, und
 
 2. für die in Nummer 1 Buchstabe a bezeichneten Angaben geeignete Nachweise vorzulegen.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 30.4.2025 I Nr. 128 +++)
 
 # § 21 – Besondere Angaben hinsichtlich der Einhaltung der Konditionalität
 
@@ -510,8 +498,6 @@ b) zu bestätigen, dass keine Personen nach Buchstabe a als natürliche Person f
 (2) Bis zum 31. Mai eines Antragsjahres können landwirtschaftliche Parzellen und Flächen nach § 11 Absatz 1 nachgemeldet werden.
 
 (3) Die Änderung eines Sammelantrags durch die Nachmeldung von Tieren, für die die Zahlung für Mutterschafe und -ziegen oder die Zahlung für Mutterkühe beantragt wird, ist nur bis einschließlich 15. Mai zulässig.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 30.4.2025 I Nr. 128 +++)
 
 # § 23 – Berichtigung offensichtlicher Irrtümer
 
@@ -630,8 +616,6 @@ Erfolgt eine betriebsbezogene Auswahl, kann die Kontrolle auf eine nach dem Zufa
 (3) Informationen aus den Qualitätsbewertungen nach den Artikeln 4 und 5 der Delegierten Verordnung (EU) 2022/1172 dürfen für die Kontrolle bei flächenbezogenen Direktzahlungen herangezogen werden.
 
 (4) Abweichend von Absatz 1 können die Landesregierungen durch Rechtsverordnung nach § 17 Absatz 1 Satz 2 Nummer 6 in Verbindung mit Absatz 3 Satz 1 des GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetzes für das Antragsjahr 2023 bestimmen, dass Kontrollen durch das Flächenüberwachungssystem nur bei einzelnen flächenbezogenen Direktzahlungen erfolgen.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 30.4.2025 I Nr. 128 +++)
 
 # § 33 – Vor-Ort-Kontrollen bei dem Flächenüberwachungssystem
 
@@ -774,8 +758,6 @@ Ausgenommen von der Pflicht zur Angabe nach Satz 1 ist die Nutzung außerhalb de
 (8) Der Betriebsinhaber ist verpflichtet, das Pflügen einer Fläche, die mit Gras oder anderen Grünfutterpflanzen bewachsen ist, aber weder Dauergrünland ist noch als solches gilt, mit dem Ziel, die Fläche wieder mit Gras  
 oder anderen Grünfutterpflanzen anzulegen, unter Angabe der Lage und Größe der Fläche und des Datums des Umpflügens spätestens einen Monat nach dem Pflügen bei der zuständigen Behörde nach dem von dieser vorgegebenen Verfahren anzuzeigen. Unterbleibt eine Anzeige nach Satz 1 oder erfolgt sie nach Ablauf der in Satz 1 genannten Frist, darf die zuständige Behörde außer in Fällen höherer Gewalt oder außergewöhnlicher Umstände das Pflügen nicht für die Bewertung einer Fläche im Hinblick auf die mögliche Entstehung oder Nichtentstehung von Dauergrünland berücksichtigen.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 30.4.2025 I Nr. 128 +++)
-
 # § 42 – Allgemeine Vorschriften
 
 (1) Ermittelte Flächen und ermittelte Tiere für eine Direktzahlung, im Fall der Öko-Regelung nach § 20 Absatz 1 Nummer 1 des GAP-Direktzahlungen-Gesetzes die Zahlung für jede dort bezeichnete Maßnahme, sind solche,
@@ -815,8 +797,6 @@ Kann das Vorliegen einer Fördervoraussetzung mangels Mitwirkung des Betriebsinh
 3. die verlorenen Kennzeichnungsmittel vor Ablauf des 15. August des Antragsjahres ersetzt wurden.
 
 (4) Im Fall eines Rindes, eines Mutterschafes oder einer Mutterziege, das oder die im Betrieb vorhanden ist, gilt die Verpflichtung zur Registrierung von Rindern, Schafen und Ziegen als erfüllt und das Tier insoweit als ermittelt, sofern der Betriebsinhaber die Vollständigkeit und Richtigkeit der Registrierung vor Ablauf des 15. August des Antragsjahres nachweist.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 30.4.2025 I Nr. 128 +++)
 
 # § 43 – Sanktion bei der Nichtanmeldung aller Flächen
 
@@ -889,8 +869,6 @@ so wird die ermittelte Anzahl im Umfang der Differenz zwischen den angemeldeten 
 (2) Die sich nach Absatz 1 ergebenden Beträge sind um den sich bei Anwendung des Artikels 17 der Verordnung (EU) 2021/2116 in der Fassung vom 7. Dezember 2022 ergebenden Betrag zu kürzen.
 
 (3) Sanktionen wegen Verstößen gegen Regelungen der Konditionalität oder der sozialen Konditionalität nach Kapitel 4 Abschnitt 2 des GAP-Konditionalitäten-Gesetzes werden auf den sich nach Absatz 2 ergebenden Betrag angewandt.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 30.4.2025 I Nr. 128 +++)
 
 # § 48 – Grenzwerte und Ausnahmen
 

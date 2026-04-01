@@ -69,7 +69,7 @@
 
 Das Anhörungs- und Vorschlagsrecht gilt, solange sich die gesetzlich festgelegte Sitzverteilung des Verwaltungsrats nicht ändert.
 
-(+++ § 3 Abs. 3, Abs. 4 Satz 7 u. Abs. 5: Zur Geltung vgl. § 8 Abs. 2 Satz 2 +++)
+(+++ § 3 Abs. 3, Abs. 4 Satz 7 u. Abs. 5: Zur Geltung vgl. § 8a Abs. 6 Satz 2 +++)
 
 # § 4 – Befugnisse des Verwaltungsrats
 
@@ -113,7 +113,7 @@ Der Verwaltungsrat wird durch den Vorsitzenden und bei dessen Verhinderung durch
 
 (7) Im Fall des § 4 Abs. 1 Satz 2 Nr. 1 hat der Verwaltungsrat binnen zwei Monaten nach Vorlage zu beschließen. Ergeht innerhalb der Frist kein Beschluss, gilt der vom Direktorium vorgelegte Haushaltsplan als festgestellt.
 
-(+++ § 6 Abs. 3 Satz 2: Zur Geltung vgl. § 8 Abs. 1 Satz 9 +++)
+(+++ § 6 Abs. 3 Satz 2: Zur Geltung vgl. § 8a Abs. 5 Satz 5 +++)
 
 # § 7 – Verfahren
 

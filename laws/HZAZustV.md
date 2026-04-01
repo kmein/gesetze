@@ -215,8 +215,6 @@ Dem Hauptzollamt Frankfurt am Main werden die Zuständigkeiten übertragen für
 
 5. die Erteilung einer Erlaubnis nach § 8 Absatz 2 Luftverkehrsteuergesetz aller Hauptzollämter bundesweit.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 1.12.2025 I Nr. 300 +++)
-
 # § 15 – Hauptzollamt Frankfurt (Oder)
 
 Dem Hauptzollamt Frankfurt (Oder) werden die Zuständigkeiten übertragen für
@@ -358,8 +356,6 @@ Dem Hauptzollamt Kiel werden die Zuständigkeiten übertragen für
 8. die Zollprüfungen, die Präferenzprüfungen und die Außenprüfungen, einschließlich der Überwachungsmaßnahmen, der Hauptzollämter Itzehoe und Stralsund sowie
 
 9. den Aufgabenbereich Vollstreckung des Hauptzollamts Itzehoe, mit Ausnahme des Hamburger Stadtgebiets.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 1.12.2025 I Nr. 300 +++)
 
 # § 23 – Hauptzollamt Koblenz
 

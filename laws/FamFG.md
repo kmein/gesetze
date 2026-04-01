@@ -1899,7 +1899,7 @@ Abstammungssachen sind Verfahren
 
 (1) Das Verfahren wird durch einen Antrag eingeleitet.
 
-(2) In dem Antrag sollen das Verfahrensziel und die betroffenen Personen bezeichnet werden. In einem Verfahren auf Anfechtung der Vaterschaft nach § 1600 Abs. 1 Nr. 1 bis 4 des Bürgerlichen Gesetzbuchs sollen die Umstände angegeben werden, die gegen die Vaterschaft sprechen, sowie der Zeitpunkt, in dem diese Umstände bekannt wurden.
+(2) In dem Antrag sollen das Verfahrensziel und die betroffenen Personen bezeichnet werden. In einem Verfahren auf Anfechtung der Vaterschaft sollen die Umstände angegeben werden, die gegen die Vaterschaft sprechen, sowie der Zeitpunkt, in dem diese Umstände bekannt wurden.
 
 # § 172 – Beteiligte
 
@@ -1925,11 +1925,11 @@ Das Gericht hat einem minderjährigen Beteiligten in Abstammungssachen einen Ver
 
 (1) Das Gericht soll vor einer Beweisaufnahme über die Abstammung die Angelegenheit in einem Termin erörtern. Es soll das persönliche Erscheinen der verfahrensfähigen Beteiligten anordnen.
 
-(2) Das Gericht soll vor einer Entscheidung über die Ersetzung der Einwilligung in eine genetische Abstammungsuntersuchung und die Anordnung der Duldung der Probeentnahme (§ 1598a Abs. 2 des Bürgerlichen Gesetzbuchs) die Eltern und ein Kind, das das 14. Lebensjahr vollendet hat, persönlich anhören. Ein jüngeres Kind kann das Gericht persönlich anhören.
+(2) In Verfahren nach § 169 Nummer 2 und 4 soll das Gericht die Eltern und das Kind persönlich anhören.
 
 # § 176 – Anhörung des Jugendamts
 
-(1) Das Gericht soll im Fall einer Anfechtung nach § 1600 Absatz 1 Nummer 2 des Bürgerlichen Gesetzbuchs sowie im Fall einer Anfechtung nach § 1600 Abs. 1 Nr. 4 des Bürgerlichen Gesetzbuchs, wenn die Anfechtung durch den gesetzlichen Vertreter erfolgt, das Jugendamt anhören. Im Übrigen kann das Gericht das Jugendamt anhören, wenn ein Beteiligter minderjährig ist.
+(1) Das Gericht soll im Fall einer Anfechtung nach § 1600 Absatz 1 Satz 1 Nummer 2 des Bürgerlichen Gesetzbuchs sowie im Fall einer Anfechtung nach § 1600 Absatz 1 Satz 1 Nummer 4 des Bürgerlichen Gesetzbuchs, wenn die Anfechtung durch den gesetzlichen Vertreter erfolgt, das Jugendamt anhören. Im Übrigen kann das Gericht das Jugendamt anhören, wenn ein Beteiligter minderjährig ist.
 
 (2) Das Gericht hat dem Jugendamt in den Fällen einer Anfechtung nach Absatz 1 Satz 1 sowie einer Anhörung nach Absatz 1 Satz 2 die Entscheidung mitzuteilen. Gegen den Beschluss steht dem Jugendamt die Beschwerde zu.
 
@@ -1953,7 +1953,9 @@ Das Gericht hat einem minderjährigen Beteiligten in Abstammungssachen einen Ver
 
 # § 180 – Erklärungen zur Niederschrift des Gerichts
 
-Die Anerkennung der Vaterschaft, die Zustimmung der Mutter sowie der Widerruf der Anerkennung können auch in einem Erörterungstermin zur Niederschrift des Gerichts erklärt werden. Das Gleiche gilt für die etwa erforderliche Zustimmung des Mannes, der im Zeitpunkt der Geburt mit der Mutter des Kindes verheiratet ist, des Kindes oder eines gesetzlichen Vertreters.
+(1) Die Anerkennung der Vaterschaft kann auch in einem Erörterungstermin zur Niederschrift des Gerichts erklärt werden. Das Gleiche gilt für die erforderlichen Zustimmungen.
+
+(2) Nach Einleitung eines gerichtlichen Verfahrens auf Feststellung der Vaterschaft für ein Kind kann ein anderer Mann als derjenige, dessen Feststellung beantragt ist, die Anerkennung der Vaterschaft für das betroffene Kind nur in einem Erörterungstermin zur Niederschrift des mit der Sache befassten Gerichts erklären. Die Anerkennungserklärung nach Satz 1 darf nur aufgenommen werden, wenn der Anerkennende durch Vorlage eines Gutachtens über eine durchgeführte genetische Untersuchung zur Klärung der Abstammung nach § 17 des Gendiagnostikgesetzes nachgewiesen hat, dass er leiblicher Vater des Kindes ist.
 
 # § 181 – Tod eines Beteiligten
 
@@ -1961,7 +1963,7 @@ Stirbt ein Beteiligter vor Rechtskraft der Endentscheidung, hat das Gericht die 
 
 # § 182 – Inhalt des Beschlusses
 
-(1) Ein rechtskräftiger Beschluss, der das Nichtbestehen einer Vaterschaft nach § 1592 des Bürgerlichen Gesetzbuchs infolge der Anfechtung nach § 1600 Abs. 1 Nr. 2 des Bürgerlichen Gesetzbuchs feststellt, enthält die Feststellung der Vaterschaft des Anfechtenden. Diese Wirkung ist in der Beschlussformel von Amts wegen auszusprechen.
+(1) Ein rechtskräftiger Beschluss, der das Nichtbestehen einer Vaterschaft nach § 1592 Nummer 1 oder 2 oder § 1593 des Bürgerlichen Gesetzbuchs infolge der Anfechtung nach § 1600 Absatz 1 Satz 1 Nummer 2 des Bürgerlichen Gesetzbuchs feststellt, enthält die Feststellung der Vaterschaft des Anfechtenden. Diese Wirkung ist in der Beschlussformel von Amts wegen auszusprechen.
 
 (2) Weist das Gericht einen Antrag auf Feststellung des Nichtbestehens der Vaterschaft ab, weil es den Antragsteller oder einen anderen Beteiligten als Vater festgestellt hat, spricht es dies in der Beschlussformel aus.
 
@@ -1986,6 +1988,22 @@ Hat ein Antrag auf Anfechtung der Vaterschaft Erfolg, tragen die Beteiligten, mi
 (3) Für den Antrag ist das Gericht ausschließlich zuständig, das im ersten Rechtszug entschieden hat; ist der angefochtene Beschluss von dem Beschwerdegericht oder dem Rechtsbeschwerdegericht erlassen, ist das Beschwerdegericht zuständig. Wird der Antrag mit einem Nichtigkeitsantrag oder mit einem Restitutionsantrag nach § 580 der Zivilprozessordnung verbunden, ist § 584 der Zivilprozessordnung anzuwenden.
 
 (4) § 586 der Zivilprozessordnung ist nicht anzuwenden.
+
+# § 185a – Wiederaufnahme bei Anfechtung durch den leiblichen Vater
+
+(1) Wurde der Antrag auf Anfechtung der Vaterschaft nach § 1600 Absatz 3 des Bürgerlichen Gesetzbuchs rechtskräftig durch Beschluss abgewiesen, ist ein Restitutionsantrag des nach § 1600 Absatz 1 Satz 1 Nummer 2 des Bürgerlichen Gesetzbuchs anfechtungsberechtigten Mannes gegen diesen Beschluss auch dann statthaft, wenn die sozial-familiäre Beziehung zwischen dem Kind und dem Mann, dessen Vaterschaft nach § 1592 Nummer 1 oder 2 des Bürgerlichen Gesetzbuchs besteht, beendet ist. Satz 1 gilt entsprechend für den Restitutionsantrag gegen einen rechtskräftigen Beschluss, mit dem der Antrag auf Anfechtung der Vaterschaft nach § 1600 Absatz 2 des Bürgerlichen Gesetzbuchs in der bis zum 31. März 2026 geltenden Fassung wegen des Bestehens einer sozial-familiären Beziehung abgewiesen wurde.
+
+(2) Ein Restitutionsantrag nach Absatz 1 ist unzulässig, wenn das Kind bei Eintritt der Rechtskraft des Beschlusses zur Abweisung des Antrags auf Anfechtung der Vaterschaft nach § 1600 Absatz 3 des Bürgerlichen Gesetzbuchs volljährig war. Im Übrigen kann ein Restitutionsantrag nach Absatz 1 erst gestellt werden, wenn seit Rechtskraft des Beschlusses eine Wartefrist verstrichen ist. Die Wartefrist beträgt
+
+1. vier Jahre, wenn das Kind bei Eintritt der Rechtskraft des Beschlusses das 14. Lebensjahr vollendet hatte,
+
+2. drei Jahre, wenn das Kind bei Eintritt der Rechtskraft des Beschlusses das 14. Lebensjahr noch nicht vollendet hatte, und
+
+3. zwei Jahre, wenn das Kind bei Eintritt der Rechtskraft des Beschlusses das sechste Lebensjahr noch nicht vollendet hatte.
+
+Wurde ein Restitutionsantrag nach Absatz 1 rechtskräftig als unzulässig verworfen oder hat das Familiengericht auf Grund eines Restitutionsantrags nach Absatz 1 den Antrag auf Anfechtung der Vaterschaft nach § 1600 Absatz 2 oder 3 des Bürgerlichen Gesetzbuchs erneut abgewiesen, gelten die Sätze 1 bis 3 entsprechend.
+
+(3) § 185 Absatz 3 und 4 ist anzuwenden.
 
 # § 186 – Adoptionssachen
 
@@ -3839,13 +3857,13 @@ Unternehmensrechtliche Verfahren sind die nach
 
 10. § 11 Abs. 3 des Gesetzes über die Mitbestimmung der Arbeitnehmer in den Aufsichtsräten und Vorständen der Unternehmen des Bergbaus und der Eisen und Stahl erzeugenden Industrie,
 
-11. § 2c Abs. 2 Satz 2 bis 7, den §§ 22o, 28 Absatz 2, nach § 36 Absatz 3 Satz 3, § 38 Abs. 2 Satz 2, § 45a Abs. 2 Satz 1, 3, 4 und 6 des Kreditwesengesetzes,
+11. § 2c Absatz 2 Satz 2 bis 7, § 2h Absatz 22 Satz 2 und Absatz 23 Satz 1 und 3, § 28 Absatz 2, § 36 Absatz 3 Satz 3, § 38 Absatz 2 Satz 2, § 45a Absatz 2 Satz 1, 3, 4 und 6 des Kreditwesengesetzes,
 
 11a. § 2a Absatz 4 Satz 2 und 3 des Investmentgesetzes,
 
 11b. § 27 Absatz 2 Satz 1 bis 6 und § 77 Absatz 2 des Wertpapierinstitutsgesetzes,
 
-11c. § 13 Absatz 2 Satz 2, § 23 Absatz 5 Satz 2, § 25 Absatz 7 Satz 2 bis 7, § 28 Absatz 4 Satz 4 sowie § 39 Absatz 4 des Kryptomärkteaufsichtsgesetzes,
+11c. § 13 Absatz 2 Satz 2, § 23 Absatz 5 Satz 2, § 25 Absatz 9 Satz 2 bis 7, § 28 Absatz 4 Satz 4 sowie § 39 Absatz 4 des Kryptomärkteaufsichtsgesetzes,
 
 12. § 23 Absatz 2 des Zahlungsdiensteaufsichtsgesetzes,
 

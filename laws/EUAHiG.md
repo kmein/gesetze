@@ -351,7 +351,6 @@ Die Übermittlung erfolgt auf elektronischem Weg. Auf die praktischen Regelungen
 
 (15) Das Bundeszentralamt für Steuern ist berechtigt, die Informationen gemäß den Absätzen 1 bis 5, 7 und 9 bis 14b zur Erfüllung der ihm gesetzlich übertragenen Aufgaben auszuwerten. Auswertungen der Informationen nach Satz 1 durch die jeweils zuständige Landesfinanzbehörde bleiben hiervon unberührt. Für Informationen gemäß Absatz 14 Satz 2 finden § 138j der Abgabenordnung und § 21a Absatz 5 des Finanzverwaltungsgesetzes entsprechende Anwendung.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 252 +++)  
 (+++ § 7: Zur Anwendung vgl. § 21 +++)
 
 # § 8 – Spontane Übermittlung von Informationen an andere Mitgliedstaaten

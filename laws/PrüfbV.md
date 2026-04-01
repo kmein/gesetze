@@ -147,7 +147,7 @@ Den Grundsätzen der risikoorientierten Prüfung und der Wesentlichkeit ist Rech
 
 (3) Bedeutsame Vorgänge, die nach dem Bilanzstichtag eingetreten und dem Prüfer bekannt geworden sind, sind zu berücksichtigen und im Prüfungsbericht darzulegen.
 
-(4) Wurde im Berichtszeitraum eine Prüfung gemäß § 44 Absatz 1 Satz 2 des Kreditwesengesetzes durchgeführt, so hat der Abschlussprüfer die Ergebnisse dieser Prüfung bei der Prüfung der aufsichtlichen Sachverhalte zu verwerten. Bei Sachverhalten, die Gegenstand der Prüfung gemäß § 44 Absatz 1 Satz 2 des Kreditwesengesetzes waren, kann sich die aufsichtliche Berichterstattung auf wesentliche Veränderungen beschränken, die bis zum Bilanzstichtag eingetreten sind.
+(4) Wurde im Berichtszeitraum eine Prüfung gemäß § 44 Absatz 1 Satz 3 des Kreditwesengesetzes durchgeführt, so hat der Abschlussprüfer die Ergebnisse dieser Prüfung bei der Prüfung der aufsichtlichen Sachverhalte zu verwerten. Bei Sachverhalten, die Gegenstand der Prüfung gemäß § 44 Absatz 1 Satz 3 des Kreditwesengesetzes waren, kann sich die aufsichtliche Berichterstattung auf wesentliche Veränderungen beschränken, die bis zum Bilanzstichtag eingetreten sind.
 
 (5) Hat nach § 30 des Kreditwesengesetzes die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) gegenüber dem Institut Bestimmungen über den Inhalt der Jahresabschlussprüfung getroffen, so hat der Prüfer hierauf im Prüfungsbericht im Zusammenhang mit dem Prüfungsauftrag hinzuweisen.
 
@@ -526,11 +526,9 @@ c) deren Anzahl in Drittstaaten und von diesen Zweigstellen, Zweigniederlassunge
 
 (1) Bei Kreditinstituten hat der Abschlussprüfer zu beurteilen, ob die von dem Kreditinstitut getroffenen internen Vorkehrungen den Anforderungen der Verordnung (EU) 2021/1230 des Europäischen Parlaments und des Rates vom 14. Juli 2021 über grenzüberschreitende Zahlungen in der Union (ABl. L 274 vom 30.7.2021, S. 20), die durch die Verordnung (EU) 2024/886 (ABl. L, 2024/886, 19.3.2024) geändert worden ist, entsprechen. Dabei ist zu beurteilen, ob die folgenden Bestimmungen eingehalten werden:
 
-1. die Bestimmungen zu Entgelten für grenzüberschreitende Zahlungen nach Artikel 3 Absatz 1 der Verordnung,
+1. die Bestimmungen zu Entgelten für grenzüberschreitende Zahlungen nach Artikel 3 Absatz 1 der Verordnung sowie
 
-2. die Bestimmungen zu Entgelten nach Artikel 4 Absatz 3 Satz 1 der Verordnung, die über das Entgelt gemäß Artikel 3 Absatz 1 der Verordnung hinausgehen, sowie
-
-3. die Bestimmungen zu Interbankenentgelten für Inlandslastschriften nach Artikel 7 Absatz 1 der Verordnung.
+2. die Bestimmungen zu Entgelten nach Artikel 6 Absatz 2 Satz 1 der Verordnung, die über das Entgelt nach Artikel 3 Absatz 1 der Verordnung hinausgehen.
 
 (2) Der Abschlussprüfer hat darzustellen, welche Maßnahmen das Kreditinstitut ergriffen hat, um die in Absatz 1 genannten Anforderungen der Verordnung (EU) 2021/1230 zu erfüllen.
 
@@ -981,11 +979,13 @@ Bei Kreditinstituten, die das Finanzierungsleasing im Sinne des § 1 Absatz 1a S
 
 # § 69 – Prüfung von Verwahrstellen im Sinne des Kapitalanlagegesetzbuchs
 
-(1) Ist ein Kreditinstitut oder eine Zweigniederlassung eines Kreditinstituts als Verwahrstelle nach § 68 Absatz 3 in Verbindung mit Absatz 2 des Kapitalanlagegesetzbuchs tätig, so ist über das Ergebnis der Prüfung dieser Tätigkeit in einem gesonderten Abschnitt zu berichten.
+(1) Ist ein Kreditinstitut oder eine Zweigniederlassung eines Kreditinstituts als Verwahrstelle nach § 68 Absatz 3 in Verbindung mit Absatz 2 des Kapitalanlagegesetzbuchs oder nach § 80 Absatz 2 Nummer 1 und Absatz 6 Satz 1 in Verbindung mit § 87 Satz 1 des Kapitalanlagegesetzbuchs tätig, so ist über das Ergebnis der Prüfung dieser Tätigkeit in einem gesonderten Abschnitt zu berichten.
 
 (2) Die Prüfung hat sich darauf zu erstrecken, ob das Kreditinstitut oder die Zweigniederlassung die in den §§ 70 bis 79 des Kapitalanlagegesetzbuchs genannten Pflichten als Verwahrstelle ordnungsgemäß erfüllt hat. Die der Erfüllung der Pflichten nach Satz 2 dienende Organisation ist in Grundzügen darzustellen und auf ihre Angemessenheit zu beurteilen. Die beauftragenden Kapitalverwaltungsgesellschaften und extern verwalteten Investmentgesellschaften sowie die Anzahl der für sie verwalteten inländischen Investmentvermögen und das Netto-Fondsvermögen sind zu nennen.
 
 (3) Über wesentliche Vorkommnisse, insbesondere bei der Ausgabe und Rücknahme von Anteilen eines Investmentvermögens, bei aufgetretenen Interessenkollisionen gemäß § 70 des Kapitalanlagegesetzbuchs, bei der Ausübung der Kontrollfunktion gemäß § 76 des Kapitalanlagegesetzbuchs und bei der Belastung der Investmentvermögen mit Vergütungen und Aufwendungsersatz gemäß § 79 des Kapitalanlagegesetzbuchs ist zu berichten. Sofern durch Anleger gegenüber der Verwahrstelle oder durch die Verwahrstelle gegenüber einer Kapitalverwaltungsgesellschaft Ansprüche nach § 78 des Kapitalanlagegesetzbuchs geltend gemacht wurden, ist auch hierüber zu berichten.
+
+(4) Führt das Kreditinstitut oder die Zweigniederlassung auch das Kryptowertpapierregister für Anteile oder Aktien an Investmentvermögen, für die sie als Verwahrstelle beauftragt wurden, gilt § 69b entsprechend.
 
 # § 69a – Prüfung der registerführenden Stelle gemäß § 12 Absatz 2 des Gesetzes über elektronische Wertpapiere
 

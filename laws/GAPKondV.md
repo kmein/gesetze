@@ -121,8 +121,6 @@ Diese Verordnung dient der Durchführung des GAP-Konditionalitäten-Gesetzes und
 
 3. für die Direktzahlungen nicht förderfähig ist.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 30.4.2025 I Nr. 128 +++)
-
 # § 3 – Antrag auf Genehmigung der Umwandlung von Dauergrünland
 
 (1) Die Genehmigung für die Umwandlung von Dauergrünland nach § 5 des GAP-Konditionalitäten-Gesetzes ist schriftlich oder elektronisch bei der zuständigen Behörde zu beantragen.
@@ -175,8 +173,6 @@ Eine Ersatzfläche gilt als zu dem Zeitpunkt entstanden, zu dem die Dauergrünla
 
 (7) Soweit die zuständige Behörde für die Zustimmung und Erklärungen nach den Absätzen 3, 4 und 6 Muster bekannt gibt oder Vordrucke oder Formulare bereithält, sind diese zu verwenden.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 30.4.2025 I Nr. 128 u. V v. 18.12.2025 I Nr. 357 +++)
-
 # § 5 – Frist für die Anlage von Ersatzflächen
 
 Die Ersatzfläche ist bis zu dem auf die Genehmigung folgenden Schlusstermin für den Sammelantrag nach § 6 des GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetzes anzulegen.
@@ -211,8 +207,6 @@ Konditionalitäten-Gesetzes als Ersatzfläche angelegt wurde,
 
 4. auf Grund einer Förderung gemäß § 1 Absatz 1 Satz 1 Nummer 3 des GAP-Konditionalitäten-Gesetzes aus Ackerland zu Dauergrünland umgewandelt wurde.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 30.4.2025 I Nr. 128 +++)
-
 # § 9 – Anzeige der Umwandlung von Dauergrünland nach § 6 des GAP-Konditionalitäten-Gesetzes
 
 Die Umwandlung von Dauergrünland nach § 6 des GAP-Konditionalitäten-Gesetzes ist der zuständigen Behörde im nächsten Sammelantrag nach § 5 des GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetzes anzuzeigen.
@@ -234,8 +228,6 @@ Konditionalitäten-Gesetzes als Ersatzfläche angelegt wurde,
 5. ohne Genehmigung umgewandelt wurde und dessen Fläche größer als 500 Quadratmeter ist.
 
 (2) Absatz 1 gilt nur in dem Zeitraum, in dem die Flächen als Dauergrünland genutzt werden müssen.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 30.4.2025 I Nr. 128 +++)
 
 # § 11 – Gebietskulisse
 
@@ -276,8 +268,6 @@ b) die Zuordnung der Gebietskulisse zu den landwirtschaftlichen Parzellen und
 3. ein gesetzlich geschütztes Biotop nach § 30 Absatz 2 des Bundesnaturschutzgesetzes oder nach weiteren landesrechtlichen Vorschriften ist oder
 
 4. in einem von einer Landesregierung aus Naturschutzgründen durch Rechtsverordnung ausgewiesenen Gebiet liegt.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 30.4.2025 I Nr. 128 +++)
 
 # § 12a – Narbenerneuerung, Wiederherstellung, Dauerkulturen
 
@@ -438,8 +428,6 @@ Abweichend von Satz 1 sind die in Satz 1 Nummer 1 bis 3 genannten Flächen im er
 1. beetweise verschiedene Gemüsekulturen, Küchenkräuter, Heil-, Gewürz- oder Zierpflanzen angebaut werden oder
 
 2. im Rahmen einer wissenschaftlichen Versuchsfläche eine oder mehrere Kulturen angebaut werden.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 30.4.2025 I Nr. 128 +++)
 
 # § 19 – Keine Beseitigung von Landschaftselementen
 
@@ -644,8 +632,6 @@ Hat ein Verstoß gegen die GAB oder GLÖZ-Standards keine oder nur unerhebliche 
 (3) Sind in demselben Kalenderjahr mehrere festgestellte vorsätzliche Verstöße gegen Vorschriften der sozialen Konditionalität aufgetreten, findet das Verfahren entsprechende Anwendung, das geregelt ist in Artikel 11 Absatz 4 der Delegierten Verordnung (EU) 2022/1172.
 
 (4) Sind in demselben Kalenderjahr mehrere nicht vorsätzliche, wiederholte und vorsätzliche Verstöße gegen Vorschriften der sozialen Konditionalität aufgetreten, findet das Verfahren entsprechende Anwendung, das geregelt ist in Artikel 11 Absatz 5 der Delegierten Verordnung (EU) 2022/1172.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 30.4.2025 I Nr. 128 +++)
 
 # § 35 – Inkrafttreten
 

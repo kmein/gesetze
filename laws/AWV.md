@@ -925,7 +925,7 @@ erwirbt.
 
 (4) (weggefallen)
 
-(+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Satz 1 +++)  
+(+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Abs. 1 Satz 1 +++)  
 (+++ §§ 55 bis 62a: Zur Anwendung in den Fassungen der AWV2013ÄndV 15, AWV2013ÄndV 16 und AWV2013ÄndV 17 vgl. § 82b Satz 1 +++)  
 (+++ § 55 Abs. 3 Satz 2: Zur Geltung vgl. § 60 Abs. 4 Satz 2 +++)
 
@@ -933,13 +933,13 @@ erwirbt.
 
 (1) Bei der Prüfung einer voraussichtlichen Beeinträchtigung der öffentlichen Ordnung oder Sicherheit kann insbesondere berücksichtigt werden, ob das inländische Unternehmen
 
-1. Betreiber einer kritischen Anlage im Sinne des BSI-Gesetzes ist,
+1. Betreiber einer kritischen Anlage im Sinne des § 2 Nummer 3 des KRITIS-Dachgesetzes ist,
 
-2. kritische Komponenten im Sinne des § 2 Nummer 23 des BSI-Gesetzes entwickelt oder herstellt oder Software, die branchenspezifisch zum Betrieb von kritischen Anlagen im Sinne des BSI-Gesetzes dient, besonders entwickelt oder herstellt,
+2. kritische Komponenten im Sinne des § 2 Nummer 23 des BSI-Gesetzes entwickelt oder herstellt oder Software, die branchenspezifisch zum Betrieb von kritischen Anlagen im Sinne des § 2 Nummer 3 des KRITIS-Dachgesetzes dient, besonders entwickelt oder herstellt,
 
 3. zu organisatorischen Maßnahmen nach § 170 des Telekommunikationsgesetzes verpflichtet ist oder technische Einrichtungen zur Umsetzung gesetzlich vorgesehener Maßnahmen zur Überwachung der Telekommunikation herstellt oder in der Vergangenheit hergestellt hat und über Kenntnisse der oder sonstigen Zugang zu der den technischen Einrichtungen zugrundeliegenden Technologie verfügt,
 
-4. Cloud-Computing-Dienste erbringt und die hierfür genutzten Infrastrukturen die in Anhang 4 Teil 3 Nummer 2 Spalte D der BSI-Kritisverordnung genannten Schwellenwerte in Bezug auf den jeweiligen Cloud-Computing-Dienst erreichen oder überschreiten,
+4. Cloud-Computing-Dienste erbringt und die hierfür genutzten Anlagen die im Anhang der Rechtsverordnung nach § 4 Absatz 3 und § 5 Absatz 1 des KRITIS-Dachgesetzes genannten Schwellenwerte in Bezug auf den jeweiligen Cloud-Computing-Dienst erreichen oder überschreiten,
 
 5. eine Zulassung für Komponenten oder Dienste der Telematikinfrastruktur nach § 325 oder § 311 Absatz 6 des Fünften Buches Sozialgesetzbuch besitzt,
 
@@ -1075,8 +1075,9 @@ Eine Kontrolle im Sinne des Satzes 1 Nummer 1 kann insbesondere aufgrund der Eig
 
 (5) Zur Meldung nach Absatz 4 ist der unmittelbare Erwerber verpflichtet, auch wenn in dessen Person die Voraussetzungen des § 55 Absatz 1 nicht vorliegen.
 
-(+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Satz 1 +++)  
+(+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Abs. 1 Satz 1 +++)  
 (+++ §§ 55 bis 62a: Zur Anwendung in den Fassungen der AWV2013ÄndV 15, AWV2013ÄndV 16 und AWV2013ÄndV 17 vgl. § 82b Satz 1 +++)  
+(+++ § 55a Abs. 1 Nr. 1, 2 und 4: Zur Anwendung vgl. § 82a Abs. 2 Satz 1 +++)  
 (+++ § 55a Abs. 3 Satz 2: Zur Geltung vgl. § 56 Abs. 4 Satz 4 +++)
 
 # § 56 – Stimmrechtsanteile
@@ -1137,7 +1138,7 @@ Satz 1 ist entsprechend anzuwenden, wenn der Erwerber nachträglich eine Vereinb
 
 jeweils auch in Verbindung mit den Absätzen 2 und 3, wenn der Erwerber und die jeweiligen Zwischengesellschafter unter entsprechender Anwendung des Absatzes 4 mindestens einen der nach Absatz 1 Nummer 1, 2 oder 3 maßgeblichen Anteile der Stimmrechte an der jeweiligen Tochtergesellschaft halten.
 
-(+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Satz 1 +++)  
+(+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Abs. 1 Satz 1 +++)  
 (+++ §§ 55 bis 62a: Zur Anwendung in den Fassungen der AWV2013ÄndV 15, AWV2013ÄndV 16 und AWV2013ÄndV 17 vgl. § 82b Satz 1 +++)  
 (+++ § 56 Abs. 2 bis 5: Zur Geltung vgl. § 60a Abs. 2 +++)
 
@@ -1151,7 +1152,7 @@ jeweils auch in Verbindung mit den Absätzen 2 und 3, wenn der Erwerber und die 
 
 (3) Die Absätze 1 und 2 gelten nicht, wenn ein Prüfverfahren nach § 55 Absatz 3 eingeleitet wurde oder eine Pflicht zur Meldung nach § 55a Absatz 4 Satz 1 besteht.
 
-(+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Satz 1 +++)  
+(+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Abs. 1 Satz 1 +++)  
 (+++ §§ 55 bis 62a: Zur Anwendung in den Fassungen der AWV2013ÄndV 15, AWV2013ÄndV 16 und AWV2013ÄndV 17 vgl. § 82b Satz 1 +++)
 
 # § 58a – Freigabe eines Erwerbs nach § 55
@@ -1162,7 +1163,7 @@ jeweils auch in Verbindung mit den Absätzen 2 und 3, wenn der Erwerber und die 
 
 (3) Eine Freigabe kann mit der Auflage versehen werden, dass dem Bundesministerium für Wirtschaft und Klimaschutz der Erwerb weiterer Stimmrechte auch unterhalb der in § 56 Absatz 2 genannten Schwellenwerte zum Zwecke der Prüfung nach § 55 Absatz 1 unverzüglich nach Abschluss des schuldrechtlichen Rechtsgeschäfts anzuzeigen ist. § 14 Absatz 1 Satz 1 des Außenwirtschaftsgesetzes bleibt unberührt.
 
-(+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Satz 1 +++)  
+(+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Abs. 1 Satz 1 +++)  
 (+++ §§ 55 bis 62a: Zur Anwendung in den Fassungen der AWV2013ÄndV 15, AWV2013ÄndV 16 und AWV2013ÄndV 17 vgl. § 82b Satz 1 +++)  
 (+++ § 58a Abs. 3: Zur Geltung vgl. § 61 Satz 3 +++)
 
@@ -1182,7 +1183,7 @@ jeweils auch in Verbindung mit den Absätzen 2 und 3, wenn der Erwerber und die 
 
 (5) In den Fällen des Absatzes 1 kann das Bundesministerium für Wirtschaft und Klimaschutz auch anordnen, dass die an einem Erwerb Beteiligten und die mit ihnen verbundenen Unternehmen dem Bundesministerium für Wirtschaft und Klimaschutz in bestimmten Zeitabständen einen Bericht über die Einhaltung von angeordneten oder durch Vertrag übernommenen Verpflichtungen vorzulegen haben. Der Bericht muss von einer Person erstellt werden, die fachkundig im Sinne des Absatzes 4 Satz 2 und unabhängig von den Verpflichteten und den weiteren am Erwerb Beteiligten ist. Die Kosten des Berichts tragen die Verpflichteten.
 
-(+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Satz 1 +++)  
+(+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Abs. 1 Satz 1 +++)  
 (+++ §§ 55 bis 62a: Zur Anwendung in den Fassungen der AWV2013ÄndV 15, AWV2013ÄndV 16 und AWV2013ÄndV 17 vgl. § 82b Satz 1 +++)  
 (+++ § 59 Abs. 3 bis 5: Zur Geltung vgl. § 62 Abs. 2 +++)
 
@@ -1199,6 +1200,8 @@ jeweils auch in Verbindung mit den Absätzen 2 und 3, wenn der Erwerber und die 
 1. Wertpapiere, die aufgrund von Rechtsgeschäften im Sinne des Absatzes 1 erworben worden sind, innerhalb eines bestimmten Zeitraums über die Börse wieder zu veräußern oder an einen Treuhänder zu übertragen sind,
 
 2. die Ausübung von Stimmrechten bis zu dem Zeitpunkt, zu dem der Erwerb endgültig rückgängig gemacht ist, verboten ist.
+
+(+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Abs. 1 Satz 1 +++)
 
 # § 60 – Anwendungsbereich der sektorspezifischen Prüfung
 
@@ -1251,7 +1254,7 @@ Kontrolle im Sinne des Satzes 1 Nummer 1 kann insbesondere auf Grund der Eigent�
 
 (4) Das Bundesministerium für Wirtschaft und Klimaschutz hat dem unmittelbaren Erwerber und dem von einem Erwerb nach Absatz 1 betroffenen inländischen Unternehmen die Eröffnung des Prüfverfahrens innerhalb der in § 14a Absatz 1 Nummer 1 des Außenwirtschaftsgesetzes genannten Frist bekannt zu geben. § 55 Absatz 3 Satz 2 bis 4 gilt entsprechend.
 
-(+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Satz 1 +++)  
+(+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Abs. 1 Satz 1 +++)  
 (+++ §§ 55 bis 62a: Zur Anwendung in den Fassungen der AWV2013ÄndV 15, AWV2013ÄndV 16 und AWV2013ÄndV 17 vgl. § 82b Satz 1 +++)
 
 # § 60a – Stimmrechtsanteile
@@ -1262,14 +1265,14 @@ Kontrolle im Sinne des Satzes 1 Nummer 1 kann insbesondere auf Grund der Eigent�
 
 (3) (weggefallen)
 
-(+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Satz 1 +++)  
+(+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Abs. 1 Satz 1 +++)  
 (+++ §§ 55 bis 62a: Zur Anwendung in den Fassungen der AWV2013ÄndV 15, AWV2013ÄndV 16 und AWV2013ÄndV 17 vgl. § 82b Satz 1 +++)
 
 # § 61 – Freigabe eines Erwerbs nach § 60
 
 Das Bundesministerium für Wirtschaft und Klimaschutz gibt den Erwerb gegenüber dem Meldepflichtigen nach § 60 Absatz 3 Satz 7 frei, wenn dem Erwerb keine Bedenken im Hinblick auf wesentliche Sicherheitsinteressen der Bundesrepublik Deutschland entgegenstehen. Die Freigabe gilt als erteilt, wenn das Bundesministerium für Wirtschaft und Klimaschutz nicht innerhalb der in § 14a Absatz 1 Nummer 1, auch in Verbindung mit Absatz 3 Satz 1, des Außenwirtschaftsgesetzes genannten Frist ein Prüfverfahren gemäß § 60 Absatz 1 gegenüber dem Meldepflichtigen eröffnet. § 58a Absatz 3 gilt mit der Maßgabe entsprechend, dass an die Stelle des § 55 Absatz 1 der § 60 Absatz 1 tritt.
 
-(+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Satz 1 +++)  
+(+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Abs. 1 Satz 1 +++)  
 (+++ §§ 55 bis 62a: Zur Anwendung in den Fassungen der AWV2013ÄndV 15, AWV2013ÄndV 16 und AWV2013ÄndV 17 vgl. § 82b Satz 1 +++)
 
 # § 62 – Untersagung oder Anordnungen
@@ -1278,14 +1281,14 @@ Das Bundesministerium für Wirtschaft und Klimaschutz gibt den Erwerb gegenüber
 
 (2) § 59 Absatz 3 bis 5 und § 59a gilt entsprechend.
 
-(+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Satz 1 +++)  
+(+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Abs. 1 Satz 1 +++)  
 (+++ §§ 55 bis 62a: Zur Anwendung in den Fassungen der AWV2013ÄndV 15, AWV2013ÄndV 16 und AWV2013ÄndV 17 vgl. § 82b Satz 1 +++)
 
 # § 62a – Verfahrenswechsel im Prüfverfahren
 
 Sofern sich in einem Prüfverfahren nach § 55 Absatz 1 oder nach § 60 Absatz 1 Satz 1 herausstellt, dass die Voraussetzungen für eine Untersagung oder den Erlass von Anordnungen im Sinne der Vorschriften über das jeweils andere Verfahren vorliegen können, kann das Bundesministerium für Wirtschaft und Klimaschutz das jeweilige Prüfverfahren auf Grundlage der Voraussetzungen der Vorschriften des anderen Verfahrens fortsetzen. Hinsichtlich der Anwendung des § 14a des Außenwirtschaftsgesetzes gelten die bisherigen Verfahrenshandlungen für das andere Verfahren fort. Der Verfahrenswechsel ist dem unmittelbaren Erwerber, dem Veräußerer und dem inländischen Unternehmen unverzüglich bekannt zu geben.
 
-(+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Satz 1 +++)  
+(+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Abs. 1 Satz 1 +++)  
 (+++ §§ 55 bis 62a: Zur Anwendung in den Fassungen der AWV2013ÄndV 15, AWV2013ÄndV 16 und AWV2013ÄndV 17 vgl. § 82b Satz 1 +++)
 
 # § 63 – Begriffsbestimmungen
@@ -1946,7 +1949,9 @@ Soweit die in Satz 1 genannten Vorschriften auf Anhang I oder Anhang IV der Vero
 
 # § 82a – Übergangsbestimmungen
 
-Die §§ 55 bis 62a in der ab dem 1. Mai 2021 geltenden Fassung sind erstmals auf schuldrechtliche Rechtsgeschäfte über den Erwerb eines inländischen Unternehmens anzuwenden, die ab dem 1. Mai 2021 abgeschlossen werden. Im Fall eines Angebots im Sinne des Wertpapiererwerbs- und Übernahmegesetzes ist der Zeitpunkt der Veröffentlichung der Entscheidung zur Abgabe des Angebots maßgeblich.
+(1) Die §§ 55 bis 62a in der ab dem 1. Mai 2021 geltenden Fassung sind erstmals auf schuldrechtliche Rechtsgeschäfte über den Erwerb eines inländischen Unternehmens anzuwenden, die ab dem 1. Mai 2021 abgeschlossen werden. Im Fall eines Angebots im Sinne des Wertpapiererwerbs- und Übernahmegesetzes ist der Zeitpunkt der Veröffentlichung der Entscheidung zur Abgabe des Angebots maßgeblich.
+
+(2) § 55a Absatz 1 Nummer 1, 2 und 4 ist erst anzuwenden, wenn eine auf der Grundlage von § 4 Absatz 3 und § 5 Absatz 1 des KRITIS-Dachgesetzes erlassene Rechtsverordnung gilt. Bis zur Geltung dieser Rechtsverordnung ist § 55a Absatz 1 Nummer 1, 2 und 4 in der bis einschließlich 16. März 2026 geltenden Fassung weiter anzuwenden.
 
 # § 82b – Evaluierung der Änderungen der §§ 55 bis 62a durch die Fünfzehnte, Sechzehnte und Siebzehnte Verordnung zur Änderung der Außenwirtschaftsverordnung
 

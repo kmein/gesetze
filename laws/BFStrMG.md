@@ -845,8 +845,6 @@ EURO V EEV Klasse 1</td>
 
 b) Die Zuordnung der Fahrzeuge nach § 1 Absatz 1 Satz 2 zu den in Buchstabe a aufgeführten Kohlenstoffdioxid-Emissionsklassen erfolgt nach Artikel 7ga Absatz 2 Satz 1 in Verbindung mit Artikel 2 Absatz 1 Nummer 28, 30, 34 bis 38 der Richtlinie 1999/62/EG. Im Sinne des Artikels 7ga Absatz 2 Satz 2 der Richtlinie 1999/62/EG wird die Einstufung eines Fahrzeugs der Kohlenstoffdioxid-Emissionsklassen 2 und 3 alle sechs Jahre, gerechnet vom Tag seiner Erstzulassung, auf Basis der zum Überprüfungszeitpunkt geltenden Grenzwerte neu ermittelt. Die gegebenenfalls neu ermittelte Kohlenstoffdioxid-Emissionsklasse wird am Tag nach der Neuermittlung der Einstufung wirksam.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 1.12.2025 I Nr. 295 +++)
-
 # Anlage 2 – (zu § 14 Absatz 1)
 
 (Fundstelle: BGBl. I 2013, 2551)

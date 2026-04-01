@@ -477,6 +477,7 @@
 - [BAPOErmÜV](laws/BAPOErmÜV.md) Verordnung zur Übertragung der Ermächtigung zum Erlass von Prüfungsordnungen durch die Zentrale der Bundesagentur für Arbeit
 - [BAPostG](laws/BAPostG.md) Gesetz über die Errichtung einer Bundesanstalt für Post und Telekommunikation Deutsche Bundespost
 - [BAProITFPrV](laws/BAProITFPrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Bachelor Professional in IT
+- [BAProNotFPrV](laws/BAProNotFPrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Bachelor Professional im Notariat
 - [BAProVFFPrV](laws/BAProVFFPrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Bachelor Professional in Versicherungen und Finanzanlagen
 - [BArchBV](laws/BArchBV.md) Verordnung über die Benutzung von Archivgut beim Bundesarchiv
 - [BArchG](laws/BArchG.md) Gesetz über die Nutzung und Sicherung von Archivgut des Bundes
@@ -504,8 +505,6 @@
 - [BAusfAmtG](laws/BAusfAmtG.md) Gesetz über die Errichtung eines Bundesausfuhramtes
 - [BauSparkG](laws/BauSparkG.md) Gesetz über Bausparkassen
 - [BausparkV](laws/BausparkV.md) Verordnung zum Gesetz über Bausparkassen
-- [BauSparVetrAbwV](laws/BauSparVetrAbwV.md) Durchführungs- und Ergänzungsverordnung über die vereinfachte Abwicklung von Bausparverträgen
-- [BauSparVetrAbwV 2](laws/BauSparVetrAbwV_2.md) Zweite Durchführungs- und Ergänzungsverordnung über die vereinfachte Abwicklung von Bausparverträgen
 - [BaustellV](laws/BaustellV.md) Verordnung über Sicherheit und Gesundheitsschutz auf Baustellen
 - [BauStiftG](laws/BauStiftG.md) Gesetz zur Errichtung einer "Bundesstiftung Baukultur"
 - [BauStoffPrAusbV 2005](laws/BauStoffPrAusbV_2005.md) Verordnung über die Berufsausbildung zum Baustoffprüfer/zur Baustoffprüferin
@@ -1221,6 +1220,7 @@
 - [BSI-KritisV](laws/BSI-KritisV.md) Verordnung zur Bestimmung kritischer Anlagen nach dem BSI-Gesetz
 - [BSIG](laws/BSIG.md) Gesetz über das Bundesamt für Sicherheit in der Informationstechnik und über die Sicherheit in der Informationstechnik von Einrichtungen
 - [BSIZertV](laws/BSIZertV.md) Verordnung über das Verfahren der Erteilung von Sicherheitszertifikaten und Anerkennungen durch das Bundesamt für Sicherheit in der Informationstechnik 1
+- [BSNotFPrV](laws/BSNotFPrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Berufsspezialist für das Notariat oder Geprüfte Berufsspezialistin für das Notariat
 - [BStatG](laws/BStatG.md) Gesetz über die Statistik für Bundeszwecke
 - [BStrafAktFV](laws/BStrafAktFV.md) Verordnung über die technischen und organisatorischen Rahmenbedingungen für die elektronische Aktenführung im Strafverfahren
 - [BStrMKnotV](laws/BStrMKnotV.md) Verordnung zur Festlegung abweichender Maut-Knotenpunkte für Bundesstraßen
@@ -1477,6 +1477,7 @@
 - [DBARevProtG FRA](laws/DBARevProtG_FRA.md) Gesetz zu dem Revisionsprotokoll vom 9. Juni 1969 zu dem am 21. Juli 1959 in Paris unterzeichneten Abkommen zwischen der Bundesrepublik Deutschland und der Französischen Republik zur Vermeidung der Doppelbesteuerungen und über gegenseitige Amts- und Rechtshilfe auf dem Gebiete der Steuern vom Einkommen und vom Vermögen sowie der Gewerbesteuern und der Grundsteuern
 - [DBARUSÄndProt](laws/DBARUSÄndProt.md) Protokoll zur Änderung des Abkommens zwischen der Bundesrepublik Deutschland und der Russischen Föderation zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen vom 29. Mai 1996 und des Protokolls hierzu vom 29. Mai 1996
 - [DBARUSÄndProtG](laws/DBARUSÄndProtG.md) Gesetz zu dem Protokoll vom 15. Oktober 2007 zur Änderung des Abkommens zwischen der Bundesrepublik Deutschland und der Russischen Föderation zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen vom 29. Mai 1996 und des Protokolls hierzu vom 29. Mai 1996
+- [DBASGPNV](laws/DBASGPNV.md) Verordnung zur Umsetzung der Notifizierung über die Anwendung der Anrechnungsmethode bei bestimmten Einkünften nach dem deutsch-singapurischen Doppelbesteuerungsabkommen
 - [DBATaipehG](laws/DBATaipehG.md) Gesetz zum Abkommen vom 19. und 28. Dezember 2011 zwischen dem Deutschen Institut in Taipeh und der Taipeh Vertretung in der Bundesrepublik Deutschland zur Vermeidung der Doppelbesteuerung und zur Verhinderung der Steuerverkürzung hinsichtlich der Steuern vom Einkommen und vom Vermögen
 - [DBATURNV](laws/DBATURNV.md) Verordnung zur Umsetzung der Notifizierung zur Anwendung der Anrechnungsmethode bei bestimmten Einkünften nach dem deutsch-türkischen Doppelbesteuerungsabkommen
 - [DBAV](laws/DBAV.md) Verordnung zur Anpassung der Berechnung des Differenzbetrages nach dem Erdgas-Wärme-Preisbremsengesetz und dem Strompreisbremsegesetz für ausgewählte Kundengruppen
@@ -2498,7 +2499,6 @@
 - [GFlFleischV](laws/GFlFleischV.md) Verordnung über Vermarktungsnormen für Geflügelfleisch
 - [GflSalmoV](laws/GflSalmoV.md) Verordnung zur Bekämpfung von Salmonellen beim Haushuhn und bei Puten
 - [GFV](laws/GFV.md) Verordnung über die Durchführung der Graduiertenförderung
-- [GfwtDBwVDV](laws/GfwtDBwVDV.md) Verordnung über den Vorbereitungsdienst für den gehobenen feuerwehrtechnischen Dienst in der Bundeswehr
 - [GG](laws/GG.md) Grundgesetz für die Bundesrepublik Deutschland
 - [GGArt104aAbs4SLG](laws/GGArt104aAbs4SLG.md) Gesetz über Finanzhilfen des Bundes nach Artikel 104a Abs. 4 des Grundgesetzes an das Saarland
 - [GGArt115dGO](laws/GGArt115dGO.md) Geschäftsordnung für das Verfahren nach Artikel 115 d des Grundgesetzes
@@ -2687,8 +2687,9 @@
 - [GSIAusbV](laws/GSIAusbV.md) Verordnung über die Berufsausbildung zum Elektroniker für Gebäudesystemintegration und zur Elektronikerin für Gebäudesystemintegration*
 - [GStDVDV](laws/GStDVDV.md) Verordnung über den Vorbereitungsdienst für den gehobenen Steuerdienst des Bundes
 - [GtDBahnVDV](laws/GtDBahnVDV.md) Verordnung über den Vorbereitungsdienst für den gehobenen technischen Dienst – Fachrichtung Bahnwesen –
-- [GtDBWVAPrV](laws/GtDBWVAPrV.md) Verordnung über die Ausbildung und Prüfung für den gehobenen technischen Dienst in der Bundeswehrverwaltung – Fachrichtung Wehrtechnik –
-- [GtDFmEloAufklVDV](laws/GtDFmEloAufklVDV.md) Verordnung über den Vorbereitungsdienst für den gehobenen technischen Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes
+- [GtDBwBrandschutzVDV](laws/GtDBwBrandschutzVDV.md) Verordnung über den Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst in der Bundeswehr im Verwendungsbereich Brandschutz
+- [GtDBwVWehrtechnikVDV](laws/GtDBwVWehrtechnikVDV.md) Verordnung über den Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst in der Bundeswehrverwaltung im Verwendungsbereich Wehrtechnik
+- [GtDFmEloAufklVDV](laws/GtDFmEloAufklVDV.md) Verordnung über den Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst des Bundes im Verwendungsbereich Fernmelde- und Elektronische Aufklärung
 - [GtDITZBundVDV](laws/GtDITZBundVDV.md) Verordnung über den Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst des Bundes im Informationstechnikzentrum Bund*
 - [GtDWSVVDV](laws/GtDWSVVDV.md) Verordnung über den Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst in der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
 - [GTNSitzAbk](laws/GTNSitzAbk.md) Abkommen zwischen der Bundesrepublik Deutschland und dem Globalen Treuhandfonds für Nutzpflanzenvielfalt über den Sitz des Globalen Treuhandfonds für Nutzpflanzenvielfalt
@@ -2835,7 +2836,7 @@
 - [HSeeZG](laws/HSeeZG.md) Gesetz über die internationale Zusammenarbeit zur Durchführung von Sanktionsrecht der Vereinten Nationen und über die internationale strafrechtliche Zusammenarbeit auf Hoher See
 - [HStatG](laws/HStatG.md) Gesetz über die Statistik für das Hochschulwesen sowie für die Berufsakademien
 - [HStruktG](laws/HStruktG.md) Gesetz zur Verbesserung der Haushaltsstruktur
-- [HtDBWVAPrV](laws/HtDBWVAPrV.md) Verordnung über die Ausbildung und Prüfung für den höheren technischen Dienst in der Bundeswehrverwaltung – Fachrichtung Wehrtechnik –
+- [HtDBwVWehrtechnikVDV](laws/HtDBwVWehrtechnikVDV.md) Verordnung über den Vorbereitungsdienst für den höheren technischen Verwaltungsdienst in der Bundeswehrverwaltung im Verwendungsbereich Wehrtechnik
 - [HufBeschl-AnerkennV](laws/HufBeschl-AnerkennV.md) Verordnung über die Gleichstellung von außerhalb des Anwendungsbereichs des Hufbeschlaggesetzes oder im Ausland erworbenen Prüfungszeugnissen mit den Prüfungszeugnissen nach der Hufbeschlagverordnung und deren Berücksichtigung bei der staatlichen Anerkennung*)
 - [HufBeschlG](laws/HufBeschlG.md) Gesetz über den Beschlag von Hufen und Klauen
 - [HufBeschlV](laws/HufBeschlV.md) Verordnung über den Beschlag von Hufen und Klauen
@@ -3279,6 +3280,7 @@
 - [KOVVtrESPG](laws/KOVVtrESPG.md) Gesetz zu dem Vertrag vom 29. Mai 1962 zwischen der Bundesrepublik Deutschland und dem Spanischen Staat über Kriegsopferversorgung und zu dem Notenwechsel vom 16. Mai 1963
 - [KOVVtrZVtr AUT](laws/KOVVtrZVtr_AUT.md) Zusatzvertrag zur Durchführung und Ergänzung des Vertrages vom 7. Mai 1963 zwischen der Bundesrepublik Deutschland und der Republik Österreich über Kriegsopferversorgung und Beschäftigung Schwerbeschädigter
 - [KOVZusVtrAUTG](laws/KOVZusVtrAUTG.md) Gesetz zu dem Zusatzvertrag vom 7. Februar 1969 zur Durchführung und Ergänzung des Vertrags vom 7. Mai 1963 zwischen der Bundesrepublik Deutschland und der Republik Österreich über Kriegsopferversorgung und Beschäftigung Schwerbeschädigter
+- [KPAnG](laws/KPAnG.md) Gesetz zur Anpassung von Kraftstoffpreisen
 - [KPBV](laws/KPBV.md) Verordnung über das Verfahren zur Zusammenarbeit der Bundesoberbehörden und der Ethik-Kommissionen bei der Bewertung von Anträgen auf Genehmigung von klinischen Prüfungen mit Arzneimitteln*)
 - [KPrüfTechnAusbV](laws/KPrüfTechnAusbV.md) Verordnung über die Berufsausbildung zum Prüftechnologen Keramik und zur Prüftechnologin Keramik*
 - [KrAbfWUTechAusbV](laws/KrAbfWUTechAusbV.md) Verordnung über die Berufsausbildung zum Umwelttechnologen für Kreislauf- und Abfallwirtschaft und zur Umwelttechnologin für Kreislauf- und Abfallwirtschaft *
@@ -3313,6 +3315,7 @@
 - [KrimBekAbk USA](laws/KrimBekAbk_USA.md) Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Vereinigten Staaten von Amerika über die Vertiefung der Zusammenarbeit bei der Verhinderung und Bekämpfung schwerwiegender Kriminalität
 - [KrimBekAbkUSAAG](laws/KrimBekAbkUSAAG.md) Gesetz zur Ausführung des Abkommens zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Vereinigten Staaten von Amerika vom 1. Oktober 2008 über die Vertiefung der Zusammenarbeit bei der Verhinderung und Bekämpfung schwerwiegender Kriminalität
 - [KrimLV](laws/KrimLV.md) Verordnung über die Laufbahnen im kriminalpolizeilichen Vollzugsdienst des Bundes
+- [KRITISDachG](laws/KRITISDachG.md) Dachgesetz zur Stärkung der physischen Resilienz kritischer Anlagen
 - [KrProblAbk HND](laws/KrProblAbk_HND.md) Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Republik Honduras über die Regelung gewisser, durch den 2. Weltkrieg verursachter Probleme
 - [KrW/AbfMeistPrV](laws/KrW_AbfMeistPrV.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Meister/Geprüfte Meisterin für Kreislauf- und Abfallwirtschaft und Städtereinigung
 - [KrWaffGenV](laws/KrWaffGenV.md) Verordnung über Allgemeine Genehmigungen nach dem Gesetz über die Kontrolle von Kriegswaffen
@@ -3834,8 +3837,8 @@
 - [MsV](laws/MsV.md) Verordnung über den Inhalt und das Verfahren zur Erstellung und zur Anpassung von Mietspiegeln sowie zur Konkretisierung der Grundsätze für qualifizierte Mietspiegel
 - [MTAPrV](laws/MTAPrV.md) Ausbildungs- und Prüfungsverordnung für Medizinische Technologinnen und Medizinische Technologen 1
 - [MTBG](laws/MTBG.md) Gesetz über die Berufe in der medizinischen Technologie
-- [MtDBwVVDV](laws/MtDBwVVDV.md) Verordnung über den Vorbereitungsdienst für den mittleren technischen Dienst in der Bundeswehrverwaltung – Fachrichtung Wehrtechnik –
-- [MtDFmEloAufklVDV](laws/MtDFmEloAufklVDV.md) Verordnung über den Vorbereitungsdienst für den mittleren technischen Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes
+- [MtDBwVWehrtechnikVDV](laws/MtDBwVWehrtechnikVDV.md) Verordnung über den Vorbereitungsdienst für den mittleren technischen Verwaltungsdienst in der Bundeswehrverwaltung im Verwendungsbereich Wehrtechnik
+- [MtDFmEloAufklVDV](laws/MtDFmEloAufklVDV.md) Verordnung über den Vorbereitungsdienst für den mittleren technischen Verwaltungsdienst des Bundes im Verwendungsbereich Fernmelde- und Elektronische Aufklärung
 - [MTSKraftV](laws/MTSKraftV.md) Verordnung zur Markttransparenzstelle für Kraftstoffe
 - [MüG](laws/MüG.md) Gesetz zur Marktüberwachung und zur Sicherstellung der Konformität von Produkten
 - [MühGetreiWiTechAusbV](laws/MühGetreiWiTechAusbV.md) Verordnung über die Berufsausbildung zum Verfahrenstechnologen Mühlen- und Getreidewirtschaft und zur Verfahrenstechnologin Mühlen- und Getreidewirtschaft*
@@ -4268,7 +4271,6 @@
 - [NordSFischZProkBek](laws/NordSFischZProkBek.md) Bekanntmachung der Proklamation der Bundesrepublik Deutschland über die Errichtung einer Fischereizone der Bundesrepublik Deutschland in der Nordsee
 - [NotAktVV](laws/NotAktVV.md) Verordnung über die Führung notarieller Akten und Verzeichnisse
 - [NotFV](laws/NotFV.md) Verordnung über die notarielle Fachprüfung
-- [Notifizierungsverordnung DBA Singapur](laws/Notifizierungsverordnung_DBA_Singapur.md) Verordnung zur Umsetzung der Notifizierung über die Anwendung der Anrechnungsmethode bei bestimmten Einkünften nach dem deutsch-singapurischen Doppelbesteuerungsabkommen
 - [NotrufV](laws/NotrufV.md) Verordnung über Notrufverbindungen
 - [NotSan-APrV](laws/NotSan-APrV.md) Ausbildungs- und Prüfungsverordnung für Notfallsanitäterinnen und Notfallsanitäter
 - [NotSanG](laws/NotSanG.md) Gesetz über den Beruf der Notfallsanitäterin und des Notfallsanitäters*
@@ -4497,9 +4499,10 @@
 - [PfändfreiGrBek 2019](laws/PfändfreiGrBek_2019.md) Bekanntmachung zu den §§ 850c und 850f der Zivilprozessordnung
 - [PfändfreiGrBek 2021](laws/PfändfreiGrBek_2021.md) Bekanntmachung zu den Pfändungsfreigrenzen 2021 nach § 850c der Zivilprozessordnung
 - [PfändfreiGrBek 2022](laws/PfändfreiGrBek_2022.md) Bekanntmachung zu den Pfändungsfreigrenzen 2022 nach § 850c der Zivilprozessordnung
-- [Pfändungsfreigrenzenbekanntmachung 2023](laws/Pfändungsfreigrenzenbekanntmachung_2023.md) Bekanntmachung zu den Pfändungsfreigrenzen 2023 nach § 850c der Zivilprozessordnung
-- [Pfändungsfreigrenzenbekanntmachung 2024](laws/Pfändungsfreigrenzenbekanntmachung_2024.md) Bekanntmachung zu den Pfändungsfreigrenzen 2024 nach § 850c der Zivilprozessordnung
-- [Pfändungsfreigrenzenbekanntmachung 2025](laws/Pfändungsfreigrenzenbekanntmachung_2025.md) Bekanntmachung zu den Pfändungsfreigrenzen 2025 nach § 850c der Zivilprozessordnung
+- [PfändfreiGrBek 2023](laws/PfändfreiGrBek_2023.md) Bekanntmachung zu den Pfändungsfreigrenzen 2023 nach § 850c der Zivilprozessordnung
+- [PfändfreiGrBek 2024](laws/PfändfreiGrBek_2024.md) Bekanntmachung zu den Pfändungsfreigrenzen 2024 nach § 850c der Zivilprozessordnung
+- [PfändfreiGrBek 2025](laws/PfändfreiGrBek_2025.md) Bekanntmachung zu den Pfändungsfreigrenzen 2025 nach § 850c der Zivilprozessordnung
+- [PfändfreiGrBek 2026](laws/PfändfreiGrBek_2026.md) Bekanntmachung zu den Pfändungsfreigrenzen 2026 nach § 850c der Zivilprozessordnung
 - [PfandBarwertV](laws/PfandBarwertV.md) Verordnung über die Sicherstellung der jederzeitigen Deckung von Hypothekenpfandbriefen, Öffentlichen Pfandbriefen, Schiffspfandbriefen und Flugzeugpfandbriefen nach dem Barwert und dessen Berechnung bei Pfandbriefbanken
 - [PfandBG](laws/PfandBG.md) Pfandbriefgesetz
 - [PfandBrAUmwG](laws/PfandBrAUmwG.md) Gesetz über die Umwandlung der Deutschen Pfandbriefanstalt in eine Aktiengesellschaft
@@ -4508,7 +4511,7 @@
 - [PfandMeldeV](laws/PfandMeldeV.md) Verordnung über pfandbriefrechtliche Meldungen
 - [PFAV](laws/PFAV.md) Verordnung betreffend die Aufsicht über Pensionsfonds und über die Durchführung reiner Beitragszusagen in der betrieblichen Altersversorgung
 - [PferdewMeistPrV](laws/PferdewMeistPrV.md) Verordnung über die Meisterprüfung zum anerkannten Fortbildungsabschluss Pferdewirtschaftsmeister und Pferdewirtschaftsmeisterin
-- [PflAFinV](laws/PflAFinV.md) Verordnung über die Finanzierung der Ausbildungen nach dem Pflegeberufegesetz sowie zur Durchführung statistischer Erhebungen *)
+- [PflAFinV](laws/PflAFinV.md) Verordnung über die Finanzierung der Ausbildungen nach dem Pflegeberufegesetz und nach dem Pflegefachassistenzgesetz sowie zur Durchführung statistischer Erhebungen
 - [PflanzentechMeistPrV](laws/PflanzentechMeistPrV.md) Verordnung über die Meisterprüfung zum anerkannten Fortbildungsabschluss Pflanzentechnologiemeister und Pflanzentechnologiemeisterin
 - [PflanzTechnAusbStEignV](laws/PflanzTechnAusbStEignV.md) Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Pflanzentechnologen und zur Pflanzentechnologin
 - [PflanzTechnAusbV](laws/PflanzTechnAusbV.md) Verordnung über die Berufsausbildung zum Pflanzentechnologen und zur Pflanzentechnologin*
@@ -4744,7 +4747,6 @@
 - [RBEG](laws/RBEG.md) Gesetz zur Ermittlung der Regelbedarfe nach § 28 des Zwölften Buches Sozialgesetzbuch ab dem Jahr 2021
 - [RbGeldERAV](laws/RbGeldERAV.md) Verordnung zur Einführung des elektronischen Rechtsverkehrs und der elektronischen Aktenführung beim Bundesamt für Justiz im Anwendungsbereich des Rahmenbeschlusses 2005/214/JI des Rates vom 24. Februar 2005 über die Anwendung des Grundsatzes der gegenseitigen Anerkennung von Geldstrafen und Geldbußen 1
 - [RBK](laws/RBK.md) Richtlinien zur Erstellung des Reichsmarkabschlusses und der Umstellungsrechnung der Bausparkassen
-- [RBkG](laws/RBkG.md) Gesetz über die Deutsche Reichsbank
 - [RBkPräsErl](laws/RBkPräsErl.md) Erlaß über die Ermächtigung des Präsidenten der Deutschen Reichsbank zur Bestellung von ständigen Vertretern
 - [RBSFV 2026](laws/RBSFV_2026.md) Verordnung zur Bestimmung der für die Fortschreibung der Regelbedarfsstufen nach § 28a und für die Fortschreibung des Teilbetrags nach § 34 Absatz 3a Satz 1 des Zwölften Buches Sozialgesetzbuch maßgeblichen Prozentsätze sowie zur Ergänzung der Anlage zu §§ 28 und 34 des Zwölften Buches Sozialgesetzbuch für das Jahr 2026
 - [RDeckInfV](laws/RDeckInfV.md) Verordnung zum Schutz gegen übertragbare Geschlechtskrankheiten der Rinder
@@ -5270,7 +5272,6 @@
 - [SortSchG 1985](laws/SortSchG_1985.md) Sortenschutzgesetz
 - [SozhiDAV](laws/SozhiDAV.md) Verordnung zur Durchführung des § 118 Absatz 1, 1a und 2 des Zwölften Buches Sozialgesetzbuch
 - [SozhiEinOG](laws/SozhiEinOG.md) Gesetz zur Einordnung des Sozialhilferechts in das Sozialgesetzbuch
-- [Sozialversicherungs-Rechengrößenverordnung 2022](laws/Sozialversicherungs-Rechengrößenverordnung_2022.md) Verordnung über maßgebende Rechengrößen der Sozialversicherung für 2022
 - [SozKiGAbV](laws/SozKiGAbV.md) Verordnung zum Abruf von Kindergelddaten durch Sozialleistungsträger
 - [SozSichAbk ALB](laws/SozSichAbk_ALB.md) Abkommen zwischen der Bundesrepublik Deutschland und der Republik Albanien über Soziale Sicherheit
 - [SozSichAbk AUT 1995](laws/SozSichAbk_AUT_1995.md) Abkommen zwischen der Bundesrepublik Deutschland und der Republik Österreich über Soziale Sicherheit
@@ -5616,6 +5617,7 @@
 - [SVBezGrV 2019](laws/SVBezGrV_2019.md) Verordnung über maßgebende Rechengrößen der Sozialversicherung für 2019
 - [SVBezGrV 2020](laws/SVBezGrV_2020.md) Verordnung über maßgebende Rechengrößen der Sozialversicherung für 2020
 - [SVBezGrV 2021](laws/SVBezGrV_2021.md) Verordnung über maßgebende Rechengrößen der Sozialversicherung für 2021
+- [SVBezGrV 2022](laws/SVBezGrV_2022.md) Verordnung über maßgebende Rechengrößen der Sozialversicherung für 2022
 - [SVBezGrV 2023](laws/SVBezGrV_2023.md) Verordnung über maßgebende Rechengrößen der Sozialversicherung für 2023
 - [SVBezGrV 2024](laws/SVBezGrV_2024.md) Verordnung über maßgebende Rechengrößen der Sozialversicherung für 2024
 - [SVBezGrV 2025](laws/SVBezGrV_2025.md) Verordnung über maßgebende Rechengrößen der Sozialversicherung für 2025
@@ -5660,6 +5662,7 @@
 - [TAMG](laws/TAMG.md) Gesetz über den Verkehr mit Tierarzneimitteln und zur Durchführung unionsrechtlicher Vorschriften betreffend Tierarzneimittel 1
 - [TAMKatV](laws/TAMKatV.md) Verordnung über Einteilungskriterien für die Kategorien der Apothekenpflicht oder Freiverkäuflichkeit von Tierarzneimitteln und veterinärmedizintechnischen Produkten
 - [TAMWHV](laws/TAMWHV.md) Verordnung über die Anwendung der Guten Herstellungspraxis bei der Herstellung von Tierarzneimitteln und Wirkstoffen 1
+- [TankwartAusbBerAufhV](laws/TankwartAusbBerAufhV.md) Verordnung zur Aufhebung der Anerkennung des Ausbildungsberufes Tankwart
 - [TAppV](laws/TAppV.md) Verordnung zur Approbation von Tierärztinnen und Tierärzten
 - [TarifOAufhV](laws/TarifOAufhV.md) Verordnung über die Aufhebung von Tarifordnungen und Lohngestaltungsanordnungen
 - [TArztHAusbZustV](laws/TArztHAusbZustV.md) Verordnung über die Bestimmung der zuständigen Stelle sowie über die fachliche Eignung für die Berufsausbildung zum Tierarzthelfer/zur Tierarzthelferin
@@ -5843,7 +5846,6 @@
 - [ÜbPrV](laws/ÜbPrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Übersetzer und Geprüfte Übersetzerin
 - [ÜFischKKonvG](laws/ÜFischKKonvG.md) Gesetz über den Beitritt der Bundesrepublik Deutschland zur Konvention vom 5. April 1946 der Internationalen Überfischungskonferenz
 - [ÜlV - 2. BesVNG](laws/ÜlV_-_2._BesVNG.md) Verordnung zur Überleitung in die im Zweiten Gesetz zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und Ländern geregelten Ämter und über die künftig wegfallenden Ämter
-- [ÜNSchutzV](laws/ÜNSchutzV.md) Verordnung zum Schutz von Übertragungsnetzen*)
 - [UErgG](laws/UErgG.md) Gesetz über die Ergänzung von Vorschriften des Umstellungsrechts und über die Ausstattung der Berliner Altbanken mit Ausgleichsforderungen
 - [UErgG 2](laws/UErgG_2.md) Gesetz über die Ergänzung von Vorschriften des Umstellungsrechts
 - [UErgG 3](laws/UErgG_3.md) Drittes Umstellungsergänzungsgesetz
@@ -6855,6 +6857,7 @@
 - [6. AusbDienstLArbbV](laws/6._AusbDienstLArbbV.md) Sechste Verordnung über zwingende Arbeitsbedingungen für Aus- und Weiterbildungsdienstleistungen nach dem Zweiten oder Dritten Buch Sozialgesetzbuch
 - [6. BinSchStrOAbweichV](laws/6._BinSchStrOAbweichV.md) Sechste Verordnung zur vorübergehenden Abweichung von der Binnenschifffahrtsstraßen-Ordnung
 - [6. DV-BEG](laws/6._DV-BEG.md) Sechste Verordnung zur Durchführung des Bundesentschädigungsgesetzes
+- [6. ErdölFrV](laws/6._ErdölFrV.md) Sechste Verordnung über die Freigabe von Vorräten des Erdölbevorratungsverbandes
 - [6. PflegeArbbV](laws/6._PflegeArbbV.md) Sechste Verordnung über zwingende Arbeitsbedingungen für die Pflegebranche
 - [6. ProdSV](laws/6._ProdSV.md) Sechste Verordnung zum Produktsicherheitsgesetz 1
 - [6. RAG](laws/6._RAG.md) Sechstes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung

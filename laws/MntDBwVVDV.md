@@ -173,7 +173,7 @@ Der Vorbereitungsdienst dauert in der Regel 24 Monate.
 
 # § 4 – Bestandteile des Vorbereitungsdienstes
 
-(1) Der Vorbereitungsdienst besteht nach § 12 Satz 2 der Bundeslaufbahnverordnung aus einer fachtheoretischen und einer berufspraktischen Ausbildung.
+(1) Der Vorbereitungsdienst besteht nach § 15 Absatz 2 der Bundeslaufbahnverordnung aus einer fachtheoretischen und einer berufspraktischen Ausbildung.
 
 (2) Die fachtheoretische Ausbildung besteht aus den Ausbildungsabschnitten Einführungslehrgang und Abschlusslehrgang.
 
@@ -337,7 +337,7 @@ Erholungsurlaub soll nur während der praktischen Ausbildung gewährt werden.
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet die Einstellungsbehörde auf der Grundlage eines Auswahlverfahrens. In dem Auswahlverfahren wird festgestellt, ob die Bewerberinnen und Bewerber auf Grund ihrer Kenntnisse, Fähigkeiten und persönlichen Eigenschaften für den Vorbereitungsdienst geeignet und befähigt sind.
 
-(2) Wird die Zahl der am Auswahlverfahren Teilnehmenden nach § 10a Absatz 3 der Bundeslaufbahnverordnung beschränkt, so werden schwerbehinderte Menschen und gleichgestellte behinderte Menschen sowie frühere Soldatinnen und Soldaten auf Zeit mit Eingliederungs- oder Zulassungsschein zusätzlich und ohne Beschränkung zum Auswahlverfahren zugelassen, wenn sie die in der Ausschreibung genannten Voraussetzungen erfüllen.
+(2) Wird die Zahl der am Auswahlverfahren Teilnehmenden nach § 11 Absatz 4 der Bundeslaufbahnverordnung beschränkt, so werden schwerbehinderte Menschen und gleichgestellte behinderte Menschen sowie frühere Soldatinnen und Soldaten auf Zeit mit Eingliederungs- oder Zulassungsschein zusätzlich und ohne Beschränkung zum Auswahlverfahren zugelassen, wenn sie die in der Ausschreibung genannten Voraussetzungen erfüllen.
 
 (3) Wer nicht zum Auswahlverfahren zugelassen wird, erhält eine Ablehnung. Elektronisch eingereichte Bewerbungsunterlagen werden spätestens ein Jahr nach der Ablehnung endgültig gelöscht. Nicht elektronisch eingereichte Bewerbungsunterlagen sowie Ausdrucke elektronisch eingereichter Bewerbungsunterlagen werden spätestens nach Ablauf dieser Frist vernichtet. Originaldokumente werden auf Wunsch zurückgesandt.
 
@@ -395,7 +395,7 @@ Erholungsurlaub soll nur während der praktischen Ausbildung gewährt werden.
 
 # § 13 – Bestandteile des Auswahlverfahrens
 
-Das Auswahlverfahren besteht nach § 10a Absatz 4 Satz 1 der Bundeslaufbahnverordnung aus einem schriftlichen und einem mündlichen Teil.
+Das Auswahlverfahren besteht nach § 12 Absatz 1 Satz 1 der Bundeslaufbahnverordnung aus einem schriftlichen und einem mündlichen Teil.
 
 # § 14 – Schriftlicher Teil des Auswahlverfahrens
 
@@ -885,7 +885,7 @@ Die Zwischenprüfung hat bestanden,
 
 # § 58 – Wiederholung der Zwischenprüfung
 
-(1) Wird die Zwischenprüfung wiederholt (§ 17 Absatz 3 Nummer 2 und Absatz 5 Satz 1 Nummer 2 der Bundeslaufbahnverordnung), so ist sie vollständig zu wiederholen.
+(1) Wird die Zwischenprüfung wiederholt (§ 20 Absatz 3 Nummer 2 und Absatz 5 Satz 1 Nummer 2 der Bundeslaufbahnverordnung), so ist sie vollständig zu wiederholen.
 
 (2) Die Wiederholung findet frühestens zwei Monate nach Abschluss des Einführungslehrgangs statt. Der Zeitpunkt der Wiederholungsprüfung wird durch das Bildungszentrum der Bundeswehr festgelegt.
 
@@ -1173,7 +1173,7 @@ Die mündliche Prüfung hat bestanden, bei wem die Rangpunktzahl der mündlichen
 
 # § 86 – Wiederholung der Laufbahnprüfung
 
-(1) Wird die Laufbahnprüfung wiederholt (§ 17 Absatz 3 Nummer 1 und Absatz 5 Satz 1 Nummer 1 der Bundeslaufbahnverordnung), so ist sie vollständig zu wiederholen.
+(1) Wird die Laufbahnprüfung wiederholt (§ 20 Absatz 3 Nummer 1 und Absatz 5 Satz 1 Nummer 1 der Bundeslaufbahnverordnung), so ist sie vollständig zu wiederholen.
 
 (2) Das Prüfungsamt bestimmt auf Vorschlag der Prüfungskommission,
 

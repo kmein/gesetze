@@ -43,18 +43,18 @@ Auf Grund des § 13 Absatz 1 Satz 1 und 3 sowie des § 22 Satz 1 und 3 des Kredi
 
 # § 1 – Ausnahmen von der Anwendung der Obergrenze für Großkredite nach Artikel 395 Absatz 1 der Verordnung (EU) Nr. 575/2013
 
-Die folgenden Risikopositionen sind in der jeweils genannten Höhe nach Berücksichtigung der Wirkung einer Kreditrisikominderung nach den Artikeln 399, 401 bis 403 der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 648/2012 (ABl. L 176 vom 27.6.2013, S. 1; L 208 vom 2.8.2013, S. 68; L 321 vom 30.11.2013, S. 6; L 193 vom 21.7.2015, S. 166; L 20 vom 25.1.2017, S. 3; L 13 vom 17.1.2020, S. 58; L 335 vom 13.10.2020, S. 20; L 405 vom 2.12.2020, S. 79), die zuletzt durch die Verordnung (EU) 2021/558 (ABl. L 116 vom 6.4.2021, S. 25) geändert worden ist, bei der Berechnung der Auslastung der Obergrenze für Großkredite nach Artikel 395 Absatz 1 der Verordnung (EU) Nr. 575/2013 ausgenommen:
+Die folgenden Risikopositionen sind in der jeweils genannten Höhe nach Berücksichtigung der Wirkung einer Kreditrisikominderung nach den Artikeln 399, 401 bis 403 der Verordnung (EU) Nr. 575/2013 in der Fassung vom 17. Juni 2025 bei der Berechnung der Auslastung der Obergrenze für Großkredite nach Artikel 395 Absatz 1 der Verordnung (EU) Nr. 575/2013 in der Fassung vom 17. Juni 2025 ausgenommen:
 
-1. gedeckte Schuldverschreibungen im Sinne des Artikels 129 Absatz 1, 3 und 6 der Verordnung (EU) Nr. 575/2013 in voller Höhe;
+1. gedeckte Schuldverschreibungen im Sinne des Artikels 129 der Verordnung (EU) Nr. 575/2013 in der Fassung vom 17. Juni 2025 in voller Höhe;
 
 2. in Höhe von 80 Prozent ihrer Bemessungsgrundlage:
 
-a) Bilanzaktiva in Form von Forderungen an regionale oder lokale Gebietskörperschaften der Mitgliedstaaten, denen nach Artikel 115 in Verbindung mit den Artikeln 119 bis 121 der Verordnung (EU) Nr. 575/2013 ein Risikogewicht von 20 Prozent zugewiesen würde, und andere Risikopositionen gegenüber regionalen oder lokalen Gebietskörperschaften dieser Mitgliedstaaten;
+a) Bilanzaktiva in Form von Forderungen an regionale oder lokale Gebietskörperschaften der Mitgliedstaaten, denen nach Artikel 115 in Verbindung mit den Artikeln 119 bis 121 der Verordnung (EU) Nr. 575/2013 in der Fassung vom 17. Juni 2025 ein Risikogewicht von 20 Prozent zugewiesen würde, und andere Risikopositionen gegenüber regionalen oder lokalen Gebietskörperschaften dieser Mitgliedstaaten;
 
 b) Risikopositionen gegenüber Kreditnehmern, sofern die Risikopositionen
 
 aa)  
-durch eine regionale oder lokale Gebietskörperschaft der Mitgliedstaaten, denen nach Artikel 115 in Verbindung mit den Artikeln 119 bis 121 der Verordnung (EU) Nr. 575/2013 ein Risikogewicht von 20 Prozent zugewiesen würde, gewährleistet werden, und
+durch eine regionale oder lokale Gebietskörperschaft der Mitgliedstaaten, denen nach Artikel 115 in Verbindung mit den Artikeln 119 bis 121 der Verordnung (EU) Nr. 575/2013 in der Fassung vom 17. Juni 2025 ein Risikogewicht von 20 Prozent zugewiesen würde, gewährleistet werden und
 
 bb)  
 unbedingt rückzahlbar und im Fall der Insolvenz oder der Liquidation des Kreditnehmers oder des Garanten nach Doppelbuchstabe aa nicht nachrangig zu bedienen sind;
@@ -71,31 +71,29 @@ c) nicht auf eine wichtige Handelswährung lauten;
 
 4. Bilanzaktiva in Form von Forderungen an eine Zentralnotenbank in voller Höhe, sofern diese Bilanzaktiva auf die Währung dieser Zentralnotenbank lauten und aufgrund des Mindestreservesolls bei dieser Zentralnotenbank gehalten werden;
 
-5. Bilanzaktiva in Form von Forderungen an einen Zentralstaat, der von einer benannten externen Ratingagentur (ECAI) im Sinne des Artikels 4 Absatz 1 Nummer 99 der Verordnung (EU) Nr. 575/2013 mindestens mit einem Ratingurteil, das der Rating-Klasse 3 gemäß Artikel 114 Absatz 2 dieser EU-Verordnung zuzuordnen ist, bewertet wurde, in voller Höhe, sofern diese Forderungen
+5. Bilanzaktiva in Form von Forderungen an einen Zentralstaat, der von einer benannten externen Ratingagentur (ECAI) im Sinne des Artikels 4 Absatz 1 Nummer 99 der Verordnung (EU) Nr. 575/2013 in der Fassung vom 17. Juni 2025 mindestens mit einem Ratingurteil, das der Rating-Klasse 3 gemäß Artikel 114 Absatz 2 dieser EU-Verordnung zuzuordnen ist, bewertet wurde, in voller Höhe, sofern diese Forderungen
 
 a) aufgrund von Staatsschuldtiteln bestehen, die zur Erfüllung der gesetzlichen Liquiditätsanforderungen gehalten werden, und
 
 b) auf die Währung dieses Zentralstaats lauten und in dieser Währung refinanziert sind;
 
-6. in Höhe von 50 Prozent ihrer Bemessungsgrundlage die als außerbilanzielle Geschäfte mit mittlerem/niedrigem Kreditrisiko einzustufenden
+6. in Höhe von 50 Prozent ihrer Bemessungsgrundlage die gemäß Anhang I der Verordnung (EU) Nr. 575/2013 in der Fassung vom 17. Juni 2025
 
-a) Dokumentenakkreditive im Sinne von Gliederungspunkt (3) a) i) des Anhangs I der Verordnung (EU) Nr. 575/2013 und
+a) als außerbilanzielle Posten der Unterklasse 4 eingestuften Dokumentenakkreditive und
 
-b) nicht in Anspruch genommenen Kreditfazilitäten im Sinne von Gliederungspunkt (3) b) i) des Anhangs I der Verordnung (EU) Nr. 575/2013;
+b) als außerbilanzielle Posten der Unterklasse 3 eingestuften nicht in Anspruch genommenen Kreditfazilitäten, die eine Ursprungslaufzeit von höchstens einem Jahr haben;
 
-7. die als außerbilanzielle Geschäfte mit mittlerem/niedrigem Kreditrisiko einzustufenden außerbilanziellen Posten für die Handelsfinanzierung im Sinne von Gliederungspunkt (3) a) des Anhangs I der Verordnung (EU) Nr. 575/2013 in voller Höhe, sofern
+7. die in Anhang I der Verordnung (EU) Nr. 575/2013 in der Fassung vom 17. Juni 2025 als außerbilanzielle Posten für die Handelsfinanzierung in der Unterklasse 4 eingestuften Geschäfte in voller Höhe, sofern
 
 a) diese Geschäfte Risikopositionen eines Instituts gegenüber seinem Mutterunternehmen, gegenüber anderen Tochterunternehmen seines Mutterunternehmens oder gegenüber eigenen Tochterunternehmen sind und
 
-b) die Gegenpartei in die Beaufsichtigung auf konsolidierter Basis einbezogen ist, der das Institut nach der Verordnung (EU) Nr. 575/2013, nach der Richtlinie 2002/87/EG des Europäischen Parlaments und des Rates vom 16. Dezember 2002 über die zusätzliche Beaufsichtigung der Kreditinstitute, Versicherungsunternehmen und Wertpapierfirmen eines Finanzkonglomerats und zur Änderung der Richtlinien 73/239/EWG, 79/267/EWG,
-
-92/49/EWG, 92/96/EWG, 93/6/EWG und 93/22/EWG des Rates und der Richtlinien 98/78/EG und 2000/12/EG des Europäischen Parlaments und des Rates (ABl. L 35 vom 11.2.2003, S. 1) oder nach gleichwertigen Normen eines Drittlandes unterliegt;
+b) die Gegenpartei in die Beaufsichtigung auf konsolidierter Basis einbezogen ist, der das Institut nach der Verordnung (EU) Nr. 575/2013 in der Fassung vom 17. Juni 2025, nach der Richtlinie 2002/87/EG in der Fassung vom 13. Dezember 2023 oder nach gleichwertigen Normen eines Drittlandes unterliegt;
 
 8. rechtlich vorgeschriebene Garantien, die das Institut gegenüber einer Pfandbriefbank in Bezug auf einen Darlehensnehmer zu stellen hat, wenn das Institut diesem Darlehensnehmer einen grundpfandrechtlich besicherten Kredit, der über die Emission von Pfandbriefen refinanziert wird, vor der Eintragung der Hypothek oder Grundschuld im Grundbuch ausgezahlt hat, in voller Höhe, sofern die Garantie von der Pfandbriefbank nicht dazu verwendet wird, bei der Berechnung der risikogewichteten Aktiva das Risiko zu verringern;
 
-9. Bilanzaktiva in Form von Forderungen an anerkannte Börsen im Sinne des Artikels 4 Absatz 1 Nummer 72 der Verordnung (EU) Nr. 575/2013 und sonstige Risikopositionen gegenüber diesen anerkannten Börsen in voller Höhe und
+9. Bilanzaktiva in Form von Forderungen an anerkannte Börsen im Sinne des Artikels 4 Absatz 1 Nummer 72 der Verordnung (EU) Nr. 575/2013 in der Fassung vom 17. Juni 2025 und sonstige Risikopositionen gegenüber diesen anerkannten Börsen in voller Höhe und
 
-10. Bilanzaktiva in Form von Forderungen eines Förderinstituts des Bundes oder eines Landes im Sinne des § 5 Absatz 1 Nummer 2 des Körperschaftssteuergesetzes an Kreditinstitute und sonstige Risikopositionen dieser Förderinstitute gegenüber Kreditinstituten in voller Höhe, sofern die betreffenden Forderungen und Positionen aufgrund von Darlehen bestehen, die dem Förderauftrag entsprechen und über diese Kreditinstitute an die Begünstigten weitergereicht werden.
+10. Bilanzaktiva in Form von Forderungen eines Förderinstituts des Bundes oder eines Landes im Sinne des § 5 Absatz 1 Nummer 2 des Körperschaftsteuergesetzes an Kreditinstitute und sonstige Risikopositionen dieser Förderinstitute gegenüber Kreditinstituten in voller Höhe, sofern die betreffenden Forderungen und Positionen aufgrund von Darlehen bestehen, die dem Förderauftrag entsprechen und über diese Kreditinstitute an die Begünstigten weitergereicht werden.
 
 # § 2 – Weitere Ausnahmen von der Anwendung der Obergrenze für Großkredite nach Artikel 395 Absatz 1 der Verordnung (EU) Nr. 575/2013 bei gruppen- und verbundangehörigen Instituten
 

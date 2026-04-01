@@ -148,6 +148,8 @@ Ferner ist eine Einschätzung über die künftige Entwicklung der in den verwend
 
 (3) Wird die Beteiligung am Überschuss bei Pensionskassen nach § 1 Absatz 1 Nummer 2 vom obersten Organ beschlossen, hat der Verantwortliche Aktuar den Angemessenheitsbericht abweichend von Absatz 1 vor der entsprechenden Sitzung des obersten Organs dem Vorstand vorzulegen; der Vorstand hat der Aufsichtsbehörde den Angemessenheitsbericht unverzüglich nach der Beschlussfassung über den Vorschlag für die Beteiligung am Überschuss vorzulegen.
 
+(+++ § 6 Abs. 2: Zur Nichtgeltung vgl. § 1 Abs. 4 +++)
+
 # § 7 – Übergangsvorschrift
 
 (1) Die Vorschriften dieser Verordnung sind erstmals für das Geschäftsjahr anzuwenden, das nach dem 31. Dezember 2015 beginnt.

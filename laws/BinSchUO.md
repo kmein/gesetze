@@ -313,8 +313,6 @@ ist das örtlich zuständige Wasserstraßen- und Schifffahrtsamt.
 
 (4) Zuständige Behörde für die Zulassung und Baumusterprüfung von Kompassen und Steuerkurstransmittern sowie für die Überprüfung der Aufstellung von Magnetkompassen im Sinne des Anhangs III § 6.02 und für die Anerkennung von Regulierern für solche Kompasse und Steuerkurstransmitter ist das Bundesamt für Seeschifffahrt und Hydrographie in Hamburg.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 14.10.2025 I Nr. 242 +++)
-
 # § 4 – Untersuchungskommissionen
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt beruft die Mitglieder der Untersuchungskommissionen. Jede Untersuchungskommission besteht aus einem Vorsitzenden und aus Sachverständigen. Als Sachverständige sind in jede Untersuchungskommission mindestens zu berufen
@@ -417,8 +415,7 @@ entsprechen.
 
 (11) Motoren, die in Fähren eingebaut werden oder auf diesen anderweitig verwendet werden, müssen über eine Typgenehmigung im Sinne des Artikels 6 Absatz 2 der Verordnung (EU) 2016/1628 verfügen.
 
-(+++ § 6: Zur Anwendung vgl. § 8.01 BinSchUO2018Anh II +++)  
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 14.10.2025 I Nr. 242 +++)
+(+++ § 6: Zur Anwendung vgl. § 8.01 BinSchUO2018Anh II +++)
 
 # § 7 – Fahrtauglichkeitsbescheinigung
 
@@ -1281,8 +1278,6 @@ f) je eine Kopie der Unterlagen nach Artikel 30.03 Nummer 3 ES-TRIN,
 12. (weggefallen)
 
 (6) (weggefallen)
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V. v. 14.10.2015 I Nr. 242 +++)
 
 # § 36 – Ordnungswidrigkeiten
 

@@ -79,7 +79,7 @@ Wer in den gehobenen Kriminaldienst für eine Verwendung im Bereich Cyberkrimina
 
 # § 7 – Höherer Kriminaldienst
 
-Der Vorbereitungsdienst für den höheren Kriminaldienst besteht aus einer fachpraktischen Ausbildungsphase und dem Masterstudiengang „Öffentliche Verwaltung – Polizeimanagement“ (Public Administration – Police Management) an der Deutschen Hochschule der Polizei. § 14 der Bundeslaufbahnverordnung bleibt im Übrigen unberührt.
+Der Vorbereitungsdienst für den höheren Kriminaldienst besteht aus einer fachpraktischen Ausbildungsphase und dem Masterstudiengang „Öffentliche Verwaltung – Polizeimanagement“ (Public Administration – Police Management) an der Deutschen Hochschule der Polizei. § 17 der Bundeslaufbahnverordnung bleibt im Übrigen unberührt.
 
 # § 7a – Zugang zum höheren Kriminaldienst für Beamtinnen und Beamte des gehobenen Kriminaldienstes mit abgeschlossenem Hochschulstudium
 
@@ -91,7 +91,7 @@ Der Vorbereitungsdienst für den höheren Kriminaldienst besteht aus einer fachp
 
 # § 8 – Andere Bewerberinnen und Bewerber
 
-Andere Bewerberinnen und Bewerber sollen neun Monate ihrer Probezeit bei Polizeidienststellen außerhalb des Bundeskriminalamtes leisten. Die §§ 22 und 28 bis 31 der Bundeslaufbahnverordnung bleiben unberührt.
+Andere Bewerberinnen und Bewerber sollen neun Monate ihrer Probezeit bei Polizeidienststellen außerhalb des Bundeskriminalamtes leisten. Die §§ 26 und 37 bis 39 der Bundeslaufbahnverordnung bleiben unberührt.
 
 # § 9 – Sonderregelungen
 
@@ -107,13 +107,13 @@ Zur Laufbahn des gehobenen Kriminaldienstes können bei Vorliegen eines besonder
 
 3. erfolgreich an einem Auswahlverfahren teilgenommen haben.
 
-§ 19 Absatz 4 der Bundeslaufbahnverordnung bleibt unberührt.
+§ 21 Absatz 3 der Bundeslaufbahnverordnung bleibt unberührt.
 
 (2) Das Auswahlverfahren wird nach den Richtlinien des Bundeskriminalamtes beim Bundeskriminalamt von einer Auswahlkommission durchgeführt.
 
 (3) Die nach Absatz 1 zugelassenen Bewerberinnen und Bewerber nehmen am Vorbereitungsdienst nach § 7 teil.
 
-(4) Die §§ 40 und 41 der Bundeslaufbahnverordnung bleiben unberührt.
+(4) Die §§ 48 und 49 der Bundeslaufbahnverordnung bleiben unberührt.
 
 # § 11 – Laufbahnwechsel
 
@@ -125,7 +125,7 @@ Zur Laufbahn des gehobenen Kriminaldienstes können bei Vorliegen eines besonder
 
 (4) Beamtinnen oder Beamte des Bundes, die keine Befähigung für eine der in den Absätzen 2 und 3 genannten Laufbahnen besitzen, können die Befähigung durch eine Qualifizierung erwerben, die ein Jahr und sechs Monate nicht unterschreiten darf. Sie kann für Beamtinnen und Beamte der Sicherheitsbehörden des Bundes verkürzt werden. Als Qualifizierung kann auch die kriminalpolizeifachliche Qualifizierung absolviert werden, wenn das Bundeskriminalamt dies so festgelegt hat.
 
-(5) Während der Qualifizierung nach Absatz 4 müssen der Beamtin oder dem Beamten die für die Laufbahn erforderlichen Fach-, Methoden- und sozialen Kompetenzen vermittelt werden. Die Entscheidung über den erfolgreichen Abschluss der Qualifizierung trifft die Präsidentin oder der Präsident des Bundeskriminalamtes oder ihre oder seine Vertretung. § 3 dieser Verordnung sowie die §§ 7, 8, 20 bis 25 und 27 der Bundeslaufbahnverordnung sind entsprechend anzuwenden.
+(5) Während der Qualifizierung nach Absatz 4 müssen der Beamtin oder dem Beamten die für die Laufbahn erforderlichen Fach-, Methoden- und sozialen Kompetenzen vermittelt werden. Die Entscheidung über den erfolgreichen Abschluss der Qualifizierung trifft die Präsidentin oder der Präsident des Bundeskriminalamtes oder ihre oder seine Vertretung. § 3 dieser Verordnung sowie die §§ 7, 8, 24 bis 34 und 63 der Bundeslaufbahnverordnung sind entsprechend anzuwenden.
 
 # Anlage – (zu § 3 Absatz 2)
 

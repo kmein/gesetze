@@ -233,6 +233,7 @@ Ist die Notwendigkeit oder die Höhe einzelner Positionen bei der Ermittlung des
 
 (4) Die Bundesrepublik Deutschland kann auch vor Fälligkeit die Aufrechnung ihrer Forderung gegen die Übertragungsnetzbetreiber aus Absatz 1 Satz 2 gegen Forderungen der Übertragungsnetzbetreiber gegen die Bundesrepublik Deutschland aus § 7 Absatz 1 im laufenden Kalenderjahr erklären. Die Aufrechnung kann erklärt werden, sobald dem Bundesministerium für Wirtschaft und Energie die Mitteilung der Bundesnetzagentur nach Absatz 2 Satz 2 zugegangen ist und soweit darin die Forderung von der Bundesnetzagentur nicht beanstandet wurde. Die Aufrechnung durch die Übertragungsnetzbetreiber sowie die Aufrechnung weiterer gegenseitiger Forderungen aufgrund dieses Gesetzes ist nur zulässig, wenn und soweit sie in dem öffentlich-rechtlichen Vertrag nach § 9 Absatz 1 Satz 2 Nummer 1 nach dem Ablauf des 22. Dezember 2025 ausdrücklich vereinbart wird.
 
+(+++ § 6: Zur Anwendung vgl. § 66 Abs. 9 +++)  
 (+++ § 6 Abs. 3 Satz 2 und 3: Zur Anwendung vgl. § 8 Satz 3 +++)
 
 # § 7 – Abschlagszahlungen
@@ -244,6 +245,8 @@ Ist die Notwendigkeit oder die Höhe einzelner Positionen bei der Ermittlung des
 (3) Die Bundesrepublik Deutschland kann die kalendermonatliche Gewichtung und die Gesamthöhe der Abschlagszahlungen unterjährig unter Berücksichtigung der Entwicklung des Saldos des EEG-Kontos aus wesentlichen Gründen anpassen. Die Übertragungsnetzbetreiber können eine Anpassung der kalendermonatlichen Gewichtung und der Gesamthöhe der Abschlagszahlungen verlangen, wenn die Entwicklung des Saldos des EEG-Kontos dies erforderlich macht. Eine Anpassung nach Satz 2 kann insbesondere dann verlangt werden, wenn der Saldo des EEG-Kontos über einen längeren Zeitraum oder in nicht unerheblicher Höhe unterhalb der erforderlichen Liquidität liegt.
 
 (4) Für die Zwecke des Absatzes 3 übermitteln die Übertragungsnetzbetreiber dem Bundesministerium für Wirtschaft und Energie und der Bundesnetzagentur regelmäßig eine Simulation über die voraussichtliche Entwicklung des Saldos des EEG-Kontos bis zum Ende des laufenden Kalenderjahres.
+
+(+++ § 7 Abs. 2 Satz 4 u. 6: Zur Anwendung vgl. § 66 Abs. 8 +++)
 
 # § 8 – Ausgleich der Anschlussförderung der Güllekleinanlagen
 
@@ -260,6 +263,8 @@ Die Übertragungsnetzbetreiber haben gegen die Bundesrepublik Deutschland einen 
 Die Verträge bedürfen des Einvernehmens mit dem Bundesministerium der Finanzen.
 
 (2) Die Verträge nach Absatz 1 enthalten insbesondere nähere Bestimmungen zu der Verteilung der Mittel zwischen den Übertragungsnetzbetreibern. Der Vertrag nach Absatz 1 Satz 2 Nummer 1 enthält ferner insbesondere nähere Bestimmungen zu dem Ausgleichsanspruch nach § 6 Absatz 1 und seiner Erfüllung sowie zu den Abschlagszahlungen nach § 7.
+
+(+++ § 9 Abs. 1 Satz 2 Nr. 1: Zur Nichtanwendung vgl. § 66 Abs. 10 +++)
 
 # § 10 – Ermittlung von Umlagen
 
@@ -356,6 +361,8 @@ Einwände gegen Forderungen nach diesem Teil berechtigen zum Zahlungsaufschub od
 (2) Die sich aus den Jahresendabrechnungen nach Absatz 1 Nummer 1 bis 3 und 5 ergebenden Zahlungsansprüche müssen bis zum 15. September des Kalenderjahres ausgeglichen werden.
 
 (3) Für die Differenz zwischen den nach § 56 des Erneuerbare-Energien-Gesetzes von den Verteilernetzbetreibern an den jeweils vorgelagerten Übertragungsnetzbetreiber weitergegebenen Strommengen und den in der Endabrechnung nach § 50 Nummer 2 ausgewiesenen Strommengen sind zwischen den Verteilernetzbetreibern und dem jeweils vorgelagerten Übertragungsnetzbetreiber bis zum Ablauf des 15. September des auf die Einspeisung folgenden Kalenderjahres für jeden Energieträger Ausgleichszahlungen zu leisten. Die Höhe der Ausgleichszahlungen ist für jede der in Anlage 1 Nummer 4 zum Erneuerbare-Energien-Gesetz unterschiedenen Energieträgergruppen separat als Produkt aus der für den jeweiligen Energieträger oder die Energieträgergruppe ermittelten Differenz nach Satz 1 und aus dem für diesen Energieträger oder diese Energieträgergruppe ermittelten, energieträgerspezifischen Jahresmarktwert des jeweiligen Leistungsjahres nach Maßgabe der Anlage 1 Nummer 4 zum Erneuerbare-Energie-Gesetz zu ermitteln.
+
+(+++ § 19 Abs. 3 Satz 2: Zur Anwendung vgl. § 20 Abs. 1 Nr. 7 Satz 3 +++)
 
 # § 20 – Nachträgliche Korrekturen
 
@@ -543,7 +550,8 @@ b) mindestens 30 Prozent seines Stromverbrauchs durch ungeförderten Strom aus e
 
 c) Investitionen in Höhe von 50 Prozent des nach diesem Gesetz für das zweite dem Antragsjahr vorangegangene Jahr gewährten Begrenzungsbetrags für Maßnahmen zur erheblichen Dekarbonisierung des Produktionsprozesses in entsprechender Anwendung von Buchstabe a Doppelbuchstabe cc getätigt hat; soweit das Unternehmen einem Sektor angehört, für den die Delegierte Verordnung (EU) 2019/331 in der Fassung vom 30. Januar 2024 Produkt-Benchmarks festlegt, müssen die Maßnahmen die Treibhausgasemissionen der von diesem Unternehmen hergestellten Produkte auf einen Wert verringern, der deutlich unterhalb des für diese Produkte jeweils festgelegten Produkt-Benchmarkwertes liegt.
 
-(+++ § 30: Zur Anwendung vgl. § 34 +++)
+(+++ § 30: Zur Anwendung vgl. § 34 +++)  
+(+++ § 30 Nr. 1 u. § 31 Nr. 1: Zur Nichtanwendung vgl. § 36 Abs. 1 +++)
 
 # § 31 – Umfang der Begrenzung
 
@@ -634,8 +642,7 @@ e) für Buchstabe c durch eine Eigenerklärung, dass das Unternehmen Investition
 Unternehmen, die bis zum 30. April des Antragsjahres noch über kein abgeschlossenes handelsrechtliches Geschäftsjahr verfügen oder zum Zeitpunkt des Endes des letzten abgeschlossenen Geschäftsjahres keiner Branche nach Anlage 2 zuzuordnen sind, können abweichend von § 32 Nummer 1 den Antrag auf Basis eines gewillkürten Rumpfgeschäftsjahres stellen, das mit der erstmaligen Stromabnahme zu Produktionszwecken in einer Branche nach Anlage 2 beginnt und vor Ablauf der Antragsfrist endet. Die Begrenzungsentscheidung ergeht unter Vorbehalt des Widerrufs. Nach Vollendung des ersten abgeschlossenen Geschäftsjahres erfolgt eine nachträgliche Überprüfung der Antragsvoraussetzungen und des Begrenzungsumfangs durch das Bundesamt für Wirtschaft und Ausfuhrkontrolle anhand der Daten des abgeschlossenen Geschäftsjahres. § 32 ist im Übrigen entsprechend anzuwenden.
 
 (+++ § 33: Zur Anwendung vgl. § 34 +++)  
-(+++ § 33 Satz 1 : Zur Anwendung vgl. § 37 Abs. 5 +++)  
-(+++ § 33 Satz 1 : Zur Anwendung vgl. § 38 Abs. 4 +++)
+(+++ § 33 Satz 1 : Zur Anwendung vgl. § 36 Abs. 2 Satz 1, § 37 Abs. 5 u. § 38 Abs. 4 +++)
 
 # § 34 – Selbständige Teile eines Unternehmens
 
@@ -1320,8 +1327,6 @@ Bei Unternehmen, die ihren Stromverbrauch in besonderer Weise aus erneuerbaren E
 1. die bei der Wirtschaftlichkeitsbetrachtung im Rahmen des Energiemanagementsystems nach höchstens 60 Prozent der vorgesehenen Nutzungsdauer einen positiven Kapitalwert aufweist oder
 
 2. die in einem vor dem 1. Januar 2023 eingeführten Energiemanagementsystem, bei dem die wirtschaftliche Durchführbarkeit einer Maßnahme auf Basis der Amortisationszeitmethode bewertet wurde, mit einer Amortisationsdauer von weniger als 60 Prozent der vorgesehenen Nutzungsdauer ausgewiesen ist.
-
-# § 68 – (weggefallen)
 
 # Anlage 1 – (zu § 2)Ermittlung des EEG-Finanzierungsbedarfs und des KWKG-Finanzierungsbedarfs
 

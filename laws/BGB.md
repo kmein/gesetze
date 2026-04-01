@@ -6958,6 +6958,10 @@ Nimmt der Besteller den Unternehmer wegen eines Überwachungsfehlers in Anspruch
 
 Der Unternehmer kann von dem Besteller Abschlagszahlungen nur verlangen, soweit sie gemäß einer Verordnung auf Grund von Artikel 244 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche vereinbart sind.
 
+# § 651 – (jetzt § 650)
+
+(+++ § 651: Jetzt § 650 gem. Art. 1 Nr. 24 G v. 28.4.2017 I 969 mWv 1.1.2018 +++)
+
 # § 651a – Vertragstypische Pflichten beim Pauschalreisevertrag
 
 (1) Durch den Pauschalreisevertrag wird der Unternehmer (Reiseveranstalter) verpflichtet, dem Reisenden eine Pauschalreise zu verschaffen. Der Reisende ist verpflichtet, dem Reiseveranstalter den vereinbarten Reisepreis zu zahlen.
@@ -13093,31 +13097,45 @@ Vater eines Kindes ist der Mann,
 
 (4) Die Anerkennung ist schon vor der Geburt des Kindes zulässig.
 
+(5) Eine Anerkennung, die nach Einleitung eines Verfahrens erfolgt, in dem die Vaterschaft eines anderen Mannes als des Anerkennenden für das Kind festgestellt werden soll, ist nicht wirksam, solange das Verfahren anhängig ist. Satz 1 gilt nicht, wenn der Anerkennende die Anerkennung zur Niederschrift des Gerichts nach § 180 Absatz 2 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit erklärt.
+
 # § 1595 – Zustimmungsbedürftigkeit der Anerkennung
 
-(1) Die Anerkennung bedarf der Zustimmung der Mutter.
+(1) Die Anerkennung bedarf der Zustimmung der Mutter. Satz 1 gilt nicht, wenn die Mutter verstorben ist.
 
-(2) Die Anerkennung bedarf auch der Zustimmung des Kindes, wenn der Mutter insoweit die elterliche Sorge nicht zusteht.
+(2) Die Anerkennung bedarf auch der Zustimmung des Kindes.
 
-(3) Für die Zustimmung gilt § 1594 Abs. 3 und 4 entsprechend.
+(3) Für die Zustimmungen nach den Absätzen 1 und 2 gilt § 1594 Absatz 3 und 4 entsprechend.
 
-# § 1596 – Anerkennung und Zustimmung bei fehlender oder beschränkter Geschäftsfähigkeit
+# § 1595a – Anerkennung trotz bestehender Vaterschaft
 
-(1) Wer in der Geschäftsfähigkeit beschränkt ist, kann nur selbst anerkennen. Die Zustimmung des gesetzlichen Vertreters ist erforderlich. Für einen Geschäftsunfähigen kann der gesetzliche Vertreter mit Genehmigung des Familiengerichts anerkennen; ist der gesetzliche Vertreter ein Betreuer, ist die Genehmigung des Betreuungsgerichts erforderlich. Für die Zustimmung der Mutter gelten die Sätze 1 bis 3 entsprechend.
+(1) Die Anerkennung der Vaterschaft durch den leiblichen Vater ist entgegen § 1594 Absatz 2 wirksam, wenn
 
-(2) Für ein Kind, das geschäftsunfähig oder noch nicht 14 Jahre alt ist, kann nur der gesetzliche Vertreter der Anerkennung zustimmen. Im Übrigen kann ein Kind, das in der Geschäftsfähigkeit beschränkt ist, nur selbst zustimmen; es bedarf hierzu der Zustimmung des gesetzlichen Vertreters.
+1. die Vaterschaft des anderen Mannes nach § 1592 Nummer 1 oder 2 oder nach § 1593 besteht und
 
-(3) Ein geschäftsfähiger Betreuter kann nur selbst anerkennen oder zustimmen; § 1825 bleibt unberührt.
+2. der andere Mann der Anerkennung des leiblichen Vaters zustimmt.
 
-(4) Anerkennung und Zustimmung können nicht durch einen Bevollmächtigten erklärt werden.
+(2) Wird die Anerkennung des leiblichen Vaters nach Absatz 1 wirksam, ist dieser statt des anderen Mannes rückwirkend ab Geburt des Kindes dessen Vater.
 
-# § 1597 – Formerfordernisse; Widerruf
+(3) Für die Zustimmung nach Absatz 1 Nummer 2 gilt § 1594 Absatz 3 und 4 entsprechend. Die Zustimmung ist nicht erforderlich, wenn der andere Mann verstorben ist.
 
-(1) Anerkennung und Zustimmung müssen öffentlich beurkundet werden.
+# § 1596 – Anerkennung und Zustimmung als persönliche Erklärungen
+
+(1) Ein Mann kann die Vaterschaft nur persönlich anerkennen. § 1825 bleibt unberührt.
+
+(2) Abweichend von Absatz 1 Satz 1 kann der gesetzliche Vertreter eines geschäftsunfähigen Mannes für diesen die Vaterschaft mit Genehmigung des Familiengerichts anerkennen. Ist der gesetzliche Vertreter ein Betreuer, ist die Genehmigung des Betreuungsgerichts erforderlich.
+
+(3) Für die Zustimmung der Mutter und die etwa erforderliche Zustimmung des anderen Mannes nach § 1595a Absatz 1 Nummer 2 gelten die Absätze 1 und 2 entsprechend.
+
+(4) Für die Zustimmung des Kindes gelten die Absätze 1 und 2 entsprechend mit der Maßgabe, dass die Zustimmung des gesetzlichen Vertreters der Genehmigung des Familien- oder Betreuungsgerichts nicht bedarf. Für das beschränkt geschäftsfähige Kind, das das 14. Lebensjahr noch nicht vollendet hat, kann die Zustimmung nur durch den gesetzlichen Vertreter abgegeben werden. Hat das beschränkt geschäftsfähige Kind das 14. Lebensjahr vollendet, kann es nur selbst zustimmen; es bedarf dazu der Zustimmung des gesetzlichen Vertreters. Steht der Mutter insoweit die elterliche Sorge für das Kind zu, gilt die Zustimmung des gesetzlichen Vertreters in Vertretung für das Kind oder die Zustimmung zur Zustimmung des Kindes als abgegeben, wenn die Mutter ihre Zustimmung zu der Anerkennung nach § 1595 Absatz 1 Satz 1 erteilt hat.
+
+# § 1597 – Form
+
+(1) Die Anerkennung und die Zustimmungen müssen öffentlich beurkundet werden.
 
 (2) Beglaubigte Abschriften der Anerkennung und aller Erklärungen, die für die Wirksamkeit der Anerkennung bedeutsam sind, sind dem Vater, der Mutter und dem Kind sowie dem Standesamt zu übersenden.
 
-(3) Der Mann kann die Anerkennung widerrufen, wenn sie ein Jahr nach der Beurkundung noch nicht wirksam geworden ist. Für den Widerruf gelten die Absätze 1 und 2 sowie § 1594 Abs. 3 und § 1596 Abs. 1, 3 und 4 entsprechend.
+(3) (weggefallen)
 
 # § 1597a – Verbot der missbräuchlichen Anerkennung der Vaterschaft
 
@@ -13143,9 +13161,9 @@ Die beurkundende Behörde oder die Urkundsperson hat die Aussetzung dem Anerkenn
 
 (5) Eine Anerkennung der Vaterschaft kann nicht missbräuchlich sein, wenn der Anerkennende der leibliche Vater des anzuerkennenden Kindes ist.
 
-# § 1598 – Unwirksamkeit von Anerkennung, Zustimmung und Widerruf
+# § 1598 – Unwirksamkeit von Anerkennung und Zustimmung
 
-(1) Anerkennung, Zustimmung und Widerruf sind nur unwirksam, wenn sie den Erfordernissen nach § 1594 Absatz 2 bis 4 und der §§ 1595 bis 1597 nicht genügen. Anerkennung und Zustimmung sind auch im Fall des § 1597a Absatz 3 und im Fall des § 1597a Absatz 4 in Verbindung mit Absatz 3 unwirksam.
+(1) Anerkennung und Zustimmung sind nur dann unwirksam, wenn sie den Erfordernissen nach § 1594 Absatz 2, 3 und 5 und den §§ 1595 bis 1597 nicht genügen. Anerkennung und Zustimmung sind auch im Fall des § 1597a Absatz 3 und im Fall des § 1597a Absatz 4 in Verbindung mit Absatz 3 unwirksam.
 
 (2) Sind seit der Eintragung in ein deutsches Personenstandsregister fünf Jahre verstrichen, so ist die Anerkennung wirksam, auch wenn sie den Erfordernissen der vorstehenden Vorschriften nicht genügt.
 
@@ -13167,17 +13185,17 @@ verlangen, dass diese in eine genetische Abstammungsuntersuchung einwilligen und
 
 (4) Wer in eine genetische Abstammungsuntersuchung eingewilligt und eine genetische Probe abgegeben hat, kann von dem Klärungsberechtigten, der eine Abstammungsuntersuchung hat durchführen lassen, Einsicht in das Abstammungsgutachten oder Aushändigung einer Abschrift verlangen. Über Streitigkeiten aus dem Anspruch nach Satz 1 entscheidet das Familiengericht.
 
-# § 1599 – Nichtbestehen der Vaterschaft
+# § 1599 – Anfechtbarkeit der Vaterschaft; Unanfechtbarkeit der Mutterschaft
 
-(1) § 1592 Nr. 1 und 2 und § 1593 gelten nicht, wenn auf Grund einer Anfechtung rechtskräftig festgestellt ist, dass der Mann nicht der Vater des Kindes ist.
+(1) Stellt das Familiengericht auf Grund einer Anfechtung rechtskräftig fest, dass der dem Kind nach § 1592 Nummer 1 oder 2 oder nach § 1593 als Vater zugeordnete Mann nicht der leibliche Vater des Kindes ist, entfällt die Vaterschaft rückwirkend ab Geburt des Kindes.
 
-(2) § 1592 Nr. 1 und § 1593 gelten auch nicht, wenn das Kind nach Anhängigkeit eines Scheidungsantrags geboren wird und ein Dritter spätestens bis zum Ablauf eines Jahres nach Rechtskraft des dem Scheidungsantrag stattgebenden Beschlusses die Vaterschaft anerkennt; § 1594 Abs. 2 ist nicht anzuwenden. Neben den nach den §§ 1595 und 1596 notwendigen Erklärungen bedarf die Anerkennung der Zustimmung des Mannes, der im Zeitpunkt der Geburt mit der Mutter des Kindes verheiratet ist; für diese Zustimmung gelten § 1594 Abs. 3 und 4, § 1596 Abs. 1 Satz 1 bis 3, Abs. 3 und 4, § 1597 Abs. 1 und 2 und § 1598 Abs. 1 entsprechend. Die Anerkennung wird frühestens mit Rechtskraft des dem Scheidungsantrag stattgebenden Beschlusses wirksam.
+(2) Die Mutterschaft ist unanfechtbar.
 
-# § 1600 – Anfechtungsberechtigte
+# § 1600 – Anfechtungsberechtigte; Ausschluss der Anfechtung
 
 (1) Berechtigt, die Vaterschaft anzufechten, sind:
 
-1. der Mann, dessen Vaterschaft nach § 1592 Nr. 1 und 2, § 1593 besteht,
+1. der Mann, dessen Vaterschaft nach § 1592 Nummer 1 oder 2 oder § 1593 besteht,
 
 2. der Mann, der an Eides statt versichert, der Mutter des Kindes während der Empfängniszeit beigewohnt zu haben,
 
@@ -13185,11 +13203,29 @@ verlangen, dass diese in eine genetische Abstammungsuntersuchung einwilligen und
 
 4. das Kind.
 
-(2) Die Anfechtung nach Absatz 1 Nr. 2 setzt voraus, dass zwischen dem Kind und seinem Vater im Sinne von Absatz 1 Nr. 1 keine sozial-familiäre Beziehung besteht oder im Zeitpunkt seines Todes bestanden hat und dass der Anfechtende leiblicher Vater des Kindes ist.
+Die Anfechtung nach Satz 1 Nummer 2 setzt voraus, dass der Anfechtende der leibliche Vater des Kindes ist.
 
-(3) Eine sozial-familiäre Beziehung nach Absatz 2 besteht, wenn der Vater im Sinne von Absatz 1 Nr. 1 zum maßgeblichen Zeitpunkt für das Kind tatsächliche Verantwortung trägt oder getragen hat. Eine Übernahme tatsächlicher Verantwortung liegt in der Regel vor, wenn der Vater im Sinne von Absatz 1 Nr. 1 mit der Mutter des Kindes verheiratet ist oder mit dem Kind längere Zeit in häuslicher Gemeinschaft zusammengelebt hat.
+(2) Ist das Kind volljährig, ist die Anfechtung nach Absatz 1 Satz 1 Nummer 2 ausgeschlossen, wenn das Kind der Anfechtung widerspricht.
 
-(4) Ist das Kind mit Einwilligung des Mannes und der Mutter durch künstliche Befruchtung mittels Samenspende eines Dritten gezeugt worden, so ist die Anfechtung der Vaterschaft durch den Mann oder die Mutter ausgeschlossen.
+(3) Ist das Kind minderjährig, ist die Anfechtung nach Absatz 1 Satz 1 Nummer 2 ausgeschlossen, wenn zwischen dem Kind und dem Mann, dessen Vaterschaft nach § 1592 Nummer 1 oder 2 oder § 1593 besteht, eine sozial-familiäre Beziehung besteht. Dies gilt nicht, wenn
+
+1. zwischen dem Kind und dem Anfechtungsberechtigten ebenfalls eine sozial-familiäre Beziehung besteht,
+
+2. zwischen dem Kind und dem Anfechtungsberechtigten früher eine sozial-familiäre Beziehung bestanden hat, die aus von dem Anfechtungsberechtigten nicht zu vertretenden Gründen nicht mehr andauert,
+
+3. der Anfechtungsberechtigte sich ernsthaft um eine sozial-familiäre Beziehung mit dem Kind bemüht hat, damit aber aus von dem Anfechtungsberechtigten nicht zu vertretenden Gründen keinen Erfolg hatte oder
+
+4. der Ausschluss der Anfechtung aus anderen Gründen, die der Anfechtungsberechtigte nicht zu vertreten hat, grob unbillig wäre.
+
+Satz 2 gilt nicht, wenn der Fortbestand der Vaterschaft nach § 1592 Nummer 1 oder 2 oder § 1593 unter Berücksichtigung der berechtigten Interessen der Beteiligten für das Wohl des Kindes erforderlich ist.
+
+(4) Wird ein Verfahren auf Grund eines Restitutionsantrags nach § 185a des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit wiederaufgenommen und ist die sozial-familiäre Beziehung zwischen dem minderjährigen Kind und dem Mann, dessen Vaterschaft nach
+
+§ 1592 Nummer 1 oder 2 oder § 1593 besteht, beendet, ist die Anfechtung ausgeschlossen, wenn der Fortbestand der Vaterschaft unter Berücksichtigung der berechtigten Interessen der Beteiligten für das Wohl des Kindes erforderlich ist.
+
+(5) Eine sozial-familiäre Beziehung nach Absatz 3 oder 4 besteht, wenn der Mann für das Kind tatsächliche Verantwortung trägt. Eine Übernahme tatsächlicher Verantwortung liegt in der Regel vor, wenn der Mann mit dem Kind längere Zeit in häuslicher Gemeinschaft zusammengelebt hat. In der Regel liegt noch keine sozial-familiäre Beziehung nach Absatz 3 Satz 1 vor, wenn die Vaterschaft nach § 1592 Nummer 1 oder 2 oder § 1593 vor weniger als einem Jahr begründet wurde.
+
+(6) Die Anfechtung des Mannes, dessen Vaterschaft nach § 1592 Nummer 1 oder 2 oder § 1593 besteht, ist ausgeschlossen, wenn der Mann bei Anerkennung der Vaterschaft wusste, dass das Kind nicht von ihm abstammt, oder wenn das Kind mit Einwilligung des Mannes und der Mutter durch künstliche Befruchtung mittels Samenspende eines Dritten gezeugt worden ist. Die Anfechtung durch die Mutter ist ausgeschlossen, wenn sie bei Zustimmung zur Anerkennung der Vaterschaft wusste, dass das Kind nicht von dem Anerkennenden abstammt oder wenn das Kind mit Einwilligung des Mannes und der Mutter durch künstliche Befruchtung mittels Samenspende eines Dritten gezeugt worden ist. Kann die Mutter nach Satz 2 nicht anfechten, kann sie das Kind bei der Anfechtung der Vaterschaft auch nicht vertreten.
 
 § 1600 Abs. 2 u. Abs. 3 Satz 1 idF d. G v. 20.7.2017 I 2780: Nach Maßgabe der Entscheidungsformel mit Art. 6 Abs. 2 Satz 1 GG (100-1) unvereinbar gem. Nr. 1 BVerfGE v. 9.4.2024 I Nr. 164 - 1 BvR 2017/21-. Gem. Nr. 2 dieser BVerfGE gilt § 1600 Abs. 2 u. Abs. 3 Satz 1 bis zum Inkrafttreten einer Neuregelung, längstens bis zum 30. Juni 2025, fort. Bis zu einer Neuregelung sind durch Anträge von Anfechtungsberechtigten nach § 1600 Abs. 1 Nr. 2 des Bürgerlichen Gesetzbuchs eingeleitete Verfahren auf deren Antrag hin auszusetzen. Gem. Beschluss BVerfG v. 3.6.2025 – 1 BvR 2017/21 – gilt § 1600 Abs. 2 u. Abs. 3 Satz 1 über den 30. Juni 2025 hinaus bis zum Inkrafttreten einer Neuregelung, längstens bis zum 31. März 2026, fort. Bis zu einer Neuregelung sind durch Anträge von Anfechtungsberechtigten nach § 1600 Abs. 1 Nr. 2 des Bürgerlichen Gesetzbuchs eingeleitete Verfahren auf deren Antrag hin auszusetzen.
 
@@ -13197,29 +13233,27 @@ verlangen, dass diese in eine genetische Abstammungsuntersuchung einwilligen und
 
 (1) Die Anfechtung kann nicht durch einen Bevollmächtigten erfolgen.
 
-(2) Die Anfechtungsberechtigten im Sinne von § 1600 Abs. 1 Nr. 1 bis 3 können die Vaterschaft nur selbst anfechten. Dies gilt auch, wenn sie in der Geschäftsfähigkeit beschränkt sind; sie bedürfen hierzu nicht der Zustimmung ihres gesetzlichen Vertreters. Sind sie geschäftsunfähig, so kann nur ihr gesetzlicher Vertreter anfechten.
+(2) Ein geschäftsfähiger Betreuter kann die Vaterschaft nur persönlich anfechten.
 
-(3) Für ein geschäftsunfähiges oder in der Geschäftsfähigkeit beschränktes Kind kann nur der gesetzliche Vertreter anfechten.
+(3) Ist die anfechtungsberechtigte Person geschäftsunfähig oder hat sie das 14. Lebensjahr noch nicht vollendet, kann nur ihr gesetzlicher Vertreter die Anfechtung erklären.
 
-(4) Die Anfechtung durch den gesetzlichen Vertreter ist nur zulässig, wenn sie dem Wohl des Vertretenen dient.
+(4) Ist die anfechtungsberechtigte Person in der Geschäftsfähigkeit beschränkt und hat sie das 14. Lebensjahr vollendet, kann sie die Anfechtung nur selbst erklären. Sie bedarf hierzu nicht der Zustimmung ihres gesetzlichen Vertreters.
 
-(5) Ein geschäftsfähiger Betreuter kann die Vaterschaft nur selbst anfechten.
+(5) Die Anfechtung durch den gesetzlichen Vertreter ist nur zulässig, wenn sie dem Wohl des Vertretenen dient.
 
 # § 1600b – Anfechtungsfristen
 
-(1) Die Vaterschaft kann binnen zwei Jahren gerichtlich angefochten werden. Die Frist beginnt mit dem Zeitpunkt, in dem der Berechtigte von den Umständen erfährt, die gegen die Vaterschaft sprechen; das Vorliegen einer sozial-familiären Beziehung im Sinne des § 1600 Abs. 2 erste Alternative hindert den Lauf der Frist nicht.
+(1) Die Vaterschaft kann binnen zwei Jahren gerichtlich angefochten werden. Die Frist beginnt mit dem Zeitpunkt, in dem der Anfechtungsberechtigte von den Umständen erfährt, die gegen die Vaterschaft sprechen; das Vorliegen einer sozial-familiären Beziehung im Sinne des § 1600 Absatz 3 Satz 1 hindert den Lauf der Frist nicht.
 
 (1a) (weggefallen)
 
-(2) Die Frist beginnt nicht vor der Geburt des Kindes und nicht, bevor die Anerkennung wirksam geworden ist. In den Fällen des § 1593 Satz 4 beginnt die Frist nicht vor der Rechtskraft der Entscheidung, durch die festgestellt wird, dass der neue Ehemann der Mutter nicht der Vater des Kindes ist.
+(2) Die Frist beginnt nicht vor der Geburt des Kindes und nicht, bevor die Anerkennung wirksam geworden ist. Ist der Anfechtungsberechtigte minderjährig, beginnt die Frist außerdem nicht vor dem Eintritt der Volljährigkeit des Anfechtungsberechtigten und nicht vor dem Zeitpunkt, in dem dieser selbst von den Umständen erfährt, die gegen die Vaterschaft sprechen. Sie endet nicht vor der Vollendung des 21. Lebensjahres. Satz 2 gilt nicht, wenn der gesetzliche Vertreter eines minderjährigen Anfechtungsberechtigten die Vaterschaft anficht.
 
-(3) Hat der gesetzliche Vertreter eines minderjährigen Kindes die Vaterschaft nicht rechtzeitig angefochten, so kann das Kind nach dem Eintritt der Volljährigkeit selbst anfechten. In diesem Falle beginnt die Frist nicht vor Eintritt der Volljährigkeit und nicht vor dem Zeitpunkt, in dem das Kind von den Umständen erfährt, die gegen die Vaterschaft sprechen.
+(3) Hat der gesetzliche Vertreter eines geschäftsunfähigen Anfechtungsberechtigten die Vaterschaft nicht rechtzeitig angefochten, so kann der Anfechtungsberechtigte die Vaterschaft nach dem Wegfall seiner Geschäftsunfähigkeit selbst anfechten. Die Frist beginnt nicht vor dem Wegfall der Geschäftsunfähigkeit und nicht vor dem Zeitpunkt, in dem der Anfechtungsberechtigte selbst von den Umständen erfährt, die gegen die Vaterschaft sprechen.
 
-(4) Hat der gesetzliche Vertreter eines Geschäftsunfähigen die Vaterschaft nicht rechtzeitig angefochten, so kann der Anfechtungsberechtigte nach dem Wegfall der Geschäftsunfähigkeit selbst anfechten. Absatz 3 Satz 2 gilt entsprechend.
+(4) Die Frist wird durch die Einleitung eines Verfahrens nach § 1598a Absatz 2 oder § 1600 gehemmt; § 204 Absatz 2 gilt entsprechend. Die Frist ist auch gehemmt, solange der Anfechtungsberechtigte widerrechtlich durch Drohung an der Anfechtung gehindert wird. Im Übrigen sind § 204 Absatz 1 Nummer 4, 8, 13, 14 und Absatz 2 sowie die §§ 206 und 210 entsprechend anzuwenden.
 
-(5) Die Frist wird durch die Einleitung eines Verfahrens nach § 1598a Abs. 2 gehemmt; § 204 Abs. 2 gilt entsprechend. Die Frist ist auch gehemmt, solange der Anfechtungsberechtigte widerrechtlich durch Drohung an der Anfechtung gehindert wird. Im Übrigen sind § 204 Absatz 1 Nummer 4, 8, 13, 14 und Absatz 2 sowie die §§ 206 und 210 entsprechend anzuwenden.
-
-(6) Erlangt das Kind Kenntnis von Umständen, auf Grund derer die Folgen der Vaterschaft für es unzumutbar werden, so beginnt für das Kind mit diesem Zeitpunkt die Frist des Absatzes 1 Satz 1 erneut.
+(5) Erlangt ein Kind Kenntnis von Umständen, auf Grund derer die Folgen der Vaterschaft für es unzumutbar werden, so beginnt für das Kind mit diesem Zeitpunkt die Frist des Absatzes 1 Satz 1 erneut.
 
 # § 1600c – Vaterschaftsvermutung im Anfechtungsverfahren
 

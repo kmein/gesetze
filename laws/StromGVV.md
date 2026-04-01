@@ -247,8 +247,6 @@ und solange durch die Nachprüfung nicht die ordnungsgemäße Funktion des Messg
 
 Der Grundversorger ist berechtigt, die Grundversorgung ohne vorherige Androhung durch den Netzbetreiber unterbrechen zu lassen, wenn der Kunde dieser Verordnung in nicht unerheblichem Maße schuldhaft zuwiderhandelt und die Unterbrechung erforderlich ist, um den Gebrauch von elektrischer Arbeit unter Umgehung, Beeinflussung oder vor Anbringung der Messeinrichtungen zu verhindern. Die §§ 41f und 41g des Energiewirtschaftsgesetzes über die Unterbrechung der Versorgung bei Nichterfüllung einer Zahlungsverpflichtung bleiben unberührt.
 
-(+++ § 19 Abs. 5: Zur Anwendung ab dem 20.6.2024 bis zum Ablauf d. 30.4.2025 vgl. § 23 +++)
-
 # § 20 – Kündigung
 
 (1) Der Grundversorgungsvertrag kann mit einer Frist von zwei Wochen gekündigt werden. Eine Kündigung durch den Grundversorger ist nur möglich, soweit eine Pflicht zur Grundversorgung nach § 36 Absatz 1 Satz 4 des Energiewirtschaftsgesetzes nicht besteht.

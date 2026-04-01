@@ -195,7 +195,7 @@ Im Auswahlverfahren wird festgestellt, ob die Bewerberinnen und Bewerber für di
 
 # § 8 – Auswahlkommission
 
-(1) Für die Durchführung des Auswahlverfahrens richtet abweichend von § 36 Absatz 3 Satz 1 der Bundeslaufbahnverordnung das Bundespolizeipräsidium eine Auswahlkommission bei der Bundespolizeiakademie ein. Bei Bedarf können mehrere Auswahlkommissionen eingerichtet werden. In diesem Fall ist sicherzustellen, dass alle Auswahlkommissionen den gleichen Bewertungsmaßstab anlegen.
+(1) Für die Durchführung des Auswahlverfahrens richtet abweichend von § 44 Absatz 3 Satz 1 der Bundeslaufbahnverordnung das Bundespolizeipräsidium eine Auswahlkommission bei der Bundespolizeiakademie ein. Bei Bedarf können mehrere Auswahlkommissionen eingerichtet werden. In diesem Fall ist sicherzustellen, dass alle Auswahlkommissionen den gleichen Bewertungsmaßstab anlegen.
 
 (2) Die Auswahlkommission besteht aus
 
@@ -241,7 +241,7 @@ Wer mindestens die Mindestpunktzahl, die für das Bestehen erforderlich ist, err
 
 (1) Für jede Bewerberin und jeden Bewerber, die oder der am Auswahlverfahren teilgenommen hat, ermittelt die Auswahlkommission das Gesamtergebnis des Auswahlverfahrens.
 
-(2) Nach § 36 Absatz 4 Satz 6 der Bundeslaufbahnverordnung legt die Auswahlkommission anhand der ermittelten Gesamtergebnisse eine Rangfolge der erfolgreichen Bewerberinnen und Bewerber fest. Sind mehrere Auswahlkommissionen eingerichtet worden, wird eine Rangfolge aller erfolgreichen Bewerberinnen und Bewerber festgelegt.
+(2) Nach § 44 Absatz 4 Satz 6 der Bundeslaufbahnverordnung legt die Auswahlkommission anhand der ermittelten Gesamtergebnisse eine Rangfolge der erfolgreichen Bewerberinnen und Bewerber fest. Sind mehrere Auswahlkommissionen eingerichtet worden, wird eine Rangfolge aller erfolgreichen Bewerberinnen und Bewerber festgelegt.
 
 (3) Die festgelegte Rangfolge ist für die Entscheidung über die Zulassung zum Aufstieg maßgeblich.
 

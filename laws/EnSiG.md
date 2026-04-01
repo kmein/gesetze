@@ -159,7 +159,7 @@ veröffentlicht worden ist sowie
 
 § 1 Absatz 4 Satz 2 und § 3 Absatz 3 Satz 4 gelten entsprechend.
 
-§ 3 Abs. 6 Satz 1 Nr. 2 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "veröffentlich" durch das Wort "veröffentlicht" ersetzt
+§ 3 Abs. 6 Satz 1 Nr. 2 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "veröffentlich" durch das Wort "veröffentlicht" ersetzt; idF d. Art. 21 Nr. 2 Buchst. b G v. 18.12.2025 I Nr. 347 mWv 23.12.2025
 
 # § 4 – Ausführung des Gesetzes
 
@@ -330,7 +330,7 @@ b) soweit Landesbehörden zur Durchführung zuständig sind, die in § 4 Abs. 5 
 
 # § 17 – Treuhandverwaltung von Unternehmen der Kritischen Infrastruktur
 
-(1) Ein Unternehmen, das selbst oder durch verbundene Unternehmen im Sinne von § 15 des Aktiengesetzes kritische Anlagen im Sinne von § 2 Nummer 22 des BSI-Gesetzes im Sektor Energie betreibt, kann unter Treuhandverwaltung gestellt werden, wenn die konkrete Gefahr besteht, dass ohne eine Treuhandverwaltung das Unternehmen seine dem Funktionieren des Gemeinwesens im Sektor Energie dienenden Aufgaben nicht erfüllen wird, und eine Beeinträchtigung der Versorgungssicherheit droht.
+(1) Ein Unternehmen, das selbst oder durch verbundene Unternehmen im Sinne von § 15 des Aktiengesetzes kritische Anlagen im Sinne von § 2 Nummer 3 des KRITIS-Dachgesetzes im Sektor Energie betreibt, kann unter Treuhandverwaltung gestellt werden, wenn die konkrete Gefahr besteht, dass ohne eine Treuhandverwaltung das Unternehmen seine dem Funktionieren des Gemeinwesens im Sektor Energie dienenden Aufgaben nicht erfüllen wird, und eine Beeinträchtigung der Versorgungssicherheit droht.
 
 (2) Die Anordnung einer Treuhandverwaltung ist auf längstens sechs Monate zu befristen. Sie kann um jeweils bis zu sechs weitere Monate verlängert werden, wenn die Voraussetzungen nach Absatz 1 weiterhin vorliegen.
 
@@ -354,6 +354,7 @@ b) soweit Landesbehörden zur Durchführung zuständig sind, die in § 4 Abs. 5 
 
 (9) Die Absätze 1 bis 8 gelten nicht für Unternehmen, die in der Rechtsform einer inländischen juristischen Person des öffentlichen Rechts geführt werden oder an denen ausschließlich inländische juristische Personen des öffentlichen Rechts unmittelbar oder mittelbar beteiligt sind. Inländischen juristischen Personen des öffentlichen Rechts stehen juristische Personen des öffentlichen Rechts aus einem Mitgliedstaat der Europäischen Union oder des Europäischen Wirtschaftsraums gleich.
 
+(+++ § 17 Abs. 1: Zur Anwendung vgl. § 31a Satz 1 +++)  
 (+++ § 17 Abs. 3: Zur Anwendung vgl. § 17b Abs. 1 +++)
 
 # § 17a – Kapitalmaßnahmen
@@ -414,7 +415,7 @@ Die Übertragung des Eigentums an den Vermögensgegenständen nach Satz 1 bedarf
 
 (2) Zulässige Gegenstände einer Enteignung zur Sicherung der Energieversorgung können sein:
 
-1. Anteile an Unternehmen, die selbst oder durch verbundene Unternehmen im Sinne von § 15 des Aktiengesetzes kritische Anlagen im Sinne von § 2 Nummer 22 des BSI-Gesetzes im Sektor Energie betreiben,
+1. Anteile an Unternehmen, die selbst oder durch verbundene Unternehmen im Sinne von § 15 des Aktiengesetzes kritische Anlagen im Sinne von § 2 Nummer 3 des KRITIS-Dachgesetzes im Sektor Energie betreiben,
 
 2. sonstige Rechte, die Bestandteile der Eigenmittel von Unternehmen nach Nummer 1 sind,
 
@@ -425,6 +426,8 @@ Als Anteile im Sinne von Satz 1 Nummer 1 gelten auch Anteile an Personengesellsc
 (3) Die Enteignungsgegenstände werden auf Enteignungsbegünstigte übertragen. Enteignungsbegünstigte sind die Kreditanstalt für Wiederaufbau oder juristische Personen des öffentlichen Rechts oder des Privatrechts, deren Anteile ausschließlich vom Bund oder von der Kreditanstalt für Wiederaufbau unmittelbar oder mittelbar gehalten werden. Auf Verlangen eines Landes kann der Bund auch zugunsten dieses Landes enteignen.
 
 (4) Die Enteignung ist nur zulässig, wenn sie zur Sicherung des Funktionierens des Gemeinwesens im Sektor Energie und zur Aufrechterhaltung der Versorgungssicherheit erforderlich ist und eine zeitlich begrenzte Treuhandverwaltung nach § 17 nicht hinreichend geeignet ist, diesen Zweck zu erfüllen.
+
+(+++ § 18 Abs. 2 Satz 1 Nr. 1: Zur Anwendung vgl. § 31a Satz 1 +++)
 
 # § 19 – Enteignungsakt; Verordnungsermächtigung
 
@@ -601,7 +604,7 @@ In der Anordnung muss bestimmt werden, dass der Begünstigte die Rechte zur Nutz
 
 # § 29 – Erleichterungen zur Durchführung von Stabilisierungsmaßnahmen
 
-(1) Beantragt ein Unternehmen, das selbst oder durch verbundene Unternehmen im Sinne von § 15 des Aktiengesetzes kritische Anlagen im Sinne von § 2 Nummer 22 des BSI-Gesetzes im Sektor Energie betreibt, beim Bund Stabilisierungsmaßnahmen, gelten für die Durchführung der Stabilisierungsmaßnahmen die nachfolgenden Regelungen. Stabilisierungsmaßnahmen im Sinne dieses Gesetzes sind alle Maßnahmen, die der Sicherung oder Wiederherstellung einer positiven Fortbestehensprognose nach § 19 Absatz 2 der Insolvenzordnung oder der Durchfinanzierung der Abwicklung des Unternehmens dienen. Ein Rechtsanspruch auf Stabilisierungsmaßnahmen besteht nicht. Das Bundesministerium für Wirtschaft und Energie ist die zuständige Behörde für die Verhandlungen über Stabilisierungsmaßnahmen mit den in Satz 1 genannten Unternehmen. Anträge sind bei dem Bundesministerium für Wirtschaft und Energie zu stellen, das im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundeskanzleramt über die Anträge entscheidet.
+(1) Beantragt ein Unternehmen, das selbst oder durch verbundene Unternehmen im Sinne von § 15 des Aktiengesetzes kritische Anlagen im Sinne von § 2 Nummer 3 des KRITIS-Dachgesetzes im Sektor Energie betreibt, beim Bund Stabilisierungsmaßnahmen, gelten für die Durchführung der Stabilisierungsmaßnahmen die nachfolgenden Regelungen. Stabilisierungsmaßnahmen im Sinne dieses Gesetzes sind alle Maßnahmen, die der Sicherung oder Wiederherstellung einer positiven Fortbestehensprognose nach § 19 Absatz 2 der Insolvenzordnung oder der Durchfinanzierung der Abwicklung des Unternehmens dienen. Ein Rechtsanspruch auf Stabilisierungsmaßnahmen besteht nicht. Das Bundesministerium für Wirtschaft und Energie ist die zuständige Behörde für die Verhandlungen über Stabilisierungsmaßnahmen mit den in Satz 1 genannten Unternehmen. Anträge sind bei dem Bundesministerium für Wirtschaft und Energie zu stellen, das im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundeskanzleramt über die Anträge entscheidet.
 
 (1a) Solange das Unternehmen Stabilisierungsmaßnahmen nach Absatz 1 Satz 2 in Form einer Rekapitalisierung in Anspruch nimmt, dürfen Mitgliedern der Geschäftsleitung sowie Mitgliedern von gesellschaftsrechtlichen Aufsichtsorganen des Unternehmens unter Einbeziehung von etwaigen Konzernbezügen Boni und andere variable oder vergleichbare Vergütungsbestandteile nicht gewährt werden. Ebenso dürfen über das Festgehalt hinausgehende Vergütungsbestandteile im Sinne von § 87 Absatz 1 Satz 1 des Aktiengesetzes und rechtlich nicht gebotene Abfindungen nicht gewährt werden. Eine Abweichung von dieser Regelung ist nur in begründeten Ausnahmefällen zulässig. Darüber hinaus darf kein Mitglied der Geschäftsleitung des Unternehmens eine Vergütung erhalten, die über die Grundvergütung dieses Mitglieds drei Monate vor Antragstellung hinausgeht. Ein Inflationsausgleich ist zulässig. Bei Personen, die zum Zeitpunkt der Maßnahme oder danach Mitglied der Geschäftsleitung werden, gilt als Obergrenze die Grundvergütung von Mitgliedern der Geschäftsleitung derselben Verantwortungsstufe drei Monate vor Antragstellung. Die Stabilisierungsmaßnahme gilt solange als in Anspruch genommen, als nicht mindestens 75 Prozent der Stabilisierungsmaßnahme zurückgeführt sind. Eine Rückführung der Stabilisierungsmaßnahme nach Satz 7 liegt vor, wenn rückzahlbare Stabilisierungsmaßnahmen, wie zum Beispiel stille Einlagen, zurückgezahlt worden sind, die gegen Leistung von Stabilisierungsmaßnahmen übernommenen oder gezeichnete Anteile an dem Unternehmen an Dritte, das heißt nicht vom Bund kontrollierte juristische Personen, veräußert worden sind oder auf Anteile von an dem Unternehmen geleisteten Einlagen in sonstiger Weise rechtmäßig zurückgeführt worden sind, zum Beispiel durch Umwandlung von gezeichnetem Kapital in entnahmefähige Rücklagen. Um Anreize für eine Rückführung der Stabilisierungsmaßnahme zu setzen, dürfen während der Dauer der Stabilisierungsmaßnahme grundsätzlich keine Dividenden oder sonstigen, vertraglich oder gesetzlich nicht geschuldeten, Gewinnausschüttungen an andere Gesellschafter als den Bund, die Kreditanstalt für Wiederaufbau oder an andere Gesellschafter, deren Anteile ausschließlich vom Bund unmittelbar oder mittelbar gehalten werden, geleistet werden; dies gilt nicht für Unternehmen, bei denen die zuletzt genannten Gesellschafter eine Mehrheitsbeteiligung nach § 16 des Aktiengesetzes im Rahmen einer Stabilisierungsmaßnahme in Form einer Rekapitalisierung erworben haben und die nach § 3 Absatz 2 des Aktiengesetzes börsennotiert sind oder die im Zusammenhang mit der Rückführung von Stabilisierungsmaßnahmen einen Antrag auf Billigung eines Prospekts für eine Börsennotierung nach § 3 Absatz 2 des Aktiengesetzes bei der Bundesanstalt für Finanzdienstleistungsaufsicht eingereicht haben. Weiterhin darf das Unternehmen keine Aktien oder sonstige Bestandteile der haftenden Eigenmittel des Unternehmens zurückkaufen und keine sonstigen, vertraglich oder gesetzlich nicht geschuldeten Leistungen an andere Gesellschafter als den Bund, die Kreditanstalt für Wiederaufbau oder an Gesellschafter, deren Anteile mittelbar oder unmittelbar ausschließlich vom Bund gehalten werden, leisten.
 
@@ -694,6 +697,8 @@ Die Regelungen nach Satz 1 gelten auch im Fall einer Kapitalerhöhung nach § 17
 
 (8) Die Absätze 1 bis 6 sind mit Ablauf des 31. Dezember 2027 nicht mehr anzuwenden.
 
+(+++ § 29 Abs. 1 Satz 1: Zur Anwendung vgl. § 31a Satz 1 +++)
+
 # § 30 – Präventive Maßnahmen zur Vermeidung eines Krisenfalls; Verordnungsermächtigung
 
 (1) Zur Vermeidung einer unmittelbaren Gefährdung oder Störung der Energieversorgung im Sinne des § 1 Absatz 1 Satz 1, insbesondere im Fall einer drohenden Knappheit von Kohle, Erdgas oder Erdöl, können durch Rechtsverordnung nach Maßgabe von § 1 Absatz 4 Vorschriften erlassen werden über
@@ -765,6 +770,10 @@ der Rohrfernleitungsverordnung vom 27. September 2002 (BGBl. I S. 3777, 3809), d
 # § 31 – Besteuerung
 
 § 14 Absatz 3 Satz 1 und Absatz 4 des Stabilisierungsfondsgesetzes finden auf Maßnahmen des Bundes nach Kapitel 1 und 2 dieses Gesetzes mit der Maßgabe entsprechend Anwendung, dass an die Stelle des Fonds der Bund tritt.Satz 1 findet auf alle noch offenen Fälle Anwendung.
+
+# § 31a – Übergangsbestimmung
+
+§ 17 Absatz 1, § 18 Absatz 2 Satz 1 Nummer 1 und § 29 Absatz 1 Satz 1 sind erst anzuwenden, wenn eine auf der Grundlage von § 4 Absatz 3 und § 5 Absatz 1 des KRITIS-Dachgesetzes erlassene Rechtsverordnung gilt. Bis zur Geltung dieser Rechtsverordnung sind § 17 Absatz 1, § 18 Absatz 2 Satz 1 Nummer 1 und § 29 Absatz 1 Satz 1 in der bis einschließlich 16. März 2026 geltenden Fassung weiter anzuwenden.
 
 # § 32 – Inkrafttreten
 

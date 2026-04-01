@@ -184,7 +184,7 @@ Die Kosten des Gesundheitszeugnisses trägt die Einstellungsbehörde.
 
 (1) Der Vorbereitungsdienst dauert 18 Monate.
 
-(2) Eine Verkürzung des Vorbereitungsdienstes nach § 16 Absatz 1 der Bundeslaufbahnverordnung ist nur zulässig, wenn das Erreichen des Ausbildungsziels nicht gefährdet erscheint. Dabei können der zielgerichteten Gestaltung des Vorbereitungsdienstes entsprechende Abweichungen vom Ausbildungsplan zugelassen werden. Die Anwärterinnen und Anwärter sollen der Ausbildung jedoch nicht innerhalb zusammenhängender Teilabschnitte der Ausbildung entzogen werden.
+(2) Eine Verkürzung des Vorbereitungsdienstes nach § 19 Absatz 1 der Bundeslaufbahnverordnung ist nur zulässig, wenn das Erreichen des Ausbildungsziels nicht gefährdet erscheint. Dabei können der zielgerichteten Gestaltung des Vorbereitungsdienstes entsprechende Abweichungen vom Ausbildungsplan zugelassen werden. Die Anwärterinnen und Anwärter sollen der Ausbildung jedoch nicht innerhalb zusammenhängender Teilabschnitte der Ausbildung entzogen werden.
 
 (3) Wird die Ausbildung wegen einer Erkrankung oder aus anderen zwingenden Gründen unterbrochen, können Ausbildungsabschnitte verkürzt oder verlängert und Abweichungen vom Ausbildungsplan zugelassen werden, um eine zielgerechte Fortsetzung des Vorbereitungsdienstes zu ermöglichen.
 

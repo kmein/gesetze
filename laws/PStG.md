@@ -97,6 +97,7 @@
 |                         § 42                         |                                       (weggefallen)                                       |
 |                         § 43                         |                             Erklärungen zur Namensangleichung                             |
 |                         § 44                         |             Erklärungen zur Anerkennung der Vaterschaft und der Mutterschaft              |
+|                        § 44a                         |              Nachweise nach einer Anerkennung trotz bestehender Vaterschaft               |
 |                         § 45                         |                         Erklärungen zur Namensführung des Kindes                          |
 |                        § 45a                         |                          Erklärung zur Reihenfolge der Vornamen                           |
 |                        § 45b                         | Erklärungen nach dem Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag |
@@ -651,11 +652,15 @@ c) dem Ehenamen seinen Geburtsnamen oder den bis zur Erklärung über die Bestim
 
 # § 44 – Erklärungen zur Anerkennung der Vaterschaft und der Mutterschaft
 
-(1) Die Erklärung, durch welche die Vaterschaft zu einem Kind anerkannt wird, sowie die Zustimmungserklärung der Mutter können auch von den Standesbeamten beurkundet werden. Gleiches gilt für die etwa erforderliche Zustimmung des Kindes, des gesetzlichen Vertreters oder des Ehemannes der Mutter zu einer solchen Erklärung sowie für den Widerruf der Anerkennung.
+(1) Die Erklärung, durch welche die Vaterschaft zu einem Kind anerkannt wird, sowie die Zustimmungserklärung der Mutter können auch von den Standesbeamten beurkundet werden. Gleiches gilt für die etwa erforderliche Zustimmung des Kindes, des gesetzlichen Vertreters oder des Mannes, der dem Kind bislang als Vater zugeordnet war, zu einer solchen Erklärung.
 
 (2) Die Erklärung, durch welche die Mutterschaft zu einem Kind anerkannt wird, und die etwa erforderliche Zustimmungserklärung des gesetzlichen Vertreters der Mutter können auch von den Standesbeamten beurkundet werden.
 
 (3) Dem Standesamt, das den Geburtseintrag des Kindes führt, ist eine beglaubigte Abschrift der Erklärungen zu übersenden. Ist die Geburt des Kindes nicht im Inland beurkundet, so ist die beglaubigte Abschrift dem Standesamt I in Berlin zu übersenden.
+
+# § 44a – Nachweise nach einer Anerkennung trotz bestehender Vaterschaft
+
+Zur Prüfung der leiblichen Abstammung des Kindes von dem anerkennenden Mann nach § 1595a Absatz 1 des Bürgerlichen Gesetzbuchs verlangt das Standesamt die Vorlage des Ergebnisses einer genetischen Abstammungsuntersuchung nach § 17 des Gendiagnostikgesetzes, dem zufolge der anerkennende Mann der leibliche Vater des Kindes ist.
 
 # § 45 – Erklärungen zur Namensführung des Kindes
 
@@ -728,6 +733,8 @@ Ferner können sonstige unrichtige oder unvollständige Eintragungen berichtigt 
 1. Personenstandsurkunden,
 
 2. Dokumente des Heimatstaates, die zum Grenzübertritt berechtigen, soweit dadurch ein erläuternder Zusatz zur Identität oder zur Namensführung im Personenstandsregister gestrichen werden soll.
+
+Eintragungen auf Grund einer Anerkennung, die nach § 1594 Absatz 5 Satz 1 des Bürgerlichen Gesetzbuchs nicht wirksam war, sind zu berichtigen, wenn die Vaterschaft des anderen Mannes durch Gerichtsbeschluss festgestellt wird.
 
 (2) Gehen dem Standesamt berichtigende Mitteilungen oder Anzeigen zu, so sind außerdem zu berichtigen
 
@@ -922,6 +929,8 @@ In die Sterbeurkunde werden aufgenommen
 Diese Beschränkungen entfallen mit dem Tod der betroffenen Person; § 13 des Gesetzes über die Selbstbestimmung in Bezug auf den Geschlechtseintrag bleibt unberührt.
 
 (3) Die Absätze 1 und 2 gelten entsprechend für Auskunft aus einem und Einsicht in einen Registereintrag sowie Auskunft aus den und Einsicht in die Sammelakten.
+
+(4) Ist die Anerkennung trotz bestehender Vaterschaft erfolgt, so darf abweichend von § 62 Auskunft aus einem und Einsicht in ein in die Sammelakten aufgenommenes Ergebnis einer genetischen Abstammungsuntersuchung nach § 17 des Gendiagnostikgesetzes nur dem Anerkennenden, der Mutter, dem Kind und dem anderen Mann, dessen Zustimmung nach § 1595a des Bürgerlichen Gesetzbuchs erforderlich ist, erteilt werden.
 
 # § 64 – Sperrvermerke
 

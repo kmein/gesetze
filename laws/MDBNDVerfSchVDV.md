@@ -410,7 +410,7 @@ Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn die erforderliche 
 
 # § 22 – Dauer und Gliederung der Ausbildung
 
-(1) Die Ausbildung dauert in der Regel zwei Jahre. Eine Entscheidung über die Verlängerung oder Verkürzung nach den §§ 15 und 16 der Bundeslaufbahnverordnung trifft die Dienstbehörde im Benehmen mit der Leiterin oder dem Leiter des Zentrums für Nachrichtendienstliche Aus- und Fortbildung.
+(1) Die Ausbildung dauert in der Regel zwei Jahre. Eine Entscheidung über die Verlängerung oder Verkürzung nach den §§ 18 und 19 der Bundeslaufbahnverordnung trifft die Dienstbehörde im Benehmen mit der Leiterin oder dem Leiter des Zentrums für Nachrichtendienstliche Aus- und Fortbildung.
 
 (2) Die Ausbildung umfasst eine fachtheoretische Ausbildung am Zentrum für Nachrichtendienstliche Aus- und Fortbildung und eine berufspraktische Ausbildung.
 
@@ -755,7 +755,7 @@ Wer die Zwischenprüfung nicht bestanden hat, erhält vom Prüfungsamt einen Bes
 
 # § 48 – Wiederholung der Zwischenprüfung
 
-(1) Wird die Zwischenprüfung wiederholt (§ 17 Absatz 3 Nummer 2 und Absatz 5 Satz 1 Nummer 2 der Bundeslaufbahnverordnung), so ist sie vollständig zu wiederholen.
+(1) Wird die Zwischenprüfung wiederholt (§ 20 Absatz 3 Nummer 2 und Absatz 5 Satz 1 Nummer 2 der Bundeslaufbahnverordnung), so ist sie vollständig zu wiederholen.
 
 (2) Die Wiederholung findet frühestens zwei Monate und spätestens fünf Monate nach Abschluss des Grundlehrgangs statt.
 
@@ -927,7 +927,7 @@ Die mündliche Abschlussprüfung hat bestanden, wer in der mündlichen Abschluss
 
 # § 63 – Wiederholung der Laufbahnprüfung
 
-(1) Wird die Laufbahnprüfung wiederholt (§ 17 Absatz 3 Nummer 1 und Absatz 5 Satz 1 Nummer 1 der Bundeslaufbahnverordnung), so ist sie vollständig zu wiederholen.
+(1) Wird die Laufbahnprüfung wiederholt (§ 20 Absatz 3 Nummer 1 und Absatz 5 Satz 1 Nummer 1 der Bundeslaufbahnverordnung), so ist sie vollständig zu wiederholen.
 
 (2) Das Prüfungsamt bestimmt,
 

@@ -771,11 +771,7 @@ Die Modulprüfungen während der Fachstudien können aus einem oder mehreren der
 
 (1) Eine nicht bestandene Modulprüfung kann einmal wiederholt werden. Für Wiederholungsprüfungen kann ein anderes Prüfungsformat gewählt werden. Ein reflektierter Praxisbericht wird wiederholt, indem er nachgebessert wird.
 
-(2) Abweichend von Absatz 1 können ein zweites Mal wiederholt werden:
-
-1. eine Prüfung in einem der Pflichtmodule und
-
-2. eine Prüfung in einem der Wahlpflichtmodule.
+(2) Abweichend von Absatz 1 Satz 1 können zwei nicht bestandene Modulprüfungen ein zweites Mal wiederholt werden.
 
 (3) Das weitere Studium wird wegen der Wiederholung nicht ausgesetzt.
 

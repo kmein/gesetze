@@ -197,6 +197,10 @@ Zwei Jahre nach Inkrafttreten dieser Rechtsverordnung und danach alle zwei Jahre
 
 3. die Bestimmung der Schwellenwerte.
 
+# § 12 – Außerkrafttreten
+
+Die BSI-Kritisverordnung vom 22. April 2016 (BGBl. I S. 958), die zuletzt durch Artikel 2 des Gesetzes vom 18. Dezember 2025 (BGBl. 2025 I Nr. 347) geändert worden ist, tritt mit Inkrafttreten der Rechtsverordnung nach § 4 Absatz 3 und § 5 Absatz 1 des KRITIS-Dachgesetzes außer Kraft. Das Bundesministerium des Innern gibt das Inkrafttreten im Bundesgesetzblatt bekannt.
+
 # Anhang 1 – (zu § 1 Absatz 1 Nummer 2 und 3, § 2 Absatz 5 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Energie
 
 (Fundstelle: BGBl. I 2016, 960 - 962  

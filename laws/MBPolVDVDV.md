@@ -1156,7 +1156,7 @@ der Laufbahnprüfung</td>
 
 # § 64 – Wiederholung der Laufbahnprüfung
 
-(1) Hat eine Anwärterin oder ein Anwärter die Laufbahnprüfung nicht bestanden, so kann sie oder er nach § 17 Absatz 3 Satz 1 der Bundeslaufbahnverordnung die Laufbahnprüfung einmal wiederholen. In begründeten Ausnahmefällen kann das Bundespolizeipräsidium mit Einverständnis des Bundesministeriums des Innern und für Heimat eine zweite Wiederholung zulassen.
+(1) Hat eine Anwärterin oder ein Anwärter die Laufbahnprüfung nicht bestanden, so kann sie oder er nach § 20 Absatz 3 der Bundeslaufbahnverordnung die Laufbahnprüfung einmal wiederholen. In begründeten Ausnahmefällen kann das Bundespolizeipräsidium mit Einverständnis des Bundesministeriums des Innern und für Heimat eine zweite Wiederholung zulassen.
 
 (2) Die Wiederholung der Laufbahnprüfung erfolgt frühestens drei Monate nach Bekanntgabe des Ergebnisses.
 

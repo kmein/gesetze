@@ -12078,7 +12078,9 @@ für die Zeit ab 1. Juli 2023 vgl. Bek. v. 15.3.2023 I Nr. 79
 (Pfändungsfreigrenzenbekanntmachung 2023) u. für die Zeit ab 1. Juli 2024 vgl. Bek. v. 10.5.2024 I Nr. 160  
 (Pfändungsfreigrenzenbekanntmachung 2024)  
 für die Zeit ab 1. Juli 2025 vgl. Bek. v. 2.4.2025 I Nr. 110  
-(Pfändungsfreigrenzenbekanntmachung 2025) +++)
+(Pfändungsfreigrenzenbekanntmachung 2025)  
+für die Zeit ab 1. Juli 2026 vgl. Bek. v. 19.3.2026 I Nr. 80  
+(Pfändungsfreigrenzenbekanntmachung 2026) +++)
 
 # § 850d – Pfändbarkeit bei Unterhaltsansprüchen
 

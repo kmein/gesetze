@@ -2419,7 +2419,7 @@ Die Zuständigkeit für die Zustimmung zu einer Verwendung als Beweismittel nach
 
 (5) Die ersuchten Informationen werden in der Sprache übermittelt, in der das Ersuchen übermittelt wurde, wenn es in einer der Bundesrepublik Deutschland nach Artikel 11 der Richtlinie (EU) 2023/977 benannten Sprache übermittelt wurde. Die Informationen können in einer der Sprachen übermittelt werden, die der ersuchende Mitgliedstaat der Europäischen Union nach Artikel 11 der Richtlinie (EU) 2023/977 benannt hat. Satz 1 gilt entsprechend für andere Mitteilungen der Europäischen Union, einschließlich der begründeten Ablehnung von Ersuchen, Bitten um ergänzende Informationen und Mitteilungen.
 
-(+++ § 109: Zur Anwendung vgl. Art. 97 § 1 AOEG 1977 +++)
+(+++ § 117c: Zur Anwendung vgl. §§ 117g u. 117h +++)
 
 # § 117d – Inhalt des Ersuchens
 
@@ -2436,8 +2436,6 @@ Ein Ersuchen nach § 117c Absatz 1 soll Angaben zu Folgendem enthalten:
 5. soweit angemessen, eine Erläuterung des Zusammenhangs zwischen dem Zweck, zu dem die Informationen angefordert werden, und allen natürlichen oder juristischen Personen oder Organisationen, auf die sich die Informationen beziehen,
 
 6. etwaige Beschränkungen einer Verwendung der in dem Ersuchen enthaltenen Informationen zu anderen Zwecken als denen, für die sie übermittelt wurden.
-
-(+++ § 117d: Zur Anwendung vgl. Art. 97 § 1 AOEG 1977 +++)
 
 # § 117e – Ablehnungsgründe
 
@@ -2479,6 +2477,8 @@ b) eine Angelegenheit betrifft, die nach deutschem Recht keine Straftat darstell
 
 (5) Soweit die Übermittlung von Informationen die Genehmigung der Staatsanwaltschaft oder eines Gerichtes voraussetzt, unternimmt die zuständige mit der Steuerfahndung betraute Dienststelle der Finanzbehörde unverzüglich alle erforderlichen Schritte, um diese Genehmigung so schnell wie möglich einzuholen.
 
+(+++ § 117e: Zur Anwendung vgl. §§ 117g u. 117h +++)
+
 # § 117f – Zusammenarbeit mit zentralen Kontaktstellen
 
 (1) Auf ein Ersuchen hin, das bei der nach Artikel 14 der Richtlinie (EU) 2023/977 für die Bundesrepublik Deutschland benannten nationalen zentralen Kontaktstelle eingegangen ist, haben die mit der Steuerfahndung betrauten Dienststellen der Finanzbehörden der zentralen Kontaktstelle verfügbare Informationen im Sinne des § 117c Absatz 2 nach § 117c Absatz 3 zu übermitteln.
@@ -2493,6 +2493,8 @@ b) eine Angelegenheit betrifft, die nach deutschem Recht keine Straftat darstell
 
 3. die Sicherheit einer oder mehrerer Personen.
 
+(+++ § 117f: Zur Anwendung vgl. § 117h +++)
+
 # § 117g – Informationsübermittlung ohne Ersuchen
 
 (1) Nach Maßgabe der Richtlinie (EU) 2023/977 dürfen die mit der Steuerfahndung betrauten Dienststellen der Finanzbehörden gemäß § 117c Absatz 2 verfügbare Informationen einschließlich personenbezogener Daten, ohne Ersuchen an die zuständigen Strafverfolgungsbehörden anderer Mitgliedstaaten der Europäischen Union aus eigener Initiative übermitteln, wenn objektive Anhaltspunkte dafür vorliegen, dass die Informationen für den anderen Mitgliedstaat der Europäischen Union zum Zweck der Verhütung von Straftaten relevant sein könnten. Satz 1 gilt auch für die Übermittlung an nach Artikel 14 der Richtlinie (EU) 2023/977 benannte zentrale Kontaktstellen anderer Mitgliedstaaten der Europäischen Union.
@@ -2502,6 +2504,8 @@ b) eine Angelegenheit betrifft, die nach deutschem Recht keine Straftat darstell
 (3) Die Regelungen des § 3 des Bundeskriminalamtgesetzes über den internationalen Dienstverkehr der Polizeien des Bundes und der Länder bleiben unberührt. Wenn die Übermittlung an die zentrale Kontaktstelle eines anderen Mitgliedstaates der Europäischen Union erfolgt, sind die Informationen in einer der Sprachen zu übermitteln, die von diesem Mitgliedstaat der Europäischen Union nach Artikel 11 der Richtlinie (EU) 2023/977 benannt wurden.
 
 (4) § 117c Absatz 3 Satz 2 und § 117f sind entsprechend anzuwenden.
+
+(+++ § 117g: Zur Anwendung vgl. § 117h +++)
 
 # § 117h – Verpflichtung zur Übermittlung von Informationen ohne Ersuchen
 
@@ -4397,7 +4401,7 @@ c) die untersuchten Waren den an sie gestellten Anforderungen nicht entsprechen,
 
 5. amtlichen Bewachungen und Begleitungen von Beförderungsmitteln oder Waren,
 
-6. Verwahrung von Nichtgemeinschaftswaren,
+6. Verwahrung von Nicht-Unionswaren,
 
 7. Fertigung von Schriftstücken, elektronischen Dokumenten, Abschriften und Ablichtungen sowie bei der elektronischen Übersendung oder dem Ausdruck von elektronischen Dokumenten und anderen Dateien, wenn diese Arbeiten auf Antrag erfolgen,
 
@@ -4925,7 +4929,7 @@ a) in Herstellungsbetrieben oder anderen anmeldepflichtigen Räumen, die der Fin
 
 b) im Handel ohne eine den Steuergesetzen entsprechende Verpackung, Bezeichnung, Kennzeichnung oder ohne vorschriftsmäßige Steuerzeichen,
 
-2. Waren, die im grenznahen Raum oder in Gebieten, die der Grenzaufsicht unterliegen, aufgefunden werden, wenn sie weder offenbar Gemeinschaftswaren noch den Umständen nach in den zollrechtlich freien Verkehr überführt worden sind,
+2. Waren, die im grenznahen Raum oder in Gebieten, die der Grenzaufsicht unterliegen, aufgefunden werden, wenn sie weder offenbar Unionswaren noch den Umständen nach in den zollrechtlich freien Verkehr überführt worden sind,
 
 3. die Umschließungen der in den Nummern 1 und 2 genannten Waren,
 
@@ -6467,7 +6471,7 @@ Der Ausschluss der Straffreiheit nach Satz 1 Nummer 1 Buchstabe a und c hindert 
 
 # § 373 – Gewerbsmäßiger, gewaltsamer und bandenmäßiger Schmuggel
 
-(1) Wer gewerbsmäßig Einfuhr- oder Ausfuhrabgaben hinterzieht oder gewerbsmäßig durch Zuwiderhandlungen gegen Monopolvorschriften Bannbruch begeht, wird mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren bestraft. In minder schweren Fällen ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.
+(1) Wer gewerbsmäßig Einfuhr- oder Ausfuhrabgaben hinterzieht, wird mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren bestraft. In minder schweren Fällen ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.
 
 (2) Ebenso wird bestraft, wer
 
@@ -6593,7 +6597,7 @@ und dadurch ermöglicht, Steuern zu verkürzen oder nicht gerechtfertigte Steuer
 
 (8) (weggefallen)
 
-(+++ § 379: Zur Anwendung vgl. Art. 97 §§ 30, 32, 33 u. 37 AOEG 1977 +++)
+(+++ § 379: Zur Anwendung vgl. Art. 97 §§ 30, 32, 33 u. 37 u. Art. 101 AOEG 1977 +++)
 
 # § 380 – Gefährdung der Abzugsteuern
 
@@ -6648,6 +6652,8 @@ gelten, soweit die Zollvorschriften, die dazu oder die auf Grund von Absatz 4 er
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig einer Rechtsverordnung nach § 117a Absatz 1 Satz 1 Nummer 1 oder 2 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
+
+(+++ § 383a: Zur Anwendung vgl. Art. 101 AOEG 1977 +++)
 
 # § 383b – Pflichtverletzung bei Übermittlung von Vollmachtsdaten
 

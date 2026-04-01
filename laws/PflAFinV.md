@@ -1,4 +1,4 @@
-% Verordnung über die Finanzierung der Ausbildungen nach dem Pflegeberufegesetz sowie zur Durchführung statistischer Erhebungen *)  (Pflegeberufe-Ausbildungsfinanzierungsverordnung - PflAFinV)
+% Verordnung über die Finanzierung der Ausbildungen nach dem Pflegeberufegesetz und nach dem Pflegefachassistenzgesetz sowie zur Durchführung statistischer Erhebungen  (Pflegeberufe-Ausbildungsfinanzierungsverordnung - PflAFinV)
 % Ausfertigungsdatum: 02.10.2018
  
 # Eingangsformel

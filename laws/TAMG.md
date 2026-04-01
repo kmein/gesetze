@@ -1245,8 +1245,6 @@ Die Anwendung der nach der Verordnung (EU) 2019/6 in der Fassung vom 23. Novembe
 
 (6) Das Bundesministerium für Landwirtschaft, Ernährung und Heimat wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Ausnahmen von Absatz 1 vorzusehen, soweit dies zur Vorbeugung vor oder Heilung und Erkennung von Seuchen gerechtfertigt ist und der Schutz der Gesundheit von Mensch und Tier gewahrt bleibt.
 
-§ 50 Abs. 2 Satz 1: Nach der Entscheidungsformel mit Art. 2 Abs. 1 u. Art. 12 Abs. 1 GG unvereinbar u. nichtig, soweit die Vorschrift die Anwendung nicht verschreibungspflichtiger und zugleich registrierter homöopathischer Humanarzneimittel bei Tieren, die nicht der Gewinnung von Lebensmitteln dienen, unter einen Tierarztvorbehalt stellt gem. BVerfGE v. 29.9.2022 I 2261 - BvR 2380/21, 1 BvR 2449/21 -; Zur Umsetzung der Anforderungen des BVerfG vgl. G v. 20.2.2024 I Nr. 53 mWv 27.2.2024
-
 # § 51 – Befugnisse tierärztlicher Bildungsstätten
 
 Einrichtungen der tierärztlichen Bildungsstätten im Hochschulbereich, die der Arzneimittelversorgung der dort behandelten Tiere dienen und von einer Tierärztin, einem Tierarzt, einer Apothekerin oder einem Apotheker geleitet werden, haben die Rechte und Pflichten, die eine Tierärztin oder ein Tierarzt nach den Vorschriften der Verordnung (EU) 2019/6 und dieses Gesetzes hat.

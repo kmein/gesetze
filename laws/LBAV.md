@@ -125,7 +125,7 @@ In den übrigen Fällen legt das Bundesverwaltungsamt oder die nach § 4 Absatz 
 
 (3) Die Eignungsprüfung wird durch eine Prüfungskommission durchgeführt, die vom Bundesverwaltungsamt oder von einer nach § 4 Absatz 2 beauftragten Behörde bestimmt wird. Diese besteht in der Regel aus einer oder einem Vorsitzenden und drei weiteren Mitgliedern und soll zu gleichen Teilen mit Frauen und Männern besetzt sein. Sie ist unabhängig und nicht weisungsgebunden.
 
-(4) Die Eignungsprüfung besteht aus einem schriftlichen und einem mündlichen Teil. Der schriftliche Teil kann mehrere Aufsichtsarbeiten umfassen. § 10 Absatz 2 Satz 2 und § 17 Absatz 3 Nummer 1 und Absatz 5 Satz 1 Nummer 1 der Bundeslaufbahnverordnung sind entsprechend anzuwenden.
+(4) Die Eignungsprüfung besteht aus einem schriftlichen und einem mündlichen Teil. Der schriftliche Teil kann mehrere Aufsichtsarbeiten umfassen. § 10 Absatz 2 Satz 2 und § 20 Absatz 3 Nummer 1 und Absatz 5 Satz 1 Nummer 1 der Bundeslaufbahnverordnung sind entsprechend anzuwenden.
 
 (5) Über den Prüfungshergang ist ein Protokoll mit folgenden Angaben aufzunehmen:
 

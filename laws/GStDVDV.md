@@ -11,7 +11,7 @@ Auf Grund des § 26 Absatz 2 des Bundesbeamtengesetzes, der durch Artikel 1 Numm
 
 (2) Der Vorbereitungsdienst dauert drei Jahre. Er gliedert sich in Fachstudien und berufspraktische Studienzeiten.
 
-(3) Über eine Verlängerung oder Verkürzung des Vorbereitungsdienstes nach § 15 oder § 16 der Bundeslaufbahnverordnung entscheidet das Bundeszentralamt für Steuern im Benehmen mit der zuständigen Landesfinanzbehörde. Die Verlängerung des Vorbereitungsdienstes kann darauf ausgerichtet werden, dass die Anwärterin oder der Anwärter zusammen mit den später eingestellten Anwärterinnen und Anwärtern die Ausbildung fortsetzen und die Laufbahnprüfung ablegen kann. Im Falle der Wiederholung der Laufbahnprüfung kann das Bundeszentralamt für Steuern die Verlängerung des Vorbereitungsdienstes davon abhängig machen, ob die Anwärterin oder der Anwärter bei der vorherigen Laufbahnprüfung eine Mindestgesamtpunktzahl erreicht hat.
+(3) Über eine Verlängerung oder Verkürzung des Vorbereitungsdienstes nach § 18 oder § 19 der Bundeslaufbahnverordnung entscheidet das Bundeszentralamt für Steuern im Benehmen mit der zuständigen Landesfinanzbehörde. Die Verlängerung des Vorbereitungsdienstes kann darauf ausgerichtet werden, dass die Anwärterin oder der Anwärter zusammen mit den später eingestellten Anwärterinnen und Anwärtern die Ausbildung fortsetzen und die Laufbahnprüfung ablegen kann. Im Falle der Wiederholung der Laufbahnprüfung kann das Bundeszentralamt für Steuern die Verlängerung des Vorbereitungsdienstes davon abhängig machen, ob die Anwärterin oder der Anwärter bei der vorherigen Laufbahnprüfung eine Mindestgesamtpunktzahl erreicht hat.
 
 # § 2 – Dienstbehörde, Dienstaufsicht
 

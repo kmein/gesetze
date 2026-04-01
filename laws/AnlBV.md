@@ -417,8 +417,6 @@ Die in den jeweiligen Lotsverordnungen vorgesehenen Interpolationsmöglichkeiten
 9  
 (weggefallen)
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 10.9.2025 I Nr. 208 +++)
-
 # Anhang – (zu § 1 Abs. 1 Nr. 1.17)
 
 (Inhalt: Nicht darstellbare topographische Karte,  

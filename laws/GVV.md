@@ -1886,8 +1886,6 @@ Die Herleitung der Vergütung für Änderungsverlangen des Mauterhebers ist ausf
 
 Der Hauptdiensteanbieter erhält auf die Vergütung der erbrachten Leistungen einen Gewinn- und Wagniszuschlag. Dementsprechend erhält der EETS-Anbieter ebenso einen Zuschlag auf die Bestandteile „Betriebsentgelt“, „Entgelt automatisches Verfahren“ sowie „Nutzungs- und Zahlungsprovisionsentgelt“. Durch die unterschiedliche Marktpositionierung von Hauptdiensteanbieter und EETS-Anbietern erhalten die EETS-Anbieter einen höheren Gewinn- und Wagniszuschlag auf die Bestandteile „Betriebsentgelt“ und „Entgelt automatisches Verfahren“ als der Hauptdiensteanbieter, um die höheren Risiken abzudecken.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 20.10.2025 I Nr. 244 +++)
-
 # Anhang
 
 (Fundstelle: BAnz AT 27.03.2018 V1)

@@ -1,4 +1,4 @@
-% Verordnung über den Vorbereitungsdienst für den mittleren technischen Dienst in der Bundeswehrverwaltung – Fachrichtung Wehrtechnik –  (MtDBwVVDV)
+% Verordnung über den Vorbereitungsdienst für den mittleren technischen Verwaltungsdienst in der Bundeswehrverwaltung im Verwendungsbereich Wehrtechnik  (MtDBwVWehrtechnikVDV)
 % Ausfertigungsdatum: 04.07.2024
  
 # Inhaltsübersicht
@@ -93,7 +93,7 @@
 
 # § 1 – Vorbereitungsdienst
 
-Die Ausbildung und die Laufbahnprüfung nach dieser Verordnung sind der Vorbereitungsdienst für den mittleren technischen Dienst in der Bundeswehrverwaltung – Fachrichtung Wehrtechnik –.
+Die Ausbildung und die Laufbahnprüfung nach dieser Verordnung sind der Vorbereitungsdienst für den mittleren technischen Verwaltungsdienst in der Bundeswehrverwaltung im Verwendungsbereich Wehrtechnik.
 
 # § 2 – Dauer des Vorbereitungsdienstes
 
@@ -286,11 +286,9 @@ Beschäftigungsdienststelle der Anwärterinnen und Anwärter ist das Bundesamt f
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet die Einstellungsbehörde auf der Grundlage eines Auswahlverfahrens. In dem Auswahlverfahren wird festgestellt, ob die Bewerberinnen und Bewerber aufgrund ihrer Kenntnisse, Fähigkeiten und persönlichen Eigenschaften für den Vorbereitungsdienst geeignet und befähigt sind.
 
-(2) Wird nach § 10a Absatz 3 der Bundeslaufbahnverordnung die Zahl der am Auswahlverfahren Teilnehmenden beschränkt, so werden schwerbehinderte und gleichgestellte behinderte Menschen sowie frühere Soldatinnen auf Zeit und frühere Soldaten auf Zeit mit Eingliederungs- oder Zulassungsschein zusätzlich und ohne Beschränkung zum Auswahlverfahren zugelassen, wenn sie die in der Ausschreibung genannten Voraussetzungen erfüllen.
+(2) Wird nach § 11 Absatz 4 der Bundeslaufbahnverordnung die Zahl der am Auswahlverfahren Teilnehmenden beschränkt, so werden schwerbehinderte und gleichgestellte behinderte Menschen sowie frühere Soldatinnen auf Zeit und frühere Soldaten auf Zeit mit Eingliederungs- oder Zulassungsschein zusätzlich und ohne Beschränkung zum Auswahlverfahren zugelassen, wenn sie die in der Ausschreibung genannten Voraussetzungen erfüllen.
 
 (3) Wer nicht zum Auswahlverfahren zugelassen wird, erhält eine schriftliche oder elektronische Ablehnung. Elektronisch eingereichte Bewerbungsunterlagen werden spätestens sechs Monate nach der Ablehnung endgültig gelöscht. Nicht elektronisch eingereichte Bewerbungsunterlagen sowie Ausdrucke elektronisch eingereichter Bewerbungsunterlagen werden spätestens nach Ablauf dieser Frist vernichtet. Originaldokumente werden auf Wunsch zurückgesandt.
-
-(+++ § 11 Abs. 3: Zur Anwendung vgl. § 21 Abs. 4 +++)
 
 # § 12 – Anforderungen im Auswahlverfahren
 
@@ -416,7 +414,7 @@ Das Auswahlverfahren besteht aus
 
 # § 21 – Einstellung in den Vorbereitungsdienst
 
-(1) In den Vorbereitungsdienst für den mittleren technischen Dienst in der Bundeswehrverwaltung – Fachrichtung Wehrtechnik – kann eingestellt werden, wer
+(1) In den Vorbereitungsdienst für den mittleren technischen Verwaltungsdienst in der Bundeswehrverwaltung im Verwendungsbereich Wehrtechnik kann eingestellt werden, wer
 
 1. mindestens eine Hauptschule erfolgreich besucht hat,
 
@@ -884,7 +882,7 @@ b) mindestens einer Beamtin oder einem Beamten des gehobenen technischen Verwalt
 
 (2) Bei der schriftlichen und bei der mündlichen Prüfung können Angehörige des Prüfungsamts anwesend sein.
 
-(3) Das Prüfungsamt kann Personen, die mit der Ausbildung oder der Prüfung von Anwärterinnen und Anwärtern für den Vorbereitungsdienst für den mittleren technischen Dienst in der Bundeswehrverwaltung – Fachrichtung Wehrtechnik – befasst sind, die Anwesenheit bei der mündlichen Prüfung gestatten.
+(3) Das Prüfungsamt kann Personen, die mit der Ausbildung oder der Prüfung von Anwärterinnen und Anwärtern für den Vorbereitungsdienst für den mittleren technischen Verwaltungsdienst in der Bundeswehrverwaltung im Verwendungsbereich Wehrtechnik befasst sind, die Anwesenheit bei der mündlichen Prüfung gestatten.
 
 (4) Wenn eine schwerbehinderte Person oder eine gleichgestellte behinderte Person an der mündlichen Prüfung teilnimmt, kann die Schwerbehindertenvertretung an der mündlichen Prüfung teilnehmen. Dies gilt nicht, wenn die Person der Teilnahme der Schwerbehindertenvertretung ausdrücklich widerspricht.
 
@@ -1082,7 +1080,7 @@ Die Laufbahnprüfung hat bestanden,
 
 # § 77 – Wiederholung der Laufbahnprüfung
 
-(1) Im Wiederholungsfall (§ 17 Absatz 3 Nummer 1 und Absatz 5 Satz 1 Nummer 1 der Bundeslaufbahnverordnung) ist die Laufbahnprüfung vollständig zu wiederholen.
+(1) Im Wiederholungsfall (§ 20 Absatz 3 Nummer 1 und Absatz 5 Satz 1 Nummer 1 der Bundeslaufbahnverordnung) ist die Laufbahnprüfung vollständig zu wiederholen.
 
 (2) Im Wiederholungsfall bestimmt das Prüfungsamt auf Vorschlag der Prüfungskommission,
 

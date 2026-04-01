@@ -321,13 +321,14 @@ d) eines Wärmenetzes,
 
 (3) Den Auskunftspflichtigen nach Absatz 1 Nummer 3 und 4 sind die für die Übermittlung von Daten nach diesem Gesetz entstehenden Aufwendungen von der planungsverantwortlichen Stelle zu erstatten. Eine Kostenerstattung für die Erteilung von Auskünften für die Auskunftspflichtigen nach Absatz 1 Nummer 1 und 2 sowie für Gemeinden, Gemeindeverbände oder staatliche Hoheitsträger findet nicht statt. Die Länder können von den Sätzen 1 und 2 abweichende Rechtsvorschriften erlassen.
 
-(4) Daten, die Betriebs- oder Geschäftsgeheimnisse oder vertrauliche Informationen zu kritischen Anlagen nach § 2 Nummer 22 des BSI-Gesetzes vom 2. Dezember 2025 (BGBl. I 2025 Nr. 301, S. 2) in der jeweils geltenden Fassung, in Verbindung mit der BSI-Kritisverordnung vom 22. April 2016 (BGBl. I S. 958), die zuletzt durch Artikel 1 der Verordnung vom 23. Februar 2023 (BGBl. 2023 I Nr. 53) geändert worden ist, enthalten, sind von den nach Absatz 1 Auskunftspflichtigen bei der Übermittlung als vertraulich zu kennzeichnen. Sonstige gesetzliche Regelungen zum Geheimnisschutz, gesetzliche Übermittlungshindernisse und Übermittlungsregelungen bleiben unberührt. Als vertraulich gekennzeichnete Daten dürfen von der planungsverantwortlichen Stelle nicht veröffentlicht werden.
+(4) Daten, die Betriebs- oder Geschäftsgeheimnisse oder vertrauliche Informationen zu kritischen Anlagen nach § 2 Nummer 3 des KRITIS-Dachgesetzes in der jeweils geltenden Fassung, in Verbindung mit der BSI-Kritisverordnung vom 22. April 2016 (BGBl. I S. 958), die zuletzt durch Artikel 1 der Verordnung vom 23. Februar 2023 (BGBl. 2023 I Nr. 53) geändert worden ist, enthalten, sind von den nach Absatz 1 Auskunftspflichtigen bei der Übermittlung als vertraulich zu kennzeichnen. Sonstige gesetzliche Regelungen zum Geheimnisschutz, gesetzliche Übermittlungshindernisse und Übermittlungsregelungen bleiben unberührt. Als vertraulich gekennzeichnete Daten dürfen von der planungsverantwortlichen Stelle nicht veröffentlicht werden.
 
 (5) Daten, die die Bundeswehr, verbündete Streitkräfte oder von diesen Stellen beauftragte Stellen einschließlich deren Liegenschaften betreffen, dürfen nur mit Zustimmung des Bundesministeriums der Verteidigung für Liegenschaften im Geschäftsbereich des Bundesministeriums der Verteidigung oder für Liegenschaften verbündeter Streitkräfte mit Zustimmung der jeweils zuständigen Bundesbehörde entsprechend den geltenden Abkommen erhoben werden. Die Zustimmung gilt als erteilt, wenn das Bundesministerium der Verteidigung oder die für die Erteilung der Zustimmung für Liegenschaften verbündeter Streitkräfte zuständige Bundesbehörde der Datenerhebung nicht innerhalb von zwei Monaten schriftlich gegenüber der planungsverantwortlichen Stelle widersprochen hat.
 
 (6) Kommt ein Auskunftspflichtiger seiner Verpflichtung nach diesem Gesetz nicht nach, so kann die planungsverantwortliche Stelle ihm gegenüber die zur Einhaltung der Verpflichtungen erforderlichen Maßnahmen unter Fristsetzung anordnen. Hinsichtlich den nach Absatz 1 Nummer 1 und 3 Auskunftspflichtigen hat die planungsverantwortliche Stelle die aufsichtführende Stelle zu ersuchen, entsprechende Maßnahmen anzuordnen.
 
-(+++ § 11 Abs. 4: Zur Anwendung vgl. § 8 Abs. 1 +++)
+(+++ § 11 Abs. 4: Zur Anwendung vgl. § 8 Abs. 1 +++)  
+(+++ § 11 Abs. 4 Satz 1: Zur Anwendung vgl. § 34a Satz 1 +++)
 
 # § 12 – Anforderungen an die Datenverarbeitung
 
@@ -648,6 +649,10 @@ Absatz 1 Satz 3 und 4 ist entsprechend anzuwenden.
 # § 34 – Zentrale Veröffentlichung von Wärmeplänen im Internet
 
 Das Bundesministerium für Wirtschaft und Energie wird erstellte Wärmepläne auf einer Internetseite zentral zugänglich machen. Die Veröffentlichung erfolgt erstmalig sechs Monate nach Ablauf der jeweiligen Fristen in § 4 Absatz 2. Auf dieser Internetseite wird ferner für die Jahre 2030 und 2040 sowie den Stichtag 1. Januar 2045 der bundesweite Anteil der Nettowärmeerzeugung in Wärmenetzen mit Wärme aus erneuerbaren Energien, aus unvermeidbarer Abwärme oder einer Kombination aus beidem ausgewiesen. Die Länder sind verpflichtet, dem Bundesministerium für Wirtschaft und Energie hierzu auf Anforderung die erforderlichen Informationen mitzuteilen.
+
+# § 34a – Übergangsbestimmung
+
+§ 11 Absatz 4 Satz 1 ist erst anzuwenden, wenn eine auf der Grundlage von § 4 Absatz 3 und § 5 Absatz 1 des KRITIS-Dachgesetzes erlassene Rechtsverordnung gilt. Bis zur Geltung dieser Rechtsverordnung ist § 11 Absatz 4 Satz 1 in der bis einschließlich 16. März 2026 geltenden Fassung weiter anzuwenden.
 
 # § 35 – Evaluation
 

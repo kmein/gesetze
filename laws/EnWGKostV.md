@@ -130,8 +130,7 @@ durch Genehmigung gegenüber dem Antragsteller
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> 4.11</td>
-<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung nach § 29 Absatz 1 EnWG i. V. m. § 19 Absatz 2 Satz 5
-StromNEV</td>
+<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung nach § 29 Absatz 1 EnWG i. V. m. § 19 Absatz 2 Satz 5 StromNEV</td>
 <td style="text-align: right; border-bottom: 0.5pt solid;" data-valign="top" data-char="–" data-charoff="50">500 –  15 000</td>
 </tr>
 <tr class="even">
@@ -486,24 +485,23 @@ StromNEV</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">22</td>
-<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Amtshandlungen nach § 12g Absatz 3 EnWG</td>
+<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">(weggefallen)</td>
 <td style="text-align: right; border-bottom: 0.5pt solid;" data-valign="top" data-char="–" data-charoff="50"> </td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">22.1</td>
-<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Bestätigung nach § 12g Absatz 3 EnWG i. V. m. § 5 Absatz 1 Satz 1 und 2
-ÜNSchutzV</td>
-<td style="text-align: right; border-bottom: 0.5pt solid;" data-valign="top" data-char="–" data-charoff="50">500 –   5 000</td>
+<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">(weggefallen)</td>
+<td style="text-align: right; border-bottom: 0.5pt solid;" data-valign="top" data-char="–" data-charoff="50"> </td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">22.2</td>
-<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Beanstandung nach § 12g Absatz 3 EnWG i. V. m. § 5 Absatz 1 Satz 1 und 3 ÜNSchutzV</td>
-<td style="text-align: right; border-bottom: 0.5pt solid;" data-valign="top" data-char="–" data-charoff="50">500 –   5 000</td>
+<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">(weggefallen)</td>
+<td style="text-align: right; border-bottom: 0.5pt solid;" data-valign="top" data-char="–" data-charoff="50"> </td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">22.3</td>
-<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Aufforderung nach § 12g Absatz 3 EnWG i. V. m. § 5 Absatz 3 ÜNSchutzV</td>
-<td style="text-align: right; border-bottom: 0.5pt solid;" data-valign="top" data-char="–" data-charoff="50">500 </td>
+<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">(weggefallen)</td>
+<td style="text-align: right; border-bottom: 0.5pt solid;" data-valign="top" data-char="–" data-charoff="50"> </td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">23</td>
@@ -606,13 +604,11 @@ StromNEV</td>
 <dl>
 <dt>–</dt>
 <dd>
-der Verordnung (EG) Nr. 715/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über die Bedingungen für den Zugang zu den Erdgasfernleitungsnetzen und zur Aufhebung der Verordnung (EG)
-Nr. 1775/2005 (ABl. L 211 vom 14.8.2009, S. 36), die zuletzt durch die Verordnung (EU) 2022/1032 (ABl. L 173 vom 30.6.2022, S. 17) geändert worden ist,
+der Verordnung (EG) Nr. 715/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über die Bedingungen für den Zugang zu den Erdgasfernleitungsnetzen und zur Aufhebung der Verordnung (EG) Nr. 1775/2005 (ABl. L 211 vom 14.8.2009, S. 36), die zuletzt durch die Verordnung (EU) 2022/1032 (ABl. L 173 vom 30.6.2022, S. 17) geändert worden ist,
 </dd>
 <dt>–</dt>
 <dd>
-der Verordnung (EU) Nr. 984/2013 der Kommission vom 14. Oktober 2013 zur Festlegung eines Netzkodex über Mechanismen für die Kapazitätszuweisung in Fernleitungsnetzen und zur Ergänzung der Verordnung (EG)
-Nr. 715/2009 des Europäischen Parlaments und des Rates (ABl. L 273 vom 15.10.2013, S. 5), die durch die Verordnung (EU) 2017/459 (ABl. L 72 vom 17.3.2017, S. 1) aufgehoben worden ist,
+der Verordnung (EU) Nr. 984/2013 der Kommission vom 14. Oktober 2013 zur Festlegung eines Netzkodex über Mechanismen für die Kapazitätszuweisung in Fernleitungsnetzen und zur Ergänzung der Verordnung (EG) Nr. 715/2009 des Europäischen Parlaments und des Rates (ABl. L 273 vom 15.10.2013, S. 5), die durch die Verordnung (EU) 2017/459 (ABl. L 72 vom 17.3.2017, S. 1) aufgehoben worden ist,
 </dd>
 <dt>–</dt>
 <dd>
@@ -635,8 +631,7 @@ der Verordnung (EU) 2017/460 der Kommission vom 16. März 2017 zur Festlegung ei
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">30.1</td>
-<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung konkurrierender Kapazitätszuweisung nach § 56 Absatz 1 Satz 1 Nummer 2 EnWG i. V. m. den Artikeln 6 und 23 der Verordnung (EG)
-Nr. 715/2009 i. V. m. Artikel 8 Absatz 2 der Verordnung (EU) 2017/459</td>
+<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung konkurrierender Kapazitätszuweisung nach § 56 Absatz 1 Satz 1 Nummer 2 EnWG i. V. m. den Artikeln 6 und 23 der Verordnung (EG) Nr. 715/2009 i. V. m. Artikel 8 Absatz 2 der Verordnung (EU) 2017/459</td>
 <td style="text-align: right; border-bottom: 0.5pt solid;" data-valign="top" data-char="–" data-charoff="50">8 500 </td>
 </tr>
 <tr class="odd">
@@ -686,8 +681,7 @@ Nr. 715/2009 i. V. m. Artikel 8 Absatz 2 der Verordnung (EU) 2017/459</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">30.11</td>
-<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Festlegung zur Einführung eines wirksamen Ausgleichsmechanismus zwischen den Fernleitungsnetzbetreibern eines Marktgebiets nach § 56 Absatz 1 Satz 1 Nummer 2 EnWG i. V. m. den Artikeln 6 und 23 der Verordnung (EG)
-Nr. 715/2009 i. V. m. Artikel 10 Absatz 3 Satz 1 der Verordnung (EU) 2017/460</td>
+<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Festlegung zur Einführung eines wirksamen Ausgleichsmechanismus zwischen den Fernleitungsnetzbetreibern eines Marktgebiets nach § 56 Absatz 1 Satz 1 Nummer 2 EnWG i. V. m. den Artikeln 6 und 23 der Verordnung (EG) Nr. 715/2009 i. V. m. Artikel 10 Absatz 3 Satz 1 der Verordnung (EU) 2017/460</td>
 <td style="text-align: right; border-bottom: 0.5pt solid;" data-valign="top" data-char="–" data-charoff="50">20 000 </td>
 </tr>
 <tr class="odd">
@@ -727,8 +721,7 @@ Nr. 715/2009 i. V. m. Artikel 10 Absatz 3 Satz 1 der Verordnung (EU) 2017/460</t
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32</td>
-<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung der Geschäftsbedingungen oder Methoden oder Genehmigung zur Änderung der Geschäftsbedingungen oder Methoden nach § 56 Absatz 2 Satz 1 EnWG i. V. m. Artikel 9 Absatz 6 Buchstabe a bis m, Absatz 7 Buchstabe a bis h, Absatz 8 Buchstabe a bis f und Artikel 9 Absatz 13 der Verordnung (EU)
-2015/1222 der Kommission vom 24. Juli 2015 zur Festlegung einer Leitlinie für die Kapazitätsvergabe und das Engpassmanagement in der bis zum Ablauf des 14. März 2021 geltenden Fassung (ABl. L 197 vom 25.7.2015, S. 24)</td>
+<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Genehmigung der Geschäftsbedingungen oder Methoden oder Genehmigung zur Änderung der Geschäftsbedingungen oder Methoden nach § 56 Absatz 2 Satz 1 EnWG i. V. m. Artikel 9 Absatz 6 Buchstabe a bis m, Absatz 7 Buchstabe a bis h, Absatz 8 Buchstabe a bis f und Artikel 9 Absatz 13 der Verordnung (EU) 2015/1222 der Kommission vom 24. Juli 2015 zur Festlegung einer Leitlinie für die Kapazitätsvergabe und das Engpassmanagement in der bis zum Ablauf des 14. März 2021 geltenden Fassung (ABl. L 197 vom 25.7.2015, S. 24)</td>
 <td style="text-align: right; border-bottom: 0.5pt solid;" data-valign="top" data-char="–" data-charoff="50">5 000 – 180 000</td>
 </tr>
 <tr class="odd">
@@ -898,8 +891,7 @@ Nr. 715/2009 i. V. m. Artikel 10 Absatz 3 Satz 1 der Verordnung (EU) 2017/460</t
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">48.2</td>
-<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Festlegung zu vollständig integrierten Netzkomponenten nach § 29 Absatz 1
-i. V. m. § 11b Absatz 1 Nummer 2 EnWG</td>
+<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Festlegung zu vollständig integrierten Netzkomponenten nach § 29 Absatz 1 i. V. m. § 11b Absatz 1 Nummer 2 EnWG</td>
 <td style="text-align: right; border-bottom: 0.5pt solid;" data-valign="top" data-char="–" data-charoff="50">30 500 </td>
 </tr>
 <tr class="odd">

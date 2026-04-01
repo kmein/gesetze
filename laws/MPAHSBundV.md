@@ -21,13 +21,13 @@ Mit dem erfolgreichen Abschluss des Studiums wird der akademische Grad „Master
 
 # § 4 – Zulassung
 
-Zum Studium können Beamtinnen und Beamte zugelassen werden, die die Laufbahnbefähigung für den gehobenen nichttechnischen Verwaltungsdienst des Bundes und einen Bachelor- oder einen Diplomabschluss, einen Abschluss eines akkreditierten Bachelorausbildungsgangs an einer Berufsakademie oder einen gleichwertigen Abschluss besitzen. § 36 der Bundeslaufbahnverordnung bleibt unberührt.
+Zum Studium können Beamtinnen und Beamte zugelassen werden, die die Laufbahnbefähigung für den gehobenen nichttechnischen Verwaltungsdienst des Bundes und einen Bachelor- oder einen Diplomabschluss, einen Abschluss eines akkreditierten Bachelorausbildungsgangs an einer Berufsakademie oder einen gleichwertigen Abschluss besitzen. § 44 der Bundeslaufbahnverordnung bleibt unberührt.
 
 # § 5 – Dauer des Studiums, Freistellung
 
 (1) Die Regelstudienzeit beträgt fünf Semester. Für das erfolgreich abgeschlossene Studium werden 120 Leistungspunkte vergeben.
 
-(2) Für Verlängerungen und Unterbrechungen des Studiums gilt § 15 Absatz 1 und 2 der Bundeslaufbahnverordnung entsprechend. Insgesamt soll das Studium um nicht mehr als drei Jahre verlängert werden. Entscheidungen nach den Sätzen 1 und 2 treffen die zuständigen Dienstbehörden im Einvernehmen mit der Hochschule.
+(2) Für Verlängerungen und Unterbrechungen des Studiums gilt § 18 Absatz 1 und 2 der Bundeslaufbahnverordnung entsprechend. Insgesamt soll das Studium um nicht mehr als drei Jahre verlängert werden. Entscheidungen nach den Sätzen 1 und 2 treffen die zuständigen Dienstbehörden im Einvernehmen mit der Hochschule.
 
 (3) Das Studium ist ein berufsbegleitender Fernstudiengang mit Präsenzzeiten. Die Studierenden sind für den Besuch der Präsenzveranstaltungen und für die Teilnahme an den Prüfungen von ihren sonstigen Dienstpflichten freizustellen. Im Modul Masterarbeit sind die Studierenden für die Anfertigung der Masterarbeit im Umfang von 30 Arbeitstagen von ihren sonstigen Dienstpflichten freizustellen. In den übrigen Modulen sind die Studierenden für das Selbststudium im Umfang von acht Arbeitstagen je Modul von ihren sonstigen Dienstpflichten freizustellen.
 
@@ -329,7 +329,7 @@ erreichten Punktzahl an der erreichbaren Punktzahl</th>
 
 # § 22 – Berufspraktische Einführung
 
-(1) In einer berufspraktischen Einführung sollen die Beamtinnen und Beamten nachweisen, dass sie die Eignung und Befähigung für den höheren nichttechnischen Verwaltungsdienst des Bundes besitzen. Die berufspraktische Einführung dauert ein Jahr und kann studienbegleitend durchgeführt werden. Während dieser Zeit nehmen die Beamtinnen und Beamten Aufgaben des höheren nichttechnischen Verwaltungsdienstes wahr. § 15 Absatz 1 und 2 der Bundeslaufbahnverordnung gilt entsprechend. Die Beamtinnen und Beamten sollen in mindestens zwei Verwendungsbereichen eingesetzt werden, wenn dienstliche Gründe dem nicht entgegenstehen.
+(1) In einer berufspraktischen Einführung sollen die Beamtinnen und Beamten nachweisen, dass sie die Eignung und Befähigung für den höheren nichttechnischen Verwaltungsdienst des Bundes besitzen. Die berufspraktische Einführung dauert ein Jahr und kann studienbegleitend durchgeführt werden. Während dieser Zeit nehmen die Beamtinnen und Beamten Aufgaben des höheren nichttechnischen Verwaltungsdienstes wahr. § 18 Absatz 1 und 2 der Bundeslaufbahnverordnung gilt entsprechend. Die Beamtinnen und Beamten sollen in mindestens zwei Verwendungsbereichen eingesetzt werden, wenn dienstliche Gründe dem nicht entgegenstehen.
 
 (2) Die berufspraktische Einführungszeit schließt mit einer dienstlichen Beurteilung ab, aus der hervorgeht, ob sich die Beamtin oder der Beamte im höheren nichttechnischen Verwaltungsdienst bewährt hat.
 

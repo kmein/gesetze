@@ -71,8 +71,6 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 
 Dieses Gesetz dient der Durchführung der Regelungen zu den Direktzahlungen in der Verordnung (EU) 2021/2115 in der jeweils geltenden Fassung sowie den im Rahmen dieses Rechtsakts und zu seiner Durchführung erlassenen weiteren Rechtsakte der Europäischen Union (Unionsregelung).
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 17.7.2025 I Nr. 166 +++)
-
 # § 2 – Anwendbare Rechtsvorschriften
 
 Dieses Gesetz ist ein Gesetz im Sinne des § 1 Absatz 2 Nummer 4 des Marktorganisationsgesetzes mit den Maßgaben, dass
@@ -233,8 +231,6 @@ Die indikative Mittelzuweisung für die Junglandwirte-Einkommensstützung für j
 
 (6) Einem Betriebsinhaber, der keine natürliche Person ist, wird die Junglandwirte-Einkommensstützung nicht mehr gewährt, wenn keine natürliche Person mehr den Betriebsinhaber im Sinne von § 12 Absatz 2 Satz 1 kontrolliert, die ihn bei der erstmaligen Beantragung der Junglandwirte-Einkommensstützung kontrolliert hat.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 17.7.2025 I Nr. 166 +++)
-
 # § 17 – Tatsächlicher Einheitsbetrag für die Junglandwirte-Einkommensstützung
 
 Der tatsächliche Einheitsbetrag für die Junglandwirte-Einkommensstützung ist der nach § 31 berechnete Betrag.
@@ -250,8 +246,6 @@ Ein Betriebsinhaber erhält jährlich auf Antrag eine Unterstützung für die fr
 (2) Das Bundesministerium für Ernährung und Landwirtschaft berechnet den Betrag nach Absatz 1, der sich für jedes Antragsjahr, beginnend mit dem Jahr 2023, ergibt.
 
 (3) Das Bundesministerium für Ernährung und Landwirtschaft macht den Betrag nach Absatz 1, der sich für jedes Antragsjahr, beginnend mit dem Jahr 2023, ergibt, im Bundesanzeiger bekannt.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 17.7.2025 I Nr. 166 +++)
 
 # § 20 – Festlegung der Öko-Regelungen
 

@@ -1,4 +1,4 @@
-% Verordnung über die Ausbildung und Prüfung für den höheren technischen Dienst in der Bundeswehrverwaltung – Fachrichtung Wehrtechnik –  (HtDBWVAPrV)
+% Verordnung über den Vorbereitungsdienst für den höheren technischen Verwaltungsdienst in der Bundeswehrverwaltung im Verwendungsbereich Wehrtechnik  (HtDBwVWehrtechnikVDV)
 % Ausfertigungsdatum: 31.03.2010
  
 # Eingangsformel
@@ -43,7 +43,7 @@ Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des Bundesbeamtengesetzes vom
 
 # § 1 – Ziel, Bestandteile und Schwerpunkte des Vorbereitungsdienstes
 
-(1) Ziel des Vorbereitungsdienstes ist es, die für eine vielseitige Verwendung in der Fachrichtung Wehrtechnik des höheren technischen Verwaltungsdienstes der Bundeswehr erforderlichen allgemeinen und wehrtechnischen Kenntnisse und Fähigkeiten zu vermitteln.
+(1) Ziel des Vorbereitungsdienstes ist es, die für eine vielseitige Verwendung im Verwendungsbereich Wehrtechnik des höheren technischen Verwaltungsdienstes der Bundeswehr erforderlichen allgemeinen und wehrtechnischen Kenntnisse und Fähigkeiten zu vermitteln.
 
 (2) Im Vorbereitungsdienst werden den Referendarinnen und Referendaren die beruflichen Kenntnisse vermittelt, die sie benötigen, um ihr im Studium erworbenes Wissen in der Laufbahn des höheren technischen Verwaltungsdienstes anzuwenden. Dazu gehören berufspraktische Fähigkeiten und die Befähigung zu problemorientiertem Denken und Handeln. Die Referendarinnen und Referendare werden mit der Wehrtechnik vertraut gemacht. Sie lernen, ihr Hochschulwissen entsprechend den wehrtechnischen und wirtschaftlichen Erfordernissen anzuwenden, insbesondere mit Blick auf das technische Projektmanagement. Darüber hinaus werden sie mit den einschlägigen rechtlichen Grundlagen vertraut gemacht. Ihr Verständnis für technische, wirtschaftliche und administrative Zusammenhänge wird ebenso gefördert wie ihr Verständnis für die Einbindung der Bundeswehr und insbesondere des Rüstungsbereichs in internationale und überstaatliche Organisationen. Allgemeine berufliche Fähigkeiten, insbesondere zur Kommunikation und Teamarbeit, zum kritischen Überprüfen des eigenen Handelns und zum selbständigen und wirtschaftlichen Handeln, sowie die soziale Kompetenz und die Führungskompetenz sind zu fördern.
 
@@ -103,7 +103,7 @@ Beschäftigungsdienststelle der Anwärterinnen und Anwärter ist das Bundesamt f
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet die Einstellungsbehörde auf der Grundlage eines Auswahlverfahrens. In dem Auswahlverfahren wird festgestellt, ob die Bewerberinnen und Bewerber aufgrund ihrer Kenntnisse, Fähigkeiten und persönlichen Eigenschaften für den Vorbereitungsdienst geeignet und befähigt sind.
 
-(2) Wird nach § 10a Absatz 3 der Bundeslaufbahnverordnung die Zahl der am Auswahlverfahren Teilnehmenden beschränkt, so werden schwerbehinderte Menschen und gleichgestellte behinderte Menschen zusätzlich und ohne Beschränkung zum Auswahlverfahren zugelassen, wenn sie die in der Ausschreibung genannten Voraussetzungen erfüllen.
+(2) Wird nach § 11 Absatz 4 der Bundeslaufbahnverordnung die Zahl der am Auswahlverfahren Teilnehmenden beschränkt, so werden schwerbehinderte Menschen und gleichgestellte behinderte Menschen zusätzlich und ohne Beschränkung zum Auswahlverfahren zugelassen, wenn sie die in der Ausschreibung genannten Voraussetzungen erfüllen.
 
 (3) Wer nicht zum Auswahlverfahren zugelassen wird, erhält eine schriftliche oder elektronische Ablehnung. Elektronisch eingereichte Bewerbungsunterlagen werden spätestens sechs Monate nach der Ablehnung endgültig gelöscht. Nicht elektronisch eingereichte Bewerbungsunterlagen sowie Ausdrucke elektronisch eingereichter Bewerbungsunterlagen werden spätestens nach Ablauf dieser Frist vernichtet. Originaldokumente werden auf Wunsch zurückgesandt.
 
@@ -231,7 +231,7 @@ Das Auswahlverfahren besteht aus
 
 # § 8h – Einstellung in den Vorbereitungsdienst
 
-(1) In den Vorbereitungsdienst für den höheren technischen Dienst in der Bundeswehrverwaltung – Fachrichtung Wehrtechnik – kann eingestellt werden, wer
+(1) In den Vorbereitungsdienst für den höheren technischen Verwaltungsdienst in der Bundeswehrverwaltung im Verwendungsbereich Wehrtechnik kann eingestellt werden, wer
 
 1. ein mit einem Master abgeschlossenes Hochschulstudium oder einen gleichwertigen Abschluss in einer Fachrichtung besitzt, die einem der Fachgebiete nach § 1 Absatz 3 Satz 2 zugeordnet werden kann,
 
@@ -251,7 +251,7 @@ Das Auswahlverfahren besteht aus
 
 1. Lehrgang „Aufgaben und Organisation der Bundeswehr und Statusfragen“,
 
-2. Vorstellung der Verwendungsmöglichkeiten in der Fachrichtung Wehrtechnik des höheren technischen Verwaltungsdienstes,
+2. Vorstellung der Verwendungsmöglichkeiten im Verwendungsbereich Wehrtechnik des höheren technischen Verwaltungsdienstes,
 
 3. Lehrgang „Bundeswehr und Sicherheitspolitik“,
 
@@ -291,7 +291,7 @@ Im Lehrgang „Aufgaben und Organisation der Bundeswehr und Statusfragen“ werd
 
 Zudem wird ihnen ihr Arbeitsumfeld in der Bundeswehr mit den zugehörigen Organisationsbereichen und Arbeitsabläufen vorgestellt. Einzelheiten regelt der Lehrplan.
 
-# § 11 – Vorstellung der Verwendungsmöglichkeiten in der Fachrichtung Wehrtechnik des höheren technischen Verwaltungsdienstes
+# § 11 – Vorstellung der Verwendungsmöglichkeiten im Verwendungsbereich Wehrtechnik des höheren technischen Verwaltungsdienstes
 
 Die Referendarinnen und Referendare werden bei verschiedenen Dienststellen des Rüstungsbereichs in deren Organisation, Aufgaben und Ausstattung eingeführt. Außerdem werden die zukünftigen Einsatzmöglichkeiten im nationalen und internationalen Rüstungsbereich aufgezeigt. Einzelheiten regelt der Ausbildungsrahmenplan, den die Einstellungsbehörde mit Zustimmung des Bundesministeriums der Verteidigung erstellt.
 
@@ -363,7 +363,7 @@ Der Schwerpunkt liegt hierbei auf der vorgesehenen Erstverwendung der Referendar
 
 (3) Das Oberprüfungsamt ist verantwortlich für die Entwicklung und Beachtung einheitlicher Bewertungsmaßstäbe und vollzieht die Entscheidungen der Prüfungskommissionen.
 
-(4) Die Direktorin oder der Direktor des Oberprüfungsamts sorgt für einen ordnungsgemäßen Prüfungsablauf. Sie oder er stellt sicher, dass in allen Fachrichtungen und in den wehrtechnischen Fachgebieten der Fachrichtung Wehrtechnik gleich hohe Prüfungsanforderungen gestellt und gleiche Bewertungsmaßstäbe angelegt werden.
+(4) Die Direktorin oder der Direktor des Oberprüfungsamts sorgt für einen ordnungsgemäßen Prüfungsablauf. Sie oder er stellt sicher, dass in allen Fachrichtungen und in den wehrtechnischen Fachgebieten des Verwendungsbereichs Wehrtechnik gleich hohe Prüfungsanforderungen gestellt und gleiche Bewertungsmaßstäbe angelegt werden.
 
 (5) Die Leitung des Prüfungsausschusses Wehrtechnik unterstützt die Direktorin oder den Direktor bei der Wahrnehmung der Aufgaben.
 

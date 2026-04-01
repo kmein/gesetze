@@ -95,8 +95,6 @@ Der Generaldirektion Wasserstraßen und Schifffahrt wird die Befugnis nach § 3 
 
 (5) Das Bundesministerium für Verkehr kann Bootszeugnisse oder andere Zulassungsurkunden anerkennen, die nach landesrechtlichen Vorschriften erteilt werden. Die Muster dieser Urkunden werden im Verkehrsblatt bekannt gemacht.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 14.10.2025 I Nr. 242 +++)
-
 # § 5 – Nachweis über die Fahrtauglichkeit
 
 (1) Nachweise über die Fahrtauglichkeit der Sportboote sind:

@@ -2257,7 +2257,7 @@ Wertpapierdienstleistungsunternehmen, die als systematischer Internalisierer tä
 
 # § 80 – Organisationspflichten; Verordnungsermächtigung
 
-(1) Ein Wertpapierdienstleistungsunternehmen muss die organisatorischen Pflichten nach § 25a Absatz 1 und § 25e des Kreditwesengesetzes oder, sofern es sich um ein Wertpapierinstitut handelt, nach § 28 Absatz 1 und 2 und § 41 des Wertpapierinstitutsgesetzes einhalten. Darüber hinaus muss es
+(1) Ein Wertpapierdienstleistungsunternehmen muss die organisatorischen Pflichten nach § 25a Absatz 1 und § 25e Absatz 4 des Kreditwesengesetzes oder, sofern es sich um ein Wertpapierinstitut handelt, nach § 28 Absatz 1 und 2 und § 41 des Wertpapierinstitutsgesetzes einhalten. Darüber hinaus muss es
 
 1. angemessene Vorkehrungen treffen, um die Kontinuität und Regelmäßigkeit der Wertpapierdienstleistungen und Wertpapiernebendienstleistungen zu gewährleisten; zu diesem Zweck greift es auf geeignete und verhältnismäßige Systeme, einschließlich der nach Artikel 7 der Verordnung (EU) 2022/2554 eingerichteten und verwalteten Systeme der Informations- und Kommunikationstechnologie (IKT), sowie auf geeignete und verhältnismäßige Ressourcen und Verfahren zurück;
 
@@ -2755,7 +2755,7 @@ Die Bundesanstalt hat die Aufgabe, nach den Vorschriften dieses Abschnitts zu pr
 
 # § 107 – Einleitung einer Prüfung der Rechnungslegung und Ermittlungsbefugnisse der Bundesanstalt
 
-(1) Die Bundesanstalt leitet eine Prüfung der Rechnungslegung ein, soweit konkrete Anhaltspunkte für einen Verstoß gegen Rechnungslegungsvorschriften vorliegen; die Einleitung unterbleibt, wenn ein öffentliches Interesse an der Klärung offensichtlich nicht besteht. Die Bundesanstalt kann eine Prüfung der Rechnungslegung auch dann einleiten, wenn sie eine Prüfung nach § 44 Absatz 1 Satz 2 des Kreditwesengesetzes, nach § 14 Satz 2 des Kapitalanlagegesetzbuchs, nach § 5 Absatz 4 Satz 2 des Wertpapierinstitutsgesetzes, nach § 19 Absatz 1 Satz 2 des Zahlungsdiensteaufsichtsgesetzes oder nach § 306 Absatz 1 Nummer 1 des Versicherungsaufsichtsgesetzes durchführt oder durchgeführt hat und die Prüfungen denselben Gegenstand betreffen. Die Bundesanstalt kann eine Prüfung der Rechnungslegung auch ohne besonderen Anlass einleiten (stichprobenartige Prüfung). Geprüft werden nur folgende Abschlüsse und Berichte:
+(1) Die Bundesanstalt leitet eine Prüfung der Rechnungslegung ein, soweit konkrete Anhaltspunkte für einen Verstoß gegen Rechnungslegungsvorschriften vorliegen; die Einleitung unterbleibt, wenn ein öffentliches Interesse an der Klärung offensichtlich nicht besteht. Die Bundesanstalt kann eine Prüfung der Rechnungslegung auch dann einleiten, wenn sie eine Prüfung nach § 44 Absatz 1 Satz 3 des Kreditwesengesetzes, nach § 14 Absatz 2 Satz 2 des Kapitalanlagegesetzbuches, nach § 5 Absatz 4 Satz 2 des Wertpapierinstitutsgesetzes, nach § 19 Absatz 1 Satz 2 des Zahlungsdiensteaufsichtsgesetzes oder nach § 306 Absatz 1 Nummer 1 des Versicherungsaufsichtsgesetzes durchführt oder durchgeführt hat und die Prüfungen denselben Gegenstand betreffen. Die Bundesanstalt kann eine Prüfung der Rechnungslegung auch ohne besonderen Anlass einleiten (stichprobenartige Prüfung). Geprüft werden nur folgende Abschlüsse und Berichte:
 
 1. der zuletzt festgestellte Jahresabschluss und der zugehörige Lagebericht,
 

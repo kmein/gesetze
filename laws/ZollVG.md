@@ -25,17 +25,15 @@ Darüber hinaus wirken die Behörden des Zollfahndungsdienstes im Rahmen des Abs
 
 # § 2 – Verkehrswege
 
-(1) Waren dürfen im Geltungsbereich dieses Gesetzes nur auf Zollstraßen (Absatz 4) in das oder aus dem Zollgebiet der Union sowie in die oder aus den Freizonen verbracht werden. Dies gilt nicht für den öffentlichen Schienenverkehr und den Luftverkehr.
+(1) Waren dürfen im Geltungsbereich dieses Gesetzes nur auf Zollstraßen nach Absatz 3 Satz 1 oder über Zollflugplätze in das oder aus dem Zollgebiet der Union sowie in eine oder aus einer Freizone verbracht werden. Dies gilt nicht für den öffentlichen Schienenverkehr.
 
-(2) Einfliegende Luftfahrzeuge dürfen nur auf einem Zollflugplatz landen, ausfliegende nur von einem solchen abfliegen.
+(2) Sofern Waren, die dem Zollstraßenzwang nach Absatz 1 unterliegen, auf Wasserstraßen in das oder aus dem Zollgebiet der Union verbracht werden, darf mit Wasserfahrzeugen bei der Einfahrt nur an Zolllandungsplätzen angelegt, bei der Ausfahrt nur von einem solchen abgelegt werden. Mit den Wasserfahrzeugen darf nicht ohne zollamtliche Genehmigung auf der Zollstraße mit anderen Fahrzeugen oder mit dem Land in Verbindung getreten werden.
 
-(3) Einfahrende Wasserfahrzeuge dürfen nur an Zollandungsplätzen anlegen, ausfahrende nur von solchen ablegen. Wasserfahrzeuge dürfen ohne zollamtliche Genehmigung auf der Zollstraße nicht mit anderen Fahrzeugen oder mit dem Land in Verbindung treten.
+(3) Zollstraßen sind Landstraßen, Wasserstraßen, Rohrleitungen und sonstige Beförderungswege, auf denen Waren in das oder aus dem Zollgebiet der Union sowie in die oder aus den Freizonen zu verbringen sind. Zollstraßen sowie die Zollflugplätze und Zolllandungsplätze werden öffentlich bekanntgegeben.
 
-(4) Zollstraßen sind Landstraßen, Wasserstraßen, Rohrleitungen und sonstige Beförderungswege, auf denen Waren in das oder aus dem Zollgebiet der Union sowie in die oder aus den Freizonen zu verbringen sind. Zollstraßen sowie die Zollflugplätze und Zollandungsplätze werden öffentlich bekanntgegeben.
+(4) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, soweit Verbote und Beschränkungen nicht entgegenstehen, zur Erleichterung des Verkehrs Ausnahmen von den Absätzen 1 und 2 zulassen und dabei bestimmen, dass in Einzelfällen Ausnahmen auch im Verwaltungswege zugelassen werden können.
 
-(5) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, soweit Verbote und Beschränkungen nicht entgegenstehen, zur Erleichterung des Verkehrs Ausnahmen von den Absätzen 1, 2 und 3 zulassen und dabei bestimmen, daß in Einzelfällen Ausnahmen auch im Verwaltungswege zugelassen werden können.
-
-(6) Das Bundesministerium der Finanzen kann durch Rechtsverordnung unter den Voraussetzungen des Artikels 135 Absatz 5 des Zollkodex der Union Ausnahmen von der in Artikel 135 Absatz 1 des Zollkodex der Union genannten Verpflichtung vorsehen, in das Zollgebiet der Union verbrachte Waren zu der von den Zollbehörden bezeichneten Zollstelle oder einem anderen von diesen Behörden bezeichneten oder zugelassenen Ort zu befördern.
+(5) Das Bundesministerium der Finanzen kann durch Rechtsverordnung unter den Voraussetzungen des Artikels 135 Absatz 5 des Zollkodex der Union Ausnahmen von der in Artikel 135 Absatz 1 des Zollkodex der Union genannten Verpflichtung vorsehen, in das Zollgebiet der Union verbrachte Waren zu der von den Zollbehörden bezeichneten Zollstelle oder einem anderen von diesen Behörden bezeichneten oder zugelassenen Ort zu befördern.
 
 # § 3 – Zeitliche Beschränkung der Ein- und Ausfuhr
 
@@ -47,7 +45,7 @@ Darüber hinaus wirken die Behörden des Zollfahndungsdienstes im Rahmen des Abs
 
 (1) Die Gestellung ist innerhalb der dafür bekanntgegebenen Öffnungszeiten (§ 18) am Amtsplatz der zuständigen Zollstelle oder an dem von ihr zugelassenen Ort zu bewirken.
 
-(2) Das Bundesministerium der Finanzen kann zur Erleichterung des Verkehrs durch Rechtsverordnung in den im Zollkodex der Union und in sonstigen unionsrechtlichen Vorschriften genannten Fällen Ausnahmen von der Pflicht zur Gestellung oder Erleichterungen bei der Gestellung vorsehen. Es kann dabei bestimmen, daß in einzelnen Fällen Ausnahmen auch im Verwaltungsweg zugelassen werden können, soweit Verbote und Beschränkungen nicht entgegenstehen.
+(2) Das Bundesministerium der Finanzen kann zur Erleichterung des Verkehrs durch Rechtsverordnung in den im Zollkodex der Union und in sonstigen unionsrechtlichen Vorschriften genannten Fällen Ausnahmen von der Pflicht zur Gestellung oder Erleichterungen bei der Gestellung vorsehen. Es kann dabei bestimmen, dass in einzelnen Fällen Ausnahmen auch im Verwaltungsweg zugelassen werden können, soweit Verbote und Beschränkungen nicht entgegenstehen.
 
 # § 5 – Sondervorschriften für Postsendungen
 
@@ -67,7 +65,7 @@ Das Brief- und Postgeheimnis nach Artikel 10 des Grundgesetzes wird durch Satz 1
 
 # § 6 – Zolltarif
 
-(1) Der Zolltarif umfaßt die in Artikel 56 Absatz 2 des Zollkodex der Union genannten Rechtsakte sowie die Zolltarifverordnung vom 24. September 1986 (BGBl. II S. 896) in ihrer jeweils geltenden Fassung.
+(1) Der Zolltarif umfasst die in Artikel 56 Absatz 2 des Zollkodex der Union genannten Rechtsakte sowie die Zolltarifverordnung vom 24. September 1986 (BGBl. II S. 896) in ihrer jeweils geltenden Fassung.
 
 (2) Das Bundesministerium der Finanzen kann, soweit eine deutsche Zolltarifhoheit noch besteht, im Einvernehmen mit dem für den jeweiligen Bereich fachlich zuständigen Bundesministerium durch Rechtsverordnung
 
@@ -77,17 +75,17 @@ Das Brief- und Postgeheimnis nach Artikel 10 des Grundgesetzes wird durch Satz 1
 
 a) als dies der Bundesrepublik Deutschland auf Grund der Verträge zur Gründung der Europäischen Union, der Beitrittsverträge hierzu und der Verträge zu deren Änderung, Erweiterung, Ergänzung oder Durchführung oder zur Begründung einer Zollunion oder Freihandelszone oder auf Grund von hierauf gestützten Rechtsakten von Organen der Europäischen Union gestattet worden ist;
 
-b) als dies zur beschleunigten Verwirklichung der Ziele der unter Buchstabe a bezeichneten Verträge erforderlich ist, wenn sichergestellt ist, daß die anderen Mitgliedstaaten der Europäischen Union entsprechende Zolltarifänderungen durchführen;
+b) als dies zur beschleunigten Verwirklichung der Ziele der unter Buchstabe a bezeichneten Verträge erforderlich ist, wenn sichergestellt ist, dass die anderen Mitgliedstaaten der Europäischen Union entsprechende Zolltarifänderungen durchführen;
 
 c) als die Bundesrepublik Deutschland nach den unter Buchstabe a bezeichneten Verträgen sowie nach den auf die vorbezeichneten Verträge gestützten Rechtsakten von Organen der Europäischen Union zur Festsetzung von Zollkontingenten berechtigt ist.
 
 (3) Das Bundesministerium der Finanzen kann, soweit eine deutsche Zolltarifhoheit noch besteht, durch Rechtsverordnung den Zolltarif insoweit ändern,
 
-1. als die Bundesrepublik Deutschland nach den in Absatz 2 Nr. 2 Buchstabe a bezeichneten Verträgen, auf Grund von hierauf gestützten Rechtsakten von Organen der Europäischen Union oder auf Grund von Beschlüssen der im Rat vereinigten Vertreter der Regierungen der Mitgliedstaaten dazu verpflichtet ist;
+1. als die Bundesrepublik Deutschland nach den in Absatz 2 Nummer 2 Buchstabe a bezeichneten Verträgen, auf Grund von hierauf gestützten Rechtsakten von Organen der Europäischen Union oder auf Grund von Beschlüssen der im Rat vereinigten Vertreter der Regierungen der Mitgliedstaaten dazu verpflichtet ist;
 
 2. als es zur Durchführung von Verträgen, die die Mitgliedstaaten der Europäischen Union oder diese Union mit anderen Staaten geschlossen haben, sowie von Beschlüssen über die beschleunigte Verwirklichung der Ziele der vorbezeichneten Verträge erforderlich ist;
 
-3. als die Bundesrepublik Deutschland nach den in Absatz 2 Nr. 2 Buchstabe a und den in Nummer 2 bezeichneten Verträgen, auf Grund von hierauf gestützten Rechtsakten von Organen der Europäischen Union oder auf Grund von Beschlüssen der im Rat vereinigten Vertreter der Regierungen der Mitgliedstaaten zur Festsetzung von Zollkontingenten verpflichtet ist.
+3. als die Bundesrepublik Deutschland nach den in Absatz 2 Nummer 2 Buchstabe a und den in Nummer 2 bezeichneten Verträgen, auf Grund von hierauf gestützten Rechtsakten von Organen der Europäischen Union oder auf Grund von Beschlüssen der im Rat vereinigten Vertreter der Regierungen der Mitgliedstaaten zur Festsetzung von Zollkontingenten verpflichtet ist.
 
 (4) Bei Zolltarifänderungen nach den Absätzen 2 und 3 können Zollsätze, die gesenkt werden, bis auf ganze Zahlen nach unten und Zollsätze, die erhöht werden, bis auf volle Zahlen nach oben gerundet werden.
 
@@ -145,11 +143,11 @@ Soweit die Sicherung der Nämlichkeit (Artikel 192 des Zollkodex der Union) erfo
 
 (1) Unbeschadet der §§ 209 bis 211 der Abgabenordnung können die Bediensteten der Zollverwaltung zur Durchführung der in § 1 genannten Aufgaben im grenznahen Raum (§ 14 Abs. 1) Personen und Beförderungsmittel anhalten. Die zum Anhalten aufgeforderte Person hat auf Verlangen der Zollbediensteten stehenzubleiben und sich auszuweisen. Führer von Beförderungsmitteln haben auf Verlangen zu halten und die Beförderungspapiere vorzulegen. Sie haben den Zollbediensteten auf Verlangen auch zu ermöglichen, an Bord und von Bord zu gelangen. Gepäck, Beförderungsmittel und ihre Ladung können zur Feststellung der Einhaltung der Zollvorschriften an Ort und Stelle oder einem anderen geeigneten Ort geprüft werden. Die von der Prüfung Betroffenen haben auf Verlangen die Herkunft der Waren anzugeben, die Entnahme von unentgeltlichen Proben zu dulden und die nach den Umständen erforderliche Hilfe zu leisten.
 
-(2) Für örtlich und zeitlich begrenzte Kontrollen außerhalb des grenznahen Raums gilt Absatz 1, wenn Grund zu der Annahme besteht, daß Waren, die der zollamtlichen Überwachung nach dem gemeinschaftlichen Zollrecht oder diesem Gesetz unterliegen, von Personen oder in Beförderungsmitteln mitgeführt werden.
+(2) Für örtlich und zeitlich begrenzte Kontrollen außerhalb des grenznahen Raums gilt Absatz 1, wenn Grund zu der Annahme besteht, dass Waren, die der zollamtlichen Überwachung nach dem gemeinschaftlichen Zollrecht oder diesem Gesetz unterliegen, von Personen oder in Beförderungsmitteln mitgeführt werden.
 
-(3) Personen können bei Vorliegen zureichender tatsächlicher Anhaltspunkte dafür, daß sie vorschriftswidrig Waren mitführen, die der zollamtlichen Überwachung nach dem gemeinschaftlichen Zollrecht oder diesem Gesetz unterliegen, angehalten und an einem hierfür geeigneten Ort körperlich durchsucht werden. Personen dürfen nur von Bediensteten ihres Geschlechts durchsucht werden; dies gilt nicht, wenn eine sofortige Durchsuchung zum Schutz gegen eine Gefahr für Leib oder Leben erforderlich ist. Personen können festgehalten und zur Dienststelle oder einer sonstigen geeigneten Örtlichkeit mitgenommen werden, wenn die Durchsuchung auf andere Weise nicht oder nur unter erheblichen Schwierigkeiten durchgeführt werden kann.
+(3) Personen können bei Vorliegen zureichender tatsächlicher Anhaltspunkte dafür, dass sie vorschriftswidrig Waren mitführen, die der zollamtlichen Überwachung nach dem gemeinschaftlichen Zollrecht oder diesem Gesetz unterliegen, angehalten und an einem hierfür geeigneten Ort körperlich durchsucht werden. Personen dürfen nur von Bediensteten ihres Geschlechts durchsucht werden; dies gilt nicht, wenn eine sofortige Durchsuchung zum Schutz gegen eine Gefahr für Leib oder Leben erforderlich ist. Personen können festgehalten und zur Dienststelle oder einer sonstigen geeigneten Örtlichkeit mitgenommen werden, wenn die Durchsuchung auf andere Weise nicht oder nur unter erheblichen Schwierigkeiten durchgeführt werden kann.
 
-(3a) Im Rahmen der Erfassung des Warenverkehrs kann durch Überholung am Ort der Gestellung geprüft werden, ob Nichtgemeinschaftswaren eingeführt worden sind oder ob der Gestellungspflicht vollständig genügt worden ist. Stehen dafür erforderliche Einrichtungen am Amtsplatz oder einem anderen für die Gestellung zugelassenen Ort nicht zur Verfügung, so kann für die Überholung der nächste geeignete Ort bestimmt werden. Der Gestellungspflichtige hat die Überholung zu ermöglichen. Er hat dabei selbst oder durch andere auf seine Kosten und Gefahr die erforderliche Hilfe nach zollamtlicher Anweisung zu leisten. Er hat auf Verlangen schwer feststellbare, zur Aufnahme von Waren geeignete Stellen anzugeben sowie Beschreibungen des Beförderungsmittels, Verzeichnisse der Ausrüstungsstücke und Ersatzteile und andere Unterlagen über das Beförderungsmittel vorzulegen. Diese Pflichten treffen für das Beförderungsmittel den Fahrzeugführer.
+(3a) Im Rahmen der Erfassung des Warenverkehrs kann durch Überholung am Ort der Gestellung geprüft werden, ob Nicht-Unionswaren eingeführt worden sind oder ob der Gestellungspflicht vollständig genügt worden ist. Stehen dafür erforderliche Einrichtungen am Amtsplatz oder einem anderen für die Gestellung zugelassenen Ort nicht zur Verfügung, so kann für die Überholung der nächste geeignete Ort bestimmt werden. Der Gestellungspflichtige hat die Überholung zu ermöglichen. Er hat dabei selbst oder durch andere auf seine Kosten und Gefahr die erforderliche Hilfe nach zollamtlicher Anweisung zu leisten. Er hat auf Verlangen schwer feststellbare, zur Aufnahme von Waren geeignete Stellen anzugeben sowie Beschreibungen des Beförderungsmittels, Verzeichnisse der Ausrüstungsstücke und Ersatzteile und andere Unterlagen über das Beförderungsmittel vorzulegen. Diese Pflichten treffen für das Beförderungsmittel den Fahrzeugführer.
 
 (4) Die Postdienstleister sind verpflichtet, den Zollbediensteten für die Durchführung der Aufgaben nach Satz 2 während der Betriebs- und Geschäftszeiten Zutritt zu ihren Geschäfts- und Betriebsräumen zu gewähren. Die Zollbediensteten
 
@@ -165,7 +163,7 @@ Die Sätze 1 und 2 finden entsprechende Anwendung auf Fahrzeuge, die sich auf de
 
 (4a) Der Postdienstleister hat die im Rahmen der Kontrollen nach Absatz 4 Satz 2 Nummer 1, 3 und 4 von den Zollbediensteten ausgewählten Postsendungen auf Verlangen vorzulegen. Er trägt die ihm hierdurch entstehenden Kosten. Die Zollbediensteten dürfen Postsendungen, die nach Satz 1 oder § 5 Absatz 1 anzuzeigen und auf Verlangen vorzulegen sind, sowie solche, die der zollamtlichen Kontrolle nach den Absätzen 1, 2 und 3a unterliegen, öffnen und prüfen.
 
-(5) Das Grundrecht auf Freiheit der Person, das Brief- und Postgeheimnis sowie das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 2 Abs. 2, Artikel 10 und Artikel 13 Abs. 1 des Grundgesetzes) werden nach Maßgabe der Absätze 1 bis 4a eingeschränkt.
+(5) Das Grundrecht auf Freiheit der Person, das Brief- und Postgeheimnis sowie das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 2 Absatz 2, Artikel 10 und Artikel 13 Absatz 1 des Grundgesetzes) werden nach Maßgabe der Absätze 1 bis 4a eingeschränkt.
 
 # § 10a – Zollbedienstete in den Vollzugsbereichen der Zollverwaltung; Befugnisse bei Sicherungs- und Schutzmaßnahmen
 
@@ -207,6 +205,8 @@ Gleiches gilt, wenn Anhaltspunkte dafür vorliegen, dass Straftaten von erheblic
 
 (4) § 3 Absatz 7 des Zollfahndungsdienstgesetzes ist anzuwenden.
 
+# §§ 11a u. 11b – (weggefallen)
+
 # § 11c – Datenübermittlung zu Zwecken des Risikomanagements
 
 (1) Die Dienststellen der Zollverwaltung nach § 11 Absatz 1 Satz 1 können die in § 13 Absatz 4 des Zollfahndungsdienstgesetzes genannten personenbezogenen Daten im nach Absatz 2 näher bezeichneten Umfang zu Zwecken des Risikomanagements im Sinne des § 3 Absatz 2 des Zollfahndungsdienstgesetzes an das Zollkriminalamt übermitteln; die weitere Datenverarbeitung durch das Zollkriminalamt erfolgt nach § 13 des Zollfahndungsdienstgesetzes. § 30 der Abgabenordnung steht der Übermittlung nach Satz 1 nicht entgegen.
@@ -217,7 +217,7 @@ Gleiches gilt, wenn Anhaltspunkte dafür vorliegen, dass Straftaten von erheblic
 
 # § 12 – Weiterleitungsbefugnis
 
-Ergeben sich bei der zollamtlichen Überwachung zureichende tatsächliche Anhaltspunkte dafür, daß Waren unter Verstoß gegen ein Einfuhr-, Durchfuhr- oder Ausfuhrverbot in den oder aus dem Geltungsbereich dieses Gesetzes verbracht werden, und werden diese Anhaltspunkte durch Nachprüfung nicht entkräftet, so werden die Waren und die dazugehörigen Verwaltungsvorgänge vorbehaltlich anderweitiger gesetzlicher Regelungen der Staatsanwaltschaft oder, wenn nur die Ahndung als Ordnungswidrigkeit in Betracht kommt, der für die Verfolgung und Ahndung zuständigen Verwaltungsbehörde vorgelegt. Für Postsendungen gilt dies nur, wenn zureichende tatsächliche Anhaltspunkte für eine Straftat vorliegen. Das Brief- und Postgeheimnis nach Artikel 10 des Grundgesetzes wird nach Maßgabe der Sätze 1 und 2 eingeschränkt.
+Ergeben sich bei der zollamtlichen Überwachung zureichende tatsächliche Anhaltspunkte dafür, dass Waren unter Verstoß gegen ein Einfuhr-, Durchfuhr- oder Ausfuhrverbot in den oder aus dem Geltungsbereich dieses Gesetzes verbracht werden, und werden diese Anhaltspunkte durch Nachprüfung nicht entkräftet, so werden die Waren und die dazugehörigen Verwaltungsvorgänge vorbehaltlich anderweitiger gesetzlicher Regelungen der Staatsanwaltschaft oder, wenn nur die Ahndung als Ordnungswidrigkeit in Betracht kommt, der für die Verfolgung und Ahndung zuständigen Verwaltungsbehörde vorgelegt. Für Postsendungen gilt dies nur, wenn zureichende tatsächliche Anhaltspunkte für eine Straftat vorliegen. Das Brief- und Postgeheimnis nach Artikel 10 des Grundgesetzes wird nach Maßgabe der Sätze 1 und 2 eingeschränkt.
 
 # § 12a – Überwachung des grenzüberschreitenden Verkehrs mit Barmitteln und gleichgestellten Zahlungsmitteln
 
@@ -269,7 +269,7 @@ Die Behörden des Zollfahndungsdienstes und ihre Beamten haben bei der Erfüllun
 
 # § 12c – Amtshandlungen von Beamten der Bundespolizei im Zuständigkeitsbereich der Zollverwaltung
 
-(1) Das Bundesministerium der Finanzen kann im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat Beamte der Bundespolizei damit betrauen, Aufgaben der Zollverwaltung nach § 1 Absatz 4 Satz 1 bei der Erfüllung von Aufgaben der Bundespolizei wahrzunehmen.
+(1) Das Bundesministerium der Finanzen kann im Einvernehmen mit dem Bundesministerium des Innern Beamte der Bundespolizei damit betrauen, Aufgaben der Zollverwaltung nach § 1 Absatz 4 Satz 1 bei der Erfüllung von Aufgaben der Bundespolizei wahrzunehmen.
 
 (2) Nehmen Beamte der Bundespolizei Aufgaben wahr, die ihnen nach Absatz 1 übertragen wurden, so haben sie dieselben Befugnisse wie die Zollbediensteten. Ihre Maßnahmen gelten als Maßnahmen der Zollverwaltung. Das Bundesministerium der Finanzen und die nachgeordneten Zolldienststellen üben ihnen gegenüber insoweit Fachaufsicht aus.
 
@@ -287,7 +287,7 @@ Zollbedienstete in den Vollzugsbereichen der Zollverwaltung dürfen nach Maßgab
 
 # § 13 – Verwertung von Waren
 
-(1) Soweit im Zollkodex der Union und in sonstigen unionsrechtlichen Vorschriften geregelt ist, daß Waren durch die Zollbehörden veräußert werden können, können sie durch Wegnahme oder Verfügungsverbot zollamtlich sichergestellt werden. Die Vorschriften der Abgabenordnung über die Verwertung gepfändeter Sachen gelten sinngemäß. Die Verbote und Beschränkungen sind zu beachten. Die Beteiligten sollen vor der Veräußerung gehört werden. Die Anordnung sowie Zeit und Ort der Veräußerung sind ihnen, soweit möglich, mitzuteilen. Die veräußerten Waren werden dem Erwerber ausgehändigt, nachdem sie eine zollrechtliche Bestimmung erhalten haben.
+(1) Soweit im Zollkodex der Union und in sonstigen unionsrechtlichen Vorschriften geregelt ist, dass Waren durch die Zollbehörden veräußert werden können, können sie durch Wegnahme oder Verfügungsverbot zollamtlich sichergestellt werden. Die Vorschriften der Abgabenordnung über die Verwertung gepfändeter Sachen gelten sinngemäß. Die Verbote und Beschränkungen sind zu beachten. Die Beteiligten sollen vor der Veräußerung gehört werden. Die Anordnung sowie Zeit und Ort der Veräußerung sind ihnen, soweit möglich, mitzuteilen. Die veräußerten Waren werden dem Erwerber ausgehändigt, nachdem sie eine zollrechtliche Bestimmung erhalten haben.
 
 (2) Im Rahmen des Artikels 197 des Zollkodex der Union können vorübergehend verwahrte Waren durch die Zollbehörden veräußert werden, wenn ihnen Verderb oder eine wesentliche Minderung ihres Wertes droht oder ihre Aufbewahrung, Pflege oder Erhaltung unverhältnismäßig viel kostet oder unverhältnismäßig schwierig ist. Absatz 1 ist anzuwenden.
 
@@ -297,35 +297,35 @@ Zollbedienstete in den Vollzugsbereichen der Zollverwaltung dürfen nach Maßgab
 
 (1) Der grenznahe Raum erstreckt sich am deutschen Teil der Zollgrenze der Gemeinschaft bis zu einer Tiefe von 30 Kilometern, von der seewärtigen Begrenzung des Zollgebiets der Gemeinschaft an bis zu einer Tiefe von 50 Kilometern. Das Bundesministerium der Finanzen wird ermächtigt, zur Sicherung der Zollbelange durch Rechtsverordnung den grenznahen Raum auszudehnen, soweit die zollamtliche Überwachung dies erfordert.
 
-(2) Zollbedienstete dürfen im grenznahen Raum Grundstücke mit Ausnahme von Gebäuden betreten und befahren. Das Hauptzollamt kann verlangen, daß Grundstückseigentümer und -besitzer einen Grenzpfad freilassen, an Einfriedungen Durchlässe oder Übergänge einrichten oder Wassergräben überbrücken. Das Hauptzollamt kann darüber hinaus auf eigene Kosten Grenzpfade, Durchlässe, Übergänge oder Brücken einrichten oder verbessern.
+(2) Zollbedienstete dürfen im grenznahen Raum Grundstücke mit Ausnahme von Gebäuden betreten und befahren. Das Hauptzollamt kann verlangen, dass Grundstückseigentümer und -besitzer einen Grenzpfad freilassen, an Einfriedungen Durchlässe oder Übergänge einrichten oder Wassergräben überbrücken. Das Hauptzollamt kann darüber hinaus auf eigene Kosten Grenzpfade, Durchlässe, Übergänge oder Brücken einrichten oder verbessern.
 
 (3) Das Bundesministerium der Finanzen kann für den grenznahen Raum durch Rechtsverordnung zur Sicherung der Zollbelange
 
 1. das Feilbieten und Ankaufen von Waren im Reisegewerbe verbieten oder beschränken,
 
-2. anordnen, daß Weidevieh gekennzeichnet und über seinen Bestand Buch geführt wird.
+2. anordnen, dass Weidevieh gekennzeichnet und über seinen Bestand Buch geführt wird.
 
 Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Hauptzollämter übertragen.
 
-(4) Das Bundesministerium der Finanzen kann zur Sicherung der Zollbelange durch Rechtsverordnung Binnengewässer, die von außerhalb des Zollgebiets der Union her zu Wasser zugänglich sind, ihre Inseln und ihr Ufergelände, Zollflugplätze und andere verkehrsrechtlich zugelassene Flugplätze sowie den um die Freizonen gelegenen Bereich in einer für die wirksame Überwachung erforderlichen Ausdehnung der Grenzaufsicht unterwerfen. Für ein solches Gebiet gelten die Absätze 2 und 3 sowie § 10 Abs. 1 und § 15 Abs. 5 entsprechend.
+(4) Das Bundesministerium der Finanzen kann zur Sicherung der Zollbelange durch Rechtsverordnung Binnengewässer, die von außerhalb des Zollgebiets der Union her zu Wasser zugänglich sind, ihre Inseln und ihr Ufergelände, Zollflugplätze und andere verkehrsrechtlich zugelassene Flugplätze sowie den um die Freizonen gelegenen Bereich in einer für die wirksame Überwachung erforderlichen Ausdehnung der Grenzaufsicht unterwerfen. Für ein solches Gebiet gelten die Absätze 2 und 3 sowie § 10 Absatz 1 und § 15 Absatz 5 entsprechend.
 
 # § 15 – Grundstücke und Bauten in Grenznähe, an Freizonengrenzen und auf Flugplätzen
 
-(1) Bauten dürfen innerhalb einer Entfernung von 100 Metern, in Orten mit geschlossener Bauweise von 50 Metern, vom deutschen Teil der Zollgrenze der Gemeinschaft nur mit Zustimmung des Hauptzollamts errichtet oder geändert werden. Die Entfernung bestimmt sich bei Binnengewässern vom Ufer, an der Küste von der Strandlinie an. Der Zustand von Grundstücken darf innerhalb dieses Geländestreifens nur mit Zustimmung des Hauptzollamts verändert werden, wenn die Veränderung über die übliche Bewirtschaftung hinausgeht. Die Zustimmung kann versagt werden, wenn die Sicherheit der Zollbelange gefährdet würde. Sind Bauarbeiten oder Veränderungen ohne Zustimmung des Hauptzollamts ausgeführt worden, so kann das Hauptzollamt verlangen, daß der frühere Zustand wiederhergestellt wird. Bei dicht an der Zollgrenze der Gemeinschaft liegenden Gebäuden und schwimmenden Anlagen kann das Hauptzollamt jederzeit Fenstergitter, Türverschlüsse oder andere besondere Sicherungsvorrichtungen anordnen.
+(1) Bauten dürfen innerhalb einer Entfernung von 100 Metern, in Orten mit geschlossener Bauweise von 50 Metern, vom deutschen Teil der Zollgrenze der Gemeinschaft nur mit Zustimmung des Hauptzollamts errichtet oder geändert werden. Die Entfernung bestimmt sich bei Binnengewässern vom Ufer, an der Küste von der Strandlinie an. Der Zustand von Grundstücken darf innerhalb dieses Geländestreifens nur mit Zustimmung des Hauptzollamts verändert werden, wenn die Veränderung über die übliche Bewirtschaftung hinausgeht. Die Zustimmung kann versagt werden, wenn die Sicherheit der Zollbelange gefährdet würde. Sind Bauarbeiten oder Veränderungen ohne Zustimmung des Hauptzollamts ausgeführt worden, so kann das Hauptzollamt verlangen, dass der frühere Zustand wiederhergestellt wird. Bei dicht an der Zollgrenze der Gemeinschaft liegenden Gebäuden und schwimmenden Anlagen kann das Hauptzollamt jederzeit Fenstergitter, Türverschlüsse oder andere besondere Sicherungsvorrichtungen anordnen.
 
 (2) Das Hauptzollamt kann in einzelnen Fällen die Benutzung von Grundstücken durch Personen, die nicht dort wohnen, in dem in Absatz 1 bezeichneten Geländestreifen beschränken, wenn dies für die zollamtliche Überwachung erforderlich ist. Die Zollverwaltung kann auf Grundstücken in diesem Geländestreifen auf eigene Kosten Sperren, Hindernisse, Schutzhütten, Zugangswege und ähnliche Anlagen errichten, die unerlaubten Warenverkehr über die Zollgrenze erschweren oder eine bessere Überwachung ermöglichen.
 
-(3) Einrichtungen auf Zollflugplätzen (§ 2 Abs. 2) und anderen verkehrsrechtlich zugelassenen Flugplätzen sind, soweit sie die Sicherheit der Zollbelange gefährden, auf Anordnung des Hauptzollamts zu entfernen oder mit geeigneten Sicherungsvorrichtungen zu versehen.
+(3) Einrichtungen auf Zollflugplätzen (§ 2 Absatz 2) und anderen verkehrsrechtlich zugelassenen Flugplätzen sind, soweit sie die Sicherheit der Zollbelange gefährden, auf Anordnung des Hauptzollamts zu entfernen oder mit geeigneten Sicherungsvorrichtungen zu versehen.
 
-(4) Bezüglich des um die Freizonen gelegenen Bereichs gelten die Absätze 1 und 2 mit der Maßgabe, daß die Entfernung von der Freizonenbegrenzung drei Meter beträgt.
+(4) Bezüglich des um die Freizonen gelegenen Bereichs gelten die Absätze 1 und 2 mit der Maßgabe, dass die Entfernung von der Freizonenbegrenzung drei Meter beträgt.
 
-(5) Entschädigungen werden in den Fällen der Absätze 1 bis 4 nicht gewährt. Erleidet jemand durch eine Maßnahme auf Grund des § 14 Abs. 2 Satz 1 und 2 einen Schaden, so ist ihm ein angemessener Ausgleich zu gewähren. Für Anordnungen des Hauptzollamts nach § 14 Abs. 2 und den Absätzen 1 bis 3 gelten die §§ 328 bis 335 der Abgabenordnung sinngemäß.
+(5) Entschädigungen werden in den Fällen der Absätze 1 bis 4 nicht gewährt. Erleidet jemand durch eine Maßnahme auf Grund des § 14 Absatz 2 Satz 1 und 2 einen Schaden, so ist ihm ein angemessener Ausgleich zu gewähren. Für Anordnungen des Hauptzollamts nach § 14 Absatz 2 und den Absätzen 1 bis 3 gelten die §§ 328 bis 335 der Abgabenordnung sinngemäß.
 
 (6) Die Absätze 1 und 2 gelten nicht für Wehranlagen und Übungsplätze der Bundeswehr oder der Truppen verbündeter Staaten und für Anlagen der Eisenbahnen des Bundes.
 
 # § 16 – Enteignung
 
-(1) Für die Errichtung von Zollbauten im grenznahen Raum (§ 14 Abs. 1) ist die Enteignung zulässig.
+(1) Für die Errichtung von Zollbauten im grenznahen Raum (§ 14 Absatz 1) ist die Enteignung zulässig.
 
 (2) Für Enteignungen nach Absatz 1 gelten § 2 und der Zweite und Dritte Teil sowie die §§ 67, 68, 71, 73 und 74 des Landbeschaffungsgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 54-3, veröffentlichten bereinigten Fassung sinngemäß.
 
@@ -337,7 +337,7 @@ Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung
 
 (3) Das Bundesministerium der Finanzen kann durch Rechtsverordnung die Zuständigkeiten der Hauptzollämter und ihrer Dienststellen festlegen.
 
-(4) Der Grenzaufsichtsdienst der Zollverwaltung sichert unbeschadet anderer gesetzlicher Regelungen insbesondere den deutschen Teil der Grenze des Zollgebiets der Union und überwacht den grenznahen Raum (§ 14 Abs. 1) sowie die anderen der Grenzaufsicht unterworfenen Gebiete (§ 14 Abs. 4). Zum Grenzaufsichtsdienst der Zollverwaltung gehören alle Zollbediensteten - einschließlich der Bediensteten des Wasserzolldienstes -, die in der Grenzaufsicht tätig sind.
+(4) Der Grenzaufsichtsdienst der Zollverwaltung sichert unbeschadet anderer gesetzlicher Regelungen insbesondere den deutschen Teil der Grenze des Zollgebiets der Union und überwacht den grenznahen Raum (§ 14 Absatz 1) sowie die anderen der Grenzaufsicht unterworfenen Gebiete (§ 14 Absatz 4). Zum Grenzaufsichtsdienst der Zollverwaltung gehören alle Zollbediensteten - einschließlich der Bediensteten des Wasserzolldienstes -, die in der Grenzaufsicht tätig sind.
 
 # § 17a – Zentralstelle für Risikoanalyse
 
@@ -349,9 +349,9 @@ Die Öffnungszeiten der Zollstellen und deren Amtsplätze werden durch Aushang b
 
 # § 19 – Beistand
 
-(1) Das Bundesministerium der Finanzen kann den Eisenbahnen des Bundes durch Rechtsverordnung zur Erleichterung des Verkehrs Hoheitsaufgaben übertragen. Ausgenommen ist dabei der Erlaß von Abgabenbescheiden. Dies gilt auch für nach § 111 Abs. 1 der Abgabenordnung zur Amtshilfe verpflichtete Verwaltungen des Bundes, sofern sie diese Aufgaben durch Bundesbeamte wahrnehmen.
+(1) Das Bundesministerium der Finanzen kann den Eisenbahnen des Bundes durch Rechtsverordnung zur Erleichterung des Verkehrs Hoheitsaufgaben übertragen. Ausgenommen ist dabei der Erlass von Abgabenbescheiden. Dies gilt auch für nach § 111 Absatz 1 der Abgabenordnung zur Amtshilfe verpflichtete Verwaltungen des Bundes, sofern sie diese Aufgaben durch Bundesbeamte wahrnehmen.
 
-(2) Die in Absatz 1 genannten Verwaltungen und Unternehmen und die nach § 111 Abs. 4 der Abgabenordnung zu Zollhilfsorganen bestellten Unternehmen haben den Zollstellen bei der zollamtlichen Überwachung und bei der Zollbehandlung des Personen- und Güterverkehrs, dem ihre Einrichtungen dienen, Hilfe zu leisten, insbesondere
+(2) Die in Absatz 1 genannten Verwaltungen und Unternehmen und die nach § 111 Absatz 4 der Abgabenordnung zu Zollhilfsorganen bestellten Unternehmen haben den Zollstellen bei der zollamtlichen Überwachung und bei der Zollbehandlung des Personen- und Güterverkehrs, dem ihre Einrichtungen dienen, Hilfe zu leisten, insbesondere
 
 1. die mit der zollamtlichen Überwachung ihres Verkehrs betrauten Zollbediensteten im Dienst unentgeltlich zu befördern und ihnen den Zutritt zu ihren Anlagen unentgeltlich zu gestatten,
 
@@ -371,7 +371,7 @@ Personen dürfen in Freizonen nur mit besonderer Erlaubnis des Hauptzollamts woh
 
 # § 22 – Bauten in Freizonen
 
-Bauten dürfen in Freizonen nur mit Zustimmung des Hauptzollamts errichtet, wesentlich in ihrer Bauart geändert oder anders verwendet werden. Die Zustimmung kann versagt werden, wenn die Sicherheit der Zollbelange gefährdet würde. Sind Bauarbeiten ohne Zustimmung des Hauptzollamts ausgeführt worden, so kann das Hauptzollamt verlangen, daß der frühere Zustand wiederhergestellt wird. Die Beschränkungen gelten nicht für Bauten des Bundes, der Länder und der Gemeinden; die Baupläne müssen jedoch dem Hauptzollamt spätestens einen Monat vor Baubeginn zugeleitet werden.
+Bauten dürfen in Freizonen nur mit Zustimmung des Hauptzollamts errichtet, wesentlich in ihrer Bauart geändert oder anders verwendet werden. Die Zustimmung kann versagt werden, wenn die Sicherheit der Zollbelange gefährdet würde. Sind Bauarbeiten ohne Zustimmung des Hauptzollamts ausgeführt worden, so kann das Hauptzollamt verlangen, dass der frühere Zustand wiederhergestellt wird. Die Beschränkungen gelten nicht für Bauten des Bundes, der Länder und der Gemeinden; die Baupläne müssen jedoch dem Hauptzollamt spätestens einen Monat vor Baubeginn zugeleitet werden.
 
 # § 23 – Überwachung von Freizonen
 
@@ -405,15 +405,21 @@ Soweit der Zollkodex oder sonstige gemeinschaftsrechtliche Vorschriften eine Bef
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, zur Sicherung der Zollbelange durch Rechtsverordnung die durch dieses Gesetz festgelegten Pflichten näher zu bestimmen und das Verfahren der zollamtlichen Überwachung in das oder aus dem Zollgebiet der Union sowie in die oder aus den Freizonen verbrachter Waren sowie den Erhalt ihrer zollrechtlichen Bestimmung näher zu regeln.
 
-(2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung internationale Zollübereinkommen oder -übereinkünfte, welche die vorübergehende Verwendung bestimmter Beförderungsmittel, die Beförderung von Waren unter Zollverschluß, andere Zollverfahren oder die Harmonisierung und Vereinfachung von Zollförmlichkeiten betreffen, in Kraft zu setzen.
+(2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung internationale Zollübereinkommen oder -übereinkünfte, welche die vorübergehende Verwendung bestimmter Beförderungsmittel, die Beförderung von Waren unter Zollverschluss, andere Zollverfahren oder die Harmonisierung und Vereinfachung von Zollförmlichkeiten betreffen, in Kraft zu setzen.
 
 (3) (weggefallen)
+
+# § 28a – Verfahrensermächtigung für die elektronische Kommunikation
+
+(1) Die Generalzolldirektion kann durch Verfahrensanweisung die Voraussetzungen und Einzelheiten, insbesondere die Verfahren und deren Bedienung, sowie technische Einzelheiten für den nach Artikel 6 Absatz 1 des Zollkodex der Union erforderlichen Austausch von Informationen mit Mitteln der elektronischen Datenverarbeitung bestimmen. Die Verfahrensanweisung wird im Internet auf den Seiten der Zollverwaltung unter www.zoll.de veröffentlicht.
+
+(2) Datenübermittler haben die nach Absatz 1 für den jeweiligen Zeitraum bestimmten Vorgaben einzuhalten und die Verfahren ordnungsgemäß zu bedienen.
 
 # § 29 – Rechtsverordnungsermächtigung für die Anordnung außertariflicher Zollfreiheit
 
 (1) Das Bundesministerium der Finanzen kann durch Rechtsverordnung,
 
-1. soweit das Recht der Europäischen Gemeinschaften dies vorsieht, Zollfreiheit anordnen
+1. soweit das Recht der Europäischen Union dies vorsieht, Zollfreiheit anordnen
 
 a) für Waren, die aus einem neu beigetretenen Mitgliedstaat der Europäischen Gemeinschaft in das übrige Zollgebiet der Gemeinschaft im Geltungsbereich dieses Gesetzes zurückkehren,
 
@@ -427,59 +433,25 @@ e) unter der Voraussetzung der Gegenseitigkeit für Waren, für die nach zwische
 
 2. zum Schutz der betroffenen Wirtschaftskreise die Befreiung von Zöllen einschränken, soweit das Recht der Europäischen Gemeinschaften dies vorsieht.
 
-(2) Das Bundesministerium der Finanzen kann in den Fällen des Absatzes 1 die Zollfreiheit davon abhängig machen, daß bestimmte Nachweise bis zu bestimmten Zeitpunkten geführt werden und daß die Waren unter zollamtlicher Überwachung zu dem begünstigten Zweck verwendet werden.
+(2) Das Bundesministerium der Finanzen kann in den Fällen des Absatzes 1 die Zollfreiheit davon abhängig machen, dass bestimmte Nachweise bis zu bestimmten Zeitpunkten geführt werden und dass die Waren unter zollamtlicher Überwachung zu dem begünstigten Zweck verwendet werden.
 
-(3) Die Bundesregierung kann durch Rechtsverordnung für Waren mit Ursprung oder Herkunft aus Ländern, die keine Gegenseitigkeit gewähren, die Begünstigungen nach Absatz 1 Nr. 1 Buchstabe a bis d ausschließen oder einschränken.
+(3) Die Bundesregierung kann durch Rechtsverordnung für Waren mit Ursprung oder Herkunft aus Ländern, die keine Gegenseitigkeit gewähren, die Begünstigungen nach Absatz 1 Nummer 1 Buchstabe a bis d ausschließen oder einschränken.
 
-# § 30 – Rechtsverordnungsermächtigung für die Anordnung außertariflicher Zollfreiheit zur Förderung der Luft- und Schiffahrt
+# § 30 – Rechtsverordnungsermächtigung für die Anordnung außertariflicher Zollfreiheit zur Förderung der Luft- und Schifffahrt
 
-Das Bundesministerium der Finanzen kann zur Förderung der Luftfahrt und der Schiffahrt durch Rechtsverordnung Betriebsstoffe auch in anderen als in § 29 geregelten Fällen vom Zoll befreien, wenn sie unter zollamtlicher Überwachung für Luftfahrzeuge oder Schiffe verwendet werden.
+Das Bundesministerium der Finanzen kann zur Förderung der Luftfahrt und der Schifffahrt durch Rechtsverordnung Betriebsstoffe auch in anderen als in § 29 geregelten Fällen vom Zoll befreien, wenn sie unter zollamtlicher Überwachung für Luftfahrzeuge oder Schiffe verwendet werden.
 
-# § 31 – Steuerordnungswidrigkeiten
-
-(1) Ordnungswidrig im Sinne des § 382 Abs. 1 Nr. 1 der Abgabenordnung handelt, wer vorsätzlich oder fahrlässig
-
-1. entgegen § 2 Abs. 1 Satz 1 eine Ware außerhalb einer Zollstraße einführt oder ausführt, entgegen § 2 Abs. 2 außerhalb eines Zollflugplatzes landet oder abfliegt, entgegen § 2 Abs. 3 Satz 1 außerhalb eines Zollandungsplatzes anlegt oder ablegt oder entgegen § 2 Abs. 3 Satz 2 auf einer Zollstraße mit anderen Fahrzeugen oder mit dem Land in Verbindung tritt,
-
-2. entgegen § 3 Abs. 1 eine Ware außerhalb der Öffnungszeiten einführt oder ausführt,
-
-3. entgegen § 10 Abs. 2 in Verbindung mit Abs. 1 Satz 2 auf Verlangen eines Zollbediensteten nicht stehen bleibt oder sich nicht über seine Person ausweist,
-
-4. entgegen § 10 Abs. 2 in Verbindung mit Abs. 1 Satz 3 oder 4 nicht oder nicht rechtzeitig hält, ein Beförderungspapier nicht oder nicht rechtzeitig vorlegt oder einem Zollbediensteten nicht oder nicht rechtzeitig ermöglicht, an Bord oder von Bord zu gelangen, oder
-
-5. entgegen § 10 Abs. 2 in Verbindung mit Abs. 1 Satz 6 eine Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht oder die Entnahme von unentgeltlichen Proben nicht duldet.
-
-(1a) Ordnungswidrig im Sinne des § 382 Abs. 1 Nr. 2 der Abgabenordnung handelt, wer vorsätzlich oder fahrlässig entgegen § 18 Satz 2 oder 3 den Amtsplatz oder einen besonders gekennzeichneten Platz benutzt.
-
-(2) Ordnungswidrig im Sinne des § 382 Abs. 1 Nr. 3 der Abgabenordnung handelt, wer vorsätzlich oder fahrlässig
-
-1. entgegen § 10 Abs. 1 Satz 2 auf Verlangen eines Zollbediensteten nicht stehen bleibt oder sich nicht über seine Person ausweist,
-
-2. entgegen § 10 Abs. 1 Satz 3 oder 4 nicht oder nicht rechtzeitig hält, ein Beförderungspapier nicht oder nicht rechtzeitig vorlegt oder einem Zollbediensteten nicht oder nicht rechtzeitig ermöglicht, an Bord oder von Bord zu gelangen,
-
-2a. entgegen § 10 Abs. 1 Satz 6 eine Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht oder die Entnahme von unentgeltlichen Proben nicht duldet,
-
-3. entgegen § 15 Abs. 1 Satz 1 einen Bau ohne Zustimmung des Hauptzollamts errichtet oder ändert,
-
-4. entgegen § 21 Satz 1 in einer Freizone ohne besondere Erlaubnis des Hauptzollamts wohnt,
-
-5. entgegen § 22 Satz 1 in einer Freizone einen Bau ohne Zustimmung des Hauptzollamts errichtet, wesentlich in seiner Bauart ändert oder anders verwendet,
-
-6. im grenznahen Raum, in einem der Grenzaufsicht unterworfenen Gebiet oder in einer Freizone entgegen § 25 Abs. 1 Satz 1 Handel mit Nichtgemeinschaftswaren oder unversteuerten Waren, die zur Verwendung als Schiffs- oder Reisebedarf bestimmt sind, ohne schriftliche Erlaubnis des Hauptzollamts betreibt.
-
-# § 31a – Bußgeldvorschriften
+# § 31 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1. entgegen
+1. entgegen § 2 Absatz 1 Satz 1 oder § 3 Absatz 1 eine Ware verbringt,
 
-a) § 5 Absatz 1 Satz 1 oder § 10 Absatz 4a Satz 1 oder
+2. entgegen § 2 Absatz 2 Satz 1 mit einem Wasserfahrzeug anlegt oder ablegt,
 
-b) § 12a Absatz 5 Satz 1
+3. entgegen § 2 Absatz 2 Satz 2 mit einem anderen Fahrzeug in Verbindung tritt,
 
-eine Postsendung oder ein dort genanntes Dokument nicht oder nicht rechtzeitig vorlegt,
-
-2. entgegen
+4. entgegen
 
 a) § 5 Absatz 1 Satz 1 oder
 
@@ -487,27 +459,75 @@ b) § 12a Absatz 1 Satz 1
 
 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
 
-3. entgegen § 10 Absatz 4 Satz 1 Zutritt nicht gewährt,
+5. entgegen
 
-4. einer vollziehbaren Anordnung nach § 12a Absatz 2 Satz 1 zuwiderhandelt,
+a) § 5 Absatz 1 Satz 1 oder § 10 Absatz 4a Satz 1 oder
 
-5. entgegen § 12a Absatz 6 Satz 3 eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt oder
+b) § 12a Absatz 5 Satz 1
 
-6. entgegen § 12e Absatz 2 Satz 1 einen Nachweis nicht oder nicht rechtzeitig erbringt.
+eine Postsendung, einen Beleg, eine Urkunde oder ein Dokument nicht oder nicht rechtzeitig vorlegt,
 
-(2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 139 Absatz 1 oder Absatz 2 Satz 1 der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates vom 9. Oktober 2013 zur Festlegung des Zollkodex der Union (ABl. L 269 vom 10.10.2013, S. 1) in Verbindung mit § 4 Absatz 1 eine dort genannte Ware nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig gestellt.
+6. einer vollziehbaren Anordnung nach § 10 Absatz 1 Satz 2, 3, 4 oder 6, jeweils auch in Verbindung mit § 10 Absatz 2, oder nach § 12a Absatz 2 Satz 1 zuwiderhandelt,
 
-(3) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2018/1672 des Europäischen Parlaments und des Rates vom 23. Oktober 2018 über die Überwachung von Barmitteln, die in die Union oder aus der Union verbracht werden, und zur Aufhebung der Verordnung (EG) Nr. 1889/2005 (ABl. L 284 vom 12.11.2018, S. 6; L 435 vom 23.12.2018, S. 79) verstößt, indem er vorsätzlich oder fahrlässig
+7. entgegen § 10 Absatz 4 Satz 1 Zutritt nicht gewährt,
 
-1. entgegen Artikel 3 Absatz 1 Satz 1 einen dort genannten Bargeldbetrag nicht oder nicht bis zum Zeitpunkt der Ein- oder Ausreise anmeldet oder Barmittel nicht oder nicht zum Zeitpunkt der Kontrolle zur Verfügung stellt oder
+8. entgegen § 12a Absatz 6 Satz 3 eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt,
+
+9. entgegen § 12e Absatz 2 Satz 1 einen Nachweis nicht oder nicht rechtzeitig erbringt,
+
+10. entgegen § 15 Absatz 1 Satz 1 einen Bau errichtet oder ändert,
+
+11. entgegen § 18 Satz 2, auch in Verbindung mit Satz 3, einen Amtsplatz oder einen dort genannten Platz benutzt,
+
+12. entgegen § 21 Satz 1 in einer Freizone wohnt,
+
+13. entgegen § 22 Satz 1 einen Bau errichtet, ändert oder verwendet,
+
+14. einer Rechtsverordnung nach § 23, § 25 Absatz 2 oder § 28 Absatz 1 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist oder
+
+15. entgegen § 25 Absatz 1 Satz 1 einen Handel betreibt.
+
+(2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 18a Absatz 4 Satz 3 in Verbindung mit Absatz 5 oder 6 Satz 1 der Verordnung (EG) Nr. 515/97 in der Fassung vom 29. April 2021 eine Containerstatusmeldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt.
+
+(3) Ordnungswidrig handelt, wer gegen die Verordnung (EU) Nr. 952/2013 in der Fassung vom 23. November 2022 verstößt, indem er vorsätzlich oder fahrlässig
+
+1. entgegen Artikel 139 Absatz 1, auch in Verbindung mit Artikel 245 Absatz 1 oder Artikel 248 Absatz 2, jeweils in Verbindung mit § 4 Absatz 1, eine dort genannte Ware nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig gestellt oder
+
+2. entgegen Artikel 139 Absatz 7 eine dort genannte Ware entfernt.
+
+(4) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2018/1672 in der Fassung vom 23. Oktober 2018 verstößt, indem er vorsätzlich oder fahrlässig
+
+1. entgegen Artikel 3 Absatz 1 Satz 1 einen dort genannten Barmittelbetrag nicht oder nicht bis zum Zeitpunkt der Ein- oder Ausreise anmeldet oder Barmittel nicht oder nicht zum Zeitpunkt der Kontrolle zur Verfügung stellt oder
 
 2. einer vollziehbaren Anordnung nach Artikel 4 Absatz 1 Satz 1 zuwiderhandelt.
 
-(4) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 2 Buchstabe b und des Absatzes 3 mit einer Geldbuße bis zu einer Million Euro, in den Fällen des Absatzes 1 Nummer 1 Buchstabe b und Nummer 6 mit einer Geldbuße bis zu fünfzigtausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu dreißigtausend Euro geahndet werden.
+(5) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer anderen als in Absatz 3 genannten unmittelbar geltenden Vorschrift der Verordnung (EU) 952/2013 in der Fassung vom 23. November 2022 oder einer unmittelbar geltenden Vorschrift der Delegierten Verordnung (EU) 2015/2446 in der Fassung vom 29. November 2024 oder der Durchführungsverordnung (EU) 2015/2447 in der Fassung vom 28. April 2025 zuwiderhandelt, die der zollamtlichen Überwachung dient und die inhaltlich
 
-(5) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Hauptzollamt.
+1. einem in Absatz 1
 
-(6) Die Hauptzollämter und ihre Beamten haben bei Ordnungswidrigkeiten nach den Absätzen 1 bis 3 dieselben Rechte und Pflichten wie die Behörden und Beamten des Polizeidienstes nach dem Gesetz über Ordnungswidrigkeiten; die Beamten sind insoweit Ermittlungspersonen der Staatsanwaltschaft.
+a) Nummer 1 bis 4 Buchstabe a, Nummer 5 Buchstabe a, Nummer 6 bis 8, 10 bis 13 oder Nummer 15,
+
+b) Nummer 4 Buchstabe b,
+
+c) Nummer 5 Buchstabe b oder Nummer 9
+
+bezeichneten Gebot oder Verbot entspricht oder
+
+2. einer Regelung entspricht, zu der die in Absatz 1 Nummer 14 genannten Vorschriften ermächtigen,
+
+soweit eine Rechtsverordnung nach Absatz 8 für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
+
+(6) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 4 Buchstabe b, der Absätze 4 und 5 Nummer 1 Buchstabe b mit einer Geldbuße bis zu einer Million Euro, in den Fällen des Absatzes 1 Nummer 5 Buchstabe b und Nummer 9 und des Absatzes 5 Nummer 1 Buchstabe c mit einer Geldbuße bis zu fünfzigtausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu dreißigtausend Euro geahndet werden.
+
+(7) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Hauptzollamt.
+
+(8) Das Bundesministerium der Finanzen wird ermächtigt, soweit dies zur Durchsetzung der Rechtsakte der Europäischen Union erforderlich ist, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach Absatz 5 geahndet werden können.
+
+(9) Die Hauptzollämter und ihre Beamten haben bei Ordnungswidrigkeiten nach den Absätzen 1 bis 5 dieselben Rechte und Pflichten wie die Behörden und Beamten des Polizeidienstes nach dem Gesetz über Ordnungswidrigkeiten; die Beamten sind insoweit Ermittlungspersonen der Staatsanwaltschaft.
+
+# § 31a – Einziehung
+
+Gegenstände, auf die sich eine Ordnungswidrigkeit nach § 31 Absatz 1 Nummer 4 Buchstabe b oder Absatz 4 Nummer 1 bezieht, können eingezogen werden. § 23 des Gesetzes über Ordnungswidrigkeiten ist anzuwenden.
 
 # § 32 – Nichtverfolgung von Steuerstraftaten und Steuerordnungswidrigkeiten, Erhebung eines Zuschlags
 

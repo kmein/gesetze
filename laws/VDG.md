@@ -29,8 +29,6 @@ b) Bewahrung von diese Dienste betreffenden elektronischen Signaturen, Siegeln o
 
 3. die Erstellung technischer Vorgaben und die Bewertung technischer Standards für den Einsatz von Vertrauensdiensten in Digitalisierungsvorhaben nach Maßgabe der entsprechenden Fachgesetze.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 2.12.2025 I Nr. 301 +++)
-
 # § 3 – Verfahren über eine einheitliche Stelle
 
 Verwaltungsverfahren nach diesem Gesetz oder nach der Rechtsverordnung nach § 20 können über eine einheitliche Stelle im Sinne des Verwaltungsverfahrensgesetzes abgewickelt werden.
