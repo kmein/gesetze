@@ -428,6 +428,12 @@ b) Anlagen nach § 2 Nummer 3 des Geothermie-Beschleunigungsgesetzes mit einer t
 
 c) Leitungen nach § 2 Nummer 5 des Geothermie-Beschleunigungsgesetzes einschließlich der Streitigkeiten nach § 10 Absatz 2 des Geothermie-Beschleunigungsgesetzes,
 
+3d. die Errichtung, den Betrieb und die Änderung von
+
+a) Anlagen nach § 2 Absatz 1 Nummer 1 des Wasserstoffbeschleunigungsgesetzes vom 29. März 2026 (BGBl. 2026 I Nr. 84, S. 2), in der jeweils geltenden Fassung, mit einer elektrischen Nennleistung von mindestens 30 Megawatt und den dazugehörigen Leitungen nach § 2 Absatz 1 Nummer 13 und 14 des Wasserstoffbeschleunigungsgesetzes und
+
+b) Anlagen nach § 2 Absatz 1 Nummer 3 des Wasserstoffbeschleunigungsgesetzes, sofern diese eine Speicherkapazität von 25 Tonnen Wasserstoff oder mehr haben, und der dazugehörigen Leitungen nach § 2 Absatz 1 Nummer 13 und 14 des Wasserstoffbeschleunigungsgesetzes,
+
 4. Planfeststellungsverfahren gemäß § 43 des Energiewirtschaftsgesetzes, soweit nicht die Zuständigkeit des Bundesverwaltungsgerichts nach § 50 Absatz 1 Nummer 6 begründet ist,
 
 4a. Planfeststellungs- oder Plangenehmigungsverfahren für die Errichtung, den Betrieb und die Änderung von Einrichtungen nach § 66 Absatz 1 des Windenergie-auf-See-Gesetzes, soweit nicht die Zuständigkeit des Bundesverwaltungsgerichts nach § 50 Absatz 1 Nummer 6 begründet ist,
@@ -504,7 +510,7 @@ Das Bundesverwaltungsgericht entscheidet über das Rechtsmittel
 
 5. über Klagen gegen Maßnahmen und Entscheidungen nach § 12 Absatz 3a des Abgeordnetengesetzes, nach den Vorschriften des Elften Abschnitts des Abgeordnetengesetzes, nach § 6b des Bundesministergesetzes und nach § 7 des Gesetzes über die Rechtsverhältnisse der Parlamentarischen Staatssekretäre in Verbindung mit § 6b des Bundesministergesetzes,
 
-6. über sämtliche Streitigkeiten, die Planfeststellungsverfahren und Plangenehmigungsverfahren für Vorhaben betreffen, die in dem Allgemeinen Eisenbahngesetz, dem Bundeswasserstraßengesetz, dem Energieleitungsausbaugesetz, dem Bundesbedarfsplangesetz, dem § 43e Absatz 4 des Energiewirtschaftsgesetzes, dem § 76 Absatz 1 des Windenergie-auf-See-Gesetzes oder dem Magnetschwebebahnplanungsgesetz bezeichnet sind, über sämtliche Streitigkeiten zu Verfahren im Sinne des § 17e Absatz 1 des Bundesfernstraßengesetzes, über sämtliche Streitigkeiten, die Vorhaben zur Errichtung und zur Anbindung von Terminals zum Import von Wasserstoff und Derivaten betreffen, sowie über die ihm nach dem LNG-Beschleunigungsgesetz zugewiesenen Verfahren,
+6. über sämtliche Streitigkeiten, die Planfeststellungsverfahren und Plangenehmigungsverfahren für Vorhaben betreffen, die in dem Allgemeinen Eisenbahngesetz, dem Bundeswasserstraßengesetz, dem Energieleitungsausbaugesetz, dem Bundesbedarfsplangesetz, dem § 43e Absatz 4 des Energiewirtschaftsgesetzes, dem § 76 Absatz 1 des Windenergie-auf-See-Gesetzes oder dem Magnetschwebebahnplanungsgesetz bezeichnet sind, über sämtliche Streitigkeiten zu Verfahren im Sinne des § 17e Absatz 1 des Bundesfernstraßengesetzes, über sämtliche Streitigkeiten, die in § 9 Absatz 2 des Wasserstoffbeschleunigungsgesetzes bezeichnet sind, sowie über die ihm nach dem LNG-Beschleunigungsgesetz zugewiesenen Verfahren,
 
 7. über die ihm nach dem Energiesicherungsgesetz zugewiesenen Verfahren.
 

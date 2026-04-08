@@ -1130,7 +1130,7 @@ Die Überwachung und Aufzeichnung der Telekommunikation darf auch in der Weise e
 
 1. aus dem Strafgesetzbuch:
 
-a) Straftaten des Friedensverrats, des Hochverrats und der Gefährdung des demokratischen Rechtsstaates sowie des Landesverrats und der Gefährdung der äußeren Sicherheit nach den §§ 80a bis 82, 84 bis 86, 87 bis 89a, 89c Absatz 1 bis 4, 94 bis 100a,
+a) Straftaten des Friedensverrats, des Hochverrats und der Gefährdung des demokratischen Rechtsstaates sowie des Landesverrats und der Gefährdung der äußeren Sicherheit nach den §§ 80a bis 82, 84 bis 86, 87 bis 89a, 89c Absatz 1 bis 4 und 8, 94 bis 100a,
 
 b) Bestechlichkeit und Bestechung von Mandatsträgern nach § 108e,
 
@@ -1312,7 +1312,7 @@ Das eingesetzte Mittel ist nach dem Stand der Technik gegen unbefugte Nutzung zu
 
 1. aus dem Strafgesetzbuch:
 
-a) Straftaten des Hochverrats und der Gefährdung des demokratischen Rechtsstaates sowie des Landesverrats und der Gefährdung der äußeren Sicherheit nach den §§ 81, 82, 89a, 89c Absatz 1 bis 4, nach den §§ 94, 95 Absatz 3 und § 96 Absatz 1, jeweils auch in Verbindung mit § 97b, sowie nach den §§ 97a, 98 Absatz 1 Satz 2, § 99 Absatz 2 und den §§ 100, 100a Absatz 4,
+a) Straftaten des Hochverrats und der Gefährdung des demokratischen Rechtsstaates sowie des Landesverrats und der Gefährdung der äußeren Sicherheit nach den §§ 81, 82, 89a Absatz 1 bis 7, § 89c Absatz 1 sowie Absatz 3 und 4, wenn es sich um eine Tat nach Absatz 1 handelt, nach den §§ 94, 95 Absatz 3 und § 96 Absatz 1, jeweils auch in Verbindung mit § 97b, sowie nach den §§ 97a, 98 Absatz 1 Satz 2, § 99 und den §§ 100, 100a Absatz 4,
 
 b) Betreiben krimineller Handelsplattformen im Internet in den Fällen des § 127 Absatz 3 und 4, sofern der Zweck der Handelsplattform im Internet darauf ausgerichtet ist, in den Buchstaben a und c bis o sowie in den Nummern 2 bis 10 genannte besonders schwere Straftaten zu ermöglichen oder zu fördern,
 
@@ -1512,7 +1512,7 @@ so dürfen Verkehrsdaten (§§ 9 und 12 des Telekommunikation-Digitale-Dienste-D
 
 1. aus dem Strafgesetzbuch:
 
-a) Straftaten des Hochverrats und der Gefährdung des demokratischen Rechtsstaates sowie des Landesverrats und der Gefährdung der äußeren Sicherheit nach den §§ 81, 82, 89a, nach den §§ 94, 95 Absatz 3 und § 96 Absatz 1, jeweils auch in Verbindung mit § 97b, sowie nach den §§ 97a, 98 Absatz 1 Satz 2, § 99 Absatz 2 und den §§ 100, 100a Absatz 4,
+a) Straftaten des Hochverrats und der Gefährdung des demokratischen Rechtsstaates sowie des Landesverrats und der Gefährdung der äußeren Sicherheit nach den §§ 81, 82, 89a, nach den §§ 94, 95 Absatz 3 und § 96 Absatz 1, jeweils auch in Verbindung mit § 97b, sowie nach den §§ 97a, 98 Absatz 1 Satz 2, § 99 Absatz 1 und den §§ 100, 100a Absatz 4,
 
 b) besonders schwerer Fall des Landfriedensbruchs nach § 125a sowie Betreiben krimineller Handelsplattformen im Internet in den Fällen des § 127 Absatz 3 und 4,
 
@@ -1868,7 +1868,7 @@ Bei dem, welcher als Täter oder Teilnehmer einer Straftat oder der Datenhehlere
 
 # § 103 – Durchsuchung bei anderen Personen
 
-(1) Bei anderen Personen sind Durchsuchungen nur zur Ergreifung des Beschuldigten oder zur Verfolgung von Spuren einer Straftat oder zur Beschlagnahme bestimmter Gegenstände und nur dann zulässig, wenn Tatsachen vorliegen, aus denen zu schließen ist, daß die gesuchte Person, Spur oder Sache sich in den zu durchsuchenden Räumen befindet. Zum Zwecke der Ergreifung eines Beschuldigten, der dringend verdächtig ist, eine Straftat nach § 89a oder § 89c Absatz 1 bis 4 des Strafgesetzbuchs oder nach § 129a, auch in Verbindung mit § 129b Abs. 1, des Strafgesetzbuches oder eine der in dieser Vorschrift bezeichneten Straftaten begangen zu haben, ist eine Durchsuchung von Wohnungen und anderen Räumen auch zulässig, wenn diese sich in einem Gebäude befinden, von dem auf Grund von Tatsachen anzunehmen ist, daß sich der Beschuldigte in ihm aufhält.
+(1) Bei anderen Personen sind Durchsuchungen nur zur Ergreifung des Beschuldigten oder zur Verfolgung von Spuren einer Straftat oder zur Beschlagnahme bestimmter Gegenstände und nur dann zulässig, wenn Tatsachen vorliegen, aus denen zu schließen ist, daß die gesuchte Person, Spur oder Sache sich in den zu durchsuchenden Räumen befindet. Zum Zwecke der Ergreifung eines Beschuldigten, der dringend verdächtig ist, eine Straftat nach § 89a oder § 89c Absatz 1 bis 4 und 8 des Strafgesetzbuchs oder nach § 129a, auch in Verbindung mit § 129b Abs. 1, des Strafgesetzbuches oder eine der in dieser Vorschrift bezeichneten Straftaten begangen zu haben, ist eine Durchsuchung von Wohnungen und anderen Räumen auch zulässig, wenn diese sich in einem Gebäude befinden, von dem auf Grund von Tatsachen anzunehmen ist, daß sich der Beschuldigte in ihm aufhält.
 
 (2) Die Beschränkungen des Absatzes 1 Satz 1 gelten nicht für Räume, in denen der Beschuldigte ergriffen worden ist oder die er während der Verfolgung betreten hat.
 
@@ -1970,7 +1970,7 @@ Einsätze, bei denen entsprechend § 176e Absatz 5 oder § 184b Absatz 6 des Str
 
 # § 111 – Errichtung von Kontrollstellen an öffentlich zugänglichen Orten
 
-(1) Begründen bestimmte Tatsachen den Verdacht, daß eine Straftat nach § 89a oder § 89c Absatz 1 bis 4 des Strafgesetzbuchs oder nach § 129a, auch in Verbindung mit § 129b Abs. 1, des Strafgesetzbuches, eine der in dieser Vorschrift bezeichneten Straftaten oder eine Straftat nach § 250 Abs. 1 Nr. 1 des Strafgesetzbuches begangen worden ist, so können auf öffentlichen Straßen und Plätzen und an anderen öffentlich zugänglichen Orten Kontrollstellen eingerichtet werden, wenn Tatsachen die Annahme rechtfertigen, daß diese Maßnahme zur Ergreifung des Täters oder zur Sicherstellung von Beweismitteln führen kann, die der Aufklärung der Straftat dienen können. An einer Kontrollstelle ist jedermann verpflichtet, seine Identität feststellen und sich sowie mitgeführte Sachen durchsuchen zu lassen.
+(1) Begründen bestimmte Tatsachen den Verdacht, daß eine Straftat nach § 89a oder § 89c Absatz 1 bis 4 und 8 des Strafgesetzbuchs oder nach § 129a, auch in Verbindung mit § 129b Abs. 1, des Strafgesetzbuches, eine der in dieser Vorschrift bezeichneten Straftaten oder eine Straftat nach § 250 Abs. 1 Nr. 1 des Strafgesetzbuches begangen worden ist, so können auf öffentlichen Straßen und Plätzen und an anderen öffentlich zugänglichen Orten Kontrollstellen eingerichtet werden, wenn Tatsachen die Annahme rechtfertigen, daß diese Maßnahme zur Ergreifung des Täters oder zur Sicherstellung von Beweismitteln führen kann, die der Aufklärung der Straftat dienen können. An einer Kontrollstelle ist jedermann verpflichtet, seine Identität feststellen und sich sowie mitgeführte Sachen durchsuchen zu lassen.
 
 (2) Die Anordnung, eine Kontrollstelle einzurichten, trifft der Richter; die Staatsanwaltschaft und ihre Ermittlungspersonen (§ 152 des Gerichtsverfassungsgesetzes) sind hierzu befugt, wenn Gefahr im Verzug ist.
 
@@ -2156,7 +2156,7 @@ und wenn deshalb die Gefahr droht, daß die Ermittlung der Wahrheit erschwert we
 
 1. eine Straftat nach den §§ 174, 174a, 176 bis 176d, 177, 178, 184b Absatz 2 oder nach § 238 Abs. 2 und 3 des Strafgesetzbuches oder
 
-2. wiederholt oder fortgesetzt eine die Rechtsordnung schwerwiegend beeinträchtigende Straftat nach den §§ 89a, 89c Absatz 1 bis 4, nach § 125a, nach den §§ 224 bis 227, nach den §§ 243, 244, 249 bis 255, 260, nach § 263, nach den §§ 306 bis 306c oder § 316a des Strafgesetzbuches oder nach § 29 Absatz 1 Satz 1 Nummer 1, 10 oder Abs. 3, § 29a Abs. 1, § 30 Abs. 1, § 30a Abs. 1 des Betäubungsmittelgesetzes oder nach einer in § 34 Absatz 3 Satz 2 Nummer 1, 3 oder Nummer 4 des Konsumcannabisgesetzes in Bezug genommenen Vorschrift unter den dort genannten Voraussetzungen oder nach § 34 Absatz 4 des Konsumcannabisgesetzes oder nach einer in § 25 Absatz 4 Satz 2 Nummer 1, 3 oder Nummer 4 des Medizinal-Cannabisgesetzes in Bezug genommenen Vorschrift unter den dort genannten Voraussetzungen oder nach § 25 Absatz 5 des Medizinal-Cannabisgesetzes oder nach § 4 Absatz 3 Nummer 1 Buchstabe a des Neue-psychoaktive-Stoffe-Gesetzes
+2. wiederholt oder fortgesetzt eine die Rechtsordnung schwerwiegend beeinträchtigende Straftat nach § 89a Absatz 1 bis 7, § 89c Absatz 1 sowie Absatz 3 und 4, wenn es sich um eine Tat nach Absatz 1 handelt, nach § 125a, nach den §§ 224 bis 227, nach den §§ 243, 244, 249 bis 255, 260, nach § 263, nach den §§ 306 bis 306c oder § 316a des Strafgesetzbuches oder nach § 29 Absatz 1 Satz 1 Nummer 1, 10 oder Abs. 3, § 29a Abs. 1, § 30 Abs. 1, § 30a Abs. 1 des Betäubungsmittelgesetzes oder nach einer in § 34 Absatz 3 Satz 2 Nummer 1, 3 oder Nummer 4 des Konsumcannabisgesetzes in Bezug genommenen Vorschrift unter den dort genannten Voraussetzungen oder nach § 34 Absatz 4 des Konsumcannabisgesetzes oder nach einer in § 25 Absatz 4 Satz 2 Nummer 1, 3 oder Nummer 4 des Medizinal-Cannabisgesetzes in Bezug genommenen Vorschrift unter den dort genannten Voraussetzungen oder nach § 25 Absatz 5 des Medizinal-Cannabisgesetzes oder nach § 4 Absatz 3 Nummer 1 Buchstabe a des Neue-psychoaktive-Stoffe-Gesetzes
 
 begangen zu haben, und bestimmte Tatsachen die Gefahr begründen, daß er vor rechtskräftiger Aburteilung weitere erhebliche Straftaten gleicher Art begehen oder die Straftat fortsetzen werde, die Haft zur Abwendung der drohenden Gefahr erforderlich und in den Fällen der Nummer 2 eine Freiheitsstrafe von mehr als einem Jahr zu erwarten ist. In die Beurteilung des dringenden Verdachts einer Tatbegehung im Sinne des Satzes 1 Nummer 2 sind auch solche Taten einzubeziehen, die Gegenstand anderer, auch rechtskräftig abgeschlossener, Verfahren sind oder waren.
 
@@ -5698,7 +5698,7 @@ Vernichtung, Unbrauchbarmachung und Beseitigung eines gesetzwidrigen Zustandes s
 
 (1) Das im Geltungsbereich dieses Gesetzes befindliche Vermögen oder einzelne Vermögensgegenstände eines Beschuldigten, gegen den wegen einer Straftat nach
 
-1. den §§ 81 bis 83 Abs. 1, § 89a oder § 89c Absatz 1 bis 4, den §§ 94 oder 96 Abs. 1, den §§ 97a oder 100, den §§ 129 oder 129a, auch in Verbindung mit § 129b Abs. 1, des Strafgesetzbuches,
+1. den §§ 81 bis 83 Abs. 1, § 89a oder § 89c Absatz 1 bis 4 und 8, den §§ 94 oder 96 Abs. 1, den §§ 97a oder 100, den §§ 129 oder 129a, auch in Verbindung mit § 129b Abs. 1, des Strafgesetzbuches,
 
 2. einer in § 330 Abs. 1 Satz 1 des Strafgesetzbuches in Bezug genommenen Vorschrift unter der Voraussetzung, daß der Beschuldigte verdächtig ist, vorsätzlich Leib oder Leben eines anderen oder fremde Sachen von bedeutendem Wert gefährdet zu haben, oder unter einer der in § 330 Abs. 1 Satz 2 Nr. 1 bis 3 des Strafgesetzbuches genannten Voraussetzungen oder nach § 330 Abs. 2, § 330a Abs. 1, 2 des Strafgesetzbuches,
 

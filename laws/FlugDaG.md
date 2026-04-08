@@ -89,13 +89,13 @@ Für den Fall, dass andere Unternehmen, die an der Reservierung oder Buchung von
 
 1. eine Straftat nach § 129a, auch in Verbindung mit § 129b, des Strafgesetzbuchs,
 
-2. eine in § 129a Absatz 1 Nummer 1 und 2, Absatz 2 Nummer 1 bis 5 des Strafgesetzbuchs bezeichnete Straftat, wenn diese bestimmt ist, die Bevölkerung auf erhebliche Weise einzuschüchtern, eine Behörde oder eine internationale Organisation rechtswidrig mit Gewalt oder durch Drohung mit Gewalt zu nötigen oder die politischen, verfassungsrechtlichen, wirtschaftlichen oder sozialen Grundstrukturen eines Staates oder einer internationalen Organisation zu beseitigen oder erheblich zu beeinträchtigen und durch die Art ihrer Begehung oder ihre Auswirkungen einen Staat oder eine internationale Organisation erheblich schädigen kann,
+2. eine in § 129a Absatz 1 Nummer 1 und 2, Absatz 2 Nummer 1 bis 6 des Strafgesetzbuchs bezeichnete Straftat, wenn diese bestimmt ist, die Bevölkerung auf erhebliche Weise einzuschüchtern, eine Behörde oder eine internationale Organisation rechtswidrig mit Gewalt oder durch Drohung mit Gewalt zu nötigen oder die politischen, verfassungsrechtlichen, wirtschaftlichen oder sozialen Grundstrukturen eines Staates oder einer internationalen Organisation zu beseitigen oder erheblich zu beeinträchtigen und durch die Art ihrer Begehung oder ihre Auswirkungen einen Staat oder eine internationale Organisation erheblich schädigen kann,
 
 3. eine Straftat, die darauf gerichtet ist, eine der in Nummer 2 bezeichneten Straftaten anzudrohen,
 
 4. eine Straftat nach den §§ 89a bis 89c und 91 des Strafgesetzbuchs,
 
-5. eine Straftat im unmittelbaren Zusammenhang mit terroristischen Aktivitäten nach Artikel 3 Absatz 2 des Rahmenbeschlusses 2002/475/JI des Rates vom 13. Juni 2002 zur Terrorismusbekämpfung (ABl. L 164 vom 22.6.2002, S. 3), der zuletzt durch Artikel 1 Nummer 1 des Rahmenbeschlusses 2008/919/JI (ABl. L 330 vom 9.12.2008, S. 21) geändert worden ist, oder
+5. eine Straftat im unmittelbaren Zusammenhang mit terroristischen Aktivitäten nach Artikel 12 der Richtlinie (EU) 2017/541 in der Fassung vom 15. März 2017 oder
 
 6. eine Straftat, die einer in Anhang II zur Richtlinie (EU) 2016/681 aufgeführten strafbaren Handlung entspricht und die mit einer Freiheitsstrafe im Höchstmaß von mindestens drei Jahren bedroht ist.
 

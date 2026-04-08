@@ -524,6 +524,14 @@ Die Genehmigungsbehörde kann auf Antrag des Vorhabenträgers die Frist nach Num
 
 (10) Ist der Vorhabenträger der neuen Anlage im Falle des Absatz 2 Satz 2 mit dem Betreiber der Bestandsanlage nicht identisch, muss der Vorhabenträger der neuen Anlage der Genehmigungsbehörde bis zum Zeitpunkt der Entscheidung über den Antrag eine Erklärung des Betreibers der Bestandsanlage vorlegen, wonach dieser mit dem Repowering-Vorhaben einverstanden ist. Ein paralleler Betrieb einer Bestandsanlage und der sie ersetzenden neuen Anlage ist nicht zulässig.
 
+# § 16c – Sondervorschriften für Wasserstoffinfrastrukturvorhaben
+
+(1) Die §§ 10 und 23b sind bei der Genehmigung von einer Anlage oder Leitung nach § 2 Absatz 1 des Wasserstoffbeschleunigungsgesetzes vom 29. März 2026 (BGBl. 2026 I Nr. 84, S. 2), in der jeweils geltenden Fassung, mit der Maßgabe anzuwenden, dass das Genehmigungsverfahren elektronisch durchzuführen ist. Einwendungen und Stellungnahmen können anstelle der elektronischen Eingabe auch bei der zuständigen Behörde mündlich zur elektronischen Eingabe abgegeben werden. In der Bekanntmachung der Auslegung oder bei der Bekanntgabe der Einwendungsfrist ist auf das elektronisch durchzuführende Verfahren nach Satz 1 und die Ausnahme nach Satz 2 hinzuweisen. Die Verpflichtung der zuständigen Behörde, das Vorhaben im amtlichen Veröffentlichungsblatt und auf ihrer Internetseite öffentlich bekannt zu machen, bleibt unberührt.
+
+(2) § 8a ist mit der Maßgabe anzuwenden, dass für eine Anlage oder eine Leitung nach § 2 Absatz 1 des Wasserstoffbeschleunigungsgesetzes ein öffentliches Interesse im Sinne des § 8a Absatz 1 Nummer 2 besteht.
+
+(3) § 16b Absatz 1, 2 Satz 1 und 2 Nummer 1, Satz 3 und Absatz 4 ist für eine Anlage nach § 2 Absatz 1 Nummer 1 des Wasserstoffbeschleunigungsgesetzes entsprechend anzuwenden.
+
 # § 17 – Nachträgliche Anordnungen
 
 (1) Zur Erfüllung der sich aus diesem Gesetz und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen ergebenden Pflichten können nach Erteilung der Genehmigung sowie nach einer nach § 15 Absatz 1 angezeigten Änderung Anordnungen getroffen werden. Wird nach Erteilung der Genehmigung sowie nach einer nach § 15 Absatz 1 angezeigten Änderung festgestellt, dass die Allgemeinheit oder die Nachbarschaft nicht ausreichend vor schädlichen Umwelteinwirkungen oder sonstigen Gefahren, erheblichen Nachteilen oder erheblichen Belästigungen geschützt ist, soll die zuständige Behörde nachträgliche Anordnungen treffen.

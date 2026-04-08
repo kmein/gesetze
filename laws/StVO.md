@@ -522,6 +522,56 @@ Diese Sicherungsmittel dürfen nicht höher als 1,50 m über der Fahrbahn angebr
 
 (5) Ragt die Ladung seitlich mehr als 40 cm über die Fahrzeugleuchten, bei Kraftfahrzeugen über den äußeren Rand der Lichtaustrittsflächen der Begrenzungs- oder Schlussleuchten hinaus, so ist sie, wenn nötig (§ 17 Absatz 1), kenntlich zu machen, und zwar seitlich höchstens 40 cm von ihrem Rand und höchstens 1,50 m über der Fahrbahn nach vorn durch eine Leuchte mit weißem, nach hinten durch eine mit rotem Licht. Einzelne Stangen oder Pfähle, waagerecht liegende Platten und andere schlecht erkennbare Gegenstände dürfen seitlich nicht herausragen.
 
+# § 23 – Sonstige Pflichten von Fahrzeugführenden
+
+(1) Wer ein Fahrzeug führt, ist dafür verantwortlich, dass seine Sicht und das Gehör nicht durch die Besetzung, Tiere, die Ladung, Geräte oder den Zustand des Fahrzeugs beeinträchtigt werden. Wer ein Fahrzeug führt, hat zudem dafür zu sorgen, dass das Fahrzeug, der Zug, das Gespann sowie die Ladung und die Besetzung vorschriftsmäßig sind und dass die Verkehrssicherheit des Fahrzeugs durch die Ladung oder die Besetzung nicht leidet. Ferner ist dafür zu sorgen, dass die vorgeschriebenen Kennzeichen stets gut lesbar sind. Vorgeschriebene Beleuchtungseinrichtungen müssen an Kraftfahrzeugen und ihren Anhängern auch am Tage vorhanden und betriebsbereit sein.
+
+(1a) Wer ein Fahrzeug führt, darf ein elektronisches Gerät, das der Kommunikation, Information oder Organisation dient oder zu dienen bestimmt ist, nur benutzen, wenn
+
+1. hierfür das Gerät weder aufgenommen noch gehalten wird und
+
+2. entweder
+
+a) nur eine Sprachsteuerung und Vorlesefunktion genutzt wird oder
+
+b) zur Bedienung und Nutzung des Gerätes nur eine kurze, den Straßen-, Verkehrs-, Sicht- und Wetterverhältnissen angepasste Blickzuwendung zum Gerät bei gleichzeitig entsprechender Blickabwendung vom Verkehrsgeschehen erfolgt oder erforderlich ist.
+
+Geräte im Sinne des Satzes 1 sind auch Geräte der Unterhaltungselektronik oder Geräte zur Ortsbestimmung, insbesondere Mobiltelefone oder Autotelefone, Berührungsbildschirme, tragbare Flachrechner, Navigationsgeräte, Fernseher oder Abspielgeräte mit Videofunktion oder Audiorekorder. Handelt es sich bei dem Gerät im Sinne des Satzes 1, auch in Verbindung mit Satz 2, um ein auf dem Kopf getragenes visuelles Ausgabegerät, insbesondere eine Videobrille, darf dieses nicht benutzt werden. Verfügt das Gerät im Sinne des Satzes 1, auch in Verbindung mit Satz 2, über eine Sichtfeldprojektion, darf diese für fahrzeugbezogene, verkehrszeichenbezogene, fahrtbezogene oder fahrtbegleitende Informationen benutzt werden. Absatz 1c und § 1b des Straßenverkehrsgesetzes bleiben unberührt.
+
+(1b) Absatz 1a Satz 1 bis 3 gilt nicht für
+
+1. ein stehendes Fahrzeug, im Falle eines Kraftfahrzeuges vorbehaltlich der Nummer 3 nur, wenn der Motor vollständig ausgeschaltet ist,
+
+2. den bestimmungsgemäßen Betrieb einer atemalkoholgesteuerten Wegfahrsperre, soweit ein für den Betrieb bestimmtes Handteil aufgenommen und gehalten werden muss,
+
+3. stehende Straßenbahnen oder Linienbusse an Haltestellen (Zeichen 224).
+
+Das fahrzeugseitige automatische Abschalten des Motors im Verbrennungsbetrieb oder das Ruhen des elektrischen Antriebes ist kein Ausschalten des Motors in diesem Sinne. Absatz 1a Satz 1 Nummer 2 Buchstabe b gilt nicht für
+
+1. die Benutzung eines Bildschirms oder einer Sichtfeldprojektion zur Bewältigung der Fahraufgabe des Rückwärtsfahrens oder Einparkens, soweit das Fahrzeug nur mit Schrittgeschwindigkeit bewegt wird, oder
+
+2. die Benutzung elektronischer Geräte, die vorgeschriebene Spiegel ersetzen oder ergänzen.
+
+(1c) Wer ein Fahrzeug führt, darf ein technisches Gerät nicht betreiben oder betriebsbereit mitführen, das dafür bestimmt ist, Verkehrsüberwachungsmaßnahmen anzuzeigen oder zu stören. Das gilt insbesondere für Geräte zur Störung oder Anzeige von Geschwindigkeitsmessungen (Radarwarn- oder Laserstörgeräte). Bei anderen technischen Geräten, die neben anderen Nutzungszwecken auch zur Anzeige oder Störung von Verkehrsüberwachungsmaßnahmen verwendet werden können, dürfen die entsprechenden Gerätefunktionen nicht verwendet werden.
+
+(1d) Wer ein Kraftfahrzeug mit einer zulässigen Gesamtmasse über 3,5 t führt, hat sicherzustellen, dass bei einer Geschwindigkeit von mehr als 30 km/h ein für das Kraftfahrzeug vorgeschriebenes Notbremsassistenzsystem eingeschaltet ist. Satz 1 gilt nicht
+
+1. beim Führen von Kraftfahrzeugen, die dem Bau, der Unterhaltung oder Reinigung der Straßen und Anlagen im Straßenraum dienen, bei denen vorderseitig montierte Anbauten die Funktion des Notbremsassistenzsystems dauerhaft beeinträchtigen und der Fahrende die Funktionsfähigkeit des Notbremsassistenzsystems aufgrund dieser Anbauten nicht herstellen kann,
+
+1a. beim Führen von Kraftfahrzeugen der Polizei, der Feuerwehr, des Katastrophenschutzes und des Rettungsdienstes, die aufgrund von Anbauteilen einen Überstand über die Kabinenfront hinaus aufweisen, die die Funktion des Notbremsassistenzsystems dauerhaft beeinträchtigen und der Fahrende die Funktionsfähigkeit des Notbremsassistenzsystems aufgrund dieser Anbauten nicht herstellen kann und
+
+2. während der Fahrzeugführung im Sinne des § 1a Absatz 4 des Straßenverkehrsgesetzes.
+
+Satz 2 Nummer 1 und 1a gelten auch während Fahrten, die nicht dem bestimmungsgemäßen Gebrauch dienen.
+
+(2) Wer ein Fahrzeug führt, muss das Fahrzeug, den Zug oder das Gespann auf dem kürzesten Weg aus dem Verkehr ziehen, falls unterwegs auftretende Mängel, welche die Verkehrssicherheit wesentlich beeinträchtigen, nicht alsbald beseitigt werden; dagegen dürfen Krafträder und Fahrräder dann geschoben werden.
+
+(3) Wer ein Fahrrad oder ein Kraftrad fährt, darf sich nicht an Fahrzeuge anhängen. Es darf nicht freihändig gefahren werden. Die Füße dürfen nur dann von den Pedalen oder den Fußrasten genommen werden, wenn der Straßenzustand das erfordert.
+
+(4) Wer ein Kraftfahrzeug führt, darf sein Gesicht nicht so verhüllen oder verdecken, dass er nicht mehr erkennbar ist. Dies gilt nicht in Fällen des § 21a Absatz 2 Satz 1.
+
+(+++ § 23 Abs. 1a: Zur Anwendung vgl. § 52 Abs. 4 +++)
+
 # § 24 – Besondere Fortbewegungsmittel
 
 (1) Schiebe- und Greifreifenrollstühle, Rodelschlitten, Kinderwagen, Roller, Kinderfahrräder, Inline-Skates, Rollschuhe und ähnliche nicht motorbetriebene Fortbewegungsmittel sind nicht Fahrzeuge im Sinne der Verordnung. Für den Verkehr mit diesen Fortbewegungsmitteln gelten die Vorschriften für den Fußgängerverkehr entsprechend.
@@ -754,6 +804,67 @@ für Verkehrsteilnehmer in der Kreuzung: „Kreuzung räumen“.
 
 Die Zeichen und Weisungen eines Transportbegleiters nach § 3 Absatz 1 Nummer 2 der Straßenverkehr-Transportbegleitungsverordnung, die dieser in entsprechender Anwendung des § 36 Absatz 1 bis 4 gibt, sind zu befolgen. Zeichen und Weisungen der Polizei gehen den Zeichen und Weisungen eines Transportbegleiters vor.
 
+# § 37 – Wechsellichtzeichen, Dauerlichtzeichen und Grünpfeil
+
+(1) Lichtzeichen gehen Vorrangregeln und Vorrang regelnden Verkehrszeichen vor. Wer ein Fahrzeug führt, darf bis zu 10 m vor einem Lichtzeichen nicht halten, wenn es dadurch verdeckt wird.
+
+(2) Wechsellichtzeichen haben die Farbfolge Grün – Gelb – Rot – Rot und Gelb (gleichzeitig) – Grün. Rot ist oben, Gelb in der Mitte und Grün unten.
+
+1. An Kreuzungen bedeuten:  
+  
+
+Grün: „Der Verkehr ist freigegeben“.   
+
+Er kann nach den Regeln des § 9 abbiegen, nach links jedoch nur, wenn er Schienenfahrzeuge dadurch nicht behindert.   
+
+Grüner Pfeil: „Nur in Richtung des Pfeils ist der Verkehr freigegeben“.   
+
+Ein grüner Pfeil links hinter der Kreuzung zeigt an, dass der Gegenverkehr durch Rotlicht angehalten ist und dass, wer links abbiegt, die Kreuzung in Richtung des grünen Pfeils ungehindert befahren und räumen kann.   
+
+Gelb ordnet an: „Vor der Kreuzung auf das nächste Zeichen warten“.   
+
+Keines dieser Zeichen entbindet von der Sorgfaltspflicht.   
+
+Rot ordnet an: „Halt vor der Kreuzung“.   
+
+Nach dem Anhalten ist das Abbiegen nach rechts auch bei Rot erlaubt, wenn rechts neben dem Lichtzeichen Rot ein Schild mit grünem Pfeil auf schwarzem Grund (Grünpfeil) angebracht ist. Durch das Zeichen
+
+|                                                    |
+|:---------------------------------------------------|
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j0814-1_0010.jpg) |
+| wird der Grünpfeil auf den Radverkehr beschränkt.  |
+
+Wer ein Fahrzeug führt, darf nur aus dem rechten Fahrstreifen abbiegen. Soweit der Radverkehr die Lichtzeichen für den Fahrverkehr zu beachten hat, dürfen Rad Fahrende auch aus einem am rechten Fahrbahnrand befindlichen Radfahrstreifen oder aus straßenbegleitenden, nicht abgesetzten, baulich angelegten Radwegen abbiegen. Dabei muss man sich so verhalten, dass eine Behinderung oder Gefährdung anderer Verkehrsteilnehmer, insbesondere des Fußgänger- und Fahrzeugverkehrs der freigegebenen Verkehrsrichtung, ausgeschlossen ist.
+
+Schwarzer Pfeil auf Rot ordnet das Halten, schwarzer Pfeil auf Gelb das Warten nur für die angegebene Richtung an.   
+
+Ein einfeldiger Signalgeber mit Grünpfeil zeigt an, dass bei Rot für die Geradeaus-Richtung nach rechts abgebogen werden darf.
+
+2. An anderen Straßenstellen, wie an Einmündungen und an Markierungen für den Fußgängerverkehr, haben die Lichtzeichen entsprechende Bedeutung.
+
+3. Lichtzeichenanlagen können auf die Farbfolge Gelb-Rot beschränkt sein.
+
+4. Für jeden von mehreren markierten Fahrstreifen (Zeichen 295, 296 oder 340) kann ein eigenes Lichtzeichen gegeben werden. Für Schienenbahnen können besondere Zeichen, auch in abweichenden Phasen, gegeben werden; das gilt auch für Omnibusse des Linienverkehrs und nach dem Personenbeförderungsrecht mit dem Schulbus-Zeichen zu kennzeichnende Fahrzeuge des Schüler- und Behindertenverkehrs, wenn diese einen vom übrigen Verkehr freigehaltenen Verkehrsraum benutzen; dies gilt zudem für Krankenfahrzeuge, Fahrräder, Taxen und Busse im Gelegenheitsverkehr, soweit diese durch Zusatzzeichen dort ebenfalls zugelassen sind.
+
+5. Gelten die Lichtzeichen nur für zu Fuß Gehende oder nur für Rad Fahrende, wird das durch das Sinnbild „Fußgänger“ oder „Radverkehr“ angezeigt. Für zu Fuß Gehende ist die Farbfolge Grün-Rot-Grün; für Rad Fahrende kann sie so sein. Wechselt Grün auf Rot, während zu Fuß Gehende die Fahrbahn überschreiten, haben sie ihren Weg zügig fortzusetzen.
+
+6. Wer ein Rad fährt, hat die Lichtzeichen für den Fahrverkehr zu beachten. Davon abweichend sind auf Radverkehrsführungen die besonderen Lichtzeichen für den Radverkehr zu beachten. An Lichtzeichenanlagen mit Radverkehrsführungen ohne besondere Lichtzeichen für Rad Fahrende müssen Rad Fahrende bis zum 31. Dezember 2016 weiterhin die Lichtzeichen für zu Fuß Gehende beachten, soweit eine Radfahrerfurt an eine Fußgängerfurt grenzt.
+
+(3) Dauerlichtzeichen über einem Fahrstreifen sperren ihn oder geben ihn zum Befahren frei.   
+Rote gekreuzte Schrägbalken ordnen an:  
+  
+„Der Fahrstreifen darf nicht benutzt werden“.   
+Ein grüner, nach unten gerichteter Pfeil bedeutet:  
+  
+„Der Verkehr auf dem Fahrstreifen ist freigegeben“.   
+Ein gelb blinkender, schräg nach unten gerichteter Pfeil ordnet an:  
+  
+„Fahrstreifen in Pfeilrichtung wechseln“.
+
+(4) Wo Lichtzeichen den Verkehr regeln, darf nebeneinander gefahren werden, auch wenn die Verkehrsdichte das nicht rechtfertigt.
+
+(5) Wer ein Fahrzeug führt, darf auf Fahrstreifen mit Dauerlichtzeichen nicht halten.
+
 # § 38 – Blaues Blinklicht und gelbes Blinklicht
 
 (1) Blaues Blinklicht zusammen mit dem Einsatzhorn darf nur verwendet werden, wenn höchste Eile geboten ist, um Menschenleben zu retten oder schwere gesundheitliche Schäden abzuwenden, eine Gefahr für die öffentliche Sicherheit oder Ordnung abzuwenden, flüchtige Personen zu verfolgen oder bedeutende Sachwerte zu erhalten.   
@@ -764,6 +875,170 @@ Es ordnet an:
 (2) Blaues Blinklicht allein darf nur von den damit ausgerüsteten Fahrzeugen und nur zur Warnung an Unfall- oder sonstigen Einsatzstellen, bei Einsatzfahrten oder bei der Begleitung von Fahrzeugen oder von geschlossenen Verbänden verwendet werden.
 
 (3) Gelbes Blinklicht warnt vor Gefahren. Es kann ortsfest oder von Fahrzeugen aus verwendet werden. Die Verwendung von Fahrzeugen aus ist nur zulässig, um vor Arbeits- oder Unfallstellen, vor ungewöhnlich langsam fahrenden Fahrzeugen oder vor Fahrzeugen mit ungewöhnlicher Breite oder Länge oder mit ungewöhnlich breiter oder langer Ladung zu warnen.
+
+# § 39 – Verkehrszeichen
+
+(1) Angesichts der allen Verkehrsteilnehmern obliegenden Verpflichtung, die allgemeinen und besonderen Verhaltensvorschriften dieser Verordnung eigenverantwortlich zu beachten, werden örtliche Anordnungen durch Verkehrszeichen nur dort getroffen, wo dies auf Grund der besonderen Umstände zwingend geboten ist.
+
+(1a) Innerhalb geschlossener Ortschaften ist abseits der Vorfahrtstraßen (Zeichen 306) mit der Anordnung von Tempo 30-Zonen (Zeichen 274.1) zu rechnen.
+
+(1b) Innerhalb geschlossener Ortschaften ist abseits der Vorfahrtstraßen (Zeichen 306) mit der Anordnung von Fahrradzonen (Zeichen 244.3) zu rechnen.
+
+(2) Regelungen durch Verkehrszeichen gehen den allgemeinen Verkehrsregeln vor. Verkehrszeichen sind Gefahrzeichen, Vorschriftzeichen und Richtzeichen. Als Schilder stehen sie regelmäßig rechts. Gelten sie nur für einzelne markierte Fahrstreifen, sind sie in der Regel über diesen angebracht.
+
+(3) Auch Zusatzzeichen sind Verkehrszeichen. Zusatzzeichen zeigen auf weißem Grund mit schwarzem Rand schwarze Sinnbilder, Zeichnungen oder Aufschriften, soweit nichts anderes bestimmt ist. Sie sind unmittelbar, in der Regel unter dem Verkehrszeichen, auf das sie sich beziehen, angebracht.
+
+(4) Verkehrszeichen können auf einer weißen Trägertafel aufgebracht sein. Abweichend von den abgebildeten Verkehrszeichen können in Wechselverkehrszeichen die weißen Flächen schwarz und die schwarzen Sinnbilder und der schwarze Rand weiß sein, wenn diese Zeichen nur durch Leuchten erzeugt werden.
+
+(5) Auch Markierungen und Radverkehrsführungsmarkierungen sind Verkehrszeichen. Sie sind grundsätzlich weiß. Nur als vorübergehend gültige Markierungen sind sie gelb; dann heben sie die weißen Markierungen auf. Gelbe Markierungen können auch in Form von Markierungsknopfreihen, Markierungsleuchtknopfreihen oder als Leitschwellen oder Leitborde ausgeführt sein. Leuchtknopfreihen gelten nur, wenn sie eingeschaltet sind. Alle Linien können durch gleichmäßig dichte Markierungsknopfreihen ersetzt werden. In verkehrsberuhigten Geschäftsbereichen (§ 45 Absatz 1d) können Fahrbahnbegrenzungen auch mit anderen Mitteln, insbesondere durch Pflasterlinien, ausgeführt sein. Schriftzeichen und die Wiedergabe von Verkehrszeichen auf der Fahrbahn dienen dem Hinweis auf ein angebrachtes Verkehrszeichen.
+
+(6) Verkehrszeichen können an einem Fahrzeug angebracht sein. Sie gelten auch während das Fahrzeug sich bewegt. Sie gehen den Anordnungen der ortsfest angebrachten Verkehrszeichen vor.
+
+(7) Werden Sinnbilder auf anderen Verkehrszeichen als den in den Anlagen 1 bis 3 zu den §§ 40 bis 42 dargestellten gezeigt, so bedeuten die Sinnbilder:  
+  
+
+<table width="100%" style="border: none;">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody data-valign="top">
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2013/j0367-1_0020.jpg" /></td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2013/j0367-1_0030.jpg" /></td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2013/j0367-1_0040.jpg" /></td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2020/j0814-1_0020.jpg" /></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50">Kraftwagen und<br />
+sonstige mehrspurige<br />
+Kraftfahrzeuge</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">Kraftfahrzeuge mit einer<br />
+zulässigen Gesamtmasse<br />
+über 3,5 t, einschließlich<br />
+ihrer Anhänger, und<br />
+Zugmaschinen,<br />
+ausgenommen<br />
+Personenkraftwagen und<br />
+Kraftomnibusse</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">Radverkehr</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">Fahrrad zum Transport<br />
+von Gütern oder Personen<br />
+– Lastenfahrrad</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2013/j0367-1_0050.jpg" /></td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2013/j0367-1_0060.jpg" /></td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2013/j0367-1_0070.jpg" /></td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50">Fußgänger</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">Reiter</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">Viehtrieb</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2013/j0367-1_0080.jpg" /></td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2013/j0367-1_0090.jpg" /></td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2013/j0367-1_0100.jpg" /></td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2020/j0814-1_0030.jpg" /></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50">Straßenbahn</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">Kraftomnibus</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">Personenkraftwagen</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">Personenkraftwagen oder<br />
+Krafträder mit Beiwagen, die mit<br />
+mindestens drei Personen besetzt sind –<br />
+mehrfachbesetzte Personenkraftwagen</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2013/j0367-1_0110.jpg" /></td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2013/j0367-1_0120.jpg" /></td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2020/j0814-1_0040.jpg" /></td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2013/j0367-1_0130.jpg" /></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50">Personenkraftwagen<br />
+mit Anhänger</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">Lastkraftwagen mit<br />
+Anhänger</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">Wohnmobil</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">Kraftfahrzeuge und Züge,<br />
+die nicht schneller als<br />
+25 km/h fahren können<br />
+oder dürfen</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2013/j0367-1_0140.jpg" /></td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2013/j0367-1_0150.jpg" /></td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2016/j2848-1_0010.jpg" /></td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2020/j0814-1_0050.jpg" /></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50">Krafträder, auch mit<br />
+Beiwagen, Kleinkrafträder<br />
+und Mofas</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">Mofas</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">Einsitzige zweirädrige Kleinkrafträder<br />
+mit elektrischem Antrieb,<br />
+der sich auf eine bauartbedingte Geschwindigkeit von nicht mehr als 25 km/h selbsttätig abregelt<br />
+– E-Bikes –</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">Elektrokleinstfahrzeug im Sinne der<br />
+Elektrokleinstfahrzeuge-Verordnung (eKFV)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;" data-valign="top" data-charoff="50"><img src="../normengrafiken/bgbl1_2013/j0367-1_0160.jpg" /></td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: center;" data-valign="top" data-charoff="50">Gespannfuhrwerke</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
+</tr>
+</tbody>
+</table>
+
+(8) Bei besonderen Gefahrenlagen können als Gefahrzeichen nach Anlage 1 auch die Sinnbilder „Viehtrieb“ und „Reiter“ und Sinnbilder mit folgender Bedeutung angeordnet sein:
+
+|                                                    |                                                    |                                                    |
+|:----------------------:|:----------------------:|:----------------------:|
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0367-1_0170.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0367-1_0180.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0367-1_0190.jpg) |
+|               Schnee- oder Eisglätte               |                    Steinschlag                     |                  Splitt, Schotter                  |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0367-1_0200.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0367-1_0210.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0367-1_0220.jpg) |
+|                 Bewegliche Brücke                  |                        Ufer                        |                  Fußgängerüberweg                  |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0367-1_0230.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0367-1_0240.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0367-1_0250.jpg) |
+|                 Amphibienwanderung                 |           Unzureichendes Lichtraumprofil           |                    Flugbetrieb                     |
+
+(9) Die in den Anlagen 1 bis 4 abgebildeten Verkehrszeichen und Verkehrseinrichtungen können auch mit den im Verkehrszeichenkatalog dargestellten Varianten angeordnet sein. Der Verkehrszeichenkatalog wird vom Bundesministerium für Verkehr und digitale Infrastruktur im Verkehrsblatt veröffentlicht.
+
+(10) Zur Bevorrechtigung elektrisch betriebener Fahrzeuge kann das Sinnbild
+
+|                                                    |
+|:--------------------------------------------------:|
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2015/j1573-1_0020.jpg) |
+
+als Inhalt eines Zusatzzeichens angeordnet sein. Zur Unterstützung einer Parkflächenvorhaltung für elektrisch betriebene Fahrzeuge kann das Sinnbild zusätzlich auf der Parkfläche aufgebracht sein. Elektrisch betriebene Fahrzeuge sind die nach § 11 Absatz 2 und 4, jeweils auch in Verbindung mit Absatz 5, der Fahrzeug-Zulassungsverordnung gekennzeichneten Fahrzeuge.
+
+(11) Zur Parkbevorrechtigung von Carsharingfahrzeugen kann das Sinnbild
+
+|                                                    |
+|:--------------------------------------------------:|
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j0814-1_0060.jpg) |
+|                     Carsharing                     |
+
+als Inhalt eines Zusatzzeichens zu Zeichen 314 oder 315 angeordnet sein. Carsharingfahrzeuge sind Fahrzeuge im Sinne des § 2 Nummer 1 und des § 4 Absatz 1 und 2 des Carsharinggesetzes, in denen die Plakette
+
+|                                                                             |
+|:----------------------------------------------------------------------:|
+|             ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j0814-1_0070.jpg)              |
+| deutlich sichtbar auf der Innenseite der Windschutzscheibe anzubringen ist. |
 
 # § 40 – Gefahrzeichen
 
@@ -1268,6 +1543,18 @@ Der Bundesrat hat zugestimmt.
 # Anlage 1 – (zu § 40 Absatz 6 und 7)Allgemeine und Besondere Gefahrzeichen
 
 (Fundstelle: BGBl. I 2013, 390 - 393)
+
+# Anlage 2 – (zu § 41 Absatz 1)Vorschriftzeichen
+
+(Fundstelle: BGBl. I 2013, 394 - 410;  
+bzgl. der einzelnen Änderungen vgl. Fußnoten)
+
+# Anlage 3 – (zu § 42 Absatz 2)Richtzeichen
+
+(Fundstelle: BGBl. I 2013, 411 - 424;  
+bzgl. der einzelnen Änderungen vgl. Fußnoten)
+
+(+++ Anlage 3 Nr. 22 Nr. 2: Zur Nichtanwendung vgl. § 10 Abs. 1 eKFV +++)
 
 # Anlage 4 – (zu § 43 Absatz 3)Verkehrseinrichtungen
 

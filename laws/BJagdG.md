@@ -49,6 +49,8 @@ Wildkaninchen (Oryctolagus cuniculus L.),
 
 Murmeltier (Marmota marmota L.),
 
+Wolf (Canis lupus L.),
+
 Wildkatze (Felis silvestris SCHREBER),
 
 Luchs (Lynx lynx L.),
@@ -181,7 +183,19 @@ Der Antrag ist schriftlich oder zur Niederschrift bei der zuständigen Behörde 
 
 Die Befriedung ist in der Regel zu widerrufen, wenn Tatsachen bekannt werden, die den Anspruch auf Erklärung zum befriedeten Bezirk entfallen lassen. Die Befriedung ist unter den Vorbehalt des Widerrufs zu stellen für den Fall, dass ein oder mehrere weitere begründete Anträge auf Befriedung in demselben Jagdbezirk gestellt werden und nicht allen Anträgen insgesamt ohne Gefährdung der Belange nach Absatz 1 Satz 2 stattgegeben werden kann. Im Übrigen gelten die verwaltungsverfahrensrechtlichen Vorschriften über Rücknahme und Widerruf von Verwaltungsakten.
 
-(5) Die zuständige Behörde kann eine beschränkte Jagdausübung auf den für befriedet erklärten Grundflächen anordnen, soweit dies zur Vermeidung übermäßiger Wildschäden, der Gefahr von Tierseuchen, aus Gründen des Naturschutzes oder des Tierschutzes, der Seuchenhygiene, der Gewährleistung der Sicherheit des Verkehrs auf öffentlichen Verkehrswegen oder der Abwendung sonstiger Gefahren für die öffentliche Sicherheit und Ordnung erforderlich ist. Widerspruch und Klage gegen die Anordnung haben keine aufschiebende Wirkung. Kommt der Grundeigentümer der Anordnung nicht nach, so kann die zuständige Behörde für dessen Rechnung die Jagd ausüben lassen.
+(5) Die zuständige Behörde kann eine beschränkte Jagdausübung auf den für befriedet erklärten Grundflächen anordnen, soweit dies erforderlich ist
+
+1. zur Vermeidung übermäßiger Wildschäden,
+
+2. zur Vermeidung der Gefahr von Tierseuchen,
+
+3. aus Gründen des Naturschutzes oder des Tierschutzes, der Seuchenhygiene, zur Gewährleistung der Sicherheit des Verkehrs auf öffentlichen Verkehrswegen oder zur Abwendung sonstiger Gefahren für die öffentliche Sicherheit und Ordnung,
+
+4. zur Abwendung ernster land-, forst-, fischerei- oder wasserwirtschaftlicher oder sonstiger ernster wirtschaftlicher Schäden oder
+
+5. im Interesse der Gesundheit des Menschen.
+
+Widerspruch und Klage gegen die Anordnung haben keine aufschiebende Wirkung. Kommt der Grundeigentümer der Anordnung nicht nach, so kann die zuständige Behörde für dessen Rechnung die Jagd ausüben lassen.
 
 (6) Wildschäden an Grundstücken, die zum gemeinschaftlichen Jagdbezirk gehören, hat der Grundeigentümer der befriedeten Grundfläche nach dem Verhältnis des Flächenanteils seiner Grundfläche an der Gesamtfläche des gemeinschaftlichen Jagdbezirks anteilig zu ersetzen. Dies gilt nicht, sofern das schädigende Wild auf der befriedeten Grundfläche nicht vorkommt oder der Schaden auch ohne die Befriedung der Grundfläche eingetreten wäre.
 
@@ -375,11 +389,11 @@ Die erstmalige Erteilung oder Verlängerung einer Erlaubnis nach den §§ 15 und
 
 (1) Verboten ist
 
-1. mit Schrot, Posten, gehacktem Blei, Bolzen oder Pfeilen, auch als Fangschuß, auf Schalenwild und Seehunde zu schießen;
+1. mit Schrot, Posten, gehacktem Blei, Bolzen oder Pfeilen, auch als Fangschuss, auf Schalenwild, Wölfe und Seehunde zu schießen; das Verbot umfasst nicht das Töten von in Fallen gefangenen Wölfen mit Schrot und den Fangschuss auf Wölfe mit Schrot;
 
 2. a) auf Rehwild und Seehunde mit Büchsenpatronen zu schießen, deren Auftreffenergie auf 100 m (E 100) weniger als 1 000 Joule beträgt;
 
-b) auf alles übrige Schalenwild mit Büchsenpatronen unter einem Kaliber von 6,5 mm zu schießen; im Kaliber 6,5 mm und darüber müssen die Büchsenpatronen eine Auftreffenergie auf 100 m (E 100) von mindestens 2 000 Joule haben;
+b) auf alles übrige Schalenwild und auf Wölfe mit Büchsenpatronen unter einem Kaliber von 6,5 mm zu schießen; im Kaliber 6,5 mm und darüber müssen die Büchsenpatronen eine Auftreffenergie auf 100 m (E 100) von mindestens 2 000 Joule haben;
 
 c) mit halbautomatischen Langwaffen, die mit insgesamt mehr als drei Patronen geladen sind, sowie mit automatischen Waffen auf Wild zu schießen;
 
@@ -465,6 +479,100 @@ Verboten ist, Wild, insbesondere soweit es in seinem Bestand gefährdet oder bed
 (1) Um krankgeschossenes Wild vor vermeidbaren Schmerzen oder Leiden zu bewahren, ist dieses unverzüglich zu erlegen; das gleiche gilt für schwerkrankes Wild, es sei denn, daß es genügt und möglich ist, es zu fangen und zu versorgen.
 
 (2) Krankgeschossenes oder schwerkrankes Wild, das in einem fremden Jagdbezirk wechselt, darf nur verfolgt werden (Wildfolge), wenn mit dem Jagdausübungsberechtigten dieses Jagdbezirkes eine schriftliche Vereinbarung über die Wildfolge abgeschlossen worden ist. Die Länder erlassen nähere Bestimmungen, insbesondere über die Verpflichtung der Jagdausübungsberechtigten benachbarter Jagdbezirke, Vereinbarungen über die Wildfolge zu treffen; sie können darüber hinaus die Vorschriften über die Wildfolge ergänzen oder erweitern.
+
+# § 22b – Maßnahmen nach Artikel 14 der Richtlinie 92/43/EWG in Bezug auf die Tierart Wolf; Verordnungsermächtigung
+
+(1) Wenn sich die Tierart Wolf nicht in einem günstigen Erhaltungszustand im Sinne von Artikel 1 Buchstabe i der Richtlinie 92/43/EWG in der Fassung vom 17. Juni 2025 befindet (ungünstiger Erhaltungszustand), ergreift die zuständige Behörde die notwendigen Maßnahmen, um den Erhaltungszustand der Tierart Wolf so weit zu verbessern, dass deren Population künftig dauerhaft einen günstigen Erhaltungszustand erreichen kann. Als Maßnahmen nach Satz 1 können insbesondere ergriffen werden:
+
+1. eine zeitliche oder räumliche Beschränkung der Jagd auf den Wolf,
+
+2. eine Beschränkung der Anzahl der erlegbaren Wölfe,
+
+3. ein Verbot der Jagd auf den Wolf,
+
+4. die Einführung eines Genehmigungssystems für die Jagd auf den Wolf.
+
+(2) Das Bundesministerium für Landwirtschaft, Ernährung und Heimat wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Näheres zur Durchführung des Absatzes 1 zu bestimmen, insbesondere hinsichtlich der Anforderungen an die zu ergreifenden Maßnahmen.
+
+# § 22c – Zusätzliche Verbote in Bezug auf die Tierart Wolf
+
+(1) Es ist verboten,
+
+1. wildlebende Wölfe zu füttern oder
+
+2. kranke oder verletzte Wölfe aufzunehmen, um sie gesundzupflegen.
+
+Ausgenommen von Satz 1 sind Maßnahmen der zuständigen Behörde.
+
+(2) Über § 19 Absatz 1 hinaus ist es verboten, bei der Jagd auf Wölfe Folgendes zu verwenden:
+
+1. elektronische Vorrichtungen, die töten oder betäuben können,
+
+2. Sprengstoff oder
+
+3. Fallen, die nach ihrer Bauart oder nach ihren Anwendungsbedingungen nicht selektiv sind.
+
+# § 22d – Zusätzliche Regelungen in Bezug auf die Tierart Wolf bei Jagdzeiten, Abschussregelungen und Anzeigepflichten; Verordnungsermächtigung
+
+(1) Wer einen Wolf erlegt hat oder als Jagdausübungsberechtigter einen toten Wolf aufgefunden hat, hat dies der zuständigen Behörde unverzüglich anzuzeigen. Der Jagdausübungsberechtigte hat der zuständigen Behörde eine Untersuchung eines erlegten Wolfs oder eines tot aufgefundenen Wolfs sowie eine Probennahme des Wolfs zu ermöglichen.
+
+(2) Soweit sich die Tierart Wolf in einem günstigen Erhaltungszustand befindet, hat die zuständige Behörde einen revierübergreifenden Managementplan aufzustellen, der darauf auszurichten ist, die Vereinbarkeit der Jagd mit der Aufrechterhaltung eines günstigen Erhaltungszustands zu gewährleisten. Soweit ein revierübergreifender Managementplan nach Satz 1 eine militärisch genutzte Fläche des Bundes oder eine Fläche des Nationalen Naturerbes im Eigentum des Bundes betrifft, ist er im Einvernehmen mit den zuständigen Dienststellen der Bundeswehr und der Bundesanstalt für Immobilienaufgaben aufzustellen. Der Managementplan ist bei Bedarf von der zuständigen Behörde zu überprüfen und zu aktualisieren, wobei Satz 2 entsprechend gilt. Ist ein Managementplan nach Satz 1 erstellt worden, darf die Jagd auf den Wolf jeweils vom 1. Juli bis zum 31. Oktober ausgeübt werden; die Jagd ist nach Maßgabe des Managementplans auszuüben. In der Schonzeit und im Fall, dass ein revierübergreifender Managementplan noch nicht aufgestellt worden ist, ist Absatz 3 entsprechend anzuwenden. Widerspruch und Anfechtungsklage gegen einen revierübergreifenden Managementplan haben keine aufschiebende Wirkung.
+
+(3) Befindet sich die Tierart Wolf in einem ungünstigen Erhaltungszustand, ist die Jagd auf den Wolf unabhängig von einer Schonzeit mit Genehmigung der zuständigen Behörde zulässig
+
+1. zur Abwendung land-, forst-, fischerei- oder wasserwirtschaftlicher oder sonstiger wirtschaftlicher Schäden,
+
+2. im Interesse der Gesundheit des Menschen oder der öffentlichen Sicherheit oder
+
+3. aus anderen zwingenden Gründen des überwiegenden öffentlichen Interesses.
+
+Ist ein Schaden an einem nicht wildlebenden Tier eingetreten, so ist zur Abwendung der in Satz 1 Nummer 1 genannten Schäden die Jagd auf den Wolf ohne Genehmigung der zuständigen Behörde zulässig, wenn ein von der zuständigen Behörde oder dem Land bestellter Sachverständiger für Wolfsrisse festgestellt hat, dass der Schaden
+
+1. von einem Wolf verursacht worden ist und
+
+2. trotz zumutbar ergriffener Herdenschutzmaßnahmen, die geeignet sind, Tiere vor Angriffen durch den Wolf zu schützen, eingetreten ist.
+
+Die Jagd darf in den Fällen des Satzes 2 nur in einem Radius von nicht mehr als 20 Kilometern um den festgestellten Schadensort und nicht länger als sechs Wochen nach dem festgestellten Schaden erfolgen. Die Jagd endet, sobald im Radius von 20 Kilometern um den festgestellten Schadensort ein Wolf erlegt worden ist. Die zuständige Behörde kann abweichend von Satz 3 nach pflichtgemäßem Ermessen den Radius verkleinern oder erweitern oder die zulässige Dauer der Jagd verlängern oder verkürzen.
+
+(4) Die zuständige Behörde kann
+
+1. anordnen, dass der Jagdausübungsberechtigte, sofern die Jagd auf den Wolf zulässig und im Rahmen der Jagdausübung mit zulässigen jagdlichen Methoden und Mitteln möglich und zumutbar ist, die Jagd auf den Wolf auszuüben hat,
+
+2. anordnen, dass ein Einzeltier, einzelne Individuen eines Rudels oder ein gesamtes Wolfsrudel auch ohne Zuordnung eines Schadens zu einem bestimmten Einzeltier unabhängig von einer Schonzeit zu erlegen ist, sofern dies erforderlich ist,
+
+a) zur Abwendung land-, forst-, fischerei- oder wasserwirtschaftlicher oder sonstiger wirtschaftlicher Schäden,
+
+b) im Interesse der Gesundheit des Menschen oder der öffentlichen Sicherheit oder
+
+c) aus anderen zwingenden Gründen des überwiegenden öffentlichen Interesses,
+
+3. Weidegebiete bestimmen, in denen eine Bejagung des Wolfs auch bei einem ungünstigen Erhaltungszustand der Tierart Wolf zulässig ist, wenn
+
+a) eine solche Bestimmung erforderlich ist zur Abwendung ernster land-, forst-, fischerei- oder wasserwirtschaftlicher oder sonstiger ernster wirtschaftlicher Schäden und
+
+b) die Weidegebiete auf Grund der Geländebedingungen nicht schützbar sind oder sie auf Grund der naturräumlichen Gegebenheiten nicht zumutbar wolfsabweisend zäunbar sind,
+
+4. im Einzelfall für die Jagd auf den Wolf Nachtsichtvorsätze und Nachtsichtaufsätze nach Anlage 2 Abschnitt 1 Nummer 1.2.4.2 des Waffengesetzes zulassen.
+
+Im Fall des Satzes 1 Nummer 1 kann der Jagdausübungsberechtigte einen Dritten mit der Ausübung der Jagd beauftragen. Kommt der Jagdausübungsberechtigte einer Anordnung nach Satz 1 Nummer 1 nicht binnen einer von der zuständigen Behörde im pflichtgemäßen Ermessen zu setzenden Frist nach, so kann die zuständige Behörde die Jagd selbst übernehmen oder einen Dritten mit der Durchführung der Jagd beauftragen.
+
+(5) Soweit eine Anordnung nach Absatz 4 Satz 1 Nummer 1 oder 2
+
+1. eine militärisch genutzte Fläche des Bundes betrifft, bedarf die Anordnung des Einvernehmens mit den zuständigen Dienststellen der Bundeswehr und dem für die Jagdausübung auf der betreffenden Fläche zuständigen Bundesforstbetrieb der Bundesanstalt für Immobilienaufgaben,
+
+2. eine Fläche des Nationalen Naturerbes im Eigentum des Bundes betrifft, bedarf die Anordnung des Einvernehmens mit dem für die Jagdausübung auf der betreffenden Fläche zuständigen Bundesforstbetrieb der Bundesanstalt für Immobilienaufgaben.
+
+Absatz 4 Satz 1 Nummer 3 gilt nicht für militärisch genutzte Flächen des Bundes und für Flächen des nationalen Naturerbes im Eigentum des Bundes.
+
+(6) Das Bundesministerium für Landwirtschaft, Ernährung und Heimat wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates, Näheres zur Durchführung der Absätze 2 bis 4 zu bestimmen, insbesondere hinsichtlich der Anforderungen an den revierübergreifenden Managementplan nach Absatz 2 sowie der Einzelheiten der Voraussetzungen für die Zulässigkeit der Jagd nach Absatz 3 Satz 1 Nummer 1.
+
+# § 22e – Zusammenarbeit von Bund und Ländern
+
+Bund und Länder wirken im Rahmen ihrer Zuständigkeiten und Befugnisse zur Gewährleistung der Vereinbarkeit der Jagd mit der Aufrechterhaltung eines günstigen Erhaltungszustands bei der Tierart Wolf zusammen.
+
+# § 22f – Sonderregelung für Wolfshybriden im Jagdrecht
+
+Vorkommen von Hybriden zwischen Wolf und Hund (Wolfshybriden) in der freien Natur sind auf Anordnung der zuständigen Behörde durch den Jagdausübungsberechtigten zu erlegen. Wolfshybriden unterliegen nur insoweit dem Jagdrecht. § 22c Absatz 1 Satz 1 Nummer 2 und § 22d Absatz 4 Satz 1 Nummer 4, Satz 2 und 3 sind entsprechend anzuwenden.
 
 # § 23 – Inhalt des Jagdschutzes
 
@@ -656,7 +764,11 @@ b) sonstigem Wild,
 
 3. Schalenwild oder anderes Wild, das nur im Rahmen eines Abschußplanes bejagt werden darf, erlegt, bevor der Abschußplan bestätigt oder festgesetzt ist (§ 21 Abs. 2 Satz 1), oder wer den Abschußplan überschreitet;
 
-3a. entgegen § 22 Abs. 1 Satz 2 Wild nicht mit der Jagd verschont,
+3a. entgegen § 22 Absatz 1 Satz 2 Wild nicht mit der Jagd verschont;
+
+3b. entgegen § 22c Absatz 2 Sprengstoff oder eine dort genannte Vorrichtung oder Falle verwendet;
+
+3c. entgegen § 22d Absatz 1 Satz 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet;
 
 4. als Jagdausübungsberechtigter das Auftreten einer Wildseuche nicht unverzüglich der zuständigen Behörde anzeigt oder den Weisungen der zuständigen Behörde zur Bekämpfung der Wildseuche nicht Folge leistet (§ 24);
 
@@ -668,7 +780,7 @@ b) sonstigem Wild,
 
 # § 40 – Einziehung
 
-(1) Ist eine Straftat nach § 38 oder eine Ordnungswidrigkeit nach § 39 Abs. 1 Nr. 5 oder Abs. 2 Nr. 2 bis 3a oder 5 begangen worden, so können
+(1) Ist eine Straftat nach § 38 oder eine Ordnungswidrigkeit nach § 39 Absatz 1 Nummer 5 oder Absatz 2 Nummer 2 bis 3b oder 5 begangen worden, so können
 
 1. Gegenstände, auf die sich die Straftat oder Ordnungswidrigkeit bezieht, und
 
@@ -714,7 +826,9 @@ so kann ihm in der Entscheidung für die Dauer von einem Monat bis zu sechs Mona
 
 Die Länder können Straf- und Bußgeldbestimmungen für Verstöße gegen die von ihnen erlassenen Vorschriften treffen, soweit solche nicht schon in diesem Gesetz enthalten sind.
 
-# § 43 – (weggefallen)
+# § 43 – Berichtspflicht zur Anwendung der §§ 22b bis 22d
+
+Das Bundesministerium für Landwirtschaft, Ernährung und Heimat hat dem Deutschen Bundestag im Einvernehmen mit dem Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit bis spätestens 31. Dezember 2030 und danach jeweils im Abstand von fünf Jahren über die Erfahrungen mit der Anwendung der §§ 22b bis 22d zu berichten. Der Bericht soll Angaben darüber enthalten, ob diese Regelungen sich bewährt haben und weiterhin erforderlich sind. Der Bericht soll ferner Vorschläge für gegebenenfalls notwendige Anpassungen der Regelungen enthalten.
 
 # § 44 – Sonderregelungen
 

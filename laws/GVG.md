@@ -1292,9 +1292,11 @@ Die Zuständigkeit des Commercial Courts nach Satz 1 kann auf bestimmte Sachgebi
 
 6. bei einer Zuwiderhandlung gegen das Vereinigungsverbot des § 129a, auch in Verbindung mit § 129b Abs. 1, des Strafgesetzbuches,
 
-7. bei Nichtanzeige von Straftaten nach § 138 des Strafgesetzbuches, wenn die Nichtanzeige eine Straftat betrifft, die zur Zuständigkeit der Oberlandesgerichte gehört und
+7. bei Nichtanzeige von Straftaten nach § 138 des Strafgesetzbuches, wenn die Nichtanzeige eine Straftat betrifft, die zur Zuständigkeit der Oberlandesgerichte gehört,
 
-8. bei Straftaten nach dem Völkerstrafgesetzbuch.
+8. bei Straftaten nach dem Völkerstrafgesetzbuch und
+
+9. bei Straftaten nach § 87a des Strafgesetzbuches, wenn die in Auftrag gegebene Straftat zur Zuständigkeit der Oberlandesgerichte gehört.
 
 (2) Diese Oberlandesgerichte sind ferner für die Verhandlung und Entscheidung im ersten Rechtszug zuständig
 

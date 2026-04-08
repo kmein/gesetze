@@ -34,10 +34,11 @@
 | § 12g                                  |                      Anordnungsbefugnisse der Bundesstelle für Chemikalien, vorläufige Maßnahmen                      |
 | § 12h                                  |                                               Verordnungsermächtigungen                                               |
 |                                        |                                                     Abschnitt 2b                                                      |
-|                                        |                                     Durchführung der Verordnung (EU) Nr. 517/2014                                     |
-| § 12i                                  |                         Ergänzende Pflichten zu Kapitel III der Verordnung (EU) Nr. 517/2014                          |
-| § 12j                                  |                          Ergänzende Pflichten zu Kapitel IV der Verordnung (EU) Nr. 517/2014                          |
-| § 12k                                  |                                               Verordnungsermächtigungen                                               |
+|                                        |                                       Durchführung der Verordnung (EU) 2024/573                                       |
+| § 12i                                  |                           Ergänzende Pflichten zu Kapitel III der Verordnung (EU) 2024/573                            |
+| § 12j                                  |                            Ergänzende Pflichten zu Kapitel IV der Verordnung (EU) 2024/573                            |
+| § 12k                                  |                          Ergänzende Pflichten für vorbefüllte Einrichtungen und Erzeugnisse                           |
+| § 12l                                  |                                               Verordnungsermächtigungen                                               |
 |                                        |                                                   Dritter Abschnitt                                                   |
 |                                        |                                       Einstufung, Kennzeichnung und Verpackung                                        |
 | § 13                                   |                                Einstufungs-, Kennzeichnungs- und Verpackungspflichten                                 |
@@ -60,7 +61,7 @@
 | § 16l                                  |                                               Verordnungsermächtigungen                                               |
 |                                        |                                                   Fünfter Abschnitt                                                   |
 |                                        |              Ermächtigung zu Verboten und Beschränkungen sowie zu Maßnahmen zum Schutz von Beschäftigten              |
-| § 17                                   |                                              Verbote und Beschränkungen                                               |
+| § 17                                   |                                  Verbote und Beschränkungen; Verordnungsermächtigung                                  |
 | § 18                                   |                                              Giftige Tiere und Pflanzen                                               |
 | § 19                                   |                                        Maßnahmen zum Schutz von Beschäftigten                                         |
 |                                        |                                                  Sechster Abschnitt                                                   |
@@ -78,7 +79,8 @@
 | § 21a                                  |                                              Mitwirkung von Zollstellen                                               |
 | § 22                                   |                                                 Informationspflichten                                                 |
 | § 23                                   |                                                Behördliche Anordnungen                                                |
-| § 24                                   |                                           Vollzug im Bereich der Bundeswehr                                           |
+| § 23a                                  |                                                Vorübergehende Verbote                                                 |
+| § 24                                   |                                       Vollzug im Bereich der Landesverteidigung                                       |
 | § 25                                   |                                  Angleichung an Gemeinschaftsrecht oder Unionsrecht                                   |
 | § 25a                                  |                                         Aufwendungen des Auskunftspflichtigen                                         |
 | § 26                                   |                                     Bußgeldvorschriften, Verordnungsermächtigung                                      |
@@ -200,19 +202,19 @@ eine Zuordnung zu einem Gefährlichkeitsmerkmal;
 
 7. Hersteller:
 
-eine natürliche oder juristische Person oder eine sonstige Personenvereinigung, die einen Stoff, ein Gemisch oder ein Erzeugnis herstellt oder gewinnt;
+eine natürliche oder juristische Person oder eine sonstige Personenvereinigung, die einen Stoff, ein Gemisch oder ein Erzeugnis herstellt oder gewinnt oder eine Einrichtung herstellt;
 
 8. Einführer:
 
-eine natürliche oder juristische Person oder eine sonstige Personenvereinigung, die einen Stoff, ein Gemisch oder ein Erzeugnis in den Geltungsbereich dieses Gesetzes verbringt; kein Einführer ist, wer lediglich einen Transitverkehr unter zollamtlicher Überwachung durchführt, soweit keine Be- oder Verarbeitung erfolgt;
+eine natürliche oder juristische Person oder eine sonstige Personenvereinigung, die einen Stoff, ein Gemisch, ein Erzeugnis oder eine Einrichtung in den Geltungsbereich dieses Gesetzes verbringt;
 
 9. Inverkehrbringen:
 
-die Abgabe an Dritte oder die Bereitstellung für Dritte; das Verbringen in den Geltungsbereich dieses Gesetzes gilt als Inverkehrbringen, soweit es sich nicht lediglich um einen Transitverkehr nach Nummer 8 zweiter Halbsatz handelt;
+die Abgabe an Dritte oder die Bereitstellung für Dritte; das Verbringen in den Geltungsbereich dieses Gesetzes gilt als Inverkehrbringen;
 
 10. Verwenden:
 
-Gebrauchen, Verbrauchen, Lagern, Aufbewahren, Be- und Verarbeiten, Abfüllen, Umfüllen, Mischen, Entfernen, Vernichten und innerbetriebliches Befördern;
+Gebrauchen, Verbrauchen, Lagern, Aufbewahren, Be- und Verarbeiten, Abfüllen, Umfüllen, Mischen, Entfernen, Freisetzen, Vernichten und innerbetriebliches Befördern;
 
 11. Biozid-Produkt:
 
@@ -540,23 +542,21 @@ Produkten festzulegen, insbesondere zu bestimmen,
 
 3. dass und in welcher Form Personen, die bei der Behandlung oder Beurteilung akuter und chronischer Vergiftungsfälle von Nicht-Zielorganismen durch Biozid-Produkte hinzugezogen wurden, der Bundesstelle für Chemikalien oder einer anderen geeigneten Bundesoberbehörde derartige Fälle zu melden haben.
 
-# § 12i – Ergänzende Pflichten zu Kapitel III der Verordnung (EU) Nr. 517/2014
+# § 12i – Ergänzende Pflichten zu Kapitel III der Verordnung (EU) Nr. 2024/573
 
 (1) Es ist verboten,
 
-1. Erzeugnisse und Einrichtungen, die unter Verstoß gegen Artikel 11 Absatz 1 in Verbindung mit Anhang III der Verordnung (EU) Nr. 517/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über fluorierte Treibhausgase und zur Aufhebung der Verordnung (EG) Nr.
+1. Erzeugnisse und Einrichtungen, die unter Verstoß gegen Artikel 11 Absatz 1 in Verbindung mit Anhang IV der Verordnung (EU) 2024/573 in der Fassung vom 7. Februar 2024 in Verkehr gebracht wurden, zu erwerben oder
 
-842/2006 (ABl. L 150 vom 20.5.2014, S. 195) in Verkehr gebracht wurden, für Dritte bereitzustellen, an Dritte abzugeben oder zu erwerben, oder
-
-2. Behälter, die dem Verbot nach Artikel 11 Absatz 1 in Verbindung mit Anhang III Nummer 1 der Verordnung (EU) Nr. 517/2014 unterliegen, zu lagern oder zu entleeren.
+2. Behälter, die dem Verbot nach Artikel 11 Absatz 1 in Verbindung mit Anhang IV Nummer 1 der Verordnung (EU) 2024/573 in der Fassung vom 7. Februar 2024 unterliegen, zu lagern oder zu entleeren.
 
 Satz 1 gilt nicht, wenn die betreffenden Handlungen zur Rückgabe oder Entsorgung erfolgen.
 
-(2) Wer Erzeugnisse oder Einrichtungen, die einem Verbot nach Artikel 11 Absatz 1 in Verbindung mit Anhang III der Verordnung (EU) Nr. 517/2014 nicht unterliegen, weil sie bereits vor dem in Anhang III der Verordnung (EU) Nr. 517/2014 genannten Verbotsdatum in den Verkehr gebracht wurden, an Dritte abgibt, hat bei der Lieferung schriftlich oder elektronisch dem Erwerber eine Erklärung mit folgenden Angaben zu übermitteln:
+(2) Wer Erzeugnisse oder Einrichtungen, die einem Verbot nach Artikel 11 Absatz 1 Unterabsatz 1 in Verbindung mit Anhang IV der Verordnung (EU) 2024/573 in der Fassung vom 7. Februar 2024 nicht unterliegen, weil sie bereits vor dem in Anhang IV der Verordnung (EU) 2024/573 genannten Verbotsdatum in Verkehr gebracht wurden, an Dritte abgibt, hat dem Erwerber bei der Lieferung schriftlich oder elektronisch eine Erklärung mit folgenden Angaben zu übermitteln:
 
 1. Name und Anschrift des Abgebenden,
 
-2. eine Bestätigung, dass das Erzeugnis oder die Einrichtung bereits vor dem in Anhang III der Verordnung (EU) Nr. 517/2014 genannten Verbotsdatum erstmals in den Verkehr gebracht wurde, und
+2. eine Bestätigung, dass das Erzeugnis oder die Einrichtung bereits vor dem in Anhang IV der Verordnung (EU) 2024/573 in der Fassung vom 7. Februar 2024 genannten Verbotsdatum erstmals in den Verkehr gebracht wurde, und
 
 3. Identifikationsmerkmale des Erzeugnisses oder der Einrichtung, die eine eindeutige Zuordnung des Erzeugnisses oder der Einrichtung zu der Erklärung ermöglichen.
 
@@ -570,31 +570,27 @@ offensichtlich ist, dass das erstmalige Inverkehrbringen vor dem Verbotsdatum er
 
 (4) Die Erklärung nach Absatz 2 ist vom Abgebenden und vom Erwerber für einen Zeitraum von mindestens fünf Jahren nach Übermittlung aufzubewahren.
 
-(5) Die Vorlage der Erklärung nach Absatz 2 gegenüber der zuständigen Behörde begründet die Vermutung, dass kein Verstoß gegen Absatz 1 Satz 1 vorliegt.
+(5) Die Vorlage der Erklärung nach Absatz 2 gegenüber der zuständigen Behörde begründet die Vermutung, dass kein Verstoß gegen Artikel 11 Absatz 1 Unterabsatz 3 der Verordnung (EU) 2024/573 vorliegt.
 
-(6) Wer Erzeugnisse oder Einrichtungen, die einer Kennzeichnungspflicht nach Artikel 12 der Verordnung (EU) Nr. 517/2014 unterliegen, erneut für Dritte bereitstellt oder an Dritte abgibt, hat sicherzustellen, dass die nach Artikel 12 der Verordnung (EU) Nr. 517/2014 beim Inverkehrbringen anzubringende Kennzeichnung erhalten geblieben ist oder neu angebracht wird, wenn er nicht bereits aufgrund anderer Rechtsvorschriften zur Anbringung einer derartigen Kennzeichnung verpflichtet ist.
+# § 12j – Ergänzende Pflichten zu Kapitel IV der Verordnung (EU) 2024/573
 
-# § 12j – Ergänzende Pflichten zu Kapitel IV der Verordnung (EU) Nr. 517/2014
+(1) Es ist verboten, teilfluorierte Kohlenwasserstoffe gemäß Anhang I Gruppe 1 der Verordnung (EU) 2024/573 in der Fassung vom 7. Februar 2024, die unter Verstoß gegen die Anforderungen des Artikels 16 Absatz 1 Unterabsatz 2 der Verordnung (EU) 2024/573 in der Fassung vom 7. Februar 2024 in den Verkehr gebracht wurden, für Dritte bereitzustellen, an Dritte abzugeben oder zu erwerben. Satz 1 gilt nicht, wenn die betreffenden Handlungen zur Rückgabe oder Entsorgung erfolgen. Liegt ein Verstoß gegen Satz 1 vor, soll die zuständige Behörde die Verwendung des Stoffes oder Gemisches untersagen und kann die Vernichtung des Stoffes oder Gemisches anordnen.
 
-(1) Es ist verboten, teilfluorierte Kohlenwasserstoffe im Sinne des Artikels 2 Absatz 2 der Verordnung (EU) Nr. 517/2014, die unter Verstoß gegen die Anforderungen des Artikels 15 Absatz 1 Unterabsatz 2 der Verordnung (EU) Nr. 517/2014 in den Verkehr gebracht wurden, für Dritte bereitzustellen, an Dritte abzugeben oder zu erwerben. Satz 1 gilt nicht, wenn die betreffenden Handlungen zur Rückgabe oder Entsorgung erfolgen. Liegt ein Verstoß gegen Satz 1 vor, soll die zuständige Behörde die Verwendung des Stoffes oder Gemisches untersagen und kann die Vernichtung des Stoffes oder Gemisches anordnen.
-
-(2) Wer als Hersteller oder Einführer teilfluorierte Kohlenwasserstoffe im Sinne des Artikels 2 Absatz 2 der Verordnung (EU) Nr. 517/2014 an Dritte abgibt, hat bei jeder Lieferung schriftlich oder elektronisch dem Erwerber eine Erklärung mit folgenden Angaben zu übermitteln:
+(2) Wer als Hersteller oder Einführer teilfluorierte Kohlenwasserstoffe gemäß Anhang I Gruppe 1 der Verordnung (EU) 2024/573 in der Fassung vom 7. Februar 2024 an Dritte abgibt, hat bei jeder Lieferung schriftlich oder elektronisch dem Erwerber eine Erklärung mit folgenden Angaben zu übermitteln:
 
 1. der Name und die Anschrift des Herstellers oder Einführers,
 
 2. eine Bestätigung,
 
-a) dass und für welches Kalenderjahr oder welche Kalenderjahre ihm für die gelieferten Stoffe oder Gemische nach Artikel 16 oder 18 der Verordnung (EU) Nr. 517/2014 eine Quote für das Inverkehrbringen zugeteilt oder übertragen wurde,
+a) dass und für welches Kalenderjahr oder welche Kalenderjahre ihm für die gelieferten Stoffe oder Gemische nach Artikel 17 oder 21 der Verordnung (EU) 2024/573 in der Fassung vom 7. Februar 2024 eine Quote für das Inverkehrbringen zugeteilt oder übertragen wurde,
 
-b) dass für die Stoffe oder Gemische eine konkret anzugebende Ausnahme von der Quotenpflicht für das Inverkehrbringen nach Artikel 15 Absatz 2 oder 4 der Verordnung (EU) Nr.
-
-517/2014 vorliegt oder
+b) dass für die Stoffe oder Gemische eine konkret anzugebende Ausnahme von der Quotenpflicht für das Inverkehrbringen nach Artikel 16 Absatz 2 oder 4 der Verordnung (EU) 2024/573 in der Fassung vom 7. Februar 2024 vorliegt oder
 
 c) dass die Stoffe oder Gemische bereits vor dem 1. Januar 2015 in den Verkehr gebracht wurden und
 
 3. Identifikationsmerkmale, die eine eindeutige Zuordnung der Stoffe, Gemische oder ihrer Behälter zu der Erklärung ermöglichen.
 
-(3) Wer teilfluorierte Kohlenwasserstoffe im Sinne des Artikels 2 Absatz 2 der Verordnung (EU) Nr. 517/2014 zur eigenen Verwendung oder zur Abgabe an Dritte von einem Lieferanten aus einem anderen Mitgliedstaat der Europäischen Union bezieht, ohne von diesem eine Erklärung nach Absatz 2 zu erhalten, hat die in Absatz 2 genannten Angaben zu ermitteln. Bei Abgabe an Dritte hat er bei jeder Lieferung schriftlich oder elektronisch dem Erwerber eine Erklärung zu übermitteln, aus der sich die in Absatz 2 genannten Angaben sowie sein eigener Name und seine eigene Anschrift ergibt. Können Angaben nach Absatz 2 nicht ermittelt werden, gilt Satz 2 mit den folgenden Maßgaben: In der Erklärung
+(3) Wer teilfluorierte Kohlenwasserstoffe gemäß Anhang I Gruppe 1 der Verordnung (EU) 2024/573 zur Verwendung oder zur Abgabe an Dritte von einem Lieferanten aus einem anderen Mitgliedstaat der Europäischen Union bezieht, ohne von diesem eine Erklärung nach Absatz 2 zu erhalten, hat die in Absatz 2 genannten Angaben zu ermitteln. Bei Abgabe an Dritte hat er bei jeder Lieferung schriftlich oder elektronisch dem Erwerber eine Erklärung zu übermitteln, aus der sich die in Absatz 2 genannten Angaben sowie sein eigener Name und seine eigene Anschrift ergibt. Können Angaben nach Absatz 2 nicht ermittelt werden, gilt Satz 2 mit den folgenden Maßgaben: In der Erklärung
 
 1. ist für jede nicht ermittelbare Angabe glaubhaft darzulegen, warum diese nicht ermittelt werden konnte;
 
@@ -602,25 +598,29 @@ c) dass die Stoffe oder Gemische bereits vor dem 1. Januar 2015 in den Verkehr g
 
 (4) Bei jeder weiteren Abgabe des Stoffes oder Gemisches in der Lieferkette hat der jeweilige Abgebende die die Lieferung betreffenden Angaben nach Absatz 2 Nummer 2 und 3 oder Absatz 3 sowie seinen eigenen Namen und seine eigene Anschrift schriftlich oder elektronisch dem Erwerber zu übermitteln.
 
-(5) Die Absätze 2 bis 4 gelten nicht für die Abgabe zur Rückgabe oder Entsorgung sowie die Abgabe aufgearbeiteter oder recycelter Stoffe oder Gemische, die mit den Angaben nach Artikel 12 Absatz 6 der Verordnung (EU) Nr. 517/2014 gekennzeichnet sind. Für die Abgabe von Gemischen, die aus aufgearbeiteten oder recycelten Stoffen oder Gemischen sowie ungebrauchten Stoffen oder Gemischen bestehen, gelten die Absätze 2 bis 4 mit den folgenden Maßgaben:
+(5) Die Absätze 2 bis 4 gelten nicht für die Abgabe zur Rückgabe oder Entsorgung sowie die Abgabe aufgearbeiteter oder recycelter Stoffe oder Gemische, die mit den Angaben nach Artikel 12 Absatz 7 der Verordnung (EU) 2024/573 gekennzeichnet sind. Für die Abgabe von Gemischen, die aus aufgearbeiteten oder recycelten Stoffen oder Gemischen sowie ungebrauchten Stoffen oder Gemischen bestehen, gelten die Absätze 2 bis 4 mit den folgenden Maßgaben:
 
 1. für die ungebrauchten Anteile des Gemisches sind die Angaben nach den Absätzen 2 bis 4 zu übermitteln;
 
-2. für die aufgearbeiteten oder recycelten Anteile des Gemisches genügen die Angaben nach Artikel 12 Absatz 6 der Verordnung (EU) Nr. 517/2014.
+2. für die aufgearbeiteten oder recycelten Anteile des Gemisches genügen die Angaben nach Artikel 12 Absatz 7 der Verordnung (EU) 2024/573.
 
 (6) Die Angaben nach den Absätzen 2 bis 4, jeweils auch in Verbindung mit Absatz 5, sind sowohl vom Abgebenden als auch vom Erwerber für einen Zeitraum von mindestens fünf Jahren nach Übermittlung aufzubewahren.
 
-(7) Die Vorlage der Angaben nach den Absätzen 2 bis 4, jeweils auch in Verbindung mit Absatz 5, gegenüber der zuständigen Behörde begründet die Vermutung, dass kein Verstoß gegen Absatz 1 vorliegt. Wenn die Angaben nicht vorgelegt werden und auch nicht anderweitig glaubhaft gemacht wird, dass beim Inverkehrbringen des Stoffes oder Gemisches die Anforderungen des Artikels 15 Absatz 1 Unterabsatz 2 der Verordnung (EU) Nr. 517/2014 beachtet wurden, soll die zuständige Behörde die weitere Abgabe oder Verwendung des Stoffes oder Gemisches untersagen und kann die Vernichtung des Stoffes oder Gemisches anordnen.
+(7) Die Vorlage der Angaben nach den Absätzen 2 bis 4, jeweils auch in Verbindung mit Absatz 5, gegenüber der zuständigen Behörde begründet die Vermutung, dass kein Verstoß gegen Absatz 1 vorliegt. Wenn die Angaben nicht vorgelegt werden und auch nicht anderweitig glaubhaft gemacht wird, dass beim Inverkehrbringen des Stoffes oder Gemisches die Anforderungen des Artikels 16 Absatz 1 Unterabsatz 2 der Verordnung (EU) 2024/573 beachtet wurden, soll die zuständige Behörde die weitere Abgabe oder Verwendung des Stoffes oder Gemisches untersagen und kann die Vernichtung des Stoffes oder Gemisches anordnen.
 
-# § 12k – Verordnungsermächtigungen
+(8) Absatz 2, Absatz 3 Satz 2 sowie Absatz 4 gelten nicht für die Abgabe durch Befüllung eines Erzeugnisses oder einer Einrichtung zum bestimmungsgemäßen endgültigen Einsatz.
+
+# § 12k – Ergänzende Pflichten für vorbefüllte Einrichtungen und Erzeugnisse
+
+Es ist verboten, Erzeugnisse und Einrichtungen, die unter Verstoß gegen Artikel 19 Absatz 1 der Verordnung (EU) 2024/573 in der Fassung vom 7. Februar 2024 in den Verkehr gebracht wurden, für Dritte bereitzustellen oder an Dritte abzugeben. Satz 1 gilt nicht, wenn vor der Bereitstellung oder der Abgabe die entsprechende Menge der bereitgestellten teilfluorierten Kohlenwasserstoffe von Genehmigungen zur Nutzung von Quoten gemäß Artikel 21 Absatz 2 Unterabsatz 1 oder Absatz 3 Satz 1 der Verordnung (EU) 2024/573 in der Fassung vom 7. Februar 2024 abgedeckt sind. Wer nach Satz 2 Erzeugnisse oder Einrichtungen bereitstellt oder abgibt, hat die zuständige Behörde zu benachrichtigen und sicherzustellen, dass die Genehmigungen zur Nutzung von Quoten nicht erneut für das Inverkehrbringen vorbefüllter Erzeugnisse und Einrichtungen genutzt werden können.
+
+# § 12l – Verordnungsermächtigungen
 
 Die Bundesregierung wird ermächtigt, soweit unionsrechtlich zulässig, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
-1. nähere Regelungen zu Inhalt, Form und Übermittlung der Erklärung und der Angaben nach § 12i Absatz 2 und § 12j Absatz 2 und 3 sowie zur Aufbewahrung nach § 12i Absatz 4 und § 12j Absatz 6 zu treffen,
+1. nähere Regelungen zu Inhalt, Form und Übermittlung der Erklärung und der Angaben nach § 12i Absatz 2 und § 12j Absatz 2 und 3 sowie zur Aufbewahrung nach § 12i Absatz 3 und § 12j Absatz 6 zu treffen,
 
-2. vorzusehen, dass, von wem und in welcher Form die Angaben nach § 12i Absatz 2 und § 12j Absatz 2 und 3 ganz oder teilweise als Kennzeichnung auf Behältnissen, Erzeugnissen oder Einrichtungen angebracht werden müssen,
-
-3. die Herstellung von fluorierten Treibhausgasen, für die Reduktionspflichten nach dem Montrealer Protokoll vom 16. September 1987 über Stoffe, die zum Abbau der Ozonschicht führen (BGBl. 1988 II S. 1014, 1015; 2002 II S. 921, 923; 2017 II S. 1138, 1139) bestehen, mengenmäßig zu begrenzen, soweit dies erforderlich ist, um die Einhaltung der Reduktionspflichten sicherzustellen.
+2. vorzusehen, dass, von wem und in welcher Form die Angaben nach § 12i Absatz 2 und § 12j Absatz 2 und 3 ganz oder teilweise als Kennzeichnung auf Behältnissen, Erzeugnissen oder Einrichtungen angebracht werden müssen.
 
 # § 13 – Einstufungs-, Kennzeichnungs- und Verpackungspflichten
 
@@ -740,23 +740,21 @@ Die Überwachungsbefugnisse der zuständigen Landesbehörden nach § 21 bleiben 
 
 1. den Namen des Stoffes im Sinne von Artikel 33 Absatz 1 der Verordnung (EG) Nr. 1907/2006 und, falls verfügbar, dessen EG-Nummer und CAS-Nummer,
 
-2. den Grund für die Aufnahme des Stoffes in die Liste nach Artikel 59 Absatz 1 der Verordnung (EG) Nr. 1907/2006,
+2. den Konzentrationsbereich des Stoffes im Erzeugnis,
 
-3. den Konzentrationsbereich des Stoffes im Erzeugnis,
+3. die Material- oder Gemischkategorie,
 
-4. die Material- oder Gemischkategorie,
+4. die Bezeichnung des Erzeugnisses, das den Stoff enthält, oder des komplexen Gegenstandes, in dem ein solches Erzeugnis eingearbeitet ist,
 
-5. die Bezeichnung des Erzeugnisses, das den Stoff enthält, oder des komplexen Gegenstandes, in dem ein solches Erzeugnis eingearbeitet ist,
+5. den vom Mitteilungspflichtigen zugewiesenen Erzeugnisidentifikator,
 
-6. den vom Mitteilungspflichtigen zugewiesenen Erzeugnisidentifikator,
+6. die Erzeugniskategorie,
 
-7. die Erzeugniskategorie,
+7. die Angabe der Komponenten im Falle eines komplexen Gegenstandes,
 
-8. die Angabe der Komponenten im Falle eines komplexen Gegenstandes,
+8. die Angabe, ob die Herstellung oder Zusammensetzung des Erzeugnisses oder des komplexen Gegenstandes in der Europäischen Union erfolgt ist oder nicht,
 
-9. die Angabe, ob die Herstellung oder Zusammensetzung des Erzeugnisses oder des komplexen Gegenstandes in der Europäischen Union erfolgt ist oder nicht,
-
-10. die Anweisung zur sicheren Verwendung des Erzeugnisses oder des komplexen Gegenstandes.
+9. die Anweisung zur sicheren Verwendung des Erzeugnisses oder des komplexen Gegenstandes.
 
 Satz 1 gilt nicht für Erzeugnisse mit militärischer Zweckbestimmung.
 
@@ -918,7 +916,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 3. weitere Details zu den Inhalten der Berichte des Bundesinstituts für Risikobewertung nach § 16g Absatz 2 Nummer 8 festzulegen.
 
-# § 17 – Verbote und Beschränkungen
+# § 17 – Verbote und Beschränkungen; Verordnungsermächtigung
 
 (1) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es zu dem in § 1 genannten Zweck erforderlich und unionsrechtlich zulässig ist,
 
@@ -928,7 +926,7 @@ a) nicht, nur in bestimmter Beschaffenheit oder nur für bestimmte Zwecke herges
 
 b) nur auf bestimmte Art und Weise verwendet werden dürfen oder
 
-c) nur unter bestimmten Voraussetzungen oder nur an bestimmte Personen abgegeben oder nur unter bestimmten Voraussetzungen oder nur bestimmten Personen angeboten werden dürfen,
+c) nur unter bestimmten Voraussetzungen angeboten, verkauft, abgegeben oder erworben werden dürfen oder nur bestimmten Personen angeboten, nur an bestimmte Personen verkauft oder abgegeben oder nur von bestimmten Personen erworben werden dürfen,
 
 2. vorzuschreiben, dass derjenige, der bestimmte gefährliche Stoffe, bestimmte gefährliche Gemische oder Erzeugnisse, die einen solchen Stoff oder ein solches Gemisch freisetzen können, enthalten oder zu ihrem Funktionieren benötigen, oder Einrichtungen herstellt, in den Verkehr bringt oder verwendet,
 
@@ -938,7 +936,21 @@ b) dazu einer Erlaubnis bedarf,
 
 c) bestimmten Anforderungen an seine Zuverlässigkeit und Gesundheit genügen muss oder
 
-d) seine Sachkunde in einem näher festzulegenden Verfahren nachzuweisen hat,
+d) die erforderlichen Fähigkeiten und Kenntnisse nachzuweisen und an Auffrischungskursen teilzunehmen hat, einschließlich insbesondere Regelungen zu treffen über
+
+aa)  
+das Verfahren,
+
+bb)  
+die Voraussetzungen für die Erteilung von Bescheinigungen,
+
+cc) die Zuständigkeit,
+
+dd)  
+die Möglichkeit einer Übertragung von Zuständigkeiten und Aufgaben auf andere Körperschaften des öffentlichen Rechts und juristische Personen des Bürgerlichen Rechts oder Personenvereinigungen sowie
+
+ee)  
+die Geltungsdauer von Nachweisen,
 
 3. Herstellungs- oder Verwendungsverfahren zu verbieten, bei denen bestimmte gefährliche Stoffe anfallen.
 
@@ -1088,6 +1100,8 @@ Wird der Nachweis nicht erbracht, gelten die Prüfergebnisse als nicht vorgelegt
 
 (1) Die zuständige Behörde hat demjenigen, der Prüfungen nach § 19a Absatz 1 durchführt, auf Antrag nach Durchführung eines Inspektionsverfahrens eine Bescheinigung über die Einhaltung der Grundsätze der Guten Laborpraxis zu erteilen, wenn seine Prüfeinrichtung oder sein Prüfstandort und die von ihm durchgeführten Prüfungen oder Phasen von Prüfungen den Grundsätzen der Guten Laborpraxis nach Anhang 1 entsprechen. Den Antrag nach Satz 1 kann auch stellen, wer, ohne zu Prüfungen nach § 19a Absatz 1 verpflichtet zu sein, ein berechtigtes Interesse glaubhaft macht. In dem Fall des § 19a Absatz 3 wird der Bundesbehörde die Bescheinigung durch die GLP-Bundesstelle im Bundesinstitut für Risikobewertung erteilt. Die Bescheinigung nach den Sätzen 1 und 3 ist nach dem Muster des Anhangs 2 auszustellen. Über einen Antrag auf Erteilung einer Bescheinigung nach Satz 1 ist innerhalb einer Frist von drei Monaten zu entscheiden; § 42a Absatz 2 Satz 2 bis 4 des Verwaltungsverfahrensgesetzes findet mit der Maßgabe Anwendung, dass die Frist nicht vor Abschluss des vorgeschriebenen Inspektionsverfahrens nach Satz 1 beginnt. Das Antragsverfahren zur Erteilung der Bescheinigung kann über eine einheitliche Stelle abgewickelt werden. Bei der Prüfung des Antrags auf Erteilung einer Bescheinigung nach Satz 1 stehen Nachweise aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum inländischen Nachweisen gleich, wenn aus ihnen hervorgeht, dass der Antragsteller die betreffenden Anforderungen des Satzes 1 oder die aufgrund ihrer Zielsetzung im Wesentlichen vergleichbaren Anforderungen des Ausstellungsstaats erfüllt.
 
+(1a) Die Bescheinigung nach Absatz 1 ist auf höchstens drei Jahre zu befristen. Wird vor Ablauf der Befristung ein neuer Antrag nach Absatz 1 Satz 1 gestellt, gilt die Bescheinigung bis zur Entscheidung über den Antrag fort. Die Erteilung der Bescheinigung kann mit Nebenbestimmungen verbunden werden.
+
 (2) Der Bescheinigung nach Absatz 1 Satz 1 stehen gleich:
 
 1. GLP-Bescheinigungen anderer Mitgliedstaaten der Europäischen Union oder Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum aufgrund der Richtlinie 2004/9/EG des Europäischen Parlaments und des Rates vom 11. Februar 2004 über die Inspektion und Überprüfung der Guten Laborpraxis (GLP) (ABl. EU Nr. L 50 S. 28),
@@ -1204,7 +1218,7 @@ die das zuständige Bundesministerium amtlich bekannt machen kann.
 
 (3) Die zuständige Landesbehörde ist befugt, von natürlichen und juristischen Personen und sonstigen Personenvereinigungen alle zur Durchführung dieses Gesetzes, der auf dieses Gesetz gestützten Rechtsverordnungen und der in Absatz 2 Satz 1 genannten EG- oder EU-Verordnungen erforderlichen Auskünfte zu verlangen. In den Fällen des Absatzes 2 Satz 2 stehen diese Befugnisse der dort bezeichneten, in den Fällen des Absatzes 2a der in der Rechtsverordnung bezeichneten Bundesoberbehörde zu.
 
-(4) Die mit der Überwachung beauftragten Personen sind befugt,
+(4) Die mit der Überwachung beauftragten Personen, auch gemeinsam mit von ihnen hinzugezogenen Sachverständigen, sind befugt,
 
 1. zu den Betriebs- und Geschäftszeiten Grundstücke, Geschäftsräume, Betriebsräume zu betreten und zu besichtigen, Proben von Stoffen, Gemischen und Erzeugnissen und von sonstigem Prüf- oder Probenmaterial nach ihrer Auswahl zu fordern und zu entnehmen und in die geschäftlichen Unterlagen des Auskunftspflichtigen Einsicht zu nehmen,
 
@@ -1220,15 +1234,15 @@ Zur Verhütung dringender Gefahren für die öffentliche Sicherheit und Ordnung 
 
 (6) Kann die zuständige Landesbehörde Art und Umfang der bei der Herstellung oder Verwendung der in § 19 Absatz 2 genannten Stoffe, Gemische und Erzeugnisse drohenden oder eingetretenen schädlichen Einwirkungen oder die zu ihrer Abwendung oder Vorbeugung erforderlichen Maßnahmen nicht beurteilen, so kann sie hierzu vom Hersteller oder Verwender verlangen, dass er durch einen von der Behörde zu bestimmenden Sachverständigen auf seine Kosten ein Gutachten erstatten lässt und ihr eine Ausfertigung des Gutachtens vorlegt. Satz 1 gilt nicht, soweit in diesem Gesetz Prüfungen vorgeschrieben oder die Voraussetzungen für die Anordnung von Prüfungen festgelegt sind.
 
-(6a) Werden in das Inland verbrachte Stoffe, Gemische und Erzeugnisse im Sinne dieses Gesetzes aufgrund dieses Gesetzes oder der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen beanstandet, so können sie zur Rückgabe an den ausländischen Lieferanten aus dem Geltungsbereich dieses Gesetzes verbracht werden, sofern die zuständige Landesbehörde nicht etwas anderes bestimmt hat. Unberührt bleiben zwischenstaatliche Vereinbarungen, denen die gesetzgebenden Körperschaften in der Form eines Bundesgesetzes zugestimmt haben, sowie Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union.
+(6a) Werden in das Inland verbrachte Stoffe, Gemische, Erzeugnisse und Einrichtungen im Sinne dieses Gesetzes aufgrund dieses Gesetzes oder der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen beanstandet, so können sie zur Rückgabe an den ausländischen Lieferanten aus dem Geltungsbereich dieses Gesetzes verbracht werden, sofern die zuständige Landesbehörde nicht etwas anderes bestimmt hat. Unberührt bleiben zwischenstaatliche Vereinbarungen, denen die gesetzgebenden Körperschaften in der Form eines Bundesgesetzes zugestimmt haben, sowie Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union.
 
 (7) Die Bundesstelle für Chemikalien und die in § 12a genannten Stellen sind verpflichtet, die Daten, die von ihnen aufgrund dieses Gesetzes, der auf Grundlage dieses Gesetzes ergangenen Verordnungen und der in Absatz 2 Satz 1 genannten EG- oder EU-Verordnungen erhoben und gespeichert werden, den Behörden des Arbeitsschutzes, des allgemeinen Gesundheitsschutzes, des Umwelt- und Naturschutzes, der allgemeinen Gefahrenabwehr und des Brand- und Katastrophenschutzes der Länder sowie den Trägern der gesetzlichen Unfallversicherung im Wege der Amtshilfe zur Verfügung zu stellen. § 16e Absatz 4 bleibt unberührt.
 
 # § 21a – Mitwirkung von Zollstellen
 
-(1) Das Bundesministerium der Finanzen und die von ihm bestimmten Zollstellen wirken bei der Überwachung der Ein- und Ausfuhr derjenigen Stoffe, Gemische und Erzeugnisse mit, die diesem Gesetz oder einer aufgrund dieses Gesetzes erlassenen Rechtsverordnung oder einer der in § 21 Absatz 2 Satz 1 genannten EG- oder EU-Verordnungen unterliegen. Soweit dies zur Überwachung der Durchführung dieses Gesetzes, der aufgrund dieses Gesetzes ergangenen Verordnungen und der in Satz 1 genannten EG- oder EU-Verordnungen erforderlich ist, können sie Informationen, die sie im Rahmen ihrer zollamtlichen Tätigkeit gewonnen haben, den zuständigen Behörden mitteilen.
+(1) Das Bundesministerium der Finanzen und die von ihm bestimmten Zollstellen wirken bei der Überwachung der Ein- und Ausfuhr derjenigen Stoffe, Gemische, Erzeugnisse und Einrichtungen mit, die diesem Gesetz oder einer aufgrund dieses Gesetzes erlassenen Rechtsverordnung oder einer der in § 21 Absatz 2 Satz 1 genannten EG- oder EU-Verordnungen unterliegen. Soweit dies zur Überwachung der Durchführung dieses Gesetzes, der aufgrund dieses Gesetzes ergangenen Verordnungen und der in Satz 1 genannten EG- oder EU-Verordnungen erforderlich ist, können sie Informationen, die sie im Rahmen ihrer zollamtlichen Tätigkeit gewonnen haben, den zuständigen Behörden mitteilen.
 
-(2) Bestehen Anhaltspunkte für einen Verstoß gegen die in Absatz 1 genannten Vorschriften, unterrichten die Zollstellen die zuständigen Behörden. Sie können die Stoffe, Gemische und Erzeugnisse sowie deren Beförderungs- und Verpackungsmittel auf Kosten und Gefahr des Verfügungsberechtigten zurückweisen oder bis zur Behebung der festgestellten Mängel oder bis zur Entscheidung der zuständigen Behörde sicherstellen.
+(2) Bestehen Anhaltspunkte für einen Verstoß gegen die in Absatz 1 genannten Vorschriften, unterrichten die Zollstellen die zuständigen Behörden. Sie können die Stoffe, Gemische, Erzeugnisse und Einrichtungen sowie deren Beförderungs- und Verpackungsmittel auf Kosten und Gefahr des Verfügungsberechtigten zurückweisen oder bis zur Behebung der festgestellten Mängel oder bis zur Entscheidung der zuständigen Behörde sicherstellen.
 
 # § 22 – Informationspflichten
 
@@ -1240,17 +1254,31 @@ Die Bundesstelle für Chemikalien und die zuständigen Landesbehörden unterrich
 
 (1a) Wird eine Anordnung nach Absatz 1 nicht innerhalb der gesetzten Frist oder eine solche für sofort vollziehbar erklärte Anordnung nicht sofort ausgeführt, kann die zuständige Behörde die von der Anordnung betroffene Arbeit ganz oder teilweise bis zur Erfüllung der Anordnung untersagen, wenn die Untersagung zum Schutz von Leben oder Gesundheit der Beschäftigten erforderlich ist.
 
-(2) Die zuständige Landesbehörde kann für eine Dauer von höchstens drei Monaten anordnen, dass ein gefährlicher Stoff, ein gefährliches Gemisch oder ein Erzeugnis, das einen gefährlichen Stoff oder ein gefährliches Gemisch freisetzen kann oder enthält, nicht, nur unter bestimmten Voraussetzungen, nur in bestimmter Beschaffenheit oder nur für bestimmte Zwecke hergestellt, in den Verkehr gebracht oder verwendet werden darf, soweit Anhaltspunkte, insbesondere ein nach dem Stand der wissenschaftlichen Erkenntnisse begründeter Verdacht dafür vorliegen, dass von dem Stoff, dem Gemisch oder dem Erzeugnis eine erhebliche Gefahr für Leben oder Gesundheit des Menschen oder die Umwelt ausgeht. Die zuständige Landesbehörde kann diese Anordnung aus wichtigem Grund um bis zu einem Jahr verlängern. Die Sätze 1 und 2 gelten auch dann, wenn Anhaltspunkte, insbesondere ein nach dem Stand der wissenschaftlichen Erkenntnisse begründeter Verdacht, für die Annahme bestehen, dass ein Stoff oder ein Gemisch gefährlich ist. Anordnungen nach Satz 1 und 2 können nur ergehen, soweit dies unionsrechtlich zulässig ist.
+(2) Die zuständige Landesbehörde kann für eine Dauer von höchstens drei Monaten anordnen, dass ein gefährlicher Stoff, ein gefährliches Gemisch oder ein Erzeugnis, das einen gefährlichen Stoff oder ein gefährliches Gemisch freisetzen kann oder enthält, oder eine Einrichtung nicht, nur unter bestimmten Voraussetzungen, nur in bestimmter Beschaffenheit oder nur für bestimmte Zwecke hergestellt, in den Verkehr gebracht oder verwendet werden darf, soweit Anhaltspunkte, insbesondere ein nach dem Stand der wissenschaftlichen Erkenntnisse begründeter Verdacht dafür vorliegen, dass von dem Stoff, dem Gemisch, dem Erzeugnis oder der Einrichtung eine erhebliche Gefahr für Leben oder Gesundheit des Menschen oder die Umwelt ausgeht. Die zuständige Landesbehörde kann diese Anordnung aus wichtigem Grund um bis zu einem Jahr verlängern. Die Sätze 1 und 2 gelten auch dann, wenn Anhaltspunkte, insbesondere ein nach dem Stand der wissenschaftlichen Erkenntnisse begründeter Verdacht, für die Annahme bestehen, dass ein Stoff oder ein Gemisch, ein Erzeugnis oder eine Einrichtung gefährlich ist. Anordnungen nach Satz 1 und 2 können nur ergehen, soweit dies unionsrechtlich zulässig ist.
 
 (3) Rechtsbehelfe gegen Anordnungen nach den Absätzen 1a und 2 haben keine aufschiebende Wirkung.
 
-# § 24 – Vollzug im Bereich der Bundeswehr
+# § 23a – Vorübergehende Verbote
+
+(1) Die zuständige Landesbehörde kann demjenigen, der wiederholt oder in schwerem Maße gegen die Verordnung (EU) 2024/573 verstößt, vorübergehend bis zu einer Dauer von 36 Monaten untersagen, folgende Treibhausgase, Erzeugnisse oder Einrichtungen zu verwenden, herzustellen, einzuführen, auszuführen oder in Verkehr zu bringen:
+
+1. fluorierte Treibhausgase gemäß Artikel 2 Buchstabe a der Verordnung (EU) 2024/573 oder
+
+2. Erzeugnisse oder Einrichtungen, die fluorierte Treibhausgase enthalten oder zu ihrem Funktionieren benötigen.
+
+(2) Die zuständige Landesbehörde kann demjenigen, der wiederholt oder in schwerem Maße gegen die Verordnung (EU) 2024/590 verstößt, vorübergehend bis zu einer Dauer von 36 Monaten untersagen, folgende Erzeugnisse, Einrichtungen oder ozonabbauende Stoffe zu verwenden, herzustellen, einzuführen, auszuführen oder in Verkehr zu bringen:
+
+1. ozonabbauende Stoffe gemäß Artikel 2 Buchstabe a der Verordnung (EU) 2024/590 oder
+
+2. Erzeugnisse oder Einrichtungen, die ozonabbauende Stoffe enthalten oder zu ihrem Funktionieren benötigen.
+
+# § 24 – Vollzug im Bereich der Landesverteidigung
 
 (1) Im Geschäftsbereich des Bundesministeriums der Verteidigung obliegt der Vollzug des Gesetzes, der auf dieses Gesetz gestützten Rechtsverordnungen
 
 und der in § 21 Absatz 2 Satz 1 genannten EG- oder EU-Verordnungen dem Bundesministerium der Verteidigung und den von ihm bestimmten Stellen.
 
-(2) Das Bundesministerium der Verteidigung kann für seinen Geschäftsbereich in Einzelfällen sowie für bestimmte Stoffe, Gemische und Erzeugnisse Ausnahmen von den in Absatz 1 genannten Rechtsvorschriften zulassen, wenn dies im Interesse der Landesverteidigung erforderlich und unionsrechtlich zulässig ist.
+(2) Das Bundesministerium der Verteidigung und das Bundesministerium des Innern können für ihren Geschäftsbereich für bestimmte Stoffe, Gemische, Erzeugnisse und Einrichtungen Ausnahmen von den in Absatz 1 genannten Rechtsvorschriften zulassen, wenn dies im Interesse der Landesverteidigung erforderlich und unionsrechtlich zulässig ist.
 
 # § 25 – Angleichung an Gemeinschaftsrecht oder Unionsrecht
 
@@ -1276,7 +1304,7 @@ Die dem Auskunftspflichtigen durch die Entnahme von Proben von Stoffen, Gemische
 
 4. einer vollziehbaren Anordnung nach § 12g Absatz 1 Satz 1 zuwiderhandelt,
 
-4a. entgegen § 12i Absatz 1 Satz 1 Nummer 1 oder § 12j Absatz 1 Satz 1 eine Einrichtung, ein Erzeugnis oder einen teilfluorierten Kohlenwasserstoff für Dritte bereitstellt, an Dritte abgibt oder erwirbt,
+4a. entgegen § 12i Absatz 1 Satz 1 Nummer 1 eine Einrichtung oder ein Erzeugnis erwirbt,
 
 4b. entgegen § 12i Absatz 1 Satz 1 Nummer 2 einen dort genannten Behälter lagert oder entleert,
 
@@ -1284,9 +1312,11 @@ Die dem Auskunftspflichtigen durch die Entnahme von Proben von Stoffen, Gemische
 
 4d. entgegen § 12i Absatz 4 oder § 12j Absatz 6 eine dort genannte Erklärung oder Angabe nicht oder nicht mindestens fünf Jahre aufbewahrt,
 
-4e. entgegen § 12i Absatz 6 nicht sicherstellt, dass eine Kennzeichnung erhalten geblieben ist oder neu angebracht wird,
+4e. entgegen § 12j Absatz 1 Satz 1 teilfluorierte Kohlenwasserstoffe bereitstellt, abgibt oder erwirbt,
 
 4f. einer vollziehbaren Anordnung nach § 12j Absatz 1 Satz 3 oder Absatz 7 Satz 2 zuwiderhandelt,
+
+4g. entgegen § 12k Satz 1 eine Einrichtung oder ein Erzeugnis bereitstellt oder abgibt,
 
 5. a) entgegen § 13 Absatz 2 in Verbindung mit einer Rechtsverordnung nach § 14 Absatz 1 Nummer 1, 2 oder Nummer 3 Buchstabe c, jeweils auch in Verbindung mit § 14 Absatz 3, einen Stoff oder ein Gemisch nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig einstuft,
 
@@ -1330,13 +1360,13 @@ zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvo
 
 a) nach § 23 Absatz 1 oder
 
-b) nach § 23 Absatz 2 Satz 3 in Verbindung mit Satz 1 über das Herstellen, das Inverkehrbringen oder das Verwenden von Stoffen, Gemischen oder Erzeugnissen
+b) nach § 23 Absatz 2 Satz 3 in Verbindung mit Satz 1
 
 zuwiderhandelt oder
 
 10a. einer Rechtsverordnung nach § 28 Absatz 11 über Zulassungs- oder Meldepflichten für bestimmte Biozid-Produkte zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
-(2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union zuwiderhandelt, die
+(2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Union zuwiderhandelt, die
 
 1. inhaltlich einem in Absatz 1
 
@@ -1368,11 +1398,11 @@ a) dass Informationen oder Dokumente zu gefährlichen Stoffen, zu gefährlichen 
 
 b) dass staatliche Stellen oder sonstige Stellen mit hoheitlichen Aufgaben über gefährliche Stoffe, über gefährliche Gemische, über Erzeugnisse, die solche Stoffe oder Gemische freisetzen können, enthalten oder zu ihrem Funktionieren benötigen, oder über Einrichtungen zu unterrichten sind,
 
-c) dass bei staatlichen Stellen oder bei sonstigen Stellen mit hoheitlichen Aufgaben für die Herstellung, das Inverkehrbringen oder die Verwendung von gefährlichen Stoffen, von gefährlichen Gemischen, von Erzeugnissen, die solche Stoffe oder Gemische freisetzen können, enthalten oder zu ihrem Funktionieren benötigen, oder von Einrichtungen eine Registrierung erfolgen muss,
+c) dass bei staatlichen Stellen oder bei sonstigen Stellen mit hoheitlichen Aufgaben für die Herstellung, das Inverkehrbringen, die Verwendung oder die Entgegennahme von gefährlichen Stoffen, von gefährlichen Gemischen, von Erzeugnissen, die solche Stoffe oder Gemische freisetzen können, enthalten oder zu ihrem Funktionieren benötigen, oder von Einrichtungen eine Registrierung erfolgen muss,
 
 d) dass gefährliche Stoffe oder gefährliche Gemische zurückzugewinnen, zu sammeln, zurückzuhalten, aufzuarbeiten, zu recyceln oder zu zerstören sind,
 
-e) dass Erzeugnisse, die gefährliche Stoffe oder gefährliche Gemische freisetzen können, enthalten oder zu ihrem Funktionieren benötigen, oder Einrichtungen außer Betrieb zu nehmen, zu überprüfen, zu reparieren, auszustatten, aufzuarbeiten, zu recyceln oder zu zerstören sind,
+e) dass Erzeugnisse, die gefährliche Stoffe oder gefährliche Gemische freisetzen können, enthalten oder zu ihrem Funktionieren benötigen, oder Einrichtungen außer Betrieb zu nehmen, zu überprüfen, zu reparieren, auszustatten, aufzuarbeiten, zu warten, zu sammeln, zu recyceln oder zu zerstören sind,
 
 f) dass wissenschaftliche Prüfungen oder Versuche mit gefährlichen Stoffen, mit gefährlichen Gemischen oder mit Erzeugnissen, die solche Stoffe oder Gemische freisetzen können, enthalten oder zu ihrem Funktionieren benötigen, durchzuführen sind,
 
@@ -1384,7 +1414,7 @@ i) dass wissenschaftliche Prüfungen oder Versuche mit gefährlichen Stoffen, mi
 
 soweit eine Rechtsverordnung nach Absatz 5 für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
-(3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 4a, 4b und 7 Buchstabe b und des Absatzes 2 Nummer 2 Buchstabe d mit einer Geldbuße bis zu zweihunderttausend Euro, in den Fällen des Absatzes 1 Nummer 4, 4c, 4f, 5, 6, 7 Buchstabe a, Nummer 8 Buchstabe b und Nummer 10 und des Absatzes 2 Nummer 1 Buchstabe a, Nummer 2 Buchstabe a bis c und f und Nummer 3 Buchstabe c bis i mit einer Geldbuße bis zu fünfzigtausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
+(3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 4a, 4b, 4e und 7 Buchstabe b und des Absatzes 2 Nummer 2 Buchstabe d mit einer Geldbuße bis zu zweihunderttausend Euro, in den Fällen des Absatzes 1 Nummer 4, 4c, 4f, 4g, 5, 6, 7 Buchstabe a, Nummer 8 Buchstabe b und Nummer 10 und des Absatzes 2 Nummer 1 Buchstabe a, Nummer 2 Buchstabe a bis c und f und Nummer 3 Buchstabe c bis i mit einer Geldbuße bis zu fünfzigtausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
 (4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist
 
@@ -1398,7 +1428,7 @@ b) die in der Rechtsverordnung nach § 21 Absatz 2a bezeichnete Bundesbehörde, 
 
 3. im Übrigen die nach Landesrecht zuständige Behörde.
 
-(5) Die Bundesregierung wird ermächtigt, soweit dies zur Durchführung der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union erforderlich ist, durch Rechtsverordnung mit Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach Absatz 2 geahndet werden können.
+(5) Die Bundesregierung wird ermächtigt, soweit dies zur Durchführung der Rechtsakte der Europäischen Union erforderlich ist, durch Rechtsverordnung mit Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach Absatz 2 geahndet werden können.
 
 # § 27 – Strafvorschriften, Verordnungsermächtigung
 
@@ -2139,3 +2169,5 @@ Name and function of responsible person)
 
 (Name und Adresse der GLP-Überwachungsbehörde/  
 Name and address of the GLP Monitoring Authority)
+
+Die Bescheinigung ist befristet bis zum … \[Datum der Befristung\]. Sofern vor Ablauf der Befristung der Bescheinigung ein neuer Antrag nach § 19b Absatz 1 Satz 1 ChemG gestellt wird, gilt die Bescheinigung bis zur Entscheidung über den Antrag fort.

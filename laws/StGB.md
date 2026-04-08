@@ -286,16 +286,17 @@
 |                                | § 86                                                                                                                    | Verbreiten von Propagandamitteln verfassungswidriger und terroristischer Organisationen                                                        |
 |                                | § 86a                                                                                                                   | Verwenden von Kennzeichen verfassungswidriger und terroristischer Organisationen                                                               |
 |                                | § 87                                                                                                                    | Agententätigkeit zu Sabotagezwecken                                                                                                            |
+|                                | § 87a                                                                                                                   | Ausübung fremder Einflussnahme und darauf gerichtete Agententätigkeit                                                                          |
 |                                | § 88                                                                                                                    | Verfassungsfeindliche Sabotage                                                                                                                 |
 |                                | § 89                                                                                                                    | Verfassungsfeindliche Einwirkung auf Bundeswehr und öffentliche Sicherheitsorgane                                                              |
-|                                | § 89a                                                                                                                   | Vorbereitung einer schweren staatsgefährdenden Gewalttat                                                                                       |
-|                                | § 89b                                                                                                                   | Aufnahme von Beziehungen zur Begehung einer schweren staatsgefährdenden Gewalttat                                                              |
+|                                | § 89a                                                                                                                   | Vorbereitung einer terroristischen Straftat; Versuch der Anstiftung und Androhung                                                              |
+|                                | § 89b                                                                                                                   | Aufnahme von Beziehungen zur Begehung einer terroristischen Straftat                                                                           |
 |                                | § 89c                                                                                                                   | Terrorismusfinanzierung                                                                                                                        |
 |                                | § 90                                                                                                                    | Verunglimpfung des Bundespräsidenten                                                                                                           |
 |                                | § 90a                                                                                                                   | Verunglimpfung des Staates und seiner Symbole                                                                                                  |
 |                                | § 90b                                                                                                                   | Verfassungsfeindliche Verunglimpfung von Verfassungsorganen                                                                                    |
 |                                | § 90c                                                                                                                   | Verunglimpfung von Symbolen der Europäischen Union                                                                                             |
-|                                | § 91                                                                                                                    | Anleitung zur Begehung einer schweren staatsgefährdenden Gewalttat                                                                             |
+|                                | § 91                                                                                                                    | Anleitung zur Begehung einer terroristischen Straftat                                                                                          |
 |                                | § 91a                                                                                                                   | Anwendungsbereich                                                                                                                              |
 |                                |                                                                                                                         |                                                                                                                                                |
 | Vierter Titel                  |                                                                                                                         |                                                                                                                                                |
@@ -854,9 +855,11 @@ a) in den Fällen des § 86 Absatz 1 und 2, wenn Propagandamittel im Inland wahr
 
 b) in den Fällen des § 86a Absatz 1 Nummer 1, wenn ein Kennzeichen im Inland wahrnehmbar verbreitet oder in einer der inländischen Öffentlichkeit zugänglichen Weise oder in einem im Inland wahrnehmbar verbreiteten Inhalt (§ 11 Absatz 3) verwendet wird und der Täter Deutscher ist oder seine Lebensgrundlage im Inland hat,
 
-c) in den Fällen der §§ 89, 90a Abs. 1 und des § 90b, wenn der Täter Deutscher ist und seine Lebensgrundlage im räumlichen Geltungsbereich dieses Gesetzes hat, und
+c) in den Fällen der §§ 89, 90a Abs. 1 und des § 90b, wenn der Täter Deutscher ist und seine Lebensgrundlage im räumlichen Geltungsbereich dieses Gesetzes hat,
 
-d) in den Fällen der §§ 90 und 90a Abs. 2;
+d) in Fällen des § 89a Absatz 1 Satz 2, wenn die Tat in einem der Mitgliedstaaten der Europäischen Union begangen wird oder diese außerhalb der Mitgliedstaaten der Europäischen Union durch oder gegen einen Deutschen oder durch einen Ausländer mit Lebensgrundlage im Inland begangen wird oder der Täter im Inland betroffen und, obwohl das Auslieferungsgesetz seine Auslieferung nach der Art der Tat zuließe, nicht ausgeliefert wird, weil ein Auslieferungsersuchen innerhalb angemessener Frist nicht gestellt oder abgelehnt wird oder die Auslieferung nicht ausführbar ist, und
+
+e) in den Fällen der §§ 90 und 90a Abs. 2;
 
 4. Landesverrat und Gefährdung der äußeren Sicherheit (§§ 94 bis 100a);
 
@@ -2284,7 +2287,7 @@ Ist die Anordnung der Einziehung eines Gegenstandes unzureichend oder nicht ausf
 
 1. aus diesem Gesetz:
 
-a) Vorbereitung einer schweren staatsgefährdenden Gewalttat nach § 89a und Terrorismusfinanzierung nach § 89c Absatz 1 bis 4,
+a) Vorbereitung einer terroristischen Straftat nach § 89a und Terrorismusfinanzierung nach § 89c Absatz 1 bis 4 und 8,
 
 b) Bildung krimineller Vereinigungen nach § 129 Absatz 1 und Bildung terroristischer Vereinigungen nach § 129a Absatz 1, 2, 4, 5, jeweils auch in Verbindung mit § 129b Absatz 1,
 
@@ -2684,6 +2687,12 @@ und sich dadurch absichtlich oder wissentlich für Bestrebungen gegen den Bestan
 
 (3) Das Gericht kann von einer Bestrafung nach diesen Vorschriften absehen, wenn der Täter freiwillig sein Verhalten aufgibt und sein Wissen so rechtzeitig einer Dienststelle offenbart, daß Sabotagehandlungen, deren Planung er kennt, noch verhindert werden können.
 
+# § 87a – Ausübung fremder Einflussnahme und darauf gerichtete Agententätigkeit
+
+(1) Wer einen Auftrag einer staatlichen Stelle einer fremden Macht dadurch befolgt, dass er in der Bundesrepublik Deutschland eine vorsätzliche rechtswidrige Tat begeht, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft, wenn die Tat nicht in anderen Vorschriften mit schwererer Strafe bedroht ist.
+
+(2) Ebenso wird bestraft, wer einen solchen Auftrag erteilt.
+
 # § 88 – Verfassungsfeindliche Sabotage
 
 (1) Wer als Rädelsführer oder Hintermann einer Gruppe oder, ohne mit einer Gruppe oder für eine solche zu handeln, als einzelner absichtlich bewirkt, daß im räumlichen Geltungsbereich dieses Gesetzes durch Störhandlungen
@@ -2708,33 +2717,69 @@ ganz oder zum Teil außer Tätigkeit gesetzt oder den bestimmungsmäßigen Zweck
 
 (3) § 86 Absatz 5 gilt entsprechend.
 
-# § 89a – Vorbereitung einer schweren staatsgefährdenden Gewalttat
+# § 89a – Vorbereitung einer terroristischen Straftat; Versuch der Anstiftung und Androhung
 
-(1) Wer eine schwere staatsgefährdende Gewalttat vorbereitet, wird mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren bestraft. Eine schwere staatsgefährdende Gewalttat ist eine Straftat gegen das Leben in den Fällen des § 211 oder des § 212 oder gegen die persönliche Freiheit in den Fällen des § 239a oder des § 239b, die nach den Umständen bestimmt und geeignet ist, den Bestand oder die Sicherheit eines Staates oder einer internationalen Organisation zu beeinträchtigen oder Verfassungsgrundsätze der Bundesrepublik Deutschland zu beseitigen, außer Geltung zu setzen oder zu untergraben.
+(1) Wer eine terroristische Straftat nach Satz 2 Nummer 1 bis 8 vorbereitet und dabei in den Fällen des Absatzes 2 Nummer 1 bis 3 in der Absicht handelt, diese terroristische Straftat selbst zu begehen oder in dem Wissen oder der Absicht handelt, dass seine Vorbereitungshandlung einen wirksamen Beitrag zu einer terroristischen Straftat eines anderen leisten soll, wird mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren bestraft. Terroristische Straftaten sind
 
-(2) Absatz 1 ist nur anzuwenden, wenn der Täter eine schwere staatsgefährdende Gewalttat vorbereitet, indem er
+1. Mord (§ 211), Totschlag (§ 212), Völkermord (§ 6 des Völkerstrafgesetzbuches), Verbrechen gegen die Menschlichkeit (§ 7 des Völkerstrafgesetzbuches) und Kriegsverbrechen (§§ 8 bis 12 des Völkerstrafgesetzbuches),
 
-1. eine andere Person unterweist oder sich unterweisen lässt in der Herstellung von oder im Umgang mit Schusswaffen, Sprengstoffen, Spreng- oder Brandvorrichtungen, Kernbrenn- oder sonstigen radioaktiven Stoffen, Stoffen, die Gift enthalten oder hervorbringen können, anderen gesundheitsschädlichen Stoffen, zur Ausführung der Tat erforderlichen besonderen Vorrichtungen oder in sonstigen Fertigkeiten, die der Begehung einer der in Absatz 1 genannten Straftaten dienen,
+2. Körperverletzungen nach § 224 und Körperverletzungen, die einem anderen Menschen schwere körperliche oder seelische Schäden, insbesondere der in § 226 bezeichneten Art, zufügen,
 
-2. Waffen, Stoffe oder Vorrichtungen der in Nummer 1 bezeichneten Art herstellt, sich oder einem anderen verschafft, verwahrt oder einem anderen überlässt oder
+3. erpresserischer Menschenraub (§ 239a) und Geiselnahme (§ 239b),
 
-3. Gegenstände oder Stoffe sich verschafft oder verwahrt, die für die Herstellung von Waffen, Stoffen oder Vorrichtungen der in Nummer 1 bezeichneten Art wesentlich sind.
+4. Straftaten nach den §§ 303b, 305, 305a und gemeingefährliche Straftaten in den Fällen der §§ 306 bis 306c und 307 Absatz 1 bis 3, des § 308 Absatz 1 bis 5, des § 309 Absatz 1 bis 5, der §§ 313, 314 und 315 Absatz 1, 3 und 4, des § 316b Absatz 1 und 3, des § 316c Absatz 1 bis 3 und des § 317 Absatz 1,
 
-(2a) Absatz 1 ist auch anzuwenden, wenn der Täter eine schwere staatsgefährdende Gewalttat vorbereitet, indem er es unternimmt, zum Zweck der Begehung einer schweren staatsgefährdenden Gewalttat oder der in Absatz 2 Nummer 1 genannten Handlungen aus der Bundesrepublik Deutschland auszureisen, um sich in einen Staat zu begeben, in dem Unterweisungen von Personen im Sinne des Absatzes 2 Nummer 1 erfolgen.
+5. Straftaten gegen die Umwelt in den Fällen des § 330a Absatz 1 bis 3,
 
-(3) Absatz 1 gilt auch, wenn die Vorbereitung im Ausland begangen wird. Wird die Vorbereitung außerhalb der Mitgliedstaaten der Europäischen Union begangen, gilt dies nur, wenn sie durch einen Deutschen oder einen Ausländer mit Lebensgrundlage im Inland begangen wird oder die vorbereitete schwere staatsgefährdende Gewalttat im Inland oder durch oder gegen einen Deutschen begangen werden soll.
+6. Straftaten nach § 19 Absatz 1 bis 3, § 20 Absatz 1 und 2 und § 20a Absatz 1 bis 3, jeweils auch in Verbindung mit § 21, und nach § 22a Absatz 1 bis 3 des Gesetzes über die Kontrolle von Kriegswaffen,
 
-(4) In den Fällen des Absatzes 3 Satz 2 bedarf die Verfolgung der Ermächtigung durch das Bundesministerium der Justiz und für Verbraucherschutz. Wird die Vorbereitung in einem anderen Mitgliedstaat der Europäischen Union begangen, bedarf die Verfolgung der Ermächtigung durch das Bundesministerium der Justiz und für Verbraucherschutz, wenn die Vorbereitung weder durch einen Deutschen erfolgt noch die vorbereitete schwere staatsgefährdende Gewalttat im Inland noch durch oder gegen einen Deutschen begangen werden soll.
+7. Straftaten nach § 51 Absatz 1 bis 3 und § 52 Absatz 1, 3, 5 und 6 des Waffengesetzes,
+
+8. Straftaten nach § 310 Absatz 1 und 2 und § 328 Absatz 1 und 2,
+
+9. die Androhung, eine in den Nummern 1 bis 8 bezeichnete Tat zu begehen,
+
+wenn die Tat bestimmt ist, die Bevölkerung auf erhebliche Weise einzuschüchtern, eine Behörde oder eine internationale Organisation rechtswidrig mit Gewalt oder durch Drohung mit Gewalt zu nötigen oder die politischen, verfassungsrechtlichen, wirtschaftlichen oder sozialen Grundstrukturen eines Staates oder einer internationalen Organisation zu beseitigen oder erheblich zu beeinträchtigen und durch die Art ihrer Begehung oder ihre Auswirkungen einen Staat oder eine internationale Organisation erheblich schädigen kann.
+
+(2) Absatz 1 ist nur anzuwenden, wenn der Täter eine terroristische Straftat nach Absatz 1 Satz 2 Nummer 1 bis 8 vorbereitet, indem er
+
+1. eine andere Person unterweist oder sich unterweisen lässt in der Herstellung von oder im Umgang mit Waffen, Sprengstoffen, Spreng- oder Brandvorrichtungen, Kernbrenn- oder sonstigen radioaktiven Stoffen, Stoffen, die Gift enthalten oder hervorbringen können, anderen gesundheitsschädlichen Stoffen, zur Ausführung der Tat erforderlichen besonderen Vorrichtungen oder in sonstigen Fertigkeiten, die der Begehung einer der in Absatz 1 Satz 2 Nummer 1 bis 8 genannten Straftaten dienen,
+
+2. Stoffe, Vorrichtungen der in Nummer 1 bezeichneten Art, Waffen oder gefährliche Werkzeuge mit der Absicht, diese gefährlichen Werkzeuge bei der terroristischen Straftat zu verwenden, herstellt, sich oder einem anderen verschafft, befördert, verwahrt oder einem anderen überlässt oder zur Entwicklung oder Herstellung von Atomwaffen, biologischen oder chemischen Waffen nach den §§ 19 und 20 des Gesetzes über die Kontrolle von Kriegswaffen forscht,
+
+3. Gegenstände oder Stoffe sich verschafft oder verwahrt, die für die Herstellung von Waffen, Stoffen oder Vorrichtungen der in Nummer 1 bezeichneten Art wesentlich sind,
+
+4. aus der Bundesrepublik Deutschland ausreist, um
+
+a) eine terroristische Straftat zu begehen oder sich an einer solchen zu beteiligen oder eine in Nummer 1 genannte Handlung zu begehen oder
+
+b) sich an einer Vereinigung im Sinne des § 129a, auch in Verbindung mit § 129b, als Mitglied zu beteiligen oder um eine solche Vereinigung zu unterstützen, oder
+
+5. in die Bundesrepublik Deutschland einreist, um
+
+a) eine terroristische Straftat zu begehen oder sich an einer solchen zu beteiligen oder eine in Nummer 1 genannte Handlung zu begehen oder
+
+b) sich an einer Vereinigung im Sinne des § 129a, auch in Verbindung mit § 129b, als Mitglied zu beteiligen oder um eine solche Vereinigung zu unterstützen.
+
+(2a) In den Fällen des Absatzes 1 Satz 1 in Verbindung mit Absatz 2 Nummer 1, 2, 4 oder 5 ist der Versuch strafbar.
+
+(2b) Für den Versuch der Anstiftung zu einem der in Absatz 1 Satz 2 Nummer 1 bis 8 genannten Vergehen gelten § 30 Absatz 1 und § 31 Absatz 1 Nummer 1 und Absatz 2 entsprechend.
+
+(3) Werden die in Absatz 1 in Verbindung mit Absatz 2 und die in den Absätzen 2a, 2b und 8 beschriebenen Handlungen im Ausland begangen, so gilt deutsches Strafrecht unter den Voraussetzungen des § 5 Nummer 3 Buchstabe d entsprechend. Außerdem ist deutsches Strafrecht anwendbar, wenn die vorbereitete oder angedrohte terroristische Straftat oder die terroristische Straftat, zu der die Anstiftung versucht wird, im Inland oder durch oder gegen einen Deutschen begangen werden soll.
+
+(4) Werden die in Absatz 1 in Verbindung mit Absatz 2 und die in den Absätzen 2a, 2b und 8 beschriebenen Handlungen außerhalb der Europäischen Union begangen, bedarf die Verfolgung der Ermächtigung durch das Bundesministerium der Justiz und für Verbraucherschutz. Werden die in Absatz 1 in Verbindung mit Absatz 2 und die in den Absätzen 2a, 2b und 8 beschriebenen Handlungen in einem anderen Mitgliedstaat der Europäischen Union begangen, bedarf die Verfolgung der Ermächtigung durch das Bundesministerium der Justiz und für Verbraucherschutz, wenn die Tat weder durch einen Deutschen begangen wurde noch die vorbereitete oder angedrohte terroristische Straftat oder die terroristische Straftat, zu der die Anstiftung versucht wird, im Inland noch durch oder gegen einen Deutschen begangen werden soll.
 
 (5) In minder schweren Fällen ist die Strafe Freiheitsstrafe von drei Monaten bis zu fünf Jahren.
 
 (6) Das Gericht kann Führungsaufsicht anordnen (§ 68 Abs. 1).
 
-(7) Das Gericht kann die Strafe nach seinem Ermessen mildern (§ 49 Abs. 2) oder von einer Bestrafung nach dieser Vorschrift absehen, wenn der Täter freiwillig die weitere Vorbereitung der schweren staatsgefährdenden Gewalttat aufgibt und eine von ihm verursachte und erkannte Gefahr, dass andere diese Tat weiter vorbereiten oder sie ausführen, abwendet oder wesentlich mindert oder wenn er freiwillig die Vollendung dieser Tat verhindert. Wird ohne Zutun des Täters die bezeichnete Gefahr abgewendet oder wesentlich gemindert oder die Vollendung der schweren staatsgefährdenden Gewalttat verhindert, genügt sein freiwilliges und ernsthaftes Bemühen, dieses Ziel zu erreichen.
+(7) Das Gericht kann die Strafe nach seinem Ermessen mildern (§ 49 Abs. 2) oder von einer Bestrafung nach dieser Vorschrift absehen, wenn der Täter freiwillig die weitere Vorbereitung der terroristischen Straftat aufgibt und eine von ihm verursachte und erkannte Gefahr, dass andere diese Tat weiter vorbereiten oder sie ausführen, abwendet oder wesentlich mindert oder wenn er freiwillig die Vollendung dieser Tat verhindert. Wird ohne Zutun des Täters die bezeichnete Gefahr abgewendet oder wesentlich gemindert oder die Vollendung der terroristischen Straftat verhindert, genügt sein freiwilliges und ernsthaftes Bemühen, dieses Ziel zu erreichen.
 
-# § 89b – Aufnahme von Beziehungen zur Begehung einer schweren staatsgefährdenden Gewalttat
+(8) Mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren wird bestraft, wer androht, eine terroristische Straftat zu begehen (Absatz 1 Satz 2 Nummer 9). Absatz 7 gilt entsprechend.
 
-(1) Wer in der Absicht, sich in der Begehung einer schweren staatsgefährdenden Gewalttat gemäß § 89a Abs. 2 Nr. 1 unterweisen zu lassen, zu einer Vereinigung im Sinne des § 129a, auch in Verbindung mit § 129b, Beziehungen aufnimmt oder unterhält, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
+# § 89b – Aufnahme von Beziehungen zur Begehung einer terroristischen Straftat
+
+(1) Wer in der Absicht, sich in der Begehung einer terroristischen Straftat gemäß § 89a Abs. 2 Nr. 1 unterweisen zu lassen, zu einer Vereinigung im Sinne des § 129a, auch in Verbindung mit § 129b, Beziehungen aufnimmt oder unterhält, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
 (2) Absatz 1 gilt nicht, wenn die Handlung ausschließlich der Erfüllung rechtmäßiger beruflicher oder dienstlicher Pflichten dient.
 
@@ -2750,37 +2795,33 @@ ganz oder zum Teil außer Tätigkeit gesetzt oder den bestimmungsmäßigen Zweck
 
 # § 89c – Terrorismusfinanzierung
 
-(1) Wer Vermögenswerte sammelt, entgegennimmt oder zur Verfügung stellt mit dem Wissen oder in der Absicht, dass diese von einer anderen Person zur Begehung
+(1) Wer Vermögenswerte sammelt, entgegennimmt oder zur Verfügung stellt mit dem Wissen oder in der Absicht, dass diese von einer anderen Person zur Begehung einer terroristischen Straftat nach § 89a Absatz 1 Satz 2 Nummer 1 bis 8 oder einer Straftat nach § 89a Absatz 2 Nummer 2, 4 oder 5 verwendet werden sollen, wird mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren bestraft. Ebenso wird bestraft, wer Vermögenswerte sammelt, entgegennimmt oder zur Verfügung stellt, um selbst eine terroristische Straftat nach § 89a Absatz 1 Satz 2 Nummer 1 bis 8 oder eine Straftat nach § 89a Absatz 2 Nummer 2, 4 oder 5 zu begehen.
 
-1. eines Mordes (§ 211), eines Totschlags (§ 212), eines Völkermordes (§ 6 des Völkerstrafgesetzbuches), eines Verbrechens gegen die Menschlichkeit (§ 7 des Völkerstrafgesetzbuches), eines Kriegsverbrechens (§§ 8, 9, 10, 11 oder 12 des Völkerstrafgesetzbuches), einer Körperverletzung nach § 224 oder einer Körperverletzung, die einem anderen Menschen schwere körperliche oder seelische Schäden, insbesondere der in § 226 bezeichneten Art, zufügt,
+(2) Wer Vermögenswerte sammelt, entgegennimmt oder zur Verfügung stellt mit dem Wissen oder in der Absicht, dass diese von einer anderen Person dazu verwendet werden sollen,
 
-2. eines erpresserischen Menschenraubes (§ 239a) oder einer Geiselnahme (§ 239b),
+1. öffentlich zu einer terroristischen Straftat nach § 89a Absatz 1 Satz 2 Nummer 1 bis 8 aufzufordern oder einen Inhalt (§ 11 Absatz 3) anzupreisen oder einer anderen Person zugänglich zu machen, der geeignet ist, als Anleitung zu einer terroristischen Straftat nach § 89a Absatz 1 Satz 2 Nummer 1 bis 8 zu dienen, wenn die Umstände seiner Verbreitung geeignet sind, die Bereitschaft anderer zu fördern oder zu wecken, eine terroristische Straftat zu begehen,
 
-3. von Straftaten nach den §§ 303b, 305, 305a oder gemeingefährlicher Straftaten in den Fällen der §§ 306 bis 306c oder 307 Absatz 1 bis 3, des § 308 Absatz 1 bis 5, des § 309 Absatz 1 bis 5, der §§ 313, 314 oder 315 Absatz 1, 3 oder 4, des § 316b Absatz 1 oder 3 oder des § 316c Absatz 1 bis 3 oder des § 317 Absatz 1,
+2. einen anderen zur Begehung einer terroristischen Straftat nach § 89a Absatz 1 Satz 2 Nummer 1 bis 8 zu bestimmen, zu dessen terroristischer Straftat nach § 89a Absatz 1 Nummer 1 bis 8 Hilfe zu leisten oder eine Straftat nach § 89a Absatz 2b zu begehen,
 
-4. von Straftaten gegen die Umwelt in den Fällen des § 330a Absatz 1 bis 3,
+3. eine Straftat nach § 89a Absatz 2 Nummer 1 zu begehen,
 
-5. von Straftaten nach § 19 Absatz 1 bis 3, § 20 Absatz 1 oder 2, § 20a Absatz 1 bis 3, § 19 Absatz 2 Nummer 2 oder Absatz 3 Nummer 2, § 20 Absatz 1 oder 2 oder § 20a Absatz 1 bis 3, jeweils auch in Verbindung mit § 21, oder nach § 22a Absatz 1 bis 3 des Gesetzes über die Kontrolle von Kriegswaffen,
+4. zu einer Straftat nach § 89a Absatz 2 Nummer 4 oder 5 Hilfe zu leisten oder
 
-6. von Straftaten nach § 51 Absatz 1 bis 3 des Waffengesetzes,
+5. eine Straftat nach § 89a Absatz 8 zu begehen,
 
-7. einer Straftat nach § 328 Absatz 1 oder 2 oder § 310 Absatz 1 oder 2,
+wird mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren bestraft. Ebenso wird bestraft, wer Vermögenswerte sammelt, entgegennimmt oder zur Verfügung stellt, um selbst eine Tat nach Satz 1 zu begehen.
 
-8. einer Straftat nach § 89a Absatz 2a
+(3) Werden die in den Absätzen 1, 2 oder 8 beschriebenen Handlungen im Ausland begangen, so gilt deutsches Strafrecht unter den Voraussetzungen des § 5 Nummer 3 Buchstabe d entsprechend. Außerdem ist deutsches Strafrecht anwendbar, wenn die finanzierte terroristische Straftat im Inland oder gegen einen Deutschen begangen werden soll.
 
-verwendet werden sollen, wird mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren bestraft. Satz 1 ist in den Fällen der Nummern 1 bis 7 nur anzuwenden, wenn die dort bezeichnete Tat dazu bestimmt ist, die Bevölkerung auf erhebliche Weise einzuschüchtern, eine Behörde oder eine internationale Organisation rechtswidrig mit Gewalt oder durch Drohung mit Gewalt zu nötigen oder die politischen, verfassungsrechtlichen, wirtschaftlichen oder sozialen Grundstrukturen eines Staates oder einer internationalen Organisation zu beseitigen oder erheblich zu beeinträchtigen, und durch die Art ihrer Begehung oder ihre Auswirkungen einen Staat oder eine internationale Organisation erheblich schädigen kann.
+(4) Werden die in den Absätzen 1, 2 oder 8 beschriebenen Handlungen außerhalb der Europäischen Union begangen, bedarf die Verfolgung der Ermächtigung durch das Bundesministerium der Justiz und für Verbraucherschutz. Werden die in den Absätzen 1, 2 oder 8 beschriebenen Handlungen in einem anderen Mitgliedstaat der Europäischen Union begangen, bedarf die Verfolgung der Ermächtigung durch das Bundesministerium der Justiz und für Verbraucherschutz, wenn die Tat weder durch einen Deutschen begangen wurde noch die finanzierte Straftat im Inland durch oder gegen einen Deutschen begangen werden soll.
 
-(2) Ebenso wird bestraft, wer unter der Voraussetzung des Absatzes 1 Satz 2 Vermögenswerte sammelt, entgegennimmt oder zur Verfügung stellt, um selbst eine der in Absatz 1 Satz 1 genannten Straftaten zu begehen.
-
-(3) Die Absätze 1 und 2 gelten auch, wenn die Tat im Ausland begangen wird. Wird sie außerhalb der Mitgliedstaaten der Europäischen Union begangen, gilt dies nur, wenn sie durch einen Deutschen oder einen Ausländer mit Lebensgrundlage im Inland begangen wird oder die finanzierte Straftat im Inland oder durch oder gegen einen Deutschen begangen werden soll.
-
-(4) In den Fällen des Absatzes 3 Satz 2 bedarf die Verfolgung der Ermächtigung durch das Bundesministerium der Justiz und für Verbraucherschutz. Wird die Tat in einem anderen Mitgliedstaat der Europäischen Union begangen, bedarf die Verfolgung der Ermächtigung durch das Bundesministerium der Justiz und für Verbraucherschutz, wenn die Tat weder durch einen Deutschen begangen wird noch die finanzierte Straftat im Inland noch durch oder gegen einen Deutschen begangen werden soll.
-
-(5) Sind die Vermögenswerte bei einer Tat nach Absatz 1 oder 2 geringwertig, so ist auf Freiheitsstrafe von drei Monaten bis zu fünf Jahren zu erkennen.
+(5) Sind die Vermögenswerte bei einer Tat nach Absatz 1 oder 2 geringwertig, so ist in den Fällen des Absatzes 1 auf Freiheitsstrafe von drei Monaten bis zu fünf Jahren, in den Fällen des Absatzes 2 auf Freiheitsstrafe bis zu drei Jahren oder auf Geldstrafe zu erkennen.
 
 (6) Das Gericht mildert die Strafe (§ 49 Absatz 1) oder kann von Strafe absehen, wenn die Schuld des Täters gering ist.
 
 (7) Das Gericht kann die Strafe nach seinem Ermessen mildern (§ 49 Absatz 2) oder von einer Bestrafung nach dieser Vorschrift absehen, wenn der Täter freiwillig die weitere Vorbereitung der Tat aufgibt und eine von ihm verursachte und erkannte Gefahr, dass andere diese Tat weiter vorbereiten oder sie ausführen, abwendet oder wesentlich mindert oder wenn er freiwillig die Vollendung dieser Tat verhindert. Wird ohne Zutun des Täters die bezeichnete Gefahr abgewendet oder wesentlich gemindert oder die Vollendung der Tat verhindert, genügt sein freiwilliges und ernsthaftes Bemühen, dieses Ziel zu erreichen.
+
+(8) In den Fällen der Absätze 1 und 2 Nummer 1 bis 4 ist der Versuch strafbar.
 
 # § 90 – Verunglimpfung des Bundespräsidenten
 
@@ -2818,13 +2859,13 @@ wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
 (2) Ebenso wird bestraft, wer eine öffentlich gezeigte Flagge der Europäischen Union entfernt, zerstört, beschädigt, unbrauchbar oder unkenntlich macht oder beschimpfenden Unfug daran verübt. Der Versuch ist strafbar.
 
-# § 91 – Anleitung zur Begehung einer schweren staatsgefährdenden Gewalttat
+# § 91 – Anleitung zur Begehung einer terroristischen Straftat
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer
 
-1. einen Inhalt (§ 11 Absatz 3), der geeignet ist, als Anleitung zu einer schweren staatsgefährdenden Gewalttat (§ 89a Abs. 1) zu dienen, anpreist oder einer anderen Person zugänglich macht, wenn die Umstände seiner Verbreitung geeignet sind, die Bereitschaft anderer zu fördern oder zu wecken, eine schwere staatsgefährdende Gewalttat zu begehen,
+1. einen Inhalt (§ 11 Absatz 3), der geeignet ist, als Anleitung zu einer terroristischen Straftat nach § 89a Absatz 1 Satz 2 Nummer 1 bis 8 zu dienen, anpreist oder einer anderen Person zugänglich macht, wenn die Umstände seiner Verbreitung geeignet sind, die Bereitschaft anderer zu fördern oder zu wecken, eine derartige Straftat zu begehen,
 
-2. sich einen Inhalt der in Nummer 1 bezeichneten Art verschafft, um eine schwere staatsgefährdende Gewalttat zu begehen.
+2. sich einen Inhalt der in Nummer 1 bezeichneten Art verschafft, um eine terroristische Straftat zu begehen.
 
 (2) Absatz 1 Nr. 1 ist nicht anzuwenden, wenn
 
@@ -2832,7 +2873,9 @@ wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
 2. die Handlung ausschließlich der Erfüllung rechtmäßiger beruflicher oder dienstlicher Pflichten dient.
 
-(3) Ist die Schuld gering, so kann das Gericht von einer Bestrafung nach dieser Vorschrift absehen.
+(3) In den Fällen des Absatzes 1 Nummer 1 ist der Versuch strafbar.
+
+(4) Ist die Schuld gering, so kann das Gericht von einer Bestrafung nach dieser Vorschrift absehen.
 
 # § 91a – Anwendungsbereich
 
@@ -2960,13 +3003,9 @@ wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft, wenn 
 
 2. gegenüber dem Geheimdienst einer fremden Macht oder einem seiner Mittelsmänner sich zu einer solchen Tätigkeit bereit erklärt,
 
-wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft, wenn die Tat nicht in § 94 oder § 96 Abs. 1, in § 97a oder in § 97b in Verbindung mit § 94 oder § 96 Abs. 1 mit Strafe bedroht ist.
+wird mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren bestraft, wenn die Tat nicht in § 94 oder in § 96 Absatz 1, in § 97a oder in § 97b in Verbindung mit § 94 oder § 96 Absatz 1 mit Strafe bedroht ist.
 
-(2) In besonders schweren Fällen ist die Strafe Freiheitsstrafe von einem Jahr bis zu zehn Jahren. Ein besonders schwerer Fall liegt in der Regel vor, wenn der Täter Tatsachen, Gegenstände oder Erkenntnisse, die von einer amtlichen Stelle oder auf deren Veranlassung geheimgehalten werden, mitteilt oder liefert und wenn er
-
-1. eine verantwortliche Stellung mißbraucht, die ihn zur Wahrung solcher Geheimnisse besonders verpflichtet, oder
-
-2. durch die Tat die Gefahr eines schweren Nachteils für die Bundesrepublik Deutschland herbeiführt.
+(2) In minder schweren Fällen ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.
 
 (3) § 98 Abs. 2 gilt entsprechend.
 
@@ -3486,23 +3525,25 @@ zu begehen, oder wer sich an einer solchen Vereinigung als Mitglied beteiligt, w
 
 (2) Ebenso wird bestraft, wer eine Vereinigung gründet, deren Zwecke oder deren Tätigkeit darauf gerichtet sind,
 
-1. einem anderen Menschen schwere körperliche oder seelische Schäden, insbesondere der in § 226 bezeichneten Art, zuzufügen,
+1. gefährliche Körperverletzungen (§ 224) oder Körperverletzungen (§ 223), die einem anderen Menschen schwere körperliche oder seelische Schäden, insbesondere der in § 226 bezeichneten Art, zufügen,
 
 2. Straftaten nach den §§ 303b, 305, 305a oder gemeingefährliche Straftaten in den Fällen der §§ 306 bis 306c oder 307 Abs. 1 bis 3, des § 308 Absatz 1 bis 5, des § 309 Abs. 1 bis 5, der §§ 313, 314 oder 315 Abs. 1, 3 oder 4, des § 316b Abs. 1 oder 3 oder des § 316c Abs. 1 bis 3 oder des § 317 Abs. 1,
 
 3. Straftaten gegen die Umwelt in den Fällen des § 330a Abs. 1 bis 3,
 
-4. Straftaten nach § 19 Abs. 1 bis 3, § 20 Abs. 1 oder 2, § 20a Abs. 1 bis 3, § 19 Abs. 2 Nr. 2 oder Abs. 3 Nr. 2, § 20 Abs. 1 oder 2 oder § 20a Abs. 1 bis 3, jeweils auch in Verbindung mit § 21, oder nach § 22a Abs. 1 bis 3 des Gesetzes über die Kontrolle von Kriegswaffen oder
+4. Straftaten nach § 19 Absatz 1 bis 3, § 20 Absatz 1 oder 2, § 20a Absatz 1 bis 3, jeweils auch in Verbindung mit § 21, oder nach § 22a Absatz 1 bis 3 des Gesetzes über die Kontrolle von Kriegswaffen,
 
-5. Straftaten nach § 51 Abs. 1 bis 3 des Waffengesetzes
+5. Straftaten nach § 51 Absatz 1 bis 3 oder § 52 Absatz 1, 3, 5 oder 6 des Waffengesetzes oder
 
-zu begehen, oder wer sich an einer solchen Vereinigung als Mitglied beteiligt, wenn eine der in den Nummern 1 bis 5 bezeichneten Taten bestimmt ist, die Bevölkerung auf erhebliche Weise einzuschüchtern, eine Behörde oder eine internationale Organisation rechtswidrig mit Gewalt oder durch Drohung mit Gewalt zu nötigen oder die politischen, verfassungsrechtlichen, wirtschaftlichen oder sozialen Grundstrukturen eines Staates oder einer internationalen Organisation zu beseitigen oder erheblich zu beeinträchtigen, und durch die Art ihrer Begehung oder ihre Auswirkungen einen Staat oder eine internationale Organisation erheblich schädigen kann.
+6. Straftaten nach § 310 Absatz 1 oder 2 oder § 328 Absatz 1 oder 2
+
+zu begehen, oder wer sich an einer solchen Vereinigung als Mitglied beteiligt, wenn eine der in den Nummern 1 bis 6 bezeichneten Taten bestimmt ist, die Bevölkerung auf erhebliche Weise einzuschüchtern, eine Behörde oder eine internationale Organisation rechtswidrig mit Gewalt oder durch Drohung mit Gewalt zu nötigen oder die politischen, verfassungsrechtlichen, wirtschaftlichen oder sozialen Grundstrukturen eines Staates oder einer internationalen Organisation zu beseitigen oder erheblich zu beeinträchtigen, und durch die Art ihrer Begehung oder ihre Auswirkungen einen Staat oder eine internationale Organisation erheblich schädigen kann.
 
 (3) Sind die Zwecke oder die Tätigkeit der Vereinigung darauf gerichtet, eine der in Absatz 1 und 2 bezeichneten Straftaten anzudrohen, ist auf Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu erkennen.
 
 (4) Gehört der Täter zu den Rädelsführern oder Hintermännern, so ist in den Fällen der Absätze 1 und 2 auf Freiheitsstrafe nicht unter drei Jahren, in den Fällen des Absatzes 3 auf Freiheitsstrafe von einem Jahr bis zu zehn Jahren zu erkennen.
 
-(5) Wer eine in Absatz 1, 2 oder Absatz 3 bezeichnete Vereinigung unterstützt, wird in den Fällen der Absätze 1 und 2 mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren, in den Fällen des Absatzes 3 mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft. Wer für eine in Absatz 1 oder Absatz 2 bezeichnete Vereinigung um Mitglieder oder Unterstützer wirbt, wird mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren bestraft.
+(5) Wer eine in Absatz 1, 2 oder Absatz 3 bezeichnete Vereinigung unterstützt, wird in den Fällen der Absätze 1 und 2 mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren, in den Fällen des Absatzes 3 mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft. In den Fällen des Satzes 1 ist der Versuch strafbar. Wer für eine in Absatz 1 oder Absatz 2 bezeichnete Vereinigung um Mitglieder oder Unterstützer wirbt, wird mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren bestraft.
 
 (6) Das Gericht kann bei Beteiligten, deren Schuld gering und deren Mitwirkung von untergeordneter Bedeutung ist, in den Fällen der Absätze 1, 2, 3 und 5 die Strafe nach seinem Ermessen (§ 49 Abs. 2) mildern.
 
@@ -3662,7 +3703,7 @@ zu einer Zeit, zu der die Ausführung oder der Erfolg noch abgewendet werden kan
 
 (2) Ebenso wird bestraft, wer
 
-1. von der Ausführung einer Straftat nach § 89a oder
+1. von der Ausführung einer Straftat nach § 89a Absatz 1 in Verbindung mit Absatz 2 oder Absatz 2a oder
 
 2. von dem Vorhaben oder der Ausführung einer Straftat nach § 129a, auch in Verbindung mit § 129b Abs. 1 Satz 1 und 2,
 
@@ -6592,7 +6633,7 @@ die Sache, das Gewässer, die Luft, den Boden, die Tiere oder Pflanzen einer ion
 
 4. einer Straftat nach § 309 Abs. 6
 
-Kernbrennstoffe, sonstige radioaktive Stoffe, Sprengstoffe oder die zur Ausführung der Tat erforderlichen besonderen Vorrichtungen herstellt, sich oder einem anderen verschafft, verwahrt oder einem anderen überläßt, wird in den Fällen der Nummer 1 mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren, in den Fällen der Nummer 2 und der Nummer 3 mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren, in den Fällen der Nummer 4 mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
+Kernbrennstoffe, sonstige radioaktive Stoffe, Sprengstoffe oder die zur Ausführung der Tat erforderlichen besonderen Vorrichtungen herstellt, sich oder einem anderen verschafft, befördert, verwahrt oder einem anderen überläßt, wird in den Fällen der Nummer 1 mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren, in den Fällen der Nummer 2 und der Nummer 3 mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren, in den Fällen der Nummer 4 mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
 (2) In minder schweren Fällen des Absatzes 1 Nr. 1 ist die Strafe Freiheitsstrafe von sechs Monaten bis zu fünf Jahren.
 

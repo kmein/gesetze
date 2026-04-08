@@ -1579,7 +1579,7 @@ In den Fällen des Satzes 3 finden § 9 Absatz 3 Satz 1 und § 9 Absatz 4 entspr
 
 (3a) Die Erteilung der Aufenthaltserlaubnis zum Zweck des Familiennachzugs ist zu versagen, wenn derjenige, zu dem der Familiennachzug stattfinden soll,
 
-1. die freiheitliche demokratische Grundordnung oder die Sicherheit der Bundesrepublik Deutschland gefährdet; hiervon ist auszugehen, wenn Tatsachen die Schlussfolgerung rechtfertigen, dass er einer Vereinigung angehört oder angehört hat, die den Terrorismus unterstützt oder er eine derartige Vereinigung unterstützt oder unterstützt hat oder er eine in § 89a Absatz 1 des Strafgesetzbuches bezeichnete schwere staatsgefährdende Gewalttat nach § 89a Absatz 2 des Strafgesetzbuches vorbereitet oder vorbereitet hat,
+1. die freiheitliche demokratische Grundordnung oder die Sicherheit der Bundesrepublik Deutschland gefährdet; hiervon ist auszugehen, wenn Tatsachen die Schlussfolgerung rechtfertigen, dass er einer Vereinigung angehört oder angehört hat, die den Terrorismus unterstützt oder er eine derartige Vereinigung unterstützt oder unterstützt hat oder er eine in § 89a Absatz 1 des Strafgesetzbuches bezeichnete terroristische Straftat nach § 89a Absatz 2 des Strafgesetzbuches vorbereitet oder vorbereitet hat,
 
 2. zu den Leitern eines Vereins gehörte, der unanfechtbar verboten wurde, weil seine Zwecke oder seine Tätigkeit den Strafgesetzen zuwiderlaufen oder er sich gegen die verfassungsmäßige Ordnung oder den Gedanken der Völkerverständigung richtet,
 
@@ -1594,8 +1594,6 @@ b) Teile der Bevölkerung böswillig verächtlich macht und dadurch die Menschen
 c) Verbrechen gegen den Frieden, gegen die Menschlichkeit, ein Kriegsverbrechen oder terroristische Taten von vergleichbarem Gewicht billigt oder dafür wirbt.
 
 (4) Eine Aufenthaltserlaubnis zum Zweck des Familiennachzugs darf längstens für den Gültigkeitszeitraum der Aufenthaltserlaubnis des Ausländers erteilt werden, zu dem der Familiennachzug stattfindet. Sie ist für diesen Zeitraum zu erteilen, wenn der Ausländer, zu dem der Familiennachzug stattfindet, eine Aufenthaltserlaubnis nach den §§ 18d, 18f oder § 38a besitzt, eine Blaue Karte EU, eine ICT-Karte oder eine Mobiler-ICT-Karte besitzt oder sich gemäß § 18e berechtigt im Bundesgebiet aufhält. Im Übrigen ist die Aufenthaltserlaubnis erstmals für mindestens ein Jahr zu erteilen.
-
-(5) (weggefallen)
 
 # § 28 – Familiennachzug zu Deutschen
 
@@ -2431,7 +2429,7 @@ f) gegen die öffentliche Sicherheit nach § 125 oder § 125a des Strafgesetzbuc
 
 sofern die Straftat unter Verwendung einer Waffe oder eines anderen gefährlichen Werkzeugs begangen worden ist,
 
-2. die freiheitliche demokratische Grundordnung oder die Sicherheit der Bundesrepublik Deutschland gefährdet; hiervon ist auszugehen, wenn Tatsachen die Schlussfolgerung rechtfertigen, dass er einer Vereinigung angehört oder angehört hat, die den Terrorismus unterstützt oder er eine derartige Vereinigung unterstützt oder unterstützt hat oder er eine in § 89a Absatz 1 des Strafgesetzbuchs bezeichnete schwere staatsgefährdende Gewalttat nach § 89a Absatz 2 des Strafgesetzbuchs vorbereitet oder vorbereitet hat, es sei denn, der Ausländer nimmt erkennbar und glaubhaft von seinem sicherheitsgefährdenden Handeln Abstand,
+2. die freiheitliche demokratische Grundordnung oder die Sicherheit der Bundesrepublik Deutschland gefährdet; hiervon ist auszugehen, wenn Tatsachen die Schlussfolgerung rechtfertigen, dass er einer Vereinigung angehört oder angehört hat, die den Terrorismus unterstützt oder er eine derartige Vereinigung unterstützt oder unterstützt hat oder er eine in § 89a Absatz 1 des Strafgesetzbuchs bezeichnete terroristische Straftat nach § 89a Absatz 2 des Strafgesetzbuchs vorbereitet oder vorbereitet hat, es sei denn, der Ausländer nimmt erkennbar und glaubhaft von seinem sicherheitsgefährdenden Handeln Abstand,
 
 2a. die Sicherheit der Bundesrepublik Deutschland gefährdet; hiervon ist auszugehen, wenn Tatsachen die Schlussfolgerung rechtfertigen, dass er einer Vereinigung im Sinne des § 129 des Strafgesetzbuches angehört oder angehört hat,
 

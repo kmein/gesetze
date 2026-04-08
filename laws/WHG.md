@@ -341,7 +341,7 @@ Die zuständige Behörde kann die jeweilige Frist nach Satz 1 Nummer 3 Buchstabe
 
 # § 11b – Projektmanager
 
-(1) Bei Vorhaben nach § 11a kann die zuständige Behörde auf Antrag oder mit Zustimmung des Trägers des Vorhabens und auf dessen Kosten in jeder Stufe des Verfahrens einen Dritten als Projektmanager, der als Verwaltungshelfer beschäftigt werden kann, mit der Vorbereitung und Durchführung von Verfahrensschritten beauftragen. Dies kann insbesondere folgende Verfahrensschritte umfassen:
+(1) Bei Vorhaben nach den §§ 11a und 11c kann die zuständige Behörde auf Antrag oder mit Zustimmung des Trägers des Vorhabens und auf dessen Kosten in jeder Stufe des Verfahrens einen Dritten als Projektmanager, der als Verwaltungshelfer beschäftigt werden kann, mit der Vorbereitung und Durchführung von Verfahrensschritten beauftragen. Dies kann insbesondere folgende Verfahrensschritte umfassen:
 
 1. die Erstellung von Verfahrensleitplänen unter Bestimmung von Verfahrensabschnitten und Zwischenterminen,
 
@@ -362,6 +362,16 @@ Die zuständige Behörde kann die jeweilige Frist nach Satz 1 Nummer 3 Buchstabe
 (2) Die Entscheidung über die Zulassung des Vorhabens trifft allein die zuständige Behörde.
 
 (3) Stimmt der Vorhabenträger zu, kann die zuständige Behörde bei der Beauftragung des Projektmanagers mit diesem vereinbaren, dass die Zahlungspflicht unmittelbar zwischen Vorhabenträger und Projektmanager entsteht und eine Abrechnung zwischen diesen erfolgt. Der Projektmanager ist verpflichtet, die Abrechnungsunterlagen ebenfalls der zuständigen Behörde zu übermitteln. Die zuständige Behörde prüft, ob die vom Projektmanager abgerechneten Leistungen dem jeweiligen Auftrag entsprechen, und teilt dem Vorhabenträger das Ergebnis dieser Prüfung unverzüglich mit.
+
+# § 11c – Verfahren bei Wasserstoffinfrastrukturvorhaben
+
+(1) Für die Erteilung einer Erlaubnis oder Bewilligung im Zusammenhang mit der Errichtung, dem Betrieb und der Modernisierung einer Anlage oder Leitung nach § 2 Absatz 1 des Wasserstoffbeschleunigungsgesetzes vom 29. März 2026 (BGBl. 2026 I Nr. 84, S. 2), in der jeweils geltenden Fassung, gilt ergänzend § 11a Absatz 1 Satz 2, Absatz 2 bis 7 Satz 1 bis 6 entsprechend mit der Maßgabe, dass die Frist zur Entscheidung über die Erteilung der Erlaubnis oder Bewilligung
+
+1. bei einer Anlage oder Leitung nach § 2 Absatz 1 Nummer 1, 4 bis 7, 9 und 12 bis 14 des Wasserstoffbeschleunigungsgesetzes sieben Monate beträgt mit einer einmaligen Verlängerungsmöglichkeit von drei Monaten und
+
+2. bei einer Anlage oder Leitung nach § 2 Absatz 1 Nummer 2, 3, 8, 10, 11, 15 bis 18 des Wasserstoffbeschleunigungsgesetzes ein Jahr beträgt mit einer einmaligen Verlängerungsmöglichkeit von sechs Monaten.
+
+(2) In einem Planfeststellungsverfahren für Wasserstoffleitungen nach § 2 Absatz 1 Nummer 11 des Wasserstoffbeschleunigungsgesetzes hat die zuständige Wasserbehörde die Entscheidung über die Erteilung des Einvernehmens nach § 19 Absatz 3 spätestens einen Monat vor Ablauf der Frist nach Absatz 1 Nummer 2 der Planfeststellungsbehörde zu übermitteln. Übermittelt die Wasserbehörde innerhalb der Frist nach Satz 1 keine Entscheidung über die Erteilung des Einvernehmens, ist die Entscheidung der Planfeststellungsbehörde im Benehmen mit der zuständigen Wasserbehörde zu treffen.
 
 # § 12 – Voraussetzungen für die Erteilung der Erlaubnis und der Bewilligung, Bewirtschaftungsermessen
 
@@ -1628,11 +1638,13 @@ Auf das Verhältnis zwischen dem Gewässerbenutzer und den Gewässerschutzbeauft
 
 2. Wärmepumpen, die das Wasser eines oberirdischen Gewässers als Wärmequelle nutzen;
 
-die §§ 71a bis 71e des Verwaltungsverfahrensgesetzes sind anzuwenden.
+die §§ 71a bis 71e des Verwaltungsverfahrensgesetzes sind anzuwenden. Für die Planfeststellung und die Plangenehmigung für einen Gewässerausbau im Zusammenhang mit der Errichtung, dem Betrieb und der Modernisierung von Anlagen oder Leitungen nach § 2 Absatz 1 des Wasserstoffbeschleunigungsgesetzes gilt § 11a Absatz 1 Satz 2, Absatz 4 bis 7 Satz 1 bis 6 entsprechend mit der Maßgabe, dass die Frist zur Erteilung der Planfeststellung oder der Plangenehmigung ein Jahr mit einer einmaligen Verlängerungsmöglichkeit von sechs Monaten beträgt.
 
 (2) Das Planfeststellungsverfahren für einen Gewässerausbau, für den nach dem Gesetz über die Umweltverträglichkeitsprüfung eine Verpflichtung zur Durchführung einer Umweltverträglichkeitsprüfung besteht, muss den Anforderungen des Gesetzes über die Umweltverträglichkeitsprüfung entsprechen.
 
 (3) Erstreckt sich ein beabsichtigter Ausbau auf ein Gewässer, das der Verwaltung mehrerer Länder untersteht, und ist ein Einvernehmen über den Ausbauplan nicht zu erreichen, so soll die Bundesregierung auf Antrag eines beteiligten Landes zwischen den Ländern vermitteln.
+
+(4) Für die Erteilung von Planfeststellungen und Plangenehmigungen nach Absatz 1 Satz 3 sind abweichend von § 73 Absatz 6 Satz 1 und § 74 Absatz 4 bis 6 Satz 2 dritter Teilsatz des Verwaltungsverfahrensgesetzes in Verbindung mit § 27 Absatz 1 Satz 1 des Gesetzes über die Umweltverträglichkeitsprüfung die Sätze 2 bis 5 anzuwenden. Nach Ablauf der Einwendungsfrist kann die Genehmigungsbehörde die rechtzeitig gegen das Vorhaben erhobenen Einwendungen mit dem Antragsteller und denjenigen, die Einwendungen erhoben haben, erörtern. Der Planfeststellungsbeschluss oder die Plangenehmigung wird dem Träger des Vorhabens zugestellt. Im Übrigen wird der Planfeststellungsbeschluss oder die Plangenehmigung öffentlich bekannt gegeben. Die öffentliche Bekanntgabe wird dadurch bewirkt, dass die Entscheidung auf der Internetseite der zuständigen Behörde und durch eine Veröffentlichung in einer Tageszeitung oder auf andere Weise öffentlich bekannt gemacht wird.
 
 § 70 Abs. 1 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch <a href="../abweichendes_Landesrecht/wasg_by__69.html" target="_blank" title="Anzeige in neuem Fenster">Art. 69 Satz 1 u. 2 des Bayerischen Wassergesetzes (BayWG)</a> v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch <a href="../abweichendes_Landesrecht/wasg_by__79.html" target="_blank" title="Anzeige in neuem Fenster">Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG)</a> v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 156)  
 § 70 Abs. 1 idF d. G v. 31.7.2009 I 2585: Niedersachsen - Abweichung durch <a href="../abweichendes_Landesrecht/nwg_nd__109.html" target="_blank" title="Anzeige in neuem Fenster">§ 109 Abs. 1, 2 u. 3 des Niedersächsischen Wassergesetzes (NWG)</a> v. 19.2.2010 Nds. GVBl. S. 64 mWv 1.3.2010 (vgl. BGBl. I 2010, 970)  

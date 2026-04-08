@@ -75,7 +75,7 @@ a) Farben und Lacke zur Beschichtung von Gebäuden, ihren Bauteilen und dekorati
 
 b) Produkte für die Fahrzeugreparaturlackierung
 
-mit einem Gehalt an flüchtigen organischen Verbindungen des gebrauchsfertigen Produkts oberhalb der in Anhang II festgelegten Grenzwerte dürfen ab den in Anhang II genannten Zeitpunkten nicht in den Verkehr gebracht werden. Satz 1 gilt nicht für den Export in Staaten außerhalb der Europäischen Union.
+mit einem Gehalt an flüchtigen organischen Verbindungen des gebrauchsfertigen Produkts oberhalb der in Anhang II festgelegten Grenzwerte dürfen ab den in Anhang II genannten Zeitpunkten nicht in den Verkehr gebracht werden. Satz 1 gilt nicht für den Export in Staaten außerhalb der Europäischen Union oder für den Transitverkehr unter zollamtlicher Überwachung, bei dem keine Be- oder Verarbeitung erfolgt.
 
 (2) Zur Überprüfung der Einhaltung der in Anhang II festgelegten Grenzwerte für den Gehalt an flüchtigen organischen Verbindungen sind die in Anhang III genannten Analysemethoden zu verwenden.
 
@@ -93,7 +93,7 @@ Der Hersteller oder Einführer hat die in Anhang I aufgeführten gebrauchsfertig
 
 a) die Produktkategorie des gebrauchsfertigen Produktes und die entsprechenden Grenzwerte für flüchtige organische Verbindungen in g/l gemäß Anhang II;
 
-b) der maximale Gehalt an flüchtigen organischen Verbindungen des gebrauchsfertigen Produktes in g/l.
+b) der maximale Gehalt an flüchtigen organischen Verbindungen des gebrauchsfertigen Produktes in g/l. Satz 1 gilt nicht, soweit ein Einführer lediglich einen Transitverkehr unter zollamtlicher Überwachung durchführt, bei dem keine Be- oder Verarbeitung erfolgt.
 
 # § 5 – Überprüfung der Einhaltung der Verordnung
 

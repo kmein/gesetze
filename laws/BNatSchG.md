@@ -1417,15 +1417,7 @@ Eine Ausnahme darf nur zugelassen werden, wenn zumutbare Alternativen nicht gege
 
 (+++ § 45 Abs. 5: Zur Anwendung vgl. § 45a Abs. 1 Satz 3 +++)
 
-# § 45a – Umgang mit dem Wolf
-
-(1) Das Füttern und Anlocken mit Futter von wildlebenden Exemplaren der Art Wolf (Canis lupus) ist verboten. Ausgenommen sind Maßnahmen der für Naturschutz und Landschaftspflege zuständigen Behörde. § 45 Absatz 5 findet keine Anwendung.
-
-(2) § 45 Absatz 7 Satz 1 Nummer 1 gilt mit der Maßgabe, dass, wenn Schäden bei Nutztierrissen keinem bestimmten Wolf eines Rudels zugeordnet worden sind, der Abschuss von einzelnen Mitgliedern des Wolfsrudels in engem räumlichem und zeitlichem Zusammenhang mit bereits eingetretenen Rissereignissen auch ohne Zuordnung der Schäden zu einem bestimmten Einzeltier bis zum Ausbleiben von Schäden fortgeführt werden darf. Ernste wirtschaftliche Schäden im Sinne von § 45 Absatz 7 Satz 1 Nummer 1 können auch drohen, wenn ein Wolf nicht landwirtschaftlich gehaltene Weidetiere reißt, soweit diese durch zumutbare Herdenschutzmaßnahmen geschützt waren. Die in Satz 1 geregelte Möglichkeit des Abschusses weiterer Wölfe gilt auch für Entnahmen im Interesse der Gesundheit des Menschen nach § 45 Absatz 7 Satz 1 Nummer 4. Die Anforderungen des § 45 Absatz 7 Satz 2 und 3 sind zu beachten.
-
-(3) Vorkommen von Hybriden zwischen Wolf und Hund (Wolfshybriden) in der freien Natur sind durch die für Naturschutz und Landschaftspflege zuständige Behörde zu entnehmen; die Verbote des § 44 Absatz 1 Nummer 1 gelten insoweit nicht.
-
-(4) Bei der Bestimmung von geeigneten Personen, die eine Entnahme von Wölfen nach Erteilung einer Ausnahme gemäß § 45 Absatz 7, auch in Verbindung mit Absatz 2, sowie nach Absatz 3 durchführen, berücksichtigt die für Naturschutz und Landschaftspflege zuständige Behörde nach Möglichkeit die Jagdausübungsberechtigten, soweit diese ihr Einverständnis hierzu erteilen. Erfolgt die Entnahme nicht durch die Jagdausübungsberechtigten, sind die Maßnahmen zur Durchführung der Entnahme durch die Jagdausübungsberechtigten zu dulden. Die Jagdausübungsberechtigten sind in geeigneter Weise vor Beginn über Maßnahmen zur Entnahme zu benachrichtigen; ihnen ist nach Möglichkeit Gelegenheit zur Unterstützung bei der Durchführung der Entnahme zu geben. Bei Gefahr im Verzug bedarf es der vorherigen Benachrichtigung nach Satz 3 nicht.
+# § 45a – (weggefallen)
 
 # § 45b – Betrieb von Windenergieanlagen an Land
 
@@ -2106,9 +2098,7 @@ a) ein Tier oder eine Pflanze einer anderen als in § 71a Absatz 1 Nummer 2 gena
 
 b) eine Ware im Sinne des Anhangs der Richtlinie 83/129/EWG
 
-in Besitz oder Gewahrsam nimmt, in Besitz oder Gewahrsam hat oder be- oder verarbeitet und erkennt oder fahrlässig nicht erkennt, dass sich die Handlung auf ein Tier oder eine Pflanze einer in Buchstabe a genannten Art oder auf eine in Buchstabe b genannte Ware bezieht,
-
-5a. entgegen § 45a Absatz 1 Satz 1 ein wildlebendes Exemplar der Art Wolf (Canis lupus) füttert oder mit Futter anlockt oder
+in Besitz oder Gewahrsam nimmt, in Besitz oder Gewahrsam hat oder be- oder verarbeitet und erkennt oder fahrlässig nicht erkennt, dass sich die Handlung auf ein Tier oder eine Pflanze einer in Buchstabe a genannten Art oder auf eine in Buchstabe b genannte Ware bezieht, oder
 
 6. einer Rechtsverordnung nach § 54 Absatz 4 Satz 1, Absatz 4a oder Absatz 4d Satz 1 Nummer 2 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 

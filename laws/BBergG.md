@@ -348,7 +348,7 @@ Actinium und die Actiniden, Aluminium, Antimon, Arsen, Beryllium, Blei, Bor, Cae
 Lithium; Kohlenwasserstoffe nebst den bei ihrer Gewinnung anfallenden Gasen;  
 Stein- und Braunkohle nebst den im Zusammenhang mit ihrer Gewinnung auftretenden Gasen; Graphit;  
 Stein-, Kali-, Magnesia- und Borsalze nebst den mit diesen Salzen in der gleichen Lagerstätte auftretenden Salzen; Sole;  
-Flußspat und Schwerspat. Als bergfreie Bodenschätze gelten:
+Flußspat und Schwerspat; Helium und Wasserstoff. Als bergfreie Bodenschätze gelten:
 
 1. alle Bodenschätze im Bereich des Festlandsockels und,
 

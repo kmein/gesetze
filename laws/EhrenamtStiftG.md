@@ -81,41 +81,41 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 
 9. die Annahme und Verwendung von Zuwendungen Dritter.
 
-(2) Der Stiftungsrat besteht aus 19 Mitgliedern.
+(2) Der Stiftungsrat besteht aus 22 Mitgliedern.
 
 (3) Mitglieder sind
 
-1. die Bundesministerin oder der Bundesminister für Familie, Senioren, Frauen und Jugend,
+1. die Staatsministerin oder der Staatsminister für Sport und Ehrenamt im Bundeskanzleramt,
 
-2. die Bundesministerin oder der Bundesminister des Innern, für Bau und Heimat,
+2. die Bundesministerin oder der Bundesminister für Landwirtschaft, Ernährung und Heimat,
 
-3. die Bundesministerin oder der Bundesminister für Ernährung und Landwirtschaft,
+3. die Bundesministerin oder der Bundesminister des Innern,
 
-4. vier Mitglieder des Deutschen Bundestages, jeweils ein Mitglied des Haushaltsausschusses, des Ausschusses für Familie, Senioren, Frauen und Jugend, des Ausschusses für Inneres und Heimat und des Ausschusses für Ernährung und Landwirtschaft, die von ihren Ausschüssen benannt werden,
+4. die Bundesministerin oder der Bundesminister für Bildung, Familie, Senioren, Frauen und Jugend,
 
-5. zwei Vertreterinnen oder Vertreter der Länder, die von der Ministerpräsidentenkonferenz aus ihrer Mitte bestimmt werden,
+5. fünf Mitglieder des Deutschen Bundestages: jeweils ein Mitglied des Haushaltsausschusses, des Ausschusses für Sport und Ehrenamt, des Ausschusses für Landwirtschaft, Ernährung und Heimat, des Innenausschusses und des Ausschusses für Bildung, Familie, Senioren, Frauen und Jugend, die von ihren Ausschüssen benannt werden,
 
-6. eine Vertreterin oder ein Vertreter der Kommunen, die oder der auf Vorschlag der Bundesvereinigung der kommunalen Spitzenverbände bestellt wird,
+6. zwei Vertreterinnen oder Vertreter der Länder, die von der Ministerpräsidentenkonferenz aus ihrer Mitte bestimmt werden,
 
-7. neun Vertreterinnen und Vertreter aus dem Bereich des bürgerschaftlichen Engagements und des Ehrenamts, von denen jeweils drei vom Bundesministerium für Familie, Senioren, Frauen und Jugend, vom Bundesministerium des Innern, für Bau und Heimat und vom Bundesministerium für Ernährung und Landwirtschaft benannt werden.
+7. eine Vertreterin oder ein Vertreter der Kommunen, die oder der auf Vorschlag der Bundesvereinigung der kommunalen Spitzenverbände bestellt wird,
 
-(4) Die Mitglieder nach Absatz 3 Nummer 1 bis 3 können sich jeweils durch ihre Staatssekretärin oder ihren Staatssekretär oder seine Staatssekretärin oder seinen Staatssekretär vertreten lassen. Hat ein Mitglied mehrere Staatssekretärinnen oder Staatssekretäre, so ist jede oder jeder einzelne vertretungsbefugt. Die Mitglieder des Stiftungsrats nach Absatz 3 Nummer 5 können jeweils eine Vertreterin oder einen Vertreter benennen.
+8. zehn Vertreterinnen oder Vertreter aus dem Bereich des bürgerschaftlichen Engagements und des Ehrenamts, von denen drei von der Staatsministerin oder dem Staatsminister für Sport und Ehrenamt, drei vom Bundesministerium für Landwirtschaft, Ernährung und Heimat, zwei vom Bundesministerium des Innern und zwei vom Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend benannt werden.
 
-(5) Die Bestellung der Mitglieder nach Absatz 3 Nummer 4 bis 7 und der Stellvertreterin oder des Stellvertreters der Mitglieder nach Absatz 3 Nummer 5 erfolgt mit legitimierender Wirkung durch die Mitglieder nach Absatz 3 Nummer 1 bis 3. Wiederbestellungen sind zulässig.
+(4) Die Mitglieder nach Absatz 3 Nummer 2 bis 4 können sich jeweils durch ihre Staatssekretärin oder ihren Staatssekretär vertreten lassen. Hat ein Mitglied mehrere Staatssekretärinnen oder Staatssekretäre, so ist jede oder jeder einzelne vertretungsbefugt. Dies gilt auch für Parlamentarische Staatssekretärinnen und Parlamentarische Staatssekretäre. Die Mitglieder des Stiftungsrats nach Absatz 3 Nummer 6 können jeweils eine Stellvertreterin oder einen Stellvertreter benennen.
 
-(6) Die Mitglieder nach Absatz 3 Nummer 4 werden für die Dauer der jeweiligen Legislaturperiode bestellt. Mit Ausscheiden aus dem Bundestag endet gleichzeitig die Mitgliedschaft. Die Mitglieder nach Absatz 3 Nummer 5 bis 7 und die Stellvertreterinnen oder Stellvertreter der Mitglieder nach Absatz 3 Nummer 5 werden für die Amtszeit von vier Jahren bestellt. Scheidet ein Mitglied oder dessen Stellvertreterin oder Stellvertreter vorzeitig aus, wird für den Rest der Amtszeit eine Nachfolgerin oder ein Nachfolger benannt und bestellt.
+(5) Die Bestellung der Mitglieder nach Absatz 3 Nummer 5 bis 8 und der Stellvertreterinnen und Stellvertreter der Mitglieder nach Absatz 3 Nummer 6 erfolgt mit legitimierender Wirkung durch die Vorsitzende oder den Vorsitzenden des Stiftungsrats. Wiederbestellungen sind zulässig.
 
-(7) Die Mitglieder des Stiftungsrats nach Absatz 3 Nummer 1 bis 3 führen in dieser Reihenfolge den Vorsitz im jährlichen Wechsel.
+(6) Die Mitglieder nach Absatz 3 Nummer 5 werden für die Dauer der jeweiligen Legislaturperiode bestellt. Mit Ausscheiden aus dem Bundestag endet gleichzeitig die Mitgliedschaft im Stiftungsrat. Die Mitglieder nach Absatz 3 Nummer 6 bis 8 und die Stellvertreterinnen und Stellvertreter der Mitglieder nach Absatz 3 Nummer 6 werden für die Amtszeit von vier Jahren bestellt. Scheidet ein Mitglied oder dessen Stellvertreterin oder Stellvertreter vorzeitig aus, wird für den Rest der Amtszeit eine Nachfolgerin oder ein Nachfolger benannt und bestellt.
 
-(8) Der Stiftungsrat beschließt über alle grundsätzlichen Fragen, die zum Aufgabenbereich der Stiftung gehören. Er ist beschlussfähig, wenn die Hälfte der Mitglieder anwesend ist. Beschlüsse werden mit einfacher Mehrheit gefasst. Die Mitglieder des Stiftungsrats nach Absatz 3 Nummer 1 bis 3 haben bei Satzungsänderungen, bei Haushalts- sowie bei Personalangelegenheiten ein Vetorecht.
+(7) Den Vorsitz führt die Staatsministerin oder der Staatsminister für Sport und Ehrenamt. Die oder der Vorsitzende kann sich durch die Bundesministerin oder den Bundesminister für Landwirtschaft, Ernährung und Heimat oder durch deren oder dessen Stellvertreterin oder Stellvertreter nach Absatz 4 vertreten lassen.
 
-(9) Bis zur Konstituierung des ersten Stiftungsrats werden dessen Aufgaben durch die Mitglieder nach Absatz 3 Nummer 1 bis 3 wahrgenommen.
+(8) Der Stiftungsrat beschließt über alle grundsätzlichen Fragen, die zum Aufgabenbereich der Stiftung gehören. Er ist beschlussfähig, wenn die Hälfte der Mitglieder anwesend ist. Beschlüsse werden mit einfacher Mehrheit gefasst, bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag. Die Mitglieder des Stiftungsrats nach Absatz 3 Nummer 1 und 2 haben bei Satzungsänderungen, bei Haushalts- sowie bei Personalangelegenheiten ein Vetorecht.
 
-(10) Sofern der Stiftungsrat gemäß § 5 Absatz 1 Satz 2 Fachbeiräte beruft, wählen die Mitglieder nach Absatz 3 Nummer 7 aus ihrer Mitte jeweils ein Mitglied in den Vorsitz. Die Mitglieder nach Absatz 3 Nummer 7 können in mehreren Fachbeiräten gleichzeitig den Vorsitz ausüben.
+(9) Sofern der Stiftungsrat gemäß § 5 Absatz 1 Satz 2 Fachbeiräte beruft, wählen die Mitglieder nach Absatz 3 Nummer 8 aus ihrer Mitte jeweils ein Mitglied in den Vorsitz. Die Mitglieder nach Absatz 3 Nummer 8 können in mehreren Fachbeiräten gleichzeitig den Vorsitz ausüben.
 
-(11) Die Mitglieder des Stiftungsrats sind ehrenamtlich für die Stiftung tätig. Sie haben Anspruch auf Ersatz der ihnen entstandenen notwendigen Auslagen und Aufwendungen entsprechend den für die unmittelbare Bundesverwaltung geltenden Bestimmungen.
+(10) Die Mitglieder des Stiftungsrats sind ehrenamtlich für die Stiftung tätig. Sie haben Anspruch auf Ersatz der ihnen entstandenen notwendigen Auslagen und Aufwendungen entsprechend den für die unmittelbare Bundesverwaltung geltenden Bestimmungen.
 
-(12) Das Nähere regelt die Satzung.
+(11) Das Nähere regelt die Satzung.
 
 # § 7 – Vorstand
 
@@ -123,7 +123,7 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 
 (2) Der Vorstand besteht aus zwei Mitgliedern.
 
-(3) Die Mitglieder des ersten Vorstands werden von den drei in § 6 Absatz 3 Nummer 1 bis 3 genannten Mitgliedern des Stiftungsrats bestellt. Jeder weitere Vorstand wird vom gesamten Stiftungsrat bestellt.
+(3) Die Mitglieder des Vorstands werden vom Stiftungsrat bestellt.
 
 (4) Wiederbestellungen sind möglich.
 
@@ -155,15 +155,11 @@ Auf die Arbeitsverhältnisse der Arbeitnehmerinnen und Arbeitnehmer der Stiftung
 
 # § 11 – Rechtsaufsicht
 
-Die Stiftung untersteht der Rechtsaufsicht des Bundesministeriums für Familie, Senioren, Frauen und Jugend.
+Die Stiftung untersteht der Rechtsaufsicht des Bundeskanzleramts.
 
 # § 12 – Auflösung
 
 Die Auflösung der Stiftung kann nur durch Gesetz erfolgen. Im Fall der Auflösung ist der Bund Anfallberechtigter für das Stiftungsvermögen.
-
-# § 13 – Evaluierung
-
-Die Bundesregierung berichtet dem Deutschen Bundestag innerhalb von fünf Jahren nach Inkrafttreten dieses Gesetzes über die durch das Gesetz erzielten Wirkungen in Bezug auf die Stärkung des bürgerlichen Engagements und des Ehrenamts durch die Errichtung einer zentralen Anlaufstelle auf Bundesebene und unterbreitet ihm Vorschläge für die Weiterentwicklung der Stiftung. Der Bericht soll auf Grundlage der begleitenden Forschungsergebnisse im Bereich des bürgerschaftlichen Engagements und des Ehrenamts die nachhaltige Entwicklung von bundesweit koordinierten Ansätzen, Initiativen und Projekten sowie die Entwicklung relevanter zielgruppen- und bereichsspezifischer digitaler Lösungen durch die Arbeit der Stiftung aufzeigen.
 
 # § 14 – Inkrafttreten
 

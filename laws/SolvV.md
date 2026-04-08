@@ -135,8 +135,7 @@ Die zuständige Behörde entscheidet über die Erlaubnis zur Verwendung des IRB-
 
 (2) Wesentliche Änderungen und Erweiterungen der auf einem internen Modell beruhenden Methode (IMM) bedürfen einer erneuten Erlaubnis. Absatz 1 gilt entsprechend. Jede anderweitige Änderung oder Erweiterung ist der zuständigen Behörde schriftlich anzuzeigen.
 
-(+++ § 18: Zur Anwendung vgl. § 1 Abs. 1 +++)  
-(+++ § 18 Abs. 2 Satz 1 Kursivdruck: Überflüssiges Wort +++)
+(+++ § 18: Zur Anwendung vgl. § 1 Abs. 1 +++)
 
 # § 19 – Eignungsbeurteilung für interne Einstufungsverfahren
 

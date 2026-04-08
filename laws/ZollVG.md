@@ -243,7 +243,7 @@ Ergeben sich bei der zollamtlichen Überwachung zureichende tatsächliche Anhalt
 
 a) zum Zweck der Geldwäsche nach § 261 des Strafgesetzbuchs,
 
-b) zum Zweck der Terrorismusfinanzierung nach § 89a Absatz 2a, § 89c des Strafgesetzbuchs,
+b) zum Zweck der Terrorismusfinanzierung nach § 89c des Strafgesetzbuchs,
 
 c) zum Zweck der Finanzierung einer terroristischen Vereinigung nach § 129a, auch in Verbindung mit § 129b des Strafgesetzbuchs oder
 

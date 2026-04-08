@@ -2094,6 +2094,7 @@
 - [FamBhVbg FRA](laws/FamBhVbg_FRA.md) Vereinbarung zwischen der Bundesrepublik Deutschland und Frankreich über die Familienbeihilfen für Grenzgänger
 - [FamFG](laws/FamFG.md) Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit
 - [FamGKG](laws/FamGKG.md) Gesetz über Gerichtskosten in Familiensachen
+- [FamkaKiGAbrV](laws/FamkaKiGAbrV.md) Verordnung über den automatisierten Abruf von Daten der Träger der Leistungen nach dem Zweiten und Dritten Buch Sozialgesetzbuch durch die Familienkasse der Bundesagentur für Arbeit zur Prüfung des Anspruchs auf Kindergeld
 - [FamNamÄndGDV 1](laws/FamNamÄndGDV_1.md) Erste Verordnung zur Durchführung des Gesetzes über die Änderung von Familiennamen und Vornamen
 - [FamNamV BR 3](laws/FamNamV_BR_3.md) Dritte Verordnung zum Gesetz über die Änderung von Familiennamen und Vornamen (Löschung und Änderung von jüdischen Zwangsnamen)
 - [FamNamV BY 3](laws/FamNamV_BY_3.md) Dritte Verordnung zum Gesetz über die Änderung von Familiennamen und Vornamen (Löschung und Änderung von jüdischen Zwangsnamen)
@@ -2168,6 +2169,7 @@
 - [FinAusglG2023DV 1](laws/FinAusglG2023DV_1.md) Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2023
 - [FinAusglG2024DV 1](laws/FinAusglG2024DV_1.md) Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2024
 - [FinAusglG2025DV 1](laws/FinAusglG2025DV_1.md) Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2025
+- [FinAusglG2026DV 1](laws/FinAusglG2026DV_1.md) Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2026
 - [FinAusglVtr AUT](laws/FinAusglVtr_AUT.md) Vertrag zwischen der Bundesrepublik Deutschland und der Republik Österreich zur Regelung von Schäden der Vertriebenen, Umsiedler und Verfolgten, über weitere finanzielle Fragen und Fragen aus dem sozialen Bereich
 - [FinBerG DDR](laws/FinBerG_DDR.md) Gesetz zur Bereinigung von in der ehemaligen Deutschen Demokratischen Republik zwischen den öffentlichen Haushalten und volkseigenen Unternehmen, Genossenschaften sowie Gewerbetreibenden begründeten Finanzbeziehungen
 - [FinDAG](laws/FinDAG.md) Gesetz über die Bundesanstalt für Finanzdienstleistungsaufsicht
@@ -3626,6 +3628,7 @@
 - [LuftVZO](laws/LuftVZO.md) Luftverkehrs-Zulassungs-Ordnung
 - [LuKIFG](laws/LuKIFG.md) Gesetz zur Finanzierung von Infrastrukturinvestitionen von Ländern und Kommunen
 - [LuKrFrühErkV](laws/LuKrFrühErkV.md) Verordnung über die Zulässigkeit der Anwendung der Niedrigdosis-Computertomographie zur Früherkennung von Lungenkrebs bei rauchenden Personen 1
+- [LupinenV 2026](laws/LupinenV_2026.md) Verordnung über besondere Anforderungen an Saatgut von Weißer Lupine im Rahmen der Saatgutanerkennung 2026
 - [LVANDZustÄndG](laws/LVANDZustÄndG.md) Gesetz zur Änderung von örtlichen Zuständigkeiten der Landesversicherungsanstalten in Niedersachsen und zur Änderung des Bundesversorgungsgesetzes
 - [LwAltschG](laws/LwAltschG.md) Gesetz zur Änderung der Regelungen über Altschulden landwirtschaftlicher Unternehmen
 - [LwAltschV](laws/LwAltschV.md) Verordnung zur Durchführung des Landwirtschafts-Altschuldengesetzes
@@ -6225,6 +6228,7 @@
 - [WasKwVÄndG](laws/WasKwVÄndG.md) Gesetz zur Änderung der Verordnung über die steuerliche Begünstigung von Wasserkraftwerken
 - [WasMotRV](laws/WasMotRV.md) Verordnung über das Fahren mit Wassermotorrädern auf den Binnenschiffahrtsstraßen
 - [WasserMeistPrV](laws/WasserMeistPrV.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Wassermeister/Geprüfte Wassermeisterin
+- [WasserstoffBG](laws/WasserstoffBG.md) Gesetz zur planungs- und genehmigungsrechtlichen Beschleunigung von Erzeugung, Speicherung, Import und Transport von Wasserstoff*
 - [WasserstoffNEV](laws/WasserstoffNEV.md) Verordnung über die Kosten und Entgelte für den Zugang zu Wasserstoffnetzen
 - [WasSiG](laws/WasSiG.md) Gesetz über die Sicherstellung von Leistungen auf dem Gebiet der Wasserwirtschaft für Zwecke der Verteidigung
 - [WasSiG§13V](laws/WasSiG§13V.md) Verordnung zur Übertragung der Ermächtigung zum Erlaß von Rechtsverordnungen nach § 13 des Wassersicherstellungsgesetzes

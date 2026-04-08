@@ -187,7 +187,7 @@ b) Behörden oder Einrichtungen des Bundes oder sicherheitsempfindliche Stellen 
 
 6. in den Fällen von
 
-a) Straftaten nach den §§ 81, 83 Absatz 1, §§ 87, 88 und 94 bis 100a des Strafgesetzbuchs und nach § 13 des Völkerstrafgesetzbuchs sowie
+a) Straftaten nach den §§ 81, 83 Absatz 1, den §§ 87, 87a, 88 und 94 bis 100a des Strafgesetzbuchs und nach § 13 des Völkerstrafgesetzbuchs sowie
 
 b) Straftaten nach den §§ 211, 212, 234 bis 234b, 239, 239a, 239b des Strafgesetzbuchs, wenn anzunehmen ist, dass die Tat durch Angehörige des Geheimdienstes einer fremden Macht oder im Auftrag einer fremden Macht oder den Geheimdienst einer fremden Macht begangen worden ist.
 

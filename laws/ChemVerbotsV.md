@@ -37,7 +37,7 @@ b) mit der Absicht zur Gewinnerzielung im Rahmen einer nicht nur im Einzelfall d
 
 (3) Sofern in Anlage 1 Spalte 3 nicht etwas anderes bestimmt ist, gilt Absatz 2 nicht für das Inverkehrbringen
 
-1. von Stoffen, Gemischen oder Erzeugnissen, die den Ausnahmen nach § 2 Absatz 1 Nummer 1 und 2 und Absatz 2 Satz 1 des Chemikaliengesetzes unterliegen,
+1. von Stoffen, Gemischen oder Erzeugnissen, soweit es sich lediglich um einen Transitverkehr unter zollamtlicher Überwachung, bei dem keine Be- oder Verarbeitung erfolgt, handelt oder die den Ausnahmen nach § 2 Absatz 1 Nummer 1 und 2 und Absatz 2 Satz 1 des Chemikaliengesetzes unterliegen,
 
 2. zu Forschungs-, wissenschaftlichen Lehr- und Ausbildungszwecken sowie Analysezwecken in den dafür erforderlichen Mengen oder
 
