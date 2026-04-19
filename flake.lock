@@ -16,21 +16,6 @@
         "url": "https://cgit.krebsco.de/blessings"
       }
     },
-    "flake-utils": {
-      "locked": {
-        "lastModified": 1676283394,
-        "narHash": "sha256-XX2f9c3iySLCw54rJ/CZs+ZK6IQy7GXNY4nSOyu2QG4=",
-        "owner": "numtide",
-        "repo": "flake-utils",
-        "rev": "3db36a8b464d0c4532ba1c7dda728f4576d6d073",
-        "type": "github"
-      },
-      "original": {
-        "owner": "numtide",
-        "repo": "flake-utils",
-        "type": "github"
-      }
-    },
     "nixpkgs": {
       "locked": {
         "lastModified": 1736798957,
@@ -65,15 +50,14 @@
     "recht": {
       "inputs": {
         "blessings": "blessings",
-        "flake-utils": "flake-utils",
         "nixpkgs": "nixpkgs_2"
       },
       "locked": {
-        "lastModified": 1736882697,
-        "narHash": "sha256-G++JyQ6GJlQ8T/R18xb02HhSE1NWfpAboUEBleaadd8=",
+        "lastModified": 1776586346,
+        "narHash": "sha256-ClOFXWzOVI4mDqihLdNrUqmOBoarnyIQEZjnM66PIPo=",
         "owner": "kmein",
         "repo": "recht",
-        "rev": "dd49a91b1e611920889680aa2c9101166b0ce83e",
+        "rev": "8f7650ed4be74b30160cc12c6e2b9314d46390fe",
         "type": "github"
       },
       "original": {
