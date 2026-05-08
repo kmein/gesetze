@@ -241,7 +241,7 @@ Der Betriebsinhaber hat im Sammelantrag anzugeben:
 
 11. im Falle mehrerer Betriebsstätten den Namen, die Anschrift und die nach der Viehverkehrsverordnung vergebenen Registriernummern dieser Betriebsstätten,
 
-12. im Falle einer Bevollmächtigung den Namen und die Anschrift sowie die E-Mail-Adresse des Bevollmächtigten.
+12. im Falle einer Bevollmächtigung den Namen und die Anschrift, die E-Mail-Adresse des Bevollmächtigten sowie die Bankverbindung des Bevollmächtigten, sofern diese für die Abwicklung erforderlich sind.
 
 # § 10 – Angaben zum aktiven Betriebsinhaber
 
@@ -321,11 +321,9 @@ Sofern der Betriebsinhaber im Sammelantrag eine landwirtschaftliche Fläche mit 
 
 3. anzugeben, ob der Anbau der Gehölzpflanzen in Streifen erfolgt und, sofern dies der Fall ist, die Anzahl und Lage der Streifen, sowie zu bestätigen, dass der Anteil der Fläche der Streifen an der landwirtschaftlichen Fläche nicht über 40 Prozent liegt, und
 
-4. Erläuterungen dazu zu machen, dass die Gehölzpflanzen mit dem vorrangigen Ziel der Rohstoffgewinnung oder Nahrungsmittelproduktion angebaut werden,
+4. anzugeben, dass die Gehölzpflanzen mit dem vorrangigen Ziel der Rohstoffgewinnung oder Nahrungsmittelproduktion angebaut werden,
 
 5. zu erklären, dass die Angaben nach den Nummern 2 und 3 keine Gehölzflächen betreffen, die am 31. Dezember 2022 einem Beseitigungsverbot nach den in § 4 Absatz 3 der GAP-Direktzahlungen-Verordnung genannten Verordnungen unterlagen.
-
-Im Jahr 2025 können die Angaben nach Satz 1 Nummer 2 bis 5 auch beigefügt werden.
 
 # § 13 – Besondere Angaben bei einem Antrag auf Zahlungen für Öko-Regelungen
 
@@ -335,7 +333,7 @@ Sofern der Betriebsinhaber Zahlungen für eine Öko-Regelung oder mehrere Öko-R
 
 2. bei einem Antrag auf Zahlungen für eine Öko-Regelung nach
 
-a) § 20 Absatz 1 Nummer 1 Buchstabe a des GAP-Direktzahlungen-Gesetzes: Flächen nach Lage und Größe,
+a) § 20 Absatz 1 Nummer 1 Buchstabe a des GAP-Direktzahlungen-Gesetzes: Flächen nach Lage und Größe und, sofern diese Flächen mehr als 8 Prozent des förderfähigen Ackerlandes des Betriebes, aber nicht mehr als 1 Hektar, ausmachen und kein Fall der Anlage 5 Nummer 1.1.1 Satz 3 Buchstabe a oder b der GAP-Direktzahlungen-Verordnung vorliegt, die Erklärung, dass dem Betriebsinhaber für mindestens eine Fläche, die er im Sammelantrag nach § 5 des GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetzes für das Antragsjahr angegeben hat, eine im Antragsjahr gültige Wiederbepflanzungsgenehmigung gemäß § 6 Absatz 1 Satz 1 des Weingesetzes erteilt worden ist,
 
 b) § 20 Absatz 1 Nummer 1 Buchstabe b des GAP-Direktzahlungen-Gesetzes: Blühflächen und -streifen nach Lage und Größe und Angabe des Jahres der Aussaat sowie der Kategorie der Saatgutmischung nach Nummer 1.2.5 der Anlage 5 zur GAP-Direktzahlungen-Verordnung,
 
@@ -379,7 +377,7 @@ j) § 20 Absatz 1 Nummer 7 des GAP-Direktzahlungen-Gesetzes: Flächen nach Lage 
 
 # § 15 – Besondere Angaben und Unterlagen bei Anbau von Nutzhanf
 
-(1) Sofern der Betriebsinhaber Direktzahlungen für Flächen beantragt, auf denen Hanf angebaut werden soll, hat er mit dem Sammelantrag elektronisch einzureichen:
+(1) Sofern der Betriebsinhaber Direktzahlungen für Flächen beantragt, auf denen Hanf angebaut werden soll, hat er einzureichen:
 
 1. das amtliche Etikett des Saatguts nach § 29 Absatz 2 der Saatgutverordnung oder
 
@@ -453,7 +451,7 @@ d) zu erklären, dass diese nicht als natürliche Person für einen anderen Betr
 
 5. das Vorliegen der nach § 9 der GAP-Direktzahlungen-Verordnung erforderlichen Ausbildung oder Qualifikation zum Zeitpunkt der Antragstellung nachzuweisen, insbesondere durch Vorlage von Abschlusszeugnissen, Teilnahmebescheinigungen, Arbeitsverträgen, Gesellschaftsverträgen oder Belegen über die krankenversicherungspflichtige Tätigkeit als mithelfender Familienangehöriger, und
 
-6. die Erklärungen und Darlegungen nach Nummer 2 und 4 durch geeignete Nachweise zu belegen, im Fall der Nummer 4 insbesondere durch eine Kopie des Gesellschaftsvertrags, der Satzung oder einer mit dieser vergleichbaren Urkunde, die dem Betriebsinhaber zugrunde liegt, sowie sonstiger Beschlüsse oder Auszüge aus amtlichen Registern.
+6. die Erklärungen und Darlegungen nach den Nummern 2 und 4 durch geeignete Nachweise zu belegen, im Fall der Nummer 4 insbesondere durch eine Kopie des Gesellschaftsvertrags, der Satzung oder einer mit dieser vergleichbaren Urkunde, die dem Betriebsinhaber zugrunde liegt, sowie sonstiger Beschlüsse oder Auszüge aus amtlichen Registern, es sei denn, dass diese Nachweise der zuständigen Behörde bereits vorliegen und sich die tatsächlichen oder rechtlichen Verhältnisse seit ihrer Einreichung nicht geändert haben.
 
 # § 20 – Angaben bei einem Antrag auf Junglandwirte-Einkommensstützung im Fall des § 16 Absatz 4 Satz 1 des GAP-Direktzahlungen-Gesetzes
 
@@ -523,7 +521,7 @@ Die Bundesanstalt hat die Hanfsorten, im Falle deren Anbaus eine Fläche nach §
 
 # § 27 – Mitteilungspflichten der Länder und der Bundesstellen
 
-(1) Die Länder haben, soweit der Anbau von Hopfen und Hanf betroffen ist, dem Bundesministerium für Ernährung und Landwirtschaft die zur Erfüllung der der Bundesrepublik Deutschland gegenüber den Organen der Europäischen Union nach den in § 1 Nummer 1 und 2 genannten Rechtsakten obliegenden Mitteilungspflichten erforderlichen Angaben mitzuteilen.
+(1) Die Länder haben, soweit der Anbau von Hopfen und Hanf betroffen ist, dem Bundesministerium für Landwirtschaft, Ernährung und Heimat die zur Erfüllung der der Bundesrepublik Deutschland gegenüber den Organen der Europäischen Union nach den in § 1 Nummer 1 und 2 genannten Rechtsakten obliegenden Mitteilungspflichten erforderlichen Angaben mitzuteilen.
 
 (2) Die zuständigen Behörden der Länder haben der Bundesanstalt bis zum 1. Juli des Jahres, in dem die Antragstellung erfolgt, mitzuteilen:
 
@@ -643,7 +641,7 @@ Tiere, bei denen im Rahmen einer Verwaltungskontrolle ein Verstoß festgestellt 
 
 (3) Sofern gekoppelte Einkommensstützungen für weniger als 30 Tiere beantragt werden, sind alle beantragten Tiere zu kontrollieren.
 
-(4) Vor-Ort-Kontrollen dürfen nur angekündigt werden, wenn dies ihrem Zweck oder ihrer Wirksamkeit nicht zuwiderläuft. Außer in hinreichend begründeten Ausnahmefällen dürfen Vor-Ort-Kontrollen im Rahmen von gekoppelten Einkommensstützungen nicht mehr als 48 Stunden im Voraus angekündigt werden.
+(4) Vor-Ort-Kontrollen dürfen nur angekündigt werden, wenn dies ihrem Zweck oder ihrer Wirksamkeit nicht zuwiderläuft. Außer in hinreichend begründeten Ausnahmefällen dürfen Vor-Ort-Kontrollen im Rahmen von gekoppelten Einkommensstützungen nicht mehr als zwei Kalendertage im Voraus angekündigt werden.
 
 # § 36 – Ergänzende Kontrollen von flächenbezogenen Direktzahlungen, die nicht durch das Flächenüberwachungssystem kontrolliert werden
 
@@ -685,7 +683,7 @@ Bei flächenbezogenen Direktzahlungen hat sich die Kontrolle nach diesem Unterab
 
 2. drei Prozent aller Betriebsinhaber, die die Junglandwirte-Einkommensstützung beantragt haben,
 
-3. 30 Prozent der für den Hanfanbau angemeldeten Flächen,
+3. 15 Prozent der für den Hanfanbau angemeldeten Flächen,
 
 4. drei Prozent der für den Hopfenanbau angemeldeten Flächen,
 
@@ -776,27 +774,7 @@ Kann das Vorliegen einer Fördervoraussetzung mangels Mitwirkung des Betriebsinh
 
 (3) Im Fall der Öko-Regelung nach § 20 Absatz 1 Nummer 4 des GAP-Direktzahlungen-Gesetzes gilt das gesamte förderfähige Dauergrünland auch dann als ermittelt, wenn im Antragsjahr Dauergrünland des Betriebsinhabers im Umfang von höchstens 500 Quadratmetern je Region im Sinne des § 4 Absatz 2 des GAP-Konditionalitäten-Gesetzes gepflügt wird.
 
-# § 42a – Verstöße gegen die Vorschriften des Systems zur Kennzeichnung und Registrierung von Rindern, Mutterschafen und Mutterziegen
-
-(1) Ein im Betrieb vorhandenes Rind, das eines der beiden Kennzeichnungsmittel verloren hat, gilt insoweit auch als ermittelt, sofern es durch die übrigen Elemente des Systems zur Kennzeichnung und Registrierung von Rindern nach Teil IV Titel 1 der Verordnung (EU) 2016/429 eindeutig identifiziert werden kann und das verlorene Kennzeichnungsmittel vor Ablauf des 15. August des Antragsjahres ersetzt wurde.
-
-(2) Ein im Betrieb vorhandenes Mutterschaf oder eine im Betrieb vorhandene Mutterziege, das oder die eines der beiden Kennzeichnungsmittel verloren hat, gilt insoweit auch als ermittelt, sofern
-
-1. das Tier durch ein Kennzeichen nach Artikel 108 Absatz 3 der Verordnung (EU) 2016/429 weiterhin identifiziert werden kann,
-
-2. alle sonstigen Anforderungen des Systems zur Kennzeichnung und Registrierung von Schafen und Ziegen erfüllt sind oder als erfüllt gelten und
-
-3. das verlorene Kennzeichnungsmittel vor Ablauf des 15. August des Antragsjahres ersetzt wurde.
-
-(3) Ein einzelnes Rind, ein einzelnes Mutterschaf oder eine einzelne Mutterziege im Betrieb, das oder die beide Kennzeichnungsmittel verloren hat, gilt insoweit auch als ermittelt, sofern
-
-1. dieses Tier durch das Register, einen Tierpass, die Datenbank oder ein sonstiges Mittel nach der Verordnung (EU) 2016/429 weiterhin eindeutig identifiziert werden kann,
-
-2. der Tierhalter nachweist, dass er bereits vor Ankündigung der Vor-Ort-Kontrolle Abhilfemaßnahmen getroffen hat und
-
-3. die verlorenen Kennzeichnungsmittel vor Ablauf des 15. August des Antragsjahres ersetzt wurden.
-
-(4) Im Fall eines Rindes, eines Mutterschafes oder einer Mutterziege, das oder die im Betrieb vorhanden ist, gilt die Verpflichtung zur Registrierung von Rindern, Schafen und Ziegen als erfüllt und das Tier insoweit als ermittelt, sofern der Betriebsinhaber die Vollständigkeit und Richtigkeit der Registrierung vor Ablauf des 15. August des Antragsjahres nachweist.
+# § 42a – (weggefallen)
 
 # § 43 – Sanktion bei der Nichtanmeldung aller Flächen
 
@@ -878,7 +856,7 @@ so wird die ermittelte Anzahl im Umfang der Differenz zwischen den angemeldeten 
 
 (2) Sind mehrere Betriebsinhaber von einem Fall höherer Gewalt oder außergewöhnlicher Umstände betroffen, kann die zuständige Behörde die von dem Fall höherer Gewalt oder außergewöhnlicher Umstände betroffenen Gebiete ortsüblich bekanntmachen mit der Folge, dass für alle Betriebsinhaber dieses Gebietes ein Fall höherer Gewalt oder außergewöhnlicher Umstände angenommen wird. Die Bekanntmachung ersetzt die Anzeige des Betriebsinhabers nach § 14 Absatz 4 des GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetzes.
 
-(3) Mit Ausnahme der §§ 47 und 49 sind die Vorschriften dieses Abschnittes nicht bei Verstößen anzuwenden, bei denen Kapitel 3 Abschnitt 3 der GAP-Konditionalitäten-Verordnung anzuwenden ist.
+(3) Mit Ausnahme der §§ 47 und 49 sind die Vorschriften dieses Abschnittes nicht bei Verstößen anzuwenden, bei denen Kapitel 4 Abschnitt 4 der GAP-Konditionalitäten-Verordnung anzuwenden ist.
 
 Abs. 1 Satz 1 Kursivdruck: Auf Grund offensichtlicher Unrichtigkeit wird die Angabe "§14" durch die Angabe "§ 14" ersetzt
 

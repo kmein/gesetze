@@ -205,10 +205,10 @@ b) an dem Tag, bis zu dem die Übermittlung der Anzahl der am 31. Dezember des F
 
 Ordnungswidrig im Sinne des § 19 Absatz 1 Nummer 2 Buchstabe b des Güterkraftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 4 Absatz 3 Satz 1 ein Kennzeichen oder die dort genannte Anzahl der Personen nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig übermittelt.
 
-# Schlussformel
-
-Der Bundesrat hat zugestimmt.
-
 # § 9 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
+
+# Schlussformel
+
+Der Bundesrat hat zugestimmt.

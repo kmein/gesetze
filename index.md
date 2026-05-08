@@ -23,7 +23,6 @@
 - [AbgG](laws/AbgG-BJNR102970977.md) Gesetz über die Rechtsverhältnisse der Mitglieder des Deutschen Bundestages
 - [AbgG10u11AbschnABestBek](laws/AbgG10u11AbschnABestBek-BJNR079100022.md) Bekanntmachung der Ausführungsbestimmungen zu den Vorschriften des Zehnten und Elften Abschnitts des Abgeordnetengesetzes
 - [AbgrV](laws/AbgrV-BJNR022550985.md) Verordnung über die Abgrenzung der im Pflegesatz nicht zu berücksichtigenden Investitionskosten von den pflegesatzfähigen Kosten der Krankenhäuser
-- [Abk ISR](laws/Abk_ISR-BJNR200370953.md) Abkommen zwischen der Bundesrepublik Deutschland und dem Staate Israel
 - [AbrStV](laws/AbrStV-BJNR292600005.md) Verordnung über Abrechnungsstellen im Scheckverkehr
 - [AbschlagsV](laws/AbschlagsV-BJNR098100001.md) Verordnung über Abschlagszahlungen bei Bauträgerverträgen
 - [AbsFondsForstAuflG](laws/AbsFondsForstAuflG-BJNR095020011.md) Gesetz zur Auflösung und Abwicklung der Anstalt Absatzförderungsfonds der deutschen Forst- und Holzwirtschaft
@@ -45,7 +44,6 @@
 - [AdKG](laws/AdKG-BJNR121800005.md) Gesetz zur Errichtung der Akademie der Künste
 - [AdLDAV](laws/AdLDAV-BJNR449000002.md) Verordnung zur Durchführung des § 61a des Gesetzes über die Alterssicherung der Landwirte
 - [ADLV](laws/ADLV-BJNR05C0B0025.md) Verordnung über die Laufbahnen des Auswärtigen Dienstes
-- [ADR](laws/ADR-BJNR214910969.md) Europäisches Übereinkommen über die internationale Beförderung gefährlicher Güter auf der Straße
 - [ADRÄndProtG](laws/ADRÄndProtG-BJNR195020007.md) Gesetz zu dem Protokoll vom 28. Oktober 1993 zur Änderung des Europäischen Übereinkommens vom 30. September 1957 über die internationale Beförderung gefährlicher Güter auf der Straße (ADR)
 - [ADRG](laws/ADRG-BJNR214890969.md) Gesetz zu dem Europäischen Übereinkommen vom 30. September 1957 über die internationale Beförderung gefährlicher Güter auf der Straße (ADR)
 - [AdÜbAG](laws/AdÜbAG-BJNR295010001.md) Gesetz zur Ausführung des Haager Übereinkommens vom 29. Mai 1993 über den Schutz von Kindern und die Zusammenarbeit auf dem Gebiet der internationalen Adoption
@@ -151,6 +149,7 @@
 - [ALBeitrBek 2024](laws/ALBeitrBek_2024-BJNR1560A0023.md) Bekanntmachung der Beiträge in der Alterssicherung der Landwirte für das Jahr 2024
 - [ALBeitrBek 2025](laws/ALBeitrBek_2025-BJNR1940A0024.md) Bekanntmachung des Beitrags in der Alterssicherung der Landwirte für das Jahr 2025
 - [ALBeitrBek 2026](laws/ALBeitrBek_2026-BJNR13C0A0025.md) Bekanntmachung des Beitrags in der Alterssicherung der Landwirte für das Jahr 2026
+- [ALehrV](laws/ALehrV-BJNR07D0A0026.md) Verordnung über die allgemeine Lehrverpflichtung des hauptberuflichen wissenschaftlichen Personals an der Hochschule des Bundes für öffentliche Verwaltung
 - [ALG](laws/ALG-BJNR189100994.md) Gesetz über die Alterssicherung der Landwirte
 - [AlkopopStG](laws/AlkopopStG-BJNR185710004.md) Gesetz über die Erhebung einer Sondersteuer auf alkoholhaltige Süßgetränke (Alkopops) zum Schutz junger Menschen
 - [AlkopopStV](laws/AlkopopStV-BJNR271100004.md) Verordnung über das Verfahren zur Berechnung des Netto-Mehraufkommens der nach dem Alkopopsteuergesetz erhobenen Alkopopsteuer
@@ -322,7 +321,6 @@
 - [AufgÜbertrV OFD Karlsr](laws/AufgÜbertrV_OFD_Karlsr-BJNR019280973.md) Verordnung zur Übertragung von Aufgaben der Oberfinanzdirektion Karlsruhe
 - [AufhFG](laws/AufhFG-BJNR365200002.md) Gesetz zur Errichtung eines Fonds "Aufbauhilfe"
 - [AufsRatAbkCHEG](laws/AufsRatAbkCHEG-BJNR202629957.md) Gesetz zu dem Vertrag zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über die Regelung von Fragen, welche die Aufsichtsräte der in der Bundesrepublik Deutschland zum Betrieb von Grenzkraftwerken am Rhein errichteten Aktiengesellschaften betreffen
-- [AufsRatVtr CHE](laws/AufsRatVtr_CHE-BJNR202640957.md) Vertrag zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über die Regelung von Fragen, welche die Aufsichtsräte der in der Bundesrepublik Deutschland zum Betrieb von Grenzkraftwerken am Rhein errichteten Aktiengesellschaften betreffen
 - [AufwErstV](laws/AufwErstV-BJNR018960975.md) Verordnung über die Erstattung von Aufwendungen für die gesetzliche Rentenversicherung der in Werkstätten beschäftigten Behinderten
 - [AUG](laws/AUG-BJNR089810011.md) Gesetz zur Geltendmachung von Unterhaltsansprüchen im Verkehr mit ausländischen Staaten
 - [AUG2011UhBek](laws/AUG2011UhBek-BJNR110900011.md) Bekanntmachung über die Feststellung der Gegenseitigkeit für die Geltendmachung von Unterhaltsansprüchen nach dem Auslandsunterhaltsgesetz
@@ -378,7 +376,6 @@
 - [AuslInvG](laws/AuslInvG-BJNR012140969.md) Gesetz über steuerliche Maßnahmen bei Auslandsinvestitionen der deutschen Wirtschaft
 - [AuslPflKrGewQSG](laws/AuslPflKrGewQSG-BJNR280100021.md) Gesetz zur Sicherung der Qualität der Gewinnung von Pflegekräften aus dem Ausland
 - [AuslPflVG](laws/AuslPflVG-BJNR0770B0024.md) Gesetz über die Haftpflichtversicherung für ausländische Kraftfahrzeuge und Kraftfahrzeuganhänger
-- [AuslSchuldAbk](laws/AuslSchuldAbk-BJNR203330953.md) Abkommen über deutsche Auslandsschulden
 - [AuslSchuldAbkAG](laws/AuslSchuldAbkAG-BJNR010030953.md) Gesetz zur Ausführung des Abkommens vom 27. Februar 1953 über deutsche Auslandsschulden
 - [AuslSchuldAbkAGErG 3](laws/AuslSchuldAbkAGErG_3-BJNR007580956.md) Drittes Gesetz zur Ergänzung des Gesetzes zur Ausführung des Abkommens vom 27. Februar 1953 über deutsche Auslandsschulden
 - [AuslStreitkrNiederschr](laws/AuslStreitkrNiederschr-BJNR052920999.md) Vereinbarte Niederschrift der Verhandlungen zwischen der Regierung der Bundesrepublik Deutschland und den Regierungen des Königreichs Dänemark, der Griechischen Republik, der Italienischen Republik, des Großherzogtums Luxemburg, des Königreichs Norwegen, der Portugiesischen Republik, des Königreichs Spanien und der Republik Türkei über die Rechtsstellung ihrer Streitkräfte bei vorübergehenden Aufenthalten in der Bundesrepublik Deutschland
@@ -675,7 +672,6 @@
 - [BEHG](laws/BEHG-BJNR272800019.md) Gesetz über einen nationalen Zertifikatehandel für Brennstoffemissionen
 - [BEHV](laws/BEHV-BJNR302600020.md) Verordnung zur Durchführung des Brennstoffemissionshandelsgesetzes
 - [BehWerkPrZustV](laws/BehWerkPrZustV-BJNR228100002.md) Verordnung über die Bestimmung der zuständigen Stelle für die Durchführung der Prüfung zum anerkannten Abschluss Geprüfte Fachkraft zur Arbeits- und Berufsförderung in Werkstätten für behinderte Menschen
-- [BehZAbk](laws/BehZAbk-BJNR209850961.md) Zollabkommen über Behälter
 - [BeiratsV](laws/BeiratsV-BJNR018010971.md) Verordnung über die Errichtung eines Beirates für Ausbildungsförderung
 - [BeitrEntlG](laws/BeitrEntlG-BJNR163109996.md) Gesetz zur Entlastung der Beiträge in der gesetzlichen Krankenversicherung
 - [BeitrEntlKrG](laws/BeitrEntlKrG-BJNR163110996.md) Gesetz zur Beitragsentlastung der gesetzlichen Krankenversicherung
@@ -1531,7 +1527,6 @@
 - [DeuFöV](laws/DeuFöV-BJNR612500016.md) Verordnung über die berufsbezogene Deutschsprachförderung
 - [DeutschePostAGDiszAnO 1995-11](laws/DeutschePostAGDiszAnO_1995-11-BJNR166800995.md) Anordnung zur Übertragung disziplinarrechtlicher Befugnisse im Bereich der Deutschen Post AG
 - [DeutschePostbankAGZustAnO 2006](laws/DeutschePostbankAGZustAnO_2006-BJNR129200006.md) Anordnung zur Übertragung dienstrechtlicher Zuständigkeiten für den Bereich der Deutschen Postbank AG
-- [DeuVtr](laws/DeuVtr-BJNR203010955.md) Vertrag über die Beziehungen zwischen der Bundesrepublik Deutschland und den Drei Mächten (in der gemäß Liste I zu dem am 23. Oktober 1954 in Paris unterzeichneten Protokoll über die Beendigung des Besatzungsregimes in der Bundesrepublik Deutschland geänderten Fassung)
 - [DEV 2012](laws/DEV_2012-BJNR157200006.md) Verordnung über die Erhebung von Daten zur Aufstellung des nationalen Zuteilungsplans für die Zuteilungsperiode 2008 bis 2012
 - [DEV 2020](laws/DEV_2020-BJNR211800009.md) Verordnung über die Erhebung von Daten zur Einbeziehung des Luftverkehrs sowie weiterer Tätigkeiten in den Emissionshandel *)
 - [DGBankSa](laws/DGBankSa-BJNR211400998.md) Satzung DG BANK AG
@@ -1635,7 +1630,6 @@
 - [DWGÄndG](laws/DWGÄndG-BJNR345600004.md) Gesetz zur Änderung des Deutsche-Welle-Gesetzes
 - [EAAV](laws/EAAV-BJNR09F0A0024.md) Verordnung über technische Anforderungen an Energieanlagen 1
 - [EAG-BehandV](laws/EAG-BehandV-BJNR184100021.md) Verordnung über Anforderungen an die Behandlung von Elektro- und Elektronik-Altgeräten*
-- [EAGVtr](laws/EAGVtr-BJNR210140957.md) Vertrag zur Gründung der Europäischen Atomgemeinschaft (EURATOM)
 - [EAKAV](laws/EAKAV-BJNR247700013.md) Verordnung zum elektronischen Anzeigeverfahren für inländische Investmentvermögen und EU-Investmentvermögen nach dem Kapitalanlagegesetzbuch
 - [EALG](laws/EALG-BJNR262400994.md) Gesetz über die Entschädigung nach dem Gesetz zur Regelung offener Vermögensfragen und über staatliche Ausgleichsleistungen für Enteignungen auf besatzungsrechtlicher oder besatzungshoheitlicher Grundlage
 - [EAMIV](laws/EAMIV-BJNR111000019.md) Verordnung über die Mindestanforderungen an die Informationen in elektronischen Programmen für die Verordnung von Arzneimitteln durch Vertragsärzte und über die Veröffentlichung der Beschlüsse des Gemeinsamen Bundesausschusses
@@ -1701,9 +1695,6 @@
 - [EGGVG](laws/EGGVG-BJNR000770877.md) Einführungsgesetz zum Gerichtsverfassungsgesetz
 - [EGHGB](laws/EGHGB-BJNR004370897.md) Einführungsgesetz zum Handelsgesetzbuch
 - [EGInsO](laws/EGInsO-BJNR291109994.md) Einführungsgesetz zur Insolvenzordnung
-- [EGKSVtr](laws/EGKSVtr-BJNR204470952.md) Vertrag über die Gründung der Europäischen Gemeinschaft für Kohle und Stahl
-- [EGKSVtrÄndVtrG](laws/EGKSVtrÄndVtrG-BJNR218740956.md) Gesetz über den Vertrag vom 27. Oktober 1956 zur Abänderung des Vertrages über die Gründung der Europäischen Gemeinschaft für Kohle und Stahl
-- [EGKSVtrÜAbk](laws/EGKSVtrÜAbk-BJNR204910952.md) Abkommen über die Übergangsbestimmungen des Vertrages über die Gründung der Europäischen Gemeinschaft für Kohle und Stahl
 - [EGMR-KEV](laws/EGMR-KEV-BJNR327300013.md) Verordnung über die Erstattungsbeträge für Kosten und Auslagen im Rahmen der Kostenhilfe für Drittbetroffene in Verfahren vor dem Europäischen Gerichtshof für Menschenrechte
 - [EGMRKHG](laws/EGMRKHG-BJNR082910013.md) Gesetz zur Einführung von Kostenhilfe für Drittbetroffene in Verfahren vor dem Europäischen Gerichtshof für Menschenrechte
 - [EGovG](laws/EGovG-BJNR274910013.md) Gesetz zur Förderung der elektronischen Verwaltung
@@ -1921,7 +1912,6 @@
 - [EuAstroOrgVorRProt](laws/EuAstroOrgVorRProt-BJNR203950975.md) Protokoll über die Vorrechte und Immunitäten der Europäischen Organisation für Astronomische Forschung in der Südlichen Hemisphäre
 - [EuAstroOrgVorRProtV](laws/EuAstroOrgVorRProtV-BJNR203930975.md) Verordnung zu dem Protokoll vom 12. Juli 1974 über die Vorrechte und Immunitäten der Europäischen Organisation für Astronomische Forschung in der Südlichen Hemisphäre
 - [EuAuslf/RHiÜbkG](laws/EuAuslf_RHiÜbkG-BJNR213690964.md) Gesetz zu dem Europäischen Auslieferungsübereinkommen vom 13. Dezember 1957 und zu dem Europäischen Übereinkommen vom 20. April 1959 über die Rechtshilfe in Strafsachen
-- [EuAuslfÜbk](laws/EuAuslfÜbk-BJNR213710964.md) Europäisches Auslieferungsübereinkommen
 - [EuAuslfÜbkErgVtr AUT](laws/EuAuslfÜbkErgVtr_AUT-BJNR211630975.md) Vertrag zwischen der Bundesrepublik Deutschland und der Republik Österreich über die Ergänzung des Europäischen Auslieferungsübereinkommens vom 13. Dezember 1957 und die Erleichterung seiner Anwendung
 - [EuAuslfÜbkErgVtr CHE](laws/EuAuslfÜbkErgVtr_CHE-BJNR211760975.md) Vertrag zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über die Ergänzung des Europäischen Auslieferungsübereinkommens vom 13. Dezember 1957 und die Erleichterung seiner Anwendung
 - [EuAuslfÜbkErgVtr ITA](laws/EuAuslfÜbkErgVtr_ITA-BJNR201070982.md) Vertrag zwischen der Bundesrepublik Deutschland und der italienischen Republik über die Ergänzung des Europäischen Auslieferungsübereinkommens vom 13. Dezember 1957 und die Erleichterung seiner Anwendung
@@ -1947,7 +1937,6 @@
 - [EuFernsAbkG](laws/EuFernsAbkG-BJNR212340965.md) Gesetz über das Europäische Abkommen vom 22. Juni 1960 zum Schutz von Fernsehsendungen
 - [EuFernsAbkProtG](laws/EuFernsAbkProtG-BJNR217850967.md) Gesetz über das am 22. Januar 1965 in Straßburg unterzeichnete Protokoll zu dem Europäischen Abkommen vom 22. Juni 1960 zum Schutz von Fernsehsendungen
 - [EUFinSchStG](laws/EUFinSchStG-BJNR084410019.md) Gesetz zur Stärkung des Schutzes der finanziellen Interessen der Europäischen Union
-- [EuFürsAbk](laws/EuFürsAbk-BJNR205640956.md) Europäisches Fürsorgeabkommen
 - [EUFußballÜbk](laws/EUFußballÜbk-BJNR164320004.md) Europäisches Übereinkommen über Gewalttätigkeit und Fehlverhalten von Zuschauern bei Sportveranstaltungen und insbesondere bei Fußballspielen
 - [EUGewSchVG](laws/EUGewSchVG-BJNR196410014.md) Gesetz zum Europäischen Gewaltschutzverfahren
 - [EuGHG](laws/EuGHG-BJNR203500998.md) Gesetz betreffend die Anrufung des Gerichtshofes der Europäischen Gemeinschaften im Wege des Vorabentscheidungsverfahrens auf dem Gebiet der polizeilichen Zusammenarbeit und der justitiellen Zusammenarbeit in Strafsachen nach Artikel 35 des EU-Vertrages
@@ -1975,7 +1964,6 @@
 - [EuPatVorrProt](laws/EuPatVorrProt-BJNR209850976.md) Protokoll über die Vorrechte und Immunitäten der europäischen Patentorganisation
 - [EuPatZentProt](laws/EuPatZentProt-BJNR209940976.md) Protokoll über die Zentralisierung des Europäischen Patentsystems und seine Einführung
 - [EuRAG](laws/EuRAG-BJNR018210000.md) Gesetz über die Tätigkeit europäischer Rechtsanwälte in Deutschland
-- [EuRatPVerkÜbk](laws/EuRatPVerkÜbk-BJNR203900959.md) Europäisches Übereinkommen über die Regelung des Personenverkehrs zwischen den Mitgliedstaaten des Europarates
 - [EuRatWahlG](laws/EuRatWahlG-BJNR025860990.md) Gesetz über die Wahl der Vertreter der Bundesrepublik Deutschland zur Parlamentarischen Versammlung des Europarates
 - [EuRFVerhÜbk](laws/EuRFVerhÜbk-BJNR219400969.md) Europäisches Übereinkommen zur Verhütung von Rundfunksendungen, die von Sendestellen außerhalb der staatlichen Hoheitsgebiete gesendet werden
 - [EuRFVerhÜbkG](laws/EuRFVerhÜbkG-BJNR219390969.md) Gesetz zu dem Europäischen Übereinkommen vom 22. Januar 1965 zur Verhütung von Rundfunksendungen, die von Sendestellen außerhalb der staatlichen Hoheitsgebiete gesendet werden
@@ -2059,7 +2047,6 @@
 - [EWGRL371/91DV 1994](laws/EWGRL371_91DV_1994-BJNR320200994.md) Verordnung zur Durchführung der Richtlinie des Rates vom 20. Juni 1991 über die Anwendung des Abkommens zwischen der Europäischen Wirtschaftsgemeinschaft und der Schweizerischen Eidgenossenschaft betreffend die Direktversicherung mit Ausnahme der Lebensversicherung (91/371/EWG)
 - [EWGSichV](laws/EWGSichV-BJNR020920988.md) Verordnung über Sicherheiten für landwirtschaftliche Erzeugnisse
 - [EWGV1016/68DV](laws/EWGV1016_68DV-BJNR030850975.md) Verordnung zur Durchführung der Verordnung Nr. 117/66/EWG und der Verordnung (EWG) Nr. 1016/68 und des Übereinkommens über die Personenbeförderung im grenzüberschreitenden Gelegenheitsverkehr mit Kraftomnibussen (ASOR)
-- [EWGVtr](laws/EWGVtr-BJNR207660957.md) Vertrag zur Gründung der Europäischen Wirtschaftsgemeinschaft
 - [EWIVAG](laws/EWIVAG-BJNR005140988.md) Gesetz zur Ausführung der EWG-Verordnung über die Europäische wirtschaftliche Interessenvereinigung
 - [EWKFondsG](laws/EWKFondsG-BJNR07C0B0023.md) Gesetz über den Einwegkunststofffonds
 - [EWKFondsV](laws/EWKFondsV-BJNR1120A0023.md) Verordnung über die Abgabesätze und das Punktesystem des Einwegkunststofffonds 1, 2
@@ -2228,7 +2215,6 @@
 - [FlüAbkProt](laws/FlüAbkProt-BJNR212940969.md) Protokoll über die Rechtsstellung der Flüchtlinge
 - [FlüHG](laws/FlüHG-BJNR006120965.md) Flüchtlingshilfegesetz
 - [FlüHGDV 2](laws/FlüHGDV_2-BJNR018160965.md) Zweite Verordnung zur Durchführung des Gesetzes über Hilfsmaßnahmen für Deutsche aus der sowjetischen Besatzungszone Deutschlands und dem sowjetisch besetzten Sektor von Berlin
-- [FlüRAuswAbk](laws/FlüRAuswAbk-BJNR201600951.md) Abkommen betreffend die Ausstellung eines Reiseausweises an Flüchtlinge, die unter die Zuständigkeit des zwischenstaatlichen Ausschusses für die Flüchtlinge fallen
 - [FlugBelWertV](laws/FlugBelWertV-BJNR103600009.md) Verordnung über die Ermittlung der Beleihungswerte von Flugzeugen nach § 26d Absatz 1 und 2 des Pfandbriefgesetzes
 - [FlugDaG](laws/FlugDaG-BJNR148410017.md) Gesetz über die Verarbeitung von Fluggastdaten zur Umsetzung der Richtlinie (EU) 2016/681*
 - [FlugElekAusbV 2013](laws/FlugElekAusbV_2013-BJNR220110013.md) Verordnung über die Berufsausbildung zum Fluggerätelektroniker und zur Fluggerätelektronikerin*
@@ -2270,7 +2256,6 @@
 - [FoltÜbkFakProt](laws/FoltÜbkFakProt-BJNR085520008.md) Fakultativprotokoll zum Übereinkommen gegen Folter und andere grausame, unmenschliche oder erniedrigende Behandlung oder Strafe
 - [FoltÜbkFakProtG](laws/FoltÜbkFakProtG-BJNR085420008.md) Gesetz zu dem Fakultativprotokoll vom 18. Dezember 2002 zum Übereinkommen gegen Folter und andere grausame, unmenschliche oder erniedrigende Behandlung oder Strafe
 - [FoMaFüPrV](laws/FoMaFüPrV-BJNR216500009.md) Verordnung über die Anforderungen in der Prüfung zum anerkannten Abschluss Geprüfter Forstmaschinenführer/Geprüfte Forstmaschinenführerin
-- [FordRglAbk CHE](laws/FordRglAbk_CHE-BJNR200220953.md) Abkommen zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über die Regelung der Forderungen der Schweizerischen Eidgenossenschaft gegen das ehemalige Deutsche Reich
 - [ForstSchAusglG](laws/ForstSchAusglG-BJNR015330969.md) Gesetz zum Ausgleich von Auswirkungen besonderer Schadensereignisse in der Forstwirtschaft
 - [ForstWiAusbStV 2002](laws/ForstWiAusbStV_2002-BJNR144200002.md) Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Forstwirt/zur Forstwirtin
 - [ForstWiAusbV 1998](laws/ForstWiAusbV_1998-BJNR020600998.md) Verordnung über die Berufsausbildung zum Forstwirt/zur Forstwirtin
@@ -2345,10 +2330,7 @@
 - [FWiStatV](laws/FWiStatV-BJNR003610986.md) Verordnung zur Aussetzung der statistischen Erhebungen im Bereich der Filmwirtschaft
 - [FzgLackAusbV](laws/FzgLackAusbV-BJNR108300003.md) Verordnung über die Berufsausbildung zum Fahrzeuglackierer/zur Fahrzeuglackiererin
 - [FzgLiefgMeldV](laws/FzgLiefgMeldV-BJNR063000009.md) Fahrzeuglieferungs-Meldepflichtverordnung
-- [FzgTeilÜbk](laws/FzgTeilÜbk-BJNR208580958.md) Übereinkommen über die Annahme einheitlicher Bedingungen für die Genehmigung der Ausrüstungsgegenstände und Teile von Kraftfahrzeugen (Motorfahrzeugen) und über die gegenseitige Anerkennung der Genehmigung
-- [FzgTeilÜbkRgl 39](laws/FzgTeilÜbkRgl_39-BJNR295840983.md) Regelung Nr. 39 - Einheitliche Vorschriften für die Genehmigung der Fahrzeuge hinsichtlich der Geschwindigkeitsmeßeinrichtung (des Geschwindigkeitsmeßgeräts) einschließlich ihres (seines) Einbaues
 - [FzgTeilÜbkRgl 40](laws/FzgTeilÜbkRgl_40-BJNR395840983.md) Regelung Nr. 40 - Einheitliche Vorschriften für die Genehmigung der Krafträder (Motorräder) hinsichtlich der Emission luftverunreinigender Gase aus Motoren mit Fremdzündung
-- [FzgTeilÜbkRgl 47](laws/FzgTeilÜbkRgl_47-BJNR299300981.md) Regelung Nr. 47 - Einheitliche Vorschriften für die Genehmigung der Fahrräder mit Hilfsmotor (Motorfahrräder, Mopeds) hinsichtlich der Emission luftverunreinigender Gase aus Motoren mit Fremdzündung
 - [FzTV](laws/FzTV-BJNR214200998.md) Verordnung über die Prüfung und Genehmigung der Bauart von Fahrzeugteilen sowie deren Kennzeichnung
 - [FZulBV](laws/FZulBV-BJNR011800020.md) Verordnung zur Durchführung von § 14 Absatz 1 des Forschungszulagengesetzes
 - [FZulBVInkrbek](laws/FZulBVInkrbek-BJNR195400020.md) Bekanntmachung über das Inkrafttreten der Forschungszulagen-Bescheinigungsverordnung
@@ -2398,9 +2380,7 @@
 - [GastroAusbV](laws/GastroAusbV-BJNR034900022.md) Verordnung über die Berufsausbildungen zur Fachkraft für Gastronomie, zum Fachmann für Restaurants und Veranstaltungsgastronomie und zur Fachfrau für Restaurants und Veranstaltungsgastronomie sowie zum Fachmann für Systemgastronomie und zur Fachfrau für Systemgastronomie*
 - [GastStG](laws/GastStG-BJNR192910019.md) Gaststaatgesetz
 - [GASV](laws/GASV-BJNR039800002.md) Verordnung zur Bestimmung von weiteren grundlegenden Anforderungen an Geräte sowie zur Bestimmung von Äquivalenzen nationaler Schnittstellen und Geräteklassenkennungen auf dem Gebiet der Funkanlagen und Telekommunikationsendeinrichtungen
-- [GATTAbk](laws/GATTAbk-BJNR301730951.md) Allgemeines Zoll- und Handelsabkommen von Genf (General Agreement on Tariffs and Trade)
 - [GATTAbkProt1967G](laws/GATTAbkProt1967G-BJNR211830968.md) Gesetz zu dem Genfer Protokoll von 1967 zum Allgemeinen Zoll- und Handelsabkommen, dem Übereinkommen vom 30. Juni 1967 zur Durchführung von Artikel VI des Allgemeinen Zoll- und Handelsabkommen und dem Abkommen vom 30. Juni 1967 zwischen der Europäischen Wirtschaftsgemeinschaft sowie deren Mitgliedstaaten und der Schweizerischen Eidgenossenschaft über Uhrmacherwaren
-- [GATTG](laws/GATTG-BJNR201730951.md) Gesetz über das Protokoll von Torquay vom 21. April 1951 und über den Beitritt der Bundesrepublik Deutschland zum Allgemeinen Zoll- und Handelsabkommen
 - [GAufzV](laws/GAufzV-BJNR236700017.md) Verordnung zu Art, Inhalt und Umfang von Aufzeichnungen im Sinne des § 90 Absatz 3 der Abgabenordnung
 - [GAW](laws/GAW-DDNR005150990.md) Gesetz über den Außenwirtschafts-, Kapital- und Zahlungsverkehr
 - [GBankDVDV](laws/GBankDVDV-BJNR332200017.md) Verordnung über den Vorbereitungsdienst für den gehobenen Bankdienst der Deutschen Bundesbank
@@ -2429,8 +2409,6 @@
 - [GebrMG§6Abs2Bek](laws/GebrMG§6Abs2Bek-BJNR094200995.md) Bekanntmachung zu § 6 Abs. 2 des Gebrauchsmustergesetzes
 - [GebrMstrV](laws/GebrMstrV-BJNR243700020.md) Verordnung über die Meisterprüfung in den Teilen I und II im Gebäudereiniger-Handwerk
 - [GebrMV](laws/GebrMV-BJNR089000004.md) Verordnung zur Ausführung des Gebrauchsmustergesetzes
-- [GedStAbk](laws/GedStAbk-BJNR204740957.md) Abkommen zwischen der Bundesrepublik Deutschland und dem Vereinigten Königreich von Großbritannien und Nordirland, Kanada, Australien, Neuseeland, der Südafrikanischen Union, Indien und Pakistan sowie der Französischen Republik über Militärfriedhöfe, Kriegsgräber und Gedenkstätten des Britischen Commonwealth
-- [GedStBRDAbk](laws/GedStBRDAbk-BJNR204780957.md) Abkommen zwischen der Bundesrepublik Deutschland und dem Vereinigten Königreich von Großbritannien und Nordirland, Kanada, Australien, Neuseeland, der Südafrikanischen Union, Indien und Pakistan über die Kriegsgräber, Militärfriedhöfe und Gedenkstätten des Britischen Commonwealth im Gebiet der Bundesrepublik Deutschland
 - [GEEV](laws/GEEV-BJNR310210017.md) Verordnung zur grenzüberschreitenden Ausschreibung für Strom aus erneuerbaren Energien
 - [GefBeitrV 1998](laws/GefBeitrV_1998-BJNR043000998.md) Verordnung über die Pauschalberechnung der Beiträge zur Arbeitsförderung für Gefangene
 - [GeflPestSchV](laws/GeflPestSchV-BJNR234800007.md) Verordnung zum Schutz gegen die Geflügelpest
@@ -2494,7 +2472,6 @@
 - [GewinnungsAbfV](laws/GewinnungsAbfV-BJNR094700009.md) Verordnung zur Umsetzung der Richtlinie 2006/21/EG des Europäischen Parlaments und des Rates vom 15. März 2006 über die Bewirtschaftung von Abfällen aus der mineralgewinnenden Industrie und zur Änderung der Richtlinie 2004/35/EG
 - [GewO](laws/GewO-BJNR002450869.md) Gewerbeordnung
 - [GewO§34cDVÄndV 3](laws/GewO§34cDVÄndV_3-BJNR027200997.md) Dritte Verordnung zur Änderung der Makler- und Bauträgerverordnung
-- [GewRSchPrioFrAbk SWE](laws/GewRSchPrioFrAbk_SWE-BJNR201060951.md) Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich Schweden über die Verlängerung von Prioritätsfristen auf dem Gebiet des gewerblichen Rechtsschutzes
 - [GewSchG](laws/GewSchG-BJNR351310001.md) Gesetz zum zivilrechtlichen Schutz vor Gewalttaten und Nachstellungen
 - [GewStDV](laws/GewStDV-BJNR001520956.md) Gewerbesteuer-Durchführungsverordnung
 - [GewStG](laws/GewStG-BJNR009790936.md) Gewerbesteuergesetz
@@ -2666,12 +2643,10 @@
 - [GrenzgAbkNLDV 1](laws/GrenzgAbkNLDV_1-BJNR077820007.md) Erste Verordnung zur Bestimmung eines Gebietes als grenzüberschreitendes Gewerbegebiet im Sinne des Artikels 2 Abs. 1 Nr. 6 des Abkommens vom 16. Juni 1959 zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen sowie verschiedener sonstiger Steuern und zur Regelung anderer Fragen auf steuerlichem Gebiete
 - [GrenzgAbkNLDV 2](laws/GrenzgAbkNLDV_2-BJNR003020008.md) Zweite Verordnung zur Bestimmung eines Gebietes als grenzüberschreitendes Gewerbegebiet im Sinne des Artikels 2 Abs. 1 Nr. 6 des Abkommens vom 16. Juni 1959 zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen sowie verschiedener sonstiger Steuern und zur Regelung anderer Fragen auf steuerlichem Gebiete
 - [GrenzgNLDZusProt3](laws/GrenzgNLDZusProt3-BJNR165520004.md) Drittes Zusatzprotokoll zum Abkommen vom 16. Juni 1959 zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen sowie verschiedener sonstiger Steuern und zur Regelung anderer Fragen auf steuerlichem Gebiete
-- [GrenzgSteinKVtr NLD](laws/GrenzgSteinKVtr_NLD-BJNR209140959.md) Vertrag zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande über den Abbau von Steinkohlen im deutsch-niederländischen Grenzgebiet westlich Wegberg-Brüggen
 - [GrenzVerkAUTVtrG 1](laws/GrenzVerkAUTVtrG_1-BJNR220850967.md) Gesetz zu dem Vertrag vom 17. Februar 1966 zwischen der Bundesrepublik Deutschland und der Republik Österreich über den Durchgangsverkehr auf der Roßfeldstraße
 - [GrenzVerkAUTVtrG 2](laws/GrenzVerkAUTVtrG_2-BJNR220910967.md) Gesetz zu dem Vertrag vom 17. Februar 1966 zwischen der Bundesrepublik Deutschland und der Republik Österreich über den Durchgangsverkehr auf den Straßen an der Walchen Ache und am Pittenbach sowie zum Bächen- und Rißtal im deutschen und österreichischen Grenzgebiet
 - [GrenzVerkVtr AUT 1](laws/GrenzVerkVtr_AUT_1-BJNR220860967.md) Vertrag zwischen der Bundesrepublik Deutschland und der Republik Österreich über den Durchgangsverkehr auf der Roßfeldstraße
 - [GrenzVerkVtr AUT 2](laws/GrenzVerkVtr_AUT_2-BJNR220920967.md) Vertrag zwischen der Bundesrepublik Deutschland und der Republik Österreich über den Durchgangsverkehr auf den Straßen an der Walchen Ache und am Pittenbach sowie zum Bächen- und Rißtal im deutschen und österreichischen Grenzgebiet
-- [GrenzVtr BEL](laws/GrenzVtr_BEL-BJNR202620958.md) Vertrag zwischen der Bundesrepublik Deutschland und dem KÖnigreich Belgien über eine Berichtigung der deutsch-belgischen Grenze und andere die Beziehungen zwischen beiden Ländern betreffende Fragen
 - [GrenzVtr NLD](laws/GrenzVtr_NLD-BJNR204630963.md) Vertrag zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande über den Verlauf der gemeinsamen Landesgrenze, die Grenzgewässer, den grenznahen Grundbesitz, den grenzüberschreitenden Binnenverkehr und andere Grenzfragen
 - [GrenzVtr POL](laws/GrenzVtr_POL-BJNR213290991.md) Vertrag zwischen der Bundesrepublik Deutschland und der Republik Polen über die Bestätigung der zwischen ihnen bestehenden Grenze
 - [GrenzVtrPOLG](laws/GrenzVtrPOLG-BJNR213280991.md) Gesetz zu dem Vertrag vom 14. November 1990 zwischen der Bundesrepublik Deutschland und der Republik Polen über die Bestätigung der zwischen ihnen bestehenden Grenze
@@ -2684,7 +2659,6 @@
 - [GrundVtrG](laws/GrundVtrG-BJNR204210973.md) Gesetz zu dem Vertrag vom 21. Dezember 1972 zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik über die Grundlagen der Beziehungen zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik
 - [GruWErl](laws/GruWErl-BJNR006620953.md) Erlaß über die Stiftung des Grubenwehr-Ehrenzeichens
 - [GruWErlDBest](laws/GruWErlDBest-BJNR006630953.md) Durchführungsbestimmungen zum Erlaß über die Stiftung des Grubenwehr-Ehrenzeichens
-- [GrVerkAbk CHE](laws/GrVerkAbk_CHE-BJNR221620960.md) Deutsch-schweizerisches Abkommen über den Grenz- und Durchgangsverkehr (in der Fassung des Schriftwechsels vom 7./23. November 1959)
 - [GRWG](laws/GRWG-BJNR018610969.md) Gesetz über die Gemeinschaftsaufgabe "Verbesserung der regionalen Wirtschaftsstruktur"
 - [GrwV](laws/GrwV-BJNR151300010.md) Verordnung zum Schutz des Grundwassers*)
 - [GSA Fleisch](laws/GSA_Fleisch-BJNR257200017.md) Gesetz zur Sicherung von Arbeitnehmerrechten in der Fleischwirtschaft
@@ -2884,19 +2858,16 @@
 - [IAOÜbk 118](laws/IAOÜbk_118-BJNR208030970.md) Übereinkommen Nr. 118 (der Internationalen Arbeitsorganisation) über die Gleichbehandlung von Inländern und Ausländern in der Sozialen Sicherheit
 - [IAOÜbk 121](laws/IAOÜbk_121-BJNR211710971.md) Übereinkommen Nr. 121 (der internationalen Arbeitsorganisation) über Leistungen bei Arbeitsunfällen und Berufskrankheiten
 - [IAOÜbk 126](laws/IAOÜbk_126-BJNR208820974.md) Übereinkommen Nr. 126 (der Internationalen Arbeitsorganisation) über die Quartierräume an Bord von Fischereifahrzeugen
-- [IAOÜbk 87](laws/IAOÜbk_87-BJNR220730956.md) Übereinkommen Nr. 87 (der Internationalen Arbeitsorganisation) über die Vereinigungsfreiheit und den Schutz des Vereinigungsrechts
 - [IAOÜbk118G](laws/IAOÜbk118G-BJNR208020970.md) Gesetz zu dem Übereinkommen Nr. 118 der Internationalen Arbeitsorganisation vom 28. Juni 1962 über die Gleichbehandlung von Inländern und Ausländern in der Sozialen Sicherheit
 - [IAOÜbk121G](laws/IAOÜbk121G-BJNR211690971.md) Gesetz zu dem Übereinkommen Nr. 121 der Internationalen Arbeitsorganisation vom 8. Juli 1964 über Leistungen bei Arbeitsunfällen und Berufskrankheiten
 - [IAOÜbk147G](laws/IAOÜbk147G-BJNR206060980.md) Gesetz zum Übereinkommen Nr. 147 der Internationalen Arbeitsorganisation vom 29. Oktober 1976 über Mindestnormen auf Handelsschiffen
 - [IBRD/IFCAbkÄndG](laws/IBRD_IFCAbkÄndG-BJNR210890965.md) Gesetz zur Änderung des Abkommens über die Internationale Bank für Wiederaufbau und Entwicklung und des Abkommens über die Internationale Finanz-Corporation
-- [IBRDAbk](laws/IBRDAbk-BJNR206640952.md) Abkommen über die Internationale Bank für Wiederaufbau und Entwicklung
 - [IDA](laws/IDA-BJNR221389960.md) Abkommen über die Internationale Entwicklungsorganisation
 - [IDNrG](laws/IDNrG-BJNR059110021.md) Gesetz zur Einführung und Verwendung einer Identifikationsnummer in der öffentlichen Verwaltung
 - [IDÜV](laws/IDÜV-BJNR237200017.md) Verordnung über die Übermittlung von Indexdaten der Landesjustizverwaltungen an das Transparenzregister
 - [IEnProgÜbk](laws/IEnProgÜbk-BJNR207020975.md) Übereinkommen über ein Internationales Energieprogramm
 - [IEnProgÜbkG](laws/IEnProgÜbkG-BJNR207010975.md) Gesetz zu dem Übereinkommen vom 18. November 1974 über ein Internationales Energieprogramm
 - [IEntwOrgAbkG](laws/IEntwOrgAbkG-BJNR221370960.md) Gesetz zu dem Abkommen vom 26. Januar 1960 über die Internationale Entwicklungsorganisation
-- [IFCAbk](laws/IFCAbk-BJNR207490956.md) Abkommen über die Internationale Finanz-Corporation
 - [IFCAbkG](laws/IFCAbkG-BJNR207470956.md) Gesetz betreffend das Abkommen über die Internationale Finanz-Corporation und betreffend Gouverneure und Direktoren in der Internationalen Bank für Wiederaufbau und Entwicklung sowie in der Internationalen Finanz-Corporation
 - [IFG](laws/IFG-BJNR272200005.md) Gesetz zur Regelung des Zugangs zu Informationen des Bundes
 - [IFGGebV](laws/IFGGebV-BJNR000600006.md) Verordnung über die Gebühren und Auslagen nach dem Informationsfreiheitsgesetz
@@ -2908,7 +2879,6 @@
 - [II. BV](laws/II._BV-BJNR017190957.md) Verordnung über wohnungswirtschaftliche Berechnungen nach dem Zweiten Wohnungsbaugesetz
 - [IICVorRV](laws/IICVorRV-BJNR215250969.md) Verordnung über die Gewährung von Vorrechten und Befreiungen an das Internationale Baumwoll-Institut (International Institute for Cotton)
 - [IMF/IBRDBeitrAbkG](laws/IMF_IBRDBeitrAbkG-BJNR206370952.md) Gesetz über den Beitritt der Bundesrepublik Deutschland zu den Abkommen über den Internationalen Währungsfonds (International Monetary Fund) und über die Internationale Bank für Wiederaufbau und Entwicklung (International Bank for Reconstruction and Development)
-- [IMFAbk](laws/IMFAbk-BJNR206380952.md) Abkommen über den internationalen Währungsfonds
 - [IMFAbkG](laws/IMFAbkG-BJNR200130978.md) Gesetz zu dem Übereinkommen über den Internationalen Währungsfonds in der Fassung von 1976
 - [IMIS-ZustV](laws/IMIS-ZustV-BJNR353610017.md) Verordnung über die Zuständigkeiten von Bundesbehörden im integrierten Mess- und Informationssystem für die Überwachung der Umweltradioaktivität nach dem Strahlenschutzgesetz
 - [IMLebensmFPrV](laws/IMLebensmFPrV-BJNR013900017.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Industriemeister – Fachrichtung Lebensmittel und Geprüfte Industriemeisterin – Fachrichtung Lebensmittel
@@ -2963,10 +2933,8 @@
 - [InstallateurHeizungsbauerMstrV](laws/InstallateurHeizungsbauerMstrV-BJNR269300002.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Installateur- und Heizungsbauer-Handwerk
 - [InstitutsVergV](laws/InstitutsVergV-BJNR427000013.md) Verordnung über die aufsichtsrechtlichen Anforderungen an Vergütungssysteme von Instituten 1
 - [InsVV](laws/InsVV-BJNR220500998.md) Insolvenzrechtliche Vergütungsverordnung
-- [IntAtomBehSa](laws/IntAtomBehSa-BJNR213570959.md) Satzung der Internationalen Atomenergie-Behörde
 - [IntAtomOrgVorRV](laws/IntAtomOrgVorRV-BJNR219930960.md) Verordnung über die Gewährung von Vorrechten und Befreiungen an die Internationale Atomenergie-Organisation
 - [IntAtomOrgVorRVbg](laws/IntAtomOrgVorRVbg-BJNR219940960.md) Vereinbarung über die Vorrechte und Befreiungen der Internationalen Atomenergie-Organisation
-- [IntAtomSa](laws/IntAtomSa-BJNR200040958.md) Satzung der Internationalen Atomenergie-Organisation
 - [IntBestG](laws/IntBestG-BJNR232729998.md) Gesetz zu dem Übereinkommen vom 17. Dezember 1997 über die Bekämpfung der Bestechung ausländischer Amtsträger im internationalen Geschäftsverkehr
 - [IntBestÜbk](laws/IntBestÜbk-BJNR232920998.md) Übereinkommen über die Bekämpfung der Bestechung ausländischer Amtsträger im internationalen Geschäftsverkehr
 - [IntBMeßwVorRV](laws/IntBMeßwVorRV-BJNR206730959.md) Verordnung über die Gewährung von Vorrechten und Befreiungen an das internationale Büro für das gesetzliche Meßwesen
@@ -3003,7 +2971,6 @@
 - [IntMeerSchÜbk1973G](laws/IntMeerSchÜbk1973G-BJNR200020982.md) Gesetz zu dem Internationalen Übereinkommen von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe und zu dem Protokoll von 1978 zu diesem Übereinkommen
 - [IntMeerSchÜbk1973Prot](laws/IntMeerSchÜbk1973Prot-BJNR200240982.md) Protokoll von 1978 zu dem Internationalen Übereinkommen von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe
 - [IntMeerSchÜbk1973Prot 1](laws/IntMeerSchÜbk1973Prot_1-BJNR200180982.md) Protokoll I (zu dem Internationalen Übereinkommen von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe) Bestimmungen über Meldungen von Ereignissen in Verbindung mit Schadstoffen (nach Artikel 8 des Übereinkommens)
-- [IntMeßwOrgÜbk](laws/IntMeßwOrgÜbk-BJNR206740959.md) Übereinkommen zur Errichtung einer internationalen Organisation für das gesetzliche Meßwesen
 - [IntMilPVorRV](laws/IntMilPVorRV-BJNR204450976.md) Verordnung über die Gewährung von Vorrechten und Befreiungen an Militärpersonal der internationalen militärischen Hauptquartiere in der Bundesrepublik Deutschland
 - [IntNatKautschÜbk](laws/IntNatKautschÜbk-BJNR204620981.md) Internationales Naturkautschuk-Übereinkommen von 1979
 - [IntPatÜbkG](laws/IntPatÜbkG-BJNR206499976.md) Gesetz zu dem Übereinkommen vom 27. November 1963 zur Vereinheitlichung gewisser Begriffe des materiellen Rechts der Erfindungspatente, dem Vertrag vom 19. Juni 1970 über die internationale Zusammenarbeit auf dem Gebiet des Patentwesens und dem Übereinkommen vom 5. Oktober 1973 über die Erteilung europäischer Patente
@@ -3018,7 +2985,6 @@
 - [IntWarenBezÜbk](laws/IntWarenBezÜbk-BJNR210680986.md) Internationales Übereinkommen über das Harmonisierte System zur Bezeichnung und Codierung der Waren
 - [IntWarenBezÜbkÄndProt](laws/IntWarenBezÜbkÄndProt-BJNR210790986.md) Änderungsprotokoll zum Internationalen Übereinkommen über das Harmonisierte System zur Bezeichnung und Codierung der Waren
 - [IntWarenBezÜbkV](laws/IntWarenBezÜbkV-BJNR210670986.md) Verordnung zu dem Internationalen Übereinkommen vom 14. Juni 1983 über das Harmonisierte System zur Bezeichnung und Codierung der Waren und zu dem Änderungsprotokoll vom 24. Juni 1986
-- [IntZLuftAbk](laws/IntZLuftAbk-BJNR204120956.md) Abkommen über die Internationale Zivilluftfahrt
 - [IntZLuftAbkProt](laws/IntZLuftAbkProt-BJNR021120996.md) Protokoll zur Änderung des Abkommens über die internationale Zivilluftfahrt
 - [IntZLuftAbkProtG](laws/IntZLuftAbkProtG-BJNR021020996.md) Gesetz zu dem Protokoll vom 10. Mai 1984 zur Änderung des Abkommens vom 7. Dezember 1944 über die Internationale Zivilluftfahrt (9. Änderung des Abkommens über die Internationale Zivilluftfahrt)
 - [InVeKoSDG](laws/InVeKoSDG-BJNR193100014.md) Gesetz über die Verarbeitung von Daten im Rahmen des Integrierten Verwaltungs- und Kontrollsystems nach den unionsrechtlichen Vorschriften für Agrarzahlungen
@@ -3068,7 +3034,6 @@
 - [JagdzeitV 1977](laws/JagdzeitV_1977-BJNR005310977.md) Verordnung über die Jagdzeiten
 - [JAktAG](laws/JAktAG-BJNR085200005.md) Gesetz zur Aufbewahrung und Speicherung von Akten der Gerichte und Staatsanwaltschaften nach Beendigung des Verfahrens
 - [JAktAV](laws/JAktAV-BJNR483400021.md) Verordnung über die Aufbewahrung und Speicherung von Justizakten
-- [JAOÜbk 99](laws/JAOÜbk_99-BJNR202950953.md) Übereinkommen Nr. 99 (der Internationalen Arbeitsorganisation) über die Verfahren zur Festsetzung von Mindestlöhnen in der Landwirtschaft
 - [JAOÜbk99G](laws/JAOÜbk99G-BJNR202940953.md) Gesetz betreffend das Übereinkommen der Internationalen Arbeitsorganisation vom 28. Juni 1951 (Nr. 99) über die Verfahren zur Festsetzung von Mindestlöhnen in der Landwirtschaft
 - [JArbSchG](laws/JArbSchG-BJNR009650976.md) Gesetz zum Schutze der arbeitenden Jugend
 - [JArbSchUV](laws/JArbSchUV-BJNR022210990.md) Verordnung über die ärztlichen Untersuchungen nach dem Jugendarbeitsschutzgesetz
@@ -3189,7 +3154,6 @@
 - [KfzVersBehStatAnO](laws/KfzVersBehStatAnO-BJNR513510968.md) Anordnung über die statistische Erfassung der Tarifgruppe B (Behörden) in der Kraftfahrtversicherung
 - [KfzVersNATOStatAnO](laws/KfzVersNATOStatAnO-BJNR513500968.md) Anordnung über die statistische Erfassung des Kraftfahrtversicherungsgeschäfts mit NATO-Truppenangehörigen
 - [KGAbkÄndAbk NLD](laws/KGAbkÄndAbk_NLD-BJNR097120998.md) Abkommen zur Änderung des Abkommens vom 8. April 1960 zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande über niederländische Kriegsgräber in der Bundesrepublik Deutschland (Kriegsgräberabkommen)
-- [KgfAbk Genf](laws/KgfAbk_Genf-BJNR208380954.md) III. Genfer Abkommen vom 12. August 1949 über die Behandlung der Kriegsgefangen
 - [KGSG](laws/KGSG-BJNR191410016.md) Gesetz zum Schutz von Kulturgut
 - [KGÜbk](laws/KGÜbk-BJNR062720007.md) Übereinkommen über Maßnahmen zum Verbot und zur Verhütung der rechtswidrigen Einfuhr, Ausfuhr und Übereignung von Kulturgut
 - [KGUG](laws/KGUG-BJNR113890992.md) Gesetz über die nachträgliche Umstellung von Mark der Deutschen Demokratischen Republik auf Deutsche Mark für Kontoguthaben natürlicher Personen
@@ -3297,7 +3261,6 @@
 - [KraftstoffLBV](laws/KraftstoffLBV-BJNR005200982.md) Verordnung über Lieferbeschränkungen für Kraftstoff in einer Versorgungskrise
 - [KraftwPrV](laws/KraftwPrV-BJNR032800001.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Kraftwerker/Geprüfte Kraftwerkerin
 - [KrArchG](laws/KrArchG-BJNR000650988.md) Gesetz über die zentrale Archivierung von Unterlagen aus dem Bereich des Kriegsfolgenrechts
-- [KrBesReglVtr](laws/KrBesReglVtr-BJNR204050955.md) Vertrag zur Regelung aus Krieg und Besatzung entstandener Fragen (in der gemäß Liste IV zu dem am 23. Oktober 1954 in Paris unterzeichneten Protokoll über die Beendigung des Besatzungsregimes in der Bundesrepublik Deutschland geänderten Fassung)
 - [KredAAG](laws/KredAAG-BJNR113140991.md) Gesetz über die Anpassung von Kreditverträgen an Marktbedingungen sowie über Ausgleichsleistungen an Kreditnehmer
 - [KredAnstWiAG](laws/KredAnstWiAG-BJNR701230948.md) Gesetz über die Kreditanstalt für Wiederaufbau
 - [KredAnstWiAÜV](laws/KredAnstWiAÜV-BJNR255400994.md) Verordnung zur Übertragung des Vermögens der Staatsbank Berlin auf die Kreditanstalt für Wiederaufbau
@@ -3361,10 +3324,7 @@
 - [KüstmProkBek](laws/KüstmProkBek-BJNR342800994.md) Bekanntmachung der Proklamation der Bundesregierung über die Ausweitung des deutschen Küstenmeeres
 - [KugÖV](laws/KugÖV-BJNR627200022.md) Verordnung über die Öffnung des Kurzarbeitergeldbezugs für Leiharbeitnehmerinnen und Leiharbeitnehmer
 - [KultErhStudZVorRV](laws/KultErhStudZVorRV-BJNR213210964.md) Verordnung über die Gewährung von Vorrechten und Befreiungen an die "Internationale Studienzentrale für die Erhaltung und Restaurierung von Kulturgut" in Rom
-- [KultgSchKonv](laws/KultgSchKonv-BJNR212350967.md) Konvention zum Schutz von Kulturgut bei bewaffneten Konflikten
-- [KultgSchKonvABest](laws/KultgSchKonvABest-BJNR212710967.md) Ausführungsbestimmungen zur Konvention zum Schutz von Kulturgut bei bewaffneten Konflikten
 - [KultgSchKonvG](laws/KultgSchKonvG-BJNR212330967.md) Gesetz zu der Konvention vom 14. Mai 1954 zum Schutz von Kulturgut bei bewaffneten Konflikten
-- [KultgSchKonvProt](laws/KultgSchKonvProt-BJNR213000967.md) Protokoll (zu der Konvention zum Schutz von Kulturgut bei bewaffneten Konflikten vom 14. Mai 1954)
 - [KultgSchKonvProt 2](laws/KultgSchKonvProt_2-BJNR071720009.md) Zweites Protokoll zur Haager Konvention von 1954 zum Schutz von Kulturgut bei bewaffneten Konflikten
 - [KundenbTischlPrV](laws/KundenbTischlPrV-BJNR148200004.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Kundenberater/Geprüfte Kundenberaterin im Tischlerhandwerk
 - [KunstSchAbk](laws/KunstSchAbk-BJNR212450965.md) Internationales Abkommen über den Schutz der ausübenden Künstler, der Hersteller von Tonträgern und der Sendeunternehmen
@@ -3394,8 +3354,6 @@
 - [KyotoProtAnpfondsG](laws/KyotoProtAnpfondsG-BJNR014520011.md) Gesetz zur Verleihung der Rechtsfähigkeit an den Rat des Anpassungsfonds
 - [LA-EG-Saar](laws/LA-EG-Saar-BJNR006370960.md) Gesetz zur Einführung von Vorschriften des Lastenausgleichsrechts im Saarland
 - [LA-EinfDV-Saar](laws/LA-EinfDV-Saar-BJNR001350961.md) Verordnung zur Einführung von Rechtsverordnungen zum Lastenausgleichsrecht im Saarland
-- [LAAbk CHE](laws/LAAbk_CHE-BJNR200240953.md) Abkommen zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft zum deutschen Lastenausgleich
-- [LAAbk SWE](laws/LAAbk_SWE-BJNR208230956.md) Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich Schweden zum deutschen Lastenausgleich
 - [LAAbkErgAbkCHEG](laws/LAAbkErgAbkCHEG-BJNR204530964.md) Gesetz zu dem Abkommen vom 16. März 1962 zur Ergänzung des Abkommens vom 26. August 1952 zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft zum deutschen Lastenausgleich
 - [LAArchV](laws/LAArchV-BJNR001610988.md) Verordnung zur Durchführung der zentralen Archivierung von Unterlagen aus dem Bereich des Lastenausgleichs
 - [LadSchlG](laws/LadSchlG-BJNR008750956.md) Gesetz über den Ladenschluss
@@ -3470,7 +3428,6 @@
 - [LPartG](laws/LPartG-BJNR026610001.md) Gesetz über die Eingetragene Lebenspartnerschaft
 - [LSpV](laws/LSpV-BJNR242800993.md) Verordnung zur Durchführung des Lebensmittelspezialitätengesetzes
 - [LStDV](laws/LStDV-BJNR701570949.md) Lohnsteuer-Durchführungsverordnung
-- [LStrkrAbk Genf](laws/LStrkrAbk_Genf-BJNR207830954.md) I. Genfer Abkommen vom 12. August 1949 zur Verbesserung des Loses der Verwundeten und Kranken der Streitkräfte im Felde
 - [LSV](laws/LSV-BJNR16F0B0025.md) Verordnung über die Sicherstellung der technischen Mindestanforderungen an öffentlich zugängliche Ladepunkte für elektrisch betriebene Fahrzeuge
 - [LSVAAbk Büs](laws/LSVAAbk_Büs-BJNR123920008.md) Abkommen zwischen der Regierung der Bundesrepublik Deutschland und dem Schweizerischen Bundesrat zum Vertrag vom 23. November 1964 über die Einbeziehung der Gemeinde Büsingen am Hochrhein in das schweizerische Zollgebiet über die Erhebung und die Ausrichtung eines Anteils der von der Schweiz in ihrem Staatsgebiet und im Gebiet der Gemeinde Büsingen am Hochrhein erhobenen leistungsabhängigen Schwerverkehrsabgabe
 - [LSVAAbkBüsG](laws/LSVAAbkBüsG-BJNR123720008.md) Gesetz zu dem Abkommen vom 7. Dezember 2004 zwischen der Regierung der Bundesrepublik Deutschland und dem Schweizerischen Bundesrat zum Vertrag vom 23. November 1964 über die Einbeziehung der Gemeinde Büsingen am Hochrhein in das schweizerische Zollgebiet über die Erhebung und die Ausrichtung eines Anteils der von der Schweiz in ihrem Staatsgebiet und im Gebiet der Gemeinde Büsingen am Hochrhein erhobenen leistungsabhängigen Schwerverkehrsabgabe (LSVA-Abkommen Büsingen)
@@ -3479,7 +3436,6 @@
 - [LuftBekÜbk](laws/LuftBekÜbk-BJNR215060970.md) Übereinkommen zur Bekämpfung der widerrechtlichen Inbesitznahme von Luftfahrzeugen
 - [LuftBO](laws/LuftBO-BJNR002620970.md) Betriebsordnung für Luftfahrtgerät
 - [LuftEBV](laws/LuftEBV-BJNR026600008.md) Verordnung zur Regelung des Betriebs von nicht als Luftfahrtgerät zugelassenen elektronischen Geräten in Luftfahrzeugen
-- [LuftFzgAbk](laws/LuftFzgAbk-BJNR201300959.md) Abkommen über die internationale Anerkennung von Rechten an Luftfahrzeugen
 - [LuftFzgAbkG](laws/LuftFzgAbkG-BJNR201290959.md) Gesetz über den Beitritt der Bundesrepublik Deutschland zu dem Abkommen vom 19. Juni 1948 über die internationale Anerkennung von Rechten an Luftfahrzeugen
 - [LuftFzgG](laws/LuftFzgG-BJNR000570959.md) Gesetz über Rechte an Luftfahrzeugen
 - [LuftFzgÜbk](laws/LuftFzgÜbk-BJNR200250962.md) Mehrseitiges Übereinkommen über Lufttüchtigkeitszeugnisse eingeführter Luftfahrzeuge
@@ -3490,7 +3446,6 @@
 - [LuftPersV](laws/LuftPersV-BJNR000530976.md) Verordnung über Luftfahrtpersonal
 - [LuftPersVDV 3 2017](laws/LuftPersVDV_3_2017-BJNR615700017.md) Dritte Durchführungsverordnung des Luftfahrt-Bundesamtes zur Verordnung über Luftfahrtpersonal
 - [LuftRAAbkDG](laws/LuftRAAbkDG-BJNR010790933.md) Gesetz zur Durchführung des Ersten Abkommens zur Vereinheitlichung des Luftprivatrechts
-- [LuftRAbkÄndProt](laws/LuftRAbkÄndProt-BJNR202920958.md) Protokoll zur Änderung des Abkommens zur Vereinheitlichung von Regeln über die Beförderung im internationalen Luftverkehr unterzeichnet in Warschau am 12. Oktober 1929
 - [LuftRAbkZAbk](laws/LuftRAbkZAbk-BJNR211590963.md) Zusatzabkommen zum Warschauer Abkommen zur Vereinheitlichung von Regeln über die von einem anderen als dem vertraglichen Luftfrachtführer ausgeführte Beförderung im internationalen Luftverkehr
 - [LuftRÄndV](laws/LuftRÄndV-BJNR075000993.md) Verordnung zur Änderung luftrechtlicher Verordnungen und Durchführungsverordnungen zur Regelung des Betriebes von Luftsportgeräten
 - [LuftRÄndV 2001](laws/LuftRÄndV_2001-BJNR122100001.md) Verordnung zur Änderung luftrechtlicher Vorschriften über den Transport gefährlicher Güter und die Zulassung von Luftsportgeräten und Flugmodellen
@@ -3510,7 +3465,6 @@
 - [LuftVGÄndG 10](laws/LuftVGÄndG_10-BJNR013700992.md) Zehntes Gesetz zur Änderung des Luftverkehrsgesetzes
 - [LuftVGÄndG 11](laws/LuftVGÄndG_11-BJNR243200998.md) Elftes Gesetz zur Änderung des Luftverkehrsgesetzes
 - [LuftVGBV](laws/LuftVGBV-BJNR14E0A0024.md) Verordnung über die Beleihung juristischer Personen des privaten Rechts gemäß § 30a des Luftverkehrsgesetzes
-- [LuftVGewRAbk](laws/LuftVGewRAbk-BJNR208220959.md) Mehrseitiges Abkommen über gewerbliche Rechte im nichtplanmäßigen Luftverkehr in Europa
 - [LuftvKflAusbV](laws/LuftvKflAusbV-BJNR066800017.md) Verordnung über die Berufsausbildung zum Luftverkehrskaufmann und zur Luftverkehrskauffrau*
 - [LuftVO](laws/LuftVO-BJNR189410015.md) Luftverkehrs-Ordnung
 - [LuftVODV 106](laws/LuftVODV_106-BJNR515520991.md) Einhundertsechste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen Erfurt-Weimar)
@@ -3819,8 +3773,6 @@
 - [MoselSchAbgT2002ABest](laws/MoselSchAbgT2002ABest-BJNR546100002.md) Ausführungsbestimmungen zum Tarif für die Schifffahrtsabgaben auf der Mosel zwischen Thionville (Diedenhofen) und Koblenz (Coblence)
 - [MoselSchPEV](laws/MoselSchPEV-BJNR167020997.md) Verordnung zur Einführung der Moselschiffahrtspolizeiverordnung
 - [MoselSchPV](laws/MoselSchPV-BJNR167030997.md) Moselschiffahrtspolizeiverordnung
-- [MoselVtr FRA/LUX](laws/MoselVtr_FRA_LUX-BJNR218380956.md) Vertrag zwischen der Bundesrepublik Deutschland, der Französischen Republik und dem Großherzogtum Luxemburg über die Schiffbarmachung der Mosel
-- [MoselVtrFRA/LUXG](laws/MoselVtrFRA_LUXG-BJNR218370956.md) Gesetz zu dem Vertrag vom 27. Oktober 1956 zwischen der Bundesrepublik Deutschland, der Französischen Republik und dem Großherzogtum Luxemburg über die Schiffbarmachung der Mosel
 - [MPAHSBundV](laws/MPAHSBundV-BJNR049700011.md) Verordnung über den Aufstieg in den höheren nichttechnischen Verwaltungsdienst des Bundes über das Studium „Master of Public Administration“ an der Hochschule des Bundes für öffentliche Verwaltung
 - [MPAMIV](laws/MPAMIV-BJNR083310021.md) Verordnung über die Meldung von mutmaßlichen schwerwiegenden Vorkommnissen bei Medizinprodukten sowie zum Informationsaustausch der zuständigen Behörden
 - [MPAV](laws/MPAV-BJNR122710014.md) Verordnung zur Regelung der Abgabe von Medizinprodukten
@@ -4205,12 +4157,9 @@
 - [NatKautschOrgVorRV 1989](laws/NatKautschOrgVorRV_1989-BJNR201060989.md) Verordnung über die Gewährung von Vorrechten und Immunitäten an die Internationale Naturkautschukorganisation
 - [NATO/BRDVbg](laws/NATO_BRDVbg-BJNR201140962.md) Vereinbarung zwischen der Nordatlantikvertrags-Organisation und der Regierung der Bundesrepublik Deutschland über die Durchführung von Teil IV des am 20. September 1951 in Ottawa unterzeichneten "Übereinkommens über den Status der Nordatlantikvertrags-Organisation, der nationalen Vertreter und des internationalen Personals"
 - [NATOHQAbk](laws/NATOHQAbk-BJNR220090969.md) Abkommen zwischen der Bundesrepublik Deutschland und dem Obersten Hauptquartier der Alliierten Mächte, Europa, über die besonderen Bedingungen für die Einrichtung und den Betrieb internationaler militärischer Hauptquartiere in der Bundesrepublik Deutschland
-- [NATOHQProt](laws/NATOHQProt-BJNR220000969.md) Protokoll über die Rechtsstellung der auf Grund des Nordatlantikvertrags errichteten internationalen militärischen Hauptquartiere
 - [NATOLiegÜblÜbk](laws/NATOLiegÜblÜbk-BJNR220480969.md) Übereinkommen über die Überlassung von Liegenschaften an internationale militärische Hauptquartiere der NATO in der Bundesrepublik Deutschland durch die Streitkräfte des Vereinigten Königreichs Großbritannien und Nordirland und der Vereinigten Staaten von Amerika
 - [NATOPersRÜbk](laws/NATOPersRÜbk-BJNR220440969.md) Übereinkommen über die Rechtsstellung des einem internationalen militärischen Hauptquartier der NATO in der Bundesrepublik Deutschland zugeteilten Personals der Entsendestaaten
 - [NATOProtG](laws/NATOProtG-BJNR219970969.md) Gesetz zu dem Protokoll vom 28. August 1952 über die Rechtsstellung der auf Grund des Nordatlantikvertrags errichteten internationalen militärischen Hauptquartiere und zu den dieses Protokoll ergänzenden Vereinbarungen
-- [NATOStatÜbk](laws/NATOStatÜbk-BJNR201180958.md) Übereinkommen über den Status der Nordatlantikvertrags-Organisation, der nationalen Vertreter und des internationalen Personals
-- [NATOTrStat](laws/NATOTrStat-BJNR211900961.md) Abkommen zwischen den Parteien des Nordatlantikvertrags über die Rechtsstellung ihrer Truppen
 - [NATOTrStatÄndZAbkG](laws/NATOTrStatÄndZAbkG-BJNR210210973.md) Gesetz zu dem Abkommen vom 21. Oktober 1971 zur Änderung des Zusatzabkommens vom 3. August 1959 zu dem Abkommen zwischen den Parteien des Nordatlantikvertrags über die Rechtsstellung ihrer Truppen hinsichtlich der in der Bundesrepublik Deutschland stationierten ausländischen Truppen
 - [NATOTrStatVtrG](laws/NATOTrStatVtrG-BJNR211839961.md) Gesetz zu dem Abkommen zwischen den Parteien des Nordatlantikvertrags vom 19. Juni 1951 über die Rechtsstellung ihrer Truppen und zu den Zusatzvereinbarungen vom 3. August 1959 zu diesem Abkommen
 - [NATOTrStatZAbk](laws/NATOTrStatZAbk-BJNR212180961.md) Zusatzabkommen zu dem Abkommen zwischen den Parteien des Nordatlantikvertrages über die Rechtsstellung ihrer Truppen hinsichtlich der in der Bundesrepublik Deutschland stationierten ausländischen Truppen
@@ -4221,7 +4170,6 @@
 - [NATOTrStatZusAbk NL](laws/NATOTrStatZusAbk_NL-BJNR240720998.md) Zusatzabkommen zu dem Abkommen vom 19. Juni 1951 zwischen den Parteien des Nordatlantikvertrags über die Rechtsstellung ihrer Truppen hinsichtlich der im Königreich der Niederlande stationierten deutschen Truppen
 - [NATOVorRV](laws/NATOVorRV-BJNR201170958.md) Verordnung über die Gewährung von Vorrechten und Befreiungen an die Nordatlantikvertrags-Organisation, die nationalen Vertreter, das internationale Personal und die für die Organisation tätigen Sachverständigen
 - [NATOVorRV 1962](laws/NATOVorRV_1962-BJNR201130962.md) Verordnung über die Gewährung von Vorrechten und Befreiungen an internationale Bedienstete der Nordatlantikvertrags-Organisation
-- [NATOVtr](laws/NATOVtr-BJNR202890955.md) Nordatlantikvertrag
 - [NATOZAbkUnterzProt](laws/NATOZAbkUnterzProt-BJNR213130961.md) Unterzeichnungsprotokoll zum Zusatzabkommen
 - [NatPDrömlV](laws/NatPDrömlV-DDNR514780990.md) Verordnung über die Festsetzung von Naturschutzgebieten und einem Landschaftsschutzgebiet von zentraler Bedeutung als Naturpark "Drömling"
 - [NatPHHarzV](laws/NatPHHarzV-DDNR514690990.md) Verordnung über die Festsetzung des Nationalparks Hochharz
@@ -4486,7 +4434,6 @@
 - [PersStdAuszÜbkG](laws/PersStdAuszÜbkG-BJNR077420997.md) Gesetz zu dem Übereinkommen vom 8. September 1976 über die Ausstellung mehrsprachiger Auszüge aus Personenstandsbüchern
 - [PersStdBerV NW](laws/PersStdBerV_NW-BJNR700430948.md) Verordnung über Vornamen und die Berichtigung von Eintragungen in den Personenstandsbüchern
 - [PersStdGÄndG 2](laws/PersStdGÄndG_2-BJNR005180957.md) Zweites Gesetz zur Änderung und Ergänzung des Personenstandsgesetzes
-- [PersStdNamÜbk](laws/PersStdNamÜbk-BJNR210560961.md) Übereinkommen über die Erteilung gewisser für das Ausland bestimmter Auszüge aus Personenstandsbüchern
 - [PersStdNamZProt](laws/PersStdNamZProt-BJNR048720994.md) Zusatzprotokoll zu dem am 4. September 1958 in Istanbul unterzeichneten Übereinkommen über den internationalen Austausch von Auskünften in Personenstandsangelegenheiten - angenommen am 7. September 1988 in Salzburg von der Generalversammlung der Internationalen Kommission für das Zivilstandswesen -
 - [PersStdNamZProtG](laws/PersStdNamZProtG-BJNR048620994.md) Gesetz betreffend das Zusatzprotokoll vom 6. September 1989 zu dem Übereinkommen vom 4. September 1958 über den internationalen Austausch von Auskünften in Personenstandsangelegenheiten
 - [PersStruktG-Streitkräfte](laws/PersStruktG-Streitkräfte-BJNR016210985.md) Gesetz zur Verbesserung der Personalstruktur in den Streitkräften
@@ -4533,8 +4480,6 @@
 - [PflGesG](laws/PflGesG-BJNR235410021.md) Gesetz zur Durchführung der Verordnung (EU) 2016/2031 und der Verordnung (EU) 2017/625 im Bereich Pflanzengesundheit
 - [PflKartV 1986](laws/PflKartV_1986-BJNR001920986.md) Pflanzkartoffelverordnung
 - [PflNV](laws/PflNV-BJNR275009994.md) Verordnung zur Neuordnung des Pflegesatzrechts
-- [PflSchAbk](laws/PflSchAbk-BJNR209480956.md) Internationales Pflanzenschutzabkommen
-- [PflSchAbkG](laws/PflSchAbkG-BJNR209470956.md) Gesetz über das Internationale Pflanzenschutzabkommen vom 6. Dezember 1951
 - [PflSchadORZV](laws/PflSchadORZV-BJNR048500019.md) Verordnung zur Zuweisung der Funktion eines nationalen Referenzlaboratoriums für Schadorganismen der Pflanzen1
 - [PflSchAnwV 1992](laws/PflSchAnwV_1992-BJNR118870992.md) Verordnung über Anwendungsverbote für Pflanzenschutzmittel
 - [PflSchG](laws/PflSchG-BJNR014810012.md) Gesetz zum Schutz der Kulturpflanzen
@@ -4947,8 +4892,6 @@
 - [RZV](laws/RZV-BJNR193910007.md) Verordnung zur Zuweisung der Funktion eines nationalen Referenzlaboratoriums
 - [SAA MNE](laws/SAA_MNE-BJNR108320009.md) Stabilisierungs- und Assoziierungsabkommen zwischen den Europäischen Gemeinschaften und ihren Mitgliedstaaten einerseits und der Republik Montenegro andererseits
 - [SaarGlV](laws/SaarGlV-BJNR010740953.md) Verordnung über die Gleichstellung von aus dem Saargebiet verdrängten Deutschen
-- [SaarVtr](laws/SaarVtr-BJNR215890956.md) Vertrag zwischen der Bundesrepublik Deutschland und der Französischen Republik zur Regelung der Saarfrage
-- [SaarVtrG](laws/SaarVtrG-BJNR215870956.md) Gesetz über den Vertrag zwischen der Bundesrepublik Deutschland und der Französischen Republik zur Regelung der Saarfrage
 - [SaatArtVerzV 1985](laws/SaatArtVerzV_1985-BJNR017620985.md) Verordnung über das Artenverzeichnis zum Saatgutverkehrsgesetz
 - [SaatAufzV](laws/SaatAufzV-BJNR002140986.md) Saatgutaufzeichnungsverordnung
 - [SaatBeihV 1993](laws/SaatBeihV_1993-BJNR175600993.md) Saatgutbeihilfeverordnung
@@ -5067,12 +5010,9 @@
 - [SchUnfDatG](laws/SchUnfDatG-BJNR311810013.md) Schiffsunfalldatenbankgesetz
 - [SchuTSEV](laws/SchuTSEV-BJNR106000009.md) Verordnung zum Schutz von öffentlichen Telekommunikationsnetzen und Sende- und Empfangsfunkanlagen, die in definierten Frequenzbereichen zu Sicherheitszwecken betrieben werden *)
 - [SchutzRAbk PRT](laws/SchutzRAbk_PRT-BJNR202780959.md) Abkommen zwischen der Bundesrepublik Deutschland und der Portugiesischen Republik auf dem Gebiet des gewerblichen Rechtsschutzes
-- [SchutzRAbk SWE](laws/SchutzRAbk_SWE-BJNR208190956.md) Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich Schweden über die Wiederherstellung gewerblicher Schutzrechte
 - [SchuV](laws/SchuV-BJNR084600995.md) Verordnung über die Erfüllung von Entschädigungs- und Ausgleichsleistungsansprüchen durch Begebung und Zuteilung von Schuldverschreibungen des Entschädigungsfonds
 - [SchuVAbdrV](laws/SchuVAbdrV-BJNR165800012.md) Verordnung über den Bezug von Abdrucken aus dem Schuldnerverzeichnis
 - [SchVermssgÄndÜbkV](laws/SchVermssgÄndÜbkV-BJNR202730972.md) Verordnung zu den Änderungen vom 21. Mai 1965 des Übereinkommens über ein einheitliches System der Schiffsvermessung
-- [SchVermssgIntVs](laws/SchVermssgIntVs-BJNR214800957.md) Internationale Vorschriften für die Schiffsvermessung (Anlage zu dem Übereinkommen über ein einheitliches System der Schiffsvermessung)
-- [SchVermssgÜbk](laws/SchVermssgÜbk-BJNR214710957.md) Übereinkommen über ein einheitliches System der Schiffsvermessung
 - [SchVerschrFrdWäG](laws/SchVerschrFrdWäG-BJNR005150936.md) Gesetz über Fremdwährungs-Schuldverschreibungen
 - [SchVG](laws/SchVG-BJNR251210009.md) Gesetz über Schuldverschreibungen aus Gesamtemissionen
 - [SchwarmfdPV](laws/SchwarmfdPV-BJNR085200022.md) Verordnung zur Ausgestaltung der Prüfungen nach § 32f des Wertpapierhandelsgesetzes bei Schwarmfinanzierungsdienstleistern nach der Verordnung (EU) 2020/1503
@@ -5086,8 +5026,6 @@
 - [SchwPestMonV](laws/SchwPestMonV-BJNR251800016.md) Verordnung zur Durchführung eines Monitorings auf das Virus der Klassischen und der Afrikanischen Schweinepest bei Wild- und Hausschweinen
 - [SchwPestV 1988](laws/SchwPestV_1988-BJNR015590988.md) Verordnung zum Schutz gegen die Schweinepest und die Afrikanische Schweinepest *
 - [SchwSalmoV](laws/SchwSalmoV-BJNR032200007.md) Verordnung zur Verminderung der Salmonellenverbreitung durch Schlachtschweine
-- [SchZusStrZustÜbk](laws/SchZusStrZustÜbk-BJNR206680972.md) Internationales Übereinkommen zur Vereinheitlichung von Regeln über die strafgerichtliche Zuständigkeit bei Schiffszusammenstößen und anderen mit der Führung eines Seeschiffes zusammenhängenden Ereignissen
-- [SchZusZZustÜbk](laws/SchZusZZustÜbk-BJNR206630972.md) Internationales Übereinkommen zur Vereinheitlichung von Regeln über die zivilgerichtliche Zuständigkeit bei Schiffszusammenstößen
 - [SDLWindV](laws/SDLWindV-BJNR173400009.md) Verordnung zu Systemdienstleistungen durch Windenergieanlagen
 - [SEAG](laws/SEAG-BJNR367510004.md) Gesetz zur Ausführung der Verordnung (EG) Nr. 2157/2001 des Rates vom 8. Oktober 2001 über das Statut der Europäischen Gesellschaft (SE)
 - [SEBG](laws/SEBG-BJNR368600004.md) Gesetz über die Beteiligung der Arbeitnehmer in einer Europäischen Gesellschaft
@@ -5129,7 +5067,6 @@
 - [SeeRÜbk](laws/SeeRÜbk-BJNR179920994.md) Seerechtsübereinkommen der Vereinten Nationen
 - [SeeRÜbkAG](laws/SeeRÜbkAG-BJNR077800995.md) Gesetz zur Ausführung des Seerechtsübereinkommens der Vereinten Nationen vom 10. Dezember 1982 sowie des Übereinkommens vom 28. Juli 1994 zur Durchführung des Teils XI des Seerechtsübereinkommens
 - [SeeRÜbkXIÜbk](laws/SeeRÜbkXIÜbk-BJNR256620994.md) Übereinkommen zur Durchführung des Teiles XI des Seerechtsübereinkommens der Vereinten Nationen
-- [SeeSchAÜbk](laws/SeeSchAÜbk-BJNR206550972.md) Internationales Übereinkommen zur Vereinheitlichung von Regeln über den Arrest in Seeschiffe
 - [SeeSchAÜV](laws/SeeSchAÜV-BJNR007330982.md) Verordnung zur Übertragung von Aufgaben auf dem Gebiet der Seeschiffahrt zur Ausübung auf die Bundespolizei und die Zollverwaltung
 - [SeeSchHaftÜbk 1976](laws/SeeSchHaftÜbk_1976-BJNR207870986.md) Übereinkommen von 1976 über die Beschränkung der Haftung für Seeforderungen
 - [SeeSchHaftÜbk1976G](laws/SeeSchHaftÜbk1976G-BJNR207860986.md) Gesetz zu dem Übereinkommen von 1976 über die Beschränkung der Haftung für Seeforderungen
@@ -5143,7 +5080,6 @@
 - [SeeSchSiÜbkG](laws/SeeSchSiÜbkG-BJNR204940990.md) Gesetz zu dem Übereinkommen vom 10. März 1988 zur Bekämpfung widerrechtlicher Handlungen gegen die Sicherheit der Seeschiffahrt und zum Protokoll vom 10. März 1988 zur Bekämpfung widerrechtlicher Handlungen gegen die Sicherheit fester Plattformen, die sich auf dem Festlandsockel befinden
 - [SeeSchStrO](laws/SeeSchStrO-BJNR006410971.md) Seeschiffahrtsstraßen-Ordnung
 - [SeeSpbootV](laws/SeeSpbootV-BJNR345710002.md) Verordnung über die Inbetriebnahme von Sportbooten und Wassermotorrädern sowie deren Vermietung und gewerbsmäßige Nutzung im Küstenbereich 1) 2)
-- [SeeStreitKrAbk Genf](laws/SeeStreitKrAbk_Genf-BJNR208130954.md) II. Genfer Abkommen vom 12. August 1949 zur Verbesserung des Loses der Verwundeten, Kranken und Schiffbrüchigen der Streitkräfte zur See
 - [SeeStrO1972Übk](laws/SeeStrO1972Übk-BJNR210180976.md) Übereinkommen von 1972 über die Internationalen Regeln zur Verhütung von Zusammenstößen auf See
 - [SeeStrO1972ÜbkG](laws/SeeStrO1972ÜbkG-BJNR210170976.md) Gesetz zu dem Übereinkommen vom 20. Oktober 1972 über die Internationalen Regeln zur Verhütung von Zusammenstößen auf See
 - [SeeStrOV](laws/SeeStrOV-BJNR008130977.md) Verordnung zu den Internationalen Regeln von 1972 zur Verhütung von Zusammenstößen auf See
@@ -5279,7 +5215,6 @@
 - [SozKiGAbV](laws/SozKiGAbV-BJNR1760A0025.md) Verordnung zum Abruf von Kindergelddaten durch Sozialleistungsträger
 - [SozSichAbk ALB](laws/SozSichAbk_ALB-BJNR075720016.md) Abkommen zwischen der Bundesrepublik Deutschland und der Republik Albanien über Soziale Sicherheit
 - [SozSichAbk AUT 1995](laws/SozSichAbk_AUT_1995-BJNR031320998.md) Abkommen zwischen der Bundesrepublik Deutschland und der Republik Österreich über Soziale Sicherheit
-- [SozSichAbk BEL](laws/SozSichAbk_BEL-BJNR204060963.md) Allgemeines Abkommen zwischen der Bundesrepublik Deutschland und dem KÖnigreich Belgien über Soziale Sicherheit
 - [SozSichAbk BGR](laws/SozSichAbk_BGR-BJNR201320998.md) Abkommen zwischen der Bundesrepublik Deutschland und der Republik Bulgarien über Soziale Sicherheit
 - [SozSichAbk BRA](laws/SozSichAbk_BRA-BJNR092020010.md) Abkommen zwischen der Bundesrepublik Deutschland und der Föderativen Republik Brasilien über Soziale Sicherheit
 - [SozSichAbk ESP 2](laws/SozSichAbk_ESP_2-BJNR206870977.md) Abkommen zwischen der Bundesrepublik Deutschland und dem Spanischen Staat über Soziale Sicherheit
@@ -5333,7 +5268,6 @@
 - [SozSichAbkDVbg TUR](laws/SozSichAbkDVbg_TUR-BJNR210550986.md) Vereinbarung zur Durchführung des Abkommens vom 30. April 1964 zwischen der Bundesrepublik Deutschland und der Republik Türkei über Soziale Sicherheit
 - [SozSichAbkDVbgSWEG](laws/SozSichAbkDVbgSWEG-BJNR200370979.md) Gesetz zu der Vereinbarung vom 23. Februar 1978 zwischen der Bundesrepublik Deutschland und dem Königreich Schweden zur Durchführung des Abkommens vom 27. Februar 1976 über Soziale Sicherheit
 - [SozSichAbkDVbgZVbg AUT](laws/SozSichAbkDVbgZVbg_AUT-BJNR212690969.md) Zusatzvereinbarung vom 10. April 1969 zu der Vereinbarung vom 22. Dezember 1966 zur Durchführung des Abkommens zwischen der Bundesrepublik Deutschland und der Republik Österreich über Soziale Sicherheit
-- [SozSichAbkErgVbg FRA 2](laws/SozSichAbkErgVbg_FRA_2-BJNR207570958.md) Zweite Vereinbarung zur Ergänzung des Allgemeinen Abkommens zwischen der Bundesrepublik Deutschland und Frankreich über die Soziale Sicherheit vom 10. Juli 1950 sowie der Ersten, Zweiten und Vierten Zusatzvereinbarung zu diesem Abkommen
 - [SozSichAbkErgVbg2FRAG](laws/SozSichAbkErgVbg2FRAG-BJNR207550958.md) Gesetz über die Zweite Vereinbarung zur Ergänzung des Allgemeinen Abkommens zwischen der Bundesrepublik Deutschland und Frankreich über die Soziale Sicherheit und über die Fünfte Zusatzvereinbarung über die Einbeziehung des Landes Berlin in das Allgemeine Abkommen nebst Briefen
 - [SozSichAbkG MDA](laws/SozSichAbkG_MDA-BJNR110620017.md) Gesetz zu dem Abkommen vom 12. Januar 2017 zwischen der Bundesrepublik Deutschland und der Republik Moldau über Soziale Sicherheit
 - [SozSichAbkG PHL](laws/SozSichAbkG_PHL-BJNR041720015.md) Gesetz zu dem Abkommen vom 19. September 2014 zwischen der Bundesrepublik Deutschland und der Republik der Philippinen über Soziale Sicherheit
@@ -5356,7 +5290,6 @@
 - [SozSichAbkPOLG](laws/SozSichAbkPOLG-BJNR207410991.md) Gesetz zu dem Abkommen vom 8. Dezember 1990 zwischen der Bundesrepublik Deutschland und der Republik Polen über Soziale Sicherheit
 - [SozSichAbkPRTG](laws/SozSichAbkPRTG-BJNR204730968.md) Gesetz zu dem Abkommen vom 6. November 1964 zwischen der Bundesrepublik Deutschland und der Portugiesischen Republik über Soziale Sicherheit
 - [SozSichAbkROMG](laws/SozSichAbkROMG-BJNR016220006.md) Gesetz zu dem Abkommen vom 8. April 2005 zwischen der Bundesrepublik Deutschland und Rumänien über Soziale Sicherheit
-- [SozSichAbkSchlProt BEL](laws/SozSichAbkSchlProt_BEL-BJNR204420963.md) Schlußprotokoll zu dem Allgemeinen Abkommen vom 7. Dezember 1957 zwischen der Bundesrepublik Deutschland und dem Königreich Belgien über Soziale Sicherheit
 - [SozSichAbkSchlProt FIN](laws/SozSichAbkSchlProt_FIN-BJNR212060980.md) Schlußprotokoll zum Abkommen zwischen der Bundesrepublik Deutschland und der Republik Finnland über Soziale Sicherheit
 - [SozSichAbkSchlProt MAR](laws/SozSichAbkSchlProt_MAR-BJNR205670986.md) Schlußprotokoll zum Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich Marokko über Soziale Sicherheit
 - [SozSichAbkSchlProt SWE](laws/SozSichAbkSchlProt_SWE-BJNR206780977.md) Schlußprotokoll zum Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich Schweden über Soziale Sicherheit
@@ -5376,9 +5309,6 @@
 - [SozSichAbkZusAbk ISR](laws/SozSichAbkZusAbk_ISR-BJNR029920996.md) Zusatzabkommen zum Abkommen vom 17. Dezember 1973 zwischen der Bundesrepublik Deutschland und dem Staat Israel über Soziale Sicherheit
 - [SozSichAbkZusAbkISRG](laws/SozSichAbkZusAbkISRG-BJNR029820996.md) Gesetz zu dem Zusatzabkommen vom 12. Februar 1995 zum Abkommen vom 17. Dezember 1973 zwischen der Bundesrepublik Deutschland und dem Staat Israel über Soziale Sicherheit
 - [SozSichAbkZusAbkZVbg/2USAG](laws/SozSichAbkZusAbkZVbg_2USAG-BJNR030120996.md) Gesetz zu dem Zweiten Zusatzabkommen vom 6. März 1995 zum Abkommen vom 7. Januar 1976 zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika über Soziale Sicherheit und zu der Zweiten Zusatzvereinbarung vom 6. März 1995 zur Vereinbarung vom 21. Juni 1978 zur Durchführung des Abkommens
-- [SozSichAbkZVbg BEL 1](laws/SozSichAbkZVbg_BEL_1-BJNR204300963.md) Erste Zusatzvereinbarung zum Allgemeinen Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich Belgien über Soziale Sicherheit vom 7. Dezember 1957 über die Soziale Sicherheit der Grenzgänger
-- [SozSichAbkZVbg BEL 2](laws/SozSichAbkZVbg_BEL_2-BJNR204340963.md) Zweite Zusatzvereinbarung zum Allgemeinen Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich Belgien über Soziale Sicherheit vom 7. Dezember 1957 über die Soziale Sicherheit der knappschaftlich versicherten Arbeitnehmer
-- [SozSichAbkZVbg BEL 3](laws/SozSichAbkZVbg_BEL_3-BJNR204380963.md) Dritte Zusatzvereinbarung zum Allgemeinen Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich Belgien über Soziale Sicherheit vom 7. Dezember 1957 über die Zahlung von Renten für die Zeit vor dem Inkrafttreten des Abkommens
 - [SozSichAbkZVbg CHE](laws/SozSichAbkZVbg_CHE-BJNR209000989.md) Zusatzvereinbarung zur Vereinbarung vom 25. August 1978 zur Durchführung des Abkommens zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über Soziale Sicherheit
 - [SozSichÄndAbkTURG](laws/SozSichÄndAbkTURG-BJNR200010972.md) Gesetz zu dem Abkommen vom 28. Mai 1969 zwischen der Bundesrepublik Deutschland und der Republik Türkei zur Änderung des Abkommens vom 30. April 1964 über Soziale Sicherheit
 - [SozSichEUG](laws/SozSichEUG-BJNR120210011.md) Gesetz zur Koordinierung der Systeme der sozialen Sicherheit in Europa
@@ -5417,7 +5347,6 @@
 - [SStellV-VVG](laws/SStellV-VVG-BJNR025700005.md) Verordnung über die Schlichtungsstelle für die Beilegung von Verbraucherstreitigkeiten bei Fernabsatzverträgen über Versicherungen
 - [StaatenlMindÜbk](laws/StaatenlMindÜbk-BJNR205980977.md) Übereinkommen zur Verminderung der Staatenlosigkeit
 - [StaatenlMindÜbkAG](laws/StaatenlMindÜbkAG-BJNR011010977.md) Ausführungsgesetz zu dem Übereinkommen vom 30. August 1961 zur Verminderung der Staatenlosigkeit und zu dem Übereinkommen vom 13. September 1973 zur Verringerung der Fälle von Staatenlosigkeit
-- [StaatenlÜbk](laws/StaatenlÜbk-BJNR204740976.md) Übereinkommen über die Rechtsstellung der Staatenlosen
 - [StaatenlÜbkG](laws/StaatenlÜbkG-BJNR204730976.md) Gesetz zu dem Übereinkommen vom 28. September 1954 über die Rechtsstellung der Staatenlosen
 - [StaatenlVerringÜbk](laws/StaatenlVerringÜbk-BJNR206130977.md) Übereinkommen zur Verringerung der Fälle von Staatenlosigkeit
 - [StaatsbegrAnO](laws/StaatsbegrAnO-BJNR003370966.md) Anordnung über Staatsbegräbnisse und Staatsakte
@@ -5513,8 +5442,6 @@
 - [StreumunitionÜbk](laws/StreumunitionÜbk-BJNR050420009.md) Übereinkommen über Streumunition
 - [StrFinG](laws/StrFinG-BJNR002010960.md) Straßenbaufinanzierungsgesetz
 - [StrGerErkl](laws/StrGerErkl-BJNR051620999.md) Erklärungen zur Strafgerichtsbarkeit
-- [StrKrAufenthVtr](laws/StrKrAufenthVtr-BJNR302530955.md) Vertrag über den Aufenthalt ausländischer Streitkräfte in der Bundesrepublik Deutschland
-- [StrKrAufenthVtrG](laws/StrKrAufenthVtrG-BJNR202530955.md) Gesetz, betreffend den Vertrag vom 23. Oktober 1954 über den Aufenthalt ausländischer Streitkräfte in der Bundesrepublik Deutschland
 - [StrKrVerkLeistV](laws/StrKrVerkLeistV-BJNR021280976.md) Verordnung über Verkehrsleistungen der Eisenbahnen für die Streitkräfte
 - [StrlSchG](laws/StrlSchG-BJNR196610017.md) Gesetz zum Schutz vor der schädlichen Wirkung ionisierender Strahlung
 - [StrlSchV](laws/StrlSchV-BJNR203600018.md) Verordnung zum Schutz vor der schädlichen Wirkung ionisierender Strahlung
@@ -5604,13 +5531,10 @@
 - [SURE-GewährlG](laws/SURE-GewährlG-BJNR163310020.md) Gesetz zur Übernahme von Gewährleistungen im Rahmen eines Europäischen Instruments zur vorübergehenden Unterstützung bei der Minderung von Arbeitslosigkeitsrisiken in einer Notlage im Anschluss an den COVID-19-Ausbruch
 - [SUrlV](laws/SUrlV-BJNR128400016.md) Verordnung über den Sonderurlaub für Bundesbeamtinnen und Bundesbeamte sowie für Richterinnen und Richter des Bundes
 - [SUV](laws/SUV-BJNR005290957.md) Verordnung über den Urlaub der Soldatinnen und Soldaten
-- [SVAbk ITA](laws/SVAbk_ITA-BJNR200020956.md) Abkommen zwischen der Bundesrepublik Deutschland und der Italienischen Republik über Sozialversicherung
 - [SVAbk POL](laws/SVAbk_POL-BJNR209260974.md) Abkommen zwischen der Bundesrepublik Deutschland und der Volksrepublik Polen über die Sozialversicherung von Arbeitnehmern, die in das Gebiet des anderen Staates vorübergehend entsandt werden
 - [SVAbkCHNG](laws/SVAbkCHNG-BJNR008220002.md) Gesetz zu dem Abkommen vom 12. Juli 2001 zwischen der Bundesrepublik Deutschland und der Volksrepublik China über Sozialversicherung
 - [SVAbkING](laws/SVAbkING-BJNR062320009.md) Gesetz zu dem Abkommen vom 8. Oktober 2008 zwischen der Bundesrepublik Deutschland und der Republik Indien über Sozialversicherung
 - [SVAbkPOLG](laws/SVAbkPOLG-BJNR209250974.md) Gesetz zu dem Abkommen vom 25. April 1973 zwischen der Bundesrepublik Deutschland und der Volksrepublik Polen über die Sozialversicherung von Arbeitnehmern, die in das Gebiet des anderen Staates vorübergehend entsandt werden
-- [SVAbkSchlProt ITA](laws/SVAbkSchlProt_ITA-BJNR200150956.md) Schlußprotokoll zu dem Abkommen zwischen der Bundesrepublik Deutschland und der Italienischen Republik über Sozialversicherung
-- [SVAbkZVbg ITA](laws/SVAbkZVbg_ITA-BJNR200170956.md) Zusatzvereinbarung zu dem Abkommen zwischen der Bundesrepublik Deutschland und der Italienischen Republik über Sozialversicherung vom 5. Mai 1953 über die Gewährung von Renten für die Zeit vor dem Inkrafttreten des Abkommens
 - [SVBezGrG 2007](laws/SVBezGrG_2007-BJNR274600006.md) Gesetz über maßgebende Rechengrößen der Sozialversicherung für 2007
 - [SVBezGrV 2013](laws/SVBezGrV_2013-BJNR236100012.md) Verordnung über maßgebende Rechengrößen der Sozialversicherung für 2013
 - [SVBezGrV 2014](laws/SVBezGrV_2014-BJNR403800013.md) Verordnung über maßgebende Rechengrößen der Sozialversicherung für 2014
@@ -5647,7 +5571,6 @@
 - [SVÜbkITAG](laws/SVÜbkITAG-BJNR200010956.md) Gesetz über das Abkommen vom 5. Mai 1953 zwischen der Bundesrepublik Deutschland und der Italienischen Republik über Sozialversicherung nebst Schlußprotokoll und Zusatzvereinbarung
 - [SVÜV](laws/SVÜV-BJNR017210991.md) Verordnung über soldatenversorgungsrechtliche Übergangsregelungen nach Herstellung der Einheit Deutschlands
 - [SVVerzAbk IRL](laws/SVVerzAbk_IRL-BJNR209320981.md) Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung Irlands über den Verzicht auf die Erstattung von Aufwendungen für Sachleistungen bei Krankheit, Mutterschaft, Arbeitsunfall und Berufskrankheit, der Leistungen an Arbeitslose sowie der Kosten für verwaltungsmäßige und ärztliche Kontrollen
-- [SVVtr YUG](laws/SVVtr_YUG-BJNR201700958.md) Vertrag zwischen der Bundesrepublik Deutschland und der Föderativen Volksrepublik Jugoslawien über die Regelung gewisser Forderungen aus der Sozialversicherung
 - [SVVtrYUGVtrG](laws/SVVtrYUGVtrG-BJNR201680958.md) Gesetz zu dem Vertrag vom 10. März 1956 zwischen der Bundesrepublik Deutschland und der Föderativen Volksrepublik Jugoslawien über die Regelung gewisser Forderungen aus der Sozialversicherung
 - [SVwGÄndG 8](laws/SVwGÄndG_8-BJNR009579973.md) Gesetz zur Weiterentwicklung des Selbstverwaltungsrechts und zur Vereinfachung des Wahlverfahrens
 - [SVwHKVorRV](laws/SVwHKVorRV-BJNR014220009.md) Verordnung über die Gewährung von Vorrechten und Befreiungen an das Wirtschafts- und Handelsbüro der Sonderverwaltungsregion Hongkong der Volksrepublik China in Berlin
@@ -5861,13 +5784,11 @@
 - [ÜZV](laws/ÜZV-BJNR019820975.md) Verordnung zur Regelung einer Übergangszahlung an Beamte
 - [UhAnerkÜbk Haag](laws/UhAnerkÜbk_Haag-BJNR210060961.md) Übereinkommen über die Anerkennung und Vollstreckung von Entscheidungen auf dem Gebiet der Unterhaltspflicht gegenüber Kindern
 - [UhAnerkÜbkAG](laws/UhAnerkÜbkAG-BJNR010330961.md) Gesetz zur Ausführung des Haager Übereinkommens vom 15. April 1958 über die Anerkennung und Vollstreckung von Entscheidungen auf dem Gebiet der Unterhaltspflicht gegenüber Kindern
-- [UhAnsprAuslÜbk](laws/UhAnsprAuslÜbk-BJNR201500959.md) Übereinkommen über die Geltendmachung von Unterhaltsansprüchen im Ausland
 - [UhEntsch/UhPflÜbkHaagG](laws/UhEntsch_UhPflÜbkHaagG-BJNR208250986.md) Gesetz zu den Haager übereinkommen vom 2. Oktober 1973 über die Anerkennung und Vollstreckung von Unterhaltsentscheidungen sowie über das auf Unterhaltspflichten anzuwendende Recht
 - [UhEntschÜbk Haag](laws/UhEntschÜbk_Haag-BJNR208260986.md) Übereinkommen über die Anerkennung und Vollstreckung von Unterhaltsentscheidungen
 - [UhPflÜbk Haag](laws/UhPflÜbk_Haag-BJNR208370986.md) Übereinkommen über das auf Unterhaltspflichten anzuwendende Recht
 - [UhrmAusbV 2001](laws/UhrmAusbV_2001-BJNR147600001.md) Verordnung über die Berufsausbildung zum Uhrmacher/zur Uhrmacherin
 - [UhrmMstrV](laws/UhrmMstrV-BJNR312200005.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Uhrmacher-Handwerk
-- [UhÜbk Haag](laws/UhÜbk_Haag-BJNR210130961.md) Übereinkommen über das auf Unterhaltsverpflichtungen gegenüber Kindern anzuwendende Recht
 - [UhÜbkG](laws/UhÜbkG-BJNR210120961.md) Gesetz zu dem Übereinkommen vom 24. Oktober 1956 über das auf Unterhaltsverpflichtungen gegenüber Kindern anzuwendende Recht
 - [UhVorschG](laws/UhVorschG-BJNR011840979.md) Gesetz zur Sicherung des Unterhalts von Kindern alleinstehender Mütter und Väter durch Unterhaltsvorschüsse oder -ausfallleistungen
 - [UIG](laws/UIG-BJNR370410004.md) Umweltinformationsgesetz
@@ -5895,7 +5816,6 @@
 - [UnbBeschErtV](laws/UnbBeschErtV-BJNR001520962.md) Verordnung über das Verfahren bei der Erteilung von Unbedenklichkeitsbescheinigungen für andere Spiele im Sinne des § 33d Abs. 1 der Gewerbeordnung
 - [UnBefG 1979](laws/UnBefG_1979-BJNR009890979.md) Gesetz über die unentgeltliche Beförderung Schwerbehinderter im öffentlichen Personenverkehr
 - [UnbilligkeitsV](laws/UnbilligkeitsV-BJNR073400008.md) Verordnung zur Vermeidung unbilliger Härten durch Inanspruchnahme einer vorgezogenen Altersrente
-- [UNCh](laws/UNCh-BJNR204310973.md) Charta der Vereinten Nationen
 - [UNChG](laws/UNChG-BJNR204300973.md) Gesetz zum Beitritt der Bundesrepublik Deutschland zur Charta der Vereinten Nationen
 - [UNFrBüroVbgV](laws/UNFrBüroVbgV-BJNR1070O0025.md) Verordnung zu der Vereinbarung zwischen der Regierung der Bundesrepublik Deutschland und dem Freiwilligenprogramm der Vereinten Nationen über die Errichtung eines Büros der Einheit der Vereinten Nationen für Gleichstellung und Stärkung der Frauen (UN-Frauen) in Bonn
 - [UNFreiwProgrAbk](laws/UNFreiwProgrAbk-BJNR090520996.md) Abkommen zwischen der Bundesrepublik Deutschland und den Vereinten Nationen über den Sitz des Freiwilligenprogramms der Vereinten Nationen
@@ -5908,14 +5828,12 @@
 - [UniBwLeistBV](laws/UniBwLeistBV-BJNR350400004.md) Verordnung über Leistungsbezüge und Zulagen an den Universitäten der Bundeswehr
 - [UnifV](laws/UnifV-BJNR077800008.md) Verordnung über die Berechtigung zum Tragen der Uniform außerhalb eines Wehrdienstverhältnisses
 - [UnivSchlichtV](laws/UnivSchlichtV-BJNR281700019.md) Verordnung zur Regelung der Organisation, des Verfahrens und der Beendigung der Beleihung oder der Beauftragung der Universalschlichtungsstelle des Bundes
-- [UNOImmÜbk](laws/UNOImmÜbk-BJNR209430980.md) Übereinkommen über die Vorrechte und Immunitäten der Vereinten Nationen
 - [UNOImmÜbkG](laws/UNOImmÜbkG-BJNR209410980.md) Gesetz zu dem Übereinkommen vom 13. Februar 1946 über die Vorrechte und Immunitäten der Vereinten Nationen
 - [UNOPSBüroVbgV](laws/UNOPSBüroVbgV-BJNR12B0O0023.md) Verordnung zu der Vereinbarung zwischen der Regierung der Bundesrepublik Deutschland und dem Freiwilligenprogramm der Vereinten Nationen (UNV) über die Errichtung einer Zweigstelle des Büros der Vereinten Nationen für Projektdienstleistungen (UNOPS) in Bonn
 - [UNSekrSitzAbk](laws/UNSekrSitzAbk-BJNR278220996.md) Abkommen zwischen der Regierung der Bundesrepublik Deutschland den Vereinten Nationen und dem Sekretariat des Rahmenübereinkommens der Vereinten Nationen über Klimaänderungen über den Sitz des Sekretariats des Übereinkommens
 - [UNSekrSitzAbkÄndProt](laws/UNSekrSitzAbkÄndProt-BJNR029520009.md) Protokoll zur Änderung des Abkommens zwischen der Regierung der Bundesrepublik Deutschland, den Vereinten Nationen und dem Sekretariat des Rahmenübereinkommens der Vereinten Nationen über Klimaänderungen über den Sitz des Sekretariats des Übereinkommens
 - [UNSekrSitzAbkÄndProtG](laws/UNSekrSitzAbkÄndProtG-BJNR029420009.md) Gesetz zu dem Protokoll vom 7. Dezember 2005 zur Änderung des Abkommens vom 20. Juni 1996 zwischen der Regierung der Bundesrepublik Deutschland, den Vereinten Nationen und dem Sekretariat des Rahmenübereinkommens der Vereinten Nationen über Klimaänderungen über den Sitz des Sekretariats des Übereinkommens
 - [UNSekrSitzAbkG](laws/UNSekrSitzAbkG-BJNR105420997.md) Gesetz zu dem Abkommen vom 20. Juni 1996 zwischen der Regierung der Bundesrepublik Deutschland, den Vereinten Nationen und dem Sekretariat des Rahmenübereinkommens der Vereinten Nationen über Klimaänderungen über den Sitz des Sekretariats des Übereinkommens und zur Änderung des Bundesnaturschutzgesetzes
-- [UNSOrgVorRAbk](laws/UNSOrgVorRAbk-BJNR206400954.md) Abkommen über die Vorrechte und Befreiungen der Sonderorganisationen der Vereinten Nationen
 - [UNSOrgVorRAbkG](laws/UNSOrgVorRAbkG-BJNR206390954.md) Gesetz über den Beitritt der Bundesrepublik Deutschland zum Abkommen über die Vorrechte und Befreiungen der Sonderorganisationen der Vereinten Nationen vom 21. November 1947 und über die Gewährung von Vorrechten und Befreiungen an andere zwischenstaatliche Organisationen
 - [UNSOrgVorRAbkGÄndG 2](laws/UNSOrgVorRAbkGÄndG_2-BJNR201870964.md) Zweites Gesetz zur Änderung des Gesetzes vom 22. Juni 1954 über den Beitritt der Bundesrepublik Deutschland zum Abkommen über die Vorrechte und Befreiungen der Sonderorganisationen der Vereinten Nationen vom 21. November 1947 und über die Gewährung von Vorrechten und Befreiungen an andere zwischen-staatliche Organisationen
 - [UNSOrgVorRV](laws/UNSOrgVorRV-BJNR201290971.md) Verordnung über die Gewährung von Vorrechten und Befreiungen an die Sonderorganisationen der Vereinten Nationen
@@ -6028,9 +5946,7 @@
 - [VerkSiG](laws/VerkSiG-BJNR009270965.md) Gesetz zur Sicherstellung des Verkehrs
 - [VerkStatG](laws/VerkStatG-BJNR245210999.md) Gesetz über die Statistik der See- und Binnenschifffahrt, des Güterkraftverkehrs, des Luftverkehrs sowie des Schienenverkehrs und des gewerblichen Straßen-Personenverkehrs
 - [VerlG](laws/VerlG-BJNR002170901.md) Gesetz über das Verlagsrecht
-- [VermAbk CHE](laws/VermAbk_CHE-BJNR200170953.md) Abkommen zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über die deutschen Vermögenswerte in der Schweiz
 - [VermAbk PRT](laws/VermAbk_PRT-BJNR202670959.md) Abkommen über deutsche Vermögenswerte in Portugal
-- [VermAbk SWE](laws/VermAbk_SWE-BJNR208130956.md) Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich Schweden über deutsche Vermögenswerte in Schweden
 - [VermAnlG](laws/VermAnlG-BJNR248110011.md) Gesetz über Vermögensanlagen
 - [VermBDV](laws/VermBDV-BJNR390400994.md) Verordnung zur Durchführung des Fünften Vermögensbildungsgesetzes
 - [VermG](laws/VermG-BJNR211590990.md) Gesetz zur Regelung offener Vermögensfragen
@@ -6107,8 +6023,6 @@
 - [VFBAZV](laws/VFBAZV-BJNR100400008.md) Verordnung über die Zuweisungen an das Sondervermögen „Versorgungsfonds der Bundesagentur für Arbeit“
 - [VFZV](laws/VFZV-BJNR054900007.md) Verordnung über die Zuweisungen an das Sondervermögen "Versorgungsfonds des Bundes"
 - [VGG](laws/VGG-BJNR119010016.md) Gesetz über die Wahrnehmung von Urheberrechten und verwandten Schutzrechten durch Verwertungsgesellschaften*
-- [VgHilAbk USA](laws/VgHilAbk_USA-BJNR210500955.md) Abkommen zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika über gegenseitige Verteidigungshilfe
-- [VgHilAbkUSAG](laws/VgHilAbkUSAG-BJNR210490955.md) Gesetz über das Abkommen vom 30. Juni 1955 zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika über gegenseitige Verteidigungshilfe
 - [VglWebMV](laws/VglWebMV-BJNR0440A0024.md) Verordnung über die Meldungen zu Zahlungskonten für die Vergleichswebsite nach dem Zahlungskontengesetz
 - [VgV](laws/VgV-BJNR062410016.md) Verordnung über die Vergabe öffentlicher Aufträge
 - [VIBBestV](laws/VIBBestV-BJNR143700015.md) Verordnung zur Durchführung des § 15 Absatz 4 des Vermögensanlagengesetzes
@@ -6133,7 +6047,6 @@
 - [VKFVÄndBek 2026](laws/VKFVÄndBek_2026-BJNR626510025.md) Bekanntmachung der Änderung des Kostensatzes nach § 20 der Verwaltungskostenfeststellungsverordnung
 - [VKRegV](laws/VKRegV-BJNR180400018.md) Verordnung über das Register für Verbandsklagen
 - [VKVV](laws/VKVV-BJNR047500001.md) Verordnung über die Versicherungsnummer, die Kontoführung und den Versicherungsverlauf in der gesetzlichen Rentenversicherung
-- [VMordKonv](laws/VMordKonv-BJNR207300954.md) Konvention über die Verhütung und Bestrafung des Völkermordes
 - [VNTerrorÜbk](laws/VNTerrorÜbk-BJNR158720007.md) Internationales Übereinkommen zur Bekämpfung nuklearterroristischer Handlungen
 - [VollstrAbk BEL](laws/VollstrAbk_BEL-BJNR207660959.md) Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich Belgien über die gegenseitige Anerkennung und Vollstreckung von gerichtlichen Entscheidungen, Schiedssprüchen und öffentlichen Urkunden in Zivil- und Handelssachen
 - [VollstrAbk GBR](laws/VollstrAbk_GBR-BJNR203020961.md) Abkommen zwischen der Bundesrepublik Deutschland und dem Vereinigten Königreich Großbritannien und Nordirland über die gegenseitige Anerkennung und Vollstreckung von gerichtlichen Entscheidungen in Zivil- und Handelssachen
@@ -6220,7 +6133,6 @@
 - [WahlPrG](laws/WahlPrG-BJNR001660951.md) Wahlprüfungsgesetz
 - [WahrnV](laws/WahrnV-BJNR381200994.md) Verordnung über die Wahrnehmung einzelner den Prüfungsstellen, der Gebrauchsmusterstelle, den Markenstellen und den Abteilungen des Patentamts obliegender Geschäfte
 - [WaldErhCoKonjPDG](laws/WaldErhCoKonjPDG-BJNR288100020.md) Gesetz über die Durchführung von Maßnahmen aus dem Corona-Konjunkturpaket zum Erhalt und zur nachhaltigen Bewirtschaftung der Wälder
-- [WalfÜbk](laws/WalfÜbk-BJNR205590982.md) Internationales Übereinkommen zur Regelung des Walfangs
 - [WalfÜbkG](laws/WalfÜbkG-BJNR205580982.md) Gesetz zu dem Internationalen Übereinkommen vom 2. Dezember 1946 zur Regelung des Walfangs
 - [WanderAbk AUS](laws/WanderAbk_AUS-BJNR211040965.md) Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung des Australischen Bundes über die unterstützte Wanderung
 - [WarnowMautHV](laws/WarnowMautHV-BJNR083500003.md) Verordnung über die Höhe der Maut für die Benutzung des Warnowtunnels
@@ -6420,7 +6332,6 @@
 - [WTO](laws/WTO-BJNR200240976.md) Verordnung über die Gewährung von Vorrechten und Befreiungen an die Weltorganisation für Tourismus
 - [WTOÜbk](laws/WTOÜbk-BJNR162520994.md) Übereinkommen zur Errichtung der Welthandelsorganisation (WTO)
 - [WTOÜbkG](laws/WTOÜbkG-BJNR143820994.md) Gesetz zu dem Übereinkommen vom 15. April 1994 zur Errichtung der Welthandelsorganisation und zur Änderung anderer Gesetze
-- [WUAbk](laws/WUAbk-BJNR201030955.md) Welturheberrechtsabkommen
 - [WUFG](laws/WUFG-BJNR152210993.md) Gesetz zur Regelung der Folgen rechtswidriger Handlungen bei der Währungsumstellung von Mark der Deutschen Demokratischen Republik in Deutsche Mark
 - [WuSolvV](laws/WuSolvV-BJNR423800013.md) Verordnung über die angemessene Eigenkapitalausstattung von Wohnungsunternehmen mit Spareinrichtung 1
 - [WVG](laws/WVG-BJNR004050991.md) Gesetz über Wasser- und Bodenverbände
@@ -6671,10 +6582,8 @@
 - [ZOVersDTAG](laws/ZOVersDTAG-BJNR228800997.md) Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der beamtenrechtlichen Versorgung im Geschäftsbereich der Deutschen Telekom AG
 - [ZOZÜV](laws/ZOZÜV-BJNR109800999.md) Verordnung zur Übertragung der Zuständigkeiten des Präsidenten der Bundesanstalt für vereinigungsbedingte Sonderaufgaben nach dem Vermögenszuordnungsgesetz in Verbindung mit dem Zuordnungsergänzungsgesetz auf den Oberfinanzpräsidenten der Oberfinanzdirektion Berlin
 - [ZPAbkAG](laws/ZPAbkAG-BJNR004300905.md) Gesetz zur Ausführung des Abkommens über den Zivilprozeß vom 17. Juli 1905
-- [ZPersAbk Genf](laws/ZPersAbk_Genf-BJNR209170954.md) IV. Genfer Abkommen vom 12. August 1949 zum Schutze von Zivilpersonen in Kriegszeiten
 - [ZPO](laws/ZPO-BJNR005330950.md) Zivilprozessordnung
 - [ZPOEG](laws/ZPOEG-BJNR002440877.md) Gesetz, betreffend die Einführung der Zivilprozeßordnung
-- [ZPÜbk Haag](laws/ZPÜbk_Haag-BJNR205770958.md) Übereinkommen über den Zivilprozeß
 - [ZPÜbkHaagG](laws/ZPÜbkHaagG-BJNR009390958.md) Gesetz zur Ausführung des Haager Übereinkommens vom 1. März 1954 über den Zivilprozeß
 - [ZPVtr AUT](laws/ZPVtr_AUT-BJNR212460960.md) Vertrag zwischen der Bundesrepublik Deutschland und der Republik Österreich über die gegenseitige Anerkennung und Vollstreckung von gerichtlichen Entscheidungen, Vergleichen und öffentlichen Urkunden in Zivil- und Handelssachen
 - [ZPVtrAUTAG](laws/ZPVtrAUTAG-BJNR001690960.md) Gesetz zur Ausführung des Vertrages zwischen der Bundesrepublik Deutschland und der Republik Österreich vom 6. Juni 1959 über die gegenseitige Anerkennung und Vollstreckung von gerichtlichen Entscheidungen, Vergleichen und öffentlichen Urkunden in Zivil- und Handelssachen

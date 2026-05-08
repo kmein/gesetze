@@ -95,6 +95,8 @@ b) die Beförderung der Anlieferung dieser Güter zum Unternehmen, ihrem Versand
 
 4. erfolgt eine Beförderung gelegentlich, wenn sie häufiger als einmal, jedoch nicht regelmäßig oder dauerhaft erfolgt.
 
+(+++ § 1: Zur Anwendung vgl. § 30 +++)
+
 # § 2 – Erwerb der Grundqualifikation und der beschleunigten Grundqualifikation
 
 (1) Die Grundqualifikation wird erworben durch
@@ -278,6 +280,8 @@ wenn der Unterricht zur Weiterbildung als digitaler Unterricht in synchroner For
 
 Abweichungen von den angezeigten Angaben nach Satz 1 sowie ein Unterrichtsausfall sind von den Ausbildungsstätten der nach Landesrecht zuständigen Behörde bis spätestens einen Werktag vor Durchführung des Unterrichts schriftlich oder elektronisch anzuzeigen. Die Angaben der Ausbildungsstätte nach Satz 1 oder 2 sind von der nach Landesrecht zuständigen Behörde und von den zur Durchführung der Überwachung beauftragten Personen oder Stellen spätestens sechs Jahre nach Abschluss des Unterrichts zu löschen.
 
+(+++ § 11: Zur Anwendung vgl. § 30 +++)
+
 # § 12 – Berufskraftfahrerqualifikationsregister
 
 Das Berufskraftfahrerqualifikationsregister ist ein Register zur Speicherung von Daten, die erforderlich sind, um feststellen zu können,
@@ -293,6 +297,8 @@ Das Berufskraftfahrerqualifikationsregister ist ein Register zur Speicherung von
 5. ob, wann und wo der Fahrer eine Prüfung zur Erlangung der Grundqualifikation oder der beschleunigten Grundqualifikation abgelegt hat und
 
 6. ob nachträglich Tatsachen bekannt wurden, auf deren Grundlage Einträge in das Berufskraftfahrerqualifikationsregister verändert oder Fahrerqualifizierungsnachweise zurückgenommen wurden.
+
+(+++ § 12: Zur Anwendung vgl. § 30 +++)
 
 # § 13 – Registerführende Behörde
 
@@ -442,6 +448,8 @@ Der Hersteller übermittelt nach der Herstellung des Fahrerqualifizierungsnachwe
 
 (4) Die nach Landesrecht zuständige Behörde für die Aufsicht über die Industrie- und Handelskammern teilt dem Kraftfahrt-Bundesamt alle in ihrem Zuständigkeitsbereich tätigen Industrie- und Handelskammern mit, damit diese zur Übermittlung von Daten an das Kraftfahrt-Bundesamt zur Speicherung im Berufskraftfahrerqualifikationsregister zugelassen werden. Änderungen hinsichtlich der Industrie- und Handelskammern teilt die nach Landesrecht zuständige Behörde unverzüglich mit. Eine Mitteilung erfolgt nur, wenn die Industrie- und Handelskammer Prüfungen nach § 1 Absatz 3 und § 2 Absatz 7 der Berufskraftfahrerqualifikationsverordnung sowie nach § 71 Absatz 2 des Berufsbildungsgesetzes durchführt.
 
+(+++ § 18: Zur Anwendung vgl. § 30 +++)
+
 # § 19 – Datenübermittlung an das Kraftfahrt-Bundesamt durch die zuständigen Stellen und die Ausbildungsstätten
 
 Die für die Prüfungen zuständigen Industrie- und Handelskammern nach § 1 Absatz 3 und § 2 Absatz 7 der Berufskraftfahrerqualifikationsverordnung und nach § 71 Absatz 2 des Berufsbildungsgesetzes sowie die anerkannten Ausbildungsstätten haben dem Kraftfahrt-Bundesamt im automatisierten Verfahren unverzüglich die Daten zu übermitteln, die nach § 14 Nummer 2 bis 4 im Berufskraftfahrerqualifikationsregister zu speichern sind oder die zu einer Änderung einer Eintragung nach § 14 Nummer 2 bis 4 führen.
@@ -485,6 +493,8 @@ Die Daten dürfen übermittelt werden, soweit dies zur Erfüllung der in Satz 1 
 (3) In den Fällen des Absatzes 1 Satz 1 Nummer 3 dürfen die in Absatz 2 Nummer 1, 3, 4 und 5 genannten Daten aus dem Berufskraftfahrerqualifikationsregister übermittelt werden.
 
 (4) In den Fällen des Absatzes 1 Satz 1 Nummer 5, 6 oder 7 dürfen die in Absatz 2 Nummer 1 und 2 genannten Daten aus dem Berufskraftfahrerqualifikationsregister übermittelt werden.
+
+(+++ § 21: Zur Anwendung vgl. § 30 +++)
 
 # § 22 – Datenübermittlung an Behörden in den anderen Mitgliedstaaten der Europäischen Union und an Behörden in den Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 
