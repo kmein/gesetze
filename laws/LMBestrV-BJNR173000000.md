@@ -129,7 +129,7 @@ Die Aufzeichnungen nach Satz 1 sind von dem Betreiber der Bestrahlungsanlage fü
 
 (2) Nach § 59 Absatz 1 Nummer 21 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer entgegen § 3 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, ein dort genanntes Lebensmittel nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig kenntlich macht.
 
-(3) (weggefallen)
+(3) Nach § 59 Absatz 1 Nummer 21 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer entgegen § 2 Absatz 1 ein dort genanntes Lebensmittel in den Verkehr bringt.
 
 (4) Nach § 59 Absatz 1 Nummer 21 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer entgegen § 4 Absatz 1 Satz 1 eine Bestrahlungsanlage verwendet.
 
