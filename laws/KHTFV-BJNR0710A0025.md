@@ -227,8 +227,6 @@ In dem in Satz 1 Nummer 5 genannten Fall informiert das jeweilige Land das Bunde
 
 2. nach dem 31. Dezember 2035 zu Gunsten des Transformationsfonds zurückgezahlt oder abgeführt werden.
 
-(8) (weggefallen)
-
 # § 8 – Aufgaben des Bundesamtes für Soziale Sicherung
 
 (1) Das Bundesamt für Soziale Sicherung richtet ein elektronisches Verwaltungsportal ein, das den Ländern die Antragstellung sowie die Übermittlung des Verwendungsnachweises und weiterer Unterlagen ermöglicht. Es trifft zum Zweck einer einheitlichen und wirtschaftlichen Durchführung des Förderverfahrens nähere Bestimmungen zur Durchführung des Förderverfahrens und zur Übermittlung der in den §§ 4 und 6 genannten Angaben und Unterlagen in einem einheitlichen Format oder in einer maschinell auswertbaren Form, erlässt eine Förderrichtlinie und aktualisiert diese bei Bedarf. Vor Erlass oder Aktualisierung der Förderrichtlinie sind die Länder zu den Regelungen anzuhören und ist das Einvernehmen der Mehrheit der Länder erforderlich.

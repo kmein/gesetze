@@ -7,7 +7,7 @@ Auf Grund des § 50 Absatz 1 des Berufsbildungsgesetzes, der zuletzt durch Artik
 
 # § 1 – Gleichstellung von Prüfungszeugnissen
 
-Die vom 1. Januar 2018 bis zum Ablauf des 31. Juli 2026 von der Staatlichen Zeichenakademie Hanau erteilten Prüfungszeugnisse über erfolgreich abgelegte Abschlussprüfungen werden mit den Zeugnissen über das Bestehen der Abschluss- oder Gesellenprüfung in Ausbildungsberufen nach Maßgabe der nachstehenden Auflistung gleichgestellt:  
+Die vom 1. Januar 2018 bis zum Ablauf des 31. Juli 2028 von der Staatlichen Zeichenakademie Hanau erteilten Prüfungszeugnisse über erfolgreich abgelegte Abschlussprüfungen werden mit den Zeugnissen über das Bestehen der Abschluss- oder Gesellenprüfung in Ausbildungsberufen nach Maßgabe der nachstehenden Auflistung gleichgestellt:  
   
 
 <table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
@@ -56,7 +56,7 @@ Schwerpunkt:<br />
 
 # § 2 – Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft und am 1. August 2026 außer Kraft.
+Diese Verordnung tritt am Tag nach der Verkündung in Kraft und am 1. August 2028 außer Kraft.
 
 # Schlussformel
 

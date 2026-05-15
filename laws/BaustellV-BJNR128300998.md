@@ -155,8 +155,6 @@ Entzündbare Flüssigkeiten oder Akute Toxizität (jeweils Kategorie 1 oder 2) o
 
 cc) Keimzellmutagenität, Karzinogenität oder Reproduktionstoxizität (jeweils Kategorie 1A oder 1B),
 
-der Gefahrstoffverordnung,
-
 3. Arbeiten mit ionisierenden Strahlungen, die die Festlegung von Kontroll- oder Überwachungsbereichen im Sinne des Strahlenschutzgesetzes und der auf dessen Grundlage erlassenen Rechtsverordnungen erfordern,
 
 4. Arbeiten in einem geringeren Abstand als 5 m von Hochspannungsleitungen,

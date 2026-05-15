@@ -72,579 +72,583 @@
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verfahren der Ausstellung oder Verlängerung des Reiseausweises für Ausländer im Ausland</td>
 </tr>
 <tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">§ 11a</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Ausstellung von Reiseausweisen für Ausländer für Schülerreisen in das Vereinigte Königreich Großbritannien und Nordirland</td>
+</tr>
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 12</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Grenzgängerkarte</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 13</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Notreiseausweis</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 13a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">EU-Rückkehrausweis</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 14</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befreiung von der Passpflicht in Rettungsfällen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 Abschnitt 2</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Befreiung vom Erfordernis eines Aufenthaltstitels</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 Unterabschnitt 1</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Allgemeine Regelungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 15</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gemeinschaftsrechtliche Regelung der Kurzaufenthalte</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 16</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vorrang älterer Sichtvermerksabkommen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 17</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Nichtbestehen der Befreiung bei Erwerbstätigkeit während eines Kurzaufenthalts</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 17a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befreiung zur Dienstleistungserbringung für langfristig Aufenthaltsberechtigte</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 Unterabschnitt 2</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Befreiungen für Inhaber bestimmter Ausweise</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 18</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befreiung für Inhaber von Reiseausweisen für Flüchtlinge und Staatenlose</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 19</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befreiung für Inhaber dienstlicher Pässe</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 20</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befreiung für Inhaber von Ausweisen der Europäischen Union und zwischenstaatlicher Organisationen und der Vatikanstadt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 21</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befreiung für Inhaber von Grenzgängerkarten</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 22</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befreiung für Schüler auf Sammellisten</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 Unterabschnitt 3</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Befreiungen im grenzüberschreitenden Beförderungswesen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 23</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befreiung für ziviles Flugpersonal</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 24</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befreiung für Seeleute</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 25</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befreiung in der internationalen zivilen Binnenschifffahrt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 26</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Transit ohne Einreise; Flughafentransitvisum</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 Unterabschnitt 4</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Sonstige Befreiungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 27</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befreiung für Personen bei Vertretungen ausländischer Staaten</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 28</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befreiung für freizügigkeitsberechtigte Schweizer</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 29</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befreiung in Rettungsfällen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 30</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befreiung für die Durchreise und Durchbeförderung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 30a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befreiung in Fällen gescheiterter langfristiger Mobilität nach der Richtlinie (EU) 2021/1883</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 Abschnitt 3</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Visumverfahren</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 31</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zustimmung der Ausländerbehörde zur Visumerteilung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 31a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beschleunigtes Fachkräfteverfahren</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 32</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zustimmung der obersten Landesbehörde</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 33</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zustimmungsfreiheit bei Spätaussiedlern</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 34</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zustimmungsfreiheit bei Wissenschaftlern und Studenten</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 35</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zustimmungsfreiheit bei bestimmten Arbeitsaufenthalten und Praktika</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 36</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zustimmungsfreiheit bei dienstlichen Aufenthalten von Mitgliedern ausländischer Streitkräfte</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 37</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zustimmungsfreiheit in sonstigen Fällen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 38</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ersatzzuständigkeit der Ausländerbehörde</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 Abschnitt 3a</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Anerkennung von Forschungseinrichtungen und Abschluss von Aufnahmevereinbarungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 38a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Voraussetzungen für die Anerkennung von Forschungseinrichtungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 38b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Aufhebung der Anerkennung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 38c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Mitteilungspflichten von Forschungseinrichtungen gegenüber den Ausländerbehörden</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 38d</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beirat für Forschungsmigration und Fachkräfteeinwanderung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 38e</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Veröffentlichungen durch das Bundesamt für Migration und Flüchtlinge</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 38f</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Inhalt und Voraussetzungen der Unterzeichnung der Aufnahmevereinbarung oder eines entsprechenden Vertrages</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 Abschnitt 4</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Einholung des Aufenthaltstitels im Bundesgebiet</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 39</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verlängerung eines Aufenthalts im Bundesgebiet für längerfristige Zwecke</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 40</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verlängerung eines visumfreien Kurzaufenthalts</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 41</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vergünstigung für Angehörige bestimmter Staaten</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 Abschnitt 5</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Aufenthalt aus völkerrechtlichen, humanitären oder politischen Gründen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 42</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Antragstellung auf Verlegung des Wohnsitzes</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 43</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verfahren bei Zustimmung des anderen Mitgliedstaates zur Wohnsitzverlegung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 
 Kapitel 3</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Gebühren</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 44</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gebühren für die Niederlassungserlaubnis</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 44a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gebühren für die Erlaubnis zum Daueraufenthalt – EU</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 45</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gebühren für die Aufenthaltserlaubnis, die Blaue Karte EU, die ICT-Karte und die Mobiler-ICT-Karte</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 45a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gebühren für Expressverfahren</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 45b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gebühren für Aufenthaltstitel in Ausnahmefällen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 45c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gebühr bei Neuausstellung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 46</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gebühren für das Visum</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 47</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gebühren für sonstige aufenthaltsrechtliche Amtshandlungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 48</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gebühren für pass- und ausweisrechtliche Maßnahmen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 49</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Bearbeitungsgebühren</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 50</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Gebühren für Amtshandlungen zugunsten Minderjähriger</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 51</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Widerspruchsgebühr</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 52</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befreiungen und Ermäßigungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 52a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befreiung und Ermäßigung bei Assoziationsberechtigung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 53</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Befreiung und Ermäßigung aus Billigkeitsgründen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 54</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zwischenstaatliche Vereinbarungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 
 Kapitel 4</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Ordnungsrechtliche Vorschriften</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 55</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ausweisersatz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 56</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ausweisrechtliche Pflichten</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 57</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vorlagepflicht beim Vorhandensein mehrerer Ausweisdokumente</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 57a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Pflichten der Inhaber von Dokumenten mit Chip nach § 78 des Aufenthaltsgesetzes</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 
 Kapitel 5</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Verfahrensvorschriften</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 Abschnitt 1</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Muster für Aufenthaltstitel, Pass- und Ausweisersatz und sonstige Dokumente</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 58</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Vordruckmuster</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 59</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Muster der Aufenthaltstitel</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 59a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Hinweis auf Gewährung internationalen Schutzes bei Inhabern einer Erlaubnis zum Daueraufenthalt – EU</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 59b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Hinweis auf Gewährung internationalen Schutzes bei Inhabern einer Blauen Karte EU</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 60</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Lichtbild</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 60a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ausgabe und Versand des elektronischen Aufenthaltstitels und des Sperrkennworts</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 61</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Sicherheitsstandard, Ausstellungstechnik</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 Abschnitt 2</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Datenerfassung, Datenverarbeitung und Datenschutz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 Unterabschnitt 1</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">Erfassung und Übermittlung von Antragsdaten zur Herstellung von Dokumenten mit Chip nach § 4 sowie nach § 78 des Aufenthaltsgesetzes</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 61a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Fingerabdruckerfassung bei der Beantragung von Dokumenten mit Chip</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 61b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Form und Verfahren der Datenerfassung, -prüfung sowie der dezentralen Qualitätssicherung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 61c</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übermittlung der Daten an den Dokumentenhersteller</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 61d</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Nachweis der Erfüllung der Anforderungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 61e</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Qualitätsstatistik</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 61f</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Automatischer Abruf aus Dateisystemen und automatische Speicherung im öffentlichen Bereich</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 61g</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verwendung im nichtöffentlichen Bereich</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 61h</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anwendung der Personalausweisverordnung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 Unterabschnitt 2</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Führung von Ausländerdateien durch die Ausländerbehörden und die Auslandsvertretungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 62</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Dateisystemführungspflicht der Ausländerbehörden</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 63</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ausländerdatei A</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 64</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Datensatz der Ausländerdatei A</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 65</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Erweiterter Datensatz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 66</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Dateisystem über Passersatzpapiere</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 67</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ausländerdatei B</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 68</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Löschung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 69</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Visadateien der Auslandsvertretungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 70</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 Unterabschnitt 3</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Datenübermittlungen an die Ausländerbehörden</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 71</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übermittlungspflicht</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 72</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Mitteilungen der Meldebehörden</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 72a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Mitteilungen der Pass- und Ausweisbehörden</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 73</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Mitteilungen der Staatsangehörigkeits- und Bescheinigungsbehörden nach § 15 des Bundesvertriebenengesetzes</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 74</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Mitteilungen der Justizvollzugsbehörden und der Maßregelvollzugseinrichtungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 75</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">(weggefallen)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 76</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Mitteilungen der Gewerbebehörden</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 76a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Form und Verfahren der Datenübermittlung im Ausländerwesen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 Unterabschnitt 4</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Erkennungsdienstliche Behandlung nach § 49 Absatz 6, 8 und 9 des Aufenthaltsgesetzes</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 76b</td>
 <td style="text-align: center;" data-valign="bottom" data-charoff="50">Technische Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 76c</td>
 <td style="text-align: center;" data-valign="bottom" data-charoff="50">Nationale Sicherheits- und Qualitätsstatistik</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 
 Kapitel 6</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Ordnungswidrigkeiten</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 77</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Ordnungswidrigkeiten</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 78</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Verwaltungsbehörden im Sinne des Gesetzes über Ordnungswidrigkeiten</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 
 Kapitel 7</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50">Übergangs- und Schlussvorschriften</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 79</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Anwendung auf Freizügigkeitsberechtigte</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 80</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsregelung für bestimmte Fiktionsbescheinigungen im Zusammenhang mit einem Dokumentenmuster</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 80a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsregelungen für britische Staatsangehörige im Zusammenhang mit dem Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 81</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Weitergeltung von nach bisherigem Recht ausgestellten Passersatzpapieren</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 82</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsregelung zur Führung von Ausländerdateien</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 82a</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsregelung aus Anlass des Inkrafttretens des Gesetzes zur Umsetzung aufenthalts- und asylrechtlicher Richtlinien der Europäischen Union</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 82b</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Übergangsregelung zu § 31 Absatz 1 Satz 1 Nummer 1 und 2</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 83</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Erfüllung ausweisrechtlicher Verpflichtungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 84</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Beginn der Anerkennung von Forschungseinrichtungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan="2" style="text-align: center;" data-valign="top" data-charoff="50"><br />
 
 Anlagen</td>
@@ -726,7 +730,7 @@ c) die Angaben nicht in einer germanischen oder romanischen Sprache enthält.
 
 (1) Durch deutsche Behörden ausgestellte Passersatzpapiere für Ausländer sind:
 
-1. der Reiseausweis für Ausländer (§ 5 Absatz 1),
+1. der Reiseausweis für Ausländer (§ 5 Absatz 1 und § 11a Absatz 1),
 
 2. der Notreiseausweis (§ 13 Absatz 1),
 
@@ -883,6 +887,16 @@ In den Reiseausweis für Ausländer können zur Vermeidung von Missbrauch bei od
 (2) Im Ausland darf ein im Inland ausgestellter oder verlängerter Reiseausweis für Ausländer nur mit Zustimmung der zuständigen oder zuletzt zuständigen Ausländerbehörde verlängert werden. Ist eine solche Behörde nicht vorhanden oder feststellbar, ist die Zustimmung bei der Behörde einzuholen, die den Reiseausweis ausgestellt hat, wenn er verlängert wurde, bei der Behörde, die ihn verlängert hat.
 
 (3) Die Aufhebung von Beschränkungen nach den §§ 9 und 10 im Ausland bedarf der Zustimmung der zuständigen oder zuletzt zuständigen Ausländerbehörde. Ist eine solche Behörde nicht vorhanden oder feststellbar, ist die Zustimmung bei der Behörde einzuholen, die die Beschränkung eingetragen hat.
+
+# § 11a – Ausstellung von Reiseausweisen für Ausländer für Schülerreisen in das Vereinigte Königreich Großbritannien und Nordirland
+
+(1) Ein Reiseausweis für Ausländer kann ausgestellt werden an Ausländer, die als Mitglied einer Schülergruppe einer deutschen allgemeinbildenden oder berufsbildenden Schule in Begleitung einer Lehrkraft in das Vereinigte Königreich Großbritannien und Nordirland reisen, sofern sie keinen hierfür ausreichenden eigenen Pass oder Passersatz besitzen. Satz 1 gilt nicht, wenn die Schülerreise in oder durch den Herkunftsstaat des Ausländers führt.
+
+(2) Die §§ 5 bis 11 finden mit Ausnahme des § 5 Absatz 4 in den Fällen des Absatzes 1 keine Anwendung.
+
+(3) Ein nach Absatz 1 Satz 1 ausgestellter Reiseausweis für Ausländer enthält einen Chip. Der Reiseausweis ist für einen Gültigkeitszeitraum auszustellen, der die geplante Reise umfasst und die Anforderungen erfüllt, die das Vereinigte Königreich Großbritannien und Nordirland und die Staaten, durch die die beabsichtigte Reise führt, an die Gültigkeitsdauer stellen. Der Geltungsbereich ist auf das Vereinigte Königreich Großbritannien und Nordirland und die Staaten zu beschränken, durch die die beabsichtigte Reise führt. In dem Reiseausweis ist zu vermerken, dass er nur für die während des Gültigkeitszeitraums durchgeführte Reise als Mitglied einer Schülergruppe einer deutschen allgemeinbildenden oder berufsbildenden Schule gilt. Geht ein nach Absatz 1 Satz 1 ausgestellter Reiseausweis für Ausländer verloren oder wird er gestohlen und wird im Ausland ersatzweise erneut ausgestellt, muss dieser keinen Chip enthalten.
+
+(4) Der Ausländer hat den nach Absatz 1 Satz 1 ausgestellten Reiseausweis für Ausländer nach Rückkehr in das Bundesgebiet oder bei Nichtantritt der Reise der zuständigen Ausländerbehörde unverzüglich zurückzugeben.
 
 # § 12 – Grenzgängerkarte
 
@@ -1058,7 +1072,7 @@ Inhaber von Grenzgängerkarten sind für die Einreise, den Aufenthalt und für d
 
 4. keine Erwerbstätigkeit ausüben.
 
-(2) Schüler mit Wohnsitz im Bundesgebiet, die für eine Reise in das Ausland in einer Schülergruppe in Begleitung einer Lehrkraft einer allgemeinbildenden oder berufsbildenden inländischen Schule auf einer von deutschen Behörden ausgestellten Schülersammelliste aufgeführt sind, sind für die Wiedereinreise in das Bundesgebiet vom Erfordernis eines Aufenthaltstitels befreit, wenn die Ausländerbehörde angeordnet hat, dass die Abschiebung nach der Wiedereinreise ausgesetzt wird. Diese Anordnung ist auf der Schülersammelliste zu vermerken.
+(2) Schüler mit Wohnsitz im Bundesgebiet, die für eine Reise in das Ausland in einer Schülergruppe in Begleitung einer Lehrkraft einer allgemeinbildenden oder berufsbildenden inländischen Schule auf einer von deutschen Behörden ausgestellten Schülersammelliste aufgeführt sind, sind für die Wiedereinreise in das Bundesgebiet vom Erfordernis eines Aufenthaltstitels befreit, wenn die Ausländerbehörde angeordnet hat, dass die Abschiebung nach der Wiedereinreise ausgesetzt wird. Diese Anordnung ist auf der Schülersammelliste oder in einem der Schülerin oder dem Schüler ausgestellten deutschen Passersatz zu vermerken.
 
 # § 23 – Befreiung für ziviles Flugpersonal
 
@@ -3088,9 +3102,6 @@ Bosnien und Herzegowina,
 Ecuador,
 
   
-Georgien,
-
-  
 Indien,
 
   
@@ -3122,9 +3133,6 @@ Pakistan,
 
   
 Peru,
-
-  
-Russische Föderation,
 
   
 Serbien,
