@@ -45,7 +45,7 @@ die den Menschen durch Infektionen, infektionsbedingte akute oder chronische Kra
 
 (5) Toxine im Sinne von Absatz 1 sind Stoffwechselprodukte oder Zellbestandteile von Biostoffen, die infolge von Einatmen, Verschlucken oder Aufnahme über die Haut beim Menschen toxische Wirkungen hervorrufen und dadurch akute oder chronische Gesundheitsschäden oder den Tod bewirken können.
 
-(6) Biostoffe der Risikogruppe 3, die mit (\*\*) gekennzeichnet sind, sind solche Biostoffe, bei denen das Infektionsrisiko für Beschäftigte begrenzt ist, weil eine Übertragung über den Luftweg normalerweise nicht erfolgen kann. Diese Biostoffe sind in Anhang III der Richtlinie 2000/54/EG des Europäischen Parlaments und des Rates vom 18. September 2000 über den Schutz der Arbeitnehmer gegen Gefährdung durch biologische Arbeitsstoffe bei der Arbeit (ABl. L 262 vom 17.10.2000, S. 21) sowie in den Bekanntmachungen nach § 19 Absatz 4 Nummer 1 entsprechend aufgeführt.
+(6) Biostoffe der Risikogruppe 3, die mit (\*\*) gekennzeichnet sind, sind solche Biostoffe, bei denen das Infektionsrisiko für Beschäftigte begrenzt ist, weil eine Übertragung über den Luftweg normalerweise nicht erfolgen kann. Diese Biostoffe sind in Anhang III der Richtlinie 2000/54/EG in der Fassung vom 18. September 2000 sowie in den Bekanntmachungen nach § 19 Absatz 4 Nummer 1 entsprechend aufgeführt.
 
 (7) Tätigkeiten sind
 
@@ -103,9 +103,9 @@ Auf Schülerinnen und Schüler, Studierende sowie sonstige Personen nach Nummer 
 
 4. Risikogruppe 4: Biostoffe, die eine schwere Krankheit beim Menschen hervorrufen und eine ernste Gefahr für Beschäftigte darstellen; die Gefahr einer Verbreitung in der Bevölkerung ist unter Umständen groß; normalerweise ist eine wirksame Vorbeugung oder Behandlung nicht möglich.
 
-(2) Für die Einstufung der Biostoffe in die Risikogruppen 2 bis 4 gilt Anhang III der Richtlinie 2000/54/EG des Europäischen Parlaments und des Rates vom 18. September 2000 über den Schutz der Arbeitnehmer gegen Gefährdung durch biologische Arbeitsstoffe bei der Arbeit (ABl. L 262 vom 17.10.2000, S. 21). Wird dieser Anhang im Verfahren nach Artikel 19 dieser Richtlinie an den technischen Fortschritt angepasst, so kann die geänderte Fassung bereits ab ihrem Inkrafttreten angewendet werden. Sie ist nach Ablauf der festgelegten Umsetzungsfrist anzuwenden.
+(2) Für die Einstufung der Biostoffe in die Risikogruppen 2 bis 4 gilt Anhang III der Richtlinie 2000/54/EG in der Fassung vom 18. September 2000. Wird dieser Anhang im Verfahren nach Artikel 19 dieser Richtlinie an den technischen Fortschritt angepasst, so kann die geänderte Fassung bereits ab ihrem Inkrafttreten angewendet werden. Sie ist nach Ablauf der festgelegten Umsetzungsfrist anzuwenden.
 
-(3) Ist ein Biostoff nicht nach Absatz 2 eingestuft, kann das Bundesministerium für Arbeit und Soziales nach Beratung durch den Ausschuss nach § 19 die Einstufung in eine Risikogruppe nach Absatz 1 vornehmen. Die Einstufungen werden im Gemeinsamen Ministerialblatt bekannt gegeben. Der Arbeitgeber hat diese Einstufungen zu beachten.
+(3) Ist ein Biostoff nicht nach Absatz 2 eingestuft, kann das Bundesministerium für Arbeit und Soziales nach Beratung durch den Ausschuss nach § 19 die Einstufung in eine Risikogruppe nach Absatz 1 vornehmen. Der Arbeitgeber hat diese Einstufungen zu beachten. Die Fundstellen, die die Listen mit den Einstufungen enthalten, werden im Gemeinsamen Ministerialblatt bekannt gegeben.
 
 (4) Liegt für einen Biostoff weder eine Einstufung nach Absatz 2 noch eine nach Absatz 3 vor, hat der Arbeitgeber, der eine gezielte Tätigkeit mit diesem Biostoff beabsichtigt, diesen in eine der Risikogruppen nach Absatz 1 einzustufen. Dabei hat der Arbeitgeber Folgendes zu beachten:
 
