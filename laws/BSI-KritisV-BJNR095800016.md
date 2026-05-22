@@ -1077,7 +1077,7 @@ ein System für die kommunale Steuerung und Überwachung von Lichtsignalanlagen,
 1.22  
 Intelligentes Verkehrssystem
 
-ein intelligentes Verkehrssystem im Sinne des § 2 Nummer 1 des Intelligente Verkehrssysteme Gesetz.
+ein intelligentes Verkehrssystem im Sinne des § 2 Nummer 1 des Intelligente-Verkehrssysteme-Gesetzes.
 
 1.23  
 Schienennetz und Stellwerke des öffentlichen Straßenpersonenverkehrs (ÖSPV)

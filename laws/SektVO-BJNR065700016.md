@@ -1,4 +1,4 @@
-% Verordnung über die Vergabe von öffentlichen Aufträgen im Bereich des Verkehrs, der Trinkwasserversorgung, der Postdienste und der Energieversorgung
+% Verordnung über die Vergabe von öffentlichen Aufträgen im Bereich des Verkehrs, der Trinkwasserversorgung, der Postdienste und der Energieversorgung  (Sektorenverordnung - SektVO)
 % Ausfertigungsdatum: 12.04.2016
  
 # Inhaltsübersicht

@@ -1421,6 +1421,7 @@
 - [DEV 2020](laws/DEV_2020-BJNR211800009.md) Verordnung über die Erhebung von Daten zur Einbeziehung des Luftverkehrs sowie weiterer Tätigkeiten in den Emissionshandel *)
 - [DGBankSa](laws/DGBankSa-BJNR211400998.md) Satzung DG BANK AG
 - [DGBankUmwG](laws/DGBankUmwG-BJNR210200998.md) Gesetz zur Umwandlung der Deutschen Genossenschaftsbank
+- [DGG](laws/DGG-BJNR08D0A0026.md) Gesetz zur Durchführung der EU-Verordnung über europäische Daten-Governance*
 - [DGIAG](laws/DGIAG-BJNR200300002.md) Gesetz zur Errichtung einer Stiftung Deutsche Geisteswissenschaftliche Institute im Ausland, Bonn
 - [DHMG](laws/DHMG-BJNR289110008.md) Gesetz zur Errichtung einer Stiftung „Deutsches Historisches Museum“
 - [DHRV](laws/DHRV-BJNR074400019.md) Verordnung über das Deutsche Hämophilieregister
@@ -1640,8 +1641,6 @@
 - [Ems LV](laws/Ems_LV-BJNR504120003.md) Verordnung über die Verwaltung und Ordnung des Seelotsreviers Ems
 - [EmsDolKoopVtrNLDG](laws/EmsDolKoopVtrNLDG-BJNR205090986.md) Gesetz zu dem Vertrag vom 10. September 1984 zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande über die Zusammenarbeit im Bereich von Ems und Dollart sowie in den angrenzenden Gebieten (Kooperationsvertrag Ems-Dollart)
 - [EmsSchEV](laws/EmsSchEV-BJNR015830989.md) Verordnung zur Einführung der Schiffahrtsordnung Emsmündung
-- [EmsSchO](laws/EmsSchO-BJNR201440987.md) Schiffahrtsordnung Emsmündung (Anlage A zu dem deutsch-niederländischen Abkommen vom 22. Dezember 1986 über die Schiffahrtsordnung in der Emsmündung)
-- [EmsSchOAbk](laws/EmsSchOAbk-BJNR201420987.md) Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung des Königreichs der Niederlande über die Schiffahrtsordnung in der Emsmündung
 - [EMVBeitrV](laws/EMVBeitrV-BJNR335900002.md) Verordnung über Beiträge nach dem Gesetz über die elektromagnetische Verträglichkeit von Geräten für die Jahre 1999, 2000, 2001 und 2002
 - [EMVG](laws/EMVG-BJNR287910016.md) Gesetz über die elektromagnetische Verträglichkeit von Betriebsmitteln*
 - [EndlagerVlV](laws/EndlagerVlV-BJNR005620982.md) Verordnung über Vorausleistungen für die Einrichtung von Anlagen des Bundes zur Sicherstellung und zur Endlagerung radioaktiver Abfälle
@@ -2015,7 +2014,6 @@
 - [FMontAusbV](laws/FMontAusbV-BJNR099700999.md) Verordnung über die Berufsausbildung zum Fassadenmonteur/zur Fassadenmonteurin
 - [FMSAKostV](laws/FMSAKostV-BJNR192810015.md) Verordnung über die Erstattung und Umlage von Kosten der Bundesanstalt für Finanzmarktstabilisierung *)
 - [FMStFV](laws/FMStFV-BJNR612300008.md) Verordnung zur Durchführung des Stabilisierungsfondsgesetzes
-- [FMVtr1965G](laws/FMVtr1965G-BJNR209310968.md) Gesetz zu dem Internationalen Fernmeldevertrag vom 12. November 1965
 - [FMVtr1973G](laws/FMVtr1973G-BJNR210890976.md) Gesetz zu dem Internationalen Fernmeldevertrag vom 25. Oktober 1973
 - [FoltÜbkFakProtG](laws/FoltÜbkFakProtG-BJNR085420008.md) Gesetz zu dem Fakultativprotokoll vom 18. Dezember 2002 zum Übereinkommen gegen Folter und andere grausame, unmenschliche oder erniedrigende Behandlung oder Strafe
 - [FoMaFüPrV](laws/FoMaFüPrV-BJNR216500009.md) Verordnung über die Anforderungen in der Prüfung zum anerkannten Abschluss Geprüfter Forstmaschinenführer/Geprüfte Forstmaschinenführerin
@@ -2695,7 +2693,7 @@
 - [ITZBundG](laws/ITZBundG-BJNR275610020.md) Gesetz über die Umwandlung des Informationstechnikzentrums Bund in eine nichtrechtsfähige Anstalt des öffentlichen Rechts
 - [IUCNVorV](laws/IUCNVorV-BJNR036820017.md) Verordnung über die Gewährung von Vorrechten und Befreiungen an die Internationale Union für die Erhaltung der Natur und der natürlichen Hilfsquellen
 - [IVD-AMG-V](laws/IVD-AMG-V-BJNR074600000.md) Verordnung zur Ausdehnung der Vorschriften über die Zulassung und staatliche Chargenprüfung auf Tests zur In-vitro-Diagnostik nach dem Arzneimittelgesetz
-- [IVSG](laws/IVSG-BJNR155300013.md) Gesetz über Intelligente Verkehrssysteme im Straßenverkehr und deren Schnittstellen zu anderen Verkehrsträgern 1
+- [IVSG](laws/IVSG-BJNR0940B0026.md) Gesetz über intelligente Verkehrssysteme im Straßenverkehr und deren Schnittstellen zu anderen Verkehrsträgern und über die Datenbereitstellung über den Nationalen Zugangspunkt
 - [IZÜV](laws/IZÜV-BJNR101100013.md) Verordnung zur Regelung des Verfahrens bei Zulassung und Überwachung industrieller Abwasserbehandlungsanlagen und Gewässerbenutzungen
 - [JAbschlVUV](laws/JAbschlVUV-BJNR001930968.md) Verordnung über die Gliederung des Jahresabschlusses von Verkehrsunternehmen
 - [JAbschlWUV](laws/JAbschlWUV-BJNR0980A0023.md) Verordnung über die Gliederung des Jahresabschlusses von Wohnungsunternehmen
@@ -2843,6 +2841,7 @@
 - [KlempnerMstrV](laws/KlempnerMstrV-BJNR126700006.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Klempner-Handwerk
 - [KlFzKV-BinSch](laws/KlFzKV-BinSch-BJNR022600995.md) Verordnung über die Kennzeichnung von auf Binnenschiffahrtsstraßen verkehrenden Kleinfahrzeugen
 - [KlimaBergV](laws/KlimaBergV-BJNR006850983.md) Bergverordnung zum Schutz der Gesundheit gegen Klimaeinwirkungen
+- [KliNeMFöG](laws/KliNeMFöG-BJNR08B0C0026.md) Gesetz zur Förderung klimaneutraler Mobilität
 - [KlWalAbkG](laws/KlWalAbkG-BJNR111320993.md) Gesetz zu dem Abkommen vom 31. März 1992 zur Erhaltung der Kleinwale in der Nord- und Ostsee
 - [KMAG](laws/KMAG-BJNR1B60B0024.md) Gesetz zur Aufsicht über Märkte für Kryptowerte
 - [KMMV](laws/KMMV-BJNR0C50A0025.md) Verordnung zur Konkretisierung von Mitteilungspflichten zur Offenlegung von Insiderinformationen nach § 36 des Kryptomärkteaufsichtsgesetzes
@@ -3772,7 +3771,6 @@
 - [NatKautschOrgVorRV 1989](laws/NatKautschOrgVorRV_1989-BJNR201060989.md) Verordnung über die Gewährung von Vorrechten und Immunitäten an die Internationale Naturkautschukorganisation
 - [NATOProtG](laws/NATOProtG-BJNR219970969.md) Gesetz zu dem Protokoll vom 28. August 1952 über die Rechtsstellung der auf Grund des Nordatlantikvertrags errichteten internationalen militärischen Hauptquartiere und zu den dieses Protokoll ergänzenden Vereinbarungen
 - [NATOTrStatVtrG](laws/NATOTrStatVtrG-BJNR211839961.md) Gesetz zu dem Abkommen zwischen den Parteien des Nordatlantikvertrags vom 19. Juni 1951 über die Rechtsstellung ihrer Truppen und zu den Zusatzvereinbarungen vom 3. August 1959 zu diesem Abkommen
-- [NATOTrStatZAbkÄndAbk](laws/NATOTrStatZAbkÄndAbk-BJNR259820994.md) Abkommen zur Änderung des Zusatzabkommens vom 3. August 1959 in der durch das Abkommen vom 21. Oktober 1971 und die Vereinbarung vom 18. Mai 1981 geänderten Fassung zu dem Abkommen zwischen den Parteien des Nordatlantikvertrages über die Rechtsstellung ihrer Truppen hinsichtlich der in der Bundesrepublik Deutschland stationierten ausländischen Truppen
 - [NATOTrStatZAbkÄndAbkG](laws/NATOTrStatZAbkÄndAbkG-BJNR259420994.md) Gesetz zu dem Abkommen vom 18. März 1993 zur Änderung des Zusatzabkommens zum NATO-Truppenstatut und zu weiteren Übereinkünften
 - [NATOVorRV](laws/NATOVorRV-BJNR201170958.md) Verordnung über die Gewährung von Vorrechten und Befreiungen an die Nordatlantikvertrags-Organisation, die nationalen Vertreter, das internationale Personal und die für die Organisation tätigen Sachverständigen
 - [NATOVorRV 1962](laws/NATOVorRV_1962-BJNR201130962.md) Verordnung über die Gewährung von Vorrechten und Befreiungen an internationale Bedienstete der Nordatlantikvertrags-Organisation
@@ -4323,7 +4321,6 @@
 - [RheinSchPersV](laws/RheinSchPersV-BJNR0690Q0023.md) Verordnung über das Schiffspersonal auf dem Rhein
 - [RheinSchPEV](laws/RheinSchPEV-BJNR238160994.md) Verordnung zur Einführung der Rheinschiffahrtspolizeiverordnung
 - [RheinSchPV 1994](laws/RheinSchPV_1994-BJNR338160994.md) Rheinschiffahrtspolizeiverordnung (Anlage zur Verordnung zur Einführung der Rheinschiffahrtspolizeiverordnung)
-- [RheinSchÜbkG](laws/RheinSchÜbkG-BJNR205600966.md) Gesetz zu dem Übereinkommen vom 20. November 1963 zur Revision der am 17. Oktober 1868 in Mannheim unterzeichneten Revidierten Rheinschiffahrtsakte
 - [RHiErsDPAZustV](laws/RHiErsDPAZustV-BJNR207420979.md) Verordnung über die Zuständigkeit des Deutschen Patentamts für die Übermittlung von Rechtshilfeersuchen des Europäischen Patentamts
 - [RHiGRCAbkAV](laws/RHiGRCAbkAV-BJNR208470939.md) Verordnung zur Ausführung des deutsch-griechischen Abkommens über die gegenseitige Rechtshilfe in Angelegenheiten des bürgerlichen und Handels-Rechts
 - [RHiGRCAbkBek](laws/RHiGRCAbkBek-BJNR208480939.md) Bekanntmachung über das deutsch-griechische Abkommen über die gegenseitige Rechtshilfe in Angelegenheiten des bürgerlichen und Handels-Rechts
@@ -4614,7 +4611,7 @@
 - [SeilMstrV](laws/SeilMstrV-BJNR125700997.md) Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Seiler-Handwerk
 - [SEIVerfMAusbV 2004](laws/SEIVerfMAusbV_2004-BJNR018000004.md) Verordnung über die Berufsausbildung zum Verfahrensmechaniker/zur Verfahrensmechanikerin in der Steine- und Erdenindustrie
 - [SekG](laws/SekG-BJNR207010017.md) Gesetz zur Regelung von Sekundierungen im Rahmen von Einsätzen der zivilen Krisenprävention
-- [SektVO 2016](laws/SektVO_2016-BJNR065700016.md) Verordnung über die Vergabe von öffentlichen Aufträgen im Bereich des Verkehrs, der Trinkwasserversorgung, der Postdienste und der Energieversorgung
+- [SektVO](laws/SektVO-BJNR065700016.md) Verordnung über die Vergabe von öffentlichen Aufträgen im Bereich des Verkehrs, der Trinkwasserversorgung, der Postdienste und der Energieversorgung
 - [ServicefahrerAusbV](laws/ServicefahrerAusbV-BJNR088700005.md) Verordnung über die Berufsausbildung zum Servicefahrer/zur Servicefahrerin
 - [ServKflLuftvAusbV](laws/ServKflLuftvAusbV-BJNR066000017.md) Verordnung über die Berufsausbildung zum Servicekaufmann im Luftverkehr und zur Servicekauffrau im Luftverkehr*
 - [SEuSCEVVorschl](laws/SEuSCEVVorschl-BJNR095000020.md) Vorschlag für eine Verordnung des Rates über befristete Maßnahmen in Bezug auf die Hauptversammlungen Europäischer Gesellschaften (SE) und die Generalversammlungen Europäischer Genossenschaften (SCE)
@@ -4892,6 +4889,7 @@
 - [StromStG§9Abs9Bek 2025](laws/StromStG§9Abs9Bek_2025-BJNR0720A0025.md) Bekanntmachung nach § 9 Absatz 9 des Stromsteuergesetzes
 - [StromStV](laws/StromStV-BJNR079400000.md) Verordnung zur Durchführung des Stromsteuergesetzes
 - [StrRehaG](laws/StrRehaG-BJNR118140992.md) Gesetz über die Rehabilitierung und Entschädigung von Opfern rechtsstaatswidriger Strafverfolgungsmaßnahmen im Beitrittsgebiet
+- [StrRehaGSchäV](laws/StrRehaGSchäV-BJNR0900A0026.md) Verordnung über die schädigenden Ereignisse und gesundheitlichen Schädigungen im Sinne des § 21 Absatz 6 Satz 1 des Strafrechtlichen Rehabilitierungsgesetzes
 - [StrRehaHomG](laws/StrRehaHomG-BJNR244310017.md) Gesetz zur strafrechtlichen Rehabilitierung der nach dem 8. Mai 1945 wegen einvernehmlicher homosexueller Handlungen verurteilten Personen
 - [StRSaarEG](laws/StRSaarEG-BJNR003390959.md) Gesetz über die Einführung des deutschen Rechts auf dem Gebiete der Steuern, Zölle und Finanzmonopole im Saarland
 - [StruKomLäG](laws/StruKomLäG-BJNR0F70B0025.md) Gesetz zur Ausführung von Artikel 109 Absatz 3 Satz 6 und 7 des Grundgesetzes
@@ -5472,6 +5470,7 @@
 - [VwGmbHVtr](laws/VwGmbHVtr-BJNR003020960.md) Vertrag über die Regelung der Rechtsverhältnisse bei der Volkswagenwerk Gesellschaft mit beschränkter Haftung und über die Errichtung einer "Stiftung Volkswagenwerk" (Anlage zum Gesetz über die Regelung der Rechtsverhältnisse bei der Volkswagenwerk Gesellschaft mit beschränkter Haftung)
 - [VwGO](laws/VwGO-BJNR000170960.md) Verwaltungsgerichtsordnung
 - [VwRehaG](laws/VwRehaG-BJNR131110994.md) Gesetz über die Aufhebung rechtsstaatswidriger Verwaltungsentscheidungen im Beitrittsgebiet und die daran anknüpfenden Folgeansprüche
+- [VwRehaGSchäV](laws/VwRehaGSchäV-BJNR0910A0026.md) Verordnung über die schädigenden Ereignisse und gesundheitlichen Schädigungen im Sinne des § 3 Absatz 6 Satz 1 des Verwaltungsrechtlichen Rehabilitierungsgesetzes
 - [VwVfG](laws/VwVfG-BJNR012530976.md) Verwaltungsverfahrensgesetz
 - [VwVfRÄndG](laws/VwVfRÄndG-BJNR065600996.md) Gesetz zur Änderung verwaltungsverfahrensrechtlicher Vorschriften
 - [VwVG](laws/VwVG-BJNR001570953.md) Verwaltungs-Vollstreckungsgesetz
@@ -5596,6 +5595,7 @@
 - [WissZeitVG](laws/WissZeitVG-BJNR050610007.md) Gesetz über befristete Arbeitsverträge in der Wissenschaft
 - [WiStrG 1954](laws/WiStrG_1954-BJNR001750954.md) Gesetz zur weiteren Vereinfachung des Wirtschaftsstrafrechts
 - [WiVwAuflV](laws/WiVwAuflV-BJNR006780950.md) Verordnung zur Auflösung oder Überführung von Einrichtungen der Verwaltung des Vereinigten Wirtschaftsgebietes
+- [WM2026LärmSchV](laws/WM2026LärmSchV-BJNR0930A0026.md) Verordnung über den Lärmschutz bei öffentlichen Fernsehdarbietungen im Freien über die Fußball-Weltmeisterschaft der Männer 2026
 - [WMVO](laws/WMVO-BJNR129700001.md) Werkstätten-Mitwirkungsverordnung
 - [WO](laws/WO-BJNR349400001.md) Erste Verordnung zur Durchführung des Betriebsverfassungsgesetzes
 - [WoBauÄndG 1965](laws/WoBauÄndG_1965-BJNR009459965.md) Gesetz zur verstärkten Eigentumsbildung im Wohnungsbau und zur Sicherung der Zweckbestimmung von Sozialwohnungen
