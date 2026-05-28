@@ -2475,7 +2475,7 @@
 - [HkGAufhuaÄndG](laws/HkGAufhuaÄndG-BJNR023179991.md) Gesetz zur Aufhebung des Heimkehrergesetzes und zur Änderung anderer Vorschriften
 - [HkNRG](laws/HkNRG-BJNR0090B0023.md) Gesetz zur Ausstellung, Übertragung und Entwertung von Herkunftsnachweisen sowie zur Schaffung von Herkunftsnachweisregistern für Gas, Wärme oder Kälte aus erneuerbaren Energien
 - [HKohlStiftG](laws/HKohlStiftG-BJNR130610021.md) Gesetz über die Errichtung einer Bundeskanzler-Helmut-Kohl-Stiftung
-- [HKrimDAPrV](laws/HKrimDAPrV-BJNR004300011.md) Verordnung über die Ausbildung und Prüfung für den höheren Kriminaldienst des Bundes
+- [HKrimDAPrV](laws/HKrimDAPrV-BJNR004300011.md) Verordnung über die Ausbildung und Prüfung für den höheren Kriminaldienst des Bundes*)
 - [HkRNDV](laws/HkRNDV-BJNR185310018.md) Durchführungsverordnung über Herkunfts- und Regionalnachweise für Strom aus erneuerbaren Energien
 - [HkRNGebV](laws/HkRNGebV-BJNR270300012.md) Gebührenverordnung nach § 14 Absatz 2 der Erneuerbare-Energien-Verordnung
 - [HKStG](laws/HKStG-BJNR021010992.md) Gesetz über die Heimkehrerstiftung
@@ -3984,6 +3984,7 @@
 - [PatInfoZBek 2017](laws/PatInfoZBek_2017-BJNR380700017.md) Bekanntmachung der Änderung der zur Entgegennahme von Patent-, Gebrauchsmuster-, Marken- und Designanmeldungen befugten Patentinformationszentren
 - [PatInfoZBek 2018](laws/PatInfoZBek_2018-BJNR184300018.md) Bekanntmachung der Änderung der zur Entgegennahme von Patent-, Gebrauchsmuster-,Marken- und Designanmeldungen befugten Patentinformationszentren
 - [PatInfoZBek 2020](laws/PatInfoZBek_2020-BJNR233600020.md) Bekanntmachung der Änderung der zur Entgegennahme von Patent-, Gebrauchsmuster-, Marken- und Designanmeldungen befugten Patentinformationszentren
+- [PatInfoZGeoHwIndBek](laws/PatInfoZGeoHwIndBek-BJNR0970A0026.md) Bekanntmachung der zur Entgegennahme von Anträgen auf Eintragung von geografischen Angaben für handwerkliche und industrielle Erzeugnisse befugten Patentinformationszentren
 - [PatKostG](laws/PatKostG-BJNR365610001.md) Gesetz über die Kosten des Deutschen Patent- und Markenamts und des Bundespatentgerichts
 - [PatKostZV](laws/PatKostZV-BJNR208300003.md) Verordnung über die Zahlung der Kosten des Deutschen Patent- und Markenamts und des Bundespatentgerichts
 - [PatV](laws/PatV-BJNR170200003.md) Verordnung zum Verfahren in Patentsachen vor dem Deutschen Patent- und Markenamt

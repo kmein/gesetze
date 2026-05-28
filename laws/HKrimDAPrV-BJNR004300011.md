@@ -1,4 +1,4 @@
-% Verordnung über die Ausbildung und Prüfung für den höheren Kriminaldienst des Bundes  (HKrimDAPrV)
+% Verordnung über die Ausbildung und Prüfung für den höheren Kriminaldienst des Bundes*)  (HKrimDAPrV)
 % Ausfertigungsdatum: 15.01.2011
  
 # Eingangsformel
