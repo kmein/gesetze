@@ -359,8 +359,6 @@ Eine Information nach Satz 1 muss nicht veröffentlicht werden, wenn es sich um 
 
 (5) Jeder Hersteller ist verpflichtet, der Organisation für Herstellerverantwortung, an der er beteiligt ist, die zur Erfüllung der Ermittlung der Sammelquote erforderlichen Daten auf Verlangen der Organisation für Herstellerverantwortung bereitzustellen. Absatz 1 gilt für Hersteller, die die erweiterte Herstellerverantwortung individuell wahrnehmen, entsprechend.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
-
 # § 14 – Rücknahmepflichten der Händler
 
 (1) Ergänzend zu der Rücknahmepflicht nach Artikel 62 Absatz 1 und 2 der Verordnung (EU) 2023/1542 ist jeder Händler verpflichtet, vom Endnutzer Gerätealtbatterien und LV-Altbatterien unabhängig von deren chemischer Zusammensetzung, Marke, Herkunft, Baugröße und Beschaffenheit im Handelsgeschäft oder in unmittelbarer Nähe hierzu unentgeltlich zurückzunehmen. Die Rücknahmeverpflichtung nach Satz 1 beschränkt sich auf Altbatterien der Batteriekategorien nach Artikel 3 Absatz 1 Nummer 9 und 11 der Verordnung (EU) 2023/1542, die der Händler als Neubatterien in seinem Sortiment führt oder geführt hat, sowie auf die Menge an Altbatterien, derer sich private Endnutzer üblicherweise entledigen. Satz 1 erstreckt sich nicht auf Produkte mit eingebauten Altbatterien; das Elektro- und Elektronikgerätegesetz und die Altfahrzeug-Verordnung bleiben unberührt.
@@ -1098,8 +1096,6 @@ CE-Kennzeichnung nicht, nicht richtig oder nicht rechtzeitig anbringt,
 31. entgegen Artikel 81 Absatz 2 nicht gewährleistet, dass eine Korrekturmaßnahme ergriffen wird.
 
 (3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 12 Buchstabe c und des Absatzes 2 Nummer 14 bis 18, 20 und 22 mit einer Geldbuße bis zu fünfhunderttausend Euro, in den Fällen des Absatzes 1 Nummer 1 und 2, 4 bis 6, 11 und 12 Buchstabe a sowie in den Fällen des Absatzes 2 Nummer 10, 21, 23 bis 25, 30 und 31 mit einer Geldbuße bis zu hunderttausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
 
 # § 61 – Zuständige Verwaltungsbehörde
 

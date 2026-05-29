@@ -271,5 +271,3 @@ a) das Vortragsrecht,
 b) das Benachteiligungsverbot und den Kündigungsschutz,
 
 3. das Verfahren zur Bestellung von Abfallbeauftragten.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)

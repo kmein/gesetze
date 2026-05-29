@@ -333,6 +333,3 @@ bis 320,20</td>
 </tr>
 </tbody>
 </table>
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 4.8.2025 I Nr. 187 +++)  
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)

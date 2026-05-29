@@ -161,6 +161,6 @@ Die Stiftung untersteht der Rechtsaufsicht des Bundeskanzleramts.
 
 Die Auflösung der Stiftung kann nur durch Gesetz erfolgen. Im Fall der Auflösung ist der Bund Anfallberechtigter für das Stiftungsvermögen.
 
-# § 14 – Inkrafttreten
+# § 13 – Inkrafttreten
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.

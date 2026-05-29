@@ -417,7 +417,6 @@ Sind der Antrag oder die Unterlagen nicht vollständig, so hat die Genehmigungsb
 
 In durch außergewöhnliche Umstände hinreichend begründeten Fällen kann die Genehmigungsbehörde die Frist um bis zu drei Monate verlängern. Die Fristverlängerung ist gegenüber dem Antragsteller zu begründen.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 12.8.2025 I Nr. 189 +++)  
 (+++ § 10a: Zur Anwendung vgl. § 23b Abs. 4a +++)
 
 # § 11 – Einwendungen Dritter bei Teilgenehmigung und Vorbescheid
