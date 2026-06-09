@@ -3184,8 +3184,6 @@ Oman.
 
 # Anlage C – (zu § 26 Absatz 2 Satz 1)
 
-Indien  
-  
 Jordanien  
   
 Ausgenommen von der Flughafentransitvisumpflicht sind Staatsangehörige Jordaniens, sofern sie

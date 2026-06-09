@@ -179,7 +179,7 @@ hat die von der Koordinierungsstelle beauftragte Person einen ersten Bericht nac
 
 # § 11 – Meldung von Vorfällen bei der Lebendspende von Organen
 
-Der behandelnde Arzt eines Lebendspenders ist verpflichtet, jeden Vorfall, der im Rahmen der ärztlich empfohlenen Nachbetreuung nach § 8 Absatz 3 Satz 1 des Transplantationsgesetzes beim lebenden Spender festgestellt wird und der sich auf die Qualität und Sicherheit des gespendeten Organs auswirkt, oder jede schwerwiegende unerwünschte Reaktion nach § 6 Absatz 4 Satz 2 beim lebenden Spender, die infolge der Entnahme des Organs entstanden sein könnte, unverzüglich an das Transplantationszentrum zu melden, welches das Organ übertragen hat.
+Der behandelnde Arzt eines Lebendspenders ist verpflichtet, jeden Vorfall, der im Rahmen der ärztlich empfohlenen Nachbetreuung nach § 8 Absatz 4 des Transplantationsgesetzes beim lebenden Spender festgestellt wird und der sich auf die Qualität und Sicherheit des gespendeten Organs auswirkt, oder jede schwerwiegende unerwünschte Reaktion nach § 6 Absatz 4 Satz 2 beim lebenden Spender, die infolge der Entnahme des Organs entstanden sein könnte, unverzüglich an das Transplantationszentrum zu melden, welches das Organ übertragen hat.
 
 # § 12 – Gemeinsame Verfahrensvorschriften
 

@@ -95,7 +95,7 @@ b) die richterliche Entscheidung über die Anordnung der Überstellungshaft nich
 
 c) der begründete Verdacht vorliegt, dass sich der Ausländer der Anordnung der Überstellungshaft entziehen will.
 
-Der Ausländer ist unverzüglich dem Richter zur Entscheidung über die Anordnung der Überstellungshaft vorzuführen. Auf das Verfahren auf Anordnung von Haft zur Überstellung nach der Verordnung (EU) Nr. 604/2013 finden § 62d sowie die Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend Anwendung, soweit das Verfahren in der Verordnung (EU) Nr. 604/2013 nicht abweichend geregelt ist.
+Der Ausländer ist unverzüglich dem Richter zur Entscheidung über die Anordnung der Überstellungshaft vorzuführen. Auf das Verfahren auf Anordnung von Haft zur Überstellung nach der Verordnung (EU) Nr. 604/2013 finden die Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend Anwendung, soweit das Verfahren in der Verordnung (EU) Nr. 604/2013 nicht abweichend geregelt ist.
 
 # § 3 – Passpflicht
 
@@ -3099,9 +3099,7 @@ Der Ausländer ist unverzüglich dem Richter zur Entscheidung über die Anordnun
 
 Der Ausländer ist unverzüglich dem Richter zur Entscheidung über die Anordnung der Haft nach Absatz 1 vorzuführen.
 
-# § 62d – Bestellung eines anwaltlichen Vertreters
-
-Zur richterlichen Entscheidung über die Anordnung von Abschiebungshaft nach § 62 und Ausreisegewahrsam nach § 62b bestellt das Gericht dem Betroffenen, der noch keinen anwaltlichen Vertreter hat, von Amts wegen für die Dauer des Verfahrens einen anwaltlichen Vertreter als Bevollmächtigten.
+# § 62d – (weggefallen)
 
 # § 63 – Pflichten der Beförderungsunternehmer
 

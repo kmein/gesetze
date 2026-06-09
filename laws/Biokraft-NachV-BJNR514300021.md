@@ -89,7 +89,11 @@
 
 # § 1 – Anwendungsbereich
 
-Diese Verordnung ist für die Erfüllung der Verpflichtung nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 des Bundes-Immissionsschutzgesetzes in der Fassung der Bekanntmachung vom 17. Mai 2013 (BGBl. I S. 1274; 2021 I S. 123), das zuletzt durch Artikel 1 des Gesetzes vom 24. September 2021 (BGBl. I S. 4458) geändert worden ist, in der jeweils geltenden Fassung anzuwenden.
+Diese Verordnung ist anzuwenden für die Erfüllung
+
+1. der Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 des Bundes-Immissionsschutzgesetzes und
+
+2. der Verpflichtung nach Artikel 4 in Verbindung mit dem Anhang I der Verordnung (EU) 2023/2405, soweit es sich um Biokraftstoffe für die Luftfahrt nach Artikel 3 Nummer 7 Buchstabe b der Verordnung (EU) 2023/2405 handelt.
 
 # § 2 – Begriffsbestimmungen
 
@@ -127,13 +131,9 @@ c) auf denen die ökologischen Prozesse nicht wesentlich gestört sind.
 
 (5) Bioabfälle sind Bioabfälle nach § 3 Absatz 7 des Kreislaufwirtschaftsgesetzes.
 
-(6) Biokraftstoffe sind Biokraftstoffe im Sinne des § 37b Absatz 1 und Absatz 8 Satz 2 des Bundes-
+(6) Biokraftstoffe sind Biokraftstoffe im Sinne des § 37b Absatz 1 und Absatz 8 Satz 2 des Bundes-Immissionsschutzgesetzes in Verbindung mit § 4 der Verordnung zur Festlegung weiterer Bestimmungen zur Treibhausgasminderung bei Kraftstoffen.
 
-Immissionsschutzgesetzes in Verbindung mit § 4 der Verordnung zur Festlegung weiterer Bestimmungen zur Treibhausgasminderung bei Kraftstoffen.
-
-(7) Biokraftstoffquotenstelle ist die zuständige Stelle im Sinne des § 37d Absatz 1 Satz 1 des Bundes-
-
-Immissionsschutzgesetzes.
+(7) Biokraftstoffquotenstelle ist die zuständige Stelle im Sinne des § 37d Absatz 1 Satz 1 oder des § 37m Absatz 1 des Bundes-Immissionsschutzgesetzes.
 
 (8) Biomasse
 
@@ -191,11 +191,9 @@ Flächen mit Dauerkulturen, Waldflächen und Grünlandflächen sind keine Kultur
 
 (26) Nachweispflichtige sind
 
-1. Verpflichtete nach § 37a Absatz 4 des Bundes-
+1. Verpflichtete nach § 37a Absatz 1 Satz 1 und 2 des Bundes-Immissionsschutzgesetzes und Flugkraftstoffanbieter nach § 37j Absatz 1 des Bundes-Immissionsschutzgesetzes oder
 
-Immissionsschutzgesetzes oder
-
-2. Dritte nach § 37a Absatz 6 oder Absatz 7 des Bundes-Immissionsschutzgesetzes.
+2. Dritte nach § 37a Absatz 6 oder Absatz 7 des Bundes-Immissionsschutzgesetzes.
 
 (27) Nahrungs- und Futtermittelpflanzen sind Kulturpflanzen mit hohem Stärkegehalt, Zuckerpflanzen oder Ölpflanzen, die als Hauptkulturen auf landwirtschaftlichen Flächen produziert werden, ausgenommen Reststoffe, Abfälle und lignozellulosehaltiges Material und Zwischenfrüchte wie Zweitfrüchte und Deckpflanzen, es sei denn, die Verwendung solcher Zwischenfrüchte führt zu einer zusätzlichen Nachfrage nach Land.
 
@@ -229,9 +227,7 @@ b) im Fall von Abfällen und Reststoffen von den Betrieben oder Privathaushalten
 
 (34) Walderneuerung ist die Wiederaufforstung eines Waldbestands mit Natur- oder Kunstverjüngung oder einer Kombination von beidem nach der Entnahme von Teilen oder des gesamten früheren Bestands durch beispielsweise Fällung oder auf Grund natürlicher Ursachen, einschließlich Feuer oder Sturm.
 
-(35) Zellulosehaltiges Non-Food-Material ist Material, das überwiegend aus Zellulose und Hemizellulose besteht und einen niedrigeren Lignin-Gehalt als lignozellulosehaltiges Material aufweist. Darunter fallen Reststoffe von Nahrungs- und Futtermittelpflanzen wie Stroh, Spelzen, Hülsen und Schalen, grasartige Energiepflanzen mit niedrigem Stärkegehalt wie Weidelgras, Rutenhirse, Miscanthus, und Pfahlrohr, Zwischenfrüchte vor und nach Hauptkulturen, Untersaaten, industrielle Reststoffe, einschließlich Nahrungs- und Futtermittelpflanzen nach Extraktion von Pflanzenölen, Zucker, Stärken und Protein, sowie Material aus Bioabfall; als Untersaaten und Deckpflanzen werden vorübergehend angebaute Weiden mit Gras-Klee-
-
-Mischungen mit einem niedrigen Stärkegehalt bezeichnet, die zur Fütterung von Vieh sowie dazu dienen, die Bodenfruchtbarkeit im Interesse höherer Ernteerträge bei den Ackerhauptkulturen zu verbessern.
+(35) Zellulosehaltiges Non-Food-Material ist Material, das überwiegend aus Zellulose und Hemizellulose besteht und einen niedrigeren Lignin-Gehalt als lignozellulosehaltiges Material aufweist. Darunter fallen Reststoffe von Nahrungs- und Futtermittelpflanzen wie Stroh, Spelzen, Hülsen und Schalen, grasartige Energiepflanzen mit niedrigem Stärkegehalt wie Weidelgras, Rutenhirse, Miscanthus, und Pfahlrohr, Zwischenfrüchte vor und nach Hauptkulturen, Untersaaten, industrielle Reststoffe, einschließlich Nahrungs- und Futtermittelpflanzen nach Extraktion von Pflanzenölen, Zucker, Stärken und Protein, sowie Material aus Bioabfall; als Untersaaten und Deckpflanzen werden vorübergehend angebaute Weiden mit Gras-Klee-Mischungen mit einem niedrigen Stärkegehalt bezeichnet, die zur Fütterung von Vieh sowie dazu dienen, die Bodenfruchtbarkeit im Interesse höherer Ernteerträge bei den Ackerhauptkulturen zu verbessern.
 
 (36) Zertifikate sind Konformitätsbescheinigungen darüber, dass Schnittstellen oder Lieferanten einschließlich aller von ihnen mit der Herstellung, der Lagerung oder dem Transport und dem Vertrieb der Biomasse, der Biokraftstoffe, der Biomasse-Brennstoffe oder der flüssigen Biobrennstoffe unmittelbar oder mittelbar befassten Betriebe die Anforderungen nach dieser Verordnung erfüllen.
 
@@ -243,7 +239,7 @@ Mischungen mit einem niedrigen Stärkegehalt bezeichnet, die zur Fütterung von 
 
 # § 3 – Anerkennung von Biokraftstoffen
 
-(1) Biokraftstoffe werden auf die Erfüllung von Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 des Bundes-Immissionsschutzgesetzes angerechnet, wenn zum Zeitpunkt des Inverkehrbringens
+(1) Biokraftstoffe werden auf die Erfüllung von Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 des Bundes-Immissionsschutzgesetzes oder auf die Erfüllung der Verpflichtung nach Artikel 4 in Verbindung mit dem Anhang I der Verordnung (EU) 2023/2405, soweit es sich um Biokraftstoffe für die Luftfahrt nach Artikel 3 Nummer 7 Buchstabe b der Verordnung (EU) 2023/2405 handelt, angerechnet, wenn zum Zeitpunkt des Inverkehrbringens
 
 1. die zur Herstellung der Biokraftstoffe eingesetzte
 
@@ -473,7 +469,7 @@ f) die Bestätigung der Summe aus den Treibhausgasemissionen nach Buchstabe c un
 
 9. den Namen und die Anschrift des Lieferanten, an den die Biokraftstoffe weitergegeben werden,
 
-10. die Bestätigung des letzten Lieferanten nach § 11 Absatz 5 und
+10. die Bestätigung des letzten Lieferanten nach § 11 Absatz 5,
 
 11. eine der folgenden Angaben:
 
@@ -481,11 +477,13 @@ a) die Angabe „konventioneller Biokraftstoff“, soweit es sich um einen Biokr
 
 b) die Angabe „fortschrittlicher Biokraftstoff“, soweit es sich um einen fortschrittlichen Biokraftstoff, der aus Rohstoffen gemäß Anlage 1 der Verordnung zur Festlegung weiterer Bestimmungen zur Treibhausgaseinsparung bei Kraftstoffen hergestellt wurde, handelt,
 
-c) die Angabe „abfallbasierter Biokraftstoff“, soweit es sich um einen Biokraftstoff, der aus Rohstoffen gemäß Anlage 4 der Verordnung zur Festlegung weiterer Bestimmungen zur Treibhausgaseinsparung bei Kraftstoffen hergestellt wurde, handelt, oder
+c) die Angabe „abfallbasierter Biokraftstoff“, soweit es sich um einen Biokraftstoff, der aus Rohstoffen gemäß Anlage 4 der Verordnung zur Festlegung weiterer Bestimmungen zur Treibhausgaseinsparung bei Kraftstoffen hergestellt wurde, handelt,
 
-d) die Angabe „Biokraftstoff mit hohem iLUC-
+d) die Angabe „Biokraftstoff mit hohem iLUC-Risiko“, soweit es sich um einen Biokraftstoff mit hohem Risiko indirekter Landnutzungsänderung nach Artikel 3 der Delegierten Verordnung (EU) 2019/807 der Kommission vom 13. März 2019 zur Ergänzung der Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des Rates im Hinblick auf die Bestimmung der Rohstoffe mit hohem Risiko indirekter Landnutzungsänderungen, in deren Fall eine wesentliche Ausdehnung der Produktionsflächen auf Flächen mit hohem Kohlenstoffbestand zu beobachten ist, und die Zertifizierung von Biokraftstoffen, flüssigen Biobrennstoffen und Biomasse-Brennstoffen mit geringem Risiko indirekter Landnutzungsänderungen (ABl. L 133 vom 21.5.2019, S. 1) handelt, oder
 
-Risiko“, soweit es sich um einen Biokraftstoff mit hohem Risiko indirekter Landnutzungsänderung nach Artikel 3 der Delegierten Verordnung (EU) 2019/807 der Kommission vom 13. März 2019 zur Ergänzung der Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des Rates im Hinblick auf die Bestimmung der Rohstoffe mit hohem Risiko indirekter Landnutzungsänderungen, in deren Fall eine wesentliche Ausdehnung der Produktionsflächen auf Flächen mit hohem Kohlenstoffbestand zu beobachten ist, und die Zertifizierung von Biokraftstoffen, flüssigen Biobrennstoffen und Biomasse-Brennstoffen mit geringem Risiko indirekter Landnutzungsänderungen (ABl. L 133 vom 21.5.2019, S. 1) handelt.
+e) die Angabe „Biokraftstoff aus Tierfetten der Kategorie 3“, soweit es sich um einen Biokraftstoff handelt, der vollständig oder teilweise aus tierischen Fetten und Ölen der Kategorie 3 gemäß Artikel 10 der Verordnung (EG) Nr. 1069/2009 handelt, und
+
+12. die Angabe, ob Vor-Ort-Kontrollen nach § 4b der Verordnung zur Festlegung weiterer Bestimmungen zur Treibhausgasminderung bei Kraftstoffen ermöglicht werden.
 
 (2) Die Ausstellung der Nachhaltigkeitsnachweise erfolgt in der Datenbank der zuständigen Behörde.
 
@@ -495,7 +493,7 @@ Risiko“, soweit es sich um einen Biokraftstoff mit hohem Risiko indirekter Lan
 
 # § 13 – Folgen fehlender oder nicht ausreichender Angaben
 
-(1) Enthält ein Nachhaltigkeitsnachweis bei den Angaben zur Treibhausgaseinsparung nicht den Vergleichswert für die Verwendung, zu deren Zweck die Biokraftstoffe eingesetzt werden, so muss die oder der Nachweispflichtige zur Erfüllung der Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 des Bundes-Immissionsschutzgesetzes gegenüber der Biokraftstoffquotenstelle nachweisen, dass die Biokraftstoffe die Mindestanforderungen an die Treibhausgaseinsparung nach § 6 Absatz 1 auch bei dieser Verwendung erfüllen. Die zuständige Behörde kann eine Methode zur Umrechnung der Treibhausgaseinsparung für unterschiedliche Verwendungen im Bundesanzeiger bekannt machen.
+(1) Enthält ein Nachhaltigkeitsnachweis bei den Angaben zur Treibhausgaseinsparung nicht den Vergleichswert für die Verwendung, zu deren Zweck die Biokraftstoffe eingesetzt werden, so muss die oder der Nachweispflichtige zur Erfüllung der Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 des Bundes-Immissionsschutzgesetzes oder der Verpflichtung nach Artikel 4 in Verbindung mit Anhang I der Verordnung (EU) 2023/2405, soweit es sich um Biokraftstoffe für die Luftfahrt nach Artikel 3 Nummer 7 Buchstabe b der Verordnung (EU) 2023/2405 handelt, gegenüber der Biokraftstoffquotenstelle nachweisen, dass die Biokraftstoffe die Mindestanforderungen an die Treibhausgaseinsparung nach § 6 Absatz 1 auch bei dieser Verwendung erfüllen. Die zuständige Behörde kann eine Methode zur Umrechnung der Treibhausgaseinsparung für unterschiedliche Verwendungen im Bundesanzeiger bekannt machen.
 
 (2) Wird der Biokraftstoff nicht in dem Staat oder in der Region, der oder die auf dem Nachhaltigkeitsnachweis angegeben wurde, in Verkehr gebracht, so muss die oder der Nachweispflichtige gegenüber der Biokraftstoffquotenstelle nachweisen, dass der Biokraftstoff die Mindestanforderungen an die Treibhausgaseinsparung nach § 6 Absatz 1 auch in diesem Staat oder in dieser Region erfüllt.
 
@@ -853,7 +851,7 @@ geltenden Fassung, im Geltungsbereich des Umweltinformationsgesetzes.
 
 11. Daten nach § 17 zur Unwirksamkeit von Nachhaltigkeitsnachweisen.
 
-(2) Die zuständige Behörde hat der Biokraftstoffquotenstelle die erforderlichen Auskünfte zur Überwachung der Verpflichtungen der Nachweispflichtigen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 des Bundes-Immissionsschutzgesetzes auf Verlangen zu erteilen.
+(2) Die zuständige Behörde hat der Biokraftstoffquotenstelle die erforderlichen Auskünfte zur Überwachung der Verpflichtungen der Nachweispflichtigen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 des Bundes-Immissionsschutzgesetzes und der Verpflichtung nach Artikel 4 in Verbindung mit Anhang I der Verordnung (EU) 2023/2405, soweit es sich um Biokraftstoffe für die Luftfahrt nach Artikel 3 Nummer 7 Buchstabe b der Verordnung (EU) 2023/2405 handelt, auf Verlangen zu erteilen.
 
 # § 43 – Datenabgleich
 

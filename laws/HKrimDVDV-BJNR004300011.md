@@ -1,4 +1,4 @@
-% Verordnung über die Ausbildung und Prüfung für den höheren Kriminaldienst des Bundes*)  (HKrimDAPrV)
+% Verordnung über den Vorbereitungsdienst für den höheren Kriminaldienst des Bundes  (HKrimDVDV)
 % Ausfertigungsdatum: 15.01.2011
  
 # Eingangsformel
@@ -37,15 +37,29 @@ Das Bundeskriminalamt legt die Zeiten fest, in denen Erholungsurlaub genommen we
 
 # § 6 – Dauer und Aufbau des Vorbereitungsdienstes
 
-Der Vorbereitungsdienst besteht aus einer insgesamt viermonatigen fachpraktischen Ausbildungsphase beim Bundeskriminalamt und bei Kriminalpolizeidienststellen der Länder sowie dem in der Regel 24-monatigen Masterstudiengang „Öffentliche Verwaltung – Polizeimanagement (Public Administration – Police Management)“ an der Deutschen Hochschule der Polizei.
+(1) Der Vorbereitungsdienst für Aufstiegsbeamtinnen und Aufstiegsbeamte nach § 10 der Kriminallaufbahnverordnung besteht aus
+
+1. einer insgesamt viermonatigen fachpraktischen Ausbildungsphase beim Bundeskriminalamt und bei Kriminalpolizeidienststellen der Länder sowie
+
+2. dem in der Regel 24-monatigen Masterstudiengang „Öffentliche Verwaltung – Polizeimanagement (Public Administration – Police Management)“ an der Deutschen Hochschule der Polizei.
+
+(2) Der Vorbereitungsdienst für Kriminalratsanwärterinnen und Kriminalratsanwärter sowie für Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte nach § 7a der Kriminallaufbahnverordnung besteht aus
+
+1. einer insgesamt fünfmonatigen fachpraktischen Ausbildungsphase beim Bundeskriminalamt und bei Kriminalpolizeidienststellen der Länder sowie
+
+2. dem in der Regel 24-monatigen Masterstudiengang „Öffentliche Verwaltung – Polizeimanagement (Public Administration – Police Management)“ an der Deutschen Hochschule der Polizei.
 
 # § 7 – Fachpraktische Ausbildungsphase
 
-(1) Das Bundeskriminalamt bestimmt und überwacht die Gestaltung und die Organisation der fachpraktischen Ausbildungsphase. Die Ausbildungsbehörde erstellt im Benehmen mit dem Bundeskriminalamt für jede Beamtin und jeden Beamten einen individuellen Ausbildungsplan und gibt ihn der Beamtin oder dem Beamten bekannt.
+(1) In der fachpraktischen Ausbildungsphase sollen die Beamtinnen und Beamten mit den polizeilichen Aufgaben und Befugnissen der Ausbildungsstellen vertraut gemacht werden. Das Bundeskriminalamt bestimmt und überwacht die Gestaltung und die Organisation der fachpraktischen Ausbildungsphasen für die in § 6 genannten Beamtinnen und Beamten. Die Ausbildungsbehörde erstellt im Benehmen mit dem Bundeskriminalamt für jede Beamtin und jeden Beamten einen individuellen Ausbildungsplan und gibt ihn der Beamtin beziehungsweise dem Beamten bekannt.
 
-(2) In der fachpraktischen Ausbildungsphase sollen die Beamtinnen und Beamten mit den polizeilichen Aufgaben und Befugnissen der Ausbildungsstelle vertraut gemacht werden.
+(2) Für Kriminalratsanwärterinnen und Kriminalratsanwärter ist ein Monat der fachpraktischen Ausbildungsphase für das Schieß- und das Einsatztraining sowie für die Informationsvermittlung zur Ausbildungsstelle vorgesehen. Bei den folgenden Beamtinnen und Beamten werden das Schieß- und Einsatztraining auf die jeweiligen Ausbildungserkenntnisse und Ausbildungsbedürfnisse zugeschnitten:
 
-(3) Jede Ausbildungsbehörde bestimmt eine Ausbildungsverantwortliche oder einen Ausbildungsverantwortlichen sowie eine Vertretung. Die Ausbildungsverantwortlichen sind für den ordnungsgemäßen Ablauf der fachpraktischen Ausbildungsphase verantwortlich. Sie beraten die Beamtinnen und Beamten sowie die Ausbildenden.
+1. bei Beamtinnen und Beamten des gehobenen Kriminaldienstes mit abgeschlossenem Hochschulstudium nach § 7a der Kriminallaufbahnverordnung sowie
+
+2. bei Aufstiegsbeamtinnen und Aufstiegsbeamten des gehobenen Kriminaldienstes nach § 10 der Kriminallaufbahnverordnung.
+
+Dabei werden insbesondere bei den in Satz 2 Nummer 1 genannten Beamtinnen und Beamten Vorkenntnisse der fachpraktischen Ausbildungsphase individuell geprüft und die Gestaltung der Ausbildungsphase mit Blick auf die Vorkenntnisse flexibel angepasst.
 
 # § 8 – Masterstudiengang „Öffentliche Verwaltung – Polizeimanagement (Public Administration – Police Management)“
 

@@ -1344,6 +1344,7 @@
 - [CWÜV](laws/CWÜV-BJNR179400996.md) Ausführungsverordnung zum Chemiewaffenübereinkommen
 - [DachAusbV](laws/DachAusbV-BJNR099400016.md) Verordnung über die Berufsausbildung zum Dachdecker und zur Dachdeckerin*
 - [DachdMstrV](laws/DachdMstrV-BJNR126300006.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Dachdecker-Handwerk
+- [DADG](laws/DADG-BJNR09D0B0026.md) Gesetz zur Anwendung und Durchsetzung der Datenverordnung
 - [DAFPrV](laws/DAFPrV-BJNR1280B0024.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Berufsspezialist für Datenanalyse oder Geprüfte Berufsspezialistin für Datenanalyse
 - [DaHeSchnMstrV](laws/DaHeSchnMstrV-BJNR212200006.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Damen- und Herrenschneider-Handwerk
 - [DarlehensV](laws/DarlehensV-BJNR188910022.md) Verordnung über die Einziehung der nach dem Bundesausbildungsförderungsgesetz geleisteten Darlehen
@@ -2475,7 +2476,7 @@
 - [HkGAufhuaÄndG](laws/HkGAufhuaÄndG-BJNR023179991.md) Gesetz zur Aufhebung des Heimkehrergesetzes und zur Änderung anderer Vorschriften
 - [HkNRG](laws/HkNRG-BJNR0090B0023.md) Gesetz zur Ausstellung, Übertragung und Entwertung von Herkunftsnachweisen sowie zur Schaffung von Herkunftsnachweisregistern für Gas, Wärme oder Kälte aus erneuerbaren Energien
 - [HKohlStiftG](laws/HKohlStiftG-BJNR130610021.md) Gesetz über die Errichtung einer Bundeskanzler-Helmut-Kohl-Stiftung
-- [HKrimDAPrV](laws/HKrimDAPrV-BJNR004300011.md) Verordnung über die Ausbildung und Prüfung für den höheren Kriminaldienst des Bundes*)
+- [HKrimDVDV](laws/HKrimDVDV-BJNR004300011.md) Verordnung über den Vorbereitungsdienst für den höheren Kriminaldienst des Bundes
 - [HkRNDV](laws/HkRNDV-BJNR185310018.md) Durchführungsverordnung über Herkunfts- und Regionalnachweise für Strom aus erneuerbaren Energien
 - [HkRNGebV](laws/HkRNGebV-BJNR270300012.md) Gebührenverordnung nach § 14 Absatz 2 der Erneuerbare-Energien-Verordnung
 - [HKStG](laws/HKStG-BJNR021010992.md) Gesetz über die Heimkehrerstiftung
@@ -6079,7 +6080,7 @@
 - [34. BImSchV](laws/34._BImSchV-BJNR051600006.md) Vierunddreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung über die Lärmkartierung)
 - [35. BImSchV](laws/35._BImSchV-BJNR221810006.md) Fünfunddreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 - [36. BImSchV](laws/36._BImSchV-BJNR006010007.md) Sechsunddreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung zur Durchführung der Regelungen der Biokraftstoffquote)
-- [37. BImSchV](laws/37._BImSchV-BJNR0830A0024.md) Verordnung zur Neufassung der Siebenunddreißigsten Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes 1, 2 (Verordnung zur Anrechnung von strombasierten Kraftstoffen und mitverarbeiteten biogenen Ölen auf die Treibhausgasquote)
+- [37. BImSchV](laws/37._BImSchV-BJNR0830A0024.md) Siebenunddreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes 1, 2 (Verordnung zur Anrechnung von strombasierten Kraftstoffen und mitverarbeiteten biogenen Rohstoffen auf die Treibhausgasquote und zur Anrechnung auf die Verpflichtung nach Artikel 4 in Verbindung mit Anhang I der Verordnung (EU) 2023/2405)
 - [38. BImSchV](laws/38._BImSchV-BJNR389200017.md) Achtunddreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes 1, 2
 - [39. BImSchV](laws/39._BImSchV-BJNR106510010.md) Neununddreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes*)
 - [4. ÄndG LAG](laws/4._ÄndG_LAG-BJNR004039955.md) Viertes Gesetz zur Änderung des Lastenausgleichsgesetzes
@@ -6123,6 +6124,6 @@
 - [9. AnpG-KOV](laws/9._AnpG-KOV-BJNR010370977.md) Neuntes Gesetz über die Anpassung der Leistungen des Bundesversorgungsgesetzes
 - [9. BImSchV](laws/9._BImSchV-BJNR002740977.md) Neunte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 - [9. GerüstbauerArbbV](laws/9._GerüstbauerArbbV-BJNR14C0A0025.md) Neunte Verordnung über zwingende Arbeitsbedingungen im Gerüstbauerhandwerk
-- [9. ProdSV](laws/9._ProdSV-BJNR070410993.md) Neunte Verordnung zum Produktsicherheitsgesetz (Maschinenverordnung) 1) 2)
+- [9. ProdSV](laws/9._ProdSV-BJNR070410993.md) Neunte Verordnung zum Produktsicherheitsgesetz *)
 - [9. RAG](laws/9._RAG-BJNR007680966.md) Neuntes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
 - [9. RAV](laws/9._RAV-BJNR380500994.md) Verordnung zur neunten Anpassung der Renten in dem in Artikel 3 des Einigungsvertrages genannten Gebiet

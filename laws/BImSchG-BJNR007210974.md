@@ -861,7 +861,7 @@ Die Pflicht nach Satz 1 besteht nicht, soweit die erforderlichen Angaben der zus
 
 (3) Für Verfahrensschritte, bei denen von einer Regelung nach den §§ 31e bis 31k Gebrauch gemacht worden ist und die bei Außerkrafttreten der §§ 31e bis 31k noch nicht abgeschlossen sind, gelten die Bestimmungen der §§ 31e bis 31k bis zum Abschluss des jeweiligen Verfahrensschrittes weiter.
 
-# § 32 – Beschaffenheit von Anlagen
+# § 32 – Beschaffenheit von Anlagen; Verordnungsermächtigung
 
 (1) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 51) durch Rechtsverordnung mit Zustimmung des Bundesrates vorzuschreiben, dass serienmäßig hergestellte Teile von Betriebsstätten und sonstigen ortsfesten Einrichtungen sowie die in § 3 Absatz 5 Nummer 2 bezeichneten Anlagen und hierfür serienmäßig hergestellte Teile gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen nur in den Verkehr gebracht oder eingeführt werden dürfen, wenn sie bestimmten Anforderungen zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen, Geräusche, Erschütterungen oder nichtionisierende Strahlen genügen. In den Rechtsverordnungen nach Satz 1 kann insbesondere vorgeschrieben werden, dass
 
@@ -873,7 +873,7 @@ Emissionswerte nach Satz 2 Nummer 1 können unter Berücksichtigung der technisc
 
 (2) In einer Rechtsverordnung kann ferner vorgeschrieben werden, dass die Anlagen oder die serienmäßig hergestellten Teile gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen nur in den Verkehr gebracht oder eingeführt werden dürfen, wenn sie mit Angaben über die Höhe ihrer Emissionen gekennzeichnet sind.
 
-# § 33 – Bauartzulassung
+# § 33 – Bauartzulassung; Verordnungsermächtigung
 
 (1) Die Bundesregierung wird ermächtigt, zum Schutz vor schädlichen Umwelteinwirkungen sowie zur Vorsorge gegen schädliche Umwelteinwirkungen nach Anhörung der beteiligten Kreise (§ 51) durch Rechtsverordnung mit Zustimmung des Bundesrates
 
@@ -887,7 +887,7 @@ Emissionswerte nach Satz 2 Nummer 1 können unter Berücksichtigung der technisc
 
 (2) Die Zulassung der Bauart darf nur von der Erfüllung der in § 32 Absatz 1 und 2 genannten oder in anderen Rechtsvorschriften festgelegten Anforderungen sowie von einem Nachweis der Höhe der Emissionen der Anlage oder des Teils abhängig gemacht werden.
 
-# § 34 – Beschaffenheit von Brennstoffen, Treibstoffen und Schmierstoffen
+# § 34 – Beschaffenheit von Brennstoffen, Treibstoffen und Schmierstoffen; Verordnungsermächtigung
 
 (1) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 51) durch Rechtsverordnung mit Zustimmung des Bundesrates vorzuschreiben, dass Brennstoffe, Treibstoffe, Schmierstoffe oder Zusätze zu diesen Stoffen gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen nur hergestellt, in den Verkehr gebracht oder eingeführt werden dürfen, wenn sie bestimmten Anforderungen zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen genügen. In den Rechtsverordnungen nach Satz 1 kann insbesondere bestimmt werden, dass
 
@@ -931,7 +931,7 @@ a) die Gesamtmenge der jeweiligen Art von geliefertem Treibstoff unter Angabe de
 
 b) die Lebenszyklustreibhausgasemissionen pro Energieeinheit.
 
-# § 35 – Beschaffenheit von Stoffen und Erzeugnissen
+# § 35 – Beschaffenheit von Stoffen und Erzeugnissen; Verordnungsermächtigung
 
 (1) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 51) durch Rechtsverordnung mit Zustimmung des Bundesrates vorzuschreiben, dass bestimmte Stoffe oder Erzeugnisse aus Stoffen, die geeignet sind, bei ihrer bestimmungsgemäßen Verwendung oder bei der Verbrennung zum Zwecke der Beseitigung oder der Rückgewinnung einzelner Bestandteile schädliche Umwelteinwirkungen durch Luftverunreinigungen hervorzurufen, gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen nur hergestellt, eingeführt oder sonst in den Verkehr gebracht werden dürfen, wenn sie zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen bestimmten Anforderungen an ihre Zusammensetzung und das Verfahren zu ihrer Herstellung genügen. Die Ermächtigung des Satzes 1 erstreckt sich nicht auf Anlagen, Brennstoffe, Treibstoffe und Fahrzeuge.
 
@@ -943,13 +943,13 @@ b) die Lebenszyklustreibhausgasemissionen pro Energieeinheit.
 
 In den Rechtsverordnungen nach den §§ 32 bis 35 kann vorgeschrieben werden, dass die Vorschriften über das Herstellen, Einführen und das Inverkehrbringen nicht gelten für Anlagen, Stoffe, Erzeugnisse, Brennstoffe und Treibstoffe, die zur Lieferung in Gebiete außerhalb des Geltungsbereichs dieses Gesetzes bestimmt sind.
 
-# § 37 – Erfüllung von zwischenstaatlichen Vereinbarungen und Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union
+# § 37 – Erfüllung von zwischenstaatlichen Vereinbarungen und Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union; Verordnungsermächtigung
 
 Zur Erfüllung von Verpflichtungen aus zwischenstaatlichen Vereinbarungen oder von bindenden Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union kann die Bundesregierung zu dem in § 1 genannten Zweck durch Rechtsverordnung mit Zustimmung des Bundesrates bestimmen, dass Anlagen, Stoffe, Erzeugnisse, Brennstoffe oder Treibstoffe gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen nur in den Verkehr gebracht werden dürfen, wenn sie nach Maßgabe der §§ 32 bis 35 bestimmte Anforderungen erfüllen. In einer Rechtsverordnung nach Satz 1, die der Erfüllung bindender Rechtsakte der Europäischen Gemeinschaften oder der Europäischen Union über Maßnahmen zur Bekämpfung der Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln aus Verbrennungsmotoren für mobile Maschinen und Geräte dient, kann das Kraftfahrt-Bundesamt als Genehmigungsbehörde bestimmt und insoweit der Fachaufsicht des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit unterstellt werden.
 
 # § 37a – Pflichten für Inverkehrbringer von Kraftstoffen
 
-(1) Wer gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen nach § 2 Absatz 1 Nummer 1 und 4 des Energiesteuergesetzes zu versteuernde Otto- oder Dieselkraftstoffe in Verkehr bringt, hat sicherzustellen, dass für die gesamte im Lauf eines Kalenderjahres (Verpflichtungsjahr) von ihm in Verkehr gebrachte Menge Kraftstoffs die Vorgaben des Absatzes 4 eingehalten werden. Kraftstoff gilt mit dem Entstehen der Energiesteuer nach § 8 Absatz 1, § 9 Absatz 1, § 9a Absatz 4, § 15 Absatz 1 oder Absatz 2, auch jeweils in Verbindung mit § 15 Absatz 4, §§ 19b Absatz 1, § 22 Absatz 1 oder § 23 Absatz 1 oder Absatz 2, § 38 Absatz 1, § 42 Absatz 1 oder § 43 Absatz 1 des Energiesteuergesetzes als in Verkehr gebracht. Die Abgabe von fossilem Otto- und fossilem Dieselkraftstoff an die Bundeswehr zu Zwecken der Verteidigung oder der Erfüllung zwischenstaatlicher Verpflichtungen gilt nicht als Inverkehrbringen im Sinne der Sätze 1 und 2. Dies gilt auch für den Erwerb von fossilem Otto- und fossilem Dieselkraftstoff durch die Bundeswehr zu einem in Satz 3 genannten Zweck. Der Bundeswehr gleichgestellt sind auf Grund völkerrechtlicher Verträge in der Bundesrepublik Deutschland befindliche Truppen sowie Einrichtungen, die die Bundeswehr oder diese Truppen zur Erfüllung ihrer jeweiligen Aufgaben einsetzt oder einsetzen. Die Abgabe von Kraftstoff im Eigentum des Erdölbevorratungsverbandes auf Grund einer Freigabe nach § 12 Absatz 1 des Erdölbevorratungsgesetzes durch den Erdölbevorratungsverband, Mitglieder des Erdölbevorratungsverbandes oder Dritte sowie nachfolgende Abgaben gelten nicht als Inverkehrbringen im Sinne der Sätze 1 und 2. Dies gilt auch für die Abgabe von Kraftstoff in den in Satz 6 genannten Fällen im Rahmen von Delegationen nach § 7 Absatz 1 des Erdölbevorratungsgesetzes durch Mitglieder des Erdölbevorratungsverbandes oder Dritte sowie für nachfolgende Abgaben. Die Abgabe von Ausgleichsmengen an unterversorgte Unternehmen zum Versorgungsausgleich im Sinne von § 1 Absatz 1 der Mineralölausgleichs-Verordnung vom 13. Dezember 1985 (BGBl. I S. 2267), die zuletzt durch Artikel 5 Absatz 3 des Gesetzes vom 26. Juni 2013 (BGBl. I S. 1738) geändert worden ist, in der jeweils geltenden Fassung gilt nicht als Inverkehrbringen im Sinne der Sätze 1 und 2. Ein Inverkehrbringen im Sinne der Sätze 1 und 2 liegt ebenfalls nicht vor, wenn der Erdölbevorratungsverband Kraftstoff aus seinem Eigentum abgibt und dieser Abgabe keine Rücklieferung am Abgabeort gegenüber steht oder er dafür Mineralölprodukte erwirbt, die nicht unter die Vorschrift des Satzes 1 fallen. Satz 9 gilt auch für die nachfolgenden Abgaben des Kraftstoffs.
+(1) Wer gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen nach § 2 Absatz 1 Nummer 1 und 4 des Energiesteuergesetzes zu versteuernde Otto- oder Dieselkraftstoffe in Verkehr bringt, hat sicherzustellen, dass für die gesamte im Lauf eines Kalenderjahres (Verpflichtungsjahr) von ihm in Verkehr gebrachte Menge Kraftstoffs die Vorgaben des Absatzes 4 eingehalten werden. Kraftstoff gilt mit dem Entstehen der Energiesteuer nach § 8 Absatz 1, § 9 Absatz 1, § 9a Absatz 4, § 18b Absatz 1 Nummer 1, 2 oder 5, auch jeweils in Verbindung mit § 18b Absatz 2, §§ 19b Absatz 1, § 22 Absatz 1 oder § 23 Absatz 1 oder Absatz 2, § 38 Absatz 1, § 42 Absatz 1 oder § 43 Absatz 1 des Energiesteuergesetzes als in Verkehr gebracht. Die Abgabe von fossilem Otto- und fossilem Dieselkraftstoff an die Bundeswehr zu Zwecken der Verteidigung oder der Erfüllung zwischenstaatlicher Verpflichtungen, die Polizeien der Länder, die Bundespolizei, den Zolldienst, die Bundesanstalt Technisches Hilfswerk, das Bundeskriminalamt, die Feuerwehren und die Einheiten und Einrichtungen des Zivil- und Katastrophenschutzes gilt nicht als Inverkehrbringen im Sinne der Sätze 1 und 2. Dies gilt auch für den Erwerb von fossilem Otto- und fossilem Dieselkraftstoff durch die Bundeswehr zu einem in Satz 3 genannten Zweck. Der Bundeswehr gleichgestellt sind auf Grund völkerrechtlicher Verträge in der Bundesrepublik Deutschland befindliche Truppen sowie Einrichtungen, die die Bundeswehr oder diese Truppen zur Erfüllung ihrer jeweiligen Aufgaben einsetzt oder einsetzen. Die Abgabe von Kraftstoff im Eigentum des Erdölbevorratungsverbandes auf Grund einer Freigabe nach § 12 Absatz 1 des Erdölbevorratungsgesetzes durch den Erdölbevorratungsverband, Mitglieder des Erdölbevorratungsverbandes oder Dritte sowie nachfolgende Abgaben gelten nicht als Inverkehrbringen im Sinne der Sätze 1 und 2. Dies gilt auch für die Abgabe von Kraftstoff in den in Satz 6 genannten Fällen im Rahmen von Delegationen nach § 7 Absatz 1 des Erdölbevorratungsgesetzes durch Mitglieder des Erdölbevorratungsverbandes oder Dritte sowie für nachfolgende Abgaben. Die Abgabe von Ausgleichsmengen an unterversorgte Unternehmen zum Versorgungsausgleich im Sinne von § 1 Absatz 1 der Mineralölausgleichs-Verordnung vom 13. Dezember 1985 (BGBl. I S. 2267), die zuletzt durch Artikel 5 Absatz 3 des Gesetzes vom 26. Juni 2013 (BGBl. I S. 1738) geändert worden ist, in der jeweils geltenden Fassung gilt nicht als Inverkehrbringen im Sinne der Sätze 1 und 2. Ein Inverkehrbringen im Sinne der Sätze 1 und 2 liegt ebenfalls nicht vor, wenn der Erdölbevorratungsverband Kraftstoff aus seinem Eigentum abgibt und dieser Abgabe keine Rücklieferung am Abgabeort gegenüber steht oder er dafür Mineralölprodukte erwirbt, die nicht unter die Vorschrift des Satzes 1 fallen. Satz 9 gilt auch für die nachfolgenden Abgaben des Kraftstoffs.
 
 (2) (weggefallen)
 
@@ -963,19 +963,39 @@ Zur Erfüllung von Verpflichtungen aus zwischenstaatlichen Vereinbarungen oder v
 
 3. ab dem Kalenderjahr 2023 8 Prozent,
 
-4. ab dem Kalenderjahr 2024 9,25 Prozent,
+4. ab dem Kalenderjahr 2024 9,35 Prozent,
 
-5. ab dem Kalenderjahr 2025 10,5 Prozent,
+5. ab dem Kalenderjahr 2025 10,6 Prozent,
 
 6. ab dem Kalenderjahr 2026 12 Prozent,
 
-7. ab dem Kalenderjahr 2027 14,5 Prozent,
+7. ab dem Kalenderjahr 2027 17,5 Prozent,
 
-8. ab dem Kalenderjahr 2028 17,5 Prozent,
+8. ab dem Kalenderjahr 2028 19,5 Prozent,
 
-9. ab dem Kalenderjahr 2029 21 Prozent,
+9. ab dem Kalenderjahr 2029 22,5 Prozent,
 
-10. ab dem Kalenderjahr 2030 25 Prozent.
+10. ab dem Kalenderjahr 2030 26,5 Prozent,
+
+11. ab dem Kalenderjahr 2031 30 Prozent,
+
+12. ab dem Kalenderjahr 2032 33 Prozent,
+
+13. ab dem Kalenderjahr 2033 36 Prozent,
+
+14. ab dem Kalenderjahr 2034 38 Prozent,
+
+15. ab dem Kalenderjahr 2035 41 Prozent,
+
+16. ab dem Kalenderjahr 2036 46 Prozent,
+
+17. ab dem Kalenderjahr 2037 51 Prozent,
+
+18. ab dem Kalenderjahr 2038 56 Prozent,
+
+19. ab dem Kalenderjahr 2039 61 Prozent,
+
+20. ab dem Kalenderjahr 2040 65 Prozent.
 
 Der Referenzwert, gegenüber dem die Treibhausgasminderung zu erfolgen hat, berechnet sich durch Multiplikation des Basiswertes mit der vom Verpflichteten in Verkehr gebrachten energetischen Menge an fossilen Otto- und fossilen Dieselkraftstoffen zuzüglich der energetischen Menge an eingesetzten Erfüllungsoptionen. Der Basiswert wird festgelegt durch eine Verordnung nach § 37d Absatz 2 Satz 1 Nummer 6. Die Treibhausgasemissionen von fossilen Otto- und fossilen Dieselkraftstoffen berechnen sich durch Multiplikation der Werte, die durch eine Verordnung nach § 37d Absatz 2 Satz 1 Nummer 9 festgelegt werden, mit der vom Verpflichteten in Verkehr gebrachten energetischen Menge fossilen Otto- und fossilen Dieselkraftstoffs. Die Treibhausgasemissionen von Biokraftstoffen berechnen sich durch Multiplikation der in den anerkannten Nachweisen nach § 8 der Biokraftstoff-Nachhaltigkeitsverordnung vom 2. Dezember 2021 (BGBl. I S. 5126, 5143), in der jeweils geltenden Fassung ausgewiesenen Treibhausgasemissionen in Kilogramm Kohlenstoffdioxid-Äquivalent pro Gigajoule mit der vom Verpflichteten in Verkehr gebrachten energetischen Menge Biokraftstoffs. Biokraftstoffe werden wie fossile Otto- oder fossile Dieselkraftstoffe behandelt, sofern
 
@@ -1007,15 +1027,15 @@ b) reinem Biokraftstoff nach § 37b Absatz 6, der nach § 2 Absatz 1 Nummer 7 od
 
 5. bis zum Verpflichtungsjahr 2026 Upstream-Emissionsminderungen, soweit eine Rechtsverordnung der Bundesregierung nach § 37d Absatz 2 Satz 1 Nummer 13 dies zulässt,
 
-6. flüssige oder gasförmige erneuerbare Kraftstoffe nicht-biogenen Ursprungs, soweit eine Rechtsverordnung der Bundesregierung nach § 37d Absatz 2 Satz 1 Nummer 13 dies zulässt,
+6. flüssige oder gasförmige erneuerbare Kraftstoffe nicht biogenen Ursprungs, auch wenn sie in einem raffinerietechnischen Verfahren gemeinsam mit mineralölstämmigen oder biogenen Ölen hergestellt werden, soweit eine Rechtsverordnung der Bundesregierung nach § 37d Absatz 2 Satz 1 Nummer 13 dies zulässt,
 
-7. flüssige oder gasförmige erneuerbare Kraftstoffe nicht-biogenen Ursprungs, wenn sie als Zwischenprodukt zur Produktion konventioneller Kraftstoffe verwendet werden, soweit eine Rechtsverordnung der Bundesregierung nach § 37d Absatz 2 Satz 1 Nummer 13 dies zulässt,
+7. flüssige oder gasförmige erneuerbare Kraftstoffe nicht biogenen Ursprungs, wenn sie als Zwischenprodukt zur Produktion konventioneller Kraftstoffe oder Biokraftstoffe verwendet werden, soweit eine Rechtsverordnung der Bundesregierung nach § 37d Absatz 2 Satz 1 Nummer 13 dies zulässt, und vorausgesetzt, dass die durch die Nutzung erneuerbarer Kraftstoffe nicht biogenen Ursprungs erzielte Verringerung der Treibhausgasemissionen nicht bei der Berechnung der Treibhausgasemissionseinsparungen der Biokraftstoffe berücksichtigt wird,
 
-8. flüssige oder gasförmige erneuerbare Kraftstoffe nicht-biogenen Ursprungs, die in einem raffinerietechnischen Verfahren gemeinsam mit mineralölstämmigen Ölen verarbeitet werden, wenn eine Rechtsverordnung der Bundesregierung nach § 37d Absatz 2 Satz 1 Nummer 13 dies zulässt,
+8. ab dem Verpflichtungsjahr 2031 mittels Elektrolyse erzeugter, kohlenstoffarmer Wasserstoff, wenn er als Zwischenprodukt zur Produktion konventioneller Kraftstoffe verwendet wird, soweit eine Rechtsverordnung der Bundesregierung nach § 37d Absatz 2 Satz 1 Nummer 13 dies zulässt,
 
-9. andere Kraftstoffe, soweit eine Rechtsverordnung der Bundesregierung nach § 37d Absatz 2 Satz 1 Nummer 13 dies zulässt.
+9. ab dem Verpflichtungsjahr 2027 wiederverwertete kohlenstoffhaltige Kraftstoffe, soweit eine Rechtsverordnung der Bundesregierung nach § 37d Absatz 2 Satz 1 Nummer 13 dies zulässt,
 
-Erfüllungsoptionen nach Satz 1 Nummer 6 bis 8 werden mindestens mit dem Doppelten ihres Energiegehaltes auf die Erfüllung der Verpflichtungen nach Absatz 1 Satz 1 und 2 in Verbindung mit dem Absatz 4 angerechnet.
+10. andere Kraftstoffe, soweit eine Rechtsverordnung der Bundesregierung nach § 37d Absatz 2 Satz 1 Nummer 13 dies zulässt.
 
 (6) Die Erfüllung von Verpflichtungen nach Absatz 1 Satz 1 und 2 in Verbindung mit Absatz 4 kann durch Vertrag, der der Schriftform bedarf, auf einen Dritten, der nicht selbst Verpflichteter ist, übertragen werden. Der Vertrag muss mengenmäßige Angaben zum Umfang der vom Dritten gegenüber dem Verpflichteten eingegangenen Verpflichtung enthalten sowie Angaben, für welche Erfüllungsoptionen die Übertragung gilt. Außerdem muss der Vertrag Angaben zu den Treibhausgasemissionen der Kraftstoffe in Kilogramm Kohlenstoffdioxid-Äquivalent enthalten. Der Dritte kann den Vertrag ausschließlich durch Erfüllungsoptionen erfüllen, die er im Verpflichtungsjahr einsetzt oder eingesetzt hat. Abweichend von Satz 4 kann der Dritte Verträge nach Satz 3 auch durch Erfüllungsoptionen erfüllen, die er bereits im Vorjahr des Verpflichtungsjahres in Verkehr gebracht hat, wenn die Erfüllungsoptionen nicht bereits Gegenstand eines Vertrages nach Satz 1 waren und der Dritte im Vorjahr des Verpflichtungsjahres nicht selbst Verpflichteter gewesen ist. Absatz 1 Satz 2 und Absatz 5 Satz 1 und 2 gelten entsprechend. Bei Vorliegen der Voraussetzungen nach den Sätzen 1 bis 6 ist der Verpflichtete so zu behandeln, als hätte er die vom Dritten eingesetzten Erfüllungsoptionen im Verpflichtungsjahr selbst in Verkehr gebracht. Absatz 4 Satz 3 bis 10 gelten entsprechend. Die vom Dritten zur Erfüllung einer nach Satz 1 übertragenen Verpflichtung eingesetzten Erfüllungsoptionen können nicht zur Erfüllung der Verpflichtung eines weiteren Verpflichteten eingesetzt werden.
 
@@ -1023,7 +1043,7 @@ Erfüllungsoptionen nach Satz 1 Nummer 6 bis 8 werden mindestens mit dem Doppelt
 
 (8) Treibhausgasminderungsmengen, die den nach Absatz 4 Satz 2 vorgeschriebenen Prozentsatz für ein bestimmtes Verpflichtungsjahr übersteigen, werden auf Antrag des Verpflichteten auf den Prozentsatz des folgenden Kalenderjahres angerechnet.
 
-# § 37b – Begriffsbestimmungen und Anrechenbarkeit von Biokraftstoffen
+# § 37b – Begriffsbestimmungen und Anrechenbarkeit von erneuerbaren Kraftstoffen
 
 (1) Biokraftstoffe sind unbeschadet der Absätze 2 bis 6 Energieerzeugnisse ausschließlich aus Biomasse im Sinne der Biomasseverordnung vom 21. Juni 2001 (BGBl. I S. 1234), die zuletzt durch Artikel 12 des Gesetzes vom 21. Juli 2014 (BGBl. I S. 1066) geändert worden ist, in der jeweils geltenden Fassung. Energieerzeugnisse, die anteilig aus Biomasse hergestellt werden, gelten in Höhe dieses Anteils als Biokraftstoff.
 
@@ -1035,27 +1055,45 @@ Erfüllungsoptionen nach Satz 1 Nummer 6 bis 8 werden mindestens mit dem Doppelt
 
 (5) Hydrierte biogene Öle sind abweichend von Absatz 1 nur dann Biokraftstoffe, wenn sie aus biogenen Ölen oder Fetten gewonnen werden, die selbst Biomasse im Sinne der Biomasseverordnung sind, und wenn die Hydrierung nicht in einem raffinerietechnischen Verfahren gemeinsam mit mineralölstämmigen Ölen erfolgt ist. Hydrierte biogene Öle sind unter diesen Voraussetzungen in vollem Umfang als Biokraftstoff zu behandeln.
 
-(6) Biomethan ist abweichend von Absatz 1 nur dann Biokraftstoff, wenn es den Anforderungen für Erdgas nach § 8 der Verordnung über die Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und Brennstoffen entspricht.
+(6) Biomethan ist abweichend von Absatz 1 nur dann Biokraftstoff, wenn es den Anforderungen für Erdgas nach § 8 der Verordnung über die Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und Brennstoffen entspricht. Für die Anrechnung auf die Erfüllung von Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 gilt aus dem Leitungsnetz entnommenes Erdgas als Biomethan, soweit die Menge des entnommenen Gases im Wärmeäquivalent
+
+1. der Menge von an anderer Stelle im Verbrauchsteuergebiet der Europäischen Union nach § 1a Satz 1 Nummer 4 des Energiesteuergesetzes in das Erdgasnetz eingespeistem Biomethan entspricht oder
+
+2. der Menge von an anderer Stelle in einem Drittstaat in das Erdgasnetz eingespeistem Biomethan entspricht, wenn
+
+a) das Erdgasnetz des Drittstaates physisch mit dem Gasverbundnetz der Europäischen Union verbunden ist und
+
+b) alle betreffenden Wirtschaftsteilnehmer Daten über die getätigten Transaktionen und die Nachhaltigkeitseigenschaften und die Treibhausgasemissionen des Biomethans in die Unionsdatenbank nach Artikel 31a der Richtlinie (EU) 2018/2001 eingegeben haben.
+
+Dies gilt auch, soweit Biomethan im Anschluss an eine Entnahme verflüssigt wird.
 
 (7) Für die Kraftstoffe nach den Absätzen 1 bis 6 gilt § 11 der Verordnung über die Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und Brennstoffen entsprechend. Die in Satz 1 sowie den Absätzen 2 bis 4 und 6 genannten oder in Bezug genommenen Normen sind im Beuth Verlag GmbH, Berlin, erschienen und bei der Deutschen Nationalbibliothek archivmäßig gesichert niedergelegt.
 
 (8) Nicht auf die Erfüllung von Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 angerechnet werden können
 
-1. biogene Öle, die in einem raffinerietechnischen Verfahren gemeinsam mit mineralölstämmigen Ölen hydriert wurden,
+1. Biokraftstoffe aus Palmöl,
 
-2. der Biokraftstoffanteil von Energieerzeugnissen mit einem Bioethanolanteil von weniger als 70 Volumenprozent, denen Bioethanol enthaltende Waren der Unterposition 3824 90 99 der Kombinierten Nomenklatur zugesetzt wurden,
+2. Biokraftstoffe aus Reststoffen, Abfallstoffen und Nebenprodukten des Anbaus von Ölpalmen und der Palmölproduktion, darunter insbesondere Abwasser aus Palmölmühlen, leere Palmfruchtbündel, Palmwedel, der Palmenstamm, Palmschlammöl und destillierte Palmfettsäure,
 
-3. Biokraftstoffe, die vollständig oder teilweise aus tierischen Ölen oder Fetten hergestellt wurden, und
+3. Biokraftstoffe aus Rohstoffen mit hohem Risiko indirekter Landnutzungsänderung nach Artikel 3 der Verordnung (EU) 2019/807,
 
-4. Wasserstoff aus biogenen Quellen.
+4. Biokraftstoffe und erneuerbare Kraftstoffe nicht biogenen Ursprungs aus Produktionsanlagen, bei denen eine Vor-Ort-Kontrolle durch eine zuständige Behörde eines Mitgliedstaates der Europäischen Union zum Zweck der Überwachung der Arbeitsweise der Zertifizierungsstellen nach Artikel 30 Absatz 9 Unterabsatz 2 der Richtlinie (EU) 2018/2001 während der üblichen Betriebs- und Geschäftszeiten nicht ermöglicht wird, sofern eine Rechtsverordnung der Bundesregierung nach § 37d Absatz 2 Satz 1 Nummer 20 die Voraussetzungen für die Möglichkeit von Vor-Ort-Kontrollen festlegt,
 
-Abweichend von Satz 1 Nummer 3 und Absatz 1 Satz 1 können Biokraftstoffe, die vollständig oder teilweise aus tierischen Fetten und Ölen der Kategorie 1 und 2 gemäß Artikel 8 und 9 der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte und zur Aufhebung der Verordnung (EG) Nr. 1774/2002, die zuletzt durch die Verordnung (EU) 2019/1009 (ABl. L 170 vom 25.6.2019, S. 1) geändert worden ist, in ihrer jeweils geltenden Fassung bestehen, auf die Erfüllung von Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 angerechnet werden. Abweichend von Satz 1 Nummer 4 und Absatz 1 Satz 1 wird Wasserstoff aus biogenen Quellen des Anhangs IX Teil A der Richtlinie (EU) 2018/2001, der in Straßenfahrzeugen eingesetzt wird, ab dem 1. Juli 2023 auf die Erfüllung nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 angerechnet; eine Rechtsverordnung der Bundesregierung nach § 37d Absatz 2 Satz 1 Nummer 19 regelt weitere Bestimmungen. Ab dem Kalenderjahr 2023 wird für die Treibhausgasemissionen von Biokraftstoffen aus Rohstoffen mit hohem Risiko indirekter Landnutzungsänderung nach Artikel 3 der Verordnung (EU) 2019/807 der Basiswert zugrunde gelegt. Der Rechenfaktor nach § 37d Absatz 2 Satz 1 Nummer 2 für Biokraftstoffe aus Abwasser aus Palmölmühlen und leeren Palmfruchtbündeln beträgt eins.
+5. mitverarbeitete biogene Rohstoffe, die in einem raffinerietechnischen Verfahren gemeinsam mit mineralölstämmigen Ölen verarbeitet wurden,
+
+6. der Biokraftstoffanteil von Energieerzeugnissen mit einem Bioethanolanteil von weniger als 70 Volumenprozent, denen Bioethanol enthaltende Waren nach § 1 Absatz 2 Nummer 6 Buchstabe a und b des Energiesteuergesetzes zugesetzt wurden,
+
+7. Biokraftstoffe, soweit sie aus tierischen Ölen oder Fetten hergestellt wurden in Bezug auf diesen Anteil, und
+
+8. Wasserstoff aus biogenen Quellen.
+
+Satz 1 Nummer 1 und 3 gilt nicht für Biokraftstoffe, die nach Artikel 4 der Verordnung (EU) 2019/807 zertifiziert sind. Satz 1 Nummer 2 und 4 gilt nicht für Mengen an Biokraftstoffen und erneuerbaren Kraftstoffen nicht biogenen Ursprungs, die vor dem Verpflichtungsjahr 2027 in Verkehr gebracht wurden. Satz 1 Nummer 3 gilt für Biokraftstoffe, die aufgrund der Verordnung (EU) 2019/807 erstmals als Biokraftstoff aus Rohstoffen mit hohem Risiko indirekter Landnutzungsänderung gelten, erst ab dem folgenden Verpflichtungsjahr. Satz 1 Nummer 7 und Absatz 1 Satz 1 gelten nicht für den Biokraftstoffanteil, der aus tierischen Fetten und Ölen der Kategorie 1, 2 und 3 gemäß Artikel 8 bis 10 der Verordnung (EG) Nr. 1069/2009 hergestellt wurde. Satz 1 Nummer 8 und Absatz 1 Satz 1 gelten nicht für Wasserstoff, der in Straßenfahrzeugen eingesetzt wird und aus biogenen Quellen der Anlagen 1 und 4 der Verordnung zur Festlegung weiterer Bestimmungen zur Treibhausgasminderung bei Kraftstoffen vom 8. Dezember 2017 (BGBl. I S. 3892), die zuletzt durch Artikel 3 des Gesetzes vom 1. Juni 2026 (BGBl. 2026 I Nr. 163) geändert worden ist, in der jeweils geltenden Fassung, stammt. Eine Rechtsverordnung der Bundesregierung nach § 37d Absatz 2 Satz 1 Nummer 19 regelt weitere Bestimmungen.
 
 (9) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit gibt den Energiegehalt der verschiedenen Kraftstoffe sowie Änderungen ihres Energiegehaltes im Bundesanzeiger bekannt.
 
 # § 37c – Mitteilungs- und Abgabepflichten
 
-(1) Verpflichtete haben der zuständigen Stelle jeweils bis zum Ablauf des 15. April des auf das Verpflichtungsjahr folgenden Kalenderjahres schriftlich mitzuteilen
+(1) Verpflichtete haben der zuständigen Stelle jeweils bis zum Ablauf des 1. Juni des auf das Verpflichtungsjahr folgenden Kalenderjahres schriftlich mitzuteilen
 
 1. die im Verpflichtungsjahr von ihnen in Verkehr gebrachte Menge fossilen Otto- und fossilen Dieselkraftstoffs,
 
@@ -1071,7 +1109,15 @@ In der Mitteilung sind darüber hinaus die Firma des Verpflichteten, der Ort der
 
 Im Fall des § 37a Absatz 6 Satz 5 gilt dies entsprechend für die im Vorjahr des Verpflichtungsjahres vom Dritten eingesetzte Erfüllungsoptionen. Im Fall des § 37a Absatz 7 hat der Dritte der zuständigen Stelle die auf Grund seiner vertraglichen Verpflichtung von ihm im Verpflichtungsjahr in Verkehr gebrachte Menge Kraftstoff, bezogen auf die verschiedenen jeweils betroffenen Erfüllungsoptionen, und die auf Grund seiner vertraglichen Verpflichtung im Verpflichtungsjahr sichergestellte Treibhausgasminderungsmenge in Kilogramm Kohlenstoffdioxid-Äquivalent schriftlich mitzuteilen. Die zuständige Stelle erteilt jedem Verpflichteten eine Registriernummer und führt ein elektronisches Register, das für alle Verpflichteten die nach den Sätzen 1 bis 6 erforderlichen Angaben enthält.
 
-(2) Soweit Verpflichtete einer Verpflichtung nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 nicht nachkommen, setzt die zuständige Stelle eine Abgabe fest für die Fehlmenge der zu mindernden Treibhausgasemissionen oder für die nach dem Energiegehalt berechnete Fehlmenge an Kraftstoff. Die Abgabenschuld des Verpflichteten entsteht mit Ablauf des 15. Aprils des auf das Verpflichtungsjahr folgenden Kalenderjahres. In den Fällen, in denen ein Verpflichteter durch eine Rechtsverordnung der Bundesregierung nach § 37d Absatz 2 Satz 1 Nummer 8 einen Mindestanteil bestimmter Biokraftstoffe oder anderer erneuerbarer Kraftstoffe in Verkehr zu bringen hat, setzt die zuständige Stelle bis einschließlich zum Verpflichtungsjahr 2021 eine Abgabe in Höhe von 19 Euro pro Gigajoule und ab dem Verpflichtungsjahr 2022 eine Abgabe in Höhe von 45 Euro pro Gigajoule fest. In den Fällen des § 37a Absatz 4 wird die Abgabe nach der Fehlmenge der zu mindernden Treibhausgasemissionen berechnet und beträgt bis einschließlich zum Verpflichtungsjahr 2021 0,47 Euro pro Kilogramm Kohlenstoffdioxid-Äquivalent und ab dem Verpflichtungsjahr 2022 0,60 Euro pro Kilogramm Kohlenstoffdioxid-Äquivalent. Soweit im Falle des § 37a Absatz 6 Satz 1 oder des § 37a Absatz 7 Satz 1 der Dritte seine vertragliche Verpflichtung nicht erfüllt, setzt die zuständige Stelle die Abgabe gegen den Verpflichteten fest.
+(2) Soweit Verpflichtete einer Verpflichtung nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 nicht nachkommen, setzt die zuständige Stelle eine Abgabe fest für die Fehlmenge der zu mindernden Treibhausgasemissionen oder für die nach dem Energiegehalt berechnete Fehlmenge an Kraftstoff. Die Abgabenschuld des Verpflichteten entsteht mit Ablauf des 1. Junis des auf das Verpflichtungsjahr folgenden Kalenderjahres. Die Abgabe beträgt
+
+1. 0,60 Euro pro Kilogramm Kohlenstoffdioxid-Äquivalent in den Fällen des § 37a Absatz 4,
+
+2. 45 Euro pro Gigajoule in den Fällen, in denen ein Verpflichteter auf Grund einer Rechtsverordnung der Bundesregierung nach § 37d Absatz 2 Satz 1 Nummer 8 einen Mindestanteil bestimmter Biokraftstoffe oder anderer erneuerbarer Kraftstoffe in Verkehr zu bringen hat,
+
+3. 120 Euro pro Gigajoule in den Fällen, in denen ein Verpflichteter aufgrund einer Rechtsverordnung der Bundesregierung nach § 37d Absatz 2 Satz 1 Nummer 13 einen Mindestanteil an erneuerbaren Kraftstoffen nicht biogenen Ursprungs in Verkehr zu bringen hat.
+
+Soweit im Fall des § 37a Absatz 6 Satz 1 oder des § 37a Absatz 7 Satz 1 der Dritte seine vertragliche Verpflichtung nicht erfüllt, setzt die zuständige Stelle die Abgabe gegen den Verpflichteten fest.
 
 (3) Soweit der Verpflichtete der zuständigen Stelle die nach Absatz 1 Satz 1 und 3 erforderlichen Angaben nicht oder nicht ordnungsgemäß mitgeteilt hat, schätzt die zuständige Stelle die vom Verpflichteten im Verpflichtungsjahr in Verkehr gebrachten Mengen an Kraftstoffen und auch die Treibhausgasminderung. Die Schätzung ist unwiderlegliche Basis für die Verpflichtung nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4. Die Schätzung unterbleibt, soweit der Verpflichtete im Rahmen der Anhörung zum Festsetzungsbescheid nach Absatz 2 Satz 1 in Verbindung mit Absatz 2 Satz 3, 4 oder Satz 5 die Mitteilung nachholt. Soweit ein Dritter die nach Absatz 1 Satz 4 bis 6 erforderlichen Angaben nicht ordnungsgemäß mitgeteilt hat, geht die zuständige Stelle davon aus, dass der Dritte die von ihm eingegangene Verpflichtung nicht erfüllt hat. Satz 4 gilt nicht, soweit der Dritte im Rahmen der Anhörung zum Festsetzungsbescheid gegen den Verpflichteten nach Absatz 2 Satz 6 diese Mitteilung nachholt.
 
@@ -1081,7 +1127,7 @@ Im Fall des § 37a Absatz 6 Satz 5 gilt dies entsprechend für die im Vorjahr de
 
 # § 37d – Zuständige Stelle, Rechtsverordnungen
 
-(1) Innerhalb der Bundesverwaltung werden eine oder mehrere Stellen errichtet, denen die Aufgaben übertragen werden, die Erfüllung der Verpflichtungen nach § 37a zu überwachen, die in § 37c geregelten Aufgaben zu erfüllen und die Berichte nach § 37f zu überprüfen. Die Bundesregierung wird ermächtigt, die jeweils zuständige Stelle durch Rechtsverordnung ohne Zustimmung des Bundesrates zu bestimmen.
+(1) Innerhalb der Bundesverwaltung werden eine oder mehrere Stellen errichtet, denen die Aufgaben übertragen werden, die Erfüllung der Verpflichtungen nach § 37a zu überwachen, die in den §§ 37c und 37i geregelten Aufgaben zu erfüllen und die Berichte nach § 37f zu überprüfen. Die Bundesregierung wird ermächtigt, die jeweils zuständige Stelle durch Rechtsverordnung ohne Zustimmung des Bundesrates zu bestimmen.
 
 (2) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 51) durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
@@ -1091,7 +1137,7 @@ a) auch in Abweichung von § 37b Absatz 1 bis 6 Energieerzeugnisse als Biokrafts
 
 b) in Abweichung von § 37b Absatz 1 bis 6 festzulegen, dass bestimmte Energieerzeugnisse nicht oder nicht mehr in vollem Umfang als Biokraftstoffe gelten,
 
-c) die Anrechenbarkeit von biogenen Ölen aus Rohstoffen des Anhangs IX Teil A der Richtlinie (EU) 2018/2001 im Sinne von § 37b Absatz 8 Satz 1 Nummer 1 auf die Erfüllung von Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 abweichend von § 37b Absatz 8 Satz 1 Nummer 1 zu regeln, soweit landwirtschaftliche Rohstoffe, Abfälle oder Reststoffe, die bei der Herstellung von biogenen Ölen aus Rohstoffen des Anhangs IX Teil A der Richtlinie (EU) 2018/2001 verwendet werden sollen, nachhaltig erzeugt worden sind,
+c) die Anrechenbarkeit von biogenen Einsatzstoffen aus Rohstoffen des Anhangs IX der Richtlinie (EU) 2018/2001 auf die Erfüllung von Verpflichtungen nach § 37a Absatz 1 in Verbindung mit § 37a Absatz 4 abweichend von § 37b Absatz 8 Satz 1 Nummer 5 zu regeln, wenn sie in einem raffinerietechnischen Verfahren gemeinsam mit mineralölstämmigen Ölen verarbeitet werden,
 
 d) die Anrechenbarkeit von Biomethan auf die Erfüllung von Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 zu konkretisieren,
 
@@ -1103,9 +1149,9 @@ g) das Nachweisverfahren für die Anrechenbarkeit von Biomethan insgesamt näher
 
 2. zu bestimmen, dass der Anteil an bestimmten Erfüllungsoptionen im Rahmen der Erfüllung von Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 nach Maßgabe einer Multiplikation der tatsächlich in Verkehr gebrachten energetischen Menge der jeweiligen Erfüllungsoption mit einem bestimmten Rechenfaktor zu berechnen ist,
 
-3. vorzuschreiben, dass Biokraftstoffe nur dann auf die Erfüllung von Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 angerechnet werden, wenn bei der Erzeugung der eingesetzten Biomasse nachweislich bestimmte ökologische und soziale Anforderungen an eine nachhaltige Produktion der Biomasse sowie zum Schutz natürlicher Lebensräume erfüllt werden und wenn der Biokraftstoff eine bestimmte Treibhausgasminderung aufweist,
+3. (weggefallen)
 
-4. die Anforderungen im Sinne der Nummer 3 festzulegen,
+4. (weggefallen)
 
 5. die Höhe der Abgabe nach § 37c Absatz 2 Satz 3, 4 oder Satz 6 zu ändern, um im Fall von Änderungen des Preisniveaus für Kraftstoffe eine vergleichbare wirtschaftliche Belastung aller Verpflichteten sicherzustellen,
 
@@ -1133,7 +1179,7 @@ a) das Berechnungsverfahren für die Treibhausgasemissionen dieser Kraftstoffe f
 
 b) das Nachweisverfahren zu regeln,
 
-13. unter Berücksichtigung der technischen Entwicklung weitere Erfüllungsoptionen zu ergänzen und dabei insbesondere
+13. unter Berücksichtigung der technischen Entwicklung bestehende Erfüllungsoptionen im Einklang mit den Anforderungen der Richtlinie (EU) 2018/2001 zu konkretisieren und weitere Erfüllungsoptionen zu ergänzen und dabei insbesondere
 
 a) das Berechnungsverfahren für die Treibhausgasemissionen dieser Maßnahmen festzulegen,
 
@@ -1155,7 +1201,7 @@ c) nach § 37b Absatz 8 Satz 1,
 
 d) der Verordnung nach Nummer 1 Buchstabe c und
 
-e) der Verordnung nach den Nummern 2 bis 4,
+e) der Verordnung nach der Nummer 2 und nach Absatz 2a
 
 16. Ausnahmen von den Vorgaben nach § 37b Absatz 8 Satz 1 Nummer 3 festzulegen, sofern dies dem Sinn und Zweck der Regelung nicht entgegensteht,
 
@@ -1169,9 +1215,25 @@ a) das Berechnungsverfahren für die Treibhausgasemissionen,
 
 b) das Nachweisverfahren sowie die Übertragbarkeit der Nachweise und
 
-c) die Anforderungen an die erneuerbaren Energiequellen zur Erzeugung des Wasserstoffs.
+c) die Anforderungen an die erneuerbaren Energiequellen zur Erzeugung des Wasserstoffs,
 
-In Rechtsverordnungen nach Satz 1 kann die Zuständigkeit zur Durchführung einer in einer Rechtsverordnung nach Absatz 1 Satz 2 bestimmten Stelle übertragen werden. Rechtsverordnungen nach Satz 1 Nummer 1 Buchstabe c bedürfen der Zustimmung des Deutschen Bundestages. Rechtsverordnungen nach Satz 1 Nummer 13 oder 19 bedürfen der Zustimmung des Deutschen Bundestages, sofern Regelungen zu strombasierten Kraftstoffen oder Wasserstoff aus biogenen Quellen getroffen werden. Hat sich der Deutsche Bundestag nach Ablauf von vier Sitzungswochen seit Eingang der Rechtsverordnung nach Satz 3 oder 4 nicht mit ihr befasst, gilt die Zustimmung zu der unveränderten Rechtsverordnung als erteilt.
+20. für den Ausschluss der Anrechnung von Biokraftstoffen und erneuerbaren Kraftstoffen nicht biogenen Ursprungs nach § 37b Absatz 8 Satz 1 Nummer 4
+
+a) die Voraussetzungen für die Möglichkeit von Vor-Ort-Kontrollen festzulegen und
+
+b) zu bestimmen, dass der Ausschluss auch für die Anrechnung auf einen Mindestanteil bestimmter Biokraftstoffe oder anderer erneuerbarer Kraftstoffe nach Nummer 8 gilt,
+
+21. die Anrechenbarkeit bestimmter Biokraftstoffe aus tierischen Fetten auf die Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 zu begrenzen sowie das Nachweisverfahren zu regeln,
+
+22. zu bestimmen, dass abweichend von § 37a Absatz 5 und § 37b Absatz 8 erneuerbare Energieträger, die außerhalb des landgebundenen Verkehrs eingesetzt werden, nicht auf die Verpflichtung nach § 37a Absatz 1 in Verbindung mit § 37a Absatz 4 anrechenbar sind, sowie ein Nachweisverfahren hierfür festzulegen.
+
+In Rechtsverordnungen nach Satz 1 kann die Zuständigkeit zur Durchführung einer in einer Rechtsverordnung nach Absatz 1 Satz 2 bestimmten Stelle übertragen werden. Rechtsverordnungen nach Satz 1 Nummer 13 bedürfen der Zustimmung des Deutschen Bundestages, sofern Regelungen zu verpflichtenden Mindestanteilen an erneuerbaren Kraftstoffen nicht biogenen Ursprungs getroffen werden. Hat sich der Deutsche Bundestag nach Ablauf von vier Sitzungswochen seit Eingang der Rechtsverordnung nach Satz 3 nicht mit ihr befasst, gilt die Zustimmung zu der unveränderten Rechtsverordnung als erteilt.
+
+(2a) Das Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und dem Bundesministerium für Landwirtschaft, Ernährung und Heimat durch Rechtsverordnung nach Anhörung der beteiligten Kreise (§ 51) ohne Zustimmung des Bundesrates
+
+1. vorzuschreiben, dass Biokraftstoffe nur dann auf die Erfüllung von Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 angerechnet werden, wenn bei der Erzeugung der eingesetzten Biomasse bestimmte ökologische und soziale Anforderungen an eine nachhaltige Produktion der Biomasse sowie zum Schutz natürlicher Lebensräume erfüllt werden und wenn der Biokraftstoff eine bestimmte Treibhausgasminderung aufweist,
+
+2. die Anforderungen im Sinne der Nummer 1 festzulegen.
 
 (3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates nähere Bestimmungen zur Durchführung der §§ 37a bis 37c sowie der auf Absatz 2 beruhenden Rechtsverordnungen zu erlassen und darin insbesondere
 
@@ -1179,7 +1241,7 @@ In Rechtsverordnungen nach Satz 1 kann die Zuständigkeit zur Durchführung eine
 
 2. zur Sicherung und Überwachung der Erfüllung der Quotenverpflichtung abweichende Bestimmungen zu § 37a Absatz 4 Satz 9 und 10 sowie zu § 37a Absatz 6 und 7 zu erlassen,
 
-3. die erforderlichen Nachweise und die Überwachung der Einhaltung der Anforderungen an Biokraftstoffe sowie die hierfür erforderlichen Probenahmen näher zu regeln,
+3. die erforderlichen Nachweise und die Überwachung der Einhaltung der Anforderungen an Biokraftstoffe, erneuerbare Kraftstoffe nicht biogenen Ursprungs und an weitere Erfüllungsoptionen sowie die hierfür erforderlichen Probenahmen näher zu regeln,
 
 4. zu bestimmen, dass das Entstehen von Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 an das Inverkehrbringen einer bestimmten Mindestmenge an Kraftstoff geknüpft wird.
 
@@ -1187,13 +1249,13 @@ In Rechtsverordnungen nach Satz 1 kann die Zuständigkeit zur Durchführung eine
 
 (1) Es werden Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen erhoben, die auf Grund von Rechtsverordnungen erbracht werden nach:
 
-1. § 37d Absatz 2 Satz 1 Nummer 3 und 4,
+1. § 37d Absatz 2 Satz 1 Nummer 3 und 4 sowie § 37m Absatz 2 Satz 1 Nummer 5 und 6,
 
 2. § 37d Absatz 2 Satz 1 Nummer 11 und
 
-3. § 37d Absatz 2 Satz 1 Nummer 13.
+3. § 37d Absatz 2 Satz 1 Nummer 13 sowie § 37m Absatz 2 Satz 1 Nummer 1 bis 4.
 
-Die Gebühr soll die mit der individuell zurechenbaren öffentlichen Leistung verbundenen Kosten aller an der Leistung Beteiligten decken.
+Die Gebühr soll die mit der individuell zurechenbaren öffentlichen Leistung verbundenen Kosten aller an der Leistung Beteiligten decken. Abweichend von § 4 Absatz 1 des Bundesgebührengesetzes entstehen die von der zuständigen Stelle auf Grundlage von Rechtsverordnungen nach § 37d Absatz 2 Satz 1 Nummer 11 zu erhebenden Gebühren dem Grunde nach bereits vor der Bekanntgabe der individuell zurechenbaren öffentlichen Leistung. Die zuständige Stelle kann die individuell zurechenbare öffentliche Leistung erst nach der vorherigen Zahlung der Gebühr bekannt geben.
 
 (2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit und dem Bundesministerium der Finanzen durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände und Gebührensätze für Amtshandlungen im Sinne von Absatz 1 Nummer 1 zu bestimmen und dabei feste Sätze, auch in Form von Zeitgebühren oder Rahmensätzen, vorzusehen. In der Rechtsverordnung kann die Erstattung von Auslagen abweichend vom Verwaltungskostengesetz in der bis zum 14. August 2013 geltenden Fassung oder von § 12 Absatz 1 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154), das zuletzt durch Artikel 3 des Gesetzes vom 31. März 2016 (BGBl. I S. 518) geändert worden ist, geregelt werden.
 
@@ -1211,42 +1273,121 @@ Die Gebühr soll die mit der individuell zurechenbaren öffentlichen Leistung ve
 
 # § 37g – Bericht der Bundesregierung
 
-Nachdem der Bericht nach Artikel 22 der Richtlinie 2009/28/EG der Europäischen Kommission vorgelegt wurde, übermittelt die Bundesregierung den Bericht nach § 64 der Biokraftstoff-Nachhaltigkeitsverordnung dem Deutschen Bundestag und dem Bundesrat. Die Bundesregierung evaluiert die §§ 37a bis 37f dieses Gesetzes sowie die auf Grund dieser Regelungen erlassenen Verordnungen, insbesondere die Verordnung zur Durchführung der Regelungen der Biokraftstoffquote, die Verordnung zur Anrechnung von strombasierten Kraftstoffen und mitverarbeiteten biogenen Ölen auf die Treibhausgasquote, die Verordnung zur Festlegung weiterer Bestimmungen zur Treibhausgasminderung bei Kraftstoffen sowie die Biokraftstoff-Nachhaltigkeitsverordnung und legt dem Deutschen Bundestag bis zum 31. März 2024 und dann alle zwei Jahre einen Erfahrungsbericht vor. Der Bericht enthält insbesondere Angaben über
+Nachdem der Bericht nach Artikel 22 der Richtlinie 2009/28/EG der Europäischen Kommission vorgelegt wurde, übermittelt die Bundesregierung den Bericht nach § 64 der Biokraftstoff-Nachhaltigkeitsverordnung dem Deutschen Bundestag und dem Bundesrat. Die Bundesregierung evaluiert die §§ 37a bis 37f dieses Gesetzes sowie die auf Grund dieser Regelungen erlassenen Verordnungen, insbesondere die Verordnung zur Durchführung der Regelungen der Biokraftstoffquote, die Verordnung zur Anrechnung von strombasierten Kraftstoffen und mitverarbeiteten biogenen Ölen auf die Treibhausgasquote, die Verordnung zur Festlegung weiterer Bestimmungen zur Treibhausgasminderung bei Kraftstoffen sowie die Biokraftstoff-Nachhaltigkeitsverordnung und legt dem Deutschen Bundestag bis zum 15. Dezember 2028 und dann alle zwei Jahre einen Erfahrungsbericht vor. Der Bericht enthält insbesondere Angaben über
 
 1. die Entwicklung des nachhaltigen Rohstoffpotenzials für die unterschiedlichen Erfüllungsoptionen,
 
-2. den Stand der technischen Entwicklung und Kosten unterschiedlicher Herstellungstechnologien für Biokraftstoffe, Wasserstoff, strombasierte Kraftstoffe und anderer Erfüllungsoptionen,
+2. die Verfügbarkeit von tierischen Fetten und wie sich die steigende Nachfrage nach Biokraftstoffen aus diesen Rohstoffen auf andere Verwendungssektoren auswirkt,
 
-3. die Produktionskapazitäten unterschiedlicher Erfüllungsoptionen, insbesondere der Mengen an Wasserstoff und strombasierten Kraftstoffen, die durch dieses Gesetz angereizt werden,
+3. den Stand der technischen Entwicklung und Kosten unterschiedlicher Herstellungstechnologien für Biokraftstoffe, Wasserstoff, strombasierte Kraftstoffe und anderer Erfüllungsoptionen,
 
-4. die Einhaltung der Nachhaltigkeitskriterien und Auswirkungen der ansteigenden Treibhausgasminderungs-Quote auf Natur, Umwelt und Artenvielfalt,
+4. die Produktionskapazitäten unterschiedlicher Erfüllungsoptionen, insbesondere der Mengen an Wasserstoff und strombasierten Kraftstoffen, die durch dieses Gesetz angereizt werden,
 
-5. die Angemessenheit der Höhe der unterschiedlichen Anrechnungsfaktoren der betreffenden Erfüllungsoptionen und der Höhe der Ausgleichsabgaben.
+5. die Einhaltung der Nachhaltigkeitskriterien und Auswirkungen der ansteigenden Treibhausgasminderungs-Quote auf Natur, Umwelt und Artenvielfalt,
+
+6. die Angemessenheit der Höhe der unterschiedlichen Anrechnungsfaktoren der betreffenden Erfüllungsoptionen und der Höhe der Ausgleichsabgaben.
 
 Der Bericht gibt auch Empfehlungen zur Weiterentwicklung des Regelwerkes.
 
 # § 37h – Mechanismus zur Anpassung der Treibhausgasminderungs-Quote; Verordnungsermächtigung
 
-(1) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit gibt die Summe der für ein Verpflichtungsjahr an die zuständige Stelle (§ 37d Absatz 1) gemeldeten Mengen an elektrischem Strom zur Verwendung in Straßenfahrzeugen im Bundesanzeiger bekannt.
+(1) Die nach § 37d Absatz 1 zuständige Stelle veröffentlicht auf der Internetseite der Zollverwaltung die Summe der Treibhausgasminderungsmengen aller Verpflichteten, die den nach § 37a Absatz 4 vorgeschriebenen Prozentsatz in einem Verpflichtungsjahr überschreiten (Übererfüllung), spätestens bis zum Ablauf des 15. November des Folgejahres. Die Veröffentlichung erfolgt auf Grundlage der Mitteilungen nach § 37c Absatz 1 Satz 1.
 
-(2) Übersteigt die Summe der nach Absatz 1 bekannt gemachten Menge elektrischen Stroms  
-  
+(2) Übersteigt das Verhältnis aus der Übererfüllung und der Summe der Referenzwerte aller Verpflichteten in einem Verpflichtungsjahr die Differenz aus dem Prozentsatz des laufenden und des folgenden Verpflichtungsjahres, so erhöht die Bundesregierung den Prozentsatz nach § 37a Absatz 4 Satz 2 durch Rechtsverordnung ohne Zustimmung des Bundesrates für alle nachfolgenden Verpflichtungsjahre.
 
-|     |                      |               |
-|:----|:---------------------|:--------------|
-| 1\. | im Kalenderjahr 2022 | 5 Petajoule,  |
-| 2\. | im Kalenderjahr 2023 | 9 Petajoule,  |
-| 3\. | im Kalenderjahr 2024 | 13 Petajoule, |
-| 4\. | im Kalenderjahr 2025 | 19 Petajoule, |
-| 5\. | im Kalenderjahr 2026 | 25 Petajoule, |
-| 6\. | im Kalenderjahr 2027 | 38 Petajoule, |
-| 7\. | im Kalenderjahr 2028 | 53 Petajoule, |
-| 8\. | im Kalenderjahr 2029 | 71 Petajoule, |
-| 9\. | im Kalenderjahr 2030 | 88 Petajoule, |
+(3) Die Erhöhung des Prozentsatzes durch Rechtsverordnung nach Absatz 2 Satz 1 hat der halben bis eineinhalbfachen Übersteigung nach Absatz 2 zu entsprechen und gilt ab dem übernächsten Verpflichtungsjahr. Eine durch Rechtsverordnung festgelegte Erhöhung des Prozentsatzes ist bei der Ermittlung der Übersteigung nach Absatz 2 in den Folgejahren zu berücksichtigen.
 
-  
-  
-erhöht die Bundesregierung den Prozentsatz nach § 37a Absatz 4 Satz 2 durch Rechtsverordnung ohne Zustimmung des Bundesrates für alle nachfolgenden Verpflichtungsjahre. Eine Erhöhung durch eine Rechtsverordnung nach Satz 1 erfolgt für das übernächste Verpflichtungsjahr. Die Erhöhung hat sicherzustellen, dass andere Erfüllungsoptionen in gleichem Maße zur Erfüllung der Verpflichtung nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit Absatz 4 eingesetzt werden können. Die Erhöhung hat der halben bis eineinhalbfachen Treibhausgasminderung durch die Menge an elektrischem Strom, die die Menge nach Satz 1 übersteigt, gegenüber der Summe der Referenzwerte aller Verpflichteten zu entsprechen.
+# § 37i – Eintragung in die Unionsdatenbank
+
+(1) Verpflichtete nach § 37a Absatz 1 Satz 1 haben die von ihnen in Verkehr gebrachte Menge fossilen Kraftstoffs, die von ihnen eingesetzte Menge an Erfüllungsoptionen und die Treibhausgasemissionen, die sie nach § 37c Absatz 1 Satz 1 Nummer 1 und 2 an die zuständige Stelle mitgeteilt haben, bis zum 1. Juni des auf das Verpflichtungsjahr folgenden Kalenderjahres in die Unionsdatenbank nach Artikel 31a der Richtlinie (EU) 2018/2001 einzutragen, sobald die Unionsdatenbank eingerichtet und in Betrieb ist und dies durch das Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit im Bundesanzeiger bekannt gemacht wurde.
+
+(2) Abweichend von Absatz 1 kann die Eintragung der Daten durch ein Datensystem einer vom Verpflichteten beauftragten Person erfolgen. In diesem Fall sind die Europäische Kommission und die nach § 37d Absatz 1 zuständige Stelle hierüber zu informieren. Der Verpflichtete ist so zu behandeln, als hätte er die Daten selbst eingetragen.
+
+(3) Die nach § 37d Absatz 1 zuständige Stelle gleicht die Eintragungen nach Absatz 1 und 2 mit der Mitteilung nach § 37c Absatz 1 Satz 1 Nummer 1 und 2 ab.
+
+# § 37j – Flugkraftstoffanbieter
+
+(1) Flugkraftstoffanbieter nach Artikel 3 Nummer 19 der Verordnung (EU) 2023/2405 ist für die Zwecke dieses Gesetzes, wer gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen nach § 27 Absatz 2 und 3 des Energiesteuergesetzes steuerbefreiten oder nach § 2 Absatz 1 Nummer 3 des Energiesteuergesetzes zu versteuernden
+
+1. Flugturbinenkraftstoff der Unterposition 2710 19 21 oder
+
+2. Wasserstoff der Unterposition 2804 10 00
+
+der Kombinierten Nomenklatur im Sinne des § 1a Satz 1 Nummer 2 des Energiesteuergesetzes zur Verwendung in Luftfahrzeugen an Flughäfen der Union nach Artikel 3 Nummer 1 der Verordnung (EU) 2023/2405 in Verkehr bringt.
+
+(2) Als Inverkehrbringer nach Absatz 1 gilt der Steuerlagerinhaber nach § 5 Absatz 3 des Energiesteuergesetzes, der Kraftstoff zu steuerfreien Zwecken nach § 27 des Energiesteuergesetzes abgibt, oder der jeweilige Steuerschuldner im Sinne des Energiesteuergesetzes. Abweichend von Satz 1 bringt in Verkehr
+
+1. in den Fällen des § 7 Absatz 4 Satz 1 des Energiesteuergesetzes der Einlagerer,
+
+2. in den Fällen des § 7 Absatz 6 des Energiesteuergesetzes derjenige, der die Betankung kaufmännisch veranlasst hat,
+
+3. in den Fällen, in denen Wasserstoff kein Energieerzeugnis nach § 1 Absatz 3 des Energiesteuergesetzes ist oder der Wasserstoff nach § 23 Absatz 1 Satz 1 Nummer 1 des Energiesteuergesetzes zu versteuern ist und der Steuerschuldner nach § 23 Absatz 3 Nummer 1 des Energiesteuergesetzes der Empfänger ist, derjenige, der die Betankung kaufmännisch veranlasst hat.
+
+Kaufmännischer Veranlasser ist derjenige, der lieferseitig die rechtliche Befugnis hat, den steuerlichen Erlaubnisinhaber mit der Betankung zu beauftragen.
+
+(3) Der Steuerlagerinhaber nach § 5 Absatz 3 des Energiesteuergesetzes hat mit der monatlichen Energiesteueranmeldung oder, sofern eine solche Anmeldung nicht erforderlich ist, monatlich dem zuständigen Hauptzollamt alle Mengen an Flugturbinenkraftstoffen und den zugehörigen Flughafen der Union zu benennen. In den Fällen des Absatzes 2 Satz 2 Nummer 1 und 2 sind neben den Flugturbinenkraftstoffen sowie dem Flughafen der Union der Einlagerer oder der kaufmännische Veranlasser zu benennen. Unterbleibt die Benennung des Einlagerers oder des kaufmännischen Veranlassers, gilt der Steuerschuldner im Sinne von Absatz 2 Satz 1 oder der Steuerlagerinhaber gemäß Absatz 2 Satz 1 weiterhin als Inverkehrbringer.
+
+(4) In den Fällen des Absatzes 2 Satz 2 Nummer 3 hat der kaufmännische Veranlasser dem zuständigen Hauptzollamt monatlich die verwendeten Mengen an Wasserstoff für die Luftfahrt und den zugehörigen Flughafen der Union zu benennen.
+
+# § 37k – Überwachung von Flugkraftstoffanbietern
+
+Die nach § 37m Absatz 1 zuständige Stelle
+
+1. stellt sicher, dass die vom Flugkraftstoffanbieter in der Unionsdatenbank gemachten Angaben nach Artikel 10 der Verordnung (EU) 2023/2405 richtig sind;
+
+2. überwacht die Einhaltung der Verpflichtung nach Artikel 4 in Verbindung mit Artikel 15 Absatz 1 und mit Anhang I der Verordnung (EU) 2023/2405;
+
+3. stellt sicher, dass Flugkraftstoffanbieter, soweit diese ihrer Verpflichtung nach Artikel 4 in Verbindung mit Artikel 15 Absatz 1 und mit Anhang I der Verordnung (EU) 2023/2405 hinsichtlich des Anteils an nachhaltigen Flugkraftstoffen nicht nachkommen, die festgestellten Fehlmengen nach Artikel 4 Absatz 7 der Verordnung (EU) 2023/2405 zusätzlich zu ihrer Verpflichtung nach Artikel 4 in Verbindung mit Anhang I der Verordnung (EU) 2023/2405 in Verkehr bringen;
+
+4. bearbeitet Anträge von Flugkraftstoffanbietern über die Zuordnung zu einem anderen Mitgliedstaat gemäß Artikel 11 Absatz 8 Satz 2 der Verordnung (EU) 2023/2405.
+
+Die nach § 37m Absatz 1 zuständige Stelle kann die Maßnahmen treffen, die zur Erfüllung der ihr nach Satz 1 zugewiesenen Aufgaben erforderlich sind. Hierzu zählt insbesondere der Erlass von Verwaltungsakten.
+
+# § 37l – Abgabepflicht bei Flugkraftstoffen; Bericht
+
+(1) Soweit ein Flugkraftstoffanbieter seiner Verpflichtung nach Artikel 4 in Verbindung mit dem Anhang I der Verordnung (EU) 2023/2405 hinsichtlich des Anteils an nachhaltigen Flugkraftstoffen nicht nachkommt, setzt die nach § 37m Absatz 1 zuständige Stelle eine Abgabe fest für die Fehlmenge
+
+1. an nachhaltigen Flugkraftstoffen nach Artikel 3 Nummer 7 Buchstabe b und c der Verordnung (EU)
+
+2023/2405 in Höhe von 4 700 Euro pro Tonne und
+
+2. an synthetischen Flugkraftstoffen nach Artikel 3 Nummer 7 Buchsstabe a der Verordnung (EU) 2023/2405 in Höhe von 17 000 Euro pro Tonne.
+
+(2) Soweit ein Flugkraftstoffanbieter nachweislich irreführende oder unzutreffende Informationen über die Merkmale oder den Ursprung der von ihm gemäß Artikel 9 Absatz 2 und Artikel 10 der Verordnung (EU) 2023/2405 gelieferten Kraftstoffe übermittelt hat, setzt die nach § 37m Absatz 1 zuständige Stelle eine Abgabe fest für die Menge an Kraftstoffen, in Bezug auf welche irreführende oder unzutreffende Informationen übermittelt wurden. Beziehen sich die irreführenden oder unzutreffenden Informationen auf nachhaltige Flugkraftstoffe nach Artikel 3 Nummer 7 Buchstabe b und c der Verordnung (EU) 2023/2405, so ist ein Wert von 4 700 Euro pro Tonne anzusetzen. Beziehen sich die irreführenden oder unzutreffenden Informationen auf Flugkraftstoffe nach Artikel 3 Nummer 7 Buchstabe a oder Nummer 18 der Verordnung (EU) 2023/2405 oder auf erneuerbaren Wasserstoff für die Luftfahrt nach Artikel 3 Nummer 16 der Verordnung (EU) 2023/2405, so ist ein Wert von 17 000 Euro pro Tonne anzusetzen.
+
+(3) Hat ein Flugkraftstoffanbieter die nach Artikel 10 der Verordnung (EU) 2023/2405 erforderlichen Angaben nicht oder nicht ordnungsgemäß in die Unionsdatenbank nach Artikel 31a der Richtlinie (EU) 2018/2001 in der Fassung vom 13. Juni 2024 eingetragen, schätzt die nach § 37m Absatz 1 zuständige Stelle die vom Flugkraftstoffanbieter im Berichtsjahr in Verkehr gebrachten Mengen an Flugkraftstoffen.
+
+(4) Die Abgabenschuld des Flugkraftstoffanbieters nach Absatz 1 oder 2 entsteht mit Ablauf des 14. Februar des auf das Berichtsjahr folgenden Kalenderjahres.
+
+(5) Hinsichtlich der Absätze 1 bis 4 finden die für die Verbrauchsteuern geltenden Vorschriften der Abgabenordnung entsprechende Anwendung. Auf die in die Unionsdatenbank nach Artikel 31a der Richtlinie (EU) 2018/2001 in der Fassung vom 13. Juni 2024 eingetragenen Angaben des Flugkraftstoffanbieters nach Artikel 10 der Verordnung (EU) 2023/2405 findet § 170 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung sinngemäß Anwendung. Der Flugkraftstoffanbieter ist vor der Festsetzung der Abgabe anzuhören.
+
+(6) Das Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit und das Bundesministerium für Verkehr veröffentlichen bis zum 25. September 2026 und danach alle fünf Jahre einen Bericht entsprechend Artikel 12 Absatz 10 der Verordnung (EU) 2023/2405.
+
+# § 37m – Zuständige Stelle; Verordnungsermächtigung
+
+(1) Innerhalb der Bundesverwaltung werden eine oder mehrere Stellen errichtet, denen die Erfüllung der in den §§ 37k und 37l Absatz 1 bis 3 geregelten Aufgaben übertragen wird. Die Bundesregierung wird ermächtigt, die jeweils zuständige Stelle durch Rechtsverordnung ohne Zustimmung des Bundesrates zu bestimmen.
+
+(2) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise nach § 51 durch Rechtsverordnung ohne Zustimmung des Bundesrates
+
+1. das Nachweisverfahren für die Anrechenbarkeit von nachhaltigen Flugkraftstoffen nach Artikel 3 Nummer 7 der Verordnung (EU) 2023/2405 und erneuerbarem Wasserstoff für die Luftfahrt nach Artikel 3 Nummer 16 der Verordnung (EU) 2023/2405 auf die Verpflichtung nach Artikel 4 in Verbindung mit Anhang I der Verordnung (EU) 2023/2405 näher zu regeln,
+
+2. das Berechnungsverfahren für die Treibhausgasemissionen von nachhaltigen Flugkraftstoffen nach Artikel 3 Nummer 7 der Verordnung (EU) 2023/2405 und erneuerbarem Wasserstoff für die Luftfahrt nach Artikel 3 Nummer 16 der Verordnung (EU) 2023/2405 festzulegen und das Nachweisverfahren zu regeln,
+
+3. Methoden zur Einhaltung der Anforderungen der Richtlinie (EU) 2018/2001 für den Bezug des elektrischen Stroms zur Produktion von synthetischen Flugkraftstoffen nach Artikel 3 Nummer 12 der Verordnung (EU) 2023/2405 und erneuerbaren Wasserstoffs für die Luftfahrt nach Artikel 3 Nummer 16 der Verordnung (EU) 2023/2405 festzulegen,
+
+4. Mindestwerte für die Treibhausgaseinsparung von nachhaltigen Flugkraftstoffen nach Artikel 3 Nummer 7 der Verordnung (EU) 2023/2405 und erneuerbarem Wasserstoff für die Luftfahrt nach Artikel 3 Nummer 16 der Verordnung (EU) 2023/2405 festzulegen,
+
+5. vorzuschreiben, dass Biokraftstoffe nur dann auf die Erfüllung von Verpflichtungen nach Artikel 4 in Verbindung mit Anhang I der Verordnung (EU) 2023/2405 angerechnet werden, wenn bei der Erzeugung der eingesetzten Biomasse nachweislich bestimmte ökologische und soziale Anforderungen an eine nachhaltige Produktion der Biomasse sowie zum Schutz natürlicher Lebensräume erfüllt werden und wenn der Biokraftstoff eine bestimmte Treibhausgasminderung aufweist,
+
+6. die Anforderungen im Sinne der Nummer 5 festzulegen und das Nachweisverfahren zu regeln,
+
+7. die erforderlichen Nachweise und die Überwachung der Einhaltung der Anforderungen an nachhaltige Flugkraftstoffe nach Artikel 3 Nummer 7 der Verordnung (EU) 2023/2405 und erneuerbaren Wasserstoff für die Luftfahrt nach Artikel 3 Nummer 16 der Verordnung (EU) 2023/2405 sowie die hierfür erforderlichen Probenahmen näher zu regeln,
+
+8. Einzelheiten zu Maßnahmen zu regeln, die der Erfüllung der Aufgaben dienen, die der zuständigen Stelle in § 37k zugewiesen sind; dies umfasst auch etwaige Duldungs- und Mitwirkungspflichten der Flugkraftstoffanbieter,
+
+9. die Höhe der Abgabe nach § 37l Absatz 1 und 2 zu ändern, um im Fall von Änderungen des Preisniveaus für Kraftstoffe eine vergleichbare wirtschaftliche Belastung aller Flugkraftstoffanbieter sicherzustellen.
+
+In Rechtsverordnungen nach Satz 1 kann die Zuständigkeit zur Durchführung einer in einer Rechtsverordnung nach Absatz 1 Satz 2 bestimmten Stelle übertragen werden.
 
 # § 38 – Beschaffenheit und Betrieb von Fahrzeugen
 
@@ -1562,7 +1703,7 @@ Soweit Ermächtigungen zum Erlass von Rechtsverordnungen und allgemeinen Verwalt
 
 Der Betreiber einer genehmigungsbedürftigen Anlage hat sicherzustellen, dass für ihn bestimmte Schriftstücke im Geltungsbereich dieses Gesetzes zugestellt werden können. Kann die Zustellung nur dadurch sichergestellt werden, dass ein Bevollmächtigter bestellt wird, so hat der Betreiber den Bevollmächtigten der zuständigen Behörde zu benennen.
 
-# § 52 – Überwachung
+# § 52 – Überwachung, Einschränkungen von Grundrechten
 
 (1) Die zuständigen Behörden haben die Durchführung dieses Gesetzes und der auf dieses Gesetz gestützten Rechtsverordnungen zu überwachen. Sie können die dafür erforderlichen Maßnahmen treffen und bei der Durchführung dieser Maßnahmen Beauftragte einsetzen. Sie haben Genehmigungen im Sinne des § 4 regelmäßig zu überprüfen und soweit erforderlich durch nachträgliche Anordnungen nach § 17 auf den neuesten Stand zu bringen. Eine Überprüfung im Sinne von Satz 2 wird in jedem Fall vorgenommen, wenn
 
@@ -1588,7 +1729,15 @@ Satz 5 gilt auch für Genehmigungen, die nach Veröffentlichung von BVT-Schlussf
 
 (2) Eigentümer und Betreiber von Anlagen sowie Eigentümer und Besitzer von Grundstücken, auf denen Anlagen betrieben werden, sind verpflichtet, den Angehörigen der zuständigen Behörde und deren Beauftragten den Zutritt zu den Grundstücken und zur Verhütung dringender Gefahren für die öffentliche Sicherheit oder Ordnung auch zu Wohnräumen und die Vornahme von Prüfungen einschließlich der Ermittlung von Emissionen und Immissionen zu gestatten sowie die Auskünfte zu erteilen und die Unterlagen vorzulegen, die zur Erfüllung ihrer Aufgaben erforderlich sind. Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit eingeschränkt. Betreiber von Anlagen, für die ein Immissionsschutzbeauftragter oder ein Störfallbeauftragter bestellt ist, haben diesen auf Verlangen der zuständigen Behörde zu Überwachungsmaßnahmen nach Satz 1 hinzuzuziehen. Im Rahmen der Pflichten nach Satz 1 haben die Eigentümer und Betreiber der Anlagen Arbeitskräfte sowie Hilfsmittel, insbesondere Treibstoffe und Antriebsaggregate, bereitzustellen.
 
-(3) Absatz 2 gilt entsprechend für Eigentümer und Besitzer von Anlagen, Stoffen, Erzeugnissen, Brennstoffen, Treibstoffen und Schmierstoffen, soweit diese den §§ 37a bis 37c oder der Regelung der nach den §§ 32 bis 35, 37 oder 37d erlassenen Rechtsverordnung unterliegen. Die Eigentümer und Besitzer haben den Angehörigen der zuständigen Behörde und deren Beauftragten die Entnahme von Stichproben zu gestatten, soweit dies zur Erfüllung ihrer Aufgaben erforderlich ist.
+(3) Absatz 2 gilt entsprechend für Eigentümer und Besitzer von Anlagen, Stoffen, Erzeugnissen, Brennstoffen, Treibstoffen und Schmierstoffen, soweit diese einer der folgenden Regelungen unterliegen:
+
+1. den §§ 37a bis 37c oder der nach den §§ 32 bis 35, 37 oder 37d erlassenen Rechtsverordnung oder
+
+2. Artikel 10 der Verordnung (EU) 2023/2405 in Verbindung mit § 37j Absatz 1 oder
+
+3. der nach § 37m Absatz 2 erlassenen Rechtsverordnung.
+
+Die Eigentümer und Besitzer haben den Angehörigen der zuständigen Behörde und deren Beauftragten die Entnahme von Stichproben zu gestatten, soweit dies zur Erfüllung ihrer Aufgaben erforderlich ist.
 
 (4) Kosten, die durch Prüfungen im Rahmen des Genehmigungsverfahrens entstehen, trägt der Antragsteller. Kosten, die bei der Entnahme von Stichproben nach Absatz 3 und deren Untersuchung entstehen, trägt der Auskunftspflichtige. Kosten, die durch sonstige Überwachungsmaßnahmen nach Absatz 2 oder 3 entstehen, trägt der Auskunftspflichtige, es sei denn, die Maßnahme betrifft die Ermittlung von Emissionen und Immissionen oder die Überwachung einer nicht genehmigungsbedürftigen Anlage außerhalb des Überwachungssystems nach der Zwölften Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes; in diesen Fällen sind die Kosten dem Auskunftspflichtigen nur aufzuerlegen, wenn die Ermittlungen ergeben, dass
 
@@ -1804,7 +1953,9 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 10. entgegen § 37c Absatz 1 Satz 4, auch in Verbindung mit Satz 5, oder Satz 6 der zuständigen Stelle die dort genannten Angaben nicht richtig mitteilt,
 
-11. entgegen § 37f Absatz 1 Satz 1, auch in Verbindung mit einer Rechtsverordnung nach § 37d Absatz 2 Satz 1 Nummer 14, der zuständigen Stelle einen Bericht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt.
+11. entgegen § 37f Absatz 1 Satz 1, auch in Verbindung mit einer Rechtsverordnung nach § 37d Absatz 2 Satz 1 Nummer 14, der zuständigen Stelle einen Bericht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt oder
+
+12. entgegen § 37i Absatz 1 eine dort genannte Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig einträgt.
 
 (2) Ordnungswidrig handelt ferner, wer vorsätzlich oder fahrlässig
 
@@ -1820,7 +1971,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 3a. entgegen § 31 Absatz 5 Satz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
-3b. einer Rechtsverordnung nach § 37d Absatz 3 Nummer 3 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
+3b. einer Rechtsverordnung nach § 37d Absatz 2 Satz 1 Nummer 13 Buchstabe b oder Absatz 3 Nummer 3 oder § 37m Absatz 2 Satz 1 Nummer 1 oder 7 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
 4. entgegen § 52 Absatz 2 Satz 1, 3 oder 4, auch in Verbindung mit Absatz 3 Satz 1 oder Absatz 6 Satz 1 Auskünfte nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt, eine Maßnahme nicht duldet, Unterlagen nicht vorlegt, beauftragte Personen nicht hinzuzieht oder einer dort sonst genannten Verpflichtung zuwiderhandelt,
 
@@ -1846,7 +1997,21 @@ Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird erm�
 
 (4) Die Ordnungswidrigkeit kann in den Fällen der Absätze 1 und 3 Nummer 1 Buchstabe a und Nummer 2 mit einer Geldbuße bis zu fünfzigtausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
-(5) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 1 Nummer 9 bis 11 die zuständige Stelle.
+(5) Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten sind in den Fällen des Absatzes 1 Nummer 9 bis 11 die Stellen nach § 37d Absatz 1 Satz 1 jeweils für ihren Geschäftsbereich.
+
+# § 62a – Bußgeldvorschriften zur Verordnung (EU) 2023/2405
+
+(1) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2023/2405 in der Fassung vom 18. Oktober 2023 verstößt, indem er vorsätzlich oder fahrlässig
+
+1. entgegen Artikel 4 Absatz 7 eine dort genannte Fehlmenge nicht, nicht vollständig oder nicht rechtzeitig ergänzt,
+
+2. entgegen Artikel 6 Absatz 4 oder Artikel 9 Absatz 2 oder 3 Satz 3 oder 5 eine dort genannte Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt oder
+
+3. entgegen Artikel 10 Unterabsatz 1 ab dem Berichtsjahr 2027 eine Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
+
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
+
+(3) Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten sind die Stellen nach § 37m Absatz 1 Satz 1 jeweils für ihren Geschäftsbereich.
 
 # § 63 – Rechtsbehelfe und Entfall der aufschiebenden Wirkung
 
@@ -1854,7 +2019,13 @@ Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird erm�
 
 (2) Der Antrag auf Anordnung der aufschiebenden Wirkung des Widerspruchs oder der Anfechtungsklage gegen eine Zulassung einer Windenergieanlage an Land mit einer Gesamthöhe von mehr als 50 Metern nach § 80 Absatz 5 Satz 1 der Verwaltungsgerichtsordnung kann nur innerhalb eines Monats nach der Zustellung der Zulassung gestellt und begründet werden. Darauf ist in der Rechtsbehelfsbelehrung hinzuweisen. § 58 der Verwaltungsgerichtsordnung gilt entsprechend. Treten später Tatsachen ein, die die Anordnung der aufschiebenden Wirkung rechtfertigen, so kann der durch die Zulassungsentscheidung Beschwerte einen hierauf gestützten Antrag nach § 80 Absatz 5 Satz 1 der Verwaltungsgerichtsordnung innerhalb einer Frist von einem Monat stellen und begründen. Die Frist beginnt mit dem Zeitpunkt, in dem der Beschwerte von den Tatsachen Kenntnis erlangt.
 
-# §§ 64 bis 65 – (weggefallen)
+# § 64 – Datenübermittlung
+
+(1) Die Generalzolldirektion und die Hauptzollämter dürfen Informationen, einschließlich personenbezogener Daten sowie Betriebs- und Geschäftsgeheimnisse, an das Bundeministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit sowie das Umweltbundesamt übermitteln, soweit diese Informationen zur Erfüllung der gesetzlichen Aufgaben des Bundesministeriums für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit oder des Umweltbundesamtes aus den §§ 37a bis 37m oder Artikel 11 Absatz 3 der Verordnung (EU) 2023/2405 erforderlich sind.
+
+(2) Die Datenübermittlungen nach Absatz 1 darf auf Initiative der zur Übermittlung befugten Stellen und auf Ersuchen der Datenempfänger erfolgen.
+
+# § 65 – (weggefallen)
 
 # § 66 – Fortgeltung von Vorschriften
 
@@ -1898,7 +2069,7 @@ ausgenommen Anlagen, die ausschließlich Forschungszwecken dienen, gilt auch nac
 
 (10) § 47 Absatz 5a gilt für die Verfahren zur Aufstellung oder Änderung von Luftreinhalteplänen nach § 47, die nach dem 25. Juni 2005 eingeleitet worden sind.
 
-(11) (weggefallen)
+(11) § 37l Absatz 1 Nummer 2 ist erst ab dem 1. Januar 2030 anzuwenden.
 
 # § 67a – Überleitungsregelung aus Anlass der Herstellung der Einheit Deutschlands
 

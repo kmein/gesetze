@@ -213,7 +213,37 @@ Der Bevollmächtigte hat auf Verlangen der Zertifizierungsstelle seine Vollmacht
 
 # § 5 – Zertifizierung von Altersvorsorgeverträgen
 
-Die Zertifizierungsstelle erteilt die Zertifizierung nach § 1 Abs. 3, wenn ihr die nach diesem Gesetz erforderlichen Angaben und Unterlagen vorliegen sowie die Vertragsbedingungen des Altersvorsorgevertrags dem § 1 Absatz 1, 1a oder beiden Absätzen sowie dem § 2a entsprechen und der Anbieter den Anforderungen des § 1 Absatz 2 entspricht.
+(1) Die Zertifizierungsstelle erteilt auf Antrag die Zertifizierung nach § 1 Absatz 3 in der ab dem 1. Januar 2027 geltenden Fassung, wenn
+
+1. ihr die nach diesem Gesetz erforderlichen Angaben und Unterlagen nach § 4 vorliegen,
+
+2. der Anbieter gegenüber der Zertifizierungsstelle versichert, dass die Vertragsbedingungen des Altersvorsorgevertrages dem § 1 Absatz 1, 1a, 1b, 1c oder 1d sowie dem § 2a jeweils in der ab dem 1. Januar 2027 geltenden Fassung entsprechen, und
+
+3. der Anbieter bescheinigt, dass er den Anforderungen des § 1 Absatz 2 entspricht.
+
+Anträge auf eine Zertifizierung und die erforderlichen Unterlagen nach § 4 sind elektronisch nach amtlich vorgeschriebenem Datensatz durch amtlich bestimmte Datenfernübertragung an die Zertifizierungsstelle zu übermitteln, soweit der Zugang eröffnet wurde. Die Zertifizierung erfolgt mit der Übermittlung der Zertifizierungsnummer durch die Zertifizierungsstelle. Die Zertifizierung nach Satz 3 erfolgt unter dem Vorbehalt des Widerrufs. Der Vorbehalt des Widerrufs entfällt zwei Jahre nach Ablauf des Kalenderjahres, in dem die Zertifizierungsstelle die Zertifizierungsnummer abgesandt hat.
+
+(2) Eine Zertifizierung kann innerhalb der Frist nach Absatz 1 Satz 5 mit Wirkung für die Zukunft widerrufen werden, wenn entgegen der Versicherung des Anbieters nach Satz 1 Nummer 2 die Voraussetzungen für eine Zertifizierung nicht vorliegen oder der Anbieter den Anforderungen des § 1 Absatz 2 nicht entspricht. Ab dem Widerruf sind alle auf diesem Zertifikat beruhenden Verträge nicht mehr als Altersvorsorgeverträge zu behandeln. Dem Anbieter ist vor dem Widerruf im Rahmen einer Anhörung Gelegenheit zu geben, die erforderlichen Vertragsanpassungen für das Bestehen des Zertifikats vorzunehmen oder Maßnahmen zu ergreifen, um den Anforderungen des § 1 Absatz 2 zu entsprechen. Die Aufhebung einer Zertifizierung nach § 8 oder nach den allgemeinen Verfahrensvorschriften der Abgabenordnung bleibt unberührt.
+
+(3) Sind auf Grundlage des ursprünglichen Zertifikates Altersvorsorgeverträge vom Anbieter abgeschlossen worden, kann der Anbieter durch Erklärung gegenüber seinen bestehenden Vertragspartnern die Vertragsbestimmungen durch die nach Absatz 2 erforderlichen Vertragsbestimmungen ersetzen. Die Erklärung zur Ersetzung der Vertragsbestimmungen bedarf der Textform und ist nur wirksam, wenn sie
+
+1. eine Gegenüberstellung des bisherigen Vertragsinhalts und des neuen Vertragsinhalts enthält, in der die Änderungen so kenntlich gemacht sind, dass der Vertragspartner sie einfach erfassen kann,
+
+2. ein aktualisiertes Produktinformationsblatt gemäß § 7 enthält, sofern sich dieses aufgrund der Anpassungen geändert hat, und
+
+3. der Vertragspartner vom Anbieter auf die Rechtsfolgen der Erklärung zur Ersetzung der Vertragsbedingungen sowie der Ausübung des Fortsetzungsrechts durch den Vertragspartner hingewiesen wird.
+
+Die Vertragsänderung wird sechs Monate nach Zugang der Erklärung wirksam, sofern der Vertragspartner nicht vor Ablauf dieser Frist vom Anbieter verlangt, dass der Altersvorsorgevertrag mit dem bisherigen Vertragsinhalt fortgesetzt wird. Übt der Vertragspartner sein Recht zur Fortsetzung des Altersvorsorgevertrages zu den bisherigen Vertragsbedingungen aus, liegt einen Monat nach Zugang dieser Erklärung beim Anbieter
+
+1. kein Altersvorsorgevertrag mehr vor und
+
+2. eine schädliche Verwendung nach § 93 des Einkommensteuergesetzes vor, es sei denn, das gebildete Kapital wird vor Ablauf der Frist auf einen anderen auf den Namen des Vertragspartners lautenden Altersvorsorgevertrag übertragen.
+
+Der Anbieter hat bei einem Vertragswechsel in den Fällen des Satzes 4 Nummer 2 dem Vertragspartner die Hälfte der im Zusammenhang mit dem ursprünglichen Vertrag verrechneten Abschluss- und Vertriebskosten zu erstatten.
+
+(4) Für nach § 4 Absatz 2 zu zertifizierende Verträge kann der Antragsteller abweichend von Absatz 1 beantragen, dass eine Zertifizierung erst nach vollständiger Prüfung der Zertifizierungsstelle, ob die Vertragsbedingungen des Altersvorsorgevertrages dem § 1 Absatz 1, 1a, 1b, 1c oder 1d sowie dem § 2a jeweils in der ab dem 1. Januar 2027 geltenden Fassung entsprechen und der Anbieter den Anforderungen des § 1 Absatz 2 entspricht, erteilt wird. Das Zertifikat nach Satz 1 ist ohne einen Vorbehalt des Widerrufs zu erteilen. In diesem Fall erhöht sich die Gebühr nach § 12 Absatz 1 Satz 1 auf insgesamt 8 000 Euro.
+
+(5) Wird eine Zertifizierung nach Absatz 2 Satz 1 widerrufen, haben Vertragspartner einen Anspruch, ihren Vertrag mit einer Frist von sechs Monaten nach Kenntnis des Widerrufs der Zertifizierung zu kündigen. Wird das gebildete Kapital innerhalb der Frist nach Satz 1 auf einen anderen auf den Namen des Vertragspartners lautenden Altersvorsorgevertrag übertragen, liegt keine schädliche Verwendung im Sinne des § 93 des Einkommensteuergesetzes vor; § 3 Nummer 55c des Einkommensteuergesetzes findet Anwendung. Der Anbieter hat im Fall der Übertragung nach Satz 2 einem Vertragspartner alle im Zusammenhang mit dem ursprünglich zertifizierten Vertrag verrechneten Abschluss- und Vertriebskosten zu erstatten. Macht der Vertragspartner seinen Anspruch auf Kapitalübertragung innerhalb der Frist nicht geltend, liegt mit dem Widerruf der Zertifizierung eine schädliche Verwendung im Sinne des § 93 des Einkommensteuergesetzes vor. Der Anbieter ist verpflichtet, den Vertragspartner unverzüglich über den Widerruf der Zertifizierung, den Anspruch auf Vertragswechsel nach Satz 1 und die steuerlichen Folgen hinzuweisen.
 
 (+++ § 5: Zur Anwendung d. Änderungen d. Art. 2 Nr. 6 G v. 24.6.2013 I 1667 vgl. § 14 Abs. 6 +++)
 
@@ -446,3 +476,5 @@ Für Anträge nach § 4 Abs. 3 Satz 1 und 2 beträgt die Gebühr 250 Euro.
 (5) Bis zum 30. Juni 2010 ist abweichend von § 3 Abs. 1 Zertifizierungsstelle die Bundesanstalt für Finanzdienstleistungsaufsicht. Ab dem 1. Juli 2010 sind auf Verwaltungsverfahren nach diesem Gesetz die Vorschriften der Abgabenordnung anzuwenden. Auf am 30. Juni 2010 anhängige Verfahren bleiben weiterhin die Vorschriften des Verwaltungsverfahrensgesetzes anwendbar. Dies gilt auch für zu diesem Zeitpunkt anhängige Rechtsbehelfe.
 
 (6) Die Änderungen des Artikels 2 Nummer 1 bis 3, 6 und 7, 11 bis 13 Buchstabe a und b des Gesetzes vom 24. Juni 2013 (BGBl. I S. 1667) sind erstmals am 1. Januar 2014 anzuwenden. Die Änderungen des Artikels 2 Nummer 9 und 10 des Gesetzes vom 24. Juni 2013 (BGBl. I S. 1667) sind erstmals am ersten Tag des 18. auf die Verkündung einer Verordnung im Sinne des § 6 Satz 1 folgenden Kalendermonats anzuwenden. § 7 Absatz 1 Satz 2 Nummer 9 und § 7c gelten nicht für Verträge, die vor dem in Satz 2 genannten Anwendungszeitpunkt abgeschlossen wurden.
+
+(7) Die erstmalige Öffnung des Zugangs nach § 5 Absatz 1 Satz 2 sowie der amtlich vorgeschriebene Datensatz und die Datenschnittstelle werden durch ein im Bundessteuerblatt veröffentlichtes Schreiben von der Zertifizierungsstelle bekannt gegeben. Abweichend von § 5 Absatz 1 Satz 5 entfällt der Vorbehalt des Widerrufs für alle bis 31. Dezember 2028 eingegangenen Anträge erst vier Jahre nach Ablauf des Kalenderjahres, in dem die Zertifizierungsstelle die Zertifizierungsnummer abgesandt hat.

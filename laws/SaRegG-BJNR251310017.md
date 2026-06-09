@@ -53,7 +53,7 @@ Die Entnahmeeinrichtung hat bei der Gewinnung von Samen zusätzlich zu den in Sa
 
 # § 3 – Pflichten der Entnahmeeinrichtung bei der Abgabe von Samen zur heterologen Verwendung für eine künstliche Befruchtung
 
-(1) Die Entnahmeeinrichtung darf Samen zur heterologen Verwendung nur an eine Einrichtung der medizinischen Versorgung im Sinne des § 1a Nummer 9 des Transplantationsgesetzes (Einrichtung der medizinischen Versorgung) und nur abgeben, wenn die Voraussetzung nach § 2 Absatz 1 Satz 2 erfüllt ist.
+(1) Die Entnahmeeinrichtung darf Samen zur heterologen Verwendung nur an eine Einrichtung der medizinischen Versorgung im Sinne des § 1a Nummer 13 des Transplantationsgesetzes (Einrichtung der medizinischen Versorgung) und nur abgeben, wenn die Voraussetzung nach § 2 Absatz 1 Satz 2 erfüllt ist.
 
 (2) Bei der Abgabe des Samens zur heterologen Verwendung für eine ärztlich unterstützte künstliche Befruchtung hat die Entnahmeeinrichtung der Einrichtung der medizinischen Versorgung die Spendenkennungssequenz oder die eindeutige Spendennummer zu übermitteln.
 
