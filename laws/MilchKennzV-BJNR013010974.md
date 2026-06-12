@@ -84,4 +84,4 @@ c) "höchstens ...% Fett" bei entrahmter Milch;.
 
 # § 5 – Außerkrafttreten
 
-Diese Verordnung tritt am 14. Juli 2026 außer Kraft.
+Diese Verordnung tritt am 14. Juni 2026 außer Kraft.

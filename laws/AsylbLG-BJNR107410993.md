@@ -7,9 +7,13 @@
 
 1. eine Aufenthaltsgestattung nach dem Asylgesetz besitzen,
 
-1a. ein Asylgesuch geäußert haben und nicht die in den Nummern 1, 2 bis 5 und 7 genannten Voraussetzungen erfüllen,
+1a. einen Asylantrag gestellt haben und nicht die in den Nummern 1, 2 bis 5 und 7 genannten Voraussetzungen erfüllen,
 
-2. über einen Flughafen einreisen wollen und denen die Einreise nicht oder noch nicht gestattet ist,
+1b. ein Schutzgesuch zur Erlangung einer Aufenthaltserlaubnis nach § 24 Absatz 1 des Aufenthaltsgesetzes geäußert haben und die weder eine Aufenthaltserlaubnis nach § 24 Absatz 1 des Aufenthaltsgesetzes noch eine entsprechende Fiktionsbescheinigung nach § 81 Absatz 5 in Verbindung mit Absatz 3 oder Absatz 4 des Aufenthaltsgesetzes besitzen,
+
+2. über einen Flughafen oder einen Hafen einreisen wollen und denen die Einreise noch nicht gestattet ist,
+
+2a. über einen Flughafen oder einen Hafen einreisen wollen und denen die Einreise nicht gestattet ist,
 
 3. eine Aufenthaltserlaubnis besitzen
 
@@ -25,7 +29,7 @@ c) nach § 25 Absatz 5 des Aufenthaltsgesetzes, sofern die Entscheidung über di
 
 6. Ehegatten, Lebenspartner oder minderjährige Kinder der in den Nummern 1 bis 5 genannten Personen sind, ohne daß sie selbst die dort genannten Voraussetzungen erfüllen,
 
-7. einen Folgeantrag nach § 71 des Asylgesetzes oder einen Zweitantrag nach § 71a des Asylgesetzes stellen oder
+7. einen Folgeantrag nach § 71 des Asylgesetzes stellen oder
 
 8. a) eine Aufenthaltserlaubnis nach § 24 Absatz 1 des Aufenthaltsgesetzes besitzen, die ihnen nach dem 24. Februar 2022 und vor dem 1. Juni 2022 erteilt wurde, oder
 
@@ -39,33 +43,33 @@ und bei denen weder eine erkennungsdienstliche Behandlung nach § 49 des Aufenth
 
 (3a) Sofern kein Fall des Absatzes 1 Nummer 8 vorliegt, sind Leistungen nach diesem Gesetz mit Ablauf des Monats ausgeschlossen, in dem Leistungsberechtigten, die gemäß § 49 des Aufenthaltsgesetzes erkennungsdienstlich behandelt worden sind und eine Aufenthaltserlaubnis nach § 24 Absatz 1 des Aufenthaltsgesetzes beantragt haben, eine entsprechende Fiktionsbescheinigung nach § 81 Absatz 5 in Verbindung mit Absatz 3 oder Absatz 4 des Aufenthaltsgesetzes ausgestellt worden ist. Der Ausschluss nach Satz 1 gilt bis zur Entscheidung der Ausländerbehörde über den Antrag auf Erteilung einer Aufenthaltserlaubnis nach § 24 Absatz 1 des Aufenthaltsgesetzes. Das Erfordernis einer erkennungsdienstlichen Behandlung in den Sätzen 1 und 2 gilt nicht, soweit eine erkennungsdienstliche Behandlung nach § 49 des Aufenthaltsgesetzes nicht vorgesehen ist.
 
-(4) Leistungsberechtigte nach Absatz 1 Nummer 5,
+(4) Leistungsberechtigte nach Absatz 1 Nummer 2a und 5,
 
 1. denen bereits von einem anderen Mitgliedstaat der Europäischen Union oder von einem am Verteilmechanismus teilnehmenden Drittstaat im Sinne von § 1a Absatz 4 Satz 1 internationaler Schutz gewährt worden ist, der fortbesteht, oder
 
-2. deren Asylantrag durch eine Entscheidung des Bundesamtes für Migration und Flüchtlinge nach § 29 Absatz 1 Nummer 1 in Verbindung mit § 31 Absatz 6 des Asylgesetzes als unzulässig abgelehnt wurde, für die eine Abschiebung nach § 34a Absatz 1 Satz 1 zweite Alternative des Asylgesetzes angeordnet wurde und somit durch das Bundesamt für Migration und Flüchtlinge auch die rechtliche und tatsächliche Möglichkeit der Ausreise bereits festgestellt wurde, auch wenn die Entscheidung noch nicht unanfechtbar ist,
+2. für die eine Überstellungsentscheidung nach Artikel 42 Absatz 1 der Verordnung (EU) 2024/1351 getroffen und eine Abschiebung nach § 34a Absatz 1 Satz 1 des Asylgesetzes angeordnet wurde und somit durch das Bundesamt für Migration und Flüchtlinge auch die rechtliche und tatsächliche Möglichkeit der Ausreise bereits festgestellt wurde, auch wenn die Entscheidung noch nicht unanfechtbar ist, es sei denn, ein Gericht hat die aufschiebende Wirkung der Klage angeordnet,
 
 haben keinen Anspruch auf Leistungen nach diesem Gesetz; in den Fällen der Nummer 2 wird vermutet, dass die freiwillige Ausreise rechtlich und tatsächlich möglich ist. Hilfebedürftigen Ausländern, die Satz 1 unterfallen, werden bis zur Ausreise, längstens jedoch für einen Zeitraum von zwei Wochen, einmalig innerhalb von zwei Jahren nur eingeschränkte Hilfen gewährt, um den Zeitraum bis zur Ausreise zu überbrücken (Überbrückungsleistungen); die Zweijahresfrist beginnt mit dem Erhalt der Überbrückungsleistungen nach Satz 2. Hierüber und über den Ausnahmecharakter von Härtefallleistungen nach Satz 6 sind die Leistungsberechtigten zu unterrichten. Die Überbrückungsleistungen umfassen die Leistungen nach § 1a Absatz 1 und nach § 4 Absatz 1 Satz 1 und Absatz 2. Sie sollen als Sachleistung erbracht werden; die Gewährung von Geldleistungen ist ausgeschlossen. Soweit dies im Einzelfall besondere Umstände erfordern, werden Leistungsberechtigten nach Satz 2 zur Überwindung einer besonderen Härte andere Leistungen nach den § 3 Absatz 1 Satz 1 und § 4 oder zur Deckung besonderer Bedürfnisse von Kindern gewährt; ebenso sind Leistungen über einen Zeitraum von zwei Wochen hinaus zu erbringen, soweit dies im Einzelfall auf Grund besonderer Umstände zur Überwindung einer besonderen Härte und zur Deckung einer zeitlich befristeten Bedarfslage geboten ist. Neben den Überbrückungsleistungen werden auf Antrag auch die angemessenen Kosten der Rückreise übernommen. Satz 7 gilt entsprechend, soweit die Personen allein durch die angemessenen Kosten der Rückreise die in Satz 4 genannten Bedarfe nicht aus eigenen Mitteln oder mit Hilfe Dritter decken können. Die Leistung ist als Darlehen zu erbringen.
 
 # § 1a – Anspruchseinschränkung
 
-(1) Leistungsberechtigte nach § 1 Absatz 1 Nummer 5, für die ein Ausreisetermin und eine Ausreisemöglichkeit feststehen, haben ab dem auf den Ausreisetermin folgenden Tag keinen Anspruch auf Leistungen nach den §§ 2, 3 und 6, es sei denn, die Ausreise konnte aus Gründen, die sie nicht zu vertreten haben, nicht durchgeführt werden. Ihnen werden bis zu ihrer Ausreise oder der Durchführung ihrer Abschiebung nur noch Leistungen zur Deckung ihres Bedarfs an Ernährung und Unterkunft einschließlich Heizung sowie Körper- und Gesundheitspflege gewährt. Nur soweit im Einzelfall besondere Umstände vorliegen, können ihnen auch andere Leistungen im Sinne von § 3 Absatz 1 Satz 1 gewährt werden. Die Leistungen sollen als Sachleistungen erbracht werden.
+(1) Leistungsberechtigte nach § 1 Absatz 1 Nummer 2a und 5, für die ein Ausreisetermin und eine Ausreisemöglichkeit feststehen, haben ab dem auf den Ausreisetermin folgenden Tag keinen Anspruch auf Leistungen nach den §§ 2, 3 und 6, es sei denn, die Ausreise konnte aus Gründen, die sie nicht zu vertreten haben, nicht durchgeführt werden. Ihnen werden bis zu ihrer Ausreise oder der Durchführung ihrer Abschiebung nur noch Leistungen zur Deckung ihres Bedarfs an Ernährung und Unterkunft einschließlich Heizung sowie Körper- und Gesundheitspflege gewährt. Nur soweit im Einzelfall besondere Umstände vorliegen, können ihnen auch andere Leistungen im Sinne von § 3 Absatz 1 Satz 1 gewährt werden. Die Leistungen sollen als Sachleistungen erbracht werden.
 
-(2) Leistungsberechtigte nach § 1 Absatz 1 Nummer 4 und 5 und Leistungsberechtigte nach § 1 Absatz 1 Nummer 6, soweit es sich um Familienangehörige der in § 1 Absatz 1 Nummer 4 und 5 genannten Personen handelt, die sich in den Geltungsbereich dieses Gesetzes begeben haben, um Leistungen nach diesem Gesetz zu erlangen, erhalten nur Leistungen entsprechend Absatz 1.
+(2) Leistungsberechtigte nach § 1 Absatz 1 Nummer 2a, 4 und 5 und Leistungsberechtigte nach § 1 Absatz 1 Nummer 6, soweit es sich um Familienangehörige der in § 1 Absatz 1 Nummer 2a, 4 und 5 genannten Personen handelt, die sich in den Geltungsbereich dieses Gesetzes begeben haben, um Leistungen nach diesem Gesetz zu erlangen, erhalten nur Leistungen entsprechend Absatz 1.
 
-(3) Leistungsberechtigte nach § 1 Absatz 1 Nummer 4 und 5, bei denen aus von ihnen selbst zu vertretenden Gründen aufenthaltsbeendende Maßnahmen nicht vollzogen werden können, erhalten ab dem auf die Vollziehbarkeit einer Abschiebungsandrohung oder Vollziehbarkeit einer Abschiebungsanordnung folgenden Tag nur Leistungen entsprechend Absatz 1. Können bei nach § 1 Absatz 1 Nummer 6 leistungsberechtigten Ehegatten, Lebenspartnern oder minderjährigen Kindern von Leistungsberechtigten nach § 1 Absatz 1 Nummer 4 oder 5 aus von ihnen selbst zu vertretenden Gründen aufenthaltsbeendende Maßnahmen nicht vollzogen werden, so gilt Satz 1 entsprechend.
+(3) Leistungsberechtigte nach § 1 Absatz 1 Nummer 2a, 4 und 5, bei denen aus von ihnen selbst zu vertretenden Gründen aufenthaltsbeendende Maßnahmen nicht vollzogen werden können, erhalten ab dem auf die Vollziehbarkeit einer Einreiseverweigerung, die Vollziehbarkeit einer Abschiebungsandrohung oder Vollziehbarkeit einer Abschiebungsanordnung folgenden Tag nur Leistungen entsprechend Absatz 1. Können bei nach § 1 Absatz 1 Nummer 6 leistungsberechtigten Ehegatten, Lebenspartnern oder minderjährigen Kindern von Leistungsberechtigten nach § 1 Absatz 1 Nummer 4 oder 5 aus von ihnen selbst zu vertretenden Gründen aufenthaltsbeendende Maßnahmen nicht vollzogen werden, so gilt Satz 1 entsprechend.
 
-(4) Leistungsberechtigte nach § 1 Absatz 1 Nummer 1, 1a oder 5, für die in Abweichung von der Regelzuständigkeit nach der Verordnung (EU) Nr. 604/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines von einem Drittstaatsangehörigen oder Staatenlosen in einem Mitgliedstaat gestellten Antrags auf internationalen Schutz zuständig ist (ABl. L 180 vom 29.6.2013, S. 31) nach einer Verteilung durch die Europäische Union ein anderer Mitgliedstaat oder ein am Verteilmechanismus teilnehmender Drittstaat, der die Verordnung (EU) Nr. 604/2013 anwendet, zuständig ist, erhalten ebenfalls nur Leistungen entsprechend Absatz 1. Satz 1 gilt entsprechend für Leistungsberechtigte nach § 1 Absatz 1 Nummer 1 oder 1a, denen bereits von einem anderen Mitgliedstaat der Europäischen Union oder von einem am Verteilmechanismus teilnehmenden Drittstaat im Sinne von Satz 1
+(4) Leistungsberechtigte nach § 1 Absatz 1 Nummer 1, 1a, 2 oder 5, für die in Abweichung von der Regelzuständigkeit nach der Verordnung (EU) 2024/1351 nach einer Verteilung durch die Europäische Union ein anderer Mitgliedstaat oder ein am Verteilmechanismus teilnehmender Drittstaat, der die Verordnung (EU) 2024/1351 anwendet, zuständig ist, erhalten ebenfalls nur Leistungen entsprechend Absatz 1. Satz 1 gilt entsprechend für Leistungsberechtigte nach § 1 Absatz 1 Nummer 1, 1a und 2, denen bereits von einem anderen Mitgliedstaat der Europäischen Union oder von einem am Verteilmechanismus teilnehmenden Drittstaat im Sinne von Satz 1
 
 1. internationaler Schutz oder
 
 2. aus anderen Gründen ein Aufenthaltsrecht gewährt worden ist,
 
-wenn der internationale Schutz oder das aus anderen Gründen gewährte Aufenthaltsrecht fortbesteht. Satz 2 Nummer 2 gilt für Leistungsberechtigte nach § 1 Absatz 1 Nummer 5 entsprechend.
+wenn der internationale Schutz oder das aus anderen Gründen gewährte Aufenthaltsrecht fortbesteht. Satz 2 Nummer 2 gilt für Leistungsberechtigte nach § 1 Absatz 1 Nummer 2a und 5 entsprechend.
 
-(5) Leistungsberechtigte nach § 1 Absatz 1 Nummer 1, 1a oder 7 erhalten nur Leistungen entsprechend Absatz 1, wenn
+(5) Leistungsberechtigte nach § 1 Absatz 1 Nummer 1, 1a, 2 oder 7 erhalten nur Leistungen entsprechend Absatz 1, wenn
 
-1. sie ihrer Pflicht nach § 13 Absatz 3 Satz 3 des Asylgesetzes nicht nachkommen,
+1. sie ihrer Pflicht nach Artikel 28 Absatz 1 der Verordnung (EU) 2024/1348 nicht nachkommen,
 
 2. sie ihrer Mitwirkungspflicht nach § 15 Absatz 2 Nummer 4 des Asylgesetzes nicht nachkommen,
 
@@ -90,6 +94,10 @@ es sei denn, sie haben die Verletzung der Mitwirkungspflichten oder die Nichtwah
 und deshalb zu Unrecht Leistungen nach diesem Gesetz beziehen, haben nur Anspruch auf Leistungen entsprechend Absatz 1.
 
 (7) Soweit hinreichend begründet und verhältnismäßig, erhalten Leistungsberechtigte nach § 1 Absatz 1 für die Dauer von höchstens einem Monat ebenso nur Leistungen entsprechend Absatz 1, wenn sie durch ihr Verhalten die Ordnung in der Aufnahmeeinrichtung im Sinne des § 44 des Asylgesetzes oder der Gemeinschaftsunterkunft im Sinne des § 53 des Asylgesetzes schwerwiegend beeinträchtigt oder in diesen Einrichtungen Personen bedroht oder sich gewalttätig verhalten haben. Die Verstöße nach Satz 1 werden der für die Leistungsgewährung zuständigen Behörde von der Leitung der Unterkunft schriftlich oder elektronisch mitgeteilt. Bei der Bemessung der Einschränkungsdauer werden Art und Umfang des Verstoßes und die konkreten Umstände, unter denen dieser Verstoß begangen wurde, berücksichtigt.
+
+(8) Leistungsberechtigte nach § 1 Absatz 1 Nummer 1, 1a, 2, 2a oder 4 bis 7, die ihren Pflichten gemäß einer Anordnung nach § 68 Absatz 1 Satz 1 oder Absatz 6 Satz 1 oder § 68a Absatz 1 Satz 1 oder Absatz 3 Satz 1 des Asylgesetzes nicht nachkommen, erhalten nur Leistungen entsprechend Absatz 1. Die Anspruchseinschränkung nach Satz 1 endet, sobald die Leistungsberechtigten ihre Pflichten gemäß der Anordnung nach § 68 Absatz 1 Satz 1 oder Absatz 6 Satz 1 oder § 68a Absatz 1 Satz 1 oder Absatz 3 Satz 1 des Asylgesetzes erfüllen.
+
+(9) Leistungsberechtigte nach § 1 Absatz 1 Nummer 2a und 5, denen eine Überstellungsentscheidung im Sinne des Artikels 67 Absatz 10 der Verordnung (EU) 2024/1351 zugestellt wurde und für die eine Abschiebung nach § 34a Absatz 1 Satz 1 des Asylgesetzes angeordnet wurde, erhalten nur Leistungen entsprechend Absatz 1, auch wenn die Entscheidung noch nicht unanfechtbar ist. Satz 1 gilt nicht, sofern ein Gericht die aufschiebende Wirkung der Klage angeordnet hat.
 
 # § 2 – Leistungen in besonderen Fällen
 
@@ -193,6 +201,8 @@ Die Beträge nach den Absätzen 1 und 2 ergeben sich für die Zeit ab 1.1.2026 a
 (2) Werdenden Müttern und Wöchnerinnen sind ärztliche und pflegerische Hilfe und Betreuung, Hebammenhilfe, Arznei-, Verband- und Heilmittel zu gewähren.
 
 (3) Die zuständige Behörde stellt die Versorgung mit den Leistungen nach den Absätzen 1 und 2 sicher. Sie stellt auch sicher, dass den Leistungsberechtigten frühzeitig eine Vervollständigung ihres Impfschutzes angeboten wird. Soweit die Leistungen durch niedergelassene Ärzte oder Zahnärzte erfolgen, richtet sich die Vergütung nach den am Ort der Niederlassung des Arztes oder Zahnarztes geltenden Verträgen nach § 72 Absatz 2 und § 132e Absatz 1 des Fünften Buches Sozialgesetzbuch. Die zuständige Behörde bestimmt, welcher Vertrag Anwendung findet.
+
+(4) Abweichend von den Absätzen 1 bis 3 sind die §§ 47 bis 52 des Zwölften Buches Sozialgesetzbuch auf minderjährige Leistungsberechtigte entsprechend anzuwenden. Zuzahlungen und Eigenbeteiligungen sind von der zuständigen Leistungsbehörde zu übernehmen. Auf Grundlage von Satz 1 begonnene medizinische Behandlungen sind bei Eintritt der Volljährigkeit der Leistungsberechtigten ohne Unterbrechung oder Verzögerung weiter zu gewähren. Satz 3 gilt entsprechend für Personen, die vor Eintritt der Volljährigkeit Leistungen auf Grundlage des § 40 des Achten Buches Sozialgesetzbuch erhalten haben.
 
 # § 5 – Arbeitsgelegenheiten
 
@@ -336,7 +346,7 @@ Die Landesregierungen oder die von ihnen beauftragten obersten Landesbehörden b
 
 (1) Im Rahmen von Leistungen nach diesem Gesetz ist auf die Leistungen bestehender Rückführungs- und Weiterwanderungsprogramme, die Leistungsberechtigten gewährt werden können, hinzuweisen; in geeigneten Fällen ist auf eine Inanspruchnahme solcher Programme hinzuwirken.
 
-(2) Leistungsberechtigten darf in den Teilen der Bundesrepublik Deutschland, in denen sie sich einer asyl- oder ausländerrechtlichen räumlichen Beschränkung zuwider aufhalten, von der für den tatsächlichen Aufenthaltsort zuständigen Behörde regelmäßig nur eine Reisebeihilfe zur Deckung des unabweisbaren Bedarfs für die Reise zu ihrem rechtmäßigen Aufenthaltsort gewährt werden. Leistungsberechtigten darf in den Teilen der Bundesrepublik Deutschland, in denen sie entgegen einer Wohnsitzauflage ihren gewöhnlichen Aufenthalt nehmen, von der für den tatsächlichen Aufenthaltsort zuständigen Behörde regelmäßig nur eine Reisebeihilfe zur Deckung des unabweisbaren Bedarfs für die Reise zu dem Ort gewährt werden, an dem sie entsprechend der Wohnsitzauflage ihren gewöhnlichen Aufenthalt zu nehmen haben. Die Leistungen nach den Sätzen 1 und 2 können als Sach- oder Geldleistung oder mittels Bezahlkarte erbracht werden.
+(2) Leistungsberechtigten darf in den Teilen der Bundesrepublik Deutschland, in denen sie sich einer asyl- oder ausländerrechtlichen räumlichen Beschränkung oder einer Verpflichtung nach § 68 Absatz 1 Satz 1 oder § 68a Absatz 1 Satz 1 des Asylgesetzes zuwider aufhalten, von der für den tatsächlichen Aufenthaltsort zuständigen Behörde regelmäßig nur eine Reisebeihilfe zur Deckung des unabweisbaren Bedarfs für die Reise zu ihrem rechtmäßigen Aufenthaltsort gewährt werden. Leistungsberechtigten darf in den Teilen der Bundesrepublik Deutschland, in denen sie entgegen einer Wohnsitzauflage ihren gewöhnlichen Aufenthalt nehmen, von der für den tatsächlichen Aufenthaltsort zuständigen Behörde regelmäßig nur eine Reisebeihilfe zur Deckung des unabweisbaren Bedarfs für die Reise zu dem Ort gewährt werden, an dem sie entsprechend der Wohnsitzauflage ihren gewöhnlichen Aufenthalt zu nehmen haben. Die Leistungen nach den Sätzen 1 und 2 können als Sach- oder Geldleistung oder mittels Bezahlkarte erbracht werden.
 
 (2a) Leistungsberechtigte nach § 1 Absatz 1 Nummer 1a erhalten bis zur Ausstellung eines Ankunftsnachweises nach § 63a des Asylgesetzes nur Leistungen entsprechend § 1a Absatz 1. An die Stelle der Leistungen nach Satz 1 treten die Leistungen nach den §§ 3 bis 6, auch wenn dem Leistungsberechtigten ein Ankunftsnachweis nach § 63a Absatz 1 Satz 1 des Asylgesetzes noch nicht ausgestellt wurde, sofern
 
@@ -350,7 +360,7 @@ Der Leistungsberechtigte hat die fehlende Ausstellung des Ankunftsnachweises ins
 
 1. für Leistungsberechtigte nach § 1 Absatz 1 Nummer 5, die aus einem sicheren Drittstaat (§ 26a des Asylgesetzes) unerlaubt eingereist sind und als Asylsuchende nach den Vorschriften des Asylgesetzes oder des Aufenthaltsgesetzes erkennungsdienstlich zu behandeln sind, und
 
-2. für Leistungsberechtigte nach § 1 Absatz 1 Nummer 7, die einer Wohnverpflichtung nach § 71 Absatz 2 Satz 2 oder § 71a Absatz 2 Satz 1 des Asylgesetzes in Verbindung mit den §§ 47 bis 50 des Asylgesetzes unterliegen.
+2. für Leistungsberechtigte nach § 1 Absatz 1 Nummer 7, die einer Wohnverpflichtung nach § 71 Absatz 1 Satz 3 des Asylgesetzes in Verbindung mit den §§ 47 bis 50 des Asylgesetzes unterliegen.
 
 (3) Die zuständige Behörde überprüft die Personen, die Leistungen nach diesem Gesetz beziehen, auf Übereinstimmung der ihr vorliegenden Daten mit den der Ausländerbehörde über diese Personen vorliegenden Daten. Sie darf für die Überprüfung nach Satz 1 Name, Vorname (Rufname), Geburtsdatum, Geburtsort, Staatsangehörigkeiten, Geschlecht, Familienstand, Anschrift, Aufenthaltsstatus und Aufenthaltszeiten dieser Personen sowie die für diese Personen eingegangenen Verpflichtungen nach § 68 des Aufenthaltsgesetzes der zuständigen Ausländerbehörde übermitteln. Die Ausländerbehörde führt den Abgleich mit den nach Satz 2 übermittelten Daten durch und übermittelt der zuständigen Behörde die Ergebnisse des Abgleichs. Die Ausländerbehörde übermittelt der zuständigen Behörde ferner Änderungen der in Satz 2 genannten Daten. Die Überprüfungen können auch regelmäßig im Wege des automatisierten Datenabgleichs durchgeführt werden.
 

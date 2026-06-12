@@ -369,6 +369,10 @@ In der Visadatei des Registers ist der Datensatz eines Ausländers spätestens n
 
 Angaben zu den mit dem Gesetz zur Umsetzung aufenthaltsrechtlicher Richtlinien der Europäischen Union und zur Anpassung nationaler Rechtsvorschriften an den EU-Visakodex neu geschaffenen Speichersachverhalten werden übermittelt, sobald hierfür die informationstechnischen Voraussetzungen geschaffen worden sind, spätestens jedoch sechs Monate nach Inkrafttreten dieses Gesetzes. Soweit bis dahin diese Daten nicht übermittelt worden sind, ist die zuständige Stelle verpflichtet, ihre Übermittlung unverzüglich nachzuholen.
 
+# § 22 – Übergangsregelung aus Anlass der Anwendbarkeit der Verordnung (EU) 2024/1347
+
+Angaben zu Asylverfahren, die vor der Anwendbarkeit der Verordnung (EU) 2024/1347 zum 12. Juni 2026 gemäß § 3 Absatz 4 und § 4 Absatz 1 des Asylgesetzes in der bis zum 11. Juni 2026 geltenden Fassung eingeleitet wurden, werden so lange nach Nummer 8 (Teil I) und 8 (Teil II) der Anlage in der Fassung bis zum 11. Juni 2026 erfasst, bis sämtliche Asylverfahren gemäß § 3 Absatz 4 und § 4 Absatz 1 des Asylgesetzes in der bis zum 11. Juni 2026 geltenden Fassung unanfechtbar abgeschlossen wurden.
+
 # Schlußformel
 
 Der Bundesrat hat zugestimmt.

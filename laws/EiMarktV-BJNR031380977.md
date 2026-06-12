@@ -19,7 +19,7 @@ Die Vorschriften dieser Verordnung gelten für die Durchführung der Rechtsakte 
 
 3. in der ersten Packstelle, an die die Eier geliefert werden, sofern eine Kennzeichnung aus technischen Gründen vorübergehend nicht möglich ist.
 
-Eine Kennzeichnung nach Satz 1 hat unverzüglich nach der Anlieferung in der Packstelle zu erfolgen. Eine Kennzeichnung nach Satz 1 ist der zuständigen Behörde vorab anzuzeigen, im Fall des Satzes 1 Nummer 1 und 2 jedoch nur vor der erstmaligen Kennzeichnung in der jeweiligen Packstelle.
+Eine Kennzeichnung nach Satz 1 hat unverzüglich nach der Anlieferung in der Packstelle zu erfolgen. Eine Kennzeichnung nach Satz 1 ist der zuständigen Behörde vorab anzuzeigen, im Fall des Satzes 1 Nummer 1 und 2 jedoch nur vor der erstmaligen Kennzeichnung in der jeweiligen Packstelle. Die zuständige Behörde kann für Anzeigen nach Satz 3 Muster im Bundesanzeiger bekannt geben; sofern Muster bekannt gegeben sind, sind diese zu verwenden.
 
 # § 1b – Verbot des Inverkehrbringens
 
@@ -31,7 +31,7 @@ Eine Kennzeichnung nach Satz 1 hat unverzüglich nach der Anlieferung in der Pac
 
 3. Anhang VII Teil VI Abschnitt III Nummer 1 Unterabsatz 1 oder Unterabsatz 2, Nummer 2 oder Nummer 3 Unterabsatz 1 der Verordnung (EU) Nr. 1308/2013 Eier zum Verkauf vorrätig zu halten, anzubieten, feilzuhalten, zu liefern, zu verkaufen oder sonst in den Verkehr zu bringen, die den dort genannten Anforderungen an Angaben oder Kennzeichnung nicht entsprechen, oder
 
-4. Anhang VII Teil VI Abschnitt III Nummer 2 der Verordnung (EU) Nr. 1308/2013 Eier an einem anderen Ort als der Produktionsstätte zu kennzeichnen, ohne dass die Voraussetzungen des § 1a Absatz 3 erfüllt sind.
+4. Anhang VII Teil VI Abschnitt III Nummer 2a der Verordnung (EU) Nr. 1308/2013 Eier an einem anderen Ort als der Produktionsstätte zu kennzeichnen, ohne dass die Voraussetzungen des § 1a Absatz 3 erfüllt sind.
 
 (2) Es ist verboten,
 
@@ -47,7 +47,11 @@ Eine Kennzeichnung nach Satz 1 hat unverzüglich nach der Anlieferung in der Pac
 
 6. Eier zum Verkauf vorrätig zu halten, anzubieten, feilzuhalten, zu liefern, zu verkaufen oder sonst in den Verkehr zu bringen, die den in Artikel 16 der Delegierten Verordnung (EU) 2023/2465 enthaltenen Anforderungen an eine Angabe, eine Banderole oder ein Etikett nicht entsprechen,
 
-7. Eier zum Verkauf vorrätig zu halten, anzubieten, feilzuhalten, zu liefern, zu verkaufen oder sonst in den Verkehr zu bringen, die den in Artikel 22 Absatz 3 oder 4 der Delegierten Verordnung (EU) 2023/2465 genannten Anforderungen an Angaben oder Kennzeichnungen nicht entsprechen.
+7. umgepackte Eier zum Verkauf vorrätig zu halten, anzubieten, feilzuhalten, zu liefern, zu verkaufen oder sonst in den Verkehr zu bringen, die nicht durch eine Packstelle entsprechend Artikel 17 Satz 1 der Delegierten Verordnung (EU) 2023/2465 umgepackt wurden,
+
+8. umgepackte Eier zum Verkauf vorrätig zu halten, anzubieten, feilzuhalten, zu liefern, zu verkaufen oder sonst in den Verkehr zu bringen, die nicht partieweise entsprechend Artikel 17 Satz 2 der Delegierten Verordnung (EU) 2023/2465 umgepackt wurden,
+
+9. Eier zum Verkauf vorrätig zu halten, anzubieten, feilzuhalten, zu liefern, zu verkaufen oder sonst in den Verkehr zu bringen, die den in Artikel 22 Absatz 3 oder 4 der Delegierten Verordnung (EU) 2023/2465 genannten Anforderungen an Angaben oder Kennzeichnungen nicht entsprechen.
 
 # § 2 – Rechnungen, Lieferscheine und sonstige Transportbegleitpapiere
 
@@ -91,7 +95,7 @@ Börsen, Verwaltungen öffentlicher Märkte und sonstige Stellen, die amtliche o
 
 Die zuständige Landesbehörde kann für Anträge nach den Absätzen 1 bis 3 Muster im Bundesanzeiger bekannt geben; sofern Muster bekannt gegeben sind, sind diese zu verwenden.
 
-# § 6 – Überwachung durch die Bundesanstalt für Landwirtschaft und Ernährung, Ein- und Ausfuhr von Eiern
+# § 6 – Überwachung durch die Bundesanstalt für Landwirtschaft und Ernährung, Ein- und Ausfuhr von Eiern, Zuständigkeit für Kommunikation
 
 (1) Die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt) ist zuständig für die Überwachung der Einhaltung der Vorschriften der in § 1 genannten Rechtsakte und dieser Verordnung
 
@@ -119,6 +123,26 @@ Die Zollbehörde darf Anmeldungen zur Überführung in den zollrechtlich freien 
 
 (3) Die Bundesanstalt leitet eine Durchschrift der Anzeige unverzüglich an die zuständigen Behörden der Länder weiter.
 
+(4) Die Bundesanstalt ist zuständig für die Erfüllung der folgenden Aufgaben:
+
+1. die Unterrichtung der nach Landesrecht zuständigen Behörde über eine Ausnahme nach Artikel 10 Absatz 1 Satz 1 der Delegierten Verordnung (EU) 2023/2465, die durch einen anderen Mitgliedstaat der Europäischen Union gewährt worden ist,
+
+2. die Unterrichtung der zuständigen Behörde eines anderen Mitgliedstaates der Europäischen Union über eine Ausnahme nach Artikel 10 Absatz 1 Satz 1 der Delegierten Verordnung (EU) 2023/2465, die durch eine Behörde eines Landes gewährt worden ist,
+
+3. die Richtung eines Amtshilfeersuchens nach Artikel 104 Absatz 1 Satz 1 der Verordnung (EU) 2017/625 an die zuständige Behörde eines anderen Mitgliedstaates der Europäischen Union auf Verlangen einer nach Landesrecht zuständigen Behörde,
+
+4. die Kenntnisgabe eines Amtshilfeersuchens nach Artikel 104 Absatz 1 Satz 1 der Verordnung (EU) 2017/625 einer Behörde eines anderen Mitgliedstaates an die nach Landesrecht zuständige Behörde,
+
+5. die Meldung von durch die zuständigen Behörden der Länder gemeldeten Verstößen und hinreichenden Verdachtsfällen nach Artikel 11 der Durchführungsverordnung (EU) 2023/2466 an die Europäische Kommission.
+
+(5) Die Länder haben der Bundesanstalt, soweit diese gemäß Absatz 4 zuständig ist, Folgendes mitzuteilen:
+
+1. die Kontrolldienste nach Artikel 9 Absatz 1 der Durchführungsverordnung (EU) 2023/2466,
+
+2. die Gewährung einer Ausnahme nach Artikel 10 Absatz 1 Satz 1 der Delegierten Verordnung (EU) 2023/2465 vor Beginn der ersten Lieferung,
+
+3. Verstöße und hinreichende Verdachtsfälle im Sinne des Artikels 11 Satz 1 der Durchführungsverordnung (EU) 2023/2466; die Mitteilung hat unverzüglich zu erfolgen.
+
 # § 6a – Anordnungen der zuständigen Behörden
 
 (1) Die zuständige Behörde kann im Fall von Verstößen gegen Vermarktungsnormen die notwendigen Anordnungen zu deren Beseitigung und zur Verhütung künftiger Verstöße treffen. Sie kann dabei anordnen, dass die betreffende Partie bis zum Nachweis der Verkehrsfähigkeit nicht vermarktet werden darf.
@@ -127,7 +151,7 @@ Die Zollbehörde darf Anmeldungen zur Überführung in den zollrechtlich freien 
 
 # § 6b – Datenverarbeitung und Datenübermittlung
 
-Zum Zweck der Durchführung von Kontrollen verarbeitet und übermittelt die zuständige Behörde die Daten nach Abschnitt III der Anlage des Marktorganisationsgesetzes.
+Zum Zweck der Durchführung und Überwachung der Einhaltung der Vermarktungsnormen verarbeitet die zuständige Behörde Daten nach der Anlage des Marktorganisationsgesetzes. Die nach Satz 1 verarbeiteten Daten werden durch die zuständigen Behörden der Länder an die Bundesanstalt übermittelt, soweit dies für die Erfüllung der gesetzlichen Aufgaben dieser Stellen erforderlich ist. Die Bundesanstalt übermittelt die nach Satz 1 verarbeiteten Daten an die zuständigen Behörden der Länder und anderer Mitgliedstaaten sowie an die Europäische Kommission, soweit dies für die Erfüllung der gesetzlichen Aufgaben dieser Stellen erforderlich ist.
 
 # § 7 – Ordnungswidrigkeiten
 
@@ -135,13 +159,15 @@ Zum Zweck der Durchführung von Kontrollen verarbeitet und übermittelt die zust
 
 1. entgegen § 1b Eier zum Verkauf vorrätig hält, anbietet, feilhält, liefert, verkauft oder sonst in den Verkehr bringt,
 
-2. entgegen § 6 Absatz 2 Satz 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht oder
+2. entgegen § 2 eine Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
-3. einer vollziehbaren Anordnung nach § 6a Absatz 1 Satz 2 zuwiderhandelt.
+3. entgegen § 6 Absatz 2 Satz 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht oder
+
+4. einer vollziehbaren Anordnung nach § 6a Absatz 1 Satz 2 zuwiderhandelt.
 
 (2) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten und
 
-1. im Sinne des § 38 Absatz 3 Satz 3 Nummer 2 des Marktorganisationsgesetzes ist in den Fällen des Absatzes 1 Nummer 2 die Bundesanstalt für Landwirtschaft und Ernährung, soweit sie nach § 6 Absatz 1 Satz 1 für die Überwachung zuständig ist,
+1. im Sinne des § 38 Absatz 3 Satz 3 Nummer 2 des Marktorganisationsgesetzes ist in den Fällen des Absatzes 1 Nummer 3 die Bundesanstalt für Landwirtschaft und Ernährung, soweit sie nach § 6 Absatz 1 Satz 1 für die Überwachung zuständig ist,
 
 2. im Sinne des § 38 Absatz 3 Satz 3 Nummer 1 des Marktorganisationsgesetzes ist in den übrigen Fällen des Absatzes 1 die zuständige oberste Landesbehörde.
 

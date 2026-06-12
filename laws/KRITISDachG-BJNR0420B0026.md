@@ -327,7 +327,9 @@ c) hybride Bedrohungen, sicherheitsgefährdende oder andere feindliche Bedrohung
 
 2. alle wesentlichen Risiken für wirtschaftliche Tätigkeiten im Binnenmarkt und die Bevölkerung, die sich aus dem Ausmaß der Abhängigkeit zwischen den Sektoren ergeben und die Handlungsfähigkeit der Wirtschaft bedrohen, einschließlich
 
-a) dem Ausmaß der Abhängigkeit von in anderen Mitgliedstaaten der Europäischen Union und Drittstaaten ansässigen kritischen Einrichtungen im Sinne des Artikels 2 Nummer 1 der Richtlinie (EU) 2022/2057 sowie,
+a) dem Ausmaß der Abhängigkeit von in anderen Mitgliedstaaten der Europäischen Union und Drittstaaten ansässigen kritischen Einrichtungen im Sinne des Artikels 2 Nummer 1 der
+
+Richtlinie (EU) 2022/2557 sowie,
 
 b) soweit bekannt, den Auswirkungen, die eine in einem Sektor auftretende erhebliche Störung auf andere Sektoren haben kann,
 
@@ -358,6 +360,8 @@ d) der Richtlinie 2012/18/EU und
 (7) Die Klimarisikoanalyse nach § 4 Absatz 1 Satz 1 des Bundes-Klimaanpassungsgesetzes vom 20. Dezember 2023 (BGBl. 2023 I Nr. 393) bleibt von den Regelungen dieses Paragraphen unberührt.
 
 (8) Das Bundesministerium des Innern wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, methodische und inhaltliche Vorgaben für die Risikoanalysen und Risikobewertungen der nach Absatz 1 Satz 1 und 2 zuständigen Stellen zu bestimmen. § 4 Absatz 4 und 5 gilt entsprechend.
+
+§ 11 Abs. 2 Nr. 2 Buchst a Kursivdruck: Auf Grund offensichtlicher Unrichtigkeit wird die Angabe "Richtlinie (EU) 2022/2057" durch die Angabe "Richtlinie (EU) 2022/2557" ersetzt.
 
 # § 12 – Risikoanalyse und Risikobewertung des Betreibers kritischer Anlagen; Verordnungsermächtigung
 

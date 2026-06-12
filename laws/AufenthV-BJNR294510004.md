@@ -1783,12 +1783,12 @@ noch nicht 24 Jahre alt ist, beträgt die Gebühr jeweils die Höhe, die für di
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">1c.</td>
-<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">für die Ausstellung eines Reiseausweises für Flüchtlinge, eines Reiseausweises für Staatenlose (§ 4 Absatz 1 Satz 1 Nummer 3 und 4) oder eines Reiseausweises für Ausländer (§ 4 Absatz 1 Satz 1 Nummer 1), die subsidiär Schutzberechtigte im Sinne des § 4 Absatz 1 des Asylgesetzes oder Resettlement-Flüchtlinge im Sinne von § 23 Absatz 4 Satz 1 des Aufenthaltsgesetzes sind,</td>
+<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">für die Ausstellung eines Reiseausweises für Flüchtlinge, eines Reiseausweises für Staatenlose (§ 4 Absatz 1 Satz 1 Nummer 3 und 4) oder eines Reiseausweises für Ausländer (§ 4 Absatz 1 Satz 1 Nummer 1), die subsidiär Schutzberechtigte im Sinne des Artikels 3 Nummer 2 der Verordnung (EU) 2024/1347 oder Resettlement-Flüchtlinge im Sinne von § 23 Absatz 4 Satz 1 des Aufenthaltsgesetzes sind,</td>
 <td style="text-align: right;" data-valign="bottom" data-charoff="50">70 Euro,</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">1d.</td>
-<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">für die Ausstellung eines Reiseausweises für Flüchtlinge, eines Reiseausweises für Staatenlose (§ 4 Absatz 1 Satz 1 Nummer 3 und 4) oder eines Reiseausweises für Ausländer (§ 4 Absatz 1 Satz 1 Nummer 1), die subsidiär Schutzberechtigte im Sinne des § 4 Absatz 1 des Asylgesetzes oder Resettlement-Flüchtlinge im Sinne von § 23 Absatz 4 Satz 1 des Aufenthaltsgesetzes sind, bis zum vollendeten 24. Lebensjahr</td>
+<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">für die Ausstellung eines Reiseausweises für Flüchtlinge, eines Reiseausweises für Staatenlose (§ 4 Absatz 1 Satz 1 Nummer 3 und 4) oder eines Reiseausweises für Ausländer (§ 4 Absatz 1 Satz 1 Nummer 1), die subsidiär Schutzberechtigte im Sinne des Artikels 3 Nummer 2 der Verordnung (EU) 2024/1347 oder Resettlement-Flüchtlinge im Sinne von § 23 Absatz 4 Satz 1 des Aufenthaltsgesetzes sind, bis zum vollendeten 24. Lebensjahr</td>
 <td style="text-align: right;" data-valign="bottom" data-charoff="50">38 Euro,</td>
 </tr>
 <tr class="odd">
@@ -1798,12 +1798,12 @@ noch nicht 24 Jahre alt ist, beträgt die Gebühr jeweils die Höhe, die für di
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">1f.</td>
-<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">für die Ausstellung eines vorläufigen Reiseausweises für Flüchtlinge, eines vorläufigen Reiseausweises für Staatenlose (§ 4 Absatz 1 Satz 1 Nummer 3 und 4) oder eines Reiseausweises für Ausländer (§ 4 Absatz 1 Satz 1 Nummer 1), die subsidiär Schutzberechtigte im Sinne des § 4 Absatz 1 des Asylgesetzes oder Resettlement-Flüchtlinge im Sinne von § 23 Absatz 4 Satz 1 des Aufenthaltsgesetzes sind,</td>
+<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">für die Ausstellung eines vorläufigen Reiseausweises für Flüchtlinge, eines vorläufigen Reiseausweises für Staatenlose (§ 4 Absatz 1 Satz 1 Nummer 3 und 4) oder eines Reiseausweises für Ausländer (§ 4 Absatz 1 Satz 1 Nummer 1), die subsidiär Schutzberechtigte im Sinne des Artikels 3 Nummer 2 der Verordnung (EU) 2024/1347 oder Resettlement-Flüchtlinge im Sinne von § 23 Absatz 4 Satz 1 des Aufenthaltsgesetzes sind,</td>
 <td style="text-align: right;" data-valign="bottom" data-charoff="50">26 Euro,</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">1g.</td>
-<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">für die Ausstellung eines Reiseausweises ohne Speichermedium für Ausländer (§ 4 Absatz 1 Satz 1 Nummer 1), für Flüchtlinge, für Staatenlose (§ 4 Absatz 1 Satz 1 Nummer 3 und 4) oder für subsidiär Schutzberechtigte im Sinne des § 4 Absatz 1 des Asylgesetzes oder Resettlement-Flüchtlinge im Sinne von § 23 Absatz 4 Satz 1 des Aufenthaltsgesetzes bis zur Vollendung des zwölften Lebensjahres</td>
+<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50">für die Ausstellung eines Reiseausweises ohne Speichermedium für Ausländer (§ 4 Absatz 1 Satz 1 Nummer 1), für Flüchtlinge, für Staatenlose (§ 4 Absatz 1 Satz 1 Nummer 3 und 4) oder für subsidiär Schutzberechtigte im Sinne des Artikels 3 Nummer 2 der Verordnung (EU) 2024/1347 oder Resettlement-Flüchtlinge im Sinne von § 23 Absatz 4 Satz 1 des Aufenthaltsgesetzes bis zur Vollendung des zwölften Lebensjahres</td>
 <td style="text-align: right;" data-valign="bottom" data-charoff="50">14 Euro,</td>
 </tr>
 <tr class="even">
@@ -1982,7 +1982,7 @@ Wird der Notreiseausweis zusammen mit dem Passierschein (§ 23 Abs. 2 Satz 3, §
 
 (2) Bei Staatsangehörigen der Schweiz entspricht die Gebühr nach § 45 für die Erteilung oder Verlängerung einer Aufenthaltserlaubnis, die auf Antrag als Dokument mit Chip nach § 78 Absatz 1 Satz 2 des Aufenthaltsgesetzes ausgestellt wird, der Höhe der für die Ausstellung von Personalausweisen an Deutsche erhobenen Gebühr. Wird die Aufenthaltserlaubnis für eine Person ausgestellt, die zum Zeitpunkt der Antragstellung noch nicht 24 Jahre alt ist, beträgt die Gebühr jeweils die Höhe, die für die Ausstellung von Personalausweisen an Deutsche dieses Alters erhoben wird. Die Gebühren nach den Sätzen 1 und 2 sind auch zu erheben, wenn eine Neuausstellung der Aufenthaltserlaubnis aus den in § 45c Absatz 1 genannten Gründen notwendig wird; § 45c Absatz 2 gilt entsprechend. Die Gebühr für die Ausstellung oder Verlängerung einer Grenzgängerkarte nach § 48 Absatz 1 Satz 1 Nummer 3 und 4 ermäßigt sich bei Staatsangehörigen der Schweiz auf 8 Euro. Die Gebühren nach § 47 Absatz 1 Nummer 8 für die Ausstellung einer Fiktionsbescheinigung und nach § 49 Absatz 2 für die Bearbeitung von Anträgen auf Vornahme der in den Sätzen 1 bis 5 genannten Amtshandlungen entfallen bei Staatsangehörigen der Schweiz.
 
-(3) Asylberechtigte, Resettlement-Flüchtlinge im Sinne von § 23 Absatz 4 Satz 1 des Aufenthaltsgesetzes und sonstige Ausländer, die im Bundesgebiet die Rechtsstellung ausländischer Flüchtlinge oder subsidiär Schutzberechtigter im Sinne des § 4 Absatz 1 des Asylgesetzes genießen, sind befreit von den Gebühren nach
+(3) Asylberechtigte, Resettlement-Flüchtlinge im Sinne von § 23 Absatz 4 Satz 1 des Aufenthaltsgesetzes und sonstige Ausländer, die im Bundesgebiet die Rechtsstellung ausländischer Flüchtlinge oder subsidiär Schutzberechtigter im Sinne des Artikels 3 Nummer 2 der Verordnung (EU) 2024/1347 genießen, sind befreit von den Gebühren nach
 
 1. § 44 Nummer 3, § 45c Absatz 1 Nummer 1 und 2, § 45b und 47 Absatz 1 Nummer 11 für die Erteilung, Neuausstellung sowie Ausstellung und Übertragung der Niederlassungserlaubnis in Ausnahmefällen,
 

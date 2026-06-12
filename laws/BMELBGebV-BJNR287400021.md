@@ -1,4 +1,4 @@
-% Besondere Gebührenverordnung des Bundesministeriums für Ernährung und Landwirtschaft für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich  (Besondere Gebührenverordnung BMEL - BMELBGebV)
+% Besondere Gebührenverordnung des Bundesministeriums für Ernährung und Landwirtschaft für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich*  (Besondere Gebührenverordnung BMEL - BMELBGebV)
 % Ausfertigungsdatum: 13.07.2021
  
 # Eingangsformel

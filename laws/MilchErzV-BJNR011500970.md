@@ -199,7 +199,7 @@ d) den in unmittelbarem Zusammenhang mit der Verkehrsbezeichnung stehenden Hinwe
 
 # § 8 – Außerkrafttreten
 
-Diese Verordnung tritt am 14. Juli 2026 außer Kraft.
+Diese Verordnung tritt am 14. Juni 2026 außer Kraft.
 
 # Anlage 1 – (zu § 1 Abs. 1)
 

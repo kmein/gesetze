@@ -79,7 +79,7 @@ Vitaminisierte Lebensmittel dürfen mit einem Hinweis auf ihren Vitamingehalt nu
 
 # § 4 – Außerkrafttreten
 
-Diese Verordnung tritt am 14. Juli 2026 außer Kraft.
+Diese Verordnung tritt am 14. Juni 2026 außer Kraft.
 
 # Schlußformel
 

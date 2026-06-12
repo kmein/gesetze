@@ -73,7 +73,7 @@ Bei automatischer Buchführung ist der Händler verpflichtet, auf seine Kosten L
 
 (1) Es ist verboten, als Händler ein Erzeugnis im Sinne des Artikel 76 Absatz 1 der Verordnung (EU)
 
-Nr. 1308/2013 in Verbindung mit Artikel 2 Absatz 1 und Anhang I Teil A der Delegierten Verordnung (EU)
+Nr. 1308/2013 in Verbindung mit Artikel 2 Absatz 1, Artikel 4 Absatz 1 und Anhang I sowie Artikel 3 der Delegierten Verordnung (EU)
 
 2023/2429 anzubieten, feilzuhalten, zu bewerben, zu liefern, zu verkaufen oder sonst in den Verkehr zu bringen, wenn es nicht den dort genannten Anforderungen entspricht.
 

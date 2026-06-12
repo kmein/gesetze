@@ -258,7 +258,7 @@
 - [AsylbLG§3Abs4Bek](laws/AsylbLG§3Abs4Bek-BJNR179300015.md) Bekanntmachung über die Höhe der Leistungssätze nach § 3 Absatz 4 des Asylbewerberleistungsgesetzes für die Zeit ab 1. Januar 2016
 - [AsylG](laws/AsylG-BJNR111260992.md) Asylgesetz
 - [AsylVfGNG](laws/AsylVfGNG-BJNR011260992.md) Gesetz zur Neuregelung des Asylverfahrens
-- [AsylZBV](laws/AsylZBV-BJNR064500008.md) Verordnung zur Neufassung der Asylzuständigkeitsbestimmungsverordnung
+- [AsylZBV](laws/AsylZBV-BJNR07F0B0026.md) Asylzuständigkeitsbestimmungsverordnung
 - [ATA-OTA-APrV](laws/ATA-OTA-APrV-BJNR229510020.md) Ausbildungs- und Prüfungsverordnung über die Ausbildung zur Anästhesietechnischen Assistentin und zum Anästhesietechnischen Assistenten und über die Ausbildung zur Operationstechnischen Assistentin und zum Operationstechnischen Assistenten 1
 - [ATA-OTA-G](laws/ATA-OTA-G-BJNR276810019.md) Gesetz über den Beruf der Anästhesietechnischen Assistentin und des Anästhesietechnischen Assistenten und über den Beruf der Operationstechnischen Assistentin und des Operationstechnischen Assistenten
 - [AtAV](laws/AtAV-BJNR100000009.md) Verordnung über die Verbringung radioaktiver Abfälle oder abgebrannter Brennelemente *)
@@ -903,7 +903,7 @@
 - [BMDVBeihÜbertrAnO](laws/BMDVBeihÜbertrAnO-BJNR0610A0025.md) Anordnung des Bundesministeriums für Digitales und Verkehr zur Übertragung von Zuständigkeiten in Angelegenheiten der Beihilfe auf die Postbeamtenkrankenkasse
 - [BMDVDelegatAnO](laws/BMDVDelegatAnO-BJNR0490A0024.md) Anordnung über die Übertragung beamtenrechtlicher Zuständigkeiten im Geschäftsbereich des Bundesministeriums für Digitales und Verkehr
 - [BMDVTKBGebV](laws/BMDVTKBGebV-BJNR0010A0024.md) Besondere Gebührenverordnung des Bundesministeriums für Digitales und Verkehr für telekommunikationsrechtliche Tätigkeiten
-- [BMELBGebV](laws/BMELBGebV-BJNR287400021.md) Besondere Gebührenverordnung des Bundesministeriums für Ernährung und Landwirtschaft für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich
+- [BMELBGebV](laws/BMELBGebV-BJNR287400021.md) Besondere Gebührenverordnung des Bundesministeriums für Ernährung und Landwirtschaft für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich *
 - [BMeldDAV](laws/BMeldDAV-BJNR320900021.md) Verordnung zu Voraussetzungen von automatisierten Meldedatenabrufen durch Behörden oder sonstige öffentliche Stellen des Bundes und der Länder
 - [BMeldDigiV](laws/BMeldDigiV-BJNR068310022.md) Verordnung zur Bestimmung von Inhalt, Form und Verfahren von Datenübermittlungen zwischen Meldebehörden und einem Verwaltungsportal zur Erbringung von digitalen Verwaltungsleistungen
 - [BMELWidVertrAnO](laws/BMELWidVertrAnO-BJNR129400017.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Bundesministeriums für Ernährung und Landwirtschaft
@@ -4063,6 +4063,7 @@
 - [PflegeStatV](laws/PflegeStatV-BJNR228200999.md) Verordnung zur Durchführung einer Bundesstatistik über Pflegeeinrichtungen sowie über die häusliche Pflege
 - [PflegeVG](laws/PflegeVG-BJNR101409994.md) Gesetz zur sozialen Absicherung des Risikos der Pflegebedürftigkeit
 - [PflegeZG](laws/PflegeZG-BJNR089600008.md) Gesetz über die Pflegezeit
+- [PflFAssAPrV](laws/PflFAssAPrV-BJNR0A60A0026.md) Ausbildungs- und Prüfungsverordnung für die Pflegefachassistenz
 - [PflFAssG](laws/PflFAssG-BJNR1030B0025.md) Gesetz über den Pflegefachassistenzberuf *
 - [PflGesG](laws/PflGesG-BJNR235410021.md) Gesetz zur Durchführung der Verordnung (EU) 2016/2031 und der Verordnung (EU) 2017/625 im Bereich Pflanzengesundheit
 - [PflKartV 1986](laws/PflKartV_1986-BJNR001920986.md) Pflanzkartoffelverordnung
