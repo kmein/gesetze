@@ -107,9 +107,9 @@ e) des Gefrierpunktes;
 
 17. Hemmstoffnachweis: der durch ein Hemmstofftestsystem geführte Nachweis über einen Hemmstoff oder mehrere Hemmstoffe, wobei im Falle, dass eine Probe mehr als einmal auf Hemmstoffe untersucht wird, alle diesbezüglichen Hemmstoffnachweise als ein einziger Hemmstoffnachweis gelten.
 
-(2) Amtliche Untersuchungsverfahren nach § 64 Absatz 1 des Lebensmittel- und Futtermittelgesetzbuches, auf die in dieser Verordnung verwiesen wird, werden vom Bundesamt für Verbraucherschutz und Lebensmittelsicherheit veröffentlicht und sind von der Beuth Verlag GmbH, Berlin und Köln, zu beziehen.
+(2) Amtliche Untersuchungsverfahren nach § 64 Absatz 1 des Lebensmittel- und Futtermittelgesetzbuches, auf die in dieser Verordnung verwiesen werden, werden vom Bundesamt für Verbraucherschutz und Lebensmittelsicherheit veröffentlicht und sind von der DIN Media GmbH, Berlin, zu beziehen.
 
-(3) DIN-Normen, auf die in dieser Verordnung verwiesen wird, sind von der Beuth Verlag GmbH, Berlin und Köln, zu beziehen und beim Deutschen Patent- und Markenamt archivmäßig gesichert niedergelegt.
+(3) DIN-Normen, auf die in dieser Verordnung verwiesen werden, sind von der DIN Media GmbH, Berlin, zu beziehen und beim Deutschen Patent- und Markenamt archivmäßig gesichert niedergelegt.
 
 # § 4 – Grundsätzliche Pflichten des Abnehmers
 
@@ -147,41 +147,39 @@ e) des Gefrierpunktes;
 
 3. mit einer Anlage zur Probenahme durchführen, die nicht die Voraussetzungen der Absätze 3 oder 4 erfüllt.
 
-# § 7 – Sachkunde der Probenehmer
+(6) Zur Feststellung, ob die in Absatz 5 genannte Grenze unterschritten wird, ist § 2 Absatz 3 entsprechend anzuwenden.
 
-(1) Der Abnehmer darf die Probenahme nur von Probenehmern vornehmen lassen, die über die Sachkunde für eine solche Probenahme verfügen.
+# § 7 – Sachkundige Probenahme
 
-(2) Probenehmer müssen die Anforderungen an die Sachkunde nach Anlage 1 Abschnitt A erfüllen. Probenehmer, die die Probenahme unter Verwendung von Milchsammelwagen vornehmen, müssen zusätzlich die Anforderungen an die Sachkunde erfüllen, die in Anlage 1 Abschnitt B festgelegt sind.
+(1) Der Abnehmer muss die Anforderungen der Anlage 1 an eine sachkundige Probenahme einhalten und darf die Probenahme nur durch Probenehmer vornehmen lassen, die über eine solche Sachkunde verfügen.
 
-(+++ § 7: Zur Anwendung vgl. § 39 Abs. 1 +++)
+(2) Jeder Probenehmer muss die Anforderungen nach Anlage 1 Abschnitt A erfüllen. Wird die Probenahme unter Verwendung von Milchsammelwagen vorgenommen, muss der Probenehmer zusätzlich die Anforderungen nach Anlage 1 Abschnitt B erfüllen.
+
+(+++ § 7: Zur Anwendung vgl. § 40 Abs. 1 +++)
 
 # § 8 – Lehrgänge und Bescheinigungen über die Sachkunde
 
 (1) Probenehmer, die die Probenahme unter Verwendung von Milchsammelwagen vornehmen, haben ihre Sachkunde durch eine Bescheinigung über die Sachkunde zu belegen. Diese Bescheinigung wird durch die Teilnahme an einem Lehrgang über die Sachkunde erworben.
 
-(2) Nach Abschluss des Lehrgangs hat der Veranstalter den Teilnehmenden eine Bescheinigung über die Sachkunde auszustellen. Die Bescheinigung ist ab ihrer Ausstellung zwei Jahre lang gültig und kann durch die Teilnahme an einem Wiederholungslehrgang um jeweils weitere zwei Jahre verlängert werden.
+(2) Nach Abschluss des Lehrgangs hat der Veranstalter den Teilnehmenden eine Bescheinigung über die Sachkunde auszustellen. Die Bescheinigung ist ab ihrer Ausstellung zwei Jahre lang gültig. Sie kann durch die Teilnahme an einem Wiederholungslehrgang um jeweils weitere zwei Jahre verlängert werden, wobei die Verlängerung ab dem letzten Tag des Wiederholungslehrgangs beginnt. Sofern der Wiederholungslehrgang in den letzten drei Monaten des Gültigkeitszeitraums einer bestehenden Bescheinigung stattfindet, kann der Gültigkeitsbeginn der Verlängerung auf das Ende des aktuellen Gültigkeitszeitraums gelegt werden.
 
 (3) Der Bescheinigung über die Sachkunde gleichgestellt sind Bescheinigungen, die in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum auf Grundlage der dort geltenden Anforderungen ausgestellt wurden, wenn die in dem Mitgliedstaat oder Vertragsstaat geltenden Anforderungen an die Ausstellung der Bescheinigung eine gleichwertige Zuverlässigkeit bei der Probenahme gewährleisten. Der Abnehmer hat auf Verlangen der Landesstelle zu belegen, dass die Anforderungen eine gleichwertige Zuverlässigkeit bei der Probenahme gewährleisten. Wird dies nicht belegt, kann die Landesstelle dem betreffenden Probenehmer die Probenahme untersagen.
 
 (4) Jeder Veranstalter von Lehrgängen über die Sachkunde benötigt zur Durchführung der Lehrgänge eine Zulassung durch die Landesstelle. Die Zulassung ist bei der Landesstelle zu beantragen. Die örtliche Zuständigkeit für die Lehrgänge richtet sich nach dem Hauptsitz des Veranstalters. Zu den Voraussetzungen der Zulassung können die Länder nähere Vorschriften erlassen.
 
-(+++ § 8: Zur Anwendung vgl. § 39 Abs. 1 +++)
+(+++ § 8: Zur Anwendung vgl. § 40 Abs. 1 +++)
 
 # § 9 – Nachweise über die Einführung in die ordnungsgemäße Probenahme
 
-(1) Probenehmer, die die Probenahme unter Verwendung von Milchsammelwagen vornehmen, dürfen die Probenahme ohne eine Bescheinigung über die Sachkunde vornehmen, wenn sie
+(1) Probenehmer, die die Probenahme unter Verwendung von Milchsammelwagen vornehmen, dürfen die Probenahme ohne eine Bescheinigung über die Sachkunde vornehmen, wenn sie über einen Nachweis des Abnehmers über ihre Einführung in die ordnungsgemäße Probenahme verfügen.
 
-1. von einem Abnehmer in die ordnungsgemäße Probenahme eingeführt wurden und
+(2) Der Abnehmer darf den Nachweis im Sinne von Absatz 1 nur ausstellen, wenn der Probenehmer an einer Einführung teilgenommen hat. Der Abnehmer hat den Nachweis unverzüglich nach der Einführung auszustellen und dabei die Gültigkeitsdauer des Nachweises auf höchstens drei Monate ab der Ausstellung zu beschränken. Für jeden Probenehmer darf ein Nachweis im Sinne von Absatz 1 nur einmal ausgestellt werden. Nimmt ein Probenehmer bei einem Abnehmer seine Tätigkeit auf, hat er ihm zuvor mitzuteilen, ob er bereits im Besitz eines Nachweises ist oder war.
 
-2. über einen Nachweis des Abnehmers über ihre Einführung in die ordnungsgemäße Probenahme verfügen.
+(3) Die Landesstelle kann auf Antrag eines Abnehmers den Nachweis im Sinne von Absatz 1 um höchstens weitere drei Monate verlängern, falls ohne die Verlängerung eine Unterbrechung in der Übernahme von Rohmilch eintreten würde.
 
-(2) Der Nachweis darf für jeden Probenehmer nur einmal ausgestellt werden. Er ist unverzüglich nach der Einführung auszustellen und darf höchstens drei Monate ab der Ausstellung gültig sein.
+(4) Unterlaufen einem Probenehmer schwerwiegende Mängel bei der Probenahme, hat der für die Probenahme verantwortliche Abnehmer diesen Probenehmer unverzüglich erneut nach Absatz 1 Nummer 1 ordnungsgemäß in die Probenahme einzuführen. Unterläuft dem Probenehmer danach erneut ein schwerwiegender Mangel bei der Probenahme, hat der Abnehmer den Nachweis im Sinne von Absatz 1 unverzüglich einzuziehen und die Probenahme durch den Probenehmer unverzüglich zu beenden.
 
-(3) Die Landesstelle kann auf Antrag eines Abnehmers den Nachweis um höchstens weitere drei Monate verlängern, falls ohne die Verlängerung eine Unterbrechung in der Übernahme von Rohmilch eintreten würde.
-
-(4) Unterlaufen einem Probenehmer schwerwiegende Mängel bei der Probenahme, hat der für die Probenahme verantwortliche Abnehmer diesen Probenehmer unverzüglich erneut nach Absatz 1 Nummer 1 ordnungsgemäß in die Probenahme einzuführen. Unterläuft dem Probenehmer danach erneut ein schwerwiegender Mangel bei der Probenahme, hat der Abnehmer den Nachweis des Probenehmers unverzüglich einzuziehen und die Probenahme durch den Probenehmer unverzüglich zu beenden.
-
-(+++ § 9: Zur Anwendung vgl. § 39 Abs. 1 +++)
+(+++ § 9: Zur Anwendung vgl. § 40 Abs. 1 +++)
 
 # § 10 – Pflicht zum Mitführen von Bescheinigungen und Nachweisen
 
@@ -207,13 +205,13 @@ e) des Gefrierpunktes;
 
 2. über die Erfüllung der Anforderungen ein Prüfbericht nach Absatz 4 vorliegt.
 
-(2) Für Anlagen zur Probenahme gelten die in Teil 1 „Anforderungen, Haupt- und Wiederholungsprüfung“ und Teil 2 „Typprüfung“ der DIN 11868:2016-03 „Probenahmeanlagen in Milchsammelwagen“ festgelegten Anforderungen. Abweichend von Nummer 4.1.2 des Teils 1 müssen die Proben in einem Temperaturbereich von mindestens 2 Grad Celsius und höchstens 8 Grad Celsius gelagert werden können.
+(2) Für Anlagen zur Probenahme gelten die in der DIN 11868-1:2023-11 „Probenahmeanlagen in Milchsammelwagen – Teil 1: Anforderungen, Haupt- und Wiederholungsprüfung“ sowie in der DIN 11868-2:2016-03 „Probenahmeanlagen in Milchsammelwagen – Teil 2: Typprüfung“ festgelegten Anforderungen.
 
-(3) Die Hauptprüfungen und die Wiederholungsprüfungen sind von einer Prüfstelle vorzunehmen. Die Tätigkeit als Prüfstelle setzt die Erfüllung der Anforderungen des Teils 3 „Mindestkriterien an Prüfstellen, die Haupt- bzw. Typprüfungen durchführen“ der DIN 11868:2016-03 „Probenahmeanlagen in Milchsammelwagen“ voraus.
+(3) Die Hauptprüfungen und die Wiederholungsprüfungen sind von einer Prüfstelle vorzunehmen. Die Tätigkeit als Prüfstelle setzt die Erfüllung der Anforderungen der DIN 11868-3:2016-03 „Probenahmeanlagen in Milchsammelwagen – Teil 3: Mindestkriterien an Prüfstellen, die Haupt- bzw. Typprüfungen durchführen“ voraus.
 
 (4) Die Prüfstelle hat über jede bestandene Hauptprüfung und über jede bestandene Wiederholungsprüfung unverzüglich nach Abschluss der Prüfung einen Prüfbericht auszustellen und diesen unverzüglich dem Abnehmer zu übermitteln.
 
-(5) Anlagen zur Probenahme, die nach den in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum geltenden Regelungen oder Anforderungen rechtmäßig hergestellt oder rechtmäßig in Verkehr gebracht wurden, werden vorbehaltlich des Satzes 2 den Anlagen zur Probenahme nach Absatz 1 gleichgestellt. Die Anlagen zur Probenahme müssen hinsichtlich der Repräsentativität der Probe sowie der Verschleppung ein Ergebnis gewährleisten, das den in Absatz 2 genannten Anforderungen entspricht. Bestehen Zweifel an der Erfüllung der Voraussetzungen des Satzes 2, hat der Abnehmer auf Verlangen der Landesstelle zu belegen, dass die Voraussetzung erfüllt ist.
+(5) Anlagen zur Probenahme, die nach den in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum geltenden Regelungen oder Anforderungen rechtmäßig hergestellt oder rechtmäßig in Verkehr gebracht wurden oder nach den dort geltenden Regelungen mit Absatz 2 vergleichbaren Haupt- und Wiederholungsprüfungen unterliegen, werden vorbehaltlich des Satzes 2 den Anlagen zur Probenahme nach Absatz 1 gleichgestellt. Die Anlagen zur Probenahme müssen hinsichtlich der Repräsentativität der Probe sowie der Verschleppung ein Ergebnis gewährleisten, das den in Absatz 2 genannten Anforderungen entspricht. Bestehen Zweifel an der Erfüllung der Voraussetzungen des Satzes 2, hat der Abnehmer auf Verlangen der Landesstelle zu belegen, dass die Voraussetzung erfüllt ist.
 
 # § 13 – Verwendungsverbot von Anlagen zur Probenahme für Milchsammelwagen
 
@@ -221,7 +219,7 @@ e) des Gefrierpunktes;
 
 (2) Ergibt eine erneute Hauptprüfung durch die Prüfstelle, dass die Anlage zur Probenahme den in § 12 Absatz 2 genannten Anforderungen wieder genügt, darf die Anlage wieder verwendet werden. Die Prüfstelle hat über die bestandene Hauptprüfung unverzüglich einen Prüfbericht auszustellen und diesen unverzüglich dem Abnehmer zu übermitteln. Der Abnehmer hat den Prüfbericht unverzüglich nach Erhalt der Landesstelle zu übermitteln.
 
-(3) Tritt die DIN 11868:2016-03 „Probenahmeanlagen in Milchsammelwagen“ außer Kraft, ist die Verwendung der dieser DIN-Norm entsprechenden Anlagen zur Probenahme ein Jahr nach dem Außerkrafttreten einzustellen. Wenn die Prüfstelle innerhalb von zehn Monaten nach Außerkrafttreten der DIN 11868:2016-03 bescheinigt, dass die Anlage zur Probenahme den Anforderungen genügt, die in einer späteren Fassung der DIN 11868 enthalten sind, bedarf es keiner Einstellung der Verwendung.
+(3) Wird eine in § 12 Absatz 2 genannte Norm durch eine neuere Norm ganz oder teilweise ersetzt, ist die Verwendung von Anlagen zur Probenahme, die der in § 12 Absatz 2 genannten Norm entsprechen, ein Jahr nach der Ersetzung einzustellen, sofern nicht die Prüfstelle innerhalb von zehn Monaten nach der Ersetzung bescheinigt, dass die Anlage zur Probenahme den Anforderungen der neueren Norm entspricht.
 
 (4) Die Landesstelle kann die Verwendung einer Anlage zur Probenahme für Milchsammelwagen untersagen, wenn der Abnehmer
 
@@ -233,7 +231,7 @@ e) des Gefrierpunktes;
 
 (1) Die Prüfstelle bedarf der Zulassung durch die Landesstelle, falls sie kein organisatorischer Bestandteil der Landesstelle ist. Die Zulassung setzt die Erfüllung der Anforderungen nach § 12 Absatz 3 Satz 2 voraus.
 
-(2) Die Zulassung ist schriftlich bei der Landesstelle zu beantragen. Dem Antrag sind die Nachweise über die Erfüllung der Anforderungen des § 12 Absatz 3 Satz 2 beizufügen.
+(2) Die Zulassung ist schriftlich oder elektronisch bei der Landesstelle zu beantragen. Dem Antrag sind die Nachweise über die Erfüllung der Anforderungen des § 12 Absatz 3 Satz 2 beizufügen.
 
 (3) Die örtliche Zuständigkeit für die Prüfstelle richtet sich nach dem Hauptsitz der Prüfstelle.
 
@@ -245,7 +243,7 @@ e) des Gefrierpunktes;
 
 (2) Ist zu erwarten, dass eine zugelassene Prüfstelle den Anforderungen des § 12 Absatz 3 Satz 2 nur vorübergehend nicht genügt, kann die Landesstelle die Zulassung ruhen lassen. Solange die Zulassung ruht, darf die Prüfstelle keine Hauptprüfungen und keine Wiederholungsprüfungen für Anlagen zur Probenahme vornehmen. Lässt die Landesstelle die Zulassung ruhen, hat sie gleichzeitig eine Frist zu bestimmen, bis zu deren Ablauf von der Prüfstelle nachzuweisen ist, dass sie den Anforderungen wieder genügt. Erfolgt der Nachweis durch die Prüfstelle fristgerecht, ist das Ruhenlassen durch die Landesstelle zu beenden. Erfolgt kein fristgerechter Nachweis durch die Prüfstellen, entzieht die Landesstelle die Zulassung.
 
-(3) Tritt die DIN 11868:2016-03 „Probenahmeanlagen in Milchsammelwagen“ außer Kraft, erlischt die Zulassung der Prüfstelle ein Jahr nach dem Außerkrafttreten. Weist die Prüfstelle spätestens zehn Monate nach dem Außerkrafttreten gegenüber der Landesstelle nach, dass sie die Anforderungen, die sich aus einer späteren Fassung der DIN 11868 ergeben, erfüllt, bleibt die Zulassung bestehen. Die Landesstelle bestätigt das Fortbestehen der Zulassung durch Bescheid.
+(3) Wird eine in § 12 Absatz 3 Satz 2 genannte Norm durch eine neuere Norm ganz oder teilweise ersetzt, erlischt die Zulassung der Prüfstelle ein Jahr nach der Ersetzung, sofern nicht die Prüfstelle spätestens zehn Monate nach der Ersetzung gegenüber der Landesstelle nachweist, dass sie die sich aus der neueren Norm ergebenden Anforderungen erfüllt. Die Landesstelle bestätigt das Fortbestehen der Zulassung durch Bescheid.
 
 (4) Ist die Prüfstelle Bestandteil der Landesstelle, ist die in Absatz 3 Satz 1 und 2 enthaltene Übergangsregelung entsprechend anzuwenden.
 
@@ -255,11 +253,9 @@ e) des Gefrierpunktes;
 
 (2) Der Abnehmer kann mit dem Transport einen Dritten, insbesondere die Untersuchungsstelle, beauftragen.
 
-(3) Der Abnehmer hat der Untersuchungsstelle auf deren begründete Nachfrage zu belegen, wie er die Ordnungsgemäßheit des Transports im Sinne des Absatzes 1 sichergestellt hat. Satz 1 gilt nicht, wenn die Untersuchungsstelle mit dem Transport beauftragt ist.
+(3) Der Abnehmer hat der Untersuchungsstelle auf deren begründete Nachfrage zu belegen, wie er die Ordnungsgemäßheit des Transports im Sinne des Absatzes 1 sichergestellt hat. Satz 1 gilt nicht, sofern die Untersuchungsstelle mit dem Transport beauftragt ist.
 
 (4) Der Abnehmer hat für jeden Kalendermonat mit der Untersuchungsstelle einen Untersuchungsplan für die Proben zu vereinbaren, an dem sich der Transport auszurichten hat.
-
-(+++ § 16 Abs. 1 bis 3: Zur Anwendung vgl. § 28 Abs. 4 +++)
 
 # § 17 – Durchführung der Güteuntersuchung
 
@@ -283,7 +279,7 @@ Der Abnehmer hat sicherzustellen, dass die Güteuntersuchung durch eine Untersuc
 
 3. mit ihren Untersuchungsverfahren an Ringuntersuchungen zur Güte von Rohmilch teilnimmt, die vom Max Rubner-Institut oder vom Bundesamt für Verbraucherschutz und Lebensmittelsicherheit durchgeführt werden, soweit die jeweilige Einrichtung die Untersuchungsstelle zur Teilnahme aufgefordert hat.
 
-(2) Die Zulassung ist schriftlich bei der Landesstelle zu beantragen. Dem Antrag sind die Nachweise über die Erfüllung der Voraussetzungen des Absatzes 1 Satz 2 beizufügen. In dem Antrag hat sich die Untersuchungsstelle zu verpflichten, die Ergebnisse der Ringuntersuchungen derjenigen Stelle mitzuteilen, die für die in Absatz 1 Satz 2 Nummer 1 genannte Akkreditierung zuständig ist, falls diese Stelle die Untersuchungsstelle zu einer solchen Mitteilung auffordert.
+(2) Die Zulassung ist schriftlich oder elektronisch bei der Landesstelle zu beantragen. Dem Antrag sind die Nachweise über die Erfüllung der Voraussetzungen des Absatzes 1 Satz 2 beizufügen. In dem Antrag hat sich die Untersuchungsstelle zu verpflichten, die Ergebnisse der Ringuntersuchungen derjenigen Stelle mitzuteilen, die für die in Absatz 1 Satz 2 Nummer 1 genannte Akkreditierung zuständig ist, falls diese Stelle die Untersuchungsstelle zu einer solchen Mitteilung auffordert.
 
 (3) Die örtliche Zuständigkeit für die Untersuchungsstelle richtet sich nach dem Hauptsitz der Untersuchungsstelle.
 
@@ -335,9 +331,9 @@ als Untersuchungsverfahren im Sinne der Anlage 3.
 
 1. wenn eine Probenahme auf Grund einer durch den Abnehmer nicht vorhersehbaren Unterbrechung, einer Beendigung oder einer erstmaligen Aufnahme der Übernahme von Rohmilch nicht in ausreichender Anzahl möglich oder mit erheblichen zusätzlichen Kosten für den Abnehmer verbunden ist;
 
-2. wenn bei einer ununterbrochenen Übernahme der Rohmilch aus besonderen Gründen, insbesondere wegen höherer Gewalt, eine Probenahme in ausreichender Anzahl oder ein ordnungsgemäßer Transport der Proben nicht möglich ist;
+2. wenn bei einer ununterbrochenen Übernahme der Rohmilch aus besonderen Gründen, insbesondere wegen höherer Gewalt, eine Probenahme in ausreichender Anzahl oder ein ordnungsgemäßer Transport der Proben nicht möglich oder mit erheblichen zusätzlichen Kosten für den Abnehmer verbunden ist;
 
-3. wenn eine Probe gemäß Anlage 2 Abschnitt H Unterabschnitt II Nummer 2 unberücksichtigt bleibt und es dem Abnehmer nicht möglich ist, der Untersuchungsstelle rechtzeitig eine Ersatzprobe zur Verfügung zu stellen.
+3. wenn eine Probe gemäß Anlage 2 Abschnitt H Unterabschnitt II Nummer 2 unberücksichtigt bleibt und es dem Abnehmer nicht oder nur unter erheblichen zusätzlichen Kosten möglich ist, der Untersuchungsstelle rechtzeitig eine Ersatzprobe zur Verfügung zu stellen.
 
 # § 24 – Unterrichtung bei Unterschreitung der Mindestanzahl an Güteuntersuchungen
 
@@ -369,13 +365,11 @@ als Untersuchungsverfahren im Sinne der Anlage 3.
 
 (2) Der Abnehmer hat der Untersuchungsstelle die von ihm zur Verwendung vorgesehenen Schnelltestarten spätestens vierzehn Tage vor ihrer jeweiligen erstmaligen Verwendung mitzuteilen.
 
-(3) Werden durch einen Schnelltest Hemmstoffe nachgewiesen, hat der Abnehmer unverzüglich die Proben sämtlicher Erzeuger, deren Rohmilch in der übernommenen Milch enthalten ist, nach Anlage 2 Abschnitt D Nummer 1 durch eine Untersuchungsstelle untersuchen zu lassen. Bei der Untersuchung hat die Untersuchungsstelle ein Hemmstofftestsystem zu verwenden, das über die in der Hemmstofftabelle aufgeführten Hemmstoffe hinaus mindestens alle Hemmstoffe erfasst, die vom Abnehmer im Rahmen des Schnelltests nachweisbar sind.
+(3) Werden durch einen Schnelltest Hemmstoffe nachgewiesen, hat der Abnehmer unverzüglich die Proben sämtlicher Erzeuger, deren Rohmilch in der übernommenen Rohmilch enthalten ist, nach Anlage 2 Abschnitt D Nummer 1 durch eine Untersuchungsstelle untersuchen zu lassen. Bei der Untersuchung hat die Untersuchungsstelle ein Hemmstofftestsystem zu verwenden, das den Anforderungen der Anlage 3 Abschnitt C bezüglich der Untersuchung auf die Hemmstoffgruppen 1 bis 6 der Hemmstofftabelle genügt und darüber hinaus mindestens alle Hemmstoffe erfasst, die vom Abnehmer im Rahmen des Schnelltests nachweisbar sind.
 
 (4) Zur Durchführung der Untersuchung nach Absatz 3 Satz 1 hat der Abnehmer der Untersuchungsstelle unverzüglich nach dem Nachweis der Hemmstoffe die betreffenden Proben zur Verfügung zu stellen sowie die Art des verwendeten Schnelltests und das Ergebnis des Schnelltests mitzuteilen. Auf den Transport der Proben findet § 16 Absatz 1 bis 3 entsprechende Anwendung.
 
-(5) Sämtliche Untersuchungen nach Absatz 3 Satz 1 werden auf die in Anlage 2 Abschnitt D festgelegte Mindestanzahl an Güteuntersuchungen angerechnet.
-
-(+++ § 27 Abs. 5: Zur Anwendung vgl. § 28 Abs. 4 +++)
+(5) Sämtliche Untersuchungen nach Absatz 3 Satz 1 in Verbindung mit Satz 2 werden auf die in der Anlage 2 Abschnitt D festgelegten Mindestanzahlen an Güteuntersuchungen angerechnet.
 
 # § 28 – Voruntersuchung auf Hemmstoffe
 
@@ -401,9 +395,9 @@ als Untersuchungsverfahren im Sinne der Anlage 3.
 
 (1) Wird Rohmilch, die in den Anwendungsbereich dieser Verordnung fällt und die vom Erzeuger zwecks Übernahme durch einen Abnehmer zusammengefasst wurde, auf ein Gütemerkmal
 
-1. im Rahmen des Artikels 50 Absatz 1 Satz 2 oder Absatz 2 Unterabsatz 1 Buchstabe b der Durchführungsverordnung (EU) 2019/627 der Kommission vom 15. März 2019 zur Festlegung einheitlicher praktischer Modalitäten für die Durchführung der amtlichen Kontrollen in Bezug auf für den menschlichen Verzehr bestimmte Erzeugnisse tierischen Ursprungs gemäß der Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates und zur Änderung der Verordnung (EG) Nr. 2074/2005 der Kommission in Bezug auf amtliche Kontrollen (ABl. L 131 vom 17.5.2019, S. 51; L 325 vom 16.12.2019, S. 183) auf Veranlassung der zuständigen Behörde oder
+1. im Rahmen des Artikels 50 Absatz 1 Satz 2 oder Absatz 2 Unterabsatz 1 Buchstabe b der Durchführungsverordnung (EU) 2019/627 in der Fassung vom 19. Dezember 2022 auf Veranlassung der zuständigen Behörde oder
 
-2. im Rahmen des in Artikel 50 Absatz 2 Unterabsatz 2 der Durchführungsverordnung (EU) 2019/627 vorgesehenen Nachweises auf Veranlassung des Erzeugers
+2. im Rahmen des in Artikel 50 Absatz 2 Unterabsatz 2 der Durchführungsverordnung (EU) 2019/627 in der Fassung vom 19. Dezember 2022 vorgesehenen Nachweises auf Veranlassung des Erzeugers
 
 untersucht, gilt bezüglich der Gütemerkmale bakteriologische Eigenschaften und Gehalt an somatischen Zellen eine solche Untersuchung als Güteuntersuchung. Hinsichtlich der Güteuntersuchung nach Satz 1 Nummer 2 hat der Erzeuger sicherzustellen, dass sie durch eine nach § 19 Absatz 1 zugelassene Untersuchungsstelle gemäß den Anforderungen der Anlagen 2 und 3 vorgenommen wird.
 
@@ -452,12 +446,13 @@ c) den Durchschnittskaufpreis für ein Kilogramm mit einem Fettgehalt von 4,00 P
 
 1. über die Pflichtangaben hinaus weitere Angaben in die Milchgeldabrechnung aufnehmen und
 
-2. im Falle des § 4 Absatz 3 die vorzunehmenden Angaben in eine einzige Milchgeldabrechnung aufnehmen.
+2. im Falle des § 4 Absatz 3 die vorzunehmenden Angaben in entsprechend getrennte Milchgeldabrechnungen aufnehmen.
 
-(5) Der Abnehmer hat die Milchgeldabrechnung dem Erzeuger bis spätestens zum Ablauf des auf den Abrechnungsmonat folgenden Kalendermonats zu übermitteln.
+(5) Sämtliche Angaben von Preisen nach den Absätzen 1 bis 4 sind ohne Umsatzsteuer vorzunehmen. Die zusätzliche Ausweisung der Umsatzsteuer und von entsprechenden Bruttopreisen wird hiervon nicht berührt.
 
-(+++ § 31 Abs. 4 und 5: Zur Anwendung vgl. § 34 Abs. 1 Satz 2  
-§ 31 Abs. 2 und 3: Zur Anwendung vgl. § 34 Abs. 2 Satz 2 +++)
+(6) Der Abnehmer hat die Milchgeldabrechnung dem Erzeuger bis spätestens zum Ablauf des auf den Abrechnungsmonat folgenden Kalendermonats zu übermitteln.
+
+(7) Erweist sich nach ihrer Übermittlung eine in der Milchgeldabrechnung enthaltene Angabe als unzutreffend oder kommt es hinsichtlich dieser Angabe zu einer nachträglichen Änderung, hat der Abnehmer die übermittelte Milchgeldabrechnung innerhalb von einem Monat nach der Feststellung der unzutreffenden Angabe oder dem Eintreten der nachträglichen Änderung abzuändern. Dies kann durch die Übermittlung einer neuen Milchgeldabrechnung oder einer Ergänzung zur Milchgeldabrechnung geschehen.
 
 # § 32 – Abschläge auf den Kaufpreis
 
@@ -485,7 +480,7 @@ c) den Durchschnittskaufpreis für ein Kilogramm mit einem Fettgehalt von 4,00 P
 
 # § 34 – Abrechnung im Falle einer Rohmilchübernahme ohne Entgelt
 
-(1) Bei einer Rohmilchübernahme ohne Entgelt hat der Abnehmer für jeden Erzeuger eine Abrechnung über die übernommene Rohmilch entsprechend § 31 Absatz 1 Nummer 1 Buchstabe a und Nummer 4 zu erstellen. § 30 Absatz 2 und § 31 Absatz 4 und 5 sind entsprechend anzuwenden.
+(1) Bei einer Rohmilchübernahme ohne Entgelt hat der Abnehmer für jeden Erzeuger eine Abrechnung über die übernommene Rohmilch entsprechend § 31 Absatz 1 Nummer 1 Buchstabe a und Nummer 4 zu erstellen. § 30 Absatz 2 und § 31 Absatz 4 bis 7 sind entsprechend anzuwenden.
 
 (2) Erfolgt im Falle des Absatzes 1 eine Gegenleistung, ist in der Abrechnung über die in Absatz 1 Satz 1 genannten Angaben hinaus die Berücksichtigung des Ergebnisses der Güteprüfung bei der Gegenleistung darzustellen. § 30 Absatz 1, § 31 Absatz 2 und 3 sowie die §§ 32 und 33 finden entsprechende Anwendung.
 
@@ -571,9 +566,9 @@ c) den Durchschnittskaufpreis für ein Kilogramm mit einem Fettgehalt von 4,00 P
 
 5. das Datum der Untersuchung;
 
-6. die verwendeten Untersuchungsverfahren bezüglich aller Gütemerkmale mit Ausnahme der bakteriologischen Beschaffenheit in Form von Hemmstoffen;
+6. die verwendeten Untersuchungsverfahren bezüglich aller Gütemerkmale mit Ausnahme der bakteriologischen Eigenschaft in Form von Hemmstoffen;
 
-7. die verwendeten Hemmstofftestsysteme bezüglich der bakteriologischen Beschaffenheit in Form von Hemmstoffen;
+7. die verwendeten Hemmstofftestsysteme bezüglich der bakteriologischen Eigenschaft in Form von Hemmstoffen;
 
 8. das Ergebnis der Güteuntersuchung.
 
@@ -593,7 +588,23 @@ c) den Durchschnittskaufpreis für ein Kilogramm mit einem Fettgehalt von 4,00 P
 
 (5) Die in den Absätzen 1 bis 4 genannten Unterlagen sind von der jeweils aufbewahrungspflichtigen Person der Landesstelle auf Verlangen vorzulegen.
 
-# § 38 – Ordnungswidrigkeiten
+# § 38 – Mitteilungspflichten der Abnehmer bezüglich der Übernahme von Rohmilch
+
+(1) Übernimmt ein Abnehmer erstmals Rohmilch von Erzeugern, hat er dies der Landesstelle spätestens zwei Wochen vor dem betreffenden Ereignis schriftlich oder elektronisch mitzuteilen. Stellt er eine Übernahme vorübergehend oder dauerhaft ein oder nimmt er eine vorübergehend eingestellte Übernahme wieder auf, hat er dies der Landesstelle unverzüglich nach Bekanntwerden des betreffenden Ereignisses schriftlich oder elektronisch mitzuteilen.
+
+(2) In der Mitteilung nach Absatz 1 sind anzugeben:
+
+1. Name, Anschrift, Telefonnummer und E-Mail-Adresse des Abnehmers;
+
+2. das Datum des jeweiligen Ereignisses;
+
+3. bei einer vorübergehenden Einstellung die voraussichtliche Dauer der Einstellung.
+
+(3) Liegt ein Fall des § 2 Absatz 2 Nummer 1 oder 2 vor, hat der Abnehmer dies der Landesstelle mitzuteilen und dazulegen. Insbesondere hat er bezüglich einer Konstellation nach Nummer 1 darzulegen, welche Rohmilchmenge durchschnittlich übernommen wird. Ändert sich die übernommene Rohmilchmenge eines Abnehmers dahingehend, dass er die Grenze des § 2 Absatz 2 Nummer 1 überschreitet oder unterschreitet, hat der Abnehmer dies der Landesstelle unverzüglich mitzuteilen.
+
+(4) Zur Überprüfung der mitgeteilten Angaben und des Umstandes, ob Abnehmer ihrer Mitteilungspflicht nachgekommen sind, kann die Landesstelle einen Abgleich mit den Registrierungen der Lebensmittelunternehmer vornehmen, die nach Artikel 6 Absatz 2 Unterabsatz 1 der Verordnung (EG) Nr. 852/2004 erfolgen.
+
+# § 39 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 30 Absatz 1 Nummer 9 des Milch- und Fettgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -605,7 +616,7 @@ Ordnungswidrig im Sinne des § 30 Absatz 1 Nummer 9 des Milch- und Fettgesetzes 
 
 4. entgegen § 10 Absatz 1 eine Bescheinigung oder einen Nachweis nicht mit sich führt,
 
-5. einer vollziehbaren Anordnung nach § 10 Absatz 2 oder § 11 Absatz 2 zuwiderhandelt,
+5. einer vollziehbaren Anordnung nach § 10 Absatz 2, § 11 Absatz 2 oder § 13 Absatz 4 zuwiderhandelt,
 
 6. entgegen § 13 Absatz 1 Satz 1 eine Anlage verwendet,
 
@@ -633,19 +644,20 @@ Ordnungswidrig im Sinne des § 30 Absatz 1 Nummer 9 des Milch- und Fettgesetzes 
 
 18. entgegen § 27 Absatz 3 Satz 1 eine Probe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig untersuchen lässt,
 
-19. entgegen § 35 oder § 36 Absatz 2 eine Aufzeichnung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig anfertigt oder
+19. entgegen § 35 oder § 36 eine Aufzeichnung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig anfertigt oder
 
 20. entgegen § 37 Absatz 1 oder 4 eine dort genannte Abrechnung, Aufzeichnung oder einen Prüfbericht nicht oder nicht mindestens drei Jahre aufbewahrt.
 
-# § 39 – Anwendungs- und Übergangsbestimmungen
+# § 40 – Anwendungs- und Übergangsbestimmungen
 
 (1) Die §§ 7 bis 11 sind erst ab dem 1. Juli 2023 anzuwenden. Bis zu diesem Zeitpunkt richten sich die Anforderungen an die Sachkunde und an den Nachweis der Sachkunde nach Landesrecht.
 
 (2) Ist eine Untersuchungsstelle auf der Grundlage des § 2 Absatz 8 der Milch-Güteverordnung am 1. Juli 2021 zugelassen, gilt sie auch nach dieser Verordnung als zugelassen. Eine solche Untersuchungsstelle muss bis zum 1. Januar 2022 die Voraussetzungen des § 19 Absatz 1 Satz 2 erfüllen und dies der nach § 19 Absatz 3 zuständigen Landesstelle unter Beifügung der entsprechenden Nachweise mitteilen. Erfüllt die Untersuchungsstelle die Voraussetzungen nicht oder erfolgt keine rechtzeitige Mitteilung gegenüber der Landesstelle, hat sie die Güteuntersuchungen unverzüglich einzustellen. § 20 Absatz 1 Satz 2 und 3 findet entsprechende Anwendung.
 
-# Anlage 1 – (zu § 7 Absatz 2)Anforderungen an die Sachkunde der Probenehmer
+# Anlage 1 – (zu § 7 Absatz 2)Anforderungen an eine sachkundige Probenahme
 
-(Fundstelle: BGBl. I 2021, 58 - 59)
+(Fundstelle: BGBl. I 2021, 58 - 59;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 A. Allgemeine Anforderungen (§ 7 Absatz 2 Satz 1)
 
@@ -673,7 +685,7 @@ c) technische Mängel oder qualitätsmindernde Einflüsse bei der Probenahme.
 
 II. Anforderungen hinsichtlich einzelner Schritte der Probenahme
 
-1. Sicherstellung, dass die milchführenden Bestandteile einer Anlage zur Probenahme vor Beginn der Probenahme soweit wie technisch möglich frei von jeglicher Flüssigkeit sind, insbesondere von Wasser und Reinigungslösung.
+1. Sicherstellung, dass die milchführenden Teile einer Anlage zur Probenahme vor Beginn der Probenahme soweit wie technisch möglich frei von jeglicher Flüssigkeit sind, insbesondere von Wasser und Reinigungslösung.
 
 2. Visuelle Prüfung, ob sich die Rohmilch in einwandfreiem Zustand (etwa nicht verfärbt, flockig oder veränderte Konsistenz) befindet, soweit es sich um ein geschlossenes System mit Prüfmöglichkeit handelt oder im Falle einer offenen Aufbewahrung eine Prüfung ohne besonderen Aufwand möglich ist.
 
@@ -695,9 +707,11 @@ III. Anforderungen an Reinigung, Desinfektion und allgemeine Kontrollen
 
 1. Verwendung der erforderlichen Schutzausrüstung.
 
-2. Reinigung und Desinfektion milchführender Teile mindestens einmal in 24 Stunden.
+2. Reinigung und Desinfektion aller milchführenden Teile, die mit der Probenahme zusammenhängen, mindestens einmal in 24 Stunden, wobei der Zeitraum um bis zu drei Stunden überschritten werden darf, wenn während der Überschreitung keine Probenahme erfolgt.
 
 3. Regelmäßige Kontrolle beweglicher und abnehmbarer Teile (Schraubverbindungen, Dichtungen, Schläuche und Ähnliches) und deren Austausch im Fall von Mängeln oder absehbaren Mängeln.
+
+4. Ist beabsichtigt, eine Anlage zur Probenahme mehr als 72 Stunden nicht zu verwenden, ist sie spätestens zwölf Stunden nach dem letztmaligen Gebrauch sowie frühestens zwölf Stunden vor dem nächsten Gebrauch zu reinigen und zu desinfizieren.
 
 B. Besondere Anforderungen bei der Verwendung von Milchsammelwagen (§ 7 Absatz 2 Satz 2)
 
@@ -711,9 +725,9 @@ I. Grundlegende Anforderungen
 
 II. Anforderungen an Reinigung und Desinfektion
 
-1. Die Reinigung und Desinfektion des Milchsammelwagens einschließlich der Anlage zur Probenahme umfasst insbesondere die Reinigung aller milchführenden Teile (Annahme- und Abtankvorrichtungen, Probenahme- und Leitungssysteme, Rohmilchtanks und Ähnliches). Reicht eine automatische Reinigung nicht aus (etwa bei Hähnen, Deckeldichtungen, Lanzen und Ähnlichem), sind die betreffenden Bereiche von Hand zu reinigen und zu desinfizieren.
+1. Die Reinigung und Desinfektion nach Abschnitt A Unterabschnitt III Nummer 2 umfasst den gesamten Milchsammelwagen einschließlich der Anlage zur Probenahme und dabei insbesondere alle milchführenden Teile (Annahme- und Abtankvorrichtungen, Probenahme- und Leitungssysteme, Rohmilchtanks und Ähnliches). Reicht eine automatische Reinigung nicht aus (etwa bei Hähnen, Deckeldichtungen, Lanzen und Ähnlichem), sind die betreffenden Bereiche von Hand zu reinigen und zu desinfizieren.
 
-2. Ist beabsichtigt, einen Milchsammelwagen mehr als 72 Stunden nicht zum Transport von Rohmilch zu verwenden, ist er spätestens zwölf Stunden nach dem letztmaligen Gebrauch sowie frühestens zwölf Stunden vor dem nächsten Gebrauch zu reinigen und zu desinfizieren.
+2. Die Reinigung und Desinfektion nach Abschnitt A Unterabschnitt III Nummer 4 ist über die Anlage zur Probenahme hinaus auf den gesamten Milchsammelwagen zu erstrecken.
 
 # Anlage 2 – (zu § 17, § 22 Absatz 1 Satz 1, § 23, § 24 Absatz 1,§ 27 Absatz 3 Satz 1 und Absatz 5 sowie § 29 Absatz 1 Satz 2 und Absatz 2 Satz 2)Güteuntersuchung der Proben und Mittelwertbildung
 

@@ -163,6 +163,8 @@ b) der marktüblichen Emissionsrendite für Anlagen am Kapitalmarkt in Hypotheke
 
 (5) Von den Vorschriften dieses Paragraphen darf nicht zum Nachteil des Anlegers abgewichen werden.
 
+(6) Das Widerrufsrecht bei Fernabsatzverträgen (§ 312c des Bürgerlichen Gesetzbuchs) richtet sich nach dem Bürgerlichen Gesetzbuch.
+
 # § 3 – Aufsicht, Anordnungsbefugnis
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) übt die Aufsicht über das Angebot von Vermögensanlagen nach den Vorschriften dieses Gesetzes aus. Die Bundesanstalt ist befugt, im Rahmen der Aufsicht alle Anordnungen zu treffen, die erforderlich und geeignet sind, um das Angebot von Vermögensanlagen mit diesem Gesetz und den auf Grund dieses Gesetzes erlassenen Bestimmungen im Einklang zu erhalten.

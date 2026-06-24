@@ -15,9 +15,13 @@ auf Grund des § 17a Abs. 1 Nr. 1 Buchstabe c des Eichgesetzes in der Fassung de
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union über die Normen für Streichfette mit Ausnahme der Milchstreichfette.
 
-# § 2
+# § 2 – Zusatz von Vitamin A und D
 
-(weggefallen)
+Margarine- und Mischfetterzeugnissen darf Vitamin A und Vitamin D in Form der gemäß Artikel 3 Absatz 1 in Verbindung mit Anhang II der Verordnung (EG) Nr. 1925/2006 in der Fassung vom 25. Juni 2024 zugelassenen Vitaminverbindungen wie folgt zugesetzt werden:
+
+1. Vitamin A bis zu insgesamt 10 Milligramm auf ein Kilogramm;
+
+2. Vitamin D bis zu insgesamt 25 Mikrogramm auf ein Kilogramm.
 
 # § 3
 
@@ -25,7 +29,7 @@ Margarineschmalz oder Mischfettschmalz, das den in der Anlage vorgeschriebenen A
 
 # § 4 – Kennzeichnungsvorschriften
 
-(1) Für Margarineschmalz und Mischfettschmalz sind die in der Anlage vorgesehenen Bezeichnungen die Bezeichnungen der Lebensmittel im Sinne der Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des Rates vom 25. Oktober 2011 betreffend die Information der Verbraucher über Lebensmittel und zur Änderung der Verordnungen (EG) Nr. 1924/2006 und (EG) Nr. 1925/2006 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 87/250/EWG der Kommission, der Richtlinie 90/496/EWG des Rates, der Richtlinie 1999/10/EG der Kommission, der Richtlinie 2000/13/EG des Europäischen Parlaments und des Rates, der Richtlinie 2002/67/EG und 2008/5/EG der Kommission und der Verordnung (EG) Nr. 608/2004 der Kommission (ABl. L 304 vom 22.11.2011, S. 18; L 331 vom 18.11.2014, S. 41; L 50 vom 21.2.2015, S. 48; L 266 vom 30.9.2016, S. 7) in der jeweils geltenden Fassung.
+(1) Für Margarineschmalz und Mischfettschmalz sind die in der Anlage vorgesehenen Bezeichnungen die Bezeichnungen der Lebensmittel im Sinne der Verordnung (EU) Nr. 1169/2011.
 
 (2) Bei Erzeugnissen mit einem Gesamtfettgehalt von 50 Gramm pro 100 Gramm in Massenanteilen und weniger ist ein Hinweis anzubringen, dass das Erzeugnis zum Braten nicht geeignet ist, und zwar
 
@@ -33,7 +37,7 @@ Margarineschmalz oder Mischfettschmalz, das den in der Anlage vorgeschriebenen A
 
 2. bei der Abgabe von nicht vorverpackten Erzeugnissen im Sinne von § 4 Absatz 2 der Lebensmittelinformations-Durchführungsverordnung in deutscher Sprache und nach Maßgabe des § 4 Absatz 3 der Lebensmittelinformations-Durchführungsverordnung.
 
-(3) Es ist verboten, eine Verkehrsbezeichnung, die nach Anhang VII Teil VII Abschnitt I Unterabsatz 3 Buchstabe b und c der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671) einem bestimmten Erzeugnis vorbehalten ist, für ein anderes als ein dort genanntes Erzeugnis zu verwenden.
+(3) Es ist verboten, eine Verkehrsbezeichnung, die nach Anhang VII Teil VII Abschnitt I Unterabsatz 3 Buchstabe b und c der Verordnung (EU) Nr. 1308/2013 in der Fassung vom 17. Dezember 2013 einem bestimmten Erzeugnis vorbehalten ist, für ein anderes als ein dort genanntes Erzeugnis zu verwenden.
 
 # § 5
 

@@ -174,7 +174,7 @@ Zweck dieser Verordnung ist es, durch die Einrichtung eines Kompetenzzentrums di
 
 # § 7 – Beauftragung Dritter mit der Erstellung von Spezifikationen
 
-(1) Das Kompetenzzentrum kann fachlich geeignete natürliche Personen oder fachlich geeignete juristische Personen des öffentlichen oder privaten Rechts mit der Spezifikation von technischen, semantischen und syntaktischen Standards, Profilen, Leitfäden, Informationsmodellen, Referenzarchitekturen und Softwarekomponenten beauftragen.
+(1) Das Kompetenzzentrum kann fachlich geeignete natürliche Personen oder fachlich geeignete juristische Personen des öffentlichen oder privaten Rechts mit der Erstellung und Fortschreibung von Spezifikationen nach § 384 Satz 1 Nummer 7 des Fünften Buches Sozialgesetzbuch beauftragen.
 
 (2) Fachlich geeignet ist, wer die technischen, organisatorischen und wirtschaftlichen Fertigkeiten, Kenntnisse und Fähigkeiten besitzt, die für die Spezifikation von interoperablen technischen, semantischen und syntaktischen Standards, Profilen, Leitfäden, Informationsmodellen, Referenzarchitekturen oder Softwarekomponenten erforderlich sind. Näheres zu den Anforderungen an die fachliche Eignung nach Satz 1 ist in der Geschäfts- und Verfahrensordnung nach § 18 zu regeln.
 
@@ -284,9 +284,9 @@ Die Geschäfts- und Verfahrensordnung nach § 18 regelt Näheres zu den Antragsi
 
 (3) Die Ausstellung des Zertifikats wird der Antragstellerin oder dem Antragsteller in elektronischer Form bekannt gegeben.
 
-(4) Die Angaben über gestellte Anträge, die Ausstellung, die Versagung, die Rücknahme oder den Widerruf eines Zertifikats sind vom Kompetenzzentrum auf der Plattform nach § 6 zu veröffentlichen.
+(4) Die Angaben über gestellte Anträge, die Ausstellung, die Verlängerung, die Versagung, die Rücknahme oder den Widerruf eines Zertifikats sind vom Kompetenzzentrum auf der Plattform nach § 6 zu veröffentlichen.
 
-(5) Auf die Rücknahme oder den Widerruf der Ausstellung eines Zertifikats sind die §§ 48 und 49 des Verwaltungsverfahrensgesetzes anzuwenden.
+(5) Die Gültigkeitsdauer des Zertifikats nach Absatz 2 Nummer 4 kann durch das Kompetenzzentrum auf Antrag eines Herstellers oder Anbieters im Verfahren nach § 387 Absatz 1 des Fünften Buches Sozialgesetzbuch und innerhalb des Rahmens des § 387 Absatz 4 Satz 1 des Fünften Buches Sozialgesetzbuch verlängert werden, soweit und solange ein bereits zertifiziertes informationstechnisches System mit den geltenden Interoperabilitätsanforderungen übereinstimmt. Auf die Rücknahme oder den Widerruf der Ausstellung eines Zertifikats sind die §§ 48 und 49 des Verwaltungsverfahrensgesetzes anzuwenden.
 
 (6) Die beim Kompetenzzentrum beschäftigten oder von ihm beauftragten Personen dürfen bei ihrer Tätigkeit erhaltene vertrauliche Informationen nicht unbefugt offenbaren oder verwerten, auch wenn sie nicht mehr im Dienst sind oder ihre Tätigkeit beendet ist. Dies gilt auch für andere Personen, die durch dienstliche Berichterstattung Kenntnis von den in Satz 1 bezeichneten Informationen erhalten.
 
@@ -372,7 +372,7 @@ Darüber hinaus regelt die Geschäfts- und Verfahrensordnung Näheres zur Mitbes
 
 # § 19 – Evaluation
 
-Das Bundesministerium für Gesundheit beauftragt eine externe Forschungseinrichtung mit der Evaluation des Kompetenzzentrums und der Erfüllung seiner Aufgaben nach § 2 Absatz 2. Das Evaluationsgutachten soll alle drei Jahre, zum ersten Mal zum 30. September 2026, vorliegen.
+Das Bundesministerium für Gesundheit beauftragt eine externe Forschungseinrichtung mit der Evaluation des Kompetenzzentrums und der Erfüllung seiner Aufgaben nach § 2 Absatz 2. Das Evaluationsgutachten soll alle drei Jahre, zum ersten Mal zum 31. März 2028, vorliegen.
 
 # § 20 – Inkrafttreten, Außerkrafttreten
 
@@ -422,42 +422,61 @@ bereich</th>
 </thead>
 <tbody data-valign="top">
 <tr class="odd">
-<td rowspan="4" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">001</td>
-<td rowspan="4" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Implementierungs-<br />
+<td rowspan="5" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">001</td>
+<td rowspan="5" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Implementierungs-<br />
 leitfaden Primär-<br />
 systeme – elektro-<br />
 nische<br />
 Patientenakte (ePA)</td>
-<td rowspan="4" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Leitfaden zur Um-<br />
+<td rowspan="5" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Leitfaden zur Um-<br />
 setzung der relevanten Anforderungen bezüglich der Interoperabilität zwischen den ePA-Akten-<br />
 systemen und Primärsystemen hinsichtlich der Um-<br />
 setzung<br />
 der elektronischen<br />
 Medika-<br />
 tionsliste (eML)</td>
-<td rowspan="4" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3.1.0</td>
-<td rowspan="4" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3.10.2</td>
-<td rowspan="4" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">14.09.2024</td>
-<td rowspan="4" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">15.01.2025</td>
-<td rowspan="4" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">§ 355 Absatz 3 Satz 2 Nummer 1 Fünftes Buch<br />
+<td rowspan="5" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3.1.0</td>
+<td rowspan="5" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3.10.2</td>
+<td rowspan="5" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">14.09.2024</td>
+<td rowspan="5" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15.01.2025</td>
+<td rowspan="5" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§ 355 Absatz 3 Satz 2 Nummer 1 Fünftes Buch<br />
 Sozialgesetzbuch</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">1.</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Praxisverwaltungssysteme (PVS),</td>
 </tr>
 <tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">2.</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Zahnärzt-<br />
 liche Praxisverwaltungssysteme (ZPVS),</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">3.</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">Krankenhausin-<br />
 formationssysteme (KIS) und</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">4.</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Apothekenverwaltungs-<br />
+<tr class="odd">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4.</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Apothekenverwaltungs-<br />
 systeme (AVS)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">002</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">IOP-Anforderungen gemäß § 385 SGB V im Rahmen der Schnittstellen für informationstechnische Systeme in Krankenhäusern</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Leitfaden zur Umsetzung der relevanten Anforderungen bezüglich der Interoperabilität zwischen informationstechnischen Systemen im Krankenhaus (ISiK) Stufe 5</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1.0.0</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">15.06.2026</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">31.05.2027</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">§ 373<br />
+Absatz 1 Satz 3<br />
+Fünftes Buch<br />
+Sozialgesetzbuch</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Krankenhausinformationssysteme (KIS)</td>
 </tr>
 </tbody>
 </table>

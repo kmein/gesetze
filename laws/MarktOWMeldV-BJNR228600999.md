@@ -69,17 +69,21 @@ Im Sinne dieser Verordnung sind:
 
 18. Milcherzeugnisse:
 
-a) Butter und andere Milchstreichfette im Sinne der Butterverordnung,
+a) Butter: Butter im Sinne des § 3 Absatz 1 Nummer 16 der Milchproduktqualitätsverordnung,
 
-b) Käse und Erzeugnisse aus Käse im Sinne der Käseverordnung,
+b) Käse: Käse im Sinne des § 26 der Milchproduktqualitätsverordnung,
 
-c) Milcherzeugnisse im Sinne der Verordnung über Milcherzeugnisse,
+c) Erzeugnisse aus Käse: Erzeugnisse aus Käse im Sinne des § 34 der Milchproduktqualitätsverordnung,
 
-d) sonstige Milcherzeugnisse,
+d) bestimmte andere Milchstreichfette: bestimmte andere Milchstreichfette im Sinne des § 3 Absatz 1 Nummer 17 der Milchproduktqualitätsverordnung,
 
-e) Mischfetterzeugnisse nach Nummer 11 sowie
+e) eingedickte Milch: eingedickte Milch im Sinne des § 3 Absatz 1 Nummer 27 der Milchproduktqualitätsverordnung,
 
-f) Zubereitungen von Mischfetterzeugnissen,
+f) Trockenmilch: Trockenmilch im Sinne des § 3 Absatz 1 Nummer 30 der Milchproduktqualitätsverordnung,
+
+g) weitere Milcherzeugnisse: Milcherzeugnisse im Sinne der Anlage 8 der Milchproduktqualitätsverordnung,
+
+h) sonstige Milcherzeugnisse: Milcherzeugnisse im Sinne des § 3 Absatz 1 Nummer 6 der Milchproduktqualitätsverordnung, soweit sie nicht unter die Buchstaben a bis g fallen,
 
 19. jährliche Meldungen: Meldungen, deren Angaben für einen Jahreszeitraum zusammengefasst sind; diese Jahreszeiträume umfassen bezüglich
 
@@ -505,13 +509,13 @@ Sofern dies die zuständige Stelle genehmigt, kann abweichend von Satz 1 die Mol
 
 (2) Molkereien haben darüber hinaus nach Maßgabe der Sätze 2 und 3 Meldungen nach § 6 Absatz 1 Satz 1 und Absatz 3 und § 7 Nummer 2 mit folgenden Angaben abzugeben:
 
-1. die Herstellung von Konsummilch im Sinne des § 1 Nummer 17 und von Milcherzeugnissen im Sinne des § 1 Nummer 18 Buchstabe a bis d, gesondert nach dem jeweiligen Erzeugnis in Kilogramm unter Angabe des jeweiligen Fettgehalts in Fetteinheiten und des Eiweißgehalts in Eiweißeinheiten, und zusätzlich bei
+1. die Herstellung von Konsummilch im Sinne des § 1 Nummer 17 und von Milcherzeugnissen im Sinne des § 1 Nummer 18, gesondert nach dem jeweiligen Erzeugnis in Kilogramm unter Angabe des jeweiligen Fettgehalts in Fetteinheiten und des Eiweißgehalts in Eiweißeinheiten, und zusätzlich bei
 
 a) Konsummilch, Buttermilcherzeugnissen und Milchmischerzeugnissen auch untergliedert nach Gebindegrößen,
 
 b) Buttermilcherzeugnissen, ungezuckerten und gezuckerten Kondensmilcherzeugnissen, Trockenmilcherzeugnissen, Molkenerzeugnissen, Milcheiweißerzeugnissen, Milchmischerzeugnissen, Molkenmischerzeugnissen und Milchfetterzeugnissen im Sinne der Verordnung über Milcherzeugnisse auch gesondert nach ökologischer Wirtschaftsweise,
 
-2. für jede Gruppe von Milcherzeugnissen, im Fall von Trockenmilcherzeugnissen, Butter, Milchfett- und Milchstreichfetterzeugnissen gesondert nach dem jeweiligen Erzeugnis, die zur Herstellung verarbeitete Menge an Vollmilch und an Magermilch jeweils in Kilogramm,
+2. für jede Gruppe von Milcherzeugnissen, im Fall von Trockenmilcherzeugnissen und Butter gesondert nach dem jeweiligen Erzeugnis, sowie für Mischfetterzeugnisse und Zubereitungen aus Mischfetterzeugnissen die zur Herstellung verarbeitete Menge an Vollmilch und an Magermilch jeweils in Kilogramm,
 
 3. für Molkenerzeugnisse die verarbeitete Menge an Molke in Kilogramm Flüssigmolkeäquivalent,
 
@@ -581,7 +585,7 @@ Die Preise sind in Euro je Tonne Produktgewicht anzugeben.
 
 4. Hackfleisch rein vom Schwein, gekühlt, unter Schutzatmosphäre abgepackt, oder tiefgefroren in Packungen bis zu 500 Gramm,
 
-5. Deutsche Markenbutter, geformt, in Packungen von 250 Gramm,
+5. Markenbutter, geformt, in Packungen von 250 Gramm,
 
 6. schnittfesten Mozzarella mit mindestens 45 Prozent Trockenmasse, gerieben, in Scheiben oder am Stück, in Packungen bis zu 500 Gramm,
 

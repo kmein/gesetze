@@ -1236,7 +1236,6 @@
 - [BuTMedAusbV](laws/BuTMedAusbV-BJNR030000020.md) Verordnung über die Berufsausbildung zum Mediengestalter Bild und Ton und zur Mediengestalterin Bild und Ton*
 - [BuTMedienMstrBAProFV](laws/BuTMedienMstrBAProFV-BJNR0FC0A0023.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Meister für Medienproduktion Bild und Ton oder Geprüfte Meisterin für Medienproduktion Bild und Ton – Bachelor Professional in Medienproduktion Bild und Ton
 - [Butt/KäseuaPrV](laws/Butt_KäseuaPrV-BJNR276800997.md) Verordnung über Preisnotierung, Preisermittlung und Preiserhebung für Milcherzeugnisse
-- [ButtV 1997](laws/ButtV_1997-BJNR014410997.md) Verordnung über Butter und andere Milchstreichfette
 - [BUZAV](laws/BUZAV-BJNR023940990.md) Verordnung über die Bestätigung der Umstellungsrechnung und das Verfahren der Zuteilung und des Erwerbs von Ausgleichsforderungen
 - [BVABesZustAnO](laws/BVABesZustAnO-BJNR066900012.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundesversicherungsamtes sowie bei Klagen des Dienstherrn in besoldungsrechtlichen Angelegenheiten
 - [BVAG](laws/BVAG-BJNR004150956.md) Gesetz über die Errichtung des Bundesversicherungsamts, die Aufsicht über die Sozialversicherungsträger und die Regelung von Verwaltungszuständigkeiten in der Sozialversicherung und der betrieblichen Altersfürsorge
@@ -2413,7 +2412,6 @@
 - [HärteV](laws/HärteV-BJNR014490974.md) Verordnung über Zusatzleistungen in Härtefällen nach dem Bundesausbildungsförderungsgesetz
 - [HafenlogAusbV](laws/HafenlogAusbV-BJNR021300006.md) Verordnung über die Berufsausbildung zur Fachkraft für Hafenlogistik
 - [HafenSchAusbV](laws/HafenSchAusbV-BJNR020600006.md) Verordnung über die Berufsausbildung zum Hafenschiffer/zur Hafenschifferin
-- [HaftEntschBefStoffeSeeÜbk](laws/HaftEntschBefStoffeSeeÜbk-BJNR040000096.md) Internationales Übereinkommen von 2010 über die Haftung und Entschädigung für Schäden bei der Beförderung schädlicher und gefährlicher Stoffe auf See
 - [HaftPflG](laws/HaftPflG-BJNR002070871.md) Haftpflichtgesetz
 - [HAG](laws/HAG-BJNR001910951.md) Heimarbeitsgesetz
 - [HAGDV 1](laws/HAGDV_1-BJNR005110951.md) Erste Rechtsverordnung zur Durchführung des Heimarbeitsgesetzes
@@ -2730,7 +2728,6 @@
 - [KälteanlMstrV](laws/KälteanlMstrV-BJNR127600015.md) Verordnung über die Meisterprüfung in den Teilen I und II im Kälteanlagenbauer-Handwerk
 - [KälteMechaAusbV](laws/KälteMechaAusbV-BJNR149300007.md) Verordnung über die Berufsausbildung zum Mechatroniker für Kältetechnik/zur Mechatronikerin für Kältetechnik
 - [KaEntwBkÜbkG](laws/KaEntwBkÜbkG-BJNR202980989.md) Gesetz zu dem Übereinkommen vom 18. Oktober 1969 zur Errichtung der Karibischen Entwicklungsbank
-- [KäseV](laws/KäseV-BJNR511800965.md) Käseverordnung
 - [KaFbMstrV](laws/KaFbMstrV-BJNR283600019.md) Verordnung über die Meisterprüfung in den Teilen I und II im Karosserie- und Fahrzeugbauer-Handwerk
 - [KaffeeRatVorRV](laws/KaffeeRatVorRV-BJNR200890974.md) Verordnung über die Gewährung von Vorrechten und Befreiungen an die Internationale Kaffee-Organisation nach der Entschließung Nr. 264 des Internationalen Kaffee-Rates vom 14. April 1973 zur Verlängerung des Internationalen Kaffee-Übereinkommens 1968
 - [KaffeeStG](laws/KaffeeStG-BJNR191900009.md) Kaffeesteuergesetz
@@ -3044,7 +3041,6 @@
 - [LMIDV](laws/LMIDV-BJNR227210017.md) Verordnung zur Durchführung unionsrechtlicher Vorschriften betreffend die Information der Verbraucher über Lebensmittel
 - [LMRStV 2006](laws/LMRStV_2006-BJNR213600006.md) Verordnung zur Durchsetzung lebensmittelrechtlicher Rechtsakte der Europäischen Gemeinschaft
 - [LMTAusbV 2000](laws/LMTAusbV_2000-BJNR011500000.md) Verordnung über die Berufsausbildung zur Fachkraft für Lebensmitteltechnik
-- [LMvitV](laws/LMvitV-BJNR005380942.md) Verordnung über vitaminisierte Lebensmittel
 - [LMZDV](laws/LMZDV-BJNR136210021.md) Verordnung zur Durchführung unionsrechtlicher Vorschriften über Lebensmittelzusatzstoffe
 - [LNGG](laws/LNGG-BJNR080200022.md) Gesetz zur Beschleunigung des Einsatzes verflüssigten Erdgases
 - [LNGV](laws/LNGV-BJNR632100022.md) Verordnung zu regulatorischen Rahmenbedingungen für LNG-Anlagen
@@ -3323,13 +3319,12 @@
 - [MietRVerbG](laws/MietRVerbG-BJNR017459971.md) Gesetz zur Verbesserung des Mietrechts und zur Begrenzung des Mietanstiegs sowie zur Regelung von Ingenieur- und Architektenleistungen
 - [MighEV](laws/MighEV-BJNR137200010.md) Verordnung zur Erhebung der Merkmale des Migrationshintergrundes
 - [MikrotAusbV](laws/MikrotAusbV-BJNR047700998.md) Verordnung über die Berufsausbildung zum Mikrotechnologen/zur Mikrotechnologin
-- [MilchErzV](laws/MilchErzV-BJNR011500970.md) Verordnung über Milcherzeugnisse
 - [MilchFettG](laws/MilchFettG-BJNR001350951.md) Gesetz über den Verkehr mit Milch, Milcherzeugnissen und Fetten
-- [MilchKennzV](laws/MilchKennzV-BJNR013010974.md) Verordnung über die Kennzeichnung wärmebehandelter Konsummilch
 - [MilchLAusbStEignV](laws/MilchLAusbStEignV-BJNR136100014.md) Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Milchwirtschaftlichen Laboranten und zur Milchwirtschaftlichen Laborantin
 - [MilchLAusbV](laws/MilchLAusbV-BJNR140500013.md) Verordnung über die Berufsausbildung zum Milchwirtschaftlichen Laboranten und zur Milchwirtschaftlichen Laborantin*
 - [MilchLMeistPrV](laws/MilchLMeistPrV-BJNR419400021.md) Verordnung über die Meisterprüfung zum anerkannten Fortbildungsabschluss Milchwirtschaftlicher Labormeister – Bachelor Professional im milchwirtschaftlichen Laborwesen und Milchwirtschaftliche Labormeisterin – Bachelor Professional im milchwirtschaftlichen Laborwesen
 - [MilchMargG](laws/MilchMargG-BJNR014710990.md) Gesetz über Milch, Milcherzeugnisse, Margarineerzeugnisse und ähnliche Erzeugnisse
+- [MilchPQV](laws/MilchPQV-BJNR1180B0025.md) Verordnung über Qualitätsanforderungen an Milchprodukte 2
 - [MilchQBALMZustV](laws/MilchQBALMZustV-BJNR010260978.md) Verordnung über die Zuständigkeit der Bundesanstalt für Landwirtschaft und Ernährung bei Maßnahmen zur Verbesserung der Milchqualität
 - [MilchQuotV](laws/MilchQuotV-BJNR035900008.md) Verordnung zur Durchführung der EU-Milchquotenregelung
 - [MilchSonMaßG](laws/MilchSonMaßG-BJNR304510016.md) Gesetz zur Durchführung von Sondermaßnahmen der Europäischen Union im Milchmarktbereich
@@ -4008,7 +4003,6 @@
 - [PBV](laws/PBV-BJNR152800995.md) Verordnung über die Rechnungs- und Buchführungspflichten der Pflegeeinrichtungen
 - [PBZugV](laws/PBZugV-BJNR085100000.md) Berufszugangsverordnung für den Straßenpersonenverkehr
 - [PCBAbfallV](laws/PCBAbfallV-BJNR093210000.md) Verordnung über die Entsorgung polychlorierter Biphenyle, polychlorierter Terphenyle und halogenierter Monomethyldiphenylmethane
-- [PCTAO](laws/PCTAO-BJNR207210976.md) Ausführungsordnung zum Vertrag über die internationale Zusammenarbeit auf dem Gebiet des Patentwesens
 - [PEhrlInstZustV](laws/PEhrlInstZustV-BJNR148700996.md) Verordnung zur Änderung der Zuständigkeit des Paul-Ehrlich-Instituts
 - [PelzVAusbV](laws/PelzVAusbV-BJNR007810981.md) Verordnung über die Berufsausbildung zum Pelzveredler/zur Pelzveredlerin
 - [PEPPV 2013](laws/PEPPV_2013-BJNR230300012.md) Verordnung zum pauschalierenden Entgeltsystem für psychiatrische und psychosomatische Einrichtungen für das Jahr 2013
@@ -4574,7 +4568,6 @@
 - [SeeEigensichV](laws/SeeEigensichV-BJNR278710005.md) Verordnung zur Eigensicherung von Seeschiffen zur Abwehr äußerer Gefahren
 - [SeeFischG](laws/SeeFischG-BJNR008760984.md) Gesetz zur Regelung der Seefischerei und zur Durchführung des Fischereirechts der Europäischen Union
 - [SeefischGBußgÜbertrV](laws/SeefischGBußgÜbertrV-BJNR462100021.md) Verordnung zur Übertragung der Ermächtigung zum Erlass einer Bußgeldverordnung nach dem Seefischereigesetz
-- [SeeFischVtrG 1976](laws/SeeFischVtrG_1976-BJNR215420976.md) Gesetz zu dem Übereinkommen vom 23. Oktober 1969 zur Erhaltung der lebenden Schätze des Südostatlantiks, zu dem Protokoll vom 21. Januar 1972 zur Änderung des Übereinkommens vom 20. Dezember 1962 über den Schutz des Lachsbestandes in der Ostsee, zur Konvention vom 13. September 1973 über die Fischerei und den Schutz der lebenden Ressourcen in der Ostsee und den Belten sowie zur Änderung des Seefischerei-Vertragsgesetzes 1971
 - [SeefiV](laws/SeefiV-BJNR014850989.md) Seefischereiverordnung
 - [SeeFSichV 1993](laws/SeeFSichV_1993-BJNR141700993.md) Verordnung über die Sicherung der Seefahrt
 - [SeeFSichV1993AnwBek](laws/SeeFSichV1993AnwBek-BJNR032010015.md) Bekanntmachung über die Anwendbarkeit von Teilen der Verordnung über die Sicherung der Seefahrt
