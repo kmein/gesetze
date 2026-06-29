@@ -1,4 +1,4 @@
-% Gesetz über das Flaggenrecht der Seeschiffe und die Flaggenführung der Binnenschiffe  (Flaggenrechtsgesetz)
+% Gesetz über das Flaggenrecht der Seeschiffe und die Flaggenführung der Binnenschiffe *  (Flaggenrechtsgesetz)
 % Ausfertigungsdatum: 08.02.1951
  
 # § 1

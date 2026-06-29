@@ -1389,6 +1389,26 @@ Die nach § 37m Absatz 1 zuständige Stelle kann die Maßnahmen treffen, die zur
 
 In Rechtsverordnungen nach Satz 1 kann die Zuständigkeit zur Durchführung einer in einer Rechtsverordnung nach Absatz 1 Satz 2 bestimmten Stelle übertragen werden.
 
+# § 37n – Zahlungen und Konformitätsnachweise nach der Verordnung (EU) 2023/1805; Zuständigkeit des Umweltbundesamtes
+
+(1) Das Umweltbundesamt setzt die in Artikel 23 Absatz 2 der Verordnung (EU) 2023/1805 vorgesehenen Zahlungen gegen das jeweilige Schifffahrtsunternehmen fest.
+
+(2) Widerspruch und Anfechtungsklage gegen die Festsetzung der Zahlungspflicht nach Absatz 1 und gegen eine Entscheidung des Umweltbundesamtes, die auf einen Antrag auf Überprüfung nach Artikel 26 Absatz 1 der Verordnung (EU) 2023/1805 hin erfolgt, haben keine aufschiebende Wirkung.
+
+(3) Ist für Streitigkeiten nach dieser Vorschrift der Verwaltungsrechtsweg gegeben, so ist für Klagen, die sich gegen eine Handlung oder eine Unterlassung des Umweltbundesamtes richten, das Verwaltungsgericht am Sitz der Deutschen Emissionshandelsstelle im Umweltbundesamt örtlich zuständig.
+
+(4) Die Einnahmen aus den Zahlungen nach Absatz 1 werden an den Bundeshaushalt geleistet.
+
+(5) Das Umweltbundesamt ist zuständig für:
+
+1. die unverzügliche Erfassung der Nachweise der Zahlungen nach Absatz 1 in der Datenbank nach Artikel 19 Absatz 1 der Verordnung (EU) 2023/1805,
+
+2. die Ausstellung eines Konformitätsnachweises nach Artikel 22 Absatz 2 der Verordnung (EU) 2023/1805,
+
+3. die unverzügliche Erfassung eines Konformitätsnachweises nach Artikel 22 Absatz 5 der Verordnung (EU) 2023/1805 und
+
+4. die Überprüfung nach Artikel 26 der Verordnung (EU) 2023/1805.
+
 # § 38 – Beschaffenheit und Betrieb von Fahrzeugen
 
 (1) Kraftfahrzeuge und ihre Anhänger, Schienen-, Luft- und Wasserfahrzeuge sowie Schwimmkörper und schwimmende Anlagen müssen so beschaffen sein, dass ihre durch die Teilnahme am Verkehr verursachten Emissionen bei bestimmungsgemäßem Betrieb die zum Schutz vor schädlichen Umwelteinwirkungen einzuhaltenden Grenzwerte nicht überschreiten. Sie müssen so betrieben werden, dass vermeidbare Emissionen verhindert und unvermeidbare Emissionen auf ein Mindestmaß beschränkt bleiben.

@@ -419,7 +419,7 @@ b) den angelaufenen Geldbetrag in Höhe des Marktwertes des Reverse-Repo-Geschä
 
 # § 27 – Anrechnungsbetrag für das Kontrahentenrisiko
 
-(1) Derivate, Wertpapier-Darlehen und Pensionsgeschäfte dürfen nur insoweit abgeschlossen werden, als der Anrechnungsbetrag für das Kontrahentenrisiko des Vertragspartners 5 Prozent des Wertes des Investmentvermögens nicht überschreitet. Wenn der Vertragspartner ein Kreditinstitut mit Sitz in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ist oder seinen Sitz in einem Drittstaat hat und Aufsichtsbestimmungen unterliegt, die nach Ansicht der Bundesanstalt denjenigen des Gemeinschaftsrechtes gleichwertig sind, darf der Anrechnungsbetrag bis zu 10 Prozent des Wertes des Investmentvermögens betragen. Überschreitet der Anrechnungsbetrag für das Kontrahentenrisiko die Grenze nach Satz 1 oder Satz 2, darf die Kapitalverwaltungsgesellschaft weitere Geschäfte mit dem Vertragspartner nur tätigen, wenn der Anrechnungsbetrag dadurch nicht erhöht wird. Die Grenze gemäß § 200 Absatz 1 des Kapitalanlagegesetzbuches bleibt unberührt.
+(1) Derivate, die nicht durch eine gemäß Artikel 14 der Verordnung (EU) Nr. 648/2012 zugelassene oder gemäß Artikel 25 der Verordnung (EU) Nr. 648/2012 anerkannte zentrale Gegenpartei gecleart werden, Wertpapier-Darlehen und Pensionsgeschäfte dürfen nur insoweit abgeschlossen werden, als der Anrechnungsbetrag für das Kontrahentenrisiko des Vertragspartners 5 Prozent des Wertes des Investmentvermögens nicht überschreitet. Wenn der Vertragspartner ein Kreditinstitut mit Sitz in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ist oder seinen Sitz in einem Drittstaat hat und Aufsichtsbestimmungen unterliegt, die nach Ansicht der Bundesanstalt denjenigen des Gemeinschaftsrechtes gleichwertig sind, darf der Anrechnungsbetrag bis zu 10 Prozent des Wertes des Investmentvermögens betragen. Überschreitet der Anrechnungsbetrag für das Kontrahentenrisiko die Grenze nach Satz 1 oder Satz 2, darf die Kapitalverwaltungsgesellschaft weitere Geschäfte mit dem Vertragspartner nur tätigen, wenn der Anrechnungsbetrag dadurch nicht erhöht wird. Die Grenze gemäß § 200 Absatz 1 des Kapitalanlagegesetzbuches bleibt unberührt.
 
 (2) Die Kapitalverwaltungsgesellschaft kann bei Spezial-AIF mit festen Anlagebedingungen unter den Voraussetzungen des § 284 Absatz 2 des Kapitalanlagegesetzbuches von Absatz 1 abweichen. Der Grundsatz der Risikomischung nach § 282 Absatz 1 des Kapitalanlagegesetzbuches bleibt hiervon unberührt.
 
@@ -656,6 +656,8 @@ Die Informationen nach § 35 Absatz 2 sind in zusammengefasster Form auch in den
 4. gegebenenfalls weitere Informationen, die die Bundesanstalt bei der Anforderung festlegt.
 
 (3) Die Bundesanstalt kann der Deutschen Bundesbank, der Europäischen Wertpapier- und Marktaufsichtsbehörde und dem Europäischen Ausschuss für Systemrisiken die nach den Absätzen 1 und 2 eingehenden Informationen zum Zweck der Überwachung von Systemrisiken übermitteln.
+
+(4) Sofern die Kapitalverwaltungsgesellschaft ihrer Meldepflicht nach § 35 des Kapitalanlagegesetzbuches nachkommt, entfällt die Berichtspflicht nach § 38 Absatz 1.
 
 # § 39 – Anwendbarkeit
 

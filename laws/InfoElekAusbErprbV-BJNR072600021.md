@@ -15,4 +15,4 @@ Der Ausbildungsbetrieb hat die Prüfungsvariante nach Satz 1 auszuwählen und si
 
 # § 2 – Zeitliche Anwendung
 
-§ 1 ist für Prüfungen anzuwenden, die bis zum Ablauf des 30. Juni 2026 begonnen werden.
+§ 1 ist für Prüfungen anzuwenden, die bis zum Ablauf des 30. Juni 2028 begonnen werden.

@@ -1671,7 +1671,7 @@
 - [EntsorgFondsGZVereinnV](laws/EntsorgFondsGZVereinnV-BJNR167400017.md) Verordnung über die Vereinnahmung von Zahlungen nach dem Entsorgungsfondsgesetz
 - [EntsorgÜG](laws/EntsorgÜG-BJNR012000017.md) Gesetz zur Regelung des Übergangs der Finanzierungs- und Handlungspflichten für die Entsorgung radioaktiver Abfälle der Betreiber von Kernkraftwerken
 - [EntwLStG](laws/EntwLStG-BJNR010130963.md) Gesetz über steuerliche Maßnahmen zur Förderung von privaten Kapitalanlagen in Entwicklungsländern
-- [EnVKG](laws/EnVKG-BJNR107010012.md) Gesetz zur Kennzeichnung von energieverbrauchsrelevanten Produkten, Kraftfahrzeugen und Reifen mit Angaben über den Verbrauch an Energie und an anderen wichtigen Ressourcen
+- [EnVKG](laws/EnVKG-BJNR107010012.md) Gesetz zur Kennzeichnung von energieverbrauchsrelevanten Produkten, Personenkraftwagen und Reifen mit Angaben über den Verbrauch an Energie und an anderen wichtigen Ressourcen
 - [EnVKV](laws/EnVKV-BJNR261600997.md) Verordnung zur Kennzeichnung von energieverbrauchsrelevanten Produkten mit Angaben über den Verbrauch an Energie und an anderen wichtigen Ressourcen
 - [EnWFachwBAProFV](laws/EnWFachwBAProFV-BJNR1000A0023.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Fachwirt für Energiewirtschaft oder Geprüfte Fachwirtin für Energiewirtschaft – Bachelor-Professional in Energiewirtschaft
 - [EnWG](laws/EnWG-BJNR197010005.md) Gesetz über die Elektrizitäts- und Gasversorgung
@@ -1925,7 +1925,7 @@
 - [FinAusglG2016DV 2](laws/FinAusglG2016DV_2-BJNR136600018.md) Zweite Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2016
 - [FinAusglG2017DV 2](laws/FinAusglG2017DV_2-BJNR039300021.md) Zweite Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2017
 - [FinAusglG2018DV 2](laws/FinAusglG2018DV_2-BJNR0DF0A0025.md) Zweite Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2018
-- [FinAusglG2019DV 1](laws/FinAusglG2019DV_1-BJNR034100019.md) Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2019
+- [FinAusglG2019DV 2](laws/FinAusglG2019DV_2-BJNR0B10A0026.md) Zweite Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2019
 - [FinAusglG2020DV 1](laws/FinAusglG2020DV_1-BJNR059300020.md) Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2020
 - [FinAusglG2021DV 1](laws/FinAusglG2021DV_1-BJNR039500021.md) Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2021
 - [FinAusglG2022DV 1](laws/FinAusglG2022DV_1-BJNR046000022.md) Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2022
@@ -1970,7 +1970,7 @@
 - [FKSDVO](laws/FKSDVO-BJNR177800019.md) Verordnung zur Bestimmung weiterer Daten, die im zentralen Informationssystem für die Finanzkontrolle Schwarzarbeit gespeichert werden
 - [FKüAusbV](laws/FKüAusbV-BJNR038900022.md) Verordnung über die Berufsausbildung zur Fachkraft Küche*
 - [FlaggAnO 1996](laws/FlaggAnO_1996-BJNR172900996.md) Anordnung über die deutschen Flaggen
-- [FlaggRG](laws/FlaggRG-BJNR000790951.md) Gesetz über das Flaggenrecht der Seeschiffe und die Flaggenführung der Binnenschiffe
+- [FlaggRG](laws/FlaggRG-BJNR000790951.md) Gesetz über das Flaggenrecht der Seeschiffe und die Flaggenführung der Binnenschiffe *
 - [FlBeihV](laws/FlBeihV-BJNR004110978.md) Verordnung über die Gewährung von Beihilfen für die private Lagerhaltung von Fleisch und Fleischerzeugnissen von Schweinen, Rindern und Schafen
 - [FlechtwAusbV](laws/FlechtwAusbV-BJNR059500006.md) Verordnung über die Berufsausbildung zum Flechtwerkgestalter/zur Flechtwerkgestalterin
 - [FleiAusbV 2005](laws/FleiAusbV_2005-BJNR089800005.md) Verordnung über die Berufsausbildung zum Fleischer/zur Fleischerin
@@ -3865,6 +3865,7 @@
 - [ODV](laws/ODV-BJNR234910011.md) Ortsbewegliche-Druckgeräte-Verordnung *)
 - [ÖDAPrV](laws/ÖDAPrV-BJNR16E0A0023.md) Verordnung über die Durchführung der Abschlussprüfung in den staatlich anerkannten Ausbildungsberufen des öffentlichen Dienstes
 - [ÖDZustG](laws/ÖDZustG-BJNR007050960.md) Gesetz über die Zuständigkeit auf dem Gebiet des Rechts des öffentlichen Dienstes
+- [ÖkodesignG](laws/ÖkodesignG-BJNR0BF0B0026.md) Gesetz über die umweltgerechte Gestaltung von Produkten 1
 - [ÖkoKennzG](laws/ÖkoKennzG-BJNR344100001.md) Gesetz zur Einführung und Verwendung eines Kennzeichens für Erzeugnisse des ökologischen Landbaus
 - [ÖkoKennzV](laws/ÖkoKennzV-BJNR058900002.md) Verordnung zur Gestaltung und Verwendung des Öko-Kennzeichens
 - [ÖLG](laws/ÖLG-BJNR235810008.md) Gesetz zur Durchführung der Rechtsakte der Europäischen Union auf dem Gebiet des ökologischen Landbaus sowie zur Regelung der Anforderungen an die Bio-Kennzeichnung in gemeinschaftlichen Verpflegungseinrichtungen

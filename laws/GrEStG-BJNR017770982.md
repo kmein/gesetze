@@ -476,9 +476,13 @@ Die Gerichte, Behörden und Notare dürfen Urkunden, die einen anzeigepflichtige
 
 (2) Das Finanzamt hat die Bescheinigung zu erteilen, wenn die Grunderwerbsteuer entrichtet, sichergestellt oder gestundet worden ist oder wenn Steuerfreiheit gegeben ist. Es darf die Bescheinigung auch in anderen Fällen erteilen, wenn nach seinem Ermessen die Steuerforderung nicht gefährdet ist. Das Finanzamt hat die Bescheinigung schriftlich zu erteilen. Eine elektronische Übermittlung der Bescheinigung ist ausgeschlossen.
 
-# § 22a – Ermächtigung
+# § 22a – Verordnungsermächtigung
 
-Zur Vereinfachung des Besteuerungsverfahrens wird das Bundesministerium der Finanzen ermächtigt, im Benehmen mit dem Bundesministerium des Innern, für Bau und Heimat und mit Zustimmung des Bundesrates durch Rechtsverordnung ein Verfahren zur elektronischen Übermittlung der Anzeige und der Abschrift der Urkunde im Sinne des § 18 näher zu bestimmen. Die Authentifizierung des Datenübermittlers sowie die Vertraulichkeit und Integrität des übermittelten elektronischen Dokuments sind sicherzustellen.
+Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz sowie mit Zustimmung des Bundesrates für Anzeigen nach § 18 Absatz 1 Satz 2, für die Abschrift der Urkunde nach § 18 Absatz 1 Satz 3 und für elektronisch zu erteilende Bescheinigungen nach § 22 Absatz 2 Satz 5 in der ab dem 1. Januar 2028 geltenden Fassung durch Rechtsverordnung
+
+1. Einzelheiten der Datenübermittlung und Datenbereitstellung zu regeln sowie Dateiformate und Anforderungen an die Barrierefreiheit für die zu übermittelnden und bereitzustellenden Dokumente festzulegen und
+
+2. zu bestimmen, dass Notare und Finanzämter neben dem elektronischen Dokument oder in diesem elektronischen Dokument die dort enthaltenen Angaben vollständig oder teilweise in strukturierter maschinenlesbarer Form übermitteln oder bereitstellen müssen.
 
 # § 23 – Anwendungsbereich
 
@@ -512,7 +516,7 @@ Zur Vereinfachung des Besteuerungsverfahrens wird das Bundesministerium der Fina
 
 (15) § 19 Absatz 3 Satz 2 in der am 23. Juli 2016 geltenden Fassung ist auf Erwerbsvorgänge anzuwenden, die nach dem 22. Juli 2016 verwirklicht werden.
 
-(16) § 1 Absatz 4 und § 18 Absatz 2 Satz 2 in der am 15. Dezember 2018 geltenden Fassung sind auf Erwerbsvorgänge anzuwenden, die nach dem 14. Dezember 2018 verwirklicht werden. Der Zeitpunkt der erstmaligen Anwendung des § 20 in der am 15. Dezember 2018 geltenden Fassung wird durch die Rechtsverordnung im Sinne des § 22a Satz 1 bestimmt.
+(16) § 1 Absatz 4 und § 18 Absatz 2 Satz 2 in der am 15. Dezember 2018 geltenden Fassung sind auf Erwerbsvorgänge anzuwenden, die nach dem 14. Dezember 2018 verwirklicht werden.
 
 (17) § 1 Absatz 1 Nummer 3 Satz 2 Buchstabe a und b und § 19 Absatz 6 in der Fassung des Artikels 32 des Gesetzes vom 21. Dezember 2020 (BGBl. I S. 3096) sind erstmals auf Erwerbsvorgänge anzuwenden, die nach dem 28. Dezember 2020 verwirklicht werden.
 
