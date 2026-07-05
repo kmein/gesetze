@@ -53,6 +53,7 @@
 | § 34              |                                                          | Patientenindividuelles Stellen oder Verblistern von Arzneimitteln                                                   |
 | § 35              |                                                          | Herstellung von Arzneimitteln zur parenteralen Anwendung                                                            |
 | § 35a             |                                                          | Vorbereitung und Durchführung von Schutzimpfungen durch öffentliche Apotheken                                       |
+| § 35b             |                                                          | Vorbereitung und Durchführung von Blutentnahmen durch öffentliche Apotheken                                         |
 | Fünfter Abschnitt |                                                          |                                                                                                                     |
 |                   | Ordnungswidrigkeiten, Übergangs- und Schlussvorschriften |                                                                                                                     |
 | § 36              |                                                          | Ordnungswidrigkeiten                                                                                                |
@@ -139,7 +140,13 @@ d) über Medizinprodukte,
 
 2. die Durchführung von einfachen Gesundheitstests,
 
-2a. die Vorbereitung und Durchführung von Schutzimpfungen,
+2a. die Durchführung von pharmazeutischen Dienstleistungen,
+
+2b. die Vorbereitung und Durchführung von Schutzimpfungen,
+
+2c. die Durchführung von Testungen,
+
+2d. die Vorbereitung und Durchführung von Blutentnahmen,
 
 3. das patientenindividuelle Anpassen von Medizinprodukten sowie
 
@@ -157,7 +164,13 @@ d) über Medizinprodukte,
 
 (17) Herstellen im geschlossenen System ist die Überführung steriler Ausgangsmaterialien oder Lösungen in ein vorsterilisiertes geschlossenes Behältnis, ohne dass der Inhalt dabei mit der äußeren Umgebung in Kontakt kommt.
 
-(18) Schutzimpfungen im Sinne dieser Verordnung sind Grippeschutzimpfungen und Schutzimpfungen gegen das Coronavirus SARS-CoV-2.
+(18) Schutzimpfungen im Sinne dieser Verordnung sind die in § 20c Absatz 1 des Infektionsschutzgesetzes genannten Schutzimpfungen.
+
+(19) Pharmazeutische Dienstleistungen im Sinne dieser Verordnung sind die in § 129 Absatz 5e Satz 2 und 3 des Fünften Buches Sozialgesetzbuch genannten pharmazeutischen Dienstleistungen.
+
+(20) Testungen im Sinne dieser Verordnung sind die in § 24 Absatz 1 Satz 2 des Infektionsschutzgesetzes genannten Testungen.
+
+(21) Blutentnahmen im Sinne dieser Verordnung sind venöse Blutentnahmen zu diagnostischen Zwecken nach § 11c des Apothekengesetzes.
 
 # § 2 – Apothekenleiter
 
@@ -165,15 +178,15 @@ d) über Medizinprodukte,
 
 1. bei einer Apotheke, die nach § 1 Abs. 2 des Gesetzes über das Apothekenwesen betrieben wird, der Inhaber der Erlaubnis nach § 2 des Apothekengesetzes, im Falle der Verpachtung, der Pächter,
 
-2. bei einer Apotheke oder Zweigapotheke, die nach § 13 oder § 16 des Gesetzes über das Apothekenwesen verwaltet wird, der Inhaber der Genehmigung,
+2. bei einer Apotheke, die nach § 13 des Apothekengesetzes verwaltet wird, der Inhaber der Genehmigung,
 
 3. bei einer Apotheke, die nach § 17 des Gesetzes über das Apothekenwesen betrieben wird, der von der zuständigen Behörde angestellte und mit der Leitung beauftragte Apotheker,
 
-4. bei einer Hauptapotheke nach § 2 Abs. 5 Nr. 1 des Apothekengesetzes der Inhaber der Erlaubnis nach § 2 Abs. 4 des Apothekengesetzes,
+4. bei einer Hauptapotheke im Sinne des § 2 Absatz 5 Satz 1 Nummer 1 des Apothekengesetzes der Betreiber und
 
-5. bei einer Filialapotheke nach § 2 Abs. 5 Nr. 2 des Apothekengesetzes der vom Betreiber benannte Verantwortliche.
+5. bei einer Filialapotheke im Sinne des § 2 Absatz 5 Satz 1 Nummer 2 des Apothekengesetzes der nach § 2 Absatz 5 Satz 1 Nummer 2 des Apothekengesetzes vom Betreiber benannte Verantwortliche und bei einer Zweigapotheke im Sinne des § 16 Absatz 1 Satz 1 des Apothekengesetzes der Betreiber oder im Fall der Benennung eines Verantwortlichen nach § 2 Absatz 5 Satz 1 Nummer 3 des Apothekengesetzes der vom Betreiber benannte Verantwortliche.
 
-(2) Der Apothekenleiter hat die Apotheke persönlich zu leiten. Er ist dafür verantwortlich, daß die Apotheke unter Beachtung der geltenden Vorschriften betrieben wird. Neben dem Apothekenleiter nach Absatz 1 Nr. 5 ist auch der Betreiber für die Einhaltung der zum Betreiben von Apotheken geltenden Vorschriften verantwortlich.
+(2) Der Apothekenleiter hat die Apotheke persönlich zu leiten. Er ist dafür verantwortlich, daß die Apotheke unter Beachtung der geltenden Vorschriften betrieben wird. Neben einem nach § 2 Absatz 5 Satz 1 Nummer 2 oder 3 des Apothekengesetzes benannten Verantwortlichen ist auch der Betreiber für die Einhaltung der zum Betreiben von Apotheken geltenden Vorschriften verantwortlich. Der Betreiber hat sich regelmäßig persönlich davon zu überzeugen, dass ein benannter Verantwortlicher seiner Verantwortung nachkommt.
 
 (3) Der Apothekenleiter hat der zuständigen Behörde jede weitere berufliche oder gewerbsmäßige Tätigkeit anzuzeigen, bevor sie aufgenommen wird.
 
@@ -181,13 +194,25 @@ d) über Medizinprodukte,
 
 1. die Aufklärung, die Anamnese und das Einholen der Einwilligung der zu impfenden Person durch Apotheker durchgeführt werden, die nach § 20c Absatz 1 des Infektionsschutzgesetzes zur Durchführung von Schutzimpfungen berechtigt sind,
 
-2. die Schutzimpfungen durch Apotheker durchgeführt werden, die nach § 20c Absatz 1 des Infektionsschutzgesetzes zur Durchführung von Schutzimpfungen berechtigt sind,
+2. die Impfstoffe durch Apotheker, die nach § 20c Absatz 1 des Infektionsschutzgesetzes zur Durchführung von Schutzimpfungen berechtigt sind, oder unter Aufsicht des Apothekers durch Personen verabreicht werden, an die die Verabreichung der Impfstoffe nach § 20c Absatz 4 Satz 1 des Infektionsschutzgesetzes delegiert wurde,
 
 3. eine geeignete Räumlichkeit mit der Ausstattung zur Verfügung steht, die für die Durchführung von Schutzimpfungen erforderlich ist, sofern kein aufsuchendes Impfen durchgeführt wird, und
 
 4. für seine Apotheke eine Betriebshaftpflichtversicherung besteht, die mögliche Schädigungen aus der Durchführung der Schutzimpfungen abdeckt.
 
 Der Apothekenleiter hat der zuständigen Behörde die Durchführung von Schutzimpfungen und, sofern nicht ausschließlich aufsuchendes Impfen durchgeführt wird, die dafür vorgesehenen Räumlichkeiten spätestens eine Woche vor Aufnahme der Impfungen anzuzeigen. Änderungen bezüglich der Durchführung von Schutzimpfungen oder der Räumlichkeiten sind der zuständigen Behörde spätestens eine Woche vor Umsetzung der Änderung anzuzeigen.
+
+(3b) Der Apothekenleiter hat sicherzustellen, dass Blutentnahmen nur durchgeführt werden, wenn
+
+1. die Aufklärung, die Anamnese und das Einholen der Einwilligung der Person, der Blut entnommen werden soll, durch Apotheker durchgeführt werden, die nach § 11c Absatz 1 des Apothekengesetzes zur Durchführung von Blutentnahmen berechtigt sind,
+
+2. die Blutentnahme durch Apotheker, die nach § 11c Absatz 1 des Apothekengesetzes zur Durchführung von Blutentnahmen berechtigt sind, oder unter Aufsicht des Apothekers durch Personen, an die nach § 11c Absatz 3 Satz 1 des Apothekengesetzes die Entnahme von venösem Blut delegiert wurde, erfolgt,
+
+3. eine geeignete Räumlichkeit mit der Ausstattung zur Verfügung steht, die für die Durchführung von Blutentnahmen sowie den Umgang mit Komplikationen erforderlich ist, und
+
+4. für seine Apotheke eine Betriebshaftpflichtversicherung besteht, die mögliche Schädigungen aus der Durchführung von Blutentnahmen abdeckt.
+
+Der Apothekenleiter hat die Durchführung von Blutentnahmen und die dafür vorgesehenen Räumlichkeiten spätestens eine Woche vor Aufnahme der Blutentnahmen gegenüber der zuständigen Behörde anzuzeigen. Änderungen bezüglich der Durchführung von Blutentnahmen oder der Räumlichkeiten sind der zuständigen Behörde spätestens eine Woche vor Umsetzung der Änderungen anzuzeigen.
 
 (4) Der Apothekenleiter darf neben Arzneimitteln und apothekenpflichtigen Medizinprodukten die in § 1a Absatz 10 genannten Waren nur in einem Umfang anbieten oder feilhalten, der den ordnungsgemäßen Betrieb der Apotheke und den Vorrang des Arzneimittelversorgungsauftrages nicht beeinträchtigt. Satz 1 ist auf die apothekenüblichen Dienstleistungen nach § 1a Absatz 11 entsprechend anzuwenden.
 
@@ -217,7 +242,7 @@ Der Apothekenleiter hat der zuständigen Behörde die Durchführung von Schutzim
 
 (2) Zur Gewährleistung eines ordnungsgemäßen Betriebs der Apotheke muss das notwendige Personal, insbesondere auch das pharmazeutische Personal, in ausreichender Zahl vorhanden sein. Das zur Versorgung eines Krankenhauses zusätzlich erforderliche Personal ergibt sich aus Art und Umfang einer medizinisch zweckmäßigen und ausreichenden Versorgung des Krankenhauses mit Arzneimitteln und apothekenpflichtigen Medizinprodukten unter Berücksichtigung von Größe, Art und Leistungsstruktur des Krankenhauses. Satz 2 gilt entsprechend für die Versorgung von Einrichtungen im Sinne von § 12a des Apothekengesetzes.
 
-(3) Die Apotheke darf nur geöffnet sein und betrieben werden, wenn ein Apotheker oder eine nach § 2 Absatz 6 Satz 1 vertretungsberechtigte Person anwesend ist. § 23 Absatz 3 bleibt unberührt.
+(3) Die Apotheke darf nur geöffnet sein und betrieben werden, wenn ein Apotheker, eine nach § 2 Absatz 6 Satz 1 vertretungsberechtigte Person oder im Fall einer Genehmigung nach § 29 Absatz 1 des Apothekengesetzes ein nach § 29 Absatz 3 des Apothekengesetzes zur vorübergehenden Aufrechterhaltung des Apothekenbetriebes befugter pharmazeutisch-technischer Assistent anwesend ist. § 23 Absatz 3 bleibt unberührt.
 
 (4) Die Bewertung der Analyse und die Beratung im Rahmen eines Medikationsmanagements müssen durch einen Apotheker der Apotheke erfolgen.
 
@@ -295,9 +320,13 @@ Satz 2 Nummer 1 Buchstabe a gilt nicht für die Herstellung von Arzneimitteln, f
 
 2. Räume, die den Versandhandel einschließlich des elektronischen Handels mit Arzneimitteln sowie die dazugehörige Beratung und Information betreffen,
 
-3. Räume, die für die Herstellungstätigkeiten nach § 34 oder § 35 genutzt werden, oder
+3. Räume, die für die Herstellungstätigkeiten nach § 34 oder § 35 genutzt werden,
 
-4. das Nachtdienstzimmer.
+4. Räume, die für die Durchführung von pharmazeutischen Dienstleistungen, Schutzimpfungen oder Testungen genutzt werden,
+
+5. Räume, die für die Durchführung von Blutentnahmen genutzt werden, oder
+
+6. das Nachtdienstzimmer.
 
 Diese Räume müssen jedoch in angemessener Nähe zu den übrigen Betriebsräumen liegen. Die Nutzung von Lager- oder Herstellungsräumen innerhalb des zu versorgenden Krankenhauses oder der zu versorgenden Einrichtung im Sinne des § 12a des Apothekengesetzes ist nicht zulässig.
 
@@ -811,6 +840,22 @@ Soweit nach § 4 Abs. 2 der Arzneimittelverschreibungsverordnung eine Verschreib
 
 (1a) Durch die Information und Beratung der Patienten und anderen Kunden darf die Therapie der zur Ausübung der Heilkunde, Zahnheilkunde oder Tierheilkunde berechtigten Personen nicht beeinträchtigt werden. Soweit Arzneimittel ohne Verschreibung abgegeben werden, hat der Apotheker dem Patienten und anderen Kunden die zur sachgerechten Anwendung erforderlichen Informationen zu geben.
 
+(1b) Die Durchführung einer in § 129 Absatz 5e Satz 2 und 3 des Fünften Buches Sozialgesetzbuch genannten pharmazeutischen Dienstleistung bei in der privaten Krankenversicherung Versicherten, Beihilfeempfängern und Selbstzahlern ist von der Apotheke mit ihrer Bezeichnung und dem Ergebnis in der elektronischen Patientenakte zu dokumentieren, sofern eine solche elektronische Patientenakte vorhanden ist, die Speicherung technisch möglich ist und der Patient der Speicherung nicht widersprochen hat. Die Apotheke hat die folgenden Ärzte elektronisch über ein sicheres Übermittlungsverfahren nach § 311 Absatz 6 über die jeweilige Durchführung der folgenden pharmazeutischen Dienstleistungen bei in der privaten Krankenversicherung Versicherten, Beihilfeempfängern oder Selbstzahlern zu informieren:
+
+1. den verschreibenden Arzt über jede der in § 129 Absatz 5e Satz 2 oder 3 des Fünften Buches Sozialgesetzbuch genannten pharmazeutischen Dienstleistungen,
+
+2. den behandelnden Hausarzt über eine in § 129 Absatz 5e Satz 3 Nummer 3 des Fünften Buches Sozialgesetzbuch genannte pharmazeutische Dienstleistung und
+
+3. den behandelnden Arzt über eine in § 129 Absatz 5e Satz 3 Nummer 6 oder 7 des Fünften Buches Sozialgesetzbuch genannte pharmazeutische Dienstleistung.
+
+(1c) Bei einer Abgabe von Arzneimitteln nach § 48a des Arzneimittelgesetzes hat der Apotheker die in Satz 3 Nummer 2 und 3 genannten Angaben in der elektronischen Patientenakte des Patienten zu dokumentieren, sofern eine solche elektronische Patientenakte vorhanden ist, die Speicherung technisch möglich ist und der Patient der Speicherung nicht widersprochen hat. Ist keine elektronische Patientenakte vorhanden, hat der Apotheker dem Patienten eine schriftliche Dosierungsanweisung mitzugeben. In der Apotheke sind nach einer Abgabe von Arzneimitteln nach § 48a des Arzneimittelgesetzes die folgenden Angaben zu dokumentieren:
+
+1. Name, Geburtsdatum und Kontaktdaten des Patienten,
+
+2. das abgegebene Arzneimittel einschließlich Wirkstoff, Wirkstärke, Packungsgröße, Chargenbezeichnung und Abgabedatum und
+
+3. die Dosierungsanweisung.
+
 (2) Bei der Information und Beratung über Arzneimittel müssen insbesondere Aspekte der Arzneimittelsicherheit berücksichtigt werden. Die Beratung muss die notwendigen Informationen über die sachgerechte Anwendung des Arzneimittels umfassen, soweit erforderlich, auch über eventuelle Nebenwirkungen oder Wechselwirkungen, die sich aus den Angaben auf der Verschreibung sowie den Angaben des Patienten oder Kunden ergeben, und über die sachgerechte Aufbewahrung oder Entsorgung des Arzneimittels. Bei der Abgabe von Arzneimitteln an einen Patienten oder anderen Kunden ist durch Nachfrage auch festzustellen, inwieweit dieser gegebenenfalls weiteren Informations- und Beratungsbedarf hat und eine entsprechende Beratung anzubieten. Im Falle der Selbstmedikation ist auch festzustellen, ob das gewünschte Arzneimittel zur Anwendung bei der vorgesehenen Person geeignet erscheint oder in welchen Fällen anzuraten ist, gegebenenfalls einen Arzt aufzusuchen. Die Sätze 1 bis 4 sind auf apothekenpflichtige Medizinprodukte entsprechend anzuwenden.
 
 (3) Der Apothekenleiter muss einschlägige Informationen bereitstellen, um Patienten und anderen Kunden zu helfen, eine sachkundige Entscheidung zu treffen, auch in Bezug auf Behandlungsoptionen, Verfügbarkeit, Qualität und Sicherheit der von ihm erbrachten Leistungen; er stellt ferner klare Rechnungen und klare Preisinformationen sowie Informationen über den Erlaubnis- oder Genehmigungsstatus der Apotheke, den Versicherungsschutz oder andere Formen des persönlichen oder kollektiven Schutzes in Bezug auf seine Berufshaftpflicht bereit.
@@ -1091,7 +1136,7 @@ Für die Zubereitung von Arzneimitteln, die nicht im geschlossenen System herges
 
 3. zur Anamnese und zur Entscheidung, wann die Schutzimpfung nicht durchgeführt wird,
 
-4. zur Durchführung der Impfung,
+4. zur Verabreichung des Impfstoffs,
 
 5. zur Dokumentation der Impfung,
 
@@ -1099,9 +1144,9 @@ Für die Zubereitung von Arzneimitteln, die nicht im geschlossenen System herges
 
 7. zur Meldung bei Verdacht auf eine über das übliche Ausmaß einer Impfreaktion hinausgehenden gesundheitlichen Schädigung.
 
-(2) Nur Apotheker, die nach § 20c Absatz 1 des Infektionsschutzgesetzes zur Durchführung von Schutzimpfungen berechtigt sind, dürfen die Aufklärung, die Anamnese, das Einholen der Einwilligung der zu impfenden Person und die Schutzimpfungen durchführen. Bei der Vorbereitung und der Dokumentation der Impfung darf das pharmazeutische Personal der Apotheke unterstützen. Das pharmazeutische Personal der Apotheke muss für die Tätigkeit ausreichend qualifiziert sein und regelmäßig geschult werden; die Schulungsmaßnahmen sind zu dokumentieren. Das nach § 3 Absatz 2 Satz 1 erforderliche Personal ergibt sich aus dem Umfang der Schutzimpfungen.
+(2) Nur Apotheker, die nach § 20c Absatz 1 des Infektionsschutzgesetzes zur Durchführung von Schutzimpfungen berechtigt sind, dürfen die Aufklärung, die Anamnese und das Einholen der Einwilligung der zu impfenden Person durchführen und die Impfstoffe verabreichen. Abweichend von Satz 1 dürfen auch Personen, die die Voraussetzungen des § 20c Absatz 4 Satz 1 des Infektionsschutzgesetzes erfüllen und an die die Verabreichung der Impfstoffe delegiert wurde, die Impfstoffe verabreichen. Die in Satz 2 genannten Personen dürfen Impfstoffe nur unter Aufsicht des delegierenden Apothekers verabreichen. Bei der Vorbereitung und der Dokumentation der Impfung darf das pharmazeutische Personal der Apotheke unterstützen. Das pharmazeutische Personal der Apotheke muss für die Tätigkeit ausreichend qualifiziert sein und regelmäßig geschult werden; die Schulungsmaßnahmen sind zu dokumentieren. Das nach § 3 Absatz 2 Satz 1 erforderliche Personal ergibt sich aus dem Umfang der Schutzimpfungen.
 
-(3) Für die Aufklärung, die Anamnese, das Einholen der Einwilligung von impfwilligen Personen, die Vorbereitung und die Durchführung der Schutzimpfungen muss eine geeignete Räumlichkeit einschließlich Wartebereich mit der Ausstattung zur Verfügung stehen, die für die Durchführung von Schutzimpfungen erforderlich ist, sofern kein aufsuchendes Impfen durchgeführt wird. Durch die Nutzung der Räumlichkeit zum Impfen darf der ordnungsgemäße Betrieb der Apotheke nicht gestört werden; insbesondere können keine Räume genutzt werden, die für einen anderweitigen Zweck vorgesehen und in denen die notwendigen Hygienemaßnahmen nicht umsetzbar sind. Ein unbefugter Zugriff auf apothekenpflichtige Arzneimittel, Ausgangsstoffe und Chemikalien ist auszuschließen. Auf Räumlichkeiten, in denen Schutzimpfungen durchgeführt werden, wird § 4 Absatz 1 Satz 2 Nummer 5 nicht angewendet. Diese Räumlichkeiten müssen jedoch in angemessener Nähe zu den übrigen Betriebsräumen liegen. Sowohl beim Aufklärungsgespräch als auch bei der Durchführung der Schutzimpfung ist die Privatsphäre der zu impfenden Personen zu schützen.
+(3) Für die Aufklärung, die Anamnese, das Einholen der Einwilligung von impfwilligen Personen, die Vorbereitung der Schutzimpfungen und die Verabreichung der Impfstoffe muss eine geeignete Räumlichkeit einschließlich Wartebereich mit der Ausstattung zur Verfügung stehen, die für die Durchführung von Schutzimpfungen erforderlich ist, sofern kein aufsuchendes Impfen durchgeführt wird.♦ Durch die Nutzung der Räumlichkeit zum Impfen darf der ordnungsgemäße Betrieb der Apotheke nicht gestört werden; in der Räumlichkeit müssen die notwendigen Hygienemaßnahmen umgesetzt werden und die Räumlichkeit darf während der Durchführung von Schutzimpfungen nicht für anderweitige Zwecke genutzt werden. Ein unbefugter Zugriff auf apothekenpflichtige Arzneimittel, Ausgangsstoffe und Chemikalien ist auszuschließen.♦
 
 (4) Vor der Schutzimpfung hat die impfende Person die zu impfende Person über die zu verhütende Krankheit und die Impfung aufzuklären, die Anamnese durchzuführen und die Einwilligung der zu impfenden Person einzuholen. Die Aufklärung umfasst insbesondere
 
@@ -1129,17 +1174,67 @@ Für die Zubereitung von Arzneimitteln, die nicht im geschlossenen System herges
 
 6. Name der geimpften Person, deren Geburtsdatum und Anschrift,
 
-7. Name und Anschrift der Apotheke und
+7. Name und Anschrift der Apotheke,
 
-8. Name und Bestätigung der Person, die die Aufklärung, Anamnese und Impfung durchgeführt hat.
+8. Name und Bestätigung der Person, die die Aufklärung und Anamnese durchgeführt und die Einwilligung der zu impfenden Person eingeholt hat, und
 
-Erfolgt nach Durchführung der Aufklärung oder der Anamnese keine Impfung, ist keine Dokumentation nach Satz 1 Nummer 4 und 5 erforderlich. Die Dokumentation der Schutzimpfung ist für die Dauer von zehn Jahren ab dem Datum, an dem die Impfung durchgeführt wurde, aufzubewahren.
+9. Name und Bestätigung der Person, die den Impfstoff verabreicht hat, und im Fall einer Delegation der Verabreichung des Impfstoffs nach § 20c Absatz 4 Satz 1 des Infektionsschutzgesetzes das Namenszeichen des Apothekers, der die Impfung beaufsichtigt hat.
+
+Erfolgt nach Durchführung der Aufklärung oder der Anamnese keine Impfung, ist keine Dokumentation der in Satz 1 Nummer 4, 5 und 9 genannten Angaben erforderlich. Die Dokumentation der Schutzimpfung ist für die Dauer von zehn Jahren ab dem Datum, an dem die Impfung durchgeführt wurde, aufzubewahren.
 
 (6) Es sind geeignete Hygienemaßnahmen zum Schutz der zu impfenden Person und des Apothekenpersonals zu treffen.
 
-# § 35b – (weggefallen)
+# § 35b – Vorbereitung und Durchführung von Blutentnahmen durch öffentliche Apotheken
 
-\-
+(1) Im Qualitätsmanagementsystem nach § 2a sind zur Vorbereitung und Durchführung von Blutentnahmen insbesondere Festlegungen zu treffen
+
+1. zur Vorbereitung der Blutentnahme,
+
+2. zur Aufklärung und Einholung der Einwilligung der Person, der Blut entnommen werden soll,
+
+3. zur Anamnese und zur Entscheidung, wann die Blutentnahme nicht durchgeführt wird,
+
+4. zur Durchführung der Blutentnahme,
+
+5. zur Dokumentation der Blutentnahme und
+
+6. zu den Hygienemaßnahmen einschließlich des hygienischen Verhaltens der an den Vorbereitungen und der Durchführung der Blutentnahme beteiligten Personen.
+
+(2) Nur Apotheker, die nach § 11c Absatz 1 des Apothekengesetzes zur Durchführung von Blutentnahmen berechtigt sind, dürfen die Aufklärung, die Anamnese, das Einholen der Einwilligung der Person, der Blut entnommen werden soll, und die Blutentnahmen durchführen. Abweichend von Satz 1 dürfen auch Personen, die die Voraussetzungen des § 11c Absatz 3 Satz 1 des Apothekengesetzes erfüllen und an die die Entnahme des venösen Blutes delegiert wurde, venöses Blut entnehmen. Die in Satz 2 genannten Personen dürfen nur unter Aufsicht des delegierenden Apothekers venöses Blut entnehmen. Bei der Vorbereitung und der Dokumentation der Blutentnahmen darf das pharmazeutische Personal der Apotheke unterstützen. Das pharmazeutische Personal der Apotheke muss für die Tätigkeit ausreichend qualifiziert sein und regelmäßig geschult werden; die Schulungsmaßnahmen sind zu dokumentieren. Das nach § 3 Absatz 2 Satz 1 erforderliche Personal ergibt sich aus dem Umfang der Blutentnahmen.
+
+(3) Für die Aufklärung, die Anamnese, das Einholen der Einwilligung von Personen, denen Blut entnommen werden soll, die Vorbereitung und die Durchführung der Blutentnahmen muss eine geeignete Räumlichkeit mit der Ausstattung zur Verfügung stehen, die für die Durchführung von Blutentnahmen erforderlich ist. Durch die Nutzung der Räumlichkeit zur Blutentnahme darf der ordnungsgemäße Betrieb der Apotheke nicht gestört werden; in der Räumlichkeit müssen die notwendigen Hygienemaßnahmen umgesetzt werden und die Räumlichkeit darf während der Durchführung von Blutentnahmen nicht für anderweitige Zwecke genutzt werden. Ein unbefugter Zugriff auf apothekenpflichtige Arzneimittel, Ausgangsstoffe und Chemikalien ist auszuschließen. Sowohl beim Aufklärungsgespräch als auch bei der Durchführung der Blutentnahmen ist die Privatsphäre der Personen, bei denen Blut entnommen werden soll, zu schützen.
+
+(4) Vor der Blutentnahme hat der Apotheker die Person, der Blut entnommen werden soll, mündlich über die Blutentnahme und deren diagnostischen Zweck aufzuklären, die Anamnese durchzuführen und die Einwilligung der Person einzuholen. Die Aufklärung umfasst insbesondere
+
+1. Informationen über den Nutzen und Zweck der Blutentnahme,
+
+2. Hinweise auf mögliche Nebenwirkungen und Komplikationen,
+
+3. Empfehlungen über Verhaltensmaßnahmen im Anschluss an die Blutentnahme,
+
+4. Informationen über die Dauer der Auswertung und die Besprechung der Ergebnisse der Blutuntersuchung.
+
+(5) Die Dokumentation ist in unmittelbarem zeitlichem Zusammenhang mit der Durchführung der Aufklärung, der Anamnese und der Blutentnahme durchzuführen. Die Dokumentation der Blutentnahme muss Angaben enthalten zu
+
+1. Datum und Durchführung der Aufklärung der Person, der Blut entnommen werden soll,
+
+2. Datum und Durchführung der Anamnese,
+
+3. Einwilligung der Person, der Blut entnommen werden soll,
+
+4. Datum der Blutentnahme,
+
+5. Name der Person, der Blut entnommen wurde, ihr Geburtsdatum und ihre Anschrift,
+
+6. Name und Anschrift der Apotheke,
+
+7. Name und Bestätigung der Person, die die Aufklärung und Anamnese durchgeführt und die Einwilligung der Person, der Blut entnommen werden soll, eingeholt hat und
+
+8. Name und Bestätigung der Person, die die Blutentnahme durchgeführt hat, und im Fall einer Delegation nach § 11c Absatz 3 Satz 1 des Apothekengesetzes das Namenszeichen des Apothekers, der die Blutentnahme beaufsichtigt hat.
+
+Erfolgt nach Durchführung der Aufklärung oder der Anamnese keine Blutentnahme, ist keine Dokumentation nach Satz 2 Nummer 4 und 8 erforderlich. Die Dokumentation der Blutentnahme ist für die Dauer von zehn Jahren ab dem Datum, an dem die Blutentnahme durchgeführt wurde, aufzubewahren.
+
+(6) Es sind geeignete Hygienemaßnahmen zum Schutz der Person, der Blut entnommen werden soll, und des Apothekenpersonals zu treffen.
 
 # § 36 – Ordnungswidrigkeiten
 
@@ -1151,43 +1246,47 @@ Ordnungswidrig im Sinne des § 25 Abs. 2 des Gesetzes über das Apothekenwesen h
 
 1b. entgegen § 17 Abs. 2b ein dort genanntes Arzneimittel im Wege des Versandes in den Verkehr bringt,
 
-1c. entgegen § 35a Absatz 2 Satz 1 eine Schutzimpfung durchführt,
+1c. entgegen § 35a Absatz 2 Satz 1 oder 3 einen Impfstoff verabreicht,
+
+1d. entgegen § 35b Absatz 2 Satz 1 oder 3 eine Blutentnahme durchführt,
 
 2. als Apothekenleiter
 
-a) entgegen § 2 Absatz 3a Satz 1 Nummer 1 nicht sicherstellt, dass eine Aufklärung, Anamnese oder das Einholen der Einwilligung der zu impfenden Person durchgeführt wird,
+a) entgegen § 2 Absatz 3a Satz 1 Nummer 1 oder 2 nicht sicherstellt, dass eine Schutzimpfung nur unter den dort genannten Voraussetzungen durchgeführt wird,
 
-b) entgegen § 2 Absatz 3a Satz 1 Nummer 2 nicht sicherstellt, dass eine Schutzimpfung nur durch einen berechtigten Apotheker durchgeführt wird,
+b) entgegen § 2 Absatz 3a Satz 2 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
 
-c) entgegen § 2 Absatz 3a Satz 2 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
+c) entgegen § 2 Absatz 3a Satz 3 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
 
-d) entgegen § 2 Absatz 3a Satz 3 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
+d) entgegen § 2 Absatz 3b Satz 1 Nummer 1 oder 2 nicht sicherstellt, dass eine Blutentnahme nach den dort genannten Voraussetzungen durchgeführt wird,
 
-e) einer Vorschrift des § 2 Abs. 5 oder 6 Satz 1, 2 oder 3 über die Vertretung des Apothekenleiters zuwiderhandelt,
+e) entgegen § 2 Absatz 3b Satz 2 oder 3 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
 
-f) entgegen § 2a Absatz 1 Satz 1 ein Qualitätsmanagementsystem nicht betreibt,
+f) einer Vorschrift des § 2 Abs. 5 oder 6 Satz 1, 2 oder 3 über die Vertretung des Apothekenleiters zuwiderhandelt,
 
-g) entgegen § 3 Abs. 5 Satz 1 in Verbindung mit § 2 Abs. 2 Satz 2 und 3 oder § 3 Abs. 5 Satz 2 pharmazeutische Tätigkeiten ausführen lässt,
+g) entgegen § 2a Absatz 1 Satz 1 ein Qualitätsmanagementsystem nicht betreibt,
 
-h) entgegen § 3 Abs. 5 Satz 3 in Verbindung mit § 2 Abs. 2 Satz 2 und 3 pharmazeutische Tätigkeiten nicht beaufsichtigt oder nicht durch einen Apotheker beaufsichtigen läßt,
+h) entgegen § 3 Abs. 5 Satz 1 in Verbindung mit § 2 Abs. 2 Satz 2 und 3 oder § 3 Abs. 5 Satz 2 pharmazeutische Tätigkeiten ausführen lässt,
 
-i) entgegen § 15 Absatz 1 Satz 2 ein dort genanntes Arzneimittel nicht vorrätig hält,
+i) entgegen § 3 Abs. 5 Satz 3 in Verbindung mit § 2 Abs. 2 Satz 2 und 3 pharmazeutische Tätigkeiten nicht beaufsichtigt oder nicht durch einen Apotheker beaufsichtigen läßt,
 
-j) entgegen § 15 Absatz 2 nicht sicherstellt, dass ein dort genanntes Arzneimittel vorrätig gehalten wird oder kurzfristig beschafft werden kann,
+j) entgegen § 15 Absatz 1 Satz 2 ein dort genanntes Arzneimittel nicht vorrätig hält,
 
-k) entgegen § 17 Absatz 1a Satz 1 Arzneimittel außerhalb der Apothekenbetriebsräume oder entgegen § 17 Abs. 3 apothekenpflichtige Arzneimittel im Wege der Selbstbedienung in den Verkehr bringt,
+k) entgegen § 15 Absatz 2 nicht sicherstellt, dass ein dort genanntes Arzneimittel vorrätig gehalten wird oder kurzfristig beschafft werden kann,
 
-l) entgegen § 17 Abs. 7 in Verbindung mit § 31 Abs. 1 Satz 1 oder Abs. 3, jeweils auch in Verbindung mit § 2 Abs. 2 Satz 2 und 3, Arzneimittel abgibt oder abgeben läßt,
+l) entgegen § 17 Absatz 1a Satz 1 Arzneimittel außerhalb der Apothekenbetriebsräume oder entgegen § 17 Abs. 3 apothekenpflichtige Arzneimittel im Wege der Selbstbedienung in den Verkehr bringt,
 
-m) entgegen § 17 Abs. 7 in Verbindung mit § 32 Abs. 1 und mit § 2 Abs. 2 Satz 2 und 3 auf den Stationen oder in anderen Teileinheiten des Krankenhauses vorrätig gehaltene Arzneimittel nicht, nicht vollständig oder nicht rechtzeitig überprüft oder durch einen Apotheker überprüfen läßt oder entgegen § 17 Abs. 7 in Verbindung mit § 32 Abs. 3 und mit § 2 Abs. 2 Satz 2 das vorgeschriebene Protokoll nicht, nicht richtig oder nicht vollständig anfertigt, nicht der Krankenhausleitung zuleitet, nicht dem zuständigen Arzt aushändigt oder nicht aufbewahrt oder diese Maßnahmen nicht durch einen Apotheker ausführen läßt,
+m) entgegen § 17 Abs. 7 in Verbindung mit § 31 Abs. 1 Satz 1 oder Abs. 3, jeweils auch in Verbindung mit § 2 Abs. 2 Satz 2 und 3, Arzneimittel abgibt oder abgeben läßt,
 
-n) entgegen § 21 nicht dafür sorgt, daß die dort genannten Maßnahmen bei Arzneimittelrisiken oder nicht verkehrsfähigen Arzneimitteln getroffen werden,
+n) entgegen § 17 Abs. 7 in Verbindung mit § 32 Abs. 1 und mit § 2 Abs. 2 Satz 2 und 3 auf den Stationen oder in anderen Teileinheiten des Krankenhauses vorrätig gehaltene Arzneimittel nicht, nicht vollständig oder nicht rechtzeitig überprüft oder durch einen Apotheker überprüfen läßt oder entgegen § 17 Abs. 7 in Verbindung mit § 32 Abs. 3 und mit § 2 Abs. 2 Satz 2 das vorgeschriebene Protokoll nicht, nicht richtig oder nicht vollständig anfertigt, nicht der Krankenhausleitung zuleitet, nicht dem zuständigen Arzt aushändigt oder nicht aufbewahrt oder diese Maßnahmen nicht durch einen Apotheker ausführen läßt,
 
-o) entgegen § 23 Abs. 1 die Apotheke nicht dienstbereit hält,
+o) entgegen § 21 nicht dafür sorgt, daß die dort genannten Maßnahmen bei Arzneimittelrisiken oder nicht verkehrsfähigen Arzneimitteln getroffen werden,
 
-p) entgegen § 23 Abs. 5 in Verbindung mit § 2 Abs. 2 Satz 2 und 3 an sichtbarer Stelle einen gut lesbaren Hinweis auf die nächstgelegenen dienstbereiten Apotheken nicht anbringt oder nicht anbringen läßt,
+p) entgegen § 23 Abs. 1 die Apotheke nicht dienstbereit hält,
 
-q) entgegen § 24 Abs. 1 Satz 1 eine Rezeptsammelstelle ohne die erforderliche Erlaubnis unterhält,
+q) entgegen § 23 Abs. 5 in Verbindung mit § 2 Abs. 2 Satz 2 und 3 an sichtbarer Stelle einen gut lesbaren Hinweis auf die nächstgelegenen dienstbereiten Apotheken nicht anbringt oder nicht anbringen läßt,
+
+r) entgegen § 24 Abs. 1 Satz 1 eine Rezeptsammelstelle ohne die erforderliche Erlaubnis unterhält,
 
 3. als Apothekenleiter oder Angehöriger des pharmazeutischen Personals
 

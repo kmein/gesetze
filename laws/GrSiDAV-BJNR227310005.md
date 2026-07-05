@@ -47,7 +47,7 @@ der auf den Abgleichszeitraum folgt.
 
 2. von Zinserträgen, die auf Grund der Richtlinie 2003/48/EG des Rates vom 3. Juni 2003 im Bereich der Besteuerung von Zinserträgen (ABl. EU Nr. L 157 S. 38) mitgeteilt wurden.
 
-(5) Die Zentrale Zulagenstelle für Altersvermögen gleicht die ihr übermittelten Daten mit den bei ihr gespeicherten Daten ab zur Feststellung ob und in welcher Höhe ein Kapital nach § 12 Absatz 2 Satz 1 Nummer 2 des Zweiten Buches Sozialgesetzbuch nicht mehr dem Zweck einer geförderten zusätzlichen Altersvorsorge im Sinne des § 10a oder des Abschnitts XI des Einkommensteuergesetzes dient.
+(5) Die Zentrale Zulagenstelle für Altersvermögen gleicht die ihr übermittelten Daten mit den bei ihr gespeicherten Daten ab zur Feststellung ob und in welcher Höhe ein Kapital nach § 12 Absatz 1 Satz 2 Nummer 3 des Zweiten Buches Sozialgesetzbuch nicht mehr dem Zweck einer geförderten zusätzlichen Altersvorsorge im Sinne des § 10a oder des Abschnitts XI des Einkommensteuergesetzes dient.
 
 (6) Die Datenstelle der Rentenversicherung gleicht die ihr übermittelten Daten mit den bei ihr gespeicherten Daten ab zur Feststellung von Zeiten einer geringfügigen Beschäftigung und einer versicherungspflichtigen Beschäftigung, zur Feststellung der Betriebsnummer, des Namens und der Anschrift des Arbeitgebers sowie zur Feststellung des Bezugs von Leistungen der Grundsicherung für Arbeitsuchende im Abgleichszeitraum.
 

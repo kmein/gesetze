@@ -1,4 +1,4 @@
-% Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von Einkommen und Vermögen beim Bürgergeld *  (Bürgergeld-Verordnung - Bürgergeld-V)
+% Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von Einkommen und Vermögen beim Grundsicherungsgeld  (Grundsicherungsgeld-Verordnung - GrusiGV)
 % Ausfertigungsdatum: 17.12.2007
  
 # Eingangsformel
@@ -25,7 +25,7 @@ Auf Grund des § 13 des Zweiten Buches Sozialgesetzbuch – Grundsicherung für 
 
 8. Kindergeld für Kinder des Hilfebedürftigen, soweit es nachweislich an das nicht im Haushalt des Hilfebedürftigen lebende Kind weitergeleitet wird,
 
-9. bei Beziehenden von Bürgergeld nach § 19 Absatz 1 Satz 2 des Zweiten Buches Sozialgesetzbuch, die das 15. Lebensjahr noch nicht vollendet haben, Einnahmen aus Erwerbstätigkeit, soweit sie einen Betrag von 100 Euro monatlich nicht übersteigen,
+9. bei Beziehenden von Grundsicherungsgeld nach § 19 Absatz 1 Satz 2 des Zweiten Buches Sozialgesetzbuch, die das 15. Lebensjahr noch nicht vollendet haben, Einnahmen aus Erwerbstätigkeit, soweit sie einen Betrag von 100 Euro monatlich nicht übersteigen,
 
 10. eine Witwen- oder Witwerrente nach § 67 Nummer 5 und 6 des Sechsten Buches Sozialgesetzbuch, soweit diese Rente bis zum Ende des dritten Kalendermonats nach Ablauf des Monats, in dem der Ehegatte verstorben ist, die anschließende Witwen- oder Witwerrente überschreitet,
 

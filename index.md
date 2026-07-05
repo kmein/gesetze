@@ -294,7 +294,7 @@
 - [AUG](laws/AUG-BJNR089810011.md) Gesetz zur Geltendmachung von Unterhaltsansprüchen im Verkehr mit ausländischen Staaten
 - [AUG2011UhBek](laws/AUG2011UhBek-BJNR110900011.md) Bekanntmachung über die Feststellung der Gegenseitigkeit für die Geltendmachung von Unterhaltsansprüchen nach dem Auslandsunterhaltsgesetz
 - [AugenoptAusbV](laws/AugenoptAusbV-BJNR069800011.md) Verordnung über die Berufsausbildung zum Augenoptiker und zur Augenoptikerin*)
-- [AugOptMstrV](laws/AugOptMstrV-BJNR261000005.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Augenoptiker-Handwerk
+- [AugOptMstrV](laws/AugOptMstrV-BJNR09D0B0025.md) Verordnung über die Meisterprüfung in den Teilen I und II im Augenoptiker-Handwerk
 - [AUG§1Abs2Bek 02-1989](laws/AUG§1Abs2Bek_02-1989-BJNR003720989.md) Sechste Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß § 1 Abs. 2 des Auslandsunterhaltsgesetzes
 - [AUG§1Abs2Bek 03-1988](laws/AUG§1Abs2Bek_03-1988-BJNR103510988.md) Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß § 1 Abs. 2 des Auslandsunterhaltsgesetzes
 - [AUG§1Abs2Bek 07-1987](laws/AUG§1Abs2Bek_07-1987-BJNR204200987.md) Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß § 1 Abs. 2 des Auslandsunterhaltsgesetzes
@@ -653,6 +653,7 @@
 - [Berlin/BonnG](laws/Berlin_BonnG-BJNR091800994.md) Gesetz zur Umsetzung des Beschlusses des Deutschen Bundestages vom 20. Juni 1991 zur Vollendung der Einheit Deutschlands
 - [BerlinFG 1990](laws/BerlinFG_1990-BJNR000410950.md) Gesetz zur Förderung der Berliner Wirtschaft
 - [BerRehaG](laws/BerRehaG-BJNR131400994.md) Gesetz über den Ausgleich beruflicher Benachteiligungen für Opfer politischer Verfolgung im Beitrittsgebiet
+- [BerRehaGAnpV 2026](laws/BerRehaGAnpV_2026-BJNR0BC0A0026.md) Verordnung zur Anpassung der Höhe der monatlichen Ausgleichsleistungen nach § 8 Absatz 1 Satz 4 des Beruflichen Rehabilitierungsgesetzes ab dem 1. Juli 2026
 - [BerVersV](laws/BerVersV-BJNR285800017.md) Verordnung über die Berichterstattung von Versicherungsunternehmen gegenüber der Bundesanstalt für Finanzdienstleistungsaufsicht
 - [BesatzRBerG](laws/BesatzRBerG-BJNR261410007.md) Gesetz zur Bereinigung des Besatzungsrechts
 - [BesatzReglVtrArt1Bek](laws/BesatzReglVtrArt1Bek-BJNR206280955.md) Bekanntmachung zu Artikel 1 Abs. 2 des Zehnten Teils des Vertrags zur Regelung aus Krieg und Besatzung entstandener Fragen
@@ -903,7 +904,6 @@
 - [BMDVBeihÜbertrAnO](laws/BMDVBeihÜbertrAnO-BJNR0610A0025.md) Anordnung des Bundesministeriums für Digitales und Verkehr zur Übertragung von Zuständigkeiten in Angelegenheiten der Beihilfe auf die Postbeamtenkrankenkasse
 - [BMDVDelegatAnO](laws/BMDVDelegatAnO-BJNR0490A0024.md) Anordnung über die Übertragung beamtenrechtlicher Zuständigkeiten im Geschäftsbereich des Bundesministeriums für Digitales und Verkehr
 - [BMDVTKBGebV](laws/BMDVTKBGebV-BJNR0010A0024.md) Besondere Gebührenverordnung des Bundesministeriums für Digitales und Verkehr für telekommunikationsrechtliche Tätigkeiten
-- [BMELBGebV](laws/BMELBGebV-BJNR287400021.md) Besondere Gebührenverordnung des Bundesministeriums für Ernährung und Landwirtschaft für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich *
 - [BMeldDAV](laws/BMeldDAV-BJNR320900021.md) Verordnung zu Voraussetzungen von automatisierten Meldedatenabrufen durch Behörden oder sonstige öffentliche Stellen des Bundes und der Länder
 - [BMeldDigiV](laws/BMeldDigiV-BJNR068310022.md) Verordnung zur Bestimmung von Inhalt, Form und Verfahren von Datenübermittlungen zwischen Meldebehörden und einem Verwaltungsportal zur Erbringung von digitalen Verwaltungsleistungen
 - [BMELWidVertrAnO](laws/BMELWidVertrAnO-BJNR129400017.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Bundesministeriums für Ernährung und Landwirtschaft
@@ -953,12 +953,13 @@
 - [BMJErnAnO 2024](laws/BMJErnAnO_2024-BJNR1330A0023.md) Anordnung über die Ernennung und Entlassung der Bundesbeamtinnen und Bundesbeamten im Geschäftsbereich des Bundesministeriums der Justiz
 - [BMJFGErnAnO 1976](laws/BMJFGErnAnO_1976-BJNR026670976.md) Anordnung über die Ernennung und Entlassung von Bundesbeamten im Geschäftsbereich des Bundesministers für Jugend, Familie und Gesundheit
 - [BMJGerErnAnO](laws/BMJGerErnAnO-BJNR041400008.md) Anordnung über die Ernennung und Entlassung der Bundesbeamtinnen und Bundesbeamten bei den obersten Gerichten des Bundes im Geschäftsbereich des Bundesministeriums der Justiz
-- [BMJGerWidAnO 2024](laws/BMJGerWidAnO_2024-BJNR1340A0023.md) Anordnung zur Übertragung der Zuständigkeit für den Erlass von Widerspruchsbescheiden in beamtenrechtlichen Angelegenheiten auf die Gerichte und Behörden im Geschäftsbereich des Bundesministeriums der Justiz
 - [BMJMaßgabenBerG](laws/BMJMaßgabenBerG-BJNR089100006.md) Gesetz über die Nichtanwendung von Maßgaben des Einigungsvertrages im Zuständigkeitsbereich des Bundesministeriums der Justiz
 - [BMJVBhWidVertrAnO](laws/BMJVBhWidVertrAnO-BJNR147100017.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung bei Klagen in Beihilfeangelegenheiten im Geschäftsbereich des Bundesministeriums der Justiz und für Verbraucherschutz
 - [BMJVertrAnO](laws/BMJVertrAnO-BJNR016700013.md) Anordnung über die Vertretung der Bundesrepublik Deutschland im Geschäftsbereich des Bundesministeriums der Justiz
+- [BMJVGerWidAnO 2026](laws/BMJVGerWidAnO_2026-BJNR05E0A0026.md) Anordnung zur Übertragung der Zuständigkeit für den Erlass von Widerspruchsbescheiden in beamtenrechtlichen Angelegenheiten auf die Gerichte und Behörden im Geschäftsbereich des Bundesministeriums der Justiz und für Verbraucherschutz
 - [BMJVWidVertrAnO](laws/BMJVWidVertrAnO-BJNR031700015.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beamtinnen und Beamten des Bundesministeriums der Justiz und für Verbraucherschutz in Angelegenheiten der Besoldung, des Dienstunfall-, Reisekosten-, Umzugskosten- und Trennungsgeldrechts
 - [BMLEHBeihÜbertrAnO](laws/BMLEHBeihÜbertrAnO-BJNR1470A0025.md) Anordnung des Bundesministeriums für Landwirtschaft, Ernährung und Heimat zur Übertragung von Zuständigkeiten in Angelegenheiten der Beihilfe auf die Postbeamtenkrankenkasse
+- [BMLEHBGebV](laws/BMLEHBGebV-BJNR287400021.md) Besondere Gebührenverordnung des Bundesministeriums für Landwirtschaft, Ernährung und Heimat für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich
 - [BMLEHStruBVfPAktV](laws/BMLEHStruBVfPAktV-BJNR1660A0025.md) Verordnung zur Ermöglichung der Anlegung, Führung und Weiterführung papiergebundener Akten in Bußgeldverfahren im Geschäftsbereich des Bundesministeriums für Landwirtschaft, Ernährung und Heimat
 - [BMLErnAnO 1975](laws/BMLErnAnO_1975-BJNR022990975.md) Anordnung über die Ernennung und Entlassung von Bundesbeamten im Geschäftsbereich des Bundesministers für Ernährung, Landwirtschaft und Forsten
 - [BMLErnAnO 1990](laws/BMLErnAnO_1990-BJNR002860990.md) Anordnung über die Ernennung und Entlassung von Bundesbeamten im Geschäftsbereich des Bundesministers für Ernährung, Landwirtschaft und Forsten
@@ -1226,7 +1227,6 @@
 - [BüchsMstrV](laws/BüchsMstrV-BJNR011170981.md) Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Büchsenmacher-Handwerk
 - [BühnenM/PlastAusbV](laws/BühnenM_PlastAusbV-BJNR008300000.md) Verordnung über die Berufsausbildung zum Bühnenmaler und -plastiker/zur Bühnenmalerin und -plastikerin
 - [BüPinAusbV](laws/BüPinAusbV-BJNR155900017.md) Verordnung über die Berufsausbildung zum Bürsten- und Pinselmacher und zur Bürsten- und Pinselmacherin*
-- [Bürgergeld-V](laws/Bürgergeld-V-BJNR294200007.md) Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von Einkommen und Vermögen beim Bürgergeld *
 - [BüroMKfAusbV](laws/BüroMKfAusbV-BJNR03E0A0025.md) Verordnung über die Berufsausbildung zum Kaufmann für Büromanagement und zur Kauffrau für Büromanagement*
 - [BürstPiMstrV](laws/BürstPiMstrV-BJNR244300020.md) Verordnung über die Meisterprüfung in den Teilen I und II im Bürsten- und Pinselmacher-Gewerbe
 - [BUKDiszAnO](laws/BUKDiszAnO-BJNR038200004.md) Anordnung über die Übertragung von Befugnissen auf dem Gebiet des Disziplinarrechts im Bereich der Unfallkasse des Bundes
@@ -1970,7 +1970,6 @@
 - [FKSDVO](laws/FKSDVO-BJNR177800019.md) Verordnung zur Bestimmung weiterer Daten, die im zentralen Informationssystem für die Finanzkontrolle Schwarzarbeit gespeichert werden
 - [FKüAusbV](laws/FKüAusbV-BJNR038900022.md) Verordnung über die Berufsausbildung zur Fachkraft Küche*
 - [FlaggAnO 1996](laws/FlaggAnO_1996-BJNR172900996.md) Anordnung über die deutschen Flaggen
-- [FlaggRG](laws/FlaggRG-BJNR000790951.md) Gesetz über das Flaggenrecht der Seeschiffe und die Flaggenführung der Binnenschiffe *
 - [FlBeihV](laws/FlBeihV-BJNR004110978.md) Verordnung über die Gewährung von Beihilfen für die private Lagerhaltung von Fleisch und Fleischerzeugnissen von Schweinen, Rindern und Schafen
 - [FlechtwAusbV](laws/FlechtwAusbV-BJNR059500006.md) Verordnung über die Berufsausbildung zum Flechtwerkgestalter/zur Flechtwerkgestalterin
 - [FleiAusbV 2005](laws/FleiAusbV_2005-BJNR089800005.md) Verordnung über die Berufsausbildung zum Fleischer/zur Fleischerin
@@ -1981,6 +1980,7 @@
 - [FlGlasTechAusbV](laws/FlGlasTechAusbV-BJNR043100018.md) Verordnung über die Berufsausbildung zum Flachglastechnologen und zur Flachglastechnologin *
 - [FloristAusbV](laws/FloristAusbV-BJNR01E0A0025.md) Verordnung über die Berufsausbildung zum Floristen und zur Floristin *
 - [FloristMFPrV](laws/FloristMFPrV-BJNR222300019.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Floristmeister oder Geprüfte Floristmeisterin
+- [FlRG](laws/FlRG-BJNR000790951.md) Gesetz über das Flaggenrecht der Seeschiffe und die Flaggenführung der Binnenschiffe
 - [FlRV](laws/FlRV-BJNR013890990.md) Flaggenrechtsverordnung
 - [FlüHG](laws/FlüHG-BJNR006120965.md) Flüchtlingshilfegesetz
 - [FlüHGDV 2](laws/FlüHGDV_2-BJNR018160965.md) Zweite Verordnung zur Durchführung des Gesetzes über Hilfsmaßnahmen für Deutsche aus der sowjetischen Besatzungszone Deutschlands und dem sowjetisch besetzten Sektor von Berlin
@@ -2368,6 +2368,7 @@
 - [GrPfREuroV](laws/GrPfREuroV-BJNR268300997.md) Verordnung über Grundpfandrechte in ausländischer Währung und in Euro
 - [GrSiDAV](laws/GrSiDAV-BJNR227310005.md) Verordnung über den automatisierten Datenabgleich bei Leistungen der Grundsicherung für Arbeitsuchende
 - [GrStG](laws/GrStG-BJNR109650973.md) Grundsteuergesetz
+- [GrusiGV](laws/GrusiGV-BJNR294200007.md) Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von Einkommen und Vermögen beim Grundsicherungsgeld
 - [GruWErl](laws/GruWErl-BJNR006620953.md) Erlaß über die Stiftung des Grubenwehr-Ehrenzeichens
 - [GruWErlDBest](laws/GruWErlDBest-BJNR006630953.md) Durchführungsbestimmungen zum Erlaß über die Stiftung des Grubenwehr-Ehrenzeichens
 - [GRWG](laws/GRWG-BJNR018610969.md) Gesetz über die Gemeinschaftsaufgabe "Verbesserung der regionalen Wirtschaftsstruktur"
@@ -2842,6 +2843,7 @@
 - [KliNeMFöG](laws/KliNeMFöG-BJNR08B0C0026.md) Gesetz zur Förderung klimaneutraler Mobilität
 - [KlWalAbkG](laws/KlWalAbkG-BJNR111320993.md) Gesetz zu dem Abkommen vom 31. März 1992 zur Erhaltung der Kleinwale in der Nord- und Ostsee
 - [KMAG](laws/KMAG-BJNR1B60B0024.md) Gesetz zur Aufsicht über Märkte für Kryptowerte
+- [KMAnzV](laws/KMAnzV-BJNR0990A0026.md) Verordnung über die Anzeigen und die Vorlage von Unterlagen nach dem Kryptomärkteaufsichtsgesetz
 - [KMMV](laws/KMMV-BJNR0C50A0025.md) Verordnung zur Konkretisierung von Mitteilungspflichten zur Offenlegung von Insiderinformationen nach § 36 des Kryptomärkteaufsichtsgesetzes
 - [KmV](laws/KmV-BJNR028700010.md) Verordnung zur Begrenzung von Kontaminanten in Lebensmitteln
 - [KNV-V](laws/KNV-V-BJNR067010015.md) Verordnung über den Vergleich von Kosten und Nutzen der Kraft-Wärme-Kopplung und der Rückführung industrieller Abwärme bei der Wärme- und Kälteversorgung
@@ -3049,6 +3051,7 @@
 - [LogMstrV](laws/LogMstrV-BJNR002600010.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Logistikmeister/Geprüfte Logistikmeisterin
 - [LogopG](laws/LogopG-BJNR005290980.md) Gesetz über den Beruf des Logopäden
 - [LogSystFachwBAProFV](laws/LogSystFachwBAProFV-BJNR0FB0A0023.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Fachwirt für Logistiksysteme oder Geprüfte Fachwirtin für Logistiksysteme – Bachelor Professional in Logistiksysteme
+- [LohnUGAÜV 7](laws/LohnUGAÜV_7-BJNR0BA0A0026.md) Siebte Verordnung über eine Lohnuntergrenze in der Arbeitnehmerüberlassung
 - [LorbBlErl 2013](laws/LorbBlErl_2013-BJNR138000013.md) Erlass über die Stiftung des Silbernen Lorbeerblattes
 - [LottStVereinfV](laws/LottStVereinfV-BJNR001380961.md) Verordnung zur Vereinfachung der Steuererhebung bei der Lotteriesteuer
 - [LPachtVG](laws/LPachtVG-BJNR020750985.md) Gesetz über die Anzeige und Beanstandung von Landpachtverträgen
@@ -3205,7 +3208,6 @@
 - [LuftVZO](laws/LuftVZO-BJNR003700964.md) Luftverkehrs-Zulassungs-Ordnung
 - [LuKIFG](laws/LuKIFG-BJNR0F60A0025.md) Gesetz zur Finanzierung von Infrastrukturinvestitionen von Ländern und Kommunen
 - [LuKrFrühErkV](laws/LuKrFrühErkV-BJNR0A20A0024.md) Verordnung über die Zulässigkeit der Anwendung der Niedrigdosis-Computertomographie zur Früherkennung von Lungenkrebs bei rauchenden Personen 1
-- [LupinenV 2026](laws/LupinenV_2026-BJNR05A0A0026.md) Verordnung über besondere Anforderungen an Saatgut von Weißer Lupine im Rahmen der Saatgutanerkennung 2026
 - [LVANDZustÄndG](laws/LVANDZustÄndG-BJNR000980979.md) Gesetz zur Änderung von örtlichen Zuständigkeiten der Landesversicherungsanstalten in Niedersachsen und zur Änderung des Bundesversorgungsgesetzes
 - [LwAltschG](laws/LwAltschG-BJNR138310004.md) Gesetz zur Änderung der Regelungen über Altschulden landwirtschaftlicher Unternehmen
 - [LwAltschV](laws/LwAltschV-BJNR286100004.md) Verordnung zur Durchführung des Landwirtschafts-Altschuldengesetzes
@@ -4425,6 +4427,7 @@
 - [RWBestV 2023](laws/RWBestV_2023-BJNR0A40A0023.md) Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung und zur Bestimmung weiterer Werte zum 1. Juli 2023
 - [RWBestV 2024](laws/RWBestV_2024-BJNR0C20A0024.md) Verordnung zur Bestimmung des Rentenwerts in der gesetzlichen Rentenversicherung und zur Bestimmung weiterer Werte zum 1. Juli 2024
 - [RWBestV 2025](laws/RWBestV_2025-BJNR0940A0025.md) Verordnung zur Bestimmung des Rentenwerts in der gesetzlichen Rentenversicherung und zur Bestimmung weiterer Werte zum 1. Juli 2025
+- [RWBestV 2026](laws/RWBestV_2026-BJNR0B20A0026.md) Verordnung zur Bestimmung des Rentenwerts in der gesetzlichen Rentenversicherung und zur Bestimmung weiterer Werte zum 1. Juli 2026
 - [RZV](laws/RZV-BJNR193910007.md) Verordnung zur Zuweisung der Funktion eines nationalen Referenzlaboratoriums
 - [SaarGlV](laws/SaarGlV-BJNR010740953.md) Verordnung über die Gleichstellung von aus dem Saargebiet verdrängten Deutschen
 - [SaatArtVerzV 1985](laws/SaatArtVerzV_1985-BJNR017620985.md) Verordnung über das Artenverzeichnis zum Saatgutverkehrsgesetz
@@ -4474,7 +4477,7 @@
 - [SchaumwZwStG](laws/SchaumwZwStG-BJNR189600009.md) Schaumwein- und Zwischenerzeugnissteuergesetz
 - [SchaumwZwStV](laws/SchaumwZwStV-BJNR330200009.md) Verordnung zur Durchführung des Schaumwein- und Zwischenerzeugnissteuergesetzes
 - [SchAusnahmV](laws/SchAusnahmV-BJNR612800021.md) Verordnung zur Regelung von Erleichterungen und Ausnahmen von Schutzmaßnahmen zur Verhinderung der Verbreitung von COVID-19
-- [SchAusrV](laws/SchAusrV-BJNR191310008.md) Schiffsausrüstungsverordnung
+- [SchAusrV](laws/SchAusrV-BJNR0B50B0026.md) Schiffsausrüstungsverordnung 1
 - [SchBauG](laws/SchBauG-BJNR012320965.md) Gesetz über bauliche Maßnahmen zum Schutz der Zivilbevölkerung
 - [SchBerG](laws/SchBerG-BJNR008990956.md) Gesetz über die Beschränkung von Grundeigentum für die militärische Verteidigung
 - [SchBesV](laws/SchBesV-BJNR257500013.md) Schiffsbesetzungsverordnung
@@ -4501,6 +4504,7 @@
 - [SchKG§19Abs2/§24Bek 2023](laws/SchKG§19Abs2_§24Bek_2023-BJNR617800023.md) Bekanntmachung über die nach § 19 Absatz 2 in Verbindung mit § 24 des Schwangerschaftskonfliktgesetzes ab dem 1. Juli 2023 geltenden Beträge
 - [SchKG§19Abs2/§24Bek 2024](laws/SchKG§19Abs2_§24Bek_2024-BJNR618000024.md) Bekanntmachung über die nach § 19 Absatz 2 in Verbindung mit § 24 des Schwangerschaftskonfliktgesetzes ab dem 1. Juli 2024 geltenden Beträge
 - [SchKG§19Abs2/§24Bek 2025](laws/SchKG§19Abs2_§24Bek_2025-BJNR617100025.md) Bekanntmachung über die nach § 19 Absatz 2 in Verbindung mit § 24 des Schwangerschaftskonfliktgesetzes ab dem 1. Juli 2025 geltenden Beträge
+- [SchKG§19Abs2/§24Bek 2026](laws/SchKG§19Abs2_§24Bek_2026-BJNR618000026.md) Bekanntmachung über die nach § 19 Absatz 2 in Verbindung mit § 24 des Schwangerschaftskonfliktgesetzes ab dem 1. Juli 2026 geltenden Beträge
 - [SchKiSpV](laws/SchKiSpV-DDNR007130975.md) Verordnung über die Schüler- und Kinderspeisung
 - [SchKiSpVDBest 1](laws/SchKiSpVDBest_1-DDNR007170975.md) Erste Durchführungsbestimmung zur Verordnung über die Schüler- und Kinderspeisung
 - [SchlärmschG](laws/SchlärmschG-BJNR12D0A0024.md) Gesetz zum Schienenlärmschutz
@@ -4625,7 +4629,7 @@
 - [SGB 10/Kap3](laws/SGB_10_Kap3-BJNR014509982.md) Sozialgesetzbuch - Zusammenarbeit der Leistungsträger und ihre Beziehungen zu Dritten -
 - [SGB 11](laws/SGB_11-BJNR101500994.md) Sozialgesetzbuch (SGB) - Elftes Buch (XI) - Soziale Pflegeversicherung (Artikel 1 des Gesetzes vom 26. Mai 1994, BGBl. I S. 1014)
 - [SGB 12](laws/SGB_12-BJNR302300003.md) Sozialgesetzbuch (SGB) Zwölftes Buch (XII) - Sozialhilfe - (Artikel 1 des Gesetzes vom 27. Dezember 2003, BGBl. I S. 3022)
-- [SGB 2](laws/SGB_2-BJNR295500003.md) Sozialgesetzbuch (SGB) Zweites Buch (II) - Bürgergeld, Grundsicherung für Arbeitsuchende - (Artikel 1 des Gesetzes vom 24. Dezember 2003, BGBl. I S. 2954) *
+- [SGB 2](laws/SGB_2-BJNR295500003.md) Sozialgesetzbuch (SGB) Zweites Buch (II) - Grundsicherung für Arbeitsuchende
 - [SGB 3](laws/SGB_3-BJNR059500997.md) Sozialgesetzbuch (SGB) Drittes Buch (III) - Arbeitsförderung - (Artikel 1 des Gesetzes vom 24. März 1997, BGBl. I S. 594)
 - [SGB 4](laws/SGB_4-BJNR138450976.md) Sozialgesetzbuch (SGB) Viertes Buch (IV) - Gemeinsame Vorschriften für die Sozialversicherung - (Artikel I des Gesetzes vom 23. Dezember 1976, BGBl. I S. 3845)
 - [SGB 5](laws/SGB_5-BJNR024820988.md) Sozialgesetzbuch (SGB) Fünftes Buch (V) - Gesetzliche Krankenversicherung - (Artikel 1 des Gesetzes v. 20. Dezember 1988, BGBl. I S. 2477)
@@ -4886,6 +4890,7 @@
 - [StromStG§9Abs9Bek 2025](laws/StromStG§9Abs9Bek_2025-BJNR0720A0025.md) Bekanntmachung nach § 9 Absatz 9 des Stromsteuergesetzes
 - [StromStV](laws/StromStV-BJNR079400000.md) Verordnung zur Durchführung des Stromsteuergesetzes
 - [StrRehaG](laws/StrRehaG-BJNR118140992.md) Gesetz über die Rehabilitierung und Entschädigung von Opfern rechtsstaatswidriger Strafverfolgungsmaßnahmen im Beitrittsgebiet
+- [StrRehaGAnpV 2026](laws/StrRehaGAnpV_2026-BJNR0BD0A0026.md) Verordnung zur Anpassung der Höhe der monatlichen besonderen Zuwendung nach § 17a Absatz 1 Satz 5 des Strafrechtlichen Rehabilitierungsgesetzes ab dem 1. Juli 2026
 - [StrRehaGSchäV](laws/StrRehaGSchäV-BJNR0900A0026.md) Verordnung über die schädigenden Ereignisse und gesundheitlichen Schädigungen im Sinne des § 21 Absatz 6 Satz 1 des Strafrechtlichen Rehabilitierungsgesetzes
 - [StrRehaHomG](laws/StrRehaHomG-BJNR244310017.md) Gesetz zur strafrechtlichen Rehabilitierung der nach dem 8. Mai 1945 wegen einvernehmlicher homosexueller Handlungen verurteilten Personen
 - [StRSaarEG](laws/StRSaarEG-BJNR003390959.md) Gesetz über die Einführung des deutschen Rechts auf dem Gebiete der Steuern, Zölle und Finanzmonopole im Saarland
@@ -6105,12 +6110,12 @@
 - [6. BinSchStrOAbweichV](laws/6._BinSchStrOAbweichV-BJNR0700A0024.md) Sechste Verordnung zur vorübergehenden Abweichung von der Binnenschifffahrtsstraßen-Ordnung
 - [6. DV-BEG](laws/6._DV-BEG-BJNR002330967.md) Sechste Verordnung zur Durchführung des Bundesentschädigungsgesetzes
 - [6. ErdölFrV](laws/6._ErdölFrV-BJNR0470A0026.md) Sechste Verordnung über die Freigabe von Vorräten des Erdölbevorratungsverbandes
-- [6. PflegeArbbV](laws/6._PflegeArbbV-BJNR1500A0023.md) Sechste Verordnung über zwingende Arbeitsbedingungen für die Pflegebranche
 - [6. ProdSV](laws/6._ProdSV-BJNR059710016.md) Sechste Verordnung zum Produktsicherheitsgesetz 1
 - [6. RAG](laws/6._RAG-BJNR010089963.md) Sechstes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
 - [6. SGGÄndG](laws/6._SGGÄndG-BJNR214400001.md) Sechstes Gesetz zur Änderung des Sozialgerichtsgesetzes
 - [7. BImSchV](laws/7._BImSchV-BJNR031330975.md) Siebente Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 - [7. BinSchStrOAbweichV](laws/7._BinSchStrOAbweichV-BJNR08F0A0024.md) Siebte Verordnung zur vorübergehenden Abweichung von der Binnenschifffahrtsstraßen-Ordnung
+- [7. PflegeArbbV](laws/7._PflegeArbbV-BJNR03A0A0026.md) Siebte Verordnung über zwingende Arbeitsbedingungen für die Pflegebranche
 - [7. RAG](laws/7._RAG-BJNR010850964.md) Siebentes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
 - [8. ÄndGLAG](laws/8._ÄndGLAG-BJNR008090957.md) Achtes Gesetz zur Änderung des Lastenausgleichsgesetzes (Gesetz nach § 246 LAG - 8. ÄndG LAG)
 - [8. BinSchStrOAbweichV](laws/8._BinSchStrOAbweichV-BJNR0ED0A0025.md) Achte Verordnung zur vorübergehenden Abweichung von der Binnenschifffahrtsstraßen-Ordnung

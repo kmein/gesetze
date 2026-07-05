@@ -7,7 +7,7 @@ Auf Grund § 93 Absatz 4 des Soldatengesetzes, der durch Artikel 1 Nummer 3 Buch
 
 # § 1 – Verwendungen mit besonders hohen Sicherheitsanforderungen
 
-Der intensivierten erweiterten Sicherheitsüberprüfung mit Sicherheitsermittlungen für Verwendungen mit besonders hohen Sicherheitsanforderungen nach § 3a des Soldatengesetzes haben sich Soldatinnen und Soldaten zu unterziehen, die
+Die intensivierte erweiterte Sicherheitsüberprüfung für Verwendungen mit besonders hohen Sicherheitsanforderungen nach § 5 Absatz 2 des Bundeswehr-Schutz-Gesetzes ist bei Soldatinnen und Soldaten durchzuführen, die
 
 1. als Kommandosoldatin, Kommandosoldat, Kampfschwimmerin oder Kampfschwimmer für Einsatzaufgaben der Spezialkräfte der Bundeswehr verwendet oder dazu ausgebildet werden,
 

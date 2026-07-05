@@ -71,11 +71,11 @@ Für Aufenthalte außerhalb des näheren Bereichs aufgrund der Ausübung einer s
 
 (1) Die nach § 7b Absatz 3 Satz 1 des Zweiten Buches Sozialgesetzbuch mögliche Zustimmung ist zu erteilen, wenn die Eingliederung in Ausbildung oder Arbeit durch den Aufenthalt außerhalb des näheren Bereichs nicht wesentlich beeinträchtigt wird. Eine wesentliche Beeinträchtigung liegt insbesondere vor, wenn ein konkretes Ausbildungs- oder Arbeitsangebot vorliegt, das nach Ablauf des Aufenthalts außerhalb des näheren Bereichs nicht mehr angenommen werden kann. Die nach § 7b Absatz 3 Satz 2 des Zweiten Buches Sozialgesetzbuch mögliche Dauer des Aufenthalts außerhalb des näheren Bereichs ohne wichtigen Grund soll drei Wochen je Kalenderjahr nicht überschreiten. Bei Vorliegen besonderer Umstände kann die Zustimmung auch zu einem länger als drei Wochen dauernden Aufenthalt außerhalb des näheren Bereichs erteilt werden.
 
-(2) Erwerbsfähigen Leistungsberechtigten, die Bürgergeld ergänzend zu Einkommen aus einer sozialversicherungspflichtigen Beschäftigung beziehen, ist die Zustimmung zu einem Aufenthalt außerhalb des näheren Bereichs ohne wichtigen Grund für die Dauer ihres arbeitsvertraglichen Urlaubsanspruchs zu erteilen.
+(2) Erwerbsfähigen Leistungsberechtigten, die Grundsicherungsgeld ergänzend zu Einkommen aus einer sozialversicherungspflichtigen Beschäftigung beziehen, ist die Zustimmung zu einem Aufenthalt außerhalb des näheren Bereichs ohne wichtigen Grund für die Dauer ihres arbeitsvertraglichen Urlaubsanspruchs zu erteilen.
 
-# § 8 – Erreichbarkeit von Personen, die Arbeitslosengeld und Bürgergeld beziehen
+# § 8 – Erreichbarkeit von Personen, die Arbeitslosengeld und Grundsicherungsgeld beziehen
 
-Sofern die Agentur für Arbeit bei einer Person, die Anspruch auf Arbeitslosengeld oder Teilarbeitslosengeld hat, den Aufenthalt außerhalb des zeit- und ortsnahen Bereichs nach § 3 der Erreichbarkeits-Anordnung vom 23. Oktober 1997 (ANBA S. 1685; 1998 S. 1100), die zuletzt durch die Anordnung vom 26. September 2008 (ANBA Nr. 12 S. 5) geändert worden ist, anerkannt hat, so gilt für diese Person auch für den Bezug von Bürgergeld die Zustimmung für die Abwesenheit außerhalb des näheren Bereich als erteilt.
+Sofern die Agentur für Arbeit bei einer Person, die Anspruch auf Arbeitslosengeld oder Teilarbeitslosengeld hat, den Aufenthalt außerhalb des zeit- und ortsnahen Bereichs nach § 3 der Erreichbarkeits-Anordnung vom 23. Oktober 1997 (ANBA S. 1685; 1998 S. 1100), die zuletzt durch die Anordnung vom 26. September 2008 (ANBA Nr. 12 S. 5) geändert worden ist, anerkannt hat, so gilt für diese Person auch für den Bezug von Grundsicherungsgeld die Zustimmung für die Abwesenheit außerhalb des näheren Bereich als erteilt.
 
 # § 9 – Inkrafttreten
 

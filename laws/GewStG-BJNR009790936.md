@@ -470,7 +470,7 @@ Wird die Einkommensteuer oder die Körperschaftsteuer in einem Pauschbetrag fest
 
 (3) ¹Der Beschluss über die Festsetzung oder Änderung des Hebesatzes ist bis zum 30. Juni eines Kalenderjahrs mit Wirkung vom Beginn dieses Kalenderjahrs zu fassen. ²Nach diesem Zeitpunkt kann der Beschluss über die Festsetzung des Hebesatzes gefasst werden, wenn der Hebesatz die Höhe der letzten Festsetzung nicht überschreitet.
 
-(4) ¹Der Hebesatz muss für alle in der Gemeinde vorhandenen Unternehmen der gleiche sein. ²Er beträgt 200 Prozent, wenn die Gemeinde nicht einen höheren Hebesatz bestimmt hat. ³Wird das Gebiet von Gemeinden geändert, so kann die Landesregierung oder die von ihr bestimmte Stelle für die von der Änderung betroffenen Gebietsteile auf eine bestimmte Zeit verschiedene Hebesätze zulassen. ⁴In den Fällen des Satzes 3 sind die §§ 28 bis 34 mit der Maßgabe anzuwenden, dass an die Stelle mehrerer Gemeinden die Gebietsteile der Gemeinde mit verschiedenen Hebesätzen treten.
+(4) ¹Der Hebesatz muss für alle in der Gemeinde vorhandenen Unternehmen der gleiche sein. ²Er beträgt 280 Prozent, wenn die Gemeinde nicht einen höheren Hebesatz bestimmt hat. ³Wird das Gebiet von Gemeinden geändert, so kann die Landesregierung oder die von ihr bestimmte Stelle für die von der Änderung betroffenen Gebietsteile auf eine bestimmte Zeit verschiedene Hebesätze zulassen. ⁴In den Fällen des Satzes 3 sind die §§ 28 bis 34 mit der Maßgabe anzuwenden, dass an die Stelle mehrerer Gemeinden die Gebietsteile der Gemeinde mit verschiedenen Hebesätzen treten.
 
 (5) In welchem Verhältnis die Hebesätze für die Grundsteuer der Betriebe der Land- und Forstwirtschaft, für die Grundsteuer der Grundstücke und für die Gewerbesteuer zueinander stehen müssen, welche Höchstsätze nicht überschritten werden dürfen und inwieweit mit Genehmigung der Gemeindeaufsichtsbehörde Ausnahmen zugelassen werden können, bleibt einer landesrechtlichen Regelung vorbehalten.
 
@@ -688,9 +688,11 @@ g) über die Festsetzung abweichender Vorauszahlungstermine.
 
 (5a) § 10a in der Fassung des Artikels 9 des Gesetzes vom 21. Dezember 2020 (BGBl. I S. 3096) ist auch für Erhebungszeiträume vor 2020 anzuwenden.
 
-(5b) § 19 Absatz 3 Satz 2 und 3 ist auf Antrag des Steuerpflichtigen mit der Maßgabe anzuwenden, dass für die Erhebungszeiträume 2019 bis 2021 der 21. Kalendermonat, für den Erhebungszeitraum 2022 der 20. Kalendermonat, für den Erhebungszeitraum 2023 der 18. Kalendermonat und für den Erhebungszeitraum 2024 der 17. Kalendermonat an die Stelle des 15. Kalendermonats tritt.
+(5b) § 16 Absatz 4 Satz 2 in der Fassung des Artikels 7 des Gesetzes vom 29. Juni 2026 (BGBl. 2026 I Nr. 197) ist erstmals für den Erhebungszeitraum 2027 anzuwenden.
 
-(5c) § 29 Absatz 1 Nummer 3 und § 31 Absatz 3 in der jeweiligen Fassung des Artikels 9 des Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I Nr. 387) sind erstmals für den Erhebungszeitraum 2025 anzuwenden.
+(5c) § 19 Absatz 3 Satz 2 und 3 ist auf Antrag des Steuerpflichtigen mit der Maßgabe anzuwenden, dass für die Erhebungszeiträume 2019 bis 2021 der 21. Kalendermonat, für den Erhebungszeitraum 2022 der 20. Kalendermonat, für den Erhebungszeitraum 2023 der 18. Kalendermonat und für den Erhebungszeitraum 2024 der 17. Kalendermonat an die Stelle des 15. Kalendermonats tritt.
+
+(5d) § 29 Absatz 1 Nummer 3 und § 31 Absatz 3 in der jeweiligen Fassung des Artikels 9 des Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I Nr. 387) sind erstmals für den Erhebungszeitraum 2025 anzuwenden.
 
 (6) § 35c Absatz 1 Nummer 2 Buchstabe f Satz 1 Doppelbuchstabe bb in der Fassung des Artikels 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den Erhebungszeitraum 2018 anzuwenden.
 

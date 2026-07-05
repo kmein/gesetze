@@ -20,7 +20,7 @@
 
 (2) Öffentliche Auftraggeber im Sinne des § 99 des Gesetzes gegen Wettbewerbsbeschränkungen übermitteln nach der Vergabe eines öffentlichen Auftrags die in § 3 Absatz 2 und 3 aufgeführten Daten, wenn
 
-1. der Auftragswert ohne Umsatzsteuer 25 000 Euro überschreitet,
+1. der Auftragswert ohne Umsatzsteuer 50 000 Euro überschreitet,
 
 2. der Auftragswert den geltenden Schwellenwert gemäß § 106 des Gesetzes gegen Wettbewerbsbeschränkungen unterschreitet,
 

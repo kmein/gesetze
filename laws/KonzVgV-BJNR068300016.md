@@ -75,27 +75,11 @@ b) für ein in das Vergabeverfahren eingeschaltetes Unternehmen, wenn dieses Unt
 
 # § 6 – Dokumentation und Vergabevermerk
 
-(1) Der Konzessionsgeber dokumentiert das Vergabeverfahren von Beginn an fortlaufend in Textform nach § 126b des Bürgerlichen Gesetzbuchs, soweit dies für die Begründung von Entscheidungen auf jeder Stufe des Vergabeverfahrens erforderlich ist. Dazu gehört zum Beispiel die Dokumentation der Kommunikation mit Unternehmen und internen Beratungen, der Vorbereitung der Konzessionsbekanntmachung und der Vergabeunterlagen, der Öffnung der Teilnahmeanträge und Angebote, der Verhandlungen mit den Bewerbern und Bietern sowie der Gründe für Auswahlentscheidungen und den Zuschlag.
+(1) Der Konzessionsgeber dokumentiert das Vergabeverfahren fortlaufend in Textform, sodass die einzelnen Stufen des Verfahrens, die einzelnen Maßnahmen sowie die Begründungen der einzelnen Entscheidungen festgehalten werden. Er erstellt einen zusammenfassenden Vergabevermerk in Textform.
 
-(2) Der Konzessionsgeber fertigt über jedes Vergabeverfahren einen Vermerk in Textform nach § 126b des Bürgerlichen Gesetzbuchs an. Dieser Vergabevermerk umfasst mindestens Folgendes:
+(2) Die Dokumentation, der Vergabevermerk, die Teilnahmeanträge und die Angebote einschließlich ihrer Anlagen sind bis zum Ende der Vertragslaufzeit vertraulich zu behandeln und aufzubewahren, mindestens jedoch für drei Jahre ab dem Tag des Zuschlags.
 
-1. den Namen und die Anschrift des Konzessionsgebers sowie Gegenstand und Vertragswert der Konzession,
-
-2. die Namen der berücksichtigten Bewerber oder Bieter und die Gründe für ihre Auswahl,
-
-3. die nicht berücksichtigten Teilnahmeanträge und Angebote sowie die Namen der nicht berücksichtigten Bewerber oder Bieter und die Gründe für ihre Nichtberücksichtigung,
-
-4. den Namen des erfolgreichen Bieters und die Gründe für die Auswahl seines Angebots sowie, falls bekannt, den Anteil an der Konzession, den der erfolgreiche Bieter an Dritte weiterzugeben beabsichtigt, und die Namen der Unterauftragnehmer,
-
-5. die Gründe, aus denen der Konzessionsgeber auf die Vergabe einer Konzession verzichtet hat,
-
-6. die Gründe, aus denen andere als elektronische Mittel für die Einreichung der Angebote verwendet wurden, und
-
-7. Angaben zu aufgedeckten Interessenkonflikten und getroffenen Abhilfemaßnahmen.
-
-(3) Die Dokumentation, der Vergabevermerk, die Teilnahmeanträge und die Angebote einschließlich ihrer Anlagen sind bis zum Ende der Vertragslaufzeit vertraulich zu behandeln und aufzubewahren, mindestens jedoch für drei Jahre ab dem Tag des Zuschlags.
-
-(4) § 4 bleibt unberührt.
+(3) § 4 bleibt unberührt.
 
 # § 7 – Grundsätze der Kommunikation
 
@@ -213,7 +197,7 @@ Die Vergabeunterlagen umfassen jede Unterlage, die vom Konzessionsgeber erstellt
 
 # § 17 – Bereitstellung der Vergabeunterlagen
 
-(1) Der Konzessionsgeber gibt in der Konzessionsbekanntmachung oder – sofern die Konzessionsbekanntmachung keine Aufforderung zur Angebotsabgabe enthält – in der Aufforderung zur Angebotsabgabe eine elektronische Adresse an, unter der die Vergabeunterlagen unentgeltlich, uneingeschränkt, vollständig und direkt abgerufen werden können.
+(1) Der Konzessionsgeber gibt in der Konzessionsbekanntmachung oder – sofern die Konzessionsbekanntmachung keine Aufforderung zur Angebotsabgabe enthält – in der Aufforderung zur Angebotsabgabe eine elektronische Adresse an, unter der die Vergabeunterlagen nach § 16 unentgeltlich, uneingeschränkt, vollständig und direkt abgerufen werden können.
 
 (2) Der Konzessionsgeber kann die Vergabeunterlagen auf einem anderen geeigneten Weg übermitteln, wenn aufgrund hinreichend begründeter Umstände aus außergewöhnlichen Sicherheitsgründen oder technischen Gründen oder aufgrund der besonderen Sensibilität von Handelsinformationen, die eines sehr hohen Datenschutzniveaus bedürfen, ein unentgeltlicher, uneingeschränkter und vollständiger elektronischer Zugang nicht angeboten werden kann. In diesem Fall gibt der Konzessionsgeber in der Konzessionsbekanntmachung oder der Aufforderung zur Angebotsabgabe an, dass die Vergabeunterlagen auf einem anderen geeigneten Weg übermittelt werden können und die Frist für den Eingang der Angebote verlängert wird.
 
@@ -282,6 +266,8 @@ b) der Teilnahmeantrag ein ungeeignetes Angebot enthält, weil dieses ohne wesen
 
 (3) Bekanntmachungen dürfen frühestens 48 Stunden nach der Bestätigung des Amtes für Veröffentlichungen der Europäischen Union über die Veröffentlichung der übermittelten Informationen auf nationaler Ebene veröffentlicht werden. Die Veröffentlichung darf nur die Angaben enthalten, die in der an das Amt für Veröffentlichungen der Europäischen Union übermittelten Bekanntmachung enthalten sind. In der nationalen Bekanntmachung ist das Datum der Übermittlung an das Amt für Veröffentlichungen der Europäischen Union anzugeben.
 
+(4) Wird bei der Übermittlung an das Amt für Veröffentlichungen der Europäischen Union ein späterer Tag zur Veröffentlichung angegeben, kommt es für Fristberechnungen nicht auf den Tag der Absendung oder dessen Bestätigung, sondern auf den angegebenen Tag zur Veröffentlichung an.
+
 # § 24 – Rechtsform von Unternehmen und Bietergemeinschaften
 
 (1) Bewerber oder Bieter, die gemäß den Rechtsvorschriften des Staats, in dem sie niedergelassen sind, zur Erbringung der betreffenden Leistung berechtigt sind, dürfen nicht allein deshalb zurückgewiesen werden, weil sie gemäß den deutschen Rechtsvorschriften eine natürliche oder juristische Person sein müssten. Juristische Personen können verpflichtet werden, in ihrem Antrag auf Teilnahme oder in ihrem Angebot die Namen und die berufliche Befähigung der Personen anzugeben, die für die Durchführung des Konzessionsvertrags als verantwortlich vorgesehen sind.
@@ -300,17 +286,21 @@ b) der Teilnahmeantrag ein ungeeignetes Angebot enthält, weil dieses ohne wesen
 
 2. den Wettbewerb zu gewährleisten.
 
+Bei der Auswahl der Eignungskriterien und Eignungsnachweise sind die besonderen Umstände von jungen sowie von kleinen und mittleren Unternehmen angemessen zu berücksichtigen. Eine Begründung ist nicht erforderlich.
+
 (3) Zur Erfüllung der Eignungskriterien darf ein Unternehmen Kapazitäten anderer Unternehmen einbeziehen, unabhängig davon, welche rechtlichen Beziehungen zwischen ihm und diesen Unternehmen bestehen. Hinsichtlich der finanziellen Leistungsfähigkeit kann der Konzessionsgeber verlangen, dass die Unternehmen gemeinschaftlich für die Vertragsdurchführung haften.
 
 (+++ § 25 Abs. 3: Zur Anwendung vgl. § 33 Abs. 1 +++)
 
 # § 26 – Beleg für die Eignung und das Nichtvorliegen von Ausschlussgründen
 
-(1) Der Konzessionsgeber prüft die Eignung und das Nichtvorliegen von Ausschlussgründen aufgrund der Vorlage von Eigenerklärungen oder von Nachweisen.
+(1) Der Konzessionsgeber prüft die Eignung und das Nichtvorliegen von Ausschlussgründen grundsätzlich aufgrund der Vorlage von Eigenerklärungen, ansonsten von Nachweisen.
 
 (2) In der Konzessionsbekanntmachung ist anzugeben, mit welchen Unterlagen Unternehmen die Eignung und das Nichtvorliegen von Ausschlussgründen zu belegen haben. Ist eine Konzessionsbekanntmachung gemäß § 20 nicht erforderlich, sind diese Angaben in die Vergabeunterlagen aufzunehmen.
 
 (3) Bei Einbeziehung von Kapazitäten anderer Unternehmen gemäß § 25 Absatz 3 können Konzessionsgeber den Nachweis verlangen, dass die zur Erfüllung der Eignungskriterien erforderlichen Mittel während der gesamten Konzessionslaufzeit zur Verfügung stehen werden.
+
+(4) Kann ein Bewerber oder Bieter aus einem berechtigten Grund die geforderten Unterlagen nicht beibringen, so kann er seine wirtschaftliche und finanzielle Leistungsfähigkeit durch Vorlage anderer, vom Konzessionsgeber als geeignet angesehener Unterlagen belegen. Ein berechtigter Grund kann insbesondere auch in solchen Fällen vorliegen, in denen es sich bei dem Bewerber oder Bieter um ein junges Unternehmen handelt. Der Konzessionsgeber kann in den Vergabeunterlagen auf die Möglichkeit der Vorlage anderer Unterlagen nach Satz 1 hinweisen.
 
 # § 27 – Fristen für den Eingang von Teilnahmeanträgen und Angeboten
 

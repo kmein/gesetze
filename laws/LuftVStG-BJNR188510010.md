@@ -198,19 +198,19 @@ Die Steuer bemisst sich nach der Lage des jeweils gewählten Zielorts und der An
 <td style="text-align: left;" data-valign="top" data-charoff="50">in einem Land der Anlage 1<br />
 zu diesem Gesetz</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"><br />
-15,53 Euro</td>
+13,03 Euro</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">2.</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">in einem Land der Anlage 2<br />
 zu diesem Gesetz</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"><br />
-39,34 Euro</td>
+33,01 Euro</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">3.</td>
 <td style="text-align: left;" data-valign="top" data-charoff="50">in anderen Ländern</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">70,83 Euro.</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">59,43 Euro.</td>
 </tr>
 </tbody>
 </table>

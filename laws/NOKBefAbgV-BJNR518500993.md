@@ -77,7 +77,7 @@ Hinsichtlich der Verjährung der Befahrungsabgaben sind die §§ 18 und 19 des B
 
 # § 8
 
-§ 1 Satz 1 in Verbindung mit der Anlage ist bis zum 30. Juni 2026 mit der Maßgabe anzuwenden, dass die Befahrungsabgaben nur in Höhe von 50 Prozent der in der Anlage genannten Beträge zu entrichten sind. Dies gilt nur für Fahrzeuge, die der Pflicht zur Annahme eines Bordlotsen gemäß § 6 Absatz 3 der NOK-Lotsverordnung unterliegen.
+§ 1 Satz 1 in Verbindung mit der Anlage ist bis zum 31. Dezember 2030 mit der Maßgabe anzuwenden, dass die Befahrungsabgaben nur in Höhe von 50 Prozent der in der Anlage genannten Beträge zu entrichten sind. Dies gilt nur für Fahrzeuge, die der Pflicht zur Annahme eines Bordlotsen gemäß § 6 Absatz 3 der NOK-Lotsverordnung unterliegen.
 
 # Anlage 1 – (zu § 1 Absatz 1)Befahrungsabgabenverzeichnis
 

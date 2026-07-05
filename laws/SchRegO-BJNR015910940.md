@@ -53,7 +53,7 @@ soweit dies aus Gründen der Vereinfachung oder Beschleunigung des Geschäftsabl
 
 (2) Soll die Schiffahrt mit einem Seeschiff von einem ausländischen Hafen aus betrieben werden oder fehlt es für ein Seeschiff an einem Heimathafen, so steht dem Eigentümer die Wahl des Schiffsregisters frei.
 
-(3) Hat der Eigentümer weder seinen Wohnsitz noch seine gewerbliche Niederlassung im Geltungsbereich des Grundgesetzes, so ist er verpflichtet, einen im Bezirk des Registergerichts wohnhaften Vertreter zu bestellen, der die nach §§ 9 bis 22, 62 begründeten Rechte und Pflichten gegenüber dem Registergericht wahrzunehmen hat. Dies gilt nicht in den Fällen des § 2 Absatz 1 Nummer 1 des Flaggenrechtsgesetzes.
+(3) Hat der Eigentümer weder seinen Wohnsitz noch seine gewerbliche Niederlassung im Geltungsbereich des Grundgesetzes, so ist er verpflichtet, einen im Bezirk des Registergerichts wohnhaften Vertreter zu bestellen, der die nach §§ 9 bis 22, 62 begründeten Rechte und Pflichten gegenüber dem Registergericht wahrzunehmen hat. Dies gilt nicht in den Fällen des § 2 Absatz 4 des Flaggenrechtsgesetzes.
 
 # § 5
 
@@ -71,7 +71,7 @@ Jedes Schiff erhält bei der Eintragung eine besondere Stelle im Schiffsregister
 
 # § 8
 
-(1) Das Schiffsregister ist öffentlich; die Einsicht in das Register ist jedem gestattet. Auf Verlangen ist eine Abschrift der Eintragung zu erteilen; die Abschrift ist auf Verlangen zu beglaubigen.
+(1) Das Schiffsregister ist öffentlich; die Einsicht in das Register ist jedem gestattet. Auf Verlangen ist eine Abschrift der Eintragung zu erteilen; die Abschrift ist auf Verlangen zu beglaubigen. Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die Einsichtnahme in das Schiffsregister zu Informationszwecken durch einzelne Abrufe im Wege eines elektronischen Abrufverfahrens zuzulassen. Sie bestimmen in diesem Fall das Informations- und Kommunikationssystem, über das die Daten aus dem Schiffsregister abrufbar sind, und sind für die Abwicklung des elektronischen Abrufverfahrens zuständig. Die Landesregierungen können die Zuständigkeit durch Rechtsverordnung abweichend regeln. Sie können die Ermächtigungen nach den Sätzen 3 und 5 durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen. Die Länder können ein länderübergreifendes, zentrales elektronisches Informations- und Kommunikationssystem bestimmen. Sie können auch eine Übertragung der Abwicklungsaufgaben auf die zuständige Stelle eines anderen Landes vereinbaren.
 
 (2) Die Einsicht in die Registerakten ist nur gestattet, soweit ein berechtigtes Interesse glaubhaft gemacht wird; Absatz 1 Satz 2 gilt sinngemäß. Das gleiche gilt für die Einsicht in Urkunden, auf die im Schiffsregister zur Ergänzung einer Eintragung Bezug genommen ist, sowie in die noch nicht erledigten Eintragungsanträge.
 
@@ -81,7 +81,7 @@ Ein Schiff, das nach § 3 Abs. 2, 3 in das Schiffsregister eingetragen werden ka
 
 # § 10
 
-(1) Zur Anmeldung eines Seeschiffs ist der Eigentümer verpflichtet, wenn das Schiff nach § 1 des Flaggenrechtsgesetzes die Bundesflagge zu führen hat. Dies gilt nicht für Seeschiffe, deren Rumpflänge, gemessen zwischen den äußersten Punkten des Vorstevens und des Hinterstevens, 15 Meter nicht übersteigt. Von der Anmeldepflicht kann das Bundesministerium für Verkehr und digitale Infrastruktur durch Verwaltungsanordnung allgemein oder im Einzelfall Ausnahmen zulassen.
+(1) Zur Anmeldung eines Seeschiffs ist der Eigentümer verpflichtet, wenn das Schiff nach § 1 des Flaggenrechtsgesetzes die Bundesflagge zu führen hat. Dies gilt nicht für Seeschiffe, deren Rumpflänge, gemessen zwischen den äußersten Punkten des Vorstevens und des Hinterstevens, 15 Meter nicht übersteigt. Von der Anmeldepflicht kann das Bundesministerium für Verkehr durch Verwaltungsanordnung allgemein oder im Einzelfall Ausnahmen zulassen.
 
 (2) Zur Anmeldung eines Binnenschiffs ist der Eigentümer verpflichtet,
 
@@ -141,7 +141,7 @@ Bei der Anmeldung eines Binnenschiffs sind anzugeben:
 
 (1) Die in § 11 Abs. 1 Nr. 3, 4, 6, 7, Abs. 2, § 12 Nr. 3, 4, 6, 7 bezeichneten Angaben sowie die Maschinenleistung sind glaubhaft zu machen. Der Meßbrief (§ 11 Abs. 1 Nr. 5), der Eichschein oder eine andere zur Bescheinigung der größten Tragfähigkeit oder der Wasserverdrängung bei größter Eintauchung bestimmte und geeignete amtliche Urkunde (§ 12 Nr. 5) ist vorzulegen; ist das Schiff im Inland noch nicht amtlich vermessen (§ 11 Abs. 2) oder geeicht, genügt zu § 11 Abs. 2, § 12 Nr. 5 die Vorlegung der Vermessungsurkunde oder des Eichscheins der ausländischen Behörde oder einer anderen zur Glaubhaftmachung der Angaben geeigneten Urkunde.
 
-(2) Bei der Anmeldung eines Seeschiffs sind die das Recht zur Führung der Bundesflagge begründenden Tatsachen nachzuweisen.
+(2) Bei der Anmeldung eines Seeschiffes sind die das Recht zur Führung der Bundesflagge begründenden Tatsachen nachzuweisen. Der Nachweis über die Benennung einer geeigneten beauftragten Person im Sinne des § 2 Absatz 4 des Flaggenrechtsgesetzes wird durch eine Bescheinigung des Bundesamtes für Seeschifffahrt und Hydrographie geführt.
 
 # § 14
 
@@ -383,7 +383,7 @@ Ergibt sich, daß das Registergericht unter Verletzung gesetzlicher Vorschriften
 
 (1) Jede Eintragung soll dem Antragsteller und dem eingetragenen Eigentümer sowie allen aus dem Schiffsregister ersichtlichen Personen bekanntgemacht werden, zu deren Gunsten die Eintragung erfolgt ist oder deren Recht durch sie betroffen wird, die Eintragung eines Eigentümers auch denen, für die eine Schiffshypothek oder ein Recht an einer solchen im Schiffsregister eingetragen ist. Auf die Bekanntmachung kann verzichtet werden.
 
-(2) Jede Eintragung in die erste und zweite Abteilung des Seeschiffsregisters und des Binnenschiffsregisters ist dem Bundesamt für Seeschiffahrt und Hydrographie zur Erfüllung der Aufgaben nach dem Seeaufgabengesetz, dem Flaggenrechtsgesetz und dem Binnenschiffahrtsaufgabengesetz sowie der örtlich zuständigen Arbeitsschutzbehörde zur Erfüllung ihrer Aufgaben nach dem Seemannsgesetz bekanntzumachen.
+(2) Jede Eintragung in die erste und zweite Abteilung des Seeschiffsregisters und des Binnenschiffsregisters ist dem Bundesamt für Seeschifffahrt und Hydrographie zur Erfüllung der Aufgaben nach dem Seeaufgabengesetz, dem Flaggenrechtsgesetz und dem Binnenschifffahrtsaufgabengesetz sowie der örtlich zuständigen Arbeitsschutzbehörde zur Erfüllung ihrer Aufgaben nach dem Seearbeitsgesetz bekanntzumachen. Auf Verlangen des Bundesamtes für Seeschifffahrt und Hydrographie sind diesem unverzüglich die entsprechenden Auszüge aus dem Schiffsregister zu übermitteln.
 
 # § 58
 
@@ -404,6 +404,8 @@ Für die Eintragung der Rechtsverhältnisse an einer Schiffspart gelten die §§
 (2) Im Schiffszertifikat ist ferner zu bezeugen, daß die in ihm enthaltenen Angaben glaubhaft gemacht sind und daß das Schiff das Recht hat, die Bundesflagge der Bundesrepublik Deutschland zu führen.
 
 (3) Dem Eigentümer eines Seeschiffs ist auf Antrag ein beglaubigter Auszug aus dem Schiffszertifikat zu erteilen, in den nur die im § 11 Abs. 1 Nr. 1 bis 5 bezeichneten Tatsachen, das Unterscheidungssignal und das im Absatz 2 bezeichnete Zeugnis aufzunehmen sind.
+
+(4) Dem Eigentümer eines Binnenschiffs ist auf Antrag ein beglaubigter Auszug aus dem Schiffsbrief zu erteilen, in den nur die in § 12 Absatz 1 Nummer 1 bis 5 bezeichneten Tatsachen und, soweit vorhanden, die einheitliche Schiffsnummer aufzunehmen sind.
 
 # § 61
 
@@ -615,7 +617,7 @@ Die Landesregierungen werden ermächtigt, durch Rechtsverordnung das Verfahren z
 
 # § 93
 
-Die Vorschriften des Siebenten Abschnitts der Grundbuchordnung gelten sinngemäß. Die Genehmigung für die Einrichtung eines automatisierten Abrufverfahrens darf dem Bundesamt für Seeschiffahrt und Hydrographie, der See-Berufsgenossenschaft, Strafverfolgungsbehörden, den Gerichten und anderen durch Rechtsverordnung des Bundesministeriums der Justiz und für Verbraucherschutz mit Zustimmung des Bundesrats zugelassenen Personen oder Stellen unter den Voraussetzungen des § 133 Abs. 2 Satz 3 Grundbuchordnung erteilt werden.
+Die Vorschriften des Siebenten Abschnitts der Grundbuchordnung gelten sinngemäß. § 133 der Grundbuchordnung findet auf das elektronische Abrufverfahren keine Anwendung.
 
 # § 94
 

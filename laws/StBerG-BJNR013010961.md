@@ -1051,7 +1051,7 @@ Ein Vermögensverfall nach Satz 1 Nummer 2 wird vermutet, wenn ein Insolvenzverf
 
 2. die Geschäftsanschriften der Niederlassungen der Berufsausübungsgesellschaft sowie
 
-3. Namen und Berufe der Gesellschafter, der Mitglieder der Geschäftsführungs- und Aufsichtsorgane sowie aller mittelbar beteiligten Personen; sofern Gesellschafter eine anerkannte oder zugelassene Gesellschaft nach § 55a Absatz 1 Satz 1 ist, müssen Name und Beruf der an ihr mittelbar beteiligten Personen nicht angegeben werden.
+3. Namen und Berufe der Gesellschafter, der Mitglieder der Geschäftsführungs- und Aufsichtsorgane sowie aller mittelbar beteiligten Personen; sofern Gesellschafter eine anerkannte oder zugelassene Gesellschaft nach § 55a Absatz 1 Satz 1 Nummer 1 und 2 ist, müssen Name und Beruf der an ihr mittelbar beteiligten Personen nicht angegeben werden.
 
 Die zuständige Steuerberaterkammer kann zur Prüfung der Voraussetzungen des § 53 Absatz 2 die Vorlage geeigneter Nachweise einschließlich des Gesellschaftsvertrags oder der Satzung verlangen.
 
@@ -1103,7 +1103,7 @@ Ein Vermögensverfall nach Satz 1 Nummer 2 wird vermutet, wenn ein Insolvenzverf
 
 4. anerkannte Buchprüfungsgesellschaften.
 
-Bei gesetzlichen Voraussetzungen, die in der Person der Gesellschafter oder der Mitglieder der Geschäftsführung erfüllt sein müssen, kommt es in den Fällen des Satzes 1 auf die Gesellschafter und die Geschäftsführung der beteiligten Gesellschaft an. Haben sich Steuerberater und Steuerbevollmächtigte, Angehörige eines der in § 50 Absatz 1 Satz 1 genannten Berufe sowie Berufsausübungsgesellschaften, die die Voraussetzungen dieses Unterabschnitts erfüllen, zu einer Gesellschaft bürgerlichen Rechts zusammengeschlossen, deren Zweck ausschließlich das Halten von Anteilen an einer anerkannten Berufsausübungsgesellschaft ist, so werden ihnen die Anteile an der Berufsausübungsgesellschaft im Verhältnis ihrer Beteiligung an der Gesellschaft bürgerlichen Rechts zugerechnet.
+Bei gesetzlichen Voraussetzungen, die in der Person der Gesellschafter oder der Mitglieder der Geschäftsführung erfüllt sein müssen, kommt es in den Fällen des Satzes 1 auf die Gesellschafter und die Geschäftsführung der beteiligten Gesellschaft an. In den Fällen des Satzes 1 Nummer 3 und 4 müssen unmittelbar und mittelbar beteiligte Gesellschaften mit Ausnahme des § 55b Absatz 3 die Anerkennungsvoraussetzung des § 53 Absatz 2 Satz 1 Nummer 1 erfüllen. Haben sich Steuerberater und Steuerbevollmächtigte, Angehörige eines der in § 50 Absatz 1 Satz 1 genannten Berufe sowie Berufsausübungsgesellschaften, die die Voraussetzungen dieses Unterabschnitts erfüllen, zu einer Gesellschaft bürgerlichen Rechts zusammengeschlossen, deren Zweck ausschließlich das Halten von Anteilen an einer anerkannten Berufsausübungsgesellschaft ist, so werden ihnen die Anteile an der Berufsausübungsgesellschaft im Verhältnis ihrer Beteiligung an der Gesellschaft bürgerlichen Rechts zugerechnet.
 
 (2) Die Übertragung von Gesellschaftsanteilen muss an die Zustimmung der Gesellschafterversammlung gebunden sein. Bei Aktiengesellschaften oder Kommanditgesellschaften auf Aktien müssen die Aktien auf Namen lauten.
 
@@ -1667,11 +1667,21 @@ c) der Sitz aus dem Registerbezirk verlegt wird;
 
 # § 76e – Anzeigepflichten
 
-(1) Im Januar eines jeden Kalenderjahres haben die Mitglieder des zur gesetzlichen Vertretung berufenen Organs oder die vertretungsberechtigten Gesellschafter einer Berufsausübungsgesellschaft sowie die Gesellschafter einer Gesellschaft bürgerlichen Rechts im Sinne des § 55a Absatz 1 Satz 3 eine von ihnen unterschriebene Liste der Gesellschafter bei der zuständigen Steuerberaterkammer einzureichen. Aus dieser Liste müssen Name, Vornamen, Beruf, Wohnort und berufliche Niederlassung der Gesellschafter sowie deren Aktien, Stammeinlagen oder Beteiligungsverhältnisse ersichtlich sein. Sind seit Einreichung der letzten Liste keine Veränderungen hinsichtlich der Person oder des Berufs der Gesellschafter und des Umfangs der Beteiligung eingetreten, so genügt die Einreichung einer entsprechenden Erklärung.
+(1) Die Mitglieder des zur gesetzlichen Vertretung berufenen Organs oder die vertretungsberechtigten Gesellschafter einer Berufsausübungsgesellschaft haben der zuständigen Steuerberaterkammer jede Änderung eines unmittelbar oder mittelbar beteiligten Gesellschafters unverzüglich anzuzeigen, wenn eine anerkannte Wirtschaftsprüfungsgesellschaft oder eine anerkannte Buchprüfungsgesellschaft an der Berufsausübungsgesellschaft beteiligt ist.
 
-(2) Absatz 1 gilt in den Fällen des § 154 Absatz 2 Satz 1 entsprechend.
+(2) Die Anzeige nach Absatz 1 hat folgende Angaben zu enthalten:
 
-(3) Steuerberater und Steuerbevollmächtigte, die Mitglied eines Geschäftsführungs- oder Aufsichtsorgans einer Berufsausübungsgesellschaft nach der Bundesrechtsanwaltsordnung oder der Patentanwaltsordnung sind, haben dies der Steuerberaterkammer unverzüglich anzuzeigen.
+1. bei natürlichen Personen: Familienname, Vorname oder Vornamen, Beruf, Wohnort, berufliche Niederlassung;
+
+2. bei juristischen Personen oder rechtsfähigen Personengesellschaften: deren Name oder Firma, deren Sitz und, sofern gesetzlich vorgesehen, das für sie zuständige Register und die Registernummer;
+
+3. Aktien, Stammeinlagen oder Beteiligungsverhältnisse der Gesellschafter;
+
+4. in Fällen eines Wechsels eines mittelbaren Gesellschafters zusätzlich eine Übersicht über die Beteiligungsstruktur von der Berufsausübungsgesellschaft bis zu dem mittelbaren Gesellschafter, in dessen Person ein Wechsel stattfindet.
+
+(3) Die zuständige Steuerberaterkammer kann zusätzlich zur Anzeige nach Absatz 1 geeignete Nachweise einschließlich eines Registerauszugs verlangen.
+
+(4) Steuerberater und Steuerbevollmächtigte, die Mitglied eines Geschäftsführungs- oder Aufsichtsorgans einer Berufsausübungsgesellschaft nach der Bundesrechtsanwaltsordnung oder der Patentanwaltsordnung sind, haben dies der Steuerberaterkammer unverzüglich anzuzeigen.
 
 # § 77 – Wahl des Vorstands
 
@@ -2687,7 +2697,7 @@ Für Maßnahmen, die in Verfahren wegen Straftaten oder Ordnungswidrigkeiten ode
 
 (1) Steuerberatungsgesellschaften, die am 16. Juni 1989 anerkannt sind, bleiben anerkannt. Dies gilt auch, wenn die Gesellschaft zur Übernahme der Mandanten einer Einrichtung gemäß § 4 Nr. 3, 7 und 8 gegründet wurde oder später die Mandanten einer solchen Einrichtung übernommen hat. Verändert sich nach dem 31. Dezember 1990 der Bestand der Gesellschafter oder das Verhältnis ihrer Beteiligungen oder Stimmrechte durch Rechtsgeschäft oder Erbfall und geht der Anteil oder das Stimmrecht nicht auf einen Gesellschafter über, der die Voraussetzungen des §§ 49 und 50 erfüllt, so hat die zuständige Steuerberaterkammer nach § 55 Absatz 3 zu verfahren. Sie kann vom Widerruf der Anerkennung absehen, wenn Anteile von einer Körperschaft des öffentlichen Rechts im Zusammenhang mit der Überragung von Aufgaben auf eine andere Körperschaft des öffentlichen Rechts übergehen.
 
-(2) Absatz 1 Satz 3 und 4 gilt auch für unmittelbar oder mittelbar an Berufsausübungsgesellschaften beteiligte Gesellschaften, wenn sie nicht die Kapitalbindungsvorschriften des §§ 49 und 50 dieses Gesetzes oder des § 28 Abs. 4 der Wirtschaftsprüferordnung erfüllen. Auf Antrag kann auf Grund einer von der zuständigen Steuerberaterkammer erteilten Ausnahmegenehmigung von der Anwendung des Satzes 1 abgesehen werden, wenn
+(2) Absatz 1 Satz 3 und 4 gilt auch für unmittelbar oder mittelbar an Berufsausübungsgesellschaften beteiligte Gesellschaften, wenn sie nicht die Kapitalbindungsvorschrift des § 55a dieses Gesetzes oder des § 28 Absatz 4 der Wirtschaftsprüferordnung erfüllen. Auf Antrag kann auf Grund einer von der zuständigen Steuerberaterkammer erteilten Ausnahmegenehmigung von der Anwendung des Satzes 1 abgesehen werden, wenn
 
 1. sich der Bestand der Gesellschafter einer beteiligten Gesellschaft und das Verhältnis ihrer Beteiligungen oder Stimmrechte dadurch ändert, dass ein Gesellschafter aus der beteiligten Gesellschaft ausscheidet und infolgedessen sein Anteil oder Stimmrecht auf einen Gesellschafter übergeht, der vor dem 19. Mai 1994 Gesellschafter der beteiligten Gesellschaft war, und die beteiligte Gesellschaft, bei der die Änderung eintritt, vor der Änderung von Berufsvertretungen desselben Berufs gebildet wurde, oder
 

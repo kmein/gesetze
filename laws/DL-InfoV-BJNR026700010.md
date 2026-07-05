@@ -75,19 +75,15 @@ Auf Grund des § 6c in Verbindung mit § 146 Absatz 2 Nummer 1 der Gewerbeordnun
 
 (2) Absatz 1 findet keine Anwendung auf Dienstleistungsempfänger, die Verbraucher im Sinne des § 13 des Bürgerlichen Gesetzbuchs sind.
 
-# § 5 – Verbot diskriminierender Bestimmungen
-
-Der Dienstleistungserbringer darf keine Bedingungen für den Zugang zu einer Dienstleistung bekannt machen, die auf der Staatsangehörigkeit oder dem Wohnsitz des Dienstleistungsempfängers beruhende diskriminierende Bestimmungen enthalten. Dies gilt nicht für Unterschiede bei den Zugangsbedingungen, die unmittelbar durch objektive Kriterien gerechtfertigt sind.
+# § 5 – (weggefallen)
 
 # § 6 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 146 Absatz 2 Nummer 1 der Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig
 
-1. entgegen § 2 Absatz 1, § 3 Absatz 1 oder § 4 Absatz 1 eine Information nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig zur Verfügung stellt,
+1. entgegen § 2 Absatz 1, § 3 Absatz 1 oder § 4 Absatz 1 eine Information nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig zur Verfügung stellt oder
 
-2. entgegen § 3 Absatz 2 nicht sicherstellt, dass eine dort genannte Information in jeder ausführlichen Informationsunterlage enthalten ist, oder
-
-3. entgegen § 5 Satz 1 Bedingungen bekannt macht.
+2. entgegen § 3 Absatz 2 nicht sicherstellt, dass eine dort genannte Information in jeder ausführlichen Informationsunterlage enthalten ist.
 
 # § 7 – Inkrafttreten
 

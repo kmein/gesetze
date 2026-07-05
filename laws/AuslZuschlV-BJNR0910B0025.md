@@ -217,7 +217,7 @@ Das Nettoerwerbseinkommen ist die Summe der nach Abzug der zu entrichtenden Steu
 
 (2) Einkünfte, die ausschließlich durch Tätigkeiten erzielt wurden, die vor dem Beginn oder nach dem Ende des Gewährungszeitraums des erhöhten Auslandszuschlags ausgeübt wurden, bleiben bei der Anrechnung unberücksichtigt.
 
-(3) Die Hälfte des Erhöhungsbetrags ist anrechnungsfrei. Auf die andere Hälfte wird das nach Absatz 1 Satz 2 zu berücksichtigende Nettoerwerbseinkommen angerechnet. Die Anrechnung erfolgt getrennt für jedes Kalenderjahr. Bei einem Dienstortwechsel innerhalb eines Kalenderjahres wird das erzielte Nettoerwerbseinkommen getrennt nach Dienstorten betrachtet.
+(3) Die Hälfte des nach § 53 Absatz 6 Satz 3 des Bundesbesoldungsgesetzes individuell maximal zustehenden erhöhten Auslandszuschlags ist anrechnungsfrei. Auf die andere Hälfte wird das nach Absatz 1 Satz 2 zu berücksichtigende Nettoerwerbseinkommen angerechnet. Die Anrechnung erfolgt getrennt für jedes Kalenderjahr. Bei einem Dienstortwechsel innerhalb eines Kalenderjahres wird das erzielte Nettoerwerbseinkommen getrennt nach Dienstorten betrachtet. Ist der nach den Sätzen 1 und 2 errechnete Betrag höher als der von der Ehegattin oder dem Ehegatten für den Aufbau einer eigenständigen Altersvorsorge verwendete Betrag, so wird maximal der für die Altersvorsorge verwendete Betrag gewährt.
 
 # § 17 – Vorläufige Gewährung und Nachweis bei Nettoerwerbseinkommen der berücksichtigungsfähigen Person
 
@@ -231,16 +231,18 @@ Das Nettoerwerbseinkommen ist die Summe der nach Abzug der zu entrichtenden Steu
 
 (2) Bei einer befristeten Verwendung im Ausland wird bei der Berechnung der erforderlichen Mindestdauer der Verwendung nach § 53 Absatz 6 Satz 2 des Bundesbesoldungsgesetzes auch die Zeit berücksichtigt, während der Dienst vor dem 1. Juli 2025 geleistet worden ist.
 
+(3) Haben Empfängerinnen und Empfänger von Auslandsdienstbezügen bereits vor dem 1. Juli 2025 den Erhöhungsbetrag als Beitrag für eine kapitalgedeckte Altersvorsorge verwendet, welche eine lebenslange monatliche Leibrente für die Ehegattin oder den Ehegatten vorsieht und nicht vor Vollendung des 62. Lebensjahres der Ehegattin oder des Ehegatten ausgezahlt wird, so gilt dies auch nach dem 1. Juli 2025 als Verwendung für den Aufbau einer eigenständigen Altersvorsorge der Ehegattin oder des Ehegatten nach § 10 Absatz 2.
+
 # Anlage 1 – (zu § 1 Absatz 1)
 
-(Fundstelle: BGBl. 2025 I Nr. 145, S. 8 - 13)
+(Fundstelle: BGBl. 2026 I Nr. 171, S. 2 – 7)
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
 <colgroup>
 <col style="width: 13%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 20%" />
+<col style="width: 34%" />
+<col style="width: 34%" />
+<col style="width: 19%" />
 </colgroup>
 <thead data-valign="bottom">
 <tr class="header">
@@ -266,7 +268,7 @@ Europa</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Albanien</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Tirana</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">11</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">10</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2</td>
@@ -278,13 +280,13 @@ Europa</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Bosnien und Herzegowina</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Sarajewo</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">11</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">10</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Bulgarien</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Sofia</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">7</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">5</td>
@@ -296,7 +298,7 @@ Europa</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Estland</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Tallinn</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">7</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">7</td>
@@ -313,12 +315,12 @@ Europa</td>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Bordeaux</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">10</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Lyon</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">11</td>
@@ -339,13 +341,13 @@ Europa</td>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">14</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Thessaloniki</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">5</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Irland</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Dublin</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">16</td>
@@ -368,13 +370,13 @@ Europa</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kosovo</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Pristina</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">17</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">13</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">20</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kroatien</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Zagreb</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">5</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">21</td>
@@ -404,13 +406,13 @@ Europa</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">25</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Moldau, Republik</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Chisinau</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">10</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">26</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Montenegro</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Podgorica</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">13</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">11</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">27</td>
@@ -427,7 +429,7 @@ Europa</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Nordmazedonien</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Skopje</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">11</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">30</td>
@@ -445,27 +447,27 @@ Europa</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32</td>
 <td rowspan="5" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Polen</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Warschau</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">33</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Breslau</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">7</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">5</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">34</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Danzig</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">7</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">5</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">35</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Krakau</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">36</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Oppeln</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">7</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">37</td>
@@ -477,34 +479,34 @@ Europa</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">38</td>
 <td rowspan="3" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Rumänien</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Bukarest</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">7</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">39</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Hermannstadt</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">10</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">40</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Temeswar</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">41</td>
 <td rowspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Russland</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Moskau</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">13</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">42</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">St. Petersburg</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">13</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">14</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">43</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Schweden</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Stockholm</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">44</td>
@@ -521,25 +523,25 @@ Europa</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">46</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Serbien</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Belgrad</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">10</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">47</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Slowakische Republik</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Pressburg</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">5</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">48</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Slowenien</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Ljubljana</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">49</td>
 <td rowspan="5" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Spanien</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Madrid</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">50</td>
@@ -559,7 +561,7 @@ Europa</td>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">53</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Palma de Mallorca</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">54</td>
@@ -571,22 +573,22 @@ Europa</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">55</td>
 <td rowspan="4" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Türkei</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Ankara</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">7</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">56</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Antalya</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">7</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">57</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Istanbul</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">7</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">58</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Izmir</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">59</td>
@@ -603,13 +605,13 @@ Europa</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">61</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Ungarn</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Budapest</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">5</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">62</td>
 <td rowspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Vereinigtes Königreich</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">London</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">63</td>
@@ -620,13 +622,13 @@ Europa</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">64</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Weißrussland</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Minsk</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">11</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">65</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Zypern</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Nikosia</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">7</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6</td>
 </tr>
 <tr class="odd">
 <td colspan="4" style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Abschnitt 2<br />
@@ -637,25 +639,25 @@ Afrika</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">66</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Ägypten</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kairo</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">17</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">14</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">67</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Algerien</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Algier</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">14</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">68</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Angola</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Luanda</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">18</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">69</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Äthiopien</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Addis Abeba</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">20</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">18</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">70</td>
@@ -667,7 +669,7 @@ Afrika</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">71</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Botsuana</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Gaborone</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">16</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">72</td>
@@ -709,7 +711,7 @@ Afrika</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">78</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Gambia</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Banjul</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">17</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">16</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">79</td>
@@ -770,7 +772,7 @@ Demokratische Republik</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">88</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Malawi</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Lilongwe</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">17</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">89</td>
@@ -782,7 +784,7 @@ Demokratische Republik</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">90</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Marokko</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Rabat</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">12</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">11</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">91</td>
@@ -794,13 +796,13 @@ Demokratische Republik</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">92</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Mosambik</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Maputo</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">18</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">93</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Namibia</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Windhuk</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">13</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">12</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">94</td>
@@ -812,24 +814,24 @@ Demokratische Republik</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">95</td>
 <td rowspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Nigeria</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Abuja</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">18</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">96</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Lagos</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">18</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">97</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Ruanda</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kigali</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">17</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">16</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">98</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Sambia</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Lusaka</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">16</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">99</td>
@@ -865,12 +867,12 @@ Demokratische Republik</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">104</td>
 <td rowspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Südafrika</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Pretoria</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">105</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kapstadt</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">10</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">106</td>
@@ -882,7 +884,7 @@ Demokratische Republik</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">107</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Tansania</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Daressalam</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">18</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">108</td>
@@ -900,7 +902,7 @@ Demokratische Republik</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">110</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Tunesien</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Tunis</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">13</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">11</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">111</td>
@@ -923,23 +925,23 @@ Amerika</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">113</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Bolivien</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">La Paz</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">17</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">16</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">114</td>
 <td rowspan="5" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Brasilien</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Brasilia</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">12</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">11</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">115</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Porto Alegre</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">11</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">10</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">116</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Recife</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">12</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">11</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">117</td>
@@ -949,7 +951,7 @@ Amerika</td>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">118</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">São Paulo</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">10</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">119</td>
@@ -961,13 +963,13 @@ Amerika</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">120</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Costa Rica</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">San José</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">13</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">12</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">121</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Dominikanische Republik</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Santo Domingo</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">16</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">14</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">122</td>
@@ -979,7 +981,7 @@ Amerika</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">123</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">El Salvador</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">San Salvador</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">16</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">124</td>
@@ -997,7 +999,7 @@ Amerika</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">126</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Honduras</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Tegucigalpa</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">18</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">127</td>
@@ -1024,7 +1026,7 @@ Amerika</td>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">131</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Vancouver</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">132</td>
@@ -1060,13 +1062,13 @@ Amerika</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">137</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Paraguay</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Asunción</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">13</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">12</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">138</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Peru</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Lima</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">13</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">139</td>
@@ -1078,7 +1080,7 @@ Amerika</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">140</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Uruguay</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Montevideo</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">12</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">11</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">141</td>
@@ -1090,12 +1092,12 @@ Amerika</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">142</td>
 <td rowspan="9" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Vereinigte Staaten</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Washington</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">7</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">143</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Atlanta</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">7</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">144</td>
@@ -1120,12 +1122,12 @@ Amerika</td>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">148</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Miami</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">7</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">149</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">New York</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">7</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">150</td>
@@ -1147,19 +1149,19 @@ Asien</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">152</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Armenien</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Eriwan</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">12</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">11</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">153</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Aserbaidschan</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Baku</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">16</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">14</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">154</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Bahrain</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Manama</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">13</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">12</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">155</td>
@@ -1171,13 +1173,13 @@ Asien</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">156</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Brunei</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Bandar Seri Begawan</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">16</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">14</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">157</td>
 <td rowspan="6" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">China</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Peking</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">13</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">12</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">158</td>
@@ -1192,7 +1194,7 @@ Asien</td>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">160</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kanton</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">14</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">13</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">161</td>
@@ -1208,39 +1210,39 @@ Asien</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">163</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Georgien</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Tiflis</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">16</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">14</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">164</td>
 <td rowspan="5" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Indien</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Neu Delhi</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">16</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Neu-Delhi</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">13</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">165</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Bangalore</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">14</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">12</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">166</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Chennai</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">17</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">13</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">167</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kalkutta</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">16</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">13</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">168</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Mumbai</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">14</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">12</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">169</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Indonesien</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Jakarta</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">13</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">170</td>
@@ -1251,7 +1253,7 @@ Asien</td>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">171</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Erbil</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">20</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">172</td>
@@ -1269,12 +1271,12 @@ Asien</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">174</td>
 <td rowspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Japan</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Tokyo</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">175</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Osaka-Kobe</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">10</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">176</td>
@@ -1286,7 +1288,7 @@ Asien</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">177</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Jordanien</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Amman</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">13</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">12</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">178</td>
@@ -1298,24 +1300,24 @@ Asien</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">179</td>
 <td rowspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kasachstan</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Astana</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">16</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">14</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">180</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Almaty</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">16</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">14</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">181</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Katar</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Doha</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">13</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">11</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">182</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kirgisistan</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Bischkek</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">20</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">18</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">183</td>
@@ -1327,19 +1329,19 @@ Asien</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">184</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Korea, Republik</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Seoul</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">185</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kuwait</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kuwait</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">16</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">186</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Laos</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Vientiane</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">16</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">187</td>
@@ -1351,13 +1353,13 @@ Asien</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">188</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Malaysia</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kuala Lumpur</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">189</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Mongolei</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Ulan Bator</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">20</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">190</td>
@@ -1375,47 +1377,47 @@ Asien</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">192</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Oman</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Maskat</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">14</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">13</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">193</td>
 <td rowspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Pakistan</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Islamabad</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">18</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">194</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Karachi</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">17</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">195</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Philippinen</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Manila</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">13</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">11</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">196</td>
 <td rowspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Saudi-Arabien</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Riad</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">16</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">197</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Djidda</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">16</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">198</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Singapur</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Singapur</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">199</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Sri Lanka</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Colombo</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">18</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">17</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">200</td>
@@ -1427,25 +1429,25 @@ Asien</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">201</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Tadschikistan</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Duschanbe</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">20</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">18</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">202</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Thailand</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Bangkok</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">14</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">13</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">203</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Turkmenistan</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Aschgabat</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">20</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">18</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">204</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Usbekistan</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Taschkent</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">16</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">205</td>
@@ -1462,7 +1464,7 @@ Asien</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">207</td>
 <td rowspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Vietnam</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Hanoi</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">17</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">16</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">208</td>
@@ -1512,21 +1514,21 @@ Weitere Dienstorte</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">214</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Taipei (Taiwan)</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">10</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">9</td>
 </tr>
 </tbody>
 </table>
 
 # Anlage 2 – (zu § 1 Absatz 2)
 
-(Fundstelle: BGBl. 2025 I Nr. 145, S. 14 - 16)
+(Fundstelle: BGBl. 2026 I Nr. 171, S. 8 – 10)
 
-<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
+<table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
 <colgroup>
 <col style="width: 13%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 20%" />
+<col style="width: 34%" />
+<col style="width: 34%" />
+<col style="width: 19%" />
 </colgroup>
 <thead data-valign="bottom">
 <tr class="header">
@@ -1562,7 +1564,7 @@ Europa</td>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Nancy/Toul</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4</td>
@@ -1571,87 +1573,88 @@ Europa</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">5</td>
-<td rowspan="5" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Italien</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Catania/Sigonella/Lentini/Motta Sant´Anastasia</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Griechenland</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kalamata</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">5</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Decimomannu/Sardinien</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4</td>
+<td rowspan="6" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Italien</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Catania/Sigonella/Lentini/ Motta Sant´Anastasia</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">7</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Ghedi</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Decimomannu/Sardinien</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Neapel/Giugliano/Lago Patria</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Ghedi</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Poggio Renatico/Ferrara</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Neapel/Giugliano/Lago Patria</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">10</td>
-<td rowspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Litauen</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Rukla</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Poggio Renatico/Ferrara</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">11</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Rudninkai/Pabrade/Ukmerge/ Zapalskiai</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Turin</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">12</td>
-<td rowspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Polen</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Stettin/Stargard</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Litauen</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Rukla/Rudninkai/Ukmerge/ Zapalskiai/Pabrade/Klaipeda</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">13</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Posen</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Tschechische Republik</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Vijkov</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">14</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Spanien</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Cadiz</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Tschechische Republik</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Vyškov</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">16</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Vereinigtes Königreich</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Andover (Hants)</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Andover/Hants</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">5</td>
 </tr>
 <tr class="even">
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">17</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Bicester</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">18</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">16</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Blackwater</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4</td>
 </tr>
 <tr class="even">
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">17</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Blandford</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">5</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">18</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Bracknell</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4</td>
+</tr>
+<tr class="even">
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Bristol/Abbey Wood</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">20</td>
@@ -1662,32 +1665,32 @@ Europa</td>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">21</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Bristol</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Camberley/Odiham</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">22</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Camberley/Odiham</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Coningsby</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">5</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">23</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Coningsby</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Couldrose/Helston</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">5</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">24</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Culdrose/Helston</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Dartmouth</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">5</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">25</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Fareham</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">5</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">26</td>
@@ -1698,7 +1701,7 @@ Europa</td>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">27</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Honington/Cranwell RAF</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Honington/Cranwell</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4</td>
 </tr>
 <tr class="odd">
@@ -1729,7 +1732,7 @@ Europa</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Plymouth</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">5</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">33</td>
@@ -1741,12 +1744,12 @@ Europa</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">34</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Portsmouth</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">5</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">35</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Preston</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Preston/Warton</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4</td>
 </tr>
 <tr class="odd">
@@ -1755,7 +1758,7 @@ Europa</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Salisbury</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">5</td>
 </tr>
-<tr class="even" style="border-bottom: 0.5pt solid ; ">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">37</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Sandhurst/Bracknell Forest</td>
@@ -1781,20 +1784,20 @@ Europa</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">41</td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Warton</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">42</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Yeovilton</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">5</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td colspan="4" style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Abschnitt 2<br />
 
 Amerika</td>
+</tr>
+<tr class="even">
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">42</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Brasilien</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Manaus</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">17</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">43</td>
@@ -1805,17 +1808,17 @@ Amerika</td>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">44</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kelowna</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">5</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">45</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Southport/Portage la Prairie</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Portage La Prairie</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">46</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">St. Johns</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">7</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">47</td>
@@ -1831,56 +1834,56 @@ Amerika</td>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">49</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Albuquerque (New Mexico)</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Albuquerque/Kirtland AFB (New Mexico)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">50</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Carlisle Barraks (Pennsylvania)</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">7</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Camp H.M. Smith/Halawa (Hawaii)</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">51</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Colorado Springs (Colorado)</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Cannon AFB/Clovis (New Mexico)</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">52</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Dallas (Texas)</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Colorado Springs (Colorado)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">53</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Eglin AFB (Florida)</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">54</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">El Paso (Texas)</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Fort Benning (Georgia)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">55</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Fort Eisenhower (Fort Gordon alt) (Georgia)</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Fort Bliss/El Paso (Texas)</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">56</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Fort Benning (Georgia)</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Fort Eisenhover (alt Fort Gordon) (Georgia)</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">57</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Fort Huachuca (Arizona)</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">10</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">58</td>
@@ -1897,110 +1900,122 @@ Amerika</td>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">60</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Fort Novosel (Fort Rucker alt)/Enterprise (Alabama)</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Fort Liberty (alt Fort Bragg)/Fayetteville (North Carolina)</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">7</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">61</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Fort Sill (Oklahoma)</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">11</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Fort Rucker (Alabama)</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">62</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Goodyear/Phoenix (Arizona)</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Fort Sill/Lawton (Oklahoma)</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">63</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Hampton Roads (Fort Eustis, Fort Gregg-Adams (Fort Lee alt)), Virginia Beach (Dam Neck), Suffolk, Norfolk, Langley AFB/Newport News (Virginia)</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Goodyear/Phoenix (Arizona)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">7</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">64</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Honolulu (Hawaii)</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Gulfport (Massachusetts)</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">65</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Jacksonville/Mayport/Starke (Florida)</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">7</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Großraum Hampton Roads/Fort Lee, Fort Eustice, Newport News, Langley AFB, Norfolk, Suffolk, Virginia Beach (Virginia)</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">66</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kirtland AFB (New Mexico)</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Honolulu (Hawaii)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">67</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Maxwell AFB/Montgomery</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Jacksonville/Mayport/Starke (Florida)</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">68</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Milton (Florida)</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Las Vegas/Nellis AFB (Nevada)</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">7</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">69</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Orlando (Florida)</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">7</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Maxwell (Alabama)</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">70</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Panama City/Tyndall AFB (Florida)</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Milton/Whitingfield (Florida)</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">71</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Pensacola/Eglin AFB (Florida)</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Panama City/Tyndall AFB (Florida)</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
 </tr>
-<tr class="even" style="border-bottom: 0.5pt solid ; ">
+<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">72</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Redstone/Huntsville (Alabama)</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Pensacola (Florida)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">73</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Sheppard AFB/Wichita Falls (Texas)</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Redstone/ Huntsville (Alabama)</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">7</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">74</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Tampa (Florida)</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">7</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">San Diego (California)</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">5</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">75</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Tucson (Arizona)</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Sheppard AFB/Wichita Falls (Texas)</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">76</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Vandenberg SFB (Kalifornien)</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Tampa (Florida)</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">77</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Tempe (Arizona)</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">7</td>
+</tr>
+<tr class="even">
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">78</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Tucson (Arizona)</td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">7</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">77</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">79</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Yuma (Arizona)</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">10</td>
+<td style="text-align: center;" data-valign="top" data-charoff="50">9</td>
 </tr>
 </tbody>
 </table>

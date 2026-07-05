@@ -99,7 +99,7 @@ Abweichend von § 16 Absatz 9 des Gesetzes über die Umweltverträglichkeitspr�
 
 (1) Für eine Anlage oder Leitung nach § 2 Absatz 1 sind für ein Verfahren zur Vergabe öffentlicher Aufträge und Konzessionen die vergaberechtlichen Vorschriften mit den Maßgaben der Absätze 2 bis 4 anzuwenden, sofern die Vergabeverfahren vor dem 1. Januar 2030 begonnen werden.
 
-(2) Abweichend von § 97 Absatz 4 Satz 3 des Gesetzes gegen Wettbewerbsbeschränkungen in der Fassung der Bekanntmachung vom 26. Juni 2013 (BGBl. I S. 1750, 3245), das zuletzt durch Artikel 6 des Gesetzes vom 5. Dezember 2024 (BGBl. 2024 I Nr. 400) geändert worden ist, in der jeweils geltenden Fassung, dürfen mehrere Teil- oder Fachlose zusammen vergeben werden, wenn wirtschaftliche, technische oder zeitliche Gründe dies erfordern. § 97 Absatz 4 Satz 4 des Gesetzes gegen Wettbewerbsbeschränkungen ist mit der Maßgabe anzuwenden, dass das Unternehmen, das nicht öffentlicher Auftraggeber ist und mit der Wahrnehmung oder Durchführung einer öffentlichen Aufgabe betraut ist, sofern es Unteraufträge vergibt, nach Satz 1 zu verfahren hat.
+(2) Abweichend von § 97a Absatz 2 des Gesetzes gegen Wettbewerbsbeschränkungen dürfen mehrere Teil- oder Fachlose zusammen vergeben werden, wenn wirtschaftliche, technische oder zeitliche Gründe dies erfordern. § 97a Absatz 5 Satz 2 des Gesetzes gegen Wettbewerbsbeschränkungen ist mit der Maßgabe anzuwenden, dass das Unternehmen, das nicht öffentlicher Auftraggeber ist und mit der Wahrnehmung oder Durchführung einer öffentlichen Aufgabe betraut ist, sofern es Unteraufträge vergibt, nach Satz 1 zu verfahren hat.
 
 (3) Bei der Vergabe öffentlicher Bauaufträge dürfen mehrere Teil- oder Fachlose zusammen vergeben werden, wenn wirtschaftliche, technische oder zeitliche Gründe dies erfordern. Wird ein Unternehmen, das nicht öffentlicher Auftraggeber ist, mit der Wahrnehmung oder Durchführung einer öffentlichen Aufgabe betraut, verpflichtet der Auftraggeber das Unternehmen, sofern es Unteraufträge öffentlicher Bauaufträge an Dritte vergibt, nach Satz 1 zu verfahren.
 
@@ -115,15 +115,13 @@ Abweichend von § 16 Absatz 9 des Gesetzes über die Umweltverträglichkeitspr�
 
 (4) Bei der Abwägung nach § 169 Absatz 2 Satz 1 sowie den Entscheidungen nach § 169 Absatz 2 Satz 5 und 7 des Gesetzes gegen Wettbewerbsbeschränkungen über die vorzeitige Gestattung des Zuschlags sind zusätzlich der Zweck nach § 1 sowie das überragende öffentliche Interesse nach § 4 zu berücksichtigen. Das überragende öffentliche Interesse als Interesse der Allgemeinheit an einem raschen Abschluss des Verfahrens überwiegt in der Regel die mit einer Verzögerung der Vergabe für den Antragsteller verbundenen Vorteile.
 
-(5) Abweichend von § 173 Absatz 1 Satz 1 des Gesetzes gegen Wettbewerbsbeschränkungen hat die sofortige Beschwerde keine aufschiebende Wirkung, wenn die Vergabekammer den Antrag auf Nachprüfung abgelehnt hat. § 173 Absatz 1 Satz 2 und 3 sowie Absatz 2 des Gesetzes gegen Wettbewerbsbeschränkungen findet in diesem Fall keine Anwendung.
+(5) Hat die Vergabekammer den Antrag auf Nachprüfung abgelehnt, hat die sofortige Beschwerde keine aufschiebende Wirkung gegenüber der Entscheidung der Vergabekammer.
 
 (6) Bei der Abwägung nach § 176 Absatz 1 Satz 1 des Gesetzes gegen Wettbewerbsbeschränkungen sind zusätzlich der Zweck nach § 1 sowie das überragende öffentliche Interesse nach § 4 zu berücksichtigen. Das überragende öffentliche Interesse als Interesse der Allgemeinheit an einem raschen Abschluss des Vergabeverfahrens überwiegt in der Regel die mit einer Verzögerung der Vergabe für den Antragsteller verbundenen Vorteile.
 
-(7) Das Gericht kann über die sofortige Beschwerde im Ausnahmefall nach Lage der Akten entscheiden, insbesondere, wenn dies der Beschleunigung des Verfahrens dient und kein unmittelbarer Eindruck der Parteien oder direkter Austausch erforderlich ist. Die mündliche Verhandlung kann als Videoverhandlung nach § 128a der Zivilprozessordnung durchgeführt werden. § 175 Absatz 2 in Verbindung mit § 166 Absatz 1 des Gesetzes gegen Wettbewerbsbeschränkungen bleibt unberührt.
+(7) Das Gericht kann über die sofortige Beschwerde im Ausnahmefall nach Lage der Akten entscheiden, insbesondere, wenn dies der Beschleunigung des Verfahrens dient und kein unmittelbarer Eindruck der Parteien oder direkter Austausch erforderlich ist.
 
-(8) § 177 des Gesetzes gegen Wettbewerbsbeschränkungen findet keine Anwendung.
-
-(9) Bei Verfahren vor Gerichten der Zivil- oder Verwaltungsgerichtsbarkeit über die Vergabe öffentlicher Aufträge und Konzessionen für eine Anlage oder Leitung nach § 2 Absatz 1, für die ein Nachprüfungsverfahren nach den
+(8) Bei Verfahren vor Gerichten der Zivil- oder Verwaltungsgerichtsbarkeit über die Vergabe öffentlicher Aufträge und Konzessionen für eine Anlage oder Leitung nach § 2 Absatz 1, für die ein Nachprüfungsverfahren nach den
 
 §§ 155 bis 170 des Gesetzes gegen Wettbewerbsbeschränkungen nicht statthaft ist, sind alle bestehenden Beschleunigungsmöglichkeiten des jeweiligen Prozessrechts zu nutzen und Interessenabwägungen, insbesondere beim vorläufigen Rechtsschutz, unter Berücksichtigung des Zweckes nach § 1 sowie des überragenden öffentlichen Interesses nach § 4 zu treffen. Dieser Absatz ist für die Geltendmachung von Schadensersatzansprüchen nicht anzuwenden.
 

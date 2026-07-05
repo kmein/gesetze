@@ -602,9 +602,9 @@ soweit dies zur Erfüllung der Aufgaben nach § 3 Absatz 1 Satz 2 und 4 erforder
 
 3. Personen und Unternehmen, bei denen Tatsachen die Annahme rechtfertigen, dass es sich um Personen oder Unternehmen nach Nummer 2 handelt und
 
-4. Personen und Unternehmen, die mit einer Person oder einem Unternehmen nach den Nummern 1 bis 3 nach § 15 des Aktiengesetzes verbunden sind. Die Auskunfts- und Vorlegungspflichten nach Satz 1 bestehen auch für die bei nach Satz 1 auskunfts- und vorlegungspflichtigen Personen oder Unternehmen, Beschäftigten sowie für die Mitglieder eines Organs, jeweils auch nach ihrem Ausscheiden aus dem Organ oder Unternehmen.
+4. Personen und Unternehmen, die mit einer Person oder einem Unternehmen nach den Nummern 1 bis 3 nach § 15 des Aktiengesetzes verbunden sind.
 
-Auf Verlangen der Bundesanstalt hat der Vorlagepflichtige die einzureichenden Unterlagen nach Artikel 41 oder Artikel 83 der Verordnung (EU) 2023/1114 in Verbindung mit den technischen Regulierungsstandards nach Artikel 42 Absatz 4 und Artikel 84 Absatz 4 der Verordnung (EU) 2023/1114 auf seine Kosten durch einen von der Bundesanstalt zu bestimmenden Wirtschaftsprüfer prüfen zu lassen. § 20 Absatz 5 gilt entsprechend.
+Die Auskunfts- und Vorlegungspflichten nach Satz 1 bestehen auch für die bei nach Satz 1 auskunfts- und vorlegungspflichtigen Personen oder Unternehmen, Beschäftigten sowie für die Mitglieder eines Organs, jeweils auch nach ihrem Ausscheiden aus dem Organ oder Unternehmen.Auf Verlangen der Bundesanstalt hat der Vorlagepflichtige die einzureichenden Unterlagen nach Artikel 41 oder Artikel 83 der Verordnung (EU) 2023/1114 in Verbindung mit den technischen Regulierungsstandards nach Artikel 42 Absatz 4 und Artikel 84 Absatz 4 der Verordnung (EU) 2023/1114 auf seine Kosten durch einen von der Bundesanstalt zu bestimmenden Wirtschaftsprüfer prüfen zu lassen. § 20 Absatz 5 gilt entsprechend.
 
 (2) Die Bundesanstalt und die Deutsche Bundesbank können Maßnahmen nach § 20 Absatz 2 gegenüber den in Absatz 1 genannten Personen und Unternehmen ergreifen, wenn Anhaltspunkte dafür vorliegen, dass sie aufgrund der Kriterien nach Artikel 42 Absatz 1 oder Artikel 84 Absatz 1 der Verordnung (EU) 2023/1114 nicht geeignet sind. § 20 Absatz 5 gilt entsprechend.
 

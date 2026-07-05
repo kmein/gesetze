@@ -71,13 +71,35 @@ Das nach Absatz 1 Nummer 3 durch die Ablichtung eines amtlichen Identitätsdokum
 
 (6) Die für die Ernennung oder Heranziehung zuständige Stelle unterrichtet die betroffene Person vor Durchführung der unterstützten Verfassungstreueprüfung über die beabsichtigte Datenverarbeitung nach Absatz 5 sowie über den Umfang und die Dauer der anschließenden Datenverarbeitung.
 
-# §§ 5 und 6 – (zukünftig in Kraft)
+# § 5 – Personenkreis; Verordnungsermächtigung
 
-(+++ §§ 5 und 6: Treten gem. Art. 17 Abs. 2 G v. 09.01.2026 I Nr. 7 am 01.07.2026 in Kraft +++)
+(1) Für eine Soldatin oder einen Soldaten, die oder der in einer Verwendung mit besonders hohen Sicherheitsanforderungen eingesetzt werden soll (zu überprüfende Person), ist vor dieser Verwendung eine intensivierte erweiterte Sicherheitsüberprüfung mit Sicherheitsermittlungen durchzuführen.
 
-# § 7 – (zukünftig in Kraft)
+(2) Das Bundesministerium der Verteidigung legt im Einvernehmen mit dem Bundesministerium des Innern die Verwendungen mit besonders hohen Sicherheitsanforderungen durch Rechtsverordnung fest, die nicht der Zustimmung des Bundesrates bedarf.
 
-(+++ § 7: Tritt gem. Art. 17 Abs. 2 G v. 09.01.2026 I Nr. 7 am 01.07.2026 in Kraft +++)
+(3) § 1 Absatz 3 Nummer 1 gilt entsprechend.
+
+# § 6 – Durchführung nach dem Sicherheitsüberprüfungsgesetz
+
+Für die intensivierte erweiterte Sicherheitsüberprüfung mit Sicherheitsermittlungen finden die Vorschriften der erweiterten Sicherheitsüberprüfung mit Sicherheitsermittlungen nach dem Sicherheitsüberprüfungsgesetz mit der Maßgabe Anwendung, dass
+
+1. abweichend von § 12 Absatz 5 Satz 1 des Sicherheitsüberprüfungsgesetzes die mitwirkende Behörde die zu überprüfende Person auch dann selbst befragt, wenn eine sicherheitserhebliche Erkenntnis für das Erfordernis einer solchen Befragung nicht vorliegt,
+
+2. abweichend von § 17 Absatz 1 Satz 1 des Sicherheitsüberprüfungsgesetzes der zu überprüfenden Person bereits nach 30 Monaten ihre Sicherheitserklärung zur Aktualisierung zugeleitet wird,
+
+3. abweichend von § 17 Absatz 1 Satz 3 des Sicherheitsüberprüfungsgesetzes anlässlich der Aktualisierung der Sicherheitserklärung zusätzlich bei der zu überprüfenden Person und mitbetroffenen Person im Sinne des § 2 Absatz 2 des Sicherheitsüberprüfungsgesetzes die Maßnahmen nach § 12 Absatz 1 Nummer 1 bis 3, 5 und 6 sowie Absatz 2 des Sicherheitsüberprüfungsgesetzes durchgeführt werden,
+
+4. abweichend von § 17 Absatz 2 Satz 1 des Sicherheitsüberprüfungsgesetzes Widerholungsprüfungen bereits nach fünf Jahren eingeleitet werden und
+
+5. die Aktualisierung der Sicherheitserklärung mit den Maßnahmen der Wiederholungsüberprüfung nach Nummer 3 nicht eingeleitet wird, solange
+
+a) die Wiederholungsüberprüfung noch nicht abgeschlossen ist oder
+
+b) nach dem Abschluss der letzten Wiederholungsüberprüfung noch nicht 30 Monate vergangen sind.
+
+# § 7 – Personenkreis
+
+Die Regelungen dieses Unterabschnitts gelten für alle Beschäftigten des Geschäftsbereichs des Bundesministeriums der Verteidigung.
 
 # § 8 – Reiseanzeigen, Zustimmungsvorbehalt, Reiseverbot
 

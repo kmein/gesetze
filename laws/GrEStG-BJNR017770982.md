@@ -33,7 +33,7 @@ c) der Übergang des Eigentums im Zwangsversteigerungsverfahren;
 
 (2c) Bei der Ermittlung des Vomhundertsatzes im Sinne von Absatz 2a Satz 1 und Absatz 2b Satz 1 bleiben Übergänge von Anteilen an Kapitalgesellschaften außer Betracht, die zum Handel an einem im Inland, in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum betriebenen organisierten Markt nach § 2 Absatz 11 des Wertpapierhandelsgesetzes oder einem Drittlandhandelsplatz, der gemäß Artikel 25 Absatz 4 Buchstabe a der Richtlinie 2014/65/EU von der Europäischen Kommission als gleichwertig erklärt wurde, zugelassen sind, soweit der Anteilsübergang auf Grund eines Geschäfts an diesem Markt oder Drittlandhandelsplatz oder einem multilateralen Handelssystem im Sinne des Artikels 2 Absatz 1 Nummer 14 der Verordnung (EU) Nr. 600/2014 erfolgt.
 
-(3) Gehört zum Vermögen einer Gesellschaft ein inländisches Grundstück, so unterliegen der Steuer, soweit eine Besteuerung nach den Absätzen 2a und 2b nicht in Betracht kommt, außerdem:
+(3) Gehört zum Vermögen einer Gesellschaft ein inländisches Grundstück, so unterliegen der Steuer:
 
 1. ein Rechtsgeschäft, das den Anspruch auf Übertragung eines oder mehrerer Anteile der Gesellschaft begründet, wenn durch die Übertragung unmittelbar oder mittelbar mindestens 90 vom Hundert der Anteile der Gesellschaft in der Hand des Erwerbers oder in der Hand von herrschenden und abhängigen Unternehmen oder abhängigen Personen oder in der Hand von abhängigen Unternehmen oder abhängigen Personen allein vereinigt werden würden;
 
@@ -43,7 +43,9 @@ c) der Übergang des Eigentums im Zwangsversteigerungsverfahren;
 
 4. der Übergang unmittelbar oder mittelbar von mindestens 90 vom Hundert der Anteile der Gesellschaft auf einen anderen, wenn kein schuldrechtliches Geschäft im Sinne der Nummer 3 vorausgegangen ist.
 
-(3a) Soweit eine Besteuerung nach den Absätzen 2a, 2b und 3 nicht in Betracht kommt, gilt als Rechtsvorgang im Sinne des Absatzes 3 auch ein solcher, aufgrund dessen ein Rechtsträger unmittelbar oder mittelbar oder teils unmittelbar, teils mittelbar eine wirtschaftliche Beteiligung in Höhe von mindestens 90 vom Hundert an einer Gesellschaft, zu deren Vermögen ein inländisches Grundstück gehört, innehat. Die wirtschaftliche Beteiligung ergibt sich aus der Summe der unmittelbaren und mittelbaren Beteiligungen am Kapital oder am Vermögen der Gesellschaft. Für die Ermittlung der mittelbaren Beteiligungen sind die Vomhundertsätze am Kapital oder am Vermögen der Gesellschaften zu multiplizieren.
+(3a) Soweit ein Rechtsvorgang nicht nach Absatz 3 der Steuer unterliegt, gilt als Rechtsvorgang im Sinne des Absatzes 3 auch ein solcher, aufgrund dessen ein Rechtsträger unmittelbar oder mittelbar oder teils unmittelbar, teils mittelbar eine wirtschaftliche Beteiligung in Höhe von mindestens 90 vom Hundert an einer Gesellschaft, zu deren Vermögen ein inländisches Grundstück gehört, innehat. Die wirtschaftliche Beteiligung ergibt sich aus der Summe der unmittelbaren und mittelbaren Beteiligungen am Kapital oder am Vermögen der Gesellschaft. Für die Ermittlung der mittelbaren Beteiligungen sind die Vomhundertsätze am Kapital oder am Vermögen der Gesellschaften zu multiplizieren.
+
+(3b) Absatz 2a oder Absatz 2b gilt nicht, soweit Anteile in Erfüllung eines Rechtsgeschäfts im Sinne des Absatzes 3 Nummer 1 oder Nummer 3 oder des Absatzes 3a nach Abschluss dieses Rechtsgeschäfts übergehen oder die Anteile nach Absatz 3 Nummer 2 oder Nummer 4 oder nach Absatz 3a übergehen.
 
 (4) Im Sinne des Absatzes 3 gelten als abhängig
 
@@ -183,7 +185,7 @@ Für einen nach § 1 Absatz 1 Nummer 3 Satz 1, Absatz 2 bis 3 oder Absatz 3a ste
 
 4. wenn zwischen den an einer Umwandlung beteiligten Rechtsträgern innerhalb des Rückwirkungszeitraums im Sinne der §§ 2, 20 Absatz 6 oder § 24 Absatz 4 des Umwandlungssteuergesetzes ein Erwerbsvorgang nach § 1 Absatz 1 Nummer 1 verwirklicht wird, der Wert der Gegenleistung geringer ist als der Grundbesitzwert nach § 151 Absatz 1 Satz 1 Nummer 1 in Verbindung mit § 157 Absatz 1 bis 3 des Bewertungsgesetzes und die Umwandlung ohne diesen Erwerbsvorgang eine Besteuerung nach § 1 Absatz 1 Nummer 3, Absatz 3 oder Absatz 3a ausgelöst hätte.
 
-Erstreckt sich der Erwerbsvorgang auf ein noch zu errichtendes Gebäude oder beruht die Änderung des Gesellschafterbestandes im Sinne des § 1 Absatz 2a oder 2b auf einem vorgefaßten Plan zur Bebauung eines Grundstücks, ist der Wert des Grundstücks abweichend von § 157 Absatz 1 Satz 1 des Bewertungsgesetzes nach den tatsächlichen Verhältnissen im Zeitpunkt der Fertigstellung des Gebäudes maßgebend.
+Erstreckt sich der Erwerbsvorgang im Sinne des § 1 Absatz 1, 2, 3 oder 3a auf ein noch zu errichtendes Gebäude, ist der Wert des Grundstücks abweichend von § 157 Absatz 1 Satz 1 des Bewertungsgesetzes nach den tatsächlichen Verhältnissen im Zeitpunkt der Fertigstellung des Gebäudes maßgebend. Dies gilt ebenso, wenn die Änderung des Gesellschafterbestandes im Sinne des § 1 Absatz 2a oder 2b oder das Rechtsgeschäft oder der Anteilsübergang im Sinne des § 1 Absatz 3 oder 3a auf einem vorgefassten Plan zur Bebauung eines Grundstücks beruht.
 
 (+++ § 8: Zur Anwendung vgl. § 23 +++)
 
@@ -267,15 +269,21 @@ der Erwerber;
 
 der Meistbietende;
 
-5. bei der Vereinigung von mindestens 90 vom Hundert der Anteile an einer Gesellschaft in der Hand
+5. a) bei der Vereinigung von mindestens 90 vom Hundert der Anteile an einer Gesellschaft in der Hand
 
-a) des Erwerbers:
+aa)  
+des Erwerbers:
 
-der Erwerber;
+der Erwerber und die Gesellschaft, der das Grundstück gehört;
 
-b) mehrerer Unternehmen oder Personen:
+bb)  
+mehrerer Unternehmen oder Personen:
 
-diese Beteiligten;
+diese Beteiligten und die Gesellschaft, der das Grundstück gehört;
+
+b) bei der Übertragung vereinigter Anteile von mindestens 90 vom Hundert an einer Gesellschaft:
+
+die an dem Erwerbsvorgang als Vertragsteile beteiligten Personen und die Gesellschaft, der das Grundstück gehört;
 
 6. bei Änderung des Gesellschafterbestandes einer Personengesellschaft:
 
@@ -285,8 +293,7 @@ die Personengesellschaft;
 
 8. bei der wirtschaftlichen Beteiligung von mindestens 90 vom Hundert an einer Gesellschaft:
 
-  
-der Rechtsträger, der die wirtschaftliche Beteiligung innehat.
+der Rechtsträger, der die wirtschaftliche Beteiligung innehat, und die Gesellschaft, der das Grundstück gehört.
 
 (+++ § 13: Zur Anwendung vgl. § 23 +++)
 
@@ -326,9 +333,9 @@ Die Steuer wird einen Monat nach der Bekanntgabe des Steuerbescheids fällig. Da
 
 (4) Tritt ein Ereignis ein, das nach den Absätzen 1 bis 3 die Aufhebung oder Änderung einer Steuerfestsetzung begründet, endet die Festsetzungsfrist (§§ 169 bis 171 der Abgabenordnung) insoweit nicht vor Ablauf eines Jahres nach dem Eintritt des Ereignisses.
 
-(4a) Wenn die Anteile in Erfüllung eines Rechtsgeschäfts im Sinne des § 1 Absatz 3 Nummer 1 oder Nummer 3 oder des § 1 Absatz 3a nach Abschluss dieses Rechtsgeschäfts übergehen und dadurch der Tatbestand des § 1 Absatz 2a oder Absatz 2b verwirklicht wird, so wird auf Antrag die Festsetzung nach § 1 Absatz 3 Nummer 1 oder Nummer 3 oder § 1 Absatz 3a aufgehoben oder geändert. In den Fällen des Satzes 1 endet die Festsetzungsfrist für den aufgrund des Übergangs der Anteile erfüllten Tatbestand nach § 1 Absatz 2a oder Absatz 2b nicht vor Ablauf der Festsetzungsfrist der aufzuhebenden oder zu ändernden Festsetzung nach § 1 Absatz 3 Nummer 1 oder Nummer 3 oder nach § 1 Absatz 3a.
+(4a) (weggefallen)
 
-(5) Die Vorschriften der Absätze 1 bis 4 gelten nicht, wenn einer der in § 1 Absatz 2 bis 3a bezeichneten Erwerbsvorgänge rückgängig gemacht wird, der nicht fristgerecht und in allen Teilen vollständig angezeigt (§§ 18 bis 20) war. Die Vorschrift des Absatzes 4a gilt nicht, wenn einer der in § 1 Absatz 3 Nummer 1 oder Nummer 3 oder in § 1 Absatz 3a oder in § 1 Absatz 2a oder Absatz 2b bezeichneten Erwerbsvorgänge nicht fristgerecht und in allen Teilen vollständig angezeigt (§§ 18 bis 20) war.
+(5) Die Vorschriften der Absätze 1 bis 4 gelten nicht, wenn einer der in § 1 Absatz 2 bis 3a bezeichneten Erwerbsvorgänge rückgängig gemacht wird, der nicht fristgerecht und in allen Teilen vollständig angezeigt (§§ 18 bis 20) war.
 
 (+++ § 16: Zur Anwendung vgl. § 23 Abs. 3, 6, 7, 11 +++)
 
@@ -426,7 +433,7 @@ Sie haben auch alle Erwerbsvorgänge anzuzeigen, über die ein Gericht, eine Beh
 
 5. Änderungen in der Nutzung oder den Verzicht auf Rückübertragung, wenn der Grundstückserwerb nach § 4 Nummer 5 von der Besteuerung ausgenommen war.
 
-(3) Die Anzeigepflichtigen haben innerhalb von zwei Wochen, nachdem sie von dem anzeigepflichtigen Vorgang Kenntnis erhalten haben, den Vorgang anzuzeigen, und zwar auch dann, wenn der Vorgang von der Besteuerung ausgenommen ist. Die Frist nach Satz 1 verlängert sich auf einen Monat für den Steuerschuldner, der eine natürliche Person ohne Wohnsitz oder gewöhnlichen Aufenthalt im Inland, eine Kapitalgesellschaft ohne Geschäftsleitung oder Sitz im Inland oder eine Personengesellschaft ohne Ort der Geschäftsführung im Inland ist.
+(3) Die Anzeigepflichtigen haben innerhalb von einem Monat, nachdem sie von dem anzeigepflichtigen Vorgang Kenntnis erhalten haben, den Vorgang anzuzeigen, und zwar auch dann, wenn der Vorgang von der Besteuerung ausgenommen ist.
 
 (4) Die Anzeigen sind an das für die Besteuerung, in den Fällen des § 17 Abs. 2 und 3 an das für die gesonderte Feststellung zuständige Finanzamt zu richten. Ist über den anzeigepflichtigen Vorgang eine privatschriftliche Urkunde aufgenommen worden, so ist der Anzeige eine Abschrift der Urkunde beizufügen.
 
@@ -539,6 +546,10 @@ Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen mit dem Bun
 (26) § 4 Nummer 7 in der Fassung des Artikels 33 des Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I Nr. 387) ist auf Erwerbsvorgänge anzuwenden, die nach dem 30. Juni 2021 verwirklicht werden.
 
 (27) § 5 Absatz 3 Satz 1, § 6 Absatz 3 Satz 2 und § 19 Absatz 2 Nummer 4 in der bis zum 31. Dezember 2026 geltenden Fassung sind bis zum Ablauf der in § 5 Absatz 3 Satz 1 und § 6 Absatz 3 Satz 2 genannten Fristen für verwirklichte Übergänge nach § 5 Absatz 1 und 2 und § 6 Absatz 3 Satz 1 in der bis zum 31. Dezember 2026 geltenden Fassung mit der Maßgabe weiter anzuwenden, dass anstelle des Vermögens der Gesamthand das Gesellschaftsvermögen tritt.
+
+(28) § 1 Absatz 2a bis 3b, § 8 Absatz 2 Satz 2 und 3, § 13 Nummer 5 und 8, § 19 Absatz 3 in der Fassung des Artikels 8 des Gesetzes vom 29. Juni 2026 (BGBl. 2026 I Nr. 197) sind erstmals auf Erwerbsvorgänge anzuwenden, die nach dem 2. Juli 2026 verwirklicht werden.
+
+(29) Für Erwerbsvorgänge, bei denen die Anteile in Erfüllung eines vor dem 3. Juli 2026 abgeschlossenen Rechtsgeschäfts im Sinne des § 1 Absatz 3 Nummer 1 oder Nummer 3 oder des § 1 Absatz 3a nach dem 2. Juli 2026 übergehen, erfolgt eine Besteuerung ausschließlich nach § 1 Absatz 3 und 3a in der Fassung vom 2. Juli 2026; die Anwendung des § 16 Absatz 4a ist ausgeschlossen.
 
 # § 24 – Rechtsfähige Personengesellschaften
 
