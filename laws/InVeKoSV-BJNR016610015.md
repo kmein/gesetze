@@ -119,11 +119,9 @@ Soweit die Landesstellen oder die Bundesanstalt für Anträge, Verträge, Erklä
 
 1. die Verwendung einer qualifizierten elektronischen Signatur oder ihres qualifizierten elektronischen Siegels,
 
-2. die unmittelbare Abgabe der Erklärung in einem elektronischen Formular, das von der Behörde in einem Eingabegerät oder über öffentlich zugängliche Netze zur Verfügung gestellt wird,
+2. die unmittelbare Abgabe der Erklärung in einem elektronischen Formular, das von der Behörde in einem Eingabegerät oder über öffentlich zugängliche Netze zur Verfügung gestellt wird, oder
 
-3. die Versendung eines elektronischen Dokuments an die Behörde mit der Versandart nach § 5 Absatz 5 des De-Mail-Gesetzes oder
-
-4. sonstige Authentifizierungsverfahren, die den Anforderungen an die elektronische Übermittlung von Daten im Sinne des Artikels 11 Absatz 1 der Durchführungsverordnung (EU) Nr. 809/2014 genügen,
+3. sonstige Authentifizierungsverfahren, die den Anforderungen an die elektronische Übermittlung von Daten im Sinne des Artikels 11 Absatz 1 der Durchführungsverordnung (EU) Nr. 809/2014 genügen,
 
 zulassen. § 3a Absatz 2 Satz 3 des Verwaltungsverfahrensgesetzes ist bei der Verwendung qualifizierter elektronischer Signaturen entsprechend anzuwenden. § 3a Absatz 3 Nummer 1 des Verwaltungsverfahrensgesetzes ist im Falle des Satzes 3 Nummer 2 entsprechend anzuwenden.
 

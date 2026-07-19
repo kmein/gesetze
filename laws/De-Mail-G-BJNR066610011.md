@@ -285,7 +285,7 @@ Der akkreditierte Diensteanbieter darf personenbezogene Daten des Nutzers eines 
 
 (2) Über den Antrag nach § 17 Absatz 1 Satz 1 ist innerhalb einer Frist von drei Monaten zu entscheiden; § 42a Absatz 2 Satz 2 bis 4 des Verwaltungsverfahrensgesetzes findet Anwendung.
 
-(3) Die Akkreditierung ist nach wesentlichen Veränderungen, spätestens jedoch nach drei Jahren zu erneuern.
+(3) (weggefallen)
 
 # § 18 – Voraussetzungen der Akkreditierung; Nachweis
 
@@ -408,3 +408,7 @@ Die technischen und organisatorischen Anforderungen an die Pflichten nach den §
 # § 25 – Verfahren über eine einheitliche Stelle
 
 Verwaltungsverfahren nach diesem Gesetz können über eine einheitliche Stelle abgewickelt werden.
+
+# § 26 – Außerkrafttreten
+
+Dieses Gesetz tritt mit Ablauf des 31. Dezember 2026 außer Kraft.

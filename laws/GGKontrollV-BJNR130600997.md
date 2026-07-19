@@ -61,201 +61,577 @@ Im Sinne dieser Verordnung bezeichnet der Begriff
 
 (2) Das Bundesamt für Logistik und Mobilität erstellt aufgrund der Berichte nach Absatz 1 einen zusammengefassten Bericht und übersendet diesen dem Bundesministerium für Verkehr und digitale Infrastruktur zur Weiterleitung an die Kommission der Europäischen Gemeinschaften.
 
-# Anlage 1 – (zu § 3 Abs. 3 Satz 1)Prüfliste
+# Anlage 1 – (zu § 3 Absatz 3 Satz 1)Prüfliste für Straßenkontrollen
 
-(Fundstelle: BGBl. I 2005, 3107)
+(Fundstelle: BGBl. 2026 I Nr. 200, S. 5 – 6)
 
-  
+<table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
+<colgroup>
+<col style="width: 4%" />
+<col style="width: 17%" />
+<col style="width: 14%" />
+<col style="width: 3%" />
+<col style="width: 8%" />
+<col style="width: 3%" />
+<col style="width: 6%" />
+<col style="width: 3%" />
+<col style="width: 5%" />
+<col style="width: 5%" />
+<col style="width: 3%" />
+<col style="width: 3%" />
+<col style="width: 13%" />
+<col style="width: 11%" />
+</colgroup>
+<tbody data-valign="top">
+<tr class="odd">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1.</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Ort und Land der Kontrolle:</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2. Datum:</td>
+<td colspan="7" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3. Uhrzeit:</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td colspan="14" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Daten zu Fahrzeug/Ladung</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4.</td>
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Länderkennzeichen und Zulassungsnummer(n) des Fahrzeugs/der Fahrzeuge</td>
+<td colspan="11" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">5.</td>
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Transportunternehmen/Anschrift:</td>
+<td colspan="11" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6.</td>
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Name(n) der Fahrer/Beifahrer und deren Bescheinigungsnummern<span id="FnR.FnA1-F836704_02"></span><a href="#FnA1-F836704_02" class="FnR">1</a></sup> (ADR 8.2, falls zutreffend):</td>
+<td colspan="11" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">7.</td>
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Anschrift und Datum der letzten Be- oder Entladung:<a href="#FnA1-F836704_02" class="FnR">1</a></sup></td>
+<td colspan="11" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8.</td>
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Anschrift und Datum der nächsten Be- oder Entladung:<a href="#FnA1-F836704_02" class="FnR">1</a></sup></td>
+<td colspan="11" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9.</td>
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">UN-Nummer, Verpackungsgruppe und Menge der Gefahrgüter, bei denen Verstöße festgestellt wurden:<span id="FnR.FnA1-F836704_03"></span><a href="#FnA1-F836704_03" class="FnR">2</a></sup></td>
+<td colspan="11" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">10.</td>
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Befreiung anwendbar und, wenn ja, welche?<span id="FnR.FnA1-F836704_04"></span><a href="#FnA1-F836704_04" class="FnR">3</a></sup></td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nein</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">ja</td>
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="3" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Abschnitt:</td>
+<td colspan="2" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">11.</td>
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Umschließungsmittel</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Schüttgut</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Tank</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Versandstück</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td colspan="3" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">MEMU</td>
+</tr>
+<tr class="odd">
+<td colspan="3" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Dokumente</td>
+<td colspan="6" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Prüfstatus<span id="FnR.FnA1-F836704_05"></span><a href="#FnA1-F836704_05" class="FnR">4</a></sup></td>
+<td colspan="3" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Verstoß</td>
+<td colspan="2" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">ADR-Abschnitt + Beteiligte<span id="FnR.FnA1-F836704_07"></span><a href="#FnA1-F836704_07" class="FnR">6</a></sup></td>
+</tr>
+<tr class="even">
+<td colspan="3" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">G</td>
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">n. m.</td>
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">n. z.</td>
+<td colspan="3" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Gefahren-<br />
+kategorie<span id="FnR.FnA1-F836704_06"></span><a href="#FnA1-F836704_06" class="FnR">5</a></sup></td>
+<td colspan="2" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">12.</td>
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Beförderungspapiere (wie ADR 8.1.2.1 Buchstabe a, 5.4.1, 5.4.2)</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="3" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="2" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">13.</td>
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Schriftliche Weisungen (ADR 8.1.2.1 Buchstabe b, 5.4.3)</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="3" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="2" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">14.</td>
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Zulassungsbescheinigung für Fahrzeuge (ADR 8.1.2.2 Buchstabe a, 9.1.3)</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="3" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="2" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15.</td>
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Schulungsbescheinigung des<br />
+Fahrers (ADR 8.1.2.2 Buchstabe b) und Ausweisdokument (ADR 1.10.1.4, 8.1.2.1 Buchstabe d)</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="3" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="2" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td colspan="14" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Beförderung</td>
+</tr>
+<tr class="even">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">16.</td>
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Zur Beförderung zugelassene Güter (ADR 1.1.2.1)</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="3" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="2" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">17.</td>
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Umschließungsmittel (wie ADR 4.1 bis 4.7)</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="3" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="2" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">18.</td>
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Beförderungsvorschriften (wie ADR 7.1 bis 7.4)</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="3" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="2" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">19.</td>
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Zusammenladungsverbote und Mengenbegrenzungen (wie ADR 7.5.2, 7.5.4, 7.5.5)</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="3" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="2" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">20.</td>
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Handhabung und Verstauung (wie ADR 7.5.7)</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="3" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="2" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">21.</td>
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kennzeichnung des Versandstücks/Tanks/Schüttguts (wie ADR Teil 6)</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="3" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="2" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">22.</td>
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kennzeichnung und Bezettelung von Versandstücken (wie ADR 3.3 bis 3.5, 4.1.4.1, 5.1, 5.2)</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="3" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="2" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">23.</td>
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Großzettel (Placards), organgefarbene Tafeln, Kennzeichnung von Fahrzeugen/Tanks usw. (wie ADR 3.4.13, 5.3, 5.5, 7.3, 7.5.11)</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="3" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="2" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">24.</td>
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Fahrzeuganforderungen (ADR Teil 9)</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="3" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="2" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td colspan="14" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Ausrüstung an Bord</td>
+</tr>
+<tr class="even">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">25.</td>
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Allgemeine und spezifische Ausrüstung (wie ADR 8.1.4, 8.1.5)</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="3" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="2" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td colspan="14" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Sonstiges</td>
+</tr>
+<tr class="even">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">26.</td>
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Bilaterale/multilaterale Vereinbarungen (wie ADR 1.5.1),<br />
+nationale Vorschriften,<br />
+Genehmigung der zuständigen Behörde (wie ADR 8.1.2.2 Buchstabe c):</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">□</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="3" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="2" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">27.</td>
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Sonstige Verstöße:</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="3" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="2" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="13" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td colspan="14" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Ergebnis</td>
+</tr>
+<tr class="even">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">28.</td>
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"><table width="100%" style="border: none;">
+<tbody data-valign="top">
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">Abhilfemaßnahmen vor Ort</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">□<br />
+</td>
+</tr>
+</tbody>
+</table>
+<table width="100%" style="border: none;">
+<tbody data-valign="top">
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">vor Beendigung der Fahrt</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">□<br />
+</td>
+</tr>
+</tbody>
+</table>
+<table width="100%" style="border: none;">
+<tbody data-valign="top">
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">auf dem Betriebsgelände</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">□</td>
+</tr>
+</tbody>
+</table></td>
+<td colspan="9" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"><table width="100%" style="border: none;">
+<tbody data-valign="top">
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">Art der Maßnahme: Anzeige</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">□<br />
+</td>
+</tr>
+</tbody>
+</table>
+<table width="100%" style="border: none;">
+<tbody data-valign="top">
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">Verwarnung</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">□<br />
+</td>
+</tr>
+</tbody>
+</table>
+<table width="100%" style="border: none;">
+<tbody data-valign="top">
+<tr class="odd">
+<td style="text-align: left;" data-valign="top" data-charoff="50">Untersagung d. Weiterfahrt</td>
+<td style="text-align: right;" data-valign="bottom" data-charoff="50">□</td>
+</tr>
+</tbody>
+</table></td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td rowspan="4" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">29.</td>
+<td colspan="13" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Anmerkungen<span id="FnR.FnA1-F836704_08"></span><a href="#FnA1-F836704_08" class="FnR">7</a></sup> :<br />
+</td>
+</tr>
+<tr class="even">
+<td colspan="13" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td colspan="13" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td colspan="13" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="odd">
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">30.</td>
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Siegel gebrochen/angebracht?</td>
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Gebrochen am</td>
+<td colspan="4" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="3" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Angebracht am</td>
+<td colspan="2" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: left;" data-valign="top" data-charoff="50">31.</td>
+<td colspan="2" style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Behörde/Beamter/delegierte Stelle, die/der die Kontrolle durchgeführt hat</td>
+<td colspan="11" style="text-align: left;" data-valign="top" data-charoff="50"> </td>
+</tr>
+</tbody>
+</table>
 
-    1. Ort der Kontrolle                   2. Datum             3. Zeit
-        .................................      ................     ...............
-     4. Nationalitätskennzeichen und
-        Zulassungsnummer des Fahrzeugs      .....................
-     5. Nationalitätskennzeichen und
-        Zulassungsnummer des Anhängers/
-        Sattelanhängers                     .....................
-     6. Transportunternehmen/Anschrift      .....................
-     7. Fahrer/Beifahrer                    .....................
-     8. Absender, Anschrift, Verladeort
-        1), 2)                              .....................
-     9. Empfänger, Anschrift, Entladeort,
-        1), 2)                              .....................
-    10. Gesamtmenge der Gefahrgüter je
-        Beförderungseinheit                 .....................
-    11. Höchstmenge gemäß ADR 1.1.3.6
-        überschritten                .. Ja            .. Nein
-    12. Beförderungsart              .. in loser      .. Versandstück  .. Tank
-                                        Schüttung
-     
-    Dokumente an Bord
-    13. Beförderungspapier           .. kontrolliert  .. Verstoß       .. nicht
-                                                         festgestellt     anwendbar
-    14. Schriftliche Weisungen       .. kontrolliert  .. Verstoß       .. nicht
-                                                         festgestellt     anwendbar
-    15. Bilaterale/multilaterale     .. kontrolliert  .. Verstoß       .. nicht
-        Vereinbarung oder                                festgestellt     anwendbar
-        nationale Genehmigung
-    16. Zulassungsbescheinigung für  .. kontrolliert  .. Verstoß       .. nicht
-        Fahrzeuge                                        festgestellt     anwendbar
-    17. Schulungsbescheinigung des   .. kontrolliert  .. Verstoß       .. nicht
-        Fahrers                                          festgestellt     anwendbar
-     
-    Beförderung
-    18. Zur Beförderung zugelassene  .. kontrolliert  .. Verstoß       .. nicht
-        Güter                                            festgestellt     anwendbar
-    19. Zur Beförderung der Güter    .. kontrolliert  .. Verstoß       .. nicht
-        zugelassene Fahrzeuge                            festgestellt     anwendbar
-    20. Vorschriften in Bezug auf    .. kontrolliert  .. Verstoß       .. nicht
-        das Beförderungsmittel                           festgestellt     anwendbar
-        (lose Schüttung, Versandstück,
-        Tank)
-    21. Verbot der Zusammenladung    .. kontrolliert  .. Verstoß       .. nicht
-                                                         festgestellt     anwendbar
-    22. Beladen, Sicherung der       .. kontrolliert  .. Verstoß       .. nicht
-        Ladung und Handhabung 3)                         festgestellt     anwendbar
-    23. Austreten von Gütern oder    .. kontrolliert  .. Verstoß       .. nicht
-        Beschädigung des                                 festgestellt     anwendbar
-        Versandstücks 3)
-    24. Kennzeichnung des Versand-   .. kontrolliert  .. Verstoß       .. nicht
-        stücks nach UN und des Tanks                     festgestellt     anwendbar
-        nach UN/ADR/RID/IMO
-    25. Kennzeichnung des Versand-   .. kontrolliert  .. Verstoß       .. nicht
-        stücks (z. B. UN-Nummer) und                     festgestellt     anwendbar
-        Bezettelung 2) (ADR 3.3/3.4/4.1/5.2)
-    26. Anbringen von Großzetteln    .. kontrolliert  .. Verstoß       .. nicht
-        (Placards) auf Tank/Fahrzeug                     festgestellt     anwendbar
-        (ADR 5.3.1)
-    27. Kennzeichnung von            .. kontrolliert  .. Verstoß       .. nicht
-        Fahrzeug/Beförderungseinheit                     festgestellt     anwendbar
-        (orangefarbene Kennzeichnung,
-        erwärmter Zustand) (ADR 5.3.2/5.3.3)
-     
-    Ausrüstung an Bord
-    28. Allgemeine Sicherheits-      .. kontrolliert  .. Verstoß       .. nicht
-        ausrüstung gemäß ADR                             festgestellt     anwendbar
-    29. Ausrüstung nach Maßgabe der  .. kontrolliert  .. Verstoß       .. nicht
-        beförderten Güter                                festgestellt     anwendbar
-    30. Andere in den schriftlichen  .. kontrolliert  .. Verstoß       .. nicht
-        Weisungen genannte Ausrüstung                    festgestellt     anwendbar
-    31. Feuerlöscher                 .. kontrolliert  .. Verstoß       .. nicht
-                                                         festgestellt     anwendbar
-    32. Gegebenenfalls
-        schwerwiegendste Gefahren-
-        kategorie der festgestellten .. Kategorie I   .. Kategorie II  .. Kategorie
-        Verstöße                                                          III
-    33. Bemerkungen (z. B. getroffene
-        Maßnahmen)
-        ........................................................................
-    34. Behörde/Beamter,
-        die/der die Kontrolle
-        durchgeführt hat             ...........................................
-     
-    -----
-    1) Nur ausfüllen, wenn für einen Verstoß von Bedeutung.
-    2) Bei Sammelbeförderungen unter "Bemerkungen" angeben.
-    3) Prüfung auf sichtbare Verstöße. 
+<span id="FnA1-F836704_02"></span>
+
+1
+
+Nur auszufüllen, wenn für den Verstoß relevant.
+
+<span id="FnA1-F836704_03"></span>
+
+2
+
+Weitere Angaben unter „Anmerkungen“.
+
+<span id="FnA1-F836704_04"></span>
+
+3
+
+Bezieht sich auf alle Befreiungen oder Ausnahmen gemäß der Richtlinie 2008/68/EG.
+
+<span id="FnA1-F836704_05"></span>
+
+4
+
+Prüfstatus: G = geprüft, n. m. = Prüfung nicht möglich, n. z. = nicht zutreffend.
+
+<span id="FnA1-F836704_06"></span>
+
+5
+
+Gefahrenkategorie des festgestellten Verstoßes gemäß Anhang II.
+
+<span id="FnA1-F836704_07"></span>
+
+6
+
+Bei Feststellung von Verstößen auszufüllen. Geben Sie die Kategorie des/der möglichen verantwortlichen Beteiligten gemäß ADR 1.4 an: Abs = Absender, Befö = Beförderer, Empf = Empfänger, Verl = Verlader, Verp = Verpacker, Befü = Befüller, TB = Tankbetreiber, Entl = Entlader. Die Nennung der Kategorie des Beteiligten in der Prüfliste berührt in keiner Weise die Unschuldsvermutung.
+
+<span id="FnA1-F836704_08"></span>
+
+7
+
+Bitte geben Sie hier die UN-Nummer(n), Verpackungsgruppe, Menge der beförderten gefährlichen Güter, sofern Verstöße festgestellt wurden, Verstöße des Fahrpersonals, Abhilfemaßnahmen und sonstige Bemerkungen an.
 
 # Anlage 2
 
 (weggefallen)
 
-# Anlage 3 – (zu § 3 Abs. 7)Verstöße
+# Anlage 3 – (zu § 3 Absatz 7)Verstöße
 
-Fundstelle des Originaltextes: BGBl. I 2005, S. 3108 - 3109
+(BGBl. 2026 I Nr. 200, S. 7 – 9)
 
-Für die Zwecke dieser Verordnung stellt die folgende, nicht erschöpfende Liste mit drei Gefahrenkategorien (wobei Kategorie I die schwerwiegendste ist) eine Leitlinie dafür dar, was als Verstoß einzustufen ist. Die Bestimmung der angemessenen Gefahrenkategorie erfolgt unter Berücksichtigung der besonderen Umstände und liegt im Ermessen der vollziehenden Behörde bzw. des vollziehenden Beamten auf der Straße. Nicht unter den Gefahrenkategorien aufgeführte Mängel werden entsprechend den Beschreibungen der Kategorien eingestuft. Bei mehreren Verstößen je Beförderungseinheit wird bei der Berichterstattung (Anlage 5 dieser Verordnung) nur die schwerwiegendste Gefahrenkategorie (wie unter Nummer 32 der Anlage 1 dieser Verordnung angegeben) angewandt.
+Für die Zwecke dieser Verordnung stellt die folgende, nicht abschließende Liste mit drei Gefahrenkategorien eine Leitlinie dafür dar, was als Verstoß einzustufen ist, wobei Kategorie I für die höchste Gefahr steht.
 
-A.
+Die angemessene Gefahrenkategorie wird unter Berücksichtigung der besonderen Umstände eines Verstoßes festgelegt und liegt im Ermessen der Vollstreckungsbehörde bzw. des Vollstreckungsbeamten, was bedeutet, dass ein Verstoß in eine höhere oder niedrigere Gefahrenkategorie eingestuft werden kann.
 
-Gefahrenkategorie I
+In der Liste nicht aufgeführte Verstöße werden entsprechend den Beschreibungen der Gefahrenkategorien eingestuft.
 
-Wenn der Verstoß gegen die einschlägigen ADR-Bestimmungen mit einer hohen Lebensgefahr bzw. der Gefahr schwerer gesundheitlicher Schäden oder einer erheblichen Schädigung der Umwelt verbunden ist, so dass in der Regel unverzüglich geeignete Maßnahmen zur Beseitigung der Gefahr ergriffen werden, z. B. Untersagung der Weiterfahrt, Stilllegung des Fahrzeugs.
+Bei mehreren Verstößen je Beförderungseinheit wird bei der Berichterstattung (Anlage 5 dieser Verordnung) nur die schwerwiegendste Gefahrenkategorie angewandt.
 
-Mängel sind:
+A. Gefahrenkategorie I
 
-1. die Beförderung der beförderten Gefahrgüter ist verboten,
+Diese Kategorie betrifft Verstöße gegen ADR-Vorschriften, bei denen ein hohes Sterberisiko bzw. die Gefahr schwerer Verletzungen oder einer erheblichen Schädigung der Umwelt besteht. Werden solche Verstöße bei Straßenkontrollen festgestellt, müssen diese in der Regel zu unverzüglichen und geeigneten Abhilfemaßnahmen führen, beispielsweise zur Stilllegung des Fahrzeugs. Sollten solche Verstöße bei Kontrollen auf dem Betriebsgelände festgestellt werden, sind in der Regel andere geeignete Maßnahmen zu treffen.
 
-2. Austreten von gefährlichen Stoffen,
+Diese Kategorie erfasst folgende Mängel:
 
-3. Beförderung in einer verbotenen Beförderungsart oder einem ungeeigneten Beförderungsmittel,
+1. Beförderung gefährlicher Güter, deren Beförderung verboten ist,
 
-4. Beförderung in loser Schüttung in einem in bautechnischer Hinsicht ungeeigneten Behälter,
+2. Beförderung gefährlicher Güter mit verbotenen oder nicht zugelassenen Umschließungsmitteln, von der eine solche Gefahr für Menschenleben oder Umwelt ausgeht, dass die Stilllegung des Fahrzeugs verfügt wird,
 
-5. Beförderung in einem Fahrzeug ohne entsprechende Zulassungsbescheinigung,
+3. Beförderung gefährlicher Güter ohne entsprechende Gefahrgutkennzeichnung am Fahrzeug, von der eine solche Gefahr für Menschenleben oder Umwelt ausgeht, dass die Stilllegung des Fahrzeugs verfügt wird,
 
-6. das Fahrzeug entspricht nicht mehr den Zulassungsbestimmungen und stellt eine unmittelbare Gefahr dar (sonst Gefahrenkategorie II),
+4. Austreten gefährlicher Güter,
 
-7. nicht zulässige Verpackung,
+5. Beförderung in einer verbotenen Beförderungsart oder einem ungeeigneten Beförderungsmittel,
 
-8. Verpackung ist nicht mit den gültigen Verpackungsanweisungen konform,
+6. Beförderung in loser Schüttung in einem in bautechnischer Hinsicht dafür ungeeigneten Fahrzeug oder Container,
 
-9. die besonderen Bestimmungen für die Zusammenpackung wurden nicht eingehalten,
+7. Beförderung in einem Fahrzeug ohne angemessene Zulassungsbescheinigung,
 
-10. die Regeln für die Sicherung der Ladung wurden nicht eingehalten,
+8. Betrieb eines Fahrzeugs, das nicht mehr den Zulassungsbestimmungen entspricht und eine unmittelbare Gefahr darstellt; ansonsten Einstufung in Gefahrenkategorie II,
 
-11. die Vorschriften für die Zusammenladung von Versandstücken wurden nicht eingehalten,
+9. Verwendung nicht zugelassener Versandstücke, Tanks, Container oder Fahrzeuge,
 
-12. der zulässige Füllungsgrad von Tanks oder Versandstücken wurde nicht eingehalten,
+10. Verwendung von Verpackungen, die nicht den geltenden Verpackungsanweisungen entsprechen, Verwendung von Tanks, Fahrzeugen und Containern, die nicht den geltenden Vorschriften entsprechen,
 
-13. die Vorschriften zur Begrenzung der in einer Beförderungseinheit beförderten Mengen wurden nicht eingehalten,
+11. Nichteinhaltung der besonderen Vorschriften für die Zusammenladung,
 
-14. Beförderung von Gefahrgütern ohne Hinweis auf ihr Vorhandensein (z. B. Dokumente, Kennzeichnung und Bezettelung der Versandstücke, Anbringen von Großzetteln (Placards) und Kennzeichnung am Fahrzeug),
+12. Nichteinhaltung der Vorschriften für die Sicherung und Verstauung der Ladung,
 
-15. Beförderung ohne Anbringen von Großzetteln (Placards) und Kennzeichnung von Containern, MEGC, Tankcontainern, ortsbeweglichen Tanks und Fahrzeugen,
+13. Nichteinhaltung der Vorschriften für Nahrungs-, Genuss- und Futtermittel,
 
-16. relevante Angaben zu dem beförderten Stoff, die die Feststellung eines Verstoßes der Gefahrenkategorie I ermöglichen, fehlen (z. B. UN-Nummer, offizielle Benennung, Verpackungsgruppe),
+14. Nichteinhaltung der Vorschriften für die Zusammenladung von Versandstücken,
 
-17. der Fahrer ist nicht Inhaber einer gültigen Schulungsbescheinigung,
+15. Nichteinhaltung der Vorschriften zur Begrenzung der in einer Beförderungseinheit zugelassenen Mengen, einschließlich des zulässigen Füllungsgrads bzw. Füllfaktors von Tanks oder Versandstücken,
 
-18. Verwendung von Feuer oder offenem Licht oder
+16. Beförderung gefährlicher Güter ohne die erforderlichen Dokumente an Bord oder in einem ungeeigneten elektronischen Format, sofern zulässig,
 
-19. das Rauchverbot bei Ladearbeiten wird nicht beachtet.
+17. Beförderung gefährlicher Güter in Versandstücken, die nicht mit der erforderlichen Kennzeichnung oder Bezettelung versehen sind,
 
-B.
+18. Beförderung gefährlicher Güter ohne Anbringung von Großzetteln (Placards) oder Kennzeichen (einschließlich orangefarbener Tafeln) am Fahrzeug,
 
-Gefahrenkategorie II
+19. unvollständige oder falsche Angaben zu dem beförderten gefährlichen Gut, die die Feststellung eines in der Gefahrenkategorie I genannten Verstoßes ermöglichen (z. B. UN-Nummer, offizielle Benennung, Verpackungsgruppe),
 
-Wenn der Verstoß gegen die einschlägigen ADR-Bestimmungen mit der Gefahr schwerer Verletzungen oder einer erheblichen Schädigung der Umwelt verbunden ist, so dass in der Regel geeignete Maßnahmen zur Beseitigung der Gefahr ergriffen werden, z. B. wenn möglich und angemessen die Behebung am Kontrollort, spätestens jedoch nach Abschluss der laufenden Beförderung.
+20. Fahrzeugführer ist nicht im Besitz einer Schulungsbescheinigung nach Kapitel 8.2 ADR,
 
-Mängel sind:
+21. Verwendung von Feuer oder offenem Licht,
 
-1. die Beförderungseinheit besteht aus mehr als einem Anhänger/Sattelanhänger,
+22. Nichtbeachtung des Rauchverbots,
 
-2. das Fahrzeug entspricht nicht mehr den Zulassungsbestimmungen, stellt jedoch keine unmittelbare Gefahr dar,
+23. Nichtbenennung eines Sicherheitsberaters (Gefahrgutbeauftragter) für jedes Unternehmen, sofern erforderlich,
 
-3. im Fahrzeug befinden sich nicht die geforderten funktionsfähigen Feuerlöscher; ein Feuerlöscher gilt noch als funktionsfähig, wenn nur das vorgeschriebene Siegel und/oder das Verfallsdatum fehlen; dies gilt jedoch nicht, wenn der Feuerlöscher offensichtlich nicht länger funktionstüchtig ist, z. B. Manometer auf 0,
+24. Nichteinhaltung der Vorschriften für die Sicherung gemäß Kapitel 1.10 ADR, sofern erforderlich.
 
-4. im Fahrzeug befindet sich nicht die im ADR oder den schriftlichen Weisungen vorgeschriebene Ausrüstung,
+B. Gefahrenkategorie II
 
-5. Prüffristen und Verwendungszeiträume von Verpackungen, Großpackmitteln (IBC) oder Großverpackungen wurden nicht eingehalten,
+Diese Kategorie betrifft Verstöße gegen ADR-Vorschriften, bei denen die Gefahr einer Verletzung oder einer Schädigung der Umwelt besteht. Werden solche Verstöße bei Straßenkontrollen festgestellt, müssen diese in der Regel zu geeigneten Abhilfemaßnahmen führen, z. B. wenn möglich die Behebung am Kontrollort, spätestens jedoch nach Abschluss der laufenden Beförderung. Sollten diese Verstöße bei Kontrollen auf dem Betriebsgelände festgestellt werden, sind in der Regel andere geeignete Maßnahmen zu treffen.
 
-6. Versandstücke mit beschädigter Verpackung, beschädigtem Großpackmittel (IBC), beschädigter Großverpackung oder beschädigte, ungereinigte leere Verpackungen werden befördert,
+Diese Kategorie erfasst folgende Mängel:
 
-7. Beförderung verpackter Güter in einem in bautechnischer Hinsicht ungeeigneten Container,
+1. Betrieb einer Beförderungseinheit, die aus mehr als einem Anhänger oder Sattelanhänger besteht,
 
-8. Tanks/Tankcontainer (einschließlich leerer und ungereinigter) wurden nicht ordnungsgemäß verschlossen,
+2. Betrieb eines Fahrzeugs, das nicht mehr den Zulassungsbestimmungen entspricht, jedoch keine unmittelbare Gefahr darstellt,
 
-9. Beförderung einer zusammengesetzten Verpackung, bei der die Außenverpackung nicht ordnungsgemäß verschlossen ist,
+3. an Bord der Beförderungseinheit fehlen die geforderten funktionsfähigen Feuerlöschgeräte oder die Feuerlöschausrüstung entspricht nicht den besonderen Vorschriften,
 
-10. falsche Kennzeichnung, Bezettelung oder falsches Anbringen von Großzetteln (Placards),
+4. die gemäß ADR oder den schriftlichen Weisungen vorgeschriebene Ausrüstung befindet sich nicht an Bord der Beförderungseinheit,
 
-11. keine schriftlichen Weisungen gemäß ADR vorhanden oder die schriftlichen Weisungen betreffen nicht die beförderten Güter oder
+5. Nichteinhaltung der Inspektions- und Prüffristen oder Verwendungsdauer von Verpackungen, Großpackmitteln (IBC), Großverpackungen, Tanks, Fahrzeugen oder Containern,
 
-12. das Fahrzeug ist nicht ordnungsgemäß überwacht oder geparkt.
+6. Beförderung von Versandstücken mit beschädigten Verpackungen, Großpackmitteln (IBC) oder Großverpackungen oder Beförderung beschädigter, leerer ungereinigter Verpackungen,
 
-C.
+7. Beförderung verpackter gefährlicher Güter in einem in bautechnischer Hinsicht ungeeigneten Fahrzeug oder Container,
 
-Gefahrenkategorie III
+8. Tanks, Fahrzeuge, Container oder Versandstücke, einschließlich leerer und ungereinigter Tanks, Fahrzeuge, Container oder Versandstücke, wurden nicht ordnungsgemäß verschlossen,
 
-Wenn der Verstoß gegen die einschlägigen ADR-Bestimmungen mit einer geringen Gefahr von Verletzungen oder einer Schädigung der Umwelt verbunden ist und geeignete Maßnahmen zur Beseitigung der Gefahr nicht an der Straße ergriffen werden müssen, sondern zu einem späteren Zeitpunkt auf dem Betriebsgelände getroffen werden können.
+9. Tanks, Fahrzeuge, Container oder Versandstücke mit falschen Bezettelungen, Kennzeichen (einschließlich orangefarbener Tafeln) oder Großzetteln,
 
-Mängel sind:
+10. schriftliche Weisungen gemäß ADR werden nicht mitgeführt,
 
-1. die Größe der Großzettel (Placards) oder Zettel oder der Buchstaben, Zahlen oder Symbole auf den Großzetteln oder Zetteln entspricht nicht den Vorschriften,
+11. Fahrzeug wurde nicht ordnungsgemäß überwacht oder abgestellt,
 
-2. weitere Angaben als die in Gefahrenkategorie I Nr. 16 sind in den Beförderungsunterlagen nicht verfügbar oder
+12. Beförderung von anderen Personen als der Fahrzeugbesatzung in Beförderungseinheiten, in denen gefährliche Güter befördert werden,
 
-3. die Schulungsbescheinigung befindet sich nicht an Bord des Fahrzeugs, es gibt jedoch Belege dafür, dass der Fahrer sie besitzt.
+13. Nichteinhaltung der Vorschriften in Abschnitt 7.5.10 ADR über Vorsichtsmaßnahmen zur Vermeidung elektrostatischer Aufladung bei der Befüllung oder Entleerung,
+
+14. Nichteinhaltung der Vorschriften über die Ankunft an Be- und Entladestellen,
+
+15. Nichteinhaltung der Vorschriften über die Rolle des Gefahrgutbeauftragten, die Verpflichtungen und Bescheinigungen für jedes Unternehmen, sofern erforderlich,
+
+16. Nichteinhaltung der Vorschriften über die Mindestaufbewahrungsfrist für das Beförderungspapier für Gefahrguttransporte und zusätzliche Informationen und Dokumente gemäß ADR,
+
+17. Nichteinhaltung der Vorschriften über die Unterweisung von Personen, die an der Beförderung gefährlicher Güter beteiligt sind,
+
+18. den zuständigen Behörden wurden die erforderlichen Unterlagen oder Berichte nicht vorgelegt.
+
+C. Gefahrenkategorie III
+
+Diese Kategorie betrifft Verstöße gegen ADR-Vorschriften, bei denen eine geringe Gefahr von Verletzungen oder einer Schädigung der Umwelt besteht und geeignete Abhilfemaßnahmen nicht an der Straße ergriffen werden müssen, sondern zu einem späteren Zeitpunkt auf dem Betriebsgelände getroffen werden können. Sollten diese Verstöße bei Kontrollen auf dem Betriebsgelände festgestellt werden, sind in der Regel andere geeignete Maßnahmen zu treffen.
+
+Diese Kategorie erfasst folgende Mängel:
+
+1. Nichteinhaltung der Vorschriften über die Größe von Großzetteln (Placards), Gefahrzetteln oder anderer Kennzeichen oder über die Größe von Buchstaben, Zahlen oder Symbolen auf den Großzetteln, Gefahrzetteln oder anderer Kennzeichen,
+
+2. aus den Beförderungspapieren gehen keine weiteren Angaben als die der Gefahrenkategorie I Nr. 19 hervor,
+
+3. die Schulungsbescheinigung wurde nicht an Bord des Fahrzeugs mitgeführt, es gibt jedoch Belege dafür, dass der Fahrzeugführer über eine solche verfügt,
+
+4. nicht jedes Mitglied der Fahrzeugbesatzung führt ein Ausweisdokument mit Lichtbild mit,
+
+5. nicht ordnungsgemäß angebrachte Großzettel (Placards) oder Kennzeichen (einschließlich orangefarbener Tafeln),
+
+6. den zuständigen Behörden wurden die erforderlichen Unterlagen oder Berichte zu spät vorgelegt.
 
 # Anlage 4
 

@@ -37,7 +37,7 @@ Auf Grund des § 56 Absatz 1 Nummer 3 des Bundesmeldegesetzes vom 3. Mai 2013 (B
 
 (4) Das Datenaustauschformat OSCI-XMeld, das Übermittlungsprotokoll OSCI-Transport und der DSMeld sind beim Bundesarchiv, Potsdamer Straße 1, 56075 Koblenz, archivmäßig gesichert niedergelegt und der Öffentlichkeit zugänglich. Sie können beim Informationstechnikzentrum Bund (ITZBund), Bernkasteler Straße 8, 53175 Bonn, bezogen werden.
 
-(5) Änderungen des Datenaustauschformats OSCI-XMeld, des Übermittlungsprotokolls OSCI-Transport sowie des DSMeld werden vom Bundesministerium des Innern, für Bau und Heimat im Bundesanzeiger bekannt gemacht. In der Bekanntmachung sind das Herausgabedatum und der Beginn der Anwendung anzugeben.
+(5) Änderungen des Datenaustauschformats OSCI-XMeld, des Übermittlungsprotokolls OSCI-Transport sowie des DSMeld werden vom Bundesministerium des Innern im Bundesanzeiger bekannt gemacht. In der Bekanntmachung sind das Herausgabedatum und der Beginn der Anwendung anzugeben.
 
 (6) Die in dieser Verordnung hinter den zu übermittelnden Meldedaten angegebenen Zahlen bezeichnen die zugehörigen Blattnummern des DSMeld – Datenblatt.
 

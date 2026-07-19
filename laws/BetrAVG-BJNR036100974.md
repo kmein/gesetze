@@ -55,8 +55,6 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 Im Fall einer Direktversicherung ist dem Arbeitnehmer darüber hinaus mit Beginn der Entgeltumwandlung ein unwiderrufliches Bezugsrecht einzuräumen.
 
-(+++ § 1b: Zur Anwendung vgl. §§ 8 Abs. 3, 30f Abs. 3 +++)
-
 # § 2 – Höhe der unverfallbaren Anwartschaft
 
 (1) Bei Eintritt des Versorgungsfalles wegen Erreichens der Altersgrenze, wegen Invalidität oder Tod haben ein vorher ausgeschiedener Arbeitnehmer, dessen Anwartschaft nach § 1b fortbesteht, und seine Hinterbliebenen einen Anspruch mindestens in Höhe des Teiles der ohne das vorherige Ausscheiden zustehenden Leistung, der dem Verhältnis der Dauer der Betriebszugehörigkeit zu der Zeit vom Beginn der Betriebszugehörigkeit bis zum Erreichen der Regelaltersgrenze in der gesetzlichen Rentenversicherung entspricht; an die Stelle des Erreichens der Regelaltersgrenze tritt ein früherer Zeitpunkt, wenn dieser in der Versorgungsregelung als feste Altersgrenze vorgesehen ist, spätestens der Zeitpunkt der Vollendung des 65. Lebensjahres, falls der Arbeitnehmer ausscheidet und gleichzeitig eine Altersrente aus der gesetzlichen Rentenversicherung für besonders langjährig Versicherte in Anspruch nimmt. Der Mindestanspruch auf Leistungen wegen Invalidität oder Tod vor Erreichen der Altersgrenze ist jedoch nicht höher als der Betrag, den der Arbeitnehmer oder seine Hinterbliebenen erhalten hätten, wenn im Zeitpunkt des Ausscheidens der Versorgungsfall eingetreten wäre und die sonstigen Leistungsvoraussetzungen erfüllt gewesen wären.
@@ -498,8 +496,6 @@ b) dass der Arbeitnehmer ohne Angabe von Gründen innerhalb einer Frist von mind
 Nichttarifgebundene Arbeitgeber können ein einschlägiges tarifvertragliches Optionssystem anwenden oder auf Grund eines einschlägigen Tarifvertrages durch Betriebs- oder Dienstvereinbarung die Einführung eines Optionssystems regeln; Satz 2 gilt entsprechend.
 
 (3) Sind Entgeltansprüche nicht und werden sie auch nicht üblicherweise in einem einschlägigen Tarifvertrag geregelt, können Optionssysteme auch ohne tarifvertragliche Grundlage in einer Betriebs- oder Dienstvereinbarung geregelt werden, wenn der Arbeitgeber zusätzlich zu den Vorgaben nach Absatz 2 mindestens 20 Prozent des umgewandelten Entgelts als Arbeitgeberzuschuss hinzugibt; die Verpflichtung des Arbeitgebers aus § 1a Absatz 1a gilt insoweit als erfüllt.
-
-(+++ § 20: Zur Anwendung vgl. §§ 30j, 30h +++)
 
 # § 21 – Tarifvertragsparteien; Sozialpartnermodell
 

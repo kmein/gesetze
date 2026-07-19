@@ -379,6 +379,8 @@ Richten folgende öffentliche Stellen zu den genannten Datenverarbeitungszwecken
 
 2. die Gerichte und Strafverfolgungsbehörden einschließlich der Vollstreckungsbehörden zur Erfüllung der Strafrechtspflege,
 
+2a. die Familiengerichte in Gewaltschutz- und Kindschaftssachen zur Durchführung einer Gefährdungsanalyse,
+
 3. die zur Ahndung von Ordnungswidrigkeiten zuständigen Behörden zur Durchführung von Ordnungswidrigkeitsverfahren,
 
 4. die Polizeien des Bundes und der Länder zur Erfüllung der ihnen durch Gesetz zugewiesenen Aufgaben,

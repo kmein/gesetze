@@ -19,7 +19,7 @@ Auf Grund des § 15 Absatz 5 des Vermögensanlagengesetzes, der durch Artikel 2 
 
 a) bei Anlegern, die natürliche Personen sind, um deren Vor- und Familiennamen und bei Anlegern, die juristische Personen oder andere rechtsfähige Personenvereinigungen sind, um deren Firma oder deren Namen sowie um den Vor- und Familiennamen der natürlichen Person, die für diese handelt, unter Nennung von Ort und Datum ergänzt wird und
 
-b) das elektronische Dokument vom Anleger oder, wenn der Anleger eine juristische Person oder eine andere rechtsfähige Personenvereinigung ist, von deren Vertreter mit seiner qualifizierten elektronischen Signatur versehen oder von dem De-Mail-Konto des Anlegers nach § 5 Absatz 5 des De-Mail-Gesetzes versandt wird, oder
+b) das elektronische Dokument vom Anleger oder, wenn der Anleger eine juristische Person oder eine andere rechtsfähige Personenvereinigung ist, von deren Vertreter mit seiner qualifizierten elektronischen Signatur versehen wird, oder
 
 2. das Vermögensanlagen-Informationsblatt auf einer Internetseite des Emittenten oder Anbieters der Vermögensanlage durch die eigenständige Eingabe folgender Angaben in einer Formularmaske unter Nennung von Ort und Datum ergänzt wird:
 

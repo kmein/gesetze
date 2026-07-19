@@ -229,7 +229,7 @@ Als Wohnung oder gewöhnlicher Aufenthalt im Sinne von Satz 1 gilt auch eine fr�
 
 (4) Sofern sie in der Bundesrepublik Deutschland keine Wohnung innehaben oder innegehabt haben, gilt als Wohnung im Sinne des Absatzes 1 Nr. 2 oder des Absatzes 2 Satz 1
 
-1. für Seeleute sowie für die Angehörigen ihres Hausstandes das von ihnen bezogene Schiff, wenn dieses nach dem Flaggenrechtsgesetz in der jeweils geltenden Fassung die Bundesflagge zu führen berechtigt ist,
+1. (weggefallen)
 
 2. für Binnenschiffer sowie für die Angehörigen ihres Hausstandes das von ihnen bezogene Schiff, wenn dieses in einem Schiffsregister in der Bundesrepublik Deutschland eingetragen ist,
 

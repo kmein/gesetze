@@ -1234,7 +1234,7 @@ Eine beabsichtigte Einstellung oder personelle Veränderung eines in § 5 Abs. 3
 
 5b. Fragen der unternehmerischen Sorgfaltspflichten in Lieferketten gemäß dem Lieferkettensorgfaltspflichtengesetz;
 
-6. die Einschränkung oder Stillegung von Betrieben oder von Betriebsteilen;
+6. die Einschränkung oder Stilllegung von Betrieben oder von Betriebsteilen;
 
 7. die Verlegung von Betrieben oder Betriebsteilen;
 

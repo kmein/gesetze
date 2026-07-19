@@ -511,6 +511,7 @@
 - [BBFestV 2023](laws/BBFestV_2023-BJNR0B40A0023.md) Verordnung zur Festlegung und Anpassung der Bundesbeteiligung an den Leistungen für Unterkunft und Heizung für das Jahr 2023
 - [BBFestV 2024](laws/BBFestV_2024-BJNR0E40A0024.md) Verordnung zur Festlegung und Anpassung der Bundesbeteiligung an den Leistungen für Unterkunft und Heizung für das Jahr 2024
 - [BBFestV 2025](laws/BBFestV_2025-BJNR0A00A0025.md) Verordnung zur Festlegung und Anpassung der Bundesbeteiligung an den Leistungen für Unterkunft und Heizung für das Jahr 2025
+- [BBFestV 2026](laws/BBFestV_2026-BJNR0CC0A0026.md) Verordnung zur Festlegung und Anpassung der Bundesbeteiligung an den Leistungen für Unterkunft und Heizung für das Jahr 2026
 - [BBFVerfV](laws/BBFVerfV-BJNR15A0A0024.md) Verordnung über das Verfahren zur Feststellung und Bescheinigung individueller beruflicher Handlungsfähigkeit am Maßstab eines anerkannten Ausbildungsberufs nach dem Berufsbildungsgesetz und der Handwerksordnung
 - [BBG](laws/BBG-BJNR016010009.md) Bundesbeamtengesetz
 - [BBhV](laws/BBhV-BJNR032600009.md) Verordnung über Beihilfe in Krankheits-, Pflege- und Geburtsfällen
@@ -1588,7 +1589,7 @@
 - [EhrZAnerkErl](laws/EhrZAnerkErl-BJNR161900014.md) Erlass über die Anerkennung als Ehrenzeichen
 - [EhrZAnerkErl 3](laws/EhrZAnerkErl_3-BJNR006440964.md) Dritter Erlaß über die Anerkennung als Ehrenzeichen
 - [EHV 2020](laws/EHV_2020-BJNR329500013.md) Verordnung zur Durchführung des Treibhausgas-Emissionshandelsgesetzes in der Handelsperiode 2013 bis 2020*
-- [EHV 2030](laws/EHV_2030-BJNR053800019.md) Verordnung zur Durchführung des Treibhausgas-Emissionshandelsgesetzes in der Handelsperiode 2021 bis 2030*
+- [EHV 2030](laws/EHV_2030-BJNR0C90B0026.md) Verordnung zur Durchführung des Treibhausgas-Emissionshandelsgesetzes in der Handelsperiode 2021 bis 2030
 - [EHVV 2012](laws/EHVV_2012-BJNR204800009.md) Verordnung über die Versteigerung von Emissionsberechtigungen nach dem Zuteilungsgesetz 2012
 - [EichendorffPlakErl](laws/EichendorffPlakErl-BJNR109350983.md) Erlaß über die Stiftung der Eichendorff-Plakette
 - [eIDKG](laws/eIDKG-BJNR084610019.md) Gesetz über eine Karte für Unionsbürger und Angehörige des Europäischen Wirtschaftsraums mit Funktion zum elektronischen Identitätsnachweis
@@ -2705,6 +2706,7 @@
 - [JArbSchUV](laws/JArbSchUV-BJNR022210990.md) Verordnung über die ärztlichen Untersuchungen nach dem Jugendarbeitsschutzgesetz
 - [JAVollzO](laws/JAVollzO-BJNR005050966.md) Verordnung über den Vollzug des Jugendarrestes
 - [JBeitrG](laws/JBeitrG-BJNR002980937.md) Justizbeitreibungsgesetz
+- [JEGMV 2031-2040](laws/JEGMV_2031-2040-BJNR0CA0A0026.md) Verordnung zur Überführung der jährlichen Minderungsziele in Jahresemissionsgesamtmengen für die Jahre 2031 bis 2040
 - [JFAngAusbV](laws/JFAngAusbV-BJNR0510A0025.md) Verordnung über die Berufsausbildung zum Justizfachangestellten und zur Justizfachangestellten *
 - [JFDG](laws/JFDG-BJNR084210008.md) Gesetz zur Förderung von Jugendfreiwilligendiensten
 - [JGG](laws/JGG-BJNR007510953.md) Jugendgerichtsgesetz
@@ -3122,7 +3124,7 @@
 - [LuftVODV 164](laws/LuftVODV_164-BJNR503530996.md) Hundertvierundsechzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Verkehrslandeplatz Mönchengladbach)
 - [LuftVODV 165](laws/LuftVODV_165-BJNR504800996.md) Hundertfünfundsechzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Mönchengladbach)
 - [LuftVODV 166 2025](laws/LuftVODV_166_2025-BJNR1980A0024.md) Hundertsechsundsechzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen Hamburg)
-- [LuftVODV 173](laws/LuftVODV_173-BJNR521730996.md) Hundertdreiundsiebzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Paderborn-Lippstadt)
+- [LuftVODV 173 2026](laws/LuftVODV_173_2026-BJNR0240B0026.md) Hundertdreiundsiebzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Paderborn/Lippstadt)
 - [LuftVODV 174 2022](laws/LuftVODV_174_2022-BJNR631400022.md) Hundertvierundsiebzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Sylt)
 - [LuftVODV 176 2024](laws/LuftVODV_176_2024-BJNR0900A0024.md) Hundertsechsundsiebzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flugplatz Kiel-Holtenau)
 - [LuftVODV 178](laws/LuftVODV_178-BJNR505420997.md) Hundertachtundsiebzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Sonderflughafen Oberpfaffenhofen)

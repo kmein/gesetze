@@ -27,7 +27,7 @@ Die Vordrucke sind vollständig und gut lesbar maschinell oder in Druckbuchstabe
 
 2. der elektronische Identitätsnachweis nach § 18 des Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes,
 
-3. eine De-Mail nach § 5 des De-Mail-Gesetzes vom 28. April 2011 (BGBl. I S. 666), das durch Artikel 2 des Gesetzes vom 7. August 2013 (BGBl. I S. 3154) geändert worden ist, in der jeweils geltenden Fassung,
+3. (weggefallen)
 
 4. eine Erklärung, mit deren Abgabe versichert wird, dass die Person, die die Erklärung abgibt, mit der im Vordruck angegebenen Person des Anzeigenden identisch ist.
 

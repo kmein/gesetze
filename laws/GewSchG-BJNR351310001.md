@@ -31,6 +31,18 @@ Im Falle des Satzes 1 Nr. 2 Buchstabe b liegt eine unzumutbare Belästigung nich
 
 (3) In den Fällen des Absatzes 1 Satz 1 oder des Absatzes 2 kann das Gericht die Maßnahmen nach Absatz 1 auch dann anordnen, wenn eine Person die Tat in einem die freie Willensbestimmung ausschließenden Zustand krankhafter Störung der Geistestätigkeit begangen hat, in den sie sich durch geistige Getränke oder ähnliche Mittel vorübergehend versetzt hat.
 
+# § 1a – (zukünftig in Kraft)
+
+# § 1b – Aufgaben der Koordinierungsstelle; Verordnungsermächtigung
+
+(1) Im Fall einer Anordnung nach § 1a führen eine oder mehrere nach dem Recht des Landes, in dem das entscheidende Gericht seinen Sitz hat, zuständige Stellen (Koordinierungsstellen) die Anordnung nach § 1a durch. Die Koordinierungsstelle koordiniert die Durchführung der Anordnung mit dem Gericht, den beteiligten Stellen und den Beteiligten und überwacht die Einhaltung der Anordnung durch den Täter. Die Aufgaben der Koordinierungsstelle können ganz oder teilweise auch auf andere Stellen übertragen werden.
+
+(2) Die Koordinierungsstelle weist die geschützte Person mit einem Vorlauf von mindestens drei Wochen auf den bevorstehenden Ablauf der Fristen nach § 1a Absatz 4 Satz 1 und 2 hin.
+
+(3) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die für die Wahrnehmung der Aufgaben nach Absatz 1 zuständigen Stellen zu bestimmen.
+
+# § 1c – (zukünftig in Kraft)
+
 # § 2 – Überlassung einer gemeinsam genutzten Wohnung
 
 (1) Hat die verletzte Person zum Zeitpunkt einer Tat nach § 1 Abs. 1 Satz 1, auch in Verbindung mit Abs. 3, mit dem Täter einen auf Dauer angelegten gemeinsamen Haushalt geführt, so kann sie von diesem verlangen, ihr die gemeinsam genutzte Wohnung zur alleinigen Benutzung zu überlassen.

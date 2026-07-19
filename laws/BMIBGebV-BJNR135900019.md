@@ -23,7 +23,7 @@ Im Zuständigkeitsbereich des Bundesministeriums des Innern, für Bau und Heimat
 
 7. BSI-Gesetz,
 
-8. De-Mail-Gesetz,
+8. (weggefallen)
 
 9. Verordnung zur Erteilung von Unbedenklichkeitsbescheinigungen,
 

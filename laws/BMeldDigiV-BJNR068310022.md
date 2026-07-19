@@ -25,7 +25,7 @@ Diese Verordnung bestimmt die zu übermittelnden Daten, die zur Erbringung von e
 
 (4) Das Datenaustauschformat OSCI-XMeld, das Übermittlungsprotokoll OSCI-Transport und der DSMeld sind beim Bundesarchiv, Potsdamer Straße 1, 56075 Koblenz, archivmäßig gesichert niedergelegt und der Öffentlichkeit zugänglich. Sie können beim Informationstechnikzentrum Bund (ITZBund), Bernkasteler Straße 8, 53175 Bonn, bezogen werden.
 
-(5) Änderungen des Datenaustauschformats OSCI-XMeld, des Übermittlungsprotokolls OSCI-Transport sowie des DSMeld werden vom Bundesministerium des Innern und für Heimat im Bundesanzeiger bekannt gemacht. In der Bekanntmachung sind das Herausgabedatum und der Beginn der Anwendung anzugeben.
+(5) Änderungen des Datenaustauschformats OSCI-XMeld, des Übermittlungsprotokolls OSCI-Transport sowie des DSMeld werden vom Bundesministerium des Innern im Bundesanzeiger bekannt gemacht. In der Bekanntmachung sind das Herausgabedatum und der Beginn der Anwendung anzugeben.
 
 (6) Die in dieser Verordnung hinter den zu übermittelnden Meldedaten angegebenen Zahlen bezeichnen die zugehörigen Blattnummern des DSMeld-Datenblatts in der jeweils gültigen Fassung.
 
@@ -662,7 +662,7 @@ Zur Aufgabenerfüllung nach Satz 1 hält die Meldebehörde für die Verwaltungsp
 
 # § 8 – Abruf, Eintragung oder Löschung der Daten zu Übermittlungssperren
 
-(1) Die Verwaltungsportale können nach Artikel 15 Absatz 1 der Datenschutz-Grundverordnung für die Erteilung einer Auskunft über das Bestehen einer Übermittlungssperre nach § 42 Absatz 3 Satz 2, § 50 Absatz 1, 2 und 3 in Verbindung mit Absatz 5 des Bundesmeldegesetzes sowie einer nach § 55 Absatz 5 des Bundesmeldegesetzes durch Landesrecht bestimmten Übermittlungssperre durch die zuständige Meldebehörde auf Antrag der betroffenen Person bei der für die alleinige Wohnung oder Haupt- oder Nebenwohnung zuständigen Meldebehörde die folgenden Daten abrufen:
+(1) Die Verwaltungsportale können nach Artikel 15 Absatz 1 der Datenschutz-Grundverordnung für die Erteilung einer Auskunft über das Bestehen einer Übermittlungssperre nach § 42 Absatz 3 Satz 2, § 50 Absatz 1 und 2 in Verbindung mit Absatz 5 des Bundesmeldegesetzes sowie einer nach § 55 Absatz 5 des Bundesmeldegesetzes durch Landesrecht bestimmten Übermittlungssperre durch die zuständige Meldebehörde auf Antrag der betroffenen Person bei der für die alleinige Wohnung oder Haupt- oder Nebenwohnung zuständigen Meldebehörde die folgenden Daten abrufen:
 
 |     |                                                                                                                           |       |
 |:---|:----------------|---------------------------------------------------:|
@@ -673,12 +673,12 @@ Zur Aufgabenerfüllung nach Satz 1 hält die Meldebehörde für die Verwaltungsp
 
 (2) Widerspricht die betroffene Person einer Datenübermittlung nach § 42 Absatz 3 Satz 2, § 50 Absatz 5 des Bundesmeldegesetzes oder nach § 55 Absatz 5 des Bundesmeldegesetzes in Verbindung mit Landesrecht, so können die Verwaltungsportale die folgenden Daten über den Widerspruch auf Antrag der betroffenen Person an die für die alleinige Wohnung oder Haupt- oder Nebenwohnung zuständigen Meldebehörde übermitteln:
 
-|     |                                                                                                                                                                                          |       |
+|     |                                                                                                                                                                                       |       |
 |:---|:----------------|---------------------------------------------------:|
-| 1\. | rechtlicher Grund des Widerspruchs nach § 42 Absatz 3 Satz 2, § 50 Absatz 1, 2 und 3 in Verbindung mit Absatz 5 des Bundesmeldegesetzes, der zum Eintrag einer Übermittlungssperre führt | 1801, |
-| 2\. | rechtlicher Grund des Widerspruchs, der zum Eintrag einer zusätzlich zu speichernden Übermittlungssperre nach Landesrecht führt.                                                         |       |
+| 1\. | rechtlicher Grund des Widerspruchs nach § 42 Absatz 3 Satz 2, § 50 Absatz 1 und 2 in Verbindung mit Absatz 5 des Bundesmeldegesetzes, der zum Eintrag einer Übermittlungssperre führt | 1801, |
+| 2\. | rechtlicher Grund des Widerspruchs, der zum Eintrag einer zusätzlich zu speichernden Übermittlungssperre nach Landesrecht führt.                                                      |       |
 
-(3) Die Verwaltungsportale können auf Antrag der betroffenen Person für die Löschung einer im Melderegister eingetragenen Übermittlungssperre nach § 42 Absatz 3 Satz 2, § 50 Absatz 1, 2 und 3 in Verbindung mit Absatz 5 des Bundesmeldegesetzes sowie nach § 55 Absatz 5 des Bundesmeldegesetzes durch Landesrecht durch die zuständige Meldebehörde die Daten nach Absatz 1 Satz 1 Nummer 1 und 2 an die für die alleinige Wohnung oder Haupt- oder Nebenwohnung zuständige Meldebehörde übermitteln.
+(3) Die Verwaltungsportale können auf Antrag der betroffenen Person für die Löschung einer im Melderegister eingetragenen Übermittlungssperre nach § 42 Absatz 3 Satz 2, § 50 Absatz 1 und 2 in Verbindung mit Absatz 5 des Bundesmeldegesetzes sowie nach § 55 Absatz 5 des Bundesmeldegesetzes durch Landesrecht durch die zuständige Meldebehörde die Daten nach Absatz 1 Satz 1 Nummer 1 und 2 an die für die alleinige Wohnung oder Haupt- oder Nebenwohnung zuständige Meldebehörde übermitteln.
 
 # § 9 – Elektronische Anmeldung
 
