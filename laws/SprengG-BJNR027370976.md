@@ -1546,7 +1546,7 @@ einen Nachweis nicht oder nicht rechtzeitig erbringt,
 
 12. gegen die Vorschrift des § 23 über das Mitführen von Urkunden verstößt,
 
-12a. entgegen § 24 Abs. 1 Satz 2 eine Anleitung oder den Stand der Technik nicht oder nicht richtet anwendet,
+12a. entgegen § 24 Abs. 1 Satz 2 eine Anleitung oder den Stand der Technik nicht oder nicht richtig anwendet,
 
 13. (weggefallen)
 

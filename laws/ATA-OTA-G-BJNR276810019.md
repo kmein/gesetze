@@ -1107,7 +1107,7 @@ Anhalt geltenden Verordnung über die Ausbildung für die operationstechnische A
 
 8. ein berufspädagogisches Studium absolvieren zur Leitung einer Schule oder Lehrkraft an einer Schule, die Anästhesietechnische und Operationstechnische Assistenten ausbildet, und dieses nach Inkrafttreten dieses Gesetzes erfolgreich abschließen.
 
-(2) Die Genehmigung oder Anerkennung einer Schule ist zurückzunehmen, wenn die Schule der zuständigen Behörde nicht bis zum 1. Januar 2028 nachweist, dass sie die in § 22 genannten Voraussetzungen für die staatliche Anerkennung erfüllt. Die Voraussetzungen des § 22 Absatz 3 Nummer 1 und 3 gelten als erfüllt, wenn als Schulleitung oder als Lehrkräfte Personen eingesetzt werden, die nach dem 1. Januar 2022 mindestens drei Jahre lang in der entsprechenden Position tätig gewesen sind.
+(2) Die Genehmigung oder Anerkennung einer Schule ist zurückzunehmen, wenn die Schule der zuständigen Behörde nicht bis zum 1. Januar 2032 nachweist, dass sie die in § 22 genannten Voraussetzungen für die staatliche Anerkennung erfüllt. Die Voraussetzungen des § 22 Absatz 3 Nummer 1 und 3 gelten als erfüllt, wenn als Schulleitung oder als Lehrkräfte Personen eingesetzt werden, die nach dem 1. Januar 2022 mindestens drei Jahre lang in der entsprechenden Position tätig gewesen sind.
 
 # § 69 – Weitergeltung für die Erlaubnis zum Führen der Berufsbezeichnung
 
@@ -1121,7 +1121,7 @@ Anhalt geltenden Verordnung über die Ausbildung für die operationstechnische A
 
 4. die Berechtigung zum Führen der Berufsbezeichnung „Operationstechnische Assistentin“ oder „Operationstechnischer Assistent“, die erteilt worden ist auf der Grundlage der in Sachsen-Anhalt geltenden Verordnung über die Ausbildung für die operationstechnische Assistenz vom 15. März 2010, die zuletzt durch Verordnung vom 26. Januar 2015 (GVBl. LSA S. 34) geändert worden ist.
 
-(2) Eine Person, die eine der in Absatz 1 genannten Berechtigungen besitzt, kann bei der zuständigen Behörde beantragen, dass ihr eine Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung nach § 1 Absatz 1 oder § 2 Absatz 1 erteilt wird. Die Erlaubnis wird erteilt, wenn die antragstellende Person
+(2) Eine Person, die eine der in Absatz 1 genannten Berechtigungen besitzt, kann bei der nach § 1 Absatz 4 Nummer 1 oder § 2 Absatz 4 Nummer 1 zuständigen Behörde beantragen, dass ihr eine Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung nach § 1 Absatz 1 oder § 2 Absatz 1 erteilt wird. Die Erlaubnis wird erteilt, wenn die antragstellende Person
 
 1. sich nicht eines Verhaltens schuldig gemacht hat, aus dem sich die Unzuverlässigkeit zur Berufsausübung ergibt,
 

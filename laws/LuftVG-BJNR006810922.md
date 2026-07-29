@@ -11,7 +11,7 @@
 | 1\.                                            | Unterabschnitt                                                                                                      |                                                                         |                     |
 |                                                | Luftfahrzeuge und Luftfahrtpersonal .........                                                                       |                                                                         | §§ 1 - 5            |
 | 2\.                                            | Unterabschnitt                                                                                                      |                                                                         |                     |
-|                                                | Flugplätze .........                                                                                                |                                                                         | §§ 6 - 19d          |
+|                                                | Flugplätze .........                                                                                                |                                                                         | §§ 6 – 19e          |
 | 3\.                                            | Unterabschnitt                                                                                                      |                                                                         |                     |
 |                                                | Luftfahrtunternehmen und -veranstaltungen .........                                                                 |                                                                         | §§ 20 - 24          |
 | 4\.                                            | Unterabschnitt                                                                                                      |                                                                         |                     |
@@ -552,6 +552,78 @@ d) Anforderungen an den betreffenden Flughafen.
 # § 19d
 
 Die Unternehmer von Flughäfen haben für eine gefahrlose und leicht zugängliche Benutzung von allgemein zugänglichen Flughafenanlagen, Bauwerken, Räumen und Einrichtungen durch Fluggäste Sorge zu tragen. Dabei sind die Belange von behinderten und anderen Menschen mit Mobilitätsbeeinträchtigung besonders zu berücksichtigen, mit dem Ziel, Barrierefreiheit zu erreichen. Die Einzelheiten der Barrierefreiheit können durch Zielvereinbarungen im Sinne des § 5 des Behindertengleichstellungsgesetzes festgelegt werden.
+
+# § 19e – Digitale Fluggastabfertigung
+
+(1) Luftfahrtunternehmen dürfen die Kontrolle der Flugscheine und der Reisedokumente vor Abflug auch unter Verwendung automatisierter Systeme durchführen (digitale Fluggastabfertigung). Die digitale Fluggastabfertigung darf durchgeführt werden
+
+1. beim Check-In,
+
+2. bei der Gepäckaufgabe,
+
+3. bei der Kontrolle zum Einsteigen in das Luftfahrzeug.
+
+(2) Für die digitale Fluggastabfertigung dürfen die Luftfahrtunternehmen personenbezogene Daten aus der maschinenlesbaren Zone und aus dem Chip des Passes auslesen und verarbeiten. Die Verarbeitung ist nur zulässig,
+
+1. soweit sie für die digitale Fluggastabfertigung erforderlich ist,
+
+2. soweit der Passinhaber in die Datenverarbeitung zum Zweck der digitalen Fluggastabfertigung ausdrücklich eingewilligt hat und
+
+3. sofern sie ausschließlich im Gebiet der Europäischen Union erfolgt.
+
+Zur Inanspruchnahme der digitalen Fluggastabfertigung muss der Fluggast seinen Pass auf Verlangen vorlegen.
+
+(3) Zum Auslesen des Chips nach Absatz 2 Satz 1 und zur Überprüfung der Echtheit der Daten dürfen die Daten aus der maschinenlesbaren Zone sowie die zum Auslesen und für die Echtheitsprüfung erforderlichen Daten aus dem Chip des Passes einmalig ausgelesen und verarbeitet werden. Die für die Echtheitsprüfung nach Satz 1 erforderlichen Daten aus dem Chip sind:
+
+1. die Daten nach § 4 Absatz 2 Satz 2 des Passgesetzes,
+
+2. folgende sonstige Daten nach § 16a Absatz 1 Satz 1 Nummer 1 des Passgesetzes:
+
+a) die Kartenzugriffsdatei,
+
+b) der öffentliche Chip-Authentifizierungsschlüssel,
+
+c) das Kartensicherheitsobjekt und
+
+d) das Dokumentensicherheitsobjekt.
+
+Die Daten sind nach Überprüfung ihrer Echtheit unverzüglich zu löschen. Dies gilt nicht für diejenigen aus dem Chip ausgelesenen Daten, die noch für den in § 18 Absatz 4 Satz 1 des Passgesetzes genannten Zweck benötigt werden; für diese Daten ist die Löschfrist des § 18 Absatz 4 Satz 3 des Passgesetzes anzuwenden.
+
+(4) Zum Zweck der digitalen Fluggastabfertigung dürfen Luftfahrtunternehmen die folgenden Daten auslesen und verarbeiten:
+
+1. aus dem Chip:
+
+a) das Lichtbild zum einmaligen Abgleich mit den physiologischen Merkmalen einer den Fluggast zeigenden und mit dessen Einwilligung unmittelbar am Flugplatz erstellten Bildaufnahme zur Überprüfung, ob Fluggast und Passinhaber identisch sind,
+
+b) den Familiennamen und den Vornamen für die in Absatz 1 Satz 1 näher benannten Prozesse der Fluggastabfertigung sowie für die Überprüfung der Echtheit des Chips und der Echtheit der aus dem Chip ausgelesenen Daten,
+
+c) die übrigen Daten nach Absatz 3 Satz 2 zur Überprüfung der Echtheit des Chips und der Echtheit der aus dem Chip ausgelesenen Daten,
+
+2. die Daten aus der maschinenlesbaren Zone zur Überprüfung der Echtheit des Chips und der Echtheit der aus dem Chip ausgelesenen Daten.
+
+Die Bildaufnahme nach Satz 1 Nummer 1 Buchstabe a ist nach dem Erstellen zur Weiterverarbeitung in ein biometrisches Muster umzuwandeln. Auch die Daten nach Satz 1 Nummer 1 Buchstabe b sind für die weitere Verarbeitung in eine verschlüsselte Datei umzuwandeln.
+
+(5) Die Daten und das biometrische Muster nach Absatz 4 sind wie folgt zu löschen:
+
+1. die Daten nach Absatz 4 Satz 1 Nummer 1 Buchstabe c und Nummer 2 unverzüglich nach dem Auslesen des Chips sowie der maschinenlesbaren Zone und der Erstellung der verschlüsselten Datei,
+
+2. die Daten nach Satz 1 Nummer 1 Buchstabe a unverzüglich nach der Erstellung des biometrischen Musters,
+
+3. die Daten nach Satz 1 Nummer 1 Buchstabe b, das biometrische Muster und die verschlüsselte Datei nach Satz 3, sobald diese nicht mehr erforderlich sind, jedoch spätestens drei Stunden nach Abflug des Fluggastes.
+
+(6) Die auslesenden Stellen müssen bei der Datenverarbeitung nach den Absätzen 2 und 3 sicherstellen, dass die Überprüfung der Echtheit des Chips und der aus dem Chip ausgelesenen Daten auf dem jeweiligen Stand der Technik erfolgt. In Bezug auf Absatz 4 gilt das auch für die Überprüfung der Qualität des aus dem Chip ausgelesenen Lichtbilds, dessen Übereinstimmung mit dem Fluggast sowie für die Überprüfung der Qualität der vor Ort erfassten Bildaufnahme für den Abgleich mit dem Fluggast. Der Stand der Technik ist als niedergelegt zu vermuten in den Technischen Richtlinien des Bundesamts für Sicherheit in der Informationstechnik. Sofern diese Technischen Richtlinien ein entsprechendes Zertifizierungsschema vorsehen, ist die grundsätzliche Einhaltung der Anforderungen der Technischen Richtlinien TR-03121 und TR-03135 in der jeweils geltenden Fassung vom Bundesamt für Sicherheit in der Informationstechnik festzustellen.
+
+(7) Die Luftfahrtunternehmen ermöglichen es jedem Fluggast weiterhin ohne Einschränkung als gleichwertiges Verfahren, abgefertigt zu werden, ohne die digitale Fluggastabfertigung in Anspruch zu nehmen. Dies gilt für alle in Absatz 1 Satz 2 genannten Prozesse oder einen Teil davon.
+
+(8) Bei der Datenverarbeitung zwecks Wahrnehmung von Aufgaben im Rahmen der Fluggastabfertigung nach Absatz 1 Satz 1 Nummer 1 bis 3 gelten die Absätze 1 bis 6 auch für
+
+1. Flugplatzbetreiber und
+
+2. Bodenabfertigungsdienstleister, die Bodenabfertigungsdienste im Sinne von Anlage 1 Nummer 2 der Bodenabfertigungsdienst-Verordnung erbringen.
+
+Flugplatzbetreiber dürfen die digitale Fluggastabfertigung auch bei der Kontrolle nach § 8 Absatz 1 Satz 1 Nummer 4 des Luftsicherheitsgesetzes anwenden.
+
+(9) Die Absätze 1 bis 8 gelten entsprechend für den Personalausweis. Die für die Echtheitsprüfung nach Absatz 3 Satz 3 Nummer 1 erforderlichen Daten sind die Daten nach § 5 Absatz 4 Satz 2 des Personalausweisgesetzes.
 
 # § 20
 

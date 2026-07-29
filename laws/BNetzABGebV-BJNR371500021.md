@@ -33,21 +33,21 @@ Nr. 765/2008 und (EU) Nr. 305/2011 (ABl. L 169 vom 25.6.2019, S. 1), in der jewe
 
 11. KWK-Ausschreibungsverordnung vom 10. August 2017 (BGBl. I S. 3167), die zuletzt durch Artikel 6 des Gesetzes vom 14. Juli 2021 (BGBl. I S. 2860) geändert worden ist, in der jeweils geltenden Fassung,
 
-12. Verordnung zu den gemeinsamen Ausschreibungen vom 10. August 2017 (BGBl. I S. 3167, 3180) in der Fassung vom 20. Januar 2020 (BGBl. I S. 106),
+12. Innovationsausschreibungsverordnung vom 20. Januar 2020 (BGBl. I S. 106), die zuletzt durch Artikel 11c des Gesetzes vom 16. Juli 2021 (BGBl. I S. 3026) geändert worden ist, in der jeweils geltenden Fassung,
 
-13. Innovationsausschreibungsverordnung vom 20. Januar 2020 (BGBl. I S. 106), die zuletzt durch Artikel 11c des Gesetzes vom 16. Juli 2021 (BGBl. I S. 3026) geändert worden ist, in der jeweils geltenden Fassung,
+13. Grenzüberschreitende-Erneuerbare-Energien-Verordnung vom 10. August 2017 (BGBl. I S. 3102), die zuletzt durch Artikel 12 des Gesetzes vom 21. Dezember 2020 (BGBl. I S. 3138) geändert worden ist, in der jeweils geltenden Fassung,
 
-14. Grenzüberschreitende-Erneuerbare-Energien-Verordnung vom 10. August 2017 (BGBl. I S. 3102), die zuletzt durch Artikel 12 des Gesetzes vom 21. Dezember 2020 (BGBl. I S. 3138) geändert worden ist, in der jeweils geltenden Fassung,
+14. Kohleverstromungsbeendigungsgesetz vom 8. August 2020 (BGBl. I S. 1818), das zuletzt durch Artikel 13 des Gesetzes vom 16. Juli 2021 (BGBl. I S. 3026) geändert worden ist, in der jeweils geltenden Fassung,
 
-15. Kohleverstromungsbeendigungsgesetz vom 8. August 2020 (BGBl. I S. 1818), das zuletzt durch Artikel 13 des Gesetzes vom 16. Juli 2021 (BGBl. I S. 3026) geändert worden ist, in der jeweils geltenden Fassung,
+15. Erneuerbare-Energien-Gesetz vom 21. Juli 2014 (BGBl. I S. 1066), das zuletzt durch Artikel 11 des Gesetzes vom 16. Juli 2021 (BGBl. I S. 3026) geändert worden ist, in der jeweils geltenden Fassung,
 
-16. Erneuerbare-Energien-Gesetz vom 21. Juli 2014 (BGBl. I S. 1066), das zuletzt durch Artikel 11 des Gesetzes vom 16. Juli 2021 (BGBl. I S. 3026) geändert worden ist, in der jeweils geltenden Fassung,
+16. Messstellenbetriebsgesetz vom 29. August 2016 (BGBl. I S. 2034), das zuletzt durch Artikel 10 des Gesetzes vom 16. Juli 2021 (BGBl. I S. 3026) geändert worden ist, in der jeweils geltenden Fassung,
 
-17. Messstellenbetriebsgesetz vom 29. August 2016 (BGBl. I S. 2034), das zuletzt durch Artikel 10 des Gesetzes vom 16. Juli 2021 (BGBl. I S. 3026) geändert worden ist, in der jeweils geltenden Fassung,
+17. Datennutzungsgesetz vom 16. Juli 2021 (BGBl. I S. 2941, 2942, 4114) in der jeweils geltenden Fassung,
 
-18. Datennutzungsgesetz vom 16. Juli 2021 (BGBl. I S. 2941, 2942, 4114) in der jeweils geltenden Fassung,
+18. Strompreisbremsegesetz vom 20. Dezember 2022 (BGBl. I S. 2512), das zuletzt durch Artikel 12a des Gesetzes vom 22. Dezember 2023 (BGBl. 2023 I Nr. 405) geändert worden ist, in der jeweils geltenden Fassung,
 
-19. Strompreisbremsegesetz vom 20. Dezember 2022 (BGBl. I S. 2512), das zuletzt durch Artikel 12a des Gesetzes vom 22. Dezember 2023 (BGBl. 2023 I Nr. 405) geändert worden ist, in der jeweils geltenden Fassung.
+19. Strom-Versorgungssicherheits-und-Kapazitätengesetz vom 21. Juli 2026 (BGBl. 2026 I Nr. 210a) in der jeweils geltenden Fassung.
 
 (2) Die Erhebung von Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen, die von der Bundesnetzagentur aufgrund anderer als der in Absatz 1 genannten Rechtsvorschriften erbracht werden, wird durch diese Verordnung nicht ausgeschlossen.
 
@@ -545,7 +545,7 @@ in Euro</th>
 </tbody>
 </table>
 
-Abschnitt 8: Erneuerbare-Energien-Gesetz, KWK-Ausschreibungsverordnung (KWKAusV), Verordnung zu den gemeinsamen Ausschreibungen (GemAV), Innovationsausschreibungsverordnung (InnAusV), Grenzüberschreitende-Erneuerbare-Energien-Verordnung (GEEV)
+Abschnitt 8: Erneuerbare-Energien-Gesetz, KWK-Ausschreibungsverordnung (KWKAusV), Strom-Versorgungssicherheits-und-Kapazitätengesetz (StromVKG) Innovationsausschreibungsverordnung (InnAusV), Grenzüberschreitende-Erneuerbare-Energien-Verordnung (GEEV)
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
 <colgroup>
@@ -646,11 +646,16 @@ für Biomethananlagen nach Teil 3 Abschnitt 3 Unterabschnitt 6 des Erneuerbare-E
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">7</td>
-<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Bewilligung der Ausnahme von der bedarfsgesteuerten Nachtkennzeichnung nach § 9 Absatz 8 Satz 6 des Erneuerbare-Energien-Gesetzes</td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1 883</td>
+<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Durchführung eines Zuschlagsverfahrens für Ausschreibungen für Anlagen nach dem StromVKG</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">956</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
+<td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Bewilligung der Ausnahme von der bedarfsgesteuerten Nachtkennzeichnung nach § 9 Absatz 8 Satz 6 des Erneuerbare-Energien-Gesetzes</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1 883</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
 <td style="border-right: 0.5pt solid; border-bottom: 0.5pt solid" data-valign="top" data-charoff="50">Verlängerung der Realisierungsfrist von Zuschlägen
 <dl>
 <dt>–</dt>
@@ -664,8 +669,8 @@ für Biomasseanlagen nach § 39e Absatz 2 des Erneuerbare-Energien-Gesetzes
 </dl></td>
 <td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">561,66</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
+<tr class="even">
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">10</td>
 <td style="border-right: 0.5pt solid" data-valign="top" data-charoff="50">Verlängerung der Realisierungsfrist von Zuschlägen für Windenergieanlagen an Land nach § 100 Absatz 15 des Erneuerbare-Energien-Gesetzes in der bis zum Ablauf des 31. Dezember 2022 geltenden Fassung</td>
 <td style="text-align: center;" data-valign="top" data-charoff="50">280,83</td>
 </tr>

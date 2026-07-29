@@ -1,4 +1,5 @@
 - [A/KAE](laws/A_KAE-BJNR507500943.md) Ausführungsanordnung zur Konzessionsabgabenanordnung
+- [AABeamtWidAnO](laws/AABeamtWidAnO-BJNR0D00A0026.md) Anordnung zur Übertragung der Zuständigkeit für den Erlass von Widerspruchsbescheiden aus dem Beamtenverhältnis bezüglich Beamtinnen und Beamten des Auswärtigen Amtes auf das Bundesamt für Auswärtige Angelegenheiten
 - [AABG](laws/AABG-BJNR068400002.md) Gesetz zur Begrenzung der Arzneimittelausgaben der gesetzlichen Krankenversicherung
 - [AABGebV](laws/AABGebV-BJNR392000021.md) Besondere Gebührenverordnung des Auswärtigen Amts für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich
 - [AAG](laws/AAG-BJNR368610005.md) Gesetz über den Ausgleich der Arbeitgeberaufwendungen für Entgeltfortzahlung
@@ -25,6 +26,7 @@
 - [AbschlagsV](laws/AbschlagsV-BJNR098100001.md) Verordnung über Abschlagszahlungen bei Bauträgerverträgen
 - [AbsFondsForstAuflG](laws/AbsFondsForstAuflG-BJNR095020011.md) Gesetz zur Auflösung und Abwicklung der Anstalt Absatzförderungsfonds der deutschen Forst- und Holzwirtschaft
 - [AbsFondsLwAuflG](laws/AbsFondsLwAuflG-BJNR095010011.md) Gesetz zur Auflösung und Abwicklung der Anstalt Absatzförderungsfonds der deutschen Land- und Ernährungswirtschaft
+- [ABüFöG](laws/ABüFöG-BJNR0D60B0026.md) Gesetz zur befristeten Förderung einer Aktivierung des Bauüberhangs
 - [ABV](laws/ABV-BJNR010880989.md) Verordnung über Anforderungsbehörden und Bedarfsträger nach dem Bundesleistungsgesetz
 - [AbwAG](laws/AbwAG-BJNR027210976.md) Gesetz über Abgaben für das Einleiten von Abwasser in Gewässer
 - [AbwasserMeistPrV](laws/AbwasserMeistPrV-BJNR036900005.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Abwassermeister/Geprüfte Abwassermeisterin
@@ -194,6 +196,7 @@
 - [AnlEntG](laws/AnlEntG-BJNR184210998.md) Anlegerentschädigungsgesetz
 - [AnlGBlnV](laws/AnlGBlnV-BJNR004000955.md) Verordnung zur Erstreckung des Anleihe-Gesetzes von 1950 auf das Land Berlin
 - [AnlV](laws/AnlV-BJNR076900016.md) Verordnung über die Anlage des Sicherungsvermögens von Pensionskassen, Sterbekassen und kleinen Versicherungsunternehmen
+- [Anpassungsverfahrensabweichungsgesetz 2026](laws/Anpassungsverfahrensabweichungsgesetz_2026-BJNR0D30B0026.md) Gesetz zur Abweichung von dem Anpassungsverfahren gemäß § 11 Absatz 4 des Abgeordnetengesetzes für das Jahr 2026
 - [AnpflEigentG](laws/AnpflEigentG-BJNR254900994.md) Gesetz zur Regelung des Eigentums an von landwirtschaftlichen Produktionsgenossenschaften vorgenommenen Anpflanzungen
 - [AnpVfAussG 2020](laws/AnpVfAussG_2020-BJNR116110020.md) Gesetz zur Aussetzung des Anpassungsverfahrens gemäß § 11 Absatz 4 des Abgeordnetengesetzes für das Jahr 2020
 - [AnsprÜbersV](laws/AnsprÜbersV-BJNR214690978.md) Verordnung über die Übersetzungen der Ansprüche europäischer Patentanmeldungen
@@ -709,6 +712,7 @@
 - [BewG§90DV](laws/BewG§90DV-BJNR005530966.md) Verordnung zur Durchführung des § 90 des Bewertungsgesetzes
 - [BezeichnungsV](laws/BezeichnungsV-BJNR018220971.md) Verordnung zur Bezeichnung der landesrechtlichen Vorschriften nach § 59 Abs. 3 Bundesausbildungsförderungsgesetz
 - [BEZNG](laws/BEZNG-BJNR237810993.md) Gesetz zur Zusammenführung und Neugliederung der Bundeseisenbahnen
+- [BfAABeamtWidAnO](laws/BfAABeamtWidAnO-BJNR0D10A0026.md) Anordnung zur Übertragung der Zuständigkeit für den Erlass von Widerspruchsbescheiden aus dem Beamtenverhältnis bezüglich Beamtinnen und Beamten des Bundesamts für Auswärtige Angelegenheiten auf das Bundesamt für Auswärtige Angelegenheiten
 - [BfAAErnAnO](laws/BfAAErnAnO-BJNR0600A0024.md) Anordnung über die Befugnisse zur Ernennung und Entlassung der Beamtinnen und Beamten des Bundesamts für Auswärtige Angelegenheiten
 - [BfAAG](laws/BfAAG-BJNR124110020.md) Gesetz über die Errichtung eines Bundesamts für Auswärtige Angelegenheiten
 - [BfAAÜbertrAnO](laws/BfAAÜbertrAnO-BJNR0C80A0024.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Bescheiden und Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Bediensteten des Bundesamts für Auswärtige Angelegenheiten auf das Bundesverwaltungsamt
@@ -956,8 +960,8 @@
 - [BMJGerErnAnO](laws/BMJGerErnAnO-BJNR041400008.md) Anordnung über die Ernennung und Entlassung der Bundesbeamtinnen und Bundesbeamten bei den obersten Gerichten des Bundes im Geschäftsbereich des Bundesministeriums der Justiz
 - [BMJMaßgabenBerG](laws/BMJMaßgabenBerG-BJNR089100006.md) Gesetz über die Nichtanwendung von Maßgaben des Einigungsvertrages im Zuständigkeitsbereich des Bundesministeriums der Justiz
 - [BMJVBhWidVertrAnO](laws/BMJVBhWidVertrAnO-BJNR147100017.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung bei Klagen in Beihilfeangelegenheiten im Geschäftsbereich des Bundesministeriums der Justiz und für Verbraucherschutz
-- [BMJVertrAnO](laws/BMJVertrAnO-BJNR016700013.md) Anordnung über die Vertretung der Bundesrepublik Deutschland im Geschäftsbereich des Bundesministeriums der Justiz
 - [BMJVGerWidAnO 2026](laws/BMJVGerWidAnO_2026-BJNR05E0A0026.md) Anordnung zur Übertragung der Zuständigkeit für den Erlass von Widerspruchsbescheiden in beamtenrechtlichen Angelegenheiten auf die Gerichte und Behörden im Geschäftsbereich des Bundesministeriums der Justiz und für Verbraucherschutz
+- [BMJVVertrAnO](laws/BMJVVertrAnO-BJNR0DB0A0026.md) Anordnung über die Vertretung der Bundesrepublik Deutschland im Geschäftsbereich des Bundesministeriums der Justiz und für Verbraucherschutz
 - [BMJVWidVertrAnO](laws/BMJVWidVertrAnO-BJNR031700015.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beamtinnen und Beamten des Bundesministeriums der Justiz und für Verbraucherschutz in Angelegenheiten der Besoldung, des Dienstunfall-, Reisekosten-, Umzugskosten- und Trennungsgeldrechts
 - [BMLEHBeihÜbertrAnO](laws/BMLEHBeihÜbertrAnO-BJNR1470A0025.md) Anordnung des Bundesministeriums für Landwirtschaft, Ernährung und Heimat zur Übertragung von Zuständigkeiten in Angelegenheiten der Beihilfe auf die Postbeamtenkrankenkasse
 - [BMLEHBGebV](laws/BMLEHBGebV-BJNR287400021.md) Besondere Gebührenverordnung des Bundesministeriums für Landwirtschaft, Ernährung und Heimat für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich
@@ -1329,7 +1333,7 @@
 - [ChirurgMAusbV](laws/ChirurgMAusbV-BJNR005720989.md) Verordnung über die Berufsausbildung zum Chirurgiemechaniker/zur Chirurgiemechanikerin
 - [CLNIG](laws/CLNIG-BJNR164320998.md) Gesetz zu dem Straßburger Übereinkommen vom 4. November 1988 über die Beschränkung der Haftung in der Binnenschiffahrt (CLNI)
 - [CMRG](laws/CMRG-BJNR211190961.md) Gesetz zu dem Übereinkommen vom 19. Mai 1956 über den Beförderungsvertrag im internationalen Straßengüterverkehr (CMR)
-- [CO2KostAufG](laws/CO2KostAufG-BJNR215400022.md) Gesetz zur Aufteilung der Kohlendioxidkosten
+- [CO2KostAufG](laws/CO2KostAufG-BJNR215400022.md) Gesetz zur Aufteilung der Kohlendioxidkosten und zur Aufteilung der Betriebskosten bei Einbau einer mit Gas, Heizöl oder Flüssiggas beschickten Heizungsanlage
 - [ContrPrV](laws/ContrPrV-BJNR157900006.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Controller/Geprüfte Controllerin
 - [ContStifG](laws/ContStifG-BJNR296700005.md) Gesetz über die Conterganstiftung
 - [CoronaImpfV](laws/CoronaImpfV-BJNR624300021.md) Verordnung zum Anspruch auf Schutzimpfung gegen das Coronavirus SARS-CoV-2 und auf weitere Schutzimpfungen
@@ -2015,7 +2019,6 @@
 - [FMontAusbV](laws/FMontAusbV-BJNR099700999.md) Verordnung über die Berufsausbildung zum Fassadenmonteur/zur Fassadenmonteurin
 - [FMSAKostV](laws/FMSAKostV-BJNR192810015.md) Verordnung über die Erstattung und Umlage von Kosten der Bundesanstalt für Finanzmarktstabilisierung *)
 - [FMStFV](laws/FMStFV-BJNR612300008.md) Verordnung zur Durchführung des Stabilisierungsfondsgesetzes
-- [FMVtr1973G](laws/FMVtr1973G-BJNR210890976.md) Gesetz zu dem Internationalen Fernmeldevertrag vom 25. Oktober 1973
 - [FoltÜbkFakProtG](laws/FoltÜbkFakProtG-BJNR085420008.md) Gesetz zu dem Fakultativprotokoll vom 18. Dezember 2002 zum Übereinkommen gegen Folter und andere grausame, unmenschliche oder erniedrigende Behandlung oder Strafe
 - [FoMaFüPrV](laws/FoMaFüPrV-BJNR216500009.md) Verordnung über die Anforderungen in der Prüfung zum anerkannten Abschluss Geprüfter Forstmaschinenführer/Geprüfte Forstmaschinenführerin
 - [ForstSchAusglG](laws/ForstSchAusglG-BJNR015330969.md) Gesetz zum Ausgleich von Auswirkungen besonderer Schadensereignisse in der Forstwirtschaft
@@ -2312,7 +2315,6 @@
 - [GrAbfertCESVtrG](laws/GrAbfertCESVtrG-BJNR001820996.md) Gesetz zu dem Vertrag vom 19. Mai 1995 zwischen der Bundesrepublik Deutschland und der Tschechischen Republik über Erleichterungen der Grenzabfertigung im Eisenbahn-, Straßen- und Schiffsverkehr
 - [GrAbfertDNKVtrG](laws/GrAbfertDNKVtrG-BJNR209370969.md) Gesetz zu dem Vertrag vom 30. März 1967 zwischen der Bundesrepublik Deutschland und dem Königreich Dänemark über Zollerleichterungen im kleinen Grenzverkehr
 - [GrAbfertVbgAUTV](laws/GrAbfertVbgAUTV-BJNR270220996.md) Verordnung zu der deutsch-österreichischen Vereinbarung vom 3. Juli 1996/18. Juli 1996 über die Errichtung vorgeschobener deutscher Grenzdienststellen auf österreichischem Gebiet und vorgeschobener österreichischer Grenzdienststellen auf deutschem Gebiet und die zeitweilige österreichische Grenzabfertigung auf deutschem Gebiet
-- [GrAbfertVtrAUT1962G](laws/GrAbfertVtrAUT1962G-BJNR212790963.md) Gesetz zu dem Vertrag vom 6. September 1962 zwischen der Bundesrepublik Deutschland und der Republik Österreich über Zollerleichterungen im kleinen Grenzverkehr und im Durchgangsverkehr
 - [GräbG](laws/GräbG-BJNR005890965.md) Gesetz über die Erhaltung der Gräber der Opfer von Krieg und Gewaltherrschaft
 - [GräbPauschV 2025/2026](laws/GräbPauschV_2025_2026-BJNR1970A0024.md) Verordnung über die Pauschalen für Anlegung, Instandsetzung und Pflege der Gräber, Verlegung und Identifizierung im Sinne des Gräbergesetzes für die Haushaltsjahre 2025 und 2026
 - [GrÄndStVtr BB/MV](laws/GrÄndStVtr_BB_MV-BJNR020600993.md) Staatsvertrag zwischen den Ländern Brandenburg und Mecklenburg-Vorpommern über die Änderung der gemeinsamen Landesgrenze
@@ -2819,6 +2821,7 @@
 - [KHV](laws/KHV-BJNR265000002.md) Verordnung zur Verwendung von Gebärdensprache und anderen Kommunikationshilfen im Verwaltungsverfahren nach dem Behindertengleichstellungsgesetz
 - [KhWbAusbV](laws/KhWbAusbV-BJNR130800015.md) Verordnung über die Berufsausbildung zum Kerzenhersteller und Wachsbildner und zur Kerzenherstellerin und Wachsbildnerin *
 - [KHWiSichV](laws/KHWiSichV-BJNR609800021.md) Verordnung zur Regelung weiterer Maßnahmen zur wirtschaftlichen Sicherung der Krankenhäuser
+- [KI-MIG](laws/KI-MIG-BJNR0DF0B0026.md) Gesetz zur Marktüberwachung und Innovationsförderung von künstlicher Intelligenz
 - [KiGAbV](laws/KiGAbV-BJNR052700018.md) Verordnung über den automatisierten Abruf von Kindergelddaten durch die Bezügestellen des öffentlichen Dienstes
 - [KindArbSchV](laws/KindArbSchV-BJNR150800998.md) Verordnung über den Kinderarbeitsschutz
 - [KindUFV](laws/KindUFV-BJNR136410998.md) Verordnung zur Einführung von Vordrucken für das vereinfachte Verfahren über den Unterhalt minderjähriger Kinder
@@ -3085,7 +3088,6 @@
 - [LuftSiZÜV](laws/LuftSiZÜV-BJNR094700007.md) Luftsicherheits-Zuverlässigkeitsüberprüfungsverordnung
 - [LuftSpZustV](laws/LuftSpZustV-BJNR301000994.md) Verordnung über die Zuständigkeit des Luftfahrt-Bundesamtes für die Verfolgung und Ahndung von Ordnungswidrigkeiten im Luftsportwesen
 - [LuftVerkSiV](laws/LuftVerkSiV-BJNR023890979.md) Verordnung zur Sicherstellung des Luftverkehrs
-- [LuftVerkUSAAbkG](laws/LuftVerkUSAAbkG-BJNR204030956.md) Gesetz zu dem Abkommen vom 7. Juli 1955 über den Luftverkehr zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika
 - [LuftVG](laws/LuftVG-BJNR006810922.md) Luftverkehrsgesetz
 - [LuftVGÄndG](laws/LuftVGÄndG-BJNR008990958.md) Gesetz zur Änderung des Luftverkehrsgesetzes
 - [LuftVGÄndG 10](laws/LuftVGÄndG_10-BJNR013700992.md) Zehntes Gesetz zur Änderung des Luftverkehrsgesetzes
@@ -4330,7 +4332,6 @@
 - [RHiStAbkITADV](laws/RHiStAbkITADV-BJNR201220939.md) Verordnung zur Durchführung des Abkommens zwischen dem Deutschen Reich und dem Königreich Italien über Amts- und Rechtshilfe in Steuersachen
 - [RHiStVtrSWEDV](laws/RHiStVtrSWEDV-BJNR200040936.md) Verordnung zur Durchführung des Vertrages zwischen dem Deutschen Reich und dem Königreich Schweden über Amts- und Rechtshilfe in Steuersachen
 - [RHiVtrCANG](laws/RHiVtrCANG-BJNR096220004.md) Gesetz zu dem Vertrag vom 13. Mai 2002 zwischen der Bundesrepublik Deutschland und Kanada über die Rechtshilfe in Strafsachen
-- [RHiVtrPRTG](laws/RHiVtrPRTG-BJNR223450967.md) Gesetz zu dem Vertrag vom 15. Juni 1964 zwischen der Bundesrepublik Deutschland und der Republik von Portugal über die Auslieferung und die Rechtshilfe in Strafsachen
 - [RHiVtrYUGG](laws/RHiVtrYUGG-BJNR211650974.md) Gesetz zu dem Vertrag vom 1. Oktober 1971 zwischen der Bundesrepublik Deutschland und der Sozialistischen Föderativen Republik Jugoslawien über die Rechtshilfe in Strafsachen
 - [RHmV](laws/RHmV-BJNR229900994.md) Verordnung über Höchstmengen an Rückständen von Pflanzenschutz- und Schädlingsbekämpfungsmitteln in oder auf Lebensmitteln
 - [RIASKomVorRV](laws/RIASKomVorRV-BJNR209100992.md) Verordnung über die Gewährung von Vorrechten und Befreiungen an die RIAS BERLIN-Kommission
@@ -4732,7 +4733,6 @@
 - [SozSichAbkBGRG](laws/SozSichAbkBGRG-BJNR201120998.md) Gesetz zu dem Abkommen vom 17. Dezember 1997 zwischen der Bundesrepublik Deutschland und der Republik Bulgarien über Soziale Sicherheit
 - [SozSichAbkBRAG](laws/SozSichAbkBRAG-BJNR091820010.md) Gesetz zu dem Abkommen vom 3. Dezember 2009 zwischen der Bundesrepublik Deutschland und der Föderativen Republik Brasilien über Soziale Sicherheit
 - [SozSichAbkCZEG](laws/SozSichAbkCZEG-BJNR112620002.md) Gesetz zu dem Abkommen vom 27. Juli 2001 zwischen der Bundesrepublik Deutschland und der Tschechischen Republik über Soziale Sicherheit
-- [SozSichAbkErgVbg2FRAG](laws/SozSichAbkErgVbg2FRAG-BJNR207550958.md) Gesetz über die Zweite Vereinbarung zur Ergänzung des Allgemeinen Abkommens zwischen der Bundesrepublik Deutschland und Frankreich über die Soziale Sicherheit und über die Fünfte Zusatzvereinbarung über die Einbeziehung des Landes Berlin in das Allgemeine Abkommen nebst Briefen
 - [SozSichAbkG MDA](laws/SozSichAbkG_MDA-BJNR110620017.md) Gesetz zu dem Abkommen vom 12. Januar 2017 zwischen der Bundesrepublik Deutschland und der Republik Moldau über Soziale Sicherheit
 - [SozSichAbkG PHL](laws/SozSichAbkG_PHL-BJNR041720015.md) Gesetz zu dem Abkommen vom 19. September 2014 zwischen der Bundesrepublik Deutschland und der Republik der Philippinen über Soziale Sicherheit
 - [SozSichAbkG UKR](laws/SozSichAbkG_UKR-BJNR000320020.md) Gesetz zu dem Abkommen vom 7. November 2018 zwischen der Bundesrepublik Deutschland und der Ukraine über Soziale Sicherheit
@@ -4816,7 +4816,6 @@
 - [StBAG](laws/StBAG-BJNR006030961.md) Steuerbeamtenausbildungsgesetz
 - [StBAPO](laws/StBAPO-BJNR190900022.md) Ausbildungs- und Prüfungsordnung für die Steuerbeamtinnen und Steuerbeamten
 - [StBDVÄndV 2](laws/StBDVÄndV_2-BJNR116800996.md) Zweite Verordnung zur Änderung der Verordnung zur Durchführung der Vorschriften über Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften
-- [StBefrAbkHRVV](laws/StBefrAbkHRVV-BJNR018220998.md) Verordnung zu dem Abkommen vom 9. Dezember 1996 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Republik Kroatien über die gegenseitige Befreiung von Steuern und Straßengebühren für Straßenfahrzeuge im internationalen Verkehr
 - [StBerFAngEignV](laws/StBerFAngEignV-BJNR277600005.md) Verordnung über die fachliche Eignung für die Berufsausbildung der Fachangestellten im Bereich der Steuerberatung
 - [StBerG](laws/StBerG-BJNR013010961.md) Steuerberatungsgesetz
 - [StBerGÄndG 3](laws/StBerGÄndG_3-BJNR015099975.md) Drittes Gesetz zur Änderung des Steuerberatungsgesetzes
@@ -4891,6 +4890,7 @@
 - [StromStG§9Abs9Bek](laws/StromStG§9Abs9Bek-BJNR16C0A0023.md) Bekanntmachung nach § 9 Absatz 9 des Stromsteuergesetzes
 - [StromStG§9Abs9Bek 2025](laws/StromStG§9Abs9Bek_2025-BJNR0720A0025.md) Bekanntmachung nach § 9 Absatz 9 des Stromsteuergesetzes
 - [StromStV](laws/StromStV-BJNR079400000.md) Verordnung zur Durchführung des Stromsteuergesetzes
+- [StromVKG](laws/StromVKG-BJNR0D2AB0026.md) Gesetz zur Sicherung der Versorgungssicherheit Strom und zur Bereitstellung neuer Kapazitäten
 - [StrRehaG](laws/StrRehaG-BJNR118140992.md) Gesetz über die Rehabilitierung und Entschädigung von Opfern rechtsstaatswidriger Strafverfolgungsmaßnahmen im Beitrittsgebiet
 - [StrRehaGAnpV 2026](laws/StrRehaGAnpV_2026-BJNR0BD0A0026.md) Verordnung zur Anpassung der Höhe der monatlichen besonderen Zuwendung nach § 17a Absatz 1 Satz 5 des Strafrechtlichen Rehabilitierungsgesetzes ab dem 1. Juli 2026
 - [StrRehaGSchäV](laws/StrRehaGSchäV-BJNR0900A0026.md) Verordnung über die schädigenden Ereignisse und gesundheitlichen Schädigungen im Sinne des § 21 Absatz 6 Satz 1 des Strafrechtlichen Rehabilitierungsgesetzes

@@ -533,7 +533,13 @@ d) eine aufgrund des § 20 Absatz 3 auch in Verbindung mit Maßnahmen nach Absat
 
 e) eine aufgrund des § 10 Absatz 3 auch in Verbindung mit Maßnahmen nach § 10 Absatz 4 vorgenommene Durchsuchung,
 
-sind in den Fällen der Nummern 1, 1b, 2, 4, 7 und 9 bis 11 sowie 13 von dem Betroffenen, im Fall der Nummer 1a von der Kreditanstalt für Wiederaufbau, in den Fällen der Nummer 3 von dem zur Zusammenfassung verpflichteten Unternehmen, in den Fällen der Nummer 5 von dem registerführenden Unternehmen, in den Fällen der Nummer 6 von den in § 22n Absatz 5 Satz 2 und 3 des Kreditwesengesetzes genannten Unternehmen, in den Fällen der Nummer 8 von den betroffenen Einrichtungen und in den Fällen der Nummer 12 durch die Unternehmen im Sinne des § 106 des Wertpapierhandelsgesetzes der Bundesanstalt gesondert zu erstatten. Zu den Kosten nach Satz 1 gehören auch die Kosten, mit denen die Bundesanstalt von der Deutschen Bundesbank und anderen Behörden, die im Rahmen solcher Maßnahmen für die Bundesanstalt oder im Rahmen des einheitlichen Aufsichtsmechanismus im Sinne des Artikels 2 Nummer 9 der Verordnung (EU) Nr. 1024/2013 im Auftrag der Europäischen Zentralbank tätig werden, belastet wird, sowie die Kosten für den Einsatz eigener Mitarbeiter.
+14. durch
+
+a) eine vor Ort oder aus der Ferne nach § 11 des Gesetzes zur Marktüberwachung und Innovationsförderung von künstlicher Intelligenz in Verbindung mit Artikel 14 Absatz 1 und 4 Buchstabe d der Verordnung (EU) 2019/1020 vorgenommene Prüfungshandlung auch in Verbindung mit Maßnahmen nach § 11 des KI-Marktüberwachungs-und-Innovationsförderungs-Gesetzes in Verbindung mit Artikel 14 Absatz 1 und 4 Buchstabe e der Verordnung (EU) 2019/1020,
+
+b) eine Maßnahme nach § 11 des KI-Marktüberwachungs-und-Innovationsförderungs-Gesetzes in Verbindung mit Artikel 14 Absatz 1 und 4 Buchstabe h der Verordnung (EU) 2019/1020,
+
+sind in den Fällen der Nummern 1, 1b, 2, 4, 7 und 9 bis 11 sowie 13 und 14 von dem Betroffenen, im Fall der Nummer 1a von der Kreditanstalt für Wiederaufbau, in den Fällen der Nummer 3 von dem zur Zusammenfassung verpflichteten Unternehmen, in den Fällen der Nummer 5 von dem registerführenden Unternehmen, in den Fällen der Nummer 6 von den in § 22n Absatz 5 Satz 2 und 3 des Kreditwesengesetzes genannten Unternehmen, in den Fällen der Nummer 8 von den betroffenen Einrichtungen und in den Fällen der Nummer 12 durch die Unternehmen im Sinne des § 106 des Wertpapierhandelsgesetzes der Bundesanstalt gesondert zu erstatten. Zu den Kosten nach Satz 1 gehören auch die Kosten, mit denen die Bundesanstalt von der Deutschen Bundesbank und anderen Behörden, die im Rahmen solcher Maßnahmen für die Bundesanstalt oder im Rahmen des einheitlichen Aufsichtsmechanismus im Sinne des Artikels 2 Nummer 9 der Verordnung (EU) Nr. 1024/2013 im Auftrag der Europäischen Zentralbank tätig werden, belastet wird, oder die der Bundesanstalt durch die Heranziehung dritter Personen als Verwaltungshelfer nach § 11 Absatz 2 des KI-Marktüberwachungs-und-Innovationsförderungs-Gesetzes entstehen, sowie die Kosten für den Einsatz eigener Mitarbeiter.
 
 (2) Die Bundesanstalt hat der Deutschen Bundesbank und den anderen Behörden, die im Rahmen des Absatzes 1 für sie oder im Rahmen des einheitlichen Aufsichtsmechanismus im Sinne des Artikels 2 Nummer 9 der Verordnung (EU) Nr. 1024/2013 im Auftrag der Europäischen Zentralbank tätig werden, den Personal- und Sachaufwand zu ersetzen. Die Höhe des Erstattungsbetrags, insbesondere die Stundensätze für den Einsatz von Mitarbeitern dieser Behörden, bestimmen sich nach Erstattungsrichtlinien, die das Bundesministerium erlässt.
 
@@ -584,9 +590,17 @@ Soweit die Kosten der Bundesanstalt nicht durch Gebühren, gesonderte Erstattung
 
 Innerhalb des Aufgabenbereichs Banken und sonstige Finanzdienstleistungen sowie des Aufgabenbereichs Wertpapierhandel hat eine gesonderte Ermittlung nach Gruppen gemäß den §§ 16e und 16i zu erfolgen.
 
-(2) Kosten, die zwei Aufgabenbereichen nach Absatz 1 Satz 1 gemeinsam zugerechnet werden können, sind jeweils gesondert zu erfassen. Sie sind auf die betroffenen Aufgabenbereiche entsprechend dem Verhältnis aufzuteilen, das zwischen den Kosten besteht, die den Aufgabenbereichen unmittelbar zuzurechnen sind. Die so ermittelten Kostenanteile sind jeweils den Kosten hinzuzurechnen, die auf die Aufgabenbereiche unmittelbar entfallen.
+(1a) Die Kosten, die der Bundesanstalt aus ihrer Zuständigkeit nach dem KI-Marktüberwachungs-und-Innovationsförderungs-Gesetz entstehen, sind den Aufgabenbereichen nach Absatz 1 wie folgt zuzurechnen:
 
-(3) Die übrigen Kosten, die weder einem Aufgabenbereich nach Absatz 1 Satz 1 unmittelbar noch nach Absatz 2 zwei Aufgabenbereichen gemeinsam zugeordnet werden können (Gemeinkosten), sind ebenfalls gesondert zu erfassen. Sie sind auf alle Aufgabenbereiche entsprechend dem Verhältnis aufzuteilen, das zwischen den Kosten besteht, die den Aufgabenbereichen nach Durchführung der in Absatz 2 vorgegebenen Verteilung zuzurechnen sind.
+1. soweit es sich um Kosten in Bezug auf das Kredit-, Finanzdienstleistungs-, Wertpapierinstituts-, Zahlungsdienste-, Krypto- oder das inländische Investmentwesen handelt, dem Aufgabenbereich „Banken und sonstige Finanzdienstleistungen“,
+
+2. soweit es sich um Kosten des Versicherungswesens handelt, dem Aufgabenbereich „Versicherungen“.
+
+Innerhalb des Aufgabenbereichs „Banken und sonstige Finanzdienstleistungen“ erfolgt eine gesonderte Ermittlung nach Gruppen entsprechend § 16e.
+
+(2) Kosten, die zwei Aufgabenbereichen nach Absatz 1 Satz 1 oder nach Absatz 1a Satz 1 gemeinsam zugerechnet werden können, sind jeweils gesondert zu erfassen. Sie sind auf die betroffenen Aufgabenbereiche entsprechend dem Verhältnis aufzuteilen, das zwischen den Kosten besteht, die den Aufgabenbereichen unmittelbar zuzurechnen sind. Die so ermittelten Kostenanteile sind jeweils den Kosten hinzuzurechnen, die auf die Aufgabenbereiche unmittelbar entfallen.
+
+(3) Die übrigen Kosten, die weder einem Aufgabenbereich nach Absatz 1 Satz 1 oder nach Absatz 1a Satz 1 unmittelbar noch nach Absatz 2 zwei Aufgabenbereichen gemeinsam zugeordnet werden können (Gemeinkosten), sind ebenfalls gesondert zu erfassen. Sie sind auf alle Aufgabenbereiche entsprechend dem Verhältnis aufzuteilen, das zwischen den Kosten besteht, die den Aufgabenbereichen nach Durchführung der in Absatz 2 vorgegebenen Verteilung zuzurechnen sind.
 
 (4) Die Einnahmen im Sinne des § 16 sind von den Kosten des Aufgabenbereichs abzusetzen, dem sie jeweils unmittelbar zuzurechnen sind. Einnahmen, die zwei Aufgabenbereichen gemeinsam zugerechnet werden können, sind entsprechend dem Verhältnis der Kosten, die den Aufgabenbereichen unmittelbar zuzurechnen sind, abzuziehen. Einnahmen, die keinem Aufgabenbereich unmittelbar zugerechnet werden können, sind vor Verteilung der Gemeinkosten nach Absatz 3 von diesen abzuziehen.
 
@@ -734,7 +748,7 @@ aa)
 Finanzdienstleistungsinstitute mit einer Erlaubnis nach
 
 aaa)  
-§ 1 Absatz 1a Satz 2 Nummer 6 oder 11 des Kreditwesengesetzes, wenn die Erlaubnis nicht die Befugnis umfasst, sich Eigentum oder Besitz an Geldern, Wertpapieren oder Kryptowerten von Kunden zu verschaffen, oder
+§ 1 Absatz 1a Satz 2 Nummer 6, 8 oder 11 des Kreditwesengesetzes, wenn die Erlaubnis nicht die Befugnis umfasst, sich Eigentum oder Besitz an Geldern, Wertpapieren oder Kryptowerten von Kunden zu verschaffen, oder
 
 bbb)  
 § 1 Absatz 1a Satz 3 des Kreditwesengesetzes,
@@ -1280,7 +1294,7 @@ b) den im Anhang des Beschlusses der Europäischen Zentralbank aufgeführten deu
 
 (14) § 16e Absatz 1 und § 16f Absatz 1 in der ab dem 10. November 2021 geltenden Fassung sind erstmals auf die Umlageabrechnung 2021 und die Umlagevorauszahlung 2022 anzuwenden.
 
-(15) § 16e Absatz 1 und 4, § 16f Absatz 2 Satz 1 Nummer 1 und Absatz 4 Satz 2 sowie § 16g Absatz 1 Nummer 1 Buchstabe d sind erstmals auf das Umlagejahr 2024 anzuwenden.
+(15) § 16e Absatz 1 und 4, § 16f Absatz 2 Satz 1 Nummer 1 und Absatz 4 Satz 2 sowie § 16g Absatz 1 Nummer 1 Buchstabe d in der ab dem 30. Dezember 2023 geltenden Fassung sind erstmals auf das Umlagejahr 2024 anzuwenden.
 
 (16) § 16e Absatz 1 und 4, § 16f Absatz 2 Satz 1 Nummer 1 Buchstabe c und die §§ 16g, 16h, 16j, 16k und 16l sind in der ab dem 1. Juli 2024 geltenden Fassung erstmals auf das Umlagejahr 2024 anzuwenden.
 

@@ -1,9 +1,13 @@
-% Gesetz zur Aufteilung der Kohlendioxidkosten  (Kohlendioxidkostenaufteilungsgesetz - CO2KostAufG)
+% Gesetz zur Aufteilung der Kohlendioxidkosten und zur Aufteilung der Betriebskosten bei Einbau einer mit Gas, Heizöl oder Flüssiggas beschickten Heizungsanlage
 % Ausfertigungsdatum: 05.12.2022
  
 # § 1 – Zweck des Gesetzes
 
 Zweck dieses Gesetzes ist die Aufteilung der Kohlendioxidkosten zwischen Vermieter und Mieter entsprechend ihren Verantwortungsbereichen und Einflussmöglichkeiten auf den Kohlendioxidausstoß eines Gebäudes. Das Anreizsystem des Brennstoffemissionshandelsgesetzes vom 12. Dezember 2019 (BGBl. I S. 2728), das zuletzt durch Artikel 2 des Gesetzes vom 9. November 2022 (BGBl. I S. 2006) geändert worden ist, in der jeweils geltenden Fassung, soll im Verhältnis von Vermieter und Mieter dergestalt wirken, dass die Nutzer eines Gebäudes zu energieeffizientem Verhalten und Gebäudeeigentümer zu Investitionen in klimaschonende Heizungssysteme und zu energetischen Sanierungen angereizt werden. Das Anreizsystem des Brennstoffemissionshandelsgesetzes und dieses Gesetz dienen der Reduktion von Treibhausgasemissionen im Gebäudebereich.
+
+# § 1 – Zweck des Gesetzes
+
+Zweck dieses Gesetzes ist die Aufteilung der Kohlendioxidkosten zwischen Vermieter und Mieter entsprechend ihren Verantwortungsbereichen und Einflussmöglichkeiten auf den Kohlendioxidausstoß eines Gebäudes sowie die Aufteilung der Betriebskosten für Wohnraummietverhältnisse bei Einbau und Betrieb einer Heizungsanlage nach § 43 Absatz 1 des Gebäudemodernisierungsgesetzes vom 8. August 2020 (BGBl. I S. 1728), das zuletzt durch Artikel 4 des Gesetzes vom 23. Juli 2026 (BGBl. 2026 I Nr. 226) geändert worden ist,. Das Anreizsystem des Brennstoffemissionshandelsgesetzes vom 12. Dezember 2019 (BGBl. I S. 2728), das zuletzt durch Artikel 2 des Gesetzes vom 9. November 2022 (BGBl. I S. 2006) geändert worden ist, in der jeweils geltenden Fassung, soll im Verhältnis von Vermieter und Mieter dergestalt wirken, dass die Nutzer eines Gebäudes zu energieeffizientem Verhalten und Gebäudeeigentümer zu Investitionen in klimaschonende Heizungssysteme und zu energetischen Sanierungen angereizt werden. Das Anreizsystem des Brennstoffemissionshandelsgesetzes und dieses Gesetz dienen der Reduktion von Treibhausgasemissionen im Gebäudebereich.
 
 # § 2 – Anwendungsbereich
 
@@ -17,13 +21,15 @@ Zweck dieses Gesetzes ist die Aufteilung der Kohlendioxidkosten zwischen Vermiet
 
 sowie notwendige Begleitfragen, die die Verteilung der Kosten der zur Versorgung mit Wärme oder Warmwasser verbrauchten Brennstoffe oder die Kosten für die Wärmelieferung oder Warmwasserlieferung betreffen.
 
-(3) Dieses Gesetz ist auch auf Wärmelieferungen anzuwenden, die aus Wärmeerzeugungsanlagen gespeist werden, die dem Europäischen Emissionshandel unterliegen. Satz 1 gilt nicht für Wärmelieferungen für Gebäude, die erstmals nach dem 1. Januar 2023 einen Wärmeanschluss erhalten haben.
+(3) Dieses Gesetz regelt bei Einbau und Betrieb einer Heizungsanlage nach § 43 Absatz 1 des Gebäudemodernisierungsgesetzes für Wohnraummietverhältnisse die Aufteilung der Kosten der nach dieser Vorschrift verpflichtend anteilig zu nutzenden Brennstoffe sowie der Netzentgelte nach § 40 Absatz 3 Nummer 4 des Energiewirtschaftsgesetzes vom 7. Juli 2005 (BGBl. I S. 1970, 3621), das zuletzt durch Artikel 5 des Gesetzes vom 29. März 2026 (BGBl. 2026 I Nr. 84) geändert worden ist.
 
-(4) Die Bestimmungen dieses Gesetzes gehen den Regelungen über die Verteilung der Kosten der Versorgung mit Wärme oder Warmwasser auf die Nutzer eines Gebäudes nach § 6 Absatz 1 der Verordnung über Heizkostenabrechnung sowie rechtsgeschäftlichen Bestimmungen vor.
+(4) Dieses Gesetz ist auch auf Wärmelieferungen anzuwenden, die aus Wärmeerzeugungsanlagen gespeist werden, die dem Europäischen Emissionshandel unterliegen. Satz 1 gilt nicht für Wärmelieferungen für Gebäude, die erstmals nach dem 1. Januar 2023 einen Wärmeanschluss erhalten haben.
 
-(5) Abweichend von Absatz 1 gilt § 10 auch für den Einsatz von Brennstoffen, für die in der Rechtsverordnung nach § 7 Absatz 4 des Brennstoffemissionshandelsgesetzes keine Standardwerte für Emissionsfaktoren festgelegt sind.
+(5) Die Bestimmungen dieses Gesetzes gehen den Regelungen über die Verteilung der Kosten der Versorgung mit Wärme oder Warmwasser auf die Nutzer eines Gebäudes nach § 6 Absatz 1 der Verordnung über Heizkostenabrechnung sowie rechtsgeschäftlichen Bestimmungen vor.
 
-(6) In den Fällen von § 11 der Verordnung über Heizkostenabrechnung ist dieses Gesetz nicht anzuwenden, es sei denn, die Vertragsparteien haben eine Abrechnung der Heiz- und Warmwasserkosten vereinbart.
+(6) Abweichend von Absatz 1 gilt § 10 auch für den Einsatz von Brennstoffen, für die in der Rechtsverordnung nach § 7 Absatz 4 des Brennstoffemissionshandelsgesetzes keine Standardwerte für Emissionsfaktoren festgelegt sind.
+
+(7) In den Fällen von § 11 der Verordnung über Heizkostenabrechnung ist dieses Gesetz nicht anzuwenden, es sei denn, die Vertragsparteien haben eine Abrechnung der Heiz- und Warmwasserkosten vereinbart.
 
 # § 3 – Informationspflicht bei der Lieferung von Brennstoffen oder Wärme
 
@@ -35,9 +41,11 @@ sowie notwendige Begleitfragen, die die Verteilung der Kosten der zur Versorgung
 
 3. den heizwertbezogenen Emissionsfaktor des gelieferten oder zur Wärmeerzeugung eingesetzten Brennstoffs, angegeben in Kilogramm Kohlendioxid pro Kilowattstunde,
 
-4. den Energiegehalt der gelieferten oder zur Wärmeerzeugung eingesetzten Brennstoffmenge in Kilowattstunden sowie
+4. den Energiegehalt der gelieferten oder zur Wärmeerzeugung eingesetzten Brennstoffmenge in Kilowattstunden,
 
-5. einen Hinweis auf die in § 6 Absatz 2 und § 8 Absatz 2 geregelten Erstattungsansprüche.
+5. einen Hinweis auf die in § 6 Absatz 2 und § 8 Absatz 2 geregelten Erstattungsansprüche sowie
+
+6. im Fall der Belieferung eines Gebäudes, in dem auch Wohnraum vermietet wird und das durch eine Heizungsanlage nach § 43 Absatz 1 des Gebäudemodernisierungsgesetzes mit Wärme oder Wärme und Warmwasser versorgt wird, den Preisbestandteil für den nach dieser Vorschrift verpflichtend anteilig zu nutzenden Brennstoff nach § 43 Absatz 1 des Gebäudemodernisierungsgesetzes.
 
 (2) Die Standardwerte und Berechnungsvorgaben zur rechnerischen Ermittlung der Brennstoffemissionen, die in der für das Lieferjahr geltenden Rechtsverordnung nach § 7 Absatz 4 Nummer 2 und 4 des Brennstoffemissionshandelsgesetzes festgelegt sind, sind der Angabe nach Absatz 1 Nummer 3 zugrunde zu legen. Satz 1 gilt nicht für die Lieferung von Brennstoffen, bei denen ausgeschlossen ist, dass der Käufer sie in Heizungsanlagen oder Warmwasserversorgungsanlagen in Gebäuden nutzen wird.
 
@@ -56,6 +64,16 @@ sowie notwendige Begleitfragen, die die Verteilung der Kosten der zur Versorgung
 a) im Rahmen der Ableitung des einheitlichen Emissionsfaktors nach Nummer 3 abweichend von Absatz 1 für diese Wärmeerzeugungsanlagen, die nach den Vorgaben des Treibhausgas-Emissionshandelsgesetzes zu berichtenden Emissionsdaten und Produktionsmengen zugrunde zu legen sind, und
 
 b) für den aus diesen Wärmeerzeugungsanlagen stammenden Anteil der Wärmelieferung abweichend von Absatz 2 als maßgeblicher Zertifikatepreis der Durchschnittspreis der Versteigerungen nach § 8 Absatz 1 des Treibhausgas-Emissionshandelsgesetzes in dem der Rechnungsstellung vorangegangenen Kalenderjahr heranzuziehen ist.
+
+# § 3a – Grundsatz
+
+(1) Brennstofflieferanten ist es verboten, einen nach § 3 Absatz 1 Nummer 6 auszuweisenden Preisbestandteil zu erheben, der nicht sachlich gerechtfertigt ist. Eine sachliche Rechtfertigung kann sich insbesondere ergeben aus Beschaffungsverträgen des Brennstofflieferanten. Die Darlegungs- und Beweislast für die sachliche Rechtfertigung trägt der Brennstofflieferant.
+
+(2) Das Bundeskartellamt ist zuständig für die Überprüfung von Absatz 1. Es kann das Verhalten eines Brennstofflieferanten, der den Preisbestandteil nach § 3 Absatz 1 Nummer 6 auszuweisen hat, auf die Einhaltung der Maßgabe nach Absatz 1 Satz 1 und 2 überprüfen, wenn ein Anfangsverdacht eines Verstoßes gegen diese Maßgabe besteht. Im Rahmen des Aufgreifermessens ist insbesondere die Marktbedeutung des Brennstofflieferanten zu berücksichtigen. Das Bundeskartellamt kann den Brennstofflieferanten verpflichten, ein gegen Absatz 1 Satz 1 und 2 verstoßendes Verhalten abzustellen und ihm die hierfür erforderlichen Maßnahmen aufgeben. In der Abstellungsverfügung kann es eine Rückerstattung der aus dem gegen Absatz 1 Satz 1 und 2 verstoßenden Verhalten erwirtschafteten Vorteile anordnen. Die Höhe des Rückerstattungsbetrags kann geschätzt werden.
+
+(3) Die §§ 32, 32b, 50e, 50f, 86a, 91, 92, 94, 95 sowie die Vorschriften des Kapitels 3 des Teils 2 und des Kapitels 1 des Teils 3 des Gesetzes gegen Wettbewerbsbeschränkungen in der Fassung der Bekanntmachung vom 26. Juni 2013 (BGBl. I S. 1750, 3245), das zuletzt durch Artikel 3 des Gesetzes vom 22. Juni 2026 (BGBl. 2026 I Nr. 191) geändert worden ist, in der jeweils geltenden Fassung sind entsprechend anzuwenden. Dies gilt auch für die von ihnen in Bezug genommenen und auf sie verweisenden Vorschriften.
+
+(4) Die Vorschriften des Gesetzes gegen Wettbewerbsbeschränkungen bleiben anwendbar. Die Aufgaben und Zuständigkeiten der Kartellbehörden bleiben unberührt.
 
 # § 4 – Maßgeblicher Zertifikatepreis
 
@@ -79,15 +97,73 @@ b) für den aus diesen Wärmeerzeugungsanlagen stammenden Anteil der Wärmeliefe
 
 (3) Versorgt sich der Mieter selbst mit Wärme oder mit Wärme und Warmwasser, ermittelt der Mieter im Zuge der jährlichen Betriebskostenabrechnung den Kohlendioxidausstoß der gemieteten Wohnung in Kilogramm Kohlendioxid pro Quadratmeter Wohnfläche und Jahr. Zur Einstufung der gemieteten Wohnung wird der spezifische Kohlendioxidausstoß mit der Tabelle in der Anlage abgeglichen und die Wohnung danach der anwendbaren Stufe zugeordnet. Aus der Tabelle ergibt sich das Verhältnis der Aufteilung der im Abrechnungszeitraum des Wärmeversorgers angefallenen Kohlendioxidkosten. Absatz 1 Satz 4 und 5 gilt entsprechend.
 
-# § 6 – Begrenzung der Umlagefähigkeit; Erstattungsanspruch bei Wohngebäuden
+# § 5a – Kostenverteilung bei Einbau und Betrieb einer Heizungsanlage gemäß § 43 des Gebäudemodernisierungsgesetzes in Bestandsgebäuden
 
-(1) Vereinbarungen, nach denen der Mieter mehr als den nach § 5 Absatz 2 auf ihn entfallenden Anteil an den Kohlendioxidkosten zu tragen hat, sind in Mietverträgen über Wohnraum oder über Räume, die keine Wohnräume sind, in einem Wohngebäude im Sinn von § 3 Absatz 1 Nummer 33 des Gebäudeenergiegesetzes vom 8. August 2020 (BGBl. I S. 1728), das durch Artikel 18a des Gesetzes vom 20. Juli 2022 (BGBl. I S. 1237) geändert worden ist, unwirksam. Ein Wohngebäude ist ein Gebäude, das nach seiner Zweckbestimmung überwiegend dem Wohnen dient.
+(1) Bei Einbau und Betrieb einer Heizungsanlage nach § 43 Absatz 1 des Gebäudemodernisierungsgesetzes ermittelt der Vermieter für Wohnraummietverhältnisse in Bestandsgebäuden im Zuge der jährlichen Heizkostenabrechnung für die Versorgung der Abrechnungseinheit mit Wärme oder Wärme und Warmwasser unter entsprechender Anwendung von § 5 Absatz 1 Satz 5
 
-(2) Versorgt sich der Mieter selbst mit Wärme oder mit Wärme und Warmwasser, so hat der Vermieter dem Mieter den Anteil der Kohlendioxidkosten zu erstatten, den der Vermieter nach § 5 Absatz 3 zu tragen hat. Der Mieter muss den Erstattungsanspruch nach Satz 1 innerhalb von zwölf Monaten ab dem Zeitpunkt, in dem der Lieferant der Brennstoffe oder der Wärmelieferant die Lieferung gegenüber dem Mieter abgerechnet hat, in Textform geltend machen. Haben die Parteien eine Vorauszahlung auf Betriebskosten vereinbart, so kann der Vermieter einen vom Mieter geltend gemachten Erstattungsbetrag im Rahmen der nächsten auf die Anzeige folgenden jährlichen Betriebskostenabrechnung verrechnen. Erfolgt keine Betriebskostenabrechnung oder findet keine Verrechnung statt, so hat der Vermieter dem Mieter den Betrag spätestens zwölf Monate nach Anzeige zu erstatten.
+1. die im Abrechnungszeitraum ab dem 1. Januar 2028 für die Belieferung mit Gas angefallenen Netzentgelte nach § 40 Absatz 3 Nummer 4 des Energiewirtschaftsgesetzes und
+
+2. die im Abrechnungszeitraum ab dem 1. Januar 2029 für die Belieferung mit den nach § 43 Absatz 1 des Gebäudemodernisierungsgesetzes verpflichtend anteilig zu nutzenden Brennstoffen angefallenen Kosten unter Zugrundelegung des nach § 3 Absatz 1 Nummer 6 angegebenen Preisbestandteils.
+
+(2) Versorgt sich der Mieter im Fall des Absatzes 1 selbst mit Wärme oder mit Wärme und Warmwasser, ermittelt der Mieter im Zuge der jährlichen Betriebskostenabrechnung die im Abrechnungszeitraum angefallenen Kosten nach Absatz 1.
+
+(3) Vermieter und Mieter tragen jeweils hälftig die durch den Einbau und Betrieb einer Anlage nach § 43 Absatz 1 des Gebäudemodernisierungsgesetzes zur Belieferung von Wohnraum mit Wärme oder Wärme und Warmwasser verursachten
+
+1. Kosten nach Absatz 1 Nummer 1 ab dem 1. Januar 2028,
+
+2. Kohlendioxidkosten in Abweichung von § 5 Absatz 2 ab dem 1. Januar 2028 und
+
+3. Kosten nach Absatz 1 Nummer 2 ab dem 1. Januar 2029 bezüglich des Brennstoffanteils von maximal 30 Prozent am insgesamt verbrauchten Brennstoff.
+
+(4) Wird eine Heizungsanlage nach § 43 Absatz 1 des Gebäudemodernisierungsgesetzes aufgrund eines irreparablen Ausfalls der bestehenden Heizungsanlage weniger als zwölf Monate vor dem 1. Januar 2028 neu eingebaut, finden die Absätze 1 bis 3 für zwölf Monate ab dem Einbau der Heizungsanlage keine Anwendung. Während des in § 43 Absatz 7 Satz 1 des Gebäudemodernisierungsgesetzes genannten Zeitraums kommen die Absätze 1 bis 3 nicht zur Anwendung, wenn zum Zeitpunkt des irreparablen Ausfalls der bestehenden Heizungsanlage keine Pflicht nach § 43 Absatz 1 des Gebäudemodernisierungsgesetzes besteht. Im Fall des § 43 Absatz 7 Satz 2 des Gebäudemodernisierungsgesetzes finden die Absätze 1 bis 3 für zwölf Monate ab dem Zeitpunkt des Einbaus der Heizungsanlage keine Anwendung, wenn zum Zeitpunkt des irreparablen Ausfalls der bestehenden Heizungsanlage keine Pflicht nach § 43 Absatz 1 des Gebäudemodernisierungsgesetzes besteht.
+
+# § 5b – Kostenverteilung bei Einbau und Betrieb einer Heizungsanlage nach § 43 des Gebäudemodernisierungsgesetzes in Neubauten
+
+Die Regelungen des § 5a sind entsprechend auf Wohnraummietverhältnisse in Gebäuden, die bis zum Ablauf des 31. Dezember 2029 neu errichtet und erstmals genutzt werden, anzuwenden. Satz 1 ist nicht anzuwenden auf die Errichtung von Gebäuden, für die die Bauantragstellung oder der Antrag auf Zustimmung oder die Bauanzeige vor dem 13. Mai 2026 erfolgte.
+
+# § 5c – Evaluierung
+
+Die Regelungen der §§ 5a und 5b werden im Jahr 2036 im Hinblick auf ihre Verteilungswirkung evaluiert. Die Verteilungswirkung wird in Bezug sowohl auf die Kosten der Vermieter als auch auf die Kosten der Mieter evaluiert.
+
+# § 5d – Härtefall bei Betrieb einer Heizungsanlage gemäß § 43 des Gebäudemodernisierungsgesetzes
+
+(1) Der Vermieter hat abweichend von § 5a Absatz 3 und § 5b nur die Kohlendioxidkosten gemäß § 5 Absatz 2 zu tragen, wenn
+
+1. der vermietete Wohnraum nicht in einem Gebiet liegt, das durch eine Rechtsverordnung gemäß § 556d Absatz 2 Satz 1, § 558 Absatz 3 Satz 3 oder § 577a Absatz 2 Satz 2 des Bürgerlichen Gesetzbuches als angespannter Wohnungsmarkt bestimmt wird,
+
+2. die vereinbarte Miete weniger als 85 Prozent der ortsüblichen Vergleichsmiete (§ 558 Absatz 2 des Bürgerlichen Gesetzbuches) beträgt,
+
+3. der Vermieter nicht mehr als sechs Wohnungen vermietet,
+
+4. das vermietete Gebäude der Effizienzklasse G oder H nach § 86 Absatz 1 Anlage 10 des Gebäudemodernisierungsgesetzes zugeordnet ist und
+
+5. die Kostenbeteiligung des Vermieters im Umfang des § 5a Absatz 3 für diesen eine persönliche Härte bedeuten würde, die unter Würdigung der berechtigten Interessen des Mieters nicht zu rechtfertigen ist.
+
+Liegt der vermietete Wohnraum in einem Gebiet, das durch eine Rechtsverordnung gemäß § 556d Absatz 2 Satz 1, § 558 Absatz 3 Satz 3 oder § 577a Absatz 2 Satz 2 des Bürgerlichen Gesetzbuches als angespannter Wohnungsmarkt bestimmt wird, gilt Satz 1 in den Fällen des Absatzes 2 Nummer 3 und 4 unter der Voraussetzung, dass die vereinbarte Miete nach Satz 1 Nummer 2 weniger als 70 Prozent beträgt.
+
+(2) Im Rahmen der Abwägung nach Absatz 1 Satz 1 Nummer 5 sind insbesondere zu berücksichtigen:
+
+1. der wirtschaftliche Aufwand einer alternativen Beheizung, die nicht den Anforderungen des § 43 des Gebäudemodernisierungsgesetzes unterfällt,
+
+2. die wirtschaftliche Leistungsfähigkeit der Vertragsparteien,
+
+3. ob der Einbau einer Wärmepumpe technisch nicht möglich ist und kein Fernwärmenetz zur Verfügung steht, an welches das Gebäude mit dem vermieteten Wohnraum angeschlossen werden könnte, und
+
+4. im Fall von vermietetem Wohneigentum in einem Gebäude, ob eine Beschlusslage der Wohnungseigentümergemeinschaft es dem Wohnungseigentümer nicht ermöglicht, auf eine alternative Beheizung, die nicht den Anforderungen des § 43 des Gebäudemodernisierungsgesetzes unterfällt, umzustellen, obwohl sich der vermietende Eigentümer für eine entsprechende Beschlussfassung eingesetzt hat, dabei jedoch überstimmt worden ist oder eine entsprechende Beschlussfassung verhindert worden ist.
+
+(3) Bei der Vermietung einer Wohnung in einem vom Vermieter selbst bewohnten Gebäude mit nicht mehr als zwei Wohnungen hat der Vermieter abweichend von § 5a Absatz 3 und § 5b nur die Kohlendioxidkosten gemäß § 5 Absatz 2 zu tragen, wenn beide Wohnungen durch eine gemeinsame Wärmeversorgung versorgt werden. Satz 1 gilt nicht, wenn das Gebäude in einem Gebiet liegt, das durch eine Rechtsverordnung gemäß § 556d Absatz 2 Satz 1, § 558 Absatz 3 Satz 3 oder § 577a Absatz 2 Satz 2 des Bürgerlichen Gesetzbuches als angespannter Wohnungsmarkt bestimmt wird.
+
+(4) Der Vermieter hat den Mieter bei Abschluss des Mietvertrages in Textform über das Vorliegen der Voraussetzungen des Härtefalls zu informieren. Liegen die Voraussetzungen erst nach Abschluss des Mietvertrages vor, hat die Information bei der erstmaligen Geltendmachung des Härtefalles zu erfolgen. Bei Änderung der maßgeblichen Umstände hat die Information erneut zu erfolgen. Maßgebliche Umstände, die dem Mieter erst nach den in den Sätzen 1 bis 3 genannten Zeitpunkten mitgeteilt werden, werden im jeweiligen Abrechnungszeitraum nicht berücksichtigt.
+
+# § 6 – Begrenzung der Umlagefähigkeit; Erstattungsanspruch des Mieters
+
+(1) Vereinbarungen, nach denen der Mieter mehr als den nach § 5 Absatz 2 auf ihn entfallenden Anteil an den Kohlendioxidkosten zu tragen hat, sind in Mietverträgen über Wohnraum oder über Räume, die keine Wohnräume sind, in einem Wohngebäude im Sinn von § 3 Absatz 1 Nummer 33 des Gebäudemodernisierungsgesetzes unwirksam. Satz 1 ist entsprechend anwendbar auf Kosten nach § 5a Absatz 3 und § 5b. Ein Wohngebäude ist ein Gebäude, das nach seiner Zweckbestimmung überwiegend dem Wohnen dient.
+
+(2) Versorgt sich der Mieter selbst mit Wärme oder mit Wärme und Warmwasser, so hat der Vermieter dem Mieter den Anteil der Kosten zu erstatten, den der Vermieter nach § 5 Absatz 3, § 5a Absatz 3 oder § 5b zu tragen hat. § 5 Absatz 1 Satz 5 gilt entsprechend. Der Mieter muss den Erstattungsanspruch nach Satz 1 innerhalb von zwölf Monaten ab dem Zeitpunkt, in dem der Lieferant der Brennstoffe oder der Wärmelieferant die Lieferung gegenüber dem Mieter abgerechnet hat, in Textform geltend machen. Haben die Parteien eine Vorauszahlung auf Betriebskosten vereinbart, so kann der Vermieter einen vom Mieter geltend gemachten Erstattungsbetrag im Rahmen der nächsten auf die Anzeige folgenden jährlichen Betriebskostenabrechnung verrechnen. Erfolgt keine Betriebskostenabrechnung oder findet keine Verrechnung statt, so hat der Vermieter dem Mieter den Betrag spätestens zwölf Monate nach Anzeige zu erstatten. Im Fall des Satzes 1 hat der Vermieter den Mieter bei Abschluss des Mietvertrages und bei Einbau einer Heizungsanlage, die den Anforderungen des § 43 des Gebäudemodernisierungsgesetzes unterfällt, in Textform über das Vorliegen der Pflicht nach § 43 Absatz 1 des Gebäudemodernisierungsgesetzes und den Erstattungsanspruch nach Satz 1 hinzuweisen.
 
 (3) Setzt der Mieter Brennstoffe, für die in der Rechtsverordnung nach § 7 Absatz 4 des Brennstoffemissionshandelsgesetzes Standardwerte für Emissionsfaktoren festgelegt sind, nicht ausschließlich in Anlagen zur Wärmeerzeugung für Heizung oder für Heizung und Warmwasser, sondern darüber hinaus zum Betrieb von Geräten zu anderen, gewerblichen Zwecken ein, kann er seinen Erstattungsanspruch gemäß Absatz 2 nur geltend machen, wenn der Verbrauch für die Erzeugung von Wärme oder von Wärme und Warmwasser mit einer Messeinrichtung separat erfasst wird und der Mieter diesen dem Vermieter gegenüber nachweist; der Nachweis kann auch durch die separate Erfassung des Brennstoffverbrauchs nur zum Betrieb der Geräte zu anderen gewerblichen Zwecken erfolgen. Setzt der Mieter Brennstoffe, für die in der Rechtsverordnung nach § 7 Absatz 4 des Brennstoffemissionshandelsgesetzes Standardwerte für Emissionsfaktoren festgelegt sind, nicht ausschließlich in Anlagen zur Wärmeerzeugung für Heizung oder für Heizung und Warmwasser, sondern darüber hinaus zum Betrieb eigener Geräte zu anderen Zwecken ein, ist sein Erstattungsanspruch nach Absatz 2 um 5 Prozent zu kürzen.
 
-# § 7 – Abrechnung des auf den Mieter entfallenden Anteils an den Kohlendioxidkosten bei Wohngebäuden
+# § 7 – Abrechnung des auf den Mieter entfallenden Anteils an den Kohlendioxidkosten und den Kosten für verpflichtend anteilig zu nutzende Brennstoffe nach § 43 Absatz 1 des Gebäudemodernisierungsgesetzes und den Netzentgelten
 
 (1) Der Vermieter ermittelt die auf den oder die Mieter gemäß § 5 Absatz 1 Satz 1 oder 2 entfallenden Kohlendioxidkosten, indem er den im Abrechnungszeitraum verursachten Kohlendioxidausstoß gemäß § 5 Absatz 1 sowie die angefallenen Kohlendioxidkosten gemäß § 5 Absatz 2 berechnet und den auf den Vermieter entfallenden Anteil abzieht. Der Vermieter berechnet sodann den auf den einzelnen Mieter entfallenden Anteil an den Kohlendioxidkosten gemäß der Vereinbarung zwischen Vermieter und Mieter über die Verteilung der Heiz- und Warmwasserkosten auf Grundlage der §§ 6 bis 10 der Verordnung über Heizkostenabrechnung.
 
@@ -97,11 +173,13 @@ b) für den aus diesen Wärmeerzeugungsanlagen stammenden Anteil der Wärmeliefe
 
 (4) Bestimmt der Vermieter den auf den einzelnen Mieter entfallenden Anteil an den Kohlendioxidkosten nicht oder weist er die gemäß Absatz 3 erforderlichen Informationen nicht aus, so hat der Mieter das Recht, den gemäß der Heizkostenabrechnung auf ihn entfallenden Anteil an den Heizkosten um 3 Prozent zu kürzen.
 
+(5) Der Vermieter ermittelt die auf den oder die Mieter gemäß § 5a Absatz 3 entfallenden Kosten, indem er die im Abrechnungszeitraum verursachten Kosten gemäß § 5a Absatz 1 berechnet und den auf den Vermieter entfallenden Anteil nach § 5a Absatz 3 abzieht. Der Vermieter berechnet sodann den auf den einzelnen Mieter entfallenden Anteil an den Kosten gemäß der Vereinbarung zwischen Vermieter und Mieter über die Verteilung der Heiz- und Warmwasserkosten auf Grundlage der §§ 6 bis 10 der Verordnung über Heizkostenabrechnung. Absatz 4 ist entsprechend anwendbar.
+
 (+++ § 7 Abs. 3 und 4: Zur Geltung vgl. § 8 Abs. 4 +++)
 
 # § 8 – Aufteilung der Kohlendioxidkosten und Erstattungsanspruch bei Nichtwohngebäuden
 
-(1) Vereinbarungen, nach denen der Mieter mehr als 50 Prozent der Kohlendioxidkosten zu tragen hat, sind in Mietverträgen über Wohnraum oder über Räume, die keine Wohnräume sind, in einem Nichtwohngebäude im Sinn von § 3 Absatz 1 Nummer 23 des Gebäudeenergiegesetzes unwirksam. Ein Nichtwohngebäude ist ein Gebäude, das nach seiner Zweckbestimmung nicht überwiegend dem Wohnen dient.
+(1) Vereinbarungen, nach denen der Mieter mehr als 50 Prozent der Kohlendioxidkosten zu tragen hat, sind in Mietverträgen über Wohnraum oder über Räume, die keine Wohnräume sind, in einem Nichtwohngebäude im Sinn von § 3 Absatz 1 Nummer 23 des Gebäudemodernisierungsgesetzes unwirksam. Ein Nichtwohngebäude ist ein Gebäude, das nach seiner Zweckbestimmung nicht überwiegend dem Wohnen dient.
 
 (2) Versorgt sich der Mieter selbst mit Wärme oder Warmwasser, so hat der Vermieter dem Mieter 50 Prozent der Kohlendioxidkosten zu erstatten; § 6 Absatz 2 Satz 2 bis 4 und Absatz 3 gilt entsprechend.
 

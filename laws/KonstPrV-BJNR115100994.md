@@ -563,7 +563,7 @@ h) Materialdispositions-Stückliste;
 
 a) bauaufsichtlich eingeführte Normen,
 
-b) Gebäudeenergiegesetz,
+b) Gebäudemodernisierungsgesetz,
 
 c) Brandschutzverordnung,
 
@@ -1064,8 +1064,6 @@ h) Holz- und Materiallisten;
 (10) Die Konstruktionsaufgabe (§ 3 Abs. 2 Satz 2) soll die zu prüfende Person in einem Arbeitsgebiet der Fachrichtungen entsprechend § 1 Abs. 1 lösen. Der Prüfungsausschuß stellt die Konstruktionsaufgabe auf der Grundlage eines Vorschlages der zu prüfenden Person. Als Bearbeitungszeit stehen der zu prüfenden Person sechs Wochen zur Verfügung. Der Prüfungsausschuß soll die Anfertigung der Konstruktionsaufgabe durch eines seiner Mitglieder oder einen Beauftragten begleiten.
 
 (11) Die Konstruktionsaufgabe und die Inhalte der jeweiligen Fachrichtung sind Grundlage eines Fachgespräches der zu prüfenden Person mit dem Prüfungsausschuß (§ 3 Abs. 2 Satz 2). Das Fachgespräch soll nicht länger als 60 Minuten dauern.
-
-(+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
 # § 6 – Befreiung von einzelnen Prüfungsbestandteilen
 

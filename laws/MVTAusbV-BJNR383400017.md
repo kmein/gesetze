@@ -93,13 +93,13 @@ Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in Berufsbildpositionen als
 
 (7) Die Berufsbildpositionen der fachrichtungsübergreifenden, integrativ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1. Berufsbildung sowie Arbeits- und Tarifrecht,
+1. Organisation des Ausbildungsbetriebes, Berufsbildung sowie Arbeits- und Tarifrecht,
 
-2. Aufbau und Organisation des Ausbildungsbetriebes,
+2. Sicherheit und Gesundheit bei der Arbeit,
 
-3. Sicherheit und Gesundheitsschutz bei der Arbeit,
+3. Umweltschutz und Nachhaltigkeit,
 
-4. Umweltschutz,
+4. digitalisierte Arbeitswelt,
 
 5. Durchführen von betrieblicher und technischer Kommunikation sowie Informationsverarbeitung,
 
@@ -211,9 +211,11 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Eisen- und Stahlmetallur
 
 8. Instandhaltungserfordernisse festzustellen und notwendige Maßnahmen einzuleiten.
 
-(2) Der Prüfling soll eine Arbeitsaufgabe durchführen und mit praxisbezogenen Unterlagen dokumentieren. Die Arbeitsaufgabe kann aus mehreren Teilaufgaben bestehen. Während der Durchführung der Arbeitsaufgabe wird mit dem Prüfling ein situatives Fachgespräch über die Arbeitsaufgabe geführt. Das situative Fachgespräch kann aus mehreren Gesprächsphasen bestehen.
+(2) Der Ausbildende wählt eine der beiden Prüfungsvarianten nach Absatz 3 oder 4 aus und unterrichtet hierüber den Prüfling. Der Prüfling teilt der zuständigen Stelle die gewählte Prüfungsvariante mit der Anmeldung zur Prüfung mit.
 
-(3) Die Prüfungszeit beträgt insgesamt vier Stunden. Das situative Fachgespräch dauert höchstens 30 Minuten.
+(3) In der Prüfungsvariante 1 bearbeitet der Prüfling eine Arbeitsaufgabe und dokumentiert dies mit praxisbezogenen Unterlagen. Die Arbeitsaufgabe kann aus mehreren Teilaufgaben bestehen. Während der Durchführung der Arbeitsaufgabe wird mit dem Prüfling ein situatives Fachgespräch über die Arbeitsaufgabe geführt. Das situative Fachgespräch kann aus mehreren Gesprächsphasen bestehen. Die Prüfungszeit beträgt insgesamt vier Stunden. Das situative Fachgespräch dauert höchstens 30 Minuten.
+
+(4) In der Prüfungsvariante 2 bearbeitet der Prüfling einen betrieblichen Auftrag und dokumentiert dies mit praxisbezogenen Unterlagen. Der Prüfling hat dem Prüfungsausschuss vor der Durchführung des betrieblichen Auftrags die Aufgabenstellung einschließlich des geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen. Nach der Durchführung des betrieblichen Auftrags wird mit dem Prüfling auf der Grundlage der praxisbezogenen Unterlagen ein auftragsbezogenes Fachgespräch über den betrieblichen Auftrag geführt. Der Prüfungsausschuss bewertet auf Grundlage des Fachgesprächs die prozessrelevanten Qualifikationen des Prüflings in Bezug auf die Auftragsdurchführung. Die Prüfungszeit beträgt für die Durchführung des betrieblichen Auftrags insgesamt 10 Stunden. Das auftragsbezogene Fachgespräch dauert höchstens 30 Minuten.
 
 # § 12 – Prüfungsbereich Auftrags- und Fertigungsplanung
 
@@ -267,31 +269,13 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Eisen- und Stahlmetallur
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der Fachrichtung Eisen- und Stahlmetallurgie wie folgt zu gewichten:
 
-1. |               |                 |
-|:--------------|----------------:|
-| Metalltechnik | mit 30 Prozent, |
-
-2. |                |                 |
-|:---------------|----------------:|
-| Arbeitsauftrag | mit 40 Prozent, |
-
-3. |                                 |                 |
-|:--------------------------------|----------------:|
-| Auftrags- und Fertigungsplanung | mit 10 Prozent, |
-
-4. <table width="100%" style="border: none;">
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Eisen- und stahl-<br />
-metallurgische Prozesse</td>
-<td style="text-align: right;" data-valign="bottom">mit 10 Prozent sowie</td>
-</tr>
-</tbody>
-</table>
-
-5. |                              |                 |
-|:-----------------------------|----------------:|
-| Wirtschafts- und Sozialkunde | mit 10 Prozent. |
+|     |                                         |                      |
+|:----|:----------------------------------------|:---------------------|
+| 1\. | Metalltechnik                           | mit 30 Prozent,      |
+| 2\. | Arbeitsauftrag                          | mit 40 Prozent,      |
+| 3\. | Auftrags- und Fertigungsplanung         | mit 10 Prozent,      |
+| 4\. | Eisen- und stahlmetallurgische Prozesse | mit 10 Prozent sowie |
+| 5\. | Wirtschafts- und Sozialkunde            | mit 10 Prozent.      |
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
@@ -305,13 +289,15 @@ metallurgische Prozesse</td>
 
 5. in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Auftrags- und Fertigungsplanung“, „Eisen- und stahlmetallurgische Prozesse“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+Über das Bestehen ist ein Beschluss nach § 42 Absatz 1 Nummer 3 des Berufsbildungsgesetzes zu fassen.
+
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Auftrags- und Fertigungsplanung“, „Eisen- und stahlmetallurgische Prozesse“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Ergänzungsprüfung mit einer Dauer von etwa 15 Minuten zu ergänzen, wenn
 
 1. der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
 2. die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
-Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind das bisherige Ergebnis der schriftlich zu bearbeitenden Aufgaben und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 # § 16 – Inhalt von Teil 2
 
@@ -355,9 +341,11 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Stahlumformung in den fo
 
 8. Instandhaltungserfordernisse festzustellen und notwendige Maßnahmen einzuleiten.
 
-(2) Der Prüfling soll eine Arbeitsaufgabe durchführen und mit praxisbezogenen Unterlagen dokumentieren. Die Arbeitsaufgabe kann aus mehreren Teilaufgaben bestehen. Während der Durchführung der Arbeitsaufgabe wird mit dem Prüfling ein situatives Fachgespräch über die Arbeitsaufgabe geführt. Das situative Fachgespräch kann aus mehreren Gesprächsphasen bestehen.
+(2) Der Ausbildende wählt eine der beiden Prüfungsvarianten nach Absatz 3 oder 4 aus und unterrichtet hierüber den Prüfling. Der Prüfling teilt der zuständigen Stelle die gewählte Prüfungsvariante mit der Anmeldung zur Prüfung mit.
 
-(3) Die Prüfungszeit beträgt insgesamt vier Stunden. Das situative Fachgespräch dauert höchstens 30 Minuten.
+(3) In der Prüfungsvariante 1 bearbeitet der Prüfling eine Arbeitsaufgabe und dokumentiert dies mit praxisbezogenen Unterlagen. Die Arbeitsaufgabe kann aus mehreren Teilaufgaben bestehen. Während der Durchführung der Arbeitsaufgabe wird mit dem Prüfling ein situatives Fachgespräch über die Arbeitsaufgabe geführt. Das situative Fachgespräch kann aus mehreren Gesprächsphasen bestehen. Die Prüfungszeit beträgt insgesamt vier Stunden. Das situative Fachgespräch dauert höchstens 30 Minuten.
+
+(4) In der Prüfungsvariante 2 bearbeitet der Prüfling einen betrieblichen Auftrag und dokumentiert dies mit praxisbezogenen Unterlagen. Der Prüfling hat dem Prüfungsausschuss vor der Durchführung des betrieblichen Auftrags die Aufgabenstellung einschließlich des geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen. Nach der Durchführung des betrieblichen Auftrags wird mit dem Prüfling auf der Grundlage der praxisbezogenen Unterlagen ein auftragsbezogenes Fachgespräch über den betrieblichen Auftrag geführt. Der Prüfungsausschuss bewertet auf Grundlage des Fachgesprächs die prozessrelevanten Qualifikationen des Prüflings in Bezug auf die Auftragsdurchführung. Die Prüfungszeit beträgt für die Durchführung des betrieblichen Auftrags insgesamt 10 Stunden. Das auftragsbezogene Fachgespräch dauert höchstens 30 Minuten.
 
 # § 19 – Prüfungsbereich Auftrags- und Fertigungsplanung
 
@@ -415,25 +403,13 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Stahlumformung in den fo
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der Fachrichtung Stahlumformung wie folgt zu gewichten:
 
-1. |               |                 |
-|:--------------|----------------:|
-| Metalltechnik | mit 30 Prozent, |
-
-2. |                |                 |
-|:---------------|----------------:|
-| Arbeitsauftrag | mit 40 Prozent, |
-
-3. |                                 |                 |
-|:--------------------------------|----------------:|
-| Auftrags- und Fertigungsplanung | mit 10 Prozent, |
-
-4. |                     |                      |
-|:--------------------|---------------------:|
-| Stahlumformprozesse | mit 10 Prozent sowie |
-
-5. |                              |                 |
-|:-----------------------------|----------------:|
-| Wirtschafts- und Sozialkunde | mit 10 Prozent. |
+|     |                                 |                      |
+|:----|:--------------------------------|:---------------------|
+| 1\. | Metalltechnik                   | mit 30 Prozent,      |
+| 2\. | Arbeitsauftrag                  | mit 40 Prozent,      |
+| 3\. | Auftrags- und Fertigungsplanung | mit 10 Prozent,      |
+| 4\. | Stahlumformprozesse             | mit 10 Prozent sowie |
+| 5\. | Wirtschafts- und Sozialkunde    | mit 10 Prozent.      |
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
@@ -447,13 +423,15 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Stahlumformung in den fo
 
 5. in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Auftrags- und Fertigungsplanung“, „Stahlumformprozesse“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+Über das Bestehen ist ein Beschluss nach § 42 Absatz 1 Nummer 3 des Berufsbildungsgesetzes zu fassen.
+
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Auftrags- und Fertigungsplanung“, „Stahlumformprozesse“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Ergänzungsprüfung mit einer Dauer von etwa 15 Minuten zu ergänzen, wenn
 
 1. der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
 2. die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
-Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind das bisherige Ergebnis der schriftlich zu bearbeitenden Aufgaben und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 # § 23 – Inhalt von Teil 2
 
@@ -497,9 +475,11 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Nichteisenmetallurgie in
 
 8. Instandhaltungserfordernisse festzustellen und notwendige Maßnahmen einzuleiten.
 
-(2) Der Prüfling soll eine Arbeitsaufgabe durchführen und mit praxisbezogenen Unterlagen dokumentieren. Die Arbeitsaufgabe kann aus mehreren Teilaufgaben bestehen. Während der Durchführung der Arbeitsaufgabe wird mit dem Prüfling ein situatives Fachgespräch über die Arbeitsaufgabe geführt. Das situative Fachgespräch kann aus mehreren Gesprächsphasen bestehen.
+(2) Der Ausbildende wählt eine der beiden Prüfungsvarianten nach Absatz 3 oder 4 aus und unterrichtet hierüber den Prüfling. Der Prüfling teilt der zuständigen Stelle die gewählte Prüfungsvariante mit der Anmeldung zur Prüfung mit.
 
-(3) Die Prüfungszeit beträgt insgesamt vier Stunden. Das situative Fachgespräch dauert höchstens 30 Minuten.
+(3) In der Prüfungsvariante 1 bearbeitet der Prüfling eine Arbeitsaufgabe und dokumentiert dies mit praxisbezogenen Unterlagen. Die Arbeitsaufgabe kann aus mehreren Teilaufgaben bestehen. Während der Durchführung der Arbeitsaufgabe wird mit dem Prüfling ein situatives Fachgespräch über die Arbeitsaufgabe geführt. Das situative Fachgespräch kann aus mehreren Gesprächsphasen bestehen. Die Prüfungszeit beträgt insgesamt vier Stunden. Das situative Fachgespräch dauert höchstens 30 Minuten.
+
+(4) In der Prüfungsvariante 2 bearbeitet der Prüfling einen betrieblichen Auftrag und dokumentiert dies mit praxisbezogenen Unterlagen. Der Prüfling hat dem Prüfungsausschuss vor der Durchführung des betrieblichen Auftrags die Aufgabenstellung einschließlich des geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen. Nach der Durchführung des betrieblichen Auftrags wird mit dem Prüfling auf der Grundlage der praxisbezogenen Unterlagen ein auftragsbezogenes Fachgespräch über den betrieblichen Auftrag geführt. Der Prüfungsausschuss bewertet auf Grundlage des Fachgesprächs die prozessrelevanten Qualifikationen des Prüflings in Bezug auf die Auftragsdurchführung. Die Prüfungszeit beträgt für die Durchführung des betrieblichen Auftrags insgesamt 10 Stunden. Das auftragsbezogene Fachgespräch dauert höchstens 30 Minuten.
 
 # § 26 – Prüfungsbereich Auftrags- und Fertigungsplanung
 
@@ -555,31 +535,13 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Nichteisenmetallurgie in
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der Fachrichtung Nichteisenmetallurgie wie folgt zu gewichten:
 
-1. |               |                 |
-|:--------------|----------------:|
-| Metalltechnik | mit 30 Prozent, |
-
-2. |                |                 |
-|:---------------|----------------:|
-| Arbeitsauftrag | mit 40 Prozent, |
-
-3. |                                 |                 |
-|:--------------------------------|----------------:|
-| Auftrags- und Fertigungsplanung | mit 10 Prozent, |
-
-4. <table width="100%" style="border: none;">
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Nichteisenmetallurgische<br />
-Prozesse</td>
-<td style="text-align: right;" data-valign="bottom">mit 10 Prozent sowie</td>
-</tr>
-</tbody>
-</table>
-
-5. |                              |                 |
-|:-----------------------------|----------------:|
-| Wirtschafts- und Sozialkunde | mit 10 Prozent. |
+|     |                                   |                      |
+|:----|:----------------------------------|:---------------------|
+| 1\. | Metalltechnik                     | mit 30 Prozent,      |
+| 2\. | Arbeitsauftrag                    | mit 40 Prozent,      |
+| 3\. | Auftrags- und Fertigungsplanung   | mit 10 Prozent,      |
+| 4\. | Nichteisenmetallurgische Prozesse | mit 10 Prozent sowie |
+| 5\. | Wirtschafts- und Sozialkunde      | mit 10 Prozent.      |
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
@@ -593,13 +555,15 @@ Prozesse</td>
 
 5. in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Auftrags- und Fertigungsplanung“, „Nichteisenmetallurgische Prozesse“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+Über das Bestehen ist ein Beschluss nach § 42 Absatz 1 Nummer 3 des Berufsbildungsgesetzes zu fassen.
+
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Auftrags- und Fertigungsplanung“, „Nichteisenmetallurgische Prozesse“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Ergänzungsprüfung mit einer Dauer von etwa 15 Minuten zu ergänzen, wenn
 
 1. der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
 2. die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
-Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind das bisherige Ergebnis der schriftlich zu bearbeitenden Aufgaben und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 # § 30 – Inhalt von Teil 2
 
@@ -643,9 +607,11 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Nichteisenmetallumformun
 
 8. Instandhaltungserfordernisse festzustellen und notwendige Maßnahmen einzuleiten.
 
-(2) Der Prüfling soll eine Arbeitsaufgabe durchführen und mit praxisbezogenen Unterlagen dokumentieren. Die Arbeitsaufgabe kann aus mehreren Teilaufgaben bestehen. Während der Durchführung der Arbeitsaufgabe wird mit dem Prüfling ein situatives Fachgespräch über die Arbeitsaufgabe geführt. Das situative Fachgespräch kann aus mehreren Gesprächsphasen bestehen.
+(2) Der Ausbildende wählt eine der beiden Prüfungsvarianten nach Absatz 3 oder 4 aus und unterrichtet hierüber den Prüfling. Der Prüfling teilt der zuständigen Stelle die gewählte Prüfungsvariante mit der Anmeldung zur Prüfung mit.
 
-(3) Die Prüfungszeit beträgt insgesamt vier Stunden. Das situative Fachgespräch dauert höchstens 30 Minuten.
+(3) In der Prüfungsvariante 1 bearbeitet der Prüfling eine Arbeitsaufgabe und dokumentiert dies mit praxisbezogenen Unterlagen. Die Arbeitsaufgabe kann aus mehreren Teilaufgaben bestehen. Während der Durchführung der Arbeitsaufgabe wird mit dem Prüfling ein situatives Fachgespräch über die Arbeitsaufgabe geführt. Das situative Fachgespräch kann aus mehreren Gesprächsphasen bestehen. Die Prüfungszeit beträgt insgesamt vier Stunden. Das situative Fachgespräch dauert höchstens 30 Minuten.
+
+(4) In der Prüfungsvariante 2 bearbeitet der Prüfling einen betrieblichen Auftrag und dokumentiert dies mit praxisbezogenen Unterlagen. Der Prüfling hat dem Prüfungsausschuss vor der Durchführung des betrieblichen Auftrags die Aufgabenstellung einschließlich des geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen. Nach der Durchführung des betrieblichen Auftrags wird mit dem Prüfling auf der Grundlage der praxisbezogenen Unterlagen ein auftragsbezogenes Fachgespräch über den betrieblichen Auftrag geführt. Der Prüfungsausschuss bewertet auf Grundlage des Fachgesprächs die prozessrelevanten Qualifikationen des Prüflings in Bezug auf die Auftragsdurchführung. Die Prüfungszeit beträgt für die Durchführung des betrieblichen Auftrags insgesamt 10 Stunden. Das auftragsbezogene Fachgespräch dauert höchstens 30 Minuten.
 
 # § 33 – Prüfungsbereich Auftrags- und Fertigungsplanung
 
@@ -703,31 +669,13 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Nichteisenmetallumformun
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der Fachrichtung Nichteisenmetallumformung wie folgt zu gewichten:
 
-1. |               |                 |
-|:--------------|----------------:|
-| Metalltechnik | mit 30 Prozent, |
-
-2. |                |                 |
-|:---------------|----------------:|
-| Arbeitsauftrag | mit 40 Prozent, |
-
-3. |                                 |                 |
-|:--------------------------------|----------------:|
-| Auftrags- und Fertigungsplanung | mit 10 Prozent, |
-
-4. <table width="100%" style="border: none;">
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Nichteisenmetallumform-<br />
-prozesse</td>
-<td style="text-align: right;" data-valign="bottom">mit 10 Prozent sowie</td>
-</tr>
-</tbody>
-</table>
-
-5. |                              |                 |
-|:-----------------------------|----------------:|
-| Wirtschafts- und Sozialkunde | mit 10 Prozent. |
+|     |                                 |                      |
+|:----|:--------------------------------|:---------------------|
+| 1\. | Metalltechnik                   | mit 30 Prozent,      |
+| 2\. | Arbeitsauftrag                  | mit 40 Prozent,      |
+| 3\. | Auftrags- und Fertigungsplanung | mit 10 Prozent,      |
+| 4\. | Nichteisenmetallumformprozesse  | mit 10 Prozent sowie |
+| 5\. | Wirtschafts- und Sozialkunde    | mit 10 Prozent.      |
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
@@ -741,13 +689,15 @@ prozesse</td>
 
 5. in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Auftrags- und Fertigungsplanung“, „Nichteisenmetallumformprozesse“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+Über das Bestehen ist ein Beschluss nach § 42 Absatz 1 Nummer 3 des Berufsbildungsgesetzes zu fassen.
+
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Auftrags- und Fertigungsplanung“, „Nichteisenmetallumformprozesse“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Ergänzungsprüfung mit einer Dauer von etwa 15 Minuten zu ergänzen, wenn
 
 1. der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
 2. die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
-Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind das bisherige Ergebnis der schriftlich zu bearbeitenden Aufgaben und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 # § 37 – Anrechnung von Ausbildungszeiten
 
@@ -755,9 +705,15 @@ Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisheri
 
 (2) Die erfolgreich abgeschlossene Berufsausbildung zur Maschinen- und Anlagenführerin und zum Maschinen- und Anlagenführer im Schwerpunkt Metall- und Kunststofftechnik kann im Umfang von 18 Monaten auf die Dauer der Berufsausbildung nach dieser Verordnung angerechnet werden.
 
-# § 38 – Inkrafttreten, Außerkrafttreten
+# § 38 – Übergangsvorschriften
 
-Diese Verordnung tritt am 1. August 2018 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zum Verfahrensmechaniker/zur Verfahrensmechanikerin in der Hütten- und Halbzeugindustrie vom 28. Mai 1997 (BGBl. I S. 1260), die durch Artikel 2 der Verordnung vom 2. Juli 2015 (BGBl. I S. 1134) geändert worden ist, außer Kraft.
+(1) § 11 gilt für Berufsausbildungsverhältnisse in der Fachrichtung Eisen- und Stahlmetallurgie, die am 28. Juli 2026 bestehen, sofern Teil 2 der Abschlussprüfung zu diesem Zeitpunkt noch nicht begonnen wurde. Für Wiederholungsprüfungen gilt § 11 für die am 28. Juli 2026 bestehenden Berufsausbildungsverhältnisse in der Fachrichtung Eisen- und Stahlmetallurgie, sofern die Wiederholungsprüfung zu diesem Zeitpunkt noch nicht begonnen wurde.
+
+(2) § 18 gilt für Berufsausbildungsverhältnisse in der Fachrichtung Stahlumformung, die am 28. Juli 2026 bestehen, sofern Teil 2 der Abschlussprüfung zu diesem Zeitpunkt noch nicht begonnen wurde. Für Wiederholungsprüfungen gilt § 18 für die am 28. Juli 2026 bestehenden Berufsausbildungsverhältnisse in der Fachrichtung Stahlumformung, sofern die Wiederholungsprüfung zu diesem Zeitpunkt noch nicht begonnen wurde.
+
+(3) § 25 gilt für Berufsausbildungsverhältnisse in der Fachrichtung Nichteisenmetallurgie, die am 28. Juli 2026 bestehen, sofern Teil 2 der Abschlussprüfung zu diesem Zeitpunkt noch nicht begonnen wurde. Für Wiederholungsprüfungen gilt § 25 für die am 28. Juli 2026 bestehenden Berufsausbildungsverhältnisse in der Fachrichtung Nichteisenmetallurgie, sofern die Wiederholungsprüfung zu diesem Zeitpunkt noch nicht begonnen wurde.
+
+(4) § 32 gilt für Berufsausbildungsverhältnisse in der Fachrichtung Nichteisenmetallumformung, die am 28. Juli 2026 bestehen, sofern Teil 2 der Abschlussprüfung zu diesem Zeitpunkt noch nicht begonnen wurde. Für Wiederholungsprüfungen gilt § 32 für die am 28. Juli 2026 bestehenden Berufsausbildungsverhältnisse in der Fachrichtung Nichteisenmetallumformung, sofern die Wiederholungsprüfung zu diesem Zeitpunkt noch nicht begonnen wurde.
 
 # Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Verfahrenstechnologen Metall und zur Verfahrenstechnologin Metall
 

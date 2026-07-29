@@ -39,7 +39,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 5. Art des Gebäudes nach künftiger Nutzung als Wohngebäude, Wohnheim, Nichtwohngebäude nach Art; Wohnfläche und sonstige Nutzfläche; bei Wohngebäuden zusätzlich Eigentumswohnungen;
 
-6. bei Neubau zusätzlich Zahl der Vollgeschosse, Rauminhalt, konventionelle Bauart oder Fertigteilbau, überwiegend verwendeter Baustoff; Art der Beheizung und vorgesehene Heizenergie; Art der Warmwasserbereitung und hierfür vorgesehene Energie; Anlagen zur Lüftung, Anlagen zur Kühlung sowie Art der Erfüllung der Pflicht zur Nutzung erneuerbarer Energien nach dem Gebäudeenergiegesetz vom 8. August 2020 (BGBl. I S. 1728); bei Wohngebäuden auch der Haustyp;
+6. bei Neubau zusätzlich Zahl der Vollgeschosse, Rauminhalt, konventionelle Bauart oder Fertigteilbau, überwiegend verwendeter Baustoff; Art der Beheizung und vorgesehene Heizenergie; Art der Warmwasserbereitung und hierfür vorgesehene Energie; Anlagen zur Lüftung, Anlagen zur Kühlung sowie Art der Erfüllung der Pflicht zur Nutzung erneuerbarer Energien nach dem Gebäudemodernisierungsgesetz vom 8. August 2020 (BGBl. I S. 1728), das zuletzt durch Artikel 4 des Gesetzes vom 23. Juli 2026 (BGBl. 2026 I Nr. 226) geändert worden ist, in der jeweils geltenden Fassung; bei Wohngebäuden auch der Haustyp;
 
 7. bei Gebäuden mit Wohnraum zusätzlich Zahl der Wohneinheiten nach Zahl der Räume;
 

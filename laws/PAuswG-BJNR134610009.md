@@ -521,6 +521,8 @@ Anlässlich der Datenverarbeitung nach Satz 1 überprüft die verarbeitende öff
 
 (4) Beförderungsunternehmen dürfen personenbezogene Daten aus der maschinenlesbaren Zone des Personalausweises elektronisch nur auslesen und verarbeiten, soweit sie auf Grund internationaler Abkommen oder Einreisebestimmungen zur Mitwirkung an Kontrolltätigkeiten im internationalen Reiseverkehr und zur Übermittlung personenbezogener Daten verpflichtet sind. Biometrische Daten dürfen nicht ausgelesen werden. Die Daten sind unverzüglich zu löschen, wenn sie für die Erfüllung dieser Pflichten nicht mehr erforderlich sind.
 
+(4a) Abweichend von Absatz 4 dürfen Luftfahrtunternehmen sowie die in § 19e Absatz 8 des Luftverkehrsgesetzes genannten Stellen personenbezogene Daten sowohl aus der maschinenlesbaren Zone des Personalausweises als auch aus dem Chip des Personalausweises unter den Voraussetzungen des § 19e des Luftverkehrsgesetzes auslesen.
+
 (5) Zum Zwecke des Jugendschutzes und mit Einwilligung des Ausweisinhabers dürfen die in § 5 Absatz 4 Satz 2 Nummer 6 und 7 genannten Daten aus der maschinenlesbaren Zone des Personalausweises erhoben werden, um das Alter des Ausweisinhabers und die Gültigkeit des Ausweises zu überprüfen. Eine Speicherung der Daten ist unzulässig.
 
 # § 20a – Hoheitliche Berechtigungszertifikate

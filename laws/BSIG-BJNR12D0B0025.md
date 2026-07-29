@@ -87,7 +87,7 @@ den betreffenden Datenverkehr verändert oder diesen anderweitig beeinträchtigt
 
 22. „kritische Anlage“ eine Anlage im Sinne des § 2 Nummer 3 des KRITIS-Dachgesetzes;
 
-23. „kritische Komponenten“ IKT-Produkte, die in einer Rechtsverordnung aufgrund von § 56 Absatz 7 und 8 als kritische Komponenten bestimmt werden.
+23. „kritische Komponenten“ IKT-Produkte, die in einer Rechtsverordnung aufgrund von § 56 Absatz 6 als kritische Komponenten bestimmt werden;
 
 24. „kritische Dienstleistung“ eine Dienstleistung im Sinne des § 2 Nummer 4 des KRITIS-Dachgesetzes;
 
@@ -785,7 +785,7 @@ Die Verpflichtung nach Satz 1 gilt frühestens ab Einrichtung des Meldewegs.
 
 # § 33 – Registrierungspflicht
 
-(1) Besonders wichtige Einrichtungen und wichtige Einrichtungen sowie Domain-Name-Registry-Diensteanbieter sind verpflichtet, spätestens drei Monate, nachdem sie erstmals oder erneut als eine der vorgenannten Einrichtungen gelten oder Domain-Name-Registry-Dienste anbieten, dem Bundesamt über eine gemeinsam vom Bundesamt und dem Bundesamt für Bevölkerungsschutz und Katastrophenhilfe eingerichtete Registrierungsmöglichkeit folgende Angaben zu übermitteln:
+(1) Besonders wichtige Einrichtungen und wichtige Einrichtungen sowie Domain-Name-Registry-Dienstleister sind verpflichtet, spätestens drei Monate, nachdem sie erstmals oder erneut als eine der vorgenannten Einrichtungen gelten oder Domain-Name-Registry-Dienste anbieten, dem Bundesamt über eine gemeinsam vom Bundesamt und dem Bundesamt für Bevölkerungsschutz und Katastrophenhilfe eingerichtete Registrierungsmöglichkeit folgende Angaben zu übermitteln:
 
 1. Name der Einrichtung, einschließlich der Rechtsform und falls einschlägig der Handelsregisternummer,
 
@@ -797,13 +797,13 @@ Die Verpflichtung nach Satz 1 gilt frühestens ab Einrichtung des Meldewegs.
 
 5. die für die Tätigkeiten, aufgrund derer die Registrierung erfolgt, zuständigen Aufsichtsbehörden des Bundes und der Länder.
 
-(2) Die Registrierung von Betreibern kritischer Anlagen erfolgt gemäß § 8 des KRITIS-Dachgesetzes.
+(2) Die Registrierung von kritischen Anlagen erfolgt gemäß § 8 des KRITIS-Dachgesetzes.
 
 (3) Die Registrierung von besonders wichtigen Einrichtungen und wichtigen Einrichtungen und Domain-Name-Registry-Diensteanbietern kann das Bundesamt im Einvernehmen mit den jeweils zuständigen Aufsichtsbehörden auch selbst vornehmen, wenn ihre Pflicht zur Registrierung nicht erfüllt wird.
 
 (4) Rechtfertigen Tatsachen die Annahme, dass eine Einrichtung ihre Pflicht zur Registrierung nach Absatz 1 oder 2 nicht erfüllt, so hat diese Einrichtung dem Bundesamt auf Verlangen die aus Sicht des Bundesamtes für die Bewertung erforderlichen Aufzeichnungen, Schriftstücke und sonstigen Unterlagen in geeigneter Weise vorzulegen und Auskunft zu erteilen, soweit nicht Geheimschutzinteressen oder überwiegende Sicherheitsinteressen entgegenstehen.
 
-(5) Bei Änderungen der nach Absatz 1 oder 2 zu übermittelnden Angaben sind dem Bundesamt geänderte Versorgungskennzahlen sowie Änderungen der bei Betreibern kritischer Anlagen zum Einsatz kommenden Typen von kritischen Komponenten einmal jährlich zu übermitteln und alle anderen Angaben unverzüglich, spätestens jedoch zwei Wochen ab dem Zeitpunkt, zu dem die Einrichtung Kenntnis von der Änderung erhalten hat, zu übermitteln.
+(5) Wenn sich nach Absatz 1 zu übermittelnde Angaben ändern, sind diese Änderungen dem Bundesamt unverzüglich, spätestens jedoch binnen zwei Wochen ab dem Zeitpunkt, zu dem die Einrichtung Kenntnis von der Änderung erhalten hat, zu übermitteln.
 
 (6) Das Bundesamt legt die Einzelheiten zur Ausgestaltung des Registrierungsverfahrens im Einvernehmen mit dem Bundesamt für Bevölkerungsschutz und Katastrophenhilfe fest. Die Festlegung nach Satz 1 erfolgt durch eine öffentliche Mitteilung auf der Internetseite des Bundesamtes.
 
@@ -833,7 +833,7 @@ Die Verpflichtung nach Satz 1 gilt frühestens ab Einrichtung des Meldewegs.
 
 (1) Im Fall eines erheblichen Sicherheitsvorfalls kann das Bundesamt besonders wichtigen Einrichtungen und wichtigen Einrichtungen anordnen, die Empfänger ihrer Dienste unverzüglich über diesen erheblichen Sicherheitsvorfall zu unterrichten, der die Erbringung des jeweiligen Dienstes beeinträchtigen könnte. Das Bundesamt setzt die für die Einrichtung zuständige Aufsichtsbehörde des Bundes über Anweisungen nach Satz 1 in Kenntnis. Die Unterrichtung nach Satz 1 kann auch durch eine Veröffentlichung auf der Internetseite der Einrichtung erfolgen.
 
-(2) Einrichtungen nach Absatz 1 Satz 1 aus den Sektoren Finanzwesen, Leistungen der Sozialversicherung sowie Grundsicherung für Arbeitsuchende, digitale Infrastruktur, Verwaltung von IKT-Diensten und Digitale Dienste teilen den potenziell von einer erheblichen Cyberbedrohung betroffenen Empfängern ihrer Dienste und dem Bundesamt unverzüglich alle Maßnahmen oder Abhilfemaßnahmen mit, die diese Empfänger als Reaktion auf diese Bedrohung ergreifen können. Die Einrichtungen informieren zugleich diese Empfänger auch über die erhebliche Cyberbedrohung selbst. Die Pflichten nach Satz 1 oder 2 gelten nur dann, wenn in Abwägung der Interessen der Einrichtung und des Empfängers die Interessen des Empfängers überwiegen.
+(2) Besonders wichtige Einrichtungen und wichtige Einrichtungen aus den Sektoren Finanzwesen, Leistungen der Sozialversicherung sowie Grundsicherung für Arbeitsuchende, digitale Infrastruktur, Verwaltung von IKT-Diensten und Digitale Dienste teilen den potenziell von einer erheblichen Cyberbedrohung betroffenen Empfängern ihrer Dienste und dem Bundesamt unverzüglich alle Maßnahmen oder Abhilfemaßnahmen mit, die diese Empfänger als Reaktion auf diese Bedrohung ergreifen können. Die Einrichtungen informieren zugleich diese Empfänger auch über die erhebliche Cyberbedrohung selbst. Die Pflichten nach Satz 1 oder 2 gelten nur dann, wenn in Abwägung der Interessen der Einrichtung und des Empfängers die Interessen des Empfängers überwiegen.
 
 # § 36 – Rückmeldungen des Bundesamtes gegenüber meldenden Einrichtungen
 
@@ -1403,9 +1403,9 @@ In den Fällen des Satzes 1 Nummer 3 und 4 ist § 30 Absatz 2 Satz 3 des Gesetze
 
 (11) Verhängen die in Artikel 55 oder 56 der Verordnung (EU) 2016/679 genannten Aufsichtsbehörden gemäß Artikel 58 Absatz 2 Buchstabe i der Verordnung (EU) 2016/679 eine Geldbuße, so darf eine weitere Geldbuße für einen Verstoß nach diesem Gesetz, der sich aus demselben Verhalten ergibt wie jener Verstoß, der Gegenstand der Geldbuße nach Artikel 58 Absatz 2 Buchstabe i der Verordnung (EU) 2016/679 war, nicht verhängt werden.
 
-# § 66 – Anwendungsbestimmungen und Übergangsregelungen
+# § 66 – Anwendungsbestimmungen und Übergangsregelung
 
-§ 2 Nummer 22 und 24 und § 33 Absatz 2 sind erst anzuwenden, wenn eine auf der Grundlage von § 4 Absatz 3 und § 5 Absatz 1 des KRITIS-Dachgesetzes erlassene Rechtsverordnung gilt. Bis zur Geltung dieser Rechtsverordnung ist § 2 Nummer 22 und 24 in der bis einschließlich 16. März 2026 geltenden Fassung weiter anzuwenden.
+§ 2 Nummer 22 und 24 sowie § 33 Absatz 2 und 5 sind erst anzuwenden, wenn eine Rechtsverordnung auf der Grundlage des § 4 Absatz 3 und § 5 Absatz 1 des KRITIS-Dachgesetzes in Kraft getreten ist. Bis zum Inkrafttreten dieser Rechtsverordnung sind § 2 Nummer 22 und 24 sowie § 33 Absatz 2 in der bis einschließlich 16. März 2026 geltenden Fassung sowie § 33 Absatz 5 in der bis einschließlich 28. Juli 2026 geltenden Fassung weiter anzuwenden.
 
 # Anlage 1 – Sektoren besonders wichtiger und wichtiger Einrichtungen
 
@@ -1426,7 +1426,7 @@ In den Fällen des Satzes 1 Nummer 3 und 4 ist § 30 Absatz 2 Satz 3 des Gesetze
 | 1.1.8    |                        |                                              | Anbieter von Ausgleichsleistungen nach § 3 Nummer 1b EnWG                                                                                                                                                                                                                                                                                                                                                            |
 | 1.1.9    |                        |                                              | Ladepunktbetreiber nach § 2 Nummer 8 LSV                                                                                                                                                                                                                                                                                                                                                                             |
 | 1.2      |                        | Fernwärmeversorgung oder Fernkälteversorgung |                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| 1.2.1    |                        |                                              | Betreiber von Fernwärme- oder Fernkälteversorgung im Sinne von § 3 Nummer 19 oder Nummer 20 GEG                                                                                                                                                                                                                                                                                                                      |
+| 1.2.1    |                        |                                              | Betreiber von Fernwärme- oder Fernkälteversorgung im Sinne von § 3 Nummer 19 oder Nummer 20 GModG                                                                                                                                                                                                                                                                                                                    |
 | 1.3      |                        | Kraftstoff- und Heizölversorgung             |                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | 1.3.1    |                        |                                              | Betreiber von Erdöl-Fernleitungen                                                                                                                                                                                                                                                                                                                                                                                    |
 | 1.3.2    |                        |                                              | Betreiber von Anlagen zur Produktion, Raffination und Aufbereitung von Erdöl sowie Betreiber von Erdöllagern und Erdöl-Fernleitungen                                                                                                                                                                                                                                                                                 |

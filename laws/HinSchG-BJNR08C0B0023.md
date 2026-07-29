@@ -71,7 +71,9 @@ t) zur Rechnungslegung einschließlich der Buchführung von Unternehmen, die kap
 
 9. Verstöße gegen Vorschriften der Verordnung (EU) 2022/1925 des Europäischen Parlaments und des Rates vom 14. September 2022 über bestreitbare und faire Märkte im digitalen Sektor und zur Änderung der Richtlinien (EU) 2019/1937 und (EU) 2020/1828 (Gesetz über digitale Märkte) (ABl. L 265 vom 12.10.2022, S. 1),
 
-10. Äußerungen von Beamtinnen und Beamten, die einen Verstoß gegen die Pflicht zur Verfassungstreue darstellen.
+10. Verstöße gegen Vorschriften der Verordnung (EU) 2024/1689,
+
+11. Äußerungen von Beamtinnen und Beamten, die einen Verstoß gegen die Pflicht zur Verfassungstreue darstellen.
 
 (2) Dieses Gesetz gilt außerdem für die Meldung und Offenlegung von Informationen über
 

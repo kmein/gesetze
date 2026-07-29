@@ -119,7 +119,7 @@ Die Zusammensetzung des Ältestenrates und der Ausschüsse sowie die Regelung de
 
 (1) Jedes Mitglied des Bundestages folgt bei Reden, Handlungen, Abstimmungen und Wahlen seiner Überzeugung und seinem Gewissen.
 
-(2) Die Mitglieder des Bundestages sind verpflichtet, an den Arbeiten des Bundestages teilzunehmen. An jedem Sitzungstag wird eine Anwesenheitsliste ausgelegt, in die sich die Mitglieder des Bundestages einzutragen haben. Die Folgen der Nichteintragung und der Nichtbeteiligung an einer namentlichen Abstimmung ergeben sich aus dem Abgeordnetengesetz.
+(2) Die Mitglieder des Bundestages sind verpflichtet, an den Arbeiten des Bundestages teilzunehmen. Die Anwesenheit der Mitglieder des Bundestages wird an jedem Sitzungstag nach Maßgabe des Abgeordnetengesetzes erfasst. Die Folgen der Nichterfassung und der Nichtteilnahme an einer namentlichen Abstimmung ergeben sich aus dem Abgeordnetengesetz.
 
 # § 14
 
@@ -259,7 +259,7 @@ Die Redner sprechen von den dafür bestimmten Saalmikrofonen oder vom Rednerpult
 
 (1) Der sitzungsleitende Präsident kann den Redner, der vom Verhandlungsgegenstand abschweift oder eine Erklärung zur Geschäftsordnung, zur Abstimmung oder außerhalb der Tagesordnung zweckwidrig nutzt, zur Sache verweisen. Ist ein Redner während einer Rede dreimal zur Sache gerufen worden, muss ihm der sitzungsleitende Präsident das Wort entziehen und darf es ihm zum selben Verhandlungsgegenstand nicht wieder erteilen.
 
-(2) Der sitzungsleitende Präsident kann Mitglieder des Bundestages, wenn sie die Ordnung oder die Würde des Bundestages verletzen, mit Nennung des Namens zur Ordnung rufen. Der Ordnungsruf und der Anlass hierzu dürfen nachfolgend nicht behandelt werden. Ist ein Mitglied des Bundestages dreimal während einer Sitzung zur Ordnung gerufen worden, verweist es der sitzungsleitende Präsident für die Dauer der Sitzung aus dem Saal. § 38 Absatz 1 Satz 3 bis 5 sowie Absatz 3 bis 5 gilt entsprechend.
+(2) Der sitzungsleitende Präsident kann Mitglieder des Bundestages, wenn sie die Ordnung oder die Würde des Bundestages verletzen, mit Nennung des Namens zur Ordnung rufen. Der Ordnungsruf und der Anlass hierzu dürfen nachfolgend nicht behandelt werden. Ist ein Mitglied des Bundestages dreimal während einer Sitzung zur Ordnung gerufen worden, verweist es der sitzungsleitende Präsident für die Dauer der Sitzung aus dem Saal. § 38 Absatz 1 Satz 3 bis 4 sowie Absatz 3 bis 5 gilt entsprechend.
 
 (3) Ein Ordnungsruf kann im Einzelfall auch nachträglich bis zum Ende des auf die Verletzung der Ordnung oder der Würde des Bundestages folgenden dritten Sitzungstages erlassen werden.
 
@@ -277,7 +277,7 @@ Die Redner sprechen von den dafür bestimmten Saalmikrofonen oder vom Rednerpult
 
 (2) § 36 Absatz 3 gilt entsprechend.
 
-(3) Das betroffene Mitglied hat den Sitzungssaal unverzüglich zu verlassen. Kommt es der Aufforderung nicht nach, wird es vom sitzungsleitenden Präsidenten darauf hingewiesen, dass es sich durch sein Verhalten eine Verlängerung des Ausschlusses zuzieht. Kommt das betroffene Mitglied auch dann nicht der Aufforderung nach, unterbricht der sitzungsleitende Präsident die Sitzung und lässt den Ausschluss durchsetzen. Nach Wiedereröffnung der Sitzung hat der sitzungsleitende Präsident über die Dauer der Verlängerung des Ausschlusses zu befinden. Eine Begrenzung des Ausschlusses nach Absatz 1 Satz 5 ist in diesem Fall nicht möglich.
+(3) Das betroffene Mitglied hat den Sitzungssaal unverzüglich zu verlassen. Kommt es der Aufforderung nicht nach, wird es vom sitzungsleitenden Präsidenten darauf hingewiesen, dass es sich durch sein Verhalten eine Verlängerung des Ausschlusses zuzieht. Kommt das betroffene Mitglied auch dann nicht der Aufforderung nach, unterbricht der sitzungsleitende Präsident die Sitzung und lässt den Ausschluss durchsetzen. Nach Wiedereröffnung der Sitzung hat der sitzungsleitende Präsident über die Dauer der Verlängerung des Ausschlusses zu befinden. Eine Begrenzung des Ausschlusses nach Absatz 1 Satz 4 ist in diesem Fall nicht möglich.
 
 (4) Versucht das betroffene Mitglied, widerrechtlich an den Sitzungen des Bundestages oder seiner Ausschüsse teilzunehmen, findet Absatz 3 entsprechend Anwendung.
 

@@ -371,7 +371,7 @@ Bei Ehegatten, die in ehelicher Lebensgemeinschaft leben, genügt es, wenn die V
 
 (7) Gegen einen Ausländer,
 
-1. dessen Asylantrag nach § 29a Absatz 1 oder § 29b Absatz 3 des Asylgesetzes als offensichtlich unbegründet abgelehnt wurde, dem kein subsidiärer Schutz zuerkannt wurde, das Vorliegen der Voraussetzungen für ein Abschiebungsverbot nach § 60 Absatz 5 oder 7 nicht festgestellt wurde und der keinen Aufenthaltstitel besitzt oder
+1. dessen Asylantrag nach § 29a Absatz 1 des Asylgesetzes oder nach § 30 des Asylgesetzes in Verbindung mit Artikel 42 Absatz 1 Unterabsatz 1 Buchstabe e oder Artikel 42 Absatz 3 Unterabsatz 1 Buchstabe a der Verordnung (EU) 2024/1348 als offensichtlich unbegründet abgelehnt wurde, dem kein subsidiärer Schutz zuerkannt wurde, das Vorliegen der Voraussetzungen für ein Abschiebungsverbot nach § 60 Absatz 5 oder 7 nicht festgestellt wurde und der keinen Aufenthaltstitel besitzt oder
 
 2. dessen Antrag nach § 71 des Asylgesetzes wiederholt nicht zur Durchführung eines weiteren Asylverfahrens geführt hat,
 
@@ -2307,7 +2307,9 @@ auf Verlangen den mit dem Vollzug des Ausländerrechts betrauten Behörden vorzu
 
 7. wenn der Ausländer ausgereist und nicht innerhalb von sechs Monaten oder einer von der Ausländerbehörde bestimmten längeren Frist wieder eingereist ist,
 
-8. wenn ein Ausländer nach Erteilung eines Aufenthaltstitels gemäß der §§ 22, 23 oder § 25 Abs. 3 bis 5 einen Asylantrag stellt;
+8. wenn ein Ausländer nach Erteilung eines Aufenthaltstitels gemäß der §§ 22, 23 oder § 25 Absatz 3 bis 5 einen Asylantrag stellt,
+
+9. bei einer Rücknahme der Zustimmung zur Anerkennung der Vaterschaft nach § 85d Absatz 2 Satz 1 in Verbindung mit § 1598 Absatz 1 Satz 2 des Bürgerlichen Gesetzbuchs durch die Ausländerbehörde, sofern sich der Aufenthaltstitel aus der deutschen Staatsangehörigkeit des Kindes oder dem Aufenthaltstitel des Kindes ableitet;
 
 ein für mehrere Einreisen oder mit einer Geltungsdauer von mehr als 90 Tagen erteiltes Visum erlischt nicht nach den Nummern 6 und 7.
 
@@ -2819,7 +2821,7 @@ Die Ausländerbehörde oder eine durch sie beauftragte Stelle unterrichtet den A
 
 (1) Die oberste Landesbehörde kann aus völkerrechtlichen oder humanitären Gründen oder zur Wahrung politischer Interessen der Bundesrepublik Deutschland anordnen, dass die Abschiebung von Ausländern aus bestimmten Staaten oder von in sonstiger Weise bestimmten Ausländergruppen allgemein oder in bestimmte Staaten für längstens drei Monate ausgesetzt wird. Für einen Zeitraum von länger als sechs Monaten gilt § 23 Abs. 1.
 
-(2) Die Abschiebung eines Ausländers ist auszusetzen, solange die Abschiebung aus tatsächlichen oder rechtlichen Gründen unmöglich ist und keine Aufenthaltserlaubnis erteilt wird. Die Abschiebung eines Ausländers ist auch auszusetzen, wenn seine vorübergehende Anwesenheit im Bundesgebiet für ein Strafverfahren wegen eines Verbrechens von der Staatsanwaltschaft oder dem Strafgericht für sachgerecht erachtet wird, weil ohne seine Angaben die Erforschung des Sachverhalts erschwert wäre. Einem Ausländer kann eine Duldung erteilt werden, wenn dringende humanitäre oder persönliche Gründe oder erhebliche öffentliche Interessen seine vorübergehende weitere Anwesenheit im Bundesgebiet erfordern. Soweit die Beurkundung der Anerkennung einer Vaterschaft oder der Zustimmung der Mutter für die Durchführung eines Verfahrens nach § 85a ausgesetzt wird, wird die Abschiebung des ausländischen Anerkennenden, der ausländischen Mutter oder des ausländischen Kindes ausgesetzt, solange das Verfahren nach § 85a nicht durch vollziehbare Entscheidung abgeschlossen ist.
+(2) Die Abschiebung eines Ausländers ist auszusetzen, solange die Abschiebung aus tatsächlichen oder rechtlichen Gründen unmöglich ist und keine Aufenthaltserlaubnis erteilt wird. Die Abschiebung eines Ausländers ist auch auszusetzen, wenn seine vorübergehende Anwesenheit im Bundesgebiet für ein Strafverfahren wegen eines Verbrechens von der Staatsanwaltschaft oder dem Strafgericht für sachgerecht erachtet wird, weil ohne seine Angaben die Erforschung des Sachverhalts erschwert wäre. Einem Ausländer kann eine Duldung erteilt werden, wenn dringende humanitäre oder persönliche Gründe oder erhebliche öffentliche Interessen seine vorübergehende weitere Anwesenheit im Bundesgebiet erfordern. Sofern nach § 85a die Zustimmung der Ausländerbehörde zu einer Anerkennung der Vaterschaft erforderlich ist, wird die Abschiebung des ausländischen Anerkennenden, der ausländischen Mutter oder des ausländischen Kindes ab dem Zeitpunkt der Antragstellung nach § 85c Absatz 1 Satz 1 ausgesetzt, so lange, bis das Verfahren nach den §§ 85a bis 85c durch Entscheidung der Ausländerbehörde abgeschlossen ist.
 
 (2a) Die Abschiebung eines Ausländers wird für eine Woche ausgesetzt, wenn seine Zurückschiebung oder Abschiebung gescheitert ist, Abschiebungshaft nicht angeordnet wird und die Bundesrepublik Deutschland auf Grund einer Rechtsvorschrift, insbesondere des Artikels 6 Abs. 1 der Richtlinie 2003/110/EG des Rates vom 25. November 2003 über die Unterstützung bei der Durchbeförderung im Rahmen von Rückführungsmaßnahmen auf dem Luftweg (ABl. EU Nr. L 321 S. 26), zu seiner Rückübernahme verpflichtet ist. Die Aussetzung darf nicht nach Satz 1 verlängert werden. Die Einreise des Ausländers ist zuzulassen.
 
@@ -2855,7 +2857,7 @@ Die Ausländerbehörde oder eine durch sie beauftragte Stelle unterrichtet den A
 
 2. aufenthaltsbeendende Maßnahmen bei ihm aus Gründen, die er selbst zu vertreten hat, nicht vollzogen werden können oder
 
-3. er Staatsangehöriger eines sicheren Herkunftsstaates nach den §§ 29a und 29b oder § 29b des Asylgesetzes ist und sein nach dem 31. August 2015 gestellter Asylantrag abgelehnt oder zurückgenommen wurde, es sei denn, die Rücknahme erfolgte auf Grund einer Beratung nach einer unentgeltlichen Rechtsauskunft gemäß § 12b des Asylgesetzes beim Bundesamt für Migration und Flüchtlinge, oder ein Asylantrag nicht gestellt wurde.
+3. er Staatsangehöriger eines sicheren Herkunftsstaates nach den §§ 29a oder 29b des Asylgesetzes oder nach Artikel 62 Absatz 1 bis 1b der Verordnung (EU) 2024/1348 ist und sein nach dem 31. August 2015 gestellter Asylantrag abgelehnt oder zurückgenommen wurde, es sei denn, die Rücknahme erfolgte auf Grund einer unentgeltlichen Rechtsauskunft gemäß § 12b des Asylgesetzes beim Bundesamt für Migration und Flüchtlinge, oder ein Asylantrag nicht gestellt wurde.
 
 Zu vertreten hat ein Ausländer die Gründe nach Satz 1 Nummer 2 insbesondere, wenn er das Abschiebungshindernis durch eigene Täuschung über seine Identität oder Staatsangehörigkeit oder durch eigene falsche Angaben selbst herbeiführt. Satz 1 Nummer 3 gilt bei unbegleiteten minderjährigen Ausländern nicht für die Rücknahme des Asylantrags oder den Verzicht auf die Antragstellung, wenn die Rücknahme oder der Verzicht auf das Stellen eines Asylantrags im Interesse des Kindeswohls erfolgte. Abweichend von den Sätzen 1 bis 3 ist einem Ausländer, der als Asylberechtigter anerkannt ist, der im Bundesgebiet die Rechtsstellung eines ausländischen Flüchtlings oder eines subsidiär Schutzberechtigten genießt, die Erwerbstätigkeit erlaubt.
 
@@ -3937,7 +3939,7 @@ Das Lichtbild und die Fingerabdrücke dürfen in Dokumente nach Satz 1 eingebrac
 
 7. die Anordnung und Befristung eines Einreise- und Aufenthaltsverbots nach § 11 sowie
 
-8. die Feststellung nach § 85a Absatz 1 Satz 2
+8. die Rücknahme einer Zustimmung oder Festellung nach § 85d Absatz 2 bis 5
 
 haben keine aufschiebende Wirkung.
 
@@ -3947,25 +3949,103 @@ haben keine aufschiebende Wirkung.
 
 Unterbrechungen der Rechtmäßigkeit des Aufenthalts bis zu einem Jahr können außer Betracht bleiben.
 
-# § 85a – Verfahren bei konkreten Anhaltspunkten einer missbräuchlichen Anerkennung der Vaterschaft
+# § 85a – Zustimmung der Ausländerbehörde zu einer Anerkennung der Vaterschaft; Anwendungsbereich
 
-(1) Wird der Ausländerbehörde von einer beurkundenden Behörde oder einer Urkundsperson mitgeteilt, dass konkrete Anhaltspunkte für eine missbräuchliche Anerkennung der Vaterschaft im Sinne von § 1597a Absatz 1 des Bürgerlichen Gesetzbuchs bestehen, prüft die Ausländerbehörde, ob eine solche vorliegt. Ergibt die Prüfung, dass die Anerkennung der Vaterschaft missbräuchlich ist, stellt die Ausländerbehörde dies durch schriftlichen oder elektronischen Verwaltungsakt fest. Ergibt die Prüfung, dass die Anerkennung der Vaterschaft nicht missbräuchlich ist, stellt die Ausländerbehörde das Verfahren ein.
+(1) Die Zustimmung der Ausländerbehörde zu einer Anerkennung der Vaterschaft ist erforderlich, wenn die Mutter oder der Anerkennende die deutsche Staatsangehörigkeit, ein unbefristetes Aufenthaltsrecht oder als Staatsangehöriger der Schweiz oder dessen Familienangehöriger eine Aufenthaltserlaubnis auf Grund des Abkommens vom 21. Juni 1999 zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit (BGBl. 2001 II S. 810, 811) besitzt und die jeweils andere Person
 
-(2) Eine missbräuchliche Anerkennung der Vaterschaft wird regelmäßig vermutet, wenn
+1. eine Aufenthaltsgestattung besitzt,
 
-1. der Anerkennende erklärt, dass seine Anerkennung gezielt gerade einem Zweck im Sinne von § 1597a Absatz 1 des Bürgerlichen Gesetzbuchs dient,
+2. ausreisepflichtig ist, es sei denn, sie besitzt eine Beschäftigungsduldung nach § 60d,
 
-2. die Mutter erklärt, dass ihre Zustimmung gezielt gerade einem Zweck im Sinne von § 1597a Absatz 1 des Bürgerlichen Gesetzbuchs dient,
+3. mit einem Schengen-Visum in das Bundesgebiet eingereist ist und sich auf dieser Grundlage im Bundesgebiet aufhält oder
 
-3. der Anerkennende bereits mehrfach die Vaterschaft von Kindern verschiedener ausländischer Mütter anerkannt hat und jeweils die rechtlichen Voraussetzungen für die erlaubte Einreise oder den erlaubten Aufenthalt des Kindes oder der Mutter durch die Anerkennung geschaffen hat, auch wenn das Kind durch die Anerkennung die deutsche Staatsangehörigkeit erworben hat,
+4. noch nicht in das Bundesgebiet eingereist ist und
 
-4. dem Anerkennenden oder der Mutter ein Vermögensvorteil für die Anerkennung der Vaterschaft oder die Zustimmung hierzu gewährt oder versprochen worden ist
+a) keinen Aufenthaltstitel oder lediglich ein Schengen-Visum besitzt und
 
-und die Erlangung der rechtlichen Voraussetzungen für die erlaubte Einreise oder den erlaubten Aufenthalt des Kindes, des Anerkennenden oder der Mutter ohne die Anerkennung der Vaterschaft und die Zustimmung hierzu nicht zu erwarten ist. Dies gilt auch, wenn die rechtlichen Voraussetzungen für die erlaubte Einreise oder den erlaubten Aufenthalt des Kindes durch den Erwerb der deutschen Staatsangehörigkeit des Kindes nach § 4 Absatz 1 oder Absatz 3 Satz 1 des Staatsangehörigkeitsgesetzes geschaffen werden sollen.
+b) weder nach Anhang II der Verordnung (EU) 2018/1806 noch nach § 41 Absatz 1 und 2 der Aufenthaltsverordnung zur Einreise und zum Aufenthalt berechtigt ist.
 
-(3) Ist die Feststellung nach Absatz 1 Satz 2 unanfechtbar, gibt die Ausländerbehörde der beurkundenden Behörde oder der Urkundsperson und dem Standesamt eine beglaubigte Abschrift mit einem Vermerk über den Eintritt der Unanfechtbarkeit zur Kenntnis. Stellt die Behörde das Verfahren ein, teilt sie dies der beurkundenden Behörde oder der Urkundsperson, den Beteiligten und dem Standesamt schriftlich oder elektronisch mit.
+§ 1598 Absatz 1 Satz 2 und Absatz 2 des Bürgerlichen Gesetzbuchs und Satz 1 gelten auch, wenn die Anerkennung der Vaterschaft einem ausländischen Abstammungsrecht unterliegt.
 
-(4) Im Ausland sind für die Maßnahmen und Feststellungen nach den Absätzen 1 und 3 die deutschen Auslandsvertretungen zuständig.
+(2) Die Zustimmung zu einer Anerkennung der Vaterschaft ist nicht erforderlich, wenn
+
+1. der Anerkennende der leibliche Vater des Kindes ist,
+
+2. der Anerkennende der
+
+a) leibliche Vater eines anderen Kindes der Mutter ist oder
+
+b) in ein deutsches Geburtenregister eingetragene rechtliche Vater eines anderen Kindes der Mutter ist,
+
+3. der Anerkennende und die Mutter einander nach der Geburt eines Kindes geheiratet haben und die Ehe im Zeitpunkt der öffentlichen Beurkundung der Anerkennungserklärung in einem deutschen Eheregister eingetragen ist oder
+
+4. der Anerkennende und die Mutter im Zeitpunkt der öffentlichen Beurkundung der Anerkennungserklärung seit mindestens 14 Monaten mit gemeinsamem Hauptwohnsitz in einem deutschen Melderegister geführt werden und sie unter diesem Hauptwohnsitz seit mindestens 14 Monaten in einem gemeinsamen Haushalt in einer Wohnung zusammenleben; die Frist beginnt mit der Eintragung in das Melderegister.
+
+(3) Beantragen der Anerkennende und die Mutter die Zustimmung, obwohl sie geltend machen, dass die Voraussetzungen des Absatzes 2 Nummer 1 oder Nummer 2a vorliegen, stellt die Ausländerbehörde ohne weitere Prüfung nach § 85b fest, dass die Zustimmung der Ausländerbehörde nicht erforderlich ist, wenn sie auf der Grundlage einer genetischen Untersuchung zur Klärung der Abstammung nach § 17 des Gendiagnostikgesetzes in den Fällen des Absatzes 2 Nummer 1 die leibliche Abstammung des Kindes vom Anerkennenden oder in den Fällen des Absatzes 2 Nummer 2a die leibliche Abstammung des anderen Kindes der Mutter vom Anerkennenden festgestellt hat.
+
+# § 85b – Missbräuchliche Anerkennung der Vaterschaft; Vermutungstatbestände
+
+(1) Die Ausländerbehörde versagt die Zustimmung, wenn es sich um eine missbräuchliche Anerkennung der Vaterschaft handelt. Eine solche liegt vor, wenn die Vaterschaft gezielt gerade zu dem Zweck anerkannt wird oder die Zustimmung der Mutter gezielt gerade zu dem Zweck erteilt wird, die rechtlichen Voraussetzungen zu schaffen für
+
+1. die erlaubte Einreise oder den erlaubten Aufenthalt des Kindes, des Anerkennenden oder der Mutter oder
+
+2. die erlaubte Einreise oder den erlaubten Aufenthalt des Kindes durch den Erwerb der deutschen Staatsangehörigkeit des Kindes nach § 4 Absatz 1 oder Absatz 3 Satz 1 des Staatsangehörigkeitsgesetzes.
+
+(2) Eine missbräuchliche Anerkennung der Vaterschaft wird vermutet, wenn
+
+1. der Anerkennende und die Mutter sich miteinander nicht sprachlich verständigen können,
+
+2. der Anerkennende und die Mutter sich zur Ermöglichung der Anerkennung der Vaterschaft kennengelernt haben,
+
+3. der Anerkennende binnen vier Jahren vor Antragstellung bereits mehrfach die Vaterschaft von Kindern verschiedener drittstaatsangehöriger Mütter anerkannt hat oder wenn die Mutter binnen vier Jahren vor Antragstellung bereits mehrfach die Zustimmung zur Anerkennung der Vaterschaft für unterschiedliche Kinder durch verschiedene drittstaatsangehörige Männer erteilt hat,
+
+4. dem Anerkennenden oder der Mutter ein Vermögensvorteil für die Anerkennung der Vaterschaft oder für die Zustimmung zur Anerkennung der Vaterschaft gewährt oder versprochen worden ist oder
+
+5. seit Antragstellung fünf Monate verstrichen sind, eine Belehrung nach § 85c Absatz 6 erfolgt ist und ein oder beide Antragsteller nach § 85c Absatz 1 wiederholt und unentschuldigt
+
+a) einer Anordnung zum persönlichen Erscheinen bei der zuständigen Behörde nach § 85c Absatz 5 in Verbindung mit § 82 Absatz 4 Satz 1 nicht nachgekommen sind,
+
+b) sich in einer persönlichen Anhörung nicht oder in wesentlichen Teilen nicht zu ihrer Person, zu den Umständen und den Gründen für die Anerkennung der Vaterschaft geäußert haben oder
+
+c) im Rahmen einer Anhörung keine oder auf wesentliche Fragen falsche oder nur unvollständige Angaben gemacht oder angeforderte erforderliche Nachweise unentschuldigt nicht vorgelegt haben.
+
+(3) Die Ausländerbehörde erteilt die Zustimmung, wenn eine missbräuchliche Anerkennung der Vaterschaft nicht festgestellt werden kann. Es wird vermutet, dass die Anerkennung der Vaterschaft nicht missbräuchlich ist, wenn die Antragsteller belegen können, dass
+
+1. sie zum Zeitpunkt des Antrags auf Zustimmung seit mindestens acht Monaten in einem gemeinsamen Haushalt wohnen,
+
+2. der Anerkennende zum Zeitpunkt des Antrags auf Zustimmung substantielle regelmäßige Beiträge zum Lebensunterhalt der Mutter oder des Kindes über einen Zeitraum von mindestens sechs Monaten geleistet hat und auf Grund seiner Einkommens- und Vermögensverhältnisse und einer vollstreckungsfähigen Verpflichtung auch für die Zukunft die Leistung von substantiellen regelmäßigen Beiträgen zum Lebensunterhalt der Mutter oder des Kindes zu erwarten ist,
+
+3. der Anerkennende zum Zeitpunkt des Antrags auf Zustimmung über mindestens sechs Monate regelmäßig Umgang mit dem Kind oder der werdenden Mutter hatte und nach den Umständen des Einzelfalls zu erwarten ist, dass der Umgang auch in Zukunft beabsichtigt ist,
+
+4. der Anerkennende und die Mutter einander nach der Geburt des Kindes geheiratet haben oder
+
+5. die Zustimmung einer Ausländerbehörde zu einer Anerkennung der Vaterschaft für ein anderes gemeinsames Kind mit derselben Mutter erteilt wurde, es sei denn hierzu ist ein Verfahren nach § 85d Absatz 2 Satz 1 anhängig.
+
+# § 85c – Verfahren zur Prüfung der Zustimmung
+
+(1) Die Ausländerbehörde entscheidet über die Erteilung der Zustimmung zur Anerkennung einer Vaterschaft durch schriftlichen oder elektronischen Verwaltungsakt auf Antrag des Anerkennenden und der Mutter. Verstirbt der Anerkennende, die Mutter oder das Kind vor einer Entscheidung der Ausländerbehörde, so wird das Verfahren nicht unterbrochen und ist fortzusetzen.
+
+(2) Verstirbt der Anerkennende oder die Mutter, bevor der Antrag auf Zustimmung zur Anerkennung der Vaterschaft gestellt worden ist, kann der Antrag auf Zustimmung abweichend von Absatz 1 Satz 1 auch nur von dem Anerkennenden oder der Mutter gestellt werden. Versterben der Anerkennende und die Mutter, kann der Antrag auf Zustimmung abweichend von Absatz 1 Satz 1 auch von dem Kind gestellt werden.
+
+(3) Die Zustimmung zur Anerkennung einer Vaterschaft gilt als erteilt, wenn die Ausländerbehörde nicht binnen vier Monaten nach Eingang des Antrags entschieden hat. Der Ablauf der Frist nach Satz 1 wird gehemmt, wenn die Antragsteller einen Antrag auf Ruhen des Verfahrens stellen und die Ausländerbehörde diesem zustimmt. Der Ablauf der Frist nach Satz 1 wird auch gehemmt, wenn eine den Beteiligten zur Mitteilung von Tatsachen und Vornahme von Handlungen oder Beibringung von Nachweisen nach Absatz 5 Satz 1 in Verbindung mit § 85b Absatz 2 gesetzte Frist fruchtlos abläuft oder ein Beteiligter zu einer Anhörung, zu der er geladen wurde, nicht erscheint. Die Hemmung nach den Sätzen 2 und 3 endet, sobald das Verfahren wieder aufgenommen wird oder die unterlassene Handlung durch den oder die Beteiligten vorgenommen wurde.
+
+(4) Vorbehaltlich abweichender Bestimmungen durch Landesrecht entscheidet die Ausländerbehörde über den Antrag, die für die jeweils andere Person im Sinne des § 85a Absatz 1 Satz 1 örtlich zuständig ist. Hat die jeweils andere Person ihren gewöhnlichen Aufenthalt im Ausland, so entscheidet vorbehaltlich abweichender Bestimmungen durch Landesrecht die Ausländerbehörde über den Antrag, in deren Zuständigkeitsbezirk der im Inland lebende Beteiligte seinen gewöhnlichen Aufenthalt hat. Hat keiner der Beteiligten zum Zeitpunkt des Antrags auf Zustimmung seinen gewöhnlichen Aufenthalt im Inland, ist die deutsche Auslandsvertretung für die Entscheidung über den Antrag örtlich zuständig, die für die jeweils andere Person im Sinne des § 85a Absatz 1 Satz 1 örtlich zuständig ist.
+
+(5) Die Antragsteller sind verpflichtet, diejenigen Tatsachen mitzuteilen und Handlungen vorzunehmen, die für die Entscheidung der Ausländerbehörde über den Antrag auf Zustimmung wesentlich sind, sowie hierfür erforderliche Nachweise, die sie erbringen können, vorzulegen; dies gilt insbesondere für Tatsachen und Nachweise im Sinne des § 85b Absatz 2 und 3 Satz 2. Im Übrigen gilt § 82 entsprechend. Die Sätze 1 und 2 gelten entsprechend, wenn der Anerkennende oder die Mutter die deutsche Staatsangehörigkeit oder ein unbefristetes Aufenthaltsrecht besitzen.
+
+(6) Die Antragsteller sind auf ihre Pflichten nach Absatz 5 und auf mögliche Folgen einer Nichterfüllung, insbesondere auf die Vermutungsregelung in § 85b Absatz 2 Nummer 5, hinzuweisen.
+
+# § 85d – Anzeige einer fehlenden Zustimmung gegenüber dem Standesamt; Rücknahme der Zustimmung oder der Feststellung, dass eine solche nicht erforderlich ist
+
+(1) Erlangt die Ausländerbehörde davon Kenntnis, dass ohne die erforderliche Zustimmung der Ausländerbehörde eine Eintragung der Vaterschaft in ein deutsches Personenstandsregister erfolgt ist, zeigt sie dies dem für die Geburt des Kindes zuständigen Standesamt an.
+
+(2) Die Ausländerbehörde kann die Zustimmung nur zurücknehmen, wenn sie durch arglistige Täuschung, durch Drohung oder Bestechung oder durch vorsätzlich unrichtige oder unvollständige Angaben, die wesentlich für ihre Erteilung gewesen sind, erwirkt worden ist. Nimmt die Ausländerbehörde die Zustimmung zurück, zeigt sie dies dem für die Geburt des Kindes zuständigen Standesamt an.
+
+(3) Die Rücknahme der Zustimmung ist höchstens fünf Jahre nach Eintragung der Vaterschaft in ein deutsches Personenstandsregister zulässig. Bei Kindern, die bei Eintragung in das deutsche Personenstandsregister das fünfte Lebensjahr vollendet und die deutsche Staatsangehörigkeit vom anerkennenden Vater nach § 4 Absatz 1 oder Absatz 3 des Staatsangehörigkeitsgesetzes erworben haben, ist eine Rücknahme höchstens zwei Jahre nach Eintragung in das deutsche Personenstandsregister zulässig. Hat das Kind während der Frist nach Satz 1 das fünfte Lebensjahr vollendet und die deutsche Staatsangehörigkeit vom anerkennenden Vater nach § 4 Absatz 1 oder Absatz 3 des Staatsangehörigkeitsgesetzes erworben, ist eine Rücknahme höchstens innerhalb von zwei Jahren seit Vollendung des fünften Lebensjahres und nur innerhalb von fünf Jahren nach Eintragung in das deutsche Personenstandsregister zulässig. Ist die Geburt des Kindes nicht im Inland beurkundet, tritt in den Sätzen 1 bis 3 an die Stelle der Eintragung der Vaterschaft in ein deutsches Personenstandregister die Zustimmung der Ausländerbehörde zur Anerkennung der Vaterschaft. § 17 Absatz 2 Satz 3 Nummer 2 bis 4 des Staatsangehörigkeitsgesetzes gilt entsprechend.
+
+(4) Die Rücknahme der Zustimmung erfolgt mit Wirkung für die Vergangenheit.
+
+(5) Die Absätze 2 bis 4 gelten für Feststellungen der Ausländerbehörde nach § 85a Absatz 3 entsprechend.
 
 # § 86 – Erhebung personenbezogener Daten
 
@@ -3999,6 +4079,10 @@ Angaben zum Umfang und zur Begründung der Förderung müssen ebenfalls erhoben 
 
 (2) Die Ausländerbehörden und die mit grenzpolizeilichen Aufgaben betrauten Behörden erheben zur Feststellung der Wirksamkeit der Förderung der Ausreisen Angaben zum Nachweis der Ausreise, zum Staat der Ausreise und zum Zielstaat der Ausreise.
 
+# § 86b – Auslesen von Daten aus Pässen und Schweizer Personalausweisen durch Luftfahrtunternehmen
+
+Luftfahrtunternehmen sowie die in § 19e Absatz 8 des Luftverkehrsgesetzes genannten Stellen dürfen zum Zweck der digitalen Fluggastabfertigung die in § 19e Absatz 3 und 4 des Luftverkehrsgesetzes aufgeführten personenbezogenen Daten sowohl aus der maschinenlesbaren Zone als auch aus dem Chip eines Personalausweises, den die Schweiz ihren Staatsangehörigen ausgestellt hat, oder eines Passes oder eines Passersatzes unter den Voraussetzungen des § 19e des Luftverkehrsgesetzes auslesen. § 19e Absatz 3 Satz 3 und Absatz 5 des Luftverkehrsgesetzes gilt entsprechend.
+
 # § 87 – Übermittlungen an Ausländerbehörden
 
 (1) Öffentliche Stellen mit Ausnahme von Schulen sowie Bildungs- und Erziehungseinrichtungen haben ihnen bekannt gewordene Umstände den in § 86 Satz 1 genannten Stellen auf Ersuchen mitzuteilen, soweit dies für die dort genannten Zwecke erforderlich ist. Ein solches Ersuchen ist nur zulässig, sofern nicht ein Abruf von Daten aus dem Ausländerzentralregister für die Erfüllung der jeweiligen Aufgabe ausreichend ist.
@@ -4017,7 +4101,7 @@ Angaben zum Umfang und zur Begründung der Förderung müssen ebenfalls erhoben 
 
 in den Fällen der Nummern 1 und 2 und sonstiger nach diesem Gesetz strafbarer Handlungen kann statt der Ausländerbehörde die zuständige Polizeibehörde unterrichtet werden, wenn eine der in § 71 Abs. 5 bezeichneten Maßnahmen in Betracht kommt; die Polizeibehörde unterrichtet unverzüglich die Ausländerbehörde. Öffentliche Stellen sollen unverzüglich die zuständige Ausländerbehörde unterrichten, wenn sie im Zusammenhang mit der Erfüllung ihrer Aufgaben Kenntnis erlangen von einer besonderen Integrationsbedürftigkeit im Sinne einer nach § 43 Abs. 4 erlassenen Rechtsverordnung. Die für Leistungen nach dem Zweiten oder Zwölften Buch Sozialgesetzbuch zuständigen Stellen sind über die in Satz 1 geregelten Tatbestände hinaus verpflichtet, der Ausländerbehörde mitzuteilen, wenn ein Ausländer mit einer Aufenthaltserlaubnis nach Kapitel 2 Abschnitt 3 oder 4 für sich oder seine Familienangehörigen entsprechende Leistungen beantragt. Die Auslandsvertretungen übermitteln der zuständigen Ausländerbehörde personenbezogene Daten eines Ausländers, die geeignet sind, dessen Identität oder Staatsangehörigkeit festzustellen, wenn sie davon Kenntnis erlangen, dass die Daten für die Durchsetzung der vollziehbaren Ausreisepflicht gegenüber dem Ausländer gegenwärtig von Bedeutung sein können.
 
-(3) Die Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration ist nach den Absätzen 1 und 2 zu Mitteilungen über einen diesem Personenkreis angehörenden Ausländer nur verpflichtet, soweit dadurch die Erfüllung der eigenen Aufgaben nicht gefährdet wird. Die Landesregierungen können durch Rechtsverordnung bestimmen, dass Ausländerbeauftragte des Landes und Ausländerbeauftragte von Gemeinden nach den Absätzen 1 und 2 zu Mitteilungen über einen Ausländer, der sich rechtmäßig in dem Land oder der Gemeinde aufhält oder der sich bis zum Erlass eines die Rechtmäßigkeit des Aufenthalts beendenden Verwaltungsaktes rechtmäßig dort aufgehalten hat, nur nach Maßgabe des Satzes 1 verpflichtet sind.
+(3) Die Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration ist nach den Absätzen 1, 2 und 7 zu Mitteilungen über einen diesem Personenkreis angehörenden Ausländer nur verpflichtet, soweit dadurch die Erfüllung der eigenen Aufgaben nicht gefährdet wird. Die Landesregierungen können durch Rechtsverordnung bestimmen, dass Ausländerbeauftragte des Landes und Ausländerbeauftragte von Gemeinden nach den Absätzen 1 und 2 zu Mitteilungen über einen Ausländer, der sich rechtmäßig in dem Land oder der Gemeinde aufhält oder der sich bis zum Erlass eines die Rechtmäßigkeit des Aufenthalts beendenden Verwaltungsaktes rechtmäßig dort aufgehalten hat, nur nach Maßgabe des Satzes 1 verpflichtet sind.
 
 (4) Die für die Einleitung und Durchführung eines Straf- oder eines Bußgeldverfahrens zuständigen Stellen haben die zuständige Ausländerbehörde unverzüglich über die Einleitung des Strafverfahrens sowie die Erledigung des Straf- oder Bußgeldverfahrens bei der Staatsanwaltschaft, bei Gericht oder bei der für die Verfolgung und Ahndung der Ordnungswidrigkeit zuständigen Verwaltungsbehörde unter Angabe der gesetzlichen Vorschriften zu unterrichten. Satz 1 gilt entsprechend bei Strafverfahren für die Erhebung der öffentlichen Klage, sowie den Erlass und die Aufhebung eines Haftbefehls sowie für dessen Invollzugsetzung und die Aussetzung des Vollzuges, solange dies nicht den Untersuchungszweck gefährdet. Satz 1 gilt entsprechend für die Einleitung eines Auslieferungsverfahrens gegen einen Ausländer. Satz 1 gilt nicht für Verfahren wegen einer Ordnungswidrigkeit, die nur mit einer Geldbuße bis zu eintausend Euro geahndet werden kann, sowie für Verfahren wegen einer Zuwiderhandlung im Sinne des § 24 des Straßenverkehrsgesetzes oder wegen einer fahrlässigen Zuwiderhandlung im Sinne des § 24a des Straßenverkehrsgesetzes. Die Zeugenschutzdienststelle unterrichtet die zuständige Ausländerbehörde unverzüglich über Beginn und Ende des Zeugenschutzes für einen Ausländer.
 
@@ -4028,6 +4112,8 @@ in den Fällen der Nummern 1 und 2 und sonstiger nach diesem Gesetz strafbarer H
 2. von Amts wegen Angaben zur zuständigen Stelle oder zum Übergang der Zuständigkeit mitzuteilen, sofern in einem Strafverfahren eine Beteiligung nach § 72 Abs. 6 erfolgte oder eine Mitteilung nach Nummer 1 gemacht wurde.
 
 (6) Öffentliche Stellen sowie private Träger, die über staatlich finanzierte rückkehr- und reintegrationsfördernde Maßnahmen entscheiden, haben nach § 86a Absatz 1 erhobene Daten an die zuständige Ausländerbehörde zu übermitteln, soweit dies für die in § 86a genannten Zwecke erforderlich ist.
+
+(7) Öffentliche Stellen im Sinne von Absatz 1 haben auch unverzüglich die zuständige Ausländerbehörde zu unterrichten, wenn sie im Zusammenhang mit der Erfüllung ihrer Aufgaben Kenntnis erlangen von Tatsachen, die für die Prüfung, ob eine missbräuchliche Anerkennung der Vaterschaft im Sinne von § 85b Absatz 1 Satz 2 vorliegt, erheblich sind, insbesondere von Tatsachen im Sinne von § 85b Absatz 2 Nummer 1 bis 4 und Absatz 3 Satz 2.
 
 # § 88 – Übermittlungen bei besonderen gesetzlichen Verarbeitungsregelungen
 
@@ -4515,7 +4601,9 @@ a) in das Bundesgebiet einreist oder
 
 b) sich darin aufhält,
 
-1a. einer vollstreckbaren gerichtlichen Anordnung nach § 56a Absatz 1 zuwiderhandelt und dadurch die kontinuierliche Feststellung seines Aufenthaltsortes durch eine in § 56a Absatz 3 genannte zuständige Stelle verhindert oder
+1a. einer vollstreckbaren gerichtlichen Anordnung nach § 56a Absatz 1 zuwiderhandelt und dadurch die kontinuierliche Feststellung seines Aufenthaltsortes durch eine in § 56a Absatz 3 genannte zuständige Stelle verhindert,
+
+1b. entgegen § 85c Absatz 5 Satz 1 erster Halbsatz eine Mitteilung nicht richtig oder nicht vollständig macht, um eine Zustimmung zur Anerkennung einer Vaterschaft nach § 85c Absatz 1 zu erwirken oder eine so erlangte Zustimmung wissentlich zur Täuschung im Rechtsverkehr gebraucht oder
 
 2. unrichtige oder unvollständige Angaben macht oder benutzt, um für sich oder einen anderen einen Aufenthaltstitel oder eine Duldung zu beschaffen oder das Erlöschen oder die nachträgliche Beschränkung des Aufenthaltstitels oder der Duldung abzuwenden oder eine so beschaffte Urkunde wissentlich zur Täuschung im Rechtsverkehr gebraucht.
 
@@ -4996,6 +5084,12 @@ Inhaber eines nach § 78a Absatz 1 Satz 1 ausgestellten Aufenthaltstitels könne
 # § 105c – Überleitung von Maßnahmen zur Überwachung ausgewiesener Ausländer aus Gründen der inneren Sicherheit
 
 Maßnahmen und Verpflichtungen nach § 54a Absatz 1 bis 4 in der bis zum 31. Dezember 2015 geltenden Fassung, die vor dem 1. Januar 2016 bestanden, gelten nach dem 1. Januar 2016 als Maßnahmen und Verpflichtungen im Sinne von § 56 in der ab dem 1. Januar 2016 geltenden Fassung.
+
+# § 105d – Übergangsregelung für das Verfahren zur Prüfung einer missbräuchlichen Anerkennung der Vaterschaft
+
+(1) Auf Prüfungen über das Vorliegen einer missbräuchlichen Anerkennung der Vaterschaft, die bis zum Ablauf des 28. Juli 2026 nicht abgeschlossen sind, sind § 60a Absatz 2 Satz 4, § 84 Absatz 1 Nummer 8 und § 85a dieses Gesetzes sowie die §§ 1597a und 1598 des Bürgerlichen Gesetzbuchs in der am 28. Juli 2026 jeweils geltenden Fassung anzuwenden.
+
+(2) § 85a Absatz 2 Nummer 2b gilt nicht, wenn die rechtliche Vaterschaft für das andere Kind durch Anerkennung der Vaterschaft entstanden ist und die Anerkennungserklärung vor dem 29. Juli 2026 öffentlich beurkundet wurde. Satz 1 gilt nicht, wenn die Ausländerbehörde das Verfahren nach § 85a Absatz 1 Satz 3 in der bis zum 29. Juli 2026 geltenden Fassung für das andere Kind eingestellt hat.
 
 # § 106 – Einschränkung von Grundrechten
 

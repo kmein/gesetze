@@ -33,6 +33,8 @@ Im Falle des Satzes 1 Nr. 2 Buchstabe b liegt eine unzumutbare Belästigung nich
 
 # § 1a – (zukünftig in Kraft)
 
+(+++ § 1a: Eingef. durch Art. 1 Nr. 2 G v. 2.7.2026 I Nr. 198; tritt gem. Art. 10 Abs. 2 G v. 2.7.2026 I Nr. 198 mWv 1.7.2027 in Kraft +++)
+
 # § 1b – Aufgaben der Koordinierungsstelle; Verordnungsermächtigung
 
 (1) Im Fall einer Anordnung nach § 1a führen eine oder mehrere nach dem Recht des Landes, in dem das entscheidende Gericht seinen Sitz hat, zuständige Stellen (Koordinierungsstellen) die Anordnung nach § 1a durch. Die Koordinierungsstelle koordiniert die Durchführung der Anordnung mit dem Gericht, den beteiligten Stellen und den Beteiligten und überwacht die Einhaltung der Anordnung durch den Täter. Die Aufgaben der Koordinierungsstelle können ganz oder teilweise auch auf andere Stellen übertragen werden.
@@ -41,7 +43,7 @@ Im Falle des Satzes 1 Nr. 2 Buchstabe b liegt eine unzumutbare Belästigung nich
 
 (3) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die für die Wahrnehmung der Aufgaben nach Absatz 1 zuständigen Stellen zu bestimmen.
 
-# § 1c – (zukünftig in Kraft)
+(++ § 1b: Eingef. durch Art. 1 Nr. 2 G v. 2.7.2026 I Nr. 198 mWv 1.7.2027 (Kursivdruck), soweit § 1b Abs. 3 eingef. wird, mWv 10.7.2026 +++)
 
 # § 2 – Überlassung einer gemeinsam genutzten Wohnung
 
