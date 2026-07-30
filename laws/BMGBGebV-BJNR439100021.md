@@ -49,7 +49,9 @@ Im Zuständigkeitsbereich des Bundesministeriums für Gesundheit werden Gebühre
 
 18. Bundeskrebsregisterdatengesetz,
 
-19. Medizinal-Cannabisgesetz.
+19. Medizinal-Cannabisgesetz,
+
+20. Fünftes Buch Sozialgesetzbuch.
 
 # § 2 – Höhe der Gebühren und Auslagen
 
@@ -341,3 +343,38 @@ Neuer Stoff: Arzneimittel, bei dem keine der Voraussetzungen des § 22 Absatz 3 
  
 
  
+
+ 
+
+ 
+
+ 
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
+<colgroup>
+<col style="width: 9%" />
+<col style="width: 69%" />
+<col style="width: 22%" />
+</colgroup>
+<tbody data-valign="top">
+<tr class="odd">
+<td colspan="3" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Gebührenerhebende Behörde: Bundesinstitut für Arzneimittel und Medizinprodukte</td>
+</tr>
+<tr class="even" data-valign="middle">
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">Nummer</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">Gebühren- oder Auslagentatbestand</td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">Höhe der Gebühren oder<br />
+Auslagen in Euro</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Entscheidung über einen Antrag auf Befreiung vom zusätzlichen Herstellerabschlag nach § 130a Absatz 1c Satz 1 SGB V</td>
+<td style="text-align: right; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1 800</td>
+</tr>
+<tr class="even">
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Entscheidung über einen Antrag auf Verlängerung der Befreiung vom zusätzlichen Herstellerabschlag nach § 130a Absatz 1c Satz 11 SGB V</td>
+<td style="text-align: right;" data-valign="top" data-charoff="50">400</td>
+</tr>
+</tbody>
+</table>

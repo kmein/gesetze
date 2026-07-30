@@ -4155,7 +4155,6 @@
 - [PostSchliV](laws/PostSchliV-BJNR098000022.md) Verordnung zur Regelung des Verfahrens der außergerichtlichen Streitbeilegung bei der Schlichtungsstelle Post der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen
 - [PostSZV](laws/PostSZV-BJNR212000007.md) Verordnung über die Gewährung einer monatlichen Sonderzahlung an die bei der Deutschen Post AG beschäftigten Beamtinnen und Beamten
 - [PostUmwG](laws/PostUmwG-BJNR233900994.md) Gesetz zur Umwandlung der Unternehmen der Deutschen Bundespost in die Rechtsform der Aktiengesellschaft
-- [PPBV](laws/PPBV-BJNR0BC0A0024.md) Verordnung über die Grundsätze der Personalbedarfsbemessung in der stationären Krankenpflege
 - [PPeKDAV](laws/PPeKDAV-BJNR368210021.md) Verordnung zur automatisierten Datenübermittlung und zu automatisierten Datenabrufen aus den Pass-, den Personalausweis- und den eID-Karte-Registern
 - [PpUGV](laws/PpUGV-BJNR235700020.md) Verordnung zur Festlegung von Pflegepersonaluntergrenzen in pflegesensitiven Bereichen in Krankenhäusern für das Jahr 2021
 - [PräzwMechMstrV](laws/PräzwMechMstrV-BJNR231500011.md) Verordnung über die Meisterprüfung in den Teilen I und II im Präzisionswerkzeugmechaniker-Handwerk
