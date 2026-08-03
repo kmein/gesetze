@@ -1,11 +1,11 @@
 % Gesetz über die Erhebung von Meldungen in der Mineralölwirtschaft  (Mineralöldatengesetz - MinÖlDatG)
 % Ausfertigungsdatum: 20.12.1988
  
-# § 1 – Erhebungszweck, Zuständigkeit
+# § 1 – Erhebungszweck; Zuständigkeit
 
-Zur Sicherstellung des Vollzugs des Gesetzes zu dem Übereinkommen vom 18. November 1974 über ein Internationales Energieprogramm vom 30. April 1975, der Rechtsvorschriften der Europäischen Union über Informationssysteme und Notstandsmaßnahmen im Mineralölbereich und des Energiesicherungsgesetzes 1975 einschließlich der auf seiner Grundlage beruhenden Rechtsverordnungen sowie zur Erfüllung energiepolitischer Aufgaben im Mineralölbereich, insbesondere zur Sicherstellung einer ausreichenden Versorgung mit Erdöl und Erdölerzeugnissen zu Wettbewerbspreisen, erhebt das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) von den Unternehmen der Mineralölwirtschaft Meldungen.
+Zur Sicherstellung des Vollzugs des Gesetzes zu dem Übereinkommen vom 18. November 1974 über ein Internationales Energieprogramm vom 30. April 1975, der Rechtsvorschriften der Europäischen Union über Informationssysteme und Notstandsmaßnahmen im Mineralölbereich und des Energiesicherungsgesetzes einschließlich der auf seiner Grundlage beruhenden Rechtsverordnungen, der nationalen und internationalen Anforderungen an die Klimaschutz- und Energieberichterstattung einschließlich der Aufgaben nach dem Bundes-Klimaschutzgesetz, der Verordnung (EG) Nr. 1099/2008, der Verordnung (EU) 2018/1999 und der Richtlinie (EU) 2018/2001 sowie zur Erfüllung energiepolitischer Aufgaben im Mineralölbereich, insbesondere zur Sicherstellung einer ausreichenden Versorgung mit Erdöl und Erdölerzeugnissen zu Wettbewerbspreisen, erhebt das Bundesamt für Wirtschaft und Ausfuhrkontrolle von den Unternehmen der Mineralölwirtschaft Meldungen.
 
-# § 2 – Meldepflichtige
+# § 2 – Meldepflichtige; Anordnung einer Meldeplicht
 
 (1) Meldepflichtig ist, wer gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen
 
@@ -18,6 +18,8 @@ Zur Sicherstellung des Vollzugs des Gesetzes zu dem Übereinkommen vom 18. Novem
 (3) Liegt der Einfuhr ein Vertrag mit einem Ausländer über den Erwerb des Erdöls oder der Erdölerzeugnisse zum Zwecke der Einfuhr (Einfuhrvertrag) zugrunde, so ist nur der inländische Vertragspartner Einführer im Sinne dieses Gesetzes und damit meldepflichtig. Wer lediglich als Spediteur oder Frachtführer oder in einer ähnlichen Stellung bei der Einfuhr der Waren tätig wird, ist nicht Einführer.
 
 (4) Werden das Erdöl oder die Erdölerzeugnisse von einem Ausländer eingeführt, so ist meldepflichtig derjenige mit Sitz im Geltungsbereich dieses Gesetzes, der das Eigentum an dem Erdöl oder den Erdölerzeugnissen von dem Ausländer erwirbt. Ist der vorgenannte Erwerber seinerseits nicht Inländer, so ist insoweit der letzte inländische Lagerhalter meldepflichtig, der das Erdöl oder die Erdölerzeugnisse in sein Lager aufgenommen hat. Läßt ein Ausländer die Erdölerzeugnisse für eigene Rechnung herstellen, so ist meldepflichtig derjenige, der sie für ihn im Geltungsbereich dieses Gesetzes herstellt. Meldepflichtig sind auch Ausländer, denen durch einen ausländischen Staat eine Bevorratungspflicht für Erdöl oder Erdölerzeugnisse auferlegt ist, wenn sie die Voraussetzungen des Absatzes 1 Satz 1 Nummer 1 oder 2 erfüllen oder Bestände an Erdöl oder Erdölerzeugnissen im Geltungsbereich dieses Gesetzes halten. Hält ein ausländischer Vorratspflichtiger im Sinne des Satzes 4 Bestände an Erdöl oder Erdölerzeugnissen im Geltungsbereich dieses Gesetzes, kann das Bundesamt für Wirtschaft und Ausfuhrkontrolle auch denjenigen, der von dem Ausländer mit der Lagerung seiner Bestände beauftragt worden ist, zur Abgabe von Meldungen verpflichten.
+
+(5) Meldepflichtig ist ferner, wer zur Erfüllung staatlicher Bevorratungsverpflichtungen Bestände an Erdöl und Erdölerzeugnissen im Geltungsbereich dieses Gesetzes hält. Das Bundesamt für Wirtschaft und Ausfuhrkontrolle kann auch denjenigen, der von einer ausländischen Person mit der Lagerung ihrer bevorratungspflichtigen Bestände im Geltungsbereich dieses Gesetzes beauftragt worden ist, zur Abgabe von Meldungen verpflichten.
 
 # § 3 – Meldepflichten
 
@@ -45,13 +47,13 @@ b) außerhalb des Geltungsbereichs des Gesetzes, soweit sie für die Versorgung 
 
 Als Erdölerzeugnisse gelten auch die aus anderen Rohstoffen gewonnenen, den Erdölerzeugnissen nach Art ihrer Verwendbarkeit gleichstehenden Produkte.
 
-(2) Meldepflichtige nach § 2 Absatz 4 Satz 4 haben zusätzlich zu den Angaben nach Absatz 1 Nummer 8 Buchstabe a zu melden, ob es sich um spezifische Vorräte im Sinne des Artikels 9 der Richtlinie 2009/119/EG des Rates vom 14. September 2009 zur Verpflichtung der Mitgliedstaaten, Mindestvorräte an Erdöl und/oder Erdölerzeugnissen zu halten (ABl. L 265 vom 9.10.2009, S. 9), handelt.
+(2) Zu den Angaben nach Absatz 1 Satz 1 Nummer 2 zur Einfuhr von Erdöl haben Meldepflichtige zusätzlich die Merkmale nach Artikel 5 der Verordnung (EG) Nr. 2964/95 zu melden. Zu den Angaben nach Absatz 1 Satz 1 Nummer 8 Buchstabe a haben Meldepflichtige gegebenenfalls zusätzlich zu melden, inwieweit sie Personen vertragliche Rechte zum Erwerb bestimmter Vorratsmengen gewährt haben, um staatliche Bevorratungsverpflichtungen zu erfüllen. Meldepflichtige nach § 2 Absatz 5 Satz 1 haben zusätzlich zu den Angaben nach Absatz 1 Satz 1 Nummer 8 Buchstabe a zu melden, ob es sich um spezifische Vorräte im Sinne des Artikels 9 der Richtlinie 2009/119/EG handelt.
 
 (3) Die Meldungen sind innerhalb von 20 Tagen nach Ablauf des Meldezeitraums zu erstatten.
 
-(4) Soweit das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) einheitliche Vordrucke für die Meldungen versendet, sind diese zu verwenden.
+(4) Soweit das Bundesamt für Wirtschaft und Ausfuhrkontrolle für die Abgabe der Meldungen eine digitale Plattform und digitale Formulare bereitstellt, sind diese Plattform und diese Formulare von den Meldepflichtigen zu nutzen.
 
-(5) Meldepflichtige haben Amtsträgern der BAFA während der Geschäfts- und Arbeitszeit Auskunft zu erteilen sowie Zutritt zu Betriebsräumen und Betriebsgrundstücken und Einsicht in Unterlagen und Aufzeichnungen, die im Zusammenhang mit der Meldepflicht stehen, zu gewähren.
+(5) Meldepflichtige haben Amtsträgern des Bundesamtes für Wirtschaft und Ausfuhrkontrolle zur Überprüfung der Richtigkeit der abgegebenen Meldungen während der Geschäfts- und Arbeitszeit Auskunft zu erteilen sowie Zutritt zu den im Geltungsbereich dieses Gesetzes gelegenen Betriebsräumen und Betriebsgrundstücken zu gewähren, damit das Bundesamt für Wirtschaft und Ausfuhrkontrolle zur Überprüfung der Richtigkeit der abgegebenen Meldungen Betriebsanlagen besichtigen und Einsicht in Unterlagen und Aufzeichnungen nehmen kann. Die Pflicht zur Auskunftserteilung bezieht sich insbesondere auf die Angabe von Vertragspartnern und der mit ihnen gehandelten Einzelmengen.
 
 # § 4 – Verordnungsermächtigung
 
@@ -61,7 +63,31 @@ Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechts
 
 (1) Die von den Meldepflichtigen erhobenen Einzelangaben sind geheimzuhalten. Sie dürfen nur zu den in diesem Gesetz bestimmten Zwecken verwendet werden, soweit in dieser Vorschrift nichts anderes bestimmt ist.
 
-(2) Einzelangaben können an das Bundesministerium für Wirtschaft und Energie, das Bundesministerium der Finanzen, das Bundesministerium für Verkehr und digitale Infrastruktur, das Bundesministerium für Ernährung und Landwirtschaft, das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit, die für die gewerbliche Wirtschaft zuständigen obersten Landesbehörden, die Dienststellen der Europäischen Union und die Internationale Energie-Agentur weitergeleitet werden, soweit dies zur Erfüllung dieses Gesetzes erforderlich ist.
+(2) Einzelangaben können weitergeleitet werden, soweit dies zur Erfüllung der in § 1 bestimmten Zwecke erforderlich ist, an
+
+1. das Bundesministerium für Wirtschaft und Energie,
+
+2. das Bundesministerium der Finanzen,
+
+3. das Bundesministerium für Verkehr,
+
+4. das Bundesministerium für Landwirtschaft, Ernährung und Heimat,
+
+5. das Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit,
+
+6. das Umweltbundesamt,
+
+7. das Bundeskartellamt,
+
+8. die für die gewerbliche Wirtschaft zuständigen obersten Landesbehörden,
+
+9. die Dienststellen der Europäischen Union,
+
+10. die Internationale Energie-Agentur oder
+
+11. den Expertenrat für Klimafragen.
+
+Die in Satz 1 Nummer 1 bis 6 benannten Behörden sind befugt, Einzelangaben an von ihnen beauftragte Dritte weiterzugeben, soweit dies zur Erfüllung der in § 1 bestimmten Zwecke erforderlich ist, die Dritten die vertrauliche Behandlung der Einzelangaben zugesichert haben und die beteiligten Personen der beauftragten Dritten zur Wahrung der Geheimhaltung verpflichtet wurden. Einzelangaben werden der Markttransparenzstelle für Kraftstoffe zur Erfüllung ihrer Aufgaben nach § 47k des Gesetzes gegen Wettbewerbsbeschränkungen auf Antrag weitergeleitet.
 
 (3) In § 3 Absatz 1 genannte Daten sind zum Zwecke der Energie- und Treibhausgasbilanzierung auf Antrag an das jeweilige statistische Landesamt für dessen Erhebungsbereich und nach Kalenderjahren zusammengefasst zu übermitteln, sofern
 

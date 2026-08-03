@@ -943,7 +943,7 @@ b) eine Abschiebung des Ausländers.
 
 In den Fällen des Satzes 1 Nummer 1 Buchstabe a ist die Aufenthaltserlaubnis innerhalb von 60 Tagen nach Antragstellung zu erteilen.
 
-(2) Von dem Erfordernis des Absatzes 1 Satz 1 Nummer 2 soll abgesehen werden, wenn die Tätigkeit der Forschungseinrichtung überwiegend aus öffentlichen Mitteln finanziert wird. Es kann davon abgesehen werden, wenn an dem Forschungsvorhaben ein besonderes öffentliches Interesse besteht. Auf die nach Absatz 1 Satz 1 Nummer 2 abgegebenen Erklärungen sind § 66 Absatz 5, § 67 Absatz 3 sowie § 68 Absatz 2 Satz 2 und 3 und Absatz 4 entsprechend anzuwenden.
+(2) Von dem Erfordernis des Absatzes 1 Satz 1 Nummer 2 soll abgesehen werden, wenn die Tätigkeit der Forschungseinrichtung überwiegend aus öffentlichen Mitteln finanziert wird. Es kann davon abgesehen werden, wenn an dem Forschungsvorhaben ein besonderes öffentliches Interesse besteht. Auf die nach Absatz 1 Satz 1 Nummer 2 abgegebenen Erklärungen sind § 66 Absatz 5, § 67 Absatz 3 sowie § 68 Absatz 2 Satz 3 und 4 und Absatz 4 entsprechend anzuwenden.
 
 (3) Die Forschungseinrichtung kann die Erklärung nach Absatz 1 Satz 1 Nummer 2 auch gegenüber der für ihre Anerkennung zuständigen Stelle allgemein für sämtliche Ausländer abgeben, denen auf Grund einer mit ihr geschlossenen Aufnahmevereinbarung eine Aufenthaltserlaubnis erteilt wird.
 
@@ -2129,9 +2129,7 @@ In den Fällen des Satzes 1 Nr. 1 stellt die Ausländerbehörde bei der Erteilun
 
 (2a) Von der Verpflichtung zur Teilnahme am Orientierungskurs sind Ausländer ausgenommen, die eine Aufenthaltserlaubnis nach § 38a besitzen, wenn sie nachweisen, dass sie bereits in einem anderen Mitgliedstaat der Europäischen Union zur Erlangung ihrer Rechtsstellung als langfristig Aufenthaltsberechtigte an Integrationsmaßnahmen teilgenommen haben.
 
-(3) Kommt ein Ausländer seiner Teilnahmepflicht aus von ihm zu vertretenden Gründen nicht nach oder legt er den Abschlusstest nicht erfolgreich ab, weist ihn die zuständige Ausländerbehörde vor der Verlängerung seiner Aufenthaltserlaubnis auf die möglichen Auswirkungen seines Handelns (§ 8 Abs. 3, § 9 Abs. 2 Satz 1 Nr. 7 und 8, § 9a Absatz 2 Satz 1 Nummer 3 und 4 dieses
-
-Gesetzes) hin. Die Ausländerbehörde kann den Ausländer mit Mitteln des Verwaltungszwangs zur Erfüllung seiner Teilnahmepflicht anhalten. Bei Verletzung der Teilnahmepflicht kann der voraussichtliche Kostenbeitrag auch vorab in einer Summe durch Gebührenbescheid erhoben werden.
+(3) Kommt ein Ausländer seiner Teilnahmepflicht aus von ihm zu vertretenden Gründen nicht nach oder legt er den Abschlusstest nicht erfolgreich ab, weist ihn die zuständige Ausländerbehörde vor der Verlängerung seiner Aufenthaltserlaubnis auf die möglichen Auswirkungen seines Handelns (§ 8 Abs. 3, § 9 Abs. 2 Satz 1 Nr. 7 und 8, § 9a Absatz 2 Satz 1 Nummer 3 und 4) hin. Die Ausländerbehörde kann den Ausländer mit Mitteln des Verwaltungszwangs zur Erfüllung seiner Teilnahmepflicht anhalten. Bei Verletzung der Teilnahmepflicht kann der voraussichtliche Kostenbeitrag auch vorab in einer Summe durch Gebührenbescheid erhoben werden.
 
 § 44a Abs. 3 Satz 1 Kursivdruck: IdF d. Art. 2 G v. 27.10.2025 I Nr. 256 mWv 30.10.2025 (sinngemäß konsolidiert)
 
@@ -3223,15 +3221,11 @@ Die in Satz 1 Nummer 1 bis 4 genannten Personen haften als Gesamtschuldner im Si
 
 (1) Wer sich der Ausländerbehörde oder einer Auslandsvertretung gegenüber verpflichtet hat, die Kosten für den Lebensunterhalt eines Ausländers zu tragen, hat für einen Zeitraum von fünf Jahren sämtliche öffentlichen Mittel zu erstatten, die für den Lebensunterhalt des Ausländers einschließlich der Versorgung mit Wohnraum sowie der Versorgung im Krankheitsfalle und bei Pflegebedürftigkeit aufgewendet werden, auch soweit die Aufwendungen auf einem gesetzlichen Anspruch des Ausländers beruhen. Aufwendungen, die auf einer Beitragsleistung beruhen, sind nicht zu erstatten. Der Zeitraum nach Satz 1 beginnt mit der durch die Verpflichtungserklärung ermöglichten Einreise des Ausländers. Die Verpflichtungserklärung erlischt vor Ablauf des Zeitraums von fünf Jahren ab Einreise des Ausländers nicht durch Erteilung eines Aufenthaltstitels nach Abschnitt 5 des Kapitels 2 oder durch Zuerkennung internationalen Schutzes nach der Verordnung (EU) 2024/1347.
 
-(2) Die Verpflichtung nach Absatz 1 Satz 1 bedarf der Schriftform. Sie ist nach Maßgabe des Verwaltungsvollstreckungsgesetzes vollstreckbar. Der Erstattungsanspruch steht der öffentlichen Stelle zu, die die öffentlichen Mittel aufgewendet hat.
+(2) Die Verpflichtungserklärung nach Absatz 1 kann schriftlich oder elektronisch abgegeben werden. Wird die Erklärung elektronisch abgegeben, ist die die Erklärung abgebende Person durch geeignete Maßnahmen vor einer übereilten Abgabe der Erklärung zu warnen. Die Verpflichtung ist nach Maßgabe des Verwaltungsvollstreckungsgesetzes vollstreckbar. Der Erstattungsanspruch steht der öffentlichen Stelle zu, die die öffentlichen Mittel aufgewendet hat.
 
 (3) Die Auslandsvertretung unterrichtet unverzüglich die Ausländerbehörde über eine Verpflichtung nach Absatz 1 Satz 1.
 
 (4) Die Ausländerbehörde unterrichtet, wenn sie Kenntnis von der Aufwendung nach Absatz 1 zu erstattender öffentlicher Mittel erlangt, unverzüglich die öffentliche Stelle, der der Erstattungsanspruch zusteht, über die Verpflichtung nach Absatz 1 Satz 1 und erteilt ihr alle für die Geltendmachung und Durchsetzung des Erstattungsanspruchs erforderlichen Auskünfte. Der Empfänger darf die Daten nur zum Zweck der Erstattung der für den Ausländer aufgewendeten öffentlichen Mittel sowie der Versagung weiterer Leistungen verarbeiten.
-
-# § 68a – Übergangsvorschrift zu Verpflichtungserklärungen
-
-§ 68 Absatz 1 Satz 1 bis 3 gilt auch für vor dem 6. August 2016 abgegebene Verpflichtungserklärungen, jedoch mit der Maßgabe, dass an die Stelle des Zeitraums von fünf Jahren ein Zeitraum von drei Jahren tritt. Sofern die Frist nach Satz 1 zum 6. August 2016 bereits abgelaufen ist, endet die Verpflichtung zur Erstattung öffentlicher Mittel mit Ablauf des 31. August 2016.
 
 # § 69 – Gebühren
 
@@ -3535,6 +3529,8 @@ c) Maßnahmen nach § 9 Abs. 5 des Bundesvertriebenengesetzes;
 
 13. unbeschadet des § 71 Absatz 3 Nummer 7 die Beschaffung von Heimreisedokumenten für Ausländer im Wege der Amtshilfe.
 
+Unterlagen des Bundesamtes, die bei der Erfüllung der Aufgaben nach Satz 1 entstehen, sind nach Maßgabe des § 5 des Bundesarchivgesetzes dem Bundesarchiv zur Übernahme anzubieten.
+
 # § 76
 
 (weggefallen)
@@ -3835,7 +3831,7 @@ ist die Entscheidung über die Erteilung des Aufenthaltstitels gemäß § 36a Ab
 
 1. Kontaktdaten des Ausländers, des Arbeitgebers und der Behörde,
 
-2. Bevollmächtigung des Arbeitgebers durch den Ausländer,
+2. Versicherung des Arbeitgebers, dass er durch den Ausländer bevollmächtigt und gegebenenfalls auch berechtigt ist, Untervollmacht zu erteilen,
 
 3. Bevollmächtigung der zuständigen Ausländerbehörde durch den Arbeitgeber, das Verfahren zur Feststellung der Gleichwertigkeit der im Ausland erworbenen Berufsqualifikation einleiten und betreiben zu können,
 
@@ -3891,11 +3887,13 @@ Stellt die zuständige Stelle durch Bescheid fest, dass die im Ausland erworbene
 
 (5) Der Ausländer, für den nach diesem Gesetz, dem Asylgesetz oder den zur Durchführung dieser Gesetze erlassenen Bestimmungen ein Dokument ausgestellt werden soll, hat auf Verlangen
 
-1. ein aktuelles Lichtbild nach Maßgabe einer nach § 99 Abs. 1 Nr. 13 und 13a erlassenen Rechtsverordnung vorzulegen oder bei der Aufnahme eines solchen Lichtbildes mitzuwirken und
+1. ein aktuelles Lichtbild nach Maßgabe einer nach § 99 Abs. 1 Nr. 13 und 13a erlassenen Rechtsverordnung vorzulegen oder bei der Aufnahme eines solchen Lichtbildes mitzuwirken,
 
-2. bei der Abnahme seiner Fingerabdrücke nach Maßgabe einer nach § 99 Absatz 1 Nummer 13 und 13a erlassenen Rechtsverordnung mitzuwirken.
+2. bei der Abnahme seiner Fingerabdrücke nach Maßgabe einer nach § 99 Absatz 1 Nummer 13 und 13a erlassenen Rechtsverordnung mitzuwirken und
 
-Das Lichtbild und die Fingerabdrücke dürfen in Dokumente nach Satz 1 eingebracht und von den zuständigen Behörden zur Sicherung und einer späteren Feststellung der Identität verarbeitet werden.
+3. eine Unterschrift nach Maßgabe einer nach § 99 Absatz 1 Nummer 13 und 13a erlassenen Rechtsverordnung zu leisten.
+
+Das Lichtbild, die Fingerabdrücke und die Unterschrift dürfen in Dokumente nach Satz 1 eingebracht und von den zuständigen Behörden zur erneuten Ausstellung der Dokumente für einen Aufenthaltstitel nach § 4 Absatz 1 Satz 2 Nummer 2 bis 2c sowie zur Sicherung und zu einer späteren Feststellung der Identität verarbeitet werden.
 
 (6) Ausländer, die im Besitz einer Aufenthaltserlaubnis nach Kapitel 2 Abschnitt 3 oder 4 sind, sind verpflichtet, der zuständigen Ausländerbehörde innerhalb von zwei Wochen ab Kenntnis mitzuteilen, dass die Ausbildung oder die Erwerbstätigkeit, für die der Aufenthaltstitel erteilt wurde, vorzeitig beendet wurde. Der Ausländer ist bei Erteilung des Aufenthaltstitels über seine Verpflichtung nach Satz 1 zu unterrichten.
 
@@ -4099,7 +4097,7 @@ Luftfahrtunternehmen sowie die in § 19e Absatz 8 des Luftverkehrsgesetzes gen
 
 4. einer ihrer Natur nach nicht nur vorübergehenden Ausreise des Ausländers, sofern diese nicht bereits im Ausländerzentralregister gespeichert ist;
 
-in den Fällen der Nummern 1 und 2 und sonstiger nach diesem Gesetz strafbarer Handlungen kann statt der Ausländerbehörde die zuständige Polizeibehörde unterrichtet werden, wenn eine der in § 71 Abs. 5 bezeichneten Maßnahmen in Betracht kommt; die Polizeibehörde unterrichtet unverzüglich die Ausländerbehörde. Öffentliche Stellen sollen unverzüglich die zuständige Ausländerbehörde unterrichten, wenn sie im Zusammenhang mit der Erfüllung ihrer Aufgaben Kenntnis erlangen von einer besonderen Integrationsbedürftigkeit im Sinne einer nach § 43 Abs. 4 erlassenen Rechtsverordnung. Die für Leistungen nach dem Zweiten oder Zwölften Buch Sozialgesetzbuch zuständigen Stellen sind über die in Satz 1 geregelten Tatbestände hinaus verpflichtet, der Ausländerbehörde mitzuteilen, wenn ein Ausländer mit einer Aufenthaltserlaubnis nach Kapitel 2 Abschnitt 3 oder 4 für sich oder seine Familienangehörigen entsprechende Leistungen beantragt. Die Auslandsvertretungen übermitteln der zuständigen Ausländerbehörde personenbezogene Daten eines Ausländers, die geeignet sind, dessen Identität oder Staatsangehörigkeit festzustellen, wenn sie davon Kenntnis erlangen, dass die Daten für die Durchsetzung der vollziehbaren Ausreisepflicht gegenüber dem Ausländer gegenwärtig von Bedeutung sein können.
+in den Fällen der Nummern 1 und 2 und sonstiger nach diesem Gesetz strafbarer Handlungen kann statt der Ausländerbehörde die zuständige Polizeibehörde unterrichtet werden, wenn eine der in § 71 Abs. 5 bezeichneten Maßnahmen in Betracht kommt; die Polizeibehörde unterrichtet unverzüglich die Ausländerbehörde. Öffentliche Stellen sollen unverzüglich die zuständige Ausländerbehörde unterrichten, wenn sie im Zusammenhang mit der Erfüllung ihrer Aufgaben Kenntnis erlangen von einer besonderen Integrationsbedürftigkeit im Sinne einer nach § 43 Abs. 4 erlassenen Rechtsverordnung. Die für Leistungen nach dem Zweiten oder Zwölften Buch Sozialgesetzbuch zuständigen Stellen sind über die in Satz 1 geregelten Tatbestände hinaus verpflichtet, der Ausländerbehörde mitzuteilen, wenn ein Ausländer mit einer Aufenthaltserlaubnis nach Kapitel 2 Abschnitt 3 oder 4 für sich oder seine Familienangehörigen entsprechende Leistungen bezieht, sofern der Leistungsbezug nicht bereits im Ausländerzentralregister gespeichert ist. Die Auslandsvertretungen übermitteln der zuständigen Ausländerbehörde personenbezogene Daten eines Ausländers, die geeignet sind, dessen Identität oder Staatsangehörigkeit festzustellen, wenn sie davon Kenntnis erlangen, dass die Daten für die Durchsetzung der vollziehbaren Ausreisepflicht gegenüber dem Ausländer gegenwärtig von Bedeutung sein können.
 
 (3) Die Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration ist nach den Absätzen 1, 2 und 7 zu Mitteilungen über einen diesem Personenkreis angehörenden Ausländer nur verpflichtet, soweit dadurch die Erfüllung der eigenen Aufgaben nicht gefährdet wird. Die Landesregierungen können durch Rechtsverordnung bestimmen, dass Ausländerbeauftragte des Landes und Ausländerbeauftragte von Gemeinden nach den Absätzen 1 und 2 zu Mitteilungen über einen Ausländer, der sich rechtmäßig in dem Land oder der Gemeinde aufhält oder der sich bis zum Erlass eines die Rechtmäßigkeit des Aufenthalts beendenden Verwaltungsaktes rechtmäßig dort aufgehalten hat, nur nach Maßgabe des Satzes 1 verpflichtet sind.
 
@@ -4843,11 +4841,11 @@ f) den Zeitpunkt des Beginns der Bearbeitung von Anträgen auf Anerkennung von F
 
 13. für die bei der Ausführung dieses Gesetzes zu verwendenden Vordrucke festzulegen:
 
-a) Näheres über die Anforderungen an Lichtbilder und Fingerabdrücke,
+a) Näheres über die Anforderungen an Lichtbilder, Fingerabdrücke und Unterschriften,
 
-b) Näheres über das Verfahren und die technischen Anforderungen für die Aufnahme, elektronische Erfassung, Echtheitsbewertung und Qualitätssicherung des Lichtbilds,
+b) Näheres über das Verfahren und die technischen Anforderungen für die Aufnahme, elektronische Erfassung, Echtheitsbewertung und Qualitätssicherung des Lichtbilds, der Fingerabdrücke und der Unterschrift,
 
-c) Regelungen für die sichere Übermittlung des Lichtbilds an die zuständige Behörde sowie einer Registrierung und Zertifizierung von Dienstleistern zur Erstellung des Lichtbilds,
+c) Regelungen für die sichere Übermittlung des Lichtbilds, der Fingerabdrücke und der Unterschrift an die zuständige Behörde sowie eine Registrierung und Zertifizierung von Dienstleistern zur Erstellung des Lichtbilds, der Fingerabdrücke und der Unterschrift,
 
 d) Näheres über Form und Inhalt der Muster und über die Ausstellungsmodalitäten,
 
@@ -4855,7 +4853,7 @@ e) Näheres über die Aufnahme und die Einbringung von Merkmalen in verschlüsse
 
 13a. Regelungen für Reiseausweise für Ausländer, Reiseausweise für Flüchtlinge und Reiseausweise für Staatenlose mit elektronischem Speicher- und Verarbeitungsmedium nach Maßgabe der Verordnung (EG) Nr. 2252/2004 des Rates vom 13. Dezember 2004 über Normen für Sicherheitsmerkmale und biometrische Daten in von den Mitgliedstaaten ausgestellten Pässen und Reisedokumenten (ABl. L 385 vom 29.12.2004, S. 1) und der Verordnung (EG) Nr. 444/2009 des Europäischen Parlaments und des Rates vom 28. Mai 2009 zur Änderung der Verordnung (EG) Nr. 2252/2004 des Rates über Normen für Sicherheitsmerkmale und biometrische Daten in von den Mitgliedstaaten ausgestellten Pässen und Reisedokumenten (ABl. L 142 vom 6.6.2009, S. 1) zu treffen sowie Näheres über die Ausfertigung von Dokumenten mit elektronischem Speicher- und Verarbeitungsmedium nach § 78 nach Maßgabe der Verordnung (EG) Nr. 1030/2002 des Rates vom 13. Juni 2002 zur einheitlichen Gestaltung des Aufenthaltstitels für Drittstaatenangehörige (ABl. L 157 vom 15.6.2002, S. 1) in der jeweils geltenden Fassung zu bestimmen und insoweit für Reiseausweise und Dokumente nach § 78 Folgendes festzulegen:
 
-a) das Verfahren und die technischen Anforderungen für die Aufnahme, elektronische Erfassung, Echtheitsbewertung und Qualitätssicherung des Lichtbilds und der Fingerabdrücke sowie Regelungen für die sichere Übermittlung des Lichtbilds an die zuständige Behörde sowie für die Registrierung und Zertifizierung von Dienstleistern zur Erstellung des Lichtbilds sowie den Zugriffsschutz auf die im elektronischen Speicher- und Verarbeitungsmedium abgelegten Daten,
+a) das Verfahren und die technischen Anforderungen für die Aufnahme, elektronische Erfassung, Echtheitsbewertung und Qualitätssicherung des Lichtbilds, der Unterschrift und der Fingerabdrücke sowie Regelungen für die sichere Übermittlung des Lichtbilds, der Fingerabdrücke und der Unterschrift an die zuständige Behörde und Regelungen für die Registrierung und Zertifizierung von Dienstleistern zur Erstellung des Lichtbilds sowie Regelungen für den Zugriffsschutz auf die im elektronischen Speicher- und Verarbeitungsmedium abgelegten Daten,
 
 b) Altersgrenzen für die Erhebung von Fingerabdrücken und Befreiungen von der Pflicht zur Abgabe von Fingerabdrücken und Lichtbildern,
 
@@ -4863,13 +4861,13 @@ c) die Reihenfolge der zu speichernden Fingerabdrücke bei Fehlen eines Zeigefin
 
 d) die Form des Verfahrens und die Einzelheiten über das Verfahren der Übermittlung sämtlicher Antragsdaten von den Ausländerbehörden an den Hersteller der Dokumente sowie zur vorübergehenden Speicherung der Antragsdaten bei der Ausländerbehörde und beim Hersteller,
 
-e) die Speicherung der Fingerabdrücke und des Lichtbildes in der Ausländerbehörde bis zur Aushändigung des Dokuments,
+e) die Speicherung des Lichtbilds, der Unterschrift und der Fingerabdrücke,
 
 f) das Einsichtsrecht des Dokumenteninhabers in die im elektronischen Speichermedium gespeicherten Daten,
 
-g) die Anforderungen an die zur elektronischen Erfassung des Lichtbildes und der Fingerabdrücke, deren Qualitätssicherung sowie zur Übermittlung der Antragsdaten von der Ausländerbehörde an den Hersteller der Dokumente einzusetzenden technischen Systeme und Bestandteile sowie das Verfahren zur Überprüfung der Einhaltung dieser Anforderungen,
+g) die Anforderungen an die zur elektronischen Erfassung des Lichtbilds, der Unterschrift und der Fingerabdrücke, zu deren Qualitätssicherung sowie zur Übermittlung der Antragsdaten von der Ausländerbehörde an den Hersteller der Dokumente einzusetzenden technischen Systeme und Bestandteile sowie das Verfahren zur Überprüfung der Einhaltung dieser Anforderungen,
 
-h) Näheres zur Verarbeitung der Fingerabdruckdaten und des digitalen Lichtbildes,
+h) Näheres zur Verarbeitung der Fingerabdruckdaten, der Unterschrift und des digitalen Lichtbilds,
 
 i) Näheres zur Seriennummer und zur maschinenlesbaren Personaldatenseite,
 
@@ -4889,7 +4887,7 @@ c) Pass- und Personalausweisbehörden,
 
 d) Sozial- und Jugendämter,
 
-e) Justiz-, Polizei- und Ordnungsbehörden,
+e) Justiz-, Polizei- und Ordnungsbehörden sowie Maßregelvollzugseinrichtungen,
 
 f) Bundesagentur für Arbeit,
 
@@ -4999,7 +4997,11 @@ Für Personen, die vor dem Inkrafttreten dieses Gesetzes gemäß § 1 des Gesetz
 
 (17) Auf Personen, die nach § 15 Absatz 5 Satz 2 oder Absatz 6 des Zweiten Buches Sozialgesetzbuch in der bis einschließlich 30. Juni 2026 geltenden Fassung zur Teilnahme am Integrationskurs oder an einer Maßnahme der berufsbezogenen Deutschsprachförderung aufgefordert wurden, ist § 44a Absatz 1 Satz 1 Nummer 2 beziehungsweise § 45a Absatz 2 Satz 1 in der bis einschließlich 30. Juni 2026 geltenden Fassung weiter anzuwenden.
 
-(18) § 60a Absatz 6 Satz 1 Nummer 3 findet keine Anwendung auf Staatsangehörige Georgiens und der Republik Moldau, die bis zum 30. August 2023 einen Asylantrag nach § 13 des Asylgesetzes in der bis zum 12. Juni 2026 geltenden Fassung gestellt haben oder die sich zum 30. August 2023 geduldet in Deutschland aufgehalten haben, ohne einen Asylantrag nach § 13 des Asylgesetzes in der bis zum 12. Juni 2026 geltenden Fassung gestellt zu haben.
+(18) § 60a Absatz 6 Satz 1 Nummer 3 findet keine Anwendung
+
+1. auf Staatsangehörige Georgiens und der Republik Moldau, die bis zum 30. August 2023 einen Asylantrag nach § 13 des Asylgesetzes in der bis zum 11. Juni 2026 geltenden Fassung gestellt haben oder die sich zum 30. August 2023 geduldet in Deutschland aufgehalten haben, ohne einen Asylantrag nach § 13 des Asylgesetzes in der bis zum 11. Juni 2026 geltenden Fassung gestellt zu haben, und
+
+2. auf Staatsangehörige Ägyptens, Bangladeschs, Indiens, Kolumbiens, Marokkos, Tunesiens und der Türkei, die sich zum 6. Mai 2025 geduldet in Deutschland aufgehalten haben oder am 11. Juni 2026 im Besitz einer Erlaubnis zur Ausübung einer Erwerbstätigkeit waren.
 
 (19) Auf Personen, deren Asylantrag bis zum 27. Februar 2024 als offensichtlich unbegründet abgelehnt wurde, findet § 10 Absatz 3 Satz 2 in der bis zu diesem Tag geltenden Fassung Anwendung.
 
@@ -5075,7 +5077,7 @@ Einem minderjährigen ledigen Kind kann im Fall der Ausreise seiner Eltern oder 
 
 # § 105a – Bestimmungen zum Verwaltungsverfahren
 
-Von den in § 4 Absatz 2 Satz 2, § 15a Abs. 4 Satz 2 und 3, § 23 Abs. 1 Satz 3, § 23a Abs. 1 Satz 1, Abs. 2 Satz 2, § 43 Abs. 4, § 44a Abs. 1 Satz 2, Abs. 3 Satz 1, § 61 Absatz 1d, § 72 Absatz 2, § 73 Abs. 2, Abs. 3 Satz 1 und 2, § 78, mit Ausnahme des Absatzes 1 Satz 8, den §§ 78a, 79 Abs. 2, § 81 Abs. 5, § 82 Abs. 1 Satz 3, Abs. 3, § 87 Absatz 1, 2 Satz 1 und 2, Absatz 4 Satz 1, 3 und 5 und Absatz 5, § 89 Abs. 1 Satz 2 und 3, Abs. 3 und 4, den §§ 90, 90a, 90b, 91 Abs. 1 und 2, § 91a Abs. 3, 4 und 7, § 91c Abs. 1 Satz 2, Abs. 2 Satz 2, Abs. 3 Satz 4 und Abs. 4 Satz 2, § 99 Absatz 1 bis 4, mit Ausnahme von § 99 Absatz 1 Nummer 3a, und § 104a Abs. 7 Satz 2 getroffenen Regelungen und von den auf Grund von § 43 Abs. 4 und § 99 Absatz 1 bis 4, mit Ausnahme von § 99 Absatz 1 Nummer 3a, getroffenen Regelungen des Verwaltungsverfahrens kann durch Landesrecht nicht abgewichen werden.
+Von den in § 4 Absatz 2 Satz 2, § 15a Abs. 4 Satz 2 und 3, § 23 Abs. 1 Satz 3, § 23a Abs. 1 Satz 1, Abs. 2 Satz 2, § 43 Abs. 4, § 44a Abs. 1 Satz 2, Abs. 3 Satz 1, § 61 Absatz 1d, § 72 Absatz 2, § 73 Abs. 2, Abs. 3 Satz 1 und 2, § 78, mit Ausnahme des Absatzes 1 Satz 8, den §§ 78a, 79 Abs. 2, § 81 Abs. 5, § 82 Abs. 1 Satz 3, Abs. 3, § 87 Absatz 1, 2 Satz 1 und 2, Absatz 4 Satz 1, 3 und 5 und Absatz 5, § 89 Abs. 1 Satz 2 und 3, Abs. 3 und 4, den §§ 90, 90a, 90b, 91 Abs. 1 und 2, § 91c Abs. 1 Satz 2, Abs. 2 Satz 2, Abs. 3 Satz 4 und Abs. 4 Satz 2, § 99 Absatz 1 bis 4, mit Ausnahme von § 99 Absatz 1 Nummer 3a, und § 104a Abs. 7 Satz 2 getroffenen Regelungen und von den auf Grund von § 43 Abs. 4 und § 99 Absatz 1 bis 4, mit Ausnahme von § 99 Absatz 1 Nummer 3a, getroffenen Regelungen des Verwaltungsverfahrens kann durch Landesrecht nicht abgewichen werden.
 
 # § 105b – Übergangsvorschrift für Aufenthaltstitel nach einheitlichem Vordruckmuster
 

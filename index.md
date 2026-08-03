@@ -323,6 +323,7 @@
 - [AujeszkKrV](laws/AujeszkKrV-BJNR004880980.md) Verordnung zum Schutz gegen die Aujeszkysche Krankheit
 - [AuRAG](laws/AuRAG-BJNR014330974.md) Gesetz zur Ausführung des Europäischen Übereinkommens betreffend Auskünfte über ausländisches Recht und seines Zusatzprotokolls
 - [AusbAnerkAufhV](laws/AusbAnerkAufhV-BJNR131800996.md) Verordnung über die Aufhebung der staatlichen Anerkennung von Ausbildungsberufen
+- [AusbauBAusbV](laws/AusbauBAusbV-BJNR0B30D0024.md) Verordnung über die Berufsausbildung in Ausbauberufen*
 - [AusbBerAufhV](laws/AusbBerAufhV-BJNR014590972.md) Verordnung über die Aufhebung der Anerkennung von Ausbildungsberufen
 - [AusbBerAufhV 2](laws/AusbBerAufhV_2-BJNR079600008.md) Zweite Verordnung über die Aufhebung der Anerkennung von Ausbildungsberufen
 - [AusbBerAufhV 2001](laws/AusbBerAufhV_2001-BJNR258700001.md) Verordnung über die Aufhebung der Anerkennung von Ausbildungsberufen
@@ -468,10 +469,9 @@
 - [BaustellV](laws/BaustellV-BJNR128300998.md) Verordnung über Sicherheit und Gesundheitsschutz auf Baustellen
 - [BauStiftG](laws/BauStiftG-BJNR317700006.md) Gesetz zur Errichtung einer "Bundesstiftung Baukultur"
 - [BauStoffPrAusbV 2005](laws/BauStoffPrAusbV_2005-BJNR097100005.md) Verordnung über die Berufsausbildung zum Baustoffprüfer/zur Baustoffprüferin
+- [BautechKonAusbV](laws/BautechKonAusbV-BJNR0CB0B0025.md) Verordnung über die Berufsausbildung zum Bautechnischen Konstrukteur und zur Bautechnischen Konstrukteurin *
 - [BauVorl-/BauPrüf-/ÜbAO](laws/BauVorl-_BauPrüf-_ÜbAO-DDNR014000990.md) Anordnung über Bauvorlagen, Bautechnische Prüfungen und Überwachung
 - [BauwAbdAusbV](laws/BauwAbdAusbV-BJNR094600997.md) Verordnung über die Berufsausbildung zum Bauwerksabdichter/zur Bauwerksabdichterin
-- [BauWiAusbV 1999](laws/BauWiAusbV_1999-BJNR110200999.md) Verordnung über die Berufsausbildung in der Bauwirtschaft
-- [BauZAusbV 2002](laws/BauZAusbV_2002-BJNR262200002.md) Verordnung über die Berufsausbildung zum Bauzeichner/zur Bauzeichnerin
 - [BAVBVO](laws/BAVBVO-BJNR147200003.md) Verordnung über die Bescheinigung von Grundlagen beruflicher Handlungsfähigkeit im Rahmen der Berufsausbildungsvorbereitung
 - [BAVSitzBek](laws/BAVSitzBek-BJNR169700000.md) Bekanntmachung über den Dienstsitz des Bundesaufsichtsamtes für das Versicherungswesen
 - [BAW/BAFAG](laws/BAW_BAFAG-BJNR195700000.md) Gesetz über die Zusammenlegung des Bundesamtes für Wirtschaft mit dem Bundesausfuhramt
@@ -1352,6 +1352,7 @@
 - [DAFPrV](laws/DAFPrV-BJNR1280B0024.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Berufsspezialist für Datenanalyse oder Geprüfte Berufsspezialistin für Datenanalyse
 - [DaHeSchnMstrV](laws/DaHeSchnMstrV-BJNR212200006.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Damen- und Herrenschneider-Handwerk
 - [DarlehensV](laws/DarlehensV-BJNR188910022.md) Verordnung über die Einziehung der nach dem Bundesausbildungsförderungsgesetz geleisteten Darlehen
+- [DarlVermV](laws/DarlVermV-BJNR0E50B0026.md) Verordnung über Darlehensvermittlung
 - [DaTraGebV](laws/DaTraGebV-BJNR045800014.md) Verordnung zur Erhebung von Gebühren und Auslagen für die Bereitstellung von Daten nach den Regelungen der Datentransparenzverordnung
 - [DBA Taipeh](laws/DBA_Taipeh-BJNR208100012.md) Abkommen zwischen dem Deutschen Institut in Taipeh und der Taipeh Vertretung in der Bundesrepublik Deutschland zur Vermeidung der Doppelbesteuerung und zur Verhinderung der Steuerverkürzung hinsichtlich der Steuern vom Einkommen und vom Vermögen
 - [DBAÄndProtG NOR](laws/DBAÄndProtG_NOR-BJNR090620014.md) Gesetz zu dem Protokoll vom 24. Juni 2013 zur Änderung des Abkommens vom 4. Oktober 1991 zwischen der Bundesrepublik Deutschland und dem Königreich Norwegen zur Vermeidung der Doppelbesteuerung und über gegenseitige Amtshilfe auf dem Gebiet der Steuern vom Einkommen und vom Vermögen sowie des dazugehörigen Protokolls
@@ -2489,6 +2490,7 @@
 - [HNSPflichtVersBeschV](laws/HNSPflichtVersBeschV-BJNR422600021.md) Verordnung über die Ausstellung von Pflichtversicherungsbescheinigungen nach dem HNS-Gesetz
 - [HOAI](laws/HOAI-BJNR227600013.md) Verordnung über die Honorare für Architekten- und Ingenieurleistungen
 - [HoBaMstrV](laws/HoBaMstrV-BJNR189100012.md) Verordnung über die Meisterprüfung in den Teilen I und II im Holz- und Bautenschutzgewerbe
+- [HochbauBAusbV](laws/HochbauBAusbV-BJNR0B30C0024.md) Verordnung über die Berufsausbildung in Hochbauberufen*
 - [HöBetrV](laws/HöBetrV-BJNR002170970.md) Verordnung über die Höchstbeträge der steuerlich begünstigten Herstellungskosten von Schutzräumen im Sinne der §§ 7 und 12 Abs. 3 des Schutzbaugesetzes
 - [HöfeO](laws/HöfeO-BJNR700330947.md) Höfeordnung
 - [HöfeOÄndG 2](laws/HöfeOÄndG_2-BJNR008819976.md) Zweites Gesetz zur Änderung der Höfeordnung
@@ -3289,6 +3291,7 @@
 - [MBergG](laws/MBergG-BJNR078200995.md) Gesetz zur Regelung des Meeresbodenbergbaus
 - [MBPlG](laws/MBPlG-BJNR348610994.md) Gesetz zur Regelung des Planungsverfahrens für Magnetschwebebahnen
 - [MBPolVDVDV](laws/MBPolVDVDV-BJNR050600020.md) Verordnung über den Vorbereitungsdienst für den mittleren Polizeivollzugsdienst in der Bundespolizei
+- [MBV](laws/MBV-BJNR234000015.md) Verordnung über die Voraussetzungen für die Bewertung neuer Untersuchungs- und Behandlungsmethoden nach § 137h des Fünften Buches Sozialgesetzbuch
 - [MBVerfV](laws/MBVerfV-BJNR137900020.md) Verordnung über die Verfahrensgrundsätze der Bewertung von Untersuchungs- und Behandlungsmethoden in der vertragsärztlichen Versorgung und im Krankenhaus
 - [MDBNDVerfSchVDV](laws/MDBNDVerfSchVDV-BJNR122110019.md) Verordnung über den Vorbereitungsdienst für den mittleren Dienst im Bundesnachrichtendienst und den mittleren Dienst im Verfassungsschutz des Bundes
 - [MDV](laws/MDV-BJNR472800021.md) Mobilitätsdatenverordnung
@@ -3303,7 +3306,6 @@
 - [MeistPrFRGlV](laws/MeistPrFRGlV-BJNR332400997.md) Verordnung zur Gleichstellung französischer Meisterprüfungszeugnisse mit Meisterprüfungszeugnissen im Handwerk
 - [MeistPrÖGlV](laws/MeistPrÖGlV-BJNR014200997.md) Verordnung zur Gleichstellung österreichischer Meisterprüfungszeugnisse mit Meisterprüfungszeugnissen im Handwerk
 - [MeistVoEigAnerkV](laws/MeistVoEigAnerkV-BJNR021620991.md) Verordnung über die Anerkennung von Ausbildungsabschlüssen von Meistern der volkseigenen Industrie als Voraussetzung für die Eintragung in die Handwerksrolle
-- [MeMBV](laws/MeMBV-BJNR234000015.md) Verordnung über die Voraussetzungen für die Bewertung neuer Untersuchungs- und Behandlungsmethoden mit Medizinprodukten hoher Risikoklasse nach § 137h des Fünften Buches Sozialgesetzbuch
 - [MessEG](laws/MessEG-BJNR272300013.md) Gesetz über das Inverkehrbringen und die Bereitstellung von Messgeräten auf dem Markt, ihre Verwendung und Eichung sowie über Fertigpackungen
 - [MessEGebV](laws/MessEGebV-BJNR033000015.md) Gebührenverordnung zum Mess- und Eichwesen
 - [MessEV](laws/MessEV-BJNR201100014.md) Verordnung über das Inverkehrbringen und die Bereitstellung von Messgeräten auf dem Markt sowie über ihre Verwendung und Eichung
@@ -3375,6 +3377,7 @@
 - [MntDAIVVDV](laws/MntDAIVVDV-BJNR155400012.md) Verordnung über den Vorbereitungsdienst für den mittleren nichttechnischen Dienst in der allgemeinen und inneren Verwaltung des Bundes
 - [MntDBwVVDV](laws/MntDBwVVDV-BJNR108400022.md) Verordnung über den Vorbereitungsdienst für den mittleren nichttechnischen Verwaltungsdienst in der Bundeswehrverwaltung
 - [MntZollDVDV](laws/MntZollDVDV-BJNR117910017.md) Verordnung über den Vorbereitungsdienst für den mittleren nichttechnischen Zolldienst des Bundes
+- [MobVerkKflAusbV](laws/MobVerkKflAusbV-BJNR00F0B0026.md) Verordnung über die Berufsausbildung zum Kaufmann für Mobilität und Verkehrsservice und zur Kauffrau für Mobilität und Verkehrsservice *
 - [ModellBTechAusbV](laws/ModellBTechAusbV-BJNR118700009.md) Verordnung über die Berufsausbildung zum Technischen Modellbauer/zur Technischen Modellbauerin *)
 - [ModGAufhG](laws/ModGAufhG-BJNR177400004.md) Gesetz zur Aufhebung des Modulationsgesetzes
 - [ModistAusbV](laws/ModistAusbV-BJNR058000004.md) Verordnung über die Berufsausbildung zum Modisten/zur Modistin
@@ -5069,6 +5072,7 @@
 - [THWEhrZÄndErl](laws/THWEhrZÄndErl-BJNR014370990.md) Erlaß über die Genehmigung einer Änderung der Stiftungsbestimmungen und der Verleihungsbedingungen für das Ehrenzeichen des Technischen Hilfswerks
 - [THWG](laws/THWG-BJNR001180990.md) Gesetz über das Technische Hilfswerk
 - [THWMitwV](laws/THWMitwV-BJNR1130B0023.md) Verordnung über die Mitwirkung der Helferinnen und Helfer im Technischen Hilfswerk
+- [TiefbauBAusbV](laws/TiefbauBAusbV-BJNR0B30B0024.md) Verordnung über die Berufsausbildung in Tiefbauberufen*
 - [Tier-LMHV](laws/Tier-LMHV-BJNR182800007.md) Verordnung über Anforderungen an die Hygiene beim Herstellen, Behandeln und Inverkehrbringen von bestimmten Lebensmitteln tierischen Ursprungs * ** ***
 - [Tier-LMÜV](laws/Tier-LMÜV-BJNR186400007.md) Verordnung zur Regelung bestimmter Fragen der amtlichen Überwachung des Herstellens, Behandelns und Inverkehrbringens von Lebensmitteln tierischen Ursprungs 1 , 2
 - [TierErzHaVerbG](laws/TierErzHaVerbG-BJNR239400008.md) Gesetz zur Durchführung unionsrechtlicher Vorschriften über Verbote und Beschränkungen hinsichtlich des Handels mit bestimmten tierischen Erzeugnissen sowie zu Haltungs- und Abgabeverboten in bestimmten Fällen
@@ -5315,7 +5319,7 @@
 - [VerdStatG](laws/VerdStatG-BJNR329100006.md) Gesetz über die Statistik der Verdienste und Arbeitskosten
 - [VereinsG](laws/VereinsG-BJNR005930964.md) Gesetz zur Regelung des öffentlichen Vereinsrechts
 - [VereinsGDV](laws/VereinsGDV-BJNR004570966.md) Verordnung zur Durchführung des Gesetzes zur Regelung des öffentlichen Vereinsrechts (Vereinsgesetz)
-- [VerfGlasAusbV](laws/VerfGlasAusbV-BJNR086400000.md) Verordnung über die Berufsausbildung zum Verfahrensmechaniker Glastechnik/zur Verfahrensmechanikerin Glastechnik
+- [VerfGlasAusbV](laws/VerfGlasAusbV-BJNR1500B0025.md) Verordnung über die Berufsausbildung zum Verfahrensmechaniker Glastechnik und zur Verfahrensmechanikerin Glastechnik *
 - [VergMindV 2023](laws/VergMindV_2023-BJNR0170A0023.md) Verordnung zur Festsetzung eines vergabespezifischen Mindestentgelts für Aus- und Weiterbildungsdienstleistungen nach dem Zweiten oder Dritten Buch Sozialgesetzbuch für die Kalenderjahre 2023 bis 2026
 - [VergMstrV](laws/VergMstrV-BJNR002830990.md) Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Vergolder-Handwerk
 - [VergoldAusbV](laws/VergoldAusbV-BJNR124100997.md) Verordnung über die Berufsausbildung zum Vergolder/zur Vergolderin
@@ -5328,7 +5332,6 @@
 - [VerkFinG](laws/VerkFinG-BJNR001669955.md) Verkehrsfinanzgesetz 1955
 - [VerkFinG 1971](laws/VerkFinG_1971-BJNR002019972.md) Gesetz über die weitere Finanzierung von Maßnahmen zur Verbesserung der Verkehrsverhältnisse der Gemeinden und des Bundesfernstraßenbaus
 - [VerkFlBerG](laws/VerkFlBerG-BJNR271610001.md) Gesetz zur Bereinigung der Rechtsverhältnisse an Verkehrsflächen und anderen öffentlich genutzten privaten Grundstücken
-- [VerkKfmAusbV 1999](laws/VerkKfmAusbV_1999-BJNR158600999.md) Verordnung über die Berufsausbildung zum Kaufmann im Eisenbahn- und Straßenverkehr/zur Kauffrau im Eisenbahn- und Straßenverkehr
 - [VerkLG](laws/VerkLG-BJNR186500004.md) Gesetz zur Sicherung von Verkehrsleistungen
 - [VerklV](laws/VerklV-BJNR100500007.md) Verordnung über die Bestimmung der zur Aufnahme von Verklarungen berechtigten Auslandsvertretungen der Bundesrepublik Deutschland
 - [VerkPBG](laws/VerkPBG-BJNR021740991.md) Gesetz zur Beschleunigung der Planungen für Verkehrswege in den neuen Ländern sowie im Land Berlin
@@ -5447,7 +5450,6 @@
 - [VSBG](laws/VSBG-BJNR025410016.md) Gesetz über die alternative Streitbeilegung in Verbrauchersachen
 - [VSBInfoV](laws/VSBInfoV-BJNR032600016.md) Verordnung über Informations- und Berichtspflichten nach dem Verbraucherstreitbeilegungsgesetz*)
 - [VSchwKrSchV](laws/VSchwKrSchV-BJNR043310994.md) Verordnung zum Schutz gegen die Vesikuläre Schweinekrankheit
-- [VServiceAusbV](laws/VServiceAusbV-BJNR158300997.md) Verordnung über die Berufsausbildung zum Kaufmann für Verkehrsservice/zur Kauffrau für Verkehrsservice
 - [VSGZustV](laws/VSGZustV-BJNR015290992.md) Verordnung über Zuständigkeiten nach dem Verkehrssicherstellungsgesetz
 - [VsorglastVteilStVtr](laws/VsorglastVteilStVtr-BJNR129000010.md) Staatsvertrag über die Verteilung von Versorgungslasten bei bund- und länderübergreifenden Dienstherrenwechseln
 - [VsorglastVteilStVtrG](laws/VsorglastVteilStVtrG-BJNR128800010.md) Gesetz zu dem Staatsvertrag vom 16. Dezember 2009 und 26. Januar 2010 über die Verteilung von Versorgungslasten bei bund- und länderübergreifenden Dienstherrenwechseln
@@ -5598,7 +5600,6 @@
 - [WissZeitVG](laws/WissZeitVG-BJNR050610007.md) Gesetz über befristete Arbeitsverträge in der Wissenschaft
 - [WiStrG 1954](laws/WiStrG_1954-BJNR001750954.md) Gesetz zur weiteren Vereinfachung des Wirtschaftsstrafrechts
 - [WiVwAuflV](laws/WiVwAuflV-BJNR006780950.md) Verordnung zur Auflösung oder Überführung von Einrichtungen der Verwaltung des Vereinigten Wirtschaftsgebietes
-- [WM2026LärmSchV](laws/WM2026LärmSchV-BJNR0930A0026.md) Verordnung über den Lärmschutz bei öffentlichen Fernsehdarbietungen im Freien über die Fußball-Weltmeisterschaft der Männer 2026
 - [WMVO](laws/WMVO-BJNR129700001.md) Werkstätten-Mitwirkungsverordnung
 - [WO](laws/WO-BJNR349400001.md) Erste Verordnung zur Durchführung des Betriebsverfassungsgesetzes
 - [WoBauÄndG 1965](laws/WoBauÄndG_1965-BJNR009459965.md) Gesetz zur verstärkten Eigentumsbildung im Wohnungsbau und zur Sicherung der Zweckbestimmung von Sozialwohnungen

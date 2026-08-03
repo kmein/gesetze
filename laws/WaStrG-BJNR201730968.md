@@ -37,13 +37,13 @@ Das Land wird Eigentümer der nach Nummer 1 gewonnenen Land- und Hafenflächen u
 
 3. bundeseigene Einrichtungen oder Gewässerteile, die der Erhaltung oder Wiederherstellung der Durchgängigkeit bei Stauanlagen, die von der Wasserstraßen- und Schifffahrtsverwaltung des Bundes errichtet oder betrieben werden, dienen.
 
-(7) Das Bundesministerium für Digitales und Verkehr wird vorbehaltlich des § 2 ermächtigt, die Anlage 1 durch Rechtsverordnung mit Zustimmung des Bundesrates so zu ändern, dass dort aufgeführte Bundeswasserstraßen ganz oder teilweise zusammengefasst oder getrennt, Bezeichnungen für sie festgesetzt oder geändert werden.
+(7) Das Bundesministerium für Verkehr wird vorbehaltlich des § 2 ermächtigt, die Anlage 1 durch Rechtsverordnung mit Zustimmung des Bundesrates so zu ändern, dass dort aufgeführte Bundeswasserstraßen ganz oder teilweise zusammengefasst oder getrennt, Bezeichnungen für sie festgesetzt oder geändert werden.
 
 (+++ § 1 Abs. 4: Zur Anwendung vgl § 4 Abs. 2 BBPlG +++)
 
 # § 2 – Bestandsänderung
 
-(1) Soll ein Gewässer Bundeswasserstraße werden oder soll ein Gewässer die Eigenschaft als Bundeswasserstraße verlieren, bedarf es einer Vereinbarung zwischen dem Bund, dem Land und dem bisherigen oder dem künftigen Eigentümer. Den Übergang bewirkt ein Bundesgesetz; das Bundesministerium für Digitales und Verkehr wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen den Übergang von Gewässern oder Gewässerstrecken mit nur örtlicher Bedeutung durch Rechtsverordnung zu bewirken.
+(1) Soll ein Gewässer Bundeswasserstraße werden oder soll ein Gewässer die Eigenschaft als Bundeswasserstraße verlieren, bedarf es einer Vereinbarung zwischen dem Bund, dem Land und dem bisherigen oder dem künftigen Eigentümer. Den Übergang bewirkt ein Bundesgesetz; das Bundesministerium für Verkehr wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen den Übergang von Gewässern oder Gewässerstrecken mit nur örtlicher Bedeutung durch Rechtsverordnung zu bewirken.
 
 (2) In Rechtsvorschriften nach Absatz 1 ist die Anlage 1 zu ändern.
 
@@ -61,7 +61,7 @@ Bei der Verwaltung, dem Ausbau und dem Neubau von Bundeswasserstraßen sind die 
 
 # § 5 – Befahren mit Wasserfahrzeugen
 
-Jedermann darf im Rahmen der Vorschriften des Schifffahrtsrechts sowie der Vorschriften dieses Gesetzes die Bundeswasserstraßen mit Wasserfahrzeugen befahren. Das Befahren der bundeseigenen Talsperren und Speicherbecken ist nur zulässig, soweit es durch Rechtsverordnung nach § 46 Nr. 2 gestattet wird. Das Befahren der Bundeswasserstraßen in Naturschutzgebieten und Nationalparken nach den §§ 23 und 24 des Bundesnaturschutzgesetzes kann durch Rechtsverordnung, die das Bundesministerium für Digitales und Verkehr im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz erlässt, geregelt, eingeschränkt oder untersagt werden, soweit dies zur Erreichung des Schutzzweckes erforderlich ist.
+Jedermann darf im Rahmen der Vorschriften des Schifffahrtsrechts sowie der Vorschriften dieses Gesetzes die Bundeswasserstraßen mit Wasserfahrzeugen befahren. Das Befahren der bundeseigenen Talsperren und Speicherbecken ist nur zulässig, soweit es durch Rechtsverordnung nach § 46 Nr. 2 gestattet wird. Das Befahren der Bundeswasserstraßen in Naturschutzgebieten und Nationalparken nach den §§ 23 und 24 des Bundesnaturschutzgesetzes kann durch Rechtsverordnung, die das Bundesministerium für Verkehr im Einvernehmen mit dem Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit erlässt, geregelt, eingeschränkt oder untersagt werden, soweit dies zur Erreichung des Schutzzweckes erforderlich ist.
 
 # § 6 – Gemeingebrauch
 
@@ -79,7 +79,11 @@ Durch Rechtsverordnung nach § 46 Nr. 3 kann der Gemeingebrauch geregelt, beschr
 
 # § 8 – Umfang der Unterhaltung
 
-(1) Die Unterhaltung der Binnenwasserstraßen (§ 1 Abs. 1 Nr. 1) umfasst die Erhaltung eines ordnungsgemäßen Zustandes für den Wasserabfluss und die Erhaltung der Schiffbarkeit. Zur Unterhaltung gehört auch die Erhaltung von Einrichtungen und Gewässerteilen im Sinne des § 1 Absatz 6 Nummer 3. Bei der Unterhaltung ist den Belangen des Naturhaushalts Rechnung zu tragen; Bild und Erholungswert der Gewässerlandschaft sind zu berücksichtigen. Die natürlichen Lebensgrundlagen sind zu bewahren. Unterhaltungsmaßnahmen müssen die nach §§ 27 bis 31 des Wasserhaushaltsgesetzes maßgebenden Bewirtschaftungsziele beachten und werden so durchgeführt, dass mehr als nur geringfügige Auswirkungen auf den Hochwasserschutz vermieden werden.
+(1) Die Unterhaltung der Binnenwasserstraßen (§ 1 Abs. 1 Nr. 1) umfasst die Erhaltung eines ordnungsgemäßen Zustandes für den Wasserabfluss und die Erhaltung der Schiffbarkeit. Zur Unterhaltung gehört auch die Erhaltung von Einrichtungen und Gewässerteilen im Sinne des § 1 Absatz 6 Nummer 3. Bei der Unterhaltung ist den Belangen des Naturhaushalts Rechnung zu tragen; Bild und Erholungswert der Gewässerlandschaft sind zu berücksichtigen. Die natürlichen Lebensgrundlagen sind zu bewahren. Unterhaltungsmaßnahmen müssen die nach §§ 27 bis 31 des Wasserhaushaltsgesetzes maßgebenden Bewirtschaftungsziele beachten und werden so durchgeführt, dass mehr als nur geringfügige Auswirkungen auf den Hochwasserschutz vermieden werden. Veränderungen im Rahmen eines vollständigen oder teilweisen Ersatzes bundeseigener Schifffahrtsanlagen, die auf den Stand der Technik zurückzuführen sind, stellen keinen Ausbau dar. Unterhaltungsmaßnahmen, welche dem vollständigen oder teilweisen Ersatz bundeseigener Schifffahrtsanlagen dienen, die einen kritischen Bauwerkszustand aufweisen oder bei denen im Hinblick auf das Alter und die standardisierte technische Nutzungsdauer einer derartigen Schifffahrtsanlage statistisch von einem zeitnahen Erfordernis eines vollständigen oder teilweisen Ersatzes auszugehen ist, liegen im überragenden öffentlichen Interesse und dienen der öffentlichen Sicherheit, wenn
+
+1. die Schifffahrtsanlage nicht gesperrt werden kann und ihr Versagen oder der Ausfall ihrer Funktion zu einer Gefährdung der Sicherheit bis hin zu einer Gefahr für Leib und Leben führen kann oder
+
+2. das Versagen der Schifffahrtsanlage oder ihr Ausfall die Verkehrsfunktion von Teilen des Bundeswasserstraßennetzes mit erheblicher verkehrlicher Relevanz unterbrechen oder maßgeblich beeinträchtigen kann.
 
 (2) Wenn es die Erhaltung des ordnungsgemäßen Zustands nach Absatz 1 erfordert, gehören zur Unterhaltung besonders die Räumung, die Freihaltung, der Schutz und die Pflege des Gewässerbettes mit seinen Ufern. Dabei ist auf die Belange der Fischerei Rücksicht zu nehmen.
 
@@ -137,7 +141,7 @@ Zu den Maßnahmen nach Satz 1 Nummer 3 gehören auch solche Maßnahmen, bei dene
 
 # § 13 – Planungen
 
-(1) Das Bundesministerium für Digitales und Verkehr bestimmt im Einvernehmen mit der zuständigen Landesbehörde die Planung und Linienführung der Bundeswasserstraßen. Bei der Bestimmung der Linienführung sind die von dem Vorhaben berührten öffentlichen Belange einschließlich der Umweltverträglichkeit im Rahmen der Abwägung zu berücksichtigen.
+(1) Das Bundesministerium für Verkehr bestimmt im Einvernehmen mit der zuständigen Landesbehörde die Planung und Linienführung der Bundeswasserstraßen. Bei der Bestimmung der Linienführung sind die von dem Vorhaben berührten öffentlichen Belange einschließlich der Umweltverträglichkeit im Rahmen der Abwägung zu berücksichtigen.
 
 (2) (weggefallen)
 
@@ -149,47 +153,25 @@ Zu den Maßnahmen nach Satz 1 Nummer 3 gehören auch solche Maßnahmen, bei dene
 
 (1a) und (1b) (weggefallen)
 
-(2) Ist das Planfeststellungsverfahren eingeleitet, kann die Generaldirektion Wasserstraßen und Schifffahrt nach Anhörung der zuständigen Landesbehörde und der anliegenden Gemeinden und Gemeindeverbände eine vorläufige Anordnung erlassen, in der vorbereitende Maßnahmen oder Teilmaßnahmen zum Ausbau oder Neubau festgesetzt werden,
+(2) Ist das Planfeststellungs- oder Plangenehmigungsverfahren eingeleitet, kann die Planfeststellungsbehörde nach Anhörung der zuständigen Landesbehörde und der betroffenen Gemeinden und Gemeindeverbände eine vorläufige Anordnung erlassen, in der vorbereitende Maßnahmen oder Teilmaßnahmen zum Ausbau oder Neubau festgesetzt werden, wenn
 
-1. soweit es sich um reversible Maßnahmen handelt,
+1. an dem vorzeitigen Beginn ein öffentliches Interesse besteht und
 
-2. wenn Gründe des Wohls der Allgemeinheit den alsbaldigen Beginn der Arbeiten erfordern,
+2. die nach § 74 Absatz 2 des Verwaltungsverfahrensgesetzes und die nach § 14b Absatz 1 Nummer 1 zu berücksichtigenden Interessen gewahrt werden.
 
-3. wenn mit einer Entscheidung zugunsten des Trägers des Vorhabens gerechnet werden kann und
+In der vorläufigen Anordnung sind die Auflagen zur Sicherung dieser Interessen und der Umfang der vorläufig zulässigen Maßnahmen festzulegen. Die vorläufige Anordnung berechtigt nicht zu einer wesentlichen Veränderung des Wasserstandes oder der Strömungsverhältnisse. Sie ist den betroffenen Gemeinden und Gemeindeverbänden sowie den Beteiligten zuzustellen oder ihr Inhalt ist öffentlich bekannt zu machen. Im Fall der Bekanntmachung im Internet gilt die vorläufige Anordnung zwei Wochen nach der elektronischen Veröffentlichung als bekannt gegeben; hierauf ist bei der Veröffentlichung hinzuweisen. Die vorläufige Anordnung ersetzt nicht die Planfeststellung. Soweit Maßnahmen durch die Planfeststellung für unzulässig erklärt sind, ist ein mit dem früheren Zustand im Wesentlichen gleichartiger Zustand herzustellen. Dies gilt auch, wenn der Antrag auf Planfeststellung zurückgenommen wurde. Der Betroffene ist zu entschädigen, soweit ein Schaden eingetreten ist, der durch die Herstellung eines mit dem früheren Zustand im Wesentlichen gleichartigen Zustands nicht ausgeglichen wird. Rechtsbehelfe gegen die vorläufige Anordnung haben keine aufschiebende Wirkung; ein Vorverfahren findet nicht statt. § 14e gilt entsprechend.
 
-4. wenn die nach § 74 Absatz 2 des Verwaltungsverfahrensgesetzes und nach § 14b Nummer 1 zu berücksichtigenden Interessen gewahrt werden.
-
-In der vorläufigen Anordnung sind die Auflagen zur Sicherung dieser Interessen und der Umfang der vorläufig zulässigen Maßnahmen festzulegen. Die vorläufige Anordnung berechtigt nicht zu einer wesentlichen Veränderung des Wasserstandes oder der Strömungsverhältnisse. Sie ist den anliegenden Gemeinden und Gemeindeverbänden sowie den Beteiligten zuzustellen und ortsüblich öffentlich bekannt zu machen. Sie ersetzt nicht die Planfeststellung. Soweit die Maßnahmen durch die Planfeststellung für unzulässig erklärt sind, ist der frühere Zustand wiederherzustellen. Dies gilt auch, wenn der Antrag auf Planfeststellung zurückgenommen wurde. Der Betroffene ist zu entschädigen, soweit ein Schaden eingetreten ist, der durch die Wiederherstellung des früheren Zustandes nicht ausgeglichen wird. Rechtsbehelfe gegen die vorläufige Anordnung haben keine aufschiebende Wirkung; ein Vorverfahren findet nicht statt. § 14e gilt entsprechend.
-
-(3) Soweit das Vorhaben Belange der Landeskultur oder der Wasserwirtschaft berührt, bedürfen die Feststellung des Planes, die Genehmigung und die vorläufige Anordnung des Einvernehmens mit der zuständigen Landesbehörde. Über die Erteilung des Einvernehmens ist innerhalb von drei Monaten nach Übermittlung des Entscheidungsentwurfs zu entscheiden.
+(3) Soweit das Vorhaben Belange der Landeskultur oder der Wasserwirtschaft berührt, bedürfen die Feststellung des Planes, die Genehmigung und die vorläufige Anordnung des Einvernehmens mit der zuständigen Landesbehörde. Über die Erteilung des Einvernehmens ist innerhalb von drei Monaten nach Übermittlung des Entscheidungsentwurfs zu entscheiden. Eine Verlängerung dieser Frist ist ausgeschlossen. Wird das Einvernehmen nicht innerhalb dieser Frist ausdrücklich verweigert, gilt es als erteilt. Für eine vorläufige Anordnung kann die Planfeststellungsbehörde eine kürzere Frist bestimmen; die Sätze 3 und 4 gelten entsprechend.
 
 # § 14a – Anhörungsverfahren
 
-(1) Für das Anhörungsverfahren und das Beteiligungsverfahren gelten § 73 des Verwaltungsverfahrensgesetzes und die §§ 17 bis 19 sowie 21 des Gesetzes über die Umweltverträglichkeitsprüfung nach Maßgabe der folgenden Absätze. Das Gleiche gilt für die Behörden- und Öffentlichkeitsbeteiligung nach den §§ 58 und 59 sowie den §§ 62 und 63 des Gesetzes über die Umweltverträglichkeitsprüfung.
+(1) Für das Anhörungsverfahren und das Beteiligungsverfahren gelten die §§ 27a, 27b, 27c und 72 bis 73c des Verwaltungsverfahrensgesetzes und die §§ 17 bis 19 sowie 21 des Gesetzes über die Umweltverträglichkeitsprüfung nach Maßgabe des Absatzes 2. Das Gleiche gilt für die Behörden- und Öffentlichkeitsbeteiligung nach den §§ 58, 59 sowie 62 und 63 des Gesetzes über die Umweltverträglichkeitsprüfung.
 
-(2) Die Anhörungsbehörde soll
-
-1. von dem Träger des Vorhabens verlangen, den Plan ausschließlich oder ergänzend in einem verkehrsüblichen und von der Anhörungsbehörde vorgegebenen elektronischen Format einzureichen;
-
-2. den Behörden, deren Aufgabenbereich durch das Vorhaben berührt wird, den Plan auch ausschließlich elektronisch zugänglich machen;
-
-3. von den Behörden, deren Aufgabenbereich durch das Vorhaben berührt wird, verlangen, ihre Stellungnahmen nach § 73 Absatz 2 und 3a des Verwaltungsverfahrensgesetzes sowie nach § 17 Absatz 2 des Gesetzes über die Umweltverträglichkeitsprüfung elektronisch zu übermitteln.
-
-(3) Die Anhörungsbehörde soll die Auslegung des Plans und der Unterlagen nach § 19 Absatz 2 des Gesetzes über die Umweltverträglichkeitsprüfung durch die Veröffentlichung der Unterlagen auf ihrer Internetseite bewirken. Auf Verlangen eines Beteiligten, das während der Dauer der Beteiligung an die Anhörungsbehörde zu richten ist, ist ihm eine leicht zu erreichende Zugangsmöglichkeit zur Verfügung zu stellen. Abweichend von § 73 Absatz 5 Satz 1 des Verwaltungsverfahrensgesetzes erfolgt die Bekanntmachung durch die Anhörungsbehörde; Satz 1 gilt entsprechend. Die Bekanntmachung erfolgt zusätzlich in örtlichen Tageszeitungen, in deren Verbreitungsgebiet sich das Vorhaben voraussichtlich auswirken wird. Die Anhörungsbehörde hat in der Bekanntmachung darauf hinzuweisen, dass und wo der Plan elektronisch veröffentlicht wird und dass eine leicht zu erreichende Zugangsmöglichkeit zur Verfügung gestellt werden kann.
-
-(4) Einwendungen und Stellungnahmen sind gegenüber der Anhörungsbehörde abzugeben. Sie sollen elektronisch übermittelt werden. Eine schriftliche Übermittlung ist ebenfalls möglich. Die Anhörungsbehörde hat in der Bekanntmachung darauf hinzuweisen.
-
-(5) Die Anhörungsbehörde kann auf eine Erörterung nach § 73 Absatz 6 des Verwaltungsverfahrensgesetzes und § 18 Absatz 1 Satz 4 des Gesetzes über die Umweltverträglichkeitsprüfung verzichten. Soll ein im Internet veröffentlichter oder ausgelegter Plan geändert werden, so soll von der Erörterung im Sinne des § 73 Absatz 6 des Verwaltungsverfahrensgesetzes und des § 18 Absatz 1 Satz 4 des Gesetzes über die Umweltverträglichkeitsprüfung abgesehen werden.
-
-(6) Die Anhörungsbehörde kann eine Erörterung nach § 73 Absatz 6 des Verwaltungsverfahrensgesetzes und § 18 Absatz 1 Satz 4 des Gesetzes über die Umweltverträglichkeitsprüfung ganz oder teilweise in digitalen Formaten durchführen. In diesem Fall hat sie in der Bekanntmachung darauf hinzuweisen, dass und wie die Erörterung in einem digitalen Format durchgeführt wird.
-
-(7) Soweit Stellungnahmen, Einwendungen oder sonstige Erklärungen elektronisch übermittelt werden können oder der Plan oder sonstige Unterlagen in einem elektronischen Format veröffentlicht oder zugänglich gemacht werden, haben die Anhörungsbehörde und die Planfeststellungsbehörde die technische Ausgestaltung zu bestimmen.
-
-(8) Die Durchführung informeller Beteiligungsformate ist möglich. Diese Beteiligungsformate sind von dem Planfeststellungsverfahren unabhängig und dürfen sein Ergebnis nicht vorwegnehmen.
+(2) Die Planfeststellungsbehörde kann auf eine Erörterung nach § 73b des Verwaltungsverfahrensgesetzes und § 18 Absatz 1 Satz 4 des Gesetzes über die Umweltverträglichkeitsprüfung verzichten. Soll ein ausgelegter Plan geändert werden, so soll von der Erörterung im Sinne des § 73b des Verwaltungsverfahrensgesetzes und des § 18 Absatz 1 Satz 4 des Gesetzes über die Umweltverträglichkeitsprüfung abgesehen werden.
 
 # § 14b – Planfeststellungsbeschluss, Plangenehmigung
 
-(1) Für Planfeststellungsbeschluss und Plangenehmigung gilt § 74 des Verwaltungsverfahrensgesetzes mit folgenden Maßgaben:
+Für Planfeststellungsbeschluss und Plangenehmigung gelten die §§ 74 und 74a des Verwaltungsverfahrensgesetzes mit folgenden Maßgaben:
 
 1. Die Planfeststellungsbehörde hat dem Träger des Vorhabens Vorkehrungen oder die Errichtung und Unterhaltung von Anlagen auch dann aufzuerlegen, wenn erhebliche Nachteile dadurch zu erwarten sind, dass
 
@@ -203,7 +185,7 @@ b) eine Gewässerbenutzung, die auf einer Erlaubnis oder anderen Befugnis beruht
 
 4. Zur Sicherung des Beweises von Tatsachen, die für den Planfeststellungsbeschluss oder eine Plangenehmigung von Bedeutung sein können, besonders zur Feststellung des Zustandes einer Sache, kann die Planfeststellungsbehörde – auch vor Erlass des Planfeststellungsbeschlusses oder der Plangenehmigung – durch eine selbständige Beweissicherungsanordnung die erforderlichen Maßnahmen anordnen, wenn sonst die Feststellung unmöglich oder wesentlich erschwert werden würde.
 
-5. Für Anträge auf Fortsetzung des Verfahrens bei vorbehaltenen Entscheidungen ist § 75 Abs. 3 des Verwaltungsverfahrensgesetzes anzuwenden.
+5. Für Anträge auf Fortsetzung des Verfahrens bei vorbehaltenen Entscheidungen ist § 75 Absatz 5 des Verwaltungsverfahrensgesetzes anzuwenden.
 
 6. Die Planfeststellung ist zu versagen, wenn von dem Ausbau oder Neubau
 
@@ -213,25 +195,11 @@ b) nachteilige Wirkungen auf das Recht eines anderen oder der in Nummer 1 bezeic
 
 Die Planfeststellung für einen Ausbau nach § 12 Absatz 2 Satz 1 Nummer 3 darf im Übrigen nur erfolgen, wenn die Voraussetzungen des § 68 Absatz 3 des Wasserhaushaltsgesetzes vorliegen.
 
-(2) Abweichend von § 74 Absatz 6 Satz 1 Nummer 3 des Verwaltungsverfahrensgesetzes kann für ein Vorhaben, für das nach dem Gesetz über die Umweltverträglichkeitsprüfung eine Umweltverträglichkeitsprüfung durchzuführen ist, an Stelle eines Planfeststellungsbeschlusses eine Plangenehmigung erteilt werden. § 14a gilt entsprechend. Im Übrigen findet das Gesetz über die Umweltverträglichkeitsprüfung mit Ausnahme des § 21 Absatz 3 Anwendung.
-
-(3) Abweichend von § 74 Absatz 4, 5 und 6 Satz 2 dritter Halbsatz des Verwaltungsverfahrensgesetzes und § 27 Absatz 1 Satz 1 des Gesetzes über die Umweltverträglichkeitsprüfung können die Zustellung, Auslegung und Bekanntmachung der Auslegung des Planfeststellungsbeschlusses oder der Plangenehmigung dadurch erfolgen, dass die Entscheidung mit einer Rechtsbehelfsbelehrung und dem festgestellten Plan für zwei Wochen auf der Internetseite der Planfeststellungsbehörde veröffentlicht wird. Zusätzlich ist der verfügende Teil des Planfeststellungsbeschlusses, die Rechtsbehelfsbelehrung und ein Hinweis auf die Veröffentlichung auf der Internetseite der Planfeststellungsbehörde verbunden mit dem Hinweis auf leicht zu erreichende Zugangsmöglichkeiten in den örtlichen Tageszeitungen bekanntzumachen, in deren Verbreitungsgebiet sich das Vorhaben voraussichtlich auswirken wird; auf Auflagen ist hinzuweisen. Auf Verlangen eines Beteiligten, das bis zum Ablauf der Rechtsbehelfsfrist an die Planfeststellungsbehörde zu richten ist, ist ihm eine leicht zu erreichende Zugangsmöglichkeit zur Verfügung zu stellen. Im Fall des elektronischen Zugänglichmachens gilt mit dem Ende der Veröffentlichungsfrist die Entscheidung dem Träger des Vorhabens, den Betroffenen und denjenigen gegenüber, die Einwendungen erhoben haben, als zugestellt; hierauf ist in der Bekanntmachung hinzuweisen. Die Unterlagen nach Satz 1 sollen nach Ablauf der Veröffentlichungsfrist bis zum Ende der Rechtsbehelfsfrist zur Information im Internet veröffentlicht werden.
-
-# § 14c – Rechtswirkungen der Planfeststellung und der Plangenehmigung
-
-Für die Rechtswirkungen der Planfeststellung und Plangenehmigung gilt § 75 des Verwaltungsverfahrensgesetzes mit folgenden Maßgaben:
-
-1. Wird mit der Durchführung des Plans nicht innerhalb von zehn Jahren nach Eintritt der Unanfechtbarkeit begonnen, so tritt er außer Kraft, es sei denn, er wird vorher auf Antrag des Trägers des Vorhabens von der Planfeststellungsbehörde um höchstens fünf Jahre verlängert.
-
-2. Vor der Entscheidung nach Nummer 1 ist eine auf den Antrag begrenzte Anhörung nach dem für die Planfeststellung oder für die Plangenehmigung vorgeschriebenen Verfahren durchzuführen.
-
-3. Für die Zustellung, Veröffentlichung im Internet oder Auslegung sowie die Anfechtung der Entscheidung über die Verlängerung sind die Bestimmungen über den Planfeststellungsbeschluss entsprechend anzuwenden.
-
-4. Wird eine Planergänzung oder ein ergänzendes Verfahren nach § 75 Absatz 1a Satz 2 des Verwaltungsverfahrensgesetzes erforderlich und wird diese Planergänzung oder dieses ergänzende Verfahren unverzüglich betrieben, so bleibt die Durchführung des Vorhabens zulässig, soweit es von der Planergänzung oder dem Ergebnis des ergänzenden Verfahrens offensichtlich nicht berührt ist.
+# § 14c – (weggefallen)
 
 # § 14d – Planänderung vor Fertigstellung des Vorhabens
 
-Für die Planergänzung und das ergänzende Verfahren im Sinne des § 75 Abs. 1a Satz 2 des Verwaltungsverfahrensgesetzes und für die Planänderung vor Fertigstellung des Vorhabens gilt § 76 des Verwaltungsverfahrensgesetzes mit der Maßgabe, dass im Falle des § 76 Abs. 1 des Verwaltungsverfahrensgesetzes von einer Erörterung im Sinne des § 73 Abs. 6 des Verwaltungsverfahrensgesetzes und des § 18 Absatz 1 Satz 4 des Gesetzes über die Umweltverträglichkeitsprüfung abgesehen werden kann. Im Übrigen gelten für das neue Verfahren die Vorschriften dieses Gesetzes.
+Für die Planergänzung und das ergänzende Verfahren im Sinne des § 75 Absatz 2 des Verwaltungsverfahrensgesetzes und für die Planänderung vor Fertigstellung des Vorhabens gilt § 76 des Verwaltungsverfahrensgesetzes mit der Maßgabe, dass im Falle des § 76 Absatz 1 des Verwaltungsverfahrensgesetzes von einer Erörterung im Sinne des § 73b des Verwaltungsverfahrensgesetzes und des § 18 Absatz 1 Satz 4 des Gesetzes über die Umweltverträglichkeitsprüfung abgesehen werden kann. Im Übrigen gelten für das neue Verfahren die Vorschriften dieses Gesetzes.
 
 # § 14e – Rechtsbehelfe
 
@@ -251,29 +219,17 @@ in der Anlage 2 aufgeführt sind.
 
 (2) Der Antrag auf Anordnung der aufschiebenden Wirkung der Anfechtungsklage gegen einen Planfeststellungsbeschluss oder eine Plangenehmigung nach § 80 Absatz 5 Satz 1 der Verwaltungsgerichtsordnung kann nur innerhalb eines Monats nach der Zustellung des Planfeststellungsbeschlusses oder der Plangenehmigung gestellt und begründet werden. Darauf ist in der Rechtsbehelfsbelehrung hinzuweisen. § 58 der Verwaltungsgerichtsordnung gilt entsprechend. Treten später Tatsachen ein, die die Anordnung der aufschiebenden Wirkung rechtfertigen, so kann der durch den Planfeststellungsbeschluss oder die Plangenehmigung Beschwerte einen hierauf gestützten Antrag nach § 80 Absatz 5 Satz 1 der Verwaltungsgerichtsordnung innerhalb einer Frist von einem Monat stellen und begründen. Die Frist beginnt mit dem Zeitpunkt, in dem der Beschwerte von den Tatsachen Kenntnis erlangt.
 
-(3) Der Kläger hat innerhalb einer Frist von zehn Wochen ab Klageerhebung die zur Begründung seiner Klage dienenden Tatsachen und Beweismittel anzugeben. Erklärungen und Beweismittel, die erst nach Ablauf dieser Frist vorgebracht werden, sind nur zuzulassen, wenn der Kläger die Verspätung genügend entschuldigt. Der Entschuldigungsgrund ist auf Verlangen des Gerichts glaubhaft zu machen. Satz 2 gilt nicht, wenn es mit geringem Aufwand möglich ist, den Sachverhalt auch ohne Mitwirkung des Klägers zu ermitteln. Die Frist nach Satz 1 kann durch den Vorsitzenden oder den Berichterstatter auf Antrag verlängert werden, wenn der Kläger in dem Verfahren, in dem die angefochtene Entscheidung ergangen ist, keine Möglichkeit der Beteiligung hatte. § 6 des Umwelt-Rechtsbehelfsgesetzes ist nicht anzuwenden.
+(2a) Der gesetzliche Sofortvollzug kann mit der Begründung, dass sich der Baubeginn verzögert, nur dann von der Planfeststellungsbehörde oder dem Gericht ausgesetzt werden, wenn sich der Baubeginn um mindestens vier Jahre verzögert. Der gesetzliche Sofortvollzug kann nicht mit der Begründung, dass noch keine Haushaltsmittel für das Vorhaben bereitgestellt wurden oder dies nicht absehbar ist, von der Planfeststellungsbehörde oder dem Gericht ausgesetzt werden.
+
+(3) Der Kläger hat innerhalb einer Frist von zehn Wochen ab Klageerhebung die zur Begründung seiner Klage dienenden Tatsachen und Beweismittel anzugeben. Erklärungen und Beweismittel, die erst nach Ablauf dieser Frist vorgebracht werden, sind nur zuzulassen, wenn der Kläger die Verspätung genügend entschuldigt. Der Entschuldigungsgrund ist auf Verlangen des Gerichts glaubhaft zu machen. Satz 2 gilt nicht, wenn es mit geringem Aufwand möglich ist, den Sachverhalt auch ohne Mitwirkung des Klägers zu ermitteln. Die Frist kann durch den Vorsitzenden oder den Berichterstatter auf Antrag verlängert werden, wenn der Kläger in dem Verfahren, in dem die angefochtene Entscheidung ergangen ist, keine Möglichkeit der Beteiligung hatte. § 6 des Umwelt-Rechtsbehelfsgesetzes ist nicht anzuwenden. Die Sätze 1 bis 6 gelten entsprechend für Fälle, in denen das gerichtliche Verfahren zur Durchführung eines Planergänzungs- oder Planänderungsverfahrens ausgesetzt wurde und später fortgesetzt wird; die Frist läuft ab Fortsetzung des gerichtlichen Verfahrens.
 
 # § 14f – Projektmanager
 
-Die Generaldirektion Wasserstraßen und Schifffahrt kann einen Dritten mit der Vorbereitung und Durchführung von Verfahrensschritten, insbesondere
-
-1. der Erstellung von Verfahrensleitplänen unter Bestimmung von Verfahrensabschnitten und Zwischenterminen,
-
-2. der Fristenkontrolle,
-
-3. der Koordinierung von erforderlichen Sachverständigengutachten,
-
-4. der ersten Auswertung der eingereichten Stellungnahmen,
-
-5. der organisatorischen Vorbereitung eines Erörterungstermins und
-
-6. der Leitung eines Erörterungstermins,
-
-auf Vorschlag oder mit Zustimmung des Vorhabenträgers und auf dessen Kosten beauftragen. Die Entscheidung über den Planfeststellungsantrag verbleibt bei der zuständigen Behörde.
+§ 73d des Verwaltungsverfahrensgesetzes gilt mit der Maßgabe, dass der Träger des Vorhabens die Kosten der Beauftragung eines Dritten trägt, wenn die Beauftragung auf seinen Vorschlag oder mit seiner Zustimmung erfolgt.
 
 # § 15 – Veränderungssperre, Vorkaufsrecht
 
-(1) Sobald der Plan auf der Internetseite der Planfeststellungsbehörde veröffentlicht, ausgelegt oder andere Gelegenheit gegeben ist, den Plan einzusehen (§ 73 Absatz 3 des Verwaltungsverfahrensgesetzes), dürfen auf den vom Plan betroffenen Flächen bis zu ihrer Inanspruchnahme wesentlich wertsteigernde oder die geplanten Baumaßnahmen erheblich erschwerende Veränderungen nicht vorgenommen werden (Veränderungssperre). Veränderungen, die in rechtlich zulässiger Weise vorher begonnen worden sind, Unterhaltungsarbeiten und die Fortführung einer bisher ausgeübten Nutzung werden davon nicht berührt. Unzulässige Veränderungen bleiben bei der Anordnung von Vorkehrungen und Anlagen (§ 74 Absatz 2 des Verwaltungsverfahrensgesetzes) und im Entschädigungsverfahren unberücksichtigt.
+(1) Sobald der Plan ausgelegt ist oder andere Gelegenheit gegeben ist, den Plan einzusehen (§ 73 Absatz 1 des Verwaltungsverfahrensgesetzes), dürfen auf den vom Plan betroffenen Flächen bis zu ihrer Inanspruchnahme wesentlich wertsteigernde oder die geplanten Baumaßnahmen erheblich erschwerende Veränderungen nicht vorgenommen werden (Veränderungssperre). Veränderungen, die in rechtlich zulässiger Weise vorher begonnen worden sind, Unterhaltungsarbeiten und die Fortführung einer bisher ausgeübten Nutzung werden davon nicht berührt. Unzulässige Veränderungen bleiben bei der Anordnung von Vorkehrungen und Anlagen (§ 74 Absatz 2 des Verwaltungsverfahrensgesetzes) und im Entschädigungsverfahren unberücksichtigt.
 
 (2) Dauert die Veränderungssperre über vier Jahre, können die Eigentümer für die dadurch entstandenen Vermögensnachteile Entschädigung verlangen.
 
@@ -283,29 +239,29 @@ auf Vorschlag oder mit Zustimmung des Vorhabenträgers und auf dessen Kosten bea
 
 (1) Eigentümer und sonstige Nutzungsberechtigte haben zur Vorbereitung der Planung und der Baudurchführung notwendige Kampfmittelräumungen, archäologische Untersuchungen und Bergungen sowie Vermessungen, Boden- und Grundwasseruntersuchungen einschließlich der vorübergehenden Anbringung von Markierungszeichen und sonstige Vorarbeiten durch den Träger des Vorhabens oder von ihm Beauftragte zu dulden. Wohnungen dürfen nur mit Zustimmung des Wohnungsinhabers betreten werden. Satz 2 gilt nicht für Arbeits-, Betriebs- oder Geschäftsräume während der jeweiligen Arbeits-, Geschäfts- oder Aufenthaltszeiten.
 
-(2) Die Absicht, Vorarbeiten im Sinne des Absatzes 1 Satz 1 auszuführen, ist dem Eigentümer oder sonstigen Nutzungsberechtigten mindestens zwei Wochen vorher unmittelbar oder durch ortsübliche Bekanntmachung in den Gemeinden, in deren Bereich die Vorarbeiten durchzuführen sind, bekannt zu geben.
+(2) Die Absicht, Vorarbeiten im Sinne des Absatzes 1 Satz 1 auszuführen, ist durch den Träger des Vorhabens dem Eigentümer oder sonstigen Nutzungsberechtigten mindestens zwei Wochen vorher unmittelbar oder durch öffentliche Bekanntmachung bekannt zu geben.
 
 (3) Ein Eigentümer oder sonstiger Nutzungsberechtigter kann eine Entschädigung verlangen, wenn ihm durch eine Maßnahme nach Absatz 1 unmittelbare Vermögensnachteile entstehen.
 
 (4) § 11 Abs. 4 gilt entsprechend.
 
-# § 17 – Veröffentlichung im Internet
+(5) Ein Rechtsbehelf gegen eine Duldungsanordnung einschließlich damit verbundener Vollstreckungsmaßnahmen nach dem Verwaltungsvollstreckungsgesetz hat keine aufschiebende Wirkung; ein Vorverfahren findet nicht statt. Der Antrag auf Anordnung der aufschiebenden Wirkung nach § 80 Absatz 5 Satz 1 der Verwaltungsgerichtsordnung kann nur innerhalb eines Monats nach der Bekanntgabe der Duldungsanordnung gestellt und begründet werden. Darauf ist in der Rechtsbehelfsbelehrung hinzuweisen. § 58 der Verwaltungsgerichtsordnung ist entsprechend anzuwenden.
 
-Wird der Plan nicht nach § 14a Absatz 3 Satz 1 dieses Gesetzes, § 27a Absatz 1 des Verwaltungsverfahrensgesetzes oder § 20 des Gesetzes über die Umweltverträglichkeitsprüfung im Internet veröffentlicht, ist dieser vom Träger des Vorhabens auf seiner Internetseite zu veröffentlichen. § 23 des Gesetzes über die Umweltverträglichkeitsprüfung gilt entsprechend. Maßgeblich ist der Inhalt des im Rahmen des Genehmigungsverfahrens zur Einsicht ausgelegten Plans. Hierauf ist bei der Veröffentlichung hinzuweisen.
+# § 17 – (weggefallen)
 
 # § 18 – Planfeststellungsverfahren bei Vorhaben im transeuropäischen Verkehrsnetz
 
-(1) Wird ein Planfeststellungsverfahren oder ein Plangenehmigungsverfahren für ein Vorhaben durchgeführt, das
+(1) Ein Planfeststellungsverfahren oder ein Plangenehmigungsverfahren ist innerhalb von vier Jahren abzuschließen, wenn das Vorhaben
 
-1. im Kernnetzkorridor nach Anlage 3 gelegen ist, oder
+1. auf den von der Europäischen Union vorermittelten Abschnitten grenzüberschreitender oder fehlender Verbindungen nach Anlage 3 gelegen ist oder
 
-2. im Kernnetzkorridor nach Anlage 4 gelegen ist und dessen geschätzte Gesamtkosten zum Zeitpunkt der Einleitung des Planfeststellungsverfahrens oder des Plangenehmigungsverfahrens 300 000 000 Euro überschreiten,
+2. in einem Europäischen Verkehrskorridor nach Anhang III zu der Verordnung (EU) 2024/1679 gelegen ist und seine geschätzten Gesamtkosten zum Zeitpunkt der Einleitung des Verfahrens 300 000 000 Euro überschreiten.
 
-ist dieses innerhalb von vier Jahren abzuschließen. Die Frist beginnt mit dem Eingang des Plans nach § 73 Absatz 1 des Verwaltungsverfahrensgesetzes bei der Anhörungsbehörde und Planfeststellungsbehörde. Diese sowie alle am Planfeststellungsverfahren oder am Plangenehmigungsverfahren beteiligten Behörden des Bundes und der Länder sind bestrebt, den Planfeststellungsverfahren oder Plangenehmigungsverfahren nach Satz 1 Vorrang bei der Bearbeitung einzuräumen. Dabei ist das Beschleunigungsinteresse an anderen Vorhaben, die im überragenden öffentlichen Interesse stehen oder der öffentlichen Sicherheit dienen, zu beachten.
+Die Frist beginnt mit dem Eingang des Plans nach § 72a Absatz 1 des Verwaltungsverfahrensgesetzes bei der Planfeststellungsbehörde. Die Planfeststellungsbehörde sowie alle am Verfahren beteiligten Behörden des Bundes und der Länder sind bestrebt, dem Verfahren nach Satz 1 Vorrang bei der Bearbeitung einzuräumen. Dabei ist das Beschleunigungsinteresse anderer Vorhaben, die im überragenden öffentlichen Interesse liegen, zu beachten. Vorhaben nach Satz 1 liegen im überragenden öffentlichen Interesse und dienen der öffentlichen Sicherheit. Die Verwirklichung eines Vorhabens nach Satz 1 ist von militärischer Relevanz und daher als vorrangiger Belang in die jeweils durchzuführenden Schutzgüterabwägungen einzubringen.
 
-(2) Die Planfeststellungsbehörde hat dem Vorhabenträger auf dessen Antrag Auskunft über die bei Vorlage des Plans nach § 73 Absatz 1 des Verwaltungsverfahrensgesetzes beizubringenden Informationen und Unterlagen zu erteilen. Weist das Vorhaben bei Eingang des Plans nach § 73 Absatz 1 des Verwaltungsverfahrensgesetzes nicht die erforderliche Reife auf, so ist der Antrag auf Einleitung des Verfahrens zur Planfeststellung oder Plangenehmigung spätestens vier Monate nach seinem Eingang bei der zuständigen Behörde abzulehnen.
+(2) Die Planfeststellungsbehörde hat dem Vorhabenträger auf dessen Antrag Auskunft über die bei Vorlage des Plans nach § 72a Absatz 1 des Verwaltungsverfahrensgesetzes beizubringenden Informationen und Unterlagen zu erteilen. Weist das Vorhaben bei Eingang des Plans nach § 72a Absatz 1 des Verwaltungsverfahrensgesetzes nicht die erforderliche Reife auf, so ist der Antrag auf Einleitung des Verfahrens zur Planfeststellung oder Plangenehmigung spätestens vier Monate nach seinem Eingang bei der zuständigen Behörde abzulehnen.
 
-(3) Auf Antrag der Planfeststellungsbehörde kann das Bundesministerium für Digitales und Verkehr die Frist nach Absatz 1 Satz 1 verlängern. Im Antrag sind die Gründe für die Fristüberschreitung darzulegen. Eine weitere Verlängerung kann unter denselben Bedingungen einmal gewährt werden.
+(3) Auf Antrag der Planfeststellungsbehörde kann das Bundesministerium für Verkehr die Frist nach Absatz 1 Satz 1 verlängern. Im Antrag sind die Gründe für die Fristüberschreitung darzulegen. Eine weitere Verlängerung kann unter denselben Bedingungen einmal gewährt werden.
 
 (4) Die Absätze 1 bis 3 finden keine Anwendung auf Vorhaben, deren Plan vor dem 10. August 2023 bei der Anhörungsbehörde und Planfeststellungsbehörde eingereicht wurde.
 
@@ -313,13 +269,13 @@ ist dieses innerhalb von vier Jahren abzuschließen. Die Frist beginnt mit dem E
 
 (1) Bei grenzüberschreitenden Vorhaben nach § 18 Absatz 1 Satz 1 sollen die zuständigen Behörden zusammenarbeiten, erforderliche Informationen, Unterlagen und Dokumente austauschen und die nationalen Zeitpläne ihrer Genehmigungsverfahren abstimmen.
 
-(2) Das Bundesministerium für Digitales und Verkehr hat die nach Artikel 45 der Verordnung (EU) Nr. 1315/2013 des Europäischen Parlaments und des Rates vom 11. Dezember 2013 über Leitlinien der Union für den Aufbau eines transeuropäischen Verkehrsnetzes und zur Aufhebung des Beschlusses Nr. 661/2010/EU (ABl. L 348 vom 20.12.2013, S. 1) benannten Europäischen Koordinatoren auf deren Ersuchen über den Sachstand des grenzüberscheitenden Vorhabens zu unterrichten.
+(2) Das Bundesministerium für Verkehr hat die nach Artikel 52 der Verordnung (EU) 2024/1679 benannten Europäischen Koordinatoren auf deren Ersuchen über den Sachstand des grenzüberscheitenden Vorhabens zu unterrichten.
 
-(3) Wird die Frist nach § 18 Absatz 1 Satz 1 und 2 nicht eingehalten, hat das Bundesministerium für Digitales und Verkehr bei grenzüberschreitenden Vorhaben nach Absatz 1 die Europäischen Koordinatoren auf deren Ersuchen über Maßnahmen zum zügigen Abschluss des Planfeststellungsverfahren oder Plangenehmigungsverfahrens zu unterrichten.
+(3) Wird die Frist nach § 18 Absatz 1 Satz 1 und 2 nicht eingehalten, hat das Bundesministerium für Verkehr bei grenzüberschreitenden Vorhaben nach Absatz 1 die Europäischen Koordinatoren auf deren Ersuchen über Maßnahmen zum zügigen Abschluss des Planfeststellungsverfahren oder Plangenehmigungsverfahrens zu unterrichten.
 
 # § 18b – Berichterstattung an die Europäische Kommission
 
-Zur Vorbereitung der Berichterstattung an die Europäische Kommission hat die Planfeststellungsbehörde dem Bundesministerium für Digitales und Verkehr erstmals zum 30. April 2026 und sodann alle zwei Jahre für ihren Zuständigkeitsbereich folgende Angaben aus dem Berichtszeitraum mitzuteilen:
+Zur Vorbereitung der Berichterstattung an die Europäische Kommission hat die Planfeststellungsbehörde dem Bundesministerium für Verkehr erstmals zum 30. April 2026 und sodann alle zwei Jahre für ihren Zuständigkeitsbereich folgende Angaben aus dem Berichtszeitraum mitzuteilen:
 
 1. Die Anzahl der laufenden sowie abgeschlossenen Planfeststellungsverfahren oder Plangenehmigungsverfahren nach § 18 Absatz 1 und § 18a Absatz 1,
 
@@ -337,7 +293,7 @@ Zur Vorbereitung der Berichterstattung an die Europäische Kommission hat die Pl
 
 (1) Ist der sofortige Beginn von Bauarbeiten geboten und weigert sich der Eigentümer oder Besitzer, den Besitz eines für den Neubau oder den Ausbau einer Bundeswasserstraße benötigten Grundstücks durch Vereinbarung unter Vorbehalt aller Entschädigungsansprüche zu überlassen, so hat die Enteignungsbehörde den Träger des Vorhabens auf Antrag nach Feststellung des Planes oder Erteilung der Plangenehmigung in den Besitz einzuweisen. Der Planfeststellungsbeschluss oder die Plangenehmigung müssen vollziehbar sein. Weiterer Voraussetzungen bedarf es nicht.
 
-(1a) Der Träger des Vorhabens kann verlangen, dass bereits nach Ablauf der Einwendungsfrist nach § 73 Absatz 4 des Verwaltungsverfahrensgesetzes das Verfahren zur vorzeitigen Besitzeinweisung in das Grundstück eines Dritten durchgeführt wird. In diesem Fall ist die nach dem Verfahrensstand zu erwartende Feststellung des Plans oder die zu erwartende Plangenehmigung dem Verfahren zur vorzeitigen Besitzeinweisung zugrunde zu legen. Der Besitzeinweisungsbeschluss ist mit der aufschiebenden Bedingung zu verbinden, dass sein Ergebnis durch den Planfeststellungsbeschluss oder die Plangenehmigung bestätigt wird. Wird das Ergebnis des Besitzeinweisungsbeschlusses durch den Planfeststellungsbeschluss oder die Plangenehmigung nicht bestätigt, ist die vorzeitige Besitzeinweisung auf der Grundlage des ergangenen Planfeststellungsbeschlusses oder der ergangenen Plangenehmigung herbeizuführen.
+(1a) Der Träger des Vorhabens kann verlangen, dass bereits nach Ablauf der Einwendungsfrist nach § 73 Absatz 2 des Verwaltungsverfahrensgesetzes das Verfahren zur vorzeitigen Besitzeinweisung in das Grundstück eines Dritten durchgeführt wird. In diesem Fall ist die nach dem Verfahrensstand zu erwartende Feststellung des Plans oder die zu erwartende Plangenehmigung dem Verfahren zur vorzeitigen Besitzeinweisung zugrunde zu legen. Der Besitzeinweisungsbeschluss ist mit der aufschiebenden Bedingung zu verbinden, dass sein Ergebnis durch den Planfeststellungsbeschluss oder die Plangenehmigung bestätigt wird. Wird das Ergebnis des Besitzeinweisungsbeschlusses durch den Planfeststellungsbeschluss oder die Plangenehmigung nicht bestätigt, ist die vorzeitige Besitzeinweisung auf der Grundlage des ergangenen Planfeststellungsbeschlusses oder der ergangenen Plangenehmigung herbeizuführen.
 
 (2) Die Enteignungsbehörde hat spätestens sechs Wochen nach Eingang des Antrags auf Besitzeinweisung mit den Beteiligten mündlich zu verhandeln. Hierzu sind der Träger des Vorhabens und die Betroffenen zu laden. Dabei ist den Betroffenen der Antrag auf Besitzeinweisung mitzuteilen. Die Ladungsfrist beträgt drei Wochen. Mit der Ladung sind die Betroffenen aufzufordern, etwaige Einwendungen gegen den Antrag vor der mündlichen Verhandlung bei der Enteignungsbehörde einzureichen. Sie sind außerdem darauf hinzuweisen, dass auch bei Nichterscheinen über den Antrag auf Besitzeinweisung und andere im Verfahren zu erledigende Anträge entschieden werden kann.
 
@@ -350,6 +306,8 @@ Zur Vorbereitung der Berichterstattung an die Europäische Kommission hat die Pl
 (6) Wird der festgestellte Plan oder die Plangenehmigung aufgehoben, so ist auch die vorzeitige Besitzeinweisung aufzuheben und der vorherige Besitzer wieder in den Besitz einzuweisen. Der Träger des Vorhabens hat für alle durch die Besitzeinweisung entstandenen besonderen Nachteile Entschädigung zu leisten.
 
 (7) Ein Rechtsbehelf gegen eine vorzeitige Besitzeinweisung hat keine aufschiebende Wirkung. Der Antrag auf Anordnung der aufschiebenden Wirkung nach § 80 Abs. 5 Satz 1 der Verwaltungsgerichtsordnung kann nur innerhalb eines Monats nach der Zustellung des Besitzeinweisungsbeschlusses gestellt und begründet werden.
+
+(8) Die Absätze 1 bis 7 gelten entsprechend für Grundstücke, die für Unterhaltungsmaßnahmen benötigt werden. Die in den Absätzen 2 und 4 genannten Fristen gelten nicht. Bei Unterhaltungsmaßnahmen bedarf es nicht der vorherigen Planfeststellung oder Plangenehmigung.
 
 # § 21 – Ausschluss von Ansprüchen
 
@@ -397,9 +355,9 @@ Der Betroffene kann für den ihm durch die Maßnahme entstandenen Schaden eine a
 
 # § 27 – Strompolizeiverordnungen
 
-(1) Das Bundesministerium für Digitales und Verkehr wird ermächtigt, Rechtsverordnungen zur Gefahrenabwehr nach § 24 Abs. 1 (Strompolizeiverordnungen) zu erlassen.
+(1) Das Bundesministerium für Verkehr wird ermächtigt, Rechtsverordnungen zur Gefahrenabwehr nach § 24 Abs. 1 (Strompolizeiverordnungen) zu erlassen.
 
-(2) Das Bundesministerium für Digitales und Verkehr kann durch Rechtsverordnung die Ermächtigung nach Absatz 1 auf die Generaldirektion Wasserstraßen und Schifffahrt übertragen.
+(2) Das Bundesministerium für Verkehr kann durch Rechtsverordnung die Ermächtigung nach Absatz 1 auf die Generaldirektion Wasserstraßen und Schifffahrt übertragen.
 
 (3) Strompolizeiverordnungen müssen in ihrem Inhalt bestimmt sein.
 
@@ -519,7 +477,7 @@ Eine Anzeige oder eine strom- und schifffahrtspolizeiliche Genehmigung ist ebenf
 
 (5) Für Maßnahmen zum Setzen, zur Unterhaltung oder zum Betrieb von Schifffahrtszeichen gelten § 7 Abs. 3 und § 16 entsprechend.
 
-(6) Für die Ablieferung besitzlos gewordener bundeseigener Schifffahrtszeichen einschließlich Zubehör und Anlageteile sowie bundeseigener meereskundlicher Messgeräte setzt das zuständige Wasserstraßen- und Schifffahrtsamt auf Antrag des Bergers dieser Gegenstände einen von dem Amt zu erstattenden Bergelohn nach Maßgabe der vom Bundesministerium für Digitales und Verkehr im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Klimaschutz festgelegten Vergütungssätze fest.
+(6) Für die Ablieferung besitzlos gewordener bundeseigener Schifffahrtszeichen einschließlich Zubehör und Anlageteile sowie bundeseigener meereskundlicher Messgeräte setzt das zuständige Wasserstraßen- und Schifffahrtsamt auf Antrag des Bergers dieser Gegenstände einen von dem Amt zu erstattenden Bergelohn nach Maßgabe der vom Bundesministerium für Verkehr im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Energie festgelegten Vergütungssätze fest.
 
 # § 35 – Wasserstands- und Hochwassermeldedienst, Eisbekämpfung und Feuerschutz
 
@@ -563,7 +521,7 @@ Die Niederschrift ist den Beteiligten vorzulesen oder zur Durchsicht vorzulegen.
 
 # § 39 – Rechtsweg
 
-(1) Wegen der Festsetzung der Entschädigung können die Beteiligten binnen einer Frist von drei Monaten nach Zustellung des Bescheides Klage vor den ordentlichen Gerichten erheben. Diese Frist ist eine Notfrist im Sinne der Zivilprozessordnung. Die Klage kann auch erhoben werden, wenn die Generaldirektion Wasserstraßen und Schifffahrt binnen sechs Monaten nach Erlass des Verwaltungsaktes oder nach dem Vorgang, der die Beeinträchtigung herbeigeführt hat, eine Entschädigung nicht festgesetzt hat; ist eine Entschädigung nach § 75 Absatz 2 Satz 4 des Verwaltungsverfahrensgesetzes festzusetzen, beginnt die Frist von sechs Monaten mit der Antragstellung.
+(1) Wegen der Festsetzung der Entschädigung können die Beteiligten binnen einer Frist von drei Monaten nach Zustellung des Bescheides Klage vor den ordentlichen Gerichten erheben. Diese Frist ist eine Notfrist im Sinne der Zivilprozessordnung. Die Klage kann auch erhoben werden, wenn die Generaldirektion Wasserstraßen und Schifffahrt binnen sechs Monaten nach Erlass des Verwaltungsaktes oder nach dem Vorgang, der die Beeinträchtigung herbeigeführt hat, eine Entschädigung nicht festgesetzt hat; ist eine Entschädigung nach § 75 Absatz 4 Satz 4 des Verwaltungsverfahrensgesetzes festzusetzen, beginnt die Frist von sechs Monaten mit der Antragstellung.
 
 (2) Für die Klage ist das Landgericht ohne Rücksicht auf den Wert des Streitgegenstandes ausschließlich zuständig. Örtlich zuständig ist ausschließlich das Landgericht, in dessen Bezirk die Beeinträchtigung eintritt; § 36 Absatz 1 Nr. 4 der Zivilprozessordnung gilt entsprechend.
 
@@ -593,13 +551,13 @@ Die Niederschrift ist den Beteiligten vorzulesen oder zur Durchsicht vorzulegen.
 
 (4) Werden eine Bundeswasserstraße und ein öffentlicher Verkehrsweg gleichzeitig neu angelegt, haben die Beteiligten die Kosten der Kreuzungsanlage je zur Hälfte zu tragen.
 
-(5) Wird eine Bundeswasserstraße ausgebaut und wird gleichzeitig ein öffentlicher Verkehrsweg geändert, haben die beiden Beteiligten die dadurch entstehenden Kosten in dem Verhältnis zu tragen, in dem die Kosten bei getrennter Durchführung der Maßnahmen zueinander stehen würden. Als gleichzeitig gelten die Maßnahmen, wenn beide Beteiligte sie verlangen oder hätten verlangen müssen.
+(5) Wird eine Bundeswasserstraße ausgebaut und wird gleichzeitig ein öffentlicher Verkehrsweg geändert, haben die beiden Beteiligten die dadurch entstehenden Kosten ohne Vorteilsausgleich je zur Hälfte zu tragen. Als gleichzeitig gelten die Maßnahmen, wenn beide Beteiligte sie verlangen oder hätten verlangen müssen. Eine Erstattung von Unterhaltungsmehrkosten findet nicht statt.
 
-(5a) Vorteile, die dem anderen Beteiligten durch Änderungen im Sinne der Absätze 1, 2 oder 5 erwachsen, sind auszugleichen (Vorteilsausgleich).
+(5a) Vorteile, die dem anderen Beteiligten durch Änderungen im Sinne der Absätze 1 oder 2 erwachsen, sind auszugleichen (Vorteilsausgleich).
 
 (6) Zu den Kosten der Kreuzungsanlage gehören die Kosten, die mit der Herstellung oder Änderung des Kreuzungsbauwerks, sowie die Kosten, die mit der durch die Kreuzung notwendig gewordenen Änderung oder Beseitigung öffentlicher Verkehrswege verbunden sind. Kommt über die Aufteilung der Kosten keine Einigung zustande, so ist hierüber im Planfeststellungsbeschluss (§ 14b) zu entscheiden.
 
-(7) Das Bundesministerium für Digitales und Verkehr kann mit Zustimmung des Bundesrates Rechtsverordnungen erlassen, durch die
+(7) Das Bundesministerium für Verkehr kann mit Zustimmung des Bundesrates Rechtsverordnungen erlassen, durch die
 
 1. der Umfang der Kosten näher bestimmt wird und für die Verwaltungskosten Pauschalbeträge festgesetzt werden;
 
@@ -609,13 +567,13 @@ Die Niederschrift ist den Beteiligten vorzulesen oder zur Durchsicht vorzulegen.
 
 (1) Die Kreuzungsanlagen im Zuge öffentlicher Verkehrswege hat der Beteiligte zu unterhalten, der die Kosten der Herstellung der Kreuzungsanlage ganz oder überwiegend getragen hat. Die Unterhaltung umfasst auch spätere Erneuerungen und den Betrieb der beweglichen Bestandteile der Kreuzungsanlagen.
 
-(2) Hat ein Beteiligter nach § 41 Abs. 4 Herstellungskosten anteilig getragen, ist er verpflichtet, im Verhältnis seines Anteils zu den Unterhaltungskosten beizutragen. Hat ein Beteiligter nach § 41 Abs. 1 oder 2 Änderungskosten getragen, ist er verpflichtet, dem anderen Beteiligten die Mehrkosten für die Unterhaltung zu erstatten, die diesem durch die Änderung entstehen. Hat ein Beteiligter nach § 41 Abs. 5 Änderungskosten anteilig getragen, ist er verpflichtet, dem anderen Beteiligten im Verhältnis seines Anteils die Mehrkosten für die Unterhaltung zu erstatten, die diesem durch die Änderung entstehen.
+(2) Hat ein Beteiligter nach § 41 Abs. 4 Herstellungskosten anteilig getragen, ist er verpflichtet, im Verhältnis seines Anteils zu den Unterhaltungskosten beizutragen. Hat ein Beteiligter nach § 41 Abs. 1 oder 2 Änderungskosten getragen, ist er verpflichtet, dem anderen Beteiligten die Mehrkosten für die Unterhaltung zu erstatten, die diesem durch die Änderung entstehen.
 
 (3) Der nach Absatz 1 Satz 1 zur Unterhaltung Verpflichtete hat die Mehrkosten zu erstatten, die anderen bei der Erfüllung ihrer Unterhaltungsaufgaben durch die Kreuzungsanlagen erwachsen.
 
 (4) Ist die Wasserstraßen- und Schifffahrtsverwaltung des Bundes zur Unterhaltung nach Absatz 1 verpflichtet, erstreckt sich ihre Verpflichtung nur auf das Kreuzungsbauwerk. Die übrigen Teile der Kreuzungsanlagen haben die Beteiligten zu unterhalten, zu deren öffentlichen Verkehrswegen sie gehören. Die Wasserstraßen- und Schifffahrtsverwaltung des Bundes hat den Beteiligten die Mehrkosten der Unterhaltung an den Kreuzungsanlagen außerhalb des Kreuzungsbauwerks zu erstatten.
 
-(4a) In den Fällen der Absätze 2, 3 und 4 Satz 3 sind die Mehrkosten und die anteiligen Unterhaltungskosten auf Verlangen eines Beteiligten abzulösen. Das Bundesministerium für Digitales und Verkehr wird ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung die Berechnung und die Zahlung von Ablösungsbeträgen näher zu bestimmen sowie dazu ein Verfahren zur gütlichen Beilegung von Streitigkeiten festzulegen.
+(4a) In den Fällen der Absätze 2, 3 und 4 Satz 3 sind die Mehrkosten und die anteiligen Unterhaltungskosten auf Verlangen eines Beteiligten abzulösen. Das Bundesministerium für Verkehr wird ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung die Berechnung und die Zahlung von Ablösungsbeträgen näher zu bestimmen sowie dazu ein Verfahren zur gütlichen Beilegung von Streitigkeiten festzulegen.
 
 (5) Die Absätze 1 bis 4 gelten nicht, wenn bei dem Inkrafttreten dieses Gesetzes die Tragung der Kosten nach bestehenden Rechtsverhältnissen anders geregelt ist oder wenn etwas anderes vereinbart wird.
 
@@ -647,7 +605,7 @@ Die Niederschrift ist den Beteiligten vorzulesen oder zur Durchsicht vorzulegen.
 
 (2) (weggefallen)
 
-(3) Als fachtechnische Behörden stehen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes die Bundesanstalt für Wasserbau, die Bundesanstalt für Gewässerkunde und, soweit Fragen der Fischerei berührt werden, auch das Johann Heinrich von Thünen-Institut, Bundesforschungsinstitut für Ländliche Räume, Wald und Fischerei, eine selbständige Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für Ernährung und Landwirtschaft, zur Verfügung.
+(3) Als fachtechnische Behörden stehen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes die Bundesanstalt für Wasserbau, die Bundesanstalt für Gewässerkunde und, soweit Fragen der Fischerei berührt werden, auch das Johann Heinrich von Thünen-Institut, Bundesforschungsinstitut für Ländliche Räume, Wald und Fischerei, eine selbständige Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für Landwirtschaft, Ernährung und Heimat, zur Verfügung.
 
 (4) Die nach diesem Gesetz begründeten Zuständigkeiten bestehen auch in den Teilen einer Bundeswasserstraße, die in einen Hafen einbezogen sind, der nicht vom Bund betrieben wird. Die Zuständigkeiten für die Hafenaufsicht (Hafenpolizei) bleiben unberührt.
 
@@ -655,7 +613,7 @@ Die Niederschrift ist den Beteiligten vorzulesen oder zur Durchsicht vorzulegen.
 
 # § 46 – Rechtsverordnungen
 
-Das Bundesministerium für Digitales und Verkehr wird ermächtigt, Rechtsverordnungen zu erlassen über
+Das Bundesministerium für Verkehr wird ermächtigt, Rechtsverordnungen zu erlassen über
 
 1. die Regelung des Betriebs von Anlagen nach § 1 Absatz 6 Nummer 1,
 
@@ -665,7 +623,7 @@ Das Bundesministerium für Digitales und Verkehr wird ermächtigt, Rechtsverordn
 
 4. die Zuständigkeiten der Behörden der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, wenn ihre Zuständigkeiten nicht bereits im Gesetz festgelegt sind.
 
-Das Bundesministerium für Digitales und Verkehr kann durch Rechtsverordnung diese Ermächtigung auf die Generaldirektion Wasserstraßen und Schifffahrt übertragen.
+Das Bundesministerium für Verkehr kann durch Rechtsverordnung diese Ermächtigung auf die Generaldirektion Wasserstraßen und Schifffahrt übertragen.
 
 # § 47 – (weggefallen)
 
@@ -735,7 +693,7 @@ f) gegebenenfalls Name und Anschrift des Zustellungsbevollmächtigten,
 
 6. die für die ordnungsgemäße Vorgangsverwaltung erforderlichen Daten, insbesondere die Höhe der Geldbuße.
 
-(3) Das Bundesministerium für Digitales und Verkehr wird ermächtigt, durch Rechtsverordnung Folgendes zu bestimmen:
+(3) Das Bundesministerium für Verkehr wird ermächtigt, durch Rechtsverordnung Folgendes zu bestimmen:
 
 1. das Nähere über Art und Umfang der zu speichernden Daten nach Absatz 2 Nummer 3 bis 6,
 
@@ -769,15 +727,17 @@ den Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes und 
 
 (4) Die der Rhein-Main-Donau Aktiengesellschaft in Durchführung des Main-Donau-Staatsvertrages vom 13. Juni 1921 übertragene Aufgabe wird durch die Aufhebung des Rhein-Main-Donau-Gesetzes vom 11. Mai 1938 (§ 57 Abs. 1 Nr. 5) nicht berührt.
 
-(5) Vor dem 17. Dezember 2006 beantragte Planfeststellungsverfahren und Plangenehmigungsverfahren werden nach den Vorschriften dieses Gesetzes in der ab dem 17. Dezember 2006 geltenden Fassung weitergeführt. § 11 Abs. 2 des Verkehrswegeplanungsbeschleunigungsgesetzes bleibt unberührt.
+(5) (weggefallen)
 
-(6) § 14c gilt auch für Planfeststellungsbeschlüsse und Plangenehmigungen, die vor dem 17. Dezember 2006 erlassen worden sind, soweit der Plan noch nicht außer Kraft getreten ist.
+(6) (weggefallen)
 
 (7) Wurde für eine Maßnahme nach § 12 Absatz 2 Satz 1 Nummer 3 vor dem 9. Juni 2021 ein Verfahren zur Unterrichtung über den Untersuchungsrahmen nach § 15 des Gesetzes über die Umweltverträglichkeitsprüfung oder ein Planfeststellungs- oder Plangenehmigungsverfahren nach § 68 des Wasserhaushaltsgesetzes eingeleitet, so führt die zuständige Landesbehörde dieses Verfahren nach dem bis zum 9. Juni 2021 geltenden Recht fort.
 
 (8) Sind dem bisherigen Träger einer Maßnahme nach § 12 Absatz 2 Satz 1 Nummer 3, für die vor dem 9. Juni 2021 noch kein Verfahren zur Unterrichtung über den Untersuchungsrahmen nach § 15 des Gesetzes über die Umweltverträglichkeitsprüfung oder kein Planfeststellungs- oder Plangenehmigungsverfahren nach § 68 des Wasserhaushaltsgesetzes eingeleitet worden ist, Kosten entstanden, so kann er hierfür keine Erstattung vom Bund verlangen.
 
-(9) Für das Planfeststellungsverfahren gilt das Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 24 Absatz 3 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2154) geändert worden ist, das nach Maßgabe dieses Gesetzes anzuwenden ist. Satz 1 gilt entsprechend, wenn das Gesetz über die Umweltverträglichkeitsprüfung anzuwenden ist und dieses auf das Verwaltungsverfahrensgesetz verweist.
+(9) Für Kreuzungsvereinbarungen, die bis einschließlich 28. Oktober 2026 geschlossen werden, gelten die Vorschriften dieses Gesetzes in der bis einschließlich 28. Juli 2026 geltenden Fassung.
+
+(10) Für vor dem 29. Juli 2026 und bis zum 31. Dezember 2028 beantragte Planfeststellungs- oder Plangenehmigungsverfahren kann die Planfeststellungsbehörde für alle oder einzelne Verfahrensschritte das Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 24 Absatz 3 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2154) geändert worden ist, nach Maßgabe dieses Gesetzes in der bis einschließlich 28. Juli 2026 geltenden Fassung anwenden. Satz 1 gilt entsprechend, wenn das Gesetz über die Umweltverträglichkeitsprüfung anzuwenden ist und dieses auf das Verwaltungsverfahrensgesetz verweist.
 
 # § 57
 
@@ -1631,13 +1591,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | 9        | Nord-Ostsee-Kanal                                                                                        |
 | 10       | Wesel-Datteln-Kanal                                                                                      |
 
-# Anlage 3 – (zu § 18 Absatz 1 Satz 1)
+# Anlage 3 – (zu § 18 Absatz 1 Satz 1 Nummer 1)
 
 (Fundstelle: BGBl. 2023 I Nr. 409, S. 30)
-
-# Anlage 4 – (zu § 18 Absatz 1 Satz 2)
-
-(Fundstelle: BGBl. 2023 I Nr. 409, S. 30 – 31)
 
 # Anhang EV – Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet E Abschnitt III  (BGBl. II 1990, 889, 1111)  - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

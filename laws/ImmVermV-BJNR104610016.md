@@ -29,15 +29,7 @@ Die inhaltlichen Anforderungen an die Sachkundeprüfung bestimmen sich nach der 
 
 (2) Der schriftliche Teil der Prüfung umfasst die in § 1 Absatz 2 Satz 1 Nummer 2 und 3 aufgeführten Sachgebiete. Sie sind in einem ausgewogenen Verhältnis zueinander zu prüfen. Der Prüfling soll anhand praxisbezogener Aufgaben nachweisen, dass er die grundlegenden fachlichen und rechtlichen Kenntnisse auf dem Gebiet der Immobiliardarlehensvermittlung erworben hat und diese Kenntnisse praktisch anwenden kann.
 
-(3) Die Auswahl der Prüfungsaufgaben für den schriftlichen Teil der Prüfung trifft ein nach Maßgabe des § 32 Absatz 2 der Gewerbeordnung eingerichteter bundesweit einheitlich tätiger Aufgabenauswahlausschuss. Der Aufgabenauswahlausschuss wird mit sieben Mitgliedern und sieben stellvertretenden Mitgliedern besetzt. Die Berufung der Mitglieder und der Stellvertreter erfolgt nach Anhörung von Vertretern der Kreditinstitute, der Bausparkassen, der Versicherungsunternehmen sowie der Kreditvermittler. Es werden berufen:
-
-1. drei Mitglieder und drei Stellvertreter jeweils aus den Reihen der Kreditinstitute einschließlich der Bausparkassen und der Versicherungsunternehmen oder der Vertreter ihrer jeweiligen Interessen,
-
-2. drei Mitglieder und drei Stellvertreter aus den Reihen der Kreditvermittler oder der Vertreter ihrer Interessen sowie
-
-3. ein Mitglied und ein Stellvertreter aus den Reihen der Industrie- und Handelskammern oder der Vertreter ihrer Interessen.
-
-Die Mitglieder des Aufgabenauswahlausschusses sowie ihre Stellvertreter müssen in der Lage sein, sachverständige Entscheidungen zur Aufgabenstellung zu treffen. Die Prüfungsaufgaben werden nach der Prüfung nicht veröffentlicht; sie stehen den Prüflingen nur während der Prüfungen zur Verfügung.
+(3) Die Prüfungsaufgaben werden nach der Prüfung nicht veröffentlicht; sie stehen den Prüflingen nur während der Prüfungen zur Verfügung.
 
 (4) Im praktischen Teil der Prüfung, der als Simulation eines Kundenberatungsgesprächs durchgeführt wird, wird jeweils ein Prüfling geprüft. Hier soll der Prüfling nachweisen, dass er über die Fähigkeiten verfügt, kundengerechte Lösungen zu entwickeln und anzubieten.
 
@@ -245,17 +237,19 @@ Die für die Erlaubniserteilung zuständigen Behörden und die Registerbehörde 
 
 (1) Ordnungswidrig im Sinne des § 144 Absatz 2 Nummer 6 der Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig
 
-1. entgegen § 13 sich Eigentum oder Besitz an Geldern eines Immobiliardarlehensnehmers verschafft,
+1. entgegen § 7 Absatz 1 Satz 1 oder Satz 2 oder Absatz 2 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
-2. entgegen § 14 Absatz 1 Satz 1 eine Aufzeichnung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig fertigt,
+2. entgegen § 13 sich Eigentum oder Besitz an Geldern eines Immobiliardarlehensnehmers verschafft,
 
-3. entgegen § 14 Absatz 2 Satz 1 eine dort genannte Unterlage nicht, nicht richtig, nicht in der vorgeschriebenen Weise oder nicht mindestens fünf Jahre aufbewahrt,
+3. entgegen § 14 Absatz 1 Satz 1 eine Aufzeichnung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig fertigt,
 
-4. einer vollziehbaren Anordnung nach § 15 Absatz 1 Satz 1 zuwiderhandelt,
+4. entgegen § 14 Absatz 2 Satz 1 eine dort genannte Unterlage nicht, nicht richtig, nicht in der vorgeschriebenen Weise oder nicht mindestens fünf Jahre aufbewahrt,
 
-5. entgegen § 16 Absatz 1 Satz 1 einem Prüfer eine Einsicht nicht gestattet oder
+5. einer vollziehbaren Anordnung nach § 15 Absatz 1 Satz 1 zuwiderhandelt,
 
-6. entgegen § 16 Absatz 1 Satz 2 einem Prüfer eine Aufklärung oder einen Nachweis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig gibt.
+6. entgegen § 16 Absatz 1 Satz 1 einem Prüfer eine Einsicht nicht gestattet oder
+
+7. entgegen § 16 Absatz 1 Satz 2 einem Prüfer eine Aufklärung oder einen Nachweis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig gibt.
 
 (2) Ordnungswidrig im Sinne des § 145 Absatz 2 Nummer 9 der Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig eine in Absatz 1 bezeichnete Handlung in Ausübung eines Reisegewerbes begeht.
 
