@@ -91,7 +91,7 @@ Ziel dieses Gesetzes ist es, einen wesentlichen Beitrag zur Umstellung der Erzeu
 
 a) dessen Baubeginn nach dem Ablauf des 31. Dezember 2023 liegt,
 
-b) das nach dem 1. Januar 2024 erstmals die Größe eines Gebäudenetzes im Sinne des § 3 Absatz 1 Nummer 9a des Gebäudeenergiegesetzes vom 8. August 2020 (BGBl. I S. 1728), das durch Artikel 1 des Gesetzes vom 16. Oktober 2023 (BGBl. 2023 I Nr. 280) geändert worden ist, überschreitet oder
+b) das nach dem 1. Januar 2024 erstmals die Größe eines Gebäudenetzes im Sinne des § 3 Absatz 1 Nummer 9a des Gebäudemodernisierungsgesetzes vom 8. August 2020 (BGBl. I S. 1728), das zuletzt durch Artikel 4 des Gesetzes vom 23. Juli 2026 (BGBl. 2026 I Nr. 226) geändert worden ist, in der jeweils geltenden Fassung überschreitet oder
 
 c) dessen Baubeginn zur Netzerweiterung nach dem Ablauf des 31. Dezember 2023 liegt und das nicht oder nur in geringem Maße thermisch durch direkte hydraulische Verbindung oder indirekt über Wärmeübertragung mit einem bestehenden vorgelagerten Netz verbunden ist; ein geringes Maß liegt vor, wenn der Anteil der Wärmebereitstellung aus dem bestehenden Netz im Jahresmittel kleiner als 20 Prozent ist,
 
@@ -111,15 +111,15 @@ c) dessen Baubeginn zur Netzerweiterung nach dem Ablauf des 31. Dezember 2023 li
 
 15. „Wärme aus erneuerbaren Energien“ Wärme
 
-a) aus Geothermie im Sinne des § 3 Absatz 1 Nummer 13 des Gebäudeenergiegesetzes vom 8. August 2020 (BGBl. I S. 1728) in der am 1. Januar 2024 geltenden Fassung,
+a) aus Geothermie im Sinne des § 3 Absatz 1 Nummer 13 des Gebäudemodernisierungsgesetzes,
 
-b) aus Umweltwärme im Sinne des § 3 Absatz 1 Nummer 30 des Gebäudeenergiegesetzes in der am 1. Januar 2024 geltenden Fassung,
+b) aus Umweltwärme im Sinne des § 3 Absatz 1 Nummer 30 des Gebäudemodernisierungsgesetzes,
 
 c) aus Abwasser im Sinne des § 54 Absatz 1 Satz 1 des Wasserhaushaltsgesetzes vom 31. Juli 2009 (BGBl. I S. 2585), das zuletzt durch Artikel 5 des Gesetzes vom 3. Juli 2023 (BGBl. 2023 I Nr. 176) geändert worden ist,
 
 d) aus Solarthermie,
 
-e) aus Biomasse im Sinne des § 3 Absatz 3 des Gebäudeenergiegesetzes vom 8. August 2020 (BGBl. I S. 1728) in der am 1. Januar 2024 geltenden Fassung sowie aus Altholz der Kategorie III, aus unbehandelten Resthölzern, aus Resthölzern aus der Holzbe- und -verarbeitung, aus Sägerestholz oder aus Industrieholz der Altholzkategorien I, II und III, sofern die Biomasse die Anforderungen des § 71f Absatz 2 bis 4 sowie des § 71g Nummer 3 des Gebäudeenergiegesetzes vom 8. August 2020 (BGBl. I S. 1728) in der am 1. Januar 2024 geltenden Fassung erfüllt; ausgenommen hiervon ist Biomasse aus Rohstoffen mit hohem Risiko indirekter Landnutzungsänderung nach Artikel 3 der Delegierten Verordnung (EU) 2019/807 der Kommission vom 13. März 2019 zur Ergänzung der Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des Rates im Hinblick auf die Bestimmung der Rohstoffe mit hohem Risiko indirekter Landnutzungsänderungen, in deren Fall eine wesentliche Ausdehnung der Produktionsflächen auf Flächen mit hohem Kohlenstoffbestand zu beobachten ist, und die Zertifizierung von Biokraftstoffen, flüssigen Biobrennstoffen und Biomasse-Brennstoffen mit geringem Risiko indirekter Landnutzungsänderungen (ABl. L 133 vom 21.5.2019, S. 1), die durch die Richtlinie (EU) 2018/2001 (ABl. L 328 vom 21.12.2018, S. 82) vervollständigt worden ist; feste Biomasse-Brennstoffe, gasförmige Biomasse-Brennstoffe sowie flüssige Biobrennstoffe müssen die Nachhaltigkeitsanforderungen der Biomassestrom-Nachhaltigkeitsverordnung vom 2. Dezember 2021 (BGBl. I S. 5126), die zuletzt durch Artikel 1 der Verordnung vom 13. Dezember 2022 (BGBl. I S. 2286) geändert worden ist, in der jeweils geltenden Fassung erfüllen,
+e) aus Biomasse im Sinne des § 3 Absatz 3 und 4 des Gebäudemodernisierungsgesetzes sowie aus Altholz der Kategorie III, aus unbehandelten Resthölzern, aus Resthölzern aus der Holzbe- und -verarbeitung, aus Sägerestholz oder aus Industrieholz der Altholzkategorien I, II und III; ausgenommen hiervon ist Biomasse aus Rohstoffen mit hohem Risiko indirekter Landnutzungsänderung nach Artikel 3 der Delegierten Verordnung (EU) 2019/807 der Kommission vom 13. März 2019 zur Ergänzung der Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des Rates im Hinblick auf die Bestimmung der Rohstoffe mit hohem Risiko indirekter Landnutzungsänderungen, in deren Fall eine wesentliche Ausdehnung der Produktionsflächen auf Flächen mit hohem Kohlenstoffbestand zu beobachten ist, und die Zertifizierung von Biokraftstoffen, flüssigen Biobrennstoffen und Biomasse-Brennstoffen mit geringem Risiko indirekter Landnutzungsänderungen (ABl. L 133 vom 21.5.2019, S. 1), die durch die Richtlinie (EU) 2018/2001 (ABl. L 328 vom 21.12.2018, S. 82) vervollständigt worden ist; feste Biomasse-Brennstoffe, gasförmige Biomasse-Brennstoffe sowie flüssige Biobrennstoffe müssen die Nachhaltigkeitsanforderungen der Biomassestrom-Nachhaltigkeitsverordnung vom 2. Dezember 2021 (BGBl. I S. 5126), die zuletzt durch Artikel 1 der Verordnung vom 13. Dezember 2022 (BGBl. I S. 2286) geändert worden ist, in der jeweils geltenden Fassung erfüllen,
 
 f) aus grünem Methan im Sinne von Biomethan, das die Anforderungen an gasförmige Biomasse-Brennstoffe gemäß Buchstabe e erfüllt, Methan, das aus grünem Wasserstoff und biogenem oder atmosphärischem Kohlendioxid hergestellt ist, oder Kombinationen hiervon auch mit Beimischung von grünem Wasserstoff,
 
@@ -131,7 +131,7 @@ h) aus Strom, der aus einem Netz der allgemeinen Versorgung im Sinne des § 3 Nu
 
 i) aus Strom, der in einer Anlage im Sinne des § 3 Nummer 1 des Erneuerbare-Energien-Gesetzes vom 21. Juli 2014 (BGBl. I S. 1066), das zuletzt durch Artikel 4 des Gesetzes vom 26. Juli 2023 (BGBl. 2023 I Nr. 202) geändert worden ist, erzeugt wurde, die über eine Direktleitung mit der Anlage zur Erzeugung von Wärme verbunden ist oder ausschließlich innerhalb einer Kundenanlage im Sinne des § 3 Nummer 65 oder 66 des Energiewirtschaftsgesetzes erzeugt und verbraucht wurde,
 
-j) aus grünem Wasserstoff im Sinne des § 3 Absatz 1 Nummer 13b des Gebäudeenergiegesetzes in der am 1. Januar 2024 geltenden Fassung einschließlich daraus hergestellter Derivate, sofern der Wasserstoff die Anforderungen des § 71f Absatz 3 des Gebäudeenergiegesetzes in der am 1. Januar 2024 geltenden Fassung erfüllt,
+j) aus grünem Wasserstoff im Sinne des § 3 Absatz 1 Nummer 13b des Gebäudemodernisierungsgesetzes einschließlich daraus hergestellter Derivate,
 
 k) für die von der zuständigen Behörde nach dem Herkunftsnachweisregistergesetz vom 4. Januar 2023 (BGBl. 2023 I Nr. 9) sowie nach einer auf Grundlage von § 6 Absatz 1 des Herkunftsnachweisregistergesetzes erlassenen Rechtsverordnung ein Herkunftsnachweis für Wärme aus erneuerbaren Energiequellen ausgestellt wurde,
 
@@ -139,7 +139,7 @@ l) aus einem Wärmespeicher nach Nummer 21, soweit die Energie aus einer der in 
 
 16. „Wärmeliniendichte“ der Quotient aus der Wärmemenge in Kilowattstunden, die innerhalb eines Leitungsabschnitts an die dort angeschlossenen Verbraucher innerhalb eines Jahres abgesetzt wird, und der Länge dieses Leitungsabschnitts in Metern; dabei entspricht ein Leitungsabschnitt einem Straßenabschnitt im Sinne der Nummer 11, soweit nichts anderes bestimmt ist,
 
-17. „Wärmenetz“ eine Einrichtung zur leitungsgebundenen Versorgung mit Wärme, die kein Gebäudenetz im Sinne des § 3 Absatz 1 Nummer 9a des Gebäudeenergiegesetzes in der am 1. Januar 2024 geltenden Fassung ist,
+17. „Wärmenetz“ eine Einrichtung zur leitungsgebundenen Versorgung mit Wärme, die kein Gebäudenetz im Sinne des § 3 Absatz 1 Nummer 9a des Gebäudemodernisierungsgesetzes ist,
 
 18. „Wärmenetzgebiet“ ein beplantes Teilgebiet, in dem ein Wärmenetz besteht oder geplant ist und ein erheblicher Anteil der ansässigen Letztverbraucher über das Wärmenetz versorgt werden soll, wobei innerhalb der Wärmenetzgebiete zu unterscheiden ist zwischen
 
@@ -275,7 +275,7 @@ b) deren Interessen in sonstiger Weise von der Wärmeplanung betroffen sind,
 
 (1) Die planungsverantwortliche Stelle hat nach § 13 Absatz 1 Satz 1 des Bundes-Klimaschutzgesetzes vom 12. Dezember 2019 (BGBl. I S. 2513) in der jeweils geltenden Fassung bei der Wärmeplanung den Zweck des Bundes-Klimaschutzgesetzes und die zu seiner Erfüllung festgelegten Ziele zu berücksichtigen.
 
-(2) Die planungsverantwortliche Stelle berücksichtigt vorliegende Planungen gemäß § 8 Absatz 1, von der Bundesnetzagentur genehmigte verbindliche Fahrpläne gemäß § 71k Absatz 1 Nummer 2 des Gebäudeenergiegesetzes, Transformationspläne oder Machbarkeitsstudien im Sinne der Richtlinie für die Bundesförderung für effiziente Wärmenetze – „BEW“ vom 1. August 2022 (BAnz AT 18.08.2022 B1) sowie bestehende oder in Erstellung befindliche Wärmenetzausbau- und -dekarbonisierungsfahrpläne nach § 32 dieses Gesetzes.
+(2) Die planungsverantwortliche Stelle berücksichtigt vorliegende Planungen gemäß § 8 Absatz 1, Transformationspläne oder Machbarkeitsstudien im Sinne der Richtlinie für die Bundesförderung für effiziente Wärmenetze – „BEW“ vom 1. August 2022 (BAnz AT 18.08.2022 B1) sowie bestehende oder in Erstellung befindliche Wärmenetzausbau- und -dekarbonisierungsfahrpläne nach § 32 dieses Gesetzes.
 
 (3) Die planungsverantwortliche Stelle beachtet die allgemeinen physikalischen, technischen und energiewirtschaftlichen Grundsätze sowie wissenschaftlich fundierte Annahmen zur Energieträgerverfügbarkeit.
 
@@ -287,7 +287,7 @@ b) deren Interessen in sonstiger Weise von der Wärmeplanung betroffen sind,
 
 (3) Die planungsverantwortliche Stelle darf zum Zweck der Wärmeplanung erforderliche Daten, die bei Statistikämtern, in Plattformen von Bundes- oder Landesbehörden sowie im Gebäuderegister, im Grundbuch, im Liegenschaftskataster oder in sonstigen öffentlichen oder für die planungsverantwortliche Stelle zugänglichen Datenbanken oder Netzwerken vorliegen oder vorhanden sind, erheben, soweit gesetzliche Bestimmungen nicht entgegenstehen. Die Erhebung nach Satz 1 geht einer Erhebung bei anderen auskunftspflichtigen Stellen vor.
 
-(4) Daten zu Heizungsanlagen und Wärmenetzen, die der Versorgung von Gebäuden im Sinne des § 71 Absatz 7 des Gebäudeenergiegesetzes dienen, dürfen nur mit Zustimmung des Bundesministeriums der Verteidigung für Liegenschaften im Geschäftsbereich des Bundesministeriums der Verteidigung verarbeitet werden. Für Liegenschaften verbündeter Streitkräfte bedarf es der Zustimmung der jeweils zuständigen Bundesbehörde entsprechend den geltenden Abkommen. Die Zustimmung gilt als erteilt, wenn das Bundesministerium der Verteidigung oder die für die Erteilung der Zustimmung für Liegenschaften verbündeter Streitkräfte zuständige Bundesbehörde der Datenverarbeitung nicht innerhalb von zwei Monaten schriftlich gegenüber der planungsverantwortlichen Stelle widersprochen hat.
+(4) Daten zu Heizungsanlagen und Wärmenetzen, die der ausschließlichen Versorgung von Gebäuden, die im Eigentum des Bundes, der verbündeten Streitkräfte oder einer Gesellschaft mit Beteiligung des Bundes stehen und der Landes- und Bündnisverteidigung dienen, dürfen nur mit Zustimmung des Bundesministeriums der Verteidigung für Liegenschaften im Geschäftsbereich des Bundesministeriums der Verteidigung verarbeitet werden. Für Liegenschaften verbündeter Streitkräfte bedarf es der Zustimmung der jeweils zuständigen Bundesbehörde entsprechend den geltenden Abkommen. Die Zustimmung gilt als erteilt, wenn das Bundesministerium der Verteidigung oder die für die Erteilung der Zustimmung für Liegenschaften verbündeter Streitkräfte zuständige Bundesbehörde der Datenverarbeitung nicht innerhalb von zwei Monaten schriftlich gegenüber der planungsverantwortlichen Stelle widersprochen hat.
 
 (5) Die Verarbeitung der nach den Absätzen 1 bis 4 erhobenen Daten zu anderen Zwecken als denjenigen, zu denen die Daten ursprünglich erhoben wurden, und ihre Weitergabe ist zulässig, soweit es sich nicht um personenbezogene Daten handelt und dies zur Erfüllung im öffentlichen Interesse liegender Aufgaben erforderlich ist, insbesondere zur
 
@@ -392,7 +392,7 @@ d) eines Wärmenetzes,
 
 (3) Ein beplantes Gebiet oder Teilgebiet eignet sich in der Regel mit hoher Wahrscheinlichkeit nicht für eine Versorgung durch ein Wasserstoffnetz, wenn
 
-1. in dem beplanten Gebiet oder Teilgebiet derzeit kein Gasnetz besteht und entweder keine konkreten Anhaltspunkte für eine dezentrale Erzeugung, Speicherung und Nutzung von Wasserstoff vorliegen oder die Versorgung eines neuen Wasserstoffverteilnetzes über darüberliegende Netzebenen nicht sichergestellt erscheint im Sinne des § 71k Absatz 3 Nummer 1 des Gebäudeenergiegesetzes oder
+1. in dem beplanten Gebiet oder Teilgebiet derzeit kein Gasnetz besteht und entweder keine konkreten Anhaltspunkte für eine dezentrale Erzeugung, Speicherung und Nutzung von Wasserstoff vorliegen oder die Versorgung eines neuen Wasserstoffverteilnetzes über darüberliegende Netzebenen nicht sichergestellt erscheint oder
 
 2. in dem beplanten Gebiet oder Teilgebiet ein Gasnetz besteht, aber insbesondere aufgrund der räumlichen Lage, der Abnehmerstruktur des beplanten Gebiets oder Teilgebiets und des voraussichtlichen Wärmebedarfs davon ausgegangen werden kann, dass die künftige Versorgung über ein Wasserstoffnetz mit hoher Wahrscheinlichkeit nicht wirtschaftlich sein wird.
 
@@ -436,7 +436,7 @@ d) eines Wärmenetzes,
 
 (3) Die Einteilung des beplanten Gebiets in voraussichtliche Wärmeversorgungsgebiete erfolgt für die Betrachtungszeitpunkte der Jahre 2030, 2035 und 2040.
 
-(4) Der Betreiber eines bestehenden Wärmenetzes oder eines Gasverteilernetzes oder der potenzielle Betreiber nach § 7 Absatz 2 Satz 1 Nummer 3 kann der planungsverantwortlichen Stelle nach Maßgabe der nachstehenden Bestimmungen einen Vorschlag für die Versorgung des beplanten Teilgebiets mittels eines Wärmenetzes oder eines Wasserstoffnetzes vorlegen. Darin stellt er die Annahmen und Berechnungen, die dem Vorschlag zu Grunde liegen, nachvollziehbar und transparent dar. Ein Vorschlag nach Satz 1 soll spätestens sechs Monate nach Veröffentlichung eines Beschlusses oder einer Entscheidung nach § 13 Absatz 1 Satz 1 Nummer 1 vorgelegt werden. Legt der Betreiber eines bestehenden Wärmenetzes oder der potenzielle Betreiber eines Wärmenetzes einen Vorschlag für eine Versorgung des beplanten Teilgebiets über ein Wärmenetz vor, stellt er sicher, dass der Vorschlag im Einklang mit einem vorliegenden oder in Erstellung befindlichen Wärmenetzausbau- und -dekarbonisierungsfahrplan im Sinne von § 32 steht. Legt der Betreiber eines bestehenden Gasverteilernetzes oder der potenzielle Betreiber eines Wasserstoffnetzes einen Vorschlag für eine Versorgung des beplanten Teilgebiets über ein Wasserstoffnetz vor, stellt er sicher, dass der Vorschlag im Einklang mit einem vorliegenden oder in Erstellung befindlichen verbindlichen Fahrplan im Sinne von § 71k Absatz 1 Nummer 2 des Gebäudeenergiegesetzes steht.
+(4) Der Betreiber eines bestehenden Wärmenetzes oder eines Gasverteilernetzes oder der potenzielle Betreiber nach § 7 Absatz 2 Satz 1 Nummer 3 kann der planungsverantwortlichen Stelle nach Maßgabe der nachstehenden Bestimmungen einen Vorschlag für die Versorgung des beplanten Teilgebiets mittels eines Wärmenetzes oder eines Wasserstoffnetzes vorlegen. Darin stellt er die Annahmen und Berechnungen, die dem Vorschlag zu Grunde liegen, nachvollziehbar und transparent dar. Ein Vorschlag nach Satz 1 soll spätestens sechs Monate nach Veröffentlichung eines Beschlusses oder einer Entscheidung nach § 13 Absatz 1 Satz 1 Nummer 1 vorgelegt werden. Legt der Betreiber eines bestehenden Wärmenetzes oder der potenzielle Betreiber eines Wärmenetzes einen Vorschlag für eine Versorgung des beplanten Teilgebiets über ein Wärmenetz vor, stellt er sicher, dass der Vorschlag im Einklang mit einem vorliegenden oder in Erstellung befindlichen Wärmenetzausbau- und -dekarbonisierungsfahrplan im Sinne von § 32 steht. Legt der Betreiber eines bestehenden Gasverteilernetzes oder der potenzielle Betreiber eines Wasserstoffnetzes einen Vorschlag für eine Versorgung des beplanten Teilgebiets über ein Wasserstoffnetz vor, stellt er sicher, dass der Vorschlag im Einklang mit einem vorliegenden oder in Erstellung befindlichen Gasverteilnetzentwicklungsplan steht.
 
 (5) Zusätzlich zu den voraussichtlichen Wärmeversorgungsgebieten soll die planungsverantwortliche Stelle beplante Teilgebiete mit erhöhtem Energieeinsparpotenzial darstellen. Diese Gebiete kann sie darstellen als
 
@@ -510,33 +510,29 @@ Durch Landesrecht kann bestimmt werden, dass die planungsverantwortliche Stelle 
 
 # § 26 – Entscheidung über die Ausweisung als Gebiet zum Neu- oder Ausbau von Wärmenetzen oder als Wasserstoffnetzausbaugebiet
 
-(1) Unter Berücksichtigung der Ergebnisse der Wärmeplanung nach § 23 und unter Abwägung der berührten öffentlichen und privaten Belange gegen- und untereinander kann die planungsverantwortliche Stelle oder eine andere durch Landesrecht hierzu bestimmte Stelle eine Entscheidung über die Ausweisung eines Gebiets zum Neu- oder Ausbau von Wärmenetzen oder als Wasserstoffnetzausbaugebiet nach § 71 Absatz 8 Satz 3 oder nach § 71k Absatz 1 Nummer 1 des Gebäudeenergiegesetzes treffen. Die Entscheidung erfolgt grundstücksbezogen.
+(1) Unter Berücksichtigung der Ergebnisse der Wärmeplanung nach § 23 und unter Abwägung der berührten öffentlichen und privaten Belange gegen- und untereinander kann die planungsverantwortliche Stelle oder eine andere durch Landesrecht hierzu bestimmte Stelle eine Entscheidung über die Ausweisung eines Gebiets zum Neu- oder Ausbau von Wärmenetzen oder als Wasserstoffnetzausbaugebiet treffen. Die Entscheidung erfolgt grundstücksbezogen.
 
 (2) Ein Anspruch auf Einteilung eines Grundstücks zu einem Gebiet nach Absatz 1 besteht nicht.
 
 (3) Die Vorschriften des Gesetzes über die Umweltverträglichkeitsprüfung in der Fassung der Bekanntmachung vom 18. März 2021 (BGBl. I S. 540), das zuletzt durch Artikel 2 des Gesetzes vom 20. Dezember 2023 (BGBl. 2023 I Nr. 394) geändert worden ist, über die Durchführung einer Strategischen Umweltprüfung bleiben unberührt.
 
-(4) Abweichend von Absatz 1 sind im Falle eines bestehenden Wärmeplans im Sinne von § 5 bei der Entscheidung nach Absatz 1 anstelle der Ergebnisse der Wärmeplanung nach § 23 die Ergebnisse dieses bestehenden Wärmeplans zu berücksichtigen. Sofern ein Wärmeplan nach § 5 besteht, steht dieser einem auf der Grundlage einer bundesgesetzlichen Regelung erstellten Wärmeplan im Sinne des § 71 Absatz 8 Satz 3 oder des § 71k Absatz 1 Nummer 1 des Gebäudeenergiegesetzes gleich. Im Falle eines bestehenden Wärmeplans nach § 5 darf die planungsverantwortliche Stelle die Entscheidung nach Absatz 1 vor dem Ablauf des 30. Juni 2028 nur dann treffen, wenn sie den Wärmeplan auf Anpassungsbedarf im Hinblick auf die Ausweisung eines oder mehrerer Wasserstoffnetzausbaugebiete überprüft hat. Die planungsverantwortliche Stelle kann für die Entscheidung nach Absatz 1 bei Bedarf ergänzende Ermittlungen heranziehen.
+(4) Abweichend von Absatz 1 sind im Falle eines bestehenden Wärmeplans im Sinne von § 5 bei der Entscheidung nach Absatz 1 anstelle der Ergebnisse der Wärmeplanung nach § 23 die Ergebnisse dieses bestehenden Wärmeplans zu berücksichtigen. Sofern ein Wärmeplan nach § 5 besteht, steht dieser einem auf der Grundlage einer bundesgesetzlichen Regelung erstellten Wärmeplan gleich. Im Falle eines bestehenden Wärmeplans nach § 5 darf die planungsverantwortliche Stelle die Entscheidung nach Absatz 1 vor dem Ablauf des 30. Juni 2028 nur dann treffen, wenn sie den Wärmeplan auf Anpassungsbedarf im Hinblick auf die Ausweisung eines oder mehrerer Wasserstoffnetzausbaugebiete überprüft hat. Die planungsverantwortliche Stelle kann für die Entscheidung nach Absatz 1 bei Bedarf ergänzende Ermittlungen heranziehen.
 
 # § 27 – Rechtswirkung der Entscheidung
 
-(1) Bei der Entscheidung über die Ausweisung als Gebiet zum Neu- oder Ausbau von Wärmenetzen oder als Wasserstoffnetzausbaugebiet nach § 26 handelt es sich um eine Entscheidung nach § 71 Absatz 8 Satz 3 und § 71k Absatz 1 Nummer 1 des Gebäudeenergiegesetzes.
+(1) Die Entscheidung über die Ausweisung eines Gebiets als Gebiet zum Neu- oder Ausbau von Wärmenetzen oder als Wasserstoffnetzausbaugebiet bewirkt keine Pflicht, eine bestimmte Wärmeversorgungsart tatsächlich zu nutzen oder eine bestimmte Wärmeversorgungsinfrastruktur zu errichten, auszubauen oder zu betreiben.
 
-(2) Die Entscheidung über die Ausweisung eines Gebiets als Gebiet zum Neu- oder Ausbau von Wärmenetzen oder als Wasserstoffnetzausbaugebiet bewirkt keine Pflicht, eine bestimmte Wärmeversorgungsart tatsächlich zu nutzen oder eine bestimmte Wärmeversorgungsinfrastruktur zu errichten, auszubauen oder zu betreiben.
-
-(3) Entscheidungen über die Ausweisung als Gebiet zum Neu- oder Ausbau von Wärmenetzen oder als Wasserstoffnetzausbaugebiet sind zu berücksichtigen in Abwägungs- und Ermessensentscheidungen bei
+(2) Entscheidungen über die Ausweisung als Gebiet zum Neu- oder Ausbau von Wärmenetzen oder als Wasserstoffnetzausbaugebiet sind zu berücksichtigen in Abwägungs- und Ermessensentscheidungen bei
 
 1. einer Aufstellung, Änderung, Ergänzung oder Aufhebung eines Bauleitplans und
 
 2. einer anderen flächenbedeutsamen Planung oder Maßnahme einer öffentlichen Stelle oder von einer Person des Privatrechts in Wahrnehmung öffentlicher Aufgaben.
 
-(4) Die planungsrechtliche Zulässigkeit und die Genehmigung von Vorhaben zur Umsetzung der Ergebnisse der Wärmeplanung sowie der Entscheidung nach § 26 Absatz 1 richten sich nach den für das jeweilige Vorhaben geltenden rechtlichen Grundlagen.
+(3) Die planungsrechtliche Zulässigkeit und die Genehmigung von Vorhaben zur Umsetzung der Ergebnisse der Wärmeplanung sowie der Entscheidung nach § 26 Absatz 1 richten sich nach den für das jeweilige Vorhaben geltenden rechtlichen Grundlagen.
 
 # § 28 – Transformation von Gasverteilernetzen
 
-(1) Zum Zweck der Information eines Gebäudeeigentümers, der nach § 71f des Gebäudeenergiegesetzes eine Heizungsanlage mit grünem Methan, das ihm über ein netzgebundenes System geliefert wird oder werden soll, betreibt oder künftig betreiben will, kann die planungsverantwortliche Stelle im Wärmeplan darstellen, welches Grundstück an einem bestehenden oder in Planung befindlichen Gasverteilernetz anliegt.
-
-(2) Die planungsverantwortliche Stelle bestimmt für jedes beplante Teilgebiet, das nach § 18 Absatz 1 als Prüfgebiet nach § 3 Absatz 1 Nummer 10 ausgewiesen wurde und in dem ein Gasverteilernetz besteht oder ein künftiges Gasverteilernetz geplant ist, die Eignung für eine Versorgung mit grünem Methan im Zieljahr und stellt hierzu die Eignungsstufe entsprechend § 19 Absatz 2 Satz 2 dar. Die Einteilung in eine Eignungsstufe im Sinne von § 19 Absatz 2 Satz 2 Nummer 1 oder Nummer 2 setzt voraus, dass die Versorgung im Zieljahr mit grünem Methan insbesondere
+(1) Die planungsverantwortliche Stelle bestimmt für jedes beplante Teilgebiet, das nach § 18 Absatz 1 als Prüfgebiet nach § 3 Absatz 1 Nummer 10 ausgewiesen wurde und in dem ein Gasverteilernetz besteht oder ein künftiges Gasverteilernetz geplant ist, die Eignung für eine Versorgung mit grünem Methan im Zieljahr und stellt hierzu die Eignungsstufe entsprechend § 19 Absatz 2 Satz 2 dar. Die Einteilung in eine Eignungsstufe im Sinne von § 19 Absatz 2 Satz 2 Nummer 1 oder Nummer 2 setzt voraus, dass die Versorgung im Zieljahr mit grünem Methan insbesondere
 
 1. in Übereinstimmung mit den Netzentwicklungsplänen der Fernleitungsebene und den Planungen der Betreiber der vorgelagerten Gasverteilernetzen steht oder
 
@@ -544,15 +540,15 @@ Durch Landesrecht kann bestimmt werden, dass die planungsverantwortliche Stelle 
 
 Der Betreiber des Gasverteilernetzes hat der planungsverantwortlichen Stelle alle für die Einteilung relevanten Planungen und Unterlagen vorzulegen.
 
-(3) Der Betreiber eines bestehenden Gasverteilernetzes hat der zuständigen planungsverantwortlichen Stelle unaufgefordert mitzuteilen, sobald er beschließt,
+(2) Der Betreiber eines bestehenden Gasverteilernetzes hat der zuständigen planungsverantwortlichen Stelle unaufgefordert mitzuteilen, sobald er beschließt,
 
 1. sein Verteilernetz oder Teile seines Verteilernetzes vom vorgelagerten Fernleitungs- oder Verteilernetz zu entkoppeln oder
 
 2. in Gebieten oder Teilgebieten den Neuanschluss von Kunden oder die Versorgung mit Gas einzuschränken oder einzustellen.
 
-(4) Die Informationen nach Absatz 3 sind im Rahmen der Wärmeplanung zu berücksichtigen.
+(3) Die Informationen nach Absatz 2 sind im Rahmen der Wärmeplanung zu berücksichtigen.
 
-(5) Die planungsverantwortliche Stelle meldet den für das Zieljahr erwarteten Bedarf an grünem Methan, der mit der Einstufung nach Absatz 2 verbunden ist, an die nach Landesrecht zuständige Stelle. Die nach Landesrecht zuständige Stelle prüft alle fünf Jahre, erstmalig ab dem 1. Januar 2030, ob die ihr übermittelten Bedarfe durch verfügbare Potenziale gedeckt werden können. Bei der Ermittlung der verfügbaren Potenziale ist davon auszugehen, dass die im Vorjahr der Planungserstellung oder im Vorjahr der Fortschreibung für die Stromerzeugung eingesetzten gasförmigen Biomasse-Brennstoffe auch weiterhin zur Stromerzeugung verwendet werden. Die Vorgaben des § 71f Absatz 4 des Gebäudeenergiegesetzes sind entsprechend anzuwenden. Sollte sich eine erhebliche Lücke abzeichnen, informiert die nach Landesrecht zuständige Stelle die betroffenen planungsverantwortlichen Stellen. Diese müssen den Sachverhalt bei der nächsten Fortschreibung ihres jeweiligen Wärmeplans berücksichtigen.
+(4) Die planungsverantwortliche Stelle meldet den für das Zieljahr erwarteten Bedarf an grünem Methan, der mit der Einstufung nach Absatz 1 verbunden ist, an die nach Landesrecht zuständige Stelle. Die nach Landesrecht zuständige Stelle prüft alle fünf Jahre, erstmalig ab dem 1. Januar 2030, ob die ihr übermittelten Bedarfe durch verfügbare Potenziale gedeckt werden können. Bei der Ermittlung der verfügbaren Potenziale ist davon auszugehen, dass die im Vorjahr der Planungserstellung oder im Vorjahr der Fortschreibung für die Stromerzeugung eingesetzten gasförmigen Biomasse-Brennstoffe auch weiterhin zur Stromerzeugung verwendet werden. Die Vorgaben des § 39i Absatz 1 des Erneuerbare-Energien-Gesetzes sind entsprechend anzuwenden. Sollte sich eine erhebliche Lücke abzeichnen, informiert die nach Landesrecht zuständige Stelle die betroffenen planungsverantwortlichen Stellen. Diese müssen den Sachverhalt bei der nächsten Fortschreibung ihres jeweiligen Wärmeplans berücksichtigen.
 
 # § 29 – Anteil erneuerbarer Energien in Wärmenetzen
 
@@ -594,7 +590,7 @@ Der Wärmenetzbetreiber muss die komplexe Maßnahme der nach Landesrecht zustän
 
 (7) Der an das Wärmenetz angeschlossene Kunde kann vom Betreiber des Wärmenetzes einen geeigneten Nachweis über die Einhaltung der Anforderungen nach Absatz 1 oder eine vorliegende Befreiung nach den Absätzen 2, 3, 4 oder 5 verlangen. Ein Kunde, der an ein Wärmenetz angeschlossen ist, das nicht den Anforderungen der vorstehenden Absätze entspricht, hat das Recht, sich von dem Wärmenetz abzukoppeln, um sich mit Wärme aus erneuerbaren Energien, unvermeidbarer Abwärme oder einer Kombination hieraus zu versorgen. Das Abkopplungsrecht besteht nicht, wenn die Anforderungen nach Absatz 1 nur vorübergehend unterschritten oder absehbar erreicht werden. Regelungen zu einem Anschluss- und Benutzungszwang zum Zweck des Klima- und Ressourcenschutzes sind hiervon unberührt.
 
-(8) § 71 Absatz 7 des Gebäudeenergiegesetzes ist im Hinblick auf die Anforderungen nach Absatz 1 für Wärmenetze entsprechend anzuwenden.
+(8) Die Anforderungen nach Absatz 1 sind nicht für ein Wärmenetz anzuwenden, das der ausschließlichen Versorgung von Gebäuden dient, die im Eigentum des Bundes, der verbündeten Streitkräfte oder einer Gesellschaft mit Beteiligung des Bundes stehen und der Landes- und Bündnisverteidigung dienen.
 
 (9) Die Länder können abweichend von Absatz 1 höhere Anteile an erneuerbarer Wärme oder unvermeidbarer Abwärme an der jährlichen Nettowärmeerzeugung in Wärmenetzen für die jeweils genannten Zeitpunkte festlegen.
 
@@ -638,7 +634,7 @@ Absatz 1 Satz 3 und 4 ist entsprechend anzuwenden.
 
 (1) Die Landesregierungen werden ermächtigt, die Pflicht zur Erstellung eines Wärmeplans nach § 4 Absatz 1 und zur Erfüllung der Aufgaben nach Teil 2 durch Rechtsverordnung auf Gemeinden, Gemeindeverbände oder sonstige Rechtsträger in ihrem Hoheitsgebiet zu übertragen und sie damit als planungsverantwortliche Stellen zu bestimmen. Dabei können die Landesregierungen bestimmen, dass diese die Pflicht und die Aufgaben in eigener Verantwortung wahrnehmen, soweit Bundes- oder Landesrecht nicht entgegensteht.
 
-(2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die nach § 26 Absatz 1 für die Entscheidung über die Ausweisung sowie über die nach § 28 Absatz 5 für die Überprüfung der übermittelten Bedarfe zuständige Stelle zu bestimmen.
+(2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die nach § 26 Absatz 1 für die Entscheidung über die Ausweisung sowie über die nach § 28 Absatz 4 für die Überprüfung der übermittelten Bedarfe zuständige Stelle zu bestimmen.
 
 (3) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung das vereinfachte Verfahren nach § 22 näher auszugestalten.
 

@@ -304,22 +304,6 @@ zur Drogistin vom 30. Juni 1992 (BGBl. I S. 1197), die zuletzt durch Artikel 2 A
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="even">
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Formaldehyd</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">(1) Beschichtete und unbeschichtete Holzwerkstoffe (Spanplatten, Tischlerplatten, Furnierplatten, und Faserplatten) dürfen nicht in den Verkehr gebracht werden, wenn die durch<br />
-den Holzwerkstoff verursachte Ausgleichskonzentration des Formaldehyds in der Luft eines Prüfraumes 0,1 ml/cbm (ppm) überschreitet.<br />
-(2) Möbel, die Holzwerkstoffe enthalten, die nicht den Anforderungen nach Absatz 1 entsprechen, dürfen nicht in den Verkehr gebracht werden. Absatz 1 gilt jedoch auch als erfüllt, wenn die Möbel die unter Absatz 1 genannte Ausgleichskonzentration bei einer Ganzkörperprüfung einhalten.<br />
-(3) Wasch-, Reinigungs- und Pflegemittel mit einem Massengehalt von mehr als 0,2 % Formaldehyd dürfen nicht in den Verkehr gebracht werden.</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">(1) Das Verbot nach Spalte 2<br />
-Absatz 1 gilt nicht für Platten, die ausschließlich zum Zwecke einer geeigneten Beschichtung in den Verkehr gebracht werden, sofern sichergestellt ist, dass sie nach der Beschichtung die in Spalte 2 Absatz 1 genannte Ausgleichskonzentration einhalten.<br />
-(2) Das Verbot nach Spalte 2<br />
-Absatz 3 gilt nicht für Reiniger im ausschließlich industriellen Gebrauch.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Eintrag 2</td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Dioxine und Furane<br />
 
 <dl>
@@ -543,17 +527,7 @@ nisse, die vor dem 16. Juli 1994 hergestellt worden sind, sofern sie die Grenzwe
 </dl></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Eintrag 3</td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="even">
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">(weggefallen)</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Eintrag 4</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Eintrag 2</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 <td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
 </tr>

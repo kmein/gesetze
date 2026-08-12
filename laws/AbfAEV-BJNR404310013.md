@@ -229,7 +229,7 @@ Die Länder sind befugt, Daten zu erheben, zu speichern und zu nutzen, die zur D
 
 # § 12 – Ausnahmen von der Erlaubnispflicht
 
-(1) Ungeachtet des § 54 Absatz 3 des Kreislaufwirtschaftsgesetzes, des § 2 Absatz 2 Satz 1 des Verpackungsgesetzes, des § 2 Absatz 3 Satz 1 des Elektro- und Elektronikgerätegesetzes und des § 1 Absatz 3 Satz 1 des Batteriegesetzes sind von der Erlaubnispflicht nach § 54 Absatz 1 Satz 1 des Kreislaufwirtschaftsgesetzes auch ausgenommen:
+(1) Ungeachtet des § 54 Absatz 3 des Kreislaufwirtschaftsgesetzes, des § 2 Absatz 1 des Verpackungsrecht-Durchführungsgesetzes, des § 2 Absatz 3 Satz 1 des Elektro- und Elektronikgerätegesetzes und des § 1 Absatz 3 Satz 1 des Batteriegesetzes sind von der Erlaubnispflicht nach § 54 Absatz 1 Satz 1 des Kreislaufwirtschaftsgesetzes auch ausgenommen:
 
 1. Sammler, Beförderer, Händler und Makler von gefährlichen Abfällen, die im Rahmen wirtschaftlicher Unternehmen tätig sind,
 

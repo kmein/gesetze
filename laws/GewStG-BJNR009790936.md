@@ -474,6 +474,8 @@ Wird die Einkommensteuer oder die Körperschaftsteuer in einem Pauschbetrag fest
 
 (5) In welchem Verhältnis die Hebesätze für die Grundsteuer der Betriebe der Land- und Forstwirtschaft, für die Grundsteuer der Grundstücke und für die Gewerbesteuer zueinander stehen müssen, welche Höchstsätze nicht überschritten werden dürfen und inwieweit mit Genehmigung der Gemeindeaufsichtsbehörde Ausnahmen zugelassen werden können, bleibt einer landesrechtlichen Regelung vorbehalten.
 
+(+++ § 16: Zur Anwendung vgl. § 36 +++)
+
 # § 17
 
 (weggefallen)

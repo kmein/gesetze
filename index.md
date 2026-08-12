@@ -196,8 +196,8 @@
 - [AnlEntG](laws/AnlEntG-BJNR184210998.md) Anlegerentschädigungsgesetz
 - [AnlGBlnV](laws/AnlGBlnV-BJNR004000955.md) Verordnung zur Erstreckung des Anleihe-Gesetzes von 1950 auf das Land Berlin
 - [AnlV](laws/AnlV-BJNR076900016.md) Verordnung über die Anlage des Sicherungsvermögens von Pensionskassen, Sterbekassen und kleinen Versicherungsunternehmen
-- [Anpassungsverfahrensabweichungsgesetz 2026](laws/Anpassungsverfahrensabweichungsgesetz_2026-BJNR0D30B0026.md) Gesetz zur Abweichung von dem Anpassungsverfahren gemäß § 11 Absatz 4 des Abgeordnetengesetzes für das Jahr 2026
 - [AnpflEigentG](laws/AnpflEigentG-BJNR254900994.md) Gesetz zur Regelung des Eigentums an von landwirtschaftlichen Produktionsgenossenschaften vorgenommenen Anpflanzungen
+- [AnpVfAbwG 2026](laws/AnpVfAbwG_2026-BJNR0D30B0026.md) Gesetz zur Abweichung von dem Anpassungsverfahren gemäß § 11 Absatz 4 des Abgeordnetengesetzes für das Jahr 2026
 - [AnpVfAussG 2020](laws/AnpVfAussG_2020-BJNR116110020.md) Gesetz zur Aussetzung des Anpassungsverfahrens gemäß § 11 Absatz 4 des Abgeordnetengesetzes für das Jahr 2020
 - [AnsprÜbersV](laws/AnsprÜbersV-BJNR214690978.md) Verordnung über die Übersetzungen der Ansprüche europäischer Patentanmeldungen
 - [AntarktMeerSchÜbkG](laws/AntarktMeerSchÜbkG-BJNR204200982.md) Gesetz zu dem Übereinkommen vom 20. Mai 1980 über die Erhaltung der lebenden Meeresschätze der Antarktis
@@ -904,6 +904,7 @@
 - [BMASErnAnO](laws/BMASErnAnO-BJNR0050A0025.md) Anordnung über die Befugnisse zur Ernennung und Entlassung der Beamtinnen und Beamten im Geschäftsbereich des Bundesministeriums für Arbeit und Soziales
 - [BMASGBWidVertrAnO](laws/BMASGBWidVertrAnO-BJNR107300022.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und für die Vertretung des Bundes bei Klagen aus dem Beamten- oder Richterverhältnis im Geschäftsbereich des Bundesministeriums für Arbeit und Soziales
 - [BMASÜbErlBesLVVOV](laws/BMASÜbErlBesLVVOV-BJNR0C20A0025.md) Verordnung des Bundesministeriums für Arbeit und Soziales zur Übertragung der Befugnisse zum Erlass von besonderen Lehrverpflichtungsverordnungen an der Hochschule des Bundes für öffentliche Verwaltung
+- [BMASÜZustWidVertrAnO](laws/BMASÜZustWidVertrAnO-BJNR0E60A0026.md) Anordnung zur Übertragung von Zuständigkeiten nach dem Beamtenversorgungsgesetz, zur Übertragung von Zuständigkeiten nach dem Altersgeldgesetz, zur Übertragung von Zuständigkeiten für die Nachversicherung bei einem Ausscheiden aus dem Beamtenverhältnis, zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und für die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Bundesministeriums für Arbeit und Soziales
 - [BMASZustAnO](laws/BMASZustAnO-BJNR116200006.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Bundes bei Klagen von Beschäftigten des Bundesministeriums für Arbeit und Soziales in Angelegenheiten von Besoldung, von Amtsbezügen und nach dem Bundesreisekostengesetz, dem Bundesumzugskostengesetz einschließlich der hierzu ergangenen Verordnungen und nach den Beihilfevorschriften des Bundes
 - [BmAusV](laws/BmAusV-BJNR128000015.md) Verordnung über die Berufsausbildung zum Bogenmacher und zur Bogenmacherin*
 - [BMDVBeihÜbertrAnO](laws/BMDVBeihÜbertrAnO-BJNR0610A0025.md) Anordnung des Bundesministeriums für Digitales und Verkehr zur Übertragung von Zuständigkeiten in Angelegenheiten der Beihilfe auf die Postbeamtenkrankenkasse
@@ -2175,7 +2176,6 @@
 - [GefBeitrV 1998](laws/GefBeitrV_1998-BJNR043000998.md) Verordnung über die Pauschalberechnung der Beiträge zur Arbeitsförderung für Gefangene
 - [GeflPestSchV](laws/GeflPestSchV-BJNR234800007.md) Verordnung zum Schutz gegen die Geflügelpest
 - [GefStoffV](laws/GefStoffV-BJNR164400010.md) Verordnung zum Schutz vor Gefahrstoffen*)
-- [GEG](laws/GEG-BJNR172810020.md) Gesetz zur Einsparung von Energie und zur Nutzung erneuerbarer Energien zur Wärme- und Kälteerzeugung in Gebäuden*
 - [GEIG](laws/GEIG-BJNR035400021.md) Gesetz zum Aufbau einer gebäudeintegrierten Lade- und Leitungsinfrastruktur für die Elektromobilität*
 - [GeigbMstrV](laws/GeigbMstrV-BJNR021900998.md) Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Geigenbauer-Handwerk
 - [GeldWNOBauspAnO](laws/GeldWNOBauspAnO-BJNR500300950.md) Anordnung über die Bausparverhältnisse aus Anlaß der Neuordnung des Geldwesens
@@ -2286,6 +2286,7 @@
 - [GlPrZWeilburgV](laws/GlPrZWeilburgV-BJNR092700019.md) Verordnung zur Gleichstellung von Prüfungszeugnissen der Staatlichen Fachschule Weilburg-Hadamar Standort: Staatliche Glasfachschule Hadamar mit den Zeugnissen über das Bestehen der Abschluss- und Gesellenprüfung in Ausbildungsberufen
 - [GMAusbV](laws/GMAusbV-BJNR113410015.md) Verordnung über die Berufsausbildung zum Gießereimechaniker und zur Gießereimechanikerin*
 - [GmbHG](laws/GmbHG-BJNR004770892.md) Gesetz betreffend die Gesellschaften mit beschränkter Haftung
+- [GModG](laws/GModG-BJNR172810020.md) Gesetz zur Einsparung von Energie und zur Modernisierung der Wärmeversorgung in Gebäuden*
 - [GNG](laws/GNG-BJNR141609994.md) Gesetz über die Neuordnung zentraler Einrichtungen des Gesundheitswesens
 - [GnO](laws/GnO-BJNR015730965.md) Anordnung des Bundespräsidenten über die Ausübung des Begnadigungsrechts des Bundes
 - [GNotKG](laws/GNotKG-BJNR258610013.md) Gesetz über Kosten der freiwilligen Gerichtsbarkeit für Gerichte und Notare
@@ -3151,7 +3152,7 @@
 - [LuftVODV 197](laws/LuftVODV_197-BJNR523300999.md) Hundertsiebenundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen Frankfurt am Main)
 - [LuftVODV 198](laws/LuftVODV_198-BJNR505320000.md) Hundertachtundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Leipzig/Halle)
 - [LuftVODV 201](laws/LuftVODV_201-BJNR513110000.md) Zweihunderterste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen Bremen)
-- [LuftVODV 202](laws/LuftVODV_202-BJNR500600001.md) Zweihundertzweite Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Donaueschingen-Villingen)
+- [LuftVODV 202 2026](laws/LuftVODV_202_2026-BJNR0480B0026.md) Zweihundertzweite Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Donaueschingen-Villingen)
 - [LuftVODV 203](laws/LuftVODV_203-BJNR505070001.md) Zweihundertdritte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Verkehrslandeplatz Augsburg)
 - [LuftVODV 205](laws/LuftVODV_205-BJNR516900001.md) Zweihundertfünfte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Coburg-Brandensteinsebene)
 - [LuftVODV 206](laws/LuftVODV_206-BJNR502410002.md) Zweihundertsechste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Emden)
@@ -5347,7 +5348,7 @@
 - [VermVerkProspV](laws/VermVerkProspV-BJNR346400004.md) Verordnung über Vermögensanlagen-Verkaufsprospekte
 - [VermVerMiV](laws/VermVerMiV-BJNR143500015.md) Verordnung zur Durchführung des § 11a des Vermögensanlagengesetzes
 - [VermVV](laws/VermVV-BJNR166300012.md) Verordnung über das Vermögensverzeichnis
-- [VerpackG](laws/VerpackG-BJNR223410017.md) Gesetz über das Inverkehrbringen, die Rücknahme und die hochwertige Verwertung von Verpackungen
+- [VerpackDG](laws/VerpackDG-BJNR0CF0B0026.md) Gesetz zur Durchführung der Verordnung (EU) 2025/40 betreffend Verpackungen 2
 - [VerpflG](laws/VerpflG-BJNR005470974.md) Gesetz über die förmliche Verpflichtung nichtbeamteter Personen
 - [VersaillerVtrAbkBELGABest](laws/VersaillerVtrAbkBELGABest-BJNR012880921.md) Ausführungsbestimmungen zum Gesetz betreffend das deutsch-belgische Abkommen zu Artikel 312 des Friedensvertrags vom 20. Juli 1921 (Reichsgesetzbl. S. 1177)
 - [VersammlG](laws/VersammlG-BJNR006840953.md) Gesetz über Versammlungen und Aufzüge

@@ -183,7 +183,7 @@ b) die Gesamtbruttoerlöse aus der Veräußerung oder dem Rückkauf von Vermöge
 
 Ordnungswidrig im Sinne des § 383a Absatz 1 der Abgabenordnung handelt, wer vorsätzlich oder leichtfertig entgegen § 8 Absatz 3 oder § 10 Absatz 1 Daten nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig übermittelt.
 
-(+++ § 11: Zur Anwendung vgl. Art. 101 AOEG 1977 +++)
+(+++ § 11: Zur Anwendung vgl. Art. 101 EGAO +++)
 
 # § 12 – Inkrafttreten
 

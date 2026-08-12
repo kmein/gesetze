@@ -891,7 +891,9 @@ Die Aufenthaltserlaubnis wird für bis zu neun Monate erteilt.
 
 2. einen deutschen, einen anerkannten ausländischen oder einen einem deutschen Hochschulabschluss vergleichbaren ausländischen Hochschulabschluss besitzt (Fachkraft mit akademischer Ausbildung).
 
-(4) Aufenthaltstitel gemäß den §§ 18a, 18b, 18g und 19c werden für die Dauer von vier Jahren oder, wenn das Arbeitsverhältnis oder die Zustimmung der Bundesagentur für Arbeit auf einen kürzeren Zeitraum befristet sind, für diesen kürzeren Zeitraum zuzüglich dreier Monate, nicht jedoch für länger als vier Jahre, erteilt.
+(4) Aufenthaltstitel gemäß den §§ 18a, 18b, 18g und 19c werden für die Dauer von vier Jahren oder, wenn das Arbeitsverhältnis oder die Zustimmung der Bundesagentur für Arbeit auf einen kürzeren Zeitraum befristet sind, für diesen kürzeren Zeitraum zuzüglich sechs Monate, nicht jedoch für länger als vier Jahre, erteilt.
+
+(5) In Fällen, in denen die Beschäftigung, für die ein Aufenthaltstitel nach diesem Abschnitt erteilt wurde, vorzeitig beendet und die zuständige Ausländerbehörde hierüber gemäß § 82 Absatz 6 Satz 1 oder § 4a Absatz 5 Satz 3 Nummer 3 unterrichtet wurde, ist die nachträgliche Verkürzung der Frist gemäß § 7 Absatz 2 Satz 2 so vorzunehmen, dass ab Beendigung der Beschäftigung eine Geltungsdauer von mindestens sechs Monaten verbleibt. Die ab Beendigung der Beschäftigung verbleibende Geltungsdauer beträgt mindestens neun Monate, wenn hinreichende Gründe für die Annahme vorliegen, dass der Ausländer besonders ausbeuterische Arbeitsbedingungen im Sinne von Artikel 2 Buchstabe i der Richtlinie 2009/52/EG des Europäischen Parlaments und des Rates erfahren hat. Die Fristverkürzung nach Satz 1 und 2 darf nicht dazu führen, dass die ursprüngliche Geltungsdauer des Aufenthaltstitels überschritten wird.
 
 # § 18a – Fachkräfte mit Berufsausbildung
 
@@ -2259,7 +2261,7 @@ auf Verlangen den mit dem Vollzug des Ausländerrechts betrauten Behörden vorzu
 
 (6) Maßnahmen im Sinne der Absätze 3 bis 5 mit Ausnahme des Absatzes 5 Nr. 5 sind das Aufnehmen von Lichtbildern, das Abnehmen von Fingerabdrücken sowie Messungen und ähnliche Maßnahmen, einschließlich körperlicher Eingriffe, die von einem Arzt nach den Regeln der ärztlichen Kunst zum Zweck der Feststellung des Alters vorgenommen werden, wenn kein Nachteil für die Gesundheit des Ausländers zu befürchten ist. Die Maßnahmen sind zulässig bei Ausländern, die das sechste Lebensjahr vollendet haben. Zur Feststellung der Identität sind diese Maßnahmen nur zulässig, wenn die Identität in anderer Weise, insbesondere durch Anfragen bei anderen Behörden nicht oder nicht rechtzeitig oder nur unter erheblichen Schwierigkeiten festgestellt werden kann.
 
-(6a) Maßnahmen im Sinne des Absatzes 5 Nr. 5 sind das Aufnehmen von Lichtbildern und das Abnehmen von Fingerabdrücken.
+(6a) Maßnahmen im Sinne des Absatzes 5 Nummer 5 sind das Aufnehmen von Lichtbildern und das Abnehmen von Fingerabdrücken. Das Abnehmen von Fingerabdrücken ist zulässig bei Ausländern, die das sechste Lebensjahr vollendet haben.
 
 (7) Zur Bestimmung des Herkunftsstaates oder der Herkunftsregion des Ausländers kann das gesprochene Wort des Ausländers auf Ton- oder Datenträger aufgezeichnet werden. Diese Erhebung darf nur erfolgen, wenn der Ausländer vorher darüber in Kenntnis gesetzt wurde.
 

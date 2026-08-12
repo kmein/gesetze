@@ -84,7 +84,7 @@ Rechtsfähige Personengesellschaften (§ 14a Absatz 2 Nummer 2 der Abgabenordnun
 7. was der Vertragserbe oder der Schlusserbe eines gemeinschaftlichen Testaments oder der Vermächtnisnehmer wegen beeinträchtigender Schenkungen des Erblassers (§§ 2287, 2288 Abs. 2 des Bürgerlichen Gesetzbuchs) von dem Beschenkten nach den Vorschriften über die ungerechtfertigte Bereicherung erlangt.
 
 (+++ § 3: Zur Anwendung vgl. § 37 +++)  
-(+++ § 3: Zur Anwendung vgl. Art. 97 § 37 Abs. 14 AOEG 1977 +++)
+(+++ § 3: Zur Anwendung vgl. Art. 97 § 37 Abs. 14 EGAO +++)
 
 # § 4 – Fortgesetzte Gütergemeinschaft
 
@@ -193,7 +193,7 @@ j) im Fall des § 3 Abs. 2 Nr. 7 mit dem Zeitpunkt der Geltendmachung des Anspru
 
 (2) In den Fällen der Aussetzung der Versteuerung nach § 25 Abs. 1 Buchstabe a gilt die Steuer für den Erwerb des belasteten Vermögens als mit dem Zeitpunkt des Erlöschens der Belastung entstanden.
 
-(+++ § 9: Zur Anwendung vgl. Art. 97 § 37 Abs. 14 AOEG 1977 +++)  
+(+++ § 9: Zur Anwendung vgl. Art. 97 § 37 Abs. 14 EGAO +++)  
 § 9 Abs. 1 Nr. 4 Satz 2: Mit GG vereinbar, soweit Stiftungen im Sinne von § 1 Abs. 1 Nr. 4 ErbStG betroffen sind, BVerfGE v. 8.3.1983 I 525 - 2 BvL 27/81 -
 
 # § 10 – Steuerpflichtiger Erwerb

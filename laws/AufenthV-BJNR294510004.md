@@ -461,7 +461,7 @@ Unterabschnitt 1</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 61a</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Fingerabdruckerfassung bei der Beantragung von Dokumenten mit Chip</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Datenerfassung bei der Beantragung von Dokumenten mit Chip</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 61b</td>
@@ -559,7 +559,7 @@ Unterabschnitt 3</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 74</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Mitteilungen der Justizvollzugsbehörden und der Maßregelvollzugseinrichtungen</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Mitteilungen der Justizbehörden und der Maßregelvollzugseinrichtungen</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;" data-valign="top" data-charoff="50">§ 75</td>
@@ -2280,11 +2280,19 @@ Eine Veränderung des Lichtbilds ist nur nach Maßgabe des Aufenthaltsgesetzes o
 
 (2) Einzelheiten zum technischen Verfahren für das Ausfüllen der bundeseinheitlichen Vordrucke werden vom Bundesministerium des Innern, für Bau und Heimat festgelegt und bekannt gemacht.
 
-# § 61a – Fingerabdruckerfassung bei der Beantragung von Dokumenten mit Chip
+# § 61a – Datenerfassung bei der Beantragung von Dokumenten mit Chip
 
 (1) Die Fingerabdrücke werden in Form des flachen Abdrucks des linken und rechten Zeigefingers des Antragstellers im Chip des Dokuments gespeichert. Bei Fehlen eines Zeigefingers, ungenügender Qualität des Fingerabdrucks oder Verletzungen der Fingerkuppe wird ersatzweise der flache Abdruck entweder des Daumens, des Mittelfingers oder des Ringfingers gespeichert. Fingerabdrücke sind nicht zu speichern, wenn die Abnahme der Fingerabdrücke aus medizinischen Gründen, die nicht nur vorübergehender Art sind, unmöglich ist.
 
 (2) Auf Verlangen hat die Ausländerbehörde dem Dokumenteninhaber Einsicht in die im Chip gespeicherten Daten zu gewähren. Die bei der Ausländerbehörde gespeicherten Fingerabdrücke sind spätestens nach Aushändigung des Dokuments zu löschen.
+
+(3) Abweichend von Absatz 2 Satz 2 sollen die bei der Ausländerbehörde gespeicherten Fingerabdrücke, das Lichtbild und die Unterschrift nach der Aushändigung des Dokuments nur zum Zweck der erneuten Ausstellung eines Dokuments mit Chip für die Erteilung von Aufenthaltstiteln gemäß § 4 Absatz 1 Satz 2 Nummer 2 bis 2c des Aufenthaltsgesetzes verwendet werden. Abweichend von Absatz 2 Satz 2 sind die bei der Ausländerbehörde gespeicherten Fingerabdrücke, das Lichtbild und die Unterschrift nach erstmaliger Erhebung der Daten wie folgt zu löschen:
+
+1. bei Personen, die das 18. Lebensjahr vollendet haben, spätestens nach sieben Jahren,
+
+2. bei Personen, die das 18. Lebensjahr noch nicht vollendet haben, spätestens nach fünf Jahren.
+
+Die Nutzungsdauer der gespeicherten Fingerabdrücke, des Lichtbildes und der Unterschrift im Chip des Dokuments ist nach erstmaliger Erhebung der Daten begrenzt auf einen Zeitraum von höchstens zehn Jahren; die Gültigkeitsdauer neu ausgestellter Dokumente ist entsprechend zu begrenzen.
 
 # § 61b – Form und Verfahren der Datenerfassung, -prüfung sowie der dezentralen Qualitätssicherung
 
@@ -2822,7 +2830,7 @@ Die Mitteilung nach Satz 1 Nr. 2 entfällt bei Personen, die mit einem Aufnahmeb
 
 (2) Die Bescheinigungsbehörden nach § 15 des Bundesvertriebenengesetzes teilen den Ausländerbehörden die Ablehnung der Ausstellung einer Bescheinigung nach § 15 Abs. 1 oder 2 des Bundesvertriebenengesetzes mit.
 
-# § 74 – Mitteilungen der Justizvollzugsbehörden und der Maßregelvollzugseinrichtungen
+# § 74 – Mitteilungen der Justizbehörden und der Maßregelvollzugseinrichtungen
 
 (1) Die Strafvollstreckungsbehörden teilen den Ausländerbehörden mit
 
@@ -2830,7 +2838,7 @@ Die Mitteilung nach Satz 1 Nr. 2 entfällt bei Personen, die mit einem Aufnahmeb
 
 2. den Widerruf der Zurückstellung der Strafvollstreckung.
 
-(2) Die Justizvollzugsbehörden teilen den Ausländerbehörden mit
+(2) Die Justizvollzugsbehörden oder die Maßregelvollzugseinrichtungen teilen den Ausländerbehörden mit
 
 1. den Antritt der Auslieferungs-, Untersuchungs- und Strafhaft und den Beginn der Unterbringung in einem psychiatrischen Krankenhaus nach § 63 des Strafgesetzbuches, der Unterbringung in einer Entziehungsanstalt nach § 64 des Strafgesetzbuches und der Unterbringung in der Sicherungsverwahrung nach § 66 des Strafgesetzbuches,
 
@@ -2922,7 +2930,7 @@ Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten wird
 
 # § 79 – Anwendung auf Freizügigkeitsberechtigte
 
-Die in Kapitel 2 Abschnitt 1, Kapitel 3, § 56, Kapitel 5 sowie in den §§ 81 und 82 enthaltenen Regelungen finden auch Anwendung auf Ausländer, deren Rechtsstellung durch das Freizügigkeitsgesetz/EU geregelt ist.
+Die in Kapitel 2 Abschnitt 1, Kapitel 3, § 56, Kapitel 5 mit Ausnahme von § 61a Absatz 3 sowie in den §§ 81 und 82 enthaltenen Regelungen finden auch Anwendung auf Ausländer, deren Rechtsstellung durch das Freizügigkeitsgesetz/EU geregelt ist.
 
 # § 80 – Übergangsregelung für bestimmte Fiktionsbescheinigungen im Zusammenhang mit einem Dokumentenmuster
 

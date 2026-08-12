@@ -603,7 +603,7 @@ Das Umweltbundesamt kann Daten nach den Sätzen 3 und 4 mit dem Betreiber eines 
 
 (3) Soweit es zur Durchführung dieser Verordnung erforderlich ist, darf das Umweltbundesamt Daten aus dem Herkunftsnachweisregister für Gas oder dem Herkunftsnachweisregister für Wärme oder Kälte übermitteln an
 
-1. das Bundesministerium für Wirtschaft und Klimaschutz,
+1. das Bundesministerium für Wirtschaft und Energie,
 
 2. das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz,
 
@@ -627,7 +627,7 @@ Das Umweltbundesamt kann Daten nach den Sätzen 3 und 4 mit dem Betreiber eines 
 
 Die protokollierten Daten dürfen nur für Zwecke der Datenschutzkontrolle oder Datensicherung oder zur Sicherstellung eines ordnungsgemäßen Betriebs der Datenverarbeitungsanlage verwendet werden. Die protokollierten Daten sind durch geeignete Vorkehrungen gegen zweckfremde Verwendung und gegen sonstigen Missbrauch zu schützen. Die protokollierten Daten sind sechs Monate nach der Protokollierung zu löschen.
 
-(5) Das Umweltbundesamt richtet eine elektronische Schnittstelle ein, die es ermöglicht, Daten an die nach Landesrecht zuständigen Behörden zu übermitteln, soweit es für den Vollzug des Gebäudeenergiegesetzes vom 8. August 2020 (BGBl. I S. 1728), das durch Artikel 1 des Gesetzes vom 16. Oktober 2023 (BGBl. 2023 I Nr. 280) geändert worden ist, erforderlich ist. Absatz 4 Satz 2 bis 5 ist entsprechend anzuwenden.
+(5) Das Umweltbundesamt richtet eine elektronische Schnittstelle ein, die es ermöglicht, Daten an die nach Landesrecht zuständigen Behörden zu übermitteln, soweit es für den Vollzug des Gebäudemodernisierungsgesetzes vom 8. August 2020 (BGBl. I S. 1728), das zuletzt durch Artikel 4 des Gesetzes vom 23. Juli 2026 (BGBl. 2026 I Nr. 226) geändert worden ist, in der jeweils geltenden Fassung erforderlich ist. Absatz 4 Satz 2 bis 5 ist entsprechend anzuwenden.
 
 (+++ § 39 Abs. 4: Zur Anwendung vgl. § 11 Abs. 4 +++)
 

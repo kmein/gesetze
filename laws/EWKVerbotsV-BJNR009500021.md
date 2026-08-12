@@ -7,7 +7,7 @@ Auf Grund des § 24 Nummer 4 in Verbindung mit § 67 des Kreislaufwirtschaftsge
 
 # § 1 – Anwendungsbereich
 
-Diese Verordnung gilt für das Inverkehrbringen von bestimmten Einwegkunststoffprodukten und von Produkten aus oxo-abbaubarem Kunststoff. Diese Verordnung gilt unabhängig davon, ob die Produkte als Verpackungen nach § 3 Absatz 1 des Verpackungsgesetzes in Verkehr gebracht werden oder nicht.
+Diese Verordnung gilt für das Inverkehrbringen von bestimmten Einwegkunststoffprodukten und von Produkten aus oxo-abbaubarem Kunststoff. Diese Verordnung gilt unabhängig davon, ob die Produkte als Verpackungen nach Artikel 3 Absatz 1 Nummer 1 der Verordnung (EU) 2025/40 in Verkehr gebracht werden oder nicht.
 
 # § 2 – Begriffsbestimmungen
 

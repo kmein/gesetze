@@ -259,7 +259,7 @@ Die Redner sprechen von den dafür bestimmten Saalmikrofonen oder vom Rednerpult
 
 (1) Der sitzungsleitende Präsident kann den Redner, der vom Verhandlungsgegenstand abschweift oder eine Erklärung zur Geschäftsordnung, zur Abstimmung oder außerhalb der Tagesordnung zweckwidrig nutzt, zur Sache verweisen. Ist ein Redner während einer Rede dreimal zur Sache gerufen worden, muss ihm der sitzungsleitende Präsident das Wort entziehen und darf es ihm zum selben Verhandlungsgegenstand nicht wieder erteilen.
 
-(2) Der sitzungsleitende Präsident kann Mitglieder des Bundestages, wenn sie die Ordnung oder die Würde des Bundestages verletzen, mit Nennung des Namens zur Ordnung rufen. Der Ordnungsruf und der Anlass hierzu dürfen nachfolgend nicht behandelt werden. Ist ein Mitglied des Bundestages dreimal während einer Sitzung zur Ordnung gerufen worden, verweist es der sitzungsleitende Präsident für die Dauer der Sitzung aus dem Saal. § 38 Absatz 1 Satz 3 bis 4 sowie Absatz 3 bis 5 gilt entsprechend.
+(2) Der sitzungsleitende Präsident kann Mitglieder des Bundestages, wenn sie die Ordnung oder die Würde des Bundestages verletzen, mit Nennung des Namens zur Ordnung rufen. Der Ordnungsruf und der Anlass hierzu dürfen nachfolgend nicht behandelt werden. Ist ein Mitglied des Bundestages dreimal während einer Sitzung zur Ordnung gerufen worden, verweist es der sitzungsleitende Präsident für die Dauer der Sitzung aus dem Saal. § 38 Absatz 1 Satz 2 bis 4 sowie Absatz 3 bis 5 gilt entsprechend.
 
 (3) Ein Ordnungsruf kann im Einzelfall auch nachträglich bis zum Ende des auf die Verletzung der Ordnung oder der Würde des Bundestages folgenden dritten Sitzungstages erlassen werden.
 

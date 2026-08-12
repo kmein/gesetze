@@ -904,11 +904,15 @@ Im Rahmen einer Kompostierung sind holzige Materialien so zu zerkleinern oder de
 Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden; davon ausgenommen sind pflanzliche Materialien von Verkehrswegebegleitflächen (an Straßen, Wegen, Schienentrassen, Flughäfen) und von Industriestandorten.</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Gemischte Siedlungsabfälle<span id="FnR.FnA1-f780003_07"></span><a href="#FnA1-f780003_07" class="FnR">6</a></sup><br />
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Gemischte Siedlungs-<br />
+abfälle<span id="FnR.FnA1-F836757_03"></span><a href="#FnA1-F836757_03" class="FnR">6</a></sup><br />
 (20 03 01)</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">– Getrennt gesammelte Bioabfälle<a href="#FnA1-f780003_07" class="FnR">6</a></sup></td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Getrennt gesammelte<br />
+Bioabfälle<a href="#FnA1-F836757_03" class="FnR">6</a></sup> , einschließlich durchlässiger aufweichender Einzelportionseinheiten für Tee, Kaffee oder andere Getränke nach Artikel 3 Absatz 1 Nummer 1 Buchstabe f der<br />
+Verordnung (EU) 2025/40</td>
 <td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">(Andere Siedlungsabfälle)<br />
-Geeignete Abfälle gemäß Spalte 2 sind getrennt gesammelte Bioabfälle (z. B. Biotonne) privater Haushalte, des Kleingewerbes und sonstiger Einrichtungen.</td>
+Geeignete Abfälle gemäß Spalte 2 sind getrennt gesammelte Bioabfälle (z. B. Biotonne) privater Haushalte, des Kleingewerbes und sonstiger Einrichtungen.<br />
+Sofern durchlässige aufweichende Einzelportionseinheiten für Tee, Kaffee oder andere Getränke nach Artikel 3 Absatz 1 Nummer 1 Buchstabe f der Verordnung (EU) 2025/40 aus biologisch abbaubaren Kunststoffen bestehen, dürfen diese nur zusammen mit den gesammelten Bioabfällen der Kompostierung zugegeben werden, wenn sie nach DIN EN 13432 (Ausgabe 2000-12) und DIN EN 13432 Berichtigung 2 (Ausgabe 2007-10) zertifiziert sind. Darüber hinaus muss die Zertifizierung den Nachweis beinhalten, dass nach einer Kompostierung von höchstens sechs Wochen Dauer eine vollständige Desintegration mit einem Siebdurchgang von maximal 2 mm erfolgt ist; dieser Nachweis kann auch durch eine Zusatzzertifizierung erbracht werden.</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Marktabfälle<br />
@@ -1289,7 +1293,7 @@ Verordnung (EU) Nr. 142/2011 der Kommission vom 25. Februar 2011 zur Durchführu
 
 Die Abfallstoffe werden dieser Abfallbezeichnung zugeordnet, da die AVV keine spezielle Abfallbezeichnung für außerhalb von Gärten und Parks anfallende biologisch abbaubare Abfälle von Sportanlagen, -plätzen, -stätten und Kinderspielplätzen, Gehölzrodungsrückstände und pflanzliche Abfälle aus der Gewässerunterhaltung sowie für Landschaftspflegeabfälle und pflanzliche Bestandteile des Treibsels enthält.
 
-<span id="FnA1-f780003_07"></span>
+<span id="FnA1-F836757_03"></span>
 
 6
 

@@ -193,7 +193,7 @@ Die Dokumente sind unverzüglich zu übermitteln.
 
 (5) Für die Angabe des Verarbeitungszwecks nach § 11 Absatz 1 Satz 3, Absatz 2 Satz 5 des AZR-Gesetzes gilt Absatz 3 entsprechend. Die Mitteilung hat schriftlich zu erfolgen.
 
-(6) Ähnliche Personen nach § 10 Absatz 3, § 21 Absatz 3 und § 31 Absatz 1 des AZR-Gesetzes sind solche Personen, deren Grundpersonalien, Lichtbilder, Fingerabdruckdaten, abweichende Namenschreibweisen, andere Namen, frühere Namen, Aliaspersonalien oder Angaben zum Ausweispapier oder Aufenthaltstitel mit den im Übermittlungsersuchen angegebenen Grundpersonalien, Lichtbildern, Fingerabdruckdaten oder Angaben zum Ausweispapier oder Aufenthaltstitel übereinstimmen oder nur geringfügig davon abweichen.
+(6) Ähnliche Personen nach § 10 Absatz 3, § 21 Absatz 3 und § 31 Absatz 1 des AZR-Gesetzes sind solche Personen, deren Grundpersonalien, Lichtbilder, Fingerabdruckdaten, abweichende Namenschreibweisen, andere Namen, frühere Namen, Aliaspersonalien oder Angaben zu Ausweisdokumenten oder zum Aufenthaltstitel mit den im Übermittlungsersuchen angegebenen Grundpersonalien, Lichtbildern, Fingerabdruckdaten oder Angaben zu Ausweisdokumenten oder zum Aufenthaltstitel übereinstimmen oder nur geringfügig davon abweichen.
 
 # § 9 – Allgemeine Regelungen der Datenübermittlung durch die Registerbehörde
 
