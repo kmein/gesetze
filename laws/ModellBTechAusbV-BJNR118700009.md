@@ -552,9 +552,9 @@ Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussp
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren und noch keine Zwischenprüfung abgelegt wurde.
 
-# § 16 – Inkrafttreten, Außerkrafttreten
+# § 16 – Außerkrafttreten
 
-Diese Verordnung tritt am 1. August 2009 in Kraft.
+Diese Verordnung tritt mit Ablauf des 31. Juli 2027 außer Kraft.
 
 # Anlage – (zu § 4 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Modellbauer/zur Technischen Modellbauerin
 

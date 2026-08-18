@@ -451,7 +451,6 @@
 - [BASPOErmV](laws/BASPOErmV-BJNR228900021.md) Verordnung zur Ermächtigung zum Erlass von Prüfungsordnungen durch das Bundesamt für Soziale Sicherung
 - [BAStrlSchG](laws/BAStrlSchG-BJNR018300989.md) Gesetz über die Errichtung eines Bundesamtes für Strahlenschutz
 - [BattDG](laws/BattDG-BJNR0E90B0025.md) Gesetz zur Durchführung der Verordnung (EU) 2023/1542 betreffend Batterien und Altbatterien
-- [BattG](laws/BattG-BJNR158210009.md) Gesetz über das Inverkehrbringen, die Rücknahme und die umweltverträgliche Entsorgung von Batterien und Akkumulatoren
 - [BATZV](laws/BATZV-BJNR000200011.md) Verordnung über die Altersteilzeit von Beamtinnen und Beamten des Bundes
 - [BaubetrV 1980](laws/BaubetrV_1980-BJNR020330980.md) Verordnung über die Betriebe des Baugewerbes, in denen die ganzjährige Beschäftigung zu fördern ist
 - [BauFordSiG](laws/BauFordSiG-BJNR004490909.md) Gesetz über die Sicherung der Bauforderungen
@@ -3361,7 +3360,7 @@
 - [MinÖlDatG](laws/MinÖlDatG-BJNR023530988.md) Gesetz über die Erhebung von Meldungen in der Mineralölwirtschaft
 - [MinRohSorgG](laws/MinRohSorgG-BJNR086410020.md) Gesetz zur Durchführung der Verordnung (EU) 2017/821 des Europäischen Parlaments und des Rates vom 17. Mai 2017 zur Festlegung von Pflichten zur Erfüllung der Sorgfaltspflichten in der Lieferkette für Unionseinführer von Zinn, Tantal, Wolfram, deren Erzen und Gold aus Konflikt- und Hochrisikogebieten
 - [MinRSozSBes](laws/MinRSozSBes-DDNR015520990.md) Beschluß des Ministerrates der Deutschen Demokratischen Republik über Regelungen zur sozialen Sicherstellung für ausscheidende Mitglieder des Ministerrates vom 8. Februar 1990 in der Fassung des Beschlusses vom 8. August 1990
-- [MinStBV](laws/MinStBV-BJNR1750A0025.md) Verordnung zur Durchführung des Mindeststeuergesetzes betreffend den Umfang, die Ausgestaltung und den Informationsaustausch von Mindeststeuer-Berichten 1
+- [MinStDV](laws/MinStDV-BJNR1750A0025.md) Verordnung zur Durchführung des Mindeststeuergesetzes 1
 - [MinStG](laws/MinStG-BJNR18D0B0023.md) Gesetz zur Gewährleistung einer globalen Mindestbesteuerung für Unternehmensgruppen
 - [MinUhV](laws/MinUhV-BJNR218800015.md) Verordnung zur Festlegung des Mindestunterhalts minderjähriger Kinder nach § 1612a Absatz 1 des Bürgerlichen Gesetzbuchs
 - [MISSAufstV](laws/MISSAufstV-BJNR020200019.md) Verordnung über den Aufstieg in den höheren nichttechnischen Verwaltungsdienst über den Masterstudiengang „Intelligence and Security Studies“

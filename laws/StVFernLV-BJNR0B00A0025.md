@@ -13,8 +13,6 @@ Das Bundesministerium für Verkehr verordnet aufgrund des § 6 Absatz 1 Satz 1 N
 
 (3) Die Vorschriften der §§ 1a bis 1k des Straßenverkehrsgesetzes bleiben unberührt.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 16.7.2025 I Nr. 176 +++)
-
 # § 2 – Begriffsbestimmungen
 
 (1) Ein Kraftfahrzeug mit ferngelenkter Fahrfunktion (ferngelenktes Kraftfahrzeug) ist ein Kraftfahrzeug, das mittels einer technischen Ausrüstung zum Fernlenken durch eine Person gelenkt wird, die sich außerhalb des Kraftfahrzeugs befindet.
@@ -100,8 +98,6 @@ e) auf Anforderung des Kraftfahrt-Bundesamts weitere Unterlagen zum Nachweis der
 3. die Zweckmäßigkeit der Anforderungen dieser Verordnung.
 
 Das Ergebnis des Forschungsvorhabens ist in einem Abschlussbericht nach den anerkannten Regeln der Wissenschaft schriftlich darzulegen. Der Abschlussbericht ist 36 Monate nach der Zulassung des ferngelenkten Kraftfahrzeugs dem Kraftfahrt-Bundesamt, der Bundesanstalt für Straßen- und Verkehrswesen und der für die Genehmigung des Betriebsbereichs zuständigen Landesbehörde vorzulegen. Der Halter hat den in Satz 3 genannten Stellen ab Beginn des Forschungsvorhabens jährliche Zwischenberichte über die Auswirkungen und die Zweckmäßigkeit nach Satz 1 vorzulegen.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 16.7.2025 I Nr. 176 +++)
 
 # § 5 – Marktüberwachung
 
@@ -339,8 +335,6 @@ Die fehlende Eignung nach Satz 1 wird unwiderleglich vermutet, wenn sich für di
 
 (2) Der Hersteller der technischen Ausrüstung zum Fernlenken hat die Dokumente nach Absatz 1 Nummer 1 bis 4 dem Halter zur Verfügung zu stellen.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 16.7.2025 I Nr. 176 +++)
-
 # § 14 – Pflichten des Halters
 
 (1) Der Halter ist zur Erhaltung der Verkehrssicherheit und der Umweltverträglichkeit des ferngelenkten Kraftfahrzeugs verpflichtet und hat die hierfür erforderlichen Vorkehrungen zu treffen. Er hat
@@ -373,8 +367,6 @@ c) keine gefährlichen Güter im Sinne des Gefahrgutbeförderungsgesetz beförde
 
 (4) Der Halter hat für das ferngelenkte Kraftfahrzeug eine Hauptuntersuchung nach Maßgabe der Anlage VIII in Verbindung mit Anlage VIIIa der Straßenverkehrs-Zulassungs-Ordnung zu veranlassen. Abweichend von § 29 Absatz 1 in Verbindung mit Anlage VIII Nummer 2 der Straßenverkehrs-Zulassungs-Ordnung betragen die Zeitabstände für die Hauptuntersuchung sechs Monate ab dem Zeitpunkt der Zulassung des ferngelenkten Kraftfahrzeugs.
 
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 16.7.2025 I Nr. 176 +++)
-
 # § 15 – Datenverarbeitung
 
 (1) Der Halter ist verpflichtet, die nach Anlage 3 erforderlichen Daten beim ferngelenkten Betrieb zu speichern.
@@ -404,8 +396,6 @@ c) keine gefährlichen Güter im Sinne des Gefahrgutbeförderungsgesetz beförde
 Die in Satz 1 genannten Stellen dürfen die Daten ausschließlich für die in Satz 1 genannten Zwecke verwenden.
 
 (6) Der Halter und das Kraftfahrt-Bundesamt haben Daten nach Absatz 5 über den gesamten Zeitraum des Forschungsvorhabens sowie ab dem Tag seiner Beendigung bis zum Ablauf von zwölf Monaten zu speichern und anschließend unverzüglich zu löschen.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 16.7.2025 I Nr. 176 +++)
 
 # § 16 – Maßgaben zur Anwendung der Fahrzeug-Zulassungsverordnung
 
@@ -961,8 +951,6 @@ Die Anzeigen, die akustischen Signale sowie die Handbedien- und Fußbedienelemen
 Anforderungen an die Audiowiedergabe
 
 Um der fernlenkenden Person eine ganzheitliche Wahrnehmung der Umgebung des ferngelenkten Kraftfahrzeugs zu vermitteln, muss der Leitstand Geräusche aus der Umgebung des ferngelenkten Kraftfahrzeugs am Kraftfahrzeugführerplatz wiedergeben. Die Geräusche sind in einer Form wiederzugeben, die die räumliche Wahrnehmung des ferngelenkten Kraftfahrzeugs in dessen Umgebung unterstützt. Die Wiedergabe darf nicht abschaltbar sein.
-
-(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 16.7.2025 I Nr. 176 +++)
 
 # Anlage 2 – (zu § 7 Absatz 2 Satz 1 Nummer 2, § 8 Absatz 2 Nummer 1, § 9 Absatz 2)Voraussetzungen für die Erteilung der Betriebsbereichsgenehmigung
 

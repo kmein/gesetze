@@ -199,6 +199,6 @@ k) Informations- und Kommunikationssysteme in Bezug auf ihre betrieblichen Einsa
 
 Die Regelungen des § 7 Absatz 5 und 6 gelten nicht für die bis zum 31. Dezember 2011 begonnenen Prüfungsverfahren. Diese werden nach den bisherigen Vorschriften zu Ende geführt.
 
-# § 10 – Inkrafttreten, Außerkrafttreten
+# § 10 – Außerkrafttreten
 
-Diese Verordnung tritt am 1. September 2001 in Kraft.
+Diese Verordnung tritt mit Ablauf des 28. Februar 2027 außer Kraft.
