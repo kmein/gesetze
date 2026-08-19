@@ -248,6 +248,8 @@ f) im Rahmen einer freiwilligen Umwelt-, Klima- oder anderen Bewirtschaftungsver
 
 3. seit mindestens fünf Jahren nicht gepflügt worden sind.
 
+Hiervon ausgenommen sind Flächen, die am 1. Januar 2026 Ackerland waren. Satz 2 findet keine Anwendung, wenn der Betriebsinhaber bis spätestens zum Ablauf des 30. September 2026 gegenüber der zuständigen Behörde erklärt, dass Satz 2 auf eine bestimmte Fläche seines Betriebes nicht angewendet werden soll. Die Erklärung kann nicht geändert und nicht zurückgenommen werden.
+
 (2) Gras oder andere Grünfutterpflanzen sind
 
 1. alle krautartigen Pflanzen, die herkömmlicherweise in natürlichem Grünland anzutreffen sind oder die normalerweise Teil von Saatgutmischungen für Weideland oder Wiesen sind, unabhängig davon, ob die Flächen als Viehweiden genutzt werden, mit Ausnahme von
@@ -1266,7 +1268,7 @@ Die Aussaat hat bis zum 15. Mai des jeweiligen Antragsjahres zu erfolgen. Im Fal
 
 1.2.8
 
-Ab dem 1. September des Antragsjahres ist eine Bodenbearbeitung erlaubt, wenn dieser die Aussaat oder die Pflanzung einer Folgekultur folgt, die nicht vor Ablauf des Antragsjahres zu einer Ernte führt. Satz 1 gilt nur, wenn der Blühstreifen oder die Blühfläche bereits in dem dem Antragsjahr vorhergehenden Jahr im Rahmen der Öko-Regelung nach Nummer 1.2 als Blühstreifen oder Blühfläche beantragt worden ist und begünstigungsfähig war.
+Ab dem 1. September des Antragsjahres ist eine Bodenbearbeitung erlaubt, wenn dieser die Aussaat oder die Pflanzung einer Folgekultur folgt, die nicht vor Ablauf des Antragsjahres zu einer Ernte führt. Satz 1 gilt nur, wenn der Blühstreifen oder die Blühfläche bereits in dem dem Antragsjahr vorhergehenden Jahr im Rahmen der Öko-Regelung nach Nummer 1.2 als Blühstreifen oder Blühfläche beantragt worden ist und begünstigungsfähig war. Die Zerkleinerung und ganzflächige Verteilung des Aufwuchses sind erst ab dem 1. September des zweiten aufeinanderfolgenden Antragsjahres zulässig.
 
 1.3
 
@@ -1422,7 +1424,7 @@ Pflanzenschutzmittel dürfen nicht angewendet werden. Die nach Landesrecht zust�
 
 4.5
 
-Dauergrünlandflächen des Betriebs dürfen im Antragsjahr nicht gepflügt werden. Zur Wiederherstellung der Grasnarbe nach einer Zerstörung durch höhere Gewalt oder außergewöhnliche Umstände kann die nach Landesrecht zuständige Behörde im Einzelfall auf Antrag Ausnahmen zulassen.
+Dauergrünlandflächen des Betriebs dürfen im Antragsjahr nicht gepflügt werden. Zur Wiederherstellung der Grasnarbe nach einer Zerstörung durch höhere Gewalt oder außergewöhnliche Umstände sowie zur naturschutzfachlichen Aufwertung kann die nach Landesrecht zuständige Behörde im Einzelfall auf Antrag Ausnahmen zulassen.
 
 5\.
 
@@ -1478,7 +1480,7 @@ Zu § 20 Absatz 1 Nummer 7 des GAP-Direktzahlungen-Gesetzes
 
 7.1
 
-Begünstigungsfähig sind förderfähige landwirtschaftliche Flächen, die in Gebieten nach Nummer 7.3 liegen, die die Voraussetzungen der Nummer 7.2 erfüllen und unter Nummer 7.4 fallen.
+Begünstigungsfähig sind förderfähige landwirtschaftliche Flächen, die in Gebieten nach Nummer 7.3 liegen und die die Voraussetzungen der Nummer 7.2 erfüllen.
 
 7.2
 
@@ -1495,10 +1497,6 @@ Die Gebiete nach Nummer 7.1 sind die Gebiete, die
 a) in die Liste nach Artikel 4 Absatz 2 Unterabsatz 3 der Richtlinie 92/43/EWG eingetragen sind oder
 
 b) nach Artikel 4 Absatz 1 der Richtlinie 2009/147/EG als Schutzgebiet ausgewiesen sind.
-
-7.4
-
-Förderfähige landwirtschaftliche Flächen, bei denen rechtliche Vorgaben mindestens einer der Maßnahmen nach Nummer 7.2 nicht entgegenstehen, sind begünstigungsfähig.
 
 (+++ Anlage 5: Zur Anwendung vgl. § 28 Abs. 4 +++)
 

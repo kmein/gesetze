@@ -9,9 +9,15 @@
 
 (3) Die Prüfung wird bei der für den Wohnsitz des Prüfungsteilnehmers zuständigen Industrie- und Handelskammer abgelegt. Die Industrie- und Handelskammer kann für den praktischen Teil amtlich anerkannte Sachverständige oder Prüfer für den Kraftfahrzeugverkehr hinzuziehen. Die Industrie- und Handelskammer muss für den praktischen Teil in Satz 2 bezeichnete Sachverständige oder Prüfer hinzuziehen, soweit die Industrie- und Handelskammer nicht über eigenes Personal mit gleichwertiger Qualifikation verfügt. Bei Bedarf muss die zuständige Industrie- und Handelskammer mindestens einmal im Vierteljahr einen Prüfungstermin festsetzen. Der Prüfungsteilnehmer kann mit seiner Zustimmung an eine andere Industrie- und Handelskammer verwiesen werden, wenn innerhalb eines Vierteljahres weniger als drei Prüfungsteilnehmer zur Prüfung anstehen oder dem Prüfungsteilnehmer andernfalls wirtschaftliche Nachteile entstehen.
 
+(3a) Der Prüfungsteilnehmer hat für die praktische Prüfung bereitzustellen:
+
+1. ein Prüffahrzeug, das den Anforderungen entspricht, die in Anlage 7 Nummer 2.2.6 bis 2.2.13, jeweils in Verbindung mit Nummer 2.2.16 der Fahrerlaubnis-Verordnung, für die höchste Fahrerlaubnisklasse, über die der Prüfungsteilnehmer verfügt und für die er seine Befähigung nachweisen will, festgelegt sind, sowie
+
+2. einen Fahrlehrer, der im Besitz einer gültigen Fahrlehrererlaubnis für die Fahrerlaubnisklasse ist, für die der Prüfungsteilnehmer seine Befähigung nachweisen will.
+
 (4) Die Prüfung ist bestanden, wenn jeweils im praktischen und theoretischen Teil mindestens ausreichende Leistungen erbracht sind.
 
-(5) Inhaber einer Fachkunde-Bescheinigung nach § 4 Absatz 6 Satz 1 der Berufszugangsverordnung für den Straßenpersonenverkehr oder nach § 5 Absatz 7 der Berufszugangsverordnung für den Güterkraftverkehr sind von der theoretischen Prüfung insoweit befreit, als der Prüfungsgegenstand bereits Gegenstand der Prüfung nach diesen Verordnungen ist. Die Dauer der theoretischen Prüfung ist entsprechend zu verkürzen.
+(5) Inhaber einer Fachkunde-Bescheinigung nach § 4 Absatz 6 Satz 1 der Berufszugangsverordnung für den Straßenpersonenverkehr oder nach § 5 Absatz 7 der Berufszugangsverordnung für den Güterkraftverkehr sind von der theoretischen Prüfung insoweit befreit, als der Prüfungsgegenstand bereits Gegenstand der Prüfung nach diesen Verordnungen ist. Die Dauer der theoretischen Prüfung ist entsprechend zu verkürzen. Die Sätze 1 und 2 sind nur anzuwenden, sofern der zuständigen Industrie- und Handelskammer die Bescheinigung nach Satz 1 vorgelegt wird.
 
 # § 2 – Erwerb der beschleunigten Grundqualifikation
 
@@ -35,23 +41,45 @@ Nr. 1/2005 des Rates vom 22. Dezember 2004 über den Schutz von Tieren beim Tran
 
 Die nach Satz 1 abgeschlossenen speziellen Ausbildungsmaßnahmen werden jeweils nur einmal im Rahmen der beschleunigten Grundqualifikation angerechnet. Sind seit dem Abschluss der speziellen Ausbildungsmaßnahme mehr als fünf Jahre vergangen, ist eine Anrechnung nicht mehr zulässig.
 
-(6) Die Prüfung besteht aus einer schriftlichen Prüfung von 90 Minuten Dauer. Sie umfasst mindestens eine Frage zu jedem der jeweils maßgeblichen in Anlage 1 genannten Ziele. In der Prüfung ist nachzuweisen, dass die Inhalte der in Anlage 1 aufgeführten Kenntnisbereiche beherrscht werden.
+(6) Die Prüfung darf nur ablegen, wer zuvor gegenüber der zuständigen Industrie- und Handelskammer nachweist, dass er den nach Absatz 2 oder 9 oder § 3 Absatz 2 vorgeschriebenen Unterricht besucht hat Die Prüfung besteht aus einer schriftlichen Prüfung von 90 Minuten Dauer. Sie umfasst mindestens eine Frage zu jedem der jeweils maßgeblichen in Anlage 1 genannten Ziele. In der Prüfung ist nachzuweisen, dass die Inhalte der in Anlage 1 aufgeführten Kenntnisbereiche beherrscht werden.
 
 (7) Die Prüfung wird bei der für den Wohnsitz des Prüfungsteilnehmers zuständigen Industrie- und Handelskammer abgelegt. Bei Bedarf muss die zuständige Industrie- und Handelskammer mindestens einmal im Vierteljahr einen Prüfungstermin festsetzen. Der Prüfungsteilnehmer kann mit seiner Zustimmung an eine andere Industrie- und Handelskammer verwiesen werden, wenn innerhalb eines Vierteljahres weniger als drei Prüfungsteilnehmer zur Prüfung anstehen oder dem Prüfungsteilnehmer andernfalls wirtschaftliche Nachteile entstehen.
 
-(8) Die Prüfung ist bestanden, wenn mindestens ausreichende Leistungen erbracht sind.
+(8) Die Prüfung ist in deutscher Sprache abzulegen. Abweichend von Satz 1 kann die Prüfung auch in einer der folgenden Sprachen abgelegt werden:
 
-(9) Inhaber einer Fachkunde-Bescheinigung nach § 4 Absatz 6 Satz 1 der Berufszugangsverordnung für den Straßenpersonenverkehr oder nach § 5 Absatz 7 der Berufszugangsverordnung für den Güterkraftverkehr sind von der Teilnahme am Unterricht und der Prüfung insoweit befreit, als Prüfungsgegenstand bereits Gegenstand der Prüfung nach diesen Verordnungen ist. Die Unterrichtsdauer beträgt 96 Unterrichtseinheiten, von denen zehn Unterrichtseinheiten auf das Führen eines Kraftfahrzeugs der betreffenden Klasse entfallen. Die Prüfung ist entsprechend zu verkürzen.
+1. Albanisch,
+
+2. Englisch,
+
+3. Hocharabisch,
+
+4. Kroatisch,
+
+5. Polnisch,
+
+6. Rumänisch,
+
+7. Russisch,
+
+8. Türkisch oder
+
+9. Ukrainisch.
+
+(9) Die Prüfung ist bestanden, wenn mindestens ausreichende Leistungen erbracht sind.
+
+(10) Inhaber einer Fachkunde-Bescheinigung nach § 4 Absatz 6 Satz 1 der Berufszugangsverordnung für den Straßenpersonenverkehr oder nach § 5 Absatz 7 der Berufszugangsverordnung für den Güterkraftverkehr sind von der Teilnahme am Unterricht und der Prüfung insoweit befreit, als Prüfungsgegenstand bereits Gegenstand der Prüfung nach diesen Verordnungen ist. Die Unterrichtsdauer beträgt 96 Unterrichtseinheiten, von denen zehn Unterrichtseinheiten auf das Führen eines Kraftfahrzeugs der betreffenden Klasse entfallen. Die Prüfung ist entsprechend zu verkürzen. Die Sätze 1 bis 3 sind nur anzuwenden, sofern der zuständigen Industrie- und Handelskammer die Bescheinigung nach Satz 1 vorgelegt wird.
 
 # § 3 – Unterrichts- und Prüfungsanforderungen in besonderen Fällen
 
-(1) Fahrer im Güterkraftverkehr, die ihre Tätigkeit auf den Personenkraftverkehr ausweiten, oder Fahrer im Personenkraftverkehr, die ihre Tätigkeit auf den Güterkraftverkehr ausweiten oder ändern und die eine Grundqualifikation erworben haben, müssen bei der theoretischen und praktischen Prüfung nach § 1 Absatz 2 nur diejenigen Teile ablegen, welche Kraftfahrzeuge betreffen, die Gegenstand der neuen Grundqualifikation sind.
+(1) Fahrer im Güterkraftverkehr, die ihre Tätigkeit auf den Personenkraftverkehr ausweiten oder ändern, oder Fahrer im Personenkraftverkehr, die ihre Tätigkeit auf den Güterkraftverkehr ausweiten oder ändern, und die jeweils eine Grundqualifikation oder eine beschleunigte Grundqualifikation erworben haben, müssen bei der theoretischen und praktischen Prüfung nach § 1 Absatz 2 nur diejenigen Teile ablegen, welche Kraftfahrzeuge betreffen, die Gegenstand der neuen Grundqualifikation sind.
 
 (2) Bei Absolvierung der beschleunigten Grundqualifikation beträgt die Unterrichtsdauer 35 Unterrichtseinheiten, von denen 2,5 Unterrichtseinheiten auf das Führen eines Kraftfahrzeugs der betreffenden Klassen entfallen. Das Kraftfahrzeug muss den Anforderungen nach § 2 Absatz 3 Satz 2 entsprechen. Die theoretische Prüfung beschränkt sich auf diejenigen in Anlage 1 genannten Kenntnisbereiche, welche die Kraftfahrzeuge betreffen, die Gegenstand der neuen beschleunigten Grundqualifikation sind.
 
+(3) Die Absätze 1 und 2 sind nur anzuwenden, sofern der Fahrer gegenüber der zuständigen Industrie- und Handelskammer die jeweilige Grundqualifikation oder beschleunigte Grundqualifikation nachweist.
+
 # § 4 – Weiterbildung
 
-(1) Durch die Weiterbildung sind alle in Anlage 1 aufgeführten Kenntnisbereiche zu vertiefen und aufzufrischen. Aus den Kenntnisbereichen 1, 2 und 3 der Anlage 1 muss jeweils mindestens ein Unterkenntnisbereich abgedeckt sein. Besondere Schwerpunkte sollen die Verkehrssicherheit, die Sicherheit und der Gesundheitsschutz am Arbeitsplatz und die Reduzierung der Umweltauswirkungen des Fahrens bilden. Eine einmalige Wiederholung von Unterkenntnisbereichen unter Einhaltung von Satz 2 ist zulässig.
+(1) Durch die Weiterbildung sind alle in Anlage 1 aufgeführten Kenntnisbereiche zu vertiefen und aufzufrischen. Aus den Kenntnisbereichen 1, 2 und 3 der Anlage 1 muss jeweils mindestens ein Unterkenntnisbereich abgedeckt sein. Besondere Schwerpunkte sollen die Verkehrssicherheit, die Sicherheit und der Gesundheitsschutz am Arbeitsplatz und die Reduzierung der Umweltauswirkungen des Fahrens bilden.
 
 (2) Die Dauer der Weiterbildung beträgt 35 Unterrichtseinheiten, die in selbstständigen Ausbildungseinheiten von jeweils mindestens sieben Unterrichtseinheiten erteilt werden. Die Unterrichtseinheiten können bei verschiedenen Ausbildungsstätten absolviert werden. Eine Ausbildungseinheit kann auf zwei aufeinanderfolgende Tage aufgeteilt werden.
 
@@ -73,7 +101,13 @@ Abgeschlossene spezielle Aus- oder Weiterbildungsmaßnahmen werden jeweils nur e
 
 (1) Der Antrag auf Anerkennung einer Ausbildungsstätte für die beschleunigte Grundqualifikation und die Weiterbildung ist bei der nach Landesrecht zuständigen Behörde in schriftlicher oder in elektronischer Form zu stellen. Dem Antrag sind die zur Prüfung der Anerkennungsvoraussetzungen erforderlichen Unterlagen beizufügen, insbesondere
 
-1. das Ausbildungsprogramm, in dem die unterrichteten Themengebiete auf der Grundlage der in Anlage 1 aufgeführten Kenntnisbereiche sowie die geplante Durchführung des Unterrichts und die Unterrichtsmethoden näher darzustellen sind,
+1. das Ausbildungsprogramm, in dem näher darzustellen sind:
+
+a) die unterrichteten Themengebiete auf der Grundlage der in Anlage 1 aufgeführten Kenntnisbereiche,
+
+b) die geplante Durchführung des Unterrichts und
+
+c) die Unterrichtsmethoden,
 
 2. Nachweise über die Zahl, die Qualifikationen und die Tätigkeitsbereiche der Ausbilder, einschließlich eines Nachweises über ihre didaktischen und pädagogischen Kenntnisse,
 
@@ -123,7 +157,7 @@ oder eine entsprechende Fahrerfahrung, insbesondere als Fahrlehrer für Lastkraf
 
 # § 8 – Ausstellung des Fahrerqualifizierungsnachweises
 
-(1) Die nach Landesrecht zuständige Behörde stellt auf Antrag einen Fahrerqualifizierungsnachweis aus, wenn der Fahrer nachweislich grundqualifiziert ist oder als grundqualifiziert gilt. Sind seit der Erlangung der Grundqualifikation mehr als fünf Jahre vergangen, muss der Fahrer nachweislich über eine abgeschlossene Weiterbildung verfügen. Der Fahrerqualifizierungsnachweis folgt dem Muster der Anlage 5.
+(1) Die nach Landesrecht zuständige Behörde stellt auf Antrag einen Fahrerqualifizierungsnachweis aus, wenn der Fahrer nachweislich grundqualifiziert ist oder als grundqualifiziert gilt. Sind seit der Erlangung der Grundqualifikation mehr als fünf Jahre vergangen, muss der Fahrer nachweislich über eine abgeschlossene Weiterbildung verfügen. Der Fahrerqualifizierungsnachweis folgt dem Muster der Anlage 3.
 
 (2) Der Antrag auf Ausstellung des Fahrerqualifizierungsnachweises ist bei der nach Landesrecht zuständigen Behörde durch den Fahrer in schriftlicher oder in elektronischer Form zu stellen. Der Fahrer hat auf Verlangen der Behörde persönlich zu erscheinen. Sie oder er hat folgende Daten mitzuteilen und auf Verlangen nachzuweisen:
 
@@ -146,6 +180,8 @@ oder eine entsprechende Fahrerfahrung, insbesondere als Fahrlehrer für Lastkraf
 4. ein amtlicher Nachweis über den ordentlichen Wohnsitz im Sinne des § 7 Absatz 1 oder Absatz 2 der Fahrerlaubnis-Verordnung in der Bundesrepublik Deutschland, eine in der Bundesrepublik Deutschland erteilte Arbeitsgenehmigung-EU oder einen Aufenthaltstitel, der erkennen lässt, dass die Erwerbstätigkeit erlaubt ist (§ 4a Absatz 3 des Aufenthaltsgesetzes), und
 
 5. sofern andere abgeschlossene spezielle Aus- oder Weiterbildungsmaßnahmen gemäß § 2 Absatz 5 oder § 4 Absatz 4 angerechnet werden sollen und diesbezüglich noch kein Eintrag in das Berufskraftfahrerqualifikationsregister erfolgt ist, ein rechtlich vorgeschriebener Nachweis über den Abschluss der jeweiligen Maßnahme.
+
+Sind Bescheinigungen nach § 11 Absatz 1 oder 2 vorhanden, sind diese zusätzlich zu den in Satz 1 genannten Unterlagen vorzulegen.
 
 (4) Die nach Landesrecht zuständige Behörde prüft die Richtigkeit und Vollständigkeit der vom Fahrer mitgeteilten Daten und vorgelegten Unterlagen. Sie holt zu diesem Zweck eine Auskunft aus dem Zentralen Fahrerlaubnisregister ein. Die nach Landesrecht zuständige Behörde überprüft das Vorliegen einer Grundqualifikation oder einer Weiterbildung nach Absatz 1. Sie holt zu diesem Zweck eine Auskunft aus dem Berufskraftfahrerqualifikationsregister ein.
 
@@ -175,51 +211,19 @@ Dem Antrag sind die nach § 8 Absatz 3 Nummer 1 bis 4 erforderlichen Unterlagen 
 
 2. entgegen § 6 Absatz 2 nicht dafür sorgt, dass die dort genannten Lernmittel vorhanden sind.
 
-(2) Ordnungswidrig im Sinne des § 28 Absatz 2 Nummer 7 Buchstabe b des Berufskraftfahrerqualifikationsgesetzes handelt, wer vorsätzlich oder fahrlässig
-
-1. entgegen § 7 Absatz 4 Satz 2 eine Teilnahmebescheinigung nicht, nicht richtig oder nicht rechtzeitig vorlegt oder
-
-2. entgegen § 11 Absatz 4 Satz 1 Nummer 1 Buchstabe b eine Bescheinigung nicht, nicht richtig oder nicht rechtzeitig ausstellt.
+(2) Ordnungswidrig im Sinne des § 28 Absatz 2 Nummer 7 Buchstabe b des Berufskraftfahrerqualifikationsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 7 Absatz 4 Satz 2 eine Teilnahmebescheinigung nicht, nicht richtig oder nicht rechtzeitig vorlegt.
 
 # § 11 – Übergangsvorschriften
 
-(1) Weiterbildungsbescheinigungen, die nach den bis zum Ablauf des 21. Dezember 2016 geltenden Vorschriften ausgefertigt worden sind, bleiben bis zum Ablauf des 21. Dezember 2021 gültig.
+(1) Bescheinigungen, die auf der Grundlage des Absatzes 4 Satz 1 Nummer 1 Buchstabe b in Verbindung mit Nummer 3 in der bis zum Ablauf des 17. August 2026 geltenden Fassung ausgestellt worden sind, sind für die Dauer von fünf Jahren ab dem Abschluss der Teilleistung oder der gesamten Weiterbildung gültig.
 
-(2) Weiterbildungsbescheinigungen, die nach den bis zum Ablauf des 23. August 2017 geltenden Vorschriften ausgefertigt worden sind, bleiben bis zum Ablauf des 23. August 2022 gültig.
+(2) Gültig bleiben Bescheinigungen, die ausgestellt wurden
 
-(3) Bescheinigungen, die auf Grundlage der Anlagen 2a und 2b der bis zum Ablauf des 16. Dezember 2020 geltenden Vorschriften ausgefertigt worden sind, bleiben gültig.
+1. auf Grundlage der Anlagen 2a und 2b der Berufskraftfahrer-Qualifikations-Verordnung vom 22. August 2006 (BGBl. I S. 2108) in der bis zum Ablauf des 16. Dezember 2020 geltenden Fassung,
 
-(4) Bis zur Inbetriebnahme der Schnittstelle für die Industrie- und Handelskammern und für die anerkannten Ausbildungsstätten zum Berufskraftfahrerqualifikationsregister ist anstelle eines Eintrags in das Berufskraftfahrerqualifikationsregister
+2. auf Grundlage des Absatzes 4 Satz 1 Nummer 1 Buchstabe a in der bis zum Ablauf des 17. August 2026 geltenden Fassung oder
 
-1. eine Bescheinigung über die jeweils erbrachten Leistungen oder Teilleistungen auszustellen und dem Teilnehmer auszuhändigen von
-
-a) der Industrie- und Handelskammer unmittelbar nach dem Bestehen der Prüfung und
-
-b) der Ausbildungsstätte unmittelbar nach dem Abschluss des Unterrichts zum Erwerb der beschleunigten Grundqualifikation, dem Abschluss von Unterrichtseinheiten nach § 4 Absatz 2 (Teilleistungen) sowie dem Abschluss der Weiterbildung,
-
-2. die Bescheinigung zum Abschluss des Unterrichts zum Erwerb der beschleunigten Grundqualifikation nach dem Muster der Anlage 3 auszustellen und dem Teilnehmer auszuhändigen; die Bescheinigung muss enthalten:
-
-a) Name und Anschrift der Ausbildungsstätte sowie Angaben zur zuständigen Anerkennungs- und Überwachungsbehörde und das Aktenzeichen des Anerkennungsbescheides,
-
-b) Name, Anschrift und Geburtsdatum des Teilnehmers,
-
-c) Zeitraum des Unterrichts und tatsächliche Dauer der Unterrichtsteilnahme und
-
-d) Angaben zu den vermittelten Unterkenntnisbereichen nach Anlage 1,
-
-3. die Bescheinigung über Teilleistungen und den Abschluss der Weiterbildung nach dem Muster der Anlage 4 auszustellen und dem Teilnehmer auszuhändigen; die Bescheinigung muss enthalten:
-
-a) Name und Anschrift der Ausbildungsstätte sowie Angaben zur zuständigen Anerkennungs- und Überwachungsbehörde und das Aktenzeichen des Anerkennungsbescheides,
-
-b) Name, Anschrift und Geburtsdatum des Teilnehmers,
-
-c) Zeitraum des Unterrichts und tatsächliche Dauer der Unterrichtsteilnahme und
-
-d) Angaben zu den vermittelten Unterkenntnisbereichen nach Anlage 1.
-
-Die Bescheinigung nach Satz 1 Nummer 2 ist im Original von einer zur Vertretung der Ausbildungsstätte berechtigten Person zu unterschreiben. Die Bescheinigung nach Satz 1 Nummer 3 ist im Original von einer zur Vertretung der Ausbildungsstätte berechtigten Person und von der zur Durchführung des Unterrichts eingesetzten Person zu unterschreiben. Die eigenhändige Unterschrift der zur Vertretung der Ausbildungsstätte berechtigten Person kann bei automatisierter Erstellung der Bescheinigung durch eine bildhafte Wiedergabe der Unterschrift ersetzt werden. Das gilt nicht, wenn der Unterricht ausschließlich von dieser Person durchgeführt wurde.
-
-(5) Bescheinigungen nach Absatz 4 Satz 1 Nummer 1 Buchstabe b in Verbindung mit Nummer 3 sind fünf Jahre ab dem Abschluss der Teilleistung oder gesamten Weiterbildung gültig. Sie sind zusätzlich zu den in § 8 Absatz 3 genannten Unterlagen vorzulegen.
+3. auf der Grundlage des Absatzes 4 Satz 1 Nummer 1 Buchstabe b in Verbindung mit Nummer 2 in der bis zum Ablauf des 17. August 2026 geltenden Fassung.
 
 # Anlage 1 – (zu § 1 Absatz 2 Satz 2, § 2 Absatz 2 Satz 2, § 4 Absatz 1 Satz 1)Liste der Kenntnisbereiche
 
@@ -921,426 +925,22 @@ Alle Kenntnisbereiche nach Anlage 1 müssen angemessen abgedeckt sein.
 
 Die theoretische Prüfung dauert 240 Minuten.
 
-2. Die praktische Prüfung besteht aus einer Fahrprüfung, einem praktischen Prüfungsteil und der Bewältigung kritischer Fahrsituationen. Sofern im Rahmen des Erwerbs der Grundqualifikation die für das Führen des Prüfungsfahrzeugs vorgeschriebene Fahrerlaubnis nicht vorliegt, muss der Prüfungsteilnehmer von einer Person begleitet werden, die eine gültige Fahrlehrerlaubnis nach dem Fahrlehrergesetz für die jeweilige Fahrerlaubnisklasse besitzt. Bei diesen Fahrten gilt die Begleitperson als Führer des Kraftfahrzeugs im Sinne des Straßenverkehrsgesetzes.   
+2. Die praktische Prüfung besteht aus einer Fahrprüfung und einem praktischen Prüfungsteil. Sofern im Rahmen des Erwerbs der Grundqualifikation die für das Führen des Prüfungsfahrzeugs vorgeschriebene Fahrerlaubnis nicht vorliegt, muss der Prüfungsteilnehmer von einer Person begleitet werden, die eine gültige Fahrlehrerlaubnis nach dem Fahrlehrergesetz für die jeweilige Fahrerlaubnisklasse besitzt. Bei diesen Fahrten gilt die Begleitperson als Führer des Kraftfahrzeugs im Sinne des Straßenverkehrsgesetzes.   
 
-Ziel der Fahrprüfung ist die Bewertung der fahrpraktischen Fähigkeiten des Prüfungsteilnehmers. Sie muss auf Straßen innerhalb und außerhalb geschlossener Ortschaften, auf Schnellstraßen und Autobahnen und in Situationen mit unterschiedlicher Verkehrsdichte stattfinden. Die Fahrzeit ist zu nutzen, um die Fähigkeiten des Prüfungsteilnehmers in allen verschiedenen Verkehrssituationen zu beurteilen. Die Fahrprüfung dauert 120 Minuten.   
+Ziel der Fahrprüfung ist die Bewertung der fahrpraktischen Fähigkeiten des Prüfungsteilnehmers. Sie muss auf Straßen innerhalb und außerhalb geschlossener Ortschaften, auf Schnellstraßen und Autobahnen und in Situationen mit unterschiedlicher Verkehrsdichte stattfinden. Die Fahrzeit ist zu nutzen, um die Fähigkeiten des Prüfungsteilnehmers in allen verschiedenen Verkehrssituationen zu beurteilen. Die Fahrprüfung dauert 90 Minuten.   
 
 Ziel des praktischen Prüfungsteils ist die Bewertung der in den Nummern 1.4 (Fahrerlaubnisklassen C1, C1E, C, CE), 1.5, 1.6 (Fahrerlaubnisklassen D1, D1E, D, DE), 3.2, 3.3 und 3.5 (Fahrerlaubnisklassen C1, C1E, C, CE, D1, D1E, D, DE) der Anlage 1 genannten Kenntnisbereiche. Der praktische Prüfungsteil dauert 30 Minuten.   
 
-Bei der Bewältigung kritischer Situationen wird insbesondere die Beherrschung des Kraftfahrzeugs bei unterschiedlichem Zustand der Fahrbahn je nach Witterungsverhältnissen sowie Tages- und Nachtzeit geprüft. Dieser Prüfungsteil findet entweder auf einem besonderen Gelände oder in einem leistungsfähigen Simulator statt. Die Dauer dieses Prüfungsteils ist so zu bestimmen, dass der Prüfer die genannten Bewertungen vornehmen kann; sie darf 60 Minuten nicht überschreiten.   
-
 Das bei der praktischen Prüfung eingesetzte Kraftfahrzeug muss den jeweiligen Kriterien für Prüfungsfahrzeuge der Nummern 2.2.6 bis 2.2.13 und 2.2.16 der Anlage 7 der Fahrerlaubnis-Verordnung entsprechen.
 
-# Anlage 3 – (zu § 11 Absatz 4 Satz 1 Nummer 1 Buchstabe b in Verbindung mit Nummer 2)Musterbescheinigung über die Teilnahme an einer Ausbildung zur beschleunigten Grundqualifikation
-
-(Fundstelle: BGBl. I 2020, 2915 - 2016)
-
-I. Musterbescheinigung über die Teilnahme an einer Ausbildung zur beschleunigten Grundqualifikation  
-  
-
-|                                 |                                                                                                                       |     |                                                                            |
-|:----------------|:-----------------------------|:---|:---------------------|
-| Kopfbogen der Ausbildungsstätte | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, den |     | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-|                                 | Ort                                                                                                                   |     | Datum                                                                      |
-
-  
-
-Bescheinigung über die Teilnahme an einer Ausbildung zur beschleunigten Grundqualifikation gemäß § 4 des Berufskraftfahrerqualifikationsgesetzes (BKrFQG) in Verbindung mit
-
-<table width="100%" style="border: none;">
-<colgroup>
-<col style="width: 1%" />
-<col style="width: 31%" />
-<col style="width: 3%" />
-<col style="width: 33%" />
-<col style="width: 3%" />
-<col style="width: 31%" />
-<col style="width: 1%" />
-</colgroup>
-<tbody data-valign="top">
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="middle" data-charoff="50">§ 2 der Berufskraftfahrer-<br />
-qualifikationsverordnung<br />
-(BKrFQV)*</td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§ 2 Absatz 9 der Berufskraftfahrer-<br />
-qualifikationsverordnung<br />
-(BKrFQV)* –<br />
-Quereinsteiger</td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§ 3 der Berufskraftfahrer-<br />
-qualifikationsverordnung<br />
-(BKrFQV)* –<br />
-Umsteiger</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-</tr>
-</tbody>
-</table>
-
-|     |                        |     |
-|:----|:----------------------:|:----|
-|     |     Güterverkehr\*     |     |
-|     | Personenkraftverkehr\* |     |
-
-  
-  
-Herr/Frau  
-  
-
-<table width="100%" style="border: none;">
-<colgroup>
-<col style="width: 49%" />
-<col style="width: 2%" />
-<col style="width: 49%" />
-</colgroup>
-<tbody data-valign="top">
-<tr class="odd" data-valign="bottom">
-<td style="text-align: left;" data-valign="bottom" data-charoff="50">_____________________________________________________________,</td>
-<td style="text-align: left;" data-valign="bottom" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="bottom" data-charoff="50"> geb. am:  ________________________ in ____________________________</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;" data-valign="top" data-charoff="50">Vorname, Name</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;" data-valign="bottom" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="bottom" data-charoff="50"> </td>
-</tr>
-<tr class="even">
-<td colspan="3" style="text-align: left;" data-valign="bottom" data-charoff="50">___________________________________________________________________________________________________________________________________</td>
-</tr>
-<tr class="odd">
-<td colspan="3" style="text-align: center;" data-valign="top" data-charoff="50">Wohnanschrift<br />
-<br />
-</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">hat in der Zeit vom _______________________________________________</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">bis ____________________________________________________________</td>
-</tr>
-</tbody>
-</table>
-
-  
-  
-
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| mit einer Dauer von 140 Unterrichtseinheiten inkl. 10 Fahr-Unterrichtseinheiten zu je 60 Minuten an der Ausbildung zur beschleunigten Grundqualifikation teilgenommen. Der/Die o. g. Teilnehmer/in hat an sämtlichen Zielen gemäß Anlage 1 zu § 2 Absatz 2 BKrFQV teilgenommen, die den Fahrerlaubnisklassen C1, C1E, C, CE (bei Grundqualifikation im Güterkraftverkehr)\* bzw. D1, D1E, D, DE (bei Grundqualifikation im Personenkraftverkehr)\* zugeordnet sind.\* |
-
-  
-
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| mit einer Dauer von 96 Unterrichtseinheiten inkl. 10 Fahr-Unterrichtseinheiten zu je 60 Minuten an der Ausbildung zur beschleunigten Grundqualifikation für Quereinsteiger teilgenommen. Der/Die o. g. Teilnehmer/in hat an denjenigen Zielen gemäß Anlage 1 zu § 2 Absatz 2 BKrFQV teilgenommen, welche nicht Gegenstand der Prüfung gemäß § 4 der Berufszugangsverordnung für den Straßenpersonenverkehr\* oder nach § 5 der Berufszugangsverordnung für den Güterkraftverkehr\* sind.\* |
-
-  
-
-|                                                                                                                                                                                                                                                                                                                                                                                        |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| mit einer Dauer von 35 Unterrichtseinheiten inkl. 2,5 Fahr-Unterrichtseinheiten zu je 60 Minuten an der Ausbildung zur beschleunigten Grundqualifikation für Umsteiger teilgenommen. Der/Die o. g. Teilnehmer/in hat an denjenigen Zielen gemäß Anlage 1 zu § 2 Absatz 2 BKrFQV teilgenommen, welche die Kraftfahrzeuge betreffen, die Gegenstand der neuen Grundqualifikation sind.\* |
-
-<table style="border: none;">
-<colgroup>
-<col style="width: 49%" />
-<col style="width: 2%" />
-<col style="width: 49%" />
-</colgroup>
-<tbody data-valign="top">
-<tr class="odd">
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> <br />
-
-<table width="100%" style="border: none;">
-<tbody data-valign="top">
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: right;" data-valign="bottom" data-charoff="50"> </td>
-</tr>
-</tbody>
-</table></td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="even">
-<td style="text-align: center;" data-valign="top" data-charoff="50">Unterschrift Ausbildungsstätte**<br />
-<br />
-Stempel</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-</tr>
-</tbody>
-</table>
-
-II. Anmerkungen zur Musterbescheinigung über die Teilnahme an einer Ausbildung zur beschleunigten Grundqualifikation
-
-1. Anwendungshinweise:
-
-\*  
-Nichtzutreffendes bitte streichen
-
-\*\*  
-Die Unterschrift des Ausbilders/der Ausbilderin hat eigenhändig im Original zu erfolgen. Die eigenhändige Unterschrift der zur Vertretung der Ausbildungsstätte berechtigten Person kann durch eine bildhafte Wiedergabe der Unterschrift ersetzt werden (§ 11 Absatz 4 Satz 4 und 5 BKrFQV), sofern der Unterricht nicht ausschließlich von dieser Person durchgeführt wurde.
-
-2. Verteiler:
-
-Original – Teilnehmer/in  
-Kopie – Ausbildungsstätte
-
-3. Angabe zur Ausbildungsstätte:
-
-Es ist die jeweilige Ausbildungsstätte in die Musterbescheinigung einzutragen.
-
-# Anlage 4 – (zu § 11 Absatz 4 Satz 1 Nummer 1 Buchstabe b in Verbindung mit Nummer 3)Musterbescheinigung über die Teilnahme an einer Weiterbildung
-
-(Fundstelle: BGBl. I 2020, 2917 - 2918)
-
-I. Musterbescheinigung über die Teilnahme an einer Weiterbildung  
-  
-
-|                                 |                                                                                                                       |     |                                                                            |
-|:----------------|:-----------------------------|:---|:---------------------|
-| Kopfbogen der Ausbildungsstätte | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, den |     | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-|                                 | Ort                                                                                                                   |     | Datum                                                                      |
-
-  
-
-Bescheinigung über die Teilnahme an einer Weiterbildung gemäß den §§ 5 und 30 des Berufskraftfahrerqualifikationsgesetzes (BKrFQG) in Verbindung mit den §§ 4 und 11 der Berufskraftfahrerqualifikationsverordnung (BKrFQV)  
-  
-
-Herr/Frau  
-  
-
-|                                                                                                                                                                                                                                                                        |     |                                                                                                                         |
-|:----------------------------------|:--|:----------------------------------|
-| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_,                                                                                                                                            |     |  geb. am:  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ in \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| Vorname, Name                                                                                                                                                                                                                                                          |     |                                                                                                                         |
-|                                                                                                                                                                                                                                                                        |     |                                                                                                                         |
-| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |     |                                                                                                                         |
-| Wohnanschrift                                                                                                                                                                                                                                                          |     |                                                                                                                         |
-
-  
-  
-
-|                                                                                                                                                                                                                                                                                    |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| hat an fünf aufeinanderfolgenden Schulungstagen vom \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ bis \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ an einer mehrtägigen Weiterbildung (Abschluss der Weiterbildung) mit \_\_\_\_\_ Unterrichtseinheiten (mindestens 35 Unterrichtseinheiten zu je 60 Minuten)\* |
-
-  
-
-|                                                                                                                                                         |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| hat am \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ an einer Weiterbildung mit \_\_\_\_\_ Unterrichtseinheiten (mindestens 7 Unterrichtseinheiten zu je 60 Minuten)\* |
-
-  
-
-|                                                                                                                                                                                                                                                                                        |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| hat an einer Weiterbildung, die an zwei aufeinanderfolgenden Tagen am \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ mit \_\_\_ Unterrichtseinheiten und am \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ mit \_\_\_ Unterrichtseinheiten (insgesamt mindestens 7 Unterrichtseinheiten zu je 60 Minuten) stattfand,\* |
-
-  
-
-mit folgenden Zielen gemäß Anlage 1 zu § 4 Absatz 1 BKrFQV teilgenommen:  
-
-<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
-<colgroup>
-<col style="width: 44%" />
-<col style="width: 9%" />
-<col style="width: 9%" />
-<col style="width: 9%" />
-<col style="width: 9%" />
-<col style="width: 9%" />
-<col style="width: 9%" />
-</colgroup>
-<tbody data-valign="top">
-<tr class="odd">
-<td colspan="7" style="text-align: left;" data-valign="top" data-charoff="50">Kenntnisbereich 1 Verbesserung des rationellen Fahrverhaltens auf der Grundlage der Sicherheitsregeln*</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">1.1</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">1.2</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">1.3</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">1.3a</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">nur Fahrerlaubnisklassen C1, C1E, C, CE</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">1.4</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">nur Fahrerlaubnisklassen D1, D1E, D, DE</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">1.5</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">1.6</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="odd">
-<td colspan="7" style="text-align: left;" data-valign="top" data-charoff="50">Kenntnisbereich 2 Anwendung der Vorschriften*</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">2.1</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">nur Fahrerlaubnisklassen C1, C1E, C, CE</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">2.2</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">nur Fahrerlaubnisklassen D1, D1E, D, DE</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">2.3</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="odd">
-<td colspan="7" style="text-align: left;" data-valign="top" data-charoff="50">Kenntnisbereich 3 Gesundheit, Verkehrs- und Umweltsicherheit, Dienstleistung, Logistik*</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">3.1</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">3.2</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">3.3</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">3.4</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">3.5</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">3.6</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">nur Fahrerlaubnisklassen C1, C1E, C, CE</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">3.7</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">nur Fahrerlaubnisklassen D1, D1E, D, DE</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">3.8</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-</tr>
-<tr class="odd">
-<td colspan="7" style="text-align: left;" data-valign="top" data-charoff="50">Die
-unterstrichenen Unterkenntnisbereiche stehen im Zusammenhang mit der Straßenverkehrssicherheit nach § 4 Absatz 1 BKrFQV.</td>
-</tr>
-</tbody>
-</table>
-
-<table width="100%" style="border: none;">
-<colgroup>
-<col style="width: 49%" />
-<col style="width: 2%" />
-<col style="width: 49%" />
-</colgroup>
-<tbody data-valign="top">
-<tr class="odd">
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"><table width="100%" style="border: none;">
-<tbody data-valign="top">
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: right;" data-valign="bottom" data-charoff="50"> </td>
-</tr>
-</tbody>
-</table>
-<br />
-<br />
-</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"><table width="100%" style="border: none;">
-<tbody data-valign="top">
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: right;" data-valign="bottom" data-charoff="50"> </td>
-</tr>
-</tbody>
-</table>
-<br />
-<br />
-</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;" data-valign="top" data-charoff="50">Unterschrift Ausbildungsstätte**<br />
-<br />
-Stempel</td>
-<td style="text-align: center;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: center;" data-valign="top" data-charoff="50">Unterschrift Ausbilder/in**</td>
-</tr>
-</tbody>
-</table>
-
-II. Anmerkungen zur Musterbescheinigung über die Teilnahme an einer Weiterbildung
-
-1. Anwendungshinweise:
-
-\*  
-Nichtzutreffendes bitte streichen
-
-\*\*  
-Die Unterschrift des Ausbilders/der Ausbilderin hat eigenhändig im Original zu erfolgen. Die eigenhändige Unterschrift der zur Vertretung der Ausbildungsstätte berechtigten Person kann durch eine bildhafte Wiedergabe der Unterschrift ersetzt werden (§ 11 Absatz 4 Satz 4 und 5 BKrFQV), sofern der Unterricht nicht ausschließlich von dieser Person durchgeführt wurde.
-
-2. Verteiler:
-
-Original – Teilnehmer/in  
-Kopie – Ausbildungsstätte
-
-3. Angabe zur Ausbildungsstätte:
-
-Es ist die jeweilige Ausbildungsstätte in die Musterbescheinigung einzutragen.
-
-# Anlage 5 – (zu § 8 Absatz 1 Satz 3)Muster des Fahrerqualifizierungsnachweises
+# Anlage 3 – (zu § 8 Absatz 1 Satz 3)Muster des Fahrerqualifizierungsnachweises
 
 (Fundstelle: BGBl. I 2020, 2919 - 2920)
 
 1. Vorbemerkungen  
   
 
-Fahrerqualifizierungsnachweise werden als Kunststoffkarten nach Anhang II der Richtlinie 2003/59/EG in der Fassung der Richtlinie (EU) 2018/645 hergestellt und im Auftrag der nach Landesrecht zuständigen Behörde durch den vom Kraftfahrt-Bundesamt bestimmten und zertifizierten Hersteller zentral gefertigt. Hersteller ist die Bundesdruckerei GmbH. Die Herstellung, Personalisierung und Lieferung der Fahrerqualifizierungsnachweise erfolgt auf der Grundlage eines Rahmenvertrages zwischen dem Kraftfahrt-Bundesamt und der Bundesdruckerei GmbH. Näheres wird durch Verwaltungsvorschrift geregelt.
+Fahrerqualifizierungsnachweise werden als Kunststoffkarten nach Anhang II der Richtlinie (EU) 2022/2561 in der Fassung vom 14. Dezember 2022 hergestellt und im Auftrag der nach Landesrecht zuständigen Behörde durch den vom Kraftfahrt-Bundesamt bestimmten und zertifizierten Hersteller zentral gefertigt. Hersteller ist die Bundesdruckerei GmbH. Die Herstellung, Personalisierung und Lieferung der Fahrerqualifizierungsnachweise erfolgt auf der Grundlage eines Rahmenvertrages zwischen dem Kraftfahrt-Bundesamt und der Bundesdruckerei GmbH. Näheres wird durch Verwaltungsvorschrift geregelt.
 
 2. Beschreibung des Fahrerqualifizierungsnachweises
 
@@ -1355,7 +955,7 @@ Die Bezeichnung „FAHRERQUALIFIZIERUNGSNACHWEIS“ sowie deren Wiederholung in 
 bb)  
 Die Aufschrift „BUNDESREPUBLIK DEUTSCHLAND“ sowie das Zeichen der Europäischen Union (zwölf goldene Sterne in einem blauen Rechteck), in welches das Nationalitätszeichen D eingefügt ist.
 
-cc) Folgende Daten zum Inhaber des Fahrerqualifizierungsnachweises und zu seiner Fahrerlaubnis entsprechend der auf dem Fahrerqualifizierungsnachweis aufgebrachten Nummerierung. Die Nummern 4d (andere Nummer als die Führerscheinnummer), 8 (Wohnort) und 11 (Angaben zum Verwaltungsverfahren) sind nicht vorhanden, da die Angaben nach Maßgabe der Richtlinie 2003/59/EG in der Fassung der Richtlinie (EU) 2018/645 fakultativ sind und im deutschen Fahrerqualifizierungsnachweis nicht ausgewiesen werden.
+cc) Folgende Daten zum Inhaber des Fahrerqualifizierungsnachweises und zu seiner Fahrerlaubnis entsprechend der auf dem Fahrerqualifizierungsnachweis aufgebrachten Nummerierung. Die Nummern 4d (andere Nummer als die Führerscheinnummer), 8 (Wohnort) und 11 (Angaben zum Verwaltungsverfahren) sind nicht vorhanden, da die Angaben nach Maßgabe der Richtlinie (EU) 2022/2561 in der Fassung vom 14. Dezember 2022 fakultativ sind und im deutschen Fahrerqualifizierungsnachweis nicht ausgewiesen werden.
 
 1. Name des Inhabers
 
@@ -1377,7 +977,7 @@ cc) Folgende Daten zum Inhaber des Fahrerqualifizierungsnachweises und zu seiner
 
 7. Unterschrift des Inhabers
 
-8. Fahrerlaubnisklassen, für die der Fahrer die Grundqualifikations- und Weiterbildungsverpflichtung erfüllt.
+9. Fahrerlaubnisklassen, für die der Fahrer die Grundqualifikations- und Weiterbildungsverpflichtung erfüllt.
 
 b) Seite 2 (Rückseite)  
   
