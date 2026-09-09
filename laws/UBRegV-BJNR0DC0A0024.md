@@ -81,9 +81,63 @@ BSI-Standard 200-2.
 
 Die bundeseinheitliche Wirtschaftsnummer für Unternehmen nach § 2 des Unternehmensbasisdatenregistergesetzes wird vom Bundeszentralamt für Steuern vergeben und den Unternehmen mitgeteilt. Die Mitteilung der bundeseinheitlichen Wirtschaftsnummer für Unternehmen enthält den Hinweis, dass nach § 2 Absatz 1 Satz 2 des Unternehmensbasisdatenregistergesetzes die Wirtschafts-Identifikationsnummer gemäß § 139c der Abgabenordnung als bundeseinheitliche Wirtschaftsnummer für Unternehmen verwendet wird.
 
-# § 9 – Inkrafttreten
+# § 9 – Weitere Datenübermittlung durch die Registerbehörde
 
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
+(1) Über § 5 des Unternehmensbasisdatenregistergesetzes hinaus darf die Registerbehörde an folgende öffentliche Stellen zu folgenden Zwecken für die Anlässe nach Absatz 2 Unternehmensbasisdaten übermitteln:
+
+1. an die Deutsche Industrie- und Handelskammer zur Unterstützung und Förderung der Zusammenarbeit und der Aufgabenwahrnehmung der Industrie- und Handelskammern nach § 10a Absatz 3 und 4 Nummer 1 des Gesetzes zur vorläufigen Regelung des Rechts der Industrie- und Handelskammern,
+
+2. an die Bundesnetzagentur zur Pflege der Daten im Marktstammdatenregister nach § 111e des Energiewirtschaftsgesetzes,
+
+3. an das Bundesamt für Logistik und Mobilität zur Pflege der Daten in der Verkehrsunternehmensdatei nach § 15 des Güterkraftverkehrsgesetzes,
+
+4. an das Bundeskartellamt
+
+a) zur Pflege der Daten des Wettbewerbsregisters nach § 3 Absatz 1 des Wettbewerbsregistergesetzes,
+
+b) in Verwaltungssachen, Bußgeldsachen und Vollstreckungsverfahren nach Teil 3 Kapitel 1 bis 3 des Gesetzes gegen Wettbewerbsbeschränkungen,
+
+5. an das Bundesamt für Justiz für Überwachungsaufgaben nach § 6 Absatz 1 des Elektronische-Beweismittel-Umsetzungs-und-Durchführungsgesetzes und Bußgeldverfahren nach § 18 Absatz 1 und 8 Nummer 1 des Elektronische-Beweismittel-Umsetzungs-und-Durchführungsgesetzes,
+
+6. an das Umweltbundesamt
+
+a) zur Pflege der Unternehmensdaten im Register nach § 2 des Gesetzes zur Ausführung des Protokolls über Schadstofffreisetzungs- und Verbringungsregister vom 21. Mai 2003 sowie zur Durchführung der Verordnung (EG) Nr. 166/2006,
+
+b) als zuständige Behörde nach § 11 Absatz 1 Nummer 4 des Treibhausgas-Emissionshandelsgesetzes für
+
+aa)  
+die Pflege und Prüfung der CBAM-Anmelder- und Antragsdaten nach Artikel 11 Absatz 1 in Verbindung mit den Artikeln 5, 6, 14, 17, 19 und 25a der Verordnung (EU) 2023/956 zum Zwecke des Vollzugs dieser Verordnung,
+
+bb)  
+die Pflege und Prüfung von Unternehmensdaten im Emissionshandelsregister nach § 9 des Treibhausgas-Emissionshandelsgesetzes,
+
+cc) die Pflege und Prüfung der Unternehmensdaten von Betreibern, Schifffahrtsunternehmens oder Verantwortlichen nach § 12 Absatz 1 des Treibhausgas-Emissionshandelsgesetzes,
+
+dd)  
+die Pflege und Prüfung von Unternehmensdaten im Rahmen des Vollzugs nach § 33 des Treibhausgas-Emissionshandelsgesetzes,
+
+ee)  
+die Pflege und Prüfung von Unternehmensdaten von Antragstellern im Rahmen des Vollzugs bei der Strompreiskompensation nach § 19 Absatz 6 des Treibhausgas-Emissionshandelsgesetzes,
+
+c) zur Pflege und Prüfung von Unternehmensdaten im zentralen Register für erneuerbare Kraftstoffe nicht biogenen Ursprungs nach § 44 der Verordnung zur Anrechnung von strombasierten Kraftstoffen und mitverarbeiteten biogenen Ölen auf die Treibhausgasquote,
+
+d) zur Pflege und Prüfung von Unternehmensdaten im Herkunftsnachweisregister und Regionalnachweisregister für Strom aus erneuerbaren Energien nach den §§ 79 und 79a des Erneuerbare-Energien-Gesetzes,
+
+e) zur Pflege und Prüfung von Unternehmensdaten in den Herkunftsnachweisregistern nach § 3 Nummer 1 und 2 der Gas-Wärme-Kälte-Herkunftsnachweisregister-Verordnung,
+
+f) zur Pflege und Prüfung von Unternehmensdaten im Nationalen Emissionshandelsregister nach § 12 des Brennstoffemissionshandelsgesetzes,
+
+g) zur Pflege und Prüfung von Unternehmensdaten von Verantwortlichen als zuständige Behörde nach § 13 Absatz 1 des Brennstoffemissionshandelsgesetzes für die Durchführung nach § 14 Absatz 1 des Brennstoffemissionshandelsgesetzes und von Antragstellern als zuständige Behörde nach § 3 Absatz 1 der BEHG-Carbon-Leakage-Verordnung.
+
+Die Registerbehörde darf an öffentliche Stellen nach Satz 1 nur Unternehmensbasisdaten zu denjenigen Unternehmen nach § 3 Absatz 1 des Unternehmensbasisdatenregistergesetzes übermitteln, für deren Daten die öffentliche Stelle nach den für sie geltenden datenschutzrechtlichen Bestimmungen verarbeitungsbefugt ist.
+
+(2) Die Registerbehörde übermittelt anlassbezogen an die öffentlichen Stellen nach Absatz 1 in automatisierten Verfahren Unternehmensbasisdaten aufgrund folgender Ereignisse:
+
+1. einmalig nach Anbindung an das Basisregister,
+
+2. regelmäßig und wiederkehrend bei Neugründung, Änderung oder Beendigung eines Unternehmens nach § 3 Absatz 1 des Unternehmensbasisdatenregistergesetzes.
+
+Die öffentlichen Stellen nach Absatz 1 sind berechtigt, von der Registerbehörde durch automatisierte Verfahren Unternehmensbasisdaten zu erhalten, soweit dies zur Erfüllung der in ihrer Zuständigkeit liegenden Aufgaben erforderlich ist.
 
 # Schlussformel
 

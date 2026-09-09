@@ -115,7 +115,7 @@ Die Zeiten des Erholungsurlaubs bestimmt
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet die Einstellungsbehörde auf der Grundlage eines Auswahlverfahrens. In diesem wird festgestellt, ob die Bewerberinnen und Bewerber auf Grund ihrer Kenntnisse, Fähigkeiten und persönlichen Eigenschaften für den Vorbereitungsdienst geeignet und befähigt sind. Die Hochschule ist an der Ausgestaltung des Auswahlverfahrens zu beteiligen.
 
-(2) Wird die Zahl der am Auswahlverfahren Teilnehmenden nach § 11 Absatz 4 der Bundeslaufbahnverordnung beschränkt, so werden schwerbehinderte Menschen und gleichgestellte behinderte Menschen sowie ehemalige Soldatinnen auf Zeit und Soldaten auf Zeit mit Eingliederungs- oder Zulassungsschein zusätzlich und ohne Beschränkung zum Auswahlverfahren zugelassen, wenn sie die in der Ausschreibung genannten Voraussetzungen erfüllen.
+(2) Wird die Zahl der am Auswahlverfahren Teilnehmenden nach § 11 Absatz 3 Satz 2 der Bundeslaufbahnverordnung beschränkt, so werden Menschen mit Schwerbehinderung und gleichgestellte behinderte Menschen sowie ehemalige Soldatinnen auf Zeit und Soldaten auf Zeit mit Eingliederungs- oder Zulassungsschein zusätzlich und ohne Beschränkung zum Auswahlverfahren zugelassen, wenn sie die in der Ausschreibung genannten Voraussetzungen erfüllen.
 
 (3) Wer zum Auswahlverfahren nicht zugelassen wird, erhält eine schriftliche Ablehnung. Elektronisch eingereichte Bewerbungsunterlagen werden spätestens ein Jahr nach der Ablehnung endgültig gelöscht. Nicht elektronisch eingereichte Bewerbungsunterlagen sowie Ausdrucke elektronisch eingereichter Bewerbungsunterlagen werden spätestens nach Ablauf dieser Frist vernichtet. Originaldokumente werden auf Wunsch zurückgesandt.
 
@@ -827,7 +827,7 @@ In den Praxismodulen I bis III wird zudem jeweils eine Praxisbeurteilung erstell
 
 (1) Eine nichtbestandene Modulprüfung kann einmal wiederholt werden.
 
-(2) In je einem Pflichtmodul und einem Wahlpflichtmodul ist eine zweite Wiederholung möglich.
+(2) Zwei in der ersten Wiederholung nicht bestandene Modulprüfungen können ein zweites Mal wiederholt werden.
 
 (3) Die Wiederholungstermine werden durch das Prüfungsamt festgelegt. Sie sollen im jeweils folgenden Semester liegen.
 

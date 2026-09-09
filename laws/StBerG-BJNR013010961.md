@@ -33,9 +33,17 @@
 
 # § 2 – Geschäftsmäßige Hilfeleistung
 
-(1) Die Hilfeleistung in Steuersachen darf geschäftsmäßig nur von Personen und Vereinigungen ausgeübt werden, die hierzu befugt sind. Dies gilt ohne Unterschied für hauptberufliche, nebenberufliche, entgeltliche oder unentgeltliche Tätigkeiten und dient dem Schutz der Rechtssuchenden, des Rechtsverkehrs und der Rechtsordnung vor unqualifizierter Hilfeleistung in Steuersachen.
+(1) Die Hilfeleistung in Steuersachen darf geschäftsmäßig nur von Personen und Vereinigungen ausgeübt werden, die hierzu befugt sind. Dies gilt ohne Unterschied für hauptberufliche, nebenberufliche, entgeltliche oder unentgeltliche Tätigkeiten und dient dem Schutz der Rechtsuchenden, des Rechtsverkehrs und der Rechtsordnung vor unqualifizierter Hilfeleistung in Steuersachen.
 
-(2) Geschäftsmäßige Hilfeleistung in Steuersachen ist jede Tätigkeit in fremden Angelegenheiten im Anwendungsbereich dieses Gesetzes, sobald sie eine rechtliche Prüfung des Einzelfalls erfordert.
+(2) Hilfeleistung in Steuersachen ist jede Tätigkeit in fremden Angelegenheiten im Anwendungsbereich dieses Gesetzes, sobald sie eine rechtliche Prüfung des Einzelfalls erfordert.
+
+(3) Nicht als Hilfeleistung in Steuersachen gelten
+
+1. die Erstattung wissenschaftlicher Gutachten und
+
+2. die Durchführung mechanischer Arbeitsgänge bei der Führung von Büchern und Aufzeichnungen, die für die Besteuerung von Bedeutung sind.
+
+Satz 1 Nummer 2 gilt nicht für das Kontieren von Belegen und das Erteilen von Buchungsanweisungen.
 
 # § 3 – Befugnis zu unbeschränkter Hilfeleistung in Steuersachen
 
@@ -131,9 +139,9 @@ Die Meldung ist jährlich zu wiederholen, wenn die Person nach Ablauf eines Kale
 
 3. sie wiederholt eine unrichtige Berufsbezeichnung führt oder
 
-4. sie die Befugnis zu vorübergehender und gelegentlicher geschäftsmäßigen Hilfeleistung in Steuersachen überschreitet.
+4. sie die Befugnis zur vorübergehenden und gelegentlichen geschäftsmäßigen Hilfeleistung in Steuersachen überschreitet.
 
-Die vorübergehende Eintragung im Berufsregister gemäß Absatz 3 Satz 1 wird gelöscht, wenn die Untersagungsverfügung nach Satz 1 unanfechtbar geworden ist. Über die Löschung aus dem Berufsregister wegen Überschreitens der Befugnis zu vorübergehender und gelegentlicher geschäftsmäßigen Hilfeleistung in Steuersachen sind diejenigen Finanzbehörden zu unterrichten, die eine Mitteilung nach § 5 Absatz 4 erstattet haben.
+Die vorübergehende Eintragung im Berufsregister gemäß Absatz 3 Satz 1 wird gelöscht, wenn die Untersagungsverfügung nach Satz 1 unanfechtbar geworden ist. Über die Löschung aus dem Berufsregister wegen des Überschreitens der Befugnis zur vorübergehenden und gelegentlichen geschäftsmäßigen Hilfeleistung in Steuersachen sind diejenigen Finanzbehörden zu unterrichten, die eine Mitteilung nach § 5 Absatz 5 erstattet haben.
 
 (7) Die zuständigen Stellen arbeiten mit den zuständigen Stellen in den anderen Mitgliedstaaten der Europäischen Union, in den anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und in der Schweiz zusammen und übermitteln auf Anfrage:
 
@@ -245,109 +253,155 @@ Die zuständige Stelle kann einer partiell zugelassenen Person die weitere Hilfe
 
 5. der Name und die Anschrift der nach § 3d Absatz 2 Satz 2 zuständigen Steuerberaterkammer.
 
-# § 4 – Befugnis zu beschränkter Hilfeleistung in Steuersachen
+# § 4 – Lohnsteuerhilfevereine
 
-Zur geschäftsmäßigen Hilfeleistung in Steuersachen sind ferner befugt:
+(1) Lohnsteuerhilfevereine sind vorbehaltlich des Absatzes 3 befugt, ihren Mitgliedern geschäftsmäßig Hilfe in Steuersachen zu leisten, wenn die Mitglieder Einkünfte erzielen aus
 
-1. Notare im Rahmen ihrer Befugnisse nach der Bundesnotarordnung,
+1. nichtselbständiger Arbeit,
 
-2. Patentanwälte und Patentanwaltsgesellschaften im Rahmen ihrer Befugnisse nach der Patentanwaltsordnung,
+2. wiederkehrenden Bezügen nach § 22 Nummer 1 des Einkommensteuergesetzes,
 
-3. Behörden und Körperschaften des öffentlichen Rechts sowie die überörtlichen Prüfungseinrichtungen für Körperschaften und Anstalten des öffentlichen Rechts im Rahmen ihrer Zuständigkeit,
+3. Unterhaltsleistungen nach § 22 Nummer 1a des Einkommensteuergesetzes oder
 
-4. Verwahrer und Verwalter fremden oder zu treuen Händen oder zu Sicherungszwecken übereigneten Vermögens, soweit sie hinsichtlich dieses Vermögens Hilfe in Steuersachen leisten,
+4. Leistungen nach § 22 Nummer 5 des Einkommensteuergesetzes.
 
-5. Unternehmer, die ein Handelsgewerbe betreiben, soweit sie in unmittelbarem Zusammenhang mit einem Geschäft, das zu ihrem Handelsgewerbe gehört, ihren Kunden Hilfe in Steuersachen leisten,
+(2) Lohnsteuerhilfevereine sind zudem vorbehaltlich des Absatzes 3 zur geschäftsmäßigen Hilfeleistung in Steuersachen befugt, wenn das Mitglied neben den in Absatz 1 genannten Einkunftsarten weitere Einkünfte erzielt und diese im Veranlagungsverfahren zu erklären sind oder auf Grund eines Antrags der steuerpflichtigen Person erklärt werden.
 
-6. genossenschaftliche Prüfungs- und Spitzenverbände und genossenschaftliche Treuhandstellen, soweit sie im Rahmen ihres Aufgabenbereichs den Mitgliedern der Prüfungs- und Spitzenverbände Hilfe in Steuersachen leisten,
+(3) Lohnsteuerhilfevereine sind nicht zur geschäftsmäßigen Hilfeleistung in Steuersachen befugt, wenn das Mitglied Einkünfte aus Land- und Forstwirtschaft, aus Gewerbebetrieb oder aus selbständiger Arbeit erzielt oder umsatzsteuerpflichtige Umsätze ausführt. Satz 1 gilt nicht, wenn die den Einkünften zugrundeliegenden Einnahmen nach § 3 Nummer 12, 26, 26a, 26b oder 72 des Einkommensteuergesetzes in voller Höhe steuerfrei sind.
 
-7. als Berufsvertretung oder auf ähnlicher Grundlage gebildete Vereinigungen, soweit sie im Rahmen ihres Aufgabenbereichs ihren Mitgliedern Hilfe in Steuersachen leisten; § 95 des Bundesvertriebenengesetzes bleibt unberührt,
+(4) Die Befugnis von Lohnsteuerhilfevereinen ist auf die Hilfeleistung bei der Einkommensteuer und ihren Zuschlagsteuern beschränkt. Abweichend davon besteht in den Fällen des Absatzes 1 auch die Befugnis zur Hilfeleistung
 
-8. als Berufsvertretung oder auf ähnlicher Grundlage gebildete Vereine von Land- und Forstwirten, zu deren satzungsmäßiger Aufgabe die Hilfeleistung für land- und forstwirtschaftliche Betriebe im Sinne des Bewertungsgesetzes gehört, soweit sie diese Hilfe durch Personen leisten, die berechtigt sind, die Bezeichnung "Landwirtschaftliche Buchstelle" zu führen, und die Hilfe nicht die Ermittlung der Einkünfte aus selbständiger Arbeit oder aus Gewerbebetrieb betrifft, es sei denn, daß es sich hierbei um Nebeneinkünfte handelt, die üblicherweise bei Landwirten vorkommen,
+1. bei Arbeitgeberaufgaben, die mit Kinderbetreuungskosten im Sinne des § 10 Absatz 1 Nummer 5 des Einkommensteuergesetzes zusammenhängen,
 
-9. a) Speditionsunternehmen, soweit sie Hilfe in Eingangsabgabensachen oder bei der verbrauchsteuerlichen Behandlung von Waren im Warenverkehr mit anderen Mitgliedstaaten der Europäischen Union leisten,
+2. bei Arbeitgeberaufgaben, die mit haushaltsnahen Beschäftigungsverhältnissen im Sinne des § 35a des Einkommensteuergesetzes zusammenhängen,
 
-b) sonstige gewerbliche Unternehmen, soweit sie im Zusammenhang mit der Zollbehandlung Hilfe in Eingangsabgabensachen leisten,
+3. beim Familienleistungsausgleich im Sinne des Einkommensteuergesetzes und
 
-c) die in den Buchstaben a und b genannten Unternehmen, soweit sie für Unternehmer im Sinne des § 22a des Umsatzsteuergesetzes Hilfe in Steuersachen nach § 22b des Umsatzsteuergesetzes leisten und im Geltungsbereich dieses Gesetzes ansässig sind, nicht Kleinunternehmer im Sinne des § 19 des Umsatzsteuergesetzes und nicht von der Fiskalvertretung nach § 22e des Umsatzsteuergesetzes ausgeschlossen sind,
+4. bei sonstigen Zulagen und Prämien, auf die die Vorschriften der Abgabenordnung anzuwenden sind.
 
-10. Arbeitgeber, soweit sie für ihre Arbeitnehmer Hilfe bei lohnsteuerlichen Sachverhalten oder bei Sachverhalten des Familienleistungsausgleichs im Sinne des Einkommensteuergesetzes leisten,
+# § 4a – Vereine von Land- und Forstwirten
 
-11. Lohnsteuerhilfevereine, soweit sie für ihre Mitglieder Hilfe in Steuersachen leisten, wenn diese
+(1) Zur Berufsvertretung oder zu ähnlichen Zwecken gegründete Vereine von Land- und Forstwirten, zu deren satzungsmäßiger Aufgabe die Hilfeleistung in Steuersachen für land- und forstwirtschaftliche Betriebe im Sinne des Bewertungsgesetzes gehört, sind vorbehaltlich des Absatzes 2 zur geschäftsmäßigen Hilfeleistung in Steuersachen befugt, wenn die Hilfe geleistet wird
 
-a) Einkünfte aus nichtselbständiger Arbeit, sonstige Einkünfte aus wiederkehrenden Bezügen (§ 22 Nr. 1 des Einkommensteuergesetzes), Einkünfte aus Unterhaltsleistungen (§ 22 Nr. 1a des Einkommensteuergesetzes) oder Einkünfte aus Leistungen nach § 22 Nr. 5 des Einkommensteuergesetzes erzielen,
+1. für ihre Mitglieder,
 
-b) keine Einkünfte aus Land- und Forstwirtschaft, aus Gewerbebetrieb oder aus selbständiger Arbeit erzielen oder umsatzsteuerpflichtige Umsätze ausführen, es sei denn, die den Einkünften zugrunde liegenden Einnahmen sind nach § 3 Nummer 12, 26, 26a, 26b oder 72 des Einkommensteuergesetzes in voller Höhe steuerfrei, und
+2. im Rahmen ihres satzungsmäßigen Aufgabenbereichs und
 
-c) Einnahmen aus anderen Einkunftsarten haben, die insgesamt die Höhe von achtzehntausend Euro, im Falle der Zusammenveranlagung von sechsunddreißigtausend Euro, nicht übersteigen und im Veranlagungsverfahren zu erklären sind oder auf Grund eines Antrags des Steuerpflichtigen erklärt werden. An die Stelle der Einnahmen tritt in Fällen des § 20 Absatz 2 des Einkommensteuergesetzes der Gewinn im Sinne des § 20 Absatz 4 des Einkommensteuergesetzes und in den Fällen des § 23 Absatz 1 des Einkommensteuergesetzes der Gewinn im Sinne des § 23 Absatz 3 Satz 1 des Einkommensteuergesetzes; Verluste bleiben unberücksichtigt.
+3. durch Personen, die nach § 44 Absatz 1 oder 3 über die Berechtigung zum Führen der Bezeichnung „Landwirtschaftliche Buchstelle“ verfügen.
 
-Die Befugnis erstreckt sich nur auf die Hilfeleistung bei der Einkommensteuer und ihren Zuschlagsteuern. Soweit zulässig, berechtigt sie auch zur Hilfeleistung bei der Eigenheimzulage und der Investitionszulage nach den §§ 3 bis 4 des Investitionszulagengesetzes 1999, bei mit Kinderbetreuungskosten im Sinne von § 10 Absatz 1 Nummer 5 des Einkommensteuergesetzes sowie bei mit haushaltsnahen Beschäftigungsverhältnissen im Sinne des § 35a des Einkommensteuergesetzes zusammenhängenden Arbeitgeberaufgaben sowie zur Hilfe bei Sachverhalten des Familienleistungsausgleichs im Sinne des Einkommensteuergesetzes und der sonstigen Zulagen und Prämien, auf die die Vorschriften der Abgabenordnung anzuwenden sind. Mitglieder, die arbeitslos geworden sind, dürfen weiterhin beraten werden.
+Mitarbeitende Angehörige des land- und forstwirtschaftlichen Betriebs und vorherige Betriebsinhaber stehen den Mitgliedern nach Satz 1 Nummer 1 gleich.
 
-12. Kreditinstitute, soweit sie in Vertretung der Gläubiger von Kapitalerträgen Anträge auf Erstattung von Kapitalertragsteuer nach § 44a Absatz 9 oder § 50c des Einkommensteuergesetzes oder nach § 11 Absatz 1 des Investmentsteuergesetzes stellen,
+(2) Vereine im Sinne des Absatzes 1 sind nicht zur geschäftsmäßigen Hilfeleistung in Steuersachen befugt, soweit für die Mitglieder, die mitarbeitenden Angehörigen oder die vorherigen Betriebsinhaber Einkünfte aus Gewerbebetrieb oder aus selbständiger Arbeit zu ermitteln sind. Satz 1 gilt nicht, wenn es sich bei den Einkünften um übliche Nebeneinkünfte von Land- und Forstwirten handelt.
 
-13. öffentlich bestellte versicherungsmathematische Sachverständige, soweit sie in unmittelbarem Zusammenhang mit der Berechnung von Pensionsrückstellungen, versicherungstechnischen Rückstellungen und Zuführungen zu Pensions- und Unterstützungskassen ihren Auftraggebern Hilfe in Steuersachen leisten,
+# § 4b – Berufs- und Interessenvereinigungen; genossenschaftliche Prüfungsverbände und Treuhandstellen
 
-14. diejenigen, die Verträge im Sinne des § 2 Abs. 1 Wohnungsbau-Prämiengesetz schließen oder vermitteln, soweit sie bei der Ausfüllung von Anträgen auf Wohnungsbauprämie Hilfe leisten,
+(1) Zur geschäftsmäßigen Hilfeleistung in Steuersachen für ihre Mitglieder und für die Mitglieder der ihnen angehörenden Vereinigungen oder Einrichtungen sind befugt:
 
-15. Stellen, die durch Landesrecht als geeignet im Sinne des § 305 Abs. 1 Nr. 1 der Insolvenzordnung anerkannt sind, im Rahmen ihres Aufgabenbereichs,
+1. berufliche oder andere zur Wahrung gemeinschaftlicher Interessen gegründete Vereinigungen und deren Zusammenschlüsse sowie
 
-16. a) diejenigen, die Verträge im Sinne des § 1 Abs. 1 und 1a des Altersvorsorgeverträge-Zertifizierungsgesetzes schließen oder vermitteln,
+2. genossenschaftliche Prüfungsverbände und deren Spitzenverbände sowie genossenschaftliche Treuhandstellen.
 
-b) die in § 82 Abs. 2 Satz 1 Buchstabe a des Einkommensteuergesetzes genannten Versorgungseinrichtungen,
+Die Befugnis nach Satz 1 besteht nur, soweit die Hilfe im Rahmen des satzungsmäßigen Aufgabenbereichs der Stellen geleistet wird und sie gegenüber der Erfüllung der übrigen satzungsmäßigen Aufgaben nicht von übergeordneter Bedeutung ist. Die Hilfeleistung kann auch durch eine juristische Person erbracht werden, die im alleinigen wirtschaftlichen Eigentum der in Satz 1 genannten Stellen steht.
 
-soweit sie im Rahmen des Vertragsabschlusses, der Durchführung des Vertrages oder der Antragstellung nach § 89 des Einkommensteuergesetzes Hilfe leisten.
+(2) Wer Hilfe in Steuersachen nach Absatz 1 leistet, muss über die zur sachgemäßen Erbringung dieser Hilfeleistung erforderliche personelle, sachliche und finanzielle Ausstattung verfügen. Dies umfasst insbesondere eine hinreichende fachliche Qualifikation derjenigen Person, durch die oder unter deren Anleitung die Hilfeleistung erbracht wird.
+
+# § 4c – Öffentliche und öffentlich anerkannte Stellen; Notare; Patentanwälte
+
+(1) Zur geschäftsmäßigen Hilfeleistung in Steuersachen im Rahmen ihres jeweiligen Aufgaben- und Zuständigkeitsbereichs sind befugt:
+
+1. gerichtlich oder behördlich bestellte Personen,
+
+2. Behörden, juristische Personen des öffentlichen Rechts einschließlich der von ihnen zur Erfüllung ihrer öffentlichen Aufgaben gebildeten Unternehmen und Zusammenschlüsse sowie überörtliche Prüfungseinrichtungen für juristische Personen des öffentlichen Rechts,
+
+3. nach Landesrecht als geeignet anerkannte Personen oder Stellen im Sinne des § 305 Absatz 1 Nummer 1 der Insolvenzordnung und
+
+4. Verbände der freien Wohlfahrtspflege im Sinne des § 5 des Zwölften Buches Sozialgesetzbuch, anerkannte Träger der freien Jugendhilfe im Sinne des § 75 des Achten Buches Sozialgesetzbuch und anerkannte Verbände zur Förderung der Belange von Menschen mit Behinderungen im Sinne des § 15 Absatz 3 des Behindertengleichstellungsgesetzes jeweils nach Maßgabe des § 4b Absatz 2.
+
+(2) Zur geschäftsmäßigen Hilfeleistung in Steuersachen sind zudem befugt:
+
+1. Notare im Rahmen ihrer Befugnisse nach der Bundesnotarordnung und
+
+2. Patentanwälte und Berufsausübungsgesellschaften im Sinne der Patentanwaltsordnung im Rahmen ihrer Befugnisse nach der Patentanwaltsordnung.
+
+# § 4d – Spediteure; sonstige Zollvertreter
+
+Zur geschäftsmäßigen Hilfeleistung in Steuersachen nach Maßgabe des § 4b Absatz 2 sind befugt:
+
+1. Spediteure bei allen zollrechtlichen Verfahrenshandlungen, in Einfuhr- und Ausfuhrabgabensachen und bei der verbrauchsteuerlichen Behandlung von Waren im Warenverkehr mit anderen Mitgliedstaaten der Europäischen Union und
+
+2. sonstige Zollvertreter in Einfuhr- und Ausfuhrabgabensachen.
+
+# § 4e – Nebenleistungen
+
+Geschäftsmäßige Hilfeleistung in Steuersachen darf im Zusammenhang mit einer anderen Tätigkeit erbracht werden, wenn sie als Nebenleistung zum Berufs- oder Tätigkeitsbild gehört. Ob eine Nebenleistung vorliegt, ist nach ihrem Inhalt, Umfang und sachlichen Zusammenhang mit der Haupttätigkeit unter Berücksichtigung der für die Haupttätigkeit erforderlichen Steuerrechtskenntnisse zu beurteilen.
 
 # § 5 – Verbot der unbefugten Hilfeleistung in Steuersachen, Missbrauch von Berufsbezeichnungen
 
-(1) Andere als die in den §§ 3, 3a, 3d und 4 bezeichneten Personen und Vereinigungen dürfen nicht geschäftsmäßig Hilfe in Steuersachen leisten, insbesondere nicht geschäftsmäßig Rat in Steuersachen erteilen. Die in den §§ 3a, 3d und 4 bezeichneten Personen und Vereinigungen dürfen nur im Rahmen ihrer Befugnis geschäftsmäßig Hilfe in Steuersachen leisten.
+(1) Andere als die nach § 3 Satz 1, § 3a Absatz 1 Satz 1, den §§ 3c und 3d Absatz 1 Satz 1, § 4 Absatz 1, § 4a Absatz 1 Satz 1, § 4b Absatz 1 Satz 1 und 3 sowie den §§ 4c bis 4e Satz 1 Befugten dürfen nicht geschäftsmäßig Hilfe in Steuersachen leisten. Die nach § 3a Absatz 1 Satz 1, den §§ 3c und 3d Absatz 1 Satz 1, § 4 Absatz 1, § 4a Absatz 1 Satz 1, § 4b Absatz 1 Satz 1 und 3 sowie den §§ 4c bis 4e Satz 1 Befugten dürfen nur im Rahmen ihrer Befugnis Hilfe in Steuersachen leisten.
 
-(2) Werden den Finanzbehörden oder den Steuerberaterkammern Tatsachen bekannt, die den Verdacht begründen, dass eine Person oder Vereinigung entgegen Absatz 1 geschäftsmäßig Hilfe in Steuersachen leistet, so haben sie diese Tatsachen der für das Bußgeldverfahren zuständigen Stelle mitzuteilen. Werden den Finanzbehörden oder dem Bundesamt für Justiz Tatsachen bekannt, die darauf hinweisen, dass eine Person oder Vereinigung entgegen Absatz 1 geschäftsmäßig Hilfe in Steuersachen leistet, so können sie diese Tatsachen der zuständigen Steuerberaterkammer zum Zwecke der Prüfung der Geltendmachung von Ansprüchen nach den Vorschriften des Gesetzes gegen den unlauteren Wettbewerb (§ 76 Absatz 11) mitteilen. Liegen tatsächliche Anhaltspunkte dafür vor, dass die unbefugte Hilfeleistung in Steuersachen fortgesetzt wird, so ist das Bundesamt für Justiz verpflichtet, die zuständige Steuerberaterkammer über den Ausgang eines nach § 20 Absatz 1 Nummer 1 des Rechtsdienstleistungsgesetzes eingeleiteten Bußgeldverfahrens zu unterrichten. Eine entsprechende Verpflichtung besteht für die Finanzbehörden in Bezug auf Bußgeldverfahren nach § 160. Zuständige Steuerberaterkammer im Sinne der Sätze 2 und 3 ist diejenige, in deren Bezirk die unbefugt hilfeleistende Person oder Vereinigung ihren Sitz hat. Besteht kein Sitz im Inland, jedoch in einem der in § 3a Absatz 2 Satz 2 genannten Staaten, so ist die nach dieser Vorschrift für den jeweiligen Staat zuständige Steuerberaterkammer zuständig. Kann nach den Sätzen 5 und 6 keine Zuständigkeit bestimmt werden, so ist diejenige Steuerberaterkammer zuständig, in deren Bezirk die unbefugte Hilfeleistung erbracht wurde.
+(2) Werden den Finanzbehörden oder den Steuerberaterkammern Tatsachen bekannt, die den Verdacht begründen, dass eine Person oder Vereinigung entgegen Absatz 1 geschäftsmäßig Hilfe in Steuersachen leistet, so haben sie der für die Durchführung eines Bußgeldverfahrens nach § 20 Absatz 1 Nummer 1 des Rechtsdienstleistungsgesetzes zuständigen Stelle die für das Verfahren erforderlichen Informationen mitzuteilen. Das Bundesamt für Justiz unterrichtet eine Finanzbehörde, die eine Mitteilung nach Satz 1 gemacht hat, über den Ausgang des entsprechenden Bußgeldverfahrens.
 
-(3) Die Finanzbehörden oder die Steuerberaterkammern haben der für das Strafverfahren, das Bußgeldverfahren oder ein berufsaufsichtliches Verfahren zuständigen Stelle ihnen bekannte Tatsachen mitzuteilen, die den Verdacht begründen, dass
+(3) Werden den Finanzbehörden oder dem Bundesamt für Justiz Tatsachen bekannt, die darauf hinweisen, dass eine Person oder Vereinigung entgegen Absatz 1 geschäftsmäßig Hilfe in Steuersachen leistet, so können sie der zuständigen Steuerberaterkammer diejenigen Informationen mitteilen, die zur Prüfung der Geltendmachung von Ansprüchen nach den Vorschriften des Gesetzes gegen den unlauteren Wettbewerb erforderlich sind. Zuständige Steuerberaterkammer im Sinne des Satzes 1 ist diejenige, in deren Bezirk die unbefugt hilfeleistende Person oder Vereinigung ihren Sitz hat. Besteht kein Sitz im Inland, jedoch in einem der in § 3a Absatz 2 Satz 2 genannten Staaten, so ist die nach dieser Vorschrift für den jeweiligen Staat zuständige Steuerberaterkammer zuständig. Kann nach den Sätzen 2 und 3 keine Zuständigkeit bestimmt werden, so ist diejenige Steuerberaterkammer zuständig, in deren Bezirk die unbefugte Hilfeleistung erbracht wurde.
 
-1. Personen, die geschäftsmäßig Hilfe in Steuersachen leisten, entgegen § 132a Absatz 1 Nummer 2 des Strafgesetzbuches die Berufsbezeichnungen „Steuerberater“, „Steuerbevollmächtigter“, „Rechtsanwalt“, „Wirtschaftsprüfer“ oder „vereidigter Buchprüfer“ führen,
+(4) Die Finanzbehörden oder die Steuerberaterkammern haben der für das Strafverfahren, das Bußgeldverfahren oder ein berufsaufsichtliches Verfahren zuständigen Stelle ihnen bekannte Tatsachen mitzuteilen, die den Verdacht begründen, dass
 
-2. Vereinigungen, die geschäftsmäßig Hilfe in Steuersachen leisten, entgegen § 161 dieses Gesetzes unbefugt die Bezeichnungen „Steuerberatungsgesellschaft“, „Lohnsteuerhilfeverein“, „Landwirtschaftliche Buchstelle“ oder unbefugt den Zusatz „und Partner“, „Partnerschaft“ (§ 2 Absatz 1 des Partnerschaftsgesellschaftsgesetzes), „mit beschränkter Berufshaftung“ oder jeweilige Abkürzungen (§ 8 Absatz 4 des Partnerschaftsgesellschaftsgesetzes) oder entgegen § 133 der Wirtschaftsprüferordnung die Bezeichnungen „Wirtschaftsprüfungsgesellschaft“ oder „Buchprüfungsgesellschaft“ führen.
+1. Personen, die geschäftsmäßig Hilfe in Steuersachen leisten, entgegen § 132a Absatz 1 Nummer 2 des Strafgesetzbuches die Berufsbezeichnung „Steuerberater“, „Steuerbevollmächtigter“, „Rechtsanwalt“, „Wirtschaftsprüfer“ oder vereidigter „Buchprüfer“ führen,
 
-(4) Werden den Finanzbehörden Tatsachen bekannt, die darauf hinweisen, dass Personen oder Vereinigungen die ihnen nach § 3a zustehende Befugnis zu vorübergehender und gelegentlicher geschäftsmäßiger Hilfeleistung in Steuersachen überschreiten, so haben die Finanzbehörden diese Tatsachen der zuständigen Steuerberaterkammer mitzuteilen. Satz 1 gilt entsprechend, wenn den Finanzbehörden Tatsachen bekannt werden, die darauf hinweisen, dass Personen oder Vereinigungen die ihnen erteilte Erlaubnis zum partiellen Zugang nach § 3d überschreiten.
+2. Personen, Vereinigungen oder Körperschaften, die geschäftsmäßig Hilfe in Steuersachen leisten,
 
-(5) § 30 der Abgabenordnung steht den Mitteilungen nach den Absätzen 2, 3 und 4 nicht entgegen.
+a) entgegen § 15 Absatz 4, § 44 Absatz 7 oder § 55g eine dort genannte Bezeichnung führen,
 
-§ 5 Abs. 1 Satz 1: IVm § 1 Abs. 2 Nr. 2, §§ 2 bis 4 StBerG mit Art. 12 Abs. 1 GG 100-1 unvereinbar, soweit die geschäftsmäßige Erledigung der laufenden Lohnbuchhaltung (Lohnbuchhaltung mit Ausnahme des Einrichtens der Lohnkonten u. der Abschlußarbeiten nach §§ 41b, 42b EStG 611-1) Personen untersagt wird, die eine kaufmännische Gehilfenprüfung bestanden haben, BVerfGE v. 27.1.1982 I 545 - 1 BvR 807/80 -
+b) entgegen § 2 Absatz 1 oder § 8 Absatz 4 Satz 3 des Partnerschaftsgesellschaftsgesetzes einen erforderlichen Zusatz nicht in den Namen einer Partnerschaft aufgenommen haben,
+
+c) entgegen § 11 Absatz 1 des Partnerschaftsgesellschaftsgesetzes den Zusatz „Partnerschaft“ oder „und Partner“ führen oder
+
+d) entgegen § 133 Absatz 1 der Wirtschaftsprüferordnung die Bezeichnung „Wirtschaftsprüfungsgesellschaft“ oder „Buchprüfungsgesellschaft“ führen.
+
+(5) Werden den Finanzbehörden Tatsachen bekannt, die darauf hinweisen, dass Personen oder Vereinigungen die ihnen nach den §§ 3a und 3c zustehende Befugnis zu vorübergehender und gelegentlicher geschäftsmäßiger Hilfeleistung in Steuersachen überschreiten, so haben die Finanzbehörden diese Tatsachen der zuständigen Steuerberaterkammer mitzuteilen. Satz 1 gilt entsprechend, wenn den Finanzbehörden Tatsachen bekannt werden, die darauf hinweisen, dass Personen oder Vereinigungen die ihnen erteilte Erlaubnis zum partiellen Zugang nach den §§ 3d und 3e überschreiten.
+
+(6) § 30 der Abgabenordnung steht den Mitteilungen nach den Absätzen 2 bis 5 nicht entgegen.
 
 # § 6 – Ausnahmen vom Verbot der unbefugten Hilfeleistung in Steuersachen
 
-Das Verbot des § 5 gilt nicht für
+(1) Das aus den §§ 2 und 5 folgende Verbot gilt nicht für
 
-1. die Erstattung wissenschaftlich begründeter Gutachten,
+1. das Anlegen von Kontenplänen, das Buchen laufender Geschäftsvorfälle, die laufende Lohnabrechnung und das Fertigen der Lohnsteuer-Anmeldung, soweit das Erbringen dieser Tätigkeiten in der Verantwortung von Personen liegt, die nach Bestehen der Abschlussprüfung in einem kaufmännischen Ausbildungsberuf oder nach Erwerb einer gleichwertigen Vorbildung mindestens drei Jahre auf dem Gebiet des Buchhaltungswesens in einem Umfang von mindestens 16 Wochenstunden praktisch tätig gewesen sind, und
 
-2. die unentgeltliche Hilfeleistung in Steuersachen für Angehörige im Sinne des § 15 der Abgabenordnung,
+2. die geschäftsmäßige Hilfeleistung in Steuersachen, die nicht im Zusammenhang mit einer entgeltlichen Tätigkeit steht (unentgeltliche geschäftsmäßige Hilfeleistung in Steuersachen).
 
-3. die Durchführung mechanischer Arbeitsgänge bei der Führung von Büchern und Aufzeichnungen, die für die Besteuerung von Bedeutung sind; hierzu gehören nicht das Kontieren von Belegen und das Erteilen von Buchungsanweisungen,
+(2) Wer unentgeltlich geschäftsmäßig Hilfe in Steuersachen nicht an Angehörige im Sinne des § 15 der Abgabenordnung leistet, muss sicherstellen, dass die Hilfeleistung durch eine der folgenden Personen oder unter Anleitung einer der folgenden Personen erbracht wird:
 
-4. das Buchen laufender Geschäftsvorfälle, die laufende Lohnabrechnung und das Fertigen der Lohnsteuer-Anmeldungen, soweit diese Tätigkeiten verantwortlich durch Personen erbracht werden, die nach Bestehen der Abschlußprüfung in einem kaufmännischen Ausbildungsberuf oder nach Erwerb einer gleichwertigen Vorbildung mindestens drei Jahre auf dem Gebiet des Buchhaltungswesens in einem Umfang von mindestens 16 Wochenstunden praktisch tätig gewesen sind.
+1. eine Person, die zur unbeschränkten Hilfeleistung in Steuersachen befugt ist,
 
-# § 7 – Untersagung der Hilfeleistung in Steuersachen
+2. eine Person mit Befähigung zum Richteramt,
 
-(1) Die Finanzbehörde kann die Hilfeleistung in Steuersachen untersagen, wenn
+3. eine Person mit bestandener Steuerberaterprüfung,
 
-1. bei einer Tätigkeit nach den §§ 3a, 3d, 4 oder 6 die jeweiligen Befugnisse überschritten werden oder
+4. eine Person, die von der Steuerberaterprüfung befreit worden ist,
 
-2. eine Tätigkeit als Arbeitnehmer zur Umgehung des Verbots nach § 5 missbraucht wird.
+5. eine Person mit bestandenem Wirtschaftsprüfungsexamen.
 
-(2) Die für die Finanzverwaltung zuständige oberste Landesbehörde kann den in § 4 Nr. 7 bezeichneten Vereinigungen im Einvernehmen mit den fachlich beteiligten obersten Landesbehörden die Hilfeleistung in Steuersachen ganz oder teilweise untersagen, wenn eine sachgemäße Tätigkeit nicht gewährleistet ist. Dies gilt nicht, wenn eine der in § 3 Satz 1 Nummer 1 aufgeführten Personen die Hilfeleistung in Steuersachen leitet.
+Anleitung umfasst eine an Umfang und Inhalt der zu leistenden Hilfe ausgerichtete Einweisung und Fortbildung der angeleiteten Person sowie, soweit dies im Einzelfall erforderlich ist, eine Mitwirkung der anleitenden Person bei der Hilfeleistung.
 
-(3) Diejenige Finanzbehörde, in deren Zuständigkeitsbereich die nach Absatz 1 zu untersagende Hilfeleistung in Steuersachen geleistet wird, kann diese Hilfeleistung in Steuersachen in ihrem Zuständigkeitsbereich untersagen. Die Finanzbehörde ist befugt, andere Finanzbehörden über die Untersagung nach Satz 1 zu unterrichten. § 30 der Abgabenordnung steht dem nicht entgegen.
+# § 7 – Untersagung der Hilfeleistung in Steuersachen; Verordnungsermächtigung
+
+(1) Das für den Sitz einer Person oder Vereinigung zuständige Finanzamt kann Personen und Vereinigungen, die nach § 4a Absatz 1 Satz 1, § 4b Absatz 1 Satz 1 oder 3, § 4c Absatz 1 Nummer 4, § 4d oder § 6 Absatz 1 geschäftsmäßig Hilfe in Steuersachen leisten, die weitere Erbringung dieser Hilfeleistung für längstens fünf Jahre untersagen, wenn begründete Tatsachen die Annahme dauerhaft unsachgemäßer Tätigkeit zum Nachteil der Rechtsuchenden oder des Rechtsverkehrs rechtfertigen. Das ist insbesondere der Fall, wenn erhebliche Verstöße gegen die Vorgaben des § 4a Absatz 1 Satz 1 Nummer 3, des § 4b Absatz 2 oder des § 6 Absatz 2 vorliegen. Besteht in den Fällen des Satzes 1 kein Sitz im Inland, so kann ein Finanzamt, in dessen Zuständigkeitsbereich eine Hilfeleistung erbracht wurde, die Untersagung aussprechen.
+
+(2) Die bestandskräftige Untersagung ist dem Bundesamt für Justiz mitzuteilen und von diesem öffentlich bekanntzumachen. § 16 Absatz 2 Nummer 2 und Absatz 3 sowie § 17 des Rechtsdienstleistungsgesetzes gelten entsprechend. § 30 der Abgabenordnung steht dem nicht entgegen.
+
+(3) Von der Untersagung bleibt die Befugnis, unentgeltliche geschäftsmäßige Hilfe in Steuersachen an Angehörige im Sinne des § 15 der Abgabenordnung zu leisten, unberührt.
+
+(4) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die den Finanzämtern nach Absatz 1 Satz 1 und 3 zugewiesene Aufgabe auf eine andere Landesfinanzbehörde oder auf ein Finanzamt für die Bezirke mehrerer Finanzämter zu übertragen. Die Aufgabe kann mit Zustimmung des anderen Landes auch auf eine Landesfinanzbehörde eines anderen Landes übertragen werden. Die Landesregierungen können die Ermächtigungen nach den Sätzen 1 und 2 durch Rechtsverordnung auf die jeweils für die Finanzverwaltung oberste Landesbehörde übertragen.
 
 # § 8 – Werbung
 
 (1) Auf eigene Dienste oder Dienste Dritter zur geschäftsmäßigen Hilfeleistung in Steuersachen darf hingewiesen werden, soweit über die Tätigkeit in Form und Inhalt sachlich unterrichtet wird.
 
-(2) Werbung, die auf die Erteilung eines Auftrags zur geschäftsmäßigen Hilfeleistung in Steuersachen im Einzelfall gerichtet ist, ist verboten. Dies gilt nicht für die Durchführung der Tätigkeiten nach § 6 Nr. 3 und 4.
+(2) Werbung, die auf die Erteilung eines Auftrags zur geschäftsmäßigen Hilfeleistung in Steuersachen im Einzelfall gerichtet ist, ist verboten. Dies gilt nicht für die Durchführung der Tätigkeiten nach § 6 Absatz 1 Nummer 1.
 
 (3) Die in § 3 Satz 1 bezeichneten Personen und Gesellschaften dürfen auf ihre Befugnis zur Hilfeleistung in Steuersachen nach den für sie geltenden berufsrechtlichen Vorschriften hinweisen.
 
-(4) Die in § 6 Nr. 4 bezeichneten Personen dürfen auf ihre Befugnisse zur Hilfeleistung in Steuersachen hinweisen und sich als Buchhalter bezeichnen. Personen, die den anerkannten Abschluss „Geprüfter Bilanzbuchhalter/Geprüfte Bilanzbuchhalterin“ oder „Steuerfachwirt/Steuerfachwirtin“ erworben haben, dürfen unter dieser Bezeichnung werben. Die genannten Personen dürfen dabei nicht gegen das Gesetz gegen den unlauteren Wettbewerb verstoßen.
+(4) Die in § 6 Absatz 1 Nummer 1 bezeichneten Personen dürfen auf ihre Befugnisse zur Hilfeleistung in Steuersachen hinweisen und sich als Buchhalter bezeichnen. Personen, die den anerkannten Abschluss „Geprüfter Bilanzbuchhalter/Geprüfte Bilanzbuchhalterin“, auch in Form des „Bachelor Professional in Bilanzbuchhaltung“, oder den anerkannten Abschluss „Steuerfachwirt/Steuerfachwirtin“ erworben haben, dürfen unter dieser Bezeichnung werben. Die genannten Personen dürfen dabei nicht gegen das Gesetz gegen den unlauteren Wettbewerb verstoßen.
 
 # § 9 – Vergütung
 
@@ -371,19 +425,19 @@ Die Abgabe oder Entgegennahme eines Teils der Gebühren oder sonstiger Vorteile 
 
 # § 10 – Übermittlung von Daten
 
-(1) Gerichte und Behörden einschließlich der Berufskammern übermitteln der für die Entscheidung zuständigen Stelle diejenigen Daten über Personen und Berufsausübungsgesellschaften, deren Kenntnis aus Sicht der übermittelnden Stelle erforderlich ist für
+(1) Gerichte und Behörden einschließlich der Berufskammern übermitteln der für die Entscheidung zuständigen Stelle diejenigen Daten über Personen, Lohnsteuerhilfevereine oder Berufsausübungsgesellschaften, deren Kenntnis aus Sicht der übermittelnden Stelle erforderlich ist für
 
-1. die Zulassung zur Prüfung oder die Befreiung von der Prüfung zum Steuerberater,
+1. die Zulassung zur Steuerberaterprüfung oder die Befreiung von dieser Prüfung,
 
 2. die Bestellung oder Wiederbestellung oder die Rücknahme oder den Widerruf der Bestellung als Steuerberater oder Steuerbevollmächtigter,
 
-3. die Anerkennung, die Rücknahme oder den Widerruf der Anerkennung als Berufsausübungsgesellschaft oder als Lohnsteuerhilfeverein,
+3. die Anerkennung oder die Rücknahme oder den Widerruf der Anerkennung als Berufsausübungsgesellschaft oder als Lohnsteuerhilfeverein,
 
 4. die Einleitung oder Durchführung eines berufsaufsichtlichen Verfahrens,
 
-5. die Überprüfung der Voraussetzungen für die Bestellung eines Beratungsstellenleiters im Sinne des § 23 Absatz 3 oder
+5. Maßnahmen der Aufsichtsbehörden über Lohnsteuerhilfevereine oder
 
-6. eine Untersagung nach § 3f.
+6. eine Untersagung nach § 3f oder § 7 Absatz 1.
 
 (2) Die Übermittlung nach Absatz 1 unterbleibt,
 
@@ -413,89 +467,139 @@ Satz 1 Nummer 2 gilt nicht für die Verschwiegenheitspflichten der für eine Ber
 
 Personen und Vereinigungen im Sinne des § 3 Satz 1 sind in Angelegenheiten, die das Abgabenrecht fremder Staaten betreffen, zur geschäftsmäßigen Hilfe in Steuersachen befugt. Die entsprechenden Befugnisse Dritter auf Grund anderer Rechtsvorschriften bleiben unberührt.
 
-# § 13 – Zweck und Tätigkeitsbereich
+# § 13 – Tätigkeit
 
-(1) Lohnsteuerhilfevereine sind Selbsthilfeeinrichtungen von Arbeitnehmern zur Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 Nr. 11 für ihre Mitglieder.
+Lohnsteuerhilfevereine sind Selbsthilfeeinrichtungen von Arbeitnehmern, die für ihre Mitglieder geschäftsmäßig Hilfe in Steuersachen im Rahmen ihrer Befugnis nach § 4 leisten. Arbeitslose stehen Arbeitnehmern im Sinne des Satzes 1 gleich.
 
-(2) Lohnsteuerhilfevereine bedürfen für ihre Tätigkeit der Anerkennung.
+# § 14 – Anerkennung
 
-# § 14 – Voraussetzungen für die Anerkennung, Aufnahme der Tätigkeit
+(1) Ein Lohnsteuerhilfeverein bedarf der Anerkennung durch die zuständige Aufsichtsbehörde.
 
-(1) Ein rechtsfähiger Verein kann als Lohnsteuerhilfeverein anerkannt werden, wenn nach der Satzung
+(2) Die Anerkennung ist zu erteilen, wenn
 
-1. seine Aufgabe ausschließlich die Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 Nr. 11 für seine Mitglieder ist;
+1. der Verein im Vereinsregister eingetragen ist,
 
-2. der Sitz und die Geschäftsleitung des Vereins sich in demselben Bezirk der Aufsichtsbehörde befinden;
+2. die Satzung des Lohnsteuerhilfevereins die Voraussetzungen des § 18 erfüllt,
 
-3. der Name des Vereins keinen Bestandteil mit besonderem Werbecharakter enthält;
+3. mindestens eine Beratungsstelle nach § 19 eingerichtet ist und
 
-4. eine sachgemäße Ausübung der Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 Nr. 11 sichergestellt ist;
+4. der Abschluss der Haftpflichtversicherung nach § 25 nachgewiesen ist oder eine vorläufige Deckungszusage vorliegt.
 
-5. für die Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 Nr. 11 neben dem Mitgliedsbeitrag kein besonderes Entgelt erhoben wird;
+(3) Der Lohnsteuerhilfeverein darf erst nach der Anerkennung geschäftsmäßig Hilfeleistung in Steuersachen erbringen.
 
-6. die Anwendung der Vorschriften des § 27 Absatz 1 und 3 Satz 1 sowie der §§ 32 und 33 des Bürgerlichen Gesetzbuches nicht ausgeschlossen ist;
+# § 15 – Anerkennungsverfahren; Bezeichnung; Gebühr
 
-7. Verträge des Vereins mit Mitgliedern des Vorstands oder deren Angehörigen der Zustimmung oder Genehmigung der Mitgliederversammlung bedürfen;
+(1) Der Antrag auf Anerkennung als Lohnsteuerhilfeverein ist schriftlich bei der zuständigen Aufsichtsbehörde zu stellen. Ihm ist eine Abschrift der Satzung des Lohnsteuerhilfevereins beizufügen.
 
-8. innerhalb von drei Monaten nach Bekanntgabe des wesentlichen Inhalts der Prüfungsfeststellungen an die Mitglieder (§ 22 Abs. 7 Nr. 2) eine Mitgliederversammlung stattfinden muß, in der insbesondere eine Aussprache über das Ergebnis der Geschäftsprüfung durchzuführen und über die Entlastung des Vorstands wegen seiner Geschäftsführung während des geprüften Geschäftsjahres zu befinden ist.
+(2) Für die Bearbeitung des Antrags auf Anerkennung hat der Verein eine Gebühr von 500 Euro an die zuständige Aufsichtsbehörde zu zahlen.
 
-An die Stelle der Mitgliederversammlung kann eine Vertreterversammlung treten, sofern durch sie eine ausreichende Wahrnehmung der Interessen der Mitglieder gewährleistet ist. Die Vorschriften über Mitgliederversammlungen gelten für Vertreterversammlungen sinngemäß.
+(3) Über die Anerkennung stellt die zuständige Aufsichtsbehörde eine Urkunde aus, die dem Lohnsteuerhilfeverein auszuhändigen ist.
 
-(2) Die Anerkennung darf nur ausgesprochen werden, wenn das Bestehen einer Versicherung gegen die sich aus der Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 Nr. 11 ergebenden Haftpflichtgefahren (§ 25 Abs. 2) nachgewiesen wird.
+(4) Die Bezeichnung „Lohnsteuerhilfeverein“ oder ihre Abkürzung „LStHV“ darf vorbehaltlich des Satzes 2 nur von anerkannten Lohnsteuerhilfevereinen geführt werden. Noch nicht anerkannte Lohnsteuerhilfevereine dürfen die Bezeichnungen nur im Zusammenhang mit Handlungen führen, die der Herbeiführung der Anerkennung oder der Vorbereitung der Geschäftsaufnahme dienen.
 
-(3) Die Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 Nr. 11 darf erst nach der Anerkennung als Lohnsteuerhilfeverein aufgenommen werden.
-
-# § 15 – Anerkennungsbehörde, Satzung
-
-(1) Für die Entscheidung über den Antrag auf Anerkennung als Lohnsteuerhilfeverein ist die Aufsichtsbehörde zuständig, in deren Bezirk der Verein seinen Sitz hat.
-
-(2) Dem Antrag auf Anerkennung als Lohnsteuerhilfeverein ist eine öffentlich beglaubigte Abschrift der Satzung beizufügen.
-
-(3) Der Lohnsteuerhilfeverein hat jede Satzungsänderung der für den Sitz des Vereins zuständigen Aufsichtsbehörde innerhalb eines Monats nach der Beschlußfassung anzuzeigen. Der Änderungsanzeige ist eine öffentlich beglaubigte Abschrift der jeweiligen Urkunde beizufügen.
-
-# § 16 – Gebühren für die Anerkennung
-
-Für die Bearbeitung des Antrags auf Anerkennung als Lohnsteuerhilfeverein hat der Verein eine Gebühr von dreihundert Euro an die Aufsichtsbehörde zu zahlen.
-
-# § 17 – Urkunde
-
-Über die Anerkennung als Lohnsteuerhilfeverein stellt die Aufsichtsbehörde eine Urkunde aus.
-
-# § 18 – Bezeichnung "Lohnsteuerhilfeverein"
-
-Der Verein ist verpflichtet, die Bezeichnung "Lohnsteuerhilfeverein" in den Namen des Vereins aufzunehmen.
-
-# § 19 – Erlöschen der Anerkennung
+# § 16 – Erlöschen, Rücknahme und Widerruf der Anerkennung
 
 (1) Die Anerkennung erlischt durch
 
-1. Auflösung des Vereins;
+1. Auflösung des Vereins,
 
-2. Verzicht auf die Anerkennung;
+2. schriftlichen Verzicht auf die Rechte aus der Anerkennung gegenüber der zuständigen Aufsichtsbehörde oder
 
-3. Verlust der Rechtsfähigkeit.
+3. Löschung aus dem Vereinsregister.
 
-(2) Der Verzicht ist schriftlich gegenüber der Aufsichtsbehörde zu erklären.
+(2) Die Anerkennung ist mit Wirkung für die Zukunft zurückzunehmen, wenn sich ergibt, dass die Anerkennung hätte versagt werden müssen. Von der Rücknahme der Anerkennung kann abweichend von Satz 1 abgesehen werden, wenn die Gründe, aus denen die Anerkennung hätte versagt werden müssen, nicht mehr bestehen.
 
-# § 20 – Rücknahme und Widerruf der Anerkennung
+(3) Die Anerkennung ist zu widerrufen, wenn
 
-(1) Die Aufsichtsbehörde hat die Anerkennung zurückzunehmen, wenn sich nach der Anerkennung ergibt, daß sie hätte versagt werden müssen.
+1. der Lohnsteuerhilfeverein die Voraussetzungen des § 14 Absatz 2 Nummer 2 bis 4 nicht mehr erfüllt, es sei denn, dass er innerhalb einer von der zuständigen Aufsichtsbehörde zu bestimmenden angemessenen Frist einen der genannten Vorschrift entsprechenden Zustand herbeiführt,
 
-(2) Die Aufsichtsbehörde hat die Anerkennung zu widerrufen,
+2. die tatsächliche Geschäftsführung des Lohnsteuerhilfevereins nicht den in § 18 Absatz 1 bezeichneten Anforderungen an die Satzung entspricht,
 
-1. wenn die Voraussetzungen für die Anerkennung als Lohnsteuerhilfeverein nachträglich fortfallen, es sei denn, daß der Verein innerhalb einer angemessenen, von der Aufsichtsbehörde zu bestimmenden Frist den dem Gesetz entsprechenden Zustand herbeiführt;
+3. der Lohnsteuerhilfeverein in Vermögensverfall geraten ist, wobei ein Vermögensverfall vermutet wird, wenn ein Insolvenzverfahren über das Vermögen des Lohnsteuerhilfevereins eröffnet oder der Lohnsteuerhilfeverein in das Schuldnerverzeichnis (§ 882b der Zivilprozessordnung) eingetragen ist, oder
 
-2. wenn die tatsächliche Geschäftsführung des Lohnsteuerhilfevereins nicht mit den in § 14 bezeichneten Anforderungen an die Satzung übereinstimmt;
+4. eine sachgerechte Erbringung der Hilfeleistung in Steuersachen oder eine ordnungsgemäße Geschäftsführung nicht gewährleistet ist, wobei eine ordnungsgemäße Geschäftsführung insbesondere dann nicht vorliegt, wenn gegen die Pflichten nach diesem Gesetz in nachhaltiger Weise verstoßen wird.
 
-3. wenn eine sachgemäße Ausübung der Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 Nr. 11 oder eine ordnungsgemäße Geschäftsführung nicht gewährleistet ist; eine ordnungsgemäße Geschäftsführung liegt insbesondere nicht vor, wenn
+(4) Vor einer Rücknahme oder einem Widerruf ist der Lohnsteuerhilfeverein zu hören.
 
-a) gegen Pflichten nach diesem Gesetz in nachhaltiger Weise verstoßen wurde oder
+# § 17 – Abwicklung schwebender Steuersachen
 
-b) der Lohnsteuerhilfeverein in Vermögensverfall geraten ist; ein Vermögensverfall wird vermutet, wenn ein Insolvenzverfahren über das Vermögen des Lohnsteuerhilfevereins eröffnet oder der Lohnsteuerhilfeverein in das Schuldnerverzeichnis (§ 882b der Zivilprozessordnung) eingetragen ist.
+(1) Ist die Anerkennung als Lohnsteuerhilfeverein erloschen, zurückgenommen oder widerrufen worden, so kann die zuständige Aufsichtsbehörde auf Antrag des Vereins erlauben, dass der Verein einen Beauftragten zur Abwicklung der schwebenden Steuersachen bestellt.
 
-(3) Vor der Rücknahme oder dem Widerruf ist der Lohnsteuerhilfeverein zu hören.
+(2) Der Beauftragte darf nur bestellt werden, wenn er
 
-# § 21 – Aufzeichnungspflicht
+1. eine der in § 20 Absatz 2 bezeichneten Voraussetzungen erfüllt und
+
+2. über einen Versicherungsschutz für die Abwicklung der schwebenden Steuersachen verfügt.
+
+(3) Eine Erlaubnis nach Absatz 1 soll höchstens für ein Jahr erteilt werden; sie kann jederzeit widerrufen werden. Auf Antrag des Vereins kann die Erlaubnis um bis zu ein Jahr verlängert werden, wenn glaubhaft gemacht wird, dass schwebende Steuersachen noch nicht zu Ende geführt werden konnten.
+
+(4) Dem Beauftragten obliegt es, die schwebenden Steuersachen abzuwickeln. Ihm stehen die Befugnisse nach § 4 zu. Der Beauftragte gilt für die schwebenden Steuersachen als von dem jeweiligen Mitglied des Vereins bevollmächtigt, sofern dieses nicht für die Wahrnehmung seiner Rechte in anderer Weise gesorgt hat.
+
+# § 18 – Satzung des Lohnsteuerhilfevereins
+
+(1) Aus der Satzung des Lohnsteuerhilfevereins muss sich ergeben, dass
+
+1. der Name des Vereins keinen Bestandteil mit besonderem Werbecharakter hat und die Bezeichnung „Lohnsteuerhilfeverein“ oder ihre Abkürzung „LStHV“ enthält,
+
+2. sich der Sitz und die Geschäftsleitung des Vereins im Bezirk derselben Aufsichtsbehörde befinden,
+
+3. der Zweck des Vereins ausschließlich in der Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 sowie in der in diesem Zusammenhang erlaubten Erbringung von Rechtsdienstleistungen besteht,
+
+4. eine sachgemäße Ausübung der Tätigkeit sichergestellt ist,
+
+5. neben dem von der konkreten Tätigkeit unabhängigen Mitgliedsbeitrag kein besonderes Entgelt erhoben wird,
+
+6. die Anwendung des § 27 Absatz 1 und 3 Satz 1 sowie der §§ 32 und 33 des Bürgerlichen Gesetzbuches nicht ausgeschlossen ist,
+
+7. Verträge des Vereins mit Mitgliedern des Vorstands oder deren Angehörigen der Zustimmung oder Genehmigung der Mitgliederversammlung bedürfen und
+
+8. innerhalb von drei Monaten nach Bekanntgabe des wesentlichen Inhalts des Prüfungsberichts an die Mitglieder (§ 26 Absatz 7 Nummer 2) eine Mitgliederversammlung oder Vertreterversammlung stattfinden muss, in der insbesondere eine Aussprache über das Ergebnis der Geschäftsprüfung durchzuführen und über die Entlastung des Vorstands wegen seiner Geschäftsführung während des geprüften Geschäftsjahres zu befinden ist.
+
+(2) Der Lohnsteuerhilfeverein hat der zuständigen Aufsichtsbehörde Satzungsänderungen innerhalb eines Monats nach der Beschlussfassung anzuzeigen. Der Änderungsanzeige ist eine öffentlich beglaubigte Abschrift der jeweiligen Urkunde beizufügen.
+
+# § 19 – Beratungsstellen
+
+(1) Der Lohnsteuerhilfeverein muss in dem Bezirk der Aufsichtsbehörde, in dem er seinen Sitz hat, mindestens eine Beratungsstelle unterhalten.
+
+(2) Die Unterhaltung von Beratungsstellen in Bezirken anderer Aufsichtsbehörden ist zulässig.
+
+(3) Eine Beratungsstelle darf ihre Tätigkeit erst aufnehmen, wenn sie und ihre Leitung nach Überprüfung der in § 20 Absatz 2 und 3 genannten Voraussetzungen bei der zuständigen Aufsichtsbehörde im elektronischen Verzeichnis der Lohnsteuerhilfevereine (§ 30) eingetragen sind.
+
+# § 20 – Leitung einer Beratungsstelle
+
+(1) Für jede Beratungsstelle ist eine natürliche Person als Leitung zu bestellen. Eine Person darf höchstens drei Beratungsstellen gleichzeitig leiten.
+
+(2) Der Lohnsteuerhilfeverein darf als Leitung einer Beratungsstelle nur Personen bestellen, die
+
+1. zu dem in § 3 Satz 1 Nummer 1 bezeichneten Personenkreis gehören,
+
+2. eine Abschlussprüfung in einem kaufmännischen Ausbildungsberuf bestanden haben oder eine andere gleichwertige Vorbildung besitzen und nach Abschluss ihrer Ausbildung drei Jahre in einem Umfang von mindestens 16 Wochenstunden auf dem Gebiet der von den Bundes- oder Landesfinanzbehörden verwalteten Steuern praktisch tätig gewesen sind oder
+
+3. mindestens drei Jahre auf den für die Beratungsbefugnis nach § 4 einschlägigen Gebieten des Einkommensteuerrechts in einem Umfang von mindestens 16 Wochenstunden praktisch tätig gewesen sind, wobei Ausbildungszeiten nicht angerechnet werden können.
+
+(3) Der Lohnsteuerhilfeverein darf als Leitung einer Beratungsstelle nur Personen bestellen, die persönlich geeignet sind. Eine Bestellung darf insbesondere nicht erfolgen, wenn die Person
+
+1. nicht in geordneten wirtschaftlichen Verhältnissen lebt,
+
+2. infolge strafgerichtlicher Verurteilung keine Fähigkeit zur Bekleidung öffentlicher Ämter besitzt oder
+
+3. sich so verhalten hat, dass die Besorgnis begründet ist, sie werde die Pflichten des Lohnsteuerhilfevereins nicht erfüllen.
+
+# § 21 – Vertreterversammlung
+
+(1) An die Stelle der Mitgliederversammlung eines Lohnsteuerhilfevereins kann eine Vertreterversammlung treten, sofern durch sie eine ausreichende Wahrnehmung der Interessen der Mitglieder gewährleistet ist. Die Vorschriften über Mitgliederversammlungen gelten für Vertreterversammlungen sinngemäß.
+
+(2) Als Vertreter kann jedes Mitglied des Lohnsteuerhilfevereins gewählt werden, das nicht dem Vorstand angehört. Vertreter können nicht durch Bevollmächtigte vertreten werden.
+
+# § 22 – Allgemeine Pflichten der Lohnsteuerhilfevereine
+
+(1) Die geschäftsmäßige Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 ist sachgemäß, gewissenhaft, verschwiegen und unter Beachtung der Regelungen zur Werbung (§ 8 Absatz 1 und 2) zu erbringen. Sie darf nur durch Personen erbracht werden, die einer Beratungsstelle angehören.
+
+(2) Die Ausübung einer anderen wirtschaftlichen Tätigkeit in Verbindung mit der geschäftsmäßigen Hilfeleistung in Steuersachen ist verboten.
+
+(3) Personen, derer sich der Lohnsteuerhilfeverein bei der geschäftsmäßigen Hilfeleistung in Steuersachen bedient, sind in Textform zur Verschwiegenheit zu verpflichten und zur Einhaltung der in den Absätzen 1 und 2 bezeichneten Pflichten anzuhalten. § 62a gilt entsprechend.
+
+# § 23 – Aufzeichnungs- und Aufbewahrungspflichten
 
 (1) Der Lohnsteuerhilfeverein hat sämtliche Einnahmen und Ausgaben fortlaufend und vollständig aufzuzeichnen. Die Aufzeichnungen sind unverzüglich und in deutscher Sprache vorzunehmen.
 
@@ -503,141 +607,123 @@ b) der Lohnsteuerhilfeverein in Vermögensverfall geraten ist; ein Vermögensver
 
 (3) Der Lohnsteuerhilfeverein hat bei Beginn seiner Tätigkeit und am Ende eines jeden Geschäftsjahres auf Grund einer für diesen Zeitpunkt vorgenommenen Bestandsaufnahme seine Vermögenswerte und Schulden aufzuzeichnen und in einer Vermögensübersicht zusammenzustellen.
 
-(4) Die Belege und sonstigen Unterlagen sind geordnet zu sammeln und sechs Jahre aufzubewahren. Die Aufzeichnungen der Einnahmen und Ausgaben und die Vermögensübersichten sind zehn Jahre aufzubewahren. Im übrigen gelten für die Aufbewahrung der Belege, sonstigen Unterlagen, Aufzeichnungen und Vermögensübersichten die Vorschriften des Handelsgesetzbuchs über die Aufbewahrung von Bilanzen, Inventaren, Belegen und sonstigen Unterlagen entsprechend.
+(4) Für die Aufbewahrung von Belegen und sonstigen Unterlagen, Aufzeichnungen über Einnahmen und Ausgaben sowie Vermögensübersichten gelten die Vorschriften des Handelsgesetzbuchs über die Aufbewahrung von Belegen, sonstigen Unterlagen, Bilanzen und Inventaren entsprechend. Abweichend davon sind Belege und sonstige Unterlagen sechs Jahre, Aufzeichnungen und Vermögensübersichten zehn Jahre aufzubewahren.
 
-(5) Sonstige Vorschriften über Aufzeichnungs- und Buchführungspflichten bleiben unberührt.
+(5) Die Handakten über die geschäftsmäßige Hilfeleistung in Steuersachen sind für eine Dauer von zehn Jahren nach Abschluss der Tätigkeit des Lohnsteuerhilfevereins in der jeweiligen Steuersache des Mitglieds aufzubewahren. § 66 ist sinngemäß anzuwenden.
 
-# § 22 – Geschäftsprüfung
+(6) Sonstige Vorschriften über Aufzeichnungs- und Buchführungspflichten bleiben unberührt.
 
-(1) Der Lohnsteuerhilfeverein hat die Vollständigkeit und Richtigkeit der Aufzeichnungen und der Vermögensübersicht (§ 21 Abs. 1 bis 3) sowie die Übereinstimmung der tatsächlichen Geschäftsführung mit den satzungsmäßigen Aufgaben des Lohnsteuerhilfevereins jährlich innerhalb von sechs Monaten nach Beendigung des Geschäftsjahres durch einen oder mehrere Geschäftsprüfer prüfen zu lassen.
+# § 24 – Mitteilungspflichten; Verzeichnisauszug
 
-(2) Zu Geschäftsprüfern können nur bestellt werden
+(1) Der Lohnsteuerhilfeverein hat der für den Sitz seiner Beratungsstelle zuständigen Aufsichtsbehörde unverzüglich mitzuteilen:
 
-1. Personen und Gesellschaften, die nach § 3 zu unbeschränkter Hilfeleistung in Steuersachen befugt sind,
+1. die Eröffnung, die Verlegung und die Schließung der Beratungsstelle,
 
-2. Prüfungsverbände, zu deren satzungsmäßigem Zweck die regelmäßige oder außerordentliche Prüfung der Mitglieder gehört, wenn mindestens ein gesetzlicher Vertreter des Verbandes Steuerberater, Steuerbevollmächtigter, Rechtsanwalt, niedergelassener europäischer Rechtsanwalt, Wirtschaftsprüfer oder vereidigter Buchprüfer ist.
+2. die Bestellung und die Abberufung der Leitung der Beratungsstelle sowie
 
-(3) Als Geschäftsprüfer dürfen keine Personen tätig sein, bei denen die Besorgnis der Befangenheit besteht, insbesondere weil sie Vorstandsmitglied, besonderer Vertreter oder Angestellter des zu prüfenden Lohnsteuerhilfevereins sind.
+3. die Personen, derer er sich bei der Hilfeleistung in Steuersachen bedient.
 
-(4) Den Geschäftsprüfern ist Einsicht in die Bücher und Aufzeichnungen sowie den Schriftwechsel des Vereins zu gewähren und eine Untersuchung des Kassenbestandes und der Bestände an sonstigen Vermögenswerten zu gestatten. Ihnen sind alle Aufklärungen und Nachweise zu geben, die für die Durchführung einer sorgfältigen Prüfung notwendig sind.
+(2) Die Aufsichtsbehörde übermittelt dem Lohnsteuerhilfeverein, der die Beratungsstelle unterhält, einen Auszug des Eintrags dieser Beratungsstelle aus dem elektronischen Verzeichnis der Lohnsteuerhilfevereine.
 
-(5) Die Geschäftsprüfer sind zu gewissenhafter und unparteiischer Prüfung und zur Verschwiegenheit verpflichtet. Sie dürfen Geschäftsgeheimnisse, die sie bei der Wahrnehmung ihrer Obliegenheiten erfahren haben, nicht unbefugt verwerten. Wer seine Obliegenheiten vorsätzlich oder grob fahrlässig verletzt, haftet dem Lohnsteuerhilfeverein für den daraus entstehenden Schaden. Mehrere Personen haften als Gesamtschuldner.
+# § 25 – Haftpflichtversicherung; Haftungsausschluss
 
-(6) Die Geschäftsprüfer haben über das Ergebnis der Prüfung dem Vorstand des Lohnsteuerhilfevereins unverzüglich schriftlich zu berichten.
+(1) Lohnsteuerhilfevereine sind verpflichtet, eine Haftpflichtversicherung abzuschließen und während der Dauer ihrer Anerkennung aufrechtzuerhalten.
 
-(7) Der Lohnsteuerhilfeverein hat
+(2) Die Haftpflichtversicherung muss die Haftpflichtgefahren für Vermögensschäden, die sich aus der Tätigkeit des Lohnsteuerhilfevereins ergeben, angemessen decken. Der Versicherungsschutz muss sich auch auf solche Vermögensschäden erstrecken, für die der Lohnsteuerhilfeverein nach § 278 oder § 831 des Bürgerlichen Gesetzbuches einzustehen hat.
 
-1. innerhalb eines Monats nach Erhalt des Prüfungsberichts spätestens jedoch neun Monate nach Beendigung des Geschäftsjahres eine Abschrift hiervon der zuständigen Aufsichtsbehörde zuzuleiten;
+(3) Die Versicherung muss bei einem im Inland zum Geschäftsbetrieb befugten Versicherungsunternehmen zu den nach Maßgabe des Versicherungsaufsichtsgesetzes eingereichten allgemeinen Versicherungsbedingungen genommen werden.
 
-2. innerhalb von sechs Monaten nach Erhalt des Prüfungsberichts den wesentlichen Inhalt der Prüfungsfeststellungen den Mitgliedern schriftlich bekanntzugeben.
+(4) Zuständige Stelle im Sinne des § 117 Absatz 2 des Versicherungsvertragsgesetzes ist die für den Lohnsteuerhilfeverein zuständige Aufsichtsbehörde.
 
-# § 23 – Ausübung der Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 Nummer 11, Beratungsstellen
+(5) Bei der geschäftsmäßigen Hilfeleistung in Steuersachen kann die Haftung des Vereins für das Verschulden seiner Organe und Angestellten nicht ausgeschlossen werden.
 
-(1) Die Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 Nr. 11 darf nur durch Personen ausgeübt werden, die einer Beratungsstelle angehören. Für jede Beratungsstelle ist ein Leiter zu bestellen. Er darf gleichzeitig nur eine weitere Beratungsstelle leiten.
+# § 26 – Geschäftsprüfung
 
-(2) Der Lohnsteuerhilfeverein muß in dem Bezirk der Aufsichtsbehörde, in dem er seinen Sitz hat, mindestens eine Beratungsstelle unterhalten. Die Unterhaltung von Beratungsstellen in Bezirken anderer Aufsichtsbehörden ist zulässig.
+(1) Der Lohnsteuerhilfeverein hat die Vollständigkeit und Richtigkeit der Aufzeichnungen und der Vermögensübersicht nach § 23 Absatz 1 und 3 sowie die Übereinstimmung der tatsächlichen Geschäftsführung mit den satzungsmäßigen Aufgaben des Lohnsteuerhilfevereins jährlich durch einen Geschäftsprüfer prüfen zu lassen. Die Prüfung muss spätestens acht Monate nach Beendigung des Geschäftsjahres abgeschlossen sein.
 
-(3) Der Lohnsteuerhilfeverein darf zum Leiter einer Beratungsstelle nur Personen bestellen, die
+(2) Zu Geschäftsprüfern können nur bestellt werden:
 
-1. zu dem in § 3 Satz 1 Nummer 1 bezeichneten Personenkreis gehören oder
+1. Personen und Gesellschaften im Sinne des § 3 sowie
 
-2. eine Abschlußprüfung in einem kaufmännischen Ausbildungsberuf bestanden haben oder eine andere gleichwertige Vorbildung besitzen und nach Abschluß der Ausbildung drei Jahre in einem Umfang von mindestens 16 Wochenstunden auf dem Gebiet der von den Bundes- oder Landesfinanzbehörden verwalteten Steuern praktisch tätig gewesen sind oder
+2. Prüfungsverbände, zu deren satzungsmäßigem Zweck die regelmäßige oder außerordentliche Prüfung ihrer Mitglieder gehört, wenn mindestens ein gesetzlicher Vertreter des Verbandes eine Person im Sinne des § 3 Satz 1 Nummer 1 ist.
 
-3. mindestens drei Jahre auf den für die Beratungsbefugnis nach § 4 Nr. 11 einschlägigen Gebieten des Einkommensteuerrechts in einem Umfang von mindestens 16 Wochenstunden praktisch tätig gewesen sind; auf die mindestens dreijährige Tätigkeit können Ausbildungszeiten nicht angerechnet werden.
+(3) Als Geschäftsprüfer dürfen keine Personen tätig sein, bei denen die Besorgnis der Befangenheit besteht.
 
-Zum Leiter einer Beratungsstelle darf nicht bestellt werden, wer sich so verhalten hat, daß die Besorgnis begründet ist, er werde die Pflichten des Lohnsteuerhilfevereins nicht erfüllen.
+(4) Geschäftsprüfern ist Einsicht in Belege und sonstige Unterlagen, Aufzeichnungen über Einnahmen und Ausgaben sowie Vermögensübersichten des Lohnsteuerhilfevereins zu gewähren sowie eine Feststellung des Kassenbestandes und der Bestände an sonstigen Vermögenswerten zu gestatten. Ihnen sind alle Erklärungen und Nachweise zugänglich zu machen, die für die Durchführung einer sorgfältigen Geschäftsprüfung notwendig sind.
 
-(4) Der Lohnsteuerhilfeverein hat der für den Sitz der Beratungsstelle zuständigen Aufsichtsbehörde mitzuteilen
+(5) Geschäftsprüfer sind zur gewissenhaften und unparteiischen Prüfung sowie zur Verschwiegenheit verpflichtet. Sie dürfen Geschäftsgeheimnisse, die sie bei der Wahrnehmung ihrer Tätigkeit erfahren haben, nicht unbefugt verwerten. Geschäftsprüfer, die ihre Obliegenheiten vorsätzlich oder grob fahrlässig verletzen, haften dem Lohnsteuerhilfeverein für einen daraus entstehenden Schaden. Mehrere Personen haften als Gesamtschuldner.
 
-1. die Eröffnung, die Schließung sowie die Änderung der Anschrift einer Beratungsstelle;
+(6) Geschäftsprüfer haben über das Ergebnis der Geschäftsprüfung dem Vorstand des Lohnsteuerhilfevereins unverzüglich schriftlich zu berichten.
 
-2. die Bestellung oder Abberufung des Leiters einer Beratungsstelle;
+(7) Nach Erhalt des Prüfungsberichts hat der Lohnsteuerhilfeverein
 
-3. die Personen, deren sich der Verein bei der Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 Nr. 11 bedient.
+1. innerhalb eines Monats der zuständigen Aufsichtsbehörde eine Abschrift zuzuleiten und
 
-(5) Der Mitteilung über die Bestellung des Leiters einer Beratungsstelle ist ein Nachweis darüber beizufügen, daß die Voraussetzungen des Absatzes 3 erfüllt sind.
+2. innerhalb von sechs Monaten seinen Mitgliedern den wesentlichen Inhalt in Textform bekanntzugeben.
 
-(6) Eine Beratungsstelle darf ihre Tätigkeit nur ausüben, wenn sie und der Beratungsstellenleiter nach Überprüfung der in Absatz 3 genannten Voraussetzungen bei der zuständigen Aufsichtsbehörde (§ 27 Abs. 2) im Verzeichnis der Lohnsteuerhilfevereine eingetragen sind.
+# § 27 – Zuständige Aufsichtsbehörde
 
-# § 24 – Abwicklung der schwebenden Steuersachen im Rahmen der Befugnis nach § 4 Nummer 11
+(1) Zuständige Aufsichtsbehörde ist die Oberfinanzdirektion oder die durch die Landesregierung bestimmte Landesfinanzbehörde. Sie führt die Aufsicht über die Lohnsteuerhilfevereine, die ihren Sitz im Bezirk der Aufsichtsbehörde haben.
 
-(1) Ist die Anerkennung als Lohnsteuerhilfeverein erloschen, zurückgenommen oder widerrufen worden, so kann die Aufsichtsbehörde auf Antrag erlauben, daß der Verein einen Beauftragten zur Abwicklung der schwebenden Steuersachen im Rahmen der Befugnis nach § 4 Nr. 11 bestellt.
+(2) Der Aufsicht durch die Aufsichtsbehörde unterliegen auch alle im Bezirk der Aufsichtsbehörde bestehenden Beratungsstellen. Die im Rahmen dieser Aufsicht getroffenen Feststellungen und Maßnahmen sind der für den Sitz des Lohnsteuerhilfevereins zuständigen Aufsichtsbehörde mitzuteilen.
 
-(2) Zum Beauftragten darf nur bestellt werden, wer die in § 23 Abs. 3 bezeichneten Voraussetzungen erfüllt.
+# § 28 – Pflicht zum Erscheinen vor der Aufsichtsbehörde
 
-(3) Die Erlaubnis nach Absatz 1 darf längstens für die Dauer von sechs Monaten erteilt werden; sie kann jederzeit widerrufen werden.
+(1) Die Mitglieder des Vorstandes eines Lohnsteuerhilfevereins und die Personen, derer sich der Lohnsteuerhilfeverein bei der Hilfeleistung in Steuersachen bedient, haben auf Verlangen der Aufsichtsbehörde vor dieser zu erscheinen sowie der Aufsichtsbehörde Auskunft zu erteilen und Handakten und Geschäftsdokumente des Lohnsteuerhilfevereins vorzulegen.
 
-(4) § 70 Abs. 2 und 3 gilt sinngemäß.
+(2) Liegen die in Absatz 1 genannten Handakten und Geschäftsdokumente in elektronischer Form vor, kann die Aufsichtsbehörde verlangen, dass sie ihr nach ihren Vorgaben in einem maschinell auswertbaren Format zur Verfügung gestellt werden.
 
-# § 25 – Haftungsausschluss, Haftpflichtversicherung
+# § 28a – Befugnisse der Aufsichtsbehörde
 
-(1) Bei der Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 Nr. 11 für die Mitglieder kann die Haftung des Vereins für das Verschulden seiner Organe und Angestellten nicht ausgeschlossen werden.
+(1) Die mit der Aufsicht betrauten Amtsträger der Aufsichtsbehörde sind berechtigt, die Geschäftsräume der Lohnsteuerhilfevereine während der üblichen Geschäfts- und Arbeitszeiten zu betreten, um Prüfungen vorzunehmen oder sonstige Feststellungen zu treffen, die zur Ausübung der Aufsicht erforderlich sind. Eine Prüfung ist auch in den Geschäftsräumen der Vorstandsmitglieder des Lohnsteuerhilfevereins und derjenigen Personen zulässig, derer sich der Lohnsteuerhilfeverein bei der Hilfeleistung in Steuersachen bedient.
 
-(2) Die Lohnsteuerhilfevereine müssen gegen die sich aus der Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 Nr. 11 ergebenden Haftpflichtgefahren angemessen versichert sein. Zuständige Stelle im Sinne des § 117 Abs. 2 des Versicherungsvertragsgesetzes ist die Aufsichtsbehörde.
+(2) Die von der Prüfung nach Absatz 1 Betroffenen haben den mit der Prüfung betrauten Amtsträgern auf Verlangen Auskunft zu erteilen sowie Handakten und Geschäftsdokumente des Lohnsteuerhilfevereins vorzulegen, soweit dies zur Durchführung der Maßnahmen nach Absatz 1 erforderlich ist. § 28 Absatz 2 gilt entsprechend.
 
-(3) (weggefallen)
+(3) Liegen der Aufsichtsbehörde Hinweise vor, die ernsthafte Zweifel daran begründen, dass die Leitung einer Beratungsstelle die Voraussetzungen des § 20 Absatz 2 und 3 erfüllt oder dass in einer Beratungsstelle die in § 22 bezeichneten Pflichten eingehalten werden, so sind der Lohnsteuerhilfeverein und die Leitung der Beratungsstelle hierzu zu hören. Im Fall von Pflichtverletzungen ist die Möglichkeit einzuräumen, innerhalb einer angemessenen, von der Aufsichtsbehörde zu bestimmenden Frist einen gesetzmäßigen Zustand herbeizuführen.
 
-# § 26 – Allgemeine Pflichten der Lohnsteuerhilfevereine
+(4) Ist für eine Beratungsstelle keine Leitung bestellt, so ist der Lohnsteuerhilfeverein zu hören und ihm die Möglichkeit einzuräumen, innerhalb einer angemessenen, von der Aufsichtsbehörde zu bestimmenden Frist eine Leitung zu bestellen.
 
-(1) Die Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 Nr. 11 ist sachgemäß, gewissenhaft, verschwiegen und unter Beachtung der Regelungen zur Werbung (§ 8) auszuüben.
+(5) Die Aufsichtsbehörde kann die Schließung einer Beratungsstelle anordnen, wenn
 
-(2) Die Ausübung einer anderen wirtschaftlichen Tätigkeit in Verbindung mit der Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 Nr. 11 ist nicht zulässig.
+1. für diese keine Leitung bestellt ist,
 
-(3) Alle Personen, deren sich der Verein bei der Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 Nr. 11 bedient, sind zur Einhaltung der in den Absätzen 1 und 2 bezeichneten Pflichten anzuhalten.
+2. deren Leitung die Voraussetzungen des § 20 Absatz 2 oder 3 nicht erfüllt oder
 
-(4) Die Handakten über die Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 Nr. 11 sind auf die Dauer von zehn Jahren nach Abschluß der Tätigkeit des Vereins in der Steuersache des Mitgliedes aufzubewahren. § 66 ist sinngemäß anzuwenden.
+3. in dieser die Einhaltung der Pflichten nach § 22 nicht gewährleistet ist.
 
-# § 27 – Aufsichtsbehörde
+# § 29 – Unterrichtung über Mitgliederversammlungen und Teilnahme der Aufsichtsbehörde
 
-(1) Aufsichtsbehörde ist die Oberfinanzdirektion oder die durch die Landesregierung bestimmte Landesfinanzbehörde. Sie führt die Aufsicht über die Lohnsteuerhilfevereine, die ihren Sitz im Bezirk der Aufsichtsbehörde haben.
+(1) Lohnsteuerhilfevereine haben die Aufsichtsbehörde über bevorstehende Mitgliederversammlungen spätestens zwei Wochen im Voraus zu unterrichten.
 
-(2) Der Aufsicht durch die Aufsichtsbehörde unterliegen auch alle im Bezirk der Aufsichtsbehörde bestehenden Beratungsstellen. Die im Wege der Aufsicht getroffenen Feststellungen sind der für den Sitz des Lohnsteuerhilfevereins zuständigen Aufsichtsbehörde mitzuteilen.
+(2) Die Aufsichtsbehörde ist berechtigt, an der Mitgliederversammlung teilzunehmen.
 
-(3) Die Finanzbehörden teilen der zuständigen Aufsichtsbehörde die ihnen bekannten Tatsachen mit, die den Verdacht begründen, daß ein Lohnsteuerhilfeverein gegen Vorschriften dieses Gesetzes verstoßen hat.
+(3) Die Absätze 1 und 2 gelten für Vertreterversammlungen entsprechend.
 
-# § 28 – Pflicht zum Erscheinen vor der Aufsichtsbehörde, Befugnisse der Aufsichtsbehörde
+# § 30 – Elektronisches Verzeichnis der Lohnsteuerhilfevereine
 
-(1) Die Mitglieder des Vorstandes eines Lohnsteuerhilfevereins und die Personen, deren sich der Verein bei der Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 Nr. 11 bedient, haben auf Verlangen vor der Aufsichtsbehörde zu erscheinen, Auskunft zu geben sowie Handakten und Geschäftsunterlagen vorzulegen.
+(1) Die Aufsichtsbehörden führen ein elektronisches Verzeichnis über
 
-(2) Die mit der Aufsicht betrauten Amtsträger sind berechtigt, die Geschäftsräume der Lohnsteuerhilfevereine und der in Absatz 1 bezeichneten Personen während der Geschäfts- und Arbeitszeiten zu betreten, um Prüfungen vorzunehmen oder sonst Feststellungen zu treffen, die zur Ausübung der Aufsicht für erforderlich gehalten werden.
+1. die Lohnsteuerhilfevereine, die in ihrem Bezirk ihren Sitz haben, und
 
-(3) Liegen der zuständigen Aufsichtsbehörde Hinweise vor, die ernsthafte Zweifel begründen, dass die zum Leiter der Beratungsstelle bestellte Person nicht die in § 23 Absatz 3 bezeichneten Voraussetzungen erfüllt oder dass in einer Beratungsstelle die Einhaltung der in § 26 bezeichneten Pflichten nicht gewährleistet ist, sind Beratungsstellenleitung und Lohnsteuerhilfeverein hierzu zu hören. Ihnen ist die Möglichkeit zu gewähren, innerhalb einer angemessenen, von der Aufsichtsbehörde zu bestimmenden Frist den dem Gesetz entsprechenden Zustand herbeizuführen.
+2. die Beratungsstellen, die in ihrem Bezirk bestehen.
 
-(4) Ist für eine Beratungsstelle ein Leiter nicht vorhanden, ist der betreffende Lohnsteuerhilfeverein zu hören und ihm die Möglichkeit zu gewähren, innerhalb einer angemessenen, von der Aufsichtsbehörde zu bestimmenden Frist eine natürliche Person, die die Voraussetzungen des § 23 Absatz 3 erfüllt, als Leiter zu bestellen.
+(2) Ein Auszug einzelner Daten aus dem elektronischen Verzeichnis der Lohnsteuerhilfevereine steht jedem zu, der ein berechtigtes Interesse darlegt.
 
-(5) Ist für eine Beratungsstelle ein Leiter nicht vorhanden oder erfüllt die zum Leiter bestellte Person nicht die in § 23 Absatz 3 bezeichneten Voraussetzungen oder ist in einer Beratungsstelle die Einhaltung der in § 26 bezeichneten Pflichten nicht gewährleistet, so kann die Aufsichtsbehörde die Schließung dieser Beratungsstelle anordnen.
+# § 31 – Durchführung der Vorschriften über die Lohnsteuerhilfevereine; Verordnungsermächtigung
 
-# § 29 – Teilnahme der Aufsichtsbehörde an Mitgliederversammlungen
+(1) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Folgendes zu bestimmen:
 
-(1) Von bevorstehenden Mitgliederversammlungen ist die Aufsichtsbehörde spätestens zwei Wochen vorher zu unterrichten.
+1. das Verfahren zur Anerkennung als Lohnsteuerhilfeverein,
 
-(2) Die Aufsichtsbehörde ist berechtigt, zur Teilnahme an der Mitgliederversammlung Vertreter zu entsenden.
+2. die Verfahren zur Eröffnung, Verlegung und Schließung einer Beratungsstelle,
 
-# § 30 – Verzeichnis der Lohnsteuerhilfevereine
+3. das Verfahren zur Bestellung der Leitung einer Beratungsstelle sowie die hierbei erforderlichen Erklärungen und Nachweise,
 
-(1) Die Aufsichtsbehörden führen ein Verzeichnis über
+4. den Abschluss und die Aufrechterhaltung der Haftpflichtversicherung, den Inhalt, den Umfang und die Ausschlüsse des Versicherungsvertrags sowie die Höhe der Mindestversicherungssummen,
 
-1. die Lohnsteuerhilfevereine, die im Bezirk der Aufsichtsbehörde ihren Sitz haben;
+5. die Einrichtung und Führung des elektronischen Verzeichnisses der Lohnsteuerhilfevereine sowie die sich auf die Eintragung beziehenden Meldepflichten der Lohnsteuerhilfevereine.
 
-2. die im Bezirk der Aufsichtsbehörde bestehenden Beratungsstellen.
-
-(2) Die Einsicht in das Verzeichnis ist jedem gestattet, der ein berechtigtes Interesse darlegt.
-
-# § 31 – Durchführungsbestimmungen zu den Vorschriften über die Lohnsteuerhilfevereine
-
-(1) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Bestimmungen zu erlassen
-
-1. über das Verfahren bei der Anerkennung als Lohnsteuerhilfeverein,
-
-2. über Einrichtung und Führung des Verzeichnisses nach § 30 Abs. 1 sowie über die sich auf die Eintragung beziehenden Meldepflichten der Lohnsteuerhilfevereine,
-
-3. über die Verfahren bei der Eröffnung, der Schließung sowie der Änderung einer Anschrift von Beratungsstellen und bei der Bestellung von Beratungsstellenleitern;
-
-4. über die zur Bestellung eines Beratungsstellenleiters erforderlichen Erklärungen und Nachweise;
-
-5. über den Abschluss und die Aufrechterhaltung der Haftpflichtversicherung, den Inhalt, den Umfang und die Ausschlüsse des Versicherungsvertrages sowie über die Höhe der Mindestdeckungssummen.
-
-(2) Die Landesregierungen werden ermächtigt, die den Oberfinanzdirektionen nach dem Zweiten Abschnitt des Ersten Teils zugewiesenen Aufgaben auf eine andere Landesfinanzbehörde zu übertragen. Diese Aufgaben können durch Vereinbarung auch auf eine Landesfinanzbehörde eines anderen Landes übertragen werden. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die jeweils für die Finanzverwaltung zuständige oberste Landesbehörde übertragen.
+(2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die den Oberfinanzdirektionen nach diesem Abschnitt zugewiesenen Aufgaben auf eine andere Landesfinanzbehörde zu übertragen. Diese Aufgaben können mit Zustimmung des anderen Landes auch auf eine Landesfinanzbehörde eines anderen Landes übertragen werden. Die Landesregierungen können die Ermächtigung nach Satz 1 durch Rechtsverordnung auf die jeweils für die Finanzverwaltung zuständige oberste Landesbehörde übertragen.
 
 # § 32 – Steuerberater, Steuerbevollmächtigte und Berufsausübungsgesellschaften
 
@@ -859,7 +945,7 @@ Steuerbevollmächtigter ist, wer nach den Vorschriften dieses Gesetzes als solch
 
 (3) Zusätze, die auf einen akademischen Grad oder eine staatlich verliehene Graduierung hinweisen, sind erlaubt.
 
-(4) Die Bezeichnung "Steuerberater", "Steuerbevollmächtigter" oder "Steuerberatungsgesellschaft" darf nur führen, wer nach diesem Gesetz dazu berechtigt ist. Es ist unzulässig, zum Hinweis auf eine steuerberatende Tätigkeit andere Bezeichnungen zu verwenden. Satz 2 findet auf Rechtsanwälte, niedergelassene europäische Rechtsanwälte und Rechtsanwaltsgesellschaften keine Anwendung.
+(4) Die Bezeichnung „Steuerberater“, „Steuerberaterin“, „Steuerbevollmächtigter“ oder „Steuerbevollmächtigte“ darf nur führen, wer nach diesem Gesetz dazu berechtigt ist.
 
 # § 44 – Bezeichnung "Landwirtschaftliche Buchstelle"
 
@@ -867,17 +953,17 @@ Steuerbevollmächtigter ist, wer nach den Vorschriften dieses Gesetzes als solch
 
 (2) Die besondere Sachkunde im Sinne des Absatzes 1 Satz 1 ist durch eine mündliche Prüfung vor einem Sachkunde-Ausschuss nachzuweisen, der bei der Steuerberaterkammer zu bilden ist. Personen, die ihre besondere Sachkunde durch eine einschlägige Ausbildung nachweisen und mindestens drei Jahre buchführende land- und forstwirtschaftliche Betriebe steuerlich beraten haben, können auf Antrag von der mündlichen Prüfung befreit werden. Über den Antrag auf Befreiung entscheidet die zuständige Steuerberaterkammer im Benehmen mit der für die Landwirtschaft zuständigen obersten Landesbehörde oder der von ihr benannten Behörde und, soweit der Antragsteller Rechtsanwalt oder niedergelassener europäischer Rechtsanwalt ist, im Benehmen mit der für die berufliche Niederlassung des Antragstellers zuständigen Rechtsanwaltskammer.
 
-(2a) Partnerschaftsgesellschaften sind befugt, die Bezeichnung "Landwirtschaftliche Buchstelle" als Zusatz zum Namen zu führen, wenn mindestens ein Partner berechtigt ist, die Bezeichnung "Landwirtschaftliche Buchstelle" als Zusatz zur Berufsbezeichnung zu führen.
+(2a) (weggefallen)
 
 (3) Berufsausübungsgesellschaften sind befugt, die Bezeichnung "Landwirtschaftliche Buchstelle" als Zusatz zur Firma oder zum Namen zu führen, wenn mindestens ein gesetzlicher Vertreter berechtigt ist, diese Bezeichnung als Zusatz zur Berufsbezeichnung zu führen.
 
-(4) Vereine im Sinne des § 4 Nr. 8 sind befugt, als Zusatz zum Namen des Vereins die Bezeichnung "Landwirtschaftliche Buchstelle" zu führen.
+(4) Vereine im Sinne des § 4a sind befugt, als Zusatz zum Namen des Vereins die Bezeichnung "Landwirtschaftliche Buchstelle" zu führen.
 
-(5) Körperschaften des öffentlichen Rechts (§ 4 Nr. 3) und Personenvereinigungen im Sinne des § 4 Nr. 7, die eine Buchstelle für land- und forstwirtschaftliche Betriebe unterhalten, dürfen für diese Buchstelle die Bezeichnung "Landwirtschaftliche Buchstelle" benutzen, wenn der Leiter der Buchstelle berechtigt ist, diese Bezeichnung als Zusatz zur Berufsbezeichnung zu führen.
+(5) Wird eine Buchstelle für land- und forstwirtschaftliche Betriebe von einer nach § 4b Absatz 1 Satz 1 Nummer 1 zur geschäftsmäßigen Hilfeleistung in Steuersachen befugten Berufs- oder Interessenvereinigung oder einer nach § 4c Absatz 1 Nummer 2 zur geschäftsmäßigen Hilfeleistung in Steuersachen befugten Körperschaft des öffentlichen Rechts betrieben, so darf diese Buchstelle die Bezeichnung „Landwirtschaftliche Buchstelle“ nur führen, wenn die Leitung der Buchstelle zum Führen dieser Bezeichnung berechtigt ist.
 
-(6) Die Befugnis zur Führung der Bezeichnung "Landwirtschaftliche Buchstelle" erlischt mit dem Erlöschen, der Rücknahme oder dem Widerruf der Bestellung als Steuerberater oder Steuerbevollmächtigter bzw. mit dem Erlöschen oder der Rücknahme der Zulassung als Rechtsanwalt oder niedergelassener europäischer Rechtsanwalt. Ist diese Person ein gesetzlicher Vertreter einer Berufsausübungsgesellschaft, erlischt die Befugnis der Berufsausübungsgesellschaft zur Führung der Bezeichnung „Landwirtschaftliche Buchstelle“, wenn kein anderer gesetzlicher Vertreter berechtigt ist, diese Bezeichnung als Zusatz zur Berufsbezeichnung zu führen.
+(6) Die Berechtigung nach Absatz 1 Satz 1 erlischt, wenn die Bestellung zum Steuerberater oder Steuerbevollmächtigten, die Zulassung zur Rechtsanwaltschaft oder die Aufnahme in die Rechtsanwaltskammer erlischt oder zurückgenommen oder widerrufen wird.
 
-(7) Die Befugnis zur Führung der Bezeichnung "Landwirtschaftliche Buchstelle" ist in das Berufsregister einzutragen.
+(7) Die Bezeichnung „Landwirtschaftliche Buchstelle“ darf nur von den nach Absatz 1 Satz 1 und den Absätzen 3 bis 5 dazu berechtigten Personen, Vereinigungen und Körperschaften geführt werden. Die nach Satz 1 Berechtigten dürfen die Bezeichnung nur als Zusatz zu den in den jeweiligen Absätzen genannten Angaben führen.
 
 (8) Für die Bearbeitung des Antrags auf Verleihung der Bezeichnung "Landwirtschaftliche Buchstelle" ist eine Gebühr von einhundertfünfzig Euro an die zuständige Steuerberaterkammer zu zahlen, soweit nicht durch eine Gebührenordnung nach § 79 Abs. 2 etwas anderes bestimmt ist.
 
@@ -899,7 +985,7 @@ Der Verzicht nach Nummer 2 ist zu Protokoll oder schriftlich gegenüber der Steu
 
 # § 46 – Rücknahme und Widerruf der Bestellung
 
-(1) Die Bestellung ist zurückzunehmen, wenn der Steuerberater oder Steuerbevollmächtigte die Bestellung durch arglistige Täuschung, Drohung oder Bestechung oder durch Angaben erwirkt hat, die in wesentlicher Beziehung unrichtig oder unvollständig waren.
+(1) Die Bestellung ist mit Wirkung für die Zukunft zurückzunehmen, wenn Tatsachen nachträglich bekannt werden, bei deren Kenntnis die Bestellung hätte versagt werden müssen. Von der Rücknahme der Bestellung kann abgesehen werden, wenn die Gründe, aus denen die Bestellung hätte versagt werden müssen, nicht mehr bestehen.
 
 (2) Die Bestellung ist zu widerrufen, wenn der Steuerberater oder Steuerbevollmächtigte
 
@@ -1163,7 +1249,7 @@ Bei gesetzlichen Voraussetzungen, die in der Person der Gesellschafter oder der 
 
 # § 55g – Steuerberatungsgesellschaft
 
-Berufsausübungsgesellschaften, bei denen Steuerberater und Steuerbevollmächtigte die Mehrheit der Stimmrechte innehaben und bei denen die Mehrheit der Mitglieder des Geschäftsführungsorgans Steuerberater oder Steuerbevollmächtigte sind, dürfen die Bezeichnung „Steuerberatungsgesellschaft“ führen.
+Nur Berufsausübungsgesellschaften, bei denen Steuerberater und Steuerbevollmächtigte die Mehrheit der Stimmrechte innehaben und bei denen die Mehrheit der Mitglieder des Geschäftsführungsorgans Steuerberater oder Steuerbevollmächtigte sind, dürfen die Bezeichnung „Steuerberatungsgesellschaft“ führen.
 
 # § 55h – Bürogemeinschaft
 
@@ -1219,9 +1305,9 @@ Werbung ist nur erlaubt, soweit sie über die berufliche Tätigkeit in Form und 
 
 Steuerberater und Steuerbevollmächtigte dürfen ihren Beruf als Angestellte einer Person oder Vereinigung im Sinne des § 3 Satz 1 ausüben. Sie dürfen ferner tätig werden
 
-1. als Leiter oder als Angestellte von genossenschaftlichen Prüfungsverbänden, genossenschaftlichen Treuhandstellen oder überörtlichen Prüfungseinrichtungen für Körperschaften und Anstalten des öffentlichen Rechts,
+1. als Leitung oder als Angestellte von genossenschaftlichen Prüfungsverbänden, genossenschaftlichen Treuhandstellen oder überörtlichen Prüfungseinrichtungen für Körperschaften und Anstalten des öffentlichen Rechts,
 
-2. als Leiter von Buchstellen oder von Beratungsstellen der Lohnsteuerhilfevereine,
+2. als Leitung von Buchstellen oder von Beratungsstellen der Lohnsteuerhilfevereine,
 
 3. als Angestellte von Buchstellen oder von Beratungsstellen der Lohnsteuerhilfevereine, wenn die Buchstelle, die jeweilige Geschäftsstelle der Buchstelle oder die Beratungsstelle von einem Steuerberater oder Steuerbevollmächtigten geleitet wird,
 
@@ -1653,17 +1739,17 @@ c) der Sitz aus dem Registerbezirk verlegt wird;
 
 1. Vereine, die nach § 44 Absatz 4 befugt sind, die Bezeichnung „Landwirtschaftliche Buchstelle“ als Zusatz zum Namen zu führen, wenn sie ihren Sitz im Registerbezirk haben,
 
-2. Buchstellen von Körperschaften des öffentlichen Rechts und Personenvereinigungen, für die nach § 44 Absatz 5 die Bezeichnung „Landwirtschaftliche Buchstelle“ geführt werden darf, wenn die Buchstellen im Registerbezirk gelegen sind.
+2. Buchstellen von Vereinigungen und Körperschaften, die nach § 44 Absatz 5 die Bezeichnung „Landwirtschaftliche Buchstelle“ führen dürfen, wenn die Buchstellen im Registerbezirk gelegen sind.
 
 (2) Die Eintragung nach Absatz 1 ist zu löschen, wenn
 
-1. der Verein im Sinne des § 44 Absatz 4 oder die Buchstelle der Personenvereinigung oder Körperschaft im Sinne des § 44 Absatz 5 aufgelöst ist,
+1. der Verein oder die Buchstelle im Sinne des Absatzes 1 aufgelöst ist,
 
 2. die in § 44 Absatz 4 oder 5 bezeichneten Voraussetzungen weggefallen sind oder
 
-3. der Sitz des Vereins im Sinne des § 44 Absatz 4 oder der Sitz der Buchstelle der Personenvereinigung oder Körperschaft im Sinne des § 44 Absatz 5 aus dem Registerbezirk verlegt wird.
+3. der Sitz des Vereins oder der Buchstelle im Sinne des Absatzes 1 aus dem Registerbezirk verlegt wird.
 
-(3) Die Eintragung oder Löschung ist von den jeweiligen Vertretungsberechtigten des Vereins, der Personenvereinigung oder der Körperschaft zu beantragen. Die Löschung kann auch von Amts wegen vorgenommen werden.
+(3) Die Eintragung oder Löschung ist von den jeweiligen Vertretungsberechtigten der Vereinigung oder Körperschaft zu beantragen. Die Löschung kann auch von Amts wegen vorgenommen werden.
 
 # § 76e – Anzeigepflichten
 
@@ -1885,7 +1971,7 @@ e) Steuerberaterkammern, der Bundessteuerberaterkammer und den Gerichten, Behör
 
 4. des Verbotes der Mitwirkung bei unbefugter Hilfeleistung in Steuersachen;
 
-5. des berufsmäßigen Verhaltens gegenüber Mandanten, Kollegen, Gerichten, Behörden und Steuerberaterkammern sowie gegenüber Personen, Gesellschaften und Einrichtungen im Sinne der §§ 4 und 6;
+5. des berufsmäßigen Verhaltens gegenüber Mandanten, Kollegen, Gerichten, Behörden und Steuerberaterkammern sowie gegenüber Personen, Gesellschaften und Einrichtungen im Sinne der §§ 4 bis 4d und 6;
 
 6. der vereinbaren und nichtvereinbaren Tätigkeiten;
 
@@ -2695,7 +2781,7 @@ Für Maßnahmen, die in Verfahren wegen Straftaten oder Ordnungswidrigkeiten ode
 
 # § 154 – Bestehende Gesellschaften
 
-(1) Steuerberatungsgesellschaften, die am 16. Juni 1989 anerkannt sind, bleiben anerkannt. Dies gilt auch, wenn die Gesellschaft zur Übernahme der Mandanten einer Einrichtung gemäß § 4 Nr. 3, 7 und 8 gegründet wurde oder später die Mandanten einer solchen Einrichtung übernommen hat. Verändert sich nach dem 31. Dezember 1990 der Bestand der Gesellschafter oder das Verhältnis ihrer Beteiligungen oder Stimmrechte durch Rechtsgeschäft oder Erbfall und geht der Anteil oder das Stimmrecht nicht auf einen Gesellschafter über, der die Voraussetzungen des §§ 49 und 50 erfüllt, so hat die zuständige Steuerberaterkammer nach § 55 Absatz 3 zu verfahren. Sie kann vom Widerruf der Anerkennung absehen, wenn Anteile von einer Körperschaft des öffentlichen Rechts im Zusammenhang mit der Überragung von Aufgaben auf eine andere Körperschaft des öffentlichen Rechts übergehen.
+(1) Steuerberatungsgesellschaften, die am 16. Juni 1989 anerkannt sind, bleiben anerkannt. Dies gilt auch, wenn die Gesellschaft zur Übernahme der Mandanten einer Einrichtung nach § 4 Nummer 3, 7 oder 8 in der am 31. August 2026 geltenden Fassung gegründet wurde oder später die Mandanten einer solchen Einrichtung übernommen hat. Verändert sich in den Fällen der Sätze 1 und 2 der Bestand der Gesellschafter oder das Verhältnis ihrer Beteiligungen oder Stimmrechte durch Rechtsgeschäft oder Erbfall und geht der Anteil oder das Stimmrecht nicht auf einen Gesellschafter über, der die Voraussetzungen der §§ 49 und 50 erfüllt, so hat die zuständige Steuerberaterkammer nach § 55 Absatz 3 zu verfahren. Sie kann vom Widerruf der Anerkennung absehen, wenn Anteile von einer Körperschaft des öffentlichen Rechts im Zusammenhang mit der Überragung von Aufgaben auf eine andere Körperschaft des öffentlichen Rechts übergehen.
 
 (2) Absatz 1 Satz 3 und 4 gilt auch für unmittelbar oder mittelbar an Berufsausübungsgesellschaften beteiligte Gesellschaften, wenn sie nicht die Kapitalbindungsvorschrift des § 55a dieses Gesetzes oder des § 28 Absatz 4 der Wirtschaftsprüferordnung erfüllen. Auf Antrag kann auf Grund einer von der zuständigen Steuerberaterkammer erteilten Ausnahmegenehmigung von der Anwendung des Satzes 1 abgesehen werden, wenn
 
@@ -2789,57 +2875,43 @@ d) das Verfahren der Berufung und Abberufung der Mitglieder des Prüfungsausschu
 
 Die Anwendung von Zwangsmitteln richtet sich nach der Abgabenordnung.
 
-# § 160 – Unbefugte Hilfeleistung in Steuersachen
-
-(1) Ordnungswidrig handelt, wer einer vollziehbaren Anordnung nach § 7 Absatz 1 oder 2 Satz 1 zuwiderhandelt.
-
-(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
-
-# § 161 – Schutz der Bezeichnungen "Steuerberatungsgesellschaft", "Lohnsteuerhilfeverein" und "Landwirtschaftliche Buchstelle"
-
-(1) Ordnungswidrig handelt, wer unbefugt die Bezeichnung "Steuerberatungsgesellschaft", "Lohnsteuerhilfeverein", "Landwirtschaftliche Buchstelle" oder eine einer solchen zum Verwechseln ähnliche Bezeichnung benutzt.
-
-(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
-
-# § 162 – Verletzung der den Lohnsteuerhilfevereinen obliegenden Pflichten
+# § 160 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer
 
-1. entgegen § 14 Absatz 1 Satz 1 Nummer 8 eine Mitgliederversammlung oder eine Vertreterversammlung nicht durchführt,
+1. einer vollziehbaren Anordnung nach § 7 Absatz 1 Satz 1 zuwiderhandelt,
 
-2. entgegen § 15 Abs. 3 eine Satzungsänderung der zuständigen Aufsichtsbehörde nicht oder nicht rechtzeitig anzeigt,
+2. entgegen § 15 Absatz 4, § 44 Absatz 7 oder § 55g eine dort genannte Bezeichnung führt,
 
-3. entgegen § 22 Abs. 1 die jährliche Geschäftsprüfung nicht oder nicht rechtzeitig durchführen läßt,
+3. entgegen § 18 Absatz 2 Satz 1 eine Anzeige nicht, nicht richtig oder nicht rechtzeitig erstattet,
 
-4. entgegen § 22 Abs. 7 Nr. 1 die Abschrift des Berichts über die Geschäftsprüfung der zuständigen Aufsichtsbehörde nicht oder nicht rechtzeitig zuleitet,
+4. entgegen § 20 Absatz 2 eine Person bestellt,
 
-5. entgegen § 22 Abs. 7 Nr. 2 den Mitgliedern des Lohnsteuerhilfevereins den wesentlichen Inhalt der Prüfungsfeststellungen nicht oder nicht rechtzeitig bekanntgibt,
+5. entgegen § 24 Absatz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
-6. entgegen § 23 Abs. 3 Satz 1 zur Leitung einer Beratungsstelle eine Person bestellt, die nicht die dort bezeichneten Voraussetzungen erfüllt,
+6. entgegen § 22 Absatz 2 eine andere wirtschaftliche Tätigkeit ausübt,
 
-7. entgegen § 23 Abs. 4 der zuständigen Aufsichtsbehörde die Eröffnung, die Schließung oder die Änderung der Anschrift einer Beratungsstelle, die Bestellung oder Abberufung des Leiters einer Beratungsstelle oder die Personen, deren sich der Verein bei der Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 Nr. 11 bedient, nicht mitteilt oder
+7. entgegen § 26 Absatz 1 eine dort genannte Prüfung nicht oder nicht rechtzeitig durchführen lässt,
 
-8. entgegen § 25 Abs. 2 Satz 1 nicht angemessen versichert ist oder
+8. entgegen § 26 Absatz 7 Nummer 1 eine Abschrift nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zuleitet,
 
-9. entgegen § 29 Abs. 1 die Aufsichtsbehörde nicht oder nicht rechtzeitig von Mitgliederversammlungen oder Vertreterversammlungen unterrichtet.
+9. entgegen § 26 Absatz 7 Nummer 2 den wesentlichen Inhalt des Prüfungsberichts nicht oder nicht rechtzeitig bekanntgibt oder
 
-(2) Die Ordnungswidrigkeit nach Absatz 1 Nr. 1, 3 bis 6 und 8 kann mit einer Geldbuße bis zu fünftausend Euro, die Ordnungswidrigkeit nach Absatz 1 Nr. 2, 7 und 9 mit einer Geldbuße bis zu eintausend Euro geahndet werden.
+10. entgegen § 29 Absatz 1 die Aufsichtsbehörde nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig unterrichtet.
 
-# § 163 – Pflichtverletzung von Personen, deren sich der Verein bei der Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 Nummer 11 bedient
+(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1 mit einer Geldbuße bis zu fünfzigtausend Euro, in den Fällen des Absatzes 1 Nummer 6 mit einer Geldbuße bis zu zwanzigtausend Euro, in den Fällen des Absatzes 1 Nummer 2, 4 und 7 bis 9 mit einer Geldbuße bis zu fünftausend Euro und in den Fällen des Absatzes 1 Nummer 3, 5 und 10 mit einer Geldbuße bis zu tausend Euro geahndet werden.
 
-(1) Ordnungswidrig handelt, wer entgegen § 26 Abs. 2 in Verbindung mit der Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 Nr. 11 eine andere wirtschaftliche Tätigkeit ausübt.
+(3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Finanzamt.
 
-(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfundzwanzigtausend Euro geahndet werden.
+(4) § 387 Absatz 2, § 410 Absatz 1 Nummer 1, 2, 6 bis 11 und Absatz 2 sowie § 412 der Abgabenordnung gelten entsprechend.
 
-# § 164 – Verfahren
-
-Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist das Finanzamt, § 387 Abs. 2 der Abgabenordnung ist entsprechend anzuwenden. Im übrigen gelten für das Bußgeldverfahren § 410 Abs. 1 Nr. 1, 2, 6 bis 11 und Abs. 2 sowie § 412 der Abgabenordnung entsprechend.
+# §§ 161 bis 164 – (weggefallen)
 
 # § 164a – Verwaltungsverfahren und finanzgerichtliches Verfahren
 
-(1) Die Durchführung des Verwaltungsverfahrens in öffentlich-rechtlichen und berufsrechtlichen Angelegenheiten, die durch den Ersten Teil, den Zweiten und Sechsten Abschnitt des Zweiten Teils und den Ersten Abschnitt des Dritten Teils dieses Gesetzes geregelt werden, richtet sich nach der Abgabenordnung. Das Verfahren kann über eine einheitliche Stelle abgewickelt werden. Dafür gelten die Vorschriften des Verwaltungsverfahrensgesetzes entsprechend.
+(1) Die Durchführung des Verwaltungsverfahrens in öffentlich-rechtlichen und berufsrechtlichen Angelegenheiten, die durch den Ersten Teil, den Zweiten und Sechsten Abschnitt des Zweiten Teils sowie durch § 159 geregelt werden, richtet sich nach der Abgabenordnung. Das Verfahren kann über eine einheitliche Stelle abgewickelt werden. Dafür gelten die Vorschriften des Verwaltungsverfahrensgesetzes entsprechend.
 
-(2) Die Vollziehung der Rücknahme oder des Widerrufs der Anerkennung als Lohnsteuerhilfeverein (§ 20), der Anordnung der Schließung einer Beratungsstelle (§ 28 Abs. 3), der Rücknahme oder des Widerrufs der Bestellung als Steuerberater oder Steuerbevollmächtigter (§ 46) oder der Anerkennung als Berufsausübungsgesellschaft (§ 53) ist bis zum Eintritt der Unanfechtbarkeit gehemmt; § 361 Abs. 4 Sätze 2 und 3 der Abgabenordnung und § 69 Abs. 5 Sätze 2 bis 4 der Finanzgerichtsordnung bleiben unberührt. In den Fällen des Satzes 1 kann daneben die Ausübung der Hilfeleistung in Steuersachen mit sofortiger Wirkung untersagt werden, wenn es das öffentliche Interesse erfordert.
+(2) Die Vollziehung der Rücknahme oder des Widerrufs der Anerkennung als Lohnsteuerhilfeverein (§ 16 Absatz 2 und 3), der Anordnung der Schließung einer Beratungsstelle (§ 28a Absatz 5), der Rücknahme oder des Widerrufs der Bestellung als Steuerberater oder Steuerbevollmächtigter (§ 46) oder der Rücknahme oder des Widerrufs der Anerkennung als Berufsausübungsgesellschaft (§ 53) ist bis zum Eintritt der Unanfechtbarkeit des Widerrufs, der Rücknahme oder der Anordnung gehemmt; § 361 Absatz 4 Satz 2 und 3 der Abgabenordnung und § 69 Absatz 5 Satz 2 bis 4 der Finanzgerichtsordnung bleiben unberührt. In den Fällen des Satzes 1 kann daneben die Ausübung der Hilfeleistung in Steuersachen mit sofortiger Wirkung untersagt werden, wenn es das öffentliche Interesse erfordert.
 
 (3) In finanzgerichtlichen Verfahren in Angelegenheiten der §§ 37, 37a und 39a wird die für die Finanzverwaltung zuständige oberste Landesbehörde durch die zuständige Steuerberaterkammer vertreten. Die der für die Finanzverwaltung zuständigen obersten Landesbehörde in Verfahren nach Satz 1 auferlegten Kosten werden von der zuständigen Steuerberaterkammer unmittelbar an den Kostengläubiger gezahlt. Die für die Finanzverwaltung zuständige oberste Landesbehörde wird insoweit von ihrer Zahlungsverpflichtung gegenüber dem Kostengläubiger befreit. Die zuständige Steuerberaterkammer kann für eigene Aufwendungen in Verfahren nach Satz 1 und für die Zahlung nach Satz 2 keinen Ersatz von der für die Finanzverwaltung zuständigen obersten Landesbehörde verlangen.
 
@@ -2871,7 +2943,7 @@ Der Senat der Freien und Hansestadt Hamburg wird ermächtigt, die Vorschriften d
 
 (2) § 166 Abs. 2 tritt am Tage nach der Verkündung des Gesetzes in Kraft.
 
-# Anlage 1 – (zu § 86 Absatz 3a Satz 1)Verhältnismäßigkeitsprüfung vor Erlass neuer Berufsreglementierungen
+# Anlage 1 – (zu § 85a Absatz 3a Satz 1)Verhältnismäßigkeitsprüfung vor Erlass neuer Berufsreglementierungen
 
 (Fundstelle: BGBl. 2024 I Nr. 12, S. 6 – 8)
 
@@ -2889,7 +2961,7 @@ Im Rahmen dieser Anlage bezeichnen die Begriffe
 
 II\. Zu prüfende Kriterien
 
-Eine Vorschrift im Sinne des § 86 Absatz 3 Satz 3
+Eine Vorschrift im Sinne des § 85a Absatz 3 Satz 3
 
 1. darf weder eine direkte noch eine indirekte Diskriminierung auf Grund der Staatsangehörigkeit oder des Wohnsitzes darstellen;
 

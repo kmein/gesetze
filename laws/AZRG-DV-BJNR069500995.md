@@ -393,6 +393,8 @@ Hinsichtlich der Datenübermittlung durch die Registerbehörde ist der größtm�
 
  
 
+\* Dieses Datum wird nicht erhoben, sondern entsteht im Register, wenn eine Änderung des Namens bzw. der Geschlechtsangabe gemeldet wird.
+
  
 
  
@@ -539,4 +541,5 @@ wenn die rechtlichen Voraussetzungen vorliegen,
 (7) =  
 wenn ein Anlass oder eine Entscheidung nach (1) bis (6) die Datenübermittlung notwendig macht.
 
+Anlage: (+++ Text der Anlage in Bearbeitung: Stand entspricht Art. 7 Nr. 2 G v. 22.7.2026 I Nr. 222 +++)  
 Anlage Abschn. I Nr. 9c: IdF d. Art. 2 Nr. 5 Buchst. r G v. 8.5.2024 I Nr. 152 mWv 1.11.2025 (Kursivdruck müsste lauten: "BeschV")

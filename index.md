@@ -441,6 +441,7 @@
 - [BAPostG](laws/BAPostG-BJNR232510994.md) Gesetz über die Errichtung einer Bundesanstalt für Post und Telekommunikation Deutsche Bundespost
 - [BAProITFPrV](laws/BAProITFPrV-BJNR1270A0024.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Bachelor Professional in IT
 - [BAProNotFPrV](laws/BAProNotFPrV-BJNR0CD0A0025.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Bachelor Professional im Notariat
+- [BAProRWFPrV](laws/BAProRWFPrV-BJNR0F40B0026.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Bachelor Professional im Rechtswesen, Fachrichtung Recht und über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Bachelor Professional im Rechtswesen, Fachrichtung Gewerblicher Rechtsschutz
 - [BAProVFFPrV](laws/BAProVFFPrV-BJNR17A0A0024.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Bachelor Professional in Versicherungen und Finanzanlagen
 - [BArchBV](laws/BArchBV-BJNR185700993.md) Verordnung über die Benutzung von Archivgut beim Bundesarchiv
 - [BArchG](laws/BArchG-BJNR041010017.md) Gesetz über die Nutzung und Sicherung von Archivgut des Bundes
@@ -1164,6 +1165,8 @@
 - [BSI-ITSiKV](laws/BSI-ITSiKV-BJNR497800021.md) Verordnung zum IT-Sicherheitskennzeichen des Bundesamtes für Sicherheit in der Informationstechnik
 - [BSI-KritisV](laws/BSI-KritisV-BJNR095800016.md) Verordnung zur Bestimmung kritischer Anlagen nach dem BSI-Gesetz
 - [BSIG](laws/BSIG-BJNR12D0B0025.md) Gesetz über das Bundesamt für Sicherheit in der Informationstechnik und über die Sicherheit in der Informationstechnik von Einrichtungen
+- [BSIMRFPrV](laws/BSIMRFPrV-BJNR0F60A0026.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Berufsspezialist für Informationstechnik und Marketing im Rechtswesen oder Geprüfte Berufsspezialistin für Informationstechnik und Marketing im Rechtswesen
+- [BSInsoFPrV](laws/BSInsoFPrV-BJNR0F50A0026.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Berufsspezialist im Insolvenzrecht oder Geprüfte Berufsspezialistin im Insolvenzrecht
 - [BSIZertV](laws/BSIZertV-BJNR223100014.md) Verordnung über das Verfahren der Erteilung von Sicherheitszertifikaten und Anerkennungen durch das Bundesamt für Sicherheit in der Informationstechnik 1
 - [BSNotFPrV](laws/BSNotFPrV-BJNR0CE0A0025.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Berufsspezialist für das Notariat oder Geprüfte Berufsspezialistin für das Notariat
 - [BStatG](laws/BStatG-BJNR004620987.md) Gesetz über die Statistik für Bundeszwecke
@@ -2248,7 +2251,7 @@
 - [GGKontrollV](laws/GGKontrollV-BJNR130600997.md) Verordnung über die Kontrollen von Gefahrguttransporten auf der Straße und in den Unternehmen
 - [GGKostV](laws/GGKostV-BJNR046610013.md) Kostenverordnung für Maßnahmen bei der Beförderung gefährlicher Güter
 - [GGV](laws/GGV-BJNR160610994.md) Verordnung über die Anlegung und Führung von Gebäudegrundbüchern
-- [GGVSEB](laws/GGVSEB-BJNR138900009.md) Verordnung über die innerstaatliche und grenzüberschreitende Beförderung gefährlicher Güter auf der Straße, mit Eisenbahnen und auf Binnengewässern *)
+- [GGVSEB](laws/GGVSEB-BJNR138900009.md) Verordnung über die innerstaatliche und grenzüberschreitende Beförderung gefährlicher Güter auf der Straße, mit Eisenbahnen und auf Binnengewässern *
 - [GGVSee](laws/GGVSee-BJNR018210016.md) Verordnung über die Beförderung gefährlicher Güter mit Seeschiffen
 - [GHfBetrG](laws/GHfBetrG-BJNR003520950.md) Gesetz über die Schaffung eines besonderen Arbeitgebers für Hafenarbeiter (Gesamthafenbetrieb)
 - [GIGV](laws/GIGV-BJNR1170A0024.md) Gesundheits-IT-Interoperabilitäts-Governance-Verordnung
@@ -2780,6 +2783,7 @@
 - [KCanG](laws/KCanG-BJNR06D0B0024.md) Gesetz zum Umgang mit Konsumcannabis
 - [KCanWissZustV](laws/KCanWissZustV-BJNR19D0A0024.md) Verordnung zur Festlegung der zuständigen Behörde für die Erlaubniserteilung und die Überwachung des Umgangs mit Cannabis zu wissenschaftlichen Zwecken nach dem Konsumcannabisgesetz
 - [KDAV](laws/KDAV-BJNR166700017.md) Verordnung über das automatisierte Verfahren zur Auskunft über Kundendaten nach § 112 des Telekommunikationsgesetzes
+- [KDV 2026](laws/KDV_2026-BJNR0F80A0026.md) Verordnung zur Krisendestillation von Wein im Wirtschaftsjahr 2026/2027*
 - [KDVErstattV](laws/KDVErstattV-BJNR216200003.md) Verordnung über die Erstattung von Auslagen, Verdienstausfall und Aufwendungen bei der Anhörung im Anerkennungsverfahren als Kriegsdienstverweigerin oder Kriegsdienstverweigerer
 - [KDVG](laws/KDVG-BJNR159310003.md) Gesetz über die Verweigerung des Kriegsdienstes mit der Waffe aus Gewissensgründen
 - [KEPFachAusbV](laws/KEPFachAusbV-BJNR087900005.md) Verordnung über die Berufsausbildung zur Fachkraft für Kurier-, Express- und Postdienstleistungen
@@ -3149,7 +3153,7 @@
 - [LuftVODV 195](laws/LuftVODV_195-BJNR515900999.md) Hundertfünfundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandesplatz Eggenfelden)
 - [LuftVODV 196](laws/LuftVODV_196-BJNR518230999.md) Hundertsechsundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Siegerland)
 - [LuftVODV 197](laws/LuftVODV_197-BJNR523300999.md) Hundertsiebenundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen Frankfurt am Main)
-- [LuftVODV 198](laws/LuftVODV_198-BJNR505320000.md) Hundertachtundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Leipzig/Halle)
+- [LuftVODV 198 2026](laws/LuftVODV_198_2026-BJNR0EF0B0025.md) Hundertachtundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Leipzig/Halle)
 - [LuftVODV 201](laws/LuftVODV_201-BJNR513110000.md) Zweihunderterste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen Bremen)
 - [LuftVODV 202 2026](laws/LuftVODV_202_2026-BJNR0480B0026.md) Zweihundertzweite Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Donaueschingen-Villingen)
 - [LuftVODV 203](laws/LuftVODV_203-BJNR505070001.md) Zweihundertdritte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Verkehrslandeplatz Augsburg)
@@ -4270,14 +4274,12 @@
 - [RDG](laws/RDG-BJNR284010007.md) Gesetz über außergerichtliche Rechtsdienstleistungen
 - [RDGEG](laws/RDGEG-BJNR284600007.md) Einführungsgesetz zum Rechtsdienstleistungsgesetz
 - [RDV](laws/RDV-BJNR106900008.md) Verordnung zum Rechtsdienstleistungsgesetz
-- [RebflAnpflV 02/03](laws/RebflAnpflV_02_03-BJNR150100000.md) Verordnung über die Genehmigung für Neuanpflanzungen von Rebflächen
 - [RebflRodV](laws/RebflRodV-BJNR150200000.md) Verordnung über die Gewährung von Prämien für die endgültige Aufgabe des Weinbaus
 - [RebflV](laws/RebflV-BJNR031700998.md) Verordnung über die Gewährung von Prämien zur endgültigen Aufgabe von Rebflächen in den Weinwirtschaftsjahren 1997/98 bis 1999/2000
 - [ReblV](laws/ReblV-BJNR012030988.md) Verordnung zur Bekämpfung der Reblaus
 - [RebPflV 1986](laws/RebPflV_1986-BJNR002040986.md) Rebenpflanzgutverordnung
 - [RechKredV](laws/RechKredV-BJNR002030992.md) Verordnung über die Rechnungslegung der Kreditinstitute, Finanzdienstleistungsinstitute und Wertpapierinstitute
 - [RechPensV](laws/RechPensV-BJNR024600003.md) Verordnung über die Rechnungslegung von Pensionsfonds
-- [RechtsfachwPrV](laws/RechtsfachwPrV-BJNR225000001.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Rechtsfachwirt/Geprüfte Rechtsfachwirtin
 - [RechVersV](laws/RechVersV-BJNR337800994.md) Verordnung über die Rechnungslegung von Versicherungsunternehmen
 - [RechZahlV](laws/RechZahlV-BJNR368000009.md) Verordnung über die Rechnungslegung der Zahlungsinstitute und E-Geld-Institute*)
 - [RED-G](laws/RED-G-BJNR179810012.md) Gesetz zur Errichtung einer standardisierten zentralen Datei von Polizeibehörden und Nachrichtendiensten von Bund und Ländern zur Bekämpfung des gewaltbezogenen Rechtsextremismus
@@ -5227,6 +5229,7 @@
 - [UnBefG 1979](laws/UnBefG_1979-BJNR009890979.md) Gesetz über die unentgeltliche Beförderung Schwerbehinderter im öffentlichen Personenverkehr
 - [UnbilligkeitsV](laws/UnbilligkeitsV-BJNR073400008.md) Verordnung zur Vermeidung unbilliger Härten durch Inanspruchnahme einer vorgezogenen Altersrente
 - [UNFrBüroVbgV](laws/UNFrBüroVbgV-BJNR1070O0025.md) Verordnung zu der Vereinbarung zwischen der Regierung der Bundesrepublik Deutschland und dem Freiwilligenprogramm der Vereinten Nationen über die Errichtung eines Büros der Einheit der Vereinten Nationen für Gleichstellung und Stärkung der Frauen (UN-Frauen) in Bonn
+- [UNFreiwProgrAbkAnwVbgV](laws/UNFreiwProgrAbkAnwVbgV-BJNR08D0O0026.md) Verordnung zu der Vereinbarung zwischen der Regierung der Bundesrepublik Deutschland und dem Entwicklungsprogramm der Vereinten Nationen über die Anwendung des Abkommens vom 10. November 1995 zwischen der Bundesrepublik Deutschland und den Vereinten Nationen über den Sitz des Freiwilligenprogramms der Vereinten Nationen auf das Entwicklungsprogramm der Vereinten Nationen, einschließlich seines Repräsentationsbüros in Bonn, seines Satellitenbüros in Berlin sowie anderer möglicher künftiger Satellitenbüros innerhalb Deutschlands
 - [UNFreiwProgrAbkG](laws/UNFreiwProgrAbkG-BJNR090320996.md) Gesetz zu dem Abkommen vom 10. November 1995 zwischen der Bundesrepublik Deutschland und den Vereinten Nationen über den Sitz des Freiwilligenprogramms der Vereinten Nationen
 - [UNFreiwProgrAbkGeltV](laws/UNFreiwProgrAbkGeltV-BJNR076120998.md) Verordnung über die Geltung des Abkommens vom 10. November 1995 zwischen der Bundesrepublik Deutschland und den Vereinten Nationen über den Sitz des Freiwilligenprogramms der Vereinten Nationen für das Informationszentrum der Vereinten Nationen in Bonn
 - [UNHCRBüroAbkV](laws/UNHCRBüroAbkV-BJNR021820007.md) Verordnung zu dem Abkommen vom 1. Juli 2005 zwischen der Regierung der Bundesrepublik Deutschland und dem Amt des Hohen Flüchtlingskommissars der Vereinten Nationen über das Büro des Hohen Flüchtlingskommissars der Vereinten Nationen in Deutschland
@@ -5554,8 +5557,7 @@
 - [WeinkMstrV](laws/WeinkMstrV-BJNR141800995.md) Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Weinküfer-Handwerk
 - [WeinSBV](laws/WeinSBV-BJNR014300014.md) Weinrechtliche Straf- und Bußgeldverordnung
 - [WeinTechAusbV](laws/WeinTechAusbV-BJNR136900013.md) Verordnung über die Berufsausbildung zum Weintechnologen und zur Weintechnologin*
-- [WeinÜV 1995](laws/WeinÜV_1995-BJNR065500995.md) Wein-Überwachungsverordnung
-- [WeinV](laws/WeinV-BJNR009260971.md) Verordnung zur vorläufigen Aufrechterhaltung weinrechtlicher Vorschriften
+- [WeinÜV](laws/WeinÜV-BJNR0F30B0026.md) Weinüberwachungsverordnung
 - [WeinV 1995](laws/WeinV_1995-BJNR063010995.md) Weinverordnung
 - [WeißzuckerBhV](laws/WeißzuckerBhV-BJNR293700007.md) Verordnung über die Gewährung von Beihilfen für die private Lagerhaltung von Weißzucker
 - [WeizenratVorRV](laws/WeizenratVorRV-BJNR201770973.md) Verordnung über die Gewährung von Vorrechten und Befreiungen an den Internationalen Weizenrat nach dem Weizenhandels-Übereinkommen von 1971
@@ -6111,7 +6113,6 @@
 - [6. AusbDienstLArbbV](laws/6._AusbDienstLArbbV-BJNR0160A0023.md) Sechste Verordnung über zwingende Arbeitsbedingungen für Aus- und Weiterbildungsdienstleistungen nach dem Zweiten oder Dritten Buch Sozialgesetzbuch
 - [6. BinSchStrOAbweichV](laws/6._BinSchStrOAbweichV-BJNR0700A0024.md) Sechste Verordnung zur vorübergehenden Abweichung von der Binnenschifffahrtsstraßen-Ordnung
 - [6. DV-BEG](laws/6._DV-BEG-BJNR002330967.md) Sechste Verordnung zur Durchführung des Bundesentschädigungsgesetzes
-- [6. ErdölFrV](laws/6._ErdölFrV-BJNR0470A0026.md) Sechste Verordnung über die Freigabe von Vorräten des Erdölbevorratungsverbandes
 - [6. ProdSV](laws/6._ProdSV-BJNR059710016.md) Sechste Verordnung zum Produktsicherheitsgesetz 1
 - [6. RAG](laws/6._RAG-BJNR010089963.md) Sechstes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
 - [6. SGGÄndG](laws/6._SGGÄndG-BJNR214400001.md) Sechstes Gesetz zur Änderung des Sozialgerichtsgesetzes

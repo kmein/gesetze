@@ -1,4 +1,4 @@
-% Verordnung über die innerstaatliche und grenzüberschreitende Beförderung gefährlicher Güter auf der Straße, mit Eisenbahnen und auf Binnengewässern *)  (Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt - GGVSEB)
+% Verordnung über die innerstaatliche und grenzüberschreitende Beförderung gefährlicher Güter auf der Straße, mit Eisenbahnen und auf Binnengewässern *  (Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt - GGVSEB)
 % Ausfertigungsdatum: 17.06.2009
  
 # Inhaltsverzeichnis
@@ -65,7 +65,7 @@ b) Beförderungen auf dem Rhein zusätzlich die von der Zentralkommission für d
 
 7. einen MEGC,
 
-8. einen Groß- oder Kleincontainer für die Beförderung in loser Schüttung,
+8. Groß- oder Kleincontainer für die Beförderung in loser Schüttung,
 
 9. einen Schüttgut-Container,
 
@@ -101,7 +101,9 @@ Verlader ist auch das Unternehmen, das als unmittelbarer Besitzer das gefährlic
 
 (4) Verpacker ist das Unternehmen, das die gefährlichen Güter in Verpackungen einschließlich Großverpackungen und IBC einfüllt oder die Versandstücke zur Beförderung vorbereitet. Verpacker ist auch das Unternehmen, das gefährliche Güter verpacken lässt oder das Versandstücke oder deren Kennzeichnung oder Bezettelung ändert oder ändern lässt.
 
-(5) Versandstück ist das versandfertige Endprodukt des Verpackungsvorganges, bestehend aus der Verpackung, der Großverpackung oder dem IBC und ihrem beziehungsweise seinem Inhalt. Der Begriff umfasst die Gefäße für Gase sowie die Gegenstände, die wegen ihrer Größe, Masse oder Formgebung unverpackt oder in Schlitten, Verschlägen oder Handhabungseinrichtungen befördert werden dürfen. Mit Ausnahme der Beförderung radioaktiver Stoffe gilt dieser Begriff weder für Güter, die in loser Schüttung, noch für Güter, die in Tanks oder Ladetanks befördert werden. An Bord von Schiffen schließt der Begriff Versandstück auch die Fahrzeuge, Wagen, Container einschließlich Wechselaufbauten, Tankcontainer, ortsbewegliche Tanks, Großverpackungen, IBC, Batterie-Fahrzeuge, Batteriewagen, Tankfahrzeuge, Kesselwagen und MEGC ein.
+(5) Versandstück ist das versandfertige Endprodukt des Verpackungsvorganges, bestehend aus der Verpackung, der Großverpackung oder dem IBC und ihrem beziehungsweise seinem Inhalt. Der Begriff umfasst die Gefäße für Gase sowie die Gegenstände, die wegen ihrer Größe, Masse oder Formgebung unverpackt, oder in Schlitten, Verschlägen oder Handhabungseinrichtungen befördert werden dürfen. Mit Ausnahme der Beförderung radioaktiver Stoffe gilt dieser Begriff weder für Güter, die in loser Schüttung, noch für Güter, die in Tanks oder Ladetanks befördert werden. An Bord von Schiffen schließt der Begriff Versandstück auch die Fahrzeuge, Wagen, Container einschließlich Wechselaufbauten, Tankcontainer, ortsbewegliche Tanks, Großverpackungen, IBC, Batterie-Fahrzeuge, Batteriewagen, Tankfahrzeuge, Kesselwagen
+
+MEGC ein.
 
 (6) Fahrzeuge sind im innerstaatlichen Verkehr und innergemeinschaftlichen Verkehr – abweichend von der Begriffsbestimmung im ADR – die in Abschnitt 1.2.1 ADR beschriebenen Fahrzeuge mit einer bauartbedingten Höchstgeschwindigkeit von mehr als 25 Kilometer pro Stunde, einschließlich zwei- und dreirädrige Fahrzeuge sowie selbstfahrende Land-, Forst-, Bau- und sonstige Arbeitsmaschinen sowie ihre Anhänger, und Güterstraßenbahnen, die auf einem vom Eisenbahnnetz getrennten Schienennetz verkehren.
 
@@ -133,9 +135,12 @@ Verlader ist auch das Unternehmen, das als unmittelbarer Besitzer das gefährlic
 
 (20) Bundeswasserstraßen sind die Wasserstraßen nach § 1 Absatz 1 und 6 des Bundeswasserstraßengesetzes in der Fassung der Bekanntmachung vom 23. Mai 2007 (BGBl. I S. 962; 2008 I S. 1980) in der jeweils geltenden Fassung mit Ausnahme der Elbe im Hamburger Hafen.
 
+§ 2 Abs. 2 Nr. 8 Kursivdruck: Abweichend vom geltenden Text "einen Groß- oder Kleincontainer" wurde gem. Neufassung durch Bek. v. 26.8.2026 I Nr. 242 der Text "Groß- oder Kleincontainer" konsolidiert  
+§ 2 Abs. 5 Satz 4 Kursivdruck: Abweichend vom geltenden Text "und MEGC" wurde gem. Neufassung durch Bek. v. 26.8.2026 I Nr. 242 der Text "MEGC" konsolidiert
+
 # § 3 – Zulassung zur Beförderung
 
-Gefährliche Güter dürfen unbeschadet des § 5 nur befördert werden, wenn deren Beförderung nach den Unterabschnitten 2.2.1.2, 2.2.2.2, 2.2.3.2, 2.2.41.2, 2.2.42.2, 2.2.43.2, 2.2.51.2, 2.2.52.2, 2.2.61.2, 2.2.62.2, 2.2.8.2, 2.2.9.2, Kapitel 3.2 Tabelle A und Kapitel 3.3 ADR/RID/ADN nicht ausgeschlossen ist und die Beförderung unter Einhaltung der anwendbaren Vorschriften des ADR/RID/ADN erfolgt.
+Gefährliche Güter dürfen unbeschadet des § 5 nur befördert werden, wenn deren Beförderung nach den Unterabschnitten 2.2.1.2, 2.2.2.2, 2.2.3.2, 2.2.41.2, 2.2.42.2, 2.2.43.2, 2.2.51.2, 2.2.52.2, 2.2.61.2, 2.2.62.2, 2.2.8.2, 2.2.9.2, Kapitel 3.2 Tabelle A und Kapitel 3.3 ADR/RID/ADN nicht ausgeschlossen ist und die Beförderung unter Einhaltung der anwendbaren Vorschriften des ADR/RID/ADN erfolgt.
 
 # § 4 – Allgemeine Sicherheitspflichten
 
@@ -175,7 +180,7 @@ für Beförderungen innerhalb Deutschlands zulassen, soweit dies nach der Richtl
 
 (2) Das Eisenbahn-Bundesamt kann im Eisenbahnverkehr für den Bereich der Eisenbahnen des Bundes auf Antrag Ausnahmen von den Teilen 1 bis 7 – ausgenommen die Kapitel 1.8 und 1.10 – RID für Beförderungen innerhalb Deutschlands zulassen, soweit dies nach der Richtlinie 2008/68/EG zulässig ist.
 
-(3) Die Generaldirektion Wasserstraßen und Schifffahrt kann in der Binnenschifffahrt für den Bereich der Bundeswasserstraßen auf Antrag Ausnahmen von den Teilen 1 bis 9 ADN – ausgenommen Abschnitt 1.5.2 ADN, Kapitel 1.8 und 1.10 ADN – für Beförderungen innerhalb Deutschlands zulassen, soweit dies nach der Richtlinie 2008/68/EG zulässig ist. Diese Ausnahmen schließen für den Bereich der Bundeswasserstraßen weitere für das Vorhaben erforderliche Entscheidungen nach Teil 7 ADN – ausgenommen Unterabschnitt 7.2.2.6 und Absätze 7.2.3.7.1 und 7.2.3.7.6 ADN – mit ein; die Entscheidung ergeht insoweit im Benehmen mit der nach § 16 Absatz 6 zuständigen Behörde.
+(3) Die Generaldirektion Wasserstraßen und Schifffahrt kann in der Binnenschifffahrt für den Bereich der Bundeswasserstraßen auf Antrag Ausnahmen von den Teilen 1 bis 9 ADN – ausgenommen Abschnitt 1.5.2 ADN, Kapitel 1.8 und 1.10 ADN – für Beförderungen innerhalb Deutschlands zulassen, soweit dies nach der Richtlinie 2008/68/EG zulässig ist. Diese Ausnahmen schließen für den Bereich der Bundeswasserstraßen weitere für das Vorhaben erforderliche Entscheidungen nach Teil 7 ADN – ausgenommen Unterabschnitt 7.2.2.6 und Absätze 7.2.3.7.1 und 7.2.3.7.6 ADN – mit ein; die Entscheidung ergeht insoweit im Benehmen mit der nach § 16 Absatz 6 zuständigen Behörde.
 
 (4) Bei Ausnahmen nach den Absätzen 1 bis 3 ist über die erforderlichen Sicherheitsvorkehrungen vom Antragsteller ein Gutachten eines Sachverständigen vorzulegen. In diesem Gutachten müssen insbesondere die verbleibenden Gefahren dargestellt und es muss begründet werden, weshalb die Zulassung der Ausnahme trotz der verbleibenden Gefahren als vertretbar angesehen wird. Die zuständige Stelle kann die Vorlage weiterer Gutachten auf Kosten des Antragstellers verlangen oder diese im Benehmen mit dem Antragsteller selbst erstellen lassen. In begründeten Einzelfällen kann die zuständige Stelle auf die Vorlage eines Gutachtens verzichten.
 
@@ -265,7 +270,7 @@ a) den Kapiteln 2.1 und 2.2 mit Ausnahme der Absätze 2.2.62.1.12.1 und 2.2.9.1.
 
 b) Kapitel 3.3 ADR/RID/ADN mit Ausnahme der dem Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr nach § 10 zugewiesenen Zuständigkeiten,
 
-c) Kapitel 4.1 mit Ausnahme von Unterabschnitt 4.1.4.1 Verpackungsanweisung P 200 ADR/RID und die dem Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr nach § 10 zugewiesenen Zuständigkeiten,
+c) Kapitel 4.1 mit Ausnahme von Unterabschnitt 4.1.4.1 Verpackungsanweisung P 200 ADR/RID und die dem Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr nach § 10 zugewiesenen Zuständigkeiten,
 
 d) Kapitel 4.2 mit Ausnahme der Unterabschnitte 4.2.1.8, 4.2.2.5 und 4.2.3.4 ADR/RID,
 
@@ -391,11 +396,13 @@ Satz 1 Nummer 1 und 2, jeweils Buchstabe b, und Nummer 5, 6 und 7 gilt nicht, so
 
 # § 13 – Ergänzende Zuständigkeiten der Benannten Stellen für Druckgefäße
 
-(1) Die nach § 16 Absatz 1 der Ortsbewegliche-Druckgeräte-Verordnung anerkannten Benannten Stellen sind zuständig für
+(1) Die nach § 16 Absatz 1 der Ortsbewegliche-Druckgeräte-Verordnung anerkannten Benannten Stellen sind zuständig für
 
 1. die Bescheinigung über die Zulassung einer Änderung nach Absatz 1.8.7.2.2.3 ADR/RID;
 
-2. die Aufgaben nach Unterabschnitt 4.1.4.1 Verpackungsanweisung P 200 mit Ausnahme des Absatzes 9 ADR/RID im Einvernehmen mit dem Bundesministerium für Digitales und Verkehr;
+2. die Aufgaben nach Unterabschnitt 4.1.4.1 Verpackungsanweisung P 200 mit Ausnahme des Absatzes 9
+
+ADR/RID im Einvernehmen mit dem Bundesministerium für Digitales und Verkehr;
 
 3. die Festlegung der Prüffristen nach Unterabschnitt 4.1.4.1 Verpackungsanweisung P 200 Absatz 9 ADR/RID im Einvernehmen mit der Bundesanstalt für Materialforschung und -prüfung;
 
@@ -439,9 +446,9 @@ b) der Kennzeichen des Herstellers nach Absatz 6.2.2.7.4 Buchstabe n und Absatz 
 
 1. die Anerkennung und Überwachung der Schulung, die Durchführung der Prüfungen und die Erteilung der Bescheinigung über die Fahrzeugführerschulung nach Abschnitt 8.2.2 ADR, wobei die Schulungs- und Prüfungssprache deutsch ist,
 
-2. die Umschreibung der Bescheinigung über die Fahrzeugführerschulung nach Abschnitt 8.2.2 ADR nach § 7 Absatz 1 Nummer 1 und Absatz 2 Nummer 1 in eine Bescheinigung nach § 14 Absatz 3 Satz 1 Nummer 1 und
+2. die Umschreibung der Bescheinigung über die Fahrzeugführerschulung nach Abschnitt 8.2.2 ADR nach § 7 Absatz 1 Nummer 1 und Absatz 2 Nummer 1 in eine Bescheinigung nach § 14 Absatz 3 Satz 1 Nummer 1 und
 
-3. das Führen eines Verzeichnisses nach Unterabschnitt 1.10.1.6 ADR über alle gültigen Schulungsbescheinigungen für Fahrzeugführer mit Ausnahme der in § 7 Absatz 1 Nummer 4 und Absatz 2 Nummer 3 genannten Schulungsbescheinigungen.
+3. das Führen eines Verzeichnisses nach Unterabschnitt 1.10.1.6 ADR über alle gültigen Schulungsbescheinigungen für Fahrzeugführer mit Ausnahme der in § 7 Absatz 1 Nummer 4 und Absatz 2 Nummer 3 genannten Schulungsbescheinigungen.
 
 Einzelheiten zu Satz 1 Nummer 1 bis 3 können die Industrie- und Handelskammern durch Satzung regeln.
 
@@ -565,7 +572,7 @@ Zuständige Behörde nach Satz 1 Nummer 4 und 5 sowie Unterabschnitt 7.1.5.5 ADN
 
 (7) Die jeweilige nach Landesrecht zuständige Stelle ist zuständige Behörde für Kontrollen nach Unterabschnitt 1.8.1.4 ADN.
 
-(8) Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation ist zuständig nach der IMO Resolution A.749 (18) einschließlich deren Anlage “Code über Intaktstabilität aller Schiffstypen” in der Fassung der Bekanntmachung vom 18. März 1999 (VkBl. S. 164) für die Prüfung der Stabilitätsunterlagen nach Absatz 9.2.0.94.4 ADN.
+(8) Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation ist zuständig nach der IMO Resolution A.749 (18) einschließlich deren Anlage „Code über Intaktstabilität aller Schiffstypen“ in der Fassung der Bekanntmachung vom 18. März 1999 (VkBl. S. 164) für die Prüfung der Stabilitätsunterlagen nach Absatz 9.2.0.94.4 ADN.
 
 # § 17 – Pflichten des Auftraggebers des Absenders
 
@@ -573,7 +580,7 @@ Zuständige Behörde nach Satz 1 Nummer 4 und 5 sowie Unterabschnitt 7.1.5.5 ADN
 
 1. sich vor Erteilung eines Auftrags an den Absender zu vergewissern, ob die gefährlichen Güter nach Teil 2 ADR/RID/ADN klassifiziert sind und nach § 3 befördert werden dürfen;
 
-2. dafür zu sorgen, dass dem Absender die Angaben nach den Unterabschnitten 5.4.1.1, 5.4.1.2 sowie den Absätzen 5.5.2.4.1, 5.5.2.4.3 und 5.5.3.7.1 ADR/RID/ADN, im Straßenverkehr mit Ausnahme von Namen und Anschrift des Absenders nach Absatz 5.4.1.1.1 Buchstabe g ADR, schriftlich oder elektronisch mitgeteilt werden, und ihn, wenn Güter auf der Straße befördert werden, die § 35 Absatz 4 Satz 1 oder § 35a Absatz 1 oder Absatz 4 Satz 1 unterliegen, auf deren Beachtung schriftlich oder elektronisch hinzuweisen und
+2. dafür zu sorgen, dass dem Absender die Angaben nach den Unterabschnitten 5.4.1.1, 5.4.1.2 sowie den Absätzen 5.5.2.4.1, 5.5.2.4.3 und 5.5.3.7.1 ADR/RID/ADN, im Straßenverkehr mit Ausnahme von Namen und Anschrift des Absenders nach Absatz 5.4.1.1.1 Buchstabe g ADR, schriftlich oder elektronisch mitgeteilt werden, und ihn, wenn Güter auf der Straße befördert werden, die § 35 Absatz 4 Satz 1 oder § 35a Absatz 1 oder Absatz 4 Satz 1 unterliegen, auf deren Beachtung schriftlich oder elektronisch hinzuweisen und
 
 3. dafür zu sorgen, dass der Absender bei Beförderung nach Kapitel 3.4 auf das gefährliche Gut in begrenzten Mengen unter Angabe der Bruttomasse und bei Beförderung nach Kapitel 3.5 auf das gefährliche Gut in freigestellten Mengen unter Angabe der Anzahl der Versandstücke, ausgenommen bei Beförderungen nach Unterabschnitt 3.5.1.4 ADR/RID/ADN, hingewiesen wird.
 
@@ -699,7 +706,7 @@ dem Fahrzeugführer vor Beförderungsbeginn übergeben werden;
 
 9. die Beförderungseinheit mit Feuerlöschgeräten nach Abschnitt 8.1.4 ADR auszurüsten;
 
-10. die Prüffristen nach Unterabschnitt 8.1.4.4 ADR in Verbindung mit § 36 oder den zugelassenen nationalen Normen einzuhalten;
+10. die Prüffristen nach Unterabschnitt 8.1.4.4 ADR in Verbindung mit § 36 oder den zugelassenen nationalen Normen einzuhalten;
 
 11. das Fahrzeug mit den erforderlichen Großzetteln (Placards) nach Abschnitt 5.3.1, den orangefarbenen Tafeln nach Abschnitt 5.3.2 und den Kennzeichen nach den Abschnitten 3.4.15, 5.3.3 und 5.3.6 auszurüsten und hat dafür zu sorgen, dass in den Fällen des Abschnitts 3.4.13 in Verbindung mit Abschnitt 3.4.14 die Kennzeichen nach Abschnitt 3.4.15 ADR angebracht werden;
 
@@ -927,7 +934,9 @@ zu beachten.
 
 4. hat dafür zu sorgen, dass an Tanks und UN-MEGC die Dichtheit der Verschlusseinrichtungen geprüft wird und die Tanks und UN-MEGC nach Absatz 4.2.1.9.6 Buchstabe c und Unterabschnitt 4.2.2.8 Buchstabe b, Unterabschnitt 4.2.3.8 Buchstabe b, Unterabschnitt 4.2.4.6 Buchstabe a und Unterabschnitt 4.3.3.6 Buchstabe b ADR/RID nicht befördert werden, wenn sie undicht sind;
 
-5. darf Tanks, deren Datum der nächsten Prüfung nicht überschritten ist, mit den nach Absatz 4.3.2.1.5 zulässigen gefährlichen Gütern nur befüllen, wenn die Beförderung dieser gefährlichen Güter nach Absatz 4.3.2.1.1 ADR/RID in Tanks zulässig ist;
+5. darf Tanks, deren Datum der nächsten Prüfung nicht überschritten ist, mit den nach Absatz 4.3.2.1.5 zulässigen gefährlichen Gütern nur befüllen, wenn die Beförderung dieser gefährlichen Güter nach Absatz 4.3.2.1.1
+
+ADR/RID in Tanks zulässig ist;
 
 6. hat dafür zu sorgen, dass der zulässige Füllungsgrad, der zulässige Füllungszustand, der zulässige Füllfaktor oder die zulässige Masse der Füllung je Liter Fassungsraum oder die zulässige Bruttomasse nach den Absätzen 4.2.1.9.1.1, 4.2.1.13.13, 4.2.2.7.2, 4.2.2.7.3, Unterabschnitt 4.2.2.8 Buchstabe a, den Absätzen 4.2.3.6.2, 4.2.3.6.3, 4.2.3.6.4, Unterabschnitt 4.2.3.8 Buchstabe a, den Absätzen 4.2.4.5.2 und 4.2.4.5.3, den anwendbaren Sondervorschriften in Unterabschnitt 4.2.5.3, den Vorschriften in Unterabschnitt 4.3.2.2, den Absätzen 4.3.3.2.3 und 4.3.3.2.5, Unterabschnitt 4.3.3.6 Buchstabe a oder den anwendbaren Sondervorschriften in Abschnitt 4.3.5 ADR/RID eingehalten wird;
 
@@ -1401,7 +1410,7 @@ Die Besatzung sowie alle sonstigen an Bord befindlichen Personen haben den Anwei
 
 # § 35 – Verlagerung
 
-(1) Die in § 35b genannten gefährlichen Güter müssen in dem dort festgelegten Rahmen auf dem Eisenbahn- oder Wasserweg befördert werden, sofern
+(1) Die in § 35b genannten gefährlichen Güter müssen in dem dort festgelegten Rahmen auf dem Eisenbahn- oder Wasserweg befördert werden, sofern
 
 1. der Verlader und der Befüller am Beginn und der Entlader am Ende der Beförderung über einen dafür geeigneten Gleis- oder Hafenanschluss verfügen,
 
@@ -1448,26 +1457,27 @@ Für die nachfolgend genannten gefährlichen Güter gelten die §§ 35 und 35a w
 <colgroup>
 <col style="width: 4%" />
 <col style="width: 7%" />
-<col style="width: 24%" />
-<col style="width: 10%" />
+<col style="width: 25%" />
+<col style="width: 9%" />
 <col style="width: 15%" />
 <col style="width: 15%" />
 <col style="width: 25%" />
 </colgroup>
 <thead data-valign="bottom">
-<tr class="header">
+<tr class="header" data-valign="middle">
 <th rowspan="2" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">lfd.<br />
 Nr.</th>
 <th rowspan="2" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Klasse/<br />
 Unter-<br />
 klasse</th>
 <th rowspan="2" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Stoff oder Gegenstand</th>
-<th rowspan="2" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Geltung der §§ 35<br />
+<th rowspan="2" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Geltung<br />
+der §§ 35<br />
 und 35a</th>
 <th colspan="2" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Beförderung in</th>
 <th rowspan="2" style="text-align: center; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Bemerkungen</th>
 </tr>
-<tr class="odd">
+<tr class="odd" data-valign="middle">
 <th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Tanks<br />
 ab</th>
 <th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Versandstücken<br />
@@ -1479,41 +1489,51 @@ ab</th>
 <td rowspan="3" style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1.1</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">explosive Stoffe und Gegenstände mit Explosivstoff</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§ 35 und § 35a</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§ 35 und<br />
+§ 35a</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nicht zulässig</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1 000 kg<br />
-Nettoexplosivstoffmasse</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Siehe Ausnahmen nach § 35c Absatz 9</td>
+Nettoexplosiv-<br />
+stoffmasse</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Siehe Ausnahmen nach<br />
+§ 35c Absatz 9</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1.2</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">explosive Stoffe und Gegenstände mit Explosivstoff</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§ 35 und § 35a</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nicht zulässig</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1 000 kg<br />
-Nettoexplosivstoffmasse</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1 000 kg Nettoexplosiv-<br />
+stoffmasse</td>
 <td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1.5</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">explosive Stoffe und Gegenstände mit Explosivstoff</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§ 35 und § 35a</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1 000 kg<br />
-Nettoexplosivstoffmasse</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1 000 kg<br />
-Nettoexplosivstoffmasse</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1 000 kg Nettoexplosiv-<br />
+stoffmasse<br />
+</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1 000 kg Nettoexplosiv-<br />
+stoffmasse<br />
+</td>
 <td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Beförderungen in Tanks sind nur für die<br />
-UN-Nummern 0331 und 0332 zulässig<br />
-(Siehe Ausnahmen nach § 35c Absatz 9)</td>
+UN-Nummern 0331<br />
+und 0332 zulässig<br />
+(Siehe Ausnahmen nach<br />
+§ 35c Absatz 9)</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">entzündbare Gase (Klassifizierungscodes, die nur den Buchstaben F enthalten)</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">entzündbare Gase (Klassifizierungscodes,<br />
+die nur den Buchstaben F enthalten)</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§ 35 und § 35a</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9 000 kg Nettomasse</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">entfällt</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§§ 35 und 35a gelten nur für Beförderungen in Tanks (Siehe Ausnahmen nach § 35c Absatz 1 und 5 bis 8)</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§§ 35 und 35a gelten nur<br />
+für Beförderungen in Tanks (Siehe Ausnahmen nach<br />
+§ 35c Absatz 1 und 5 bis 8)</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3</td>
@@ -1522,19 +1542,23 @@ UN-Nummern 0331 und 0332 zulässig<br />
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§ 35 und § 35a</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1 000 kg Nettomasse</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">entfällt</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§§ 35 und 35a gelten nur für Beförderungen in Tanks</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§§ 35 und 35a gelten nur<br />
+für Beförderungen in Tanks</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">entzündbare flüssige Stoffe der Verpackungsgruppen I und II, mit Ausnahme der UN-Nummern 1093, 1099, 1100, 1131 und 1921</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">entzündbare flüssige<br />
+Stoffe der Verpackungsgruppen I<br />
+und II, mit Ausnahme der UN-Nummern 1093, 1099, 1100, 1131 und 1921</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§ 35a</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3 000 Liter bei<br />
-Verpackungsgruppe I<br />
-6 000 Liter bei<br />
-Verpackungsgruppe II</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3 000 Liter bei Verpackungs-<br />
+gruppe I<br />
+6 000 Liter bei Verpackungs-<br />
+gruppe II</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">entfällt</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§ 35a gilt nur für Beförderungen in Tanks (Siehe Ausnahme nach § 35c Absatz 3)</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§ 35a gilt nur für Beförderungen in Tanks (Siehe Ausnahme nach<br />
+§ 35c Absatz 3)</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">5</td>
@@ -1543,12 +1567,14 @@ Verpackungsgruppe II</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§ 35 und § 35a</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3 000 Liter</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">entfällt</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§§ 35 und 35a gelten nur für Beförderungen in Tanks</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§§ 35 und 35a gelten nur<br />
+für Beförderungen in Tanks</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">4.1</td>
-<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">desensibilisierte explosive Stoffe der UN-Nummern 3364, 3365, 3367 und 3368</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">desensibilisierte explosive Stoffe der UN-Nummern 3364, 3365, 3367<br />
+und 3368</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§ 35 und § 35a</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">nicht zulässig</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1 000 kg Nettomasse</td>
@@ -1561,7 +1587,8 @@ Verpackungsgruppe II</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§ 35 und § 35a</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3 000 Liter</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">entfällt</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§§ 35 und 35a gelten nur für Beförderungen in Tanks</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§§ 35 und 35a gelten nur<br />
+für Beförderungen in Tanks</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8</td>
@@ -1570,7 +1597,8 @@ Verpackungsgruppe II</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§ 35 und § 35a</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3 000 Liter</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">entfällt</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§§ 35 und 35a gelten nur für Beförderungen in Tanks</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§§ 35 und 35a gelten nur<br />
+für Beförderungen in Tanks</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">9</td>
@@ -1579,7 +1607,8 @@ Verpackungsgruppe II</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§ 35 und § 35a</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3 000 Liter</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">entfällt</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§§ 35 und 35a gelten nur für Beförderungen in Tanks</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§§ 35 und 35a gelten nur<br />
+für Beförderungen in Tanks</td>
 </tr>
 <tr class="even">
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">10</td>
@@ -1588,7 +1617,8 @@ Verpackungsgruppe II</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§ 35 und § 35a</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3 000 Liter</td>
 <td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">entfällt</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§§ 35 und 35a gelten nur für Beförderungen in Tanks</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§§ 35 und 35a gelten nur<br />
+für Beförderungen in Tanks</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">11</td>
@@ -1597,7 +1627,8 @@ Verpackungsgruppe II</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">§ 35 und § 35a</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3 000 Liter</td>
 <td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">entfällt</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">§§ 35 und 35a gelten nur für Beförderungen in Tanks</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">§§ 35 und 35a gelten nur<br />
+für Beförderungen in Tanks</td>
 </tr>
 </tbody>
 </table>
@@ -1618,13 +1649,13 @@ Die angegebenen Mengen beziehen sich auf die Beförderungseinheit. Werden versch
 
 4. deren Innentanks aus austenitischen Chrom-Nickel- oder Chrom-Nickel-Molybdän-Stählen bestehen.
 
-(2) Für die Tanks nach Absatz 1 ist dies in der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR oder in einer besonderen Bescheinigung des Tankherstellers oder eines Sachverständigen oder Technischen Dienstes nach § 14 Absatz 4 zu bestätigen. Bescheinigungen nach der Ausnahme Nr. 40 (S) der Gefahrgut-Ausnahmeverordnung (GGAV) sowie der Ausnahme 13 (S) der GGAV gelten weiter.
+(2) Für die Tanks nach Absatz 1 ist dies in der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR oder in einer besonderen Bescheinigung des Tankherstellers oder eines Sachverständigen oder Technischen Dienstes nach § 14 Absatz 4 zu bestätigen. Bescheinigungen nach der Ausnahme Nr. 40 (S) der Gefahrgut-Ausnahmeverordnung (GGAV) sowie der Ausnahme 13 (S) der GGAV gelten weiter.
 
-(3) § 35a gilt nicht für Beförderungen von entzündbaren flüssigen Stoffen nach § 35b Tabelle laufende Nummer 4, sofern die Beförderungen in
+(3) § 35a gilt nicht für Beförderungen von entzündbaren flüssigen Stoffen nach § 35b Tabelle laufende Nummer 4, sofern die Beförderungen in
 
 1. nicht wanddickenreduzierten zylindrischen Tanks nach Kapitel 6.7 oder 6.8 ADR, die nach einem Berechnungsdruck von mindestens 0,4 Mega-Pascal (4 Bar) bemessen sind oder mit einem Prüfdruck von mindestens 0,4 Mega-Pascal (4 Bar) geprüft sind,
 
-2. Tanks, deren Sicherheitsniveau um 50 Prozent höher ist, als das eines Tanks aus Baustahl nach Absatz 6.8.2.1.18 ADR (Nummer 12 in Bild 21 des Forschungsberichts 203 „Sicherheitsniveaus von Transporttanks für Gefahrgut“<span id="FnR.F827039_02"></span><a href="#F827039_02" class="FnR">1</a></sup> und Bekanntmachung zur Anwendung des Forschungsberichts 203<span id="FnR.F827039_03"></span><a href="#F827039_03" class="FnR">2</a></sup> ), wenn die Kenngröße f<sub>3</sub> zur Ermittlung der Risikozahl mindestens 0,5 beträgt und das Sicherheitsniveau von der nach § 12 für die Baumusterprüfung zuständigen Stelle bescheinigt wurde,
+2. Tanks, deren Sicherheitsniveau um 50 Prozent höher ist, als das eines Tanks aus Baustahl nach Absatz 6.8.2.1.18 ADR (Nummer 12 in Bild 21 des Forschungsberichts 203 „Sicherheitsniveaus von Transporttanks für Gefahrgut“<span id="FnR.F835509_2"></span><a href="#F835509_2" class="FnR">1</a></sup> und Bekanntmachung zur Anwendung des Forschungsberichts 203<span id="FnR.F835509_3"></span><a href="#F835509_3" class="FnR">2</a></sup> ), wenn die Kenngröße f<sub>3</sub> zur Ermittlung der Risikozahl mindestens 0,5 beträgt und das Sicherheitsniveau von der nach § 12 für die Baumusterprüfung zuständigen Stelle bescheinigt wurde,
 
 3. Doppelwandtanks nach Absatz 6.8.2.1.20 Buchstabe b Nummer 2 und 3 linke Spalte oder
 
@@ -1632,27 +1663,29 @@ Die angegebenen Mengen beziehen sich auf die Beförderungseinheit. Werden versch
 
 durchgeführt werden.
 
-(4) Für die Tanks nach Absatz 3 Nummer 1 bis 3 ist dies in der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR oder in einer besonderen Bescheinigung des Tankherstellers oder eines Sachverständigen oder Technischen Dienstes nach § 14 Absatz 4 zu bestätigen. Bescheinigungen nach der Ausnahme Nr. 47 (S) der GGAV sowie der Ausnahme 14 (S) der GGAV gelten weiter.
+(4) Für die Tanks nach Absatz 3 Nummer 1 bis 3 ist dies in der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR oder in einer besonderen Bescheinigung des Tankherstellers oder eines Sachverständigen oder Technischen Dienstes nach § 14 Absatz 4 zu bestätigen. Bescheinigungen nach der Ausnahme Nr. 47 (S) der GGAV sowie der Ausnahme 14 (S) der GGAV gelten weiter.
 
-(5) § 35 gilt nicht für Beförderungen von entzündbaren Gasgemischen der UN-Nummer 1965 (§ 35b Tabelle laufende Nummer 2), sofern die gesamte Beförderungsstrecke im Geltungsbereich dieser Verordnung nicht mehr als 300 Kilometer beträgt.
+(5) § 35 gilt nicht für Beförderungen von entzündbaren Gasgemischen der UN-Nummer 1965 (§ 35b Tabelle laufende Nummer 2), sofern die gesamte Beförderungsstrecke im Geltungsbereich dieser Verordnung nicht mehr als 300 Kilometer beträgt.
 
-(6) Die §§ 35 und 35a gelten nicht für Beförderungen von entzündbaren Gasgemischen der UN-Nummer 1965 (§ 35b Tabelle laufende Nummer 2) in Tanks nach Abschnitt 1.2.1 ADR bis 11 000 kg Nettomasse in der Beförderungseinheit, sofern die Fahrzeuge mit einem automatischen Blockierverhinderer (ABV) nach § 41 Absatz 18 oder § 41b der Straßenverkehrs-Zulassungs-Ordnung ausgerüstet sind und dies in der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR vermerkt ist.
+(6) Die §§ 35 und 35a gelten nicht für Beförderungen von entzündbaren Gasgemischen der UN-Nummer 1965 (§ 35b Tabelle laufende Nummer 2) in Tanks nach Abschnitt 1.2.1 ADR bis 11 000 kg Nettomasse in der Beförderungseinheit, sofern die Fahrzeuge mit einem automatischen Blockierverhinderer (ABV) nach § 41 Absatz 18 oder § 41b der Straßenverkehrs-Zulassungs-Ordnung ausgerüstet sind und dies in der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR vermerkt ist.
 
 (7) Die §§ 35 und 35a gelten nicht für Beförderungen von entzündbaren Gasgemischen der UN-Nummer 1965 (§ 35b Tabelle laufende Nummer 2) in Tanks nach Abschnitt 1.2.1 ADR von mehr als 11 000 kg bis 22 000 kg Nettomasse in der Beförderungseinheit, sofern die Fahrzeuge mit einem automatischen Blockierverhinderer (ABV) nach § 41 Absatz 18 oder § 41b der Straßenverkehrs-Zulassungs-Ordnung und mit einer Fahrdynamikregelung (Electronic Stability Control – ESC) ausgerüstet sind und dies in der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR vermerkt ist.
 
-(8) § 35 Absatz 2 gilt nicht für Beförderungen von entzündbaren Gasen der UN-Nummern 1038, 1961, 1966, 1972, 3138 und 3312 (§ 35b Tabelle laufende Nummer 2).
+(8) § 35 Absatz 2 gilt nicht für Beförderungen von entzündbaren Gasen der UN-Nummern 1038, 1961, 1966, 1972, 3138 und 3312 (§ 35b Tabelle laufende Nummer 2).
 
-(9) Die §§ 35 und 35a gelten nicht für Beförderungen zum Ort der Verwendung, sofern die gesamte Beförderungsstrecke im Geltungsbereich dieser Verordnung nicht mehr als 300 Kilometer beträgt, von explosiven Stoffen und Gegenständen mit Explosivstoff (§ 35b Tabelle laufende Nummer 1)
+(9) Die §§ 35 und 35a gelten nicht für Beförderungen zum Ort der Verwendung, sofern die gesamte Beförderungsstrecke im Geltungsbereich dieser Verordnung nicht mehr als 300 Kilometer beträgt, von explosiven Stoffen und Gegenständen mit Explosivstoff (§ 35b Tabelle laufende Nummer 1)
 
-1. der UN-Nummern 0065, 0082 und 0241 (Unterklasse 1.1) und der UN-Nummern 0331 und 0332 (Unterklasse 1.5), wenn für diese explosiven Stoffe und Gegenstände mit Explosivstoff der Konformitätsnachweis nach § 5 des Sprengstoffgesetzes erbracht wurde und diese explosiven Stoffe und Gegenstände mit Explosivstoff eine Schlagempfindlichkeit von mehr als 30 Joule sowie eine Reibempfindlichkeit von mehr als 280 Newton bei Durchführung der Prüfverfahren<span id="FnR.F827039_04"></span><a href="#F827039_04" class="FnR">3</a></sup> haben, und
+1. der UN-Nummern 0065, 0082 und 0241 (Unterklasse 1.1) und der UN-Nummern 0331 und 0332 (Unterklasse 1.5), wenn für diese explosiven Stoffe und Gegenstände mit Explosivstoff der Konformitätsnachweis nach § 5 des Sprengstoffgesetzes erbracht wurde und diese explosiven Stoffe und Gegenstände mit Explosivstoff eine Schlagempfindlichkeit von mehr als 30 Joule sowie eine Reibempfindlichkeit von mehr als 280 Newton bei Durchführung der Prüfverfahren<span id="FnR.F835509_4"></span><a href="#F835509_4" class="FnR">3</a></sup> haben, und
 
 2. der UN-Nummer 0081 (Unterklasse 1.1)
 
-a) bis 1 000 kg Nettoexplosivstoffmasse in der Beförderungseinheit, sofern die Fahrzeuge mit einem automatischen Blockierverhinderer (ABV) nach § 41 Absatz 18 oder § 41b der Straßenverkehrs-Zulassungs-Ordnung, oder
+a) bis 1 000 kg Nettoexplosivstoffmasse in der Beförderungseinheit, sofern die Fahrzeuge mit einem automatischen Blockierverhinderer (ABV) nach § 41 Absatz 18 oder § 41b der Straßenverkehrs-Zulassungs-Ordnung, oder
 
 b) bis 3 000 kg Nettoexplosivstoffmasse in der Beförderungseinheit, sofern die Fahrzeuge mit einem automatischen Blockierverhinderer (ABV) nach § 41 Absatz 18 oder § 41b der Straßenverkehrs-Zulassungs-Ordnung und mit einer Fahrdynamikregelung (Electronic Stability Control – ESC)
 
 ausgerüstet sind und dies in der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR vermerkt ist. Die Ausnahmen nach Satz 1 Nummer 1 und Nummer 2 Buchstabe a oder b können nebeneinander in Anspruch genommen werden. § 35b Satz 3 ist nicht anzuwenden.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 # § 36 – Prüffrist für Feuerlöschgeräte
 
@@ -2260,7 +2293,7 @@ c) Absatz 4 Satz 3 eine Fahrwegbestimmung nicht oder nicht richtig beachtet, nic
 
 # Anlage 2 – Einschränkungen aus Gründen der Sicherheit der Beförderung gefährlicher Güter zu den Teilen 1 bis 9 des ADR und zu den Teilen 1 bis 7 des RID für innerstaatliche Beförderungen sowie zu den Teilen 1 bis 9 des ADN für innerstaatliche und grenzüberschreitende Beförderungen
 
-(Fundstelle: BGBl. 2023 I Nr. 227, S. 42 – 46)
+(Fundstelle: BGBl. 2026 I Nr. 242, S. 42 – 46)
 
 1\.
 
@@ -2349,34 +2382,37 @@ Folgende Güter sind in folgenden Beförderungsmitteln zur Beförderung zugelass
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
 <colgroup>
-<col style="width: 3%" />
-<col style="width: 48%" />
+<col style="width: 52%" />
 <col style="width: 48%" />
 </colgroup>
 <thead data-valign="bottom">
-<tr class="header">
-<th colspan="2" style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Gefahrgüter der Klassen 1.4 und 2 bis 9</th>
+<tr class="header" data-valign="middle">
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Gefahrgüter der Klassen 1.4 und 2 bis 9</th>
 <th style="text-align: center; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Beförderung in Versandstücken<br />
 in gedeckten und bedeckten Straßenfahrzeugen</th>
 </tr>
 </thead>
 <tbody data-valign="top">
 <tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">a)</td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Gefahrgüter der Klasse 2 Gruppen A, O und F ohne Nebengefahr giftig,</td>
-<td rowspan="4" style="text-align: left;" data-valign="top" data-charoff="50">Beförderung in Tanks (Straßentankfahrzeugen, Straßenfahrzeugen mit Aufsetztanks und Straßenfahrzeugen mit Tankcontainern)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">b)</td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Gefahrgüter der Klasse 3, Verpackungsgruppe II und III ohne Nebengefahr giftig,</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;" data-valign="top" data-charoff="50">c)</td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Gefahrgüter der Klasse 8, Verpackungsgruppe II und III ohne Nebengefahr giftig und</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;" data-valign="top" data-charoff="50">d)</td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Gefahrgüter der Klasse 9, Verpackungsgruppe II und III</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
+<dt>a)</dt>
+<dd>
+Gefahrgüter der Klasse 2 Gruppen A, O und F ohne Nebengefahr giftig,
+</dd>
+<dt>b)</dt>
+<dd>
+Gefahrgüter der Klasse 3, Verpackungsgruppe II und III ohne Nebengefahr giftig,
+</dd>
+<dt>c)</dt>
+<dd>
+Gefahrgüter der Klasse 8, Verpackungsgruppe II und III ohne Nebengefahr giftig und
+</dd>
+<dt>d)</dt>
+<dd>
+Gefahrgüter der Klasse 9, Verpackungsgruppe II und III
+</dd>
+</dl></td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">Beförderung in Tanks (Straßentankfahrzeugen, Straßenfahrzeugen mit Aufsetztanks und Straßenfahrzeugen mit Tankcontainern)</td>
 </tr>
 </tbody>
 </table>
@@ -2472,19 +2508,19 @@ Alle Stoffe, für die in Kapitel 3.2 Tabelle C ADN mindestens ein Tankschiff des
 
 Wenn das Hochgeschwindigkeitsventil umgebaut wird auf 50 kPa (0,50 Bar), dürfen alle Stoffe, für die in Kapitel 3.2 Tabelle C ADN ein Einstelldruck des Hochgeschwindigkeitsventils von 50 kPa (0,50 Bar) gefordert wird, befördert werden.
 
-Stoffliste Nummer 1:
+Stoffliste Nummer 1:  
+  
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
 <colgroup>
 <col style="width: 9%" />
-<col style="width: 18%" />
-<col style="width: 15%" />
-<col style="width: 57%" />
+<col style="width: 19%" />
+<col style="width: 13%" />
+<col style="width: 59%" />
 </colgroup>
 <thead data-valign="bottom">
-<tr class="header">
-<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">UN-<br />
-Nummer</th>
+<tr class="header" data-valign="middle">
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">UN-Nummer</th>
 <th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Klasse und<br />
 Klassifizierungscode</th>
 <th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Verpackungs-<br />
@@ -2494,244 +2530,244 @@ gruppe</th>
 </thead>
 <tbody data-valign="top">
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1114</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">BENZEN</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1114</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">BENZEN</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1134</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">III</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">CHLORBENZEN (Phenylchlorid)</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1134</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">III</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">CHLORBENZEN (Phenylchlorid)</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1143</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6.1, TF1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">I</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">CROTONALDEHYD, STABILISIERT</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1143</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6.1, TF1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">I</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">CROTONALDEHYD, STABILISIERT</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1203</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">BENZIN MIT MEHR ALS 10 % BENZEN</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1203</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">BENZIN MIT MEHR ALS 10 % BENZEN</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1218</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">I</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">ISOPREN, STABILISIERT</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1218</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">I</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">ISOPREN, STABILISIERT</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1247</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">METHYLMETHACRYLAT, MONOMER, STABILISIERT</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1247</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">METHYLMETHACRYLAT, MONOMER, STABILISIERT</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1267</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">I</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">ROHERDÖL, MIT MEHR ALS 10% BENZEN</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1267</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">I</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">ROHERDÖL, MIT MEHR ALS 10% BENZEN</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1267</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">ROHERDÖL, MIT MEHR ALS 10% BENZEN</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1267</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">ROHERDÖL, MIT MEHR ALS 10% BENZEN</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1268</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">I</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">ERDÖLDESTILLATE, N.A.G. MIT MEHR ALS 10 % BENZEN oder ERDÖLPRODUKTE, N.A.G. MIT MEHR ALS 10 % BENZEN</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1268</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">I</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">ERDÖLDESTILLATE, N.A.G. MIT MEHR ALS 10 % BENZEN oder ERDÖLPRODUKTE, N.A.G. MIT MEHR ALS 10 % BENZEN</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1268</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">ERDÖLDESTILLATE, N.A.G. MIT MEHR ALS 10 % BENZEN oder ERDÖLPRODUKTE, N.A.G. MIT MEHR ALS 10 % BENZEN</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1268</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">ERDÖLDESTILLATE, N.A.G. MIT MEHR ALS 10 % BENZEN oder ERDÖLPRODUKTE, N.A.G. MIT MEHR ALS 10 % BENZEN</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1277</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3, FC</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">PROPYLAMIN (1-Aminopropan)</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1277</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3, FC</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">PROPYLAMIN (1-Aminopropan)</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1278</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1-CHLORPROPAN (Propylchlorid)</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1278</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">1-CHLORPROPAN (Propylchlorid)</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1296</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3, FC</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">TRIETHYLAMIN</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1296</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3, FC</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">TRIETHYLAMIN</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1578</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6.1, T2</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">CHLORNITROBENZENE, FEST, GESCHMOLZEN<br />
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1578</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6.1, T2</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">CHLORNITROBENZENE, FEST, GESCHMOLZEN<br />
 (p-CHLORNITROBENZEN)</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1591</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6.1, T1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">III</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">o-DICHLORBENZEN</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1591</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6.1, T1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">III</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">o-DICHLORBENZEN</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1593</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6.1, T1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">III</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">DICHLORMETHAN (Methylenchlorid)</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1593</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6.1, T1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">III</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">DICHLORMETHAN (Methylenchlorid)</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1605</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6.1, T1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">I</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1,2-DIBROMETHAN</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1605</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6.1, T1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">I</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">1,2-DIBROMETHAN</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1710</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6.1, T1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">III</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">TRICHLORETHYLEN</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1710</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6.1, T1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">III</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">TRICHLORETHYLEN</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1750</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6.1, TC1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">CHLORESSIGSÄURE, LÖSUNG</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1750</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6.1, TC1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">CHLORESSIGSÄURE, LÖSUNG</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1831</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8, CT1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">I</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">SCHWEFELSÄURE, RAUCHEND</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1831</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">8, CT1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">I</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">SCHWEFELSÄURE, RAUCHEND</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1846</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6.1, T1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">TETRACHLORKOHLENSTOFF</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1846</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6.1, T1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">TETRACHLORKOHLENSTOFF</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1863</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">I</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">DÜSENKRAFTSTOFF MIT MEHR ALS 10% BENZEN</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1863</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">I</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">DÜSENKRAFTSTOFF MIT MEHR ALS 10% BENZEN</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1863</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">DÜSENKRAFTSTOFF MIT MEHR ALS 10% BENZEN</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1863</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">DÜSENKRAFTSTOFF MIT MEHR ALS 10% BENZEN</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1888</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6.1, T1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">III</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">CHLOROFORM</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1888</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6.1, T1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">III</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">CHLOROFORM</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1897</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6.1, T1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">III</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">TETRACHLORETHYLEN</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1897</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6.1, T1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">III</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">TETRACHLORETHYLEN</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1993</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">I</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">ENTZÜNDBARER FLÜSSIGER STOFF, N.A.G.<br />
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1993</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">I</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">ENTZÜNDBARER FLÜSSIGER STOFF, N.A.G.<br />
 MIT MEHR ALS 10 % BENZEN</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1993</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">ENTZÜNDBARER FLÜSSIGER STOFF, N.A.G.<br />
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1993</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">ENTZÜNDBARER FLÜSSIGER STOFF, N.A.G.<br />
 MIT MEHR ALS 10 % BENZEN</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2205</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6.1, T1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">III</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">ADIPONITRIL</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2205</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6.1, T1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">III</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">ADIPONITRIL</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2238</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">III</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">CHLORTOLUENE (m-, o- oder p-CHLORTOLUEN)</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2238</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">III</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">CHLORTOLUENE (m-, o- oder p-CHLORTOLUEN)</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2263</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">DIMETHYLCYCLOHEXANE (cis-1,4-DIMETHYLCYCLOHEXAN)</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2263</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">DIMETHYLCYCLOHEXANE (cis-1,4-DIMETHYLCYCLOHEXAN)</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2263</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">DIMETHYLCYCLOHEXANE (trans-1,4-DIMETHYLCYCLOHEXAN)</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2263</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">DIMETHYLCYCLOHEXANE (trans-1,4-DIMETHYLCYCLOHEXAN)</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2266</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3, FC</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">DIMETHYL-N-PROPYLAMIN</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2266</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3, FC</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">DIMETHYL-N-PROPYLAMIN</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2312</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6.1, T1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">PHENOL, GESCHMOLZEN</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2312</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6.1, T1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">PHENOL, GESCHMOLZEN</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2333</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3, FT1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">ALLYLACETAT</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2333</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3, FT1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">ALLYLACETAT</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2733</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3, FC</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">AMINE, ENTZÜNDBAR, ÄTZEND, N.A.G.<br />
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2733</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3, FC</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">AMINE, ENTZÜNDBAR, ÄTZEND, N.A.G.<br />
 (2-AMINOBUTAN)</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2810</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6.1, T1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">III</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">GIFTIGER, ORGANISCHER, FLÜSSIGER STOFF, N.A.G.<br />
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2810</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6.1, T1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">III</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">GIFTIGER, ORGANISCHER, FLÜSSIGER STOFF, N.A.G.<br />
 (1,1,2-Trichlorethan)</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2874</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6.1, T1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">III</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">FURFURYLALKOHOL</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2874</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6.1, T1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">III</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">FURFURYLALKOHOL</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3295</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">I</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">KOHLENWASSERSTOFFE, FLÜSSIG, N.A.G.<br />
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3295</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">I</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">KOHLENWASSERSTOFFE, FLÜSSIG, N.A.G.<br />
 MIT MEHR ALS 10 % BENZEN</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3295</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">KOHLENWASSERSTOFFE, FLÜSSIG, N.A.G.<br />
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3295</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">KOHLENWASSERSTOFFE, FLÜSSIG, N.A.G.<br />
 MIT MEHR ALS 10 % BENZEN</td>
 </tr>
 <tr class="even">
@@ -2743,23 +2779,25 @@ MIT MEHR ALS 10 % BENZEN</td>
 </tbody>
 </table>
 
-Stofflisten Nummer 2 bis 4
+Stofflisten Nummer 2 bis 4  
 
 (weggefallen)
 
-Stoffliste Nummer 5:
+Stoffliste Nummer 5:  
+  
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; ">
 <colgroup>
 <col style="width: 9%" />
-<col style="width: 18%" />
-<col style="width: 15%" />
-<col style="width: 57%" />
+<col style="width: 19%" />
+<col style="width: 13%" />
+<col style="width: 59%" />
 </colgroup>
 <thead data-valign="bottom">
-<tr class="header">
+<tr class="header" data-valign="middle">
 <th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">UN-Nummer</th>
-<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Klasse und Klassifizierungscode</th>
+<th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Klasse und<br />
+Klassifizierungscode</th>
 <th style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Verpackungs-<br />
 gruppe</th>
 <th style="text-align: center; border-bottom: 0.5pt solid; font-weight: normal;" data-valign="middle" data-charoff="50">Benennung und Beschreibung</th>
@@ -2767,94 +2805,94 @@ gruppe</th>
 </thead>
 <tbody data-valign="top">
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1134</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">III</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">CHLORBENZEN (Phenylchlorid)</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1134</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">III</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">CHLORBENZEN (Phenylchlorid)</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1218</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">I</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">ISOPREN, STABILISIERT</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1218</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">I</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">ISOPREN, STABILISIERT</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1247</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">METHYLMETHACRYLAT, MONOMER, STABILISIERT</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1247</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">METHYLMETHACRYLAT, MONOMER, STABILISIERT</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1277</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3, FC</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">PROPYLAMIN (1-Aminopropan)</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1277</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3, FC</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">PROPYLAMIN (1-Aminopropan)</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1278</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1-CHLORPROPAN (Propylchlorid)</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1278</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">1-CHLORPROPAN (Propylchlorid)</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1296</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3, FC</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">TRIETHYLAMIN</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1296</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3, FC</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">TRIETHYLAMIN</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1547</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6.1, T1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">ANILIN</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1547</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6.1, T1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">ANILIN</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1750</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">6.1, TC1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">CHLORESSIGSÄURE, LÖSUNG</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1750</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">6.1, TC1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">CHLORESSIGSÄURE, LÖSUNG</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1831</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">8, CT1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">I</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">SCHWEFELSÄURE, RAUCHEND</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1831</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">8, CT1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">I</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">SCHWEFELSÄURE, RAUCHEND</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2238</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">III</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">CHLORTOLUENE (m-, o- oder p-CHLORTOLUEN)</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2238</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">III</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">CHLORTOLUENE (m-, o- oder p-CHLORTOLUEN)</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2263</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">DIMETHYLCYCLOHEXANE (cis-1,4-DIMETHYLCYCLOHEXAN)</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2263</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">DIMETHYLCYCLOHEXANE (cis-1,4-DIMETHYLCYCLOHEXAN)</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2263</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">DIMETHYLCYCLOHEXANE (trans-1,4-DIMETHYLCYCLOHEXAN)</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2263</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3, F1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">DIMETHYLCYCLOHEXANE (trans-1,4-DIMETHYLCYCLOHEXAN)</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2266</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3, FC</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">DIMETHYL-N-PROPYLAMIN</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2266</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3, FC</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">DIMETHYL-N-PROPYLAMIN</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2333</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3, FT1</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">ALLYLACETAT</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2333</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3, FT1</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">ALLYLACETAT</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">2733</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">3, FC</td>
-<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
-<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">AMINE, ENTZÜNDBAR, ÄTZEND, N.A.G.<br />
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">2733</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">3, FC</td>
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">II</td>
+<td style="text-align: left;" data-valign="top" data-charoff="50">AMINE, ENTZÜNDBAR, ÄTZEND, N.A.G.<br />
 (2-AMINOBUTAN)</td>
 </tr>
 <tr class="even">
@@ -2869,7 +2907,7 @@ gruppe</th>
 
 # Anlage 3 – (zu § 36b)Festlegung der Anforderungen für besonders ausgerüstete Fahrzeuge/Wagen und Container/Großcontainer nach Abschnitt 7.3.3 Sondervorschrift VC 3 zur Beförderung erwärmter flüssiger und fester Stoffe der UN-Nummern 3257 und 3258 ADR/RID
 
-(Fundstelle: BGBl. 2023 I Nr. 227, S. 47 – 53)
+(Fundstelle: BGBl. 2026 I Nr. 242, S. 47 – 49)
 
 1\.
 
@@ -3003,8 +3041,8 @@ Anhang
 
 Bild 1
 
-![In Bild 1 mit Vorder- und Seitenansicht ist ein Behälter zur Aufnahme heißer Brammen zu sehen. Dieser besteht unten aus einem eingefassten Sandbett mit Querverstrebungen zur Aufnahme der Brammen, welche mit einer hydraulisch bewegbaren Schutzhaube für den Transport abgedeckt werden.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j02270_0010.jpg)
+![In Bild 1 mit Vorder- und Seitenansicht ist ein Behälter zur Aufnahme heißer Brammen zu sehen. Dieser besteht unten aus einem eingefassten Sandbett mit Querverstrebungen zur Aufnahme der Brammen, welche mit einer hydraulisch bewegbaren Schutzhaube für den Transport abgedeckt werden.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2026/j02420_0010.jpg)
 
 Bild 2
 
-![Im Bild 2 mit Vorder-, Seitenan-, und Draufsicht ist eine nach oben hin offene Coilwanne zur Aufnahme von 2 Coils dargestellt.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2023/j02270_0020.jpg)
+![Im Bild 2 mit Vorder-, Seitenan-, und Draufsicht ist eine nach oben hin offene Coilwanne zur Aufnahme von 2 Coils dargestellt.](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2026/j02420_0020.jpg)
