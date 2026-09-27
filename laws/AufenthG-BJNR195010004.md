@@ -2933,7 +2933,7 @@ c) die Buchung von Transportmitteln für die Abschiebung eingeleitet wurde,
 
 d) vergleichbar konkrete Vorbereitungsmaßnahmen zur Abschiebung des Ausländers eingeleitet wurden, es sei denn, es ist von vornherein absehbar, dass diese nicht zum Erfolg führen, oder
 
-e) ein Verfahren zur Bestimmung des zuständigen Mitgliedstaates gemäß einer unentgeltlichen Rechtsauskunft gemäß Artikel 38 Absatz 1 der Verordnung (EU) 2024/1351 eingeleitet wurde.
+e) ein Verfahren zur Bestimmung des zuständigen Mitgliedstaates gemäß Artikel 38 Absatz 1 der Verordnung (EU) 2024/1351 eingeleitet wurde.
 
 (3) Der Antrag auf Erteilung der Ausbildungsduldung kann frühestens sieben Monate vor Beginn der Berufsausbildung gestellt werden. Die Ausbildungsduldung nach Absatz 1 Satz 1 Nummer 2 wird frühestens sechs Monate vor Beginn der Berufsausbildung erteilt. Sie wird erteilt, wenn zum Zeitpunkt der Antragstellung auf Erteilung der Ausbildungsduldung die Eintragung des Ausbildungsvertrages in das Verzeichnis der Berufsausbildungsverhältnisse bei der zuständigen Stelle bereits beantragt wurde oder die Eintragung erfolgt ist oder, soweit eine solche Eintragung nicht erforderlich ist, der Ausbildungsvertrag mit einer Bildungseinrichtung geschlossen wurde oder die Zustimmung einer staatlichen oder staatlich anerkannten Bildungseinrichtung zu dem Ausbildungsvertrag vorliegt. Die Ausbildungsduldung wird für die im Ausbildungsvertrag bestimmte Dauer der Berufsausbildung erteilt.
 

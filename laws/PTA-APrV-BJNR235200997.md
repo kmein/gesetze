@@ -421,7 +421,7 @@ Der Bundesrat hat zugestimmt.
 
 # Anlage 1 – (zu § 1 Absatz 2 Satz 1 und 3 und Absatz 4 Satz 1)
 
-(Fundstelle: BGBl. I 2020, 86 – 90)
+(Fundstelle: BGBl. I 2020, 86 – 90; bzgl. der einzelnen Änderungen vgl. Fußnoten)
 
 <table width="100%" style="border: none;">
 <colgroup>
@@ -559,7 +559,21 @@ b) die erforderlichen theoretischen Grundlagen der Galenik, einschließlich der 
 
 c) den Unterschied zwischen Rezeptur- und Defekturarzneimitteln zu verstehen und die unterschiedlichen rechtlichen Anforderungen anzuwenden,
 
-d) Arzneimittel in den in § 4 Absatz 7 der Apothekenbetriebsordnung genannten Darreichungsformen gemäß ärztlicher Anweisung nach den anerkannten pharmazeutischen Regeln herzustellen, einschließlich der Kennzeichnung,
+d) Arzneimittel in den folgenden Darreichungsformen gemäß ärztlicher Anweisung nach den anerkannten pharmazeutischen Regeln herzustellen, einschließlich der Kennzeichnung:
+
+aa)  
+Lösungen, Emulsionen, Suspensionen,
+
+bb)  
+Salben, Cremes, Gele, Pasten,
+
+cc) Kapseln, Pulver,
+
+dd)  
+Drogenmischungen sowie
+
+ee)  
+Zäpfchen und Ovula,
 
 e) die für die Herstellungsvorgänge benötigten Geräte zu bedienen,
 

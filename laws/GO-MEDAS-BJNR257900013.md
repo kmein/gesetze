@@ -11,15 +11,13 @@
 
 2. ständigen beratenden Mitgliedern ohne Stimmrecht.
 
-Ferner nehmen Personen an den Sitzungen des Ausschusses teil, die nach § 108 Absatz 5 Satz 5 des Seearbeitsgesetzes vom Bundesministerium für Verkehr, Bau und Stadtentwicklung (Bundesministerium) im Einzelfall nach fachlichem Bedarf berufen worden sind.
+Ferner nehmen Personen an den Sitzungen des Ausschusses teil, die nach § 108 Absatz 5 Satz 5 des Seearbeitsgesetzes vom Bundesministerium für Verkehr (Bundesministerium) im Einzelfall nach fachlichem Bedarf berufen worden sind.
 
-(2) Das Bundesministerium beruft die Mitglieder des Ausschusses und ihre Stellvertreter durch eine Urkunde, die der betroffenen Person übersandt oder ausgehändigt wird. Der Empfang der Urkunde ist zu bestätigen.
+(2) An den Sitzungen des Ausschusses nehmen jeweils nur die Mitglieder teil. Ein Mitglied, das an der Teilnahme an einer Sitzung des Ausschusses verhindert ist, wird durch seinen jeweiligen Stellvertreter vertreten; in diesem Fall nimmt der Stellvertreter die Rechte und Pflichten des vertretenen Mitgliedes wahr.
 
-(3) An den Sitzungen des Ausschusses nehmen jeweils nur die Mitglieder teil. Ein Mitglied, das an der Teilnahme an einer Sitzung des Ausschusses verhindert ist, wird durch seinen jeweiligen Stellvertreter vertreten; in diesem Fall nimmt der Stellvertreter die Rechte und Pflichten des vertretenen Mitgliedes wahr.
+(3) Scheidet ein Mitglied oder dessen Vertreter vor Ablauf der Berufungszeit aus dem Ausschuss aus, hat die entsendungsberechtigte Behörde oder sonstige Einrichtung unverzüglich eine neue Person für den Rest der ursprünglichen Berufungszeit dem Bundesministerium zu benennen.
 
-(4) Scheidet ein Mitglied oder dessen Vertreter vor Ablauf der Berufungszeit aus dem Ausschuss aus, hat die entsendungsberechtigte Behörde oder sonstige Einrichtung unverzüglich eine neue Person für den Rest der ursprünglichen Berufungszeit dem Bundesministerium zu benennen.
-
-(5) Die Mitglieder des Ausschusses und ihre Vertreter sind in ihrer fachlichen Meinung unabhängig und weisungsfrei.
+(4) Die Mitglieder des Ausschusses und ihre Vertreter sind in ihrer fachlichen Meinung unabhängig und weisungsfrei.
 
 # § 2 – Vorsitz
 
@@ -39,25 +37,45 @@ Der Vorsitzende kann zeitweise die Leitung einer Sitzung des Ausschusses an den 
 
 # § 5 – Sitzungen
 
+(1) Die Sitzungen des Ausschusses finden in Präsenz aller Mitglieder und Stellvertreter an einem gemeinsamen Sitzungsort statt. Die Mitglieder können beschließen, dass künftige Versammlungen auch ohne gemeinsame Anwesenheit am Sitzungsort im Wege der elektronischen Kommunikation (Online-Sitzung) oder gleichzeitig in Präsenz und im Wege der elektronischen Kommunikation (hybride Sitzung) stattfinden können.
+
+(2) Die Sitzungen des Ausschusses und seiner Gremien sind nicht öffentlich.
+
+(3) Mitglieder, die an einer Sitzungsteilnahme verhindert sind, teilen dies ihrem Stellvertreter und dem Geschäftsführer unverzüglich nach Erkennen des Verhinderungsgrundes mit.
+
+# § 6 – Ladung zur Sitzung
+
 (1) Der Vorsitzende lädt den Ausschuss nach Bedarf, mindestens jedoch einmal im Jahr, oder auf Verlangen der Hälfte der stimmberechtigten Mitglieder des Ausschusses zu den Sitzungen.
 
-(2) Die Ladungsfrist beträgt drei Wochen. In dringenden Fällen kann der Vorsitzende den Ausschuss auch mit einer Frist von einer Woche laden; die Dringlichkeit ist in der Ladung zu begründen.
+(2) In der Ladung ist anzugeben, ob eine Sitzung in Präsenz, eine Online-Sitzung oder hybride Sitzung (§ 5 Absatz 1) stattfindet.
 
-(3) Der Ladung zur Sitzung ist eine Tagesordnung beizufügen, die der Vorsitzende unter Berücksichtigung von Vorschlägen der Mitglieder festlegt. Die Beratungsunterlagen und die Ladung können auf elektronischem Weg an die Mitglieder versendet werden, soweit ein Mitglied sein Einverständnis dazu erteilt.
+(3) Die Ladungsfrist beträgt drei Wochen. In dringenden Fällen kann der Vorsitzende den Ausschuss mit einer Frist von einer Woche laden; die Dringlichkeit ist in der Ladung zu begründen.
 
-(4) Mitglieder, die an einer Sitzungsteilnahme verhindert sind, teilen dies ihrem Stellvertreter und dem Geschäftsführer unverzüglich nach Erkennen des Verhinderungsgrundes vor einer Sitzung mit.
+(4) Der Ladung zur Sitzung ist eine Tagesordnung nach Maßgabe des § 7 beizufügen.
 
-(5) Änderungen oder Ergänzungen der Tagesordnung werden berücksichtigt, wenn sie im Einvernehmen mit dem Vorsitzenden spätestens zwei Wochen vor der Sitzung den Mitgliedern des Ausschusses mit Begründung zugegangen sind. Die Tagesordnung kann auch während der Sitzung geändert oder ergänzt werden, wenn der Ausschuss dies mit der Mehrheit der anwesenden stimmberechtigten Mitglieder beschließt.
+# § 7 – Tagesordnung
 
-(6) Die Sitzungen des Ausschusses und seiner Gremien sind nicht öffentlich.
+(1) Die Tagesordnung legt der Vorsitzende unter Berücksichtigung von Vorschlägen der Mitglieder fest.
 
-(7) Zur Erfüllung seiner Aufgaben kann der Ausschuss Sachverständige anhören, Gutachten beiziehen oder Untersuchungen durch Dritte vornehmen lassen. Er kann einzelne oder mehrere Mitglieder mit der Erledigung bestimmter Aufgaben betrauen.
+(2) Änderungen oder Ergänzungen der Tagesordnung werden berücksichtigt, wenn sie im Einvernehmen mit dem Vorsitzenden erfolgen und den Mitgliedern des Ausschusses spätestens zwei Wochen vor der Sitzung mit Begründung zugegangen sind.
 
-(8) Soweit durch Maßnahmen nach Absatz 7 Kosten entstehen, ist die vorherige Zustimmung des Vorsitzes nach Anhörung des Geschäftsführers erforderlich.
+(3) Die Tagesordnung kann während der Sitzung geändert oder ergänzt werden, wenn der Ausschuss dies mit der Mehrheit der anwesenden stimmberechtigten Mitglieder beschließt.
 
-(9) Fahrtkosten und Verdienstausfall für die Mitglieder des Ausschusses werden nicht erstattet.
+# § 8 – Elektronische Versendung
 
-# § 6 – Beschlüsse
+Ladung, Tagungsordnung und etwaige Beratungsunterlagen können auf elektronischem Weg an die Mitglieder versendet werden.
+
+# § 9 – Aufgabenübertragung; Hinzuziehung Dritter; Kosten
+
+(1) Der Ausschuss kann einzelne oder mehrere Mitglieder mit der Erledigung bestimmter Aufgaben betrauen.
+
+(2) Zur Erfüllung seiner Aufgaben kann der Ausschuss Sachverständige anhören, Gutachten beiziehen oder Untersuchungen durch Dritte vornehmen lassen.
+
+(3) Soweit durch die Maßnahmen nach Absatz 1 oder Absatz 2 Kosten entstehen, ist die vorherige Zustimmung des Vorsitzenden nach Anhörung des Geschäftsführers erforderlich.
+
+(4) Fahrtkosten und Verdienstausfall für die Mitglieder des Ausschusses werden nicht erstattet.
+
+# § 10 – Beschlüsse
 
 (1) Der Ausschuss ist beschlussfähig, wenn mehr als die Hälfte der stimmberechtigten Mitglieder anwesend sind.
 
@@ -65,7 +83,7 @@ Der Vorsitzende kann zeitweise die Leitung einer Sitzung des Ausschusses an den 
 
 (3) Außerhalb von Sitzungen können Beschlüsse im schriftlichen Verfahren gefasst werden, wenn alle stimmberechtigten Mitglieder auf eine schriftliche Anfrage des Vorsitzenden binnen einer festgesetzten Frist, die drei Tage nicht unterschreiten darf, zugestimmt haben. In der Anfrage sind der beabsichtigte Beschluss zu beschreiben und die Gründe für das schriftliche Verfahren darzulegen. Ist das schriftliche Verfahren nach Satz 1 zulässig, bedarf ein Beschluss der Mehrheit von zwei Dritteln aller stimmberechtigten Mitglieder. Ist die Durchführung eines schriftlichen Verfahrens beschlossen, erhalten die Mitglieder die notwendigen Beratungsunterlagen zugesandt. Der Vorsitzende legt eine Frist von mindestens einer Woche für die Stimmabgabe fest. Die Stimmabgabe in den Fällen der Sätze 1 und 3 erfolgt mittels Brief an den Geschäftsführer. Falls ein elektronischer Zugang eröffnet ist, kann die Stimmabgabe auch elektronisch erfolgen.
 
-# § 7 – Ausschussangelegenheiten, Ergebnisniederschriften
+# § 11 – Ausschussangelegenheiten, Ergebnisniederschriften
 
 (1) Über jede Sitzung und jede schriftliche Beschlussfassung des Ausschusses ist von dem Geschäftsführer eine Ergebnisniederschrift anzufertigen, welche die Beratungs- und Abstimmungsergebnisse sowie den Wortlaut der Beschlüsse und die Teilnehmerliste enthält. Das Führen des Protokolls während der Sitzung obliegt dem Geschäftsführer. Eine Ausfertigung der Ergebnisniederschrift für die Akten ist vom Vorsitzenden und vom Protokollführer zu unterzeichnen. Die Ergebnisniederschriften werden dem Vorsitzenden sowie den Mitgliedern übersandt und nicht veröffentlicht. Die nach § 5 Absatz 7 hinzugezogenen Sachverständigen können die Ergebnisniederschrift oder Auszüge daraus erhalten, soweit deren Fachfragen betroffen sind.
 
@@ -75,7 +93,7 @@ Der Vorsitzende kann zeitweise die Leitung einer Sitzung des Ausschusses an den 
 
 (4) Das Bundesministerium hat den vom Ausschuss festgestellten Stand der medizinischen Erkenntnisse unverzüglich im Verkehrsblatt oder im Bundesanzeiger bekannt zu geben. Die Berufsgenossenschaft kann auf ihrer Internetseite oder mit geeigneten Mitteln die Öffentlichkeit über den Stand der medizinischen Erkenntnisse informieren.
 
-# § 8 – Unterausschüsse
+# § 12 – Unterausschüsse
 
 (1) Der Ausschuss kann mit zwei Dritteln seiner anwesenden stimmberechtigten Mitglieder Unterausschüsse einrichten und deren Aufgaben bestimmen.
 

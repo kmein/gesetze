@@ -67,19 +67,60 @@ b) der Berufsgenossenschaft, der Bundespolizei, der Zollverwaltung und den Wasse
 
 # § 4 – Kapitän
 
-Unabhängig von der Bruttoraumzahl des Schiffes muss der Kapitän Unionsbürger sein.
+(1) Unabhängig von der Bruttoraumzahl des Schiffes muss der Kapitän
+
+1. Unionsbürger sein oder
+
+2. Drittstaatsangehöriger sein mit einem Befähigungszeugnis zum Kapitän, das vom Bundesamt für Seeschifffahrt und Hydrographie nach § 29 oder § 33 der Seeleute-Befähigungsverordnung erteilt oder nach § 20 der Seeleute-Befähigungsverordnung anerkannt wurde.
+
+(2) Der Reeder darf ein Schiff mit einem Kapitän besetzen, der die Voraussetzungen des Absatzes 1 nicht erfüllt, wenn
+
+1. auf dem inländischen seemännischen Arbeitsmarkt kein Kapitän nach Maßgabe des Absatzes 1 verfügbar ist und
+
+2. er gegenüber der Berufsgenossenschaft versichert, dass er kein Besatzungsmitglied, das die Voraussetzungen des Absatzes 1 erfüllt, zum Kapitän befördern kann und
+
+3. er innerhalb von sechs Monaten nach Erteilung der Genehmigung nach Absatz 4 für jeden Kapitän, der die Voraussetzungen des Absatzes 1 nicht erfüllt, zusätzliche Stellen folgender Art bereitstellt:
+
+a) zwei Ausbildungsplätze aus den nachfolgenden Ausbildungszweigen:
+
+aa)  
+Schiffsmechanikerinnen und Schiffsmechanikern,
+
+bb)  
+nautische Offiziersassistentinnen und Offiziersassistenten,
+
+cc) technische Offiziersassistentinnen und Offiziersassistenten,
+
+dd)  
+elektrotechnische Offiziersassistentinnen und Offiziersassistenten oder
+
+b) zwei Stellen für Schiffsoffiziere, deren erfolgreich absolvierte Berufseingangsprüfung nach § 10 Absatz 1 der Seeleute-Befähigungsverordnung höchstens fünf Jahre zurückliegt (Junioroffiziere), oder
+
+c) einen Ausbildungsplatz nach Buchstabe a und eine Stelle nach Buchstabe b.
+
+(3) Absatz 2 gilt für Reeder mit Schiffen ausschließlich mit einer Bruttoraumzahl von unter 500 mit der Maßgabe, dass nur ein Ausbildungsplatz nach Nummer 3 Buchstabe a oder nur eine Stelle für einen Junioroffizier nach Nummer 3 Buchstabe b bereitgestellt werden muss.
+
+(4) Die Besetzung nach Absatz 2 oder Absatz 3 bedarf der Genehmigung der Berufsgenossenschaft.
+
+(5) Bei Vorliegen der Voraussetzungen des Absatzes 2 oder Absatzes 3 erteilt die Berufsgenossenschaft dem Reeder auf dessen Antrag für einen Zeitraum von höchstens sechs Monaten die Genehmigung, ein oder mehrere Schiffe mit einem oder mehreren Kapitänen, die nicht die Voraussetzungen des Absatzes 1 erfüllen, besetzen zu dürfen.
+
+(6) Auf Antrag des Reeders verlängert die Berufsgenossenschaft die Genehmigung nach Absatz 5 für einen Zeitraum von höchstens 54 weiteren Monaten, wenn
+
+1. die Voraussetzungen des Absatzes 2 oder Absatzes 3 vorliegen und
+
+2. die nach Absatz 2 oder Absatz 3 bereitgestellten Ausbildungsplätze beziehungsweise Stellen für Junioroffiziere dauerhaft besetzt sind.
+
+(7) Die Berufsgenossenschaft kann die Genehmigung widerrufen, wenn nicht mehr alle Voraussetzungen des Absatzes 2 oder Absatzes 3 vorliegen. Im Übrigen bleiben die verwaltungsverfahrensrechtlichen Vorschriften über Rücknahme und Widerruf von Verwaltungsakten unberührt. Wird ein Ausbildungsverhältnis nach Absatz 2 Nummer 3 Buchstabe a vorzeitig beendet oder eine Stelle für Jungoffiziere nach Absatz 2 Nummer 3 Buchstabe b nicht mehr besetzt, hat der Reeder unverzüglich die Berufsgenossenschaft zu informieren.
 
 # § 5 – Schiffsoffiziere, Schiffsmechaniker, wachbefähigte Besatzungsmitglieder
 
-(1) Auf Schiffen mit einer Bruttoraumzahl von über 500 muss von den Offizieren des nautischen oder technischen Schiffsdienstes mindestens einer Unionsbürger sein. Auf Schiffen mit einer Bruttoraumzahl von über 8 000 muss ein weiterer Schiffsoffizier nach Satz 1 Unionsbürger sein.
+(1) Auf Schiffen mit einer Bruttoraumzahl von über 500 muss mindestens einer der Schiffsoffiziere die Voraussetzungen des § 4 Absatz 1 erfüllen. Auf Schiffen mit einer Bruttoraumzahl von über 8 000 müssen mindestens zwei Schiffsoffiziere die Voraussetzungen des § 4 Absatz 1 erfüllen. In den Fällen des § 4 Absatz 1 Nummer 2 tritt an Stelle des Befähigungszeugnisses zum Kapitän das Befähigungszeugnis zum Offizier.
 
-(2) Auf Schiffen mit einer Bruttoraumzahl von über
+(2) § 4 Absatz 2 Nummer 1 und 3 sowie Absatz 4 bis 7 gilt entsprechend für die Besetzung mit Schiffsoffizieren, die entgegen Absatz 1 nicht die Voraussetzungen des § 4 Absatz 1 erfüllen.
 
-1 600 und einer Antriebsleistung ab 750 Kilowatt muss ein Schiffsmechaniker nach der See-Berufsausbildungsverordnung in dieser Funktion tätig sein. Schiffsmechanikern nach Satz 1 gleichgestellt sind Auszubildende nach der See-Berufsausbildungsverordnung im zweiten und dritten Ausbildungsjahr.
+(3) Auf Schiffen mit einer Bruttoraumzahl von über 1 600 und einer Antriebsleistung ab 750 Kilowatt muss ein Schiffsmechaniker nach der See-Berufsausbildungsverordnung in dieser Funktion tätig sein. Schiffsmechanikern nach Satz 1 gleichgestellt sind Auszubildene nach der See-Berufsausbildungsverordnung im zweiten und dritten Ausbildungsjahr.
 
-(3) Auf Schiffen mit einer Bruttoraumzahl von über
-
-1 600 muss von den wachbefähigten Besatzungsmitgliedern mindestens einer Unionsbürger sein. Auf Schiffen mit einer Bruttoraumzahl von bis zu 3 000 kann der nach Absatz 2 vorgeschriebene Schiffsmechaniker durch ein weiteres wachbefähigtes Besatzungsmitglied nach Satz 1 ersetzt werden.
+(4) Auf Schiffen mit einer Bruttoraumzahl von über 1 600 muss von den wachbefähigten Besatzungsmitgliedern mindestens einer Unionsbürger sein. Auf Schiffen mit einer Bruttoraumzahl von bis zu 3 000 kann der nach Absatz 3 vorgeschriebene Schiffsmechaniker durch ein weiteres wachbefähigtes Besatzungsmitglied nach Satz 1 ersetzt werden.
 
 # § 6 – Schiffsarzt, Gesundheits- und Krankenpflegepersonal
 
@@ -167,18 +208,21 @@ Ordnungswidrig im Sinne des § 15 Absatz 1 Nummer 2 des Seeaufgabengesetzes hand
 
 (2) Bis zum Ablauf des 30. Juni 2027 ist § 5 in folgender Fassung anzuwenden:
 
-<table width="100%" style="border: none;">
-<tbody data-valign="top">
-<tr class="odd">
-<td style="text-align: center;" data-valign="top" data-charoff="50">§ 5<br />
-Schiffsoffiziere</td>
-</tr>
-</tbody>
-</table>
+§ 5
 
-Auf Schiffen mit einer Bruttoraumzahl von über 8 000 muss von den Offizieren des nautischen oder technischen Bereichs mindestens einer Unionsbürger sein.
+Schiffsoffiziere
+
+  
+(1) Auf Schiffen mit einer Bruttoraumzahl von über 8 000 muss von den Offizieren des nautischen oder technischen Bereichs mindestens einer die Voraussetzungen des § 4 Absatz 1 erfüllen. In den Fällen des § 4 Absatz 1 Nummer 2 tritt an Stelle des Befähigungszeugnisses zum Kapitän das Befähigungszeugnis zum Offizier.
+
+<!-- -->
+
+  
+(2) § 4 Absatz 2 Nummer 1 und 3 sowie Absatz 4 bis 7 gilt entsprechend für die Besetzung mit Schiffsoffizieren, die entgegen Absatz 1 nicht die Voraussetzungen des § 4 Absatz 1 erfüllen.
 
 (3) § 8 Absatz 1 in der am 25. Juni 2021 geltenden Fassung ist bis zu dem Tag weiter anzuwenden, an dem eine Verordnung zur Änderung der Seeleute-Befähigungsverordnung in Kraft tritt, mit der ein Befähigungszeugnis zum Kapitän nationale Fahrt BRZ 100 (Kapitän NK 100) vorgesehen wird. Das Bundesministerium für Verkehr und digitale Infrastruktur gibt den Tag nach Satz 1 im Bundesgesetzblatt bekannt.
+
+(4) Das Bundesministerium für Verkehr evaluiert die Auswirkungen des § 4 Absatz 1 Nummer 2 und Absatz 2 bis 7, des § 5 Absatz 2 sowie des § 12 Absatz 2 auf die Beschäftigung von deutschen Seeleuten und die Ausbildung auf Schiffen unter deutscher Flagge. Der Evaluationszeitraum beginnt am 11. September 2026 und beträgt fünf Jahre.
 
 # § 13 – Inkrafttreten, Außerkrafttreten
 

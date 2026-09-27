@@ -393,8 +393,6 @@ Hinsichtlich der Datenübermittlung durch die Registerbehörde ist der größtm�
 
  
 
-\* Dieses Datum wird nicht erhoben, sondern entsteht im Register, wenn eine Änderung des Namens bzw. der Geschlechtsangabe gemeldet wird.
-
  
 
  
@@ -417,7 +415,7 @@ Hinsichtlich der Datenübermittlung durch die Registerbehörde ist der größtm�
 
  
 
-<span id="FnA1-F829919_01"></span>
+<span id="FnA2-F829919_01"></span>
 
 \*
 
@@ -541,5 +539,5 @@ wenn die rechtlichen Voraussetzungen vorliegen,
 (7) =  
 wenn ein Anlass oder eine Entscheidung nach (1) bis (6) die Datenübermittlung notwendig macht.
 
-Anlage: (+++ Text der Anlage in Bearbeitung: Stand entspricht Art. 7 Nr. 2 G v. 22.7.2026 I Nr. 222 +++)  
-Anlage Abschn. I Nr. 9c: IdF d. Art. 2 Nr. 5 Buchst. r G v. 8.5.2024 I Nr. 152 mWv 1.11.2025 (Kursivdruck müsste lauten: "BeschV")
+Anlage: (+++ Text der Anlage in Bearbeitung: Stand entspricht Art. 8 G v. 22.7.2026 I Nr. 222 +++)  
+Anlage Abschn. I Nr. 4 Spalte D Kursivdruck: Gemäß Art. 8 Nr. 5 Buchst. a DBuchst. dd G v. 22.7.2026 I Nr. 222 soll mWv 1.11.2025 die Angabe "- Staatsangehörigkeits- und Vertriebenenbehörden zu Spalte A Buchstabe c" gestrichen werden. Aufgrund textlicher Unstimmigkeit ist die Änderungsanweisung nicht ausführbar. Anlage Abschn. I Nr. 9c: IdF d. Art. 2 Nr. 5 Buchst. r G v. 8.5.2024 I Nr. 152 mWv 1.11.2025 (Kursivdruck müsste lauten: "BeschV")

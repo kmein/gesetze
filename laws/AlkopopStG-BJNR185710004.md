@@ -19,7 +19,7 @@
 
 # § 2 – Steuertarif
 
-Die Steuer bemisst sich nach der in dem Alkopop enthaltenen Alkoholmenge. Sie beträgt für einen Hektoliter reinen Alkohol, gemessen bei einer Temperatur von 20Grad C: 5 550 Euro.
+Die Steuer bemisst sich nach der in dem Alkopop enthaltenen Alkoholmenge. Sie beträgt für einen Hektoliter reinen Alkohol, gemessen bei einer Temperatur von 20° C: 5 550 Euro.
 
 # § 3 – Besteuerung, Steuerverfahren
 

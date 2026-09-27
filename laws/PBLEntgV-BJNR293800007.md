@@ -193,4 +193,4 @@ Eine Zielbewertung oder Leistungsbeurteilung entfällt, wenn die Beamtin oder de
 
 (3) § 6 Absatz 1 des Bundesbesoldungsgesetzes gilt entsprechend.
 
-(4) Die Filialzulage wird letztmalig für März 2026 gewährt.
+(4) Die Filialzulage wird letztmalig für August 2028 gewährt.

@@ -13,7 +13,9 @@ Diese Verordnung gilt für die Prüfung nach § 32f Absatz 2 des Wertpapierhande
 
 (1) Ein Fehler im Sinne dieser Verordnung ist jede einzelne Abweichung von
 
-1. Pflichten nach den Artikeln 3 bis 11, Artikel 15 Absatz 3, Artikel 16 Absatz 1 und 3, Artikel 18 Absatz 1 und 4, Artikeln 19 bis 21, Artikel 22 Absatz 2 bis 7, Artikel 23 Absatz 1 bis 4 und 6 bis 9 und 11 bis 16, Artikel 24 Absatz 1 bis 4 und 6 bis 8, Artikeln 25, 26, Artikel 27 Absatz 1 bis 3 und den Anhängen I und II der Verordnung (EU) 2020/1503 des Europäischen Parlaments und des Rates vom 7. Oktober 2020 über Europäische Schwarmfinanzierungsdienstleister für Unternehmen und zur Änderung der Verordnung (EU) 2017/1129 und der Richtlinie (EU) 2019/1937 (ABl. L 347 vom 20.10.2020, S. 1), in der jeweils geltenden Fassung, einschließlich der auf der Grundlage der Verordnung (EU) 2020/1503 erlassenen delegierten Rechtsakte und Durchführungsrechtsakte der Europäischen Kommission, oder
+1. Pflichten nach den Artikeln 3 bis 11, Artikel 15 Absatz 3, Artikel 16 Absatz 1 und 3, Artikel 18 Absatz 1 und 4, Artikeln 19 bis 21, Artikel 22 Absatz 2 bis 7, Artikel 23 Absatz 1 bis 4 und 6 bis 9 und 11 bis 16, Artikel 24 Absatz 1 bis 4 und 6 bis 8, Artikeln 25, 26, Artikel 27 Absatz 1 bis 3 und den Anhängen I und II der Verordnung (EU) 2020/1503 des Europäischen Parlaments und des Rates vom 7. Oktober 2020 über Europäische Schwarmfinanzierungsdienstleister für Unternehmen und zur Änderung der Verordnung (EU) 2017/1129 und der Richtlinie (EU) 2019/1937 (ABl. L 347 vom 20.10.2020, S. 1), in der jeweils geltenden Fassung, einschließlich der auf der Grundlage der Verordnung (EU) 2020/1503 erlassenen delegierten Rechtsakte und Durchführungsrechtsakte der Europäischen Kommission,
+
+1a. Pflichten gemäß den Artikeln 5 bis 14, 16 bis 19, 23 bis 25, 28 bis 30 und 45 Absatz 3 der Verordnung (EU) 2022/2554, auch in Verbindung mit gemäß den Artikeln 15, 16, 20, 28 oder 30 der Verordnung (EU) 2022/2554 erlassenen Rechtsakten, oder
 
 2. Anordnungen der Bundesanstalt nach § 10 Absatz 4 des Wertpapierhandelsgesetzes.
 
@@ -119,6 +121,26 @@ Diese Verordnung gilt für die Prüfung nach § 32f Absatz 2 des Wertpapierhande
 
 Im Prüfungsbericht sind die erbrachten Schwarmfinanzierungsdienstleistungen sowie die Einhaltung der in § 2 Absatz 1 genannten Pflichten darzustellen. Dabei sind die gesetzlichen Vorgaben zu benennen und deren Erfüllung quantitativ und qualitativ sowie anhand der internen Struktur und der Ablauforganisation darzulegen.
 
+# § 11a – Berücksichtigung der Informations- und Kommunikationstechnologie des Schwarmfinanzierungsdienstleisters bei der Prüfung
+
+(1) Sofern im Einzelfall eine Prüfung der Artikel 5 bis 14, 16 bis 19, 23 bis 25, 28 bis 30 und 45 Absatz 3 der Verordnung (EU) 2022/2554, auch in Verbindung mit gemäß den Artikeln 15, 16, 20, 28 oder 30 der Verordnung (EU) 2022/2554 erlassenen Rechtsakten, nicht auch gemäß § 78 Absatz 1 des Wertpapierinstitutsgesetzes oder gemäß § 29 des Kreditwesengesetzes zu erfolgen hat, hat der Prüfer im Prüfungsbericht zusammenfassend über die Organisation der Informations- und Kommunikationstechnologie des Schwarmfinanzierungsdienstleisters und diejenigen Systeme der Informations- und Kommunikationstechnologie, die wesentliche Geschäftsprozesse des Schwarmfinanzierungsdienstleisters unterstützen oder aufsichtsrechtlich relevante Daten verarbeiten, zu berichten. Wesentliche Änderungen an diesen Systemen sowie die entsprechenden Projekte sind im Prüfungsbericht darzustellen. Der Prüfer hat darzustellen und zu beurteilen, ob die organisatorischen, personellen und technischen Vorkehrungen zur Sicherstellung der Integrität, der Vertraulichkeit, der Authentizität und der Verfügbarkeit dieser Systeme angemessen sind und wirksam umgesetzt werden. Werden externe Ressourcen der Informations- und Kommunikationstechnologie eingesetzt, so erstrecken sich die vorgenannten Berichtspflichten auch auf diese Ressourcen.
+
+(2) Der Prüfer hat im Prüfungsbericht zu beurteilen, ob der Schwarmfinanzierungsdienstleister die Anforderungen der Artikel 5 bis 14, 16 bis 19, 23 bis 25, 28 bis 30 und 45 Absatz 3 der Verordnung (EU) 2022/2554, auch in Verbindung mit Rechtsakten, die gemäß den Artikeln 15, 16, 20, 28 oder 30 der Verordnung (EU) 2022/2554 erlassen wurden, unter Berücksichtigung des Grundsatzes der Verhältnismäßigkeit gemäß Artikel 4 der Verordnung (EU) 2022/2254 angemessen und wirksam einhält. Dabei ist insbesondere einzugehen auf
+
+1. das auf die Informations- und Kommunikationstechnologie bezogene Risikomanagement gemäß den Artikeln 5 bis 14 und 16 der Verordnung (EU) 2022/2554,
+
+2. die Dokumentation des auf die Informations- und Kommunikationstechnologie bezogenen Risikomanagementrahmens gemäß Artikel 6 Absatz 5 Satz 1 oder Artikel 16 Absatz 2 Satz 1 der Verordnung (EU) 2022/2554,
+
+3. die auf die Informations- und Kommunikationstechnologie bezogene Geschäftsfortführungsleitlinie gemäß Artikel 11 Absatz 1 der Verordnung (EU) 2022/2554,
+
+4. die Behandlung und Klassifizierung von auf die Informations- und Kommunikationstechnologie bezogenen Vorfällen sowie die Meldung darüber gemäß den Artikeln 17 bis 19 und 23 der Verordnung (EU) 2022/2554,
+
+5. das Testen der digitalen operationalen Resilienz gemäß den Artikeln 24 und 25 der Verordnung (EU) 2022/2554,
+
+6. das Management des auf die Informations- und Kommunikationstechnologie bezogenen Drittparteienrisikos gemäß den Artikeln 28 bis 30 der Verordnung (EU) 2022/2554 und
+
+7. die Einhaltung der Mitteilungspflicht in Bezug auf Vereinbarungen über den Austausch von Informationen gemäß Artikel 45 Absatz 3 der Verordnung (EU) 2022/2554.
+
 # § 12 – Bestimmungen über den Prüfungsinhalt; festgesetzte Prüfungsschwerpunkte
 
 (1) Soweit die Bundesanstalt im Einzelfall Bestimmungen über den Prüfungsinhalt getroffen oder Prüfungsschwerpunkte festgesetzt hat, sind im Prüfungsbericht die insoweit vorgenommenen Prüfungshandlungen und Feststellungen im Einzelnen darzustellen.
@@ -173,13 +195,13 @@ Aus dem Prüfungsbericht muss ersichtlich sein, wer die Prüfung vor Ort geleite
 
 Der Prüfer hat der Bundesanstalt auf deren Verlangen den Prüfungsbericht zu erläutern.
 
-# § 21 – Inkrafttreten
+# § 21 – Übergangsregelung aus Anlass der Verordnung (EU) 2022/2554
 
-Diese Verordnung tritt am 1. Juli 2022 in Kraft.
+Die Bestimmungen dieser Verordnung betreffend die Prüfung der Einhaltung der Vorgaben der Verordnung (EU) 2022/2554 durch Schwarmfinanzierungsdienstleister sind erstmals auf Prüfungen anzuwenden, die ein nach dem 31. Dezember 2024 beginnendes Geschäftsjahr betreffen. Auf Prüfungen, die ein vor dem 1. Januar 2025 beginnendes Geschäftsjahr betreffen, findet die Schwarmfinanzierungsdienstleister-Prüfungsverordnung in der Fassung vom 17. Mai 2022 (BGBl. I S. 852) weiterhin Anwendung.
 
 # Anlage – (zu § 17 Absatz 1)Ausfüllhinweise für den Fragebogen gemäß § 17 Absatz 1
 
-(Fundstelle: BGBl. I 2022, 856 - 857)
+(Fundstelle: BGBl. I 2022, 856 - 857; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Im nachfolgend aufgeführten Fragebogen sind folgende Abkürzungen für die Prüfungsfeststellungen in der Spalte „Feststellung“ zu verwenden:
 
@@ -479,8 +501,21 @@ nein:</td>
 <td colspan="4" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Erläuterungen zu Nummer 30:</td>
 </tr>
 <tr class="even">
-<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">31</td>
-<td colspan="4" style="text-align: center;" data-valign="top" data-charoff="50">Kurze Beschreibung der identifizierten Mängel und der Vorschriften, gegen die ein Verstoß vorliegt, insbesondere unter Berücksichtigung der seitens der Bundesanstalt für Finanzdienstleistungsaufsicht und der ESMA vorgenommenen und veröffentlichten Normauslegung:</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">31</td>
+<td colspan="4" style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Kurze Beschreibung der identifizierten Mängel und der Vorschriften, gegen die ein Verstoß vorliegt, insbesondere unter Berücksichtigung der seitens der Bundesanstalt für Finanzdienstleistungsaufsicht und der ESMA vorgenommenen und veröffentlichten Normauslegung:</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">32</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Artikel 5 bis 14, 16 bis 19,<br />
+23 bis 25,<br />
+28 bis 30 und 45 Absatz 3 der Verordnung (EU) 2022/2554</td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: center; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: center; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td colspan="4" style="text-align: center;" data-valign="top" data-charoff="50">Erläuterungen zu Nummer 32:</td>
 </tr>
 </tbody>
 </table>

@@ -380,7 +380,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt 
 
 # Anlage 1 – (zu § 13 Absatz 1 Satz 1)Verbindlich festgelegte Anforderungen
 
-(Fundstelle: BGBl. 2024 I Nr. 279, S. 11)
+(Fundstelle: BGBl. 2024 I Nr. 279, S. 11;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
  
 
@@ -464,19 +465,78 @@ formationssysteme (KIS) und</td>
 systeme (AVS)</td>
 </tr>
 <tr class="even">
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">002</td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">IOP-Anforderungen gemäß § 385 SGB V im Rahmen der Schnittstellen für informationstechnische Systeme in Krankenhäusern</td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Leitfaden zur Umsetzung der relevanten Anforderungen bezüglich der Interoperabilität zwischen informationstechnischen Systemen im Krankenhaus (ISiK) Stufe 5</td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1.0.0</td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">15.06.2026</td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">31.05.2027</td>
-<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">§ 373<br />
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">002</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">IOP-Anforderungen gemäß § 385 SGB V im Rahmen der Schnittstellen für informationstechnische Systeme in Krankenhäusern</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Leitfaden zur Umsetzung der relevanten Anforderungen bezüglich der Interoperabilität zwischen informationstechnischen Systemen im Krankenhaus (ISiK) Stufe 5</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1.0.0</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15.06.2026</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">31.05.2027</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">§ 373<br />
 Absatz 1 Satz 3<br />
 Fünftes Buch<br />
 Sozialgesetzbuch</td>
-<td style="text-align: left;" data-valign="top" data-charoff="50"> </td>
-<td style="text-align: left;" data-valign="top" data-charoff="50">Krankenhausinformationssysteme (KIS)</td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Krankenhausinformationssysteme (KIS)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">003</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">IOP-Anforderungen gemäß § 385 SGB V im Rahmen der ePA für alle – Medication Service<br />
+(ePA 3.1.3)</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">Leitfaden zur Umsetzung der relevanten Anforderungen bezüglich der Interoperabilität zwischen den ePA-Aktensystemen und Primärsystemen hinsichtlich der Umsetzung des digital gestützten Medikationsprozesses (dgMP)</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">1.3.0</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">15.09.2026</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">31.12.2026</td>
+<td style="text-align: left; border-right: 0.5pt solid; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50">355<br />
+Absatz 3<br />
+Satz 2<br />
+Nummer 1<br />
+Fünftes Buch<br />
+Sozial-<br />
+gesetzbuch</td>
+<td colspan="2" style="text-align: left; border-bottom: 0.5pt solid;" data-valign="top" data-charoff="50"><dl>
+<dt>1.</dt>
+<dd>
+Praxisver-<br />
+waltungssysteme (PVS),
+</dd>
+<dt>2.</dt>
+<dd>
+Zahnärztliche Praxisverwaltungssysteme (ZPVS),
+</dd>
+<dt>3.</dt>
+<dd>
+Krankenhaus-<br />
+informationssysteme (KIS) und
+</dd>
+<dt>4.</dt>
+<dd>
+Apotheken-<br />
+verwaltungssysteme (AVS)
+</dd>
+</dl></td>
+</tr>
+<tr class="even">
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">004</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">IOP-Anforderungen gemäß § 385 SGB V im Rahmen der ePA für alle – Medication Service<br />
+(ePA 3.1.3)</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">Leitfaden zur Umsetzung der relevanten Anforderungen bezüglich der Interoperabilität zwischen den ePA-Aktensystemen und Primärsystemen hinsichtlich der Umsetzung des digital gestützten<br />
+Medikationsprozesses (dgMP)</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">1.3.0</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50"> </td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">15.09.2026</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">30.09.2027</td>
+<td style="text-align: left; border-right: 0.5pt solid;" data-valign="top" data-charoff="50">§ 373<br />
+Absatz 3, 5 Nummer 2 Fünftes Buch<br />
+Sozialgesetzbuch</td>
+<td colspan="2" style="text-align: left;" data-valign="top" data-charoff="50"><dl>
+<dt>1.</dt>
+<dd>
+Primärsys-<br />
+teme in der Pflege
+</dd>
+</dl></td>
 </tr>
 </tbody>
 </table>

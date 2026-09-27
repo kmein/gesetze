@@ -114,6 +114,7 @@
 - [AHStatG](laws/AHStatG-BJNR175110021.md) Gesetz über die Statistik des Warenverkehrs mit dem Ausland
 - [AHundV](laws/AHundV-BJNR243600022.md) Assistenzhundeverordnung
 - [AIIBÜbkG](laws/AIIBÜbkG-BJNR151020015.md) Gesetz zu dem Übereinkommen vom 29. Juni 2015 zur Gründung der Asiatischen Infrastruktur-Investitionsbank
+- [AIVBLehrV](laws/AIVBLehrV-BJNR1100A0026.md) Verordnung über die besondere Lehrverpflichtung des hauptberuflichen wissenschaftlichen Personals im Fachbereich Allgemeine Innere Verwaltung der Hochschule des Bundes für öffentliche Verwaltung
 - [AKG](laws/AKG-BJNR017470957.md) Gesetz zur allgemeinen Regelung durch den Krieg und den Zusammenbruch des Deutschen Reiches entstandener Schäden
 - [AkkStelleG](laws/AkkStelleG-BJNR262500009.md) Gesetz über die Akkreditierungsstelle
 - [AkkStelleGBV](laws/AkkStelleGBV-BJNR396200009.md) Verordnung über die Beleihung der Akkreditierungsstelle nach dem Akkreditierungsstellengesetz
@@ -989,6 +990,7 @@
 - [BMVgBDGAnO](laws/BMVgBDGAnO-BJNR159600013.md) Anordnung zur Übertragung disziplinarrechtlicher Zuständigkeiten und Befugnisse im Geschäftsbereich des Bundesministeriums der Verteidigung
 - [BMVgBDODAnO](laws/BMVgBDODAnO-BJNR002110968.md) Anordnung zur Durchführung der Bundesdisziplinarordnung für den Geschäftsbereich des Bundesministers der Verteidigung
 - [BMVgBeamtVZustAnO](laws/BMVgBeamtVZustAnO-BJNR462610021.md) Anordnung zur Übertragung von Zuständigkeiten auf dem Gebiet der Beamtenversorgung im Geschäftsbereich des Bundesministeriums der Verteidigung
+- [BMVgBGebV](laws/BMVgBGebV-BJNR10C0A0026.md) Besondere Gebührenverordnung des Bundesministeriums der Verteidigung für individuell zurechenbare öffentliche Leistungen in seinem Zuständigkeitsbereich
 - [BMVgSEGZustAnO](laws/BMVgSEGZustAnO-BJNR0C70A0024.md) Anordnung zur Übertragung von Zuständigkeiten auf dem Gebiet der Soldatenentschädigung im Geschäftsbereich des Bundesministeriums der Verteidigung
 - [BMVgVerfWDO2025uBVerfPAktV](laws/BMVgVerfWDO2025uBVerfPAktV-BJNR1770A0025.md) Verordnung zur Anlegung, Führung und Weiterführung papiergebundener Akten in Verfahren nach der Wehrdisziplinarordnung und in Bußgeldverfahren im Geschäftsbereich des Bundesministeriums der Verteidigung
 - [BMVgVFAPrV](laws/BMVgVFAPrV-BJNR0890A0023.md) Verordnung für die Durchführung der Abschlussprüfung im staatlich anerkannten Ausbildungsberuf Verwaltungsfachangestellte und Verwaltungsfachangestellter – Fachrichtung Bundesverwaltung – im Geschäftsbereich des Bundesministeriums der Verteidigung
@@ -1002,8 +1004,10 @@
 - [BMWiTWidAnO 2009](laws/BMWiTWidAnO_2009-BJNR130800009.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Bundesministeriums für Wirtschaft und Technologie
 - [BMWiTWidAnO 2010](laws/BMWiTWidAnO_2010-BJNR006900010.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundeskartellamtes in Angelegenheiten nach dem Bundesumzugskostengesetz und der Trennungsgeldverordnung
 - [BMWKBGebKAIV](laws/BMWKBGebKAIV-BJNR0F80A0023.md) Besondere Gebührenverordnung des Bundesministeriums für Wirtschaft und Klimaschutz für individuell zurechenbare öffentliche Leistungen in seinem sowie dem Zuständigkeitsbereich des Bundesamts für Wirtschaft und Ausfuhrkontrolle für die Kriegswaffenkontrolle, Ausfuhrkontrolle und Investitionsprüfung
+- [BMWSBBBRBeamtZustAnO](laws/BMWSBBBRBeamtZustAnO-BJNR1040A0026.md) Anordnung zur Übertragung beamtenrechtlicher Befugnisse des Bundeministeriums für Wohnen, Stadtentwicklung und Bauwesen auf das Bundesamt für Bauwesen und Raumordnung
 - [BMWSBBDGAnO](laws/BMWSBBDGAnO-BJNR1100A0024.md) Anordnung zur Durchführung des Bundesdisziplinargesetzes für den Geschäftsbereich des Bundesministeriums für Wohnen, Stadtentwicklung und Bauwesen
 - [BMWSBBesBeihUnffAnO](laws/BMWSBBesBeihUnffAnO-BJNR0560A0025.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und für die Vertretung der Bundesrepublik Deutschland bei Klagen der Beamtinnen und Beamten des Bundesministeriums für Wohnen, Stadtentwicklung und Bauwesen in Angelegenheiten der Besoldung, der Beihilfe und der Unfallfürsorge auf das Bundesverwaltungsamt
+- [BMWSBBVAWidVertrAnO](laws/BMWSBBVAWidVertrAnO-BJNR1050A0026.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und für die Vertretung der Bundesrepublik Deutschland bei Klagen der Beamtinnen und Beamten des Bundesministeriums für Wohnen, Stadtentwicklung und Bauwesen in Angelegenheiten des Reisekosten-, Umzugskosten- und Trennungsgeldrechts auf das Bundesverwaltungsamt
 - [BMZWidAnO](laws/BMZWidAnO-BJNR190300999.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen in Angelegenheiten nach dem Bundesumzugskostengesetz einschließlich der hierzu ergangenen Trennungsgeldverordnung von Beschäftigten des Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung
 - [BNatSchG](laws/BNatSchG-BJNR254210009.md) Gesetz über Naturschutz und Landschaftspflege
 - [BNDDisRZustAnO](laws/BNDDisRZustAnO-BJNR056000002.md) Anordnung zur Übertragung disziplinarrechtlicher Zuständigkeiten und Befugnisse im Bereich des Bundesnachrichtendienstes
@@ -1261,6 +1265,7 @@
 - [BVerfSchG](laws/BVerfSchG-BJNR029700990.md) Gesetz über die Zusammenarbeit des Bundes und der Länder in Angelegenheiten des Verfassungsschutzes und über das Bundesamt für Verfassungsschutz
 - [BVerkEhrZÄndErl](laws/BVerkEhrZÄndErl-BJNR007680968.md) Erlaß über die Genehmigung einer Änderung der Benennung und der Form des "Ehrenzeichens der Bundesverkehrswacht"
 - [BVers18AnO](laws/BVers18AnO-BJNR0330A0026.md) Anordnung über Ort und Zeit der 18. Bundesversammlung
+- [BVers18ZBek](laws/BVers18ZBek-BJNR10B0A0026.md) Bekanntmachung über die Zahl der von den Volksvertretungen der Länder zu wählenden Mitglieder der 18. Bundesversammlung
 - [BVersTG](laws/BVersTG-BJNR071600009.md) Gesetz über die interne Teilung beamtenversorgungsrechtlicher Ansprüche von Bundesbeamtinnen und Bundesbeamten im Versorgungsausgleich
 - [BVertrBMBAnO](laws/BVertrBMBAnO-BJNR507600970.md) Anordnung über die Vertretung des Bundes im Geschäftsbereich des Bundesministers für innerdeutsche Beziehungen
 - [BVetrDBAnO 1985](laws/BVetrDBAnO_1985-BJNR006460985.md) Allgemeine Anordnung über die Vertretung bei Klagen aus dem Beamtenverhältnis im Bereich der Deutschen Bundesbahn
@@ -1468,6 +1473,7 @@
 - [DollBBerAbk2G](laws/DollBBerAbk2G-BJNR204610961.md) Gesetz zum Zweiten Abkommen vom 16. August 1960 zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika über gewisse Angelegenheiten, die sich aus der Bereinigung deutscher Dollarbonds ergeben
 - [DPAErnAnO](laws/DPAErnAnO-BJNR067500004.md) Anordnung über die Ernennung und Entlassung von Beamten im Deutschen Patent- und Markenamt
 - [DPAGBefugAnO](laws/DPAGBefugAnO-BJNR200600015.md) Anordnung zur Übertragung dienstrechtlicher Befugnisse im Bereich der Deutschen Post AG
+- [DPAGPNUBestV](laws/DPAGPNUBestV-BJNR0710A0026.md) Verordnung zur Bestimmung der Deutschen Post AG neu als Postnachfolgeunternehmen
 - [DPAGÜbertrAnO](laws/DPAGÜbertrAnO-BJNR218900015.md) Anordnung zur Übertragung beamtenrechtlicher Befugnisse und Zuständigkeiten im Bereich der Deutschen Post AG
 - [DPMADPostA15AnO](laws/DPMADPostA15AnO-BJNR062000010.md) Anordnung über die Übertragung von Dienstposten der Wertigkeit A 15 mit Amtszulage im Bereich der Hauptabteilung 1/I (Patente I) und Hauptabteilung 1/II (Patente II) beim Deutschen Patent- und Markenamt
 - [DPMAhnwDAnO](laws/DPMAhnwDAnO-BJNR062010010.md) Anordnung über die Einstellung von Beamtinnen und Beamten in den höheren naturwissenschaftlichen Dienst beim Deutschen Patent- und Markenamt
@@ -2643,6 +2649,7 @@
 - [IntermErsAufwV](laws/IntermErsAufwV-BJNR0680A0025.md) Verordnung über den Ersatz von Aufwendungen der Intermediäre
 - [INTERSPUTNIKG](laws/INTERSPUTNIKG-BJNR234620998.md) Gesetz zu dem Abkommen vom 15. November 1971 über die Schaffung des internationalen Systems und der Organisation für kosmische Fernmeldeverbindungen "INTERSPUTNIK" und zu dem Protokoll vom 30. November 1996 über die Einbringung von Korrekturen in dieses Abkommen
 - [IntFamRVG](laws/IntFamRVG-BJNR016210005.md) Gesetz zur Aus- und Durchführung bestimmter Rechtsinstrumente auf dem Gebiet des internationalen Familienrechts
+- [IntForstFZAbkV](laws/IntForstFZAbkV-BJNR0950O0026.md) Verordnung zu dem Abkommen vom 21. April 2026 zwischen der Regierung der Bundesrepublik Deutschland und dem Zentrum für internationale Forstforschung über den Sitz des Zentrums für internationale Forstforschung in der Bundesrepublik Deutschland
 - [IntGüRVG](laws/IntGüRVG-BJNR257310018.md) Internationales Güterrechtsverfahrensgesetz
 - [IntKonnBek](laws/IntKonnBek-BJNR011620986.md) Bekanntmachung nach Artikel 6 Abs. 3 des Einführungsgesetzes zum Handelsgesetzbuch
 - [IntKonnBek 1986-10](laws/IntKonnBek_1986-10-BJNR016540986.md) Bekanntmachung nach Artikel 6 Abs. 3 des Einführungsgesetzes zum Handelsgesetzbuch
@@ -4147,6 +4154,7 @@
 - [PortalV](laws/PortalV-BJNR177400015.md) Verordnung zu den Voraussetzungen und dem Verfahren der Zulassung von in nicht öffentlich-rechtlicher Form betriebenen Portalen zur Durchführung von einfachen Melderegisterauskünften über das Internet
 - [PostAGSa](laws/PostAGSa-BJNR234300994.md) Satzung der Deutsche Post AG (Anhang des Gesetzes zur Umwandlung der Unternehmen der Deutschen Bundespost in die Rechtsform der Aktiengesellschaft)
 - [PostAufgÜberlG](laws/PostAufgÜberlG-BJNR1590B0025.md) Gesetz zur Überleitung öffentlicher Aufgaben bei Umwandlungsmaßnahmen der Deutsche Post AG
+- [PostAufgÜV](laws/PostAufgÜV-BJNR0720A0026.md) Verordnung zur Übertragung öffentlicher Aufgaben, Rechte, Pflichten, Befugnisse und Zuständigkeiten der Deutschen Post AG auf ein Nachfolgeunternehmen
 - [PostAZV](laws/PostAZV-BJNR249500003.md) Verordnung über die Arbeitszeit der Beamtinnen und Beamten bei der Deutschen Post AG
 - [PostbAGSa](laws/PostbAGSa-BJNR234600994.md) Satzung der Deutsche Postbank AG (Anhang des Gesetzes zur Umwandlung der Unternehmen der Deutschen Bundespost in die Rechtsform der Aktiengesellschaft)
 - [PostbankSZV](laws/PostbankSZV-BJNR212100007.md) Verordnung über die Gewährung einer monatlichen Sonderzahlung an die bei der Deutschen Postbank AG beschäftigten Beamtinnen und Beamten
@@ -4895,6 +4903,7 @@
 - [StromStG§9Abs9Bek 2025](laws/StromStG§9Abs9Bek_2025-BJNR0720A0025.md) Bekanntmachung nach § 9 Absatz 9 des Stromsteuergesetzes
 - [StromStV](laws/StromStV-BJNR079400000.md) Verordnung zur Durchführung des Stromsteuergesetzes
 - [StromVKG](laws/StromVKG-BJNR0D2AB0026.md) Gesetz zur Sicherung der Versorgungssicherheit Strom und zur Bereitstellung neuer Kapazitäten
+- [StromVKG§87Satz2Bek](laws/StromVKG§87Satz2Bek-BJNR626520026.md) Bekanntmachung nach § 87 Satz 2 des Strom-Versorgungssicherheits-und-Kapazitätengesetzes
 - [StrRehaG](laws/StrRehaG-BJNR118140992.md) Gesetz über die Rehabilitierung und Entschädigung von Opfern rechtsstaatswidriger Strafverfolgungsmaßnahmen im Beitrittsgebiet
 - [StrRehaGAnpV 2026](laws/StrRehaGAnpV_2026-BJNR0BD0A0026.md) Verordnung zur Anpassung der Höhe der monatlichen besonderen Zuwendung nach § 17a Absatz 1 Satz 5 des Strafrechtlichen Rehabilitierungsgesetzes ab dem 1. Juli 2026
 - [StrRehaGSchäV](laws/StrRehaGSchäV-BJNR0900A0026.md) Verordnung über die schädigenden Ereignisse und gesundheitlichen Schädigungen im Sinne des § 21 Absatz 6 Satz 1 des Strafrechtlichen Rehabilitierungsgesetzes
@@ -5913,6 +5922,7 @@
 - [ZKBSV](laws/ZKBSV-BJNR024180990.md) Verordnung über die Zentrale Kommission für die Biologische Sicherheit
 - [ZKDSG](laws/ZKDSG-BJNR109000002.md) Gesetz über den Schutz von zugangskontrollierten Diensten und von Zugangskontrolldiensten
 - [ZKG](laws/ZKG-BJNR072010016.md) Gesetz über die Vergleichbarkeit von Zahlungskontoentgelten, den Wechsel von Zahlungskonten sowie den Zugang zu Zahlungskonten mit grundlegenden Funktionen
+- [ZLBBLehrV](laws/ZLBBLehrV-BJNR10F0A0026.md) Verordnung über die besondere Lehrverpflichtung des hauptberuflichen wissenschaftlichen Personals am Zentralen Lehrbereich der Hochschule des Bundes für öffentliche Verwaltung
 - [ZMediatAusbV](laws/ZMediatAusbV-BJNR199400016.md) Verordnung über die Aus- und Fortbildung von zertifizierten Mediatoren
 - [ZMV](laws/ZMV-BJNR021500007.md) Verordnung zur barrierefreien Zugänglichmachung von Dokumenten für blinde und sehbehinderte Personen im gerichtlichen Verfahren
 - [ZO-ÄrzteÄndV 1](laws/ZO-ÄrzteÄndV_1-BJNR013320977.md) Erste Verordnung zur Änderung der Zulassungsordnung für Kassenärzte

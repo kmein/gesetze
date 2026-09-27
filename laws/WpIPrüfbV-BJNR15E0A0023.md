@@ -209,7 +209,7 @@ Der Prüfer hat über die ausländischen Zweigniederlassungen des Wertpapierinst
 
 3. die Verfahren zur Identifizierung, Steuerung, Überwachung und Meldung der Risiken, denen das Wertpapierinstitut ausgesetzt ist oder die das Wertpapierinstitut für andere darstellt, wirksam sind,
 
-4. die Innenrevision nach Artikel 24 der Delegierten Verordnung (EU) 2017/565 der Kommission vom 25. April 2016 zur Ergänzung der Richtlinie 2014/65/EU des Europäischen Parlaments und des Rates in Bezug auf die organisatorischen Anforderungen an Wertpapierfirmen und die Bedingungen für die Ausübung ihrer Tätigkeit sowie in Bezug auf die Definition bestimmter Begriffe für die Zwecke der genannten Richtlinie (ABl. L 87 vom 31.3.2017, S. 1; L 246 vom 26.9.2017, S. 12; L 82 vom 26.3.2018, S. 18), die zuletzt durch die Delegierte Verordnung (EU) 2021/1254 (ABl. L 277 vom 2.8.2021, S. 6) geändert worden ist, in einer den getätigten Geschäften angemessenen Weise eingerichtet ist und ihre Aufgaben wirksam wahrnimmt,
+4. die Innenrevision nach Artikel 24 der Delegierten Verordnung (EU) 2017/565 in einer den getätigten Geschäften angemessenen Weise eingerichtet ist und ihre Aufgaben wirksam wahrnimmt,
 
 5. das interne Kontrollsystem angemessen, solide und wirksam ist und insbesondere über wirksame Risikomanagement- und Compliance-Funktionen verfügt,
 
@@ -245,11 +245,25 @@ Der Prüfer hat die Angemessenheit und die Transparenz der Vergütungssysteme de
 
 5. die Mitarbeiter schriftlich über die Ausgestaltung der für sie maßgeblichen Vergütungssysteme und Vergütungsparameter in Kenntnis gesetzt werden.
 
-# § 15 – IT-Systeme
+# § 15 – Berücksichtigung der Informations- und Kommunikationstechnologie des Wertpapierinstituts bei der Prüfung
 
-(1) Der Prüfer hat im Rahmen der Beurteilung nach § 12 Absatz 2 Nummer 7 darzustellen, ob die organisatorischen, personellen und technischen Vorkehrungen zur Sicherstellung der Integrität, Vertraulichkeit, Authentizität und Verfügbarkeit der aufsichtlich relevanten Daten nach Artikel 21 Absatz 2 der Delegierten Verordnung (EU) 2017/565 angemessen sind und wirksam umgesetzt werden. Dabei hat er insbesondere auf den IT-Betrieb einzugehen. Im Rahmen der Beurteilung der Notfallplanung nach § 12 Absatz 2 Nummer 6 hat er insbesondere auf die technischen und betrieblichen Verfahren bei einem Notfall einzugehen.
+(1) Der Prüfer hat im Prüfungsbericht zusammenfassend über die Organisation der Informations- und Kommunikationstechnologie des Wertpapierinstituts und diejenigen Systeme der Informations- und Kommunikationstechnologie, die wesentliche Geschäftsprozesse des Instituts unterstützen oder aufsichtsrechtlich relevante Daten verarbeiten, zu berichten. Wesentliche Änderungen an diesen Systemen sowie die der Änderung dienenden Projekte sind im Prüfungsbericht darzustellen. Der Prüfer hat darzustellen und zu beurteilen, ob die organisatorischen, personellen und technischen Vorkehrungen zur Sicherstellung der Integrität, der Vertraulichkeit, der Authentizität und der Verfügbarkeit dieser Systeme angemessen sind und wirksam umgesetzt werden. Werden externe Ressourcen der Informations- und Kommunikationstechnologie eingesetzt, so erstrecken sich die vorgenannten Berichtspflichten auch auf diese Ressourcen.
 
-(2) Werden externe IT-Dienstleister, externe Rechner oder Speicherplätze eingesetzt, so erstrecken sich die vorgenannten Pflichten des Prüfers auch auf diese IT-Ressourcen sowie deren Einbindung in das berichtspflichtige Wertpapierinstitut.
+(2) Der Prüfer hat im Prüfungsbericht zu beurteilen, ob das Wertpapierinstitut die Anforderungen der Artikel 5 bis 14, 16 bis 19, 24, 25, 28 bis 30 und 45 Absatz 3 der Verordnung (EU) 2022/2554, auch in Verbindung mit Rechtsakten, die gemäß den Artikeln 15, 16, 20, 28 oder 30 der Verordnung (EU) 2022/2554 erlassen wurden, unter Berücksichtigung des Grundsatzes der Verhältnismäßigkeit gemäß Artikel 4 der Verordnung (EU) 2022/2254, angemessen und wirksam einhält. Dabei ist insbesondere einzugehen auf
+
+1. das auf die Informations- und Kommunikationstechnologie bezogene Risikomanagement gemäß den Artikeln 5 bis 14 und 16 der Verordnung (EU) 2022/2554,
+
+2. die Dokumentation des auf die Informations- und Kommunikationstechnologie bezogenen Risikomanagementrahmens gemäß Artikel 6 Absatz 5 Satz 1 oder Artikel 16 Absatz 2 Satz 1 der Verordnung (EU) 2022/2554,
+
+3. die auf die Informations- und Kommunikationstechnologie bezogene Geschäftsfortführungsleitlinie gemäß Artikel 11 Absatz 1 der Verordnung (EU) 2022/2554,
+
+4. die Behandlung und Klassifizierung von auf die Informations- und Kommunikationstechnologie bezogenen Vorfällen sowie die Meldung darüber gemäß den Artikeln 17 bis 19 der Verordnung (EU) 2022/2554,
+
+5. das Testen der digitalen operationalen Resilienz gemäß den Artikeln 24 und 25 der Verordnung (EU) 2022/2554,
+
+6. das Management des auf die Informations- und Kommunikationstechnologie bezogenen Drittparteienrisikos gemäß den Artikeln 28 bis 30 der Verordnung (EU) 2022/2554 und
+
+7. die Einhaltung der Mitteilungspflicht in Bezug auf Vereinbarungen über den Austausch von Informationen gemäß Artikel 45 Absatz 3 der Verordnung (EU) 2022/2554.
 
 # § 16 – Sanierungsplanung
 
@@ -271,7 +285,7 @@ Im Rahmen der Prüfung nach § 78 Absatz 1 Satz 5 und 6 des Wertpapierinstitutsg
 
 # § 17 – Vorgaben für das Handelsbuch
 
-Es ist zu beurteilen, ob das Wertpapierinstitut nach Artikel 21 Absatz 2 der Verordnung (EU) 2019/2033 des Europäischen Parlaments und des Rates vom 27. November 2019 über Aufsichtsanforderungen an Wertpapierfirmen und zur Änderung der Verordnungen (EU) Nr. 1093/2010, (EU) Nr. 575/2013, (EU) Nr. 600/2014 und (EU) Nr. 806/2014 (ABl. L 314 vom 5.12.2019, S. 1; L 20 vom 24.1.2020, S. 26; L 405 vom 2.12.2020, S. 79; L 261 vom 22.7.2021, S. 60), die zuletzt durch die Delegierte Verordnung (EU) 2022/1455 (ABl. L 229 vom 5.9.2022, S. 1) geändert worden ist, im Berichtszeitraum die Vorgaben nach Teil 3 Titel I Kapitel 3 der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und zur Änderung der Verordnung (EU) Nr. 648/2012 (ABl. L 176 vom 27.6.2013, S. 1; L 208 vom 2.8.2013, S. 68; L 321 vom 30.11.2013, S. 6; L 193 vom 21.7.2015, S. 166; L 20 vom 25.1.2017, S. 3; L 92 vom 30.3.2023, S. 29), die zuletzt durch die Verordnung (EU) 2022/2036 (ABl. L 275 vom 25.10.2022, S. 1; L 277 vom 27.10.2022, S. 316) geändert worden ist, in der jeweils geltenden Fassung, insbesondere für die Zurechnung von Positionen zum Handelsbuch und für die Führung des Handelsbuchs, erfüllt hat.
+Es ist zu beurteilen, ob das Wertpapierinstitut nach Artikel 21 Absatz 2 der Verordnung (EU) 2019/2033 im Berichtszeitraum die Vorgaben nach Teil 3 Titel I Kapitel 3 der Verordnung (EU) Nr. 575/2013, insbesondere für die Zurechnung von Positionen zum Handelsbuch und für die Führung des Handelsbuchs, erfüllt hat.
 
 # § 18 – Ermittlung der Eigenmittel
 
@@ -527,9 +541,9 @@ Vorbehaltlich des § 37 ist im Bericht über die Prüfung auf die Wertpapierinst
 
 Die auf das jeweilige Wertpapierinstitut anwendbaren Formblätter in den Anlagen 1 bis 4 sind vollständig auszufüllen und dem Prüfungsbericht beizufügen. Die Formblätter in der Anlage 1 sind um die entsprechenden Vorjahresdaten zu ergänzen.
 
-# § 41 – Inkrafttreten
+# § 41 – Übergangsregelung aus Anlass der Verordnung (EU) 2022/2554
 
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
+Die Bestimmungen betreffend die Beurteilung, ob die Wertpapierinstitute die Anforderungen der Verordnung (EU) 2022/2554 eingehalten haben, sind erstmals anzuwenden auf Rechnungslegungsunterlagen für ein nach dem 31. Dezember 2024 beginnendes Geschäftsjahr. Auf Rechnungslegungsunterlagen für ein vor dem 1. Januar 2025 beginnendes Geschäftsjahr findet die Wertpapierinstituts-Prüfungsberichtsverordnung in der Fassung vom 7. Dezember 2023 (BGBl. 2023 I Nr. 350) weiterhin Anwendung.
 
 # Anlage 1 – (zu § 40)
 

@@ -63,9 +63,9 @@ Umlagepflichtiges Bruttoarbeitsentgelt ist bei Arbeitnehmern, die nicht dem deut
 
 # § 3a – Befristete Absenkung des Umlagesatzes im Baugewerbe
 
-(1) In der Zeit vom 1. Januar 2026 bis zum 31. Dezember 2026 beträgt der Umlagesatz nach § 3 Absatz 1 Nummer 1 1 Prozent.
+(1) In der Zeit vom 1. Januar 2026 bis zum 31. Dezember 2027 beträgt der Umlagesatz nach § 3 Absatz 1 Nummer 1 1 Prozent.
 
-(2) In der Zeit vom 1. Januar 2026 bis zum 31. Dezember 2026 wird die Umlage nach § 3 Absatz 2 Nummer 1 anteilig durch die Arbeitgeber in Höhe von 0,6 Prozent und durch die Arbeitnehmer in Höhe von 0,4 Prozent aufgebracht.
+(2) In der Zeit vom 1. Januar 2026 bis zum 31. Dezember 2027 wird die Umlage nach § 3 Absatz 2 Nummer 1 anteilig durch die Arbeitgeber in Höhe von 0,6 Prozent und durch die Arbeitnehmer in Höhe von 0,4 Prozent aufgebracht.
 
 # § 4 – Einzugsstellen
 
@@ -114,8 +114,6 @@ Die Bundesagentur für Arbeit (Bundesagentur) gibt im Bundesanzeiger bekannt, ü
 (1) Die im Zusammenhang mit der Gewährung der ergänzenden Leistungen und dem Einzug der zur Finanzierung dieser Leistungen erhobenen Umlage entstehenden Verwaltungskosten sind der Bundesagentur von den Wirtschaftszweigen, in denen diese Leistungen in Anspruch genommen werden können, pauschaliert zu erstatten.
 
 (2) Sie werden für diese Wirtschaftszweige im Verhältnis der Anteile an den Ausgaben getrennt festgestellt.
-
-(3) Von den Betrieben nach § 1 Absatz 1 Nummer 1 werden die anteilig zu den Ausgaben für die ergänzenden Leistungen nach § 102 des Dritten Buches Sozialgesetzbuch berechneten Verwaltungskosten bis zu einer Höhe von maximal 17,5 Millionen Euro erstattet.
 
 # § 10 – Inkrafttreten, Außerkrafttreten
 
