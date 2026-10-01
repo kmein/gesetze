@@ -31,7 +31,7 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 
 1. beim Abschluss einer Vereinbarung über eine Notmaßnahme der Europäischen Finanzstabilisierungsfazilität auf Antrag eines Mitgliedstaates des Euro-Währungsgebietes,
 
-2. bei einer wesentlichen Änderung einer Vereinbarung über eine Notmaßnahme, einer Änderung ihrer Instrumente und Bedingungen und bei einer Änderung, die Auswirkungen auf die Höhe des deutschen Gewährleistungsrahmens hat,
+2. bei einer wesentlichen Änderung einer Vereinbarung über eine Notmaßnahme, ihrer Instrumente oder Bedingungen, sofern diese Änderung Auswirkungen auf die Höhe des deutschen Gewährleistungsrahmens hat,
 
 3. bei Änderungen des Rahmenvertrags der Europäischen Finanzstabilisierungsfazilität,
 

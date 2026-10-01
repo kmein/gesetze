@@ -1360,7 +1360,7 @@ In den Fällen des Satzes 1 Nr. 2 und 3 sind die Beteiligten auf den Klageweg zu
 
 (1) Der Notar kann auf Antrag eines Beteiligten Ermittlungen durchführen. Er kann insbesondere
 
-1. Auskünfte aus der Kaufpreissammlung und über Bodenrichtwerte (§ 195 Abs. 3 und § 196 Abs. 3 des Baugesetzbuchs) einholen,
+1. Auskünfte aus der Kaufpreissammlung und über Bodenrichtwerte (§ 195 Absatz 5 und § 196 Absatz 3 des Baugesetzbuchs) einholen,
 
 2. ein Verfahren zur Bodensonderung beantragen,
 

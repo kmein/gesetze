@@ -367,23 +367,23 @@ Wird von der gesonderten Feststellung abgesehen, so ist in den Fällen der Numme
 
 # § 18 – Anzeigepflicht der Gerichte, Behörden und Notare
 
-(1) Gerichte, Behörden und Notare haben dem zuständigen Finanzamt schriftlich Anzeige nach amtlich vorgeschriebenem Vordruck zu erstatten über
+(1) Gerichte und Behörden haben dem zuständigen Finanzamt schriftlich Anzeige nach amtlich vorgeschriebenem Vordruck zu erstatten über
 
-1. Rechtsvorgänge, die sie beurkundet oder über die sie eine Urkunde entworfen und darauf eine Unterschrift beglaubigt haben, wenn die Rechtsvorgänge ein Grundstück im Geltungsbereich dieses Gesetzes betreffen;
+1. Rechtsvorgänge, die sie beurkundet haben oder über die sie eine Urkunde entworfen und darauf eine Unterschrift beglaubigt haben, wenn die Rechtsvorgänge ein Grundstück im Geltungsbereich dieses Gesetzes betreffen;
 
-2. Anträge auf Berichtigung des Grundbuchs, die sie beurkundet oder über die sie eine Urkunde entworfen und darauf eine Unterschrift beglaubigt haben, wenn der Antrag darauf gestützt wird, daß der Grundstückseigentümer gewechselt hat;
+2. Anträge auf Berichtigung des Grundbuchs, die sie beurkundet haben oder über die sie eine Urkunde entworfen und darauf eine Unterschrift beglaubigt haben, wenn der Antrag darauf gestützt wird, dass der Grundstückseigentümer gewechselt hat;
 
-3. Zuschlagsbeschlüsse im Zwangsversteigerungsverfahren, Enteignungsbeschlüsse und andere Entscheidungen, durch die ein Wechsel im Grundstückseigentum bewirkt wird. Die Anzeigepflicht der Gerichte besteht auch beim Wechsel im Grundstückseigentum auf Grund einer Eintragung im Handels-, Genossenschafts- oder Vereinsregister;
+3. Zuschlagsbeschlüsse im Zwangsversteigerungsverfahren, Enteignungsbeschlüsse und andere Entscheidungen, durch die ein Wechsel im Grundstückseigentum bewirkt wird; die Anzeigepflicht der Gerichte besteht auch beim Wechsel im Grundstückseigentum auf Grund einer Eintragung im Handels-, Genossenschafts- oder Vereinsregister;
 
-4. nachträgliche Änderungen oder Berichtigungen eines der unter Nummern 1 bis 3 aufgeführten Vorgänge.
+4. nachträgliche Änderungen oder Berichtigungen eines der unter den Nummern 1 bis 3 aufgeführten Vorgänge.
 
-Notare können die Anzeige nach Satz 1 auch elektronisch nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle nach Maßgabe des § 93c der Abgabenordnung erstatten. Der Anzeige ist eine Abschrift der Urkunde über den Rechtsvorgang, den Antrag, den Beschluß oder die Entscheidung beizufügen.
+Notare haben die Anzeige in den Fällen des Satzes 1 elektronisch nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle nach Maßgabe des § 22a dieses Gesetzes und des § 93c der Abgabenordnung zu erstatten. Der Anzeige ist eine Abschrift der Urkunde über den Rechtsvorgang, den Antrag, den Beschluss oder die Entscheidung beizufügen.
 
 (2) Die Anzeigepflicht bezieht sich auch auf Vorgänge, die ein Erbbaurecht oder ein Gebäude auf fremdem Boden betreffen. Sie gilt außerdem für Vorgänge, die die Übertragung von Anteilen an einer Kapitalgesellschaft, einer Personenhandelsgesellschaft oder einer Gesellschaft des bürgerlichen Rechts betreffen, wenn zum Vermögen der Gesellschaft ein im Geltungsbereich dieses Gesetzes liegendes Grundstück gehört.
 
-(3) Die Anzeigen sind innerhalb von zwei Wochen nach der Beurkundung oder der Unterschriftsbeglaubigung oder der Bekanntgabe der Entscheidung zu erstatten, und zwar auch dann, wenn die Wirksamkeit des Rechtsvorgangs vom Eintritt einer Bedingung, vom Ablauf einer Frist oder von einer Genehmigung abhängig ist. Sie sind auch dann zu erstatten, wenn der Rechtsvorgang von der Besteuerung ausgenommen ist.
+(3) Die Anzeigen sind innerhalb von zwei Wochen nach der Beurkundung oder der Unterschriftsbeglaubigung oder der Bekanntgabe der Entscheidung zu erstatten, und zwar auch dann, wenn die Wirksamkeit des Rechtsvorgangs vom Eintritt einer Bedingung, vom Ablauf einer Frist oder von einer Genehmigung abhängig ist. Sie sind auch dann zu erstatten, wenn der Rechtsvorgang von der Besteuerung ausgenommen ist. In begründeten Ausnahmefällen kann die Frist nach Satz 1 verlängert werden.
 
-(4) Die Absendung der Anzeige ist auf der Urschrift der Urkunde, in den Fällen, in denen eine Urkunde entworfen und darauf eine Unterschrift beglaubigt worden ist, auf der zurückbehaltenen beglaubigten Abschrift zu vermerken.
+(4) Die Absendung der Anzeige ist von den Gerichten und Behörden auf der Urschrift der Urkunde und in den Fällen, in denen eine Urkunde entworfen und darauf eine Unterschrift beglaubigt worden ist, auf der zurückbehaltenen beglaubigten Abschrift zu vermerken. Notare vermerken die Absendung der Anzeige im Urkundenverzeichnis.
 
 (5) Die Anzeigen sind an das für die Besteuerung, in den Fällen des § 17 Abs. 2 und 3 an das für die gesonderte Feststellung zuständige Finanzamt zu richten.
 
@@ -483,9 +483,11 @@ Die Gerichte, Behörden und Notare dürfen Urkunden, die einen anzeigepflichtige
 
 (2) Das Finanzamt hat die Bescheinigung zu erteilen, wenn die Grunderwerbsteuer entrichtet, sichergestellt oder gestundet worden ist oder wenn Steuerfreiheit gegeben ist. Es darf die Bescheinigung auch in anderen Fällen erteilen, wenn nach seinem Ermessen die Steuerforderung nicht gefährdet ist. Das Finanzamt hat die Bescheinigung schriftlich zu erteilen. Eine elektronische Übermittlung der Bescheinigung ist ausgeschlossen.
 
-# § 22a – Verordnungsermächtigung
+# § 22a – Elektronisches Verfahren zur Übermittlung; Verordnungsermächtigung
 
-Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz sowie mit Zustimmung des Bundesrates für Anzeigen nach § 18 Absatz 1 Satz 2, für die Abschrift der Urkunde nach § 18 Absatz 1 Satz 3 und für elektronisch zu erteilende Bescheinigungen nach § 22 Absatz 2 Satz 5 in der ab dem 1. Januar 2028 geltenden Fassung durch Rechtsverordnung
+(1) Die elektronische Erstattung der Anzeige durch die Notare nach § 18 Absatz 1 Satz 2 und die Übersendung der Abschrift der Urkunde nach § 18 Absatz 1 Satz 3 erfolgt über ein sicheres Verfahren nach § 87a Absatz 6 der Abgabenordnung.
+
+(2) Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz sowie mit Zustimmung des Bundesrates für Anzeigen nach § 18 Absatz 1 Satz 2, für die Abschrift der Urkunde nach § 18 Absatz 1 Satz 3 und für elektronisch zu erteilende Bescheinigungen nach § 22 Absatz 2 Satz 5 in der ab dem 1. Januar 2028 geltenden Fassung durch Rechtsverordnung
 
 1. Einzelheiten der Datenübermittlung und Datenbereitstellung zu regeln sowie Dateiformate und Anforderungen an die Barrierefreiheit für die zu übermittelnden und bereitzustellenden Dokumente festzulegen und
 

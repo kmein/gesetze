@@ -2168,7 +2168,7 @@
 - [GBV](laws/GBV-BJNR706370935.md) Verordnung zur Durchführung der Grundbuchordnung
 - [GBWiederhV](laws/GBWiederhV-BJNR010480940.md) Verordnung über die Wiederherstellung zerstörter oder abhanden gekommener Grundbücher und Urkunden
 - [GBZugV](laws/GBZugV-BJNR312000011.md) Berufszugangsverordnung für den Güterkraftverkehr
-- [GDBNDVerfSchVDV](laws/GDBNDVerfSchVDV-BJNR136800018.md) Verordnung über den Vorbereitungsdienst für den gehobenen Dienst im Bundesnachrichtendienst und den gehobenen Dienst im Verfassungsschutz des Bundes
+- [GDBNDVerfSchVDV](laws/GDBNDVerfSchVDV-BJNR1110B0026.md) Verordnung über den Vorbereitungsdienst für den gehobenen Dienst im Bundesnachrichtendienst und den gehobenen Dienst im Verfassungsschutz des Bundes
 - [GDNG](laws/GDNG-BJNR0660B0024.md) Gesetz zur Nutzung von Gesundheitsdaten zu gemeinwohlorientierten Forschungszwecken und zur datenbasierten Weiterentwicklung des Gesundheitswesens
 - [GDolmG](laws/GDolmG-BJNR212400019.md) Gesetz über die allgemeine Beeidigung von gerichtlichen Dolmetschern
 - [GDtWahlVDVtr](laws/GDtWahlVDVtr-BJNR208220990.md) Vertrag zur Vorbereitung und Durchführung der ersten gesamtdeutschen Wahl des Deutschen Bundestages zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik
@@ -2287,11 +2287,8 @@
 - [GleiStatV](laws/GleiStatV-BJNR228000015.md) Verordnung über statistische Erhebungen zur Gleichstellung von Frauen und Männern in den Dienststellen und Gremien des Bundes
 - [GlPrZBKnV](laws/GlPrZBKnV-BJNR136300011.md) Verordnung zur Gleichstellung der bei der Bundesknappschaft erworbenen Prüfungszeugnisse über das Bestehen der Prüfung nach dem Tarifvertrag über die Fortbildung von Angestellten mit Zeugnissen zur Sozialversicherungsfachwirtin oder zum Sozialversicherungsfachwirt – Fachrichtung knappschaftliche Sozialversicherung
 - [GlPrZHanauV 2019](laws/GlPrZHanauV_2019-BJNR092900019.md) Verordnung zur Gleichstellung von Prüfungszeugnissen der Staatlichen Zeichenakademie Hanau mit den Zeugnissen über das Bestehen der Abschluss- und Gesellenprüfung in Ausbildungsberufen
-- [GlPrZHerneV](laws/GlPrZHerneV-BJNR148100007.md) Verordnung zur Gleichstellung von Prüfungszeugnissen der staatlich anerkannten Hiberniaschule Herne mit den Zeugnissen über das Bestehen der Gesellenprüfung in handwerklichen Ausbildungsberufen
-- [GlPrZKaiserslauternV](laws/GlPrZKaiserslauternV-BJNR148900007.md) Verordnung zur Gleichstellung von Prüfungszeugnissen der Berufsfachschule - Handwerksberufe - an der Berufsbildenden Schule des Bezirksverbandes Pfalz in Kaiserslautern mit den Zeugnissen über das Bestehen der Abschluss- und Gesellenprüfung in Ausbildungsberufen
-- [GlPrZMichelstadtV 2019](laws/GlPrZMichelstadtV_2019-BJNR092500019.md) Verordnung zur Gleichstellung von Prüfungszeugnissen der Berufsfachschule für das Holz und Elfenbein verarbeitende Handwerk in Michelstadt mit den Zeugnissen über das Bestehen der Gesellenprüfung in Ausbildungsberufen
-- [GlPrZRheinbachV 2017](laws/GlPrZRheinbachV_2017-BJNR362500017.md) Verordnung zur Gleichstellung von Prüfungszeugnissen des Staatlichen Berufskollegs Glas-Keramik-Gestaltung des Landes Nordrhein-Westfalen in Rheinbach mit den Zeugnissen über das Bestehen der Abschluss- und Gesellenprüfung in Ausbildungsberufen
-- [GlPrZWeilburgV](laws/GlPrZWeilburgV-BJNR092700019.md) Verordnung zur Gleichstellung von Prüfungszeugnissen der Staatlichen Fachschule Weilburg-Hadamar Standort: Staatliche Glasfachschule Hadamar mit den Zeugnissen über das Bestehen der Abschluss- und Gesellenprüfung in Ausbildungsberufen
+- [GlPrZHerneV 2026](laws/GlPrZHerneV_2026-BJNR0CE0A0026.md) Verordnung zur Gleichstellung von Prüfungszeugnissen der Hiberniaschule Herne mit den Zeugnissen über das Bestehen der Gesellenprüfung in handwerklichen Ausbildungsberufen
+- [GlPrZRheinbachV2025](laws/GlPrZRheinbachV2025-BJNR0830A0026.md) Verordnung zur Gleichstellung von Prüfungszeugnissen der Glasfachschule NRW Berufskolleg Glas.Technik.Medien.Design mit den Zeugnissen über das Bestehen der Abschluss- und Gesellenprüfung in Ausbildungsberufen
 - [GMAusbV](laws/GMAusbV-BJNR113410015.md) Verordnung über die Berufsausbildung zum Gießereimechaniker und zur Gießereimechanikerin*
 - [GmbHG](laws/GmbHG-BJNR004770892.md) Gesetz betreffend die Gesellschaften mit beschränkter Haftung
 - [GModG](laws/GModG-BJNR172810020.md) Gesetz zur Einsparung von Energie und zur Modernisierung der Wärmeversorgung in Gebäuden*
@@ -2375,6 +2372,7 @@
 - [GrenzAV 2014](laws/GrenzAV_2014-BJNR144200014.md) Verordnung über die Ausdehnung des grenznahen Raums und die der Grenzaufsicht unterworfenen Gebiete
 - [GrenzVerkAUTVtrG 1](laws/GrenzVerkAUTVtrG_1-BJNR220850967.md) Gesetz zu dem Vertrag vom 17. Februar 1966 zwischen der Bundesrepublik Deutschland und der Republik Österreich über den Durchgangsverkehr auf der Roßfeldstraße
 - [GrenzVerkAUTVtrG 2](laws/GrenzVerkAUTVtrG_2-BJNR220910967.md) Gesetz zu dem Vertrag vom 17. Februar 1966 zwischen der Bundesrepublik Deutschland und der Republik Österreich über den Durchgangsverkehr auf den Straßen an der Walchen Ache und am Pittenbach sowie zum Bächen- und Rißtal im deutschen und österreichischen Grenzgebiet
+- [GrESteAV](laws/GrESteAV-BJNR1190A0026.md) Verordnung über den elektronischen Austausch zwischen Notaren und Finanzämtern im Bereich der Grunderwerbsteuer
 - [GrEStG](laws/GrEStG-BJNR017770982.md) Grunderwerbsteuergesetz
 - [GRG](laws/GRG-BJNR024770988.md) Gesetz zur Strukturreform im Gesundheitswesen
 - [GroMiKV](laws/GroMiKV-BJNR418300013.md) Verordnung zur Ergänzung der Großkreditvorschriften nach der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 648/2012 und zur Ergänzung der Millionenkreditvorschriften nach dem Kreditwesengesetz 1

@@ -1098,8 +1098,6 @@ Die Genehmigung schließt andere das Lager betreffende behördliche Entscheidung
 
 (6) Als wesentlich im Sinne des Absatzes 1 Nr. 2 ist eine Änderung anzusehen, die besorgen lässt, dass zusätzliche oder andere Gefahren für Leben, Gesundheit oder Sachgüter Beschäftigter oder Dritter herbeigeführt werden. Eine Änderung ist nicht als wesentlich anzusehen, wenn Teile der Anlage durch der Bauart nach gleiche oder ähnliche, jedoch sicherheitstechnisch mindestens gleichwertige Teile ausgewechselt werden oder die Anlage im Rahmen der erteilten Genehmigung instand gesetzt wird.
 
-§ 17 Abs. 1 Satz 1 Nr. 1 Kursivdruck zweites Komma: Der Wortlaut der Neufassung gem. Bek. v. 10.9.2002 I 3518 weicht von letzter konstitutiver Fassung ab
-
 # § 18 – Ermächtigungen
 
 Durch Rechtsverordnung nach § 25 kann bestimmt werden,

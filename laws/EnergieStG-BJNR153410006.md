@@ -2358,7 +2358,7 @@ g) die Einhaltung der in den ergänzenden Bestimmungen normierten Verpflichtunge
 
 # § 68 – Zeitlich begrenzte Fassungen einzelner Gesetzesvorschriften
 
-(1) § 2 Absatz 1 ist vom 1. Mai 2026 bis zum 30. Juni 2026 mit der Maßgabe anzuwenden, dass die Steuer für
+(1) § 2 Absatz 1 ist vom 1. Mai 2026 bis zum 30. Juni 2026 und vom 1. Oktober 2026 bis zum 31. Dezember 2026 mit der Maßgabe anzuwenden, dass die Steuer für
 
 1. 1 000 l Benzin der Unterpositionen 2710 12 41, 2710 12 45 und 2710 12 49 der Kombinierten Nomenklatur mit einem Schwefelgehalt von höchstens 10 mg/kg nach § 2 Absatz 1 Nummer 1 Buchstabe b 514,10 Euro,
 
@@ -2368,12 +2368,12 @@ bis 2710 20 19 der Kombinierten Nomenklatur mit einem Schwefelgehalt von höch
 
 beträgt.
 
-(2) § 47a Absatz 2 Satz 1 Nummer 1 ist mit der Maßgabe anzuwenden, dass keine Steuerentlastung für nach § 2 Absatz 1 Nummer 4 Buchstabe b versteuerte und vom 1. Mai 2026 bis zum 30. Juni 2026 bezogene Energieerzeugnisse gewährt wird.
+(2) § 47a Absatz 2 Satz 1 Nummer 1 ist mit der Maßgabe anzuwenden, dass keine Steuerentlastung für nach § 2 Absatz 1 Nummer 4 Buchstabe b versteuerte und vom 1. Mai 2026 bis zum 30. Juni 2026 und vom 1. Oktober 2026 bis zum 31. Dezember 2026 bezogene Energieerzeugnisse gewährt wird.
 
-(3) § 56 ist mit der Maßgabe anzuwenden, dass keine Steuerentlastung für vom 1. Mai 2026 bis zum 30. Juni 2026 bezogene Gasöle nach § 2 Absatz 1 Nummer 4 Buchstabe b gewährt wird.
+(3) § 56 ist mit der Maßgabe anzuwenden, dass keine Steuerentlastung für vom 1. Mai 2026 bis zum 30. Juni 2026 und vom 1. Oktober 2026 bis zum 31. Dezember 2026 bezogene Gasöle nach § 2 Absatz 1 Nummer 4 Buchstabe b gewährt wird.
 
-(4) § 8 Absatz 7 und die §§ 46, 47, 48, 49, 52, 53, 58, 58a, 59 sowie 60 sind mit der Maßgabe anzuwenden, dass sich die Steuerentlastung für die in Absatz 1 genannten Energieerzeugnisse, für die im Zeitraum vom 1. Mai 2026 bis zum 30. Juni 2026 der Entlastungsanspruch entstanden ist, nach den in diesem Absatz genannten Steuersätzen bemisst.
+(4) § 8 Absatz 7 und die §§ 46, 47, 48, 49, 52, 53, 58, 58a, 59 sowie 60 sind mit der Maßgabe anzuwenden, dass sich die Steuerentlastung für die in Absatz 1 genannten Energieerzeugnisse, für die im Zeitraum vom 1. Mai 2026 bis zum 30. Juni 2026 und vom 1. Oktober 2026 bis zum 31. Dezember 2026 der Entlastungsanspruch entstanden ist, nach den in diesem Absatz genannten Steuersätzen bemisst.
 
-(5) Unbeschadet der Regelungen in den §§ 47a, 48, 49, 56, 57 bemisst sich die Entlastung für die in Absatz 1 genannten Energieerzeugnisse, für die ab dem 1. Juli 2026 der Entlastungsanspruch entsteht, nach dem zutreffenden Steuersatz in § 2 Absatz 1.
+(5) Unbeschadet der Regelungen in den §§ 47a, 48, 49, 56, 57 bemisst sich die Entlastung für die in Absatz 1 genannten Energieerzeugnisse, für die zwischen dem 1. Juli 2026 bis 30. September 2026 und ab dem 1. Januar 2027 der Entlastungsanspruch entsteht, nach dem zutreffenden Steuersatz in § 2 Absatz 1.
 
 # Anlage – (weggefallen)
