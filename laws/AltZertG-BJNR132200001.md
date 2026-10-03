@@ -245,8 +245,6 @@ Der Anbieter hat bei einem Vertragswechsel in den Fällen des Satzes 4 Nummer 2 
 
 (5) Wird eine Zertifizierung nach Absatz 2 Satz 1 widerrufen, haben Vertragspartner einen Anspruch, ihren Vertrag mit einer Frist von sechs Monaten nach Kenntnis des Widerrufs der Zertifizierung zu kündigen. Wird das gebildete Kapital innerhalb der Frist nach Satz 1 auf einen anderen auf den Namen des Vertragspartners lautenden Altersvorsorgevertrag übertragen, liegt keine schädliche Verwendung im Sinne des § 93 des Einkommensteuergesetzes vor; § 3 Nummer 55c des Einkommensteuergesetzes findet Anwendung. Der Anbieter hat im Fall der Übertragung nach Satz 2 einem Vertragspartner alle im Zusammenhang mit dem ursprünglich zertifizierten Vertrag verrechneten Abschluss- und Vertriebskosten zu erstatten. Macht der Vertragspartner seinen Anspruch auf Kapitalübertragung innerhalb der Frist nicht geltend, liegt mit dem Widerruf der Zertifizierung eine schädliche Verwendung im Sinne des § 93 des Einkommensteuergesetzes vor. Der Anbieter ist verpflichtet, den Vertragspartner unverzüglich über den Widerruf der Zertifizierung, den Anspruch auf Vertragswechsel nach Satz 1 und die steuerlichen Folgen hinzuweisen.
 
-(+++ § 5: Zur Anwendung d. Änderungen d. Art. 2 Nr. 6 G v. 24.6.2013 I 1667 vgl. § 14 Abs. 6 +++)
-
 # § 5a – Zertifizierung von Basisrentenverträgen
 
 Die Zertifizierungsstelle erteilt die Zertifizierung nach § 2 Abs. 3, wenn ihr die nach diesem Gesetz erforderlichen Angaben und Unterlagen vorliegen sowie die Vertragsbedingungen des Basisrentenvertrags dem § 2 Absatz 1 oder Absatz 1a sowie dem § 2a entsprechen und der Anbieter den Anforderungen des § 2 Absatz 2 entspricht.

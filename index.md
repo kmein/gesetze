@@ -2506,6 +2506,7 @@
 - [HörAkMstrV](laws/HörAkMstrV-BJNR020700022.md) Verordnung über die Meisterprüfung in den Teilen I und II im Hörakustiker-Handwerk
 - [HofV](laws/HofV-BJNR235800017.md) Verordnung über die grundbuchmäßige Behandlung von Anteilen an ungetrennten Hofräumen
 - [HoheSeeEinbrG](laws/HoheSeeEinbrG-BJNR245510998.md) Gesetz über das Verbot der Einbringung von Abfällen und anderen Stoffen und Gegenständen in die Hohe See
+- [HoheSeeEinbrGÄndG 1](laws/HoheSeeEinbrGÄndG_1-BJNR0460A0026.md) Erstes Gesetz zur Änderung des Hohe-See-Einbringungsgesetzes
 - [HoheSeeÜbkG](laws/HoheSeeÜbkG-BJNR210890972.md) Gesetz zum Übereinkommen vom 29. April 1958 über die Hohe See
 - [HohSeeEinbrV](laws/HohSeeEinbrV-BJNR024780977.md) Verordnung zur Durchführung des Gesetzes zu den Übereinkommen vom 15. Februar 1972 und 29. Dezember 1972 zur Verhütung der Meeresverschmutzung durch das Einbringen von Abfällen durch Schiffe und Luftfahrzeuge
 - [HolzBauSchAusbV](laws/HolzBauSchAusbV-BJNR061000007.md) Verordnung über die Berufsausbildung im Holz- und Bautenschutzgewerbe

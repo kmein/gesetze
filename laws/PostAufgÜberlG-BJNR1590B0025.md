@@ -37,6 +37,8 @@ c) § 6 Absatz 3 in Verbindung mit § 4 Absatz 1 Satz 2 Nummer 3 der Sozialhilfe
 
 Der Verordnungsgeber gewährleistet eine zeitlich lückenlose Zuweisung der übertragenen öffentlichen Aufgaben, Rechte, Pflichten, Befugnisse und Zuständigkeiten. Die Rechtsverordnung nach § 1 Absatz 1 ist vor dem Tag zu erlassen, an dem die Maßnahme nach dem Umwandlungsgesetz wirksam wird. Die Aufgabenübertragung nach § 1 Absatz 1 und 2 soll ab dem Tag des Wirksamwerdens der Maßnahme nach dem Umwandlungsgesetz wirksam werden. Dies gilt auch für die Bestimmung des Nachfolgeunternehmens als Postnachfolgeunternehmen und die Entlassung des Vorgängerunternehmens Deutsche Post AG aus dem Status eines Postnachfolgeunternehmens nach § 1 Absatz 3 Nummer 2. Die Bundesregierung gibt das Wirksamwerden der Aufgabenübertragung, der Bestimmung des Nachfolgeunternehmens zum Postnachfolgeunternehmen und der Entlassung der Deutsche Post AG aus dem Status eines Postnachfolgeunternehmens sowie den Tag des Wirksamwerdens der Maßnahme nach dem Umwandlungsgesetz im Bundesanzeiger bekannt.
 
+(+++ § 2 Satz 5: vgl. Bek. v. 23.9.2026 BAnz AT 01.10.2026 B1 +++)
+
 # § 3 – Rechtsfolgen; Verordnungsermächtigung
 
 (1) Mit dem Wirksamwerden der Aufgabenübertragung nach § 1 Absatz 1 und 2 tritt das Nachfolgeunternehmen in die durch Rechtsverordnung übertragenen öffentlichen Aufgaben, Rechte, Pflichten, Befugnisse und Zuständigkeiten des Vorgängerunternehmens ein, soweit diese Nachfolge nicht schon nach den Vorschriften des Umwandlungsgesetzes eintritt.

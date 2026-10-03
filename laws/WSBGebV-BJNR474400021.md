@@ -145,10 +145,6 @@ Im Zuständigkeitsbereich des Bundesministeriums für Verkehr für die Wasserstr
 
 68. Schiffssicherheitsgesetz (SchSG),
 
-65. Seeversicherungsnachweisverordnung (SeeVersNachwV),
-
-66. Schiffssicherheitsgesetz (SchSG),
-
 69. Schiffsbesetzungsverordnung (SchBesV),
 
 70. MARPOL-Gesetz (IntMeerSchÜbk1973G),

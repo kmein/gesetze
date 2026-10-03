@@ -11,9 +11,9 @@
 
 3. als Sachverständiger öffentlich bestellt ist.
 
-(2) Die Verpflichtung wird mündlich vorgenommen. Dabei ist auf die strafrechtlichen Folgen einer Pflichtverletzung hinzuweisen.
+(2) Die Verpflichtung wird mündlich in Anwesenheit der zu verpflichtenden Person vorgenommen. Sie kann auch im Wege der zeitgleichen Bild- und Tonübertragung vorgenommen werden. Bei der Verpflichtung ist auf die strafrechtlichen Folgen einer Pflichtverletzung hinzuweisen.
 
-(3) Über die Verpflichtung wird eine Niederschrift aufgenommen, die der Verpflichtete mit unterzeichnet. Er erhält eine Abschrift der Niederschrift; davon kann abgesehen werden, wenn dies im Interesse der inneren oder äußeren Sicherheit der Bundesrepublik Deutschland geboten ist.
+(3) Über die Verpflichtung wird eine Niederschrift aufgenommen, die die verpflichtete Person mitunterzeichnet und von der ihr eine Abschrift überlassen wird. Wird die Verpflichtung im Wege der zeitgleichen Bild- und Tonübertragung vorgenommen, ist dies in der Niederschrift zu vermerken. Die Niederschrift kann auch als elektronisches Dokument aufgenommen werden. Die elektronische Niederschrift muss von der verpflichteten Person entweder mit ihrer qualifizierten elektronischen Signatur versehen oder auf einem zur elektronischen Erfassung der Unterschrift geeigneten Hilfsmittel unterzeichnet werden. Die zuständige Stelle hat die elektronische Niederschrift mit einer qualifizierten elektronischen Signatur zu versehen und diese Niederschrift oder eine Abschrift der verpflichteten Person zu überlassen. Wird bei einer Verpflichtung im Wege der zeitgleichen Bild- und Tonübertragung die Niederschrift in Papierform aufgenommen, hat die zuständige Stelle der verpflichteten Person eine unterzeichnete Abschrift der Niederschrift zu übermitteln, die die verpflichtete Person unverzüglich unterzeichnet und an die zuständige Stelle zurücksendet. Von der Überlassung oder Übermittlung der Niederschrift oder Abschrift kann abgesehen werden, wenn dies im Interesse der inneren oder äußeren Sicherheit der Bundesrepublik Deutschland geboten ist.
 
 (4) Welche Stelle für die Verpflichtung zuständig ist, bestimmt
 
@@ -33,9 +33,7 @@
 
 zur gewissenhaften Erfüllung seiner Obliegenheiten verpflichtet worden ist, steht einem nach § 1 Verpflichteten gleich, wenn die Voraussetzungen des § 1 Abs. 2 erfüllt sind.
 
-# § 3
-
-Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
+# § 3 – (weggefallen)
 
 # § 4
 
