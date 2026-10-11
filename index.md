@@ -545,6 +545,7 @@
 - [BBiMindVergFBek 2024](laws/BBiMindVergFBek_2024-BJNR1170A0023.md) Bekanntmachung zur Fortschreibung der Höhe der Mindestvergütung für Berufsausbildungen nach dem Berufsbildungsgesetz (2024)
 - [BBiMindVergFBek 2025](laws/BBiMindVergFBek_2025-BJNR1310A0024.md) Bekanntmachung zur Fortschreibung der Höhe der Mindestvergütung für Berufsausbildungen nach dem Berufsbildungsgesetz (2025)
 - [BBiMindVergFBek 2026](laws/BBiMindVergFBek_2026-BJNR0EB0A0025.md) Bekanntmachung zur Fortschreibung der Höhe der Mindestvergütung für Berufsausbildungen nach dem Berufsbildungsgesetz (2026)
+- [BBiMindVergFBek 2027](laws/BBiMindVergFBek_2027-BJNR11F0A0026.md) Bekanntmachung zur Fortschreibung der Höhe der Mindestvergütung für Berufsausbildungen nach dem Berufsbildungsgesetz (2027)
 - [BBKG](laws/BBKG-BJNR063010004.md) Gesetz über die Errichtung des Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe
 - [BBodSchG](laws/BBodSchG-BJNR050210998.md) Gesetz zum Schutz vor schädlichen Bodenveränderungen und zur Sanierung von Altlasten
 - [BBodSchV](laws/BBodSchV-BJNR271600021.md) Bundes-Bodenschutz- und Altlastenverordnung
@@ -657,6 +658,7 @@
 - [BerHG](laws/BerHG-BJNR006890980.md) Gesetz über Rechtsberatung und Vertretung für Bürger mit geringem Einkommen
 - [Berlin/BonnG](laws/Berlin_BonnG-BJNR091800994.md) Gesetz zur Umsetzung des Beschlusses des Deutschen Bundestages vom 20. Juni 1991 zur Vollendung der Einheit Deutschlands
 - [BerlinFG 1990](laws/BerlinFG_1990-BJNR000410950.md) Gesetz zur Förderung der Berliner Wirtschaft
+- [BErpG](laws/BErpG-BJNR1210B0026.md) Gesetz zur Förderung der Erprobung von Innovationen und neuer Verwaltungsverfahren in Reallaboren und zur Förderung des regulatorischen Lernens
 - [BerRehaG](laws/BerRehaG-BJNR131400994.md) Gesetz über den Ausgleich beruflicher Benachteiligungen für Opfer politischer Verfolgung im Beitrittsgebiet
 - [BerRehaGAnpV 2026](laws/BerRehaGAnpV_2026-BJNR0BC0A0026.md) Verordnung zur Anpassung der Höhe der monatlichen Ausgleichsleistungen nach § 8 Absatz 1 Satz 4 des Beruflichen Rehabilitierungsgesetzes ab dem 1. Juli 2026
 - [BerVersV](laws/BerVersV-BJNR285800017.md) Verordnung über die Berichterstattung von Versicherungsunternehmen gegenüber der Bundesanstalt für Finanzdienstleistungsaufsicht
@@ -5436,6 +5438,7 @@
 - [VKFVÄndBek 2024](laws/VKFVÄndBek_2024-BJNR634800023.md) Bekanntmachung der Änderung des Kostensatzes nach § 20 der Verwaltungskostenfeststellungsverordnung
 - [VKFVÄndBek 2025](laws/VKFVÄndBek_2025-BJNR631300024.md) Bekanntmachung der Änderung des Kostensatzes nach § 20 der Verwaltungskostenfeststellungsverordnung
 - [VKFVÄndBek 2026](laws/VKFVÄndBek_2026-BJNR626510025.md) Bekanntmachung der Änderung des Kostensatzes nach § 20 der Verwaltungskostenfeststellungsverordnung
+- [VKFVÄndBek 2027](laws/VKFVÄndBek_2027-BJNR627800026.md) Bekanntmachung der Änderung des Kostensatzes nach § 20 der Verwaltungskostenfeststellungsverordnung
 - [VKRegV](laws/VKRegV-BJNR180400018.md) Verordnung über das Register für Verbandsklagen
 - [VKVV](laws/VKVV-BJNR047500001.md) Verordnung über die Versicherungsnummer, die Kontoführung und den Versicherungsverlauf in der gesetzlichen Rentenversicherung
 - [VollstrAbkBELAG](laws/VollstrAbkBELAG-BJNR004250959.md) Gesetz zur Ausführung des Abkommens zwischen der Bundesrepublik Deutschland und dem Königreich Belgien vom 30. Juni 1958 über die gegenseitige Anerkennung und Vollstreckung von gerichtlichen Entscheidungen, Schiedssprüchen und öffentlichen Urkunden in Zivil- und Handelssachen

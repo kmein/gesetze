@@ -228,3 +228,25 @@ Das Bundesministerium für Wirtschaft und Energie berichtet dem Deutschen Bundes
 1. die Identifikationsnummern nach § 3 Absatz 3 Nummer 7 bis 10 in den Registern und Datenbeständen öffentlicher Stellen durch die bundeseinheitliche Wirtschaftsnummer nach § 2 abgelöst werden können und
 
 2. durch das registerübergreifende Identitätsmanagement zu Unternehmen anhand der bundeseinheitlichen Wirtschaftsnummer nach § 2 eine ausschließlich zentrale Speicherung von Unternehmensbasisdaten bei der Registerbehörde umgesetzt werden kann.
+
+# § 12 – Experimentierklausel
+
+(1) Das Bundesministerium für Wirtschaft und Energie kann im Rahmen der in § 1 Absatz 2 genannten Zwecke Abweichungen von § 3 Absatz 1 bis 4, § 4 Absatz 1 und 2 sowie § 5 dieses Gesetzes zulassen für die Erprobung
+
+1. des Anschlusses des Basisregisters an das Nationale Once-Only-Technical-System im Sinne des Vertrages über die Errichtung, den Betrieb und die Weiterentwicklung des Nationalen Once-Only-Technical-Systems (NOOTS) – Vertrag zur Ausführung von Artikel 91c Absatz 1, Absatz 2 GG – NOOTS-Staatsvertrag vom 24. März 2025 (BGBl. 2025 I Nr. 325, S. 3; 2026 I Nr. 35) sowie
+
+2. der Übermittlung von Unternehmensbasisdaten an die Deutsche Bundesbank, zur Sicherstellung der Vollständigkeit, Richtigkeit, Aktualität und Konsistenz von Unternehmensdaten in den Meldungen im statistischen Meldewesen der Mitglieder des Europäischen Systems der Zentralbanken, insbesondere im Rahmen der Standardisierung und Integration europäischer Berichtsanforderungen.
+
+Soweit eine Abweichung nach Satz 1 den Anschluss weiterer öffentlicher Stellen an das Basisregister oder die Übermittlung von Daten dieser Stellen an das Basisregister zur Folge haben soll, die nicht in den Zuständigkeitsbereich des Bundesministeriums für Wirtschaft und Energie fallen, kann das Bundesministerium für Wirtschaft und Energie die Abweichung nur im Einvernehmen mit dem betroffenen zuständigen Ressort zulassen.
+
+(2) Über die in Absatz 1 genannten Anwendungsfälle hinaus kann das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz und dem Bundesministerium der Finanzen zur Erprobung des Anschlusses weiterer öffentlicher Stellen und der Aufnahme weiterer Einheiten und Merkmale in das Basisregister Abweichungen von § 3 Absatz 1 bis 4, § 4 Absatz 1 und 2 sowie § 5 dieses Gesetzes zulassen. Soweit die Übermittlung der Deutschen Gesetzlichen Unfallversicherung e. V. gemäß § 4 Absatz 1 Nummer 2 um weitere Einheiten oder Merkmale erweitert wird, ist auch Einvernehmen mit dem Bundesministerium für Arbeit und Soziales herzustellen.
+
+(3) Abweichungen, die nach den Absätzen 1 oder 2 zugelassen werden, sind angemessen zu befristen, jedoch nicht länger als für die Dauer von drei Jahren. Die Dauer der Erprobung ist im Einzelfall so festzusetzen, dass der Erprobungszweck erfüllt und ausreichend regulatorische Erkenntnisse gesammelt werden können. Die Zulassung der Abweichungen kann im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz und dem Bundesministerium der Finanzen zwei Mal jeweils um weitere zwei Jahre verlängert werden, wenn die Voraussetzungen der Erteilung der Zulassung weiter fortbestehen und der bisherige Verlauf der Erprobung einer Verlängerung nicht entgegensteht.
+
+(4) Im Rahmen der nach den Absätzen 1 oder 2 zugelassenen Abweichungen dürfen zusätzlich zu den Stellen, die in § 4 Absatz 1 und 2, § 5 sowie in der nach § 10 Satz 1 Nummer 6 und 7 erlassenen Verordnung genannt werden, weitere öffentliche Stellen als datenübermittelnde oder datenabrufende Stellen an das Basisregister angeschlossen werden. Weiterhin dürfen zusätzlich zu den Einheiten und Daten, die in § 3 Absatz 1 bis 3 sowie in der nach § 10 Satz 1 Nummer 6 und 7 erlassenen Verordnung genannt werden, weitere Einheiten als Unternehmen im Basisregister geführt und weitere Daten zu diesen gespeichert werden.
+
+(5) Soweit dies für die Erprobung nach den Absätzen 1 bis 4 erforderlich ist, dürfen Daten einschließlich personenbezogener Daten an das Basisregister übermittelt, vom Basisregister erhoben, gespeichert sowie an datenabrufende öffentliche Stellen übermittelt werden.
+
+(6) Das Bundesministerium für Wirtschaft und Energie veröffentlicht vor deren Wirksamwerden die nach den Absätzen 1 oder 2 zugelassenen Abweichungen einschließlich des Zwecks der Erprobung, der weiteren an das Basisregister angeschlossenen Stellen, der weiteren im Basisregister geführten Einheiten, der dazu gespeicherten Daten und der Befristung der Abweichungen auf seiner Webseite.
+
+(7) Die Erprobung soll nach Ablauf ihrer jeweiligen Befristung im Auftrag des Bundesministeriums für Wirtschaft und Energie evaluiert werden. Die Evaluierung soll innerhalb von zwei Jahren erfolgen.

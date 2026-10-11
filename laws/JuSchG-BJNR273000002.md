@@ -261,6 +261,12 @@ vorgenommen wurde. Die §§ 10b und 14 Absatz 2a gelten entsprechend.
 
 (3) Die Vorschrift findet auch auf Diensteanbieter Anwendung, deren Sitzland nicht Deutschland ist. Die §§ 2 und 3 des Digitale-Dienste-Gesetzes bleiben unberührt.
 
+# § 14b – Experimentierklausel für die Nutzung von automatisierten Bewertungssystemen
+
+(1) Mit Genehmigung der Bundeszentrale für Kinder- und Jugendmedienschutz kann eine Einrichtung der freiwilligen Selbstkontrolle in dem gemeinsamen Verfahren für die Freigabe und Kennzeichnung der Filme sowie Spielprogramme mit den obersten Landesbehörden nach § 14 Absatz 6, ein automatisiertes Bewertungssystem nach § 14a Absatz 1 Satz 2 Nummer 3 zum Zwecke der Erprobung einsetzen.
+
+(2) Genehmigungen, die nach Absatz 1 erteilt werden, sind angemessen zu befristen, jedoch nicht länger als für die Dauer von zwei Jahren. Die Dauer der Erprobung ist im Einzelfall so festzusetzen, dass der Erprobungszweck erfüllt und ausreichend regulatorische Erkenntnisse gesammelt werden können. Die Genehmigung kann einmalig um maximal weitere zwei Jahre verlängert werden, wenn die Voraussetzungen der Erteilung der Genehmigung weiter fortbesteht und der bisherige Verlauf der Erprobung einer Verlängerung nicht entgegensteht.
+
 # § 15 – Jugendgefährdende Medien
 
 (1) Medien, deren Aufnahme in die Liste jugendgefährdender Medien nach § 24 Abs. 3 Satz 1 bekannt gemacht ist, dürfen als Trägermedien nicht

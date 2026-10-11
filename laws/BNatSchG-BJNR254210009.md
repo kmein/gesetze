@@ -1979,19 +1979,7 @@ soweit sie durch das Vorhaben in ihrem satzungsgemäßen Aufgabenbereich berühr
 § 63 Abs. 2 Nr. 8 idF d. G v. 29.7.2009 I 2542: Sachsen - Abweichung durch <a href="../abweichendes_Landesrecht/natschg_sn__56.html" target="_blank" title="Anzeige in neuem Fenster">§ 56 d. Sächsischen Naturschutzgesetzes (SächsNatSchG)</a> idF d. Bek. v. 3.7.2007 SächsGVBl. S. 321, zuletzt geändert durch Artikel 17 des G v. 15.12.2010 SächsGVBl. S. 387, 398, mWv 15.5.2010 (vgl. BGBl. I 2011, 842)  
 § 63 Abs. 3 Satz 1 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch <a href="../abweichendes_Landesrecht/natschg_sh__40.html" target="_blank" title="Anzeige in neuem Fenster">§ 40 Abs. 3 d. Landesnaturschutzgesetzes (LNatSchG)</a> v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450)
 
-# § 64 – Rechtsbehelfe
-
-(1) Eine anerkannte Naturschutzvereinigung kann, soweit § 1 Absatz 3 des Umwelt-Rechtsbehelfsgesetzes nicht entgegensteht, ohne in eigenen Rechten verletzt zu sein, Rechtsbehelfe nach Maßgabe der Verwaltungsgerichtsordnung einlegen gegen Entscheidungen nach § 63 Absatz 1 Nummer 2 bis 4 und Absatz 2 Nummer 4a bis 7, wenn die Vereinigung
-
-1. geltend macht, dass die Entscheidung Vorschriften dieses Gesetzes, Rechtsvorschriften, die auf Grund dieses Gesetzes erlassen worden sind oder fortgelten, Naturschutzrecht der Länder oder anderen Rechtsvorschriften, die bei der Entscheidung zu beachten und zumindest auch den Belangen des Naturschutzes und der Landschaftspflege zu dienen bestimmt sind, widerspricht,
-
-2. in ihrem satzungsgemäßen Aufgaben- und Tätigkeitsbereich, soweit sich die Anerkennung darauf bezieht, berührt wird und
-
-3. zur Mitwirkung nach § 63 Absatz 1 Nummer 2 oder Absatz 2 Nummer 4a bis 5 berechtigt war und sie sich hierbei in der Sache geäußert hat oder ihr keine Gelegenheit zur Äußerung gegeben worden ist; dies gilt auch für die Mitwirkung nach § 63 Absatz 1 Nummer 3 und Absatz 2 Nummer 6, sofern für ein solches Planfeststellungsverfahren eine Anwendung des Bundesnaturschutzgesetzes nicht nach § 1 Absatz 3 des Umwelt-Rechtsbehelfsgesetzes ausgeschlossen ist.
-
-(2) § 1 Absatz 1 Satz 3 und 4, § 2 Absatz 3 Satz 1 und § 5 des Umwelt-Rechtsbehelfsgesetzes gelten entsprechend.
-
-(3) Die Länder können Rechtsbehelfe von anerkannten Naturschutzvereinigungen auch in anderen Fällen zulassen, in denen nach § 63 Absatz 2 Nummer 8 eine Mitwirkung vorgesehen ist.
+# § 64 – (weggefallen)
 
 # § 65 – Duldungspflicht
 
@@ -2300,7 +2288,7 @@ Die zuständigen Verwaltungsbehörden und die Staatsanwaltschaft können im Rahm
 
 (2) Vor dem 3. April 2002 begonnene Verwaltungsverfahren sind nach § 29 des Bundesnaturschutzgesetzes in der bis zu diesem Tag geltenden Fassung zu Ende zu führen. Vor dem 1. März 2010 begonnene Verwaltungsverfahren sind nach § 58 des Bundesnaturschutzgesetzes in der bis zu diesem Tag geltenden Fassung zu Ende zu führen.
 
-(3) Die §§ 63 und 64 gelten auch für Vereine, die nach § 29 des Bundesnaturschutzgesetzes in der bis zum 3. April 2002 geltenden Fassung oder nach § 59 oder im Rahmen von § 60 Absatz 1 und 3 des Bundesnaturschutzgesetzes in der bis zum 1. März 2010 geltenden Fassung vom Bund oder den Ländern anerkannt worden sind.
+(3) (weggefallen)
 
 (4) § 45b Absatz 1 bis 6 sind nicht anzuwenden auf bereits genehmigte Vorhaben zur Errichtung und zum Betrieb von Windenergieanlagen an Land sowie auf solche Vorhaben,
 
@@ -2311,8 +2299,6 @@ Die zuständigen Verwaltungsbehörden und die Staatsanwaltschaft können im Rahm
 (5) Abweichend von Absatz 4 ist § 45b Absatz 1 bis 6 bereits vor dem in Absatz 4 genannten Tag anzuwenden, wenn der Träger eines Vorhabens dies verlangt.
 
 (6) Das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz prüft gemeinsam mit dem Bundesministerium für Wirtschaft und Klimaschutz unter Einbeziehung der maßgeblich betroffenen Verbände die Einführung einer probabilistischen Methode zur Berechnung der Kollisionswahrscheinlichkeit und legt dem Bundeskabinett hierzu bis zum 30. Juni 2023 einen Bericht zur Einführung der Methode oder einen Vorschlag zur Anpassung dieses Gesetzes oder eine Rechtsverordnung zur Einführung der Methode nach Maßgabe von § 54 Absatz 10c Satz 1 Nummer 1 vor. Das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz evaluiert gemeinsam mit dem Bundesministerium für Wirtschaft und Klimaschutz die in den §§ 45b bis 45d enthaltenen Bestimmungen über einen Zeitraum von zwei Jahren ab dem 29. Juli 2022 und danach alle drei Jahre.
-
-§ 74 Abs. 3 idF d. G v. 29.7.2009 I 2542: Hamburg - Abweichung durch <a href="../abweichendes_Landesrecht/bnatschgag_ha__21.html" target="_blank" title="Anzeige in neuem Fenster">§ 21 Abs. 1 d. Hamburgischen Gesetzes zur Ausführung des Bundesnaturschutzgesetzes (HmbBNatSchAG)</a> v. 11.5.2010 HmbGVBl. S. 350, 402 mWv 1.6.2010 (vgl. BGBl. I 2011, 93); geänderte Abweichung durch § 21 Abs. 1 Nr. 4 d. Hamburgischen Gesetzes zur Ausführung des Bundesnaturschutzgesetzes (HmbBNatSchAG) v. 11.5.2010 HmbGVBl. S. 350, 402, dieser geändert durch Art. 2 G v. 2.12.2013 HmbGVBl. S. 484, mWv 7.12.2013 (vgl. BGBl. I 2015, 123)
 
 # Anlage 1 – (zu § 45b Absatz 1 bis 5)
 

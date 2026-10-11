@@ -189,7 +189,11 @@ Staatsangehörige der Mitgliedstaaten der Europäischen Union stehen deutschen S
 
 (1) Mit der Eintragung in die Luftfahrzeugrolle wird die Pflicht nach § 2 Abs. 5 begründet.
 
-(2) Das Bundesministerium für Verkehr oder eine von ihm bestimmte Behörde kann durch Verwaltungsabkommen mit der zuständigen Behörde eines ausländischen Staates zur Umsetzung von Artikel 83 (hoch) bis des Abkommens über die Internationale Zivilluftfahrt vom 7. Dezember 1944 (BGBl. 1956 II S. 412, 1997 II S. 1777) die völkerrechtliche Verantwortung und die damit verbundene Zuständigkeit für ein nach § 3 eingetragenes Luftfahrzeug auf die zuständige Stelle des anderen Staates übertragen.
+(2) Das Bundesministerium für Verkehr oder eine von ihm bestimmte Behörde kann durch Verwaltungsabkommen mit der zuständigen Behörde eines ausländischen Staates zur Umsetzung von Artikel 83
+
+bis</sup>
+
+des Abkommens über die Internationale Zivilluftfahrt vom 7. Dezember 1944 (BGBl. 1956 II S. 412, 1997 II S. 1777) die völkerrechtliche Verantwortung und die damit verbundene Zuständigkeit für ein nach § 3 eingetragenes Luftfahrzeug auf die zuständige Stelle des anderen Staates übertragen.
 
 (3) Desgleichen kann die Bundesrepublik Deutschland durch Verwaltungsabkommen nach Absatz 2 die Zuständigkeit für ein in einem ausländischen Register eingetragenes Luftfahrzeug übernehmen. Ein derartiges Luftfahrzeug unterliegt den Anforderungen dieses Gesetzes und den auf seiner Grundlage erlassenen Rechtsvorschriften.
 
@@ -1238,6 +1242,8 @@ Das Bundesministerium für Verkehr kann die Ermächtigung zum Erlass dieser Vero
 9. die Voraussetzungen und das Verfahren für die Einrichtung und Aufhebung von Luftsperrgebieten und von Gebieten mit Flugbeschränkungen,
 
 9a. die Voraussetzungen und das Verfahren für die Erteilung und den Widerruf der in diesem Gesetz vorgesehenen Genehmigungen, Zulassungen und Erlaubnisse sowie Befreiungen hiervon,
+
+9b. die Voraussetzungen und das Verfahren zur Einrichtung von Reallaboren zur Erprobung der Integration von Innovationen in bestehende Luftverkehrs- und Luftraumstrukturen,
 
 10. die Verpflichtung zur Mitführung von Urkunden (Bordpapiere) in Luftfahrzeugen und deren Inhalt,
 
