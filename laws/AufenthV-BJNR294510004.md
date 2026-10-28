@@ -2926,7 +2926,7 @@ Ordnungswidrig im Sinne des § 98 Abs. 3 Nr. 7 des Aufenthaltsgesetzes handelt, 
 
 # § 78 – Verwaltungsbehörden im Sinne des Gesetzes über Ordnungswidrigkeiten
 
-Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten wird bei Ordnungswidrigkeiten nach § 98 Abs. 2 des Aufenthaltsgesetzes, wenn sie bei der Einreise oder der Ausreise begangen werden, und nach § 98 Abs. 3 Nr. 3 des Aufenthaltsgesetzes auf die in der Rechtsverordnung nach § 58 Abs. 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde übertragen, soweit nicht die Länder im Einvernehmen mit dem Bund Aufgaben des grenzpolizeilichen Einzeldienstes mit eigenen Kräften wahrnehmen.
+Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten wird bei Ordnungswidrigkeiten nach § 98 Absatz 2 des Aufenthaltsgesetzes, wenn sie bei der Einreise oder der Ausreise begangen werden, nach § 98 Absatz 3 Nummer 2b des Aufenthaltsgesetzes, wenn die Anordnung durch eine mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörde erfolgte, und nach § 98 Absatz 3 Nummer 3 des Aufenthaltsgesetzes auf die in der Rechtsverordnung nach § 93 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde übertragen, soweit nicht die Länder im Einvernehmen mit dem Bund Aufgaben des grenzpolizeilichen Einzeldienstes mit eigenen Kräften wahrnehmen.
 
 # § 79 – Anwendung auf Freizügigkeitsberechtigte
 

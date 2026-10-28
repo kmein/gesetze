@@ -1044,7 +1044,7 @@
 - [BPolBG](laws/BPolBG-BJNR113570976.md) Bundespolizeibeamtengesetz
 - [BPolBG§1Abs1V 2003](laws/BPolBG§1Abs1V_2003-BJNR133800003.md) Verordnung zu § 1 Abs. 1 des Bundespolizeibeamtengesetzes
 - [BPolDKlZustAnO](laws/BPolDKlZustAnO-BJNR359400013.md) Anordnung des Bundespräsidenten über den Erlass der Bestimmungen über die Dienstkleidung der Beamtinnen und Beamten der Bundespolizei
-- [BPolG](laws/BPolG-BJNR297900994.md) Gesetz über die Bundespolizei
+- [BPolG](laws/BPolG-BJNR13E0B0026.md) Gesetz über die Bundespolizei
 - [BPolHfV](laws/BPolHfV-BJNR058600014.md) Verordnung über die Gewährung von Heilfürsorge für Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte in der Bundespolizei und beim Deutschen Bundestag
 - [BPolLV](laws/BPolLV-BJNR240810011.md) Verordnung über die Laufbahnen des Polizeivollzugsdienstes in der Bundespolizei
 - [BPolRZustAnO](laws/BPolRZustAnO-BJNR501340968.md) Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der Rechtsverhältnisse der Polizeivollzugsbeamten des Bundes
@@ -1919,6 +1919,7 @@
 - [FFVAV](laws/FFVAV-BJNR459110021.md) Verordnung über die Verbrauchserfassung und Abrechnung bei der Versorgung mit Fernwärme oder Fernkälte
 - [FGG-RG](laws/FGG-RG-BJNR258600008.md) Gesetz zur Reform des Verfahrens in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit
 - [FGlG](laws/FGlG-BJNR091000995.md) Gesetz zur Gleichstellung stillgelegter und landwirtschaftlich genutzter Flächen
+- [FGMV](laws/FGMV-BJNR1360B0026.md) Verordnung über die Genehmigung und die Marktüberwachung von Fahrzeugen und Fahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge
 - [FGNV](laws/FGNV-BJNR009300003.md) Verordnung zur Neubestimmung von Arzneimittel-Festbetragsgruppen
 - [FGO](laws/FGO-BJNR014770965.md) Finanzgerichtsordnung
 - [FHBLeistBV](laws/FHBLeistBV-BJNR355000004.md) Verordnung über Leistungsbezüge und Zulagen an der Fachhochschule des Bundes für öffentliche Verwaltung
@@ -2500,6 +2501,8 @@
 - [HOAI](laws/HOAI-BJNR227600013.md) Verordnung über die Honorare für Architekten- und Ingenieurleistungen
 - [HoBaMstrV](laws/HoBaMstrV-BJNR189100012.md) Verordnung über die Meisterprüfung in den Teilen I und II im Holz- und Bautenschutzgewerbe
 - [HochbauBAusbV](laws/HochbauBAusbV-BJNR0B30C0024.md) Verordnung über die Berufsausbildung in Hochbauberufen*
+- [HochseeSchG](laws/HochseeSchG-BJNR0750A0026.md) Gesetz zur Ausführung des Übereinkommens im Rahmen des Seerechtsübereinkommens der Vereinten Nationen über die Erhaltung und nachhaltige Nutzung der biologischen Vielfalt der Meere von Gebieten außerhalb nationaler Hoheitsbefugnisse
+- [HochseeSchGInkrBek](laws/HochseeSchGInkrBek-BJNR13B0A0026.md) Bekanntmachung über das Inkrafttreten des Hochseeschutzgesetzes
 - [HöBetrV](laws/HöBetrV-BJNR002170970.md) Verordnung über die Höchstbeträge der steuerlich begünstigten Herstellungskosten von Schutzräumen im Sinne der §§ 7 und 12 Abs. 3 des Schutzbaugesetzes
 - [HöfeO](laws/HöfeO-BJNR700330947.md) Höfeordnung
 - [HöfeOÄndG 2](laws/HöfeOÄndG_2-BJNR008819976.md) Zweites Gesetz zur Änderung der Höfeordnung
@@ -3208,7 +3211,7 @@
 - [LuftVODV 259](laws/LuftVODV_259-BJNR624230021.md) Zweihundertneunundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Sonderlandeplatz Bamberg-Breitenau)
 - [LuftVODV 260](laws/LuftVODV_260-BJNR0DE0A0024.md) Zweihundertsechzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für Anflüge nach Instrumentenflugregeln zum Verkehrslandeplatz Speyer)
 - [LuftVODV 96](laws/LuftVODV_96-BJNR506020986.md) Sechsundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für Flüge nach Sichtflugregeln am Verkehrsflughafen Paderborn-Lippstadt)
-- [LuftVODV 98](laws/LuftVODV_98-BJNR518510986.md) Achtundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für Flüge nach Sichtflugregeln zum und vom Verkehrsflughafen Braunschweig)
+- [LuftVODV 98](laws/LuftVODV_98-BJNR518510986.md) Achtundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für Flüge nach Sichtflugregeln zum und vom Verkehrsflughafen Braunschweig-Wolfsburg)
 - [LuftVStAbsenkV 2012](laws/LuftVStAbsenkV_2012-BJNR273200011.md) Verordnung zur Absenkung der Steuersätze nach § 11 Absatz 2 des Luftverkehrsteuergesetzes im Jahr 2012
 - [LuftVStAbsenkV 2017](laws/LuftVStAbsenkV_2017-BJNR248800016.md) Verordnung zur Absenkung der Steuersätze im Jahr 2017 nach § 11 Absatz 2 des Luftverkehrsteuergesetzes
 - [LuftVStAbsenkV 2018](laws/LuftVStAbsenkV_2018-BJNR385800017.md) Verordnung zur Absenkung der Steuersätze im Jahr 2018 nach § 11 Absatz 2 des Luftverkehrsteuergesetzes
@@ -4002,6 +4005,7 @@
 - [PatInfoZBek 2017](laws/PatInfoZBek_2017-BJNR380700017.md) Bekanntmachung der Änderung der zur Entgegennahme von Patent-, Gebrauchsmuster-, Marken- und Designanmeldungen befugten Patentinformationszentren
 - [PatInfoZBek 2018](laws/PatInfoZBek_2018-BJNR184300018.md) Bekanntmachung der Änderung der zur Entgegennahme von Patent-, Gebrauchsmuster-,Marken- und Designanmeldungen befugten Patentinformationszentren
 - [PatInfoZBek 2020](laws/PatInfoZBek_2020-BJNR233600020.md) Bekanntmachung der Änderung der zur Entgegennahme von Patent-, Gebrauchsmuster-, Marken- und Designanmeldungen befugten Patentinformationszentren
+- [PatInfoZBek 2026](laws/PatInfoZBek_2026-BJNR12B0A0026.md) Bekanntmachung der Änderung der zur Entgegennahme von Patent-, Gebrauchsmuster-, Marken- und Designanmeldungen befugten Patentinformationszentren
 - [PatInfoZGeoHwIndBek](laws/PatInfoZGeoHwIndBek-BJNR0970A0026.md) Bekanntmachung der zur Entgegennahme von Anträgen auf Eintragung von geografischen Angaben für handwerkliche und industrielle Erzeugnisse befugten Patentinformationszentren
 - [PatKostG](laws/PatKostG-BJNR365610001.md) Gesetz über die Kosten des Deutschen Patent- und Markenamts und des Bundespatentgerichts
 - [PatKostZV](laws/PatKostZV-BJNR208300003.md) Verordnung über die Zahlung der Kosten des Deutschen Patent- und Markenamts und des Bundespatentgerichts
@@ -4544,6 +4548,7 @@
 - [SchSiServAusbV](laws/SchSiServAusbV-BJNR094000008.md) Verordnung über die Berufsausbildung zur Servicekraft für Schutz und Sicherheit *)
 - [SchStV](laws/SchStV-BJNR278400994.md) Verordnung über die Schiedsstelle für Arzneimittelversorgung und die Arzneimittelabrechnung
 - [SchSV](laws/SchSV-BJNR302300998.md) Schiffssicherheitsverordnung
+- [SchuBerDG](laws/SchuBerDG-BJNR1250A0026.md) Gesetz über den Zugang zu Schuldnerberatungsdiensten für Verbraucher *
 - [SchuFV](laws/SchuFV-BJNR165400012.md) Verordnung über die Führung des Schuldnerverzeichnisses
 - [SchuhfAusbV](laws/SchuhfAusbV-BJNR030900017.md) Verordnung über die Berufsausbildung zum Schuhfertiger und zur Schuhfertigerin*
 - [SchuhfIndMeistPrV 2013](laws/SchuhfIndMeistPrV_2013-BJNR022100013.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Industriemeister – Fachrichtung Schuhfertigung und Geprüfte Industriemeisterin – Fachrichtung Schuhfertigung
@@ -4790,6 +4795,7 @@
 - [SpielV](laws/SpielV-BJNR001530962.md) Verordnung über Spielgeräte und andere Spiele mit Gewinnmöglichkeit
 - [SpielzHerstAusbV](laws/SpielzHerstAusbV-BJNR133300997.md) Verordnung über die Berufsausbildung zum Spielzeughersteller/zur Spielzeugherstellerin
 - [SpitzSignalV](laws/SpitzSignalV-BJNR212690957.md) Verordnung zur Einführung eines einheitlichen Spitzensignals für Eisenbahnen des nichtöffentlichen Verkehrs
+- [SpoFöG](laws/SpoFöG-BJNR1340A0026.md) Gesetz zur Regelung der Förderung des Spitzensports und weiterer Maßnahmen gesamtstaatlicher Bedeutung im Sport sowie zur Errichtung der Spitzensport-Agentur
 - [Sport/FitnessAusbV](laws/Sport_FitnessAusbV-BJNR125210007.md) Verordnung über die Berufsausbildung zum Sport- und Fitnesskaufmann/zur Sport- und Fitnesskauffrau
 - [SportfAusbV](laws/SportfAusbV-BJNR124200007.md) Verordnung über die Berufsausbildung zum Sportfachmann/zur Sportfachfrau
 - [SportFortbV](laws/SportFortbV-BJNR149000010.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Sportfachwirt und Geprüfte Sportfachwirtin
@@ -4927,6 +4933,7 @@
 - [StV/WasAusbV](laws/StV_WasAusbV-BJNR114800000.md) Verordnung über die Berufsausbildung zur Fachkraft für Straßen- und Verkehrstechnik und zur Fachkraft für Wasserwirtschaft
 - [StVFernLV](laws/StVFernLV-BJNR0B00A0025.md) Verordnung über Ausnahmen von straßenverkehrsrechtlichen Vorschriften für ferngelenkte Kraftfahrzeuge *
 - [StVG](laws/StVG-BJNR004370909.md) Straßenverkehrsgesetz
+- [StVGArt9S1InkrBek](laws/StVGArt9S1InkrBek-BJNR13C0A0026.md) Bekanntmachung über das Inkrafttreten der Artikel 2, 4 und 7 des Fünften Gesetzes zur Änderung des Straßenverkehrsgesetzes und anderer straßenverkehrsrechtlicher Vorschriften
 - [StVGHBetrÄndV](laws/StVGHBetrÄndV-BJNR013620965.md) Gesetz zur Änderung der Haftungshöchstbeträge nach dem Straßenverkehrsgesetz
 - [StVO](laws/StVO-BJNR036710013.md) Straßenverkehrs-Ordnung
 - [StVOAusnV 12](laws/StVOAusnV_12-BJNR086600005.md) Zwölfte Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Ordnung
@@ -6130,6 +6137,7 @@
 - [6. SGGÄndG](laws/6._SGGÄndG-BJNR214400001.md) Sechstes Gesetz zur Änderung des Sozialgerichtsgesetzes
 - [7. BImSchV](laws/7._BImSchV-BJNR031330975.md) Siebente Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 - [7. BinSchStrOAbweichV](laws/7._BinSchStrOAbweichV-BJNR08F0A0024.md) Siebte Verordnung zur vorübergehenden Abweichung von der Binnenschifffahrtsstraßen-Ordnung
+- [7. ErdölFrV](laws/7._ErdölFrV-BJNR1380A0026.md) Siebte Verordnung über die Freigabe von Vorräten des Erdölbevorratungsverbandes
 - [7. PflegeArbbV](laws/7._PflegeArbbV-BJNR03A0A0026.md) Siebte Verordnung über zwingende Arbeitsbedingungen für die Pflegebranche
 - [7. RAG](laws/7._RAG-BJNR010850964.md) Siebentes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
 - [8. ÄndGLAG](laws/8._ÄndGLAG-BJNR008090957.md) Achtes Gesetz zur Änderung des Lastenausgleichsgesetzes (Gesetz nach § 246 LAG - 8. ÄndG LAG)

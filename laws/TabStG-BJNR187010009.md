@@ -59,63 +59,67 @@ Soweit nicht anders bestimmt, gelten die Vorschriften dieses Gesetzes für Tabak
 
 (1) Die Steuer beträgt:
 
-1. für Zigaretten
+1. für Zigaretten:
 
-a) vorbehaltlich der Buchstaben b bis e 12,28 Cent je Stück und 19,84 Prozent des Kleinverkaufspreises, mindestens jedoch den Betrag, der sich aus Absatz 2 ergibt;
+a) vorbehaltlich der Buchstaben b bis e 18,57 Cent je Stück und 21,05 Prozent des Kleinverkaufspreises, mindestens jedoch den Betrag, der sich aus Absatz 2 ergibt;
 
-b) für den Zeitraum vom 1. Januar 2022 bis zum 31. Dezember 2022 10,88 Cent je Stück und 19,84 Prozent des Kleinverkaufspreises, mindestens jedoch 22,276 Cent je Stück abzüglich der Umsatzsteuer des Kleinverkaufspreises der zu versteuernden Zigarette;
+b) für den Zeitraum vom 1. Januar 2027 bis zum 31. Dezember 2027 14,34 Cent je Stück und 21,05 Prozent des Kleinverkaufspreises, mindestens jedoch 29,492 Cent je Stück abzüglich der Umsatzsteuer des Kleinverkaufspreises der zu versteuernden Zigarette;
 
-c) für den Zeitraum vom 1. Januar 2023 bis zum 31. Dezember 2024 11,15 Cent je Stück und 19,84 Prozent des Kleinverkaufspreises, mindestens jedoch 22,888 Cent je Stück abzüglich der Umsatzsteuer des Kleinverkaufspreises der zu versteuernden Zigarette;
+c) für den Zeitraum vom 1. Januar 2028 bis zum 31. Dezember 2028 15,63 Cent je Stück und 21,05 Prozent des Kleinverkaufspreises, mindestens jedoch 32,146 Cent je Stück abzüglich der Umsatzsteuer des Kleinverkaufspreises der zu versteuernden Zigarette;
 
-d) für den Zeitraum vom 1. Januar 2025 bis zum 31. Dezember 2025 11,71 Cent je Stück und 19,84 Prozent des Kleinverkaufspreises, mindestens jedoch 24,163 Cent je Stück abzüglich der Umsatzsteuer des Kleinverkaufspreises der zu versteuernden Zigarette;
+d) für den Zeitraum vom 1. Januar 2029 bis zum 31. Dezember 2029 17,04 Cent je Stück und 21,05 Prozent des Kleinverkaufspreises, mindestens jedoch 35,042 Cent je Stück abzüglich der Umsatzsteuer des Kleinverkaufspreises der zu versteuernden Zigarette;
 
-e) für den Zeitraum vom 1. Januar 2026 bis zum 14. Februar 2027 12,28 Cent je Stück und 19,84 Prozent des Kleinverkaufspreises, mindestens jedoch 25,106 Cent je Stück abzüglich der Umsatzsteuer des Kleinverkaufspreises der zu versteuernden Zigarette;
+e) für den Zeitraum vom 1. Januar 2030 bis zum 14. Februar 2031 18,57 Cent je Stück und 21,05 Prozent des Kleinverkaufspreises, mindestens jedoch 38,192 Cent je Stück abzüglich der Umsatzsteuer des Kleinverkaufspreises der zu versteuernden Zigarette;
 
 2. für Zigarren und Zigarillos
 
-a) vorbehaltlich Buchstabe b 1,4 Cent je Stück und 1,47 Prozent des Kleinverkaufspreises, mindestens jedoch 7,504 Cent je Stück abzüglich der Umsatzsteuer des Kleinverkaufspreises der zu versteuernden Zigarre oder des zu versteuernden Zigarillos;
+a) vorbehaltlich der Buchstaben b bis e 2,85 Cent je Stück und 3,83 Prozent des Kleinverkaufspreises, mindestens jedoch 13,964 Cent je Stück abzüglich der Umsatzsteuer des Kleinverkaufspreises der zu versteuernden Zigarre oder des zu versteuernden Zigarillos;
 
-b) für den Zeitraum vom 1. Januar 2022 bis zum 31. Dezember 2022 1,4 Cent je Stück und 1,47 Prozent des Kleinverkaufspreises, mindestens jedoch 6,632 Cent je Stück abzüglich der Umsatzsteuer des Kleinverkaufspreises der zu versteuernden Zigarre oder des zu versteuernden Zigarillos;
+b) für den Zeitraum vom 1. Januar 2027 bis zum 28. Februar 2027 1,4 Cent je Stück und 1,47 Prozent des Kleinverkaufspreises, mindestens jedoch 7,504 Cent je Stück abzüglich der Umsatzsteuer des Kleinverkaufspreises der zu versteuernden Zigarre oder des zu versteuernden Zigarillos;
+
+c) für den Zeitraum vom 1. März 2027 bis zum 31. Dezember 2027 2,14 Cent je Stück und 3,83 Prozent des Kleinverkaufspreises, mindestens jedoch 10,059 Cent je Stück abzüglich der Umsatzsteuer des Kleinverkaufspreises der zu versteuernden Zigarre oder des zu versteuernden Zigarillos;
+
+d) für den Zeitraum vom 1. Januar 2028 bis zum 31. Dezember 2028 2,35 Cent je Stück und 3,83 Prozent des Kleinverkaufspreises, mindestens jedoch 11,258 Cent je Stück abzüglich der Umsatzsteuer des Kleinverkaufspreises der zu versteuernden Zigarre oder des zu versteuernden Zigarillos;
+
+e) für den Zeitraum vom 1. Januar 2029 bis zum 31. Dezember 2029 2,59 Cent je Stück und 3,83 Prozent des Kleinverkaufspreises, mindestens jedoch 12,488 Cent je Stück abzüglich der Umsatzsteuer des Kleinverkaufspreises der zu versteuernden Zigarre oder des zu versteuernden Zigarillos;
 
 3. für Feinschnitt
 
-a) vorbehaltlich der Buchstaben b bis e 61,58 Euro je Kilogramm und 17,40 Prozent des Kleinverkaufspreises, mindestens jedoch den Betrag, der sich aus Absatz 3 ergibt;
+a) vorbehaltlich der Buchstaben b bis e 121,71 Euro je Kilogramm und 17,97 Prozent des Kleinverkaufspreises, mindestens jedoch den Betrag, der sich aus Absatz 3 ergibt;
 
-b) für den Zeitraum vom 1. Januar 2022 bis zum 31. Dezember 2022 49,65 Euro je Kilogramm und 16,00 Prozent des Kleinverkaufspreises, mindestens jedoch 102,65 Euro je Kilogramm abzüglich der Umsatzsteuer des Kleinverkaufspreises des zu versteuernden Feinschnitts;
+b) für den Zeitraum vom 1. Januar 2027 bis zum 31. Dezember 2027 75,80 Euro je Kilogramm und 17,97 Prozent des Kleinverkaufspreises, mindestens jedoch 155,34 Euro je Kilogramm abzüglich der Umsatzsteuer des Kleinverkaufspreises des zu versteuernden Feinschnitts;
 
-c) für den Zeitraum vom 1. Januar 2023 bis zum 31. Dezember 2024 54,39 Euro je Kilogramm und 17,00 Prozent des Kleinverkaufspreises, mindestens jedoch 111,78 Euro je Kilogramm abzüglich der Umsatzsteuer des Kleinverkaufspreises des zu versteuernden Feinschnitts;
+c) für den Zeitraum vom 1. Januar 2028 bis zum 31. Dezember 2028 88,76 Euro je Kilogramm und 17,97 Prozent des Kleinverkaufspreises, mindestens jedoch 181,90 Euro je Kilogramm abzüglich der Umsatzsteuer des Kleinverkaufspreises des zu versteuernden Feinschnitts;
 
-d) für den Zeitraum vom 1. Januar 2025 bis zum 31. Dezember 2025 57,85 Euro je Kilogramm und 17,20 Prozent des Kleinverkaufspreises, mindestens jedoch 121,51 Euro je Kilogramm abzüglich der Umsatzsteuer des Kleinverkaufspreises des zu versteuernden Feinschnitts;
+d) für den Zeitraum vom 1. Januar 2029 bis zum 31. Dezember 2029 103,94 Euro je Kilogramm und 17,97 Prozent des Kleinverkaufspreises, mindestens jedoch 213,01 Euro je Kilogramm abzüglich der Umsatzsteuer des Kleinverkaufspreises des zu versteuernden Feinschnitts;
 
-e) für den Zeitraum vom 1. Januar 2026 bis zum 14. Februar 2027 61,58 Euro je Kilogramm und 17,40 Prozent des Kleinverkaufspreises, mindestens jedoch 128,83 Euro je Kilogramm abzüglich der Umsatzsteuer des Kleinverkaufspreises des zu versteuernden Feinschnitts;
+e) für den Zeitraum vom 1. Januar 2030 bis zum 14. Februar 2031 121,71 Euro je Kilogramm und 17,97 Prozent des Kleinverkaufspreises, mindestens jedoch 249,43 Euro je Kilogramm abzüglich der Umsatzsteuer des Kleinverkaufspreises des zu versteuernden Feinschnitts;
 
 4. für Pfeifentabak
 
-a) vorbehaltlich Buchstabe b 15,66 Euro je Kilogramm und 13,13 Prozent des Kleinverkaufspreises, mindestens jedoch 26,00 Euro je Kilogramm;
+a) vorbehaltlich der Buchstaben b bis e 41,23 Euro je Kilogramm und 14,83 Prozent des Kleinverkaufspreises, mindestens jedoch 71,50 Euro je Kilogramm;
 
-b) für den Zeitraum vom 1. Januar 2022 bis zum 31. Dezember 2022 15,66 Euro je Kilogramm und 13,13 Prozent des Kleinverkaufspreises, mindestens jedoch 24,00 Euro je Kilogramm;
+b) für den Zeitraum vom 1. Januar 2027 bis zum 28. Februar 2027 15,66 Euro je Kilogramm und 13,13 Prozent des Kleinverkaufspreises, mindestens jedoch 26 Euro je Kilogramm;
+
+c) für den Zeitraum vom 1. März 2027 bis zum 31. Dezember 2027 21,11 Euro je Kilogramm und 14,83 Prozent des Kleinverkaufspreises, mindestens jedoch 37 Euro je Kilogramm;
+
+d) für den Zeitraum vom 1. Januar 2028 bis zum 31. Dezember 2028 26,39 Euro je Kilogramm und 14,83 Prozent des Kleinverkaufspreises, mindestens jedoch 48 Euro je Kilogramm;
+
+e) für den Zeitraum vom 1. Januar 2029 bis zum 31. Dezember 2029 32,99 Euro je Kilogramm und 14,83 Prozent des Kleinverkaufspreises, mindestens jedoch 59,50 Euro je Kilogramm;
 
 5. für erhitzten Tabak die Steuer nach Nummer 4 zuzüglich einer Zusatzsteuer, die sich bemisst aus 80 Prozent des Steuerbetrags nach Nummer 1 abzüglich des Steuerbetrags nach Nummer 4. Für die Berechnung nach Nummer 1 entspricht hierbei der jeweils stückweise und einzeln portionierte Rauchtabak einer Zigarette;
 
-6. für Wasserpfeifentabak die Steuer nach Nummer 4 zuzüglich folgender Zusatzsteuer
-
-a) für den Zeitraum 1. Januar 2022 bis 31. Dezember 2022 15,00 Euro je Kilogramm;
-
-b) für den Zeitraum 1. Januar 2023 bis 31. Dezember 2024 19,00 Euro je Kilogramm;
-
-c) für den Zeitraum 1. Januar 2025 bis 31. Dezember 2025 21,00 Euro je Kilogramm;
-
-d) ab 1. Januar 2026 23,00 Euro je Kilogramm;
+6. für Wasserpfeifentabak die Steuer nach Nummer 4 zuzüglich einer Zusatzsteuer in Höhe von 23 Euro je Kilogramm;
 
 7. für Substitute für Tabakwaren
 
-a) für den Zeitraum 1. Juli 2022 bis 31. Dezember 2023 0,16 Euro je Milliliter;
+a) für den Zeitraum 1. Januar 2027 bis 31. Dezember 2027 0,38 Euro je Milliliter;
 
-b) für den Zeitraum 1. Januar 2024 bis 31. Dezember 2024 0,20 Euro je Milliliter;
+b) für den Zeitraum 1. Januar 2028 bis 31. Dezember 2028 0,40 Euro je Milliliter;
 
-c) für den Zeitraum 1. Januar 2025 bis 31. Dezember 2025 0,26 Euro je Milliliter;
+c) für den Zeitraum 1. Januar 2029 bis 31. Dezember 2029 0,42 Euro je Milliliter;
 
-d) ab 1. Januar 2026 0,32 Euro je Milliliter.
+d) ab 1. Januar 2030 0,44 Euro je Milliliter.
 
 (2) Die Steuer für Zigaretten entspricht mindestens dem Betrag (Mindeststeuersatz), der sich errechnet aus 100 Prozent der Gesamtsteuerbelastung durch die Tabaksteuer und die Umsatzsteuer auf den gewichteten durchschnittlichen Kleinverkaufspreis für Zigaretten abzüglich der Umsatzsteuer des Kleinverkaufspreises der zu versteuernden Zigarette, mindestens jedoch der Betrag, der sich aus Absatz 1 Nummer 1 Buchstabe e ergibt. Zur Ermittlung der Steuerbelastung ist der am 1. Januar eines Jahres geltende Steuersatz maßgebend.
 
@@ -1043,6 +1047,8 @@ Bei der Datenübermittlung ist ein sicheres Verfahren zu verwenden, das den Date
 
 (3) Steuerzeichen zur Versteuerung nach § 2 in der nach Inkrafttreten einer Änderung des Steuertarifs geltenden Fassung (neue Steuerzeichen) können zwei Monate vor Inkrafttreten der Änderung bezogen werden.
 
-(4) Die Tabaksteuer, die durch Verwendung von neuen Steuerzeichen nach Absatz 3 entrichtet wird, entsteht in der nach dem Inkrafttreten der Änderung des Steuertarifs (§ 2) geltenden Höhe.
+(3a) Für Zigaretten, Feinschnitt, erhitzten Tabak und Substitute für Tabakwaren gilt abweichend von Absatz 3 bis zum 31. Dezember 2026, dass Steuerzeichen zur Versteuerung nach § 2 in der nach Inkrafttreten einer Änderung des Steuertarifs geltenden Fassung (neue Steuerzeichen) fünf Wochen vor Inkrafttreten der Änderung bezogen werden können.
+
+(4) Die Tabaksteuer, die durch Verwendung von neuen Steuerzeichen nach den Absätzen 3 und 3a entrichtet wird, entsteht in der nach dem Inkrafttreten der Änderung des Steuertarifs (§ 2) geltenden Höhe.
 
 (5) (weggefallen)

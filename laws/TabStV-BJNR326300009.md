@@ -953,4 +953,10 @@ eine Anzeige nicht, nicht richtig, nicht vollständig, nicht in der vorgeschrieb
 
 # § 61 – Übergangsregelungen
 
-Für Beförderungen von Tabakwaren des steuerrechtlich freien Verkehrs aus anderen, in andere oder über andere Mitgliedstaaten, die vor dem 13. Februar 2023 begonnen worden sind, gilt diese Verordnung in der am 12. Februar 2023 geltenden Fassung bis zum 31. Dezember 2023 fort.
+(1) Für Zigaretten, Feinschnitt, erhitzten Tabak und Substitute für Tabakwaren gilt abweichend von
+
+§ 32 Absatz 3 Nummer 3 bis zum 31. Dezember 2026, dass Steuerzeichen mindestens fünf Wochen vor Bedarf zu bestellen sind, wenn der Steuertarif geändert wird und neue Steuerzeichen eingeführt werden oder wenn bei Tabakwaren umfassende Änderungen der Kleinverkaufspreise vorgenommen werden.
+
+(2) Bis zum 31. Dezember 2026 kann für Zigaretten, Feinschnitt, erhitzten Tabak und Substitute für Tabakwaren die Mitteilung nach § 32 Absatz 3 Satz 2 spätestens mit der Bestellung erfolgen.
+
+§ 61 Abs. 1 Kursivdruck: Muss "§ 32 Absatz 3 Satz 1 Nummer 3" lauten

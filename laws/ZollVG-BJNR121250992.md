@@ -171,7 +171,7 @@ Die Sätze 1 und 2 finden entsprechende Anwendung auf Fahrzeuge, die sich auf de
 
 (2) Bei der Wahrnehmung von Aufgaben nach § 1 und von anderen durch Rechtsvorschriften zugewiesenen Aufgaben sind die Zollbediensteten in den Vollzugsbereichen der Zollverwaltung zur Sicherung ihrer selbst, anderer Zollbediensteter sowie von Einrichtungen und Einsatzmitteln der Zollverwaltung, soweit diese Einrichtungen und Einsatzmittel für die Durchführung der Aufgaben der Zollverwaltung erforderlich sind, befugt,
 
-1. die Identität von Personen festzustellen; § 23 Absatz 3 Satz 1, 2, 4 und 5 des Bundespolizeigesetzes gilt entsprechend,
+1. die Identität von Personen festzustellen; § 26 Absatz 3 des Bundespolizeigesetzes gilt entsprechend,
 
 2. personenbezogene Daten mit dem Inhalt von Dateien abzugleichen, die sie selbst führen oder für die sie die Berechtigung zum Abruf haben,
 
@@ -179,13 +179,13 @@ Die Sätze 1 und 2 finden entsprechende Anwendung auf Fahrzeuge, die sich auf de
 
 4. eine Person an Ort und Stelle zu durchsuchen, die auf Grund dieses Gesetzes oder einer anderen Rechtsvorschrift festgehalten werden kann oder wenn zureichende tatsächliche Anhaltspunkte dafür bestehen, dass sie Waffen, Explosionsmittel oder andere gefährliche Gegenstände mit sich führt; § 10 Absatz 3 Satz 2 und 3 gilt entsprechend,
 
-5. eine Sache zu durchsuchen, wenn sie von einer Person mitgeführt wird, die nach Nummer 4 durchsucht werden darf oder zureichende tatsächliche Anhaltspunkte bestehen, dass sich in ihr Sachen befinden, die sichergestellt werden dürfen; § 44 Absatz 4 des Bundespolizeigesetzes gilt entsprechend,
+5. eine Sache zu durchsuchen, wenn sie von einer Person mitgeführt wird, die nach Nummer 4 durchsucht werden darf oder zureichende tatsächliche Anhaltspunkte bestehen, dass sich in ihr Sachen befinden, die sichergestellt werden dürfen; § 67 Absatz 4 des Bundespolizeigesetzes gilt entsprechend,
 
-6. eine Sache sicherzustellen, wenn sie von einer Person mitgeführt wird, die nach diesem Gesetz oder anderen Rechtsvorschriften festgehalten werden kann, und die Sache von der Person verwendet werden kann, um Leben oder Gesundheit anderer zu schädigen, fremde Sachen zu beschädigen oder sich dem Gewahrsam zu entziehen; die §§ 48 bis 50 des Bundespolizeigesetzes gelten entsprechend.
+6. eine Sache sicherzustellen, wenn sie von einer Person mitgeführt wird, die nach diesem Gesetz oder anderen Rechtsvorschriften festgehalten werden kann, und die Sache von der Person verwendet werden kann, um Leben oder Gesundheit anderer zu schädigen, fremde Sachen zu beschädigen oder sich dem Gewahrsam zu entziehen; die §§ 72 bis 75 des Bundespolizeigesetzes gelten entsprechend.
 
-Des Weiteren sind sie befugt, eine Person in Gewahrsam zu nehmen, wenn dies unerlässlich ist, um einen rechtswidrigen Angriff auf Leib und Leben abzuwehren. § 40 Absatz 1 und 2 sowie die §§ 41 und 42 Absatz 1 Satz 1 und Absatz 2 des Bundespolizeigesetzes gelten entsprechend. Die Maßnahmen sind nur zulässig, soweit sie zur Erfüllung der in Satz 1 genannten Aufgaben oder zur Abwehr einer im Einzelfall bestehenden Gefahr für Leib, Leben, Gesundheit, Freiheit der Willensentschließung oder -betätigung einer Person oder zum Schutz von Einrichtungen und Einsatzmitteln der Zollverwaltung erforderlich sind.
+Des Weiteren sind sie befugt, eine Person in Gewahrsam zu nehmen, wenn dies unerlässlich ist, um einen rechtswidrigen Angriff auf Leib und Leben abzuwehren. § 62 Absatz 1 und 2 sowie die §§ 63 und 65 Absatz 1 Satz 1 und Absatz 2 des Bundespolizeigesetzes gelten entsprechend. Die Maßnahmen sind nur zulässig, soweit sie zur Erfüllung der in Satz 1 genannten Aufgaben oder zur Abwehr einer im Einzelfall bestehenden Gefahr für Leib, Leben, Gesundheit, Freiheit der Willensentschließung oder -betätigung einer Person oder zum Schutz von Einrichtungen und Einsatzmitteln der Zollverwaltung erforderlich sind.
 
-(3) Die §§ 15 bis 20 des Bundespolizeigesetzes gelten entsprechend.
+(3) Die §§ 16 bis 21 des Bundespolizeigesetzes gelten entsprechend.
 
 # § 11 – Datenübermittlung mit dem Ausland sowie an und von über- oder zwischenstaatlichen Stellen
 

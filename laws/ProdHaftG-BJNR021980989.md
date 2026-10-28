@@ -121,6 +121,6 @@ Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, du
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die aufgrund dieses Gesetzes erlassen werden, gelten nach Maßgabe des § 14 des Dritten Überleitungsgesetzes auch im Land Berlin.
 
-# § 19 – Inkrafttreten
+# § 19 – Außerkrafttreten
 
-Dieses Gesetz tritt am 1. Januar 1990 in Kraft.
+Dieses Gesetz tritt am 9. Dezember 2026 außer Kraft.

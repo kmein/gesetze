@@ -83,19 +83,17 @@
 
  
 
-Anlage (zu § 3 Absatz 6) Kriterien zur Bestimmung des Standes der Technik
-
 # § 1 – Zweck des Gesetzes
 
 (1) Zweck dieses Gesetzes ist es, Menschen, Wild- und Nutztiere und Pflanzen, den Boden, das Wasser, die Atmosphäre, das Klima sowie Kultur- und sonstige Sachgüter vor schädlichen Umwelteinwirkungen zu schützen und dem Entstehen schädlicher Umwelteinwirkungen vorzubeugen.
 
 (2) Soweit es sich um genehmigungsbedürftige Anlagen handelt, dient dieses Gesetz auch
 
-–  
-der integrierten Vermeidung und Verminderung schädlicher Umwelteinwirkungen durch Emissionen in Luft, Wasser und Boden unter Einbeziehung der Abfallwirtschaft, um ein hohes Schutzniveau für die Umwelt insgesamt zu erreichen, sowie
+1. der integrierten Vermeidung und Verminderung schädlicher Umwelteinwirkungen durch Emissionen in Luft, Wasser und Boden unter Einbeziehung der Abfallwirtschaft, um ein hohes Schutzniveau für die Umwelt insgesamt zu erreichen, sowie
 
-–  
-dem Schutz und der Vorsorge gegen Gefahren, erhebliche Nachteile und erhebliche Belästigungen, die auf andere Weise herbeigeführt werden.
+2. dem Schutz und der Vorsorge gegen Gefahren, erhebliche Nachteile und erhebliche Belästigungen, die auf andere Weise herbeigeführt werden.
+
+(3) Soweit es sich um Anlagen nach der Richtlinie 2010/75/EU (Industrieemissions-Richtlinie) handelt, dient dieses Gesetz auch der Verbesserung der Ressourceneffizienz, der Förderung der Kreislaufwirtschaft und der Dekarbonisierung.
 
 # § 2 – Geltungsbereich
 
@@ -137,49 +135,67 @@ dem Schutz und der Vorsorge gegen Gefahren, erhebliche Nachteile und erhebliche 
 
 3. Grundstücke, auf denen Stoffe gelagert oder abgelagert oder Arbeiten durchgeführt werden, die Emissionen verursachen können, ausgenommen öffentliche Verkehrswege.
 
-(5a) Ein Betriebsbereich ist der gesamte unter der Aufsicht eines Betreibers stehende Bereich, in dem gefährliche Stoffe im Sinne des Artikels 3 Nummer 10 der Richtlinie 2012/18/EU des Europäischen Parlaments und des Rates vom 4. Juli 2012 zur Beherrschung der Gefahren schwerer Unfälle mit gefährlichen Stoffen, zur Änderung und anschließenden Aufhebung der Richtlinie 96/82/EG des Rates (ABl. L 197 vom 24.7.2012, S. 1) in einer oder mehreren Anlagen einschließlich gemeinsamer oder verbundener Infrastrukturen oder Tätigkeiten auch bei Lagerung im Sinne des Artikels 3 Nummer 16 der Richtlinie in den in Artikel 3 Nummer 2 oder Nummer 3 der Richtlinie bezeichneten Mengen tatsächlich vorhanden oder vorgesehen sind oder vorhanden sein werden, soweit vernünftigerweise vorhersehbar ist, dass die genannten gefährlichen Stoffe bei außer Kontrolle geratenen Prozessen anfallen; ausgenommen sind die in Artikel 2 Absatz 2 der Richtlinie 2012/18/EU angeführten Einrichtungen, Gefahren und Tätigkeiten, es sei denn, es handelt sich um eine in Artikel 2 Absatz 2 Unterabsatz 2 der Richtlinie 2012/18/EU genannte Einrichtung, Gefahr oder Tätigkeit.
+(5a) Ein Betriebsbereich ist der gesamte unter der Aufsicht eines Betreibers stehende Bereich, in dem gefährliche Stoffe im Sinne des Artikels 3 Nummer 10 der Richtlinie 2012/18/EU in der Fassung vom 4. Juli 2012 in einer oder mehreren Anlagen einschließlich gemeinsamer oder verbundener Infrastrukturen oder Tätigkeiten auch bei Lagerung im Sinne des Artikels 3 Nummer 16 der Richtlinie in den in Artikel 3 Nummer 2 oder Nummer 3 der Richtlinie bezeichneten Mengen tatsächlich vorhanden oder vorgesehen sind oder vorhanden sein werden, soweit vernünftigerweise vorhersehbar ist, dass die genannten gefährlichen Stoffe bei außer Kontrolle geratenen Prozessen anfallen; ausgenommen sind die in Artikel 2 Absatz 2 der Richtlinie 2012/18/EU in der Fassung vom 4. Juli 2012 angeführten Einrichtungen, Gefahren und Tätigkeiten, es sei denn, es handelt sich um eine in Artikel 2 Absatz 2 Unterabsatz 2 der Richtlinie 2012/18/EU in der Fassung vom 4. Juli 2012 genannte Einrichtung, Gefahr oder Tätigkeit.
 
-(5b) Eine störfallrelevante Errichtung und ein Betrieb oder eine störfallrelevante Änderung einer Anlage oder eines Betriebsbereichs ist eine Errichtung und ein Betrieb einer Anlage, die Betriebsbereich oder Bestandteil eines Betriebsbereichs ist, oder eine Änderung einer Anlage oder eines Betriebsbereichs einschließlich der Änderung eines Lagers, eines Verfahrens oder der Art oder physikalischen Form oder der Mengen der gefährlichen Stoffe im Sinne des Artikels 3 Nummer 10 der Richtlinie 2012/18/EU, aus der sich erhebliche Auswirkungen auf die Gefahren schwerer Unfälle ergeben können. Eine störfallrelevante Änderung einer Anlage oder eines Betriebsbereichs liegt zudem vor, wenn eine Änderung dazu führen könnte, dass ein Betriebsbereich der unteren Klasse zu einem Betriebsbereich der oberen Klasse wird oder umgekehrt.
+(5b) Eine störfallrelevante Errichtung und ein Betrieb oder eine störfallrelevante Änderung einer Anlage oder eines Betriebsbereichs ist eine Errichtung und ein Betrieb einer Anlage, die Betriebsbereich oder Bestandteil eines Betriebsbereichs ist, oder eine Änderung einer Anlage oder eines Betriebsbereichs einschließlich der Änderung eines Lagers, eines Verfahrens oder der Art oder physikalischen Form oder der Mengen der gefährlichen Stoffe im Sinne des Artikels 3 Nummer 10 der Richtlinie 2012/18/EU in der Fassung vom 4. Juli 2012, aus der sich erhebliche Auswirkungen auf die Gefahren schwerer Unfälle ergeben können. Eine störfallrelevante Änderung einer Anlage oder eines Betriebsbereichs liegt zudem vor, wenn eine Änderung dazu führen könnte, dass ein Betriebsbereich der unteren Klasse zu einem Betriebsbereich der oberen Klasse wird oder umgekehrt.
 
-(5c) Der angemessene Sicherheitsabstand im Sinne dieses Gesetzes ist der Abstand zwischen einem Betriebsbereich oder einer Anlage, die Betriebsbereich oder Bestandteil eines Betriebsbereichs ist, und einem benachbarten Schutzobjekt, der zur gebotenen Begrenzung der Auswirkungen auf das benachbarte Schutzobjekt, welche durch schwere Unfälle im Sinne des Artikels 3 Nummer 13 der Richtlinie 2012/18/EU hervorgerufen werden können, beiträgt. Der angemessene Sicherheitsabstand ist anhand störfallspezifischer Faktoren zu ermitteln.
+(5c) Der angemessene Sicherheitsabstand im Sinne dieses Gesetzes ist der Abstand zwischen einem Betriebsbereich oder einer Anlage, die Betriebsbereich oder Bestandteil eines Betriebsbereichs ist, und einem benachbarten Schutzobjekt, der zur gebotenen Begrenzung der Auswirkungen auf das benachbarte Schutzobjekt, welche durch schwere Unfälle im Sinne des Artikels 3 Nummer 13 der Richtlinie 2012/18/EU in der Fassung vom 4. Juli 2012 hervorgerufen werden können, beiträgt. Der angemessene Sicherheitsabstand ist anhand störfallspezifischer Faktoren zu ermitteln.
 
 (5d) Benachbarte Schutzobjekte im Sinne dieses Gesetzes sind ausschließlich oder überwiegend dem Wohnen dienende Gebiete, öffentlich genutzte Gebäude und Gebiete, Freizeitgebiete, wichtige Verkehrswege und unter dem Gesichtspunkt des Naturschutzes besonders wertvolle oder besonders empfindliche Gebiete.
 
-(6) Stand der Technik im Sinne dieses Gesetzes ist der Entwicklungsstand fortschrittlicher Verfahren, Einrichtungen oder Betriebsweisen, der die praktische Eignung einer Maßnahme zur Begrenzung von Emissionen in Luft, Wasser und Boden, zur Gewährleistung der Anlagensicherheit, zur Gewährleistung einer umweltverträglichen Abfallentsorgung oder sonst zur Vermeidung oder Verminderung von Auswirkungen auf die Umwelt zur Erreichung eines allgemein hohen Schutzniveaus für die Umwelt insgesamt gesichert erscheinen lässt. Bei der Bestimmung des Standes der Technik sind insbesondere die in der Anlage aufgeführten Kriterien zu berücksichtigen.
+(6) Stand der Technik im Sinne dieses Gesetzes ist der Entwicklungsstand fortschrittlicher Verfahren, Einrichtungen oder Betriebsweisen, der die praktische Eignung einer Maßnahme zur Begrenzung von Emissionen in Luft, Wasser und Boden, zur Gewährleistung der Anlagensicherheit, zur Gewährleistung einer umweltverträglichen Abfallentsorgung oder sonst zur Vermeidung oder Verminderung von Auswirkungen auf die Umwelt zur Erreichung eines allgemein hohen Schutzniveaus für die Umwelt insgesamt, einschließlich der menschlichen Gesundheit und des Klimaschutzes, gesichert erscheinen lässt. Bei der Bestimmung des Standes der Technik sind insbesondere die in der Anlage 1 aufgeführten Kriterien zu berücksichtigen.
 
-(6a) BVT-Merkblatt im Sinne dieses Gesetzes ist ein Dokument, das auf Grund des Informationsaustausches nach Artikel 13 der Richtlinie 2010/75/EU des Europäischen Parlaments und des Rates vom 24. November 2010 über Industrieemissionen (integrierte Vermeidung und Verminderung der Umweltverschmutzung) (Neufassung) (ABl. L 334 vom 17.12.2010, S. 17) für bestimmte Tätigkeiten erstellt wird und insbesondere die angewandten Techniken, die derzeitigen Emissions- und Verbrauchswerte, alle Zukunftstechniken sowie die Techniken beschreibt, die für die Festlegung der besten verfügbaren Techniken sowie der BVT-Schlussfolgerungen berücksichtigt wurden.
+(6a) BVT-Merkblatt im Sinne dieses Gesetzes ist ein Dokument, das auf Grund des Informationsaustausches nach Artikel 13 der Industrieemissions-Richtlinie in der Fassung vom 24. April 2024 für bestimmte Tätigkeiten erstellt wird und insbesondere die angewandten Techniken, die derzeitigen Emissions- und Verbrauchswerte, Zukunftstechniken sowie die Techniken beschreibt, die für die Festlegung der besten verfügbaren Techniken sowie der BVT-Schlussfolgerungen berücksichtigt wurden.
 
-(6b) BVT-Schlussfolgerungen im Sinne dieses Gesetzes sind ein nach Artikel 13 Absatz 5 der Richtlinie 2010/75/EU von der Europäischen Kommission erlassenes Dokument, das die Teile eines BVT-Merkblatts mit den Schlussfolgerungen in Bezug auf Folgendes enthält:
+(6b) BVT-Schlussfolgerungen im Sinne dieses Gesetzes sind ein nach Artikel 13 Absatz 5 der Industrieemissions-Richtlinie in der Fassung vom 24. April 2024 von der Europäischen Kommission erlassenes Dokument, das die Teile eines BVT-Merkblatts mit den Schlussfolgerungen in Bezug auf Folgendes enthält:
 
-1. die besten verfügbaren Techniken, ihrer Beschreibung und Informationen zur Bewertung ihrer Anwendbarkeit,
+1. die besten verfügbaren Techniken und Zukunftstechniken, ihre Beschreibung und Informationen zur Bewertung ihrer Anwendbarkeit,
 
-2. die mit den besten verfügbaren Techniken assoziierten Emissionswerte,
+2. die mit den besten verfügbaren Techniken und Zukunftstechniken assoziierten Emissionswerte,
 
-3. die zu den Nummern 1 und 2 gehörigen Überwachungsmaßnahmen,
+3. die mit den besten verfügbaren Techniken und Zukunftstechniken assoziierten Umweltleistungswerte,
 
-4. die zu den Nummern 1 und 2 gehörigen Verbrauchswerte sowie
+4. den Inhalt des Umweltmanagementsystems einschließlich etwaiger Umweltleistungsvergleichswerte,
 
-5. die gegebenenfalls einschlägigen Standortsanierungsmaßnahmen.
+5. die zu den Nummern 1, 2, 3 und 4 gehörenden Überwachungsmaßnahmen sowie
+
+6. die gegebenenfalls einschlägigen Standortsanierungsmaßnahmen.
 
 (6c) Emissionsbandbreiten im Sinne dieses Gesetzes sind die mit den besten verfügbaren Techniken assoziierten Emissionswerte.
 
 (6d) Die mit den besten verfügbaren Techniken assoziierten Emissionswerte im Sinne dieses Gesetzes sind der Bereich von Emissionswerten, die unter normalen Betriebsbedingungen unter Verwendung einer besten verfügbaren Technik oder einer Kombination von besten verfügbaren Techniken entsprechend der Beschreibung in den BVT-Schlussfolgerungen erzielt werden, ausgedrückt als Mittelwert für einen vorgegebenen Zeitraum unter spezifischen Referenzbedingungen.
 
-(6e) Zukunftstechniken im Sinne dieses Gesetzes sind neue Techniken für Anlagen nach der Industrieemissions-Richtlinie, die bei gewerblicher Nutzung entweder ein höheres allgemeines Umweltschutzniveau oder zumindest das gleiche Umweltschutzniveau und größere Kostenersparnisse bieten könnten als der bestehende Stand der Technik.
+(6e) Zukunftstechniken im Sinne dieses Gesetzes sind neue oder weiterentwickelte Techniken für Anlagen nach der Industrieemissions-Richtlinie, die bei gewerblicher Nutzung entweder ein höheres allgemeines Schutzniveau für die menschliche Gesundheit und die Umwelt oder zumindest das gleiche Schutzniveau für die menschliche Gesundheit und die Umwelt und größere Kostenersparnisse bieten könnten als der bestehende Stand der Technik.
+
+(6f) Emissionsbandbreiten für Zukunftstechniken im Sinne dieses Gesetzes sind die mit Zukunftstechniken assoziierten Emissionswerte.
+
+(6g) Mit Zukunftstechniken assoziierte Emissionswerte im Sinne dieses Gesetzes sind der Bereich von Emissionswerten, die unter normalen Betriebsbedingungen unter Verwendung einer Zukunftstechnik oder einer Kombination von Zukunftstechniken entsprechend der Beschreibung in den BVT-Schlussfolgerungen erzielt werden, ausgedrückt als Mittelwert für einen vorgegebenen Zeitraum unter spezifischen Referenzbedingungen.
+
+(6h) Umweltleistung im Sinne dieses Gesetzes ist die Leistung in Bezug auf das Verbrauchsniveau, die Ressourceneffizienz in Bezug auf Materialien sowie auf Wasser- und Energieressourcen, die Wiederverwendung von Materialien und Wasser sowie das Abfallaufkommen.
+
+(6i) Orientierungswerte für die Umweltleistung im Sinne dieses Gesetzes sind indikative Umweltleistungswerte, die für bestimmte Bedingungen in Bezug auf bestimmte spezifische Parameter ausgedrückt werden.
+
+(6j) Umweltleistungsvergleichswert im Sinne dieses Gesetzes ist die indikative Spanne der mit den besten verfügbaren Techniken assoziierten Umweltleistungswerte.
+
+(6k) Mit den besten verfügbaren Techniken assoziierte Umweltleistungswerte im Sinne dieses Gesetzes sind die Spanne von Umweltleistungswerten, die unter normalen Betriebsbedingungen unter Verwendung einer besten verfügbaren Technik oder einer Kombination von besten verfügbaren Techniken entsprechend der Beschreibung in den BVT-Schlussfolgerungen erzielt werden.
+
+(6l) Mit Zukunftstechniken assoziierte Umweltleistungswerte im Sinne dieses Gesetzes sind die Spanne von Umweltleistungswerten, die unter normalen Betriebsbedingungen unter Verwendung einer Zukunftstechnik oder einer Kombination von Zukunftstechniken entsprechend der Beschreibung in den BVT-Schlussfolgerungen erzielt werden.
+
+(6m) Tiefgreifende industrielle Transformation im Sinne dieses Gesetzes ist die Einführung von Zukunftstechniken, insbesondere fortschrittlichen Techniken, erneuerbaren Energien, Carbon-Management-Technologien und klimafreundlichen Betriebsstoffen, oder des Standes der Technik, die eine erhebliche Änderung der Konstruktion oder Technologie einer Anlage oder in einem Teil einer Anlage oder die Ersetzung einer bestehenden Anlage durch eine neue Anlage am selben oder einem anderen Standort innerhalb der Europäischen Union beinhaltet und die, verbunden mit dem Ziel der Klimaneutralität und der gleichzeitigen Reduzierung anderer Umweltauswirkungen, zu einer sehr weitgehenden Verringerung der Treibhausgasemissionen führt, zumindest auf das Maß, das durch die dem Stand der Technik entsprechenden Maßnahmen erreicht werden kann, wobei medienübergreifende Auswirkungen zu berücksichtigen sind.
 
 (7) Dem Herstellen im Sinne dieses Gesetzes steht das Verarbeiten, Bearbeiten oder sonstige Behandeln, dem Einführen im Sinne dieses Gesetzes das sonstige Verbringen in den Geltungsbereich dieses Gesetzes gleich.
 
 (8) Anlagen nach der Industrieemissions-Richtlinie im Sinne dieses Gesetzes sind die in der Rechtsverordnung nach § 4 Absatz 1 Satz 4 gekennzeichneten Anlagen.
 
-(9) Gefährliche Stoffe im Sinne dieses Gesetzes sind Stoffe oder Gemische gemäß Artikel 3 der Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien
-
-67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006 (ABl. L 353 vom 31.12.2008, S. 1), die zuletzt durch die Verordnung (EG) Nr. 286/2011 (ABl. L 83 vom 30.3.2011, S. 1) geändert worden ist.
+(9) Gefährliche Stoffe im Sinne dieses Gesetzes sind Stoffe oder Gemische gemäß Artikel 3 der Verordnung (EG) Nr. 1272/2008.
 
 (10) Relevante gefährliche Stoffe im Sinne dieses Gesetzes sind gefährliche Stoffe, die in erheblichem Umfang in der Anlage verwendet, erzeugt oder freigesetzt werden und die ihrer Art nach eine Verschmutzung des Bodens oder des Grundwassers auf dem Anlagengrundstück verursachen können.
 
+(11) Betroffene Öffentlichkeit im Sinne dieses Gesetzes ist jede Person, deren Belange durch die Genehmigungsentscheidung berührt werden; hierzu gehören auch Vereinigungen, deren satzungsmäßiger Aufgabenbereich durch eine Genehmigungsentscheidung berührt wird, darunter auch Vereinigungen zur Förderung des Umweltschutzes.
+
 # § 4 – Genehmigung
 
-(1) Die Errichtung und der Betrieb von Anlagen, die auf Grund ihrer Beschaffenheit oder ihres Betriebs in besonderem Maße geeignet sind, schädliche Umwelteinwirkungen hervorzurufen oder in anderer Weise die Allgemeinheit oder die Nachbarschaft zu gefährden, erheblich zu benachteiligen oder erheblich zu belästigen, sowie von ortsfesten Abfallentsorgungsanlagen zur Lagerung oder Behandlung von Abfällen bedürfen einer Genehmigung. Mit Ausnahme von Abfallentsorgungsanlagen bedürfen Anlagen, die nicht gewerblichen Zwecken dienen und nicht im Rahmen wirtschaftlicher Unternehmungen Verwendung finden, der Genehmigung nur, wenn sie in besonderem Maße geeignet sind, schädliche Umwelteinwirkungen durch Luftverunreinigungen oder Geräusche hervorzurufen. Die Bundesregierung bestimmt nach Anhörung der beteiligten Kreise (§ 51) durch Rechtsverordnung mit Zustimmung des Bundesrates die Anlagen, die einer Genehmigung bedürfen (genehmigungsbedürftige Anlagen); in der Rechtsverordnung kann auch vorgesehen werden, dass eine Genehmigung nicht erforderlich ist, wenn eine Anlage insgesamt oder in ihren in der Rechtsverordnung bezeichneten wesentlichen Teilen der Bauart nach zugelassen ist und in Übereinstimmung mit der Bauartzulassung errichtet und betrieben wird. Anlagen nach Artikel 10 in Verbindung mit Anhang I der Richtlinie 2010/75/EU sind in der Rechtsverordnung nach Satz 3 zu kennzeichnen.
+(1) Die Errichtung und der Betrieb von Anlagen, die auf Grund ihrer Beschaffenheit oder ihres Betriebs in besonderem Maße geeignet sind, schädliche Umwelteinwirkungen hervorzurufen oder in anderer Weise die Allgemeinheit oder die Nachbarschaft zu gefährden, erheblich zu benachteiligen oder erheblich zu belästigen, sowie von ortsfesten Abfallentsorgungsanlagen zur Lagerung oder Behandlung von Abfällen bedürfen einer Genehmigung. Mit Ausnahme von Abfallentsorgungsanlagen bedürfen Anlagen, die nicht gewerblichen Zwecken dienen und nicht im Rahmen wirtschaftlicher Unternehmungen Verwendung finden, der Genehmigung nur, wenn sie in besonderem Maße geeignet sind, schädliche Umwelteinwirkungen durch Luftverunreinigungen oder Geräusche hervorzurufen. Die Bundesregierung bestimmt nach Anhörung der beteiligten Kreise (§ 51) durch Rechtsverordnung mit Zustimmung des Bundesrates die Anlagen, die einer Genehmigung bedürfen (genehmigungsbedürftige Anlagen); in der Rechtsverordnung kann auch vorgesehen werden, dass eine Genehmigung nicht erforderlich ist, wenn eine Anlage insgesamt oder in ihren in der Rechtsverordnung bezeichneten wesentlichen Teilen der Bauart nach zugelassen ist und in Übereinstimmung mit der Bauartzulassung errichtet und betrieben wird. Anlagen nach Artikel 10 in Verbindung mit Anhang I der Industrieemissions-Richtlinie in der Fassung vom 24. April 2024 sind in der Rechtsverordnung nach Satz 3 zu kennzeichnen.
 
 (2) Anlagen des Bergwesens oder Teile dieser Anlagen bedürfen der Genehmigung nach Absatz 1 nur, soweit sie über Tage errichtet und betrieben werden. Keiner Genehmigung nach Absatz 1 bedürfen Tagebaue und die zum Betrieb eines Tagebaus erforderlichen sowie die zur Wetterführung unerlässlichen Anlagen.
 
@@ -195,7 +211,7 @@ dem Schutz und der Vorsorge gegen Gefahren, erhebliche Nachteile und erhebliche 
 
 4. Energie sparsam und effizient verwendet wird.
 
-(2) Soweit genehmigungsbedürftige Anlagen dem Anwendungsbereich des Treibhausgas-Emissionshandelsgesetzes unterliegen, sind Anforderungen zur Begrenzung von Emissionen von Treibhausgasen nur zulässig, um zur Erfüllung der Pflichten nach Absatz 1 Nummer 1 sicherzustellen, dass im Einwirkungsbereich der Anlage keine schädlichen Umwelteinwirkungen entstehen; dies gilt nur für Treibhausgase, die für die betreffende Tätigkeit nach Anhang 1 des Treibhausgas-Emissionshandelsgesetzes umfasst sind. Bei diesen Anlagen dürfen zur Erfüllung der Pflicht zur effizienten Verwendung von Energie in Bezug auf die Emissionen von Kohlendioxid, die auf Verbrennungs- oder anderen Prozessen der Anlage beruhen, keine Anforderungen gestellt werden, die über die Pflichten hinausgehen, welche das Treibhausgas-Emissionshandelsgesetz begründet.
+(2) Soweit genehmigungsbedürftige Anlagen dem Anwendungsbereich des Treibhausgas-Emissionshandelsgesetzes unterliegen, sind Anforderungen zur Begrenzung von Emissionen von Treibhausgasen nur zulässig, um zur Erfüllung der Pflichten nach Absatz 1 Nummer 1 sicherzustellen, dass im Einwirkungsbereich der Anlage keine schädlichen Umwelteinwirkungen entstehen; dies gilt nur für Treibhausgase, die für die betreffende Tätigkeit nach Anhang 1 des Treibhausgas-Emissionshandelsgesetzes umfasst sind. Bei diesen Anlagen dürfen in Bezug auf die Emissionen von Kohlendioxid aus Verbrennungsprozessen oder anderen Prozessen der Anlage keine Umweltleistungsgrenzwerte und Orientierungswerte für die Umweltleistung in Bezug auf die effiziente Verwendung von Energie festgesetzt werden, die über die Pflichten hinausgehen, welche das Treibhausgas-Emissionshandelsgesetz begründet. 
 
 Davon ausgenommen sind Anforderungen an die Abwärmenutzung; Näheres hierzu regelt eine Rechtsverordnung. Der Deutsche Bundestag ist dabei nach § 48b zu beteiligen.
 
@@ -207,7 +223,9 @@ Davon ausgenommen sind Anforderungen an die Abwärmenutzung; Näheres hierzu reg
 
 3. die Wiederherstellung eines ordnungsgemäßen Zustandes des Anlagengrundstücks gewährleistet ist.
 
-(4) Wurden nach dem 7. Januar 2013 auf Grund des Betriebs einer Anlage nach der Industrieemissions-Richtlinie erhebliche Bodenverschmutzungen oder erhebliche Grundwasserverschmutzungen durch relevante gefährliche Stoffe im Vergleich zu dem im Bericht über den Ausgangszustand angegebenen Zustand verursacht, so ist der Betreiber nach Einstellung des Betriebs der Anlage verpflichtet, soweit dies verhältnismäßig ist, Maßnahmen zur Beseitigung dieser Verschmutzung zu ergreifen, um das Anlagengrundstück in jenen Ausgangszustand zurückzuführen. Die zuständige Behörde hat der Öffentlichkeit relevante Informationen zu diesen vom Betreiber getroffenen Maßnahmen zugänglich zu machen, und zwar auch über das Internet. Soweit Informationen Geschäfts- oder Betriebsgeheimnisse enthalten, gilt § 10 Absatz 2 entsprechend.
+(4) Zusätzlich zu den in den Absätzen 1 bis 3 genannten Pflichten sind Anlagen nach der Industrieemissions-Richtlinie so zu errichten und zu betreiben, dass materielle Ressourcen und Wasser effizient genutzt werden, auch durch Wiederverwendung.
+
+(5) Wurden nach dem 7. Januar 2013 auf Grund des Betriebs einer Anlage nach der Industrieemissions-Richtlinie erhebliche Bodenverschmutzungen oder erhebliche Grundwasserverschmutzungen durch relevante gefährliche Stoffe im Vergleich zu dem im Bericht über den Ausgangszustand angegebenen Zustand verursacht, so ist der Betreiber nach Einstellung des Betriebs der Anlage verpflichtet, soweit dies verhältnismäßig ist, Maßnahmen zur Beseitigung dieser Verschmutzung zu ergreifen, um das Anlagengrundstück in jenen Ausgangszustand zurückzuführen. Die zuständige Behörde hat der Öffentlichkeit relevante Informationen zu diesen vom Betreiber getroffenen Maßnahmen zugänglich zu machen, und zwar auch über das Internet. § 10 Absatz 8a Satz 2 ist mit der Maßgabe entsprechend anzuwenden, dass die Veröffentlichung der Unterlagen im Internet bis zum Abschluss der vom Betreiber getroffenen Maßnahmen zu erfolgen hat. Soweit Informationen Geschäfts- oder Betriebsgeheimnisse enthalten, gilt § 10 Absatz 2 entsprechend.
 
 § 5 Abs. 2 Satz 3 Halbsatz 1 Kursivdruck: Eingef. durch Art. 1 Nr. 4 G v. 3.7.2024 I Nr. 225, tritt gem. Art. 8 Abs. 2 erst in Kraft, wenn die Rechtsverordnung nach § 5 Absatz 2 Satz 3 zweiter Halbsatz in Kraft getreten ist
 
@@ -215,11 +233,11 @@ Davon ausgenommen sind Anforderungen an die Abwärmenutzung; Näheres hierzu reg
 
 (1) Die Genehmigung ist zu erteilen, wenn
 
-1. sichergestellt ist, dass die sich aus § 5 und einer auf Grund des § 7 erlassenen Rechtsverordnung ergebenden Pflichten erfüllt werden, und
+1. sichergestellt ist, dass die sich aus § 5 und einer auf Grund des § 7 oder § 7a erlassenen Rechtsverordnung ergebenden Pflichten erfüllt werden, und
 
 2. andere öffentlich-rechtliche Vorschriften und Belange des Arbeitsschutzes der Errichtung und dem Betrieb der Anlage nicht entgegenstehen.
 
-(2) Bei Anlagen, die unterschiedlichen Betriebsweisen dienen oder in denen unterschiedliche Stoffe eingesetzt werden (Mehrzweck- oder Vielstoffanlagen), ist die Genehmigung auf Antrag auf die unterschiedlichen Betriebsweisen und Stoffe zu erstrecken, wenn die Voraussetzungen nach Absatz 1 für alle erfassten Betriebsweisen und Stoffe erfüllt sind.
+(2) Bei Anlagen, die unterschiedlichen Betriebsweisen dienen, in denen unterschiedliche Stoffe eingesetzt werden oder in denen modulare Prozesseinheiten flexibel verschaltet werden (Mehrzweck-, Vielstoffanlagen oder modulare Anlagen), ist die Genehmigung auf Antrag des Vorhabenträgers auf die unterschiedlichen Betriebsweisen, Stoffe und Verschaltungsmöglichkeiten der modularen Prozesseinheiten zu erstrecken, wenn die Voraussetzungen nach Absatz 1 für alle erfassten Betriebsweisen, Stoffe und Verschaltungsmöglichkeiten der modularen Prozesseinheiten erfüllt sind.
 
 (3) Eine beantragte Änderungsgenehmigung darf auch dann nicht versagt werden, wenn zwar nach ihrer Durchführung nicht alle Immissionswerte einer Verwaltungsvorschrift nach § 48 oder einer Rechtsverordnung nach § 48a eingehalten werden, wenn aber
 
@@ -231,9 +249,9 @@ Davon ausgenommen sind Anforderungen an die Abwärmenutzung; Näheres hierzu reg
 
 4. die konkreten Umstände einen Widerruf der Genehmigung nicht erfordern.
 
-# § 7 – Rechtsverordnungen über Anforderungen an genehmigungsbedürftige Anlagen
+# § 7 – Rechtsverordnungen über Anforderungen an genehmigungsbedürftige Anlagen; Verordnungsermächtigung
 
-(1) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 51) durch Rechtsverordnung mit Zustimmung des Bundesrates vorzuschreiben, dass die Errichtung, die Beschaffenheit, der Betrieb, der Zustand nach Betriebseinstellung und die betreibereigene Überwachung genehmigungsbedürftiger Anlagen zur Erfüllung der sich aus § 5 ergebenden Pflichten bestimmten Anforderungen genügen müssen, insbesondere, dass
+(1) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 51) durch Rechtsverordnung mit Zustimmung des Bundesrates vorzuschreiben, dass die Errichtung, die Beschaffenheit, der Betrieb, der Zustand nach Betriebseinstellung und die betreibereigene Überwachung genehmigungsbedürftiger Anlagen zur Erfüllung der sich aus § 5 Absatz 1 bis 3 ergebenden Pflichten bestimmten Anforderungen genügen müssen, insbesondere, dass
 
 1. die Anlagen bestimmten technischen Anforderungen entsprechen müssen,
 
@@ -253,45 +271,59 @@ c) in regelmäßigen Abständen oder
 
 d) bei oder nach einer Betriebseinstellung,
 
-durch einen Sachverständigen nach § 29a vornehmen lassen müssen, soweit solche Prüfungen nicht gemäß § 7 Absatz 1 in Verbindung mit einer Rechtsverordnung gemäß § 31 Satz 2 Nummer 4 des Gesetzes über überwachungsbedürftige Anlagen vorgeschrieben sind, und
-
-5. die Rückführung in den Ausgangszustand nach § 5 Absatz 4 bestimmten Anforderungen entsprechen muss, insbesondere in Bezug auf den Ausgangszustandsbericht und die Feststellung der Erheblichkeit von Boden- und Grundwasserverschmutzungen.
+durch einen Sachverständigen nach § 29a vornehmen lassen müssen, soweit solche Prüfungen nicht gemäß § 7 Absatz 1 in Verbindung mit einer Rechtsverordnung gemäß § 31 Satz 2 Nummer 4 des Gesetzes über überwachungsbedürftige Anlagen vorgeschrieben sind.
 
 Bei der Festlegung der Anforderungen nach Satz 1 sind insbesondere mögliche Verlagerungen von nachteiligen Auswirkungen von einem Schutzgut auf ein anderes zu berücksichtigen; ein hohes Schutzniveau für die Umwelt insgesamt ist zu gewährleisten.
 
-(1a) Nach jeder Veröffentlichung einer BVT-Schlussfolgerung ist unverzüglich zu gewährleisten, dass für Anlagen nach der Industrieemissions-Richtlinie bei der Festlegung von Emissionsgrenzwerten nach Absatz 1 Satz 1 Nummer 2 die Emissionen unter normalen Betriebsbedingungen die in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten nicht überschreiten. Im Hinblick auf bestehende Anlagen ist
+(1a) (weggefallen)
 
-1. innerhalb eines Jahres nach Veröffentlichung von BVT-Schlussfolgerungen zur Haupttätigkeit eine Überprüfung und gegebenenfalls Anpassung der Rechtsverordnung vorzunehmen und
-
-2. innerhalb von vier Jahren nach Veröffentlichung von BVT-Schlussfolgerungen zur Haupttätigkeit sicherzustellen, dass die betreffenden Anlagen die Emissionsgrenzwerte der Rechtsverordnung einhalten.
-
-(1b) Abweichend von Absatz 1a
-
-1. können in der Rechtsverordnung weniger strenge Emissionsgrenzwerte und Fristen festgelegt werden, wenn
-
-a) wegen technischer Merkmale der betroffenen Anlagenart die Anwendung der in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten unverhältnismäßig wäre und dies begründet wird oder
-
-b) in Anlagen Zukunftstechniken für einen Gesamtzeitraum von höchstens neun Monaten erprobt oder angewendet werden sollen, sofern nach dem festgelegten Zeitraum die Anwendung der betreffenden Technik beendet wird oder in der Anlage mindestens die mit den besten verfügbaren Techniken assoziierten Emissionsbandbreiten erreicht werden, oder
-
-2. kann in der Rechtsverordnung bestimmt werden, dass die zuständige Behörde weniger strenge Emissionsbegrenzungen und Fristen festlegen kann, wenn
-
-a) wegen technischer Merkmale der betroffenen Anlagen die Anwendung der in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten unverhältnismäßig wäre oder
-
-b) in Anlagen Zukunftstechniken für einen Gesamtzeitraum von höchstens neun Monaten erprobt oder angewendet werden sollen, sofern nach dem festgelegten Zeitraum die Anwendung der betreffenden Technik beendet wird oder in der Anlage mindestens die mit den besten verfügbaren Techniken assoziierten Emissionsbandbreiten erreicht werden.
-
-Absatz 1 Satz 2 bleibt unberührt. Emissionsgrenzwerte und Emissionsbegrenzungen nach Satz 1 dürfen die in den Anhängen der Richtlinie 2010/75/EU festgelegten Emissionsgrenzwerte nicht überschreiten und keine schädlichen Umwelteinwirkungen hervorrufen.
+(1b) (weggefallen)
 
 (2) In der Rechtsverordnung kann bestimmt werden, inwieweit die nach Absatz 1 zur Vorsorge gegen schädliche Umwelteinwirkungen festgelegten Anforderungen nach Ablauf bestimmter Übergangsfristen erfüllt werden müssen, soweit zum Zeitpunkt des Inkrafttretens der Rechtsverordnung in einem Vorbescheid oder einer Genehmigung geringere Anforderungen gestellt worden sind. Bei der Bestimmung der Dauer der Übergangsfristen und der einzuhaltenden Anforderungen sind insbesondere Art, Menge und Gefährlichkeit der von den Anlagen ausgehenden Emissionen sowie die Nutzungsdauer und technische Besonderheiten der Anlagen zu berücksichtigen. Die Sätze 1 und 2 gelten entsprechend für Anlagen, die nach § 67 Absatz 2 oder § 67a Absatz 1 anzuzeigen sind oder vor Inkrafttreten dieses Gesetzes nach § 16 Absatz 4 der Gewerbeordnung anzuzeigen waren.
 
 (3) Soweit die Rechtsverordnung Anforderungen nach § 5 Absatz 1 Nummer 2 festgelegt hat, kann in ihr bestimmt werden, dass bei in Absatz 2 genannten Anlagen von den auf Grund der Absätze 1 und 2 festgelegten Anforderungen zur Vorsorge gegen schädliche Umwelteinwirkungen abgewichen werden darf. Dies gilt nur, wenn durch technische Maßnahmen an Anlagen des Betreibers oder Dritter insgesamt eine weitergehende Minderung von Emissionen derselben oder in ihrer Wirkung auf die Umwelt vergleichbaren Stoffen erreicht wird als bei Beachtung der auf Grund der Absätze 1 und 2 festgelegten Anforderungen und hierdurch der in § 1 genannte Zweck gefördert wird. In der Rechtsverordnung kann weiterhin bestimmt werden, inwieweit zur Erfüllung von zwischenstaatlichen Vereinbarungen mit Nachbarstaaten der Bundesrepublik Deutschland Satz 2 auch für die Durchführung technischer Maßnahmen an Anlagen gilt, die in den Nachbarstaaten gelegen sind.
 
-(4) Zur Erfüllung von bindenden Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union kann die Bundesregierung zu dem in § 1 genannten Zweck mit Zustimmung des Bundesrates durch Rechtsverordnung Anforderungen an die Errichtung, die Beschaffenheit und den Betrieb, die Betriebseinstellung und betreibereigene Überwachung genehmigungsbedürftiger Anlagen vorschreiben. Für genehmigungsbedürftige Anlagen, die vom Anwendungsbereich der Richtlinie 1999/31/EG des Rates vom 26. April 1999 über Abfalldeponien (ABl. EG Nr. L 182 S. 1) erfasst werden, kann die Bundesregierung durch Rechtsverordnung mit Zustimmung des Bundesrates dieselben Anforderungen festlegen wie für Deponien im Sinne des § 3 Absatz 27 des Kreislaufwirtschaftsgesetzes, insbesondere Anforderungen an die Erbringung einer Sicherheitsleistung, an die Stilllegung und die Sach- und Fachkunde des Betreibers.
+(4) Zur Erfüllung von bindenden Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union kann die Bundesregierung zu dem in § 1 genannten Zweck mit Zustimmung des Bundesrates durch Rechtsverordnung Anforderungen an die Errichtung, die Beschaffenheit und den Betrieb, die Betriebseinstellung und betreibereigene Überwachung genehmigungsbedürftiger Anlagen vorschreiben. Für genehmigungsbedürftige Anlagen, die vom Anwendungsbereich der Richtlinie 1999/31/EG in der Fassung vom 24. April 2024 erfasst werden, kann die Bundesregierung durch Rechtsverordnung mit Zustimmung des Bundesrates dieselben Anforderungen festlegen wie für Deponien im Sinne des § 3 Absatz 27 des Kreislaufwirtschaftsgesetzes, insbesondere Anforderungen an die Erbringung einer Sicherheitsleistung, an die Stilllegung und die Sach-und Fachkunde des Betreibers.
 
 (5) Wegen der Anforderungen nach Absatz 1 Nummer 1 bis 4, auch in Verbindung mit Absatz 4, kann auf jedermann zugängliche Bekanntmachungen sachverständiger Stellen verwiesen werden; hierbei ist
 
 1. in der Rechtsverordnung das Datum der Bekanntmachung anzugeben und die Bezugsquelle genau zu bezeichnen,
 
 2. die Bekanntmachung bei dem Deutschen Patentamt archivmäßig gesichert niederzulegen und in der Rechtsverordnung darauf hinzuweisen.
+
+# § 7a – Rechtsverordnungen über Anforderungen an Anlagen nach der Industrieemissions-Richtlinie; Verordnungsermächtigung
+
+(1) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise nach § 51 durch Rechtsverordnung mit Zustimmung des Bundesrates vorzuschreiben, dass die Errichtung, die Beschaffenheit, der Betrieb, der Zustand nach Betriebseinstellung und die betreibereigene Überwachung von Anlagen nach der Industrieemissions-Richtlinie zur Erfüllung der sich aus § 5 Absatz 4 und 5 ergebenden Pflichten bestimmten Anforderungen genügen müssen, insbesondere, dass
+
+1. der Einsatz von materiellen Ressourcen und Wasser bestimmten Anforderungen entsprechen muss,
+
+2. die Anlagen bestimmte Umweltleistungsgrenzwerte einhalten müssen,
+
+3. die Betreiber von Anlagen Messungen oder Berechnungen der Umweltleistung nach in der Rechtsverordnung näher zu bestimmenden Verfahren vorzunehmen haben oder vornehmen lassen müssen,
+
+4. die Rückführung in den Ausgangszustand nach § 5 Absatz 5 bestimmten Anforderungen entsprechen muss, insbesondere in Bezug auf den Ausgangszustandsbericht und die Feststellung der Erheblichkeit von Boden- und Grundwasserverschmutzungen.
+
+(2) Nach jeder Veröffentlichung einer BVT-Schlussfolgerung ist durch Erlass einer Rechtsverordnung unverzüglich zu gewährleisten, dass für Anlagen nach der Industrieemissions-Richtlinie
+
+1. bei der Festlegung von Emissionsgrenzwerten nach § 7 Absatz 1 Satz 1 Nummer 2 die Emissionen unter normalen Betriebsbedingungen die in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten nicht überschreiten und für Anlagenkategorien mit ähnlichen Merkmalen unter Berücksichtigung der gesamten Emissionsbandbreiten die strengstmöglichen Emissionsgrenzwerte festgelegt werden, die bei Anwendung der besten verfügbaren Techniken und unter Berücksichtigung möglicher Verlagerungen von nachteiligen Auswirkungen von einem Schutzgut auf ein anderes erreichbar sind und zur bestmöglichen Gesamtleistung der Anlage insgesamt beitragen, und
+
+2. bei der Festlegung von Umweltleistungsgrenzwerten nach Absatz 1 Nummer 2 die Umweltleistung unter normalen Betriebsbedingungen das jeweils weniger strenge Ende der mit den besten verfügbaren Techniken assoziierten Umweltleistungswerte einhält.
+
+Wird ein Emissionsgrenzwert festgelegt, der in Bezug auf Werte, Zeiträume und Referenzbedingungen von den in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten abweicht, so ist zu gewährleisten, dass der Betreiber der Anlage der zuständigen Behörde jährlich eine Zusammenfassung der Ergebnisse der Emissionsüberwachung vorlegt, die einen Vergleich mit den in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten ermöglicht. Im Hinblick auf bestehende Anlagen ist innerhalb eines Jahres nach Veröffentlichung von BVT-Schlussfolgerungen zur Haupttätigkeit eine Überprüfung und gegebenenfalls Anpassung der Rechtsverordnung vorzunehmen.
+
+(3) Abweichend von Absatz 2 können in der Rechtsverordnung Emissionsgrenzwerte oberhalb der in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten, weniger strenge Umweltleistungsgrenzwerte als in den BVT-Schlussfolgerungen beschrieben und weniger strenge Fristen festgelegt werden, wenn
+
+1. wegen technischer Merkmale der betroffenen Anlagenart die Anwendung der in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten gemessen am Umweltnutzen zu unverhältnismäßig höheren Kosten führen würde,
+
+2. für die Emission von Gerüchen und Lärm wegen des geografischen Standorts und lokaler Umweltbedingungen der betreffenden Anlage die Anwendung der in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten gemessen am Umweltnutzen zu unverhältnismäßig höheren Kosten führen würde,
+
+3. wegen technischer Merkmale der betroffenen Anlagenart die Anwendung der mit den besten verfügbaren Techniken assoziierten Umweltleistungswerte zu erheblichen negativen Umweltauswirkungen, einschließlich medienübergreifender Auswirkungen, führen würde oder für den Anlagenbetreiber unverhältnismäßig wäre oder
+
+4. in Anlagen Zukunftstechniken für einen Gesamtzeitraum von höchstens 30 Monaten erprobt werden sollen.
+
+Bei der Festlegung von Emissionsgrenzwerten nach Satz 1 sind insbesondere mögliche Verlagerungen von nachteiligen Auswirkungen von einem Schutzgut auf ein anderes zu berücksichtigen; es dürfen keine schädlichen Umwelteinwirkungen hervorgerufen werden; ein hohes Schutzniveau für die Umwelt insgesamt ist zu gewährleisten. Emissionsgrenzwerte nach Satz 1 dürfen die in den Anhängen der Industrieemissions-Richtlinie in der Fassung vom 24. April 2024 festgelegten Emissionsgrenzwerte nicht überschreiten. Weniger strenge Umweltleistungsgrenzwerte nach Satz 1 dürfen keine erheblichen Auswirkungen auf die Umwelt verursachen. Bei der Prüfung der Verhältnismäßigkeit gemäß Satz 1 Nummer 1 und 2 sind die in Anlage 2 aufgeführten Kriterien zu berücksichtigen.
+
+(4) Abweichend von Absatz 2 können in der Rechtsverordnung Umweltleistungsgrenzwerte oberhalb der mit den besten verfügbaren Techniken assoziierten Umweltleistungswerte und weniger strenge Fristen festgelegt werden, wenn wegen des geografischen Standortes oder lokaler Umweltbedingungen die Anwendung der Umweltleistungsgrenzwerte zu erheblichen negativen Umweltauswirkungen, einschließlich medienübergreifender Auswirkungen, führen würde oder für den Anlagenbetreiber unverhältnismäßig wäre.
 
 # § 8 – Teilgenehmigung
 
@@ -315,13 +347,13 @@ Die Bindungswirkung der vorläufigen Gesamtbeurteilung entfällt, wenn eine Änd
 
 3. der Antragsteller sich verpflichtet, alle bis zur Entscheidung durch die Errichtung der Anlage verursachten Schäden zu ersetzen und, wenn das Vorhaben nicht genehmigt wird, den früheren Zustand wiederherzustellen.
 
-Satz 1 Nummer 1 findet auf Antrag des Antragstellers keine Anwendung in Verfahren zur Erteilung
+Die Prognoseentscheidung nach Satz 1 Nummer 1 ist unverzüglich, spätestens acht Wochen nach Eingang des Antrags auf Grundlage einer überschlägigen Prüfung zu treffen. Satz 1 Nummer 1 findet auf Antrag des Antragstellers keine Anwendung in Verfahren zur Erteilung
 
 1. einer Genehmigung für eine Anlage auf einem bereits bestehenden Standort,
 
 2. einer Änderungsgenehmigung.
 
-In den Fällen des Satzes 2 dürfen die für die beantragten vorläufigen Maßnahmen relevanten Vorschriften dieses Gesetzes und der aufgrund dieses Gesetzes erlassenen Vorschriften sowie sonstige für die beantragten vorläufigen Maßnahmen relevante öffentlich-rechtliche Vorschriften und Belange des Arbeitsschutzes der vorzeitigen Zulassung nicht entgegenstehen.
+Die für die beantragten vorläufigen Maßnahmen relevanten Vorschriften dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Vorschriften sowie sonstige für die beantragten vorläufigen Maßnahmen relevante öffentlich-rechtliche Vorschriften und Belange des Arbeitsschutzes dürfen der vorzeitigen Zulassung nicht entgegenstehen.
 
 (2) Die Zulassung kann jederzeit widerrufen werden. Sie kann mit Auflagen verbunden oder unter dem Vorbehalt nachträglicher Auflagen erteilt werden. Die zuständige Behörde kann die Leistung einer Sicherheit verlangen, soweit dies erforderlich ist, um die Erfüllung der Pflichten des Antragstellers zu sichern.
 
@@ -337,15 +369,21 @@ In den Fällen des Satzes 2 dürfen die für die beantragten vorläufigen Maßna
 
 (3) Die Vorschriften der §§ 6 und 21 gelten sinngemäß.
 
-# § 10 – Genehmigungsverfahren
+# § 10 – Genehmigungsverfahren; Verordnungsermächtigung
 
 (1) Das Genehmigungsverfahren setzt einen schriftlichen oder elektronischen Antrag voraus. Dem Antrag sind die zur Prüfung nach § 6 erforderlichen Zeichnungen, Erläuterungen und sonstigen Unterlagen beizufügen. Reichen die Unterlagen für die Prüfung nicht aus, so hat sie der Antragsteller auf Verlangen der zuständigen Behörde innerhalb einer angemessenen Frist zu ergänzen. Erfolgt die Antragstellung schriftlich, kann die zuständige Behörde einen elektronischen Antrag verlangen und bezüglich des elektronischen Formats Vorgaben machen. Hat die zuständige Behörde einen Zugang für die elektronische Antragstellung eröffnet, so ist ausschließlich dieser für die elektronische Antragstellung zu nutzen. Erfolgt die Antragstellung elektronisch, kann die zuständige Behörde verlangen, dass die dem Antrag beizufügenden Unterlagen in Papierform übermittelt werden, soweit eine Bearbeitung anders nicht möglich ist.
 
 (1a) Der Antragsteller, der beabsichtigt, eine Anlage nach der Industrieemissions-Richtlinie zu betreiben, in der relevante gefährliche Stoffe verwendet, erzeugt oder freigesetzt werden, hat mit den Unterlagen nach Absatz 1 einen Bericht über den Ausgangszustand vorzulegen, wenn und soweit eine Verschmutzung des Bodens oder des Grundwassers auf dem Anlagengrundstück durch die relevanten gefährlichen Stoffe möglich ist. Die Möglichkeit einer Verschmutzung des Bodens oder des Grundwassers besteht nicht, wenn aufgrund der tatsächlichen Umstände ein Eintrag ausgeschlossen werden kann.
 
-(2) Soweit Unterlagen Geschäfts- oder Betriebsgeheimnisse enthalten, sind die Unterlagen zu kennzeichnen und getrennt vorzulegen. Ihr Inhalt muss, soweit es ohne Preisgabe des Geheimnisses geschehen kann, so ausführlich dargestellt sein, dass es Dritten möglich ist, zu beurteilen, ob und in welchem Umfang sie von den Auswirkungen der Anlage betroffen werden können.
+(2) Unterlagen sind zu kennzeichnen und getrennt vorzulegen, soweit
 
-(3) Sind die Unterlagen des Antragstellers vollständig, so hat die zuständige Behörde das Vorhaben in ihrem amtlichen Veröffentlichungsblatt und auf ihrer Internetseite öffentlich bekannt zu machen. Der Antrag und die vom Antragsteller vorgelegten Unterlagen, mit Ausnahme der Unterlagen nach Absatz 2 Satz 1, sowie die entscheidungserheblichen Berichte und Empfehlungen, die der Behörde im Zeitpunkt der Bekanntmachung vorliegen, sind nach der Bekanntmachung einen Monat zur Einsicht auszulegen. Die Auslegung ist dadurch zu bewirken, dass die Dokumente auf einer Internetseite der zuständigen Behörde zugänglich gemacht werden. Auf Verlangen eines Beteiligten wird ihm eine leicht zu erreichende Zugangsmöglichkeit zur Verfügung gestellt. Der Antragsteller kann der Veröffentlichung im Internet widersprechen, soweit er die Gefährdung von Betriebs- oder Geschäftsgeheimnissen oder wichtiger Sicherheitsbelange befürchtet; in diesem Fall muss die Behörde eine andere Form der Veröffentlichung wählen. Die Behörde kann verlangen, dass die Dokumente, die für die Auslegung einzureichen sind, in einem verkehrsüblichen elektronischen Format eingereicht werden. Weitere Informationen, die für die Entscheidung über die Zulässigkeit des Vorhabens von Bedeutung sein können und die der zuständigen Behörde erst nach Beginn der Auslegung vorliegen, sind der Öffentlichkeit nach den Bestimmungen über den Zugang zu Umweltinformationen zugänglich zu machen. Bis zwei Wochen nach Ablauf der Auslegungsfrist kann die Öffentlichkeit gegenüber der zuständigen Behörde schriftlich oder elektronisch Einwendungen erheben; bei Anlagen nach der Industrieemissions-Richtlinie gilt eine Frist von einem Monat. Mit Ablauf der Einwendungsfrist sind für das Genehmigungsverfahren alle Einwendungen ausgeschlossen, die nicht auf besonderen privatrechtlichen Titeln beruhen. Einwendungen, die auf besonderen privatrechtlichen Titeln beruhen, sind auf den Rechtsweg vor den ordentlichen Gerichten zu verweisen.
+1. sie Geschäfts- oder Betriebsgeheimnisse enthalten oder
+
+2. ihre Veröffentlichung nachteilige Auswirkungen auf Infrastrukturen, die durch Rechtsvorschrift als kritische Infrastruktur bestimmt worden sind, oder sonstige bedeutsame Schutzgüter der öffentlichen Sicherheit, die internationalen Beziehungen oder die Verteidigung hätte.
+
+Ihr Inhalt muss, soweit es ohne Preisgabe der schutzbedürftigen Information geschehen kann, so ausführlich dargestellt sein, dass es Dritten möglich ist, zu beurteilen, ob und in welchem Umfang sie von den Auswirkungen der Anlage betroffen werden können.
+
+(3) Sind die Unterlagen des Antragstellers vollständig, so hat die zuständige Behörde das Vorhaben auf ihrer Internetseite öffentlich bekannt zu machen. Der Antrag und die vom Antragsteller vorgelegten Unterlagen, mit Ausnahme der Unterlagen nach Absatz 2 Satz 1, sowie die entscheidungserheblichen Berichte und Empfehlungen, die der Behörde im Zeitpunkt der Bekanntmachung vorliegen, sind nach der Bekanntmachung einen Monat zur Einsicht auszulegen. Die Auslegung ist dadurch zu bewirken, dass die Dokumente auf einer Internetseite der zuständigen Behörde zugänglich gemacht werden. Auf Verlangen eines Beteiligten wird ihm eine leicht zu erreichende Zugangsmöglichkeit zur Verfügung gestellt. Der Antragsteller kann der Veröffentlichung betroffener Dokumente im Internet widersprechen, wenn er die Gefährdung von Betriebs- oder Geschäftsgeheimnissen, wichtiger Sicherheitsbelange, der internationalen Beziehungen oder der Verteidigung befürchtet; in diesem Fall muss die Behörde eine andere Form der Veröffentlichung wählen. Die Behörde kann verlangen, dass die Dokumente, die für die Auslegung einzureichen sind, in einem verkehrsüblichen elektronischen Format eingereicht werden. Weitere Informationen, die für die Entscheidung über die Zulässigkeit des Vorhabens von Bedeutung sein können und die der zuständigen Behörde erst nach Beginn der Auslegung vorliegen, sind der Öffentlichkeit nach den Bestimmungen über den Zugang zu Umweltinformationen zugänglich zu machen. Bis zwei Wochen nach Ablauf der Auslegungsfrist kann die von dem Vorhaben betroffene Öffentlichkeit gegenüber der zuständigen Behörde schriftlich oder elektronisch Einwendungen erheben; bei Anlagen nach der Industrieemissions-Richtlinie gilt eine Frist von einem Monat. Mit Ablauf der Einwendungsfrist sind für das Genehmigungsverfahren alle Einwendungen ausgeschlossen, die nicht auf besonderen privatrechtlichen Titeln beruhen. Einwendungen, die auf besonderen privatrechtlichen Titeln beruhen, sind auf den Rechtsweg vor den ordentlichen Gerichten zu verweisen.
 
 (3a) Nach dem Umwelt-Rechtsbehelfsgesetz anerkannte Vereinigungen sollen die zuständige Behörde in einer dem Umweltschutz dienenden Weise unterstützen.
 
@@ -355,31 +393,33 @@ In den Fällen des Satzes 2 dürfen die für die beantragten vorläufigen Maßna
 
 2. dazu aufzufordern, etwaige Einwendungen bei einer in der Bekanntmachung zu bezeichnenden Stelle innerhalb der Einwendungsfrist vorzubringen; dabei ist auf die Rechtsfolgen nach Absatz 3 Satz 9 hinzuweisen;
 
-3. ein Erörterungstermin zu bestimmen und darauf hinzuweisen, dass er aufgrund einer Ermessensentscheidung der Genehmigungsbehörde nach Absatz 6 durchgeführt wird und dass dann die formgerecht erhobenen Einwendungen auch bei Ausbleiben des Antragstellers oder von Personen, die Einwendungen erhoben haben, erörtert werden;
+3. darauf hinzuweisen, dass auf Antrag des Antragstellers nach Absatz 6 ein Erörterungstermin bestimmt und gesondert bekannt gemacht werden kann und dass dann die formgerecht erhobenen Einwendungen auch bei Ausbleiben des Antragstellers oder der Personen, die Einwendungen erhoben haben, erörtert werden;
 
 4. darauf hinzuweisen, dass die Zustellung der Entscheidung über die Einwendungen durch öffentliche Bekanntmachung ersetzt werden kann.
 
-(5) Die für die Erteilung der Genehmigung zuständige Behörde (Genehmigungsbehörde) holt die Stellungnahmen der Behörden ein, deren Aufgabenbereich durch das Vorhaben berührt wird. Eingegangene Stellungnahmen der zu beteiligenden Behörden hat die Genehmigungsbehörde unverzüglich an den Antragsteller weiterzuleiten. Hat eine zu beteiligende Behörde bei einem Verfahren zur Genehmigung einer Anlage innerhalb einer Frist von einem Monat keine Stellungnahme abgegeben, so ist davon auszugehen, dass die zu beteiligende Behörde sich nicht äußern will, soweit die zu beteiligende Behörde nicht in schriftlicher Form um eine einmalige Verlängerung um bis zu einem Monat bittet; die Möglichkeit zur Verlängerung gilt nicht für Verfahren zur Genehmigung einer Anlage zur Nutzung erneuerbarer Energien oder einer Anlage zur Herstellung von Wasserstoff aus erneuerbaren Energien. Die zuständige Behörde hat die Entscheidung im Falle des Satzes 3 bei einem Verfahren zur Genehmigung einer Anlage zur Nutzung erneuerbarer Energien oder einer Anlage zur Herstellung von Wasserstoff aus erneuerbaren Energien auf Antrag auf der Grundlage der geltenden Sach- und Rechtslage zum Zeitpunkt des Fristablaufs der Behördenbeteiligung zu treffen. Anstelle der Stellungnahme der zu beteiligenden Behörde kann die Behörde entweder zu Lasten der zu beteiligenden Behörde zur Prüfung der Genehmigungsvoraussetzungen ein Sachverständigengutachten einholen oder selbst Stellung nehmen. Beides hat auf der Grundlage der geltenden Sach- und Rechtslage zum Zeitpunkt des Fristablaufs der Behördenbeteiligung zu erfolgen; dies gilt nicht für militärische Belange. Ist von vorneherein davon auszugehen, dass eine beteiligte Behörde innerhalb der Frist nach Satz 3 nicht in der Lage ist, zu entscheidungserheblichen Aspekten des Antrags Stellung zu nehmen, kann die Genehmigungsbehörde bereits vor Ablauf der Frist ein Sachverständigengutachten nach Satz 5 einholen. Die zuständige Behörde informiert ihre Aufsichtsbehörde über jede Überschreitung von Fristen. Beabsichtigt eine beteiligte Behörde eine gesetzlich erforderliche Zustimmung nicht zu erteilen, hat die beteiligte Behörde vor Abgabe ihrer Entscheidung dem Antragsteller innerhalb einer von der Behörde festzusetzenden Frist die Möglichkeit zur Stellungnahme zu geben. In diesem Fall findet § 20 Absatz 1 Satz 2 der Neunten Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes keine Anwendung. Soweit für das Vorhaben selbst oder für weitere damit unmittelbar in einem räumlichen oder betrieblichen Zusammenhang stehende Vorhaben, die Auswirkungen auf die Umwelt haben können und die für die Genehmigung Bedeutung haben, eine Zulassung nach anderen Gesetzen vorgeschrieben ist, hat die Genehmigungsbehörde eine vollständige Koordinierung der Zulassungsverfahren sowie der Inhalts- und Nebenbestimmungen sicherzustellen.
+(5) Die für die Erteilung der Genehmigung zuständige Behörde (Genehmigungsbehörde) holt die Stellungnahmen der Behörden ein, deren Aufgabenbereich durch das Vorhaben berührt wird. Eingegangene Stellungnahmen der zu beteiligenden Behörden hat die Genehmigungsbehörde unverzüglich an den Antragsteller weiterzuleiten. Hat eine zu beteiligende Behörde bei einem Verfahren zur Genehmigung einer Anlage innerhalb einer Frist von einem Monat keine Stellungnahme abgegeben, so ist davon auszugehen, dass die zu beteiligende Behörde sich nicht äußern will. Die zuständige Behörde hat die Entscheidung im Fall des Satzes 3 auf Antrag auf der Grundlage der geltenden Sach- und Rechtslage zum Zeitpunkt des Fristablaufs der Behördenbeteiligung zu treffen; dieser Zeitpunkt gilt nicht für die Prüfung des Arten- und Habitatschutzes, es sei denn, es handelt sich um ein Verfahren zur Genehmigung einer Anlage zur Nutzung erneuerbarer Energien oder einer Anlage zur Herstellung von Wasserstoff aus erneuerbaren Energien. Anstelle der Stellungnahme der zu beteiligenden Behörde kann die Behörde entweder zu Lasten der zu beteiligenden Behörde zur Prüfung der Genehmigungsvoraussetzungen ein Sachverständigengutachten einholen oder selbst Stellung nehmen. Beides hat auf der Grundlage der geltenden Sach- und Rechtslage zum Zeitpunkt des Fristablaufs der Behördenbeteiligung zu erfolgen; dies gilt nicht für militärische Belange. Ist von vorneherein davon auszugehen, dass eine beteiligte Behörde innerhalb der Frist nach Satz 3 nicht in der Lage ist, zu entscheidungserheblichen Aspekten des Antrags Stellung zu nehmen, kann die Genehmigungsbehörde bereits vor Ablauf der Frist ein Sachverständigengutachten nach Satz 5 einholen. Die zuständige Behörde informiert ihre Aufsichtsbehörde über jede Überschreitung von Fristen. Beabsichtigt eine beteiligte Behörde eine gesetzlich erforderliche Zustimmung nicht zu erteilen, hat die beteiligte Behörde vor Abgabe ihrer Entscheidung dem Antragsteller innerhalb einer von der Behörde festzusetzenden Frist die Möglichkeit zur Stellungnahme zu geben. In diesem Fall findet § 20 Absatz 1 Satz 2 der Neunten Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes keine Anwendung. Soweit für das Vorhaben selbst oder für weitere damit unmittelbar in einem räumlichen oder betrieblichen Zusammenhang stehende Vorhaben, die Auswirkungen auf die Umwelt haben können und die für die Genehmigung Bedeutung haben, eine Zulassung nach anderen Gesetzen vorgeschrieben ist, hat die Genehmigungsbehörde eine vollständige Koordinierung der Zulassungsverfahren sowie der Inhalts- und Nebenbestimmungen sicherzustellen.
 
-(6) Nach Ablauf der Einwendungsfrist kann die Genehmigungsbehörde die rechtzeitig gegen das Vorhaben erhobenen Einwendungen mit dem Antragsteller und denjenigen, die Einwendungen erhoben haben, erörtern. Der Erörterungstermin kann auch in Form einer Onlinekonsultation oder durch eine Video- oder Telefonkonferenz erfolgen. Bei einer Onlinekonsultation ist dem Antragsteller und denjenigen, die Einwendungen erhoben haben, innerhalb einer vorher bekannt zu machenden Frist Gelegenheit zu geben, sich schriftlich oder elektronisch zu äußern. Die Frist soll mindestens eine Woche betragen. Werden für die Onlinekonsultation Informationen zur Verfügung gestellt, so gilt Absatz 2 entsprechend.
+(6) Nach Ablauf der Einwendungsfrist kann die Genehmigungsbehörde auf Antrag des Antragstellers die rechtzeitig gegen das Vorhaben erhobenen Einwendungen mit dem Antragsteller und denjenigen, die Einwendungen erhoben haben, erörtern. Der Erörterungstermin kann auch in Form einer Onlinekonsultation oder durch eine Video- oder Telefonkonferenz erfolgen. Bei einer Onlinekonsultation ist dem Antragsteller und denjenigen, die Einwendungen erhoben haben, innerhalb einer vorher bekannt zu machenden Frist Gelegenheit zu geben, sich schriftlich oder elektronisch zu äußern. Die Frist soll mindestens eine Woche betragen. Werden für die Onlinekonsultation Informationen zur Verfügung gestellt, so gilt Absatz 2 entsprechend.
 
 (6a) Über den Genehmigungsantrag ist nach Eingang des Antrags und der nach Absatz 1 Satz 2 einzureichenden Unterlagen innerhalb einer Frist von sieben Monaten, in vereinfachten Verfahren innerhalb einer Frist von drei Monaten, zu entscheiden. Die zuständige Behörde kann die Frist einmalig um bis zu drei Monate verlängern, wenn dies wegen der Schwierigkeit der Prüfung oder aus Gründen, die dem Antragsteller zuzurechnen sind, erforderlich ist. Die Fristverlängerung ist gegenüber dem Antragsteller zu begründen. Eine weitere Verlängerung ist nur auf Antrag oder mit Zustimmung des Antragstellers möglich. Die zuständige Behörde informiert ihre Aufsichtsbehörde über jede Überschreitung von Fristen.
 
-(7) Der Genehmigungsbescheid ist schriftlich zu erlassen, schriftlich zu begründen und dem Antragsteller und den Personen, die Einwendungen erhoben haben, zuzustellen. Er ist, soweit die Zustellung nicht nach Absatz 8 erfolgt, öffentlich bekannt zu machen. Die öffentliche Bekanntmachung erfolgt nach Maßgabe des Absatzes 8.
+(7) Der Genehmigungsbescheid ist schriftlich zu erlassen, schriftlich zu begründen und dem Antragsteller und den Personen, die Einwendungen erhoben haben, zuzustellen. Ab dem 1. Januar 2028 ist der Genehmigungsbescheid an den Antragsteller elektronisch zuzustellen. Er ist, soweit die Zustellung nicht nach Absatz 8 erfolgt, öffentlich bekannt zu machen. Die öffentliche Bekanntmachung erfolgt nach Maßgabe des Absatzes 8.
 
-(8) Die Zustellung des Genehmigungsbescheids an die Personen, die Einwendungen erhoben haben, kann durch öffentliche Bekanntmachung ersetzt werden. Die öffentliche Bekanntmachung wird dadurch bewirkt, dass der verfügende Teil des Bescheides und die Rechtsbehelfsbelehrung in entsprechender Anwendung des Absatzes 3 Satz 1 bekannt gemacht werden; auf Auflagen ist hinzuweisen. In diesem Fall ist eine Ausfertigung des gesamten Bescheides vom Tage nach der Bekanntmachung an zwei Wochen zur Einsicht auszulegen. Die Auslegung ist dadurch zu bewirken, dass die Dokumente auf einer Internetseite der zuständigen Behörde zugänglich gemacht werden. Auf Verlangen eines Beteiligten wird ihm eine leicht zu erreichende Zugangsmöglichkeit zur Verfügung gestellt. Der Vorhabenträger kann der Veröffentlichung im Internet widersprechen, soweit er die Gefährdung von Betriebs- oder Geschäftsgeheimnissen oder wichtiger Sicherheitsbelange befürchtet; in diesem Fall muss die Behörde eine andere Form der Veröffentlichung wählen. In der öffentlichen Bekanntmachung ist anzugeben, wo und wann der Bescheid und seine Begründung eingesehen und nach Satz 9 angefordert werden können; hierzu ist auch die Internetseite auf der die Zugänglichmachung erfolgt, anzugeben. Mit dem Ende der Auslegungsfrist gilt der Bescheid auch gegenüber Dritten, die keine Einwendung erhoben haben, als zugestellt; darauf ist in der Bekanntmachung hinzuweisen. Nach der öffentlichen Bekanntmachung können der Bescheid und seine Begründung bis zum Ablauf der Widerspruchsfrist von den Personen, die Einwendungen erhoben haben, schriftlich oder elektronisch angefordert werden.
+(8) Die Zustellung des Genehmigungsbescheids an die Personen, die Einwendungen erhoben haben, kann durch öffentliche Bekanntmachung ersetzt werden. Die öffentliche Bekanntmachung wird dadurch bewirkt, dass der verfügende Teil des Bescheides und die Rechtsbehelfsbelehrung in entsprechender Anwendung des Absatzes 3 Satz 1 bekannt gemacht werden; auf Auflagen ist hinzuweisen. In diesem Fall ist eine Ausfertigung des gesamten Bescheides mit Ausnahme in Bezug genommener Antragsunterlagen und des Berichts über den Ausgangszustand vom Tag nach der Bekanntmachung an zwei Wochen zur Einsicht auszulegen. Die §§ 8 und 9 des Umweltinformationsgesetzes finden entsprechende Anwendung. Entsprechende Stellen sind unkenntlich zu machen. Die Auslegung ist dadurch zu bewirken, dass die Dokumente auf einer Internetseite der zuständigen Behörde zugänglich gemacht werden. Auf Verlangen eines Beteiligten werden ihm eine leicht zu erreichende Zugangsmöglichkeit sowie die im Bescheid in Bezug genommenen Antragsunterlagen und der Bericht über den Ausgangszustand innerhalb der Auslegungsfrist zur Verfügung gestellt. Der Vorhabenträger kann der Veröffentlichung betroffener Dokumente im Internet widersprechen, wenn er die Gefährdung von Betriebs- oder Geschäftsgeheimnissen oder wichtiger Sicherheitsbelange befürchtet; in diesem Fall muss die Behörde eine andere Form der Veröffentlichung wählen. In der öffentlichen Bekanntmachung ist anzugeben, wo und wann der Bescheid und seine Begründung eingesehen und nach Satz 11 angefordert werden können; hierzu ist auch die Internetseite auf der die Zugänglichmachung erfolgt, anzugeben. Mit dem Ende der Auslegungsfrist gilt der Bescheid auch gegenüber Dritten, die keine Einwendung erhoben haben, als zugestellt; darauf ist in der Bekanntmachung hinzuweisen. Nach der öffentlichen Bekanntmachung können der Bescheid und seine Begründung bis zum Ablauf der Widerspruchsfrist von den Personen, die Einwendungen erhoben haben, schriftlich oder elektronisch angefordert werden.
 
-(8a) Unbeschadet der Absätze 7 und 8 sind bei Anlagen nach der Industrieemissions-Richtlinie folgende Unterlagen im Internet öffentlich bekannt zu machen:
+(8a) Unbeschadet der Absätze 7 und 8 sind bei Anlagen nach der Industrieemissions-Richtlinie folgende Unterlagen im Internet zu veröffentlichen:
 
-1. der Genehmigungsbescheid mit Ausnahme in Bezug genommener Antragsunterlagen und des Berichts über den Ausgangszustand sowie
+1. der Genehmigungsbescheid mit Ausnahme in Bezug genommener Antragsunterlagen und des Berichts über den Ausgangszustand,
 
-2. die Bezeichnung des für die betreffende Anlage maßgeblichen BVT-Merkblatts.
+2. die Bezeichnung des für die betreffende Anlage maßgeblichen BVT-Merkblatts, sofern vorhanden, und
 
-Soweit der Genehmigungsbescheid Geschäfts- oder Betriebsgeheimnisse enthält, sind die entsprechenden Stellen unkenntlich zu machen.
+3. eine konsolidierte Fassung der Inhalts- und Nebenbestimmungen sowie nachträglichen Anordnungen, sofern eine solche bei der zuständigen Behörde vorliegt.
+
+Die Veröffentlichung der Unterlagen im Internet hat systematisch, kostenlos und ohne Einschränkung des Zugangs auf angemeldete Benutzer auf einer leicht auffindbaren Internetseite bis zum Erlöschen der Genehmigung zu erfolgen. Die §§ 8 und 9 des Umweltinformationsgesetzes finden entsprechende Anwendung. Entsprechende Stellen sind unkenntlich zu machen.
 
 (9) Die Absätze 1 bis 8 gelten entsprechend für die Erteilung eines Vorbescheides.
 
-(10) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das Genehmigungsverfahren zu regeln und dabei Regelungen zur elektronischen Antragstellung zu treffen. In der Rechtsverordnung kann auch das Verfahren bei Erteilung einer Genehmigung im vereinfachten Verfahren (§ 19) sowie bei der Erteilung eines Vorbescheides (§ 9), einer Teilgenehmigung (§ 8) und einer Zulassung vorzeitigen Beginns (§ 8a) geregelt werden. In der Verordnung ist auch näher zu bestimmen, welchen Anforderungen das Genehmigungsverfahren für Anlagen genügen muss, für die nach dem Gesetz über die Umweltverträglichkeitsprüfung eine Umweltverträglichkeitsprüfung durchzuführen ist.
+(10) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das Genehmigungsverfahren zu regeln und dabei Regelungen zur elektronischen Durchführung des Genehmigungsverfahrens zu treffen. In der Rechtsverordnung kann auch das Verfahren bei Erteilung einer Genehmigung im vereinfachten Verfahren (§ 19) sowie bei der Erteilung eines Vorbescheides (§ 9), einer Teilgenehmigung (§ 8) und einer Zulassung vorzeitigen Beginns (§ 8a) geregelt werden. In der Verordnung ist auch näher zu bestimmen, welchen Anforderungen das Genehmigungsverfahren für Anlagen genügen muss, für die nach dem Gesetz über die Umweltverträglichkeitsprüfung eine Umweltverträglichkeitsprüfung durchzuführen ist.
 
 (11) Das Bundesministerium der Verteidigung wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates das Genehmigungsverfahren für Anlagen, die der Landesverteidigung dienen, abweichend von den Absätzen 1 bis 9 zu regeln.
 
@@ -425,29 +465,61 @@ Ist eine Teilgenehmigung oder ein Vorbescheid erteilt worden, können nach Eintr
 
 # § 12 – Nebenbestimmungen zur Genehmigung
 
-(1) Die Genehmigung kann unter Bedingungen erteilt und mit Auflagen verbunden werden, soweit dies erforderlich ist, um die Erfüllung der in § 6 genannten Genehmigungsvoraussetzungen sicherzustellen. Zur Sicherstellung der Anforderungen nach § 5 Absatz 3 soll bei Abfallentsorgungsanlagen im Sinne des § 4 Absatz 1 Satz 1 auch eine Sicherheitsleistung auferlegt werden.
+(1) Die Genehmigung kann unter Bedingungen erteilt und mit Auflagen verbunden werden, soweit dies erforderlich ist, um die Erfüllung der in § 6 genannten Genehmigungsvoraussetzungen sicherzustellen. Zur Sicherstellung der Anforderungen nach § 5 Absatz 3 soll bei Abfallentsorgungsanlagen im Sinne des § 4 Absatz 1 Satz 1 auch eine Sicherheitsleistung auferlegt werden, die insolvenzfest ist und auf die die Behörde direkten Zugriff hat.
 
-(1a) Für den Fall, dass eine Verwaltungsvorschrift nach § 48 für die jeweilige Anlagenart keine Anforderungen vorsieht, ist bei der Festlegung von Emissionsbegrenzungen für Anlagen nach der Industrieemissions-Richtlinie in der Genehmigung sicherzustellen, dass die Emissionen unter normalen Betriebsbedingungen die in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten nicht überschreiten.
+(1a) (weggefallen)
 
-(1b) Abweichend von Absatz 1a kann die zuständige Behörde weniger strenge Emissionsbegrenzungen festlegen, wenn
-
-1. eine Bewertung ergibt, dass wegen technischer Merkmale der Anlage die Anwendung der in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten unverhältnismäßig wäre, oder
-
-2. in Anlagen Zukunftstechniken für einen Gesamtzeitraum von höchstens neun Monaten erprobt oder angewendet werden sollen, sofern nach dem festgelegten Zeitraum die Anwendung der betreffenden Technik beendet wird oder in der Anlage mindestens die mit den besten verfügbaren Techniken assoziierten Emissionsbandbreiten erreicht werden.
-
-Bei der Festlegung der Emissionsbegrenzungen nach Satz 1 sind insbesondere mögliche Verlagerungen von nachteiligen Auswirkungen von einem Schutzgut auf ein anderes zu berücksichtigen; ein hohes Schutzniveau für die Umwelt insgesamt ist zu gewährleisten. Emissionsbegrenzungen nach Satz 1 dürfen die in den Anhängen der Richtlinie 2010/75/EU festgelegten Emissionsgrenzwerte nicht überschreiten und keine schädlichen Umwelteinwirkungen hervorrufen.
+(1b) (weggefallen)
 
 (2) Die Genehmigung kann auf Antrag für einen bestimmten Zeitraum erteilt werden. Sie kann mit einem Vorbehalt des Widerrufs erteilt werden, wenn die genehmigungsbedürftige Anlage lediglich Erprobungszwecken dienen soll.
 
-(2a) Die Genehmigung kann mit Einverständnis des Antragstellers mit dem Vorbehalt nachträglicher Auflagen erteilt werden, soweit hierdurch hinreichend bestimmte, in der Genehmigung bereits allgemein festgelegte Anforderungen an die Errichtung oder den Betrieb der Anlage in einem Zeitpunkt nach Erteilung der Genehmigung näher festgelegt werden sollen. Dies gilt unter den Voraussetzungen des Satzes 1 auch für den Fall, dass eine beteiligte Behörde sich nicht rechtzeitig äußert.
+(2a) Die Genehmigung kann mit Einverständnis des Antragstellers mit dem Vorbehalt nachträglicher Auflagen erteilt werden, soweit hierdurch hinreichend bestimmte, in der Genehmigung bereits allgemein festgelegte Anforderungen an die Errichtung oder den Betrieb der Anlage in einem Zeitpunkt nach Erteilung der Genehmigung näher festgelegt werden sollen. Dies gilt unter den Voraussetzungen des Satzes 1 auch für den Fall, dass eine beteiligte Behörde sich nicht rechtzeitig äußert oder bestimmte Unterlagen oder Angaben nach der Erteilung der Genehmigung nachzureichen sind.
 
-(2b) Im Falle des § 6 Absatz 2 soll der Antragsteller durch eine Auflage verpflichtet werden, der zuständigen Behörde unverzüglich die erstmalige Herstellung oder Verwendung eines anderen Stoffes innerhalb der genehmigten Betriebsweise mitzuteilen.
+(2b) Im Fall des § 6 Absatz 2 kann der Antragsteller durch eine Auflage verpflichtet werden, der zuständigen Behörde die Änderung der Betriebsweise, die Herstellung eines anderen Stoffes, die Verwendung eines anderen Stoffes oder die Verschaltung von modularen Prozesseinheiten mitzuteilen, sofern diese erstmals innerhalb des genehmigten Rahmens erfolgen sollen.
 
 (2c) Der Betreiber kann durch Auflage verpflichtet werden, den Wechsel eines im Genehmigungsverfahren dargelegten Entsorgungswegs von Abfällen der zuständigen Behörde anzuzeigen. Das gilt ebenso für in Abfallbehandlungsanlagen erzeugte Abfälle. Bei Abfallbehandlungsanlagen können außerdem Anforderungen an die Qualität und das Schadstoffpotential der angenommenen Abfälle sowie der die Anlage verlassenden Abfälle gestellt werden.
 
 (3) Die Teilgenehmigung kann für einen bestimmten Zeitraum oder mit dem Vorbehalt erteilt werden, dass sie bis zur Entscheidung über die Genehmigung widerrufen oder mit Auflagen verbunden werden kann.
 
 (4) Auf Antrag eines Betreibers kann eine Nebenbestimmung auch nachträglich geändert werden, wenn der Betreiber andere gleichwertige Maßnahmen vorschlägt, die keiner Genehmigungspflicht nach diesem Gesetz oder anderen Entscheidungen, einschließlich der behördlichen Entscheidungen nach § 13 unterliegen. Dient die Nebenbestimmung der Erfüllung von § 6 Absatz 1 Nummer 2, holt die Genehmigungsbehörde vor Änderung der Nebenbestimmung eine Stellungnahme der betroffenen Fachbehörde ein.
+
+# § 12a – Emissionsbegrenzungen und Umweltleistungsbegrenzungen für Anlagen nach der Industrieemissions-Richtlinie
+
+(1) Wenn die Anwendung der in einer Rechtsverordnung nach § 7a Absatz 2 festgelegten Emissionsgrenzwerte oder der in einer Verwaltungsvorschrift nach § 48 Absatz 2 festgelegten Emissionswerte im Einzelfall für den Anlagenbetreiber unverhältnismäßig wäre, so kann die zuständige Behörde abweichende, weniger strenge Emissionsbegrenzungen innerhalb der in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten festlegen. Es sind für die betroffene Anlage die strengstmöglichen Emissionsbegrenzungen festzulegen, die bei Anwendung der besten verfügbaren Techniken und unter Berücksichtigung der gesamten Emissionsbandbreiten und möglicher Verlagerungen von nachteiligen Auswirkungen von einem Schutzgut auf ein anderes erreichbar sind und zur bestmöglichen Gesamtleistung der Anlage insgesamt beitragen.
+
+(2) Abweichend von den in einer Rechtsverordnung nach § 7a Absatz 2 festgelegten Emissionsgrenzwerten und Umweltleistungsgrenzwerten und von den in einer Verwaltungsvorschrift nach § 48 Absatz 2 festgelegten Emissionswerten kann die zuständige Behörde auf Antrag Emissionsbegrenzungen oberhalb der in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten, weniger strenge Umweltleistungsbegrenzungen als in den BVT-Schlussfolgerungen genannt und weniger strenge Fristen festlegen, wenn
+
+1. wegen technischer Merkmale der Anlage die Anwendung der in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten gemessen am Umweltnutzen zu unverhältnismäßig höheren Kosten führen würde,
+
+2. wegen technischer Merkmale der Anlage die Anwendung der Umweltleistungsgrenzwerte zu erheblichen negativen Umweltauswirkungen, einschließlich medienübergreifender Auswirkungen, führen würde oder für den Anlagenbetreiber unverhältnismäßig wäre oder
+
+3. in Anlagen Zukunftstechniken für einen Gesamtzeitraum von höchstens 30 Monaten erprobt werden sollen.
+
+Bei der Festlegung von Emissionsbegrenzungen nach Satz 1 sind insbesondere mögliche Verlagerungen von nachteiligen Auswirkungen von einem Schutzgut auf ein anderes zu berücksichtigen; es dürfen keine schädlichen Umwelteinwirkungen hervorgerufen werden; ein hohes Schutzniveau für die Umwelt insgesamt ist zu gewährleisten. Emissionsbegrenzungen nach Satz 1 dürfen die in den Anhängen der Industrieemissions-Richtlinie in der Fassung vom 24. April 2024 festgelegten Emissionsgrenzwerte nicht überschreiten. Weniger strenge Umweltleistungsbegrenzungen nach Satz 1 dürfen keine erheblichen Auswirkungen auf die Umwelt verursachen. Bei der Prüfung der Verhältnismäßigkeit gemäß Satz 1 Nummer 1 sind die in Anlage 2 aufgeführten Kriterien zu berücksichtigen.
+
+(3) Abweichend von den in einer Rechtsverordnung nach § 7a Absatz 2 festgelegten Umweltleistungsgrenzwerten kann die zuständige Behörde auf Antrag Umweltleistungsbegrenzungen oberhalb der Umweltleistungsgrenzwerte und weniger strenge Fristen festlegen, wenn wegen des geografischen Standortes oder lokaler Umweltbedingungen die Anwendung der Umweltleistungsgrenzwerte zu erheblichen negativen Umweltauswirkungen, einschließlich medienübergreifender Auswirkungen, führen würde oder für den Anlagenbetreiber unverhältnismäßig wäre.
+
+(4) Die zuständige Behörde kann auf Antrag Emissionsbegrenzungen festlegen, die in Bezug auf Werte, Zeiträume und Referenzbedingungen von den in einer Rechtsverordnung nach § 7a Absatz 2 festgelegten Emissionsgrenzwerten oder von den in einer Verwaltungsvorschrift nach § 48 Absatz 2 festgelegten Emissionswerten abweichen, sofern ein gleichwertiges Umweltschutzniveau gewährleistet ist.
+
+(5) Nach der Veröffentlichung von BVT-Schlussfolgerungen ist durch die zuständige Behörde bei Erteilung einer Neugenehmigung für Anlagen nach der Industrieemissions-Richtlinie bis zur Anpassung der Rechtsverordnung nach § 7a Absatz 2 oder der Verwaltungsvorschrift nach § 48 Absatz 2 sicherzustellen, dass
+
+1. die Emissionen unter normalen Betriebsbedingungen die in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten nicht überschreiten und unter Berücksichtigung der gesamten Emissionsbandbreiten die strengstmöglichen Emissionsbegrenzungen festgelegt werden, die bei Anwendung der besten verfügbaren Techniken und unter Berücksichtigung möglicher Verlagerungen von nachteiligen Auswirkungen von einem Schutzgut auf ein anderes erreichbar sind und zur bestmöglichen Gesamtleistung der Anlage insgesamt beitragen, und
+
+2. die Umweltleistung unter normalen Betriebsbedingungen die mit den besten verfügbaren Techniken assoziierten Umweltleistungswerte einhält.
+
+Im Fall des Satzes 1 sind die in Rechtsverordnungen oder Verwaltungsvorschriften vor der Veröffentlichung der neuen BVT-Schlussfolgerungen festgelegten Emissionsgrenzwerte, Umweltleistungsgrenzwerte und Emissionswerte nicht mehr anzuwenden, soweit die neu veröffentlichten BVT-Schlussfolgerungen weitergehende Anforderungen stellen. Die Absätze 2 bis 4 gelten entsprechend. Ergeben sich aus der Anpassung der Rechtsverordnung nach § 7a Absatz 2 oder der Verwaltungsvorschrift nach § 48 Absatz 2 an die neu veröffentlichten BVT-Schlussfolgerungen nachträglich abweichende Anforderungen, sind die abweichenden Anforderungen nicht anzuwenden.
+
+(6) Für den Fall, dass eine Rechtsverordnung nach § 7a Absatz 2 oder eine Verwaltungsvorschrift nach § 48 Absatz 2 für die jeweilige Anlagenart keine emissionsbezogenen oder umweltleistungsbezogenen Anforderungen vorsieht oder die Anforderungen nicht alle potenziellen Umweltauswirkungen abdecken, gilt bei der Festlegung von Emissionsbegrenzungen und Umweltleistungsbegrenzungen für Anlagen nach der Industrieemissions-Richtlinie Absatz 5 entsprechend.
+
+(7) Im Fall des Absatzes 6 hat die zuständige Behörde den Stand der Technik im Einzelfall unter Berücksichtigung der Kriterien in Anlage 1 festzustellen und auf dieser Grundlage Emissionsbegrenzungen festzulegen, wenn
+
+1. für die jeweilige Anlagenart keine BVT-Schlussfolgerungen vorliegen,
+
+2. die einschlägigen BVT-Schlussfolgerungen keine emissionsbezogenen Anforderungen enthalten oder
+
+3. die Anforderungen in den einschlägigen BVT-Schlussfolgerungen nicht alle potenziellen Umweltauswirkungen abdecken.
+
+Die Emissionsbegrenzungen dürfen die in den Anhängen der Industrieemissions-Richtlinie in der Fassung vom 24. April 2024 festgelegten Emissionsgrenzwerte nicht überschreiten. Bei der Festlegung von Emissionsbegrenzungen nach Satz 1 Nummer 2 ist sicherzustellen, dass ein Umweltschutzniveau gewährleistet wird, das mit den in den BVT-Schlussfolgerungen beschriebenen besten verfügbaren Techniken gleichwertig ist.
 
 # § 13 – Genehmigung und andere behördliche Entscheidungen
 
@@ -469,7 +541,7 @@ Der Antragsteller kann eine verwaltungsgerichtliche Klage erheben, wenn über se
 
 (2a) Bei einer störfallrelevanten Änderung einer genehmigungsbedürftigen Anlage, die Betriebsbereich oder Bestandteil eines Betriebsbereichs ist, hat die zuständige Behörde unverzüglich, spätestens innerhalb von zwei Monaten nach Eingang der Anzeige und der nach Absatz 1 Satz 2 erforderlichen Unterlagen zu prüfen, ob diese Änderung einer Genehmigung bedarf. Soweit es zur Ermittlung des angemessenen Sicherheitsabstands erforderlich ist, kann die zuständige Behörde ein Gutachten zu den Auswirkungen verlangen, die bei schweren Unfällen durch die Anlage hervorgerufen werden können. Der Träger des Vorhabens darf die störfallrelevante Änderung vornehmen, sobald ihm die zuständige Behörde mitteilt, dass sie keiner Genehmigung bedarf.
 
-(3) Beabsichtigt der Betreiber, den Betrieb einer genehmigungsbedürftigen Anlage einzustellen, so hat er dies unter Angabe des Zeitpunktes der Einstellung der zuständigen Behörde unverzüglich anzuzeigen. Der Anzeige sind Unterlagen über die vom Betreiber vorgesehenen Maßnahmen zur Erfüllung der sich aus § 5 Absatz 3 und 4 ergebenden Pflichten beizufügen. Die Sätze 1 und 2 gelten für die in Absatz 1 Satz 5 bezeichneten Anlagen entsprechend.
+(3) Beabsichtigt der Betreiber, den Betrieb einer genehmigungsbedürftigen Anlage einzustellen, so hat er dies unter Angabe des Zeitpunktes der Einstellung der zuständigen Behörde unverzüglich anzuzeigen. Der Anzeige sind Unterlagen über die vom Betreiber vorgesehenen Maßnahmen zur Erfüllung der sich aus § 5 Absatz 3 und 5 ergebenden Pflichten beizufügen. Die Sätze 1 und 2 gelten für die in Absatz 1 Satz 5 bezeichneten Anlagen entsprechend.
 
 (4) In der Rechtsverordnung nach § 10 Absatz 10 können die näheren Einzelheiten für das Verfahren nach den Absätzen 1 bis 3 geregelt werden.
 
@@ -477,9 +549,13 @@ Der Antragsteller kann eine verwaltungsgerichtliche Klage erheben, wenn über se
 
 (1) Die Änderung der Lage, der Beschaffenheit oder des Betriebs einer genehmigungsbedürftigen Anlage bedarf der Genehmigung, wenn durch die Änderung nachteilige Auswirkungen hervorgerufen werden können und diese für die Prüfung nach § 6 Absatz 1 Nummer 1 erheblich sein können (wesentliche Änderung); eine Genehmigung ist stets erforderlich, wenn die Änderung oder Erweiterung des Betriebs einer genehmigungsbedürftigen Anlage für sich genommen die Leistungsgrenzen oder Anlagengrößen des Anhangs zur Verordnung über genehmigungsbedürftige Anlagen erreichen. Eine Genehmigung ist nicht erforderlich, wenn durch die Änderung hervorgerufene nachteilige Auswirkungen offensichtlich gering sind und die Erfüllung der sich aus § 6 Absatz 1 Nummer 1 ergebenden Anforderungen sichergestellt ist.
 
-(2) Die zuständige Behörde soll von der öffentlichen Bekanntmachung des Vorhabens sowie der Auslegung des Antrags und der Unterlagen absehen, wenn der Träger des Vorhabens dies beantragt und erhebliche nachteilige Auswirkungen auf in § 1 genannte Schutzgüter nicht zu besorgen sind. Dies ist insbesondere dann der Fall, wenn erkennbar ist, dass die Auswirkungen durch die getroffenen oder vom Träger des Vorhabens vorgesehenen Maßnahmen ausgeschlossen werden oder die Nachteile im Verhältnis zu den jeweils vergleichbaren Vorteilen gering sind. Betrifft die wesentliche Änderung eine in einem vereinfachten Verfahren zu genehmigende Anlage, ist auch die wesentliche Änderung im vereinfachten Verfahren zu genehmigen. § 19 Absatz 3 gilt entsprechend. Wenn die Änderung oder Erweiterung des Betriebs einer Anlage für sich genommen die Leistungsgrenzen oder die Anlagengrößen einer Anlage im Sinne des Anhangs 1 der Verordnung über genehmigungsbedürftige Anlagen in der Fassung der Bekanntmachung vom 31. Mai 2017 (BGBl. I S. 1440), die durch Artikel 1 der Verordnung vom 12. Oktober 2022 (BGBl. I S. 1799) geändert worden ist, die in Spalte d mit dem Buchstaben E gekennzeichnet sind, erreichen würde, dann sind die öffentliche Bekanntmachung sowie die Auslegung stets erforderlich.
+(2) Die zuständige Behörde soll von der öffentlichen Bekanntmachung des Vorhabens sowie der Auslegung des Antrags und der Unterlagen absehen, wenn der Träger des Vorhabens dies beantragt und erhebliche nachteilige Auswirkungen auf in § 1 genannte Schutzgüter nicht zu besorgen sind. Dies ist insbesondere dann der Fall, wenn erkennbar ist, dass die Auswirkungen durch die getroffenen oder vom Träger des Vorhabens vorgesehenen Maßnahmen ausgeschlossen werden oder die Nachteile im Verhältnis zu den jeweils vergleichbaren Vorteilen gering sind. Betrifft die wesentliche Änderung eine in einem vereinfachten Verfahren zu genehmigende Anlage, ist auch die wesentliche Änderung im vereinfachten Verfahren zu genehmigen. § 19 Absatz 3 gilt entsprechend. Die öffentliche Bekanntmachung sowie die Auslegung sind stets erforderlich, wenn
 
-(3) Über den Genehmigungsantrag ist innerhalb einer Frist von sechs Monaten, im Falle des Absatzes 2 in drei Monaten zu entscheiden. Im Übrigen gilt § 10 Absatz 6a Satz 2 und 3 entsprechend.
+1. die Änderung oder Erweiterung des Betriebs einer Anlage für sich genommen die Leistungsgrenzen oder die Anlagengrößen einer Anlage im Sinne des Anhangs 1 der Verordnung über genehmigungsbedürftige Anlagen in der Fassung der Bekanntmachung vom 31. Mai 2017 (BGBl. I S. 1440), die durch Artikel 1 der Verordnung vom 12. November 2024 (BGBl. 2024 I Nr. 355) geändert worden ist, die in Spalte d mit dem Buchstaben E gekennzeichnet sind, erreichen würde oder
+
+2. im Rahmen der Änderung eine Aktualisierung der Genehmigung nach § 52a Absatz 1 Nummer 1 erfolgen soll.
+
+(3) Über den Genehmigungsantrag ist innerhalb einer Frist von sechs Monaten, im Falle des Absatzes 2 in drei Monaten zu entscheiden. Im Übrigen gilt § 10 Absatz 6a Satz 2 bis 4 entsprechend.
 
 (4) Für nach § 15 Absatz 1 anzeigebedürftige Änderungen kann der Träger des Vorhabens eine Genehmigung beantragen. Diese ist im vereinfachten Verfahren zu erteilen; Absatz 3 und § 19 Absatz 3 gelten entsprechend.
 
@@ -509,25 +585,21 @@ Die Genehmigungsbehörde kann auf Antrag des Vorhabenträgers die Frist nach Num
 
 (4) Absatz 1 gilt nicht für die Prüfung des Raumordnungs-, Bauplanungs- und Bauordnungsrechts, der Belange des Arbeitsschutzes und des Rechts der Natura-2000-Gebiete. § 45c des Bundesnaturschutzgesetzes ist anzuwenden.
 
-(5) Auf einen Erörterungstermin soll verzichtet werden, wenn nicht der Antragsteller diesen beantragt.
+(5) Werden bei einer genehmigten Windenergieanlage vor der Errichtung Änderungen am Anlagentyp vorgenommen oder wird er gewechselt, müssen im Rahmen des Änderungsgenehmigungsverfahrens nur dann Anforderungen geprüft werden, soweit durch die Änderung des Anlagentyps im Verhältnis zur genehmigten Anlage nachteilige Auswirkungen hervorgerufen werden und diese für die Prüfung nach § 6 erheblich sein können. Wird der Standort der Anlage um nicht mehr als 8 Meter geändert, die Gesamthöhe um nicht mehr als 20 Meter erhöht und der Rotordurchlauf um nicht mehr als 8 Meter verringert, sind ausschließlich die Vereinbarkeit der Änderungen mit militärischen und luftverkehrlichen Belangen zu prüfen sowie die Anforderungen nach Absatz 6 nachzuweisen und zu prüfen. Unverzüglich nach Eingang der vollständigen Antragsunterlagen, spätestens innerhalb von fünf Werktagen, hat die Genehmigungsbehörde die für die militärischen und luftverkehrlichen Belange zuständigen Behörden zu beteiligen. Diese Behörden teilen unverzüglich, spätestens innerhalb von zehn Werktagen nach Eingang, der Genehmigungsbehörde den jeweiligen Zeitpunkt des Eingangs der vollständigen Antragsunterlagen mit. Die Genehmigungsbehörde teilt den spätesten nach Satz 6 mitgeteilten Zeitpunkt dem Antragsteller mit. Im Fall der Ergänzung oder Änderung des Antrags sind die Sätze 4 und 5 entsprechend anzuwenden.
 
-(6) § 19 findet auf Änderungsgenehmigungsverfahren im Sinne von Absatz 1 von bis zu 19 Windenergieanlagen Anwendung. § 2 Absatz 1 Nummer 1 Buchstabe c der Verordnung über genehmigungsbedürftige Anlagen bleibt unberührt.
+(6) Wird die Leistung oder der Ertrag einer Windenergieanlage an Land ohne bauliche Veränderungen oder ohne den Austausch von Teilen und ohne eine Änderung der genehmigten Betriebszeiten erhöht, sind ausschließlich die Standsicherheit sowie die schädlichen Umwelteinwirkungen durch Geräusche und nachteilige Auswirkungen durch Turbulenzen zu prüfen.
 
-(7) Werden bei einer genehmigten Windenergieanlage vor der Errichtung Änderungen am Anlagentyp vorgenommen oder wird er gewechselt, müssen im Rahmen des Änderungsgenehmigungsverfahrens nur dann Anforderungen geprüft werden, soweit durch die Änderung des Anlagentyps im Verhältnis zur genehmigten Anlage nachteilige Auswirkungen hervorgerufen werden und diese für die Prüfung nach § 6 erheblich sein können. Die Absätze 5 und 6 sind entsprechend anzuwenden. Wird der Standort der Anlage um nicht mehr als 8 Meter geändert, die Gesamthöhe um nicht mehr als 20 Meter erhöht und der Rotordurchlauf um nicht mehr als 8 Meter verringert, sind ausschließlich die Vereinbarkeit der Änderungen mit militärischen und luftverkehrlichen Belangen zu prüfen sowie die Anforderungen nach Absatz 8 nachzuweisen und zu prüfen. Unverzüglich nach Eingang der vollständigen Antragsunterlagen, spätestens innerhalb von fünf Werktagen, hat die Genehmigungsbehörde die für die militärischen und luftverkehrlichen Belange zuständigen Behörden zu beteiligen. Diese Behörden teilen unverzüglich, spätestens innerhalb von zehn Werktagen nach Eingang, der Genehmigungsbehörde den jeweiligen Zeitpunkt des Eingangs der vollständigen Antragsunterlagen mit. Die Genehmigungsbehörde teilt den spätesten nach Satz 5 mitgeteilten Zeitpunkt dem Antragsteller mit. Im Fall der Ergänzung oder Änderung des Antrags sind die Sätze 5 und 6 entsprechend anzuwenden.
+(7) Im Fall von Absatz 5 Satz 2 gilt die Genehmigung einschließlich der Nebenbestimmungen nach Ablauf von drei Monaten ab dem spätesten gemäß Absatz 5 Satz 5 oder 6 mitgeteilten Zeitpunkt als antragsgemäß geändert, sofern die Genehmigungsbehörde nicht zuvor über den Antrag entscheidet oder ein Antrag nach § 10 Absatz 6 gestellt wird. § 42a Absatz 3 des Verwaltungsverfahrensgesetzes ist entsprechend anzuwenden.
 
-(8) Wird die Leistung oder der Ertrag einer Windenergieanlage an Land ohne bauliche Veränderungen oder ohne den Austausch von Teilen und ohne eine Änderung der genehmigten Betriebszeiten erhöht, sind ausschließlich die Standsicherheit sowie die schädlichen Umwelteinwirkungen durch Geräusche und nachteilige Auswirkungen durch Turbulenzen zu prüfen. Die Absätze 5 und 6 sind entsprechend anzuwenden.
+(8) Im Fall von Absatz 6 gilt die Genehmigung einschließlich der Nebenbestimmungen nach Ablauf von sechs Wochen als antragsgemäß geändert, sofern die Genehmigungsbehörde nicht zuvor über den Antrag entscheidet oder ein Antrag nach Absatz 5 gestellt wird. § 42a Absatz 3 des Verwaltungsverfahrensgesetzes ist entsprechend anzuwenden.
 
-(8a) Im Fall von Absatz 7 Satz 3 gilt die Genehmigung einschließlich der Nebenbestimmungen nach Ablauf von drei Monaten ab dem spätesten gemäß Absatz 7 Satz 6 oder 7 mitgeteilten Zeitpunkt als antragsgemäß geändert, sofern die Genehmigungsbehörde nicht zuvor über den Antrag entscheidet oder ein Antrag nach Absatz 5 gestellt wird. § 42a Absatz 3 des Verwaltungsverfahrensgesetzes ist entsprechend anzuwenden.
-
-(9) Im Fall von Absatz 8 gilt die Genehmigung einschließlich der Nebenbestimmungen nach Ablauf von sechs Wochen als antragsgemäß geändert, sofern die Genehmigungsbehörde nicht zuvor über den Antrag entscheidet oder ein Antrag nach Absatz 5 gestellt wird. § 42a Absatz 3 des Verwaltungsverfahrensgesetzes ist entsprechend anzuwenden.
-
-(10) Ist der Vorhabenträger der neuen Anlage im Falle des Absatz 2 Satz 2 mit dem Betreiber der Bestandsanlage nicht identisch, muss der Vorhabenträger der neuen Anlage der Genehmigungsbehörde bis zum Zeitpunkt der Entscheidung über den Antrag eine Erklärung des Betreibers der Bestandsanlage vorlegen, wonach dieser mit dem Repowering-Vorhaben einverstanden ist. Ein paralleler Betrieb einer Bestandsanlage und der sie ersetzenden neuen Anlage ist nicht zulässig.
+(9) Ist der Vorhabenträger der neuen Anlage im Falle des Absatz 2 Satz 2 mit dem Betreiber der Bestandsanlage nicht identisch, muss der Vorhabenträger der neuen Anlage der Genehmigungsbehörde bis zum Zeitpunkt der Entscheidung über den Antrag eine Erklärung des Betreibers der Bestandsanlage vorlegen, wonach dieser mit dem Repowering-Vorhaben einverstanden ist. Ein paralleler Betrieb einer Bestandsanlage und der sie ersetzenden neuen Anlage ist nicht zulässig.
 
 # § 16c – Sondervorschriften für Wasserstoffinfrastrukturvorhaben
 
-(1) Die §§ 10 und 23b sind bei der Genehmigung von einer Anlage oder Leitung nach § 2 Absatz 1 des Wasserstoffbeschleunigungsgesetzes vom 29. März 2026 (BGBl. 2026 I Nr. 84, S. 2), in der jeweils geltenden Fassung, mit der Maßgabe anzuwenden, dass das Genehmigungsverfahren elektronisch durchzuführen ist. Einwendungen und Stellungnahmen können anstelle der elektronischen Eingabe auch bei der zuständigen Behörde mündlich zur elektronischen Eingabe abgegeben werden. In der Bekanntmachung der Auslegung oder bei der Bekanntgabe der Einwendungsfrist ist auf das elektronisch durchzuführende Verfahren nach Satz 1 und die Ausnahme nach Satz 2 hinzuweisen. Die Verpflichtung der zuständigen Behörde, das Vorhaben im amtlichen Veröffentlichungsblatt und auf ihrer Internetseite öffentlich bekannt zu machen, bleibt unberührt.
+(1) Die §§ 10 und 23b sind bei der Genehmigung von einer Anlage oder Leitung nach § 2 Absatz 1 des Wasserstoffbeschleunigungsgesetzes vom 29. März 2026 (BGBl. 2026 I Nr. 84, S. 2), in der jeweils geltenden Fassung, mit der Maßgabe anzuwenden, dass das Genehmigungsverfahren elektronisch durchzuführen ist. Einwendungen und Stellungnahmen können anstelle der elektronischen Eingabe auch bei der zuständigen Behörde mündlich zur elektronischen Eingabe abgegeben werden. In der Bekanntmachung der Auslegung oder bei der Bekanntgabe der Einwendungsfrist ist auf das elektronisch durchzuführende Verfahren nach Satz 1 und die Ausnahme nach Satz 2 hinzuweisen. Die Verpflichtung der zuständigen Behörde, das Vorhaben auf ihrer Internetseite öffentlich bekannt zu machen, bleibt unberührt.
 
-(2) § 8a ist mit der Maßgabe anzuwenden, dass für eine Anlage oder eine Leitung nach § 2 Absatz 1 des Wasserstoffbeschleunigungsgesetzes ein öffentliches Interesse im Sinne des § 8a Absatz 1 Nummer 2 besteht.
+(2) § 8a ist mit der Maßgabe anzuwenden, dass für eine Anlage oder eine Leitung nach § 2 Absatz 1 des Wasserstoffbeschleunigungsgesetzes ein öffentliches Interesse im Sinne des § 8a Absatz 1 Satz 1 Nummer 2 besteht.
 
 (3) § 16b Absatz 1, 2 Satz 1 und 2 Nummer 1, Satz 3 und Absatz 4 ist für eine Anlage nach § 2 Absatz 1 Nummer 1 des Wasserstoffbeschleunigungsgesetzes entsprechend anzuwenden.
 
@@ -535,21 +607,15 @@ Die Genehmigungsbehörde kann auf Antrag des Vorhabenträgers die Frist nach Num
 
 (1) Zur Erfüllung der sich aus diesem Gesetz und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen ergebenden Pflichten können nach Erteilung der Genehmigung sowie nach einer nach § 15 Absatz 1 angezeigten Änderung Anordnungen getroffen werden. Wird nach Erteilung der Genehmigung sowie nach einer nach § 15 Absatz 1 angezeigten Änderung festgestellt, dass die Allgemeinheit oder die Nachbarschaft nicht ausreichend vor schädlichen Umwelteinwirkungen oder sonstigen Gefahren, erheblichen Nachteilen oder erheblichen Belästigungen geschützt ist, soll die zuständige Behörde nachträgliche Anordnungen treffen.
 
-(1a) Bei Anlagen nach der Industrieemissions-Richtlinie ist vor dem Erlass einer nachträglichen Anordnung nach Absatz 1 Satz 2, durch welche Emissionsbegrenzungen neu festgelegt werden sollen, der Entwurf der Anordnung öffentlich bekannt zu machen. § 10 Absatz 3 und 4 Nummer 1 und 2 gilt für die Bekanntmachung entsprechend. Einwendungsbefugt sind Personen, deren Belange durch die nachträgliche Anordnung berührt werden, sowie Vereinigungen, welche die Anforderungen von § 3 Absatz 1 oder § 2 Absatz 2 des Umwelt-Rechtsbehelfsgesetzes erfüllen. Für die Entscheidung über den Erlass der nachträglichen Anordnung gilt § 10 Absatz 7 bis 8a entsprechend.
+(1a) Soll infolge der Überprüfung der Genehmigung einer Anlage nach der Industrieemissions-Richtlinie nach § 52 Absatz 1 Satz 4 Nummer 1 bis 3, zur Sicherstellung der Einhaltung der durch eine Rechtsverordnung nach § 48a festgelegten Immissionsgrenzwerte oder einer Umweltqualitätsnorm nach § 2 Nummer 3 der Oberflächengewässerverordnung vom 20. Juni 2016 (BGBl. I S. 1373), die zuletzt durch Artikel 2 Absatz 4 des Gesetzes vom 9. Dezember 2020 (BGBl. I S. 2873) geändert worden ist, oder nach § 52a Absatz 1 eine nachträgliche Anordnung erlassen werden oder sollen durch eine nachträgliche Anordnung nach Absatz 1 Satz 2 die Emissionsbegrenzungen einer Anlage nach der Industrieemissions-Richtlinie neu festgelegt werden, ist vor deren Erlass der Entwurf der Anordnung öffentlich bekannt zu machen. Einwendungsbefugt sind Personen, deren Belange durch die nachträgliche Anordnung berührt werden, sowie Vereinigungen, welche die Anforderungen von § 3 Absatz 1 oder § 2 Absatz 2 des Umwelt-Rechtsbehelfsgesetzes erfüllen. Für die Entscheidung über den Erlass der nachträglichen Anordnung gilt § 10 Absatz 7 bis 8a entsprechend.
 
-(1b) Absatz 1a gilt für den Erlass einer nachträglichen Anordnung entsprechend, bei der von der Behörde auf Grundlage einer Verordnung nach § 7 Absatz 1b oder einer Verwaltungsvorschrift nach § 48 Absatz 1b weniger strenge Emissionsbegrenzungen festgelegt werden sollen.
+(1b) Wird infolge der Überprüfung der Genehmigung einer Anlage nach der Industrieemissions-Richtlinie nach § 52 Absatz 1 Satz 4 Nummer 1 und 3 oder zur Sicherstellung der Einhaltung der durch eine Rechtsverordnung nach § 48a festgelegten Immissionsgrenzwerte oder einer Umweltqualitätsnorm nach § 2 Nummer 3 der Oberflächengewässerverordnung eine nachträgliche Anordnung erlassen und sollen dabei die Emissionsbegrenzungen neu festgelegt werden, ist bis zur erstmaligen Anpassung der Rechtsverordnung nach § 7a Absatz 2 oder der Verwaltungsvorschrift nach § 48 Absatz 2 § 12a Absatz 5 Satz 1 Nummer 1, Satz 2 bis 4 entsprechend anzuwenden.
 
 (2) Die zuständige Behörde darf eine nachträgliche Anordnung nicht treffen, wenn sie unverhältnismäßig ist, vor allem wenn der mit der Erfüllung der Anordnung verbundene Aufwand außer Verhältnis zu dem mit der Anordnung angestrebten Erfolg steht; dabei sind insbesondere Art, Menge und Gefährlichkeit der von der Anlage ausgehenden Emissionen und der von ihr verursachten Immissionen sowie die Nutzungsdauer und technische Besonderheiten der Anlage zu berücksichtigen. Darf eine nachträgliche Anordnung wegen Unverhältnismäßigkeit nicht getroffen werden, soll die zuständige Behörde die Genehmigung unter den Voraussetzungen des § 21 Absatz 1 Nummer 3 bis 5 ganz oder teilweise widerrufen; § 21 Absatz 3 bis 6 sind anzuwenden.
 
-(2a) § 12 Absatz 1a gilt für Anlagen nach der Industrieemissions-Richtlinie entsprechend.
+(2a) § 12a Absatz 1 bis 4, 6 und 7 gilt für Anlagen nach der Industrieemissions-Richtlinie entsprechend.
 
-(2b) Abweichend von Absatz 2a kann die zuständige Behörde weniger strenge Emissionsbegrenzungen festlegen, wenn
-
-1. wegen technischer Merkmale der Anlage die Anwendung der in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten unverhältnismäßig wäre und die Behörde dies begründet oder
-
-2. in Anlagen Zukunftstechniken für einen Gesamtzeitraum von höchstens neun Monaten erprobt oder angewendet werden sollen, sofern nach dem festgelegten Zeitraum die Anwendung der betreffenden Technik beendet wird oder in der Anlage mindestens die mit den besten verfügbaren Techniken assoziierten Emissionsbandbreiten erreicht werden.
-
-§ 12 Absatz 1b Satz 2 und 3 gilt entsprechend. Absatz 1a gilt entsprechend.
+(2b) Für den Fall, dass von der Behörde auf Grundlage einer entsprechenden Anwendung des § 12a Absatz 2 Nummer 1 Emissionsbegrenzungen oberhalb der in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten oder weniger strenge Fristen festgelegt werden sollen oder von dem Erlass einer nachträglichen Anordnung aus diesem Grund insgesamt abgesehen werden soll, ist Absatz 1a entsprechend anzuwenden. Sieht die Behörde auf Grundlage des § 12a Absatz 2 von dem Erlass einer nachträglichen Anordnung ab, teilt sie dies dem Betreiber mit. § 10 Absatz 7 Satz 1 und Absatz 8a gilt entsprechend.
 
 (3) Soweit durch Rechtsverordnung die Anforderungen nach § 5 Absatz 1 Nummer 2 abschließend festgelegt sind, dürfen durch nachträgliche Anordnungen weitergehende Anforderungen zur Vorsorge gegen schädliche Umwelteinwirkungen nicht gestellt werden.
 
@@ -557,7 +623,7 @@ Die Genehmigungsbehörde kann auf Antrag des Vorhabenträgers die Frist nach Num
 
 (4) Ist es zur Erfüllung der Anordnung erforderlich, die Lage, die Beschaffenheit oder den Betrieb der Anlage wesentlich zu ändern und ist in der Anordnung nicht abschließend bestimmt, in welcher Weise sie zu erfüllen ist, so bedarf die Änderung der Genehmigung nach § 16. Ist zur Erfüllung der Anordnung die störfallrelevante Änderung einer Anlage erforderlich, die Betriebsbereich oder Bestandteil eines Betriebsbereichs ist, und wird durch diese Änderung der angemessene Sicherheitsabstand erstmalig unterschritten, wird der bereits unterschrittene Sicherheitsabstand räumlich noch weiter unterschritten oder wird eine erhebliche Gefahrenerhöhung ausgelöst, so bedarf die Änderung einer Genehmigung nach § 16 oder § 16a, wenn in der Anordnung nicht abschließend bestimmt ist, in welcher Weise sie zu erfüllen ist.
 
-(4a) Zur Erfüllung der Pflichten nach § 5 Absatz 3 soll bei Abfallentsorgungsanlagen im Sinne des § 4 Absatz 1 Satz 1 auch eine Sicherheitsleistung angeordnet werden. Nach der Einstellung des gesamten Betriebs können Anordnungen zur Erfüllung der sich aus § 5 Absatz 3 ergebenden Pflichten nur noch während eines Zeitraums von einem Jahr getroffen werden.
+(4a) Zur Erfüllung der Pflichten nach § 5 Absatz 3 soll bei Abfallentsorgungsanlagen im Sinne des § 4 Absatz 1 Satz 1 auch eine Sicherheitsleistung angeordnet werden. Für die Festsetzung zur Art der Sicherheit gilt § 18 Absatz 2 Satz 1 bis 4 der Deponieverordnung entsprechend. Nach der Einstellung des gesamten Betriebs können Anordnungen zur Erfüllung der sich aus § 5 Absatz 3 ergebenden Pflichten nur noch während eines Zeitraums von einem Jahr getroffen werden. Die in Satz 3 genannte Frist beginnt mit der ordnungsgemäßen Anzeige der Betriebseinstellung durch den Betreiber bei der zuständigen Behörde.
 
 (4b) Anforderungen im Sinne des § 12 Absatz 2c können auch nachträglich angeordnet werden.
 
@@ -589,9 +655,9 @@ worden ist.
 
 # § 20 – Untersagung, Stilllegung und Beseitigung
 
-(1) Kommt der Betreiber einer genehmigungsbedürftigen Anlage einer Auflage, einer vollziehbaren nachträglichen Anordnung oder einer abschließend bestimmten Pflicht aus einer Rechtsverordnung nach § 7 nicht nach und betreffen die Auflage, die Anordnung oder die Pflicht die Beschaffenheit oder den Betrieb der Anlage, so kann die zuständige Behörde den Betrieb ganz oder teilweise bis zur Erfüllung der Auflage, der Anordnung oder der Pflichten aus der Rechtsverordnung nach § 7 untersagen. Die zuständige Behörde hat den Betrieb ganz oder teilweise nach Satz 1 zu untersagen, wenn ein Verstoß gegen die Auflage, Anordnung oder Pflicht eine unmittelbare Gefährdung der menschlichen Gesundheit verursacht oder eine unmittelbare erhebliche Gefährdung der Umwelt darstellt.
+(1) Kommt der Betreiber einer genehmigungsbedürftigen Anlage einer Auflage, einer vollziehbaren nachträglichen Anordnung oder einer abschließend bestimmten Pflicht aus einer Rechtsverordnung nach § 7 oder § 7a nicht nach und betreffen die Auflage, die Anordnung oder die Pflicht die Beschaffenheit oder den Betrieb der Anlage, so kann die zuständige Behörde den Betrieb ganz oder teilweise bis zur Erfüllung der Auflage, der Anordnung oder der Pflichten aus der Rechtsverordnung nach § 7 oder § 7a untersagen. Die zuständige Behörde hat den Betrieb ganz oder teilweise nach Satz 1 unverzüglich zu untersagen, wenn ein Verstoß gegen die Auflage, Anordnung oder Pflicht eine unmittelbare Gefährdung der menschlichen Gesundheit verursacht oder eine unmittelbare erhebliche Gefährdung der Umwelt darstellt.
 
-(1a) Die zuständige Behörde hat die Inbetriebnahme oder Weiterführung einer genehmigungsbedürftigen Anlage, die Betriebsbereich oder Bestandteil eines Betriebsbereichs ist und gewerblichen Zwecken dient oder im Rahmen wirtschaftlicher Unternehmungen Verwendung findet, ganz oder teilweise zu untersagen, solange und soweit die von dem Betreiber getroffenen Maßnahmen zur Verhütung schwerer Unfälle im Sinne des Artikels 3 Nummer 13 der Richtlinie 2012/18/EU oder zur Begrenzung der Auswirkungen derartiger Unfälle eindeutig unzureichend sind. Bei der Entscheidung über eine Untersagung berücksichtigt die zuständige Behörde auch schwerwiegende Unterlassungen in Bezug auf erforderliche Folgemaßnahmen, die in einem Überwachungsbericht nach § 16 Absatz 2 Nummer 1 der Störfall-Verordnung festgelegt worden sind. Die zuständige Behörde kann die Inbetriebnahme oder Weiterführung einer Anlage im Sinne des Satzes 1 ganz oder teilweise untersagen, wenn der Betreiber die in einer zur Umsetzung der Richtlinie 2012/18/EU erlassenen Rechtsverordnung vorgeschriebenen Mitteilungen, Berichte oder sonstigen Informationen nicht fristgerecht übermittelt.
+(1a) Die zuständige Behörde hat die Inbetriebnahme oder Weiterführung einer genehmigungsbedürftigen Anlage, die Betriebsbereich oder Bestandteil eines Betriebsbereichs ist und gewerblichen Zwecken dient oder im Rahmen wirtschaftlicher Unternehmungen Verwendung findet, ganz oder teilweise zu untersagen, solange und soweit die von dem Betreiber getroffenen Maßnahmen zur Verhütung schwerer Unfälle im Sinne des Artikels 3 Nummer 13 der Richtlinie 2012/18/EU in der Fassung vom 4. Juli 2012 oder zur Begrenzung der Auswirkungen derartiger Unfälle eindeutig unzureichend sind. Bei der Entscheidung über eine Untersagung berücksichtigt die zuständige Behörde auch schwerwiegende Unterlassungen in Bezug auf erforderliche Folgemaßnahmen, die in einem Überwachungsbericht nach § 16 Absatz 2 Nummer 1 der Störfall-Verordnung festgelegt worden sind. Die zuständige Behörde kann die Inbetriebnahme oder Weiterführung einer Anlage im Sinne des Satzes 1 ganz oder teilweise untersagen, wenn der Betreiber die in einer zur Umsetzung der Richtlinie 2012/18/EU in der Fassung vom 4. Juli 2012 erlassenen Rechtsverordnung vorgeschriebenen Mitteilungen, Berichte oder sonstigen Informationen nicht fristgerecht übermittelt.
 
 (2) Die zuständige Behörde soll anordnen, dass eine Anlage, die ohne die erforderliche Genehmigung errichtet, betrieben oder wesentlich geändert wird, stillzulegen oder zu beseitigen ist. Sie hat die Beseitigung anzuordnen, wenn die Allgemeinheit oder die Nachbarschaft nicht auf andere Weise ausreichend geschützt werden kann.
 
@@ -641,7 +707,7 @@ Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 
 
 # § 23 – Anforderungen an die Errichtung, die Beschaffenheit und den Betrieb nicht genehmigungsbedürftiger Anlagen
 
-(1) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 51) durch Rechtsverordnung mit Zustimmung des Bundesrates vorzuschreiben, dass die Errichtung, die Beschaffenheit und der Betrieb nicht genehmigungsbedürftiger Anlagen bestimmten Anforderungen zum Schutz der Allgemeinheit und der Nachbarschaft vor schädlichen Umwelteinwirkungen und, soweit diese Anlagen gewerblichen Zwecken dienen oder im Rahmen wirtschaftlicher Unternehmungen Verwendung finden und Betriebsbereiche oder Bestandteile von Betriebsbereichen sind, vor sonstigen Gefahren zur Verhütung schwerer Unfälle im Sinne des Artikels 3 Nummer 13 der Richtlinie 2012/18/EU und zur Begrenzung der Auswirkungen derartiger Unfälle für Mensch und Umwelt sowie zur Vorsorge gegen schädliche Umwelteinwirkungen genügen müssen, insbesondere dass
+(1) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 51) durch Rechtsverordnung mit Zustimmung des Bundesrates vorzuschreiben, dass die Errichtung, die Beschaffenheit und der Betrieb nicht genehmigungsbedürftiger Anlagen bestimmten Anforderungen zum Schutz der Allgemeinheit und der Nachbarschaft vor schädlichen Umwelteinwirkungen und, soweit diese Anlagen gewerblichen Zwecken dienen oder im Rahmen wirtschaftlicher Unternehmungen Verwendung finden und Betriebsbereiche oder Bestandteile von Betriebsbereichen sind, vor sonstigen Gefahren zur Verhütung schwerer Unfälle im Sinne des Artikels 3 Nummer 13 der Richtlinie 2012/18/EU in der Fassung vom 4. Juli 2012 und zur Begrenzung der Auswirkungen derartiger Unfälle für Mensch und Umwelt sowie zur Vorsorge gegen schädliche Umwelteinwirkungen genügen müssen, insbesondere dass
 
 1. die Anlagen bestimmten technischen Anforderungen entsprechen müssen,
 
@@ -677,7 +743,7 @@ In der Rechtsverordnung nach Satz 1 können auch die Anforderungen bestimmt werd
 
 (3) Die Genehmigungsbehörde holt die Stellungnahmen der Behörden ein, deren Aufgabenbereich durch das Vorhaben berührt wird. Soweit für das Vorhaben selbst oder für weitere damit unmittelbar in Zusammenhang stehende Vorhaben, die Auswirkungen auf die Umwelt haben können und die für die Genehmigung Bedeutung haben, eine Zulassung nach anderen Gesetzen vorgeschrieben ist, hat die Genehmigungsbehörde eine vollständige Koordinierung der Zulassungsverfahren sowie der Inhalts- und Nebenbestimmungen sicherzustellen.
 
-(4) Über den Antrag auf störfallrelevante Errichtung und Betrieb einer Anlage hat die zuständige Behörde innerhalb einer Frist von sieben Monaten nach Eingang des Antrags und der erforderlichen Unterlagen zu entscheiden. Über den Antrag auf störfallrelevante Änderung einer Anlage ist innerhalb einer Frist von sechs Monaten nach Eingang des Antrags und der erforderlichen Unterlagen zu entscheiden. Die zuständige Behörde kann die jeweilige Frist um drei Monate verlängern, wenn dies wegen der Schwierigkeit der Prüfung oder aus Gründen, die dem Antragsteller zuzurechnen sind, erforderlich ist. Die Fristverlängerung soll gegenüber dem Antragsteller begründet werden. § 10 Absatz 7 Satz 1 gilt entsprechend.
+(4) Über den Antrag auf störfallrelevante Errichtung und Betrieb einer Anlage hat die zuständige Behörde innerhalb einer Frist von sieben Monaten nach Eingang des Antrags und der erforderlichen Unterlagen zu entscheiden. Über den Antrag auf störfallrelevante Änderung einer Anlage ist innerhalb einer Frist von sechs Monaten nach Eingang des Antrags und der erforderlichen Unterlagen zu entscheiden. Die zuständige Behörde kann die jeweilige Frist einmalig um drei Monate verlängern, wenn dies wegen der Schwierigkeit der Prüfung oder aus Gründen, die dem Antragsteller zuzurechnen sind, erforderlich ist. Die Fristverlängerung soll gegenüber dem Antragsteller begründet werden. Eine weitere Verlängerung ist nur auf Antrag oder mit Zustimmung des Antragstellers möglich. § 10 Absatz 7 Satz 1 gilt entsprechend.
 
 (4a) § 10a ist entsprechend anzuwenden.
 
@@ -701,9 +767,9 @@ Die zuständige Behörde kann im Einzelfall die zur Durchführung des § 22 und 
 
 (1) Kommt der Betreiber einer Anlage einer vollziehbaren behördlichen Anordnung nach § 24 Satz 1 nicht nach, so kann die zuständige Behörde den Betrieb der Anlage ganz oder teilweise bis zur Erfüllung der Anordnung untersagen.
 
-(1a) Die zuständige Behörde hat die Inbetriebnahme oder Weiterführung einer nicht genehmigungsbedürftigen Anlage, die Betriebsbereich oder Bestandteil eines Betriebsbereichs ist und gewerblichen Zwecken dient oder im Rahmen wirtschaftlicher Unternehmungen Verwendung findet, ganz oder teilweise zu untersagen, solange und soweit die von dem Betreiber getroffenen Maßnahmen zur Verhütung schwerer Unfälle im Sinne des Artikels 3 Nummer 13 der Richtlinie 2012/18/EU oder zur Begrenzung der Auswirkungen derartiger Unfälle eindeutig unzureichend sind. Bei der Entscheidung über eine Untersagung berücksichtigt die zuständige Behörde auch schwerwiegende Unterlassungen in Bezug auf erforderliche Folgemaßnahmen, die in einem Überwachungsbericht nach § 16 Absatz 2 Nummer 1 der Störfall-Verordnung festgelegt worden sind. Die zuständige Behörde kann die Inbetriebnahme oder die Weiterführung einer Anlage im Sinne des Satzes 1 außerdem ganz oder teilweise untersagen, wenn der Betreiber
+(1a) Die zuständige Behörde hat die Inbetriebnahme oder Weiterführung einer nicht genehmigungsbedürftigen Anlage, die Betriebsbereich oder Bestandteil eines Betriebsbereichs ist und gewerblichen Zwecken dient oder im Rahmen wirtschaftlicher Unternehmungen Verwendung findet, ganz oder teilweise zu untersagen, solange und soweit die von dem Betreiber getroffenen Maßnahmen zur Verhütung schwerer Unfälle im Sinne des Artikels 3 Nummer 13 der Richtlinie 2012/18/EU in der Fassung vom 4. Juli 2012 oder zur Begrenzung der Auswirkungen derartiger Unfälle eindeutig unzureichend sind. Bei der Entscheidung über eine Untersagung berücksichtigt die zuständige Behörde auch schwerwiegende Unterlassungen in Bezug auf erforderliche Folgemaßnahmen, die in einem Überwachungsbericht nach § 16 Absatz 2 Nummer 1 der Störfall-Verordnung festgelegt worden sind. Die zuständige Behörde kann die Inbetriebnahme oder die Weiterführung einer Anlage im Sinne des Satzes 1 außerdem ganz oder teilweise untersagen, wenn der Betreiber
 
-1. die in einer zur Umsetzung der Richtlinie 2012/18/EU erlassenen Rechtsverordnung vorgeschriebenen Mitteilungen, Berichte oder sonstige Informationen nicht fristgerecht übermittelt oder
+1. die in einer zur Umsetzung der Richtlinie 2012/18/EU in der Fassung vom 4. Juli 2012 erlassenen Rechtsverordnung vorgeschriebenen Mitteilungen, Berichte oder sonstige Informationen nicht fristgerecht übermittelt oder
 
 2. eine nach § 23a erforderliche Anzeige nicht macht oder die Anlage ohne die nach § 23b erforderliche Genehmigung störfallrelevant errichtet, betreibt oder störfallrelevant ändert.
 
@@ -785,6 +851,16 @@ Satz 1 gilt entsprechend bei einer Änderung im Sinne des § 15 oder des § 16.
 
 7. Pflichten der bekannt gegebenen Stellen und Sachverständigen festgelegt werden.
 
+# § 29c – Analyse und Überwachung der Schadstoffkonzentration im Aufnahmemilieu bei Anlagen nach der Industrieemissions-Richtlinie
+
+(1) Wurden zur Sicherstellung der Einhaltung der durch eine Rechtsverordnung nach § 48a festgelegten Immissionsgrenzwerte oder zur Sicherstellung der Einhaltung einer Umweltqualitätsnorm nach § 2 Nummer 3 der Oberflächengewässerverordnung für eine Anlage nach der Industrieemissions-Richtlinie Emissionsbegrenzungen unterhalb der nach § 7a Absatz 2 festgelegten Emissionsgrenzwerte oder unterhalb der in einer Verwaltungsvorschrift nach § 48 Absatz 2 festgelegten Emissionswerte festgelegt, so hat die zuständige Behörde die Auswirkungen der strengeren Emissionsbegrenzungen auf die Immissionskonzentration der betreffenden Schadstoffe oder auf die Konzentration der betreffenden Schadstoffe im aufnehmenden Oberflächengewässer zu bewerten. Steht auf Grundlage der Bewertung fest, dass der Immissionsbeitrag der Anlage relevant ist und quantifizierbare oder messbare Auswirkungen auf die Umwelt hat, so hat die zuständige Behörde sicherzustellen, dass die Immissionskonzentration der betreffenden Schadstoffe oder die Konzentration der betreffenden Schadstoffe im aufnehmenden Oberflächengewässer überwacht wird.
+
+(2) Gewährt die zuständige Behörde eine Abweichung nach § 12a Absatz 2 Satz 1 Nummer 1, hat der Betreiber eine Bewertung der Auswirkungen der Abweichung auf die Immissionskonzentration der betreffenden Schadstoffe und die in § 1 genannten Schutzgüter vorzunehmen. Steht auf Grundlage dieser Bewertung fest, dass die Abweichung zu einer relevanten Änderung des Immissionsbeitrags der Anlage führt und diese Änderung des Immissionsbeitrags der Anlage quantifizierbare oder messbare Auswirkungen auf die in § 1 genannten Schutzgüter haben wird, so hat die zuständige Behörde sicherzustellen, dass die Immissionskonzentration der betreffenden Schadstoffe oder die Konzentration der betreffenden Schadstoffe im aufnehmenden Oberflächengewässer oder im aufnehmenden Boden überwacht wird.
+
+(3) Für die Überwachung nach Absatz 1 Satz 2 und Absatz 2 Satz 2 soll auf die Ergebnisse der Überwachung nach § 44 oder auf sonstige vorliegende Daten zurückgegriffen werden. Soweit dies für eine angemessene Überwachung erforderlich ist, kann die zuständige Behörde anordnen, dass der Betreiber Ermittlungen durchführen lässt. § 26 Satz 2 gilt entsprechend.
+
+(4) Die Ergebnisse der Überwachung nach Absatz 1 Satz 2 und Absatz 2 Satz 2 sind von der zuständigen Behörde im Internet zu veröffentlichen. § 10 Absatz 8a Satz 2 bis 4 findet entsprechende Anwendung.
+
 # § 30 – Kosten der Messungen und sicherheitstechnischen Prüfungen
 
 Die Kosten für die Ermittlungen der Emissionen und Immissionen sowie für die sicherheitstechnischen Prüfungen trägt der Betreiber der Anlage. Bei nicht genehmigungsbedürftigen Anlagen trägt der Betreiber die Kosten für Ermittlungen nach § 26 oder § 29 Absatz 2 nur, wenn die Ermittlungen ergeben, dass
@@ -801,27 +877,27 @@ Die Kosten für die Ermittlungen der Emissionen und Immissionen sowie für die s
 
 2. sonstige Daten, die erforderlich sind, um die Einhaltung der Genehmigungsanforderungen gemäß § 6 Absatz 1 Nummer 1 zu überprüfen.
 
-Die Pflicht nach Satz 1 besteht nicht, soweit die erforderlichen Angaben der zuständigen Behörde bereits auf Grund anderer Vorschriften vorzulegen sind. Wird in einer Rechtsverordnung nach § 7 ein Emissionsgrenzwert nach § 7 Absatz 1a, in einer Verwaltungsvorschrift nach § 48 ein Emissionswert nach § 48 Absatz 1a oder in einer Genehmigung nach § 12 Absatz 1 oder einer nachträglichen Anordnung nach § 17 Absatz 2a eine Emissionsbegrenzung nach § 12 Absatz 1a oder § 17 Absatz 2a oberhalb der in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten bestimmt, so hat die Zusammenfassung nach Satz 1 Nummer 1 einen Vergleich mit den in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten zu ermöglichen.
+Die Pflicht nach Satz 1 besteht nicht, soweit die erforderlichen Angaben der zuständigen Behörde bereits auf Grund anderer Vorschriften vorzulegen sind. Wird in einer Genehmigung oder nachträglichen Anordnung eine Emissionsbegrenzung nach § 12a Absatz 4 oder § 17 Absatz 2a festgelegt, die in Bezug auf Werte, Zeiträume und Referenzbedingungen von den in einer Rechtsverordnung nach § 7a Absatz 2 festgelegten Emissionsgrenzwerten oder von den in einer Verwaltungsvorschrift nach § 48 Absatz 2 festgelegten Emissionswerten abweicht, so hat die Zusammenfassung nach Satz 1 Nummer 1 einen Vergleich mit den in der Rechtsverordnung genannten Emissionsgrenzwerten oder in der Verwaltungsvorschrift genannten Emissionswerten zu ermöglichen.
 
-(2) Der Betreiber einer Anlage nach der Industrieemissions-Richtlinie kann von der zuständigen Behörde verpflichtet werden, diejenigen Daten zu übermitteln, deren Übermittlung nach einem Durchführungsrechtsakt nach Artikel 72 Absatz 2 der Richtlinie 2010/75/EU vorgeschrieben ist und die zur Erfüllung der Berichtspflicht nach § 61 Absatz 1 erforderlich sind, soweit solche Daten nicht bereits auf Grund anderer Vorschriften bei der zuständigen Behörde vorhanden sind. § 3 Absatz 1 Satz 2 und § 5 Absatz 2 bis 6 des Gesetzes zur Ausführung des Protokolls über Schadstofffreisetzungs- und -verbringungsregister vom 21. Mai 2003 sowie zur Durchführung der Verordnung (EG) Nr. 166/2006 vom 6. Juni 2007 (BGBl. I S. 1002), das durch Artikel 1 des Gesetzes vom 9. Dezember 2020 (BGBl. I S. 2873) geändert worden ist, gelten entsprechend.
+(2) Der Betreiber einer Anlage nach der Industrieemissions-Richtlinie kann von der zuständigen Behörde verpflichtet werden, diejenigen Daten zu übermitteln, deren Übermittlung nach einem Durchführungsrechtsakt nach Artikel 72 Absatz 2 der Industrieemissions-Richtlinie in der Fassung vom 24. April 2024 vorgeschrieben ist und die zur Erfüllung der Berichtspflicht nach § 61 Absatz 1 erforderlich sind, soweit solche Daten nicht bereits auf Grund anderer Vorschriften bei der zuständigen Behörde vorhanden sind. § 3 Absatz 1 Satz 2 und § 5 Absatz 2 bis 6 des Gesetzes zur Ausführung des Protokolls über Schadstofffreisetzungs- und -verbringungsregister vom 21. Mai 2003 sowie zur Durchführung der Verordnung (EG) Nr. 166/2006 vom 6. Juni 2007 (BGBl. I S. 1002), das durch Artikel 1 des Gesetzes vom 9. Dezember 2020 (BGBl. I S. 2873) geändert worden ist, gelten entsprechend.
 
-(2a) Der Betreiber von Anlagen, die Betriebsbereich oder Bestandteil eines Betriebsbereichs sind, kann von der zuständigen Behörde verpflichtet werden, diejenigen Daten zu übermitteln, deren Übermittlung nach einem Durchführungsrechtsakt nach Artikel 21 Absatz 5 der Richtlinie 2012/18/EU vorgeschrieben ist und die zur Erfüllung der Berichtspflicht nach § 61 Absatz 2 erforderlich sind, soweit solche Daten nicht bereits auf Grund anderer Vorschriften bei der zuständigen Behörde vorhanden sind. Absatz 2 Satz 2 gilt entsprechend.
+(2a) Der Betreiber von Anlagen, die Betriebsbereich oder Bestandteil eines Betriebsbereichs sind, kann von der zuständigen Behörde verpflichtet werden, diejenigen Daten zu übermitteln, deren Übermittlung nach einem Durchführungsrechtsakt nach Artikel 21 Absatz 5 der Richtlinie 2012/18/EU in der Fassung vom 4. Juli 2012 vorgeschrieben ist und die zur Erfüllung der Berichtspflicht nach § 61 Absatz 2 erforderlich sind, soweit solche Daten nicht bereits auf Grund anderer Vorschriften bei der zuständigen Behörde vorhanden sind. Absatz 2 Satz 2 gilt entsprechend.
 
 (3) Wird bei einer Anlage nach der Industrieemissions-Richtlinie festgestellt, dass Anforderungen gemäß § 6 Absatz 1 Nummer 1 nicht eingehalten werden, hat der Betreiber dies der zuständigen Behörde unverzüglich mitzuteilen.
 
 (4) Der Betreiber einer Anlage nach der Industrieemissions-Richtlinie hat bei allen Ereignissen mit schädlichen Umwelteinwirkungen die zuständige Behörde unverzüglich zu unterrichten, soweit er hierzu nicht bereits nach § 4 des Umweltschadensgesetzes oder nach § 19 der Störfall-Verordnung verpflichtet ist.
 
-(5) Der Betreiber der Anlage hat das Ergebnis der auf Grund einer Anordnung nach § 26, § 28 oder § 29 getroffenen Ermittlungen der zuständigen Behörde auf Verlangen mitzuteilen und die Aufzeichnungen der Messgeräte nach § 29 fünf Jahre lang aufzubewahren. Die zuständige Behörde kann die Art der Übermittlung der Messergebnisse vorschreiben. Die Ergebnisse der Überwachung der Emissionen, die bei der Behörde vorliegen, sind für die Öffentlichkeit nach den Bestimmungen des Umweltinformationsgesetzes mit Ausnahme des § 12 zugänglich; für Landesbehörden gelten die landesrechtlichen Vorschriften.
+(5) Der Betreiber der Anlage hat das Ergebnis der auf Grund einer Anordnung nach § 26, § 28 oder § 29 getroffenen Ermittlungen der zuständigen Behörde auf Verlangen mitzuteilen und die Aufzeichnungen der Messgeräte nach § 29 fünf Jahre lang aufzubewahren. Die zuständige Behörde kann die Art der Übermittlung der Messergebnisse vorschreiben. Die bei der Behörde vorliegende Information darüber, ob ein Grenzwert von Anlagen nach der Industrieemissions-Richtlinie eingehalten wird oder nicht, ist der Öffentlichkeit über das Internet zugänglich zu machen. § 10 Absatz 8a Satz 2 dieses Gesetzes und die §§ 8 und 9 des Umweltinformationsgesetzes finden entsprechende Anwendung.
 
-# § 31a – Abweichungen nach Artikel 30 Absatz 5 der Richtlinie 2010/75/EU
+# § 31a – Abweichungen nach Artikel 30 Absatz 5 der Industrieemissions-Richtlinie
 
-(1) Die zuständige Behörde kann eine Abweichung von der Verpflichtung zur Einhaltung der in der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen vom 6. Juli 2021 (BGBl. I S. 2514), in der jeweils geltenden Fassung, vorgesehenen Emissionsgrenzwerte für Schwefeldioxid für eine Dauer von bis zu sechs Monaten bei Feuerungsanlagen zulassen, in denen zu diesem Zweck normalerweise ein schwefelarmer Brennstoff verfeuert wird, wenn der Betreiber aufgrund einer sich aus einer ernsten Mangellage ergebenden Unterbrechung der Versorgung mit schwefelarmem Brennstoff nicht in der Lage ist, diese Grenzwerte einzuhalten.
+(1) Die zuständige Behörde kann eine Abweichung von der Verpflichtung zur Einhaltung der in der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen vom 6. Juli 2021 (BGBl. I S. 2514), in der jeweils geltenden Fassung, vorgesehenen Emissionsgrenzwerte für Schwefeldioxid für eine Dauer von bis zu sechs Monaten bei Feuerungsanlagen zulassen, in denen zu diesem Zweck normalerweise ein schwefelarmer Brennstoff verfeuert wird, wenn der Betreiber aufgrund einer sich aus einer ernsten Mangellage ergebenden Unterbrechung der Versorgung mit schwefelarmem Brennstoff nicht in der Lage ist, diese Grenzwerte einzuhalten. Die Zulassung der Abweichung ist zu begründen.
 
-(2) Die zuständige Behörde hat unverzüglich eine Ausfertigung der Zulassung der Abweichung nach Absatz 1 dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz zur Weiterleitung an die Europäische Kommission zuzuleiten. Das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz unterrichtet die Europäische Kommission unverzüglich über jede nach Absatz 1 gewährte Abweichung.
+(2) Die zuständige Behörde hat unverzüglich eine Ausfertigung der Zulassung der Abweichung nach Absatz 1 dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz zur Weiterleitung an die Europäische Kommission zuzuleiten. Das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz unterrichtet die Europäische Kommission unverzüglich über jede nach Absatz 1 gewährte Abweichung, die Gründe für die Abweichung und über die festgesetzten Nebenbestimmungen.
 
-# § 31b – Abweichungen nach Artikel 30 Absatz 6 der Richtlinie 2010/75/EU
+# § 31b – Abweichungen nach Artikel 30 Absatz 6 der Industrieemissions-Richtlinie
 
-(1) Die zuständige Behörde kann eine Abweichung von der Verpflichtung zur Einhaltung der in der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen vom 6. Juli 2021 (BGBl. I S. 2514), in der jeweils geltenden Fassung, vorgesehenen Emissionsgrenzwerte in den Fällen zulassen, in denen eine Feuerungsanlage, in der nur gasförmiger Brennstoff verfeuert wird, wegen einer plötzlichen Unterbrechung der Gasversorgung ausnahmsweise auf andere Brennstoffe ausweichen muss und aus diesem Grund mit einer Abgasreinigungsanlage ausgestattet werden müsste. Eine solche Abweichung darf nur für einen Zeitraum von nicht mehr als zehn Tagen zugelassen werden, es sei denn, es ist ein vorrangiges Bedürfnis für einen längeren Zeitraum im Hinblick auf die Aufrechterhaltung der Energieversorgung gegeben.
+(1) Die zuständige Behörde kann eine Abweichung von der Verpflichtung zur Einhaltung der in der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen vom 6. Juli 2021 (BGBl. I S. 2514), in der jeweils geltenden Fassung, vorgesehenen Emissionsgrenzwerte in den Fällen zulassen, in denen eine Feuerungsanlage, in der nur gasförmiger Brennstoff verfeuert wird, wegen einer plötzlichen Unterbrechung der Gasversorgung ausnahmsweise auf andere Brennstoffe ausweichen muss und aus diesem Grund mit einer Abgasreinigungsanlage ausgestattet werden müsste. Eine solche Abweichung darf nur für einen Zeitraum von nicht mehr als zehn Tagen zugelassen werden, es sei denn, es ist ein vorrangiges Bedürfnis für einen längeren Zeitraum im Hinblick auf die Aufrechterhaltung der Energieversorgung gegeben. Die Zulassung der Abweichung ist zu begründen.
 
 (2) Der Betreiber unterrichtet die zuständige Behörde umgehend über jeden einzelnen Fall im Sinne des Absatzes 1.
 
@@ -839,27 +915,27 @@ Die Pflicht nach Satz 1 besteht nicht, soweit die erforderlichen Angaben der zus
 
 (2) § 31c Absatz 2 ist entsprechend anzuwenden.
 
-# § 31e – (weggefallen)
+# § 31m – Abweichungen im Fall einer Krise
 
-# § 31f – (weggefallen)
+(1) Die zuständige Behörde kann auf Antrag des Betreibers in Abweichung von den in einer Rechtsverordnung nach § 7a Absatz 2 festgelegten Emissionsgrenzwerten und Umweltleistungsgrenzwerten sowie von den in einer Verwaltungsvorschrift nach § 48 Absatz 2 festgelegten Emissionswerten weniger strenge Emissionsbegrenzungen und Umweltleistungsbegrenzungen festlegen, wenn außergewöhnliche Umstände, die sich der Kontrolle des Betreibers und der staatlichen Institutionen entziehen, zu Folgendem führen:
 
-# § 31g – (weggefallen)
+1. einer schwerwiegenden Störung der Energieversorgung, wenn ein überwiegendes öffentliches Interesse an der Sicherheit der Energieversorgung besteht,
 
-# § 31h – (weggefallen)
+2. einem Mangel an Ressourcen, Materialien oder Ausrüstung, die der Betreiber für die Ausübung von Tätigkeiten im öffentlichen Interesse unter Einhaltung der geltenden Emissionsgrenzwerte oder Umweltleistungsgrenzwerte benötigt, oder
 
-# § 31i – (weggefallen)
+3. einem Mangel an wesentlichen Ressourcen, Materialien oder Ausrüstung, wenn die Produktionsleistung der Anlage einen solchen Mangel aus Gründen der öffentlichen Gesundheit oder der öffentlichen Sicherheit oder aus anderen zwingenden Gründen des überwiegenden öffentlichen Interesses ausgleicht.
 
-# § 31j – (weggefallen)
+Schädliche Umwelteinwirkungen dürfen nicht hervorgerufen werden. Es sind vorrangig andere Maßnahmen zur Krisenbewältigung zu nutzen, die zu einer geringeren Umweltverschmutzung führen.
 
-# § 31k – (weggefallen)
+(2) Die Abweichung darf nur für einen Zeitraum von bis zu drei Monaten zugelassen werden. Wenn die Gründe für die Zulassung der Abweichung fortbestehen, kann die Zulassung der Abweichung um höchstens drei weitere Monate verlängert werden. Sobald die Bedingungen in Bezug auf die Energieversorgung oder Versorgung mit Ressourcen, Materialen oder Ausrüstung wiederhergestellt sind oder wenn es eine Alternative bei der Energieversorgung oder zu den Ressourcen, Materialien oder Ausrüstungen gibt, ist die Zulassung der Abweichung aufzuheben.
 
-# § 31l – Übergangsregelungen zu den §§ 31e bis 31k
+(3) Über die Zulassung der Abweichung nach Absatz 1 hinaus bedarf es weder einer Änderungsgenehmigung nach § 16 noch einer Anzeige nach § 15.
 
-(1) Die Regelungen der §§ 31e bis 31k sind auf bereits vor ihrem Inkrafttreten begonnene, aber noch nicht abgeschlossene Verfahren anzuwenden. Ein Verfahrensschritt, der bereits begonnen, aber noch nicht abgeschlossen wurde, ist neu zu beginnen, wenn er nach den §§ 31e bis 31k durchgeführt wird. Ein Verfahrensschritt nach Satz 2 muss nicht beendet werden, wenn er nach den §§ 31e bis 31k entfallen kann.
+(4) Die Zulassung der Abweichung hat schriftlich zu erfolgen, sie ist zu begründen und dem Antragsteller zuzustellen. Ab dem 1. Januar 2028 ist der Bescheid über die Zulassung der Abweichung an den Antragsteller elektronisch zuzustellen. Die zuständige Behörde hat den Bescheid über die Zulassung der Abweichung der Öffentlichkeit über das Internet zugänglich zu machen. § 10 Absatz 8a Satz 2 bis 4 ist entsprechend mit der Maßgabe anzuwenden, dass die Veröffentlichung der Unterlagen im Internet bis zur Aufhebung oder anderweitigen Erledigung der Abweichung zu erfolgen hat.
 
-(2) Abweichend von Absatz 1 soll ein Verfahrensschritt, der bereits begonnen, aber noch nicht abgeschlossen wurde, nach den Vorschriften, die zum Zeitpunkt des Beginns des Verfahrens galten, beendet werden, wenn der Verfahrensschritt hiernach schneller abgeschlossen werden kann.
+(5) Die zuständige Behörde stellt sicher, dass die Emissionen, die sich aus der Zulassung der Abweichung ergeben, durch den Betreiber überwacht werden. § 26 gilt entsprechend.
 
-(3) Für Verfahrensschritte, bei denen von einer Regelung nach den §§ 31e bis 31k Gebrauch gemacht worden ist und die bei Außerkrafttreten der §§ 31e bis 31k noch nicht abgeschlossen sind, gelten die Bestimmungen der §§ 31e bis 31k bis zum Abschluss des jeweiligen Verfahrensschrittes weiter.
+(6) § 31a Absatz 2 ist entsprechend anzuwenden.
 
 # § 32 – Beschaffenheit von Anlagen; Verordnungsermächtigung
 
@@ -1553,7 +1629,7 @@ Im Sinne dieses Gesetzes bezeichnen die Begriffe
 
 (1) Die zuständigen Behörden arbeiten bis zum 30. Juni 2007 bezogen auf das vorangegangene Kalenderjahr Lärmkarten für Ballungsräume mit mehr als 250 000 Einwohnern sowie für Hauptverkehrsstraßen mit einem Verkehrsaufkommen von über sechs Millionen Kraftfahrzeugen pro Jahr, Haupteisenbahnstrecken mit einem Verkehrsaufkommen von über 60 000 Zügen pro Jahr und Großflughäfen aus. Gleiches gilt bis zum 30. Juni 2012 und danach alle fünf Jahre für sämtliche Ballungsräume sowie für sämtliche Hauptverkehrsstraßen und Haupteisenbahnstrecken.
 
-(2) Die Lärmkarten haben den Mindestanforderungen des Anhangs IV der Richtlinie 2002/49/EG des Europäischen Parlaments und des Rates vom 25. Juni 2002 über die Bewertung und Bekämpfung von Umgebungslärm (ABl. EG Nr. L 189 S. 12) zu entsprechen und die nach Anhang VI der Richtlinie 2002/49/EG an die Kommission zu übermittelnden Daten zu enthalten.
+(2) Die Lärmkarten haben den Mindestanforderungen des Anhangs IV der Richtlinie 2002/49/EG zu entsprechen und die nach Anhang VI der Richtlinie 2002/49/EG an die Kommission zu übermittelnden Daten zu enthalten.
 
 (2a) Öffentliche Eisenbahninfrastrukturunternehmen sind verpflichtet, den für die Ausarbeitung von Lärmkarten zuständigen Behörden folgende für die Erarbeitung von Lärmkarten erforderlichen Daten unentgeltlich zur Verfügung zu stellen:
 
@@ -1615,7 +1691,7 @@ Gleiches gilt bis zum 18. Juli 2013 für sämtliche Ballungsräume sowie für s�
 
 4. zu Kriterien für die Festlegung von Maßnahmen in Lärmaktionsplänen.
 
-Passt die Kommission gemäß Artikel 12 der Richtlinie 2002/49/EG deren Anhang I Abschnitt 3, Anhang II und Anhang III nach dem Verfahren des Artikels 12a der Richtlinie 2002/49/EG des Europäischen Parlaments und des Rates vom 25. Juni 2002 über die Bewertung und Bekämpfung von Umgebungslärm (ABl. L 189 vom 18.7.2002, S. 12), die zuletzt durch Artikel 1 der Richtlinie (EU) 2021/1226 (ABl. 2021 L 269 vom 28.7.2021, S. 65) geändert worden ist an den wissenschaftlichen und technischen Fortschritt an, gilt Satz 1 auch insoweit.
+Passt die Kommission gemäß Artikel 12 der Richtlinie 2002/49/EG deren Anhang I Abschnitt 3, Anhang II und Anhang III nach dem Verfahren des Artikels 12a der Richtlinie 2002/49/EG an den wissenschaftlichen und technischen Fortschritt an, gilt Satz 1 auch insoweit.
 
 (2) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 51) durch Rechtsverordnung mit Zustimmung des Bundesrates weitere Regelungen zu erlassen
 
@@ -1641,25 +1717,17 @@ Passt die Kommission gemäß Artikel 12 der Richtlinie 2002/49/EG deren Anhang I
 
 Bei der Festlegung der Anforderungen sind insbesondere mögliche Verlagerungen von nachteiligen Auswirkungen von einem Schutzgut auf ein anderes zu berücksichtigen; ein hohes Schutzniveau für die Umwelt insgesamt ist zu gewährleisten.
 
-(1a) Nach jeder Veröffentlichung einer BVT-Schlussfolgerung ist unverzüglich zu gewährleisten, dass für Anlagen nach der Industrieemissions-Richtlinie bei der Festlegung von Emissionswerten nach Absatz 1 Satz 1 Nummer 2 die Emissionen unter normalen Betriebsbedingungen die in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten nicht überschreiten. Im Hinblick auf bestehende Anlagen ist innerhalb eines Jahres nach Veröffentlichung von BVT-Schlussfolgerungen zur Haupttätigkeit eine Überprüfung und gegebenenfalls Anpassung der Verwaltungsvorschrift vorzunehmen.
+(2) Nach jeder Veröffentlichung einer BVT-Schlussfolgerung ist durch Erlass einer Verwaltungsvorschrift unverzüglich zu gewährleisten, dass für Anlagen nach der Industrieemissions-Richtlinie bei der Festlegung von Emissionswerten nach Absatz 1 Satz 1 Nummer 2 die Emissionen unter normalen Betriebsbedingungen die in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten nicht überschreiten und unter Berücksichtigung der gesamten Emissionsbandbreiten die strengstmöglichen Emissionswerte festgelegt werden, die bei Anwendung der besten verfügbaren Techniken und unter Berücksichtigung möglicher Verlagerungen von nachteiligen Auswirkungen von einem Schutzgut auf ein anderes erreichbar sind und zur bestmöglichen Gesamtleistung der Anlage insgesamt beitragen. Wird ein Emissionswert festgelegt, der in Bezug auf Werte, Zeiträume und Referenzbedingungen von den in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten abweicht, so ist durch Erlass einer Verwaltungsvorschrift zu gewährleisten, dass der Betreiber der Anlage der zuständigen Behörde jährlich eine Zusammenfassung der Ergebnisse der Emissionsüberwachung vorlegt, die einen Vergleich mit den in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten ermöglicht. Im Hinblick auf bestehende Anlagen ist innerhalb eines Jahres nach Veröffentlichung von BVT-Schlussfolgerungen zur Haupttätigkeit eine Überprüfung und gegebenenfalls Anpassung der Verwaltungsvorschrift vorzunehmen.
 
-(1b) Abweichend von Absatz 1a
+(3) Abweichend von Absatz 2 können in der Verwaltungsvorschrift Emissionswerte oberhalb der in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten und weniger strenge Fristen festgelegt werden, wenn
 
-1. können in der Verwaltungsvorschrift weniger strenge Emissionswerte festgelegt werden, wenn
+1. wegen technischer Merkmale der betroffenen Anlagenart die Anwendung der in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten gemessen am Umweltnutzen zu unverhältnismäßig höheren Kosten führen würde,
 
-a) wegen technischer Merkmale der betroffenen Anlagenart die Anwendung der in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten unverhältnismäßig wäre und dies begründet wird oder
+2. für die Emission von Gerüchen und Lärm wegen des geografischen Standorts und lokaler Umweltbedingungen der betreffenden Anlage die Anwendung der in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten gemessen am Umweltnutzen zu unverhältnismäßig höheren Kosten führen würde,
 
-b) in Anlagen Zukunftstechniken für einen Gesamtzeitraum von höchstens neun Monaten erprobt oder angewendet werden sollen, sofern nach dem festgelegten Zeitraum die Anwendung der betreffenden Technik beendet wird oder in der Anlage mindestens die mit den besten verfügbaren Techniken assoziierten Emissionsbandbreiten erreicht werden, oder
+3. in Anlagen Zukunftstechniken für einen Gesamtzeitraum von höchstens 30 Monaten erprobt werden sollen.
 
-2. kann in der Verwaltungsvorschrift bestimmt werden, dass die zuständige Behörde weniger strenge Emissionsbegrenzungen festlegen kann, wenn
-
-a) wegen technischer Merkmale der betroffenen Anlagen die Anwendung der in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten unverhältnismäßig wäre oder
-
-b) in Anlagen Zukunftstechniken für einen Gesamtzeitraum von höchstens neun Monaten erprobt oder angewendet werden sollen, sofern nach dem festgelegten Zeitraum die Anwendung der betreffenden Technik beendet wird oder in der Anlage mindestens die mit den besten verfügbaren Techniken assoziierten Emissionsbandbreiten erreicht werden.
-
-Absatz 1 Satz 2 bleibt unberührt. Emissionswerte und Emissionsbegrenzungen nach Satz 1 dürfen die in den Anhängen der Richtlinie 2010/75/EU festgelegten Emissionsgrenzwerte nicht überschreiten.
-
-(2) (weggefallen)
+Absatz 1 Satz 2 bleibt unberührt. Emissionswerte nach Satz 1 dürfen die in den Anhängen der Industrieemissions-Richtlinie in der Fassung vom 24. April 2024 festgelegten Emissionsgrenzwerte nicht überschreiten. Bei der Prüfung der Verhältnismäßigkeit gemäß Satz 1 Nummer 1 und 2 sind die in Anlage 2 aufgeführten Kriterien zu berücksichtigen.
 
 # § 48a – Rechtsverordnungen über Emissionswerte und Immissionswerte
 
@@ -1675,7 +1743,7 @@ Absatz 1 Satz 2 bleibt unberührt. Emissionswerte und Emissionsbegrenzungen nach
 
 # § 48b – Beteiligung des Bundestages beim Erlass von Rechtsverordnungen
 
-Rechtsverordnungen nach § 7 Absatz 1 Satz 1 Nummer 2, § 23 Absatz 1 Satz 1 Nummer 2, § 43 Absatz 1 Satz 1 Nummer 1, § 48a Absatz 1 und § 48a Absatz 1a dieses Gesetzes sind dem Bundestag zuzuleiten. Die Zuleitung erfolgt vor der Zuleitung an den Bundesrat. Die Rechtsverordnungen können durch Beschluss des Bundestages geändert oder abgelehnt werden. Der Beschluss des Bundestages wird der Bundesregierung zugeleitet. Hat sich der Bundestag nach Ablauf von vier Sitzungswochen seit Eingang der Rechtsverordnung nicht mit ihr befasst, wird die unveränderte Rechtsverordnung dem Bundesrat zugeleitet. Die Sätze 1 bis 5 gelten nicht bei Rechtsverordnungen nach § 7 Absatz 1 Satz 1 Nummer 2 für den Fall, dass wegen der Fortentwicklung des Standes der Technik die Umsetzung von BVT-Schlussfolgerungen nach § 7 Absatz 1a erforderlich ist.
+Rechtsverordnungen nach § 7 Absatz 1 Satz 1 Nummer 2, § 23 Absatz 1 Satz 1 Nummer 2, § 43 Absatz 1 Satz 1 Nummer 1, § 48a Absatz 1 und § 48a Absatz 1a dieses Gesetzes sind dem Bundestag zuzuleiten. Die Zuleitung erfolgt vor der Zuleitung an den Bundesrat. Die Rechtsverordnungen können durch Beschluss des Bundestages geändert oder abgelehnt werden. Der Beschluss des Bundestages wird der Bundesregierung zugeleitet. Hat sich der Bundestag nach Ablauf von vier Sitzungswochen seit Eingang der Rechtsverordnung nicht mit ihr befasst, wird die unveränderte Rechtsverordnung dem Bundesrat zugeleitet. Die Sätze 1 bis 5 gelten nicht bei Rechtsverordnungen nach § 7 Absatz 1 Satz 1 Nummer 2 für den Fall, dass wegen der Fortentwicklung des Standes der Technik die Umsetzung von BVT-Schlussfolgerungen nach § 7a Absatz 2 erforderlich ist.
 
 # § 49 – Schutz bestimmter Gebiete
 
@@ -1703,7 +1771,7 @@ werden dürfen, sobald die austauscharme Wetterlage von der zuständigen Behörd
 
 # § 50 – Planung
 
-Bei raumbedeutsamen Planungen und Maßnahmen sind die für eine bestimmte Nutzung vorgesehenen Flächen einander so zuzuordnen, dass schädliche Umwelteinwirkungen und von schweren Unfällen im Sinne des Artikels 3 Nummer 13 der Richtlinie 2012/18/EU in Betriebsbereichen hervorgerufene Auswirkungen auf die ausschließlich oder überwiegend dem Wohnen dienenden Gebiete sowie auf sonstige schutzbedürftige Gebiete, insbesondere öffentlich genutzte Gebiete, wichtige Verkehrswege, Freizeitgebiete und unter dem Gesichtspunkt des Naturschutzes besonders wertvolle oder besonders empfindliche Gebiete und öffentlich genutzte Gebäude, so weit wie möglich vermieden werden. Bei raumbedeutsamen Planungen und Maßnahmen in Gebieten, in denen die in Rechtsverordnungen nach § 48a Absatz 1 festgelegten Immissionsgrenzwerte und Zielwerte nicht überschritten werden, ist bei der Abwägung der betroffenen Belange die Erhaltung der bestmöglichen Luftqualität als Belang zu berücksichtigen.
+Bei raumbedeutsamen Planungen und Maßnahmen sind die für eine bestimmte Nutzung vorgesehenen Flächen einander so zuzuordnen, dass schädliche Umwelteinwirkungen und von schweren Unfällen im Sinne des Artikels 3 Nummer 13 der Richtlinie 2012/18/EU in der Fassung vom 4. Juli 2012 in Betriebsbereichen hervorgerufene Auswirkungen auf die ausschließlich oder überwiegend dem Wohnen dienenden Gebiete sowie auf sonstige schutzbedürftige Gebiete, insbesondere öffentlich genutzte Gebiete, wichtige Verkehrswege, Freizeitgebiete und unter dem Gesichtspunkt des Naturschutzes besonders wertvolle oder besonders empfindliche Gebiete und öffentlich genutzte Gebäude, so weit wie möglich vermieden werden. Bei raumbedeutsamen Planungen und Maßnahmen in Gebieten, in denen die in Rechtsverordnungen nach § 48a Absatz 1 festgelegten Immissionsgrenzwerte und Zielwerte nicht überschritten werden, ist bei der Abwägung der betroffenen Belange die Erhaltung der bestmöglichen Luftqualität als Belang zu berücksichtigen.
 
 # § 51 – Anhörung beteiligter Kreise
 
@@ -1735,17 +1803,9 @@ Der Betreiber einer genehmigungsbedürftigen Anlage hat sicherzustellen, dass f�
 
 4. neue umweltrechtliche Vorschriften dies fordern.
 
-Bei Anlagen nach der Industrieemissions-Richtlinie ist innerhalb von vier Jahren nach der Veröffentlichung von BVT-Schlussfolgerungen zur Haupttätigkeit
+(1a) (weggefallen)
 
-1. eine Überprüfung und gegebenenfalls Aktualisierung der Genehmigung im Sinne von Satz 3 vorzunehmen und
-
-2. sicherzustellen, dass die betreffende Anlage die Genehmigungsanforderungen nach § 6 Absatz 1 Nummer 1 und der Nebenbestimmungen nach § 12 einhält.
-
-Satz 5 gilt auch für Genehmigungen, die nach Veröffentlichung von BVT-Schlussfolgerungen auf der Grundlage der bislang geltenden Rechts- und Verwaltungsvorschriften erteilt worden sind. Wird festgestellt, dass eine Einhaltung der nachträglichen Anordnung nach § 17 oder der Genehmigung innerhalb der in Satz 5 bestimmten Frist wegen technischer Merkmale der betroffenen Anlage unverhältnismäßig wäre, kann die zuständige Behörde einen längeren Zeitraum festlegen. Als Teil jeder Überprüfung der Genehmigung hat die zuständige Behörde die Festlegung weniger strenger Emissionsbegrenzungen nach § 7 Absatz 1b Satz 1 Nummer 2 Buchstabe a, § 12 Absatz 1b Satz 1 Nummer 1, § 17 Absatz 2b Satz 1 Nummer 1 und § 48 Absatz 1b Satz 1 Nummer 2 Buchstabe a erneut zu bewerten.
-
-(1a) Im Falle des § 31 Absatz 1 Satz 3 hat die zuständige Behörde mindestens jährlich die Ergebnisse der Emissionsüberwachung zu bewerten, um sicherzustellen, dass die Emissionen unter normalen Betriebsbedingungen die in den BVT-Schlussfolgerungen festgelegten Emissionsbandbreiten nicht überschreiten.
-
-(1b) Zur Durchführung von Absatz 1 Satz 1 stellen die zuständigen Behörden zur regelmäßigen Überwachung von Anlagen nach der Industrieemissions-Richtlinie in ihrem Zuständigkeitsbereich Überwachungspläne und Überwachungsprogramme gemäß § 52a auf. Zur Überwachung nach Satz 1 gehören insbesondere Vor-Ort-Besichtigungen, Überwachung der Emissionen und Überprüfung interner Berichte und Folgedokumente, Überprüfung der Eigenkontrolle, Prüfung der angewandten Techniken und der Eignung des Umweltmanagements der Anlage zur Sicherstellung der Anforderungen nach § 6 Absatz 1 Nummer 1.
+(1b) (weggefallen)
 
 (2) Eigentümer und Betreiber von Anlagen sowie Eigentümer und Besitzer von Grundstücken, auf denen Anlagen betrieben werden, sind verpflichtet, den Angehörigen der zuständigen Behörde und deren Beauftragten den Zutritt zu den Grundstücken und zur Verhütung dringender Gefahren für die öffentliche Sicherheit oder Ordnung auch zu Wohnräumen und die Vornahme von Prüfungen einschließlich der Ermittlung von Emissionen und Immissionen zu gestatten sowie die Auskünfte zu erteilen und die Unterlagen vorzulegen, die zur Erfüllung ihrer Aufgaben erforderlich sind. Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit eingeschränkt. Betreiber von Anlagen, für die ein Immissionsschutzbeauftragter oder ein Störfallbeauftragter bestellt ist, haben diesen auf Verlangen der zuständigen Behörde zu Überwachungsmaßnahmen nach Satz 1 hinzuzuziehen. Im Rahmen der Pflichten nach Satz 1 haben die Eigentümer und Betreiber der Anlagen Arbeitskräfte sowie Hilfsmittel, insbesondere Treibstoffe und Antriebsaggregate, bereitzustellen.
 
@@ -1773,7 +1833,69 @@ sind.
 
 (7) Auf die nach den Absätzen 2, 3 und 6 erlangten Kenntnisse und Unterlagen sind die §§ 93, 97, 105 Absatz 1, § 111 Absatz 5 in Verbindung mit § 105 Absatz 1 sowie § 116 Absatz 1 der Abgabenordnung nicht anzuwenden. Dies gilt nicht, soweit die Finanzbehörden die Kenntnisse für die Durchführung eines Verfahrens wegen einer Steuerstraftat sowie eines damit zusammenhängenden Besteuerungsverfahrens benötigen, an deren Verfolgung ein zwingendes öffentliches Interesse besteht, oder soweit es sich um vorsätzlich falsche Angaben des Auskunftspflichtigen oder der für ihn tätigen Personen handelt.
 
-# § 52a – Überwachungspläne, Überwachungsprogramme für Anlagen nach der Industrieemissions-Richtlinie
+# § 52a – Überwachung von Anlagen nach der Industrieemissions-Richtlinie
+
+(1) Bei Anlagen nach der Industrieemissions-Richtlinie hat die zuständige Behörde innerhalb von vier Jahren nach der Veröffentlichung von BVT-Schlussfolgerungen zur Haupttätigkeit
+
+1. eine Überprüfung und gegebenenfalls Aktualisierung der Genehmigung durch nachträgliche Anordnungen nach § 17 oder im Rahmen einer Änderungsgenehmigung nach § 16 vorzunehmen und
+
+2. sicherzustellen, dass die betreffende Anlage die Genehmigungsanforderungen nach § 6 Absatz 1 Nummer 1 einhält, insbesondere die in einer Verordnung nach § 7a Absatz 2 festgelegten Emissionsgrenzwerte und Umweltleistungsgrenzwerte oder die in einer Verwaltungsvorschrift nach § 48 Absatz 2 festgelegten Emissionswerte sowie die Nebenbestimmungen nach § 12 und § 12a.
+
+(2) Abweichend von Absatz 1 kann die zuständige Behörde auf Antrag des Betreibers die Frist zur Einhaltung der Emissionsgrenzwerte, Emissionsbegrenzungen und Umweltleistungsgrenzwerte für bestehende Anlagen nach der Industrieemissions-Richtlinie auf höchstens acht Jahre nach Veröffentlichung von BVT-Schlussfolgerungen zur Haupttätigkeit verlängern, wenn
+
+1. sich der Betreiber zur tiefgreifenden industriellen Transformation der Anlage verpflichtet und sichergestellt wird, dass nach Ablauf der verlängerten Frist die Anforderungen gemäß § 7a Absatz 2 oder § 48 Absatz 2 oder, wenn Zukunftstechniken zur Anwendung kommen, die Emissionsbandbreiten für Zukunftstechniken eingehalten werden,
+
+2. die Genehmigung eine Beschreibung der tiefgreifenden industriellen Transformation, der Emissionsbandbreiten oder, wenn Zukunftstechniken zur Anwendung kommen, der Emissionsbandbreiten für Zukunftstechniken und der Ressourceneffizienz, die erreicht werden sollen, sowie den Zeitplan für die Umsetzung und die Etappenziele enthält und
+
+3. der Betreiber der zuständigen Behörde jährlich einen Bericht über die Fortschritte bei der Umsetzung der tiefgreifenden industriellen Transformation vorlegt.
+
+Es ist durch die zuständige Behörde sicherzustellen, dass bis zum Ablauf der verlängerten Frist keine schädlichen Umwelteinwirkungen hervorgerufen werden und ein hohes Schutzniveau für die Umwelt insgesamt gewährleistet wird.
+
+(3) Abweichend von Absatz 1 kann die zuständige Behörde auf Antrag des Betreibers von einer Aktualisierung der Genehmigung absehen oder den Betreiber von der Pflicht zur Einhaltung der an die BVT-Schlussfolgerungen angepassten Emissions- und Umweltleistungsgrenzwerte befreien, wenn
+
+1. sich der Betreiber zur tiefgreifenden industriellen Transformation der Anlage verpflichtet, die in der Stilllegung der bestehenden Anlage und ihrer Ersetzung durch eine neue Anlage am selben oder einem anderen Standort innerhalb der Europäischen Union besteht und innerhalb von acht Jahren nach Veröffentlichung von BVT-Schlussfolgerungen zur Haupttätigkeit abgeschlossen wird,
+
+2. der Betreiber unter Vorlage eines Stilllegungsplans, des zugehörigen Zeitplans und der Etappenziele den Verzicht auf die Genehmigung für einen Zeitpunkt innerhalb von acht Jahren nach Veröffentlichung von BVT-Schlussfolgerungen zur Haupttätigkeit erklärt und
+
+3. der Betreiber der zuständigen Behörde jährlich einen Bericht über die Fortschritte in Bezug auf den Stilllegungsplan für die bestehende Anlage und deren Ersatz durch eine neue Anlage vorlegt.
+
+Absatz 2 Satz 2 gilt entsprechend.
+
+(4) Abweichend von den in einer Verordnung nach § 7a Absatz 2 festgelegten Emissionsgrenzwerten und Umweltleistungsgrenzwerten oder den in einer Verwaltungsvorschrift nach § 48 Absatz 2 festgelegten Emissionswerten soll die zuständige Behörde auf Antrag des Betreibers für Zukunftstechniken
+
+1. abweichende Emissionsbegrenzungen festlegen, wenn sichergestellt ist, dass die Anlage innerhalb von sechs Jahren nach Veröffentlichung von BVT-Schlussfolgerungen zur Haupttätigkeit unter normalen Betriebsbedingungen die Emissionsbandbreiten für Zukunftstechniken einhält, und
+
+2. anstelle von Umweltleistungsgrenzwerten Orientierungswerte für die Umweltleistung festlegen.
+
+Absatz 2 Satz 2 gilt entsprechend.
+
+(5) Die zuständige Behörde hat die Festlegung weniger strenger Emissionsbegrenzungen nach § 12a Absatz 2 Satz 1 Nummer 1 alle vier Jahre oder im Rahmen der Überwachung nach § 52 Absatz 1 Satz 1, falls eine Überprüfung danach früher als vier Jahre nach Festlegung weniger strenger Emissionsbegrenzungen erfolgt, erneut zu bewerten.
+
+(6) Im Fall des § 31 Absatz 1 Satz 3 hat die zuständige Behörde mindestens jährlich die Ergebnisse der Emissionsüberwachung zu bewerten, um sicherzustellen, dass die Emissionen unter normalen Betriebsbedingungen die in den BVT-Schlussfolgerungen festgelegten Emissionsbandbreiten nicht überschreiten.
+
+(7) Zur Durchführung von § 52 Absatz 1 Satz 1 stellen die zuständigen Behörden zur regelmäßigen Überwachung von Anlagen nach der Industrieemissions-Richtlinie in ihrem Zuständigkeitsbereich Überwachungspläne und Überwachungsprogramme gemäß § 52b auf. Zur Überwachung nach Satz 1 gehören insbesondere
+
+1. Vor-Ort-Besichtigungen,
+
+2. Überwachung der Emissionen,
+
+3. Überwachung der Einhaltung der Umweltleistungsgrenzwerte,
+
+4. Überprüfung interner Berichte und Folgedokumente,
+
+5. Überprüfung der Eigenkontrolle,
+
+6. Prüfung der angewandten Techniken und
+
+7. Prüfung der Eignung des Umweltmanagements der Anlage
+
+zur Sicherstellung der sich aus § 5 oder einer auf Grund des § 7 oder § 7a erlassenen Rechtsverordnung ergebenden Anforderungen. § 52 Absatz 2 und 4 bis 7 ist entsprechend anzuwenden. Das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) wird insoweit eingeschränkt.
+
+(8) Wurden die den zuständigen Behörden vorgelegten Daten im Rahmen eines gemäß den Anforderungen einer Verordnung nach § 58e Absatz 2 konformitätsgeprüften Umweltmanagementsystems erhoben, wird vermutet, dass diese Daten eine hinreichende Beurteilungsgrundlage für die Überwachung der Einhaltung der Umweltleistungsgrenzwerte bieten. Bei einem gemäß den Anforderungen einer Verordnung nach § 58e Absatz 2 konformitätsgeprüften Umweltmanagementsystem wird vermutet, dass das Umweltmanagementsystem die sich aus § 58e Absatz 1 und einer auf Grund des § 58e Absatz 2 erlassenen Rechtsverordnung ergebenden Anforderungen erfüllt.
+
+(9) Bei Ereignissen mit erheblichen Auswirkungen auf die menschliche Gesundheit oder die Umwelt in einem anderen Mitgliedstaat der Europäischen Union benachrichtigen die zuständigen Behörden unverzüglich die zuständigen Behörden des betroffenen Mitgliedstaates der Europäischen Union. Die zuständigen Behörden arbeiten bei der Bekämpfung der Folgen für die Umwelt und die menschliche Gesundheit und der Vermeidung weiterer Ereignisse mit erheblichen Auswirkungen auf die menschliche Gesundheit oder Umwelt mit den zuständigen Behörden des anderen Mitgliedstaates der Europäischen Union zusammen. Satz 2 gilt entsprechend, wenn ein Verstoß gegen Genehmigungsauflagen eine unmittelbare Gefährdung der menschlichen Gesundheit oder eine unmittelbare erhebliche Gefährdung der Umwelt in einem anderen Mitgliedstaat der Europäischen Union verursacht.
+
+# § 52b – Überwachungspläne, Überwachungsprogramme für Anlagen nach der Industrieemissions-Richtlinie
 
 (1) Überwachungspläne haben Folgendes zu enthalten:
 
@@ -1797,7 +1919,7 @@ Die Überwachungspläne sind von den zuständigen Behörden regelmäßig zu übe
 
 2. bisherige Einhaltung der Genehmigungsanforderungen nach § 6 Absatz 1 Nummer 1 und der Nebenbestimmungen nach § 12,
 
-3. Eintragung eines Unternehmens in ein Verzeichnis gemäß den Artikeln 13 bis 15 der Verordnung (EG) Nr. 1221/2009 des Europäischen Parlaments und des Rates vom 25. November 2009 über die freiwillige Teilnahme von Organisationen an einem Gemeinschaftssystem für Umweltmanagement und Umweltbetriebsprüfung und zur Aufhebung der Verordnung (EG) Nr. 761/2001, sowie der Beschlüsse der Kommission 2001/681/EG und 2006/193/EG (ABl. L 342 vom 22.12.2009, S. 1).
+3. Eintragung eines Unternehmens in ein Verzeichnis gemäß den Artikeln 13 bis 15 der Verordnung (EG) Nr. 1221/2009 in der Fassung vom 25. November 2009.
 
 (3) Der Abstand zwischen zwei Vor-Ort-Besichtigungen darf die folgenden Zeiträume nicht überschreiten:
 
@@ -1811,7 +1933,7 @@ Wurde bei einer Überwachung festgestellt, dass der Betreiber einer Anlage in sc
 
 (5) Nach jeder Vor-Ort-Besichtigung einer Anlage erstellt die zuständige Behörde einen Bericht mit den relevanten Feststellungen über die Einhaltung der Genehmigungsanforderungen nach § 6 Absatz 1 Nummer 1 und der Nebenbestimmungen nach § 12 sowie mit Schlussfolgerungen, ob weitere Maßnahmen notwendig sind. Der Bericht ist dem Betreiber innerhalb von zwei Monaten nach der Vor-Ort-Besichtigung durch die zuständige Behörde zu übermitteln. Der Bericht ist der Öffentlichkeit nach den Vorschriften über den Zugang zu Umweltinformationen innerhalb von vier Monaten nach der Vor-Ort-Besichtigung zugänglich zu machen.
 
-# § 52b – Mitteilungspflichten zur Betriebsorganisation
+# § 52c – Mitteilungspflichten zur Betriebsorganisation
 
 (1) Besteht bei Kapitalgesellschaften das vertretungsberechtigte Organ aus mehreren Mitgliedern oder sind bei rechtsfähigen Personengesellschaften mehrere vertretungsberechtigte Gesellschafter vorhanden, so ist der zuständigen Behörde anzuzeigen, wer von ihnen nach den Bestimmungen über die Geschäftsführungsbefugnis für die Gesellschaft die Pflichten des Betreibers der genehmigungsbedürftigen Anlage wahrnimmt, die ihm nach diesem Gesetz und nach den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen und allgemeinen Verwaltungsvorschriften obliegen. Die Gesamtverantwortung aller Organmitglieder oder Gesellschafter bleibt hiervon unberührt.
 
@@ -1911,7 +2033,21 @@ Der Betreiber hat durch innerbetriebliche Organisationsmaßnahmen sicherzustelle
 
 § 58 gilt für den Störfallbeauftragten entsprechend.
 
-# § 58e – Erleichterungen für auditierte Unternehmensstandorte
+# § 58e – Pflicht der Betreiber von Anlagen nach der Industrieemissions-Richtlinie zur Umsetzung eines Umweltmanagementsystems; Verordnungsermächtigung
+
+(1) Betreiber von Anlagen nach der Industrieemissions-Richtlinie haben sicherzustellen, dass ein Umweltmanagementsystem nach Maßgabe der Rechtsverordnung nach Absatz 2 eingerichtet und dauerhaft umgesetzt wird.
+
+(2) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise nach § 51 durch Rechtsverordnung mit Zustimmung des Bundesrates vorzuschreiben, welche Anforderungen das nach Absatz 1 einzurichtende und dauerhaft umzusetzende Umweltmanagementsystem zu erfüllen hat, insbesondere, dass
+
+1. das Umweltmanagementsystem Ziele zur Förderung der Nutzung und Erzeugung erneuerbarer Energien, soweit technisch möglich und wirtschaftlich zumutbar, enthält,
+
+2. Orientierungswerte für die Umweltleistung bei der Festlegung von Zielen und Leistungsindikatoren für wesentliche Umweltaspekte im Rahmen des Umweltmanagementsystems berücksichtigt werden müssen.
+
+Darüber hinaus kann in der Rechtsverordnung nach Satz 1 geregelt werden, welche Veröffentlichungspflichten, Berichts- und Vorlagepflichten, Datenerhebungs- und Messverpflichtungen, Konformitätsbewertungen und Nachweispflichten der Betreiber im Zusammenhang mit dem Umweltmanagementsystem zu erfüllen hat.
+
+(3) Nach jeder Veröffentlichung einer BVT-Schlussfolgerung ist durch Erlass einer Rechtsverordnung unverzüglich zu gewährleisten, dass die Orientierungswerte für die Umweltleistung nach Absatz 2 Nummer 2 innerhalb der mit den besten verfügbaren Techniken assoziierten Umweltleistungswerte festgelegt werden. Enthalten die BVT-Schlussfolgerungen Umweltleistungsvergleichswerte, sind die Orientierungswerte für die Umweltleistung als Spannen festzulegen.
+
+# § 58f – Erleichterungen für auditierte Unternehmensstandorte
 
 (1) Die Bundesregierung wird ermächtigt, zur Förderung der privaten Eigenverantwortung für EMAS-Standorte durch Rechtsverordnung mit Zustimmung des Bundesrates Erleichterungen zum Inhalt der Antragsunterlagen im Genehmigungsverfahren sowie überwachungsrechtliche Erleichterungen vorzusehen, soweit die entsprechenden Anforderungen der Verordnung (EG) Nr. 1221/2009 gleichwertig mit den Anforderungen sind, die zur Überwachung und zu den Antragsunterlagen nach diesem Gesetz oder nach den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen vorgesehen sind oder soweit die Gleichwertigkeit durch die Rechtsverordnung nach dieser Vorschrift sichergestellt wird.
 
@@ -1941,9 +2077,9 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 # § 61 – Berichterstattung an die Europäische Kommission
 
-(1) Die Länder übermitteln dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit nach dessen Vorgaben Informationen über die Umsetzung der Richtlinie 2010/75/EU, insbesondere über repräsentative Daten über Emissionen und sonstige Arten von Umweltverschmutzung, über Emissionsgrenzwerte und darüber, inwieweit der Stand der Technik angewendet wird. Die Länder stellen diese Informationen auf elektronischem Wege zur Verfügung. Art und Form der von den Ländern zu übermittelnden Informationen sowie der Zeitpunkt ihrer Übermittlung richten sich nach den Anforderungen, die auf der Grundlage von Artikel 72 Absatz 2 der Richtlinie 2010/75/EU festgelegt werden. § 5 Absatz 1 Satz 2 und Absatz 2 bis 6 des Gesetzes zur Ausführung des Protokolls über Schadstofffreisetzungs- und -verbringungsregister vom 21. Mai 2003 sowie zur Durchführung der Verordnung (EG) Nr. 166/2006 vom 6. Juni 2007 (BGBl. I S. 1002), das durch Artikel 1 des Gesetzes vom 9. Dezember 2020 (BGBl. I S. 2873) geändert worden ist, gilt entsprechend.
+(1) Die Länder übermitteln dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit nach dessen Vorgaben Informationen über die Umsetzung der Industrieemissions-Richtlinie in der Fassung vom 24. April 2024, insbesondere über repräsentative Daten über Emissionen und sonstige Arten von Umweltverschmutzung, über Emissionsgrenzwerte und darüber, inwieweit der Stand der Technik angewendet wird. Die Länder stellen diese Informationen auf elektronischem Wege zur Verfügung. Art und Form der von den Ländern zu übermittelnden Informationen sowie der Zeitpunkt ihrer Übermittlung richten sich nach den Anforderungen, die auf der Grundlage von Artikel 72 Absatz 2 der Industrieemissions-Richtlinie in der Fassung vom 24. April 2024 festgelegt werden. § 5 Absatz 1 Satz 2 und Absatz 2 bis 6 des Gesetzes zur Ausführung des Protokolls über Schadstofffreisetzungs- und -verbringungsregister vom 21. Mai 2003 sowie zur Durchführung der Verordnung (EG) Nr. 166/2006 vom 6. Juni 2007 (BGBl. I S. 1002), das durch Artikel 1 des Gesetzes vom 9. Dezember 2020 (BGBl. I S. 2873) geändert worden ist, gilt entsprechend.
 
-(2) Die Länder übermitteln dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit nach dessen Vorgaben Informationen über die Umsetzung der Richtlinie 2012/18/EU sowie über die unter diese Richtlinie fallenden Betriebsbereiche. Art und Form der von den Ländern zu übermittelnden Informationen sowie der Zeitpunkt ihrer Übermittlung richten sich nach den Anforderungen, die auf der Grundlage von Artikel 21 Absatz 5 der Richtlinie 2012/18/EU festgelegt werden. Absatz 1 Satz 2 und 4 gilt entsprechend.
+(2) Die Länder übermitteln dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit nach dessen Vorgaben Informationen über die Umsetzung der Richtlinie 2012/18/EU in der Fassung vom 4. Juli 2012 sowie über die unter diese Richtlinie fallenden Betriebsbereiche. Art und Form der von den Ländern zu übermittelnden Informationen sowie der Zeitpunkt ihrer Übermittlung richten sich nach den Anforderungen, die auf der Grundlage von Artikel 21 Absatz 5 der Richtlinie 2012/18/EU in der Fassung vom 4. Juli 2012 festgelegt werden. Absatz 1 Satz 2 und 4 gilt entsprechend.
 
 # § 62 – Ordnungswidrigkeiten
 
@@ -1953,13 +2089,17 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 2. einer auf Grund des § 7 erlassenen Rechtsverordnung oder auf Grund einer solchen Rechtsverordnung erlassenen vollziehbaren Anordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
+2a. einer Rechtsverordnung nach § 7a Absatz 1 Nummer 3 oder § 58e Absatz 2 Satz 2 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
+
 3. eine vollziehbare Auflage nach § 8a Absatz 2 Satz 2 oder § 12 Absatz 1 nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erfüllt,
 
 4. die Lage, die Beschaffenheit oder den Betrieb einer genehmigungsbedürftigen Anlage ohne die Genehmigung nach § 16 Absatz 1 wesentlich ändert,
 
 4a. ohne Genehmigung nach § 16a Satz 1 oder § 23b Absatz 1 Satz 1 eine dort genannte Anlage störfallrelevant ändert oder störfallrelevant errichtet,
 
-5. einer vollziehbaren Anordnung nach § 17 Absatz 1 Satz 1 oder 2, jeweils auch in Verbindung mit Absatz 5, § 24 Satz 1, § 26, § 28 Satz 1 oder § 29 nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig nachkommt,
+5. einer vollziehbaren Anordnung nach § 17 Absatz 1 Satz 1, auch in Verbindung mit § 17 Absatz 5, § 24 Satz 1, § 26, § 28 Satz 1 oder § 29 nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig nachkommt,
+
+5a. einer vollziehbaren Anordnung nach § 17 Absatz 1 Satz 2, auch in Verbindung mit § 17 Absatz 5, zuwiderhandelt,
 
 6. eine Anlage entgegen einer vollziehbaren Untersagung nach § 25 Absatz 1 betreibt,
 
@@ -1976,6 +2116,8 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 11. entgegen § 37f Absatz 1 Satz 1, auch in Verbindung mit einer Rechtsverordnung nach § 37d Absatz 2 Satz 1 Nummer 14, der zuständigen Stelle einen Bericht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt oder
 
 12. entgegen § 37i Absatz 1 eine dort genannte Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig einträgt.
+
+13. entgegen § 58e Absatz 1 in Verbindung mit einer Rechtsverordnung nach § 58e Absatz 2 Satz 1 nicht sicherstellt, dass ein Umweltmanagementsystem eingerichtet und umgesetzt wird.
 
 (2) Ordnungswidrig handelt ferner, wer vorsätzlich oder fahrlässig
 
@@ -2017,7 +2159,9 @@ Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird erm�
 
 (4) Die Ordnungswidrigkeit kann in den Fällen der Absätze 1 und 3 Nummer 1 Buchstabe a und Nummer 2 mit einer Geldbuße bis zu fünfzigtausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
-(5) Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten sind in den Fällen des Absatzes 1 Nummer 9 bis 11 die Stellen nach § 37d Absatz 1 Satz 1 jeweils für ihren Geschäftsbereich.
+(5) Gegenüber einer juristischen Person oder Personenvereinigung mit einem Jahresumsatz von mehr als 1,67 Millionen Euro kann abweichend von Absatz 4 in Verbindung mit § 30 Absatz 2 Satz 2 des Gesetzes über Ordnungswidrigkeiten eine bei Errichtung oder Betrieb einer Anlage nach der Industrieemissions-Richtlinie vorsätzlich begangene Ordnungswidrigkeit nach Absatz 1 Nummer 1, 4, 5a oder 6 mit einer Geldbuße bis zu 3 Prozent des Jahresumsatzes geahndet werden. Jahresumsatz nach Satz 1 ist die Summe der Umsatzerlöse, die die juristische Person oder Personenvereinigung in dem der Behördenentscheidung vorausgegangenen Geschäftsjahr in der Europäischen Union erzielt hat. Der Jahresumsatz kann geschätzt werden.
+
+(6) Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten sind in den Fällen des Absatzes 1 Nummer 9 bis 11 die Stellen nach § 37d Absatz 1 Satz 1 jeweils für ihren Geschäftsbereich.
 
 # § 62a – Bußgeldvorschriften zur Verordnung (EU) 2023/2405
 
@@ -2039,13 +2183,29 @@ Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird erm�
 
 (2) Der Antrag auf Anordnung der aufschiebenden Wirkung des Widerspruchs oder der Anfechtungsklage gegen eine Zulassung einer Windenergieanlage an Land mit einer Gesamthöhe von mehr als 50 Metern nach § 80 Absatz 5 Satz 1 der Verwaltungsgerichtsordnung kann nur innerhalb eines Monats nach der Zustellung der Zulassung gestellt und begründet werden. Darauf ist in der Rechtsbehelfsbelehrung hinzuweisen. § 58 der Verwaltungsgerichtsordnung gilt entsprechend. Treten später Tatsachen ein, die die Anordnung der aufschiebenden Wirkung rechtfertigen, so kann der durch die Zulassungsentscheidung Beschwerte einen hierauf gestützten Antrag nach § 80 Absatz 5 Satz 1 der Verwaltungsgerichtsordnung innerhalb einer Frist von einem Monat stellen und begründen. Die Frist beginnt mit dem Zeitpunkt, in dem der Beschwerte von den Tatsachen Kenntnis erlangt.
 
+(3) Rechtsbehelfe gegen Festlegungen zu Art und Höhe der Sicherheitsleistung bei Abfallentsorgungsanlagen haben keine aufschiebende Wirkung.
+
 # § 64 – Datenübermittlung
 
 (1) Die Generalzolldirektion und die Hauptzollämter dürfen Informationen, einschließlich personenbezogener Daten sowie Betriebs- und Geschäftsgeheimnisse, an das Bundeministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit sowie das Umweltbundesamt übermitteln, soweit diese Informationen zur Erfüllung der gesetzlichen Aufgaben des Bundesministeriums für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit oder des Umweltbundesamtes aus den §§ 37a bis 37m oder Artikel 11 Absatz 3 der Verordnung (EU) 2023/2405 erforderlich sind.
 
 (2) Die Datenübermittlungen nach Absatz 1 darf auf Initiative der zur Übermittlung befugten Stellen und auf Ersuchen der Datenempfänger erfolgen.
 
-# § 65 – (weggefallen)
+# § 64a – Elektronische Kommunikation
+
+Soweit auf Grund dieses Gesetzes oder einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung die Schriftform angeordnet wird, ist auch die elektronische Form nach Maßgabe des § 3a des Verwaltungsverfahrensgesetzes zugelassen.
+
+# § 65 – Schadensersatz
+
+(1) Verstößt der Betreiber einer Anlage nach der Industrieemissions-Richtlinie gegen § 5 Absatz 1 Nummer 1 und 2, Absatz 3 bis 5 und wird dadurch die Gesundheit eines anderen verletzt, so ist der Betreiber verpflichtet, dem Verletzten den daraus entstehenden Schaden zu ersetzen.
+
+(2) Schadensersatzansprüche nach Absatz 1 verjähren in drei Jahren. Die Verjährungsfrist beginnt mit dem Schluss des Jahres, in dem
+
+1. der Anspruch entstanden ist,
+
+2. der den Anspruch begründende Verstoß beendet ist und
+
+3. der Anspruchsberechtigte Kenntnis erlangt hat oder nach vernünftigem Ermessen wissen müsste, dass durch den Verstoß ein Schaden entstanden ist.
 
 # § 66 – Fortgeltung von Vorschriften
 
@@ -2063,15 +2223,7 @@ Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird erm�
 
 (4) Bereits begonnene Verfahren sind nach den Vorschriften dieses Gesetzes und der auf dieses Gesetz gestützten Rechts- und Verwaltungsvorschriften zu Ende zu führen.
 
-(5) Soweit durch das Gesetz zur Umsetzung der Richtlinie über Industrieemissionen vom 8. April 2013 (BGBl. I S. 734) neue Anforderungen festgelegt worden sind, sind diese Anforderungen von Anlagen nach der Industrieemissions-Richtlinie erst ab dem 7. Januar 2014 zu erfüllen, wenn vor dem 7. Januar 2013
-
-1. die Anlage sich im Betrieb befand oder
-
-2. eine Genehmigung für die Anlage erteilt wurde oder vom Vorhabenträger ein vollständiger Genehmigungsantrag gestellt wurde.
-
-Bestehende Anlagen nach Satz 1, die nicht von Anhang I der Richtlinie 2008/1/EG des Europäischen Parlaments und des Rates vom 15. Januar 2008 über die integrierte Vermeidung und Verminderung der Umweltverschmutzung (ABl. L 24 vom 29.1.2008, S. 8), die durch die Richtlinie 2009/31/EG (ABl. L 140 vom 5.6.2009, S. 114) geändert worden ist, erfasst wurden, haben abweichend von Satz 1 die dort genannten Anforderungen ab dem 7. Juli 2015 zu erfüllen.
-
-(6) Eine nach diesem Gesetz erteilte Genehmigung für eine Anlage zum Umgang mit
+(5) Eine nach diesem Gesetz erteilte Genehmigung für eine Anlage zum Umgang mit
 
 1. gentechnisch veränderten Mikroorganismen,
 
@@ -2081,15 +2233,19 @@ Bestehende Anlagen nach Satz 1, die nicht von Anhang I der Richtlinie 2008/1/EG 
 
 ausgenommen Anlagen, die ausschließlich Forschungszwecken dienen, gilt auch nach dem Inkrafttreten eines Gesetzes zur Regelung von Fragen der Gentechnik fort. Absatz 4 gilt entsprechend.
 
-(7) Eine Planfeststellung oder Genehmigung nach dem Abfallgesetz gilt als Genehmigung nach diesem Gesetz fort. Eine Anlage, die nach dem Abfallgesetz angezeigt wurde, gilt als nach diesem Gesetz angezeigt. Abfallentsorgungsanlagen, die weder nach dem Abfallgesetz planfestgestellt oder genehmigt noch angezeigt worden sind, sind unverzüglich bei der zuständigen Behörde anzuzeigen. Absatz 2 Satz 2 gilt entsprechend.
+(6) Eine Planfeststellung oder Genehmigung nach dem Abfallgesetz gilt als Genehmigung nach diesem Gesetz fort. Eine Anlage, die nach dem Abfallgesetz angezeigt wurde, gilt als nach diesem Gesetz angezeigt. Abfallentsorgungsanlagen, die weder nach dem Abfallgesetz planfestgestellt oder genehmigt noch angezeigt worden sind, sind unverzüglich bei der zuständigen Behörde anzuzeigen. Absatz 2 Satz 2 gilt entsprechend.
 
-(8) Für die für das Jahr 1996 abzugebenden Emissionserklärungen ist § 27 in der am 14. Oktober 1996 geltenden Fassung weiter anzuwenden.
+(7) Baugenehmigungen für Windkraftanlagen mit einer Gesamthöhe von mehr als 50 Metern, die bis zum 1. Juli 2005 erteilt worden sind, gelten als Genehmigungen nach diesem Gesetz. Nach diesem Gesetz erteilte Genehmigungen für Windfarmen gelten als Genehmigungen für die einzelnen Windkraftanlagen. Verfahren auf Erteilung einer Baugenehmigung für Windkraftanlagen, die vor dem 1. Juli 2005 rechtshängig geworden sind, werden nach den Vorschriften der Verordnung über genehmigungsbedürftige Anlagen und der Anlage 1 des Gesetzes über die Umweltverträglichkeitsprüfung in der bisherigen Fassung abgeschlossen; für die in diesem Zusammenhang erteilten Baugenehmigungen gilt Satz 1 entsprechend. Sofern ein Verfahren nach Satz 3 in eine Klage auf Erteilung einer Genehmigung nach diesem Gesetz geändert wird, gilt diese Änderung als sachdienlich.
 
-(9) Baugenehmigungen für Windkraftanlagen mit einer Gesamthöhe von mehr als 50 Metern, die bis zum 1. Juli 2005 erteilt worden sind, gelten als Genehmigungen nach diesem Gesetz. Nach diesem Gesetz erteilte Genehmigungen für Windfarmen gelten als Genehmigungen für die einzelnen Windkraftanlagen. Verfahren auf Erteilung einer Baugenehmigung für Windkraftanlagen, die vor dem 1. Juli 2005 rechtshängig geworden sind, werden nach den Vorschriften der Verordnung über genehmigungsbedürftige Anlagen und der Anlage 1 des Gesetzes über die Umweltverträglichkeitsprüfung in der bisherigen Fassung abgeschlossen; für die in diesem Zusammenhang erteilten Baugenehmigungen gilt Satz 1 entsprechend. Sofern ein Verfahren nach Satz 3 in eine Klage auf Erteilung einer Genehmigung nach diesem Gesetz geändert wird, gilt diese Änderung als sachdienlich.
+(8) § 47 Absatz 5a gilt für die Verfahren zur Aufstellung oder Änderung von Luftreinhalteplänen nach § 47, die nach dem 25. Juni 2005 eingeleitet worden sind.
 
-(10) § 47 Absatz 5a gilt für die Verfahren zur Aufstellung oder Änderung von Luftreinhalteplänen nach § 47, die nach dem 25. Juni 2005 eingeleitet worden sind.
+(9) § 37l Absatz 1 Nummer 2 ist erst ab dem 1. Januar 2030 anzuwenden.
 
-(11) § 37l Absatz 1 Nummer 2 ist erst ab dem 1. Januar 2030 anzuwenden.
+(10) In Bezug auf BVT-Schlussfolgerungen, die bis zum Ablauf des 1. Juli 2026 im Amtsblatt der Europäischen Union veröffentlicht wurden, sind bis zum 1. September 2036 § 7 Absatz 1a und 1b, § 12 Absatz 1a, § 48 Absatz 1a und 1b, § 52 Absatz 1 Satz 5 bis 8 in Verbindung mit Satz 3 dieses Gesetzes in der bis einschließlich 20. Oktober 2026 geltenden Fassung anzuwenden. Für BVT-Schlussfolgerungen nach Satz 1 finden § 7a, § 48 Absatz 2 und 3, § 52a Absatz 1 keine und § 12a Absatz 2 und 4, § 17 Absatz 1a, 1b, 2a und 2b entsprechende Anwendung. Im Fall einer Aktualisierung gemäß § 52 Absatz 1 Satz 5 findet § 12a Absatz 2 Satz 5 keine Anwendung. § 12a Absatz 5 findet keine Anwendung im Fall einer Neugenehmigung, sondern nur im Rahmen einer Anordnung nach § 17 Absatz 1b.
+
+(11) Die sich aus diesem Gesetz oder auf Grund dieses Gesetzes erlassener Rechtsverordnungen ergebenden Anforderungen an Anlagen nach der Industrieemissions-Richtlinie sind von Anlagen der Nummer 3.6.2.1 des Anhangs 1 zur Verordnung über genehmigungsbedürftige Anlagen und Anlagen zur Ausrüstung von Fasern oder Textilien der Nummer 10.10.1 des Anhangs 1 zur Verordnung über genehmigungsbedürftige Anlagen erst ab dem 1. Juli 2030 zu erfüllen, wenn die Anlage vor dem 1. Juli 2026 in Betrieb genommen wurde.
+
+(12) Für Anlagen der Nummer 7.1.1.1, 7.1.2.1, 7.1.3.1, 7.1.4.1, 7.1.7.1, 7.1.8.1 und 7.1.11.1 des Anhangs 1 zur Verordnung über genehmigungsbedürftige Anlagen ist dieses Gesetz in der bis einschließlich 20. Oktober 2026 geltenden Fassung anzuwenden.
 
 # § 67a – Überleitungsregelung aus Anlass der Herstellung der Einheit Deutschlands
 
@@ -2111,7 +2267,7 @@ ausgenommen Anlagen, die ausschließlich Forschungszwecken dienen, gilt auch nac
 
 Von den in diesem Gesetz und auf Grund dieses Gesetzes getroffenen Regelungen des Verwaltungsverfahrens kann durch Landesrecht nicht abgewichen werden.
 
-# Anlage – (zu § 3 Abs. 6)Kriterien zur Bestimmung des Standes der Technik
+# Anlage 1 – (zu § 3 Absatz 6 Satz 2)  Kriterien zur Bestimmung des Standes der Technik
 
 (Fundstelle: BGBl. I 2013, 1311)
 
@@ -2119,13 +2275,13 @@ Bei der Bestimmung des Standes der Technik sind unter Berücksichtigung der Verh
 
 1. Einsatz abfallarmer Technologie,
 
-2. Einsatz weniger gefährlicher Stoffe,
+2. Einsatz weniger gefährlicher Stoffe, einschließlich des geringeren Einsatzes besonders besorgniserregender Stoffe,
 
 3. Förderung der Rückgewinnung und Wiederverwertung der bei den einzelnen Verfahren erzeugten und verwendeten Stoffe und gegebenenfalls der Abfälle,
 
 4. vergleichbare Verfahren, Vorrichtungen und Betriebsmethoden, die mit Erfolg im Betrieb erprobt wurden,
 
-5. Fortschritte in der Technologie und in den wissenschaftlichen Erkenntnissen,
+5. Fortschritte in der Technologie, einschließlich digitaler Instrumente, und in den wissenschaftlichen Erkenntnissen,
 
 6. Art, Auswirkungen und Menge der jeweiligen Emissionen,
 
@@ -2133,12 +2289,70 @@ Bei der Bestimmung des Standes der Technik sind unter Berücksichtigung der Verh
 
 8. für die Einführung einer besseren verfügbaren Technik erforderliche Zeit,
 
-9. Verbrauch an Rohstoffen und Art der bei den einzelnen Verfahren verwendeten Rohstoffe (einschließlich Wasser) sowie Energieeffizienz,
+9. Verbrauch und Art der beim Verfahren verwendeten Rohstoffe, einschließlich Wasser, sowie Ressourceneffizienz und Wiederverwendung und Dekarbonisierung,
 
-10. Notwendigkeit, die Gesamtwirkung der Emissionen und die Gefahren für den Menschen und die Umwelt so weit wie möglich zu vermeiden oder zu verringern,
+10. Notwendigkeit, die Gesamtwirkung der Emissionen und die Gefahren für den Menschen und die Umwelt, einschließlich der biologischen Vielfalt, so weit wie möglich zu vermeiden oder zu verringern,
 
 11. Notwendigkeit, Unfällen vorzubeugen und deren Folgen für den Menschen und die Umwelt zu verringern,
 
 12. Informationen, die von internationalen Organisationen veröffentlicht werden,
 
 13. Informationen, die in BVT-Merkblättern enthalten sind.
+
+# Anlage 2 – (zu § 7a Absatz 3 Satz 4, § 12a Absatz 2 Satz 5, § 48 Absatz 3 Satz 4)  Kriterien für die Prüfung der Verhältnismäßigkeit der Anwendung der in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten
+
+(Fundstelle: BGBl. 2026 I Nr. 304, S. 17 - 18)
+
+Um zu ermitteln, ob die Anwendung der in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten unverhältnismäßig ist, sind die Kosten der Einhaltung der BVT-assoziierten Emissionsgrenzwerte mit dem Umweltnutzen wie folgt zu vergleichen:
+
+1. Kosten der Einhaltung der BVT-assoziierten Emissionsgrenzwerte
+
+1.1  
+Die Kosten für die Einhaltung der BVT-assoziierten Emissionsgrenzwerte umfassen Investitions- und Betriebsaufwendungen. Zusätzliche gesellschaftliche oder wirtschaftliche Kosten werden nicht berücksichtigt.
+
+1.2  
+Die Bewertung der Kosten erfolgt quantitativ und wird von einer qualitativen Beurteilung begleitet.
+
+1.3  
+Die in dieser Bewertung berücksichtigten Kosten müssen
+
+a) den Nettokosten nach Abzug aller finanziellen Vorteile entsprechen, die durch die Anwendung der BVT entstehen;
+
+b) die Kosten der Beschaffung des für die Finanzierung der BVT erforderlichen Finanzkapitals umfassen und
+
+c) unter Verwendung eines Diskontsatzes berechnet werden, um im Zeitverlauf auftretende Unterschiede beim monetären Wert zu berücksichtigen.
+
+1.4  
+Im Antrag auf eine Ausnahme sind die Kostenquellen und die für die Berechnung der Kosten verwendeten Methoden klar darzulegen; dies umfasst den verwendeten Diskontsatz sowie die Abschätzung der Unsicherheiten im Zusammenhang mit der Kostenbewertung.
+
+1.5  
+Die vom Betreiber berechneten Kosten werden von der zuständigen Behörde auf der Grundlage von Informationen aus anderen Quellen wie Technologieanbietern, von Fachkollegen begutachteten Forschungsarbeiten, Expertenmeinungen oder Daten aus anderen Anlagen, in denen die BVT kürzlich eingerichtet wurden, überprüft.
+
+2. Umweltnutzen
+
+2.1  
+Der Umweltnutzen ist der mit der Einhaltung der BVT-assoziierten Emissionsgrenzwerte verbundene Umweltnutzen.
+
+2.2  
+Die Bewertung des Umweltnutzens hat durch eine monetäre Quantifizierung zu erfolgen und wird von einer qualitativen Beurteilung unterstützt. Soweit verfügbar, werden dabei die ermittelten Kosten der durch Schadstoffe verursachten Schäden herangezogen.
+
+2.3  
+Bei der Bewertung des Umweltnutzens soll die Anwendung eines Diskontsatzes auf jeden geldwerten Nutzen erwogen werden, der die Unterschiede im gesellschaftlichen Wert im Verlauf der Zeit berücksichtigt.
+
+2.4  
+Im Antrag auf eine Ausnahme sind die Quellen der Informationen zum Umweltnutzen sowie die für die Berechnung des Umweltnutzens verwendeten Methoden klar darzulegen; dies umfasst den verwendeten Diskontsatz sowie die Abschätzung der Unsicherheiten im Zusammenhang mit der Bewertung des Umweltnutzens.
+
+2.5  
+Der vom Betreiber berechnete Umweltnutzen wird von der zuständigen Behörde auf der Grundlage von Expertenmeinungen oder Daten aus anderen Anlagen überprüft, in denen die BVT kürzlich eingerichtet wurden.
+
+3. Unverhältnismäßigkeit der Kosten im Vergleich zum Umweltnutzen
+
+3.1  
+Um zu ermitteln, ob eine Unverhältnismäßigkeit besteht, werden die Kosten der Einhaltung der BVT-assoziierten Emissionsgrenzwerte mit dem Nutzen dieser Einhaltung verglichen.
+
+3.2  
+Der Vergleichsmechanismus muss die folgenden Elemente umfassen:
+
+a) eine Methode für die Berücksichtigung von Unsicherheiten bei der Bewertung der Kosten und des Umweltnutzens;
+
+b) genaue Angaben zu der Marge, um die die Kosten den Umweltnutzen überschreiten sollten.

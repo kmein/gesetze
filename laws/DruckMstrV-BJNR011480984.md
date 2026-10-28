@@ -274,6 +274,10 @@ Kostenermittlung mit allen für die Preisbildung wesentlichen Faktoren einschlie
 
 # § 8 – (weggefallen)
 
+# § 8a – Außerkrafttreten
+
+Diese Verordnung tritt mit Ablauf des 31. Oktober 2026 außer Kraft.
+
 # § 9 – Inkrafttreten
 
 (1) Diese Verordnung tritt am 1. Januar 1985 in Kraft.

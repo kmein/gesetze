@@ -68,8 +68,10 @@ Der Präsident des Deutschen Patent- und Markenamts veröffentlicht im Blatt fü
     (+++ Hinweis: Zu Patentinformationszentren ab dem 
     23.4.2009 vgl. Bek. 420-1-14 v. 9.4.2009 I 815 (PatInfoZBek 2009), ab dem 
     1.6.2016 vgl. Bek. 420-1-14 v. 2.5.2016 I 1137 (PatInfoZBek 2016), ab dem 
-    1.1.2018 vgl. Bek. 420-1-14 v. 14.11.2017 I 3807 (PatInfoZBek 2017) und ab dem
-    1.1.2019 vgl. Bek. 420-1-14 v. 23.10.2018 I 1843 (PatInfoZBek 2018) +++) 
+    1.1.2018 vgl. Bek. 420-1-14 v. 14.11.2017 I 3807 (PatInfoZBek 2017), ab dem
+    1.1.2019 vgl. Bek. 420-1-14 v. 23.10.2018 I 1843 (PatInfoZBek 2018), ab dem
+    1.1.2021 vgl. Bek. 420-1-14 v. 29.10.2020 I 2336 (PatInfoZBek 2020) und ab dem
+    1.1.2027 vgl. Bek. 420-1-14 v. 13.10.2026 I 1843 (PatInfoZBek 2026)+++) 
 
 # Schlussformel
 

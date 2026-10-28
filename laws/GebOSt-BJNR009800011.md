@@ -41,15 +41,19 @@ Eingangsformel Kursivdruck: Müsste richtig "(BGBl. I S. 1336), von denen § 6a"
 
  9. die auf die Kosten der amtlich anerkannten Sachverständigen und Prüfer für den Kraftfahrzeugverkehr und der amtlich anerkannten Begutachtungsstellen für Fahreignung entfallende Mehrwertsteuer,
 
-10. die Kosten der amtlich anerkannten Sachverständigen und Prüfer sowie der Prüfstellen für Nachprüfungen im Auftrage des Kraftfahrt-Bundesamtes nach § 20 Absatz 6 der Straßenverkehrs-Zulassungs-Ordnung und § 9 der Fahrzeugteileverordnung sowie für Nachprüfungen nach international vereinbartem Recht, soweit ein Verstoß gegen diese Vorschriften nachgewiesen wird,
+10. die Kosten der amtlich anerkannten Sachverständigen und Prüfer sowie der Prüfstellen für Nachprüfungen im Auftrage des Kraftfahrt-Bundesamtes nach § 20 Absatz 6 der Straßenverkehrs-Zulassungs-Ordnung und § 9 der Fahrzeugteileverordnung sowie für Nachprüfungen nach international vereinbartem Recht,
 
 11. die Aufwendungen für die Übersendung oder Überbringung der Mitteilung der Zulassungsbehörde an den Versicherer auf Grund der Versicherungsbestätigung nach § 50 Absatz 1 der Fahrzeug-Zulassungsverordnung oder der Anzeige nach § 51 Absatz 2 der Fahrzeug-Zulassungsverordnung,
 
 12. die Kosten eines amtlich anerkannten Sachverständigen für den Kraftfahrzeugverkehr, eines technischen Dienstes mit Gesamtfahrzeugbefugnissen der jeweiligen Fahrzeugklassen oder einer anderen vom Kraftfahrt-Bundesamt beauftragten Stelle für die Begutachtung eines Kraftfahrzeugs mit automatisierter oder autonomer Fahrfunktion einschließlich der Bewertung der informationstechnischen Sicherheit von Fahrzeugen und Fahrzeugteilen,
 
-13. die Kosten eines von der zuständigen Behörde beauftragten Gutachtens gemäß § 9 Absatz 3 Satz 1 der Autonome-Fahrzeuge-Genehmigungs-und-Betriebs-Verordnung.
+13. die Kosten eines von der zuständigen Behörde beauftragten Gutachtens gemäß § 9 Absatz 3 Satz 1 der Autonome-Fahrzeuge-Genehmigungs-und-Betriebs-Verordnung,
+
+14. die notwendigen Kosten, die im Rahmen von Überprüfungen von Genehmigungsobjekten durch das Kraftfahrt-Bundesamt auf die Einhaltung der Vorschriften entstehen.
 
 (2) Die Erstattung der in Absatz 1 aufgeführten Auslagen kann auch verlangt werden, wenn für die Amtshandlung, Prüfung oder Untersuchung Gebührenfreiheit besteht, bei Auslagen nach Absatz 1 Nummer 1 bis 9 jedoch nur, soweit ihr Gesamtbetrag 3 Euro übersteigt. Auslagen für die Versendung von Akten im Wege der Amtshilfe werden nicht erhoben.
+
+(3) In den Fällen des Absatzes 1 Nummer 10 und 14 kann von der Geltendmachung von Auslagen für die Konformitätsprüfung im Einzelfall abgesehen werden, wenn bei der Konformitätsprüfung kein Verstoß festgestellt wurde und die Erstattung von Auslagen für den Gebührenschuldner eine besondere Härte darstellen würde. Satz 1 gilt nicht, wenn die Konformitätsprüfung durch den Gebührenschuldner veranlasst wurde oder Rechtsvorschriften bestimmen, dass der Gebührenschuldner die Kosten der Konformitätsprüfung zu tragen hat.
 
 # § 3 – Kostengläubiger
 

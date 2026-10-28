@@ -191,6 +191,10 @@ Die bei Inkrafttreten dieser Verordnung laufenden Prüfungsverfahren werden nach
 
 (2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt sich nach der Allgemeinen Meisterprüfungsverordnung.
 
+# § 7a – Außerkrafttreten
+
+Diese Verordnung tritt mit Ablauf des 31. Oktober 2026 außer Kraft.
+
 # § 8 – Inkrafttreten
 
 (1) Diese Verordnung tritt am 1. September 1994 in Kraft.

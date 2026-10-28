@@ -93,9 +93,9 @@ Die Genehmigung kann im Einzelfall hinsichtlich des Umfanges der beabsichtigten 
 
 # § 6 – Entschädigung
 
-(1) Auf Maßnahmen, um deren Durchführung nach § 1 Absatz 1 ersucht wird oder deren Durchführung nach § 2 Absatz 1 bewilligt wird, sind die §§ 51 bis 56 des Bundespolizeigesetzes entsprechend anzuwenden.
+(1) Auf Maßnahmen, um deren Durchführung nach § 1 Absatz 1 ersucht wird oder deren Durchführung nach § 2 Absatz 1 bewilligt wird, sind die §§ 86 bis 91 des Bundespolizeigesetzes entsprechend anzuwenden.
 
-(2) Auf strafprozessuale Maßnahmen im Rahmen von § 5 sind die §§ 51 bis 56, ausgenommen § 52 Absatz 1 Satz 2 und Absatz 2, des Bundespolizeigesetzes entsprechend anzuwenden.
+(2) Auf strafprozessuale Maßnahmen im Rahmen von § 5 sind die §§ 86 bis 91, ausgenommen § 87 Absatz 1 Satz 2 und Absatz 2, des Bundespolizeigesetzes entsprechend anzuwenden.
 
 # § 7 – Datenverarbeitung
 

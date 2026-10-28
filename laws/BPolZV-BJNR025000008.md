@@ -15,79 +15,69 @@ Auf Grund des § 58 Abs. 1 des Bundespolizeigesetzes vom 19. Oktober 1994 (BGBl.
 
 1. das Bundespolizeipräsidium für zentral wahrzunehmende Aufgaben nach
 
-a) § 3 Abs. 2 Satz 5, § 28 Absatz 2 Nummer 3 und 4, § 31a Abs. 1 Satz 1 und § 69a Abs. 3 Satz 1 des Bundespolizeigesetzes,
+a) § 36 Absatz 1, § 52 Absatz 1 Satz 2, Absatz 2 Satz 1, Absatz 4 und 5 und § 104 Absatz 3 Satz 1 des Bundespolizeigesetzes,
 
-b) § 63 Abs. 2 bis 4 in Verbindung mit § 71 Abs. 3 des Aufenthaltsgesetzes sowie nach § 3 Abs. 2 und § 74a Satz 2 des Aufenthaltsgesetzes,
+b) § 63 Absatz 2 bis 4 in Verbindung mit § 71 Absatz 3 des Aufenthaltsgesetzes sowie nach § 3 Absatz 2 und § 74a Satz 3 des Aufenthaltsgesetzes,
 
-c) § 12d Abs. 3 des Atomgesetzes,
+c) § 88 Absatz 3 Satz 2 des Strahlenschutzgesetzes,
 
-d) § 1 Abs. 1 des Antiterrordateigesetzes,
+d) § 1 Absatz 1 des Antiterrordateigesetzes,
 
-e) § 12 Abs. 1 Nr. 3 des Sicherheitsüberprüfungsgesetzes,
+e) § 12 Absatz 1 Nummer 3 des Sicherheitsüberprüfungsgesetzes oder einer entsprechenden landesgesetzlichen Vorschrift,
 
-f) § 6 Abs. 1 Nr. 2 und § 32 Abs. 1 Nr. 1 des Ausländerzentralregistergesetzes sowie nach der Anlage der AZRG-Durchführungsverordnung, soweit dort jeweils auf die in dieser Rechtsverordnung bestimmte Bundespolizeibehörde verwiesen wird,
+f) § 6 Absatz 1 Nummer 2 und § 32 Absatz 1 Nummer 1 des Ausländerzentralregistergesetzes sowie nach der Anlage der AZRG-Durchführungsverordnung, soweit dort jeweils auf die in dieser Rechtsverordnung bestimmte Bundespolizeibehörde verwiesen wird,
 
-g) § 1 Absatz 1 des Rechtsextremismus-Datei-Gesetzes,
+g) § 1 Absatz 1 des Rechtsextremismus-Datei-Gesetzes;
 
-h) § 5 Absatz 5 und § 6 Absatz 1 des Waffengesetzes;
+2. das Bundespolizeipräsidium für die Ahndung von Ordnungswidrigkeiten nach
 
-1a. das Bundespolizeipräsidium für die Ahndung von Ordnungswidrigkeiten nach
+a) § 14 Absatz 2 des Bundespolizeigesetzes,
 
-a) § 13 Abs. 2 des Bundespolizeigesetzes,
+b) § 26 Nummer 2 des Passgesetzes,
 
-b) § 26 Nr. 2 des Passgesetzes,
+c) § 10 Absatz 5 des Freizügigkeitsgesetzes/EU,
 
-c) § 10 Abs. 5 des Freizügigkeitsgesetzes/EU,
+d) § 64b Absatz 3 der Eisenbahn-Bau- und Betriebsordnung,
 
-d) § 64b Abs. 3 der Eisenbahn-Bau- und Betriebsordnung,
-
-e) § 49 Abs. 3 der Eisenbahn-Bau- und Betriebsordnung für Schmalspurbahnen,
+e) § 49 Absatz 3 der Eisenbahn-Bau- und Betriebsordnung für Schmalspurbahnen,
 
 f) § 78 der Aufenthaltsverordnung,
 
 g) § 18 Absatz 1 Nummer 9 des Luftsicherheitsgesetzes;
 
-2. die Bundespolizeidirektion 11 für die Aufgaben nach § 4a und Verwendungen nach § 8 Absatz 2 und § 9 Absatz 1 Nummer 2 des Bundespolizeigesetzes;
+3. die Bundespolizeidirektion 11 für die Aufgaben nach § 5 und Verwendungen nach § 9 Absatz 2 und § 10 Absatz 1 Nummer 2 des Bundespolizeigesetzes;
 
-3. die Bundespolizeidirektion Bad Bramstedt für die Aufgaben nach § 6 des Bundespolizeigesetzes;
-
-4. die jeweils örtlich zuständige Bundespolizeidirektion für die Aufgaben nach
-
-a) § 61 Abs. 2 des Bundespolizeigesetzes,
-
-b) § 61 Abs. 3 des Bundespolizeigesetzes;
-
-c) § 1 Absatz 1 des Rechtsextremismus-Datei-Gesetzes;
+4. die Bundespolizeidirektion Bad Bramstedt für die Aufgaben nach § 7 des Bundespolizeigesetzes;
 
 5. die jeweils örtlich zuständige Bundespolizeidirektion für die Verfolgung von Ordnungswidrigkeiten nach
 
-a) § 13 Abs. 2 des Bundespolizeigesetzes,
+a) § 14 Absatz 2 des Bundespolizeigesetzes,
 
-b) § 26 Nr. 2 des Passgesetzes,
+b) § 26 Nummer 2 des Passgesetzes,
 
-c) § 10 Abs. 5 des Freizügigkeitsgesetzes/EU,
+c) § 10 Absatz 5 des Freizügigkeitsgesetzes/EU,
 
-d) § 64b Abs. 3 der Eisenbahn-Bau- und Betriebsordnung,
+d) § 64b Absatz 3 der Eisenbahn-Bau- und Betriebsordnung,
 
-e) § 49 Abs. 3 der Eisenbahn-Bau- und Betriebsordnung für Schmalspurbahnen,
+e) § 49 Absatz 3 der Eisenbahn-Bau- und Betriebsordnung für Schmalspurbahnen,
 
 f) § 78 der Aufenthaltsverordnung,
 
 g) § 18 Absatz 1 Nummer 9 des Luftsicherheitsgesetzes.
 
-Dies schließt die Zuständigkeit für die Erteilung von Verwarnungen bei geringfügigen Ordnungswidrigkeiten ein.
+In Bezug auf Satz 1 Nummer 5 schließt die sachliche Zuständigkeit jeweils auch die Zuständigkeit für die Erteilung von Verwarnungen bei geringfügigen Ordnungswidrigkeiten ein.
 
-(4) Zu Maßnahmen nach § 31 Abs. 7 des Bundespolizeigesetzes ist ausschließlich das Bundespolizeipräsidium befugt.
+(4) Zu Maßnahmen nach § 50 Absatz 7 des Bundespolizeigesetzes ist ausschließlich das Bundespolizeipräsidium befugt.
 
 (5) Es sind befugt zur Anordnung von Maßnahmen
 
-1. nach § 22a Absatz 1 Satz 2, § 28 Absatz 3 Satz 1 in Verbindung mit § 28 Absatz 2 Nummer 1 und 2, § 30 Absatz 4 und § 31 Absatz 3 Satz 1 des Bundespolizeigesetzes
+1. nach § 49 Absatz 4 und § 50 Absatz 3 Satz 1 des Bundespolizeigesetzes
 
 a) die jeweils örtlich zuständigen Bundespolizeidirektionen sowie
 
 b) das Bundespolizeipräsidium, soweit es Aufgaben nach § 1 Absatz 2 Satz 2 im Einzelfall selbst wahrnimmt,
 
-2. nach § 28 Absatz 3 Satz 1 in Verbindung mit § 28 Absatz 2 Nummer 3 und 4 des Bundespolizeigesetzes das Bundespolizeipräsidium, soweit sich die Zuständigkeit zur Anordnung dieser Maßnahmen nicht unmittelbar aus § 28 Absatz 3a Satz 1 oder 2 des Bundespolizeigesetzes ergibt.
+2. nach § 36 Absatz 1 des Bundespolizeigesetzes das Bundespolizeipräsidium.
 
 (6) Die Bundespolizeiakademie ist die zentrale Aus- und Fortbildungsstätte der Bundespolizei.
 
@@ -129,7 +119,7 @@ b) auf See innerhalb und außerhalb des deutschen Küstenmeers und darüber hina
 
 2. für die Zurückschiebung an der Grenze , Abschiebungen an der Grenze und die Rückführung von Ausländern aus und in andere Staaten nach § 71 Absatz 3 Nummer 1 bis 1b und 1d des Aufenthaltsgesetzes,
 
-3. auf Weisung des Bundesministeriums des Innern, für Bau und Heimat oder der jeweils vorgesetzten Bundespolizeibehörde, soweit diese auch für den vorgesehenen Einsatzbereich zuständig ist,
+3. auf Weisung des Bundesministeriums des Innern oder der jeweils vorgesetzten Bundespolizeibehörde, soweit diese auch für den vorgesehenen Einsatzbereich zuständig ist,
 
 4. für die polizeiliche Sicherung eigener Einrichtungen nach § 1 Abs. 3 des Bundespolizeigesetzes.
 

@@ -7,7 +7,7 @@ Dieses Gesetz dient der Stärkung der Leistungsfähigkeit und internationalen We
 
 # § 2 – Geltungsbereich
 
-Dieses Gesetz ist auf folgende Wissenschaftseinrichtungen anzuwenden:
+(1) Dieses Gesetz ist auf folgende Wissenschaftseinrichtungen anzuwenden:
 
 1. Deutsche Forschungsgemeinschaft e. V.,
 
@@ -29,7 +29,17 @@ Dieses Gesetz ist auf folgende Wissenschaftseinrichtungen anzuwenden:
 
 10. Alexander von Humboldt-Stiftung,
 
-11. Deutscher Akademischer Austauschdienst e. V.
+11. Deutscher Akademischer Austauschdienst e. V.,
+
+12. CTC gGmbH – Center for the Transformation of Chemistry,
+
+13. Deutsches Zentrum für Astrophysik gGmbH,
+
+14. Berlin Institute of Health at Charité,
+
+15. Deutsches Zentrum für Hochschul- und Wissenschaftsforschung.
+
+(2) § 4 ist auch auf Forschungseinrichtungen anzuwenden, die aufgrund der Förderung von Wissenschaft und Forschung als gemeinnützig im Sinne von § 52 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung anerkannt sind und nicht institutionell vom Bund gefördert werden.
 
 # § 3 – Globalhaushalt
 
@@ -37,11 +47,9 @@ Dieses Gesetz ist auf folgende Wissenschaftseinrichtungen anzuwenden:
 
 (2) Die Zuwendungen und Zuweisungen des Bundes werden nach Maßgabe des jährlichen Haushaltsgesetzes gewährt. Entsprechend den Bedürfnissen der Wissenschaftseinrichtungen sind die Ausgabemittel nach Maßgabe der §§ 19 und 20 der Bundeshaushaltsordnung vom 19. August 1969 (BGBl. I S. 1284), die zuletzt durch Artikel 10 des Gesetzes vom 9. Dezember 2010 (BGBl. I S. 1885) geändert worden ist, für übertragbar und gegenseitig deckungsfähig zu erklären. Dabei soll von der Möglichkeit Gebrauch gemacht werden, Ausgaben gemäß § 15 Absatz 2 der Bundeshaushaltsordnung zur Selbstbewirtschaftung zu veranschlagen. Auf die Ausweisung von Stellenplänen kann verzichtet werden.
 
-(3) Das jeweils zuständige Bundesministerium legt im Einvernehmen mit dem Bundesministerium der Finanzen geeignete Informations- und Steuerungsinstrumente fest.
-
 # § 4 – Einschränkung des Besserstellungsverbots
 
-Zuwendungen können nach Maßgabe des jährlichen Haushaltsgesetzes auch bewilligt werden, wenn die Wissenschaftseinrichtung die bei ihr beschäftigten Wissenschaftlerinnen und Wissenschaftler durch die Zahlung von Gehältern oder Gehaltsbestandteilen aus Mitteln, die weder unmittelbar noch mittelbar von der deutschen öffentlichen Hand finanziert werden, besserstellt als vergleichbare Arbeitnehmerinnen und Arbeitnehmer des Bundes. Satz 1 ist auch auf sonstige im wissenschaftsrelevanten Bereich Beschäftigte anzuwenden, wenn sie im Rahmen der Planung, Vorbereitung, Durchführung, Auswertung oder Bewertung von Forschungsvorhaben einen wesentlichen Beitrag leisten.
+Zuwendungen können nach Maßgabe des jährlichen Haushaltsgesetzes auch bewilligt werden, wenn die Wissenschaftseinrichtung die bei ihr beschäftigten Wissenschaftlerinnen und Wissenschaftler durch die Zahlung von Gehältern oder Gehaltsbestandteilen aus Mitteln, die weder unmittelbar noch mittelbar von der deutschen öffentlichen Hand finanziert werden mit Ausnahme von Fördermitteln der Europäischen Union, besserstellt als vergleichbare Arbeitnehmerinnen und Arbeitnehmer des Bundes. Satz 1 ist auch auf sonstige im wissenschaftsrelevanten Bereich Beschäftigte anzuwenden, wenn sie im Rahmen der Planung, Vorbereitung, Durchführung, Auswertung oder Bewertung von Forschungsvorhaben einen wesentlichen Beitrag leisten.
 
 # § 5 – Beteiligung an Unternehmen
 

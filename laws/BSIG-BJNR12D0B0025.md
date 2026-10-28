@@ -145,6 +145,8 @@ b) bei der Anwendung informationstechnischer Systeme, Komponenten oder Prozesse;
 
 46. „Zertifizierung“ die Feststellung einer Zertifizierungsstelle, dass ein Produkt, ein Prozess, ein System, ein Schutzprofil (Sicherheitszertifizierung), eine Person (Personenzertifizierung) oder ein IT-Sicherheitsdienstleister bestimmte Anforderungen erfüllt.
 
+(+++ § 2 Abs. 14 Satz 1 Nr. 1: Die Änderungsanweisung d. Art. 8 G v. 22.10.2026 I Nr. 318 mWv 28.10.2026 ist wegen textlicher Unstimmigkeit nicht ausführbar +++)
+
 # § 3 – Aufgaben des Bundesamtes
 
 (1) Das Bundesamt fördert die Sicherheit in der Informationstechnik. Hierzu nimmt es folgende wichtige im öffentlichen Interesse liegende Aufgaben wahr:

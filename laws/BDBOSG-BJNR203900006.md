@@ -181,7 +181,7 @@ Auf die Arbeitnehmerinnen, Arbeitnehmer und Auszubildenden der Bundesanstalt sin
 
 Die Umsetzung der Anordnung nach Satz 1 erfolgt auf Ersuchen der Präsidentin oder des Präsidenten durch die zuständige Polizei- oder Ordnungsbehörde. Ein generelles Ersuchen ist zulässig. Die Voraussetzungen für ein Tätigwerden werden in diesem Fall durch vorherige Vereinbarung festgelegt. Die sonstigen Vorschriften und Grundsätze der Amts- und Vollzugshilfe bleiben unberührt.
 
-(2) Anordnungen nach Absatz 1 müssen auf den Zeitraum beschränkt werden, in dem die Gefahr andauert. Im Übrigen gelten die §§ 15 bis 20 des Bundespolizeigesetzes entsprechend.
+(2) Anordnungen nach Absatz 1 müssen auf den Zeitraum beschränkt werden, in dem die Gefahr andauert. Im Übrigen gelten die §§ 16 bis 21 des Bundespolizeigesetzes entsprechend.
 
 (3) Erleidet jemand infolge einer rechtmäßigen Anordnung nach Absatz 1 einen Schaden an seinem Eigentum, so ist ihm ein angemessener Ausgleich zu gewähren, soweit er den Schaden nicht durch ein Tun oder Unterlassen zu verantworten hat.
 
